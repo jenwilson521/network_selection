@@ -1,0 +1,8 @@
+name	label	ACE	IFNG	IL2RA	IL4	IL6	STAT3	TNF
+DB00033	positive	0.0	1.0	0.0	0.0	0.0	0.0	0.0
+DB08895	positive	0.0	1.0	1.0	1.0	0.0	1.0	0.0
+DB00519	negative	1.0	0.0	0.0	0.0	0.0	0.0	0.0
+DB08877	negative	0.0	1.0	1.0	1.0	0.0	1.0	0.0
+DB00178	negative	1.0	0.0	0.0	0.0	0.0	0.0	0.0
+DB09036	negative	0.0	0.0	0.0	0.0	1.0	1.0	0.0
+DB01296	negative	0.0	1.0	0.0	0.0	0.0	0.0	1.0
