@@ -19,6 +19,7 @@ from optparse import OptionParser
 import pickle, os
 from validation import *
 from sklearn.exceptions import NotFittedError
+from scipy.stats import randint
 
 random.seed(0)
 
@@ -405,7 +406,7 @@ def main():
         print('Logistic regression')
         clf = LogisticRegression(random_state=0)
         params = {"penalty": ["l1", "l2"],
-                  "C": np.logspace(-5, 4, 10)
+                  "C": np.concatenate((np.logspace(-5, 4, 10), np.logspace(-5, 4, 300)))
                   }
 
     elif model_type == 'dec_tree':
@@ -414,8 +415,8 @@ def main():
         clf = DecisionTreeClassifier(random_state=0)
         params = {"criterion": ["gini", "entropy"],
                   "max_depth": [None, 3, 8, 13],
-                  "min_samples_split": [2, 10, 30],
-                  "min_samples_leaf": [1, 10, 20],
+                  "min_samples_split": [2, 10, 30],  # randint(2,30)
+                  "min_samples_leaf": [1, 10, 20],  # randint(1,20)
                   "class_weight": ["balanced", None],
                   "splitter": ["best", "random"]
                   }
@@ -424,11 +425,11 @@ def main():
         # Random Forest model
         print('Random forest')
         clf = RandomForestClassifier(random_state=0)
-        params = {"n_estimators": [10, 500, 1000],
+        params = {"n_estimators": [10] + [x for x in range(100, 800, 100)],  # randint(10,700)
                   "criterion": ["gini", "entropy"],
                   "max_depth": [None, 3, 8, 13],
-                  "min_samples_split": [2, 10, 30],
-                  "min_samples_leaf": [1, 10, 20],
+                  "min_samples_split": [2, 10, 30],   # randint(2,30)
+                  "min_samples_leaf": [1, 10, 20],  # randint(1,20)
                   "class_weight": ["balanced", None]}
     else:
         raise ValueError("Unexpected model type")
@@ -438,10 +439,10 @@ def main():
                "accuracy": make_scorer(accuracy_score)}
 
     if "cv" in validation_type:
-        n_iter = 200 if "rcv" in validation_type.lower() else None
+        n_iter = 300 if "rcv" in validation_type.lower() else None  # n_iter = 1000
         cross_validate(3, clf, params, metrics, x_tr, y_tr, x_ts, y_ts, fcol, 'roc', dme, jobs=10, n_iter=n_iter)
     elif "nest" in validation_type:
-        n_iter = 200 if "rcv" in validation_type.lower() else None
+        n_iter = 300 if "rcv" in validation_type.lower() else None  # n_iter = 1000
         nest_validation(clf, params, x_tr, y_tr, 3, 3, metrics, dme, n_iter=n_iter, jobs=10)
     else:
         run_model(clf, x_tr, y_tr, x_ts, y_ts, fcol)
