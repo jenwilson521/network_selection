@@ -7,6 +7,7 @@ import pickle, os, csv, matplotlib
 matplotlib.use("AGG")
 import matplotlib.pyplot as plt
 from collections import defaultdict
+import numpy as np
 
 #tpf = 'true_positives_dbid.pkl'
 #fpf = 'false_positives_dbid.pkl'
@@ -146,21 +147,51 @@ of2.close()
 pickle.dump(true_positives_dbid,open('true_positives_dbid.pkl','wb'))
 pickle.dump(drugs_fp_to_tox,open('false_positives_dbid.pkl','wb'))
 
+pickle.dump(true_pos_pvalues,open('true_pos_pvalues.pkl','wb'))
+pickle.dump(true_pos_rel_pvalue,open('true_pos_rel_pvalue.pkl','wb'))
+pickle.dump(false_pos_pvalues,open('false_pos_pvalues.pkl','wb'))
+pickle.dump(false_pos_rel_pvalue,open('false_pos_rel_pvalue.pkl','wb'))
+
 #### Plot distributions
 fix,ax = plt.subplots()
-ax.hist([true_pos_pvalues,false_pos_pvalues],bins=50,label=['True Positives','False Positives'], alpha=0.5)#,facecolor=['blue','red'])
-ax.set_ylabel('frequency')
-ax.set_xlabel('raw pvalues')
+ax.hist([true_pos_pvalues,false_pos_pvalues],bins=30,label=['True Positives','False Positives'], alpha=0.5)#,facecolor=['blue','red'])
+ax.set_ylabel('frequency',fontsize=12)
+ax.set_xlabel('raw pvalues',fontsize=12)
 ax.legend(loc='upper right')
+ax.spines['right'].set_visible(False)
+ax.spines['top'].set_visible(False)
 plt.savefig('raw_pvalues.png',format='png')
 
 fig,ax = plt.subplots()
 #ax.hist(true_pos_rel_pvalue,label='True Positives',facecolor='blue', alpha=0.5)
 #ax.hist(false_pos_rel_pvalue,label='False Positives',facecolor='blue', alpha=0.5)
-ax.hist([true_pos_rel_pvalue,false_pos_rel_pvalue ],bins=50,label=['True Positives','False Positives'], alpha=0.5)
-ax.set_ylabel('frequency')
-ax.set_xlabel('normalized pvalues')
+ax.hist([true_pos_rel_pvalue,false_pos_rel_pvalue ],bins=30,label=['True Positives','False Positives'], alpha=0.5)
+ax.set_ylabel('frequency',fontsize=12)
+ax.set_xlabel('normalized pvalues',fontsize=12)
 ax.legend(loc='upper right')
+ax.spines['right'].set_visible(False)
+ax.spines['top'].set_visible(False)
 plt.savefig('norm_pvalues.png',format='png') 
 
-
+# plot ROC curve
+num_tp = len(true_pos_rel_pvalue)
+num_fp = len(false_pos_rel_pvalue)
+roc_values = []
+for co in np.linspace(0,1,100):
+	pos_sel = [x for x in true_pos_rel_pvalue if x < co]
+	neg_sel = [n for n in false_pos_rel_pvalue if n > co]
+	tpr = float(len(pos_sel))/num_tp
+	fpr = 1 - float(len(neg_sel))/num_fp
+	roc_values.append((tpr,fpr))
+fig,ax = plt.subplots()
+(x,y) = zip(*roc_values)
+ax.plot(x,y,linewidth=4.0)
+ax.plot(np.linspace(0,1,100),np.linspace(0,1,100),linestyle=':',linewidth=4.0,color='k')
+ax.set_xlabel('false positive rate',fontsize=12)
+ax.set_ylabel('true positive rate',fontsize=12)
+ax.set_yticks([0,0.5,1.0])
+ax.set_xticks([0,0.5,1.0])
+ax.spines['right'].set_visible(False)
+ax.spines['top'].set_visible(False)
+plt.savefig('pvalue_ROC.png',format='png')
+pickle.dump(roc_values,open('pvalue_roc_values.pkl','wb'))
