@@ -1,4 +1,4 @@
-from sklearn.metrics import f1_score, confusion_matrix, roc_auc_score, accuracy_score
+from sklearn.metrics import f1_score, confusion_matrix, roc_auc_score, accuracy_score, roc_curve
 from sklearn.model_selection import train_test_split
 from sklearn.ensemble import RandomForestClassifier
 from sklearn.linear_model import LogisticRegression
@@ -236,6 +236,12 @@ def run_model(model, x_tr, y_tr, x_ts, y_ts, fcol):
     else:
         y_ts = None
         prediction_ts = None
+
+    # get y_scores for roc_curve
+    y_score = model.fit(x_tr, y_tr).decision_function(x_ts) 
+    [fpr, tpr, thresholds] = roc_curve(y_ts, y_score)
+    roc_data = zip(fpr,tpr)
+    pickle.dump(roc_data,open(os.path.join(save_dir,dme+'_roc_data.pkl'),'wb'))
 
     scoring(y_tr, prediction_tr, y_ts, prediction_ts)
     if "Logistic" in model_name:

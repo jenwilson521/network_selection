@@ -7,13 +7,14 @@ matplotlib.use("AGG")
 import matplotlib.pyplot as plt
 import numpy as np
 
-model_type = 'rand_for'# 'log_reg' # 'dec_tree' # 'rand_for'
+model_type = 'log_reg' # 'dec_tree' # 'rand_for'
 print('\n\nRUNNING: '+model_type+'\n\n')
 
 allf = [f for f in os.listdir('.') if 'dme_' in f and '.txt' in f]
 
 for f in allf:
 	dme = f.replace('dme_','').replace('.txt','')
+	print('\n\n\n'+dme)
 	cmd = 'python all_pathways.py %s -m %s -n %s'%(f,model_type,dme)
 	print(cmd)
 	os.system(cmd)
