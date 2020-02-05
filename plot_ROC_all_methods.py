@@ -63,6 +63,7 @@ csi_roc = dict([(f.replace('_roc_data.pkl',''),os.path.join(csi_roc_dir,f)) for 
 alf = [f for f in os.listdir(csi_roc_dir) if '_ts_roc_auc_score.pkl' in f]
 csi_auc_ts = dict([(f.replace('_ts_roc_auc_score.pkl',''),os.path.join(csi_roc_dir,f)) for f in alf]) 
 
+dme_single = 'pancreatitis'
 for (i,(dme,roc_data_f)) in enumerate(csi_roc.items()):
 	palpha = (1.0/len(csi_roc)*i)
 	print(dme)
@@ -75,17 +76,23 @@ for (i,(dme,roc_data_f)) in enumerate(csi_roc.items()):
 	skl_auroc_f = csi_auc_ts[dme]
 	skl_auroc = pickle.load(open(skl_auroc_f,'rb'))
 	print('AUROC,sklearn: '+str(skl_auroc))
-	if area2>0.7:
-		lbl = dme+" AUROC: "+"{0:.2f}".format(area2)
-		ax.plot(x,y,linewidth=2.0,linestyle='-',label=lbl,)#color='blueviolet',alpha=palpha)
+	#if area2>0.7 and area2 <1.0:
+	if area2>0.7 and area2 <1.0 and dme==dme_single:
+		lbl = dme+" \nAUROC: "+"{0:.2f}".format(area2)
+		ax.plot(x,y,linewidth=6.0,linestyle='-',label=lbl,alpha=0.6,color='green')#color='blueviolet',alpha=palpha)
 
 ax.plot(np.linspace(0,1,100),np.linspace(0,1,100),linestyle=':',linewidth=4.0,color='k')
-ax.set_xlabel('false positive rate',fontsize=12)
-ax.set_ylabel('true positive rate',fontsize=12)
+ax.set_xlabel('false positive rate',fontsize=20)
+ax.set_ylabel('true positive rate',fontsize=20)
 ax.set_yticks([0,0.5,1.0])
 ax.set_xticks([0,0.5,1.0])
-ax.legend(bbox_to_anchor=(1.1, 1.05),prop={"size":7},)#ncol=2)
+for tick in ax.xaxis.get_major_ticks():
+        tick.label.set_fontsize(20)
+for tick in ax.yaxis.get_major_ticks():
+        tick.label.set_fontsize(20)
+ax.legend(bbox_to_anchor=(1.,1.),prop={"size":16},)#ncol=2)
 ax.spines['right'].set_visible(False)
 ax.spines['top'].set_visible(False)
-plt.subplots_adjust(right = 0.6)
-plt.savefig('improve_top_methods_ROC_dist.png',format='png')
+plt.subplots_adjust(right = 0.6,bottom = 0.15, left = 0.15)
+# plt.savefig('improve_top_methods_ROC_dist.png',format='png')
+plt.savefig('improve_top_methods_ROC_dist_'+dme_single+'.png',format='png')

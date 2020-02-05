@@ -38,7 +38,6 @@ for sdist in all_dist:
 	tnr = len(true_negatives)/float(len(negatives))
 	fpr = 1-tnr
 	roc_data.append((fpr,tpr))
-print("AUROC P-value: "+str(area))
 
 
 # load results from p-value
@@ -49,18 +48,23 @@ fig,ax = plt.subplots()
 (x,y) = zip(*pv_roc_values)
 area2 = trapz(y,x)
 print("AUROC P-value: "+str(area2))
-ax.plot(x,y,linewidth=4.0,label='P-value')
+ax.plot(x,y,linewidth=6.0,label='P-value')
 (x,y) = zip(*roc_data)
-ax.plot(x,y,linewidth=4.0,label='Distance')
+ax.plot(x,y,linewidth=6.0,label='Distance')
 area2 = trapz(y,x)
 print("AUROC Distance: "+str(area2))
 
 ax.plot(np.linspace(0,1,100),np.linspace(0,1,100),linestyle=':',linewidth=4.0,color='k')
-ax.set_xlabel('false positive rate',fontsize=12)
-ax.set_ylabel('true positive rate',fontsize=12)
+ax.set_xlabel('false positive rate',fontsize=22)
+ax.set_ylabel('true positive rate',fontsize=22)
 ax.set_yticks([0,0.5,1.0])
 ax.set_xticks([0,0.5,1.0])
-ax.legend()
+for tick in ax.xaxis.get_major_ticks():
+	tick.label.set_fontsize(20) 
+for tick in ax.yaxis.get_major_ticks():
+	tick.label.set_fontsize(20) 
+ax.legend(prop={'size':22})
 ax.spines['right'].set_visible(False)
 ax.spines['top'].set_visible(False)
+plt.subplots_adjust(bottom = 0.15, left = 0.15)
 plt.savefig('pvalue_ROC_dist.png',format='png')
