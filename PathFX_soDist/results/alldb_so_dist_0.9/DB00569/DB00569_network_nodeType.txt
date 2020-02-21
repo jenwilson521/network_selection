@@ -1,0 +1,4 @@
+node_name	node_type	
+DB00569	drug	
+F10	drug_target	
+SERPINC1	drug_target	

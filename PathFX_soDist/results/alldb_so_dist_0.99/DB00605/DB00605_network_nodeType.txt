@@ -1,0 +1,11 @@
+node_name	node_type	
+DB00605	drug	
+PTGS2	drug_target	
+PTGS1	drug_target	
+AKR1B10	drug_target	
+CYP1A1	drug_target	
+ALB	drug_target	
+SLC22A6	drug_target	
+MAPK3	drug_target	
+PPARD	drug_target	
+AKR1B1	drug_target	

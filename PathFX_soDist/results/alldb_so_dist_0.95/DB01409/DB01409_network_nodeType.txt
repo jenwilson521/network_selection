@@ -1,0 +1,11 @@
+node_name	node_type	
+DB01409	drug	
+CYP2D6	drug_target	
+CHRM4	drug_target	
+CHRM3	drug_target	
+CHRM2	drug_target	
+CHRM1	drug_target	
+SLC22A4	drug_target	
+SLC22A5	drug_target	
+CYP3A4	drug_target	
+Congenital long QT syndrome	phenotype	

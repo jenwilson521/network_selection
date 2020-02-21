@@ -1,0 +1,16 @@
+node_name	node_type	
+DB02325	drug	
+RNASE1	drug_target	
+ACP5	drug_target	
+GCH1	drug_target	
+DDX39B	drug_target	
+ADI1	drug_target	
+PRDX6	drug_target	
+GM2A	drug_target	
+GDF5	drug_target	
+PLA2G2A	drug_target	
+PRSS2	drug_target	
+DCXR	drug_target	
+RNGTT	drug_target	
+AHCY	drug_target	
+TNF	drug_target	

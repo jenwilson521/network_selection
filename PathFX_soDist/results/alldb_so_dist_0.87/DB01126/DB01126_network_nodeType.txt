@@ -1,0 +1,17 @@
+node_name	node_type	
+DB01126	drug	
+CYP3A4	drug_target	
+CYP3A5	drug_target	
+ALB	drug_target	
+ORM1	drug_target	
+ {HIV-1 viremia, susceptibility to}, 609423 (3)	phenotype	
+Primary malignant neoplasm of liver	phenotype	
+Squamous Cell Neoplasms	phenotype	
+Cocaine delirium	phenotype	
+Nephrosis	phenotype	
+Pain insensitivity	phenotype	
+Neoplasms, Germ Cell and Embryonal	phenotype	
+Tardive Dyskinesia	phenotype	
+Orofacial dyskinesia	phenotype	
+Hypercholesterolemia, autosomal dominant, type B	phenotype	
+Drug Allergy	phenotype	

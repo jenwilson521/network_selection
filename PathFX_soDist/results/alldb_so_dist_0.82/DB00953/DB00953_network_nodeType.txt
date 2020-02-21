@@ -1,0 +1,44 @@
+node_name	node_type	
+DB00953	drug	
+HTR1D	drug_target	
+MAOA	drug_target	
+HTR1B	drug_target	
+Bulimia	phenotype	
+Substance Use Disorders	phenotype	
+Antisocial Personality Disorder	phenotype	
+Personality disorder	phenotype	
+Bulimia nervosa 1	phenotype	
+Antisocial/borderline personality disorder	phenotype	
+Substance abuse problem	phenotype	
+Heart valve disease	phenotype	
+Conduct Disorder	phenotype	
+Hyperostosis	phenotype	
+Bone Diseases, Developmental	phenotype	
+As If Personality	phenotype	
+Heroin Dependence	phenotype	
+Drug Dependence	phenotype	
+Osteochondritis dissecans	phenotype	
+Ichthyosis bullosa of Siemens	phenotype	
+Substance addiction and disorders	phenotype	
+Panic disorder 1	phenotype	
+Schizoaffective Disorder	phenotype	
+Amphetamine-Related Disorders	phenotype	
+Obsessive-compulsive disorder	phenotype	
+body mass	phenotype	
+Alcohol abuse	phenotype	
+Dyskinesia, seizures, and intellectual developmental disorder	phenotype	
+Methamphetamine abuse	phenotype	
+Anorexia nervosa 1	phenotype	
+Panic disorder syndrome 1 (2)	phenotype	
+Cocaine-Related Disorders	phenotype	
+Hypotension	phenotype	
+Anorexia	phenotype	
+Weight Gain Adverse Event	phenotype	
+Irritable bowel syndrome with diarrhea	phenotype	
+Obstructive sleep apnea	phenotype	
+Bone Diseases	phenotype	
+Borderline Personality Disorder	phenotype	
+Epilepsy, Temporal Lobe	phenotype	
+Headache	phenotype	
+Anxiety	phenotype	
+Primary pulmonary hypertension	phenotype	

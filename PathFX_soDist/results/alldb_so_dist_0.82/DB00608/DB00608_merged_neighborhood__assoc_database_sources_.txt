@@ -1,0 +1,67 @@
+Gene	CUI	Source Databases	
+ABCB1	C0013182	Drug Allergy	DisGeNet	
+CYP2C8	C0013182	Drug Allergy	DisGeNet	
+CYP2D6	C0013182	Drug Allergy	DisGeNet	
+CYP3A4	C0013182	Drug Allergy	DisGeNet	
+CYP3A5	C0013182	Drug Allergy	DisGeNet	
+LTA	C0013182	Drug Allergy	DisGeNet	
+TNF	C0013182	Drug Allergy	DisGeNet	
+ABCB1	C0024620	Primary malignant neoplasm of liver	DisGeNet	
+CYP2D6	C0024620	Primary malignant neoplasm of liver	DisGeNet	
+CYP3A4	C0024620	Primary malignant neoplasm of liver	DisGeNet	
+CYP3A5	C0024620	Primary malignant neoplasm of liver	DisGeNet	
+ABCB1	C0344307	Pain insensitivity	DisGeNet	
+CYP2D6	C0344307	Pain insensitivity	DisGeNet	
+CYP3A4	C0344307	Pain insensitivity	DisGeNet	
+CYP3A5	C0344307	Pain insensitivity	DisGeNet	
+TNF	C0344307	Pain insensitivity	DisGeNet	
+ABCB1	C0030201	Acute postoperative pain	DisGeNet	
+CYP2D6	C0030201	Acute postoperative pain	DisGeNet	
+CYP3A4	C0030201	Acute postoperative pain	DisGeNet	
+TNF	C0030201	Acute postoperative pain	DisGeNet	
+ABCB1	C0032787	Postoperative Complications	DisGeNet	
+CYP2D6	C0032787	Postoperative Complications	DisGeNet	
+CYP3A5	C0032787	Postoperative Complications	DisGeNet	
+LTA	C0032787	Postoperative Complications	DisGeNet	
+TNF	C0032787	Postoperative Complications	DisGeNet	
+ABCB1	C0024535	Malaria, Falciparum	DisGeNet	
+CYP2C8	C0024535	Malaria, Falciparum	DisGeNet	
+LTA	C0024535	Malaria, Falciparum	DisGeNet	
+LTB	C0024535	Malaria, Falciparum	DisGeNet	
+TLR9	C0024535	Malaria, Falciparum	DisGeNet	
+TNF	C0024535	Malaria, Falciparum	DisGeNet	
+ABCB1	C0015814	Femur Head Necrosis	DisGeNet	
+CYP3A4	C0015814	Femur Head Necrosis	DisGeNet	
+TNF	C0015814	Femur Head Necrosis	DisGeNet	
+CYP1A1	C0206720	Squamous Cell Neoplasms	DisGeNet	
+CYP3A4	C0206720	Squamous Cell Neoplasms	DisGeNet	
+CYP3A5	C0206720	Squamous Cell Neoplasms	DisGeNet	
+CYP1A1	C0029172	Oral Submucous Fibrosis	DisGeNet	
+CYP3A5	C0029172	Oral Submucous Fibrosis	DisGeNet	
+LTA	C0029172	Oral Submucous Fibrosis	DisGeNet	
+TNF	C0029172	Oral Submucous Fibrosis	DisGeNet	
+ABCB1	C1279296	Chronic leukemia	DisGeNet	
+CYP3A5	C1279296	Chronic leukemia	DisGeNet	
+TNF	C1279296	Chronic leukemia	DisGeNet	
+CYP1A1	C0023055	Neoplasm of the larynx	DisGeNet	
+CYP2C8	C0023055	Neoplasm of the larynx	DisGeNet	
+CYP2D6	C0023055	Neoplasm of the larynx	DisGeNet	
+CYP3A4	C0023055	Neoplasm of the larynx	DisGeNet	
+TNF	C0023055	Neoplasm of the larynx	DisGeNet	
+CYP1A1	C0031347	Pharyngeal Neoplasms	DisGeNet	
+CYP2C8	C0031347	Pharyngeal Neoplasms	DisGeNet	
+CYP3A4	C0031347	Pharyngeal Neoplasms	DisGeNet	
+TNF	C0031347	Pharyngeal Neoplasms	DisGeNet	
+CYP2D6	C0686347	Tardive Dyskinesia	DisGeNet	
+CYP3A4	C0686347	Tardive Dyskinesia	DisGeNet	
+CYP3A5	C0686347	Tardive Dyskinesia	DisGeNet	
+TNF	C0686347	Tardive Dyskinesia	DisGeNet	
+LTA	C0004030	Systemic aspergillosis	DisGeNet	
+TLR9	C0004030	Systemic aspergillosis	DisGeNet	
+TNF	C0004030	Systemic aspergillosis	DisGeNet	
+CYP3A4	C0011206	Cocaine delirium	DisGeNet	
+CYP3A5	C0011206	Cocaine delirium	DisGeNet	
+TNF	C0011206	Cocaine delirium	DisGeNet	
+CYP2D6	C0221765	Chronic schizophrenia	DisGeNet	
+CYP3A4	C0221765	Chronic schizophrenia	DisGeNet	
+TNF	C0221765	Chronic schizophrenia	DisGeNet	

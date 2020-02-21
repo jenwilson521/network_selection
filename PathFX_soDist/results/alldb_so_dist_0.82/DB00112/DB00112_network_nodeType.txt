@@ -1,0 +1,138 @@
+node_name	node_type	
+DB00112	drug	
+C1QC	drug_target	
+FCGR2B	drug_target	
+FCGR3A	drug_target	
+FCGR2C	drug_target	
+C1QA	drug_target	
+FCGR2A	drug_target	
+VEGFA	drug_target	
+FCGR1A	drug_target	
+C1R	drug_target	
+FCGR3B	drug_target	
+C1QB	drug_target	
+{Pemphigoid, susceptibility to} (2)	phenotype	
+Giant cell arteritis	phenotype	
+Anti-Glomerular Basement Membrane Disease	phenotype	
+Pneumonitis	phenotype	
+Meningococcal Infections	phenotype	
+Severe Dengue	phenotype	
+Mucocutaneous Lymph Node Syndrome	phenotype	
+Lupus Nephritis	phenotype	
+Periodontal Attachment Loss	phenotype	
+Nephrotic syndrome, type 5, with or without ocular abnormalities	phenotype	
+Idiopathic thrombocytopenic purpura	phenotype	
+Periodontal Pocket	phenotype	
+Anterior myocardial infarction	phenotype	
+Common variable immunodeficiency 2	phenotype	
+Gingival Diseases	phenotype	
+Alveolar Bone Loss	phenotype	
+Herpesviridae Infections	phenotype	
+Alveolar proteinosis	phenotype	
+Idiopathic crescentic glomerulonephritis	phenotype	
+Diffuse Scleroderma	phenotype	
+Periodontitis	phenotype	
+Sickle Cell Trait	phenotype	
+Pneumococcal Infections	phenotype	
+Guillain-Barre syndrome, familial	phenotype	
+Nephritis	phenotype	
+Lymphoma, Follicular	phenotype	
+Chronic Periodontitis	phenotype	
+Infection by Cryptococcus neoformans	phenotype	
+Arthritis, Psoriatic	phenotype	
+{Spondyloarthropathy, susceptibility to, 1}, 106300 (3)	phenotype	
+Acute Lung Injury	phenotype	
+Granulomatosis with Polyangiitis	phenotype	
+Ovarian Diseases	phenotype	
+Lichen Planus, Oral	phenotype	
+Candidiasis, familial, 9	phenotype	
+Recurrent bacterial infection	phenotype	
+Neutropenia	phenotype	
+Parasitemia	phenotype	
+Periodontitis, Juvenile	phenotype	
+Polyneuropathy, hearing loss, ataxia, retinitis pigmentosa, and cataract	phenotype	
+Cerebral autosomal recessive arteriopathy with subcortical infarcts and leukoencephalopathy	phenotype	
+Urinary tract infection	phenotype	
+Merkel cell carcinoma	phenotype	
+Biliary Atresia	phenotype	
+Interstitial fibrosis	phenotype	
+Inflammatory disorder	phenotype	
+Rheumatic disease of heart valve	phenotype	
+Helicobacter Infections	phenotype	
+Lupus Vulgaris	phenotype	
+Graft-versus-host disease, susceptibility to	phenotype	
+Meningitis	phenotype	
+Discoid lupus erythematosus	phenotype	
+Acute Coronary Syndrome	phenotype	
+Lymphopenia	phenotype	
+Hepatitis, Autoimmune	phenotype	
+IgA nephropathy, susceptibility to, 3	phenotype	
+B-cell lymphoma	phenotype	
+Pleural effusion	phenotype	
+Rhinitis, Allergic, Seasonal	phenotype	
+Leg Ulcer	phenotype	
+Isovaleryl-CoA dehydrogenase deficiency	phenotype	
+High altitude pulmonary edema	phenotype	
+Kashin-Beck Disease	phenotype	
+Fibromyxosarcoma	phenotype	
+Graves Disease	phenotype	
+Papillary adenocarcinoma	phenotype	
+Placental Insufficiency	phenotype	
+Hereditary hemorrhagic telangiectasia type 2	phenotype	
+recurrent childhood acute lymphoblastic leukemia	phenotype	
+Malaria, Falciparum	phenotype	
+Esophageal varix	phenotype	
+Tuberculosis, Meningeal	phenotype	
+Steroid-sensitive nephrotic syndrome	phenotype	
+Invasive Skin Melanoma	phenotype	
+Essential thrombocythemia	phenotype	
+{Aneurysm, familial abdominal 3} (2)	phenotype	
+Urothelial Carcinoma	phenotype	
+Otitis Media with Effusion	phenotype	
+Thrombosis of retinal vein	phenotype	
+Squamous cell carcinoma of the hypopharynx	phenotype	
+Abnormal breathing	phenotype	
+Astrocytoma, low grade	phenotype	
+Congenital vascular anomaly	phenotype	
+{Systemic lupus erythematosus, susceptibility to, 8} (2)	phenotype	
+Hemolytic anemia, nonspherocytic, due to glucose phosphate isomerase deficiency	phenotype	
+Femur Head Necrosis	phenotype	
+Squamous Cell Neoplasms	phenotype	
+Proliferative retinopathy	phenotype	
+Coronary heart disease 7	phenotype	
+Kidney Diseases	phenotype	
+Thrombosis	phenotype	
+Malignant neoplasm of brain and nervous system	phenotype	
+Respiratory tract infection	phenotype	
+Bacterial endocarditis	phenotype	
+T-Cell Prolymphocytic Leukemia	phenotype	
+Myxoma	phenotype	
+AIDS-Associated Nephropathy	phenotype	
+Aortic valve calcification	phenotype	
+Peritoneal Fibrosis	phenotype	
+Chromophobe Renal Cell Carcinoma	phenotype	
+Myeloproliferative disorder, chronic, with eosinophilia	phenotype	
+Behcet Syndrome	phenotype	
+Progressive Neoplastic Disease	phenotype	
+Progressive cGVHD	phenotype	
+Gallbladder Diseases	phenotype	
+Granuloma	phenotype	
+Intermittent claudication	phenotype	
+Monocytosis	phenotype	
+Neoplasm of the thymus	phenotype	
+Acquired Immunodeficiency Syndrome	phenotype	
+Albuminuria	phenotype	
+Angiokeratoma	phenotype	
+Puerperal Disorders	phenotype	
+Truncus arteriosus	phenotype	
+Vascular malformation, primary intraosseous	phenotype	
+Niemann-Pick disease, type C	phenotype	
+Arteriovenous hemangioma	phenotype	
+Recurrent sinusitis	phenotype	
+Stenosis	phenotype	
+TNF receptor-associated periodic fever syndrome (TRAPS)	phenotype	
+Recessive dystrophic epidermolysis bullosa	phenotype	
+Stage IV Ovarian Carcinoma	phenotype	
+Generalized osteoarthritis	phenotype	
+Prostatitis	phenotype	
+Tumor necrosis	phenotype	

@@ -1,0 +1,25 @@
+node_name	node_type	
+DB01162	drug	
+ADRA1A	drug_target	
+TGFB1	drug_target	
+ADRA1B	drug_target	
+ADRA1D	drug_target	
+KCNH2	drug_target	
+ABCB1	drug_target	
+Gastroparesis	phenotype	
+Acute postoperative pain	phenotype	
+Essential hypertension	phenotype	
+Malignant neoplasm of adrenal cortex	phenotype	
+Bladder neck obstruction	phenotype	
+Acute Erythroblastic Leukemia	phenotype	
+Congenital long QT syndrome	phenotype	
+Interstitial fibrosis	phenotype	
+Pervasive developmental disorders	phenotype	
+Rhinitis, Allergic, Perennial	phenotype	
+Acute megakaryocytic leukemia	phenotype	
+Nephrosclerosis	phenotype	
+Prostate cancer stage C	phenotype	
+Neurotoxicity Syndromes	phenotype	
+Low back pain	phenotype	
+Nephrotic Syndrome, Minimal Change	phenotype	
+cardiac event	phenotype	

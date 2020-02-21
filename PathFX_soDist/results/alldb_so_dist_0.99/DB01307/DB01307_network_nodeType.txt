@@ -1,0 +1,5 @@
+node_name	node_type	
+DB01307	drug	
+INSR	drug_target	
+ALB	drug_target	
+IGF1R	drug_target	

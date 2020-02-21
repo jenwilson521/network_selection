@@ -1,0 +1,10 @@
+Gene	CUI	Source Databases	
+AOX1	C0011053	Deafness, autosomal recessive 44	DisGeNet	
+AOX1	C0018772	Hearing Loss, Partial	DisGeNet	
+AOX1	C0021390	Inflammatory Bowel Diseases	DisGeNet	
+AOX1	C0025517	Disorders of Intracellular Cobalamin Metabolism	DisGeNet	
+AOX1	C0029456	Osteoporosis	DisGeNet	
+AOX1	C0033578	Prostatic Neoplasms	DisGeNet	
+AOX1	C0040336	Tobacco Use Disorder	DisGeNet	
+AOX1	C0040822	Tremor, hereditary essential, 5	DisGeNet	
+AOX1	C1384666	Hearing impairment	DisGeNet	

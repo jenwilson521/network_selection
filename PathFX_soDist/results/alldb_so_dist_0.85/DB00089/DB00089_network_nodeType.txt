@@ -1,0 +1,68 @@
+node_name	node_type	
+DB00089	drug	
+FOLH1	drug_target	
+ Adenocarcinoma, ovarian, somatic, 167000 (3)	phenotype	
+Anxiety Disorders	phenotype	
+Astrocytoma	phenotype	
+Breast-ovarian cancer, familial 1	phenotype	
+Adenocarcinoma of prostate	phenotype	
+Non-small cell lung carcinoma	phenotype	
+Renal cell carcinoma, nonpapillary	phenotype	
+Cardiovascular Diseases	phenotype	
+Brain Ischemia	phenotype	
+Chromosome Aberrations	phenotype	
+Cleft Lip	phenotype	
+Cleft Palate	phenotype	
+Colorectal cancer 1	phenotype	
+Colorectal Neoplasms	phenotype	
+{Unipolar depression, susceptibility to}, 608516 (3)	phenotype	
+Depressive Disorder	phenotype	
+DNA Damage	phenotype	
+Folic Acid Deficiency	phenotype	
+Glioblastoma	phenotype	
+Herpes NOS	phenotype	
+Hypertension	phenotype	
+Kidney Failure, Chronic	phenotype	
+Acute lymphoid leukemia	phenotype	
+Chronic obstructive pulmonary disease	phenotype	
+{Gastric cancer risk after H. pylori infection}, 137215 (3)	phenotype	
+Measles	phenotype	
+Multiple Myeloma	phenotype	
+Myocardial Infarction	phenotype	
+Secondary hypertriglyceridemia	phenotype	
+Neural tube defect	phenotype	
+Phenylketonuria	phenotype	
+Prostatic Neoplasms	phenotype	
+Retinoblastoma	phenotype	
+Schizophrenia	phenotype	
+Staphylococcal Infections	phenotype	
+Stroke	phenotype	
+Tetanus	phenotype	
+Tobacco Use Disorder	phenotype	
+Virus Diseases	phenotype	
+Spina bifida	phenotype	
+Depressive Symptoms	phenotype	
+Small cell lung cancer	phenotype	
+Aortic Aneurysm, Abdominal	phenotype	
+Tumor Progression	phenotype	
+Hereditary pancreatitis	phenotype	
+Malignant neoplasm of lung	phenotype	
+Prostate cancer recurrent	phenotype	
+Solid tumour	phenotype	
+Malignant tumor of prostate	phenotype	
+Carcinogenesis	phenotype	
+Hereditary hyperhomocysteinemia	phenotype	
+Prostate carcinoma	phenotype	
+Breast carcinoma	phenotype	
+Lung cancer	phenotype	
+Malignant neoplasm of kidney	phenotype	
+Metastatic Prostate Carcinoma	phenotype	
+Hormone refractory prostate cancer	phenotype	
+Pleomorphic adenoma of salivary gland	phenotype	
+Tumor-Associated Vasculature	phenotype	
+Colorectal cancer	phenotype	
+Benign Prostatic Hyperplasia	phenotype	
+Coronary Artery Disease	phenotype	
+Precursor Cell Lymphoblastic Leukemia-Lymphoma	phenotype	
+Secondary malignant neoplasm of pancreas	phenotype	
+Homocysteinemia due to MTHFR deficiency	phenotype	

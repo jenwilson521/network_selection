@@ -1,0 +1,1406 @@
+node1	node2	edge_score	
+DB06372	IL1A	1.0	
+DB06372	IL1B	1.0	
+DB06372	IL1RN	1.0	
+IL1B	rs4849127	0.99
+IL1B	rs16944	0.99
+IL1B		1.0
+IL1B	rs1143623	0.99
+IL1B	rs4848306	0.99
+IL1A		1.0
+IL1B	rs12621220	0.99
+IL1RN		1.0
+IL1B	rs1143627	0.99
+IL1B	rs1143634	0.99
+Rheumatoid Nodule	IL1A	1.0	
+Rheumatoid Nodule	IL1B	1.0	
+Rheumatoid Nodule	IL1RN	1.0	
+Hemorrhagic Fever with Renal Syndrome	IL1A	1.0	
+Hemorrhagic Fever with Renal Syndrome	IL1B	1.0	
+Hemorrhagic Fever with Renal Syndrome	IL1RN	1.0	
+Periodontal Attachment Loss	IL1A	1.0	
+Periodontal Attachment Loss	IL1B	1.0	
+Periodontal Attachment Loss	IL1RN	1.0	
+Cryopyrin-Associated Periodic Syndromes	IL1A	1.0	
+Cryopyrin-Associated Periodic Syndromes	IL1B	1.0	
+Cryopyrin-Associated Periodic Syndromes	IL1RN	1.0	
+Oral aphthae	IL1A	1.0	
+Oral aphthae	IL1B	1.0	
+Oral aphthae	IL1RN	1.0	
+Lichen Sclerosus et Atrophicus	IL1A	1.0	
+Lichen Sclerosus et Atrophicus	IL1B	1.0	
+Lichen Sclerosus et Atrophicus	IL1RN	1.0	
+Metabolic Bone Disorder	IL1A	1.0	
+Metabolic Bone Disorder	IL1B	1.0	
+Metabolic Bone Disorder	IL1RN	1.0	
+Puerperal Disorders	IL1A	1.0	
+Puerperal Disorders	IL1B	1.0	
+Puerperal Disorders	IL1RN	1.0	
+Respiratory Hypersensitivity	IL1A	1.0	
+Respiratory Hypersensitivity	IL1B	1.0	
+Respiratory Hypersensitivity	IL1RN	1.0	
+{?Amyloidosis, secondary, susceptibility to} (1)	IL1A	1.0	
+{?Amyloidosis, secondary, susceptibility to} (1)	IL1B	1.0	
+{?Amyloidosis, secondary, susceptibility to} (1)	IL1RN	1.0	
+Periodontal Pocket	IL1A	1.0	
+Periodontal Pocket	IL1B	1.0	
+Periodontal Pocket	IL1RN	1.0	
+Systemic aspergillosis	IL1A	1.0	
+Systemic aspergillosis	IL1B	1.0	
+Systemic aspergillosis	IL1RN	1.0	
+Equine Infectious Anemia	IL1A	1.0	
+Equine Infectious Anemia	IL1B	1.0	
+Equine Infectious Anemia	IL1RN	1.0	
+Multiple Organ Failure	IL1A	1.0	
+Multiple Organ Failure	IL1B	1.0	
+Multiple Organ Failure	IL1RN	1.0	
+Osteoarthritis of distal interphalangeal joint	IL1A	1.0	
+Osteoarthritis of distal interphalangeal joint	IL1B	1.0	
+Osteoarthritis of distal interphalangeal joint	IL1RN	1.0	
+Polymyalgia Rheumatica	IL1A	1.0	
+Polymyalgia Rheumatica	IL1B	1.0	
+Polymyalgia Rheumatica	IL1RN	1.0	
+Alveolar Bone Loss	IL1A	1.0	
+Alveolar Bone Loss	IL1B	1.0	
+Alveolar Bone Loss	IL1RN	1.0	
+Acute postoperative pain	IL1A	1.0	
+Acute postoperative pain	IL1B	1.0	
+Acute postoperative pain	IL1RN	1.0	
+Osteoarthritis of the hand	IL1A	1.0	
+Osteoarthritis of the hand	IL1B	1.0	
+Osteoarthritis of the hand	IL1RN	1.0	
+Simple pneumoconiosis	IL1A	1.0	
+Simple pneumoconiosis	IL1B	1.0	
+Simple pneumoconiosis	IL1RN	1.0	
+Aggressive periodontitis, generalized	IL1A	1.0	
+Aggressive periodontitis, generalized	IL1B	1.0	
+Aggressive periodontitis, generalized	IL1RN	1.0	
+Acne Vulgaris	IL1A	1.0	
+Acne Vulgaris	IL1B	1.0	
+Acne Vulgaris	IL1RN	1.0	
+Low back pain	IL1A	1.0	
+Low back pain	IL1B	1.0	
+Low back pain	IL1RN	1.0	
+Displacement of intervertebral disc	IL1A	1.0	
+Displacement of intervertebral disc	IL1B	1.0	
+Displacement of intervertebral disc	IL1RN	1.0	
+Ectopic Pregnancy	IL1A	1.0	
+Ectopic Pregnancy	IL1B	1.0	
+Ectopic Pregnancy	IL1RN	1.0	
+AIDS Dementia Complex	IL1A	1.0	
+AIDS Dementia Complex	IL1B	1.0	
+AIDS Dementia Complex	IL1RN	1.0	
+Stomach Diseases	IL1A	1.0	
+Stomach Diseases	IL1B	1.0	
+Stomach Diseases	IL1RN	1.0	
+Thromboangiitis Obliterans	IL1A	1.0	
+Thromboangiitis Obliterans	IL1B	1.0	
+Thromboangiitis Obliterans	IL1RN	1.0	
+Stomatitis	IL1A	1.0	
+Stomatitis	IL1B	1.0	
+Stomatitis	IL1RN	1.0	
+Streptococcal Infections	IL1A	1.0	
+Streptococcal Infections	IL1B	1.0	
+Streptococcal Infections	IL1RN	1.0	
+Bacterial Vaginosis	IL1A	1.0	
+Bacterial Vaginosis	IL1B	1.0	
+Bacterial Vaginosis	IL1RN	1.0	
+Coronary Restenosis	IL1A	1.0	
+Coronary Restenosis	IL1B	1.0	
+Coronary Restenosis	IL1RN	1.0	
+Pneumococcal Infections	IL1A	1.0	
+Pneumococcal Infections	IL1B	1.0	
+Pneumococcal Infections	IL1RN	1.0	
+Leptospirosis	IL1A	1.0	
+Leptospirosis	IL1B	1.0	
+Leptospirosis	IL1RN	1.0	
+Pemphigus	IL1A	1.0	
+Pemphigus	IL1B	1.0	
+Pemphigus	IL1RN	1.0	
+Silicosis	IL1A	1.0	
+Silicosis	IL1B	1.0	
+Silicosis	IL1RN	1.0	
+Chagas Cardiomyopathy	IL1A	1.0	
+Chagas Cardiomyopathy	IL1B	1.0	
+Chagas Cardiomyopathy	IL1RN	1.0	
+Lymphoproliferative syndrome, X-linked, 1, 308240 (3)	IL1A	1.0	
+Lymphoproliferative syndrome, X-linked, 1, 308240 (3)	IL1B	1.0	
+Lymphoproliferative syndrome, X-linked, 1, 308240 (3)	IL1RN	1.0	
+Obstructive lung disease	IL1A	1.0	
+Obstructive lung disease	IL1B	1.0	
+Obstructive lung disease	IL1RN	1.0	
+Chronic neutrophilia	IL1A	1.0	
+Chronic neutrophilia	IL1B	1.0	
+Chronic neutrophilia	IL1RN	1.0	
+Anti-Neutrophil Cytoplasmic Antibody-Associated Vasculitis	IL1A	1.0	
+Anti-Neutrophil Cytoplasmic Antibody-Associated Vasculitis	IL1B	1.0	
+Anti-Neutrophil Cytoplasmic Antibody-Associated Vasculitis	IL1RN	1.0	
+Meningococcal Infections	IL1A	1.0	
+Meningococcal Infections	IL1B	1.0	
+Meningococcal Infections	IL1RN	1.0	
+Osteoarthritis of hip	IL1A	1.0	
+Osteoarthritis of hip	IL1B	1.0	
+Osteoarthritis of hip	IL1RN	1.0	
+Idiopathic Inflammatory Myopathies	IL1A	1.0	
+Idiopathic Inflammatory Myopathies	IL1B	1.0	
+Idiopathic Inflammatory Myopathies	IL1RN	1.0	
+Trachoma	IL1A	1.0	
+Trachoma	IL1B	1.0	
+Trachoma	IL1RN	1.0	
+Histiocytosis, Langerhans-Cell	IL1A	1.0	
+Histiocytosis, Langerhans-Cell	IL1B	1.0	
+Histiocytosis, Langerhans-Cell	IL1RN	1.0	
+Occupational Diseases	IL1A	1.0	
+Occupational Diseases	IL1B	1.0	
+Occupational Diseases	IL1RN	1.0	
+Shock, Septic	IL1A	1.0	
+Shock, Septic	IL1B	1.0	
+Shock, Septic	IL1RN	1.0	
+Arsenic Poisoning	IL1A	1.0	
+Arsenic Poisoning	IL1B	1.0	
+Arsenic Poisoning	IL1RN	1.0	
+Gingivitis	IL1A	1.0	
+Gingivitis	IL1B	1.0	
+Gingivitis	IL1RN	1.0	
+{Atopy, susceptibility to}, 147050 (3)	IL1A	1.0	
+{Atopy, susceptibility to}, 147050 (3)	IL1B	1.0	
+{Atopy, susceptibility to}, 147050 (3)	IL1RN	1.0	
+Pathologic Neovascularization	IL1A	1.0	
+Pathologic Neovascularization	IL1B	1.0	
+Pathologic Neovascularization	IL1RN	1.0	
+Pemphigus Vulgaris	IL1A	1.0	
+Pemphigus Vulgaris	IL1B	1.0	
+Pemphigus Vulgaris	IL1RN	1.0	
+Osteomyelitis, sterile multifocal, with periostitis and pustulosis	IL1A	1.0	
+Osteomyelitis, sterile multifocal, with periostitis and pustulosis	IL1B	1.0	
+Osteomyelitis, sterile multifocal, with periostitis and pustulosis	IL1RN	1.0	
+Postoperative Complications	IL1A	1.0	
+Postoperative Complications	IL1B	1.0	
+Postoperative Complications	IL1RN	1.0	
+Complications of Diabetes Mellitus	IL1A	1.0	
+Complications of Diabetes Mellitus	IL1B	1.0	
+Complications of Diabetes Mellitus	IL1RN	1.0	
+Osteolysis	IL1A	1.0	
+Osteolysis	IL1B	1.0	
+Osteolysis	IL1RN	1.0	
+Chronic gastritis	IL1A	1.0	
+Chronic gastritis	IL1B	1.0	
+Chronic gastritis	IL1RN	1.0	
+Spondylarthropathies	IL1A	1.0	
+Spondylarthropathies	IL1B	1.0	
+Spondylarthropathies	IL1RN	1.0	
+Alopecia Areata	IL1A	1.0	
+Alopecia Areata	IL1B	1.0	
+Alopecia Areata	IL1RN	1.0	
+Duodenal Ulcer	IL1A	1.0	
+Duodenal Ulcer	IL1B	1.0	
+Duodenal Ulcer	IL1RN	1.0	
+Coronary artery stenosis	IL1A	1.0	
+Coronary artery stenosis	IL1B	1.0	
+Coronary artery stenosis	IL1RN	1.0	
+Gastrointestinal Diseases	IL1A	1.0	
+Gastrointestinal Diseases	IL1B	1.0	
+Gastrointestinal Diseases	IL1RN	1.0	
+Lichen Planus, Oral	IL1A	1.0	
+Lichen Planus, Oral	IL1B	1.0	
+Lichen Planus, Oral	IL1RN	1.0	
+Intervertebral disc degeneration	IL1A	1.0	
+Intervertebral disc degeneration	IL1B	1.0	
+Intervertebral disc degeneration	IL1RN	1.0	
+Familial Mediterranean fever	IL1A	1.0	
+Familial Mediterranean fever	IL1B	1.0	
+Familial Mediterranean fever	IL1RN	1.0	
+Febrile seizures, familial, 4	IL1A	1.0	
+Febrile seizures, familial, 4	IL1B	1.0	
+Febrile seizures, familial, 4	IL1RN	1.0	
+Periodontitis, Juvenile	IL1A	1.0	
+Periodontitis, Juvenile	IL1B	1.0	
+Periodontitis, Juvenile	IL1RN	1.0	
+Thyroid associated opthalmopathies	IL1A	1.0	
+Thyroid associated opthalmopathies	IL1B	1.0	
+Thyroid associated opthalmopathies	IL1RN	1.0	
+Chronic graft-versus-host disease	IL1A	1.0	
+Chronic graft-versus-host disease	IL1B	1.0	
+Chronic graft-versus-host disease	IL1RN	1.0	
+Arteriovenous malformation	IL1A	1.0	
+Arteriovenous malformation	IL1B	1.0	
+Arteriovenous malformation	IL1RN	1.0	
+Chronic ulcerative colitis	IL1A	1.0	
+Chronic ulcerative colitis	IL1B	1.0	
+Chronic ulcerative colitis	IL1RN	1.0	
+Malaria, Cerebral	IL1A	1.0	
+Malaria, Cerebral	IL1B	1.0	
+Malaria, Cerebral	IL1RN	1.0	
+Postmenopausal osteoporosis	IL1A	1.0	
+Postmenopausal osteoporosis	IL1B	1.0	
+Postmenopausal osteoporosis	IL1RN	1.0	
+Endotoxemia	IL1A	1.0	
+Endotoxemia	IL1B	1.0	
+Endotoxemia	IL1RN	1.0	
+SUDDEN INFANT DEATH SYNDROME	IL1A	1.0	
+SUDDEN INFANT DEATH SYNDROME	IL1B	1.0	
+SUDDEN INFANT DEATH SYNDROME	IL1RN	1.0	
+Acute pancreatitis	IL1A	1.0	
+Acute pancreatitis	IL1B	1.0	
+Acute pancreatitis	IL1RN	1.0	
+Alcoholic Liver Diseases	IL1A	1.0	
+Alcoholic Liver Diseases	IL1B	1.0	
+Alcoholic Liver Diseases	IL1RN	1.0	
+Rheumatic disease of heart valve	IL1A	1.0	
+Rheumatic disease of heart valve	IL1B	1.0	
+Rheumatic disease of heart valve	IL1RN	1.0	
+Primary sclerosing cholangitis	IL1A	1.0	
+Primary sclerosing cholangitis	IL1B	1.0	
+Primary sclerosing cholangitis	IL1RN	1.0	
+Helicobacter Infections	IL1A	1.0	
+Helicobacter Infections	IL1B	1.0	
+Helicobacter Infections	IL1RN	1.0	
+Synovitis	IL1A	1.0	
+Synovitis	IL1B	1.0	
+Synovitis	IL1RN	1.0	
+Dermatitis, Allergic Contact	IL1A	1.0	
+Dermatitis, Allergic Contact	IL1B	1.0	
+Dermatitis, Allergic Contact	IL1RN	1.0	
+Sinusitis	IL1A	1.0	
+Sinusitis	IL1B	1.0	
+Sinusitis	IL1RN	1.0	
+Chronic atrophic gastritis	IL1A	1.0	
+Chronic atrophic gastritis	IL1B	1.0	
+Chronic atrophic gastritis	IL1RN	1.0	
+Gastric ulcer	IL1A	1.0	
+Gastric ulcer	IL1B	1.0	
+Gastric ulcer	IL1RN	1.0	
+Immediate hypersensitivity	IL1A	1.0	
+Immediate hypersensitivity	IL1B	1.0	
+Immediate hypersensitivity	IL1RN	1.0	
+Knee osteoarthritis	IL1A	1.0	
+Knee osteoarthritis	IL1B	1.0	
+Knee osteoarthritis	IL1RN	1.0	
+Severe Aplastic Anemia	IL1A	1.0	
+Severe Aplastic Anemia	IL1B	1.0	
+Erythema	IL1A	1.0	
+Erythema	IL1B	1.0	
+Erythema	IL1RN	1.0	
+Hepatitis, Autoimmune	IL1A	1.0	
+Hepatitis, Autoimmune	IL1B	1.0	
+Hepatitis, Autoimmune	IL1RN	1.0	
+Brain Hemorrhage, Traumatic	IL1B	1.0	
+Brain Hemorrhage, Traumatic	IL1RN	1.0	
+Skin ulcer	IL1A	1.0	
+Skin ulcer	IL1B	1.0	
+Skin ulcer	IL1RN	1.0	
+Fetal Alcohol Syndrome	IL1A	1.0	
+Fetal Alcohol Syndrome	IL1B	1.0	
+Q Fever	IL1B	1.0	
+Q Fever	IL1RN	1.0	
+MERRF Syndrome	IL1A	1.0	
+MERRF Syndrome	IL1B	1.0	
+Urolithiasis	IL1B	1.0	
+Urolithiasis	IL1RN	1.0	
+Febrile Neutropenia	IL1A	1.0	
+Febrile Neutropenia	IL1B	1.0	
+Monoclonal Gammapathies	IL1A	1.0	
+Monoclonal Gammapathies	IL1B	1.0	
+Amyloidosis	IL1A	1.0	
+Amyloidosis	IL1B	1.0	
+Amyloidosis	IL1RN	1.0	
+Common variable immunodeficiency 2	IL1A	1.0	
+Common variable immunodeficiency 2	IL1B	1.0	
+Common variable immunodeficiency 2	IL1RN	1.0	
+Thrombosis of retinal vein	IL1B	1.0	
+Thrombosis of retinal vein	IL1RN	1.0	
+Typhoid Fever	IL1A	1.0	
+Typhoid Fever	IL1B	1.0	
+Malignant neoplasm of vulva	IL1A	1.0	
+Malignant neoplasm of vulva	IL1B	1.0	
+Gingival Diseases	IL1A	1.0	
+Gingival Diseases	IL1B	1.0	
+Gingival Diseases	IL1RN	1.0	
+Musculoskeletal Diseases	IL1A	1.0	
+Musculoskeletal Diseases	IL1B	1.0	
+Musculoskeletal Diseases	IL1RN	1.0	
+Pregnancy Complications, Hematologic	IL1A	1.0	
+Pregnancy Complications, Hematologic	IL1B	1.0	
+Pregnancy Complications, Hematologic	IL1RN	1.0	
+Melioidosis, susceptibility to	IL1A	1.0	
+Melioidosis, susceptibility to	IL1B	1.0	
+Carcinoma, Signet Ring Cell	IL1B	1.0	
+Carcinoma, Signet Ring Cell	IL1RN	1.0	
+Anorexia	IL1A	1.0	
+Anorexia	IL1B	1.0	
+Anorexia	IL1RN	1.0	
+Superficial ulcer	IL1A	1.0	
+Superficial ulcer	IL1B	1.0	
+Superficial ulcer	IL1RN	1.0	
+Myositis	IL1A	1.0	
+Myositis	IL1B	1.0	
+Myositis	IL1RN	1.0	
+Pleural effusion	IL1A	1.0	
+Pleural effusion	IL1B	1.0	
+Pleural effusion	IL1RN	1.0	
+Joint contractures involving the joints of the feet	IL1A	1.0	
+Joint contractures involving the joints of the feet	IL1B	1.0	
+Renal interstitial fibrosis	IL1A	1.0	
+Renal interstitial fibrosis	IL1B	1.0	
+Rhinitis, Allergic, Seasonal	IL1A	1.0	
+Rhinitis, Allergic, Seasonal	IL1B	1.0	
+Rhinitis, Allergic, Seasonal	IL1RN	1.0	
+Lung Diseases, Interstitial	IL1A	1.0	
+Lung Diseases, Interstitial	IL1B	1.0	
+Lung Diseases, Interstitial	IL1RN	1.0	
+Acute GVH disease	IL1A	1.0	
+Acute GVH disease	IL1B	1.0	
+Acute GVH disease	IL1RN	1.0	
+Gingival bleeding	IL1A	1.0	
+Gingival bleeding	IL1B	1.0	
+Respiratory Distress Syndrome, Adult	IL1A	1.0	
+Respiratory Distress Syndrome, Adult	IL1B	1.0	
+Respiratory Distress Syndrome, Adult	IL1RN	1.0	
+Hashimoto thyroiditis	IL1A	1.0	
+Hashimoto thyroiditis	IL1B	1.0	
+Hashimoto thyroiditis	IL1RN	1.0	
+Gastroenteritis	IL1B	1.0	
+Gastroenteritis	IL1RN	1.0	
+MELAS Syndrome	IL1A	1.0	
+MELAS Syndrome	IL1B	1.0	
+Familial Alzheimer Disease (FAD)	IL1A	1.0	
+Familial Alzheimer Disease (FAD)	IL1B	1.0	
+Subfertility	IL1A	1.0	
+Subfertility	IL1B	1.0	
+Arthropathy	IL1A	1.0	
+Arthropathy	IL1B	1.0	
+Arthropathy	IL1RN	1.0	
+Malaria, Falciparum	IL1A	1.0	
+Malaria, Falciparum	IL1B	1.0	
+Malaria, Falciparum	IL1RN	1.0	
+Generalized osteoarthritis	IL1A	1.0	
+Generalized osteoarthritis	IL1B	1.0	
+Mucinous Neoplasm	IL1A	1.0	
+Mucinous Neoplasm	IL1B	1.0	
+Fetal Diseases	IL1A	1.0	
+Fetal Diseases	IL1B	1.0	
+Fetal Diseases	IL1RN	1.0	
+Meningitis, Pneumococcal	IL1A	1.0	
+Meningitis, Pneumococcal	IL1B	1.0	
+Juvenile dermatomyositis	IL1A	1.0	
+Juvenile dermatomyositis	IL1B	1.0	
+Uveitis	IL1A	1.0	
+Uveitis	IL1B	1.0	
+Uveitis	IL1RN	1.0	
+Mumps	IL1B	1.0	
+Mumps	IL1RN	1.0	
+Measles	IL1A	1.0	
+Measles	IL1B	1.0	
+Measles	IL1RN	1.0	
+Peptic Ulcer Hemorrhage	IL1B	1.0	
+Peptic Ulcer Hemorrhage	IL1RN	1.0	
+Odontogenic neoplasm	IL1A	1.0	
+Odontogenic neoplasm	IL1RN	1.0	
+Sclerosis	IL1B	1.0	
+Sclerosis	IL1RN	1.0	
+Smallpox	IL1A	1.0	
+Smallpox	IL1B	1.0	
+Irritable bowel syndrome with diarrhea	IL1A	1.0	
+Irritable bowel syndrome with diarrhea	IL1B	1.0	
+Irritable bowel syndrome with diarrhea	IL1RN	1.0	
+Acquired Immunodeficiency Syndrome	IL1A	1.0	
+Acquired Immunodeficiency Syndrome	IL1B	1.0	
+Acquired Immunodeficiency Syndrome	IL1RN	1.0	
+Malignant neoplasm of stomach stage IV	IL1B	1.0	
+Malignant neoplasm of stomach stage IV	IL1RN	1.0	
+Keratoconus	IL1A	1.0	
+Keratoconus	IL1B	1.0	
+Keratoconus	IL1RN	1.0	
+Gastro-esophageal reflux disease with esophagitis	IL1B	1.0	
+Gastro-esophageal reflux disease with esophagitis	IL1RN	1.0	
+Bone Diseases	IL1A	1.0	
+Bone Diseases	IL1B	1.0	
+Bone Diseases	IL1RN	1.0	
+Bronchial Hyperreactivity	IL1A	1.0	
+Bronchial Hyperreactivity	IL1B	1.0	
+Bronchial Hyperreactivity	IL1RN	1.0	
+Cachexia	IL1A	1.0	
+Cachexia	IL1B	1.0	
+Cachexia	IL1RN	1.0	
+Corneal pannus	IL1A	1.0	
+Corneal pannus	IL1B	1.0	
+Primary open angle glaucoma juvenile onset 1	IL1A	1.0	
+Primary open angle glaucoma juvenile onset 1	IL1B	1.0	
+Primary open angle glaucoma juvenile onset 1	IL1RN	1.0	
+Allergic rhinitis	IL1A	1.0	
+Allergic rhinitis	IL1B	1.0	
+Allergic rhinitis	IL1RN	1.0	
+CNS metastases	IL1A	1.0	
+CNS metastases	IL1B	1.0	
+Idiopathic crescentic glomerulonephritis	IL1A	1.0	
+Idiopathic crescentic glomerulonephritis	IL1B	1.0	
+Chronic Chagas' disease	IL1A	1.0	
+Chronic Chagas' disease	IL1B	1.0	
+Chronic Chagas' disease	IL1RN	1.0	
+Hyperalgesia	IL1A	1.0	
+Hyperalgesia	IL1B	1.0	
+Hyperalgesia	IL1RN	1.0	
+Nephritis	IL1A	1.0	
+Nephritis	IL1B	1.0	
+Nephritis	IL1RN	1.0	
+Chemical Carcinogenesis	IL1A	1.0	
+Chemical Carcinogenesis	IL1B	1.0	
+Non-Malignant Ascites Adverse Event	IL1A	1.0	
+Non-Malignant Ascites Adverse Event	IL1B	1.0	
+Non-Malignant Ascites Adverse Event	IL1RN	1.0	
+Cholesteatoma	IL1A	1.0	
+Cholesteatoma	IL1B	1.0	
+Decreased activity of 3-hydroxyacyl-CoA dehydrogenase	IL1A	1.0	
+Decreased activity of 3-hydroxyacyl-CoA dehydrogenase	IL1B	1.0	
+Dryness of eye	IL1A	1.0	
+Dryness of eye	IL1B	1.0	
+Chronic Periodontitis	IL1A	1.0	
+Chronic Periodontitis	IL1B	1.0	
+Chronic Periodontitis	IL1RN	1.0	
+Eclampsia	IL1A	1.0	
+Eclampsia	IL1B	1.0	
+Eclampsia	IL1RN	1.0	
+Vasculitis	IL1A	1.0	
+Vasculitis	IL1B	1.0	
+Vasculitis	IL1RN	1.0	
+Kaposi's sarcoma	IL1A	1.0	
+Kaposi's sarcoma	IL1B	1.0	
+Kaposi's sarcoma	IL1RN	1.0	
+Fabry disease	IL1A	1.0	
+Fabry disease	IL1B	1.0	
+Varicocele	IL1A	1.0	
+Varicocele	IL1B	1.0	
+Aortic Aneurysm, Abdominal	IL1A	1.0	
+Aortic Aneurysm, Abdominal	IL1B	1.0	
+Aortic Aneurysm, Abdominal	IL1RN	1.0	
+Juvenile rheumatoid arthritis	IL1A	1.0	
+Juvenile rheumatoid arthritis	IL1B	1.0	
+Juvenile rheumatoid arthritis	IL1RN	1.0	
+Dry Eye Syndromes	IL1A	1.0	
+Dry Eye Syndromes	IL1B	1.0	
+Heart valve disease	IL1B	1.0	
+Heart valve disease	IL1RN	1.0	
+CARCINOMA OF VULVA	IL1A	1.0	
+CARCINOMA OF VULVA	IL1B	1.0	
+Epilepsy, Temporal Lobe	IL1A	1.0	
+Epilepsy, Temporal Lobe	IL1B	1.0	
+Epilepsy, Temporal Lobe	IL1RN	1.0	
+Fetal Membranes, Premature Rupture	IL1A	1.0	
+Fetal Membranes, Premature Rupture	IL1B	1.0	
+Fetal Membranes, Premature Rupture	IL1RN	1.0	
+Learning Disorders	IL1B	1.0	
+Learning Disorders	IL1RN	1.0	
+Congenital absence of germinal epithelium of testes	IL1A	1.0	
+Congenital absence of germinal epithelium of testes	IL1RN	1.0	
+Chorioamnionitis	IL1A	1.0	
+Chorioamnionitis	IL1B	1.0	
+Chorioamnionitis	IL1RN	1.0	
+Connective Tissue Diseases	IL1A	1.0	
+Connective Tissue Diseases	IL1B	1.0	
+Connective Tissue Diseases	IL1RN	1.0	
+Neoplasm of the gallbladder	IL1B	1.0	
+Neoplasm of the gallbladder	IL1RN	1.0	
+Osteitis Deformans	IL1A	1.0	
+Osteitis Deformans	IL1B	1.0	
+Cervical intraepithelial neoplasia grade 2	IL1A	1.0	
+Cervical intraepithelial neoplasia grade 2	IL1B	1.0	
+Anti-Glomerular Basement Membrane Disease	IL1B	1.0	
+Anti-Glomerular Basement Membrane Disease	IL1RN	1.0	
+Lymphocytic infiltration	IL1B	1.0	
+Lymphocytic infiltration	IL1RN	1.0	
+Mucocutaneous Lymph Node Syndrome	IL1A	1.0	
+Mucocutaneous Lymph Node Syndrome	IL1B	1.0	
+Mucocutaneous Lymph Node Syndrome	IL1RN	1.0	
+Premature Obstetric Labor	IL1A	1.0	
+Premature Obstetric Labor	IL1B	1.0	
+Premature Obstetric Labor	IL1RN	1.0	
+Rubella	IL1B	1.0	
+Rubella	IL1RN	1.0	
+Idiopathic fibrosing alveolitis, chronic form	IL1B	1.0	
+Idiopathic fibrosing alveolitis, chronic form	IL1RN	1.0	
+Iron deficiency anemia	IL1A	1.0	
+Iron deficiency anemia	IL1B	1.0	
+Severe congenital neutropenia	IL1A	1.0	
+Severe congenital neutropenia	IL1B	1.0	
+Arthritis, Psoriatic	IL1A	1.0	
+Arthritis, Psoriatic	IL1B	1.0	
+Arthritis, Psoriatic	IL1RN	1.0	
+Peptic Esophagitis	IL1B	1.0	
+Peptic Esophagitis	IL1RN	1.0	
+Bronchiolitis, Viral	IL1A	1.0	
+Bronchiolitis, Viral	IL1B	1.0	
+Bronchiolitis, Viral	IL1RN	1.0	
+Zoonotic form of cutaneous leishmaniasis	IL1A	1.0	
+Zoonotic form of cutaneous leishmaniasis	IL1B	1.0	
+Tuberculosis, Pulmonary	IL1A	1.0	
+Tuberculosis, Pulmonary	IL1B	1.0	
+Tuberculosis, Pulmonary	IL1RN	1.0	
+Pneumonitis	IL1A	1.0	
+Pneumonitis	IL1RN	1.0	
+Epstein-Barr Virus Infections	IL1A	1.0	
+Epstein-Barr Virus Infections	IL1B	1.0	
+Epstein-Barr Virus Infections	IL1RN	1.0	
+Restenosis	IL1A	1.0	
+Restenosis	IL1B	1.0	
+Restenosis	IL1RN	1.0	
+Dyspepsia	IL1B	1.0	
+Dyspepsia	IL1RN	1.0	
+Necrosis	IL1B	1.0	
+Necrosis	IL1RN	1.0	
+Toxic Shock Syndrome	IL1B	1.0	
+Toxic Shock Syndrome	IL1RN	1.0	
+Biliary tract neoplasm	IL1A	1.0	
+Biliary tract neoplasm	IL1B	1.0	
+Leishmaniasis	IL1A	1.0	
+Leishmaniasis	IL1B	1.0	
+Joint swelling	IL1B	1.0	
+Joint swelling	IL1RN	1.0	
+Plaque, Atherosclerotic	IL1A	1.0	
+Plaque, Atherosclerotic	IL1B	1.0	
+Plaque, Atherosclerotic	IL1RN	1.0	
+Otitis media	IL1A	1.0	
+Otitis media	IL1B	1.0	
+Otitis media	IL1RN	1.0	
+Malignant hyperthermia susceptibility type 5	IL1A	1.0	
+Malignant hyperthermia susceptibility type 5	IL1B	1.0	
+Malignant hyperthermia susceptibility type 5	IL1RN	1.0	
+Neoplasms, Experimental	IL1A	1.0	
+Neoplasms, Experimental	IL1B	1.0	
+Henoch-Schoenlein Purpura	IL1B	1.0	
+Henoch-Schoenlein Purpura	IL1RN	1.0	
+Aortic aneurysm, familial thoracic 11, susceptibility to	IL1A	1.0	
+Aortic aneurysm, familial thoracic 11, susceptibility to	IL1B	1.0	
+Aortic aneurysm, familial thoracic 11, susceptibility to	IL1RN	1.0	
+Stage 5 chronic kidney disease	IL1A	1.0	
+Stage 5 chronic kidney disease	IL1B	1.0	
+Stage 5 chronic kidney disease	IL1RN	1.0	
+Sarcoidosis, Pulmonary	IL1A	1.0	
+Sarcoidosis, Pulmonary	IL1B	1.0	
+Nasal polyposis	IL1A	1.0	
+Nasal polyposis	IL1B	1.0	
+Nasal polyposis	IL1RN	1.0	
+Ovarian Diseases	IL1A	1.0	
+Ovarian Diseases	IL1B	1.0	
+Ovarian Diseases	IL1RN	1.0	
+Gastritis	IL1A	1.0	
+Gastritis	IL1B	1.0	
+Gastritis	IL1RN	1.0	
+Iron deficiency	IL1A	1.0	
+Iron deficiency	IL1B	1.0	
+Ovarian adenocarcinoma	IL1A	1.0	
+Ovarian adenocarcinoma	IL1B	1.0	
+Mitral stenosis	IL1A	1.0	
+Mitral stenosis	IL1B	1.0	
+Mitral stenosis	IL1RN	1.0	
+Esophagitis	IL1B	1.0	
+Esophagitis	IL1RN	1.0	
+Progressive external ophthalmoplegia with mitochondrial DNA deletions, autosomal recessive 4	IL1A	1.0	
+Progressive external ophthalmoplegia with mitochondrial DNA deletions, autosomal recessive 4	IL1B	1.0	
+Venous Thromboembolism	IL1A	1.0	
+Venous Thromboembolism	IL1B	1.0	
+Venous Thromboembolism	IL1RN	1.0	
+Stress, Psychological	IL1A	1.0	
+Stress, Psychological	IL1B	1.0	
+Systemic Inflammatory Response Syndrome	IL1B	1.0	
+Systemic Inflammatory Response Syndrome	IL1RN	1.0	
+Leber's optic atrophy	IL1A	1.0	
+Leber's optic atrophy	IL1B	1.0	
+Hemolytic uremic syndrome	IL1A	1.0	
+Hemolytic uremic syndrome	IL1B	1.0	
+Recurrent bacterial infection	IL1A	1.0	
+Recurrent bacterial infection	IL1B	1.0	
+Recurrent bacterial infection	IL1RN	1.0	
+Memory impairment	IL1A	1.0	
+Memory impairment	IL1B	1.0	
+Memory impairment	IL1RN	1.0	
+Sarcoidosis	IL1A	1.0	
+Sarcoidosis	IL1B	1.0	
+Sarcoidosis	IL1RN	1.0	
+Retinopathy of Prematurity	IL1A	1.0	
+Retinopathy of Prematurity	IL1B	1.0	
+Primary immune deficiency disorder	IL1A	1.0	
+Primary immune deficiency disorder	IL1B	1.0	
+{Spondyloarthropathy, susceptibility to, 1}, 106300 (3)	IL1A	1.0	
+{Spondyloarthropathy, susceptibility to, 1}, 106300 (3)	IL1B	1.0	
+Gastroesophageal reflux	IL1A	1.0	
+Gastroesophageal reflux	IL1B	1.0	
+Gastroesophageal reflux	IL1RN	1.0	
+Hyperkeratosis	IL1A	1.0	
+Hyperkeratosis	IL1B	1.0	
+Hyperkeratosis	IL1RN	1.0	
+Nephrotic syndrome, type 5, with or without ocular abnormalities	IL1A	1.0	
+Nephrotic syndrome, type 5, with or without ocular abnormalities	IL1B	1.0	
+Nephrotic syndrome, type 5, with or without ocular abnormalities	IL1RN	1.0	
+Skin lesion	IL1A	1.0	
+Skin lesion	IL1B	1.0	
+ {HIV-1 viremia, susceptibility to}, 609423 (3)	IL1A	1.0	
+ {HIV-1 viremia, susceptibility to}, 609423 (3)	IL1B	1.0	
+Acute Lung Injury	IL1B	1.0	
+Acute Lung Injury	IL1RN	1.0	
+Glomerulonephritis, Membranous	IL1A	1.0	
+Glomerulonephritis, Membranous	IL1B	1.0	
+Glomerulonephritis, Membranous	IL1RN	1.0	
+Subarachnoid hemorrhage	IL1A	1.0	
+Subarachnoid hemorrhage	IL1B	1.0	
+Subarachnoid hemorrhage	IL1RN	1.0	
+Contractures involving the joints of the feet	IL1A	1.0	
+Contractures involving the joints of the feet	IL1B	1.0	
+Ankylosing spondylitis	IL1A	1.0	
+Ankylosing spondylitis	IL1B	1.0	
+Ankylosing spondylitis	IL1RN	1.0	
+Severe Dengue	IL1B	1.0	
+Severe Dengue	IL1RN	1.0	
+Cerebral ischemia	IL1A	1.0	
+Cerebral ischemia	IL1B	1.0	
+Cerebral ischemia	IL1RN	1.0	
+Neoplasm Recurrence, Local	IL1A	1.0	
+Neoplasm Recurrence, Local	IL1B	1.0	
+Neoplasm Recurrence, Local	IL1RN	1.0	
+Pancreatitis	IL1A	1.0	
+Pancreatitis	IL1B	1.0	
+Pancreatitis	IL1RN	1.0	
+Acne	IL1A	1.0	
+Acne	IL1B	1.0	
+Inflammatory disorder	IL1A	1.0	
+Inflammatory disorder	IL1B	1.0	
+Inflammatory disorder	IL1RN	1.0	
+Ichthyosis bullosa of Siemens	IL1A	1.0	
+Ichthyosis bullosa of Siemens	IL1B	1.0	
+Epithelial hyperplasia of skin	IL1A	1.0	
+Epithelial hyperplasia of skin	IL1B	1.0	
+Granulomatous disease, chronic, autosomal recessive, cytochrome b-negative	IL1A	1.0	
+Granulomatous disease, chronic, autosomal recessive, cytochrome b-negative	IL1B	1.0	
+Neonatal respiratory distress	IL1A	1.0	
+Neonatal respiratory distress	IL1B	1.0	
+Premature aging syndrome	IL1A	1.0	
+Premature aging syndrome	IL1B	1.0	
+West Nile viral infection	IL1A	1.0	
+West Nile viral infection	IL1B	1.0	
+Degenerative disease of the spinal cord	IL1A	1.0	
+Degenerative disease of the spinal cord	IL1B	1.0	
+Pituitary adenoma	IL1A	1.0	
+Pituitary adenoma	IL1B	1.0	
+Pituitary adenoma	IL1RN	1.0	
+Recurrent abortion	IL1B	1.0	
+Recurrent abortion	IL1RN	1.0	
+Mycoplasma Infections	IL1A	1.0	
+Mycoplasma Infections	IL1B	1.0	
+Myopathy, mitochondrial progressive, with congenital cataract, hearing loss, and developmental delay	IL1A	1.0	
+Myopathy, mitochondrial progressive, with congenital cataract, hearing loss, and developmental delay	IL1B	1.0	
+Cerebral edema	IL1B	1.0	
+Cerebral edema	IL1RN	1.0	
+Metaplasia	IL1B	1.0	
+Metaplasia	IL1RN	1.0	
+M5b Acute differentiated monocytic leukemia	IL1A	1.0	
+M5b Acute differentiated monocytic leukemia	IL1B	1.0	
+IMMUNE SUPPRESSION	IL1A	1.0	
+IMMUNE SUPPRESSION	IL1B	1.0	
+Ischaemic cerebral infarction	IL1A	1.0	
+Ischaemic cerebral infarction	IL1B	1.0	
+Ischaemic cerebral infarction	IL1RN	1.0	
+Helicobacter pylori infection	IL1A	1.0	
+Helicobacter pylori infection	IL1B	1.0	
+Helicobacter pylori infection	IL1RN	1.0	
+Respiratory Syncytial Virus Infections	IL1A	1.0	
+Respiratory Syncytial Virus Infections	IL1B	1.0	
+Respiratory Syncytial Virus Infections	IL1RN	1.0	
+Chlamydia Infections	IL1A	1.0	
+Chlamydia Infections	IL1B	1.0	
+Dementia, Vascular	IL1A	1.0	
+Dementia, Vascular	IL1B	1.0	
+Adult type dermatomyositis	IL1A	1.0	
+Adult type dermatomyositis	IL1B	1.0	
+Renal ischaemia	IL1A	1.0	
+Renal ischaemia	IL1B	1.0	
+Dementia familial British	IL1A	1.0	
+Dementia familial British	IL1B	1.0	
+Dementia familial British	IL1RN	1.0	
+T-cell lymphoma	IL1A	1.0	
+T-cell lymphoma	IL1B	1.0	
+T-cell lymphoma	IL1RN	1.0	
+Candidiasis, familial, 9	IL1B	1.0	
+Candidiasis, familial, 9	IL1RN	1.0	
+Cholangitis, Sclerosing	IL1A	1.0	
+Cholangitis, Sclerosing	IL1B	1.0	
+Lupus Vulgaris	IL1A	1.0	
+Lupus Vulgaris	IL1B	1.0	
+Lupus Vulgaris	IL1RN	1.0	
+Pterygium	IL1B	1.0	
+Pterygium	IL1RN	1.0	
+Chronic active hepatitis	IL1B	1.0	
+Chronic active hepatitis	IL1RN	1.0	
+Severe Sepsis	IL1B	1.0	
+Severe Sepsis	IL1RN	1.0	
+Necrotizing Enterocolitis	IL1A	1.0	
+Necrotizing Enterocolitis	IL1B	1.0	
+Plasmacytoma	IL1A	1.0	
+Plasmacytoma	IL1B	1.0	
+Chronic sinusitis	IL1A	1.0	
+Chronic sinusitis	IL1B	1.0	
+Parasitemia	IL1B	1.0	
+Parasitemia	IL1RN	1.0	
+Graft-versus-host disease, susceptibility to	IL1A	1.0	
+Graft-versus-host disease, susceptibility to	IL1B	1.0	
+Graft-versus-host disease, susceptibility to	IL1RN	1.0	
+Contact Dermatitis	IL1A	1.0	
+Contact Dermatitis	IL1B	1.0	
+Latent autoimmune diabetes mellitus in adult	IL1A	1.0	
+Latent autoimmune diabetes mellitus in adult	IL1B	1.0	
+Discoid lupus erythematosus	IL1A	1.0	
+Discoid lupus erythematosus	IL1B	1.0	
+Discoid lupus erythematosus	IL1RN	1.0	
+Acute Coronary Syndrome	IL1A	1.0	
+Acute Coronary Syndrome	IL1B	1.0	
+Acute Coronary Syndrome	IL1RN	1.0	
+Mood Disorders	IL1A	1.0	
+Mood Disorders	IL1B	1.0	
+Mood Disorders	IL1RN	1.0	
+Angina, Unstable	IL1A	1.0	
+Angina, Unstable	IL1RN	1.0	
+Urinary tract infection	IL1A	1.0	
+Urinary tract infection	IL1B	1.0	
+Prion Diseases	IL1A	1.0	
+Prion Diseases	IL1B	1.0	
+Periodontitis	IL1A	1.0	
+Periodontitis	IL1B	1.0	
+Periodontitis	IL1RN	1.0	
+Cerebral palsy, spastic quadriplegic, 3	IL1A	1.0	
+Cerebral palsy, spastic quadriplegic, 3	IL1B	1.0	
+Pulmonary hypertension, neonatal, susceptibility to	IL1A	1.0	
+Pulmonary hypertension, neonatal, susceptibility to	IL1B	1.0	
+Pulmonary hypertension, neonatal, susceptibility to	IL1RN	1.0	
+Migraine Disorders	IL1A	1.0	
+Migraine Disorders	IL1B	1.0	
+Migraine Disorders	IL1RN	1.0	
+Juvenile idiopathic arthritis, enthesitis related arthritis	IL1A	1.0	
+Juvenile idiopathic arthritis, enthesitis related arthritis	IL1B	1.0	
+Juvenile idiopathic arthritis, enthesitis related arthritis	IL1RN	1.0	
+Ischemic Cerebrovascular Accident	IL1A	1.0	
+Ischemic Cerebrovascular Accident	IL1B	1.0	
+Ischemic Cerebrovascular Accident	IL1RN	1.0	
+Shy-Drager syndrome	IL1A	1.0	
+Shy-Drager syndrome	IL1B	1.0	
+Idiopathic Pulmonary Fibrosis	IL1A	1.0	
+Idiopathic Pulmonary Fibrosis	IL1B	1.0	
+Idiopathic Pulmonary Fibrosis	IL1RN	1.0	
+Chronic kidney disease	IL1A	1.0	
+Chronic kidney disease	IL1B	1.0	
+Chronic kidney disease	IL1RN	1.0	
+Severe Acute Respiratory Syndrome	IL1A	1.0	
+Severe Acute Respiratory Syndrome	IL1B	1.0	
+Polymyositis	IL1A	1.0	
+Polymyositis	IL1B	1.0	
+Respiratory distress	IL1A	1.0	
+Respiratory distress	IL1RN	1.0	
+Liver Cirrhosis, Alcoholic	IL1B	1.0	
+Liver Cirrhosis, Alcoholic	IL1RN	1.0	
+Bacteremia, susceptibility to, 2	IL1B	1.0	
+Bacteremia, susceptibility to, 2	IL1RN	1.0	
+Acute megakaryocytic leukemia	IL1A	1.0	
+Acute megakaryocytic leukemia	IL1B	1.0	
+precancerous lesions	IL1A	1.0	
+precancerous lesions	IL1RN	1.0	
+Renal Insufficiency, Chronic	IL1A	1.0	
+Renal Insufficiency, Chronic	IL1B	1.0	
+Renal Insufficiency, Chronic	IL1RN	1.0	
+Middle Cerebral Artery Occlusion	IL1B	1.0	
+Middle Cerebral Artery Occlusion	IL1RN	1.0	
+Preeclampsia/eclampsia 1	IL1A	1.0	
+Preeclampsia/eclampsia 1	IL1B	1.0	
+Preeclampsia/eclampsia 1	IL1RN	1.0	
+Hairy Cell Leukemia	IL1A	1.0	
+Hairy Cell Leukemia	IL1B	1.0	
+Graves Disease	IL1A	1.0	
+Graves Disease	IL1B	1.0	
+Graves Disease	IL1RN	1.0	
+Idiopathic thrombocytopenic purpura	IL1B	1.0	
+Idiopathic thrombocytopenic purpura	IL1RN	1.0	
+Thyroid Diseases	IL1A	1.0	
+Thyroid Diseases	IL1B	1.0	
+Thyroid Diseases	IL1RN	1.0	
+Premature Birth	IL1A	1.0	
+Premature Birth	IL1B	1.0	
+Premature Birth	IL1RN	1.0	
+Glaucoma, Open-Angle	IL1A	1.0	
+Glaucoma, Open-Angle	IL1B	1.0	
+Pulmonary Disease, Chronic Obstructive	IL1A	1.0	
+Pulmonary Disease, Chronic Obstructive	IL1B	1.0	
+Pulmonary Disease, Chronic Obstructive	IL1RN	1.0	
+Diarrhea 8, secretory sodium, congenital	IL1A	1.0	
+Diarrhea 8, secretory sodium, congenital	IL1B	1.0	
+Diarrhea 8, secretory sodium, congenital	IL1RN	1.0	
+Hypercalcemia, infantile, 2	IL1A	1.0	
+Hypercalcemia, infantile, 2	IL1B	1.0	
+Dermatomyositis	IL1A	1.0	
+Dermatomyositis	IL1B	1.0	
+Peritonitis	IL1B	1.0	
+Peritonitis	IL1RN	1.0	
+Heart Diseases	IL1A	1.0	
+Heart Diseases	IL1B	1.0	
+Heart Diseases	IL1RN	1.0	
+Intracranial Aneurysm	IL1A	1.0	
+Intracranial Aneurysm	IL1B	1.0	
+Juvenile myelomonocytic leukemia	IL1B	1.0	
+Juvenile myelomonocytic leukemia	IL1RN	1.0	
+Nephrolithiasis	IL1B	1.0	
+Nephrolithiasis	IL1RN	1.0	
+Septicemia	IL1A	1.0	
+Septicemia	IL1B	1.0	
+Septicemia	IL1RN	1.0	
+Experimental Autoimmune Encephalomyelitis	IL1A	1.0	
+Experimental Autoimmune Encephalomyelitis	IL1B	1.0	
+Experimental Autoimmune Encephalomyelitis	IL1RN	1.0	
+Pulmonary fibrosis and/or bone marrow failure, telomere-related, 4	IL1A	1.0	
+Pulmonary fibrosis and/or bone marrow failure, telomere-related, 4	IL1B	1.0	
+Pulmonary fibrosis and/or bone marrow failure, telomere-related, 4	IL1RN	1.0	
+{Systemic lupus erythematosus, susceptibility to, 8} (2)	IL1A	1.0	
+{Systemic lupus erythematosus, susceptibility to, 8} (2)	IL1B	1.0	
+{Systemic lupus erythematosus, susceptibility to, 8} (2)	IL1RN	1.0	
+Ischemic stroke	IL1A	1.0	
+Ischemic stroke	IL1B	1.0	
+Ischemic stroke	IL1RN	1.0	
+Peptic ulcer	IL1B	1.0	
+Peptic ulcer	IL1RN	1.0	
+Tauopathies	IL1A	1.0	
+Tauopathies	IL1B	1.0	
+Behcet Syndrome	IL1A	1.0	
+Behcet Syndrome	IL1B	1.0	
+Behcet Syndrome	IL1RN	1.0	
+Urticaria	IL1A	1.0	
+Urticaria	IL1B	1.0	
+Brain Ischemia	IL1A	1.0	
+Brain Ischemia	IL1B	1.0	
+Brain Ischemia	IL1RN	1.0	
+Hypotension	IL1A	1.0	
+Hypotension	IL1B	1.0	
+Giant cell arteritis	IL1A	1.0	
+Giant cell arteritis	IL1RN	1.0	
+Tourette Syndrome	IL1B	1.0	
+Tourette Syndrome	IL1RN	1.0	
+Biliary cirrhosis	IL1B	1.0	
+Biliary cirrhosis	IL1RN	1.0	
+Abdominal obesity	IL1A	1.0	
+Abdominal obesity	IL1B	1.0	
+Acute hepatic failure	IL1B	1.0	
+Acute hepatic failure	IL1RN	1.0	
+Celiac Disease	IL1A	1.0	
+Celiac Disease	IL1B	1.0	
+Celiac Disease	IL1RN	1.0	
+Tumor Angiogenesis	IL1A	1.0	
+Tumor Angiogenesis	IL1B	1.0	
+Tumor Angiogenesis	IL1RN	1.0	
+Testicular Neoplasms	IL1A	1.0	
+Testicular Neoplasms	IL1B	1.0	
+Adrenoleukodystrophy	IL1A	1.0	
+Adrenoleukodystrophy	IL1B	1.0	
+Cystic Fibrosis	IL1A	1.0	
+Cystic Fibrosis	IL1B	1.0	
+Cystic Fibrosis	IL1RN	1.0	
+Venous thrombosis	IL1A	1.0	
+Venous thrombosis	IL1B	1.0	
+Hematological Disease	IL1A	1.0	
+Hematological Disease	IL1B	1.0	
+Hepatitis C, Chronic	IL1A	1.0	
+Hepatitis C, Chronic	IL1B	1.0	
+Hepatitis C, Chronic	IL1RN	1.0	
+Monoclonal Gammopathy of Undetermined Significance	IL1A	1.0	
+Monoclonal Gammopathy of Undetermined Significance	IL1B	1.0	
+Neurodegeneration with brain iron accumulation	IL1A	1.0	
+Neurodegeneration with brain iron accumulation	IL1B	1.0	
+Coinfection	IL1A	1.0	
+Coinfection	IL1B	1.0	
+Hyperglycemia	IL1A	1.0	
+Hyperglycemia	IL1B	1.0	
+Hyperglycemia	IL1RN	1.0	
+Pneumonia	IL1A	1.0	
+Pneumonia	IL1B	1.0	
+Pneumonia	IL1RN	1.0	
+Hepatocarcinogenesis	IL1A	1.0	
+Hepatocarcinogenesis	IL1B	1.0	
+Hepatocarcinogenesis	IL1RN	1.0	
+Eczema	IL1A	1.0	
+Eczema	IL1B	1.0	
+Eczema	IL1RN	1.0	
+Polycystic Ovary Syndrome	IL1A	1.0	
+Polycystic Ovary Syndrome	IL1B	1.0	
+Polycystic Ovary Syndrome	IL1RN	1.0	
+Dementia	IL1A	1.0	
+Dementia	IL1B	1.0	
+Dementia	IL1RN	1.0	
+Dermatosis NOS	IL1A	1.0	
+Dermatosis NOS	IL1B	1.0	
+Dermatosis NOS	IL1RN	1.0	
+Acute myocardial ischemia	IL1A	1.0	
+Acute myocardial ischemia	IL1B	1.0	
+Acute myocardial ischemia	IL1RN	1.0	
+Insulinoma	IL1A	1.0	
+Insulinoma	IL1B	1.0	
+Monosomy	IL1A	1.0	
+Monosomy	IL1B	1.0	
+Nonalcoholic Steatohepatitis	IL1A	1.0	
+Nonalcoholic Steatohepatitis	IL1B	1.0	
+Lipoatrophy	IL1A	1.0	
+Lipoatrophy	IL1B	1.0	
+Obstructive sleep apnea	IL1A	1.0	
+Obstructive sleep apnea	IL1B	1.0	
+Encephalitis	IL1B	1.0	
+Encephalitis	IL1RN	1.0	
+Lymphatic Metastasis	IL1B	1.0	
+Lymphatic Metastasis	IL1RN	1.0	
+Tumor necrosis	IL1A	1.0	
+Tumor necrosis	IL1B	1.0	
+Uterine Cervical Neoplasms	IL1B	1.0	
+Uterine Cervical Neoplasms	IL1RN	1.0	
+Cholelithiasis	IL1B	1.0	
+Cholelithiasis	IL1RN	1.0	
+Aplastic anemia	IL1A	1.0	
+Aplastic anemia	IL1B	1.0	
+Atrial Fibrillation	IL1A	1.0	
+Atrial Fibrillation	IL1B	1.0	
+Thymoma	IL1A	1.0	
+Thymoma	IL1B	1.0	
+Bleeding disorder, platelet-type, 21	IL1A	1.0	
+Bleeding disorder, platelet-type, 21	IL1B	1.0	
+Thyroid cancer, follicular	IL1A	1.0	
+Thyroid cancer, follicular	IL1B	1.0	
+Asbestosis	IL1B	1.0	
+Leg Ulcer	IL1B	1.0	
+Scrub Typhus	IL1B	1.0	
+Pleural Tuberculosis	IL1RN	1.0	
+Pseudomonas aeruginosa infection	IL1B	1.0	
+Primary Myelofibrosis	IL1A	1.0	
+Primary Myelofibrosis	IL1B	1.0	
+Dengue Fever	IL1B	1.0	
+Dengue Fever	IL1RN	1.0	
+Malaria	IL1A	1.0	
+Malaria	IL1B	1.0	
+Malaria	IL1RN	1.0	
+Seborheic dermatitis	IL1A	1.0	
+Seborheic dermatitis	IL1B	1.0	
+Severe combined immunodeficiency due to ADA deficiency	IL1A	1.0	
+Severe combined immunodeficiency due to ADA deficiency	IL1B	1.0	
+Severe combined immunodeficiency due to ADA deficiency	IL1RN	1.0	
+Familial hypercholesterolemia	IL1B	1.0	
+Familial hypercholesterolemia	IL1RN	1.0	
+Papillary adenocarcinoma	IL1B	1.0	
+Anemia of chronic disease	IL1RN	1.0	
+Aneurysm, Ruptured	IL1B	1.0	
+Status epilepticus	IL1B	1.0	
+Status epilepticus	IL1RN	1.0	
+Chronic Kidney Insufficiency	IL1A	1.0	
+Chronic Kidney Insufficiency	IL1B	1.0	
+{Unipolar depression, susceptibility to}, 608516 (3)	IL1A	1.0	
+{Unipolar depression, susceptibility to}, 608516 (3)	IL1B	1.0	
+{Unipolar depression, susceptibility to}, 608516 (3)	IL1RN	1.0	
+Non-Hodgkin lymphoma	IL1A	1.0	
+Non-Hodgkin lymphoma	IL1B	1.0	
+Non-Hodgkin lymphoma	IL1RN	1.0	
+Cryoglobulinemia	IL1RN	1.0	
+Malignant neoplasm of pharynx	IL1B	1.0	
+Philadelphia chromosome positive chronic myelogenous leukemia	IL1B	1.0	
+Calcium oxalate urolithiasis	IL1A	1.0	
+Fibrosis	IL1B	1.0	
+Fibrosis	IL1RN	1.0	
+Dermatitis, Atopic	IL1A	1.0	
+Dermatitis, Atopic	IL1B	1.0	
+Dermatitis, Atopic	IL1RN	1.0	
+Germinal Center B-Cell-Like Diffuse Large B-Cell Lymphoma	IL1A	1.0	
+Germinal Center B-Cell-Like Diffuse Large B-Cell Lymphoma	IL1B	1.0	
+Germinal Center B-Cell-Like Diffuse Large B-Cell Lymphoma	IL1RN	1.0	
+Primary cutaneous marginal zone B-cell lymphoma	IL1B	1.0	
+Primary cutaneous marginal zone B-cell lymphoma	IL1RN	1.0	
+Otitis Media with Effusion	IL1B	1.0	
+Early gastric cancer	IL1RN	1.0	
+Scleroderma	IL1A	1.0	
+Scleroderma	IL1B	1.0	
+Scleroderma	IL1RN	1.0	
+X-Linked mental retardation 90	IL1A	1.0	
+X-Linked mental retardation 90	IL1B	1.0	
+Myocardial Reperfusion Injury	IL1A	1.0	
+Myocardial Reperfusion Injury	IL1B	1.0	
+Chronic hepatitis	IL1A	1.0	
+Chronic hepatitis	IL1B	1.0	
+Spots on skin	IL1A	1.0	
+Spots on skin	IL1B	1.0	
+Drug-Induced Liver Injury	IL1A	1.0	
+Drug-Induced Liver Injury	IL1B	1.0	
+Liver Diseases	IL1A	1.0	
+Liver Diseases	IL1B	1.0	
+Liver Diseases	IL1RN	1.0	
+Allergic asthma	IL1B	1.0	
+Allergic asthma	IL1RN	1.0	
+Bacterial endocarditis	IL1B	1.0	
+pricking of skin	IL1A	1.0	
+Transient ischemic attack	IL1B	1.0	
+Transient ischemic attack	IL1RN	1.0	
+Pregnancy Complications, Infectious	IL1RN	1.0	
+Sepsis	IL1A	1.0	
+Sepsis	IL1B	1.0	
+Sepsis	IL1RN	1.0	
+Myasthenia Gravis	IL1A	1.0	
+Myasthenia Gravis	IL1B	1.0	
+Angiokeratoma	IL1B	1.0	
+Malaria, Vivax	IL1B	1.0	
+Arteriovenous hemangioma	IL1B	1.0	
+TNF receptor-associated periodic fever syndrome (TRAPS)	IL1RN	1.0	
+Hypercholesterolemia, autosomal dominant, type B	IL1A	1.0	
+Hypercholesterolemia, autosomal dominant, type B	IL1B	1.0	
+Hepatic cancer metastatic	IL1A	1.0	
+Hepatic cancer metastatic	IL1B	1.0	
+Hepatic cancer metastatic	IL1RN	1.0	
+Secondary malignant neoplasm of lung	IL1A	1.0	
+Secondary malignant neoplasm of lung	IL1B	1.0	
+Secondary malignant neoplasm of lung	IL1RN	1.0	
+Hematological neoplasm	IL1A	1.0	
+Hematological neoplasm	IL1B	1.0	
+Hematological neoplasm	IL1RN	1.0	
+Diabetic Nephropathies	IL1A	1.0	
+Diabetic Nephropathies	IL1B	1.0	
+Diabetic Nephropathies	IL1RN	1.0	
+Kidney Failure, Chronic	IL1A	1.0	
+Kidney Failure, Chronic	IL1B	1.0	
+Kidney Failure, Chronic	IL1RN	1.0	
+Carpal tunnel syndrome	IL1B	1.0	
+Lymphadenitis	IL1B	1.0	
+Staphylococcal Infections	IL1RN	1.0	
+Superinfection	IL1B	1.0	
+Anemia	IL1A	1.0	
+Anemia	IL1B	1.0	
+Anemia	IL1RN	1.0	
+Pain	IL1A	1.0	
+Pain	IL1B	1.0	
+Pain	IL1RN	1.0	
+Craniosynostoses	IL1A	1.0	
+Craniosynostoses	IL1B	1.0	
+Extrinsic allergic alveolitis	IL1B	1.0	
+Cervix Diseases	IL1RN	1.0	
+Fatal infectious mononucleosis	IL1A	1.0	
+Keratoconjunctivitis sicca	IL1A	1.0	
+Rheumatic fever / chorea	IL1B	1.0	
+Malignant neoplasm of oropharynx	IL1A	1.0	
+Liver failure acute infantile	IL1B	1.0	
+Liver failure acute infantile	IL1RN	1.0	
+Metabolic Syndrome X	IL1A	1.0	
+Metabolic Syndrome X	IL1B	1.0	
+Metabolic Syndrome X	IL1RN	1.0	
+Cocaine delirium	IL1RN	1.0	
+Endocarditis	IL1A	1.0	
+Paranoid Schizophrenia	IL1RN	1.0	
+Juvenile neuronal ceroid lipofuscinosis	IL1B	1.0	
+Osteoporosis	IL1A	1.0	
+Osteoporosis	IL1B	1.0	
+Osteoporosis	IL1RN	1.0	
+Neoplasm of the oral cavity	IL1A	1.0	
+Neoplasm of the oral cavity	IL1B	1.0	
+Abnormality of the pituitary gland	IL1A	1.0	
+Abnormality of the pituitary gland	IL1B	1.0	
+Abnormality of the pituitary gland	IL1RN	1.0	
+Inflammation	IL1A	1.0	
+Inflammation	IL1B	1.0	
+Inflammation	IL1RN	1.0	
+Ischemia	IL1A	1.0	
+Ischemia	IL1B	1.0	
+Ischemia	IL1RN	1.0	
+IgA nephropathy, susceptibility to, 3	IL1A	1.0	
+IgA nephropathy, susceptibility to, 3	IL1B	1.0	
+IgA nephropathy, susceptibility to, 3	IL1RN	1.0	
+Microscopic Polyarteritis	IL1B	1.0	
+Tuberculosis	IL1A	1.0	
+Tuberculosis	IL1B	1.0	
+Tuberculosis	IL1RN	1.0	
+B-cell lymphoma	IL1A	1.0	
+B-cell lymphoma	IL1B	1.0	
+B-cell lymphoma	IL1RN	1.0	
+AIDS related complex	IL1B	1.0	
+Salmonella infections	IL1B	1.0	
+Dermatitis and eczema	IL1B	1.0	
+Community acquired pneumonia	IL1RN	1.0	
+Leukemogenesis	IL1A	1.0	
+Leukemogenesis	IL1B	1.0	
+Leukemogenesis	IL1RN	1.0	
+Lymphoproliferative disorder	IL1A	1.0	
+Lymphoproliferative disorder	IL1B	1.0	
+Bronchopulmonary Dysplasia	IL1B	1.0	
+Bronchopulmonary Dysplasia	IL1RN	1.0	
+Dermal atrophy	IL1B	1.0	
+Dermal atrophy	IL1RN	1.0	
+Acute disease of cardiovascular system	IL1B	1.0	
+Mesangiocapillary glomerulonephritis, type II	IL1B	1.0	
+Polyarticular arthritis	IL1A	1.0	
+Epilepsy	IL1A	1.0	
+Epilepsy	IL1B	1.0	
+Epilepsy	IL1RN	1.0	
+Adenocarcinoma of colon	IL1A	1.0	
+Adenocarcinoma of colon	IL1B	1.0	
+Astrocytoma	IL1A	1.0	
+Astrocytoma	IL1B	1.0	
+Astrocytoma	IL1RN	1.0	
+Alcohol dependence	IL1A	1.0	
+Alcohol dependence	IL1B	1.0	
+Alcohol dependence	IL1RN	1.0	
+Vitiligo	IL1B	1.0	
+Vitiligo	IL1RN	1.0	
+Coronary Thrombosis	IL1RN	1.0	
+Pancreatitis, Acute Necrotizing	IL1B	1.0	
+Colitis, Ulcerative	IL1A	1.0	
+Colitis, Ulcerative	IL1B	1.0	
+Colitis, Ulcerative	IL1RN	1.0	
+Cerebral Hemorrhage	IL1B	1.0	
+Cerebral Hemorrhage	IL1RN	1.0	
+Meningitis, Bacterial	IL1B	1.0	
+Granulomatosis	IL1B	1.0	
+Opiate Addiction	IL1B	1.0	
+Gonorrhea	IL1B	1.0	
+Fibrosarcoma	IL1A	1.0	
+Fibrosarcoma	IL1B	1.0	
+Cardiomyopathy	IL1A	1.0	
+Cardiomyopathy	IL1B	1.0	
+Cardiomyopathy	IL1RN	1.0	
+Japanese Encephalitis	IL1B	1.0	
+Active tuberculosis	IL1B	1.0	
+Primary Sj�gren's syndrome	IL1RN	1.0	
+Acute anterior uveitis	IL1B	1.0	
+Neutropenia	IL1B	1.0	
+Neutropenia	IL1RN	1.0	
+Cellulitis	IL1A	1.0	
+Senile plaques	IL1A	1.0	
+Senile plaques	IL1B	1.0	
+Spontaneous abortion	IL1B	1.0	
+Spontaneous abortion	IL1RN	1.0	
+Hepatitis C	IL1A	1.0	
+Hepatitis C	IL1B	1.0	
+Hepatitis C	IL1RN	1.0	
+Monocytic leukemia	IL1B	1.0	
+Primary biliary cirrhosis	IL1B	1.0	
+Primary biliary cirrhosis	IL1RN	1.0	
+Endometriosis	IL1A	1.0	
+Endometriosis	IL1B	1.0	
+Endometriosis	IL1RN	1.0	
+Hyperoxia	IL1B	1.0	
+Hippocampal sclerosis	IL1B	1.0	
+Photoparoxysmal response 1 (2)	IL1B	1.0	
+Weight Loss Adverse Event	IL1B	1.0	
+Hepatitis B, Chronic	IL1B	1.0	
+Hepatitis B, Chronic	IL1RN	1.0	
+Brucellosis	IL1RN	1.0	
+Kidney Calculi	IL1A	1.0	
+Choroidal Neovascularization	IL1B	1.0	
+Coronary heart disease 7	IL1A	1.0	
+Coronary heart disease 7	IL1B	1.0	
+Coronary heart disease 7	IL1RN	1.0	
+Kidney Diseases	IL1A	1.0	
+Kidney Diseases	IL1B	1.0	
+Kidney Diseases	IL1RN	1.0	
+Anterior uveitis	IL1RN	1.0	
+Pleuritis	IL1B	1.0	
+Hepatocellular adenoma	IL1RN	1.0	
+Acute Cerebrovascular Accidents	IL1RN	1.0	
+Papillomavirus Infections	IL1RN	1.0	
+Gastric Adenocarcinoma	IL1B	1.0	
+Gastric Adenocarcinoma	IL1RN	1.0	
+Neuritis	IL1B	1.0	
+Other rheumatic heart disease	IL1RN	1.0	
+Arthritis, Reactive	IL1B	1.0	
+Vertebral fusion	IL1RN	1.0	
+Virus Diseases	IL1A	1.0	
+Virus Diseases	IL1B	1.0	
+Virus Diseases	IL1RN	1.0	
+Solid tumour	IL1A	1.0	
+Solid tumour	IL1B	1.0	
+Solid tumour	IL1RN	1.0	
+Nephrosis	IL1B	1.0	
+Squamous intraepithelial lesion	IL1A	1.0	
+Parkinson Disease	IL1A	1.0	
+Parkinson Disease	IL1B	1.0	
+Parkinson Disease	IL1RN	1.0	
+Acute type B viral hepatitis	IL1A	1.0	
+Acute type B viral hepatitis	IL1B	1.0	
+Acute type B viral hepatitis	IL1RN	1.0	
+Congenital nonbullous ichthyosiform erythroderma	IL1A	1.0	
+Inclusion Body Myopathy, Sporadic	IL1B	1.0	
+Drug Resistant Epilepsy	IL1B	1.0	
+pathologic fistula	IL1B	1.0	
+Reperfusion Injury	IL1A	1.0	
+Reperfusion Injury	IL1B	1.0	
+Erythema nodosum	IL1A	1.0	
+Infectious Otitis Media	IL1B	1.0	
+Bipolar affective disorder	IL1A	1.0	
+Bipolar affective disorder	IL1B	1.0	
+Bipolar affective disorder	IL1RN	1.0	
+Memory Disorders	IL1B	1.0	
+Chronic myeloid leukemia	IL1A	1.0	
+Chronic myeloid leukemia	IL1B	1.0	
+Chronic myeloid leukemia	IL1RN	1.0	
+Leiomyoma	IL1B	1.0	
+Leiomyoma	IL1RN	1.0	
+Non-alcoholic Fatty Liver Disease	IL1A	1.0	
+Non-alcoholic Fatty Liver Disease	IL1B	1.0	
+Oropharyngeal squamous cell carcinoma	IL1A	1.0	
+Ulcerative colitis	IL1A	1.0	
+Ulcerative colitis	IL1B	1.0	
+Ulcerative colitis	IL1RN	1.0	
+Huntington's chorea	IL1A	1.0	
+Huntington's chorea	IL1B	1.0	
+Pancreatic adenocarcinoma	IL1A	1.0	
+Pancreatic adenocarcinoma	IL1B	1.0	
+Recurrent tumor	IL1B	1.0	
+Recurrent tumor	IL1RN	1.0	
+ {Septic shock, susceptibility to} (3)	IL1B	1.0	
+Wilson disease	IL1B	1.0	
+CNS symptom	IL1B	1.0	
+Oropharyngeal Carcinoma	IL1A	1.0	
+Memory Loss	IL1A	1.0	
+Leukocytosis	IL1B	1.0	
+Uterine leiomyoma	IL1B	1.0	
+Uterine leiomyoma	IL1RN	1.0	
+Intraosseous mucoepidermoid carcinoma	IL1RN	1.0	
+Primary infection NOS	IL1B	1.0	
+Chronic obstructive pulmonary disease	IL1A	1.0	
+Chronic obstructive pulmonary disease	IL1B	1.0	
+Chronic obstructive pulmonary disease	IL1RN	1.0	
+Metastatic melanoma	IL1A	1.0	
+Metastatic melanoma	IL1B	1.0	
+Diamond-Blackfan anemia	IL1B	1.0	
+Psoriasis	IL1A	1.0	
+Psoriasis	IL1B	1.0	
+Psoriasis	IL1RN	1.0	
+Malignant tumor of cervix	IL1A	1.0	
+Malignant tumor of cervix	IL1B	1.0	
+Malignant tumor of cervix	IL1RN	1.0	
+Autoimmune disease 1	IL1A	1.0	
+Autoimmune disease 1	IL1B	1.0	
+Autoimmune disease 1	IL1RN	1.0	
+Hypoxia-Ischemia, Brain	IL1B	1.0	
+Limb ischemia	IL1B	1.0	
+Leukemia, T-cell acute lymphoblastoid (2)	IL1A	1.0	
+Leukemia, T-cell acute lymphoblastoid (2)	IL1B	1.0	
+Purpura	IL1B	1.0	
+Renal insufficiency	IL1A	1.0	
+Renal insufficiency	IL1B	1.0	
+Hernia	IL1A	1.0	
+Hernia	IL1B	1.0	
+Hyperinsulinemia	IL1A	1.0	
+Hyperinsulinemia	IL1B	1.0	
+Lymphocytosis	IL1A	1.0	
+Pneumocystis jiroveci pneumonia	IL1B	1.0	
+Stomach Neoplasms	IL1A	1.0	
+Stomach Neoplasms	IL1B	1.0	
+Stomach Neoplasms	IL1RN	1.0	
+Liver Cirrhosis, Biliary	IL1A	1.0	
+Liver Cirrhosis, Biliary	IL1B	1.0	
+Liver Cirrhosis, Biliary	IL1RN	1.0	
+Bronchiolitis	IL1RN	1.0	
+Bronchitis	IL1RN	1.0	
+Retroviridae Infections	IL1B	1.0	
+Exanthema	IL1A	1.0	
+Exanthema	IL1B	1.0	
+{Pemphigoid, susceptibility to} (2)	IL1B	1.0	
+Uremia	IL1B	1.0	
+Angina pectoris	IL1A	1.0	
+Osteoarthritis	IL1A	1.0	
+Osteoarthritis	IL1B	1.0	
+Osteoarthritis	IL1RN	1.0	
+Ovarian Neoplasms	IL1A	1.0	
+Ovarian Neoplasms	IL1B	1.0	
+Ovarian Neoplasms	IL1RN	1.0	
+Bleeding with minor or no trauma	IL1A	1.0	
+Hepatitis	IL1A	1.0	
+Hepatitis	IL1B	1.0	
+Hereditary pancreatitis	IL1A	1.0	
+Hereditary pancreatitis	IL1B	1.0	
+Endometrioma	IL1B	1.0	
+Hypercalciuria	IL1A	1.0	
+Mesothelioma, malignant	IL1A	1.0	
+Mesothelioma, malignant	IL1B	1.0	
+Pulmonary edema	IL1B	1.0	
+Uterine neoplasm	IL1B	1.0	
+Alzheimer Disease, Late Onset	IL1B	1.0	
+Brain Infarction	IL1B	1.0	
+B Acute Lymphoblastic Leukemia with t(9;22)(q34;q11.2); BCR-ABL1	IL1A	1.0	
+B Acute Lymphoblastic Leukemia with t(9;22)(q34;q11.2); BCR-ABL1	IL1B	1.0	
+Sciatic Neuropathy	IL1B	1.0	
+Amyotrophic Lateral Sclerosis, Sporadic	IL1B	1.0	
+Crohn Disease	IL1A	1.0	
+Crohn Disease	IL1B	1.0	
+Crohn Disease	IL1RN	1.0	
+Disorders of Intracellular Cobalamin Metabolism	IL1A	1.0	
+Disorders of Intracellular Cobalamin Metabolism	IL1B	1.0	
+Inflammatory Bowel Diseases	IL1A	1.0	
+Inflammatory Bowel Diseases	IL1B	1.0	
+Inflammatory Bowel Diseases	IL1RN	1.0	
+Lymphohistiocytosis, Hemophagocytic	IL1A	1.0	
+Azorean disease	IL1RN	1.0	
+Uveomeningoencephalitic Syndrome	IL1B	1.0	
+Pregnancy loss	IL1B	1.0	
+Tetanus	IL1B	1.0	
+Stromal Neoplasm	IL1B	1.0	
+Carcinoma, Lewis Lung	IL1B	1.0	
+Hereditary hemochromatosis	IL1B	1.0	
+Infarction, Middle Cerebral Artery	IL1B	1.0	
+Unipolar Depression	IL1A	1.0	
+Unipolar Depression	IL1B	1.0	
+Membranous nephropathy, susceptibility to	IL1B	1.0	
+Nasopharyngeal Neoplasms	IL1B	1.0	
+Hodgkin Disease	IL1A	1.0	
+Hodgkin Disease	IL1B	1.0	
+Vascular Diseases	IL1A	1.0	
+Vascular Diseases	IL1B	1.0	
+Myocardial Infarction	IL1A	1.0	
+Myocardial Infarction	IL1B	1.0	
+Myocardial Infarction	IL1RN	1.0	
+Malignant Glioma	IL1A	1.0	
+Malignant Glioma	IL1B	1.0	
+Hepatic fibrosis	IL1B	1.0	
+Hepatic fibrosis	IL1RN	1.0	
+Cardiovascular Diseases	IL1A	1.0	
+Cardiovascular Diseases	IL1B	1.0	
+Cardiovascular Diseases	IL1RN	1.0	
+Arthritis, Rheumatoid	IL1A	1.0	
+Arthritis, Rheumatoid	IL1B	1.0	
+Arthritis, Rheumatoid	IL1RN	1.0	
+Cough	IL1B	1.0	
+Multiple Sclerosis, Relapsing-Remitting	IL1B	1.0	
+Tumor Promotion	IL1B	1.0	
+Age-related macular degeneration 2	IL1A	1.0	
+Age-related macular degeneration 2	IL1B	1.0	
+Leishmaniasis, Visceral	IL1B	1.0	
+Vestibular Schwannoma	IL1B	1.0	
+Oligohydramnios	IL1RN	1.0	
+Carcinoma of cervix	IL1A	1.0	
+Carcinoma of cervix	IL1B	1.0	
+Carcinoma of cervix	IL1RN	1.0	
+Hepatic steatosis	IL1A	1.0	
+Hepatic steatosis	IL1B	1.0	
+Type 1 diabetic neuropathy	IL1B	1.0	
+Arteriosclerosis	IL1A	1.0	
+Arteriosclerosis	IL1B	1.0	
+Arteriosclerosis	IL1RN	1.0	
+Neoplasm of the skin	IL1A	1.0	
+Neoplasm of the skin	IL1B	1.0	
+Mental disorders	IL1B	1.0	
+Mental disorders	IL1RN	1.0	
+airway disease	IL1B	1.0	
+Skin carcinoma	IL1B	1.0	
+Sleep Wake Disorders	IL1B	1.0	
+Waldenstrom macroglobulinemia	IL1B	1.0	
+Polyglandular autoimmune syndrome, type 1	IL1B	1.0	
+Bladder carcinoma	IL1A	1.0	
+Bladder carcinoma	IL1B	1.0	
+Bladder carcinoma	IL1RN	1.0	
+Keratitis	IL1B	1.0	
+Methicillin resistant Staphylococcus aureus	IL1B	1.0	
+Vertebral segmentation defect	IL1RN	1.0	
+Cardiomyopathy, Dilated	IL1B	1.0	
+Cardiomyopathy, Dilated	IL1RN	1.0	
+Precancerous Conditions	IL1B	1.0	
+Precancerous Conditions	IL1RN	1.0	
+Diabetes mellitus type 1	IL1A	1.0	
+Diabetes mellitus type 1	IL1B	1.0	
+Diabetes mellitus type 1	IL1RN	1.0	
+Cystitis	IL1B	1.0	
+Spastic syndrome	IL1A	1.0	
+Verotoxigenic Escherichia coli gastrointestinal tract infection	IL1A	1.0	
+Verotoxigenic Escherichia coli gastrointestinal tract infection	IL1B	1.0	
+Verotoxigenic Escherichia coli gastrointestinal tract infection	IL1RN	1.0	
+Glaucoma, Angle-Closure	IL1A	1.0	
+Glaucoma, Angle-Closure	IL1B	1.0	

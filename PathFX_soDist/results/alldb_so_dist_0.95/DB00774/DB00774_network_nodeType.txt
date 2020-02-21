@@ -1,0 +1,53 @@
+node_name	node_type	
+DB00774	drug	
+CA9	drug_target	
+CA2	drug_target	
+CA1	drug_target	
+KCNMA1	drug_target	
+CA4	drug_target	
+ATP1A1	drug_target	
+CA12	drug_target	
+Astrocytoma	phenotype	
+Breast-ovarian cancer, familial 1	phenotype	
+Renal cell carcinoma, nonpapillary	phenotype	
+Malignant tumor of cervix	phenotype	
+Colorectal Neoplasms	phenotype	
+Verotoxigenic Escherichia coli gastrointestinal tract infection	phenotype	
+Dehydration	phenotype	
+Failure to thrive	phenotype	
+Glaucoma, Angle-Closure	phenotype	
+Heart Failure	phenotype	
+Hyperkalemia	phenotype	
+Hyponatremia	phenotype	
+Animal Mammary Neoplasms	phenotype	
+Secondary hypertriglyceridemia	phenotype	
+Thyroid Neoplasms	phenotype	
+Tuberculosis, Pulmonary	phenotype	
+T-cell lymphoma	phenotype	
+Tumor Progression	phenotype	
+Onset	phenotype	
+Feeding difficulties	phenotype	
+Carcinoma of Male Breast	phenotype	
+Malignant neoplasm of male breast	phenotype	
+Growth abnormality	phenotype	
+Abnormality of the digestive system	phenotype	
+Carcinoma of cervix	phenotype	
+Autosomal recessive inheritance	phenotype	
+Autosomal dominant non-syndromic sensorineural deafness type DFNA	phenotype	
+Breast carcinoma	phenotype	
+Abdominal symptom	phenotype	
+Decreased body weight	phenotype	
+Cancer Cell Growth	phenotype	
+Ductal Carcinoma	phenotype	
+Infantile-onset ascending hereditary spastic paralysis	phenotype	
+T-cell acute lymphoblastic leukemias	phenotype	
+Hepatocellular carcinoma	phenotype	
+Abnormality of fluid regulation	phenotype	
+Abnormality of metabolism/homeostasis	phenotype	
+Abnormality of potassium homeostasis	phenotype	
+Abnormality of sodium homeostasis	phenotype	
+Abnormality of monovalent inorganic cation homeostasis	phenotype	
+Abnormality of cation homeostasis	phenotype	
+Abnormality of body weight	phenotype	
+Abnormality of ion homeostasis	phenotype	
+Abnormality of digestive system physiology	phenotype	

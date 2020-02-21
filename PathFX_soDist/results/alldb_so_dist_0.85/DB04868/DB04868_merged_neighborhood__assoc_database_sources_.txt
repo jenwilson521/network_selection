@@ -1,0 +1,48 @@
+Gene	CUI	Source Databases	
+ABCB1	C0013182	Drug Allergy	DisGeNet	
+CYP2C8	C0013182	Drug Allergy	DisGeNet	
+CYP2C9	C0013182	Drug Allergy	DisGeNet	
+CYP2D6	C0013182	Drug Allergy	DisGeNet	
+CYP3A4	C0013182	Drug Allergy	DisGeNet	
+SLCO1B1	C0013182	Drug Allergy	DisGeNet	
+UGT1A1	C0013182	Drug Allergy	DisGeNet	
+UGT1A7	C0013182	Drug Allergy	DisGeNet	
+UGT1A8	C0013182	Drug Allergy	DisGeNet	
+UGT1A9	C0013182	Drug Allergy	DisGeNet	
+ABCB1	C0020433	Hyperbilirubinemia	DisGeNet	
+CYP2B6	C0020433	Hyperbilirubinemia	DisGeNet	
+SLCO1B1	C0020433	Hyperbilirubinemia	DisGeNet,HumPhenOnt	
+UGT1A	C0020433	Hyperbilirubinemia	DisGeNet	
+UGT1A1	C0020433	Hyperbilirubinemia	DisGeNet,HumPhenOnt	
+UGT1A10	C0020433	Hyperbilirubinemia	DisGeNet	
+UGT1A6	C0020433	Hyperbilirubinemia	DisGeNet	
+UGT1A7	C0020433	Hyperbilirubinemia	DisGeNet	
+UGT1A8	C0020433	Hyperbilirubinemia	DisGeNet	
+UGT1A9	C0020433	Hyperbilirubinemia	DisGeNet	
+UGT1A	C0011226	Hepatitis D Infection	DisGeNet	
+UGT1A1	C0011226	Hepatitis D Infection	DisGeNet	
+UGT1A10	C0011226	Hepatitis D Infection	DisGeNet	
+UGT1A6	C0011226	Hepatitis D Infection	DisGeNet	
+UGT1A7	C0011226	Hepatitis D Infection	DisGeNet	
+UGT1A8	C0011226	Hepatitis D Infection	DisGeNet	
+UGT1A9	C0011226	Hepatitis D Infection	DisGeNet	
+ABCB1	C0746883	Febrile Neutropenia	DisGeNet	
+UGT1A	C0746883	Febrile Neutropenia	DisGeNet	
+UGT1A1	C0746883	Febrile Neutropenia	DisGeNet	
+UGT1A6	C0746883	Febrile Neutropenia	DisGeNet	
+UGT1A7	C0746883	Febrile Neutropenia	DisGeNet	
+ABCB1	C0041755	Adverse drug events and drug allergies	DisGeNet	
+ABCG2	C0041755	Adverse drug events and drug allergies	DisGeNet	
+CYP2C9	C0041755	Adverse drug events and drug allergies	DisGeNet	
+CYP2D6	C0041755	Adverse drug events and drug allergies	DisGeNet	
+SLCO1B1	C0041755	Adverse drug events and drug allergies	DisGeNet	
+UGT1A1	C0041755	Adverse drug events and drug allergies	DisGeNet	
+ABCG2	C0008350	Cholelithiasis	DisGeNet	
+SLCO1B1	C0008350	Cholelithiasis	DisGeNet	
+UGT1A	C0008350	Cholelithiasis	DisGeNet	
+UGT1A1	C0008350	Cholelithiasis	DisGeNet,PheGenI	
+UGT1A10	C0008350	Cholelithiasis	PheGenI	
+UGT1A6	C0008350	Cholelithiasis	DisGeNet,PheGenI	
+UGT1A7	C0008350	Cholelithiasis	PheGenI	
+UGT1A8	C0008350	Cholelithiasis	PheGenI	
+UGT1A9	C0008350	Cholelithiasis	PheGenI	

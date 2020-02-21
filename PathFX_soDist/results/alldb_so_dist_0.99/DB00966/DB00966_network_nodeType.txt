@@ -1,0 +1,10 @@
+node_name	node_type	
+DB00966	drug	
+ABCG2	drug_target	
+ABCB1	drug_target	
+PPARG	drug_target	
+ABCB11	drug_target	
+CYP2C19	drug_target	
+AGTR1	drug_target	
+ABCC2	drug_target	
+UGT1A3	drug_target	

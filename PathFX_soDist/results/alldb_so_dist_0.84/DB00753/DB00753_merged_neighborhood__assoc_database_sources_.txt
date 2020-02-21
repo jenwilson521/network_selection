@@ -1,0 +1,32 @@
+Gene	CUI	Source Databases	
+ALB	C0745744	End Stage Liver Disease	DisGeNet	
+CYP2B6	C0745744	End Stage Liver Disease	DisGeNet	
+CYP2E1	C0745744	End Stage Liver Disease	DisGeNet	
+ALB	C0013146	Methamphetamine abuse	DisGeNet	
+CHRNA4	C0013146	Methamphetamine abuse	DisGeNet	
+CYP2B6	C0013146	Methamphetamine abuse	DisGeNet	
+GABRA1	C0013146	Methamphetamine abuse	DisGeNet	
+CHRNA4	C0028043	Nicotine Dependence	DisGeNet	
+CHRNB2	C0028043	Nicotine Dependence	DisGeNet	
+CYP2B6	C0028043	Nicotine Dependence	DisGeNet	
+CYP2E1	C0028043	Nicotine Dependence	DisGeNet	
+CHRNA4	C0038644	SUDDEN INFANT DEATH SYNDROME	DisGeNet	
+CHRNB2	C0038644	SUDDEN INFANT DEATH SYNDROME	DisGeNet	
+CYP2B6	C0038644	SUDDEN INFANT DEATH SYNDROME	DisGeNet	
+GABRA1	C0019151	Hepatic encephalopathy	DisGeNet	
+GRIA1	C0019151	Hepatic encephalopathy	DisGeNet	
+ALB	C0011581	Depressive Disorder	DisGeNet	
+CHRNA4	C0011581	Depressive Disorder	DisGeNet	
+CHRNB2	C0011581	Depressive Disorder	DisGeNet	
+CYP2B6	C0011581	Depressive Disorder	DisGeNet	
+CYP2E1	C0011581	Depressive Disorder	DisGeNet	
+GRIA1	C0011581	Depressive Disorder	DisGeNet	
+CHRNA4	C0003469	Anxiety Disorders	DisGeNet	
+CHRNB2	C0003469	Anxiety Disorders	DisGeNet	
+CYP2B6	C0003469	Anxiety Disorders	DisGeNet	
+CYP2E1	C0003469	Anxiety Disorders	DisGeNet	
+GRIA1	C0003469	Anxiety Disorders	DisGeNet	
+CHRNA4	C0150055	Chronic pain	DisGeNet	
+CYP2B6	C0150055	Chronic pain	DisGeNet	
+CHRNA4	C0270853	Juvenile myoclonic epilepsy	DisGeNet	
+GABRA1	C0270853	Juvenile myoclonic epilepsy	ClinVar,DisGeNet	

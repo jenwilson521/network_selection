@@ -1,0 +1,4 @@
+node1	node2	edge_score	
+DB00561	KCNK9	1.0	
+DB00561	KCNK3	1.0	
+

@@ -1,0 +1,4 @@
+node1	node2	edge_score	
+DB00291	GSTP1	1.0	
+DB00291	SLCO1A2	1.0	
+

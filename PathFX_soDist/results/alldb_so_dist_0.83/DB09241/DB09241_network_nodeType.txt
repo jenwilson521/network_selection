@@ -1,0 +1,4 @@
+node_name	node_type	
+DB09241	drug	
+NOS1	drug_target	
+GUCY1A2	drug_target	

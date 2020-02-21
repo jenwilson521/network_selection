@@ -1,0 +1,19 @@
+Gene	CUI	Source Databases	
+ALB	C0751781	Dentatorubral pallidoluysian atrophy	DisGeNet	
+AR	C0751781	Dentatorubral pallidoluysian atrophy	DisGeNet	
+AR	C1291314	21-hydroxylase deficiency	DisGeNet	
+CYP3A4	C1291314	21-hydroxylase deficiency	DisGeNet	
+ALB	C0162557	Acute hepatic failure	DisGeNet	
+AR	C0162557	Acute hepatic failure	DisGeNet	
+CYP3A4	C0162557	Acute hepatic failure	DisGeNet	
+ALB	C0027707	Tubulointerstitial nephritis	DisGeNet	
+AR	C0027707	Tubulointerstitial nephritis	DisGeNet	
+AR	C0342492	Adrenal hyperplasia	DisGeNet	
+CYP3A4	C0342492	Adrenal hyperplasia	DisGeNet	
+AR	C0027658	Neoplasms, Germ Cell and Embryonal	DisGeNet	
+CYP3A4	C0027658	Neoplasms, Germ Cell and Embryonal	DisGeNet	
+ALB	C0042749	 {HIV-1 viremia, susceptibility to}, 609423 (3)	DisGeNet	
+CYP3A4	C0042749	 {HIV-1 viremia, susceptibility to}, 609423 (3)	DisGeNet	
+ALB	C0338106	Adenocarcinoma of colon	DisGeNet	
+AR	C0338106	Adenocarcinoma of colon	DisGeNet	
+CYP3A4	C0338106	Adenocarcinoma of colon	DisGeNet	

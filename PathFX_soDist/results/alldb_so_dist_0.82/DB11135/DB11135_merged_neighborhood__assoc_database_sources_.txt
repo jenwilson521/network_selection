@@ -1,0 +1,65 @@
+Gene	CUI	Source Databases	
+GSR	C0001418	 Adenocarcinoma, ovarian, somatic, 167000 (3)	DisGeNet	
+GSR	C0001973	Alcohol dependence	DisGeNet	
+GSR	C0002395	Alzheimer Disease	DisGeNet	
+GSR	C0002736	Amyotrophic Lateral Sclerosis	DisGeNet	
+GSR	C0002871	Anemia	DisGeNet	
+GSR	C0002878	Hemolytic anemia, nonspherocytic, due to glucose phosphate isomerase deficiency	DisGeNet	
+GSR	C0003850	Arteriosclerosis	DisGeNet	
+GSR	C0004096	Asthma	DisGeNet	
+GSR	C0004153	Atherosclerosis	DisGeNet	
+GSR	C0005283	beta Thalassemia	DisGeNet	
+GSR	C0006142	Breast-ovarian cancer, familial 1	DisGeNet	
+GSR	C0007137	Squamous cell carcinoma	DisGeNet	
+GSR	C0007787	Transient ischemic attack	DisGeNet	
+GSR	C0007789	Cerebral palsy, spastic quadriplegic, 3	DisGeNet	
+GSR	C0008671	Chromosome 8, trisomy	DisGeNet	
+GSR	C0011616	Contact Dermatitis	DisGeNet	
+GSR	C0011849	Diabetes Mellitus, Type 1	DisGeNet	
+GSR	C0011881	Diabetic Nephropathies	DisGeNet	
+GSR	C0013604	Hydrops, lactic acidosis, and sideroblastic anemia	DisGeNet	
+GSR	C0018939	Hematological Disease	DisGeNet	
+GSR	C0020179	Huntington's chorea	DisGeNet	
+GSR	C0020443	Hypercholesterolemia, autosomal dominant, type B	DisGeNet	
+GSR	C0020550	Hyperthyroidism	DisGeNet	
+GSR	C0020615	Hypoglycemia, neonatal, simulating foetopathia diabetica	DisGeNet	
+GSR	C0021670	Insulinoma	DisGeNet	
+GSR	C0022660	Acute kidney injury	DisGeNet	
+GSR	C0023434	Chronic Lymphocytic Leukemia	DisGeNet	
+GSR	C0024117	Chronic obstructive pulmonary disease	DisGeNet	
+GSR	C0024530	Malaria	DisGeNet	
+GSR	C0024535	Malaria, Falciparum	DisGeNet	
+GSR	C0024667	Animal Mammary Neoplasms	DisGeNet	
+GSR	C0025149	Medulloblastoma	DisGeNet	
+GSR	C0027051	Myocardial Infarction	DisGeNet	
+GSR	C0027055	Myocardial Reperfusion Injury	DisGeNet	
+GSR	C0028754	Obesity	DisGeNet	
+GSR	C0029443	Osteomyelitis, sterile multifocal, with periostitis and pustulosis	DisGeNet	
+GSR	C0029456	Osteoporosis	DisGeNet	
+GSR	C0030920	Peptic ulcer	DisGeNet	
+GSR	C0033626	Protein Deficiency	DisGeNet	
+GSR	C0035126	Reperfusion Injury	DisGeNet	
+GSR	C0038454	Stroke	DisGeNet	
+GSR	C0040336	Tobacco Use Disorder	DisGeNet	
+GSR	C0041107	Trisomy	DisGeNet	
+GSR	C0041234	Chronic Chagas' disease	DisGeNet	
+GSR	C0085207	Maternal diabetes	DisGeNet	
+GSR	C0086543	Cataract, autosomal recessive congenital 5	DisGeNet	
+GSR	C0153381	Cancer of mouth	DisGeNet	
+GSR	C0162429	Malnutrition	DisGeNet	
+GSR	C0220641	Lip and Oral Cavity Carcinoma	DisGeNet	
+GSR	C0242379	Malignant neoplasm of lung	DisGeNet	
+GSR	C0242422	Parkinsonism	DisGeNet	
+GSR	C0242488	Acute Lung Injury	DisGeNet	
+GSR	C0273115	Lung Injury	DisGeNet	
+GSR	C0311375	Arsenic Poisoning	DisGeNet	
+GSR	C0376618	Endotoxemia	DisGeNet	
+GSR	C0400966	Non-alcoholic Fatty Liver Disease	DisGeNet	
+GSR	C0524851	Neurodegenerative Diseases	DisGeNet	
+GSR	C0524910	Hepatitis C, Chronic	DisGeNet	
+GSR	C0678222	Breast carcinoma	DisGeNet	
+GSR	C0684249	Lung cancer	DisGeNet	
+GSR	C0700095	Neuroblastoma	DisGeNet	
+GSR	C0860207	Drug-Induced Liver Injury	DisGeNet	
+GSR	C1833683	Calcium oxalate urolithiasis	DisGeNet	
+GSR	C1862941	Amyotrophic Lateral Sclerosis, Sporadic	DisGeNet	

@@ -1,0 +1,5 @@
+node1	node2	edge_score	
+DB09123	CYP3A4	1.0	
+DB09123	AR	1.0	
+DB09123	PGR	1.0	
+

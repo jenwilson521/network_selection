@@ -1,0 +1,4 @@
+node_name	node_type	
+DB11134	drug	
+CP	drug_target	
+ALB	drug_target	

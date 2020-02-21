@@ -1,0 +1,5 @@
+node1	node2	edge_score	
+DB01048	UGT1A1	1.0	
+DB01048	ADK	1.0	
+DB01048	ADH6	1.0	
+

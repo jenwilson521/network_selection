@@ -1,0 +1,11 @@
+Gene	CUI	Source Databases	
+GLP1R	C0003855	Arteriovenous fistula	DisGeNet	
+GLP1R	C0600260	Obstructive lung disease	DisGeNet	
+GLP1R	C0008354	Cholera	DisGeNet	
+GLP1R	C0011875	Diabetic Angiopathies	DisGeNet	
+GLP1R	C0342276	Maturity-onset diabetes of the young, type 11	DisGeNet	
+GLP1R	C0878500	Intraepithelial Neoplasia	DisGeNet	
+GLP1R	C0003123	Anorexia	DisGeNet	
+GLP1R	C0020507	Hyperplasia	DisGeNet	
+GLP1R	C0021670	Insulinoma	DisGeNet	
+GLP1R	C3241937	Nonalcoholic Steatohepatitis	DisGeNet	

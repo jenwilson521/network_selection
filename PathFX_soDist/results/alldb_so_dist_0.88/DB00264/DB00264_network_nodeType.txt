@@ -1,0 +1,13 @@
+node_name	node_type	
+DB00264	drug	
+CYP2D6	drug_target	
+ALB	drug_target	
+ADRB2	drug_target	
+ADRB1	drug_target	
+ABCB1	drug_target	
+SLC22A2	drug_target	
+CYP3A4	drug_target	
+Acute postoperative pain	phenotype	
+Primary malignant neoplasm of liver	phenotype	
+Occupational Diseases	phenotype	
+Nephrosclerosis	phenotype	

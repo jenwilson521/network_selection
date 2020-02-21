@@ -1,0 +1,5 @@
+node1	node2	edge_score	
+DB00337	CYP3A4	1.0	
+DB00337	MTOR	1.0	
+DB00337	FKBP1A	1.0	
+

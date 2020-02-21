@@ -1,0 +1,29 @@
+Gene	CUI	Source Databases	
+ABCB1	C0041755	Adverse drug events and drug allergies	DisGeNet	
+ABCC1	C0041755	Adverse drug events and drug allergies	DisGeNet	
+ABCC2	C0041755	Adverse drug events and drug allergies	DisGeNet	
+ABCC4	C0041755	Adverse drug events and drug allergies	DisGeNet	
+SLCO1B1	C0041755	Adverse drug events and drug allergies	DisGeNet	
+ABCC2	C0812435	Chromosome 11p deletion syndrome	DisGeNet	
+ABCC4	C0812435	Chromosome 11p deletion syndrome	DisGeNet	
+SLC22A8	C0812435	Chromosome 11p deletion syndrome	DisGeNet	
+ABCB1	C0020433	Hyperbilirubinemia	DisGeNet	
+ABCC2	C0020433	Hyperbilirubinemia	DisGeNet,HumPhenOnt	
+ABCC3	C0020433	Hyperbilirubinemia	DisGeNet	
+SLCO1B1	C0020433	Hyperbilirubinemia	DisGeNet,HumPhenOnt	
+SLCO1B3	C0020433	Hyperbilirubinemia	DisGeNet,HumPhenOnt	
+ABCC2	C0008372	Intrahepatic cholestasis	DisGeNet	
+ABCC3	C0008372	Intrahepatic cholestasis	DisGeNet	
+ABCC4	C0008372	Intrahepatic cholestasis	DisGeNet	
+SLC10A2	C0008372	Intrahepatic cholestasis	DisGeNet	
+ABCB1	C0008312	Primary biliary cirrhosis	DisGeNet	
+ABCC1	C0008312	Primary biliary cirrhosis	DisGeNet	
+ABCC2	C0008312	Primary biliary cirrhosis	DisGeNet	
+ABCC3	C0008312	Primary biliary cirrhosis	DisGeNet	
+ABCC4	C0008312	Primary biliary cirrhosis	DisGeNet	
+SLCO1B1	C0008312	Primary biliary cirrhosis	DisGeNet	
+SLCO1B3	C0008312	Primary biliary cirrhosis	DisGeNet	
+ABCB1	C0013182	Drug Allergy	DisGeNet	
+ABCC2	C0013182	Drug Allergy	DisGeNet	
+ADH1C	C0013182	Drug Allergy	DisGeNet	
+SLCO1B1	C0013182	Drug Allergy	DisGeNet	

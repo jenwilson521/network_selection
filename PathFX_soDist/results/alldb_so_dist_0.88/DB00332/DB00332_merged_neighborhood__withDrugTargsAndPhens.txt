@@ -1,0 +1,233 @@
+node1	node2	edge_score	
+DB00332	ALB	1.0	
+DB00332	CHRM3	1.0	
+DB00332	CHRM2	1.0	
+DB00332	CHRM1	1.0	
+DB00332	SLC22A4	1.0	
+DB00332	SLC22A5	1.0	
+ALB	complex:lAo9+jzjVOaRJSWZQvoh0G1mUDc	0.954526206676
+SLC22A5		1.0
+SLC22A4		1.0
+CHRM2		1.0
+ALB		1.0
+pathologic fistula	SLC22A4	1.0	
+pathologic fistula	SLC22A5	1.0	
+Gastrointestinal stromal tumor	ALB	1.0	
+Gastrointestinal stromal tumor	SLC22A4	1.0	
+Gastrointestinal stromal tumor	SLC22A5	1.0	
+Diabetes mellitus type 1	ALB	1.0	
+Diabetes mellitus type 1	CHRM2	1.0	
+Diabetes mellitus type 1	SLC22A4	1.0	
+Diabetes mellitus type 1	SLC22A5	1.0	
+Growth Disorders	SLC22A4	1.0	
+Growth Disorders	SLC22A5	1.0	
+Type 1 diabetic neuropathy	ALB	1.0	
+Type 1 diabetic neuropathy	CHRM2	1.0	
+Chronic ulcerative colitis	SLC22A4	1.0	
+Chronic ulcerative colitis	SLC22A5	1.0	
+Fibrinogen Adverse Event	SLC22A4	1.0	
+Fibrinogen Adverse Event	SLC22A5	1.0	
+Myocarditis	SLC22A4	1.0	
+Myocarditis	SLC22A5	1.0	
+Abnormality of lipid metabolism	ALB	1.0	
+Abnormality of lipid metabolism	SLC22A5	1.0	
+Arthritis, Psoriatic	SLC22A4	1.0	
+Arthritis, Psoriatic	SLC22A5	1.0	
+Bronchiolitis, Viral	SLC22A4	1.0	
+Bronchiolitis, Viral	SLC22A5	1.0	
+Ulcerative colitis	ALB	1.0	
+Ulcerative colitis	SLC22A4	1.0	
+Ulcerative colitis	SLC22A5	1.0	
+Leg Ulcer	SLC22A5	1.0	
+Recurrent major depressive episodes	CHRM2	1.0	
+Malignant neoplasm of adrenal cortex	ALB	1.0	
+Esophageal varix	ALB	1.0	
+Urolithiasis	ALB	1.0	
+Encephalopathy, acute, infection-induced, 4, susceptibility to	ALB	1.0	
+Encephalopathy, acute, infection-induced, 4, susceptibility to	SLC22A5	1.0	
+Echinococcosis	ALB	1.0	
+Crohn Disease	ALB	1.0	
+Crohn Disease	SLC22A4	1.0	
+Crohn Disease	SLC22A5	1.0	
+Proliferative retinopathy	ALB	1.0	
+Acute encephalopathy	SLC22A5	1.0	
+Isolated somatotropin deficiency	ALB	1.0	
+Substance Use Disorders	ALB	1.0	
+Neck muscle weakness	SLC22A5	1.0	
+Dentatorubral pallidoluysian atrophy	ALB	1.0	
+Angiokeratoma	ALB	1.0	
+Isolated growth hormone deficiency type 1B	ALB	1.0	
+Congenital long QT syndrome	SLC22A5	1.0	
+Respiratory Syncytial Virus Infections	SLC22A4	1.0	
+Respiratory Syncytial Virus Infections	SLC22A5	1.0	
+Paratuberculosis	SLC22A4	1.0	
+Pericardial effusion	ALB	1.0	
+Enterovirus Infections	SLC22A4	1.0	
+Mumps	ALB	1.0	
+Rhinitis, Allergic, Perennial	ALB	1.0	
+Endemic Cretinism	ALB	1.0	
+Hemangioblastoma	ALB	1.0	
+Malignant ascites	SLC22A5	1.0	
+Mesangiocapillary glomerulonephritis, type II	ALB	1.0	
+Lipoidosis	SLC22A5	1.0	
+Nephrosclerosis	ALB	1.0	
+Peripheral motor neuropathy	ALB	1.0	
+End Stage Liver Disease	ALB	1.0	
+Abnormality of fatty-acid metabolism	SLC22A5	1.0	
+Hyperammonemia	SLC22A5	1.0	
+Abnormal albumin level	ALB	1.0	
+Bronchogenic Carcinoma	ALB	1.0	
+Confusion	SLC22A5	1.0	
+Coronary artery aneurysm	ALB	1.0	
+Hyperlipoproteinemia	ALB	1.0	
+Hyperlipoproteinemia Type IIa	ALB	1.0	
+Tubulointerstitial nephritis	ALB	1.0	
+Excessive daytime sleepiness	SLC22A5	1.0	
+Single tumor	ALB	1.0	
+Nephrotic Syndrome, Minimal Change	ALB	1.0	
+cardiac event	SLC22A5	1.0	
+Abnormality of the endocardium	SLC22A5	1.0	
+Graves Disease	SLC22A4	1.0	
+Graves Disease	SLC22A5	1.0	
+Sickle Cell Trait	SLC22A5	1.0	
+Varicella zoster	ALB	1.0	
+Drusen	ALB	1.0	
+Insulin resistance syndrome	ALB	1.0	
+Heart Diseases	ALB	1.0	
+Heart Diseases	CHRM2	1.0	
+Hemoglobinopathy	SLC22A5	1.0	
+Bloom syndrome	SLC22A5	1.0	
+Nephrosis	ALB	1.0	
+Guillain-Barre syndrome, familial	ALB	1.0	
+Behcet Syndrome	SLC22A4	1.0	
+Behcet Syndrome	SLC22A5	1.0	
+Primary hyperparathyroidism	ALB	1.0	
+Bradycardia	CHRM2	1.0	
+Drug Resistant Epilepsy	ALB	1.0	
+Respiratory Tract Diseases	ALB	1.0	
+Sicca Syndrome	ALB	1.0	
+Hypoalbuminemia	ALB	1.0	
+Hepatic steatosis	ALB	1.0	
+Hepatic steatosis	SLC22A5	1.0	
+Neurologic, endocrine, and pancreatic disease, multisystem, infantile-onset	ALB	1.0	
+Abnormality of the musculature of the neck	SLC22A5	1.0	
+Congenital hypothyroidism	ALB	1.0	
+Adverse drug events and drug allergies	ALB	1.0	
+Familial dilated cardiomyopathy	CHRM2	1.0	
+Myopathy, scapulohumeroperoneal	ALB	1.0	
+Myopathy, scapulohumeroperoneal	SLC22A5	1.0	
+Cardiomyopathy, Dilated	CHRM2	1.0	
+Cardiomyopathy, Dilated	SLC22A5	1.0	
+Syncope	SLC22A5	1.0	
+Hemolytic uremic syndrome	ALB	1.0	
+Drug Dependence	CHRM2	1.0	
+Incoordination	SLC22A5	1.0	
+Occupational Diseases	ALB	1.0	
+Microalbuminuria	ALB	1.0	
+Chest pain	ALB	1.0	
+ {HIV-1 viremia, susceptibility to}, 609423 (3)	ALB	1.0	
+Acute Lung Injury	ALB	1.0	
+Abnormality of nitrogen compound homeostasis	SLC22A5	1.0	
+Azotemia	SLC22A5	1.0	
+Complications of Diabetes Mellitus	ALB	1.0	
+Ehlers-Danlos syndrome, type vii, autosomal recessive	SLC22A5	1.0	
+Pulmonary edema	ALB	1.0	
+Hypertension	ALB	1.0	
+Hypertension	SLC22A4	1.0	
+Hypertension	SLC22A5	1.0	
+Stevens-Johnson Syndrome	ALB	1.0	
+Congenital chromosomal disease	ALB	1.0	
+Congenital chromosomal disease	SLC22A5	1.0	
+Lymphohistiocytosis, Hemophagocytic	ALB	1.0	
+Substance addiction and disorders	CHRM2	1.0	
+Depressive Disorder	ALB	1.0	
+Depressive Disorder	CHRM2	1.0	
+IMMUNE SUPPRESSION	ALB	1.0	
+Dementia, Vascular	ALB	1.0	
+Membranous nephropathy, susceptibility to	ALB	1.0	
+DiGeorge sequence	ALB	1.0	
+Liver regeneration disorder	ALB	1.0	
+Diabetic Angiopathies	ALB	1.0	
+Plasmacytoma	ALB	1.0	
+Polyneuropathy, hearing loss, ataxia, retinitis pigmentosa, and cataract	ALB	1.0	
+Storage in hepatocytes	SLC22A5	1.0	
+Thyroid associated opthalmopathies	SLC22A5	1.0	
+Lipid accumulation in hepatocytes	SLC22A5	1.0	
+Abnormality of mitochondrial metabolism	SLC22A5	1.0	
+Coma	SLC22A5	1.0	
+Hyperlipidemia, familial combined	ALB	1.0	
+Kartagener syndrome	SLC22A5	1.0	
+Alcohol abuse	CHRM2	1.0	
+Generalized tonic-clonic seizures	SLC22A5	1.0	
+Abnormality of the mitochondrion	SLC22A5	1.0	
+Interstitial fibrosis	ALB	1.0	
+Rheumatoid arthritis	ALB	1.0	
+Rheumatoid arthritis	SLC22A4	1.0	
+Rheumatoid arthritis	SLC22A5	1.0	
+Hemochromatosis	ALB	1.0	
+Inflammation	CHRM2	1.0	
+Inflammation	SLC22A5	1.0	
+Ischemia	ALB	1.0	
+Ischemia	SLC22A4	1.0	
+Methamphetamine abuse	ALB	1.0	
+Hereditary factor VIII deficiency disease	ALB	1.0	
+Lethargy	SLC22A5	1.0	
+Tuberculosis	SLC22A4	1.0	
+Tuberculosis	SLC22A5	1.0	
+Glomerulosclerosis, Focal Segmental	ALB	1.0	
+tumor vasculature	ALB	1.0	
+Epilepsy	ALB	1.0	
+Epilepsy	CHRM2	1.0	
+Maturity-onset diabetes of the young, type 11	ALB	1.0	
+Nicotine Dependence	CHRM2	1.0	
+Autoimmune thyroid disease 3	SLC22A4	1.0	
+Acquired long QT syndrome	SLC22A5	1.0	
+Abnormality of cardiovascular system physiology	ALB	1.0	
+Abnormality of cardiovascular system physiology	SLC22A5	1.0	
+Focal segmental glomerulosclerosis	ALB	1.0	
+Malnutrition	ALB	1.0	
+Urticaria	ALB	1.0	
+Thrombophilia	ALB	1.0	
+Hypotension	ALB	1.0	
+Elevated hepatic transaminases	SLC22A5	1.0	
+Ventricular Fibrillation Adverse Event	CHRM2	1.0	
+Congenital diaphragmatic hernia	ALB	1.0	
+Coronary heart disease 7	ALB	1.0	
+Coronary heart disease 7	SLC22A5	1.0	
+Pregnancy Complications	SLC22A5	1.0	
+Abnormality of muscle fibers	SLC22A5	1.0	
+Pulmonary Embolism	ALB	1.0	
+Anorexia	ALB	1.0	
+Generalized seizures	SLC22A5	1.0	
+beta Thalassemia	SLC22A5	1.0	
+Acute hepatic failure	ALB	1.0	
+Obesity	ALB	1.0	
+Obesity	CHRM2	1.0	
+Obesity	SLC22A5	1.0	
+Solid tumour	ALB	1.0	
+Solid tumour	SLC22A5	1.0	
+Congestive heart failure	ALB	1.0	
+Congestive heart failure	SLC22A5	1.0	
+Respiratory Distress Syndrome, Adult	ALB	1.0	
+Hashimoto thyroiditis	SLC22A4	1.0	
+Coinfection	ALB	1.0	
+Chronic liver disease	ALB	1.0	
+Abnormality of adipose tissue	ALB	1.0	
+Heart Failure	ALB	1.0	
+Heart Failure	SLC22A5	1.0	
+orbit (eye disorders)	SLC22A5	1.0	
+Uveitis	ALB	1.0	
+Glomerulopathy	ALB	1.0	
+Adrenocortical carcinoma	ALB	1.0	
+Irritable bowel syndrome with diarrhea	SLC22A5	1.0	
+Albuminuria	ALB	1.0	
+Lipoatrophy	ALB	1.0	
+Psoriasis	SLC22A4	1.0	
+Psoriasis	SLC22A5	1.0	
+Abnormality of blood glucose concentration	SLC22A5	1.0	
+Autoimmune disease 1	ALB	1.0	
+Autoimmune disease 1	SLC22A4	1.0	
+Tumor necrosis	SLC22A5	1.0	
+Cachexia	ALB	1.0	
+Substance-Related Disorders	CHRM2	1.0	
+Bleeding disorder, platelet-type, 21	ALB	1.0	

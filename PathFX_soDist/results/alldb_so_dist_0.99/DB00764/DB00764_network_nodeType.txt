@@ -1,0 +1,6 @@
+node_name	node_type	
+DB00764	drug	
+CYP2C8	drug_target	
+CYP3A4	drug_target	
+PGR	drug_target	
+NR3C1	drug_target	

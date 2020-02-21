@@ -1,0 +1,12 @@
+node_name	node_type	
+DB00437	drug	
+AOX1	drug_target	
+ABCG2	drug_target	
+SLC22A8	drug_target	
+SLC22A2	drug_target	
+XDH	drug_target	
+Hyperuricemia, pulmonary hypertension, renal failure, and alkalosis	phenotype	
+Hearing Loss, Partial	phenotype	
+Intrahepatic cholestasis	phenotype	
+Deafness, autosomal recessive 44	phenotype	
+Acute kidney injury	phenotype	

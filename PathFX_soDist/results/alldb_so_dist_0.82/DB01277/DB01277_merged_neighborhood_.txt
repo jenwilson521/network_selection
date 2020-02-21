@@ -1,0 +1,3 @@
+INSR		1.0	
+IGFBP3		1.0	
+INSR	rs2396185	0.99	

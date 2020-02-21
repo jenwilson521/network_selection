@@ -1,0 +1,18 @@
+node_name	node_type	
+DB03166	drug	
+SLC16A1	drug_target	
+SLCO2B1	drug_target	
+Breast-ovarian cancer, familial 1	phenotype	
+Thyroid cancer, nonmedullary, 4	phenotype	
+Hyperbilirubinemia	phenotype	
+Secondary hypertriglyceridemia	phenotype	
+Combined Hepatocellular Carcinoma and Cholangiocarcinoma	phenotype	
+Pancreatic Carcinoma	phenotype	
+Hepatic cancer metastatic	phenotype	
+Malignant neoplasm of pancreas	phenotype	
+Malignant tumor of prostate	phenotype	
+Thyroid carcinoma	phenotype	
+Carcinogenesis	phenotype	
+Prostate carcinoma	phenotype	
+Breast carcinoma	phenotype	
+Squamous cell carcinoma of the head and neck	phenotype	

@@ -1,0 +1,46 @@
+node1	node2	edge_score	
+DB01373	AOC1	1.0	
+DB01373	BMP4	1.0	
+DB01373	COMP	1.0	
+DB01373	CACNA1C	1.0	
+DB01373	TNNC1	1.0	
+DB01373	ATP2C1	1.0	
+DB01373	CAST	1.0	
+DB01373	ALPP	1.0	
+DB01373	S100A9	1.0	
+DB01373	S100A8	1.0	
+DB01373	TNNC2	1.0	
+DB01373	PDCD6	1.0	
+DB01373	CP	1.0	
+DB01373	S100A2	1.0	
+DB01373	S100A13	1.0	
+DB01373	SPTBN1	1.0	
+DB01373	S100B	1.0	
+CACNA1C	rs1006737	0.99
+CACNA1C	rs10848635	0.99
+CACNA1C	rs2239050	0.99
+CACNA1C	rs2238032	0.99
+CACNA1C		1.0
+CACNA1C	rs2239128	0.99
+CACNA1C	rs1051375	0.99
+Recurrent major depressive episodes	CACNA1C	1.0	
+Prolonged QT interval	CACNA1C	1.0	
+Congenital long QT syndrome	CACNA1C	1.0	
+Sudden death	CACNA1C	1.0	
+Malignant hyperthermia susceptibility	CACNA1C	1.0	
+Primary atrial arrhythmia	CACNA1C	1.0	
+Abnormal cardiac test	CACNA1C	1.0	
+Supraventricular arrhythmia	CACNA1C	1.0	
+Brugada Syndrome	CACNA1C	1.0	
+Dysmorphic features	CACNA1C	1.0	
+Abnormal EKG	CACNA1C	1.0	
+Channelopathies	CACNA1C	1.0	
+Supraventricular tachycardia	CACNA1C	1.0	
+Syncope	CACNA1C	1.0	
+Ventricular arrhythmia	CACNA1C	1.0	
+Primary hyperaldosteronism	CACNA1C	1.0	
+Attention Deficit Disorder	CACNA1C	1.0	
+Drug Dependence	CACNA1C	1.0	
+Bronchitis	CACNA1C	1.0	
+Common Migraine	CACNA1C	1.0	
+Substance addiction and disorders	CACNA1C	1.0	

@@ -1,0 +1,10 @@
+node_name	node_type	
+DB00402	drug	
+CYP2C8	drug_target	
+CYP3A4	drug_target	
+GABRA1	drug_target	
+GABRA3	drug_target	
+GABRA2	drug_target	
+Bone necrosis	phenotype	
+Pharyngeal Neoplasms	phenotype	
+Essential tremor	phenotype	

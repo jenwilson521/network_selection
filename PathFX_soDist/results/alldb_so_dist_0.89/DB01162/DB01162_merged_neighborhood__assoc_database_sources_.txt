@@ -1,0 +1,32 @@
+Gene	CUI	Source Databases	
+ABCB1	C0152020	Gastroparesis	DisGeNet	
+ADRA1A	C0152020	Gastroparesis	DisGeNet	
+ADRA1B	C0152020	Gastroparesis	DisGeNet	
+KCNH2	C0152020	Gastroparesis	DisGeNet	
+ABCB1	C0030201	Acute postoperative pain	DisGeNet	
+ADRA1A	C0030201	Acute postoperative pain	DisGeNet	
+TGFB1	C0030201	Acute postoperative pain	DisGeNet	
+ABCB1	C0085580	Essential hypertension	DisGeNet	
+ADRA1A	C0085580	Essential hypertension	DisGeNet	
+ADRA1B	C0085580	Essential hypertension	DisGeNet	
+KCNH2	C0085580	Essential hypertension	DisGeNet	
+TGFB1	C0085580	Essential hypertension	DisGeNet	
+ADRA1A	C0005694	Bladder neck obstruction	DisGeNet	
+TGFB1	C0005694	Bladder neck obstruction	DisGeNet	
+ABCB1	C0023440	Acute Erythroblastic Leukemia	DisGeNet	
+ADRA1A	C0023440	Acute Erythroblastic Leukemia	DisGeNet	
+KCNH2	C0023440	Acute Erythroblastic Leukemia	DisGeNet	
+TGFB1	C0023440	Acute Erythroblastic Leukemia	DisGeNet	
+ADRA1A	C1141890	Congenital long QT syndrome	DisGeNet	
+KCNH2	C1141890	Congenital long QT syndrome	DisGeNet	
+ABCB1	C0524528	Pervasive developmental disorders	DisGeNet	
+TGFB1	C0524528	Pervasive developmental disorders	DisGeNet	
+ABCB1	C0023462	Acute megakaryocytic leukemia	DisGeNet	
+KCNH2	C0023462	Acute megakaryocytic leukemia	DisGeNet	
+TGFB1	C0023462	Acute megakaryocytic leukemia	DisGeNet	
+KCNH2	C0280280	Prostate cancer stage C	DisGeNet	
+TGFB1	C0280280	Prostate cancer stage C	DisGeNet	
+ABCB1	C0235032	Neurotoxicity Syndromes	DisGeNet	
+ADRA1B	C0235032	Neurotoxicity Syndromes	DisGeNet	
+ADRA1A	C0024031	Low back pain	DisGeNet	
+TGFB1	C0024031	Low back pain	DisGeNet	

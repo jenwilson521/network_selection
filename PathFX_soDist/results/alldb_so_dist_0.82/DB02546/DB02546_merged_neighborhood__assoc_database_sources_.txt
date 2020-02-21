@@ -1,0 +1,99 @@
+Gene	CUI	Source Databases	
+HDAC1	C0206630	Stromal sarcoma	DisGeNet	
+HDAC2	C0206630	Stromal sarcoma	DisGeNet	
+HDAC1	C1335302	Pancreatic Ductal Adenocarcinoma	DisGeNet	
+HDAC2	C1335302	Pancreatic Ductal Adenocarcinoma	DisGeNet	
+MTA2	C1335302	Pancreatic Ductal Adenocarcinoma	DisGeNet	
+HDAC1	C0014175	Endometriosis	DisGeNet	
+HDAC2	C0014175	Endometriosis	DisGeNet	
+MTA2	C0014175	Endometriosis	DisGeNet	
+HDAC1	C0006012	Borderline Personality Disorder	DisGeNet	
+HDAC2	C0006012	Borderline Personality Disorder	DisGeNet	
+HDAC1	C0007133	Carcinoma, Papillary	DisGeNet	
+HDAC2	C0007133	Carcinoma, Papillary	DisGeNet	
+HDAC1	C0006287	Bronchopulmonary Dysplasia	DisGeNet	
+HDAC2	C0006287	Bronchopulmonary Dysplasia	DisGeNet	
+HDAC1	C0079773	Cutaneous T-cell lymphoma	DisGeNet	
+HDAC2	C0079773	Cutaneous T-cell lymphoma	DisGeNet	
+HDAC1	C0032584	polyps	DisGeNet	
+HDAC2	C0032584	polyps	DisGeNet	
+HDAC2	C0001622	Adrenal Gland Hyperfunction	DisGeNet	
+HDAC1	C0205824	Liposarcoma, Dedifferentiated	DisGeNet	
+HDAC2	C0221406	Pituitary dependent hypercortisolism	DisGeNet	
+HDAC1	C0281361	Pancreatic adenocarcinoma	DisGeNet	
+HDAC2	C0281361	Pancreatic adenocarcinoma	DisGeNet	
+HDAC1	C1516170	Cancer Cell Growth	DisGeNet	
+HDAC2	C1516170	Cancer Cell Growth	DisGeNet	
+HDAC1	C0003130	Hypoxia	DisGeNet	
+HDAC2	C0003130	Hypoxia	DisGeNet	
+HDAC1	C0015934	Intrauterine growth retardation	DisGeNet	
+HDAC2	C0015934	Intrauterine growth retardation	DisGeNet	
+MTA2	C0032987	Ectopic Pregnancy	DisGeNet	
+HDAC2	C1306214	Pituitary corticotropic cell adenoma	DisGeNet	
+MTA2	C0085166	Bacterial Vaginosis	DisGeNet	
+HDAC1	C0007102	Colon cancer	DisGeNet	
+HDAC2	C0007102	Colon cancer	DisGeNet	
+MTA2	C0007102	Colon cancer	DisGeNet	
+HDAC2	C1841972	Glucocorticoid resistance, generalized	DisGeNet	
+HDAC1	C0221287	Combined Hepatocellular Carcinoma and Cholangiocarcinoma	DisGeNet	
+HDAC2	C0221287	Combined Hepatocellular Carcinoma and Cholangiocarcinoma	DisGeNet	
+HDAC1	C0699790	Carcinoma of colon	DisGeNet	
+HDAC2	C0699790	Carcinoma of colon	DisGeNet	
+MTA2	C0699790	Carcinoma of colon	DisGeNet	
+HDAC1	C0030521	Neoplasm of the parathyroid gland	DisGeNet	
+HDAC2	C0009376	Colonic Polyps	DisGeNet	
+HDAC2	C0796369	Microsatellite Instability	DisGeNet	
+HDAC1	C0023470	Myeloid leukemia	DisGeNet	
+HDAC2	C0023470	Myeloid leukemia	DisGeNet	
+HDAC1	C0178874	Tumor Progression	DisGeNet	
+HDAC2	C0178874	Tumor Progression	DisGeNet	
+MTA2	C0178874	Tumor Progression	DisGeNet	
+HDAC1	C1520166	Xenograft Model	DisGeNet	
+HDAC2	C1520166	Xenograft Model	DisGeNet	
+MTA2	C0398686	Primary immune deficiency disorder	DisGeNet	
+HDAC1	C0017638	Glioma	DisGeNet	
+HDAC2	C0017638	Glioma	DisGeNet	
+MTA2	C0017638	Glioma	DisGeNet	
+HDAC1	C0162770	Right ventricular hypertrophy	DisGeNet	
+HDAC2	C0006277	Bronchitis	DisGeNet	
+MTA2	C0043194	Wiskott-Aldrich syndrome, 301000 (3)	DisGeNet	
+HDAC1	C0024623	{Gastric cancer risk after H. pylori infection}, 137215 (3)	DisGeNet	
+HDAC2	C0024623	{Gastric cancer risk after H. pylori infection}, 137215 (3)	DisGeNet	
+MTA2	C0024623	{Gastric cancer risk after H. pylori infection}, 137215 (3)	DisGeNet	
+HDAC2	C0030809	Pemphigus Vulgaris	DisGeNet	
+HDAC1	C0699791	Stomach cancer	DisGeNet	
+HDAC2	C0699791	Stomach cancer	DisGeNet	
+MTA2	C0699791	Stomach cancer	DisGeNet	
+MTA2	C0018203	Granulomatous disease, chronic, autosomal recessive, cytochrome b-negative	DisGeNet	
+HDAC1	C0345904	Hepatic cancer metastatic	DisGeNet	
+HDAC2	C0345904	Hepatic cancer metastatic	DisGeNet	
+HDAC1	C0684249	Lung cancer	DisGeNet	
+HDAC2	C0684249	Lung cancer	DisGeNet	
+MTA2	C0684249	Lung cancer	DisGeNet	
+HDAC1	C0855197	Testicular malignant germ cell tumor	DisGeNet	
+HDAC2	C0270814	Spastic syndrome	DisGeNet	
+HDAC1	C0023524	Leukoencephalopathy, Progressive Multifocal	DisGeNet	
+HDAC1	C0242379	Malignant neoplasm of lung	DisGeNet	
+HDAC2	C0242379	Malignant neoplasm of lung	DisGeNet	
+MTA2	C0242379	Malignant neoplasm of lung	DisGeNet	
+HDAC1	C0039538	Teratoma	DisGeNet	
+HDAC1	C0345905	Intrahepatic Cholangiocarcinoma	DisGeNet	
+HDAC2	C0280100	Solid tumour	DisGeNet	
+MTA2	C0280100	Solid tumour	DisGeNet	
+HDAC2	C1333990	Hereditary nonpolyposis colorectal cancer type 8	DisGeNet	
+HDAC1	C0152013	Adenocarcinoma of lung	DisGeNet	
+HDAC2	C0152013	Adenocarcinoma of lung	DisGeNet	
+HDAC1	C0038356	Stomach Neoplasms	DisGeNet	
+HDAC2	C0038356	Stomach Neoplasms	DisGeNet	
+HDAC2	C0021841	Intestinal Neoplasms	DisGeNet	
+HDAC1	C1862939	Amyotrophic lateral sclerosis type 1	DisGeNet	
+HDAC1	C2607914	Allergic rhinitis	DisGeNet	
+HDAC1	C0026846	Amyotrophy involving the shoulder musculature	DisGeNet	
+HDAC1	C0206659	Embryonal Carcinoma	DisGeNet	
+HDAC1	C0027962	Melanocytic nevus	DisGeNet	
+HDAC2	C0026847	Spinal muscular atrophy with congenital bone fractures 2	DisGeNet	
+HDAC1	C0235782	Gallbladder Carcinoma	DisGeNet	
+HDAC2	C0349204	Cycloid psychosis	DisGeNet	
+HDAC1	C0027627	Secondary hypertriglyceridemia	DisGeNet	
+HDAC2	C0027627	Secondary hypertriglyceridemia	DisGeNet	
+MTA2	C0027627	Secondary hypertriglyceridemia	DisGeNet	

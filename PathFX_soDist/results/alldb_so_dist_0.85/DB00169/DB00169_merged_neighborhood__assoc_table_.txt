@@ -1,0 +1,2 @@
+rank	phenotype	cui	assoc in neigh	assoc in intom	probability	Benjamini-Hochberg	genes	
+21	Enzyme inhibition disorder	C0877008	3	33	1.9359526717166453e-05	1.98113207547e-05	CYP2B6,CYP2D6,CYP3A4

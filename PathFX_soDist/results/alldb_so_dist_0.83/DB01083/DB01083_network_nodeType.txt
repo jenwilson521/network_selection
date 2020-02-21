@@ -1,0 +1,7 @@
+node_name	node_type	
+DB01083	drug	
+PNLIP	drug_target	
+CYP3A4	drug_target	
+FASN	drug_target	
+PLA2G4A	drug_target	
+LIPF	drug_target	

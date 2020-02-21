@@ -1,0 +1,5 @@
+node1	node2	edge_score	
+DB00790	SLC15A2	1.0	
+DB00790	BCHE	1.0	
+DB00790	ACE	1.0	
+

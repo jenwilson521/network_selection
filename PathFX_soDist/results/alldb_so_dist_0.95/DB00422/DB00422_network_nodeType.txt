@@ -1,0 +1,127 @@
+node_name	node_type	
+DB00422	drug	
+SLC6A3	drug_target	
+SLC6A2	drug_target	
+HTR1A	drug_target	
+Behavior Disorders	phenotype	
+Bulimia	phenotype	
+Tourette Syndrome	phenotype	
+Substance Use Disorders	phenotype	
+Personality disorder	phenotype	
+Borderline Personality Disorder	phenotype	
+Anxiety	phenotype	
+Memory Disorders	phenotype	
+Bronchopulmonary Dysplasia	phenotype	
+As If Personality	phenotype	
+Heroin Dependence	phenotype	
+Psychoses, Substance-Induced	phenotype	
+NEUROTICISM	phenotype	
+Panic disorder 1	phenotype	
+Mood Disorders	phenotype	
+SUDDEN INFANT DEATH SYNDROME	phenotype	
+Methamphetamine abuse	phenotype	
+Posttraumatic stress disorder	phenotype	
+Anorexia nervosa 1	phenotype	
+Anxiety Disorders	phenotype	
+Panic disorder syndrome 1 (2)	phenotype	
+Cocaine-Related Disorders	phenotype	
+Depressive Symptoms	phenotype	
+Unipolar Depression	phenotype	
+Lewy Body Disease	phenotype	
+Mental disorders	phenotype	
+Weight Gain Adverse Event	phenotype	
+Major depressive disorder	phenotype	
+Substance-Related Disorders	phenotype	
+Attention deficit hyperactivity disorder	phenotype	
+Pigmentary pallidal degeneration	phenotype	
+Slow acetylator due to N-acetyltransferase enzyme variant	phenotype	
+Depressive Disorder	phenotype	
+Dentinogenesis imperfecta	phenotype	
+Chronic sciatica	phenotype	
+Recurrent major depressive episodes	phenotype	
+Asthma, Occupational	phenotype	
+Spinocerebellar ataxia 2	phenotype	
+{Unipolar depression, susceptibility to}, 608516 (3)	phenotype	
+Paranoia	phenotype	
+Delayed gross motor development	phenotype	
+Orofacial cleft	phenotype	
+Generalized anxiety disorder	phenotype	
+Headache	phenotype	
+Alcohol withdrawal syndrome	phenotype	
+Motor symptoms	phenotype	
+Systemic aspergillosis	phenotype	
+Seasonal Affective Disorder	phenotype	
+ {Nicotine dependence, protection against}, 188890 (3)	phenotype	
+Antisocial Personality Disorder	phenotype	
+Cocaine delirium	phenotype	
+Paranoid Schizophrenia	phenotype	
+Ataxic	phenotype	
+Chronic schizophrenia	phenotype	
+Psychiatric symptom	phenotype	
+Abnormal delivery	phenotype	
+Acute disease of cardiovascular system	phenotype	
+Morphological abnormality of the pyramidal tract	phenotype	
+Alcohol dependence	phenotype	
+Bulimia nervosa 1	phenotype	
+Autism spectrum disorders	phenotype	
+Low back pain	phenotype	
+Disseminated intravascular coagulation	phenotype	
+Antisocial/borderline personality disorder	phenotype	
+Substance abuse problem	phenotype	
+Drug usage	phenotype	
+Manic	phenotype	
+Chronic Fatigue Syndrome	phenotype	
+Weight Loss Adverse Event	phenotype	
+Learning Disorders	phenotype	
+Conduct Disorder	phenotype	
+Bradykinesia	phenotype	
+Fibromyalgia	phenotype	
+Dyskinesia, Drug-Induced	phenotype	
+Abnormal autonomic nervous system physiology	phenotype	
+Prenatal Exposure Delayed Effects	phenotype	
+Bradycardia	phenotype	
+Cleft palate with cleft lip	phenotype	
+Bipolar affective disorder	phenotype	
+Cocaine Dependence	phenotype	
+Autoimmune lymphoproliferative syndrome, type 2	phenotype	
+CNS symptom	phenotype	
+Psychotic Disorders	phenotype	
+Esophagitis	phenotype	
+Obsessive-compulsive behavior	phenotype	
+Migraine Disorders	phenotype	
+Tardive Dyskinesia	phenotype	
+Bipolar I disorder	phenotype	
+Angelman syndrome-like	phenotype	
+Attention Deficit Disorder	phenotype	
+Colorectal polyposis	phenotype	
+Drug Dependence	phenotype	
+Tremor, hereditary essential, 5	phenotype	
+Osteochondritis dissecans	phenotype	
+Multiple Endocrine Neoplasia Type 2a	phenotype	
+Well Differentiated Pancreatic Endocrine Tumor	phenotype	
+MAJOR AFFECTIVE DISORDER 4	phenotype	
+MAJOR AFFECTIVE DISORDER 5	phenotype	
+MAJOR AFFECTIVE DISORDER 6	phenotype	
+Major affective disorder 7	phenotype	
+MAJOR AFFECTIVE DISORDER 8	phenotype	
+MAJOR AFFECTIVE DISORDER 9	phenotype	
+Orofacial dyskinesia	phenotype	
+Eating disorder	phenotype	
+Muscular hypotonia of the trunk	phenotype	
+Migraine with aura	phenotype	
+Ichthyosis bullosa of Siemens	phenotype	
+Granulomatous disease, chronic, autosomal recessive, cytochrome b-negative	phenotype	
+Recurrent abortion	phenotype	
+Drug Allergy	phenotype	
+Azorean disease	phenotype	
+Metaplasia	phenotype	
+Substance addiction and disorders	phenotype	
+Substance Withdrawal Syndrome	phenotype	
+Growth Disorders	phenotype	
+Multiple Endocrine Neoplasia Type 1	phenotype	
+Respiratory tract infection	phenotype	
+Gastrointestinal Diseases	phenotype	
+Mitral Valve Prolapse	phenotype	
+Amphetamine-Related Disorders	phenotype	
+Candidiasis, familial, 9	phenotype	
+Obsessive-compulsive disorder	phenotype	

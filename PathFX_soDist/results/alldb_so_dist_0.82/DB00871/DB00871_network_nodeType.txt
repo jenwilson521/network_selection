@@ -1,0 +1,132 @@
+node_name	node_type	
+DB00871	drug	
+ADRB1	drug_target	
+ADRB2	drug_target	
+ADRB3	drug_target	
+BCHE	drug_target	
+body mass	phenotype	
+Low Tension Glaucoma	phenotype	
+Obesity, severe, 601665 (3)	phenotype	
+Tachycardia	phenotype	
+Weight Gain Adverse Event	phenotype	
+Hemangioma	phenotype	
+Nephrosclerosis	phenotype	
+Obstructive sleep apnea	phenotype	
+Acanthosis nigricans	phenotype	
+Chronic interstitial cystitis	phenotype	
+Atrial Fibrillation	phenotype	
+Capillary hemangiomas	phenotype	
+Familial hypercholesterolemia	phenotype	
+Ventricular tachycardia, catecholaminergic polymorphic, 2	phenotype	
+Weight Loss Adverse Event	phenotype	
+Fibromyalgia	phenotype	
+Ventricular fibrillation	phenotype	
+Restenosis	phenotype	
+Meningococcal Infections	phenotype	
+Stress, Psychological	phenotype	
+Occupational Diseases	phenotype	
+Sleep apnea	phenotype	
+Ventricular Dysfunction, Right	phenotype	
+Female infertility	phenotype	
+Kidney Failure, Chronic	phenotype	
+Left ventricular hypertrophy	phenotype	
+Metabolic Syndrome X	phenotype	
+Respiration Disorders	phenotype	
+Hyperlipidemia, combined, 1	phenotype	
+Chronic heart failure	phenotype	
+Essential hypertension	phenotype	
+Acute Coronary Syndrome	phenotype	
+Sleep Wake Disorders	phenotype	
+Mood Disorders	phenotype	
+Coronary heart disease 7	phenotype	
+Glaucoma, Open-Angle	phenotype	
+Portal hypertension, noncirrhotic	phenotype	
+Heart Failure	phenotype	
+Acquired long QT syndrome	phenotype	
+Hypertriglyceridemia	phenotype	
+Blood pressure finding	phenotype	
+Pulmonary Embolism	phenotype	
+Abdominal obesity	phenotype	
+Liver Cirrhosis, Biliary	phenotype	
+Venous thrombosis	phenotype	
+Systemic arterial pressure	phenotype	
+Glaucoma, Angle-Closure	phenotype	
+Sudden cardiac death	phenotype	
+Acute myocardial ischemia	phenotype	
+Albuminuria	phenotype	
+Cardiovascular Diseases	phenotype	
+Increased body weight	phenotype	
+Berardinelli-Seip congenital lipodystrophy	phenotype	
+High altitude pulmonary edema	phenotype	
+Signs and Symptoms, Respiratory	phenotype	
+Attention deficit hyperactivity disorder	phenotype	
+Proliferative retinopathy	phenotype	
+Cholesterol gallstones	phenotype	
+Chorioamnionitis	phenotype	
+Myocardial Reperfusion Injury	phenotype	
+Intermittent claudication	phenotype	
+Respiratory Hypersensitivity	phenotype	
+Vascular malformation, primary intraosseous	phenotype	
+Enzyme inhibition disorder	phenotype	
+Myasthenia Gravis	phenotype	
+Renal hypertension	phenotype	
+Hypervolemia	phenotype	
+childhood brain tumor	phenotype	
+heavy drinking	phenotype	
+Overweight	phenotype	
+Churg-Strauss Syndrome	phenotype	
+Buphthalmos	phenotype	
+Acute postoperative pain	phenotype	
+Dyslipidemias	phenotype	
+Personality disorder	phenotype	
+Pregnancy associated hypertension	phenotype	
+Chromosome 5, trisomy 5q	phenotype	
+Ovarian Diseases	phenotype	
+Meningitis, Bacterial	phenotype	
+Neurotoxicity Syndromes	phenotype	
+Venous Thromboembolism	phenotype	
+Allergic sensitization	phenotype	
+Hypoplastic left heart syndrome	phenotype	
+Gestational trophoblastic disease	phenotype	
+Obesity, Visceral	phenotype	
+Anaphylactic shock NOS	phenotype	
+Chronic pain	phenotype	
+Hypertriglyceridemia result	phenotype	
+Pediatric Obesity	phenotype	
+Coronary Artery Disease	phenotype	
+Cardiomyopathy	phenotype	
+Subarachnoid hemorrhage	phenotype	
+Renovascular hypertension	phenotype	
+Hypokalemia	phenotype	
+Malignant hyperthermia susceptibility	phenotype	
+Insulin resistance syndrome	phenotype	
+Airway Obstruction	phenotype	
+Cerebral Amyloid Angiopathy	phenotype	
+Leptospirosis	phenotype	
+Aural atresia, congenital	phenotype	
+Pulmonary function (finding)	phenotype	
+Prenatal Exposure Delayed Effects	phenotype	
+Refractory anemia	phenotype	
+Refractory anaemia with excess blasts	phenotype	
+Cocaine Dependence	phenotype	
+Ketoacidosis	phenotype	
+Glucocorticoid resistance, generalized	phenotype	
+Congestive heart failure	phenotype	
+Glucose intolerance	phenotype	
+Reperfusion Injury	phenotype	
+ {Septic shock, susceptibility to} (3)	phenotype	
+Adverse drug events and drug allergies	phenotype	
+Memory Loss	phenotype	
+Congenital myasthenic syndrome	phenotype	
+Cognition Disorders	phenotype	
+Syncope	phenotype	
+Hydatidiform mole, recurrent, 1, 231090 (3)	phenotype	
+Trachoma	phenotype	
+Insulin Resistance	phenotype	
+Fasciculations	phenotype	
+Proliferative diabetic retinopathy	phenotype	
+Aqueous Humor Disorders	phenotype	
+Retinopathy of Prematurity	phenotype	
+ Hyperandrogenism, nonclassic type, due to 21-hydroxylase deficiency, 201910 (3)	phenotype	
+Hyperuricemia, pulmonary hypertension, renal failure, and alkalosis	phenotype	
+Chronic obstructive pulmonary disease	phenotype	

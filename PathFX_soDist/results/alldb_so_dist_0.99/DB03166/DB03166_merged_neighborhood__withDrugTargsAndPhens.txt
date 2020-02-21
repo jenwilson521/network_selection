@@ -1,0 +1,4 @@
+node1	node2	edge_score	
+DB03166	SLC16A1	1.0	
+DB03166	SLCO2B1	1.0	
+

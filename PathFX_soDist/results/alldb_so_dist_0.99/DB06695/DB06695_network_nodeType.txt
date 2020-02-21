@@ -1,0 +1,9 @@
+node_name	node_type	
+DB06695	drug	
+UGT2B7	drug_target	
+F2	drug_target	
+NQO2	drug_target	
+CES1	drug_target	
+UGT2B15	drug_target	
+ABCB1	drug_target	
+UGT1A9	drug_target	

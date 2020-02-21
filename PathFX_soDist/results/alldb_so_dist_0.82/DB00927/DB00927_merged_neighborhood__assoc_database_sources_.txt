@@ -1,0 +1,4 @@
+Gene	CUI	Source Databases	
+CYP2C19	C0022660	Acute kidney injury	DisGeNet	
+SLC22A2	C0022660	Acute kidney injury	DisGeNet	
+SLC22A8	C0022660	Acute kidney injury	DisGeNet	

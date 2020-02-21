@@ -1,0 +1,12 @@
+node1	node2	edge_score	
+DB00595	SLC22A6	1.0	
+DB00595	SLC22A8	1.0	
+DB00595	SLC22A11	1.0	
+SLC22A11		1.0
+SLC22A8		1.0
+Chromosome 11p deletion syndrome	SLC22A8	1.0	
+Hyperuricemia, pulmonary hypertension, renal failure, and alkalosis	SLC22A11	1.0	
+Gout	SLC22A11	1.0	
+Acute kidney injury	SLC22A8	1.0	
+Renal Insufficiency, Chronic	SLC22A11	1.0	
+Influenza	SLC22A8	1.0	

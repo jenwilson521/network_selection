@@ -1,0 +1,41 @@
+node_name	node_type	
+DB00459	drug	
+RARA	drug_target	
+RARB	drug_target	
+RARG	drug_target	
+RXRG	drug_target	
+ALB	drug_target	
+RXRA	drug_target	
+RXRB	drug_target	
+RBP1	drug_target	
+Chronic liver disease	phenotype	
+Measles	phenotype	
+Malignant neoplasm of adrenal cortex	phenotype	
+Esophageal varix	phenotype	
+Urolithiasis	phenotype	
+Echinococcosis	phenotype	
+Epidermolysis bullosa simplex, Cockayne-Touraine type	phenotype	
+Palmar hyperkeratosis	phenotype	
+Proliferative retinopathy	phenotype	
+Verrucae	phenotype	
+Isolated somatotropin deficiency	phenotype	
+Substance Use Disorders	phenotype	
+Dentatorubral pallidoluysian atrophy	phenotype	
+Angiokeratoma	phenotype	
+Isolated growth hormone deficiency type 1B	phenotype	
+Plantar hyperkeratosis	phenotype	
+Pericardial effusion	phenotype	
+Mumps	phenotype	
+Rhinitis, Allergic, Perennial	phenotype	
+Endemic Cretinism	phenotype	
+Hemangioblastoma	phenotype	
+Metastatic Carcinoma	phenotype	
+Mesangiocapillary glomerulonephritis, type II	phenotype	
+Nephrosclerosis	phenotype	
+Peripheral motor neuropathy	phenotype	
+End Stage Liver Disease	phenotype	
+Abnormal albumin level	phenotype	
+Bronchogenic Carcinoma	phenotype	
+Coronary artery aneurysm	phenotype	
+Hyperlipoproteinemia	phenotype	
+Hyperlipoproteinemia Type IIa	phenotype	

@@ -1,0 +1,69 @@
+Gene	CUI	Source Databases	
+ABCB1	C0027497	Nausea	DisGeNet	
+CYP1A2	C0027497	Nausea	DisGeNet	
+CYP2C9	C0027497	Nausea	DisGeNet	
+CYP2D6	C0027497	Nausea	DisGeNet	
+HTR2A	C0027497	Nausea	DisGeNet	
+SLC6A4	C0027497	Nausea	DisGeNet	
+ABCB1	C0030201	Acute postoperative pain	DisGeNet	
+CYP2D6	C0030201	Acute postoperative pain	DisGeNet	
+CYP3A4	C0030201	Acute postoperative pain	DisGeNet	
+HTR2A	C0030201	Acute postoperative pain	DisGeNet	
+SLC6A4	C0030201	Acute postoperative pain	DisGeNet	
+CYP1A2	C0686347	Tardive Dyskinesia	DisGeNet	
+CYP2B6	C0686347	Tardive Dyskinesia	DisGeNet	
+CYP2D6	C0686347	Tardive Dyskinesia	DisGeNet	
+CYP3A4	C0686347	Tardive Dyskinesia	DisGeNet	
+HTR2A	C0686347	Tardive Dyskinesia	DisGeNet	
+SLC6A4	C0686347	Tardive Dyskinesia	DisGeNet	
+ABCB1	C0019337	Heroin Dependence	DisGeNet	
+CYP2D6	C0019337	Heroin Dependence	DisGeNet	
+CYP3A4	C0019337	Heroin Dependence	DisGeNet	
+HTR2A	C0019337	Heroin Dependence	DisGeNet	
+SLC6A2	C0019337	Heroin Dependence	DisGeNet	
+SLC6A4	C0019337	Heroin Dependence	DisGeNet	
+CYP1A2	C0152115	Orofacial dyskinesia	DisGeNet	
+CYP2B6	C0152115	Orofacial dyskinesia	DisGeNet	
+CYP2D6	C0152115	Orofacial dyskinesia	DisGeNet	
+CYP3A4	C0152115	Orofacial dyskinesia	DisGeNet	
+HTR2A	C0152115	Orofacial dyskinesia	DisGeNet	
+SLC6A4	C0152115	Orofacial dyskinesia	DisGeNet	
+ABCB1	C0041755	Adverse drug events and drug allergies	DisGeNet	
+CYP1A2	C0041755	Adverse drug events and drug allergies	DisGeNet	
+CYP2C9	C0041755	Adverse drug events and drug allergies	DisGeNet	
+CYP2D6	C0041755	Adverse drug events and drug allergies	DisGeNet	
+SLC6A4	C0041755	Adverse drug events and drug allergies	DisGeNet	
+CYP1A2	C0221765	Chronic schizophrenia	DisGeNet	
+CYP2D6	C0221765	Chronic schizophrenia	DisGeNet	
+CYP3A4	C0221765	Chronic schizophrenia	DisGeNet	
+HTR2A	C0221765	Chronic schizophrenia	DisGeNet	
+CYP2D6	C0031212	Personality disorder	DisGeNet	
+HTR2A	C0031212	Personality disorder	DisGeNet	
+SLC6A2	C0031212	Personality disorder	DisGeNet	
+SLC6A4	C0031212	Personality disorder	DisGeNet	
+CYP2B6	C0013146	Methamphetamine abuse	DisGeNet	
+CYP2C9	C0013146	Methamphetamine abuse	DisGeNet	
+CYP2D6	C0013146	Methamphetamine abuse	DisGeNet	
+HTR2A	C0013146	Methamphetamine abuse	DisGeNet	
+SLC6A2	C0013146	Methamphetamine abuse	DisGeNet	
+SLC6A4	C0013146	Methamphetamine abuse	DisGeNet	
+ABCB1	C0013182	Drug Allergy	DisGeNet	
+CYP2C8	C0013182	Drug Allergy	DisGeNet	
+CYP2C9	C0013182	Drug Allergy	DisGeNet	
+CYP2D6	C0013182	Drug Allergy	DisGeNet	
+CYP3A4	C0013182	Drug Allergy	DisGeNet	
+ABCB1	C0024620	Primary malignant neoplasm of liver	DisGeNet	
+CYP2D6	C0024620	Primary malignant neoplasm of liver	DisGeNet	
+CYP3A4	C0024620	Primary malignant neoplasm of liver	DisGeNet	
+ABCB1	C0013386	Dyskinesia, Drug-Induced	DisGeNet	
+CYP1A2	C0013386	Dyskinesia, Drug-Induced	DisGeNet	
+CYP2D6	C0013386	Dyskinesia, Drug-Induced	DisGeNet	
+HTR2A	C0013386	Dyskinesia, Drug-Induced	DisGeNet	
+CHRM2	C0154409	Recurrent major depressive episodes	DisGeNet	
+HTR2A	C0154409	Recurrent major depressive episodes	DisGeNet	
+SLC6A2	C0154409	Recurrent major depressive episodes	DisGeNet	
+ABCB1	C0017178	Gastrointestinal Diseases	DisGeNet	
+CYP2C9	C0017178	Gastrointestinal Diseases	DisGeNet	
+CYP2D6	C0017178	Gastrointestinal Diseases	DisGeNet	
+SLC6A2	C0017178	Gastrointestinal Diseases	DisGeNet	
+SLC6A4	C0017178	Gastrointestinal Diseases	DisGeNet	

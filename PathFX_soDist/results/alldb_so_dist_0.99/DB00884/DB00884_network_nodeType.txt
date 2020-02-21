@@ -1,0 +1,4 @@
+node_name	node_type	
+DB00884	drug	
+PTGS2	drug_target	
+FDPS	drug_target	

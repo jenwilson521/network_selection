@@ -1,0 +1,5 @@
+node1	node2	edge_score	
+DB00929	PTGER4	1.0	
+DB00929	PTGER2	1.0	
+DB00929	PTGER3	1.0	
+

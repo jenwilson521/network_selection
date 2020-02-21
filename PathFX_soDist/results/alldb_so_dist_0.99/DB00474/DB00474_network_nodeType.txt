@@ -1,0 +1,4 @@
+node_name	node_type	
+DB00474	drug	
+GABRA1	drug_target	
+CYP2C19	drug_target	

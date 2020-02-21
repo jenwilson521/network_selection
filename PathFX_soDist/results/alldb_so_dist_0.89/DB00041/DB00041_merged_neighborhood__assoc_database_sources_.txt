@@ -1,0 +1,30 @@
+Gene	CUI	Source Databases	
+CYP2E1	C0206720	Squamous Cell Neoplasms	DisGeNet	
+CYP3A4	C0206720	Squamous Cell Neoplasms	DisGeNet	
+PTGS2	C0206720	Squamous Cell Neoplasms	DisGeNet	
+CYP3A4	C0877008	Enzyme inhibition disorder	DisGeNet	
+PTGS2	C0877008	Enzyme inhibition disorder	DisGeNet	
+CYP2E1	C0023055	Neoplasm of the larynx	DisGeNet	
+CYP3A4	C0023055	Neoplasm of the larynx	DisGeNet	
+PTGS2	C0023055	Neoplasm of the larynx	DisGeNet	
+CYP3A4	C0030201	Acute postoperative pain	DisGeNet	
+PTGS2	C0030201	Acute postoperative pain	DisGeNet	
+CYP2E1	C0038354	Stomach Diseases	DisGeNet	
+PTGS2	C0038354	Stomach Diseases	DisGeNet	
+CYP2E1	C0029445	Bone necrosis	DisGeNet	
+CYP3A4	C0029445	Bone necrosis	DisGeNet	
+CYP2E1	C0341439	Chronic liver disease	DisGeNet	
+CYP3A4	C0341439	Chronic liver disease	DisGeNet	
+PTGS2	C0341439	Chronic liver disease	DisGeNet	
+CYP2E1	C0023531	Leukoplakia	DisGeNet	
+PTGS2	C0023531	Leukoplakia	DisGeNet	
+CYP2E1	C0333873	Squamous intraepithelial lesion	DisGeNet	
+PTGS2	C0333873	Squamous intraepithelial lesion	DisGeNet	
+CYP2E1	C0035126	Reperfusion Injury	DisGeNet	
+PLA2G4A	C0035126	Reperfusion Injury	DisGeNet	
+PTGS2	C0035126	Reperfusion Injury	DisGeNet	
+XDH	C0035126	Reperfusion Injury	DisGeNet	
+CYP2E1	C0041755	Adverse drug events and drug allergies	DisGeNet	
+PTGS2	C0041755	Adverse drug events and drug allergies	DisGeNet	
+CYP2E1	C0002875	Cooley's anemia	DisGeNet	
+CYP3A4	C0002875	Cooley's anemia	DisGeNet	

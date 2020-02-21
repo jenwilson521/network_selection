@@ -1,0 +1,8 @@
+node_name	node_type	
+DB04930	drug	
+NR1I2	drug_target	
+CYP3A4	drug_target	
+ESR1	drug_target	
+CYP2B6	drug_target	
+SCN1A	drug_target	
+gliosarcoma	phenotype	

@@ -1,0 +1,299 @@
+node1	node2	edge_score	
+DB00686	FGF4	1.0	
+DB00686	FGF2	1.0	
+DB00686	FGF1	1.0	
+FGF2		1.0
+Achondroplasia	FGF2	1.0	
+Acquired Immunodeficiency Syndrome	FGF2	1.0	
+ Adenocarcinoma, ovarian, somatic, 167000 (3)	FGF2	1.0	
+Adenomas, multiple colorectal, 608456 (3)	FGF2	1.0	
+Primary Myelofibrosis	FGF2	1.0	
+AIDS Dementia Complex	FGF2	1.0	
+Alzheimer Disease	FGF2	1.0	
+Amyotrophic Lateral Sclerosis	FGF2	1.0	
+Anaplasia	FGF2	1.0	
+Anemia	FGF2	1.0	
+{Aneurysm, familial abdominal 3} (2)	FGF2	1.0	
+Arteriosclerosis	FGF2	1.0	
+Arteriovenous malformation	FGF2	1.0	
+Arthritis, Rheumatoid	FGF2	1.0	
+Arthritis, Psoriatic	FGF2	1.0	
+Rheumatoid arthritis	FGF2	1.0	
+Asthma	FGF2	1.0	
+Astrocytoma	FGF2	1.0	
+Atherosclerosis	FGF2	1.0	
+Melanoma, B16	FGF2	1.0	
+Recurrent bacterial infection	FGF2	1.0	
+Barrett Esophagus	FGF2	1.0	
+Malignant tumor of urinary bladder	FGF2	1.0	
+Urinary Bladder Neoplasms	FGF2	1.0	
+Brain neoplasm	FGF2	1.0	
+Breast-ovarian cancer, familial 1	FGF2	1.0	
+Colon cancer	FGF2	1.0	
+Malignant neoplasm of endometrium	FGF2	1.0	
+Thyroid cancer, nonmedullary, 4	FGF2	1.0	
+Non-small cell lung carcinoma	FGF2	1.0	
+Renal cell carcinoma, nonpapillary	FGF2	1.0	
+Squamous cell carcinoma	FGF2	1.0	
+Urothelial Carcinoma	FGF2	1.0	
+Intracranial Aneurysm	FGF2	1.0	
+Ischaemic cerebral infarction	FGF2	1.0	
+Malignant tumor of cervix	FGF2	1.0	
+Cholesteatoma	FGF2	1.0	
+Chondrosarcoma	FGF2	1.0	
+Chordoma	FGF2	1.0	
+Chorioamnionitis	FGF2	1.0	
+Choriocarcinoma	FGF2	1.0	
+Cleft Lip	FGF2	1.0	
+Cleft Palate	FGF2	1.0	
+Ulcerative colitis	FGF2	1.0	
+Colorectal cancer 1	FGF2	1.0	
+Colorectal Neoplasms	FGF2	1.0	
+Verotoxigenic Escherichia coli gastrointestinal tract infection	FGF2	1.0	
+Contractures involving the joints of the feet	FGF2	1.0	
+Coronary heart disease 7	FGF2	1.0	
+Craniosynostoses	FGF2	1.0	
+Adenoid Cystic Carcinoma	FGF2	1.0	
+{Unipolar depression, susceptibility to}, 608516 (3)	FGF2	1.0	
+Depressive Disorder	FGF2	1.0	
+Diabetes Mellitus, Type 1	FGF2	1.0	
+Diabetes mellitus type 1	FGF2	1.0	
+Diabetes mellitus type 2	FGF2	1.0	
+Diabetic Angiopathies	FGF2	1.0	
+Diabetic Nephropathies	FGF2	1.0	
+Diabetic Retinopathy	FGF2	1.0	
+Short stature, rhizomelic, with microcephaly, micrognathia, and developmental delay	FGF2	1.0	
+Experimental Autoimmune Encephalomyelitis	FGF2	1.0	
+Endometriosis	FGF2	1.0	
+Esophageal Neoplasms	FGF2	1.0	
+Exostoses	FGF2	1.0	
+Fetal Membranes, Premature Rupture	FGF2	1.0	
+Fibrosarcoma	FGF2	1.0	
+Fibrosis	FGF2	1.0	
+Gastritis	FGF2	1.0	
+Gastrointestinal Diseases	FGF2	1.0	
+Glioblastoma	FGF2	1.0	
+Glioma	FGF2	1.0	
+Gliosis	FGF2	1.0	
+Goiter, multinodular 1, with or without sertoli-leydig cell tumors	FGF2	1.0	
+Head and Neck Neoplasms	FGF2	1.0	
+Heart Diseases	FGF2	1.0	
+Cardiomegaly	FGF2	1.0	
+Heart Failure	FGF2	1.0	
+Hemangioma	FGF2	1.0	
+Diaphragmatic hernia	FGF2	1.0	
+Herpes Simplex Infections	FGF2	1.0	
+Symptomatic human immunodeficiency virus infection	FGF2	1.0	
+Hodgkin Disease	FGF2	1.0	
+Huntington's chorea	FGF2	1.0	
+Hyperglycemia	FGF2	1.0	
+Hyperplasia	FGF2	1.0	
+Hypertension	FGF2	1.0	
+Pulmonary hypertension, neonatal, susceptibility to	FGF2	1.0	
+Inflammation	FGF2	1.0	
+Inflammatory Bowel Diseases	FGF2	1.0	
+Intermittent claudication	FGF2	1.0	
+Ischemia	FGF2	1.0	
+Arthropathy	FGF2	1.0	
+Keloid	FGF2	1.0	
+Kidney Diseases	FGF2	1.0	
+Premature Obstetric Labor	FGF2	1.0	
+Leiomyoma	FGF2	1.0	
+Leukemia, Lymphocytic, Chronic, B-Cell	FGF2	1.0	
+Chronic Lymphocytic Leukemia	FGF2	1.0	
+Acute lymphoid leukemia	FGF2	1.0	
+Acute myeloid leukemia	FGF2	1.0	
+Chronic myeloid leukemia	FGF2	1.0	
+Liver Cirrhosis, Biliary	FGF2	1.0	
+Neoplasm of the liver	FGF2	1.0	
+Chronic obstructive pulmonary disease	FGF2	1.0	
+Lupus Erythematosus, Systemic	FGF2	1.0	
+Lymphoma, Large B-Cell, Diffuse	FGF2	1.0	
+Non-Hodgkin lymphoma	FGF2	1.0	
+{Gastric cancer risk after H. pylori infection}, 137215 (3)	FGF2	1.0	
+Animal Mammary Neoplasms	FGF2	1.0	
+Marijuana Abuse	FGF2	1.0	
+Medulloblastoma	FGF2	1.0	
+Melanoma	FGF2	1.0	
+Multiple Endocrine Neoplasia Type 1	FGF2	1.0	
+Meningioma	FGF2	1.0	
+Mesothelioma, malignant	FGF2	1.0	
+Monoclonal Gammopathy of Undetermined Significance	FGF2	1.0	
+Multiple Myeloma	FGF2	1.0	
+Mycosis Fungoides	FGF2	1.0	
+Myelofibrosis	FGF2	1.0	
+Myeloproliferative Disorders	FGF2	1.0	
+Myocardial Infarction	FGF2	1.0	
+Epiphyseal dysplasia, multiple, with myopia and conductive deafness	FGF2	1.0	
+Nasal polyposis	FGF2	1.0	
+Secondary hypertriglyceridemia	FGF2	1.0	
+Neoplasm Recurrence, Local	FGF2	1.0	
+Multiple endocrine neoplasia, type 4	FGF2	1.0	
+Pathologic Neovascularization	FGF2	1.0	
+Nephritis	FGF2	1.0	
+Tubulointerstitial nephritis	FGF2	1.0	
+Nephrotic syndrome, type 5, with or without ocular abnormalities	FGF2	1.0	
+Neurodegeneration with brain iron accumulation	FGF2	1.0	
+Vestibular Schwannoma	FGF2	1.0	
+Melanocytic nevus	FGF2	1.0	
+Obesity	FGF2	1.0	
+Oral Submucous Fibrosis	FGF2	1.0	
+Osteoarthritis	FGF2	1.0	
+Osteomalacia	FGF2	1.0	
+Osteoporosis	FGF2	1.0	
+Pancreatic Neoplasms	FGF2	1.0	
+Pancytopenia	FGF2	1.0	
+Parkinson Disease	FGF2	1.0	
+Pituitary adenoma	FGF2	1.0	
+Abnormality of the pituitary gland	FGF2	1.0	
+Pituitary Neoplasms	FGF2	1.0	
+Pleural effusion	FGF2	1.0	
+Preeclampsia/eclampsia 1	FGF2	1.0	
+Precancerous Conditions	FGF2	1.0	
+Pregnancy in Diabetics	FGF2	1.0	
+Prenatal Exposure Delayed Effects	FGF2	1.0	
+Prolactinoma, familial	FGF2	1.0	
+Prostatic Diseases	FGF2	1.0	
+Prostatic Neoplasms	FGF2	1.0	
+Psychoses, Substance-Induced	FGF2	1.0	
+Pulmonary fibrosis and/or bone marrow failure, telomere-related, 4	FGF2	1.0	
+Reperfusion Injury	FGF2	1.0	
+Retinal degeneration	FGF2	1.0	
+Retinopathy	FGF2	1.0	
+Thrombosis of retinal vein	FGF2	1.0	
+Retinoblastoma	FGF2	1.0	
+Kaposi's sarcoma	FGF2	1.0	
+Scleroderma	FGF2	1.0	
+Scoliosis	FGF2	1.0	
+Seizures, Febrile	FGF2	1.0	
+Spinal cord compression	FGF2	1.0	
+Gastric ulcer	FGF2	1.0	
+Teratoma	FGF2	1.0	
+Essential thrombocythemia	FGF2	1.0	
+Thyroid Neoplasms	FGF2	1.0	
+Peptic Ulcer Hemorrhage	FGF2	1.0	
+Unipolar Depression	FGF2	1.0	
+Uterine leiomyoma	FGF2	1.0	
+Vascular Diseases	FGF2	1.0	
+Virus Diseases	FGF2	1.0	
+Vitiligo	FGF2	1.0	
+B-cell lymphoma	FGF2	1.0	
+Pleural Effusion, Malignant	FGF2	1.0	
+Peripheral Arterial Disease	FGF2	1.0	
+Corneal neovascularization	FGF2	1.0	
+Severe combined immunodeficiency due to ADA deficiency	FGF2	1.0	
+Neoplasms, Second Primary	FGF2	1.0	
+Maternal diabetes	FGF2	1.0	
+Small cell lung cancer	FGF2	1.0	
+Dermal atrophy	FGF2	1.0	
+Premature Birth	FGF2	1.0	
+Acute myocardial ischemia	FGF2	1.0	
+Cutaneous malignant melanoma 3	FGF2	1.0	
+Adenocarcinoma of lung	FGF2	1.0	
+Esophageal carcinoma	FGF2	1.0	
+Primary pulmonary hypertension	FGF2	1.0	
+Uterine Corpus Cancer	FGF2	1.0	
+Malignant neoplasm of brain and nervous system	FGF2	1.0	
+Secondary malignant neoplasm of lung	FGF2	1.0	
+Proliferative diabetic retinopathy	FGF2	1.0	
+Hearing Loss, Mixed Conductive-Sensorineural	FGF2	1.0	
+Cleft palate with cleft lip	FGF2	1.0	
+Tumor Progression	FGF2	1.0	
+Embryonal Carcinoma	FGF2	1.0	
+Thyroid cancer, follicular	FGF2	1.0	
+Adrenocortical carcinoma	FGF2	1.0	
+Cervical intraepithelial neoplasia (Cervical dysplasia)	FGF2	1.0	
+Intraocular melanoma	FGF2	1.0	
+Pancreatic Carcinoma	FGF2	1.0	
+Cocaine-Related Disorders	FGF2	1.0	
+Gastrointestinal stromal tumor	FGF2	1.0	
+Papillary thyroid carcinoma	FGF2	1.0	
+Hepatic fibrosis	FGF2	1.0	
+Impotence	FGF2	1.0	
+Malignant neoplasm of lung	FGF2	1.0	
+Age-related macular degeneration 2	FGF2	1.0	
+Disease Progression	FGF2	1.0	
+Severe Myopia	FGF2	1.0	
+Gastric Adenocarcinoma	FGF2	1.0	
+Metastatic melanoma	FGF2	1.0	
+Cancer of Head and Neck	FGF2	1.0	
+Esophageal Squamous Cell Carcinoma	FGF2	1.0	
+Adenocarcinoma Of Esophagus	FGF2	1.0	
+Solid tumour	FGF2	1.0	
+Carcinoma of cervix	FGF2	1.0	
+Arteriovenous hemangioma	FGF2	1.0	
+Anaplastic astrocytoma	FGF2	1.0	
+Anaplastic Oligodendroglioma	FGF2	1.0	
+Endometriosis of uterus	FGF2	1.0	
+Malignant mesothelioma	FGF2	1.0	
+Malignant neoplasm of pancreas	FGF2	1.0	
+Malignant tumor of prostate	FGF2	1.0	
+Hematopoietic Neoplasms	FGF2	1.0	
+Idiopathic thrombocytopenic purpura	FGF2	1.0	
+Endometrial carcinoma	FGF2	1.0	
+Nevus	FGF2	1.0	
+Recurrent tumor	FGF2	1.0	
+Hepatitis C, Chronic	FGF2	1.0	
+Mood Disorders	FGF2	1.0	
+Malignant tumor of esophagus	FGF2	1.0	
+Thyroid carcinoma	FGF2	1.0	
+Ewing's sarcoma	FGF2	1.0	
+Malignant Glioma	FGF2	1.0	
+Osteosarcoma	FGF2	1.0	
+Carcinogenesis	FGF2	1.0	
+Leukemogenesis	FGF2	1.0	
+Prostate carcinoma	FGF2	1.0	
+Choroidal Neovascularization	FGF2	1.0	
+Ovarian epithelial cancer	FGF2	1.0	
+invasive cancer	FGF2	1.0	
+Breast carcinoma	FGF2	1.0	
+Lung cancer	FGF2	1.0	
+Carcinoma of colon	FGF2	1.0	
+Stomach cancer	FGF2	1.0	
+Bladder carcinoma	FGF2	1.0	
+Neuroblastoma	FGF2	1.0	
+Middle Cerebral Artery Occlusion	FGF2	1.0	
+Malignant neoplasm of kidney	FGF2	1.0	
+Primary malignant neoplasm of brain	FGF2	1.0	
+Well Differentiated Oligodendroglioma	FGF2	1.0	
+Brain Infarction	FGF2	1.0	
+Acute Cerebrovascular Accidents	FGF2	1.0	
+RETINAL DYSTROPHY WITH OR WITHOUT MACULAR STAPHYLOMA	FGF2	1.0	
+Endothelial dysfunction	FGF2	1.0	
+Ovarian Neoplasms	FGF2	1.0	
+Ischemic stroke	FGF2	1.0	
+Ovarian adenocarcinoma	FGF2	1.0	
+BREAST-OVARIAN CANCER, FAMILIAL, SUSCEPTIBILITY TO, 4	FGF2	1.0	
+Endometrial adenocarcinoma	FGF2	1.0	
+Squamous cell carcinoma of the head and neck	FGF2	1.0	
+Sarcoma, Ewing	FGF2	1.0	
+Major depressive disorder	FGF2	1.0	
+Primary Effusion Lymphoma	FGF2	1.0	
+B Acute Lymphoblastic Leukemia with t(9;22)(q34;q11.2); BCR-ABL1	FGF2	1.0	
+Cardiovascular morbidity	FGF2	1.0	
+Adenoma of large intestine	FGF2	1.0	
+Differentiated Thyroid Gland Carcinoma	FGF2	1.0	
+Benign melanocytic nevus	FGF2	1.0	
+Angiogenic Switch	FGF2	1.0	
+Pleomorphic adenoma of salivary gland	FGF2	1.0	
+Tumor-Associated Vasculature	FGF2	1.0	
+Tumor Angiogenesis	FGF2	1.0	
+Xenograft Model	FGF2	1.0	
+Leukemia, Large Granular Lymphocytic	FGF2	1.0	
+Colorectal cancer	FGF2	1.0	
+Rash and Dermatitis Adverse Event Associated with Chemoradiation	FGF2	1.0	
+Cystic Kidney Diseases	FGF2	1.0	
+Benign Prostatic Hyperplasia	FGF2	1.0	
+Idiopathic Pulmonary Fibrosis	FGF2	1.0	
+VITILIGO-ASSOCIATED MULTIPLE AUTOIMMUNE DISEASE SUSCEPTIBILITY 1 (finding)	FGF2	1.0	
+Photoreceptor degeneration	FGF2	1.0	
+Hepatocellular carcinoma	FGF2	1.0	
+Myeloid neoplasm with beta-type platelet-derived growth factor receptor gene rearrangement	FGF2	1.0	
+Limb ischemia	FGF2	1.0	
+Pulmonary arterial hypertension	FGF2	1.0	
+Secondary malignant neoplasm of pancreas	FGF2	1.0	
+Familial X-linked hypophosphatemic vitamin D refractory rickets	FGF2	1.0	
+Triple Negative Breast Neoplasms	FGF2	1.0	
+Melanocytic nevus of skin	FGF2	1.0	
+Experimental Organism Basal Cell Carcinoma	FGF2	1.0	
+Interstitial fibrosis	FGF2	1.0	

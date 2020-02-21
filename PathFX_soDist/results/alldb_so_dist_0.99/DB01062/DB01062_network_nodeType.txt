@@ -1,0 +1,9 @@
+node_name	node_type	
+DB01062	drug	
+CYP2C8	drug_target	
+CYP2D6	drug_target	
+CHRM3	drug_target	
+CHRM2	drug_target	
+CHRM1	drug_target	
+CYP3A4	drug_target	
+CYP3A5	drug_target	

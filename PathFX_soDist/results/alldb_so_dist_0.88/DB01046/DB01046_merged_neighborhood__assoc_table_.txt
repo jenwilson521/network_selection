@@ -1,0 +1,47 @@
+rank	phenotype	cui	assoc in neigh	assoc in intom	probability	Benjamini-Hochberg	genes	
+1	Malignant tumor of urinary bladder	C0005684	1	1371	0.0	2e-05	CBR1
+2	Breast-ovarian cancer, familial 1	C0006142	1	4543	0.0	4e-05	CBR1
+3	Colon cancer	C0007102	1	1727	0.0	6e-05	CBR1
+4	Ulcerative colitis	C0009324	1	837	0.0	8e-05	CBR1
+5	Neoplasm of the colon	C0009375	1	817	0.0	0.0001	CBR1
+6	Colorectal cancer 1	C0009402	1	2543	0.0	0.00012	CBR1
+7	Verotoxigenic Escherichia coli gastrointestinal tract infection	C0009450	1	1111	0.0	0.00014	CBR1
+8	Diabetes Mellitus, Type 1	C0011849	1	2081	0.0	0.00016	CBR1
+9	Diabetes mellitus type 1	C0011854	1	1104	0.0	0.00018	CBR1
+10	Down Syndrome	C0013080	1	476	0.0	0.0002	CBR1
+11	Symptomatic human immunodeficiency virus infection	C0019693	1	1900	0.0	0.00022	CBR1
+12	Pulmonary hypertension, neonatal, susceptibility to	C0020542	1	333	0.0	0.00024	CBR1
+13	Leukemia, Lymphocytic, Chronic, B-Cell	C0023418	1	1913	0.0	0.00026	CBR1
+14	Acute myeloid leukemia	C0023467	1	1733	0.0	0.00028	CBR1
+15	Acute promyelocytic leukemia	C0023487	1	431	0.0	0.0003	CBR1
+16	Chronic obstructive pulmonary disease	C0024117	1	865	0.0	0.00032	CBR1
+17	{Gastric cancer risk after H. pylori infection}, 137215 (3)	C0024623	1	2073	0.0	0.00034	CBR1
+18	Animal Mammary Neoplasms	C0024667	1	2352	0.0	0.00036	CBR1
+19	Secondary hypertriglyceridemia	C0027627	1	3444	0.0	0.00038	CBR1
+21	Muscle weakness	C0030552	1	735	0.0	0.00042	CBR1
+22	polyps	C0032584	1	284	0.0	0.00044	CBR1
+23	Prostatic Neoplasms	C0033578	1	1606	0.0	0.00046	CBR1
+24	Tuberous sclerosis syndrome	C0041341	1	192	0.0	0.00048	CBR1
+25	Ureteral obstruction	C0041956	1	154	0.0	0.0005	CBR1
+26	Small cell lung cancer	C0149925	1	638	0.0	0.00052	CBR1
+28	Tumor Progression	C0178874	1	1969	0.0	0.00056	CBR1
+29	Cholangiocarcinoma	C0206698	1	401	0.0	0.00058	CBR1
+30	Medullary thyroid carcinoma	C0238462	1	201	0.0	0.0006	CBR1
+31	Malignant neoplasm of lung	C0242379	1	2460	0.0	0.00062	CBR1
+32	Carcinoma, Small Cell	C0262584	1	108	0.0	0.00064	CBR1
+35	Malignant Childhood Neoplasm	C0278704	1	76	0.0	0.0007	CBR1
+36	Cortical dysplasia, complex, with other brain malformations 3	C0431380	1	60	0.0	0.00072	CBR1
+37	Carcinogenesis	C0596263	1	3723	0.0	0.00074	CBR1
+38	Ovarian epithelial cancer	C0677886	1	2172	0.0	0.00076	CBR1
+39	Breast carcinoma	C0678222	1	4281	0.0	0.00078	CBR1
+40	Lung cancer	C0684249	1	2234	0.0	0.0008	CBR1
+41	Malignant gastrointestinal tract tumors	C0685938	1	251	0.0	0.00082	CBR1
+42	Carcinoma of colon	C0699790	1	1856	0.0	0.00084	CBR1
+43	Stomach cancer	C0699791	1	2109	0.0	0.00086	CBR1
+44	Cardiomyopathy	C0878544	1	704	0.0	0.00088	CBR1
+45	Drug Resistant Epilepsy	C1096063	1	53	0.0	0.0009	CBR1
+46	BREAST-OVARIAN CANCER, FAMILIAL, SUSCEPTIBILITY TO, 4	C1140680	1	1967	0.0	0.00092	CBR1
+47	Partial Trisomy	C1297882	1	39	0.0	0.00094	CBR1
+48	Colorectal cancer	C1527249	1	2681	0.0	0.00096	CBR1
+49	Malformation of cortical development	C1955869	1	68	0.0	0.00098	CBR1
+50	Hepatocellular carcinoma	C2239176	1	3108	0.0	0.001	CBR1

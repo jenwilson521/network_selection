@@ -1,0 +1,4 @@
+rank	phenotype	cui	assoc in neigh	assoc in intom	probability	Benjamini-Hochberg	genes	
+10	Peptic ulcer	C0030920	4	123	4.582865456237428e-06	2.20750551876e-05	CNR1,CYP2C8,CYP2C9,CYP2E1
+20	Old myocardial infarction	C0155668	2	29	2.6121710179349833e-05	4.41501103753e-05	CYP2C8,CYP2C9
+23	Antisocial Personality Disorder	C0003431	2	35	4.639769586844977e-05	5.07726269316e-05	CNR1,CYP2E1

@@ -1,0 +1,14 @@
+node_name	node_type	
+DB09422	drug	
+PPARA	drug_target	
+Fetal Alcohol Syndrome	phenotype	
+Philadelphia chromosome positive	phenotype	
+Obesity, Visceral	phenotype	
+Hyperlipoproteinemia	phenotype	
+Hypertriglyceridemia result	phenotype	
+Pediatric Obesity	phenotype	
+Insulin resistance syndrome	phenotype	
+Anti-Glomerular Basement Membrane Disease	phenotype	
+Coronary Restenosis	phenotype	
+Aural atresia, congenital	phenotype	
+Pain insensitivity	phenotype	

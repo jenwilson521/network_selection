@@ -1,0 +1,44 @@
+Gene	CUI	Source Databases	
+NR1I2	C1318485	Liver regeneration disorder	DisGeNet	
+PPARA	C1318485	Liver regeneration disorder	DisGeNet	
+PPARD	C1318485	Liver regeneration disorder	DisGeNet	
+PPARG	C1318485	Liver regeneration disorder	DisGeNet	
+NR1I2	C0600452	Hepatopulmonary Syndrome	DisGeNet	
+PPARA	C0600452	Hepatopulmonary Syndrome	DisGeNet	
+PPARG	C0600452	Hepatopulmonary Syndrome	DisGeNet	
+NR1I2	C2711227	Steatohepatitis	DisGeNet	
+PPARA	C2711227	Steatohepatitis	DisGeNet	
+PPARD	C2711227	Steatohepatitis	DisGeNet	
+PPARG	C2711227	Steatohepatitis	DisGeNet	
+NR1I2	C0242339	Dyslipidemias	DisGeNet	
+PPARA	C0242339	Dyslipidemias	DisGeNet	
+PPARD	C0242339	Dyslipidemias	DisGeNet	
+PPARG	C0242339	Dyslipidemias	DisGeNet	
+NR1I2	C0282607	Vascular neoplasm	DisGeNet	
+PPARA	C0282607	Vascular neoplasm	DisGeNet	
+PPARG	C0282607	Vascular neoplasm	DisGeNet	
+NR1I2	C0268318	Cholestasis of pregnancy	DisGeNet	
+PPARG	C0268318	Cholestasis of pregnancy	DisGeNet	
+NR1I2	C0001144	Acne Vulgaris	DisGeNet	
+PPARG	C0001144	Acne Vulgaris	DisGeNet	
+PPARA	C0028756	Obesity, severe, 601665 (3)	DisGeNet	
+PPARD	C0028756	Obesity, severe, 601665 (3)	DisGeNet	
+PPARG	C0028756	Obesity, severe, 601665 (3)	DisGeNet	
+PPARA	C1522137	Hypertriglyceridemia result	DisGeNet	
+PPARG	C1522137	Hypertriglyceridemia result	DisGeNet	
+PPARA	C2362324	Pediatric Obesity	DisGeNet	
+PPARG	C2362324	Pediatric Obesity	DisGeNet	
+PPARA	C3714619	Insulin resistance syndrome	DisGeNet	
+PPARG	C3714619	Insulin resistance syndrome	DisGeNet	
+PPARA	C0948480	Coronary Restenosis	DisGeNet	
+PPARG	C0948480	Coronary Restenosis	DisGeNet	
+NR1I2	C0400966	Non-alcoholic Fatty Liver Disease	DisGeNet	
+PPARA	C0400966	Non-alcoholic Fatty Liver Disease	DisGeNet	
+PPARD	C0400966	Non-alcoholic Fatty Liver Disease	DisGeNet	
+PPARG	C0400966	Non-alcoholic Fatty Liver Disease	DisGeNet	
+NR1I2	C0853897	Diabetic Cardiomyopathies	DisGeNet	
+PPARA	C0853897	Diabetic Cardiomyopathies	DisGeNet	
+PPARD	C0005426	Biliary tract neoplasm	DisGeNet	
+PPARG	C0005426	Biliary tract neoplasm	DisGeNet	
+NR1I2	C0154251	Disorders of lipoid metabolism	DisGeNet	
+PPARA	C0154251	Disorders of lipoid metabolism	DisGeNet	

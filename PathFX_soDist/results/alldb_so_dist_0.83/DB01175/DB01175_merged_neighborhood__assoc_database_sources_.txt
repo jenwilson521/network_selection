@@ -1,0 +1,72 @@
+Gene	CUI	Source Databases	
+ADRA1A	C0013146	Methamphetamine abuse	DisGeNet	
+CYP2C19	C0013146	Methamphetamine abuse	DisGeNet	
+CYP2D6	C0013146	Methamphetamine abuse	DisGeNet	
+SLC6A2	C0013146	Methamphetamine abuse	DisGeNet	
+SLC6A3	C0013146	Methamphetamine abuse	DisGeNet	
+SLC6A4	C0013146	Methamphetamine abuse	DisGeNet	
+CYP2D6	C0019337	Heroin Dependence	DisGeNet	
+CYP3A4	C0019337	Heroin Dependence	DisGeNet	
+SLC6A2	C0019337	Heroin Dependence	DisGeNet	
+SLC6A3	C0019337	Heroin Dependence	DisGeNet	
+SLC6A4	C0019337	Heroin Dependence	DisGeNet	
+ADRA1A	C0221765	Chronic schizophrenia	DisGeNet	
+CYP2D6	C0221765	Chronic schizophrenia	DisGeNet	
+CYP3A4	C0221765	Chronic schizophrenia	DisGeNet	
+SLC6A3	C0221765	Chronic schizophrenia	DisGeNet	
+ADRA1A	C0030201	Acute postoperative pain	DisGeNet	
+CYP2D6	C0030201	Acute postoperative pain	DisGeNet	
+CYP3A4	C0030201	Acute postoperative pain	DisGeNet	
+SLC6A4	C0030201	Acute postoperative pain	DisGeNet	
+CYP2C19	C0024620	Primary malignant neoplasm of liver	DisGeNet	
+CYP2D6	C0024620	Primary malignant neoplasm of liver	DisGeNet	
+CYP3A4	C0024620	Primary malignant neoplasm of liver	DisGeNet	
+SLC6A2	C0004930	Behavior Disorders	DisGeNet	
+SLC6A3	C0004930	Behavior Disorders	DisGeNet	
+SLC6A4	C0004930	Behavior Disorders	DisGeNet	
+CYP2D6	C0686347	Tardive Dyskinesia	DisGeNet	
+CYP3A4	C0686347	Tardive Dyskinesia	DisGeNet	
+SLC6A3	C0686347	Tardive Dyskinesia	DisGeNet	
+SLC6A4	C0686347	Tardive Dyskinesia	DisGeNet	
+CYP2C19	C0029421	Osteochondritis dissecans	DisGeNet	
+CYP2D6	C0029421	Osteochondritis dissecans	DisGeNet	
+SLC6A3	C0029421	Osteochondritis dissecans	DisGeNet	
+SLC6A4	C0029421	Osteochondritis dissecans	DisGeNet	
+ADRA1A	C1141890	Congenital long QT syndrome	DisGeNet	
+CYP2D6	C1141890	Congenital long QT syndrome	DisGeNet	
+CYP3A4	C1141890	Congenital long QT syndrome	DisGeNet	
+CYP2C19	C0086132	Depressive Symptoms	DisGeNet	
+CYP2D6	C0086132	Depressive Symptoms	DisGeNet	
+CYP3A4	C0086132	Depressive Symptoms	DisGeNet	
+SLC6A3	C0086132	Depressive Symptoms	DisGeNet	
+SLC6A4	C0086132	Depressive Symptoms	DisGeNet	
+CYP2D6	C0152115	Orofacial dyskinesia	DisGeNet	
+CYP3A4	C0152115	Orofacial dyskinesia	DisGeNet	
+SLC6A3	C0152115	Orofacial dyskinesia	DisGeNet	
+SLC6A4	C0152115	Orofacial dyskinesia	DisGeNet	
+CYP2D6	C0031212	Personality disorder	DisGeNet	
+SLC6A2	C0031212	Personality disorder	DisGeNet	
+SLC6A4	C0031212	Personality disorder	DisGeNet	
+CYP2C19	C0013182	Drug Allergy	DisGeNet	
+CYP2D6	C0013182	Drug Allergy	DisGeNet	
+CYP3A4	C0013182	Drug Allergy	DisGeNet	
+SLC6A3	C0013182	Drug Allergy	DisGeNet	
+CYP2C19	C0028768	Obsessive-compulsive disorder	DisGeNet	
+CYP2D6	C0028768	Obsessive-compulsive disorder	DisGeNet	
+SLC6A3	C0028768	Obsessive-compulsive disorder	DisGeNet	
+SLC6A4	C0028768	Obsessive-compulsive disorder	ClinVar,DisGeNet	
+ADRA1A	C0016053	Fibromyalgia	DisGeNet	
+SLC6A3	C0016053	Fibromyalgia	DisGeNet	
+SLC6A4	C0016053	Fibromyalgia	DisGeNet	
+CYP2D6	C0033054	Prenatal Exposure Delayed Effects	DisGeNet	
+SLC6A3	C0033054	Prenatal Exposure Delayed Effects	DisGeNet	
+SLC6A4	C0033054	Prenatal Exposure Delayed Effects	DisGeNet	
+CYP2C19	C0027497	Nausea	DisGeNet	
+CYP2D6	C0027497	Nausea	DisGeNet	
+SLC6A4	C0027497	Nausea	DisGeNet	
+ADRA1A	C0025261	Memory Disorders	DisGeNet	
+SLC6A3	C0025261	Memory Disorders	DisGeNet	
+SLC6A4	C0025261	Memory Disorders	DisGeNet	
+CYP2D6	C1457887	CNS symptom	DisGeNet	
+SLC6A3	C1457887	CNS symptom	DisGeNet	
+SLC6A4	C1457887	CNS symptom	DisGeNet	

@@ -1,0 +1,201 @@
+Gene	CUI	Source Databases	
+ADRA1A	C0030201	Acute postoperative pain	DisGeNet	
+ADRB2	C0030201	Acute postoperative pain	DisGeNet	
+COMT	C0030201	Acute postoperative pain	DisGeNet	
+CYP3A4	C0030201	Acute postoperative pain	DisGeNet	
+TNF	C0030201	Acute postoperative pain	DisGeNet	
+ADRA1A	C0152136	Low Tension Glaucoma	DisGeNet	
+ADRA2A	C0152136	Low Tension Glaucoma	DisGeNet	
+ADRB1	C0152136	Low Tension Glaucoma	DisGeNet	
+ADRB2	C0152136	Low Tension Glaucoma	DisGeNet	
+TNF	C0152136	Low Tension Glaucoma	DisGeNet	
+ADRB1	C0028797	Occupational Diseases	DisGeNet	
+ADRB2	C0028797	Occupational Diseases	DisGeNet	
+ALB	C0028797	Occupational Diseases	DisGeNet	
+COMT	C0028797	Occupational Diseases	DisGeNet	
+TNF	C0028797	Occupational Diseases	DisGeNet	
+ADRA1A	C0221765	Chronic schizophrenia	DisGeNet	
+COMT	C0221765	Chronic schizophrenia	DisGeNet	
+CYP3A4	C0221765	Chronic schizophrenia	DisGeNet	
+TNF	C0221765	Chronic schizophrenia	DisGeNet	
+ADRA1A	C0027719	Nephrosclerosis	DisGeNet	
+ADRB1	C0027719	Nephrosclerosis	DisGeNet	
+ADRB2	C0027719	Nephrosclerosis	DisGeNet	
+ALB	C0027719	Nephrosclerosis	DisGeNet	
+ADRA2A	C0948089	Acute Coronary Syndrome	DisGeNet	
+ADRB1	C0948089	Acute Coronary Syndrome	DisGeNet	
+ADRB2	C0948089	Acute Coronary Syndrome	DisGeNet	
+ALB	C0948089	Acute Coronary Syndrome	DisGeNet	
+COMT	C0948089	Acute Coronary Syndrome	DisGeNet	
+CYP2C9	C0948089	Acute Coronary Syndrome	DisGeNet	
+CYP3A4	C0948089	Acute Coronary Syndrome	DisGeNet,PheGenI	
+LTA	C0948089	Acute Coronary Syndrome	DisGeNet	
+TNF	C0948089	Acute Coronary Syndrome	DisGeNet	
+ADRB2	C0022660	Acute kidney injury	DisGeNet	
+ALB	C0022660	Acute kidney injury	DisGeNet	
+COMT	C0022660	Acute kidney injury	DisGeNet	
+CYP2C9	C0022660	Acute kidney injury	DisGeNet	
+CYP3A4	C0022660	Acute kidney injury	DisGeNet	
+SLC22A1	C0022660	Acute kidney injury	DisGeNet	
+SLC22A2	C0022660	Acute kidney injury	DisGeNet	
+TNF	C0022660	Acute kidney injury	DisGeNet	
+ADRA2A	C2911645	Weight Loss Adverse Event	DisGeNet	
+ADRB2	C2911645	Weight Loss Adverse Event	DisGeNet	
+COMT	C2911645	Weight Loss Adverse Event	DisGeNet	
+TNF	C2911645	Weight Loss Adverse Event	DisGeNet	
+ADRA1A	C0016053	Fibromyalgia	DisGeNet	
+ADRB2	C0016053	Fibromyalgia	DisGeNet	
+COMT	C0016053	Fibromyalgia	DisGeNet	
+TNF	C0016053	Fibromyalgia	DisGeNet	
+ADRA1A	C0085580	Essential hypertension	DisGeNet	
+ADRA1B	C0085580	Essential hypertension	DisGeNet	
+ADRB1	C0085580	Essential hypertension	DisGeNet	
+ADRB2	C0085580	Essential hypertension	DisGeNet	
+ALB	C0085580	Essential hypertension	DisGeNet	
+CYP2C9	C0085580	Essential hypertension	DisGeNet	
+LTA	C0085580	Essential hypertension	DisGeNet	
+TNF	C0085580	Essential hypertension	DisGeNet	
+ADRA1A	C0036396	Chronic sciatica	DisGeNet	
+ADRA2A	C0036396	Chronic sciatica	DisGeNet	
+COMT	C0036396	Chronic sciatica	DisGeNet	
+ADRA1A	C0013146	Methamphetamine abuse	DisGeNet	
+ALB	C0013146	Methamphetamine abuse	DisGeNet	
+COMT	C0013146	Methamphetamine abuse	DisGeNet	
+CYP2C9	C0013146	Methamphetamine abuse	DisGeNet	
+TNF	C0013146	Methamphetamine abuse	DisGeNet	
+ADRA1A	C0022661	Kidney Failure, Chronic	DisGeNet	
+ADRA1B	C0022661	Kidney Failure, Chronic	DisGeNet	
+ADRB1	C0022661	Kidney Failure, Chronic	DisGeNet	
+ADRB2	C0022661	Kidney Failure, Chronic	DisGeNet	
+ALB	C0022661	Kidney Failure, Chronic	DisGeNet	
+COMT	C0022661	Kidney Failure, Chronic	DisGeNet	
+CYP2C9	C0022661	Kidney Failure, Chronic	DisGeNet	
+CYP3A4	C0022661	Kidney Failure, Chronic	DisGeNet	
+LTA	C0022661	Kidney Failure, Chronic	DisGeNet	
+SLC22A2	C0022661	Kidney Failure, Chronic	DisGeNet	
+TNF	C0022661	Kidney Failure, Chronic	DisGeNet	
+ADRB1	C0025303	Meningococcal Infections	DisGeNet	
+ADRB2	C0025303	Meningococcal Infections	DisGeNet	
+LTA	C0025303	Meningococcal Infections	DisGeNet	
+TNF	C0025303	Meningococcal Infections	DisGeNet	
+ADRB1	C0038443	Stress, Psychological	DisGeNet	
+ADRB2	C0038443	Stress, Psychological	DisGeNet	
+COMT	C0038443	Stress, Psychological	DisGeNet	
+TNF	C0038443	Stress, Psychological	DisGeNet	
+COMT	C0031347	Pharyngeal Neoplasms	DisGeNet	
+CYP2C9	C0031347	Pharyngeal Neoplasms	DisGeNet	
+CYP3A4	C0031347	Pharyngeal Neoplasms	DisGeNet	
+TNF	C0031347	Pharyngeal Neoplasms	DisGeNet	
+ADRB2	C0086132	Depressive Symptoms	DisGeNet	
+COMT	C0086132	Depressive Symptoms	DisGeNet	
+CYP3A4	C0086132	Depressive Symptoms	DisGeNet	
+TNF	C0086132	Depressive Symptoms	DisGeNet	
+TXNRD2	C0086132	Depressive Symptoms	DisGeNet	
+ADRB2	C0020544	Renal hypertension	DisGeNet	
+CYP2C9	C0020544	Renal hypertension	DisGeNet	
+TNF	C0020544	Renal hypertension	DisGeNet	
+ALB	C0035457	Rhinitis, Allergic, Perennial	DisGeNet	
+CYP2C9	C0035457	Rhinitis, Allergic, Perennial	DisGeNet	
+TNF	C0035457	Rhinitis, Allergic, Perennial	DisGeNet	
+ADRA1A	C0020649	Hypotension	DisGeNet	
+ADRA1B	C0020649	Hypotension	DisGeNet	
+ADRA2A	C0020649	Hypotension	DisGeNet	
+ALB	C0020649	Hypotension	DisGeNet,HumPhenOnt	
+TNF	C0020649	Hypotension	DisGeNet	
+ADRB1	C0342257	Complications of Diabetes Mellitus	DisGeNet	
+ALB	C0342257	Complications of Diabetes Mellitus	DisGeNet	
+LTA	C0342257	Complications of Diabetes Mellitus	DisGeNet	
+TNF	C0342257	Complications of Diabetes Mellitus	DisGeNet	
+CYP2C9	C0041582	Peptic Ulcer Hemorrhage	DisGeNet	
+LTA	C0041582	Peptic Ulcer Hemorrhage	DisGeNet	
+TNF	C0041582	Peptic Ulcer Hemorrhage	DisGeNet	
+CYP2C9	C0013182	Drug Allergy	DisGeNet	
+CYP3A4	C0013182	Drug Allergy	DisGeNet	
+LTA	C0013182	Drug Allergy	DisGeNet	
+TNF	C0013182	Drug Allergy	DisGeNet	
+ADRB1	C0020473	Hyperlipidemia, combined, 1	DisGeNet	
+ADRB2	C0020473	Hyperlipidemia, combined, 1	DisGeNet	
+ALB	C0020473	Hyperlipidemia, combined, 1	DisGeNet,HumPhenOnt	
+CYP2C9	C0020473	Hyperlipidemia, combined, 1	DisGeNet	
+CYP3A4	C0020473	Hyperlipidemia, combined, 1	DisGeNet	
+LTA	C0020473	Hyperlipidemia, combined, 1	DisGeNet	
+TNF	C0020473	Hyperlipidemia, combined, 1	DisGeNet	
+ADRA2A	C0017178	Gastrointestinal Diseases	DisGeNet	
+COMT	C0017178	Gastrointestinal Diseases	DisGeNet	
+CYP2C9	C0017178	Gastrointestinal Diseases	DisGeNet	
+TNF	C0017178	Gastrointestinal Diseases	DisGeNet	
+ADRB1	C0264716	Chronic heart failure	DisGeNet	
+ADRB2	C0264716	Chronic heart failure	DisGeNet	
+LTA	C0264716	Chronic heart failure	DisGeNet	
+TNF	C0264716	Chronic heart failure	DisGeNet	
+ADRA1A	C0024031	Low back pain	DisGeNet	
+ADRA2A	C0024031	Low back pain	DisGeNet	
+COMT	C0024031	Low back pain	DisGeNet	
+CYP2C9	C0038354	Stomach Diseases	DisGeNet	
+LTA	C0038354	Stomach Diseases	DisGeNet	
+TNF	C0038354	Stomach Diseases	DisGeNet	
+ADRA2A	C0242510	Drug usage	DisGeNet	
+COMT	C0242510	Drug usage	DisGeNet	
+CYP2C9	C0242510	Drug usage	DisGeNet	
+COMT	C0015674	Chronic Fatigue Syndrome	DisGeNet	
+LTA	C0015674	Chronic Fatigue Syndrome	DisGeNet	
+TNF	C0015674	Chronic Fatigue Syndrome	DisGeNet	
+ADRA2A	C0376618	Endotoxemia	DisGeNet	
+SLC22A1	C0376618	Endotoxemia	DisGeNet	
+SLC22A2	C0376618	Endotoxemia	DisGeNet	
+TNF	C0376618	Endotoxemia	DisGeNet	
+ADRA1B	C0520679	Obstructive sleep apnea	DisGeNet	
+ADRA2A	C0520679	Obstructive sleep apnea	DisGeNet	
+ADRB1	C0520679	Obstructive sleep apnea	DisGeNet	
+ADRB2	C0520679	Obstructive sleep apnea	DisGeNet	
+TNF	C0520679	Obstructive sleep apnea	DisGeNet	
+ADRB2	C0033054	Prenatal Exposure Delayed Effects	DisGeNet	
+COMT	C0033054	Prenatal Exposure Delayed Effects	DisGeNet	
+TNF	C0033054	Prenatal Exposure Delayed Effects	DisGeNet	
+COMT	C0344307	Pain insensitivity	DisGeNet	
+CYP3A4	C0344307	Pain insensitivity	DisGeNet	
+TNF	C0344307	Pain insensitivity	DisGeNet	
+ADRA1A	C0085129	Bronchial Hyperreactivity	DisGeNet	
+ADRB2	C0085129	Bronchial Hyperreactivity	DisGeNet	
+COMT	C0085129	Bronchial Hyperreactivity	DisGeNet	
+LTA	C0085129	Bronchial Hyperreactivity	DisGeNet	
+TNF	C0085129	Bronchial Hyperreactivity	DisGeNet	
+COMT	C0023055	Neoplasm of the larynx	DisGeNet	
+CYP2C9	C0023055	Neoplasm of the larynx	DisGeNet	
+CYP3A4	C0023055	Neoplasm of the larynx	DisGeNet	
+TNF	C0023055	Neoplasm of the larynx	DisGeNet	
+COMT	C0027497	Nausea	DisGeNet	
+CYP2C9	C0027497	Nausea	DisGeNet	
+TNF	C0027497	Nausea	DisGeNet	
+ADRA1A	C0020429	Hyperalgesia	DisGeNet	
+ADRA2A	C0020429	Hyperalgesia	DisGeNet	
+ADRB1	C0020429	Hyperalgesia	DisGeNet	
+COMT	C0020429	Hyperalgesia	DisGeNet	
+TNF	C0020429	Hyperalgesia	DisGeNet	
+ADRA1A	C0025261	Memory Disorders	DisGeNet	
+COMT	C0025261	Memory Disorders	DisGeNet	
+TNF	C0025261	Memory Disorders	DisGeNet	
+COMT	C0079487	Helicobacter Infections	DisGeNet	
+CYP2C9	C0079487	Helicobacter Infections	DisGeNet	
+LTA	C0079487	Helicobacter Infections	DisGeNet	
+TNF	C0079487	Helicobacter Infections	DisGeNet	
+ADRA1A	C0020445	Familial hypercholesterolemia	DisGeNet	
+ADRB1	C0020445	Familial hypercholesterolemia	DisGeNet	
+ADRB2	C0020445	Familial hypercholesterolemia	DisGeNet	
+ALB	C0020445	Familial hypercholesterolemia	DisGeNet	
+TNF	C0020445	Familial hypercholesterolemia	DisGeNet	
+ADRB1	C0017612	Glaucoma, Open-Angle	DisGeNet	
+ADRB2	C0017612	Glaucoma, Open-Angle	DisGeNet	
+TNF	C0017612	Glaucoma, Open-Angle	DisGeNet	
+TXNRD2	C0017612	Glaucoma, Open-Angle	PheGenI	
+ADRB2	C0036983	 {Septic shock, susceptibility to} (3)	DisGeNet	
+LTA	C0036983	 {Septic shock, susceptibility to} (3)	DisGeNet	
+TNF	C0036983	 {Septic shock, susceptibility to} (3)	DisGeNet	
+ADRA1A	C0032460	Polycystic Ovary Syndrome	DisGeNet	
+ADRA1B	C0032460	Polycystic Ovary Syndrome	DisGeNet	
+ADRB2	C0032460	Polycystic Ovary Syndrome	DisGeNet	
+ALB	C0032460	Polycystic Ovary Syndrome	DisGeNet	
+COMT	C0032460	Polycystic Ovary Syndrome	DisGeNet	
+CYP2C9	C0032460	Polycystic Ovary Syndrome	DisGeNet	
+SLC22A1	C0032460	Polycystic Ovary Syndrome	DisGeNet	
+TNF	C0032460	Polycystic Ovary Syndrome	DisGeNet	

@@ -1,0 +1,119 @@
+node1	node2	edge_score	
+DB00938	CYP2C8	1.0	
+DB00938	ADRB1	1.0	
+DB00938	ADRB2	1.0	
+DB00938	ADRB3	1.0	
+DB00938	CYP3A4	1.0	
+DB00938	CYP3A5	1.0	
+CYP3A4	rs35599367	0.99
+CYP2C8	rs10509681	0.99
+CYP3A4	rs2242480	0.99
+CYP2C8	CYP2C8*1A, CYP2C8*2, CYP2C8*3	0.99
+rs2740574	CYP3A	0.9801
+ADRB2	rs1042714	0.99
+CYP3A5	rs10264272	0.99
+CYP3A4	rs4646437	0.99
+CYP3A5	rs17161788	0.99
+CYP2C8	rs11572080	0.99
+ADRB2	rs1042718	0.99
+CYP2C8	rs1113129	0.99
+CYP3A4	rs2246709	0.99
+CYP3A5		1.0
+CYP3A	rs12721627	0.970299
+CYP2C8	rs11572076	0.99
+CYP3A4	CYP3A4*1, CYP3A4*4	0.99
+rs4987161	CYP3A	0.9801
+ADRB2	rs1042713	0.99
+rs12721627	CYP3A	0.9801
+CYP3A4	rs3735451	0.99
+CYP3A4		1.0
+rs12721627	CYP3A4	0.96059601
+CYP2C8		1.0
+CYP3A4	rs4646440	0.99
+CYP3A4	CYP3A4*1, CYP3A4*22	0.99
+CYP3A	rs2740574	0.970299
+ADRB1		1.0
+CYP3A5	rs41303343	0.99
+CYP3A5	CYP3A5*1A, CYP3A5*3A, CYP3A5*6, CYP3A5*7	0.99
+CYP3A4	rs4987161	0.99
+CYP3A4	rs2740574	0.99
+rs2740574	CYP3A4	0.96059601
+CYP3A4	rs28371759	0.99
+CYP3A4	rs4986910	0.99
+CYP3A4	CYP3A4*1, CYP3A4*20, CYP3A4*8	0.99
+CYP3A	rs4987161	0.970299
+ADRB2		1.0
+rs4987161	CYP3A4	0.96059601
+CYP3A5	CYP3A5*1A, CYP3A5*3A	0.99
+CYP2C8	rs1934951	0.99
+CYP3A4	rs12721627	0.99
+ADRB3		1.0
+CYP3A4	CYP3A4*1, CYP3A4*1G	0.99
+CYP3A5	rs776746	0.99
+CYP2C8	rs11572103	0.99
+CYP3A4	rs56324128	0.99
+Hyperlipidemia, combined, 1	ADRB1	1.0	
+Hyperlipidemia, combined, 1	ADRB2	1.0	
+Hyperlipidemia, combined, 1	ADRB3	1.0	
+Hyperlipidemia, combined, 1	CYP2C8	1.0	
+Hyperlipidemia, combined, 1	CYP3A4	1.0	
+Hyperlipidemia, combined, 1	CYP3A5	1.0	
+Low Tension Glaucoma	ADRB1	1.0	
+Low Tension Glaucoma	ADRB2	1.0	
+Low Tension Glaucoma	ADRB3	1.0	
+Drug Allergy	CYP2C8	1.0	
+Drug Allergy	CYP3A4	1.0	
+Drug Allergy	CYP3A5	1.0	
+Primary malignant neoplasm of liver	CYP3A4	1.0	
+Primary malignant neoplasm of liver	CYP3A5	1.0	
+Acute Coronary Syndrome	ADRB1	1.0	
+Acute Coronary Syndrome	ADRB2	1.0	
+Acute Coronary Syndrome	ADRB3	1.0	
+Acute Coronary Syndrome	CYP3A4	1.0	
+Acute Coronary Syndrome	CYP3A5	1.0	
+Squamous Cell Neoplasms	CYP3A4	1.0	
+Squamous Cell Neoplasms	CYP3A5	1.0	
+body mass	ADRB1	1.0	
+body mass	ADRB2	1.0	
+body mass	ADRB3	1.0	
+Cocaine delirium	CYP3A4	1.0	
+Cocaine delirium	CYP3A5	1.0	
+Acute postoperative pain	ADRB2	1.0	
+Acute postoperative pain	CYP3A4	1.0	
+Nephrosclerosis	ADRB1	1.0	
+Nephrosclerosis	ADRB2	1.0	
+Thromboembolism	ADRB2	1.0	
+Thromboembolism	CYP3A4	1.0	
+Thromboembolism	CYP3A5	1.0	
+Acanthosis nigricans	ADRB2	1.0	
+Acanthosis nigricans	ADRB3	1.0	
+Chronic interstitial cystitis	ADRB2	1.0	
+Chronic interstitial cystitis	ADRB3	1.0	
+Kidney Failure, Chronic	ADRB1	1.0	
+Kidney Failure, Chronic	ADRB2	1.0	
+Kidney Failure, Chronic	ADRB3	1.0	
+Kidney Failure, Chronic	CYP2C8	1.0	
+Kidney Failure, Chronic	CYP3A4	1.0	
+Kidney Failure, Chronic	CYP3A5	1.0	
+Bone necrosis	CYP2C8	1.0	
+Bone necrosis	CYP3A4	1.0	
+Capillary hemangiomas	ADRB1	1.0	
+Capillary hemangiomas	ADRB2	1.0	
+Ventricular tachycardia, catecholaminergic polymorphic, 2	ADRB1	1.0	
+Ventricular tachycardia, catecholaminergic polymorphic, 2	ADRB2	1.0	
+Weight Loss Adverse Event	ADRB2	1.0	
+Weight Loss Adverse Event	ADRB3	1.0	
+Obesity, severe, 601665 (3)	ADRB1	1.0	
+Obesity, severe, 601665 (3)	ADRB2	1.0	
+Obesity, severe, 601665 (3)	ADRB3	1.0	
+Fibromyalgia	ADRB2	1.0	
+Fibromyalgia	ADRB3	1.0	
+Ventricular fibrillation	ADRB1	1.0	
+Ventricular fibrillation	ADRB2	1.0	
+Genitourinary neoplasm	CYP2C8	1.0	
+Genitourinary neoplasm	CYP3A4	1.0	
+Genitourinary neoplasm	CYP3A5	1.0	
+Pain insensitivity	CYP3A4	1.0	
+Pain insensitivity	CYP3A5	1.0	
+Glucocorticoid resistance, generalized	ADRB2	1.0	
+Glucocorticoid resistance, generalized	CYP3A5	1.0	

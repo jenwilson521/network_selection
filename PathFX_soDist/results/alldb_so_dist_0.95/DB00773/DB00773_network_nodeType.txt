@@ -1,0 +1,64 @@
+node_name	node_type	
+DB00773	drug	
+CYP2C8	drug_target	
+PTGS1	drug_target	
+TOP2A	drug_target	
+ABCC6	drug_target	
+GSTT1	drug_target	
+PTGS2	drug_target	
+CYP1A2	drug_target	
+CYP2E1	drug_target	
+UGT1A1	drug_target	
+ABCB1	drug_target	
+ABCC10	drug_target	
+GSTP1	drug_target	
+ABCG2	drug_target	
+CYP3A4	drug_target	
+CYP3A5	drug_target	
+TOP2B	drug_target	
+ABCC1	drug_target	
+ABCC2	drug_target	
+ABCC3	drug_target	
+Drug Allergy	phenotype	
+Leukopenia	phenotype	
+Hyperbilirubinemia	phenotype	
+Adverse drug events and drug allergies	phenotype	
+Febrile Neutropenia	phenotype	
+Squamous Cell Neoplasms	phenotype	
+Neutropenia	phenotype	
+Hepatitis D Infection	phenotype	
+Hearing Loss, Partial	phenotype	
+Head and Neck Neoplasms	phenotype	
+Peptic ulcer	phenotype	
+Cholelithiasis	phenotype	
+Drug-Induced Liver Injury	phenotype	
+Pancreatitis, Alcoholic	phenotype	
+Adenoma of large intestine	phenotype	
+Neurotoxicity Syndromes	phenotype	
+Stomach Diseases	phenotype	
+Neoplasm of the larynx	phenotype	
+Deafness, autosomal recessive 44	phenotype	
+Diarrhea 8, secretory sodium, congenital	phenotype	
+DNA Damage	phenotype	
+Pharyngeal Neoplasms	phenotype	
+Liver Cirrhosis, Alcoholic	phenotype	
+Helicobacter Infections	phenotype	
+Postoperative Complications	phenotype	
+Bone necrosis	phenotype	
+Neonatal respiratory distress	phenotype	
+Primary biliary cirrhosis	phenotype	
+Leukemia, Lymphocytic, Acute, L1	phenotype	
+Dyskinesia, Drug-Induced	phenotype	
+Drug Eruptions	phenotype	
+Primary malignant neoplasm of liver	phenotype	
+Slow acetylator due to N-acetyltransferase enzyme variant	phenotype	
+Pleural Neoplasms	phenotype	
+Leukoplakia	phenotype	
+Cholecystolithiasis	phenotype	
+Malignant neoplasm of pharynx	phenotype	
+Hepatic cancer metastatic	phenotype	
+Adult Acute Myeloblastic Leukemia	phenotype	
+Malignant neoplasm of larynx	phenotype	
+Dyspepsia	phenotype	
+Chromosomal translocation	phenotype	
+Laryngeal carcinoma	phenotype	

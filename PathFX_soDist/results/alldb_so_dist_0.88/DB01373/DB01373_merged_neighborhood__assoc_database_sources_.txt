@@ -1,0 +1,22 @@
+Gene	CUI	Source Databases	
+CACNA1C	C0154409	Recurrent major depressive episodes	DisGeNet	
+CACNA1C	C0151878	Prolonged QT interval	HumPhenOnt	
+CACNA1C	C1141890	Congenital long QT syndrome	DisGeNet	
+CACNA1C	C0011071	Sudden death	HumPhenOnt	
+CACNA1C	C0024591	Malignant hyperthermia susceptibility	DisGeNet	
+CACNA1C	C4025755	Primary atrial arrhythmia	HumPhenOnt	
+CACNA1C	C0438215	Abnormal cardiac test	HumPhenOnt	
+CACNA1C	C0428974	Supraventricular arrhythmia	HumPhenOnt	
+CACNA1C	C1142166	Brugada Syndrome	ClinVar,DisGeNet	
+CACNA1C	C0432072	Dysmorphic features	DisGeNet	
+CACNA1C	C0522055	Abnormal EKG	HumPhenOnt	
+CACNA1C	C1720983	Channelopathies	DisGeNet	
+CACNA1C	C0039240	Supraventricular tachycardia	HumPhenOnt	
+CACNA1C	C0039070	Syncope	HumPhenOnt	
+CACNA1C	C0085612	Ventricular arrhythmia	HumPhenOnt	
+CACNA1C	C1384514	Primary hyperaldosteronism	DisGeNet	
+CACNA1C	C0041671	Attention Deficit Disorder	DisGeNet	
+CACNA1C	C1510472	Drug Dependence	DisGeNet	
+CACNA1C	C0006277	Bronchitis	DisGeNet	
+CACNA1C	C0338480	Common Migraine	DisGeNet	
+CACNA1C	C0038580	Substance addiction and disorders	DisGeNet	

@@ -1,0 +1,72 @@
+Gene	CUI	Source Databases	
+CYP2D6	C0686347	Tardive Dyskinesia	DisGeNet	
+CYP3A4	C0686347	Tardive Dyskinesia	DisGeNet	
+CYP3A5	C0686347	Tardive Dyskinesia	DisGeNet	
+SLC6A3	C0686347	Tardive Dyskinesia	DisGeNet	
+SLC6A4	C0686347	Tardive Dyskinesia	DisGeNet	
+CYP2D6	C0019337	Heroin Dependence	DisGeNet	
+CYP3A4	C0019337	Heroin Dependence	DisGeNet	
+SLC6A2	C0019337	Heroin Dependence	DisGeNet	
+SLC6A3	C0019337	Heroin Dependence	DisGeNet	
+SLC6A4	C0019337	Heroin Dependence	DisGeNet	
+ALB	C0013146	Methamphetamine abuse	DisGeNet	
+BCHE	C0013146	Methamphetamine abuse	DisGeNet	
+CYP2D6	C0013146	Methamphetamine abuse	DisGeNet	
+SLC6A2	C0013146	Methamphetamine abuse	DisGeNet	
+SLC6A3	C0013146	Methamphetamine abuse	DisGeNet	
+SLC6A4	C0013146	Methamphetamine abuse	DisGeNet	
+CYP2D6	C0152115	Orofacial dyskinesia	DisGeNet	
+CYP3A4	C0152115	Orofacial dyskinesia	DisGeNet	
+CYP3A5	C0152115	Orofacial dyskinesia	DisGeNet	
+SLC6A3	C0152115	Orofacial dyskinesia	DisGeNet	
+SLC6A4	C0152115	Orofacial dyskinesia	DisGeNet	
+CYP2C8	C0013182	Drug Allergy	DisGeNet	
+CYP2D6	C0013182	Drug Allergy	DisGeNet	
+CYP3A4	C0013182	Drug Allergy	DisGeNet	
+CYP3A5	C0013182	Drug Allergy	DisGeNet	
+SLC6A3	C0013182	Drug Allergy	DisGeNet	
+CYP2D6	C0024620	Primary malignant neoplasm of liver	DisGeNet	
+CYP3A4	C0024620	Primary malignant neoplasm of liver	DisGeNet	
+CYP3A5	C0024620	Primary malignant neoplasm of liver	DisGeNet	
+SLC6A2	C0004930	Behavior Disorders	DisGeNet	
+SLC6A3	C0004930	Behavior Disorders	DisGeNet	
+SLC6A4	C0004930	Behavior Disorders	DisGeNet	
+ALB	C0041755	Adverse drug events and drug allergies	DisGeNet	
+BCHE	C0041755	Adverse drug events and drug allergies	DisGeNet	
+CYP2D6	C0041755	Adverse drug events and drug allergies	DisGeNet	
+SLC6A4	C0041755	Adverse drug events and drug allergies	DisGeNet	
+ALB	C0038586	Substance Use Disorders	DisGeNet	
+SLC6A3	C0038586	Substance Use Disorders	DisGeNet	
+SLC6A4	C0038586	Substance Use Disorders	DisGeNet	
+CYP2D6	C1141890	Congenital long QT syndrome	DisGeNet	
+CYP3A4	C1141890	Congenital long QT syndrome	DisGeNet	
+SCN5A	C1141890	Congenital long QT syndrome	DisGeNet	
+BCHE	C0877008	Enzyme inhibition disorder	DisGeNet	
+CYP2D6	C0877008	Enzyme inhibition disorder	DisGeNet	
+CYP3A4	C0877008	Enzyme inhibition disorder	DisGeNet	
+CYP3A4	C0011206	Cocaine delirium	DisGeNet	
+CYP3A5	C0011206	Cocaine delirium	DisGeNet	
+SLC6A3	C0011206	Cocaine delirium	DisGeNet	
+CYP2D6	C0221765	Chronic schizophrenia	DisGeNet	
+CYP3A4	C0221765	Chronic schizophrenia	DisGeNet	
+SLC6A3	C0221765	Chronic schizophrenia	DisGeNet	
+CYP2D6	C0030201	Acute postoperative pain	DisGeNet	
+CYP3A4	C0030201	Acute postoperative pain	DisGeNet	
+SLC6A4	C0030201	Acute postoperative pain	DisGeNet	
+BCHE	C0032787	Postoperative Complications	DisGeNet	
+CYP2D6	C0032787	Postoperative Complications	DisGeNet	
+CYP3A5	C0032787	Postoperative Complications	DisGeNet	
+SLC6A4	C0032787	Postoperative Complications	DisGeNet	
+CYP2D6	C0031212	Personality disorder	DisGeNet	
+SLC6A2	C0031212	Personality disorder	DisGeNet	
+SLC6A4	C0031212	Personality disorder	DisGeNet	
+CHRM2	C0085762	Alcohol abuse	DisGeNet	
+CYP3A4	C0085762	Alcohol abuse	DisGeNet	
+SLC6A3	C0085762	Alcohol abuse	DisGeNet	
+SLC6A4	C0085762	Alcohol abuse	DisGeNet	
+CYP2D6	C0033054	Prenatal Exposure Delayed Effects	DisGeNet	
+SLC6A3	C0033054	Prenatal Exposure Delayed Effects	DisGeNet	
+SLC6A4	C0033054	Prenatal Exposure Delayed Effects	DisGeNet	
+CYP2D6	C0344307	Pain insensitivity	DisGeNet	
+CYP3A4	C0344307	Pain insensitivity	DisGeNet	
+CYP3A5	C0344307	Pain insensitivity	DisGeNet	

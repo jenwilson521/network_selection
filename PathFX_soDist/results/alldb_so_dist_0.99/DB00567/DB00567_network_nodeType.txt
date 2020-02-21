@@ -1,0 +1,8 @@
+node_name	node_type	
+DB00567	drug	
+ALB	drug_target	
+SLC22A5	drug_target	
+SLC22A6	drug_target	
+SLC15A2	drug_target	
+SLC47A1	drug_target	
+SLC22A8	drug_target	

@@ -1,0 +1,13 @@
+node1	node2	edge_score	
+DB01606	SLC22A6	1.0	
+DB01606	SLC22A8	1.0	
+SLC22A8		1.0
+Diabetic Nephropathies	SLC22A8	1.0	
+Influenza	SLC22A8	1.0	
+Kidney Diseases	SLC22A8	1.0	
+Acute kidney injury	SLC22A8	1.0	
+Chronic Lymphocytic Leukemia	SLC22A8	1.0	
+Lymphoma, Large B-Cell, Diffuse	SLC22A8	1.0	
+Peripheral neuropathy, myopathy, hoarseness, and hearing loss	SLC22A8	1.0	
+Virus Diseases	SLC22A8	1.0	
+Chromosome 11p deletion syndrome	SLC22A8	1.0	

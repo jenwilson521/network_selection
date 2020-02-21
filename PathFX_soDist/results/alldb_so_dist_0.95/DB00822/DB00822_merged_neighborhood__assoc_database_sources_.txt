@@ -1,0 +1,80 @@
+Gene	CUI	Source Databases	
+ALDH2	C0206720	Squamous Cell Neoplasms	DisGeNet	
+CYP2E1	C0206720	Squamous Cell Neoplasms	DisGeNet	
+CYP3A4	C0206720	Squamous Cell Neoplasms	DisGeNet	
+CYP3A5	C0206720	Squamous Cell Neoplasms	DisGeNet	
+ALDH2	C0003431	Antisocial Personality Disorder	DisGeNet	
+CYP2E1	C0003431	Antisocial Personality Disorder	DisGeNet	
+DBH	C0003431	Antisocial Personality Disorder	DisGeNet	
+ALDH2	C0029445	Bone necrosis	DisGeNet	
+CYP2E1	C0029445	Bone necrosis	DisGeNet	
+CYP3A4	C0029445	Bone necrosis	DisGeNet	
+ALDH2	C0003944	As If Personality	DisGeNet	
+CYP2E1	C0003944	As If Personality	DisGeNet	
+DBH	C0003944	As If Personality	DisGeNet	
+CYP3A4	C0686347	Tardive Dyskinesia	DisGeNet	
+CYP3A5	C0686347	Tardive Dyskinesia	DisGeNet	
+DBH	C0686347	Tardive Dyskinesia	DisGeNet	
+CYP3A4	C0152115	Orofacial dyskinesia	DisGeNet	
+CYP3A5	C0152115	Orofacial dyskinesia	DisGeNet	
+DBH	C0152115	Orofacial dyskinesia	DisGeNet	
+ALDH2	C0013182	Drug Allergy	DisGeNet	
+CYP3A4	C0013182	Drug Allergy	DisGeNet	
+CYP3A5	C0013182	Drug Allergy	DisGeNet	
+CYP3A4	C0024620	Primary malignant neoplasm of liver	DisGeNet	
+CYP3A5	C0024620	Primary malignant neoplasm of liver	DisGeNet	
+ALDH2	C0032229	Pleural Neoplasms	DisGeNet	
+CYP2E1	C0032229	Pleural Neoplasms	DisGeNet	
+ALDH2	C0153405	Malignant neoplasm of pharynx	DisGeNet	
+CYP2E1	C0153405	Malignant neoplasm of pharynx	DisGeNet	
+ALDH2	C0012860	DNA Damage	DisGeNet	
+CYP2E1	C0012860	DNA Damage	DisGeNet	
+CYP3A5	C0012860	DNA Damage	DisGeNet	
+ALDH2	C0085762	Alcohol abuse	DisGeNet	
+CYP2E1	C0085762	Alcohol abuse	DisGeNet	
+CYP3A4	C0085762	Alcohol abuse	DisGeNet	
+ALDH2	C0023055	Neoplasm of the larynx	DisGeNet	
+CYP2E1	C0023055	Neoplasm of the larynx	DisGeNet	
+CYP3A4	C0023055	Neoplasm of the larynx	DisGeNet	
+CYP3A4	C0011206	Cocaine delirium	DisGeNet	
+CYP3A5	C0011206	Cocaine delirium	DisGeNet	
+CYP3A4	C0221765	Chronic schizophrenia	DisGeNet	
+DBH	C0221765	Chronic schizophrenia	DisGeNet	
+ALDH2	C0028043	Nicotine Dependence	DisGeNet	
+CYP2E1	C0028043	Nicotine Dependence	DisGeNet	
+DBH	C0028043	Nicotine Dependence	DisGeNet	
+ALDH2	C0919532	Genomic Instability	DisGeNet	
+CYP2E1	C0919532	Genomic Instability	DisGeNet	
+ALDH2	C0001956	alcohol use disorder	DisGeNet	
+CYP2E1	C0001956	alcohol use disorder	DisGeNet	
+ALDH2	C0376670	Pancreatitis, Alcoholic	DisGeNet	
+CYP2E1	C0376670	Pancreatitis, Alcoholic	DisGeNet	
+ALDH2	C0038354	Stomach Diseases	DisGeNet	
+CYP2E1	C0038354	Stomach Diseases	DisGeNet	
+ALDH2	C0341439	Chronic liver disease	DisGeNet	
+CYP2E1	C0341439	Chronic liver disease	DisGeNet	
+CYP3A4	C0341439	Chronic liver disease	DisGeNet	
+CYP3A4	C0344307	Pain insensitivity	DisGeNet	
+CYP3A5	C0344307	Pain insensitivity	DisGeNet	
+CYP2E1	C0002875	Cooley's anemia	DisGeNet	
+CYP3A4	C0002875	Cooley's anemia	DisGeNet	
+ALDH2	C0018671	Head and Neck Neoplasms	DisGeNet	
+CYP2E1	C0018671	Head and Neck Neoplasms	DisGeNet	
+CYP3A4	C0018671	Head and Neck Neoplasms	DisGeNet	
+CYP3A5	C0018671	Head and Neck Neoplasms	DisGeNet	
+CYP3A4	C0027658	Neoplasms, Germ Cell and Embryonal	DisGeNet	
+CYP3A5	C0027658	Neoplasms, Germ Cell and Embryonal	DisGeNet	
+ALDH2	C0031347	Pharyngeal Neoplasms	DisGeNet	
+CYP3A4	C0031347	Pharyngeal Neoplasms	DisGeNet	
+ALDH2	C0019337	Heroin Dependence	DisGeNet	
+CYP3A4	C0019337	Heroin Dependence	DisGeNet	
+ALDH2	C0028797	Occupational Diseases	DisGeNet	
+CYP2E1	C0028797	Occupational Diseases	DisGeNet	
+CYP3A4	C0042749	 {HIV-1 viremia, susceptibility to}, 609423 (3)	DisGeNet	
+CYP3A5	C0042749	 {HIV-1 viremia, susceptibility to}, 609423 (3)	DisGeNet	
+ALDH2	C0860207	Drug-Induced Liver Injury	DisGeNet	
+CYP2E1	C0860207	Drug-Induced Liver Injury	DisGeNet	
+CYP3A5	C0860207	Drug-Induced Liver Injury	DisGeNet	
+CYP3A4	C0085215	Ovarian Failure, Premature	DisGeNet	
+CYP3A5	C0085215	Ovarian Failure, Premature	DisGeNet	
+DBH	C0085215	Ovarian Failure, Premature	DisGeNet	

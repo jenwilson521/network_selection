@@ -1,0 +1,35 @@
+Gene	CUI	Source Databases	
+CHRM2	C0001973	Alcohol dependence	DisGeNet	
+CHRM2	C0002395	Alzheimer Disease	DisGeNet	
+CHRM2	C0003130	Hypoxia	DisGeNet	
+CHRM2	C0004096	Asthma	DisGeNet	
+CHRM2	C0004936	Mental disorders	DisGeNet	
+CHRM2	C0005586	Bipolar affective disorder	DisGeNet	
+CHRM2	C0007193	Cardiomyopathy, Dilated	DisGeNet	
+CHRM2	C0011570	{Unipolar depression, susceptibility to}, 608516 (3)	DisGeNet	
+CHRM2	C0011581	Depressive Disorder	DisGeNet	
+CHRM2	C0011849	Diabetes Mellitus, Type 1	DisGeNet	
+CHRM2	C0011854	Diabetes mellitus type 1	DisGeNet	
+CHRM2	C0011882	Type 1 diabetic neuropathy	DisGeNet	
+CHRM2	C0014544	Epilepsy	DisGeNet	
+CHRM2	C0018799	Heart Diseases	DisGeNet	
+CHRM2	C0021368	Inflammation	DisGeNet	
+CHRM2	C0026769	Multiple Sclerosis	DisGeNet	
+CHRM2	C0027051	Myocardial Infarction	DisGeNet	
+CHRM2	C0027092	Epiphyseal dysplasia, multiple, with myopia and conductive deafness	DisGeNet	
+CHRM2	C0028043	Nicotine Dependence	DisGeNet	
+CHRM2	C0028754	Obesity	DisGeNet	
+CHRM2	C0036341	Schizophrenia	DisGeNet	
+CHRM2	C0038580	Substance addiction and disorders	DisGeNet	
+CHRM2	C0040336	Tobacco Use Disorder	DisGeNet	
+CHRM2	C0041696	Unipolar Depression	DisGeNet	
+CHRM2	C0085762	Alcohol abuse	DisGeNet	
+CHRM2	C0154409	Recurrent major depressive episodes	DisGeNet	
+CHRM2	C0155626	Acute myocardial infarction	DisGeNet	
+CHRM2	C0232197	Ventricular Fibrillation Adverse Event	DisGeNet	
+CHRM2	C0236969	Substance-Related Disorders	DisGeNet	
+CHRM2	C0340427	Familial dilated cardiomyopathy	DisGeNet	
+CHRM2	C0428977	Bradycardia	DisGeNet	
+CHRM2	C0525045	Mood Disorders	DisGeNet	
+CHRM2	C1269683	Major depressive disorder	DisGeNet	
+CHRM2	C1510472	Drug Dependence	DisGeNet	

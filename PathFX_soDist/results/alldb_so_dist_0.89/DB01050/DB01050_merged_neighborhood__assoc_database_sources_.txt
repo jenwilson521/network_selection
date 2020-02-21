@@ -1,0 +1,206 @@
+Gene	CUI	Source Databases	
+ABCB1	C0013182	Drug Allergy	DisGeNet	
+CYP2C19	C0013182	Drug Allergy	DisGeNet	
+CYP2C8	C0013182	Drug Allergy	DisGeNet	
+CYP2C9	C0013182	Drug Allergy	DisGeNet	
+PTGS1	C0013182	Drug Allergy	DisGeNet	
+UGT1A1	C0013182	Drug Allergy	DisGeNet	
+UGT1A7	C0013182	Drug Allergy	DisGeNet	
+UGT1A8	C0013182	Drug Allergy	DisGeNet	
+UGT1A9	C0013182	Drug Allergy	DisGeNet	
+UGT2B7	C0013182	Drug Allergy	DisGeNet	
+ABCB1	C0020433	Hyperbilirubinemia	DisGeNet	
+SLCO2B1	C0020433	Hyperbilirubinemia	DisGeNet	
+UGT1A	C0020433	Hyperbilirubinemia	DisGeNet	
+UGT1A1	C0020433	Hyperbilirubinemia	DisGeNet,HumPhenOnt	
+UGT1A10	C0020433	Hyperbilirubinemia	DisGeNet	
+UGT1A3	C0020433	Hyperbilirubinemia	DisGeNet	
+UGT1A6	C0020433	Hyperbilirubinemia	DisGeNet	
+UGT1A7	C0020433	Hyperbilirubinemia	DisGeNet	
+UGT1A8	C0020433	Hyperbilirubinemia	DisGeNet	
+UGT1A9	C0020433	Hyperbilirubinemia	DisGeNet	
+UGT1A	C0011226	Hepatitis D Infection	DisGeNet	
+UGT1A1	C0011226	Hepatitis D Infection	DisGeNet	
+UGT1A10	C0011226	Hepatitis D Infection	DisGeNet	
+UGT1A3	C0011226	Hepatitis D Infection	DisGeNet	
+UGT1A6	C0011226	Hepatitis D Infection	DisGeNet	
+UGT1A7	C0011226	Hepatitis D Infection	DisGeNet	
+UGT1A8	C0011226	Hepatitis D Infection	DisGeNet	
+UGT1A9	C0011226	Hepatitis D Infection	DisGeNet	
+ABCB1	C0041755	Adverse drug events and drug allergies	DisGeNet	
+ABCC1	C0041755	Adverse drug events and drug allergies	DisGeNet	
+ABCC4	C0041755	Adverse drug events and drug allergies	DisGeNet	
+ALB	C0041755	Adverse drug events and drug allergies	DisGeNet	
+CYP2C9	C0041755	Adverse drug events and drug allergies	DisGeNet	
+PPARA	C0041755	Adverse drug events and drug allergies	DisGeNet	
+PTGS2	C0041755	Adverse drug events and drug allergies	DisGeNet	
+UGT1A1	C0041755	Adverse drug events and drug allergies	DisGeNet	
+ABCB1	C0030920	Peptic ulcer	DisGeNet	
+ABCC1	C0030920	Peptic ulcer	DisGeNet	
+BCL2	C0030920	Peptic ulcer	DisGeNet	
+CYP2C19	C0030920	Peptic ulcer	DisGeNet	
+CYP2C8	C0030920	Peptic ulcer	DisGeNet	
+CYP2C9	C0030920	Peptic ulcer	DisGeNet	
+PPARG	C0030920	Peptic ulcer	DisGeNet	
+PTGS1	C0030920	Peptic ulcer	DisGeNet	
+PTGS2	C0030920	Peptic ulcer	DisGeNet	
+UGT1A6	C0030920	Peptic ulcer	DisGeNet	
+PPARG	C0008350	Cholelithiasis	DisGeNet	
+PTGS2	C0008350	Cholelithiasis	DisGeNet	
+SLCO1A2	C0008350	Cholelithiasis	DisGeNet	
+UGT1A	C0008350	Cholelithiasis	DisGeNet	
+UGT1A1	C0008350	Cholelithiasis	DisGeNet,PheGenI	
+UGT1A10	C0008350	Cholelithiasis	PheGenI	
+UGT1A3	C0008350	Cholelithiasis	PheGenI	
+UGT1A6	C0008350	Cholelithiasis	DisGeNet,PheGenI	
+UGT1A7	C0008350	Cholelithiasis	PheGenI	
+UGT1A8	C0008350	Cholelithiasis	PheGenI	
+UGT1A9	C0008350	Cholelithiasis	PheGenI	
+ABCB1	C0746883	Febrile Neutropenia	DisGeNet	
+UGT1A	C0746883	Febrile Neutropenia	DisGeNet	
+UGT1A1	C0746883	Febrile Neutropenia	DisGeNet	
+UGT1A6	C0746883	Febrile Neutropenia	DisGeNet	
+UGT1A7	C0746883	Febrile Neutropenia	DisGeNet	
+CYP2C19	C0002895	Anemia, Sickle Cell	DisGeNet	
+CYP2C9	C0002895	Anemia, Sickle Cell	DisGeNet	
+GP1BA	C0002895	Anemia, Sickle Cell	DisGeNet	
+THBD	C0002895	Anemia, Sickle Cell	DisGeNet	
+UGT1A	C0002895	Anemia, Sickle Cell	DisGeNet	
+UGT1A1	C0002895	Anemia, Sickle Cell	DisGeNet,PheGenI	
+UGT1A10	C0002895	Anemia, Sickle Cell	PheGenI	
+UGT1A3	C0002895	Anemia, Sickle Cell	PheGenI	
+UGT1A6	C0002895	Anemia, Sickle Cell	PheGenI	
+UGT1A7	C0002895	Anemia, Sickle Cell	PheGenI	
+UGT1A8	C0002895	Anemia, Sickle Cell	PheGenI	
+UGT1A9	C0002895	Anemia, Sickle Cell	PheGenI	
+UGT2B7	C0002895	Anemia, Sickle Cell	DisGeNet	
+ABCB1	C0022660	Acute kidney injury	DisGeNet	
+ALB	C0022660	Acute kidney injury	DisGeNet	
+BCL2	C0022660	Acute kidney injury	DisGeNet	
+CYP2C19	C0022660	Acute kidney injury	DisGeNet	
+CYP2C9	C0022660	Acute kidney injury	DisGeNet	
+PPARA	C0022660	Acute kidney injury	DisGeNet	
+PPARG	C0022660	Acute kidney injury	DisGeNet	
+PTGS2	C0022660	Acute kidney injury	DisGeNet	
+SLC22A8	C0022660	Acute kidney injury	DisGeNet	
+THBD	C0022660	Acute kidney injury	DisGeNet	
+UGT1A1	C0022660	Acute kidney injury	DisGeNet	
+UGT1A9	C0022660	Acute kidney injury	DisGeNet	
+PPARG	C0018772	Hearing Loss, Partial	DisGeNet	
+PTGS2	C0018772	Hearing Loss, Partial	DisGeNet	
+UGT1A1	C0018772	Hearing Loss, Partial	DisGeNet	
+UGT1A10	C0018772	Hearing Loss, Partial	DisGeNet	
+UGT1A3	C0018772	Hearing Loss, Partial	DisGeNet	
+UGT1A6	C0018772	Hearing Loss, Partial	DisGeNet	
+UGT1A7	C0018772	Hearing Loss, Partial	DisGeNet	
+UGT1A8	C0018772	Hearing Loss, Partial	DisGeNet	
+UGT1A9	C0018772	Hearing Loss, Partial	DisGeNet	
+ABCB1	C0948089	Acute Coronary Syndrome	DisGeNet	
+ALB	C0948089	Acute Coronary Syndrome	DisGeNet	
+BCL2	C0948089	Acute Coronary Syndrome	DisGeNet	
+CYP2C19	C0948089	Acute Coronary Syndrome	DisGeNet	
+CYP2C9	C0948089	Acute Coronary Syndrome	DisGeNet	
+GP1BA	C0948089	Acute Coronary Syndrome	DisGeNet	
+PPARA	C0948089	Acute Coronary Syndrome	DisGeNet	
+PPARG	C0948089	Acute Coronary Syndrome	DisGeNet	
+PTGS1	C0948089	Acute Coronary Syndrome	DisGeNet	
+PTGS2	C0948089	Acute Coronary Syndrome	DisGeNet	
+SLCO1A2	C0948089	Acute Coronary Syndrome	PheGenI	
+THBD	C0948089	Acute Coronary Syndrome	DisGeNet	
+UGT2B7	C0948089	Acute Coronary Syndrome	PheGenI	
+ABCB1	C0860207	Drug-Induced Liver Injury	DisGeNet	
+ALB	C0860207	Drug-Induced Liver Injury	DisGeNet	
+CYP2C19	C0860207	Drug-Induced Liver Injury	DisGeNet	
+CYP2C9	C0860207	Drug-Induced Liver Injury	DisGeNet	
+PPARA	C0860207	Drug-Induced Liver Injury	DisGeNet	
+PPARG	C0860207	Drug-Induced Liver Injury	DisGeNet	
+PTGS2	C0860207	Drug-Induced Liver Injury	DisGeNet	
+UGT1A1	C0860207	Drug-Induced Liver Injury	DisGeNet	
+UGT1A3	C0860207	Drug-Induced Liver Injury	DisGeNet	
+UGT1A9	C0860207	Drug-Induced Liver Injury	DisGeNet	
+ABCB1	C0023530	Leukopenia	DisGeNet	
+ABCC1	C0023530	Leukopenia	DisGeNet	
+ABCC4	C0023530	Leukopenia	DisGeNet	
+BCL2	C0023530	Leukopenia	DisGeNet	
+CYP2C8	C0023530	Leukopenia	DisGeNet	
+UGT1A	C0023530	Leukopenia	DisGeNet	
+UGT1A1	C0023530	Leukopenia	DisGeNet	
+UGT1A6	C0023530	Leukopenia	DisGeNet	
+UGT1A7	C0023530	Leukopenia	DisGeNet	
+UGT1A8	C0023530	Leukopenia	DisGeNet	
+UGT1A9	C0023530	Leukopenia	DisGeNet	
+UGT2B7	C0023530	Leukopenia	DisGeNet	
+ABCB1	C1096063	Drug Resistant Epilepsy	DisGeNet	
+ABCC1	C1096063	Drug Resistant Epilepsy	DisGeNet	
+ALB	C1096063	Drug Resistant Epilepsy	DisGeNet	
+BCL2	C1096063	Drug Resistant Epilepsy	DisGeNet	
+CYP2C19	C1096063	Drug Resistant Epilepsy	DisGeNet	
+ABCB1	C0345904	Hepatic cancer metastatic	DisGeNet	
+ABCC1	C0345904	Hepatic cancer metastatic	DisGeNet	
+ALB	C0345904	Hepatic cancer metastatic	DisGeNet	
+BCL2	C0345904	Hepatic cancer metastatic	DisGeNet	
+CYP2C19	C0345904	Hepatic cancer metastatic	DisGeNet	
+CYP2C9	C0345904	Hepatic cancer metastatic	DisGeNet	
+PPARA	C0345904	Hepatic cancer metastatic	DisGeNet	
+PPARG	C0345904	Hepatic cancer metastatic	DisGeNet	
+PTGS2	C0345904	Hepatic cancer metastatic	DisGeNet	
+SLCO2B1	C0345904	Hepatic cancer metastatic	DisGeNet	
+UGT1A1	C0345904	Hepatic cancer metastatic	DisGeNet	
+UGT1A10	C0345904	Hepatic cancer metastatic	DisGeNet	
+UGT1A3	C0345904	Hepatic cancer metastatic	DisGeNet	
+UGT1A7	C0345904	Hepatic cancer metastatic	DisGeNet	
+UGT1A8	C0345904	Hepatic cancer metastatic	DisGeNet	
+UGT1A9	C0345904	Hepatic cancer metastatic	DisGeNet	
+UGT2B7	C0345904	Hepatic cancer metastatic	DisGeNet	
+ABCB1	C0021400	Influenza	DisGeNet	
+ALB	C0021400	Influenza	DisGeNet	
+CFTR	C0021400	Influenza	DisGeNet	
+PPARG	C0021400	Influenza	DisGeNet	
+PTGS1	C0021400	Influenza	DisGeNet	
+PTGS2	C0021400	Influenza	DisGeNet	
+SLC22A8	C0021400	Influenza	DisGeNet	
+UGT1A	C0021400	Influenza	DisGeNet	
+UGT1A1	C0021400	Influenza	DisGeNet	
+UGT1A10	C0021400	Influenza	DisGeNet	
+UGT1A3	C0021400	Influenza	DisGeNet	
+UGT1A6	C0021400	Influenza	DisGeNet	
+UGT1A7	C0021400	Influenza	DisGeNet	
+UGT1A8	C0021400	Influenza	DisGeNet	
+UGT1A9	C0021400	Influenza	DisGeNet	
+PPARG	C0947622	Cholecystolithiasis	DisGeNet	
+PTGS2	C0947622	Cholecystolithiasis	DisGeNet	
+SLCO1A2	C0947622	Cholecystolithiasis	DisGeNet	
+UGT1A	C0947622	Cholecystolithiasis	DisGeNet	
+UGT1A1	C0947622	Cholecystolithiasis	DisGeNet	
+UGT1A6	C0947622	Cholecystolithiasis	DisGeNet	
+ABCB1	C0040053	Thrombosis	DisGeNet	
+CYP2C19	C0040053	Thrombosis	DisGeNet	
+CYP2C9	C0040053	Thrombosis	DisGeNet	
+GP1BA	C0040053	Thrombosis	DisGeNet	
+PPARA	C0040053	Thrombosis	DisGeNet	
+PTGS1	C0040053	Thrombosis	DisGeNet	
+PTGS2	C0040053	Thrombosis	DisGeNet	
+THBD	C0040053	Thrombosis	DisGeNet	
+ALB	C0035457	Rhinitis, Allergic, Perennial	DisGeNet	
+CYP2C19	C0035457	Rhinitis, Allergic, Perennial	DisGeNet	
+CYP2C9	C0035457	Rhinitis, Allergic, Perennial	DisGeNet	
+PTGS2	C0035457	Rhinitis, Allergic, Perennial	DisGeNet	
+ABCB1	C0027947	Neutropenia	DisGeNet	
+ABCC1	C0027947	Neutropenia	DisGeNet	
+BCL2	C0027947	Neutropenia	DisGeNet	
+CYP2C19	C0027947	Neutropenia	DisGeNet	
+CYP2C8	C0027947	Neutropenia	DisGeNet	
+CYP2C9	C0027947	Neutropenia	DisGeNet	
+UGT1A	C0027947	Neutropenia	DisGeNet	
+UGT1A1	C0027947	Neutropenia	DisGeNet	
+UGT1A7	C0027947	Neutropenia	DisGeNet	
+UGT1A9	C0027947	Neutropenia	DisGeNet	
+ABCB1	C0020443	Hypercholesterolemia, autosomal dominant, type B	DisGeNet	
+ALB	C0020443	Hypercholesterolemia, autosomal dominant, type B	DisGeNet	
+BCL2	C0020443	Hypercholesterolemia, autosomal dominant, type B	DisGeNet	
+CYP2C19	C0020443	Hypercholesterolemia, autosomal dominant, type B	DisGeNet	
+CYP2C9	C0020443	Hypercholesterolemia, autosomal dominant, type B	DisGeNet	
+GP1BA	C0020443	Hypercholesterolemia, autosomal dominant, type B	DisGeNet	
+PPARA	C0020443	Hypercholesterolemia, autosomal dominant, type B	DisGeNet	
+PPARG	C0020443	Hypercholesterolemia, autosomal dominant, type B	DisGeNet	
+UGT1A1	C0020443	Hypercholesterolemia, autosomal dominant, type B	DisGeNet	

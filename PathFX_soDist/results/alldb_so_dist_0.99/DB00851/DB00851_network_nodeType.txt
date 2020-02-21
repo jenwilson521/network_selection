@@ -1,0 +1,7 @@
+node_name	node_type	
+DB00851	drug	
+CYP1A1	drug_target	
+CYP1A2	drug_target	
+PGD	drug_target	
+CYP2E1	drug_target	
+POLA2	drug_target	

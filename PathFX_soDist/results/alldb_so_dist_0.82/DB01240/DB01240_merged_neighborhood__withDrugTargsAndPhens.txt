@@ -1,0 +1,27 @@
+node1	node2	edge_score	
+DB01240	PTGIS	1.0	
+DB01240	P2RY12	1.0	
+DB01240	PTGIR	1.0	
+P2RY12	rs6809699	0.99
+P2RY12	P2RY12 H1, P2RY12 H2	0.99
+P2RY12	rs6785930	0.99
+P2RY12	P2RY12 A, P2RY12 F	0.99
+P2RY12	rs2046934	0.99
+PTGIR		1.0
+P2RY12	rs9859552	0.99
+P2RY12	rs6787801	0.99
+P2RY12		1.0
+Deep thrombophlebitis	P2RY12	1.0	
+Deep thrombophlebitis	PTGIR	1.0	
+Deep venous thrombosis	P2RY12	1.0	
+Deep venous thrombosis	PTGIR	1.0	
+Venous thrombosis	P2RY12	1.0	
+Venous thrombosis	PTGIR	1.0	
+Mechanical Allodynia	P2RY12	1.0	
+Abnormal platelet function	P2RY12	1.0	
+Platelet-type bleeding disorder 15	P2RY12	1.0	
+Deep vein thrombosis of lower limb	PTGIR	1.0	
+Coronary Restenosis	P2RY12	1.0	
+Inflammatory pain	P2RY12	1.0	
+Hantavirus infection in conditions classified elsewhere and of unspecified site	P2RY12	1.0	
+Epistaxis	P2RY12	1.0	

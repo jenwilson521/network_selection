@@ -1,0 +1,7 @@
+Gene	CUI	Source Databases	
+CYP1A2	C0221765	Chronic schizophrenia	DisGeNet	
+CYP2D6	C0221765	Chronic schizophrenia	DisGeNet	
+CYP3A4	C0221765	Chronic schizophrenia	DisGeNet	
+CYP1A2	C0027497	Nausea	DisGeNet	
+CYP2D6	C0027497	Nausea	DisGeNet	
+HTR3A	C0027497	Nausea	DisGeNet	

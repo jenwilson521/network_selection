@@ -1,0 +1,14 @@
+node_name	node_type	
+DB00656	drug	
+ADRA1A	drug_target	
+ORM1	drug_target	
+CYP2D6	drug_target	
+SLC6A4	drug_target	
+ADRA2A	drug_target	
+ABCB1	drug_target	
+HTR2A	drug_target	
+HTR2C	drug_target	
+HRH1	drug_target	
+CYP3A4	drug_target	
+CYP3A5	drug_target	
+HTR1A	drug_target	

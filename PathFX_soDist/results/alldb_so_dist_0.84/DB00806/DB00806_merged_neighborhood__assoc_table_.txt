@@ -1,0 +1,5 @@
+rank	phenotype	cui	assoc in neigh	assoc in intom	probability	Benjamini-Hochberg	genes	
+3	Adverse drug events and drug allergies	C0041755	3	60	2.965851439995504e-07	5.46448087432e-06	ADORA1,ADORA2A,CYP1A2
+4	Tardive Dyskinesia	C0686347	3	64	3.853914853912954e-07	7.28597449909e-06	ADORA2A,CYP1A2,PDE4B
+5	Orofacial dyskinesia	C0152115	3	73	6.565303460881466e-07	9.10746812386e-06	ADORA2A,CYP1A2,PDE4B
+19	Dyskinesia, Drug-Induced	C0013386	2	49	1.3591463606354992e-05	3.46083788707e-05	CYP1A2,PDE4B

@@ -1,0 +1,141 @@
+node_name	node_type	
+DB00246	drug	
+AOX1	drug_target	
+ADRA2A	drug_target	
+ADRA2B	drug_target	
+ADRA2C	drug_target	
+HTR2A	drug_target	
+HTR2C	drug_target	
+HRH1	drug_target	
+CHRM4	drug_target	
+CHRM3	drug_target	
+CHRM2	drug_target	
+CHRM1	drug_target	
+HTR6	drug_target	
+HTR7	drug_target	
+CYP3A4	drug_target	
+ADRA1A	drug_target	
+ADRA1B	drug_target	
+DRD4	drug_target	
+DRD5	drug_target	
+DRD2	drug_target	
+DRD3	drug_target	
+DRD1	drug_target	
+HTR3A	drug_target	
+HTR1D	drug_target	
+HTR1E	drug_target	
+HTR1A	drug_target	
+HTR1B	drug_target	
+Psychoses, Substance-Induced	phenotype	
+Substance Use Disorders	phenotype	
+Tourette Syndrome	phenotype	
+Alcohol abuse	phenotype	
+Chronic sciatica	phenotype	
+Panic disorder syndrome 1 (2)	phenotype	
+Bulimia	phenotype	
+Heroin Dependence	phenotype	
+As If Personality	phenotype	
+Weight Gain Adverse Event	phenotype	
+Mood Disorders	phenotype	
+Dyskinesia, Drug-Induced	phenotype	
+MAJOR AFFECTIVE DISORDER 4	phenotype	
+MAJOR AFFECTIVE DISORDER 5	phenotype	
+MAJOR AFFECTIVE DISORDER 6	phenotype	
+Major affective disorder 7	phenotype	
+MAJOR AFFECTIVE DISORDER 8	phenotype	
+MAJOR AFFECTIVE DISORDER 9	phenotype	
+Chronic schizophrenia	phenotype	
+Substance addiction and disorders	phenotype	
+Tardive Dyskinesia	phenotype	
+Acute disease of cardiovascular system	phenotype	
+Personality disorder	phenotype	
+Dyskinesia, seizures, and intellectual developmental disorder	phenotype	
+Drug Dependence	phenotype	
+Bulimia nervosa 1	phenotype	
+Anxiety Disorders	phenotype	
+Opiate Addiction	phenotype	
+Low back pain	phenotype	
+Anorexia nervosa 1	phenotype	
+Unipolar Depression	phenotype	
+Orofacial dyskinesia	phenotype	
+Migraine Disorders	phenotype	
+Major depressive disorder	phenotype	
+Nicotine Dependence	phenotype	
+Depressive Disorder	phenotype	
+Cocaine Dependence	phenotype	
+Marijuana Abuse	phenotype	
+Methamphetamine abuse	phenotype	
+Mental disorders	phenotype	
+Substance abuse problem	phenotype	
+{Unipolar depression, susceptibility to}, 608516 (3)	phenotype	
+Chronic Fatigue Syndrome	phenotype	
+Substance Withdrawal Syndrome	phenotype	
+Schizoaffective Disorder	phenotype	
+Alcohol dependence	phenotype	
+Amphetamine-Related Disorders	phenotype	
+Obsessive-compulsive disorder	phenotype	
+Increased body weight	phenotype	
+Sleep Wake Disorders	phenotype	
+Attention deficit hyperactivity disorder	phenotype	
+Bipolar I disorder	phenotype	
+Seasonal Affective Disorder	phenotype	
+Osteochondritis dissecans	phenotype	
+Antisocial Personality Disorder	phenotype	
+Cocaine-Related Disorders	phenotype	
+Depressive Symptoms	phenotype	
+Eating disorder	phenotype	
+Antisocial/borderline personality disorder	phenotype	
+Drug usage	phenotype	
+Neuralgia	phenotype	
+body mass	phenotype	
+Bipolar affective disorder	phenotype	
+Memory Disorders	phenotype	
+Irritable bowel syndrome with diarrhea	phenotype	
+Abnormality of the basal ganglia	phenotype	
+Recurrent major depressive episodes	phenotype	
+CNS symptom	phenotype	
+Pain	phenotype	
+Substance-Related Disorders	phenotype	
+Psychotic Disorders	phenotype	
+Borderline Personality Disorder	phenotype	
+Autism spectrum disorders	phenotype	
+Hyperalgesia	phenotype	
+Generalized anxiety disorder	phenotype	
+NEUROTICISM	phenotype	
+Common Migraine	phenotype	
+Cycloid psychosis	phenotype	
+Cocaine delirium	phenotype	
+heavy drinking	phenotype	
+Hypotension	phenotype	
+Ichthyosis bullosa of Siemens	phenotype	
+Acute postoperative pain	phenotype	
+Psychiatric symptom	phenotype	
+Panic disorder 1	phenotype	
+Agitation	phenotype	
+Delusions	phenotype	
+Polyphagia	phenotype	
+Hyperactivity	phenotype	
+Conduct Disorder	phenotype	
+Fibromyalgia	phenotype	
+Obstructive sleep apnea	phenotype	
+Bradycardia	phenotype	
+Nausea	phenotype	
+Low Tension Glaucoma	phenotype	
+Dyspepsia	phenotype	
+Autism 15	phenotype	
+Cognition Disorders	phenotype	
+Pharyngeal Neoplasms	phenotype	
+Attention Deficit Disorder	phenotype	
+Disorder of endocrine system	phenotype	
+Behavior Disorders	phenotype	
+Anorexia	phenotype	
+Parkinson Disease	phenotype	
+Overweight	phenotype	
+Bladder neck obstruction	phenotype	
+Migraine with aura	phenotype	
+Puerperal Disorders	phenotype	
+Congenital long QT syndrome	phenotype	
+Bronchopulmonary Dysplasia	phenotype	
+Excessive salivation	phenotype	
+ {Nicotine dependence, protection against}, 188890 (3)	phenotype	
+Gastroparesis	phenotype	

@@ -1,0 +1,51 @@
+Gene	CUI	Source Databases	
+CYP3A4	C0024620	Primary malignant neoplasm of liver	DisGeNet	
+IL6	C0024620	Primary malignant neoplasm of liver	DisGeNet	
+CYP3A4	C0011206	Cocaine delirium	DisGeNet	
+IL6	C0011206	Cocaine delirium	DisGeNet	
+CYP3A4	C0030201	Acute postoperative pain	DisGeNet	
+IL6	C0030201	Acute postoperative pain	DisGeNet	
+CYP3A4	C0344307	Pain insensitivity	DisGeNet	
+IL6	C0344307	Pain insensitivity	DisGeNet	
+CYP3A4	C0206726	gliosarcoma	DisGeNet	
+IL6	C0206726	gliosarcoma	DisGeNet	
+CYP3A4	C0040038	Thromboembolism	DisGeNet	
+IL6	C0040038	Thromboembolism	DisGeNet	
+CYP3A4	C0079774	Peripheral T-Cell Lymphoma	DisGeNet	
+IL6	C0079774	Peripheral T-Cell Lymphoma	DisGeNet	
+CYP3A4	C0086132	Depressive Symptoms	DisGeNet	
+IL6	C0086132	Depressive Symptoms	DisGeNet	
+CYP3A4	C0241910	Hepatitis, Autoimmune	DisGeNet	
+IL6	C0241910	Hepatitis, Autoimmune	DisGeNet	
+CYP3A4	C0162557	Acute hepatic failure	DisGeNet	
+IL6	C0162557	Acute hepatic failure	DisGeNet	
+IL6	C0023223	Leg Ulcer	DisGeNet	
+IL6	C0036472	Scrub Typhus	DisGeNet	
+IL6	C4023452	Elevated C-reactive protein level	HumPhenOnt	
+CYP3A4	C0007621	Neoplastic Cell Transformation	DisGeNet	
+IL6	C0007621	Neoplastic Cell Transformation	DisGeNet	
+CYP3A4	C0341439	Chronic liver disease	DisGeNet	
+IL6	C0341439	Chronic liver disease	DisGeNet	
+IL6	C0001349	Acute-Phase Reaction	DisGeNet	
+IL6	C0002873	Anemia of chronic disease	DisGeNet	
+IL6	C0021847	Congenital short bowel syndrome	DisGeNet	
+IL6	C0036396	Chronic sciatica	DisGeNet	
+IL6	C0162869	Aneurysm, Ruptured	DisGeNet	
+IL6	C0267797	Acute hepatitis	DisGeNet	
+IL6	C0438217	Abnormal erythrocyte sedimentation rate	HumPhenOnt	
+IL6	C1332347	Inappropriate ADH Syndrome	DisGeNet	
+IL6	C0027070	Myoepithelioma	DisGeNet	
+IL6	C0032300	Lobar Pneumonia	DisGeNet	
+IL6	C0034362	Q Fever	DisGeNet	
+IL6	C0206019	HIV encephalitis	DisGeNet	
+IL6	C0451641	Urolithiasis	DisGeNet	
+IL6	C1260954	Morphologically altered structure	DisGeNet	
+IL6	C1301700	Cardiovascular morbidity	DisGeNet	
+IL6	C0002797	Bovine Anaplasmosis	DisGeNet	
+IL6	C0035328	Thrombosis of retinal vein	DisGeNet	
+IL6	C0079298	Epidermolysis bullosa simplex, Cockayne-Touraine type	DisGeNet	
+IL6	C0206114	Periodontal Attachment Loss	DisGeNet	
+IL6	C0273115	Lung Injury	DisGeNet	
+IL6	C0349530	Early gastric cancer	DisGeNet	
+IL6	C0375071	Malignant neoplasm of vulva	DisGeNet	
+IL6	C2316212	Cryopyrin-Associated Periodic Syndromes	DisGeNet	

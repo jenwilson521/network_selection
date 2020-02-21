@@ -1,0 +1,14 @@
+node_name	node_type	
+DB08932	drug	
+CYP2C19	drug_target	
+CYP3A4	drug_target	
+ALB	drug_target	
+EDNRB	drug_target	
+EDNRA	drug_target	
+Primary malignant neoplasm of liver	phenotype	
+Rhinitis, Allergic, Perennial	phenotype	
+End Stage Liver Disease	phenotype	
+21-hydroxylase deficiency	phenotype	
+Tubulointerstitial nephritis	phenotype	
+Chronic liver disease	phenotype	
+Drug Resistant Epilepsy	phenotype	

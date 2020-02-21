@@ -1,0 +1,11 @@
+node_name	node_type	
+DB00200	drug	
+AMN	drug_target	
+MTR	drug_target	
+TCN1	drug_target	
+TCN2	drug_target	
+CUBN	drug_target	
+MMACHC	drug_target	
+MTRR	drug_target	
+MMAA	drug_target	
+MMAB	drug_target	

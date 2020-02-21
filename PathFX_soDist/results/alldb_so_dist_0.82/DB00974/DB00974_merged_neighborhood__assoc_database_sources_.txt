@@ -1,0 +1,7 @@
+Gene	CUI	Source Databases	
+CYP19A1	C0151639	Decreased fertility in females	HumPhenOnt	
+CYP19A1	C0032051	Placental Insufficiency	DisGeNet	
+CYP19A1	C0005694	Bladder neck obstruction	DisGeNet	
+CYP19A1	C0236663	Alcohol withdrawal syndrome	DisGeNet	
+CYP19A1	C0574769	Alopecia of scalp	DisGeNet	
+CYP19A1	C0853662	Oestrogen deficiency	DisGeNet	

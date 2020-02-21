@@ -1,0 +1,47 @@
+Gene	CUI	Source Databases	
+ABCG2	C0206720	Squamous Cell Neoplasms	DisGeNet	
+CYP1A1	C0206720	Squamous Cell Neoplasms	DisGeNet	
+CYP3A4	C0206720	Squamous Cell Neoplasms	DisGeNet	
+CYP3A5	C0206720	Squamous Cell Neoplasms	DisGeNet	
+ABCB1	C0024620	Primary malignant neoplasm of liver	DisGeNet	
+CYP3A4	C0024620	Primary malignant neoplasm of liver	DisGeNet	
+CYP3A5	C0024620	Primary malignant neoplasm of liver	DisGeNet	
+ABCG2	C0032229	Pleural Neoplasms	DisGeNet	
+CYP1A1	C0032229	Pleural Neoplasms	DisGeNet	
+CYP1B1	C0032229	Pleural Neoplasms	DisGeNet	
+ABCC2	C0008372	Intrahepatic cholestasis	DisGeNet	
+ABCG2	C0008372	Intrahepatic cholestasis	DisGeNet	
+CYP1A1	C0008372	Intrahepatic cholestasis	DisGeNet	
+CYP1B1	C0008372	Intrahepatic cholestasis	DisGeNet	
+ABCB1	C0041755	Adverse drug events and drug allergies	DisGeNet	
+ABCC1	C0041755	Adverse drug events and drug allergies	DisGeNet	
+ABCC2	C0041755	Adverse drug events and drug allergies	DisGeNet	
+ABCG2	C0041755	Adverse drug events and drug allergies	DisGeNet	
+ABCG2	C0011206	Cocaine delirium	DisGeNet	
+CYP3A4	C0011206	Cocaine delirium	DisGeNet	
+CYP3A5	C0011206	Cocaine delirium	DisGeNet	
+ABCB1	C0018671	Head and Neck Neoplasms	DisGeNet	
+ABCC1	C0018671	Head and Neck Neoplasms	DisGeNet	
+ABCC10	C0018671	Head and Neck Neoplasms	DisGeNet	
+ABCG2	C0018671	Head and Neck Neoplasms	DisGeNet	
+CYP1A1	C0018671	Head and Neck Neoplasms	DisGeNet	
+CYP1B1	C0018671	Head and Neck Neoplasms	DisGeNet	
+CYP3A4	C0018671	Head and Neck Neoplasms	DisGeNet	
+CYP3A5	C0018671	Head and Neck Neoplasms	DisGeNet	
+ABCG2	C0919532	Genomic Instability	DisGeNet	
+CYP1A1	C0919532	Genomic Instability	DisGeNet	
+CYP1B1	C0919532	Genomic Instability	DisGeNet	
+ABCB1	C0013182	Drug Allergy	DisGeNet	
+ABCC2	C0013182	Drug Allergy	DisGeNet	
+CYP3A4	C0013182	Drug Allergy	DisGeNet	
+CYP3A5	C0013182	Drug Allergy	DisGeNet	
+ABCB1	C0023474	Leukemia, Myeloid, Chronic-Phase	DisGeNet	
+ABCC2	C0023474	Leukemia, Myeloid, Chronic-Phase	DisGeNet	
+ABCG2	C0023474	Leukemia, Myeloid, Chronic-Phase	DisGeNet	
+CYP3A5	C0023474	Leukemia, Myeloid, Chronic-Phase	DisGeNet	
+ABCB1	C0235032	Neurotoxicity Syndromes	DisGeNet	
+ABCG2	C0235032	Neurotoxicity Syndromes	DisGeNet	
+CYP3A5	C0235032	Neurotoxicity Syndromes	DisGeNet	
+ABCB1	C0280220	Ovarian epithelial cancer stage III	DisGeNet	
+ABCC2	C0280220	Ovarian epithelial cancer stage III	DisGeNet	
+ABCG2	C0280220	Ovarian epithelial cancer stage III	DisGeNet	

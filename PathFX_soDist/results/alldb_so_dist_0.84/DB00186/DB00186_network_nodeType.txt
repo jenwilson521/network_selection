@@ -1,0 +1,5 @@
+node_name	node_type	
+DB00186	drug	
+UGT2B15	drug_target	
+CYP3A4	drug_target	
+TSPO	drug_target	

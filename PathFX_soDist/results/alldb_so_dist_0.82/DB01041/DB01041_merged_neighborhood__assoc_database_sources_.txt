@@ -1,0 +1,412 @@
+Gene	CUI	Source Databases	
+CYP2C19	C0038354	Stomach Diseases	DisGeNet	
+CYP2C9	C0038354	Stomach Diseases	DisGeNet	
+CYP2E1	C0038354	Stomach Diseases	DisGeNet	
+LTA	C0038354	Stomach Diseases	DisGeNet	
+PTGS1	C0038354	Stomach Diseases	DisGeNet	
+PTGS2	C0038354	Stomach Diseases	DisGeNet	
+TNF	C0038354	Stomach Diseases	DisGeNet	
+CYP1A1	C0035457	Rhinitis, Allergic, Perennial	DisGeNet	
+CYP2C19	C0035457	Rhinitis, Allergic, Perennial	DisGeNet	
+CYP2C9	C0035457	Rhinitis, Allergic, Perennial	DisGeNet	
+PTGS2	C0035457	Rhinitis, Allergic, Perennial	DisGeNet	
+TNF	C0035457	Rhinitis, Allergic, Perennial	DisGeNet	
+CYP2C19	C0079487	Helicobacter Infections	DisGeNet	
+CYP2C9	C0079487	Helicobacter Infections	DisGeNet	
+CYP2E1	C0079487	Helicobacter Infections	DisGeNet	
+LTA	C0079487	Helicobacter Infections	DisGeNet	
+PTGS1	C0079487	Helicobacter Infections	DisGeNet	
+PTGS2	C0079487	Helicobacter Infections	DisGeNet	
+TNF	C0079487	Helicobacter Infections	DisGeNet	
+CYP2C19	C0013182	Drug Allergy	DisGeNet	
+CYP2C9	C0013182	Drug Allergy	DisGeNet	
+CYP3A5	C0013182	Drug Allergy	DisGeNet	
+LTA	C0013182	Drug Allergy	DisGeNet	
+PTGS1	C0013182	Drug Allergy	DisGeNet	
+TNF	C0013182	Drug Allergy	DisGeNet	
+CYP1A1	C0030920	Peptic ulcer	DisGeNet	
+CYP2C19	C0030920	Peptic ulcer	DisGeNet	
+CYP2C9	C0030920	Peptic ulcer	DisGeNet	
+CYP2E1	C0030920	Peptic ulcer	DisGeNet	
+PTGS1	C0030920	Peptic ulcer	DisGeNet	
+PTGS2	C0030920	Peptic ulcer	DisGeNet	
+TNF	C0030920	Peptic ulcer	DisGeNet	
+CYP1A1	C0206720	Squamous Cell Neoplasms	DisGeNet	
+CYP2E1	C0206720	Squamous Cell Neoplasms	DisGeNet	
+CYP3A5	C0206720	Squamous Cell Neoplasms	DisGeNet	
+PTGS2	C0206720	Squamous Cell Neoplasms	DisGeNet	
+CYP1A1	C0029172	Oral Submucous Fibrosis	DisGeNet	
+CYP3A5	C0029172	Oral Submucous Fibrosis	DisGeNet	
+LTA	C0029172	Oral Submucous Fibrosis	DisGeNet	
+PTGS2	C0029172	Oral Submucous Fibrosis	DisGeNet	
+TNF	C0029172	Oral Submucous Fibrosis	DisGeNet	
+CYP2C9	C0041582	Peptic Ulcer Hemorrhage	DisGeNet	
+LTA	C0041582	Peptic Ulcer Hemorrhage	DisGeNet	
+PTGS1	C0041582	Peptic Ulcer Hemorrhage	DisGeNet	
+TNF	C0041582	Peptic Ulcer Hemorrhage	DisGeNet	
+CYP2C19	C0038358	Gastric ulcer	DisGeNet	
+CYP2C9	C0038358	Gastric ulcer	DisGeNet	
+LTA	C0038358	Gastric ulcer	DisGeNet	
+PTGS1	C0038358	Gastric ulcer	DisGeNet	
+PTGS2	C0038358	Gastric ulcer	DisGeNet	
+TNF	C0038358	Gastric ulcer	DisGeNet	
+CYP1A1	C0040038	Thromboembolism	DisGeNet	
+CYP2C19	C0040038	Thromboembolism	DisGeNet	
+CYP2C9	C0040038	Thromboembolism	DisGeNet	
+CYP3A5	C0040038	Thromboembolism	DisGeNet	
+PTGS2	C0040038	Thromboembolism	DisGeNet	
+TNF	C0040038	Thromboembolism	DisGeNet	
+CYP2C19	C0013295	Duodenal Ulcer	DisGeNet	
+LTA	C0013295	Duodenal Ulcer	DisGeNet	
+PTGS1	C0013295	Duodenal Ulcer	DisGeNet	
+PTGS2	C0013295	Duodenal Ulcer	DisGeNet	
+TNF	C0013295	Duodenal Ulcer	DisGeNet	
+CYP2C19	C0206139	Lichen Planus, Oral	DisGeNet	
+CYP2C9	C0206139	Lichen Planus, Oral	DisGeNet	
+LTA	C0206139	Lichen Planus, Oral	DisGeNet	
+PTGS2	C0206139	Lichen Planus, Oral	DisGeNet	
+TNF	C0206139	Lichen Planus, Oral	DisGeNet	
+CYP2C19	C0040053	Thrombosis	DisGeNet	
+CYP2C9	C0040053	Thrombosis	DisGeNet	
+CYP3A5	C0040053	Thrombosis	DisGeNet	
+PTGS1	C0040053	Thrombosis	DisGeNet	
+PTGS2	C0040053	Thrombosis	DisGeNet	
+TNF	C0040053	Thrombosis	DisGeNet	
+CYP1A1	C0948089	Acute Coronary Syndrome	DisGeNet	
+CYP2C19	C0948089	Acute Coronary Syndrome	DisGeNet	
+CYP2C9	C0948089	Acute Coronary Syndrome	DisGeNet	
+CYP3A5	C0948089	Acute Coronary Syndrome	DisGeNet	
+LTA	C0948089	Acute Coronary Syndrome	DisGeNet	
+PTGS1	C0948089	Acute Coronary Syndrome	DisGeNet	
+PTGS2	C0948089	Acute Coronary Syndrome	DisGeNet	
+TNF	C0948089	Acute Coronary Syndrome	DisGeNet	
+CYP1A1	C0023055	Neoplasm of the larynx	DisGeNet	
+CYP2C9	C0023055	Neoplasm of the larynx	DisGeNet	
+CYP2E1	C0023055	Neoplasm of the larynx	DisGeNet	
+PTGS2	C0023055	Neoplasm of the larynx	DisGeNet	
+TNF	C0023055	Neoplasm of the larynx	DisGeNet	
+CYP1A1	C0032229	Pleural Neoplasms	DisGeNet	
+CYP2C19	C0032229	Pleural Neoplasms	DisGeNet	
+CYP2E1	C0032229	Pleural Neoplasms	DisGeNet	
+CYP2C19	C0014868	Esophagitis	DisGeNet	
+PTGS1	C0014868	Esophagitis	DisGeNet	
+PTGS2	C0014868	Esophagitis	DisGeNet	
+TNF	C0014868	Esophagitis	DisGeNet	
+CYP1A1	C0027658	Neoplasms, Germ Cell and Embryonal	DisGeNet	
+CYP2C19	C0027658	Neoplasms, Germ Cell and Embryonal	DisGeNet	
+CYP2C9	C0027658	Neoplasms, Germ Cell and Embryonal	DisGeNet	
+CYP3A5	C0027658	Neoplasms, Germ Cell and Embryonal	DisGeNet	
+CYP2C19	C0017154	Chronic atrophic gastritis	DisGeNet	
+CYP2E1	C0017154	Chronic atrophic gastritis	DisGeNet	
+LTA	C0017154	Chronic atrophic gastritis	DisGeNet	
+PTGS2	C0017154	Chronic atrophic gastritis	DisGeNet	
+TNF	C0017154	Chronic atrophic gastritis	DisGeNet	
+CYP1A1	C0949059	Colorectal polyposis	DisGeNet	
+PTGS1	C0949059	Colorectal polyposis	DisGeNet	
+PTGS2	C0949059	Colorectal polyposis	DisGeNet	
+TNF	C0949059	Colorectal polyposis	DisGeNet	
+CYP2C19	C0860207	Drug-Induced Liver Injury	DisGeNet	
+CYP2C9	C0860207	Drug-Induced Liver Injury	DisGeNet	
+CYP2E1	C0860207	Drug-Induced Liver Injury	DisGeNet	
+CYP3A5	C0860207	Drug-Induced Liver Injury	DisGeNet	
+PTGS2	C0860207	Drug-Induced Liver Injury	DisGeNet	
+TNF	C0860207	Drug-Induced Liver Injury	DisGeNet	
+CYP2C19	C0019080	Bleeding with minor or no trauma	DisGeNet	
+CYP2C9	C0019080	Bleeding with minor or no trauma	DisGeNet	
+PTGS1	C0019080	Bleeding with minor or no trauma	DisGeNet	
+TNF	C0019080	Bleeding with minor or no trauma	DisGeNet	
+CYP3A5	C0032787	Postoperative Complications	DisGeNet	
+LTA	C0032787	Postoperative Complications	DisGeNet	
+PTGS2	C0032787	Postoperative Complications	DisGeNet	
+TNF	C0032787	Postoperative Complications	DisGeNet	
+CYP2C19	C0342257	Complications of Diabetes Mellitus	DisGeNet	
+LTA	C0342257	Complications of Diabetes Mellitus	DisGeNet	
+PTGS2	C0342257	Complications of Diabetes Mellitus	DisGeNet	
+TNF	C0342257	Complications of Diabetes Mellitus	DisGeNet	
+LTA	C0019151	Hepatic encephalopathy	DisGeNet	
+PTGS1	C0019151	Hepatic encephalopathy	DisGeNet	
+TNF	C0019151	Hepatic encephalopathy	DisGeNet	
+CYP1A1	C0026857	Musculoskeletal Diseases	DisGeNet	
+LST1	C0026857	Musculoskeletal Diseases	DisGeNet	
+PTGS1	C0026857	Musculoskeletal Diseases	DisGeNet	
+PTGS2	C0026857	Musculoskeletal Diseases	DisGeNet	
+TNF	C0026857	Musculoskeletal Diseases	DisGeNet	
+CYP1A1	C0032964	Pregnancy Complications, Hematologic	DisGeNet	
+LST1	C0032964	Pregnancy Complications, Hematologic	DisGeNet	
+PTGS1	C0032964	Pregnancy Complications, Hematologic	DisGeNet	
+PTGS2	C0032964	Pregnancy Complications, Hematologic	DisGeNet	
+TNF	C0032964	Pregnancy Complications, Hematologic	DisGeNet	
+CYP1A1	C0003872	Arthritis, Psoriatic	DisGeNet	
+CYP2C19	C0003872	Arthritis, Psoriatic	DisGeNet	
+LTA	C0003872	Arthritis, Psoriatic	ClinVar,DisGeNet	
+PTGS1	C0003872	Arthritis, Psoriatic	DisGeNet	
+PTGS2	C0003872	Arthritis, Psoriatic	DisGeNet	
+TNF	C0003872	Arthritis, Psoriatic	DisGeNet	
+CYP1A1	C0919532	Genomic Instability	DisGeNet	
+CYP2C19	C0919532	Genomic Instability	DisGeNet	
+CYP2E1	C0919532	Genomic Instability	DisGeNet	
+CYP2C19	C0745744	End Stage Liver Disease	DisGeNet	
+CYP2E1	C0745744	End Stage Liver Disease	DisGeNet	
+TNF	C0745744	End Stage Liver Disease	DisGeNet	
+CYP1A1	C0850666	Helicobacter pylori infection	DisGeNet	
+CYP2C19	C0850666	Helicobacter pylori infection	DisGeNet	
+CYP2C9	C0850666	Helicobacter pylori infection	DisGeNet	
+CYP2E1	C0850666	Helicobacter pylori infection	DisGeNet	
+PTGS1	C0850666	Helicobacter pylori infection	DisGeNet	
+PTGS2	C0850666	Helicobacter pylori infection	DisGeNet	
+TNF	C0850666	Helicobacter pylori infection	DisGeNet	
+CYP1A1	C0376670	Pancreatitis, Alcoholic	DisGeNet	
+CYP2E1	C0376670	Pancreatitis, Alcoholic	DisGeNet	
+TNF	C0376670	Pancreatitis, Alcoholic	DisGeNet	
+LTA	C1333762	Gastric Cardia Adenocarcinoma	DisGeNet	
+PTGS2	C1333762	Gastric Cardia Adenocarcinoma	DisGeNet	
+TNF	C1333762	Gastric Cardia Adenocarcinoma	DisGeNet	
+CYP1A1	C0041327	Tuberculosis, Pulmonary	DisGeNet	
+CYP2C19	C0041327	Tuberculosis, Pulmonary	DisGeNet	
+CYP2C9	C0041327	Tuberculosis, Pulmonary	DisGeNet	
+CYP2E1	C0041327	Tuberculosis, Pulmonary	DisGeNet	
+LTA	C0041327	Tuberculosis, Pulmonary	DisGeNet	
+TNF	C0041327	Tuberculosis, Pulmonary	DisGeNet	
+CYP1A1	C0341439	Chronic liver disease	DisGeNet	
+CYP2C19	C0341439	Chronic liver disease	DisGeNet	
+CYP2E1	C0341439	Chronic liver disease	DisGeNet	
+PTGS2	C0341439	Chronic liver disease	DisGeNet	
+TNF	C0341439	Chronic liver disease	DisGeNet	
+CYP2C19	C0235032	Neurotoxicity Syndromes	DisGeNet	
+CYP2C9	C0235032	Neurotoxicity Syndromes	DisGeNet	
+CYP3A5	C0235032	Neurotoxicity Syndromes	DisGeNet	
+CYP2C19	C0024143	Lupus Nephritis	DisGeNet	
+CYP2C9	C0024143	Lupus Nephritis	DisGeNet	
+CYP3A5	C0024143	Lupus Nephritis	DisGeNet	
+PTGS1	C0024143	Lupus Nephritis	DisGeNet	
+PTGS2	C0024143	Lupus Nephritis	DisGeNet	
+TNF	C0024143	Lupus Nephritis	DisGeNet	
+CYP1A1	C0026640	Neoplasm of the oral cavity	DisGeNet	
+CYP2C9	C0026640	Neoplasm of the oral cavity	DisGeNet	
+CYP2E1	C0026640	Neoplasm of the oral cavity	DisGeNet	
+LTA	C0026640	Neoplasm of the oral cavity	DisGeNet	
+PTGS2	C0026640	Neoplasm of the oral cavity	DisGeNet	
+TNF	C0026640	Neoplasm of the oral cavity	DisGeNet	
+CYP1A1	C0015929	Fetal Diseases	DisGeNet	
+LST1	C0015929	Fetal Diseases	DisGeNet	
+PTGS1	C0015929	Fetal Diseases	DisGeNet	
+PTGS2	C0015929	Fetal Diseases	DisGeNet	
+TNF	C0015929	Fetal Diseases	DisGeNet	
+PTGS1	C0002792	Anaphylactic shock NOS	DisGeNet	
+PTGS2	C0002792	Anaphylactic shock NOS	DisGeNet	
+TNF	C0002792	Anaphylactic shock NOS	DisGeNet	
+CYP1A1	C0339143	Thyroid associated opthalmopathies	DisGeNet	
+LTA	C0339143	Thyroid associated opthalmopathies	DisGeNet	
+PTGS2	C0339143	Thyroid associated opthalmopathies	DisGeNet	
+TNF	C0339143	Thyroid associated opthalmopathies	DisGeNet	
+LTA	C0042029	Urinary tract infection	DisGeNet	
+PTGS1	C0042029	Urinary tract infection	DisGeNet	
+PTGS2	C0042029	Urinary tract infection	DisGeNet	
+TNF	C0042029	Urinary tract infection	DisGeNet	
+LST1	C0042344	Varicose Ulcer	DisGeNet	
+LTA	C0042344	Varicose Ulcer	DisGeNet	
+TNF	C0042344	Varicose Ulcer	DisGeNet	
+CYP2C19	C0017152	Gastritis	DisGeNet	
+CYP2E1	C0017152	Gastritis	DisGeNet	
+LTA	C0017152	Gastritis	DisGeNet	
+PTGS1	C0017152	Gastritis	DisGeNet	
+PTGS2	C0017152	Gastritis	DisGeNet	
+TNF	C0017152	Gastritis	DisGeNet	
+LTA	C0015674	Chronic Fatigue Syndrome	DisGeNet	
+PTGS2	C0015674	Chronic Fatigue Syndrome	DisGeNet	
+TNF	C0015674	Chronic Fatigue Syndrome	DisGeNet	
+CYP1A1	C0031099	Periodontitis	DisGeNet	
+CYP2C19	C0031099	Periodontitis	DisGeNet	
+CYP2C9	C0031099	Periodontitis	DisGeNet	
+CYP2E1	C0031099	Periodontitis	DisGeNet	
+LTA	C0031099	Periodontitis	DisGeNet	
+PTGS2	C0031099	Periodontitis	DisGeNet	
+TNF	C0031099	Periodontitis	DisGeNet	
+CYP1A1	C0018671	Head and Neck Neoplasms	DisGeNet	
+CYP2C9	C0018671	Head and Neck Neoplasms	DisGeNet	
+CYP2E1	C0018671	Head and Neck Neoplasms	DisGeNet	
+CYP3A5	C0018671	Head and Neck Neoplasms	DisGeNet	
+PTGS1	C0018671	Head and Neck Neoplasms	DisGeNet	
+PTGS2	C0018671	Head and Neck Neoplasms	DisGeNet	
+TNF	C0018671	Head and Neck Neoplasms	DisGeNet	
+CYP1A1	C0038644	SUDDEN INFANT DEATH SYNDROME	DisGeNet	
+CYP2C19	C0038644	SUDDEN INFANT DEATH SYNDROME	DisGeNet	
+CYP2C9	C0038644	SUDDEN INFANT DEATH SYNDROME	DisGeNet	
+TNF	C0038644	SUDDEN INFANT DEATH SYNDROME	DisGeNet	
+CYP2C19	C0751956	Acute Cerebrovascular Accidents	DisGeNet	
+CYP2C9	C0751956	Acute Cerebrovascular Accidents	DisGeNet	
+TNF	C0751956	Acute Cerebrovascular Accidents	DisGeNet	
+CYP2C19	C0948480	Coronary Restenosis	DisGeNet	
+LTA	C0948480	Coronary Restenosis	DisGeNet	
+TNF	C0948480	Coronary Restenosis	DisGeNet	
+PTGS1	C0027813	Neuritis	DisGeNet	
+PTGS2	C0027813	Neuritis	DisGeNet	
+TNF	C0027813	Neuritis	DisGeNet	
+CYP1A1	C0085435	Arthritis, Reactive	DisGeNet	
+PTGS2	C0085435	Arthritis, Reactive	DisGeNet	
+TNF	C0085435	Arthritis, Reactive	DisGeNet	
+CYP1A1	C0007873	Uterine Cervical Neoplasms	DisGeNet	
+CYP2E1	C0007873	Uterine Cervical Neoplasms	DisGeNet	
+LTA	C0007873	Uterine Cervical Neoplasms	DisGeNet	
+PTGS2	C0007873	Uterine Cervical Neoplasms	DisGeNet	
+TNF	C0007873	Uterine Cervical Neoplasms	DisGeNet	
+CYP1A1	C0023891	Liver Cirrhosis, Alcoholic	DisGeNet	
+CYP2C19	C0023891	Liver Cirrhosis, Alcoholic	DisGeNet	
+CYP2E1	C0023891	Liver Cirrhosis, Alcoholic	DisGeNet	
+TNF	C0023891	Liver Cirrhosis, Alcoholic	DisGeNet	
+CYP2C19	C0014869	Peptic Esophagitis	DisGeNet	
+PTGS2	C0014869	Peptic Esophagitis	DisGeNet	
+TNF	C0014869	Peptic Esophagitis	DisGeNet	
+CYP1A1	C0023531	Leukoplakia	DisGeNet	
+CYP2E1	C0023531	Leukoplakia	DisGeNet	
+PTGS2	C0023531	Leukoplakia	DisGeNet	
+CYP1A1	C0033054	Prenatal Exposure Delayed Effects	DisGeNet	
+CYP2E1	C0033054	Prenatal Exposure Delayed Effects	DisGeNet	
+TNF	C0033054	Prenatal Exposure Delayed Effects	DisGeNet	
+CYP2E1	C0333873	Squamous intraepithelial lesion	DisGeNet	
+PTGS2	C0333873	Squamous intraepithelial lesion	DisGeNet	
+TNF	C0333873	Squamous intraepithelial lesion	DisGeNet	
+CYP2C19	C0027497	Nausea	DisGeNet	
+CYP2C9	C0027497	Nausea	DisGeNet	
+TNF	C0027497	Nausea	DisGeNet	
+CYP2C19	C0013395	Dyspepsia	DisGeNet	
+PTGS1	C0013395	Dyspepsia	DisGeNet	
+PTGS2	C0013395	Dyspepsia	DisGeNet	
+CYP1A1	C0035242	Respiratory Tract Diseases	DisGeNet	
+CYP2E1	C0035242	Respiratory Tract Diseases	DisGeNet	
+TNF	C0035242	Respiratory Tract Diseases	DisGeNet	
+CYP1A1	C0341858	Endometriosis of uterus	DisGeNet	
+PTGS2	C0341858	Endometriosis of uterus	DisGeNet	
+TNF	C0341858	Endometriosis of uterus	DisGeNet	
+CYP1A1	C0524909	Hepatitis B, Chronic	DisGeNet	
+CYP2C19	C0524909	Hepatitis B, Chronic	DisGeNet	
+CYP3A5	C0524909	Hepatitis B, Chronic	DisGeNet	
+LTA	C0524909	Hepatitis B, Chronic	DisGeNet	
+PTGS2	C0524909	Hepatitis B, Chronic	DisGeNet	
+TNF	C0524909	Hepatitis B, Chronic	DisGeNet	
+PTGS1	C0206693	Medullary carcinoma	DisGeNet	
+PTGS2	C0206693	Medullary carcinoma	DisGeNet	
+TNF	C0206693	Medullary carcinoma	DisGeNet	
+CYP1A1	C0151526	Premature Birth	DisGeNet	
+CYP2E1	C0151526	Premature Birth	DisGeNet	
+LST1	C0151526	Premature Birth	DisGeNet	
+LTA	C0151526	Premature Birth	DisGeNet	
+PTGS1	C0151526	Premature Birth	DisGeNet	
+PTGS2	C0151526	Premature Birth	DisGeNet	
+TNF	C0151526	Premature Birth	DisGeNet	
+LTB	C0013371	Shigella Infections	DisGeNet	
+PTGS2	C0013371	Shigella Infections	DisGeNet	
+TNF	C0013371	Shigella Infections	DisGeNet	
+LTA	C0036205	Sarcoidosis, Pulmonary	DisGeNet	
+PTGS2	C0036205	Sarcoidosis, Pulmonary	DisGeNet	
+TNF	C0036205	Sarcoidosis, Pulmonary	DisGeNet	
+CYP2C9	C0041755	Adverse drug events and drug allergies	DisGeNet	
+CYP2E1	C0041755	Adverse drug events and drug allergies	DisGeNet	
+PTGS2	C0041755	Adverse drug events and drug allergies	DisGeNet	
+CYP1A1	C0009376	Colonic Polyps	DisGeNet	
+PTGS1	C0009376	Colonic Polyps	DisGeNet	
+PTGS2	C0009376	Colonic Polyps	DisGeNet	
+CYP1A1	C0008495	Chorioamnionitis	DisGeNet	
+LTA	C0008495	Chorioamnionitis	DisGeNet	
+PTGS1	C0008495	Chorioamnionitis	DisGeNet	
+PTGS2	C0008495	Chorioamnionitis	DisGeNet	
+TNF	C0008495	Chorioamnionitis	DisGeNet	
+CYP1A1	C0009782	Connective Tissue Diseases	DisGeNet	
+LST1	C0009782	Connective Tissue Diseases	DisGeNet	
+PTGS1	C0009782	Connective Tissue Diseases	DisGeNet	
+PTGS2	C0009782	Connective Tissue Diseases	DisGeNet	
+TNF	C0009782	Connective Tissue Diseases	DisGeNet	
+LST1	C0025303	Meningococcal Infections	DisGeNet	
+LTA	C0025303	Meningococcal Infections	DisGeNet	
+TNF	C0025303	Meningococcal Infections	DisGeNet	
+PTGS1	C0751356	Idiopathic Inflammatory Myopathies	DisGeNet	
+PTGS2	C0751356	Idiopathic Inflammatory Myopathies	DisGeNet	
+TNF	C0751356	Idiopathic Inflammatory Myopathies	DisGeNet	
+LST1	C0242852	Vitreoretinopathy, neovascular inflammatory, 193235 (3)	DisGeNet	
+LTA	C0242852	Vitreoretinopathy, neovascular inflammatory, 193235 (3)	DisGeNet	
+TNF	C0242852	Vitreoretinopathy, neovascular inflammatory, 193235 (3)	DisGeNet	
+CYP1A1	C0016034	Breast Fibrocystic Disease	DisGeNet	
+PTGS2	C0016034	Breast Fibrocystic Disease	DisGeNet	
+TNF	C0016034	Breast Fibrocystic Disease	DisGeNet	
+CYP1A1	C0031347	Pharyngeal Neoplasms	DisGeNet	
+CYP2C9	C0031347	Pharyngeal Neoplasms	DisGeNet	
+TNF	C0031347	Pharyngeal Neoplasms	DisGeNet	
+CYP2C19	C0020473	Hyperlipidemia, combined, 1	DisGeNet	
+CYP2C9	C0020473	Hyperlipidemia, combined, 1	DisGeNet	
+CYP3A5	C0020473	Hyperlipidemia, combined, 1	DisGeNet	
+LTA	C0020473	Hyperlipidemia, combined, 1	DisGeNet	
+PTGS1	C0020473	Hyperlipidemia, combined, 1	DisGeNet	
+TNF	C0020473	Hyperlipidemia, combined, 1	DisGeNet	
+CYP1A1	C4055506	Neurodegeneration with brain iron accumulation 4	DisGeNet	
+CYP2E1	C4055506	Neurodegeneration with brain iron accumulation 4	DisGeNet	
+TNF	C4055506	Neurodegeneration with brain iron accumulation 4	DisGeNet	
+CYP1A1	C0011609	Drug Eruptions	DisGeNet	
+CYP2E1	C0011609	Drug Eruptions	DisGeNet	
+CYP2C19	C0024620	Primary malignant neoplasm of liver	DisGeNet	
+CYP3A5	C0024620	Primary malignant neoplasm of liver	DisGeNet	
+CYP2E1	C1609538	Latent Tuberculosis	DisGeNet	
+TNF	C1609538	Latent Tuberculosis	DisGeNet	
+CYP1A1	C0019829	Hodgkin Disease	DisGeNet	
+CYP2C9	C0019829	Hodgkin Disease	DisGeNet	
+CYP2E1	C0019829	Hodgkin Disease	DisGeNet	
+LTA	C0019829	Hodgkin Disease	DisGeNet	
+LTB	C0019829	Hodgkin Disease	DisGeNet	
+PTGS2	C0019829	Hodgkin Disease	DisGeNet	
+TNF	C0019829	Hodgkin Disease	DisGeNet	
+CYP1A1	C0028797	Occupational Diseases	DisGeNet	
+CYP2E1	C0028797	Occupational Diseases	DisGeNet	
+TNF	C0028797	Occupational Diseases	DisGeNet	
+CYP1A1	C0035126	Reperfusion Injury	DisGeNet	
+CYP2E1	C0035126	Reperfusion Injury	DisGeNet	
+CYP3A5	C0035126	Reperfusion Injury	DisGeNet	
+PTGS1	C0035126	Reperfusion Injury	DisGeNet	
+PTGS2	C0035126	Reperfusion Injury	DisGeNet	
+TNF	C0035126	Reperfusion Injury	DisGeNet	
+CYP1A1	C0020443	Hypercholesterolemia, autosomal dominant, type B	DisGeNet	
+CYP2C19	C0020443	Hypercholesterolemia, autosomal dominant, type B	DisGeNet	
+CYP2C9	C0020443	Hypercholesterolemia, autosomal dominant, type B	DisGeNet	
+CYP3A5	C0020443	Hypercholesterolemia, autosomal dominant, type B	DisGeNet	
+TNF	C0020443	Hypercholesterolemia, autosomal dominant, type B	DisGeNet	
+CYP1A1	C0032962	Pregnancy Complications	DisGeNet	
+CYP2E1	C0032962	Pregnancy Complications	DisGeNet	
+LTA	C0032962	Pregnancy Complications	DisGeNet	
+TNF	C0032962	Pregnancy Complications	DisGeNet	
+LTA	C0014848	Achalasia	DisGeNet	
+TNF	C0014848	Achalasia	DisGeNet	
+CYP1A1	C0027663	Neoplasms, Multiple Primary	DisGeNet	
+CYP2E1	C0027663	Neoplasms, Multiple Primary	DisGeNet	
+CYP1A1	C0242488	Acute Lung Injury	DisGeNet	
+PTGS2	C0242488	Acute Lung Injury	DisGeNet	
+TNF	C0242488	Acute Lung Injury	DisGeNet	
+CYP1A1	C0153405	Malignant neoplasm of pharynx	DisGeNet	
+CYP2E1	C0153405	Malignant neoplasm of pharynx	DisGeNet	
+CYP1A1	C0013502	Echinococcosis	DisGeNet	
+PTGS1	C0013502	Echinococcosis	DisGeNet	
+LTA	C0041466	Typhoid Fever	DisGeNet	
+TNF	C0041466	Typhoid Fever	DisGeNet	
+CYP1A1	C0273115	Lung Injury	DisGeNet	
+TNF	C0273115	Lung Injury	DisGeNet	
+LTA	C0302809	Fulminant hepatitis	DisGeNet	
+TNF	C0302809	Fulminant hepatitis	DisGeNet	
+PTGS2	C0349530	Early gastric cancer	DisGeNet	
+TNF	C0349530	Early gastric cancer	DisGeNet	
+PTGS2	C0375071	Malignant neoplasm of vulva	DisGeNet	
+TNF	C0375071	Malignant neoplasm of vulva	DisGeNet	
+CYP1A1	C0023532	Oral leukoplakia	DisGeNet	
+CYP2E1	C0023532	Oral leukoplakia	DisGeNet	
+PTGS2	C0023532	Oral leukoplakia	DisGeNet	
+CYP2C9	C0155668	Old myocardial infarction	DisGeNet	
+TNF	C0155668	Old myocardial infarction	DisGeNet	
+PTGS1	C0744310	gastritis h pylori	DisGeNet	
+PTGS2	C0744310	gastritis h pylori	DisGeNet	
+CYP2C9	C1962972	Proteinuria Adverse Event	DisGeNet	
+TNF	C1962972	Proteinuria Adverse Event	DisGeNet	
+LTA	C0949691	Spondylarthropathies	DisGeNet	
+PTGS2	C0949691	Spondylarthropathies	DisGeNet	
+TNF	C0949691	Spondylarthropathies	DisGeNet	
+CYP2C19	C0031350	Pharyngitis	DisGeNet	
+TNF	C0031350	Pharyngitis	DisGeNet	
+LTA	C0038363	Oral aphthae	DisGeNet	
+TNF	C0038363	Oral aphthae	DisGeNet	
+PTGS2	C0428791	Aortic valve calcification	DisGeNet	
+TNF	C0428791	Aortic valve calcification	DisGeNet	

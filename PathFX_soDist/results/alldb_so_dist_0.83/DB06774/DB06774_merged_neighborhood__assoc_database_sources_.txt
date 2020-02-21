@@ -1,0 +1,36 @@
+Gene	CUI	Source Databases	
+BCHE	C0041755	Adverse drug events and drug allergies	DisGeNet	
+CYP1A2	C0041755	Adverse drug events and drug allergies	DisGeNet	
+CYP2E1	C0041755	Adverse drug events and drug allergies	DisGeNet	
+PTGS2	C0041755	Adverse drug events and drug allergies	DisGeNet	
+CYP2E1	C0206720	Squamous Cell Neoplasms	DisGeNet	
+CYP3A4	C0206720	Squamous Cell Neoplasms	DisGeNet	
+PTGS2	C0206720	Squamous Cell Neoplasms	DisGeNet	
+BCHE	C0877008	Enzyme inhibition disorder	DisGeNet	
+CYP3A4	C0877008	Enzyme inhibition disorder	DisGeNet	
+PTGS2	C0877008	Enzyme inhibition disorder	DisGeNet	
+CYP1A2	C0221765	Chronic schizophrenia	DisGeNet	
+CYP3A4	C0221765	Chronic schizophrenia	DisGeNet	
+DBH	C0221765	Chronic schizophrenia	DisGeNet	
+CYP1A2	C0023055	Neoplasm of the larynx	DisGeNet	
+CYP2E1	C0023055	Neoplasm of the larynx	DisGeNet	
+CYP3A4	C0023055	Neoplasm of the larynx	DisGeNet	
+PTGS2	C0023055	Neoplasm of the larynx	DisGeNet	
+CYP1A2	C0686347	Tardive Dyskinesia	DisGeNet	
+CYP3A4	C0686347	Tardive Dyskinesia	DisGeNet	
+DBH	C0686347	Tardive Dyskinesia	DisGeNet	
+CYP1A2	C0341439	Chronic liver disease	DisGeNet	
+CYP2E1	C0341439	Chronic liver disease	DisGeNet	
+CYP3A4	C0341439	Chronic liver disease	DisGeNet	
+PTGS2	C0341439	Chronic liver disease	DisGeNet	
+CYP1A2	C0152115	Orofacial dyskinesia	DisGeNet	
+CYP3A4	C0152115	Orofacial dyskinesia	DisGeNet	
+DBH	C0152115	Orofacial dyskinesia	DisGeNet	
+CYP1A2	C0032229	Pleural Neoplasms	DisGeNet	
+CYP2E1	C0032229	Pleural Neoplasms	DisGeNet	
+CYP2E1	C0003431	Antisocial Personality Disorder	DisGeNet	
+DBH	C0003431	Antisocial Personality Disorder	DisGeNet	
+CYP3A4	C0030201	Acute postoperative pain	DisGeNet	
+PTGS2	C0030201	Acute postoperative pain	DisGeNet	
+CYP1A2	C0919532	Genomic Instability	DisGeNet	
+CYP2E1	C0919532	Genomic Instability	DisGeNet	

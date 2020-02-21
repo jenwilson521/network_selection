@@ -1,0 +1,440 @@
+node1	node2	edge_score	
+DB06366	ERBB2	1.0	
+ERBB2		1.0
+EMG: myopathic abnormalities	ERBB2	1.0	
+Renal tubular acidosis, distal, autosomal dominant	ERBB2	1.0	
+Acute pancreatitis	ERBB2	1.0	
+ Adenocarcinoma, ovarian, somatic, 167000 (3)	ERBB2	1.0	
+Papillary adenocarcinoma	ERBB2	1.0	
+Adenomas, multiple colorectal, 608456 (3)	ERBB2	1.0	
+Anaplasia	ERBB2	1.0	
+Anemia	ERBB2	1.0	
+Hypoxia	ERBB2	1.0	
+Anthrax disease	ERBB2	1.0	
+Aortic regurgitation	ERBB2	1.0	
+Rheumatoid arthritis	ERBB2	1.0	
+Astrocytoma	ERBB2	1.0	
+Melanoma, B16	ERBB2	1.0	
+Barrett Esophagus	ERBB2	1.0	
+Malignant tumor of urinary bladder	ERBB2	1.0	
+Urinary Bladder Neoplasms	ERBB2	1.0	
+Bone Diseases	ERBB2	1.0	
+Bone neoplasms	ERBB2	1.0	
+Brain neoplasm	ERBB2	1.0	
+Breast-ovarian cancer, familial 1	ERBB2	1.0	
+Other specified disorders of breast	ERBB2	1.0	
+Cancer of the lower GI tract	ERBB2	1.0	
+Carcinoid tumor	ERBB2	1.0	
+Colon cancer	ERBB2	1.0	
+Malignant neoplasm of endometrium	ERBB2	1.0	
+Female Breast Carcinoma	ERBB2	1.0	
+Malignant neoplasm of larynx	ERBB2	1.0	
+Adenocarcinoma of prostate	ERBB2	1.0	
+Skin cancer	ERBB2	1.0	
+Thyroid cancer, nonmedullary, 4	ERBB2	1.0	
+Alveolar cell carcinoma	ERBB2	1.0	
+Noninfiltrating Intraductal Carcinoma	ERBB2	1.0	
+Merkel cell carcinoma	ERBB2	1.0	
+Mucinous Adenocarcinoma	ERBB2	1.0	
+Non-small cell lung carcinoma	ERBB2	1.0	
+Carcinoma, Papillary	ERBB2	1.0	
+Renal cell carcinoma, nonpapillary	ERBB2	1.0	
+Squamous cell carcinoma	ERBB2	1.0	
+Urothelial Carcinoma	ERBB2	1.0	
+Carcinosarcoma	ERBB2	1.0	
+Cardiomyopathy, Dilated	ERBB2	1.0	
+Celiac Disease	ERBB2	1.0	
+Neoplastic Cell Transformation	ERBB2	1.0	
+CNS disorder	ERBB2	1.0	
+Malignant tumor of cervix	ERBB2	1.0	
+Charcot-Marie-Tooth disease, type 2N	ERBB2	1.0	
+Cholera	ERBB2	1.0	
+Choriocarcinoma	ERBB2	1.0	
+Congenital chromosomal disease	ERBB2	1.0	
+Chromosome 8, trisomy	ERBB2	1.0	
+Cleft Lip	ERBB2	1.0	
+Cleft Palate	ERBB2	1.0	
+Neoplasm of the colon	ERBB2	1.0	
+Colorectal cancer 1	ERBB2	1.0	
+Colorectal Neoplasms	ERBB2	1.0	
+Verotoxigenic Escherichia coli gastrointestinal tract infection	ERBB2	1.0	
+Adenoid Cystic Carcinoma	ERBB2	1.0	
+Cystitis	ERBB2	1.0	
+Phyllodes tumor, benign	ERBB2	1.0	
+Death, Sudden, Cardiac	ERBB2	1.0	
+Diabetes insipidus	ERBB2	1.0	
+Diarrhea 8, secretory sodium, congenital	ERBB2	1.0	
+Patent ductus arteriosus	ERBB2	1.0	
+Ectodermal dysplasia 11b, hypohidrotic/hair/tooth type, autosomal recessive	ERBB2	1.0	
+Neoplasm of the endocrine system	ERBB2	1.0	
+Endometrial Neoplasms	ERBB2	1.0	
+Endometriosis	ERBB2	1.0	
+Ependymoma	ERBB2	1.0	
+EPIDERMODYSPLASIA VERRUCIFORMIS	ERBB2	1.0	
+Esophageal Neoplasms	ERBB2	1.0	
+Exanthema	ERBB2	1.0	
+Breast Fibrocystic Disease	ERBB2	1.0	
+Fibrosarcoma	ERBB2	1.0	
+Neoplasm of the gallbladder	ERBB2	1.0	
+Gastrinoma	ERBB2	1.0	
+Gastrointestinal Neoplasms	ERBB2	1.0	
+Glioblastoma	ERBB2	1.0	
+Glioma	ERBB2	1.0	
+Glomerulonephritis, Membranous	ERBB2	1.0	
+granulosa cell tumor	ERBB2	1.0	
+Gynecomastia	ERBB2	1.0	
+Head and Neck Neoplasms	ERBB2	1.0	
+Heart Diseases	ERBB2	1.0	
+Heart Failure	ERBB2	1.0	
+Congestive heart failure	ERBB2	1.0	
+Hepatitis	ERBB2	1.0	
+Acute type B viral hepatitis	ERBB2	1.0	
+Herpes Simplex Infections	ERBB2	1.0	
+Hodgkin Disease	ERBB2	1.0	
+Hydatidiform mole, recurrent, 2	ERBB2	1.0	
+Hyperinsulinemia	ERBB2	1.0	
+Immunodeficiency due to defect in CD3-gamma	ERBB2	1.0	
+Mammary Ductal Carcinoma	ERBB2	1.0	
+Intestinal Neoplasms	ERBB2	1.0	
+Kartagener syndrome	ERBB2	1.0	
+Renal neoplasm	ERBB2	1.0	
+Polycystic kidney disease, autosomal dominant	ERBB2	1.0	
+Neoplasm of the larynx	ERBB2	1.0	
+Leiomyoma	ERBB2	1.0	
+Leprosy	ERBB2	1.0	
+Leukemia, Lymphocytic, Chronic, B-Cell	ERBB2	1.0	
+Chronic Lymphocytic Leukemia	ERBB2	1.0	
+Acute Erythroblastic Leukemia	ERBB2	1.0	
+Acute lymphoid leukemia	ERBB2	1.0	
+Chronic myeloid leukemia	ERBB2	1.0	
+Acute promyelocytic leukemia	ERBB2	1.0	
+Liver Cirrhosis, Biliary	ERBB2	1.0	
+Neoplasm of the liver	ERBB2	1.0	
+Chronic obstructive pulmonary disease	ERBB2	1.0	
+Lung Neoplasms	ERBB2	1.0	
+Lupus Vulgaris	ERBB2	1.0	
+Discoid lupus erythematosus	ERBB2	1.0	
+Lupus Erythematosus, Systemic	ERBB2	1.0	
+Lupus Nephritis	ERBB2	1.0	
+Lymphatic Metastasis	ERBB2	1.0	
+Lymphoma, Large B-Cell, Diffuse	ERBB2	1.0	
+Non-Hodgkin lymphoma	ERBB2	1.0	
+Lymphoproliferative disorder	ERBB2	1.0	
+{Gastric cancer risk after H. pylori infection}, 137215 (3)	ERBB2	1.0	
+Animal Mammary Neoplasms	ERBB2	1.0	
+Mammary Neoplasms, Experimental	ERBB2	1.0	
+Measles	ERBB2	1.0	
+Medulloblastoma	ERBB2	1.0	
+Melanoma	ERBB2	1.0	
+Meningioma	ERBB2	1.0	
+Mixed Salivary Gland Tumor	ERBB2	1.0	
+Monosomy	ERBB2	1.0	
+Neoplasm of the oral cavity	ERBB2	1.0	
+Multiple Myeloma	ERBB2	1.0	
+Nasopharyngeal Neoplasms	ERBB2	1.0	
+Neck Neoplasms	ERBB2	1.0	
+Secondary hypertriglyceridemia	ERBB2	1.0	
+Neoplasm Recurrence, Local	ERBB2	1.0	
+Neoplasms	ERBB2	1.0	
+Neoplasms, Experimental	ERBB2	1.0	
+Nervous tissue neoplasm	ERBB2	1.0	
+Wilms Tumor	ERBB2	1.0	
+Neoplasm of the nervous system	ERBB2	1.0	
+Schwannoma	ERBB2	1.0	
+Neurofibromatosis, type 1, 162200 (3)	ERBB2	1.0	
+Vestibular Schwannoma	ERBB2	1.0	
+Melanocytic nevus	ERBB2	1.0	
+Nodule	ERBB2	1.0	
+Obesity	ERBB2	1.0	
+Ovarian cyst	ERBB2	1.0	
+Pain	ERBB2	1.0	
+Pancreatic Neoplasms	ERBB2	1.0	
+Papilloma	ERBB2	1.0	
+Paragangliomas 1	ERBB2	1.0	
+Pericardial effusion	ERBB2	1.0	
+Peripheral neuropathy, myopathy, hoarseness, and hearing loss	ERBB2	1.0	
+Pharyngeal Neoplasms	ERBB2	1.0	
+Pheochromocytoma	ERBB2	1.0	
+Abnormality of the pituitary gland	ERBB2	1.0	
+Pituitary Neoplasms	ERBB2	1.0	
+Simple pneumoconiosis	ERBB2	1.0	
+polyps	ERBB2	1.0	
+Precancerous Conditions	ERBB2	1.0	
+Prolactinoma, familial	ERBB2	1.0	
+Prostatic Neoplasms	ERBB2	1.0	
+Pulmonary fibrosis and/or bone marrow failure, telomere-related, 4	ERBB2	1.0	
+Neoplasm of the respiratory system	ERBB2	1.0	
+Retinoblastoma	ERBB2	1.0	
+Rhabdomyosarcoma alveolar	ERBB2	1.0	
+Salivary gland neoplasm	ERBB2	1.0	
+Hepatosplenic schistosomiasis	ERBB2	1.0	
+Scleroderma	ERBB2	1.0	
+Sezary Syndrome	ERBB2	1.0	
+Neoplasm of the skin	ERBB2	1.0	
+Soft Tissue Neoplasms	ERBB2	1.0	
+Stomach Neoplasms	ERBB2	1.0	
+Synovial sarcoma	ERBB2	1.0	
+Thyroid Neoplasms	ERBB2	1.0	
+Thyroiditis	ERBB2	1.0	
+Neoplasm of the tongue	ERBB2	1.0	
+Abnormality of dental morphology	ERBB2	1.0	
+Trisomy	ERBB2	1.0	
+Attention Deficit Disorder	ERBB2	1.0	
+X-linked ichthyosis with steryl-sulfatase deficiency	ERBB2	1.0	
+B-cell lymphoma	ERBB2	1.0	
+Pleural Effusion, Malignant	ERBB2	1.0	
+Severe combined immunodeficiency due to ADA deficiency	ERBB2	1.0	
+Neoplasm of the central nervous system	ERBB2	1.0	
+Li-Fraumeni syndrome	ERBB2	1.0	
+Polycystic Kidney, Autosomal Dominant	ERBB2	1.0	
+Benign neoplasm of other endocrine glands	ERBB2	1.0	
+Squamous cell carcinoma of lung	ERBB2	1.0	
+Small cell lung cancer	ERBB2	1.0	
+Rectal Carcinoma	ERBB2	1.0	
+Thyroid adenoma	ERBB2	1.0	
+Dermal atrophy	ERBB2	1.0	
+Oral Cavity Carcinoma	ERBB2	1.0	
+Acute myocardial ischemia	ERBB2	1.0	
+Cutaneous malignant melanoma 3	ERBB2	1.0	
+Adenocarcinoma of lung	ERBB2	1.0	
+Esophageal carcinoma	ERBB2	1.0	
+Cancer of mouth	ERBB2	1.0	
+Malignant neoplasm of gallbladder	ERBB2	1.0	
+Uterine Cancer	ERBB2	1.0	
+Uterine Corpus Cancer	ERBB2	1.0	
+Malignant tumor of testis	ERBB2	1.0	
+Malignant neoplasm of brain and nervous system	ERBB2	1.0	
+Secondary malignant neoplasm of lung	ERBB2	1.0	
+Neurofibromatoses	ERBB2	1.0	
+Aortic Aneurysm, Thoracic	ERBB2	1.0	
+Agenesis of corpus callosum	ERBB2	1.0	
+Fibroadenoma of the breast	ERBB2	1.0	
+Tumor Progression	ERBB2	1.0	
+Follicular adenoma	ERBB2	1.0	
+Germ cell neoplasia	ERBB2	1.0	
+Neuroectodermal neoplasm	ERBB2	1.0	
+Lichen Planus, Oral	ERBB2	1.0	
+Alveolar rhabdomyosarcoma	ERBB2	1.0	
+Embryonal rhabdomyosarcoma	ERBB2	1.0	
+Adenomatous Polyps	ERBB2	1.0	
+Adenocarcinoma, Clear Cell	ERBB2	1.0	
+Carcinoma, Endometrioid	ERBB2	1.0	
+Carcinoma, Lobular	ERBB2	1.0	
+Medullary carcinoma	ERBB2	1.0	
+Intraosseous mucoepidermoid carcinoma	ERBB2	1.0	
+Carcinoma, Neuroendocrine	ERBB2	1.0	
+Carcinoma, Signet Ring Cell	ERBB2	1.0	
+Cholangiocarcinoma	ERBB2	1.0	
+High grade serous carcinoma	ERBB2	1.0	
+Carcinoma, Large Cell	ERBB2	1.0	
+Cervical intraepithelial neoplasia (Cervical dysplasia)	ERBB2	1.0	
+Neuroepithelial neoplasm	ERBB2	1.0	
+Nerve Sheath Tumors	ERBB2	1.0	
+Neuroendocrine neoplasm	ERBB2	1.0	
+childhood brain tumor	ERBB2	1.0	
+Lip and Oral Cavity Carcinoma	ERBB2	1.0	
+Metastatic malignant neoplasm to brain	ERBB2	1.0	
+Malignant ascites	ERBB2	1.0	
+Comedone	ERBB2	1.0	
+Malignant neoplasm of female breast	ERBB2	1.0	
+Gallbladder Carcinoma	ERBB2	1.0	
+Pancreatic Carcinoma	ERBB2	1.0	
+Carcinoma of Male Breast	ERBB2	1.0	
+Gastrointestinal stromal tumor	ERBB2	1.0	
+Hereditary pancreatitis	ERBB2	1.0	
+Anaplastic thyroid carcinoma	ERBB2	1.0	
+Medullary thyroid carcinoma	ERBB2	1.0	
+Papillary thyroid carcinoma	ERBB2	1.0	
+Malignant neoplasm of lung	ERBB2	1.0	
+Neoplasm, Residual	ERBB2	1.0	
+Disease Progression	ERBB2	1.0	
+Malignant neoplasm of male breast	ERBB2	1.0	
+Carcinoma, Small Cell	ERBB2	1.0	
+Chronic heart failure	ERBB2	1.0	
+Abnormality of the digestive system	ERBB2	1.0	
+Vesicular Stomatitis	ERBB2	1.0	
+Endometrioma	ERBB2	1.0	
+Erythroblastosis	ERBB2	1.0	
+Carcinoma breast stage IV	ERBB2	1.0	
+Breast cancer recurrent	ERBB2	1.0	
+Malignant neoplasm of stomach stage IV	ERBB2	1.0	
+Medulloblastoma, Childhood	ERBB2	1.0	
+Inflammatory Breast Carcinoma	ERBB2	1.0	
+Stage IV Ovarian Carcinoma	ERBB2	1.0	
+Gastric Adenocarcinoma	ERBB2	1.0	
+Malignant Childhood Neoplasm	ERBB2	1.0	
+Prostate cancer recurrent	ERBB2	1.0	
+Metastatic melanoma	ERBB2	1.0	
+Cancer of Head and Neck	ERBB2	1.0	
+CNS metastases	ERBB2	1.0	
+Lobular carcinoma in situ of breast	ERBB2	1.0	
+Invasive Lobular Breast Carcinoma	ERBB2	1.0	
+Esophageal Squamous Cell Carcinoma	ERBB2	1.0	
+Adenocarcinoma Of Esophagus	ERBB2	1.0	
+Gallbladder adenocarcinoma	ERBB2	1.0	
+Cervical Squamous Cell Carcinoma	ERBB2	1.0	
+Cervical Adenocarcinoma	ERBB2	1.0	
+Transitional cell carcinoma of the bladder	ERBB2	1.0	
+Solid tumour	ERBB2	1.0	
+stage, non-small cell lung cancer	ERBB2	1.0	
+Ovarian epithelial cancer stage III	ERBB2	1.0	
+Oropharyngeal squamous cell carcinoma	ERBB2	1.0	
+Laryngeal Squamous Cell Carcinoma	ERBB2	1.0	
+Uterine leiomyosarcoma	ERBB2	1.0	
+Pancreatic adenocarcinoma	ERBB2	1.0	
+Prostatic Intraepithelial Neoplasias	ERBB2	1.0	
+Carcinoma of cervix	ERBB2	1.0	
+Tumor necrosis	ERBB2	1.0	
+High-Grade Squamous Intraepithelial Lesions	ERBB2	1.0	
+Inflammatory Myofibroblastic Tumor	ERBB2	1.0	
+Carcinoid tumor no ICD-O subtype	ERBB2	1.0	
+Pilocytic Astrocytoma	ERBB2	1.0	
+Leber congenital amaurosis	ERBB2	1.0	
+Human papilloma virus infection	ERBB2	1.0	
+Intrahepatic Cholangiocarcinoma	ERBB2	1.0	
+Familial cancer of breast	ERBB2	1.0	
+Intestinal Cancer	ERBB2	1.0	
+Malignant neoplasm of pancreas	ERBB2	1.0	
+Disseminated Malignant Neoplasm	ERBB2	1.0	
+Malignant neoplasm of the central nervous system	ERBB2	1.0	
+Ischemic cardiomyopathy	ERBB2	1.0	
+Malignant tumor of prostate	ERBB2	1.0	
+Hematological neoplasm	ERBB2	1.0	
+{Systemic lupus erythematosus, susceptibility to, 8} (2)	ERBB2	1.0	
+Autosomal recessive inheritance	ERBB2	1.0	
+Autosomal dominant non-syndromic sensorineural deafness type DFNA	ERBB2	1.0	
+Endometrial carcinoma	ERBB2	1.0	
+Meningitis	ERBB2	1.0	
+Nevus	ERBB2	1.0	
+Overweight	ERBB2	1.0	
+Abnormality of the nervous system	ERBB2	1.0	
+Chronic active hepatitis	ERBB2	1.0	
+Recurrent tumor	ERBB2	1.0	
+Neurodegenerative Diseases	ERBB2	1.0	
+Somatic mutation	ERBB2	1.0	
+Malignant tumor of esophagus	ERBB2	1.0	
+Thyroid carcinoma	ERBB2	1.0	
+Oropharyngeal disorders	ERBB2	1.0	
+Epithelioma	ERBB2	1.0	
+Squamous cell carcinoma of the skin	ERBB2	1.0	
+Malignant Glioma	ERBB2	1.0	
+Osteosarcoma	ERBB2	1.0	
+Laryngeal carcinoma	ERBB2	1.0	
+Carcinogenesis	ERBB2	1.0	
+Hereditary hyperhomocysteinemia	ERBB2	1.0	
+Tumor Initiation	ERBB2	1.0	
+Prostate carcinoma	ERBB2	1.0	
+Hashimoto thyroiditis	ERBB2	1.0	
+Ovarian epithelial cancer	ERBB2	1.0	
+invasive cancer	ERBB2	1.0	
+Progressive Neoplastic Disease	ERBB2	1.0	
+Refractory cancer	ERBB2	1.0	
+Sentinel node (disorder)	ERBB2	1.0	
+Complete hydatidiform mole	ERBB2	1.0	
+Breast carcinoma	ERBB2	1.0	
+Lung cancer	ERBB2	1.0	
+Malignant gastrointestinal tract tumors	ERBB2	1.0	
+Carcinoma of colon	ERBB2	1.0	
+Stomach cancer	ERBB2	1.0	
+Bladder carcinoma	ERBB2	1.0	
+Neuroblastoma	ERBB2	1.0	
+Malignant neoplasm of kidney	ERBB2	1.0	
+Biliary Tract Cancer	ERBB2	1.0	
+Primary malignant neoplasm of brain	ERBB2	1.0	
+Adult Acute Lymphocytic Leukemia	ERBB2	1.0	
+Malignant peripheral nerve sheath tumor with rhabdomyoblastic differentiation	ERBB2	1.0	
+Smith-Magenis syndrome	ERBB2	1.0	
+Spots on skin	ERBB2	1.0	
+Helicobacter pylori infection	ERBB2	1.0	
+Invasive breast carcinoma	ERBB2	1.0	
+Diabetic Cardiomyopathies	ERBB2	1.0	
+Rhabdoid Tumor of the Kidney	ERBB2	1.0	
+Testicular malignant germ cell tumor	ERBB2	1.0	
+Breast adenocarcinoma	ERBB2	1.0	
+Advanced cancer	ERBB2	1.0	
+Intraepithelial Neoplasia	ERBB2	1.0	
+Cardiomyopathy	ERBB2	1.0	
+Ovarian Neoplasms	ERBB2	1.0	
+cancer recurrence	ERBB2	1.0	
+Metastatic Prostate Carcinoma	ERBB2	1.0	
+precancerous lesions	ERBB2	1.0	
+Ovarian adenocarcinoma	ERBB2	1.0	
+Papillomavirus Infections	ERBB2	1.0	
+Invasive Ductal Breast Carcinoma	ERBB2	1.0	
+Gestational trophoblastic disease	ERBB2	1.0	
+BREAST-OVARIAN CANCER, FAMILIAL, SUSCEPTIBILITY TO, 4	ERBB2	1.0	
+Endometrial adenocarcinoma	ERBB2	1.0	
+High-Grade Prostatic Intraepithelial Neoplasia	ERBB2	1.0	
+Squamous cell carcinoma of the head and neck	ERBB2	1.0	
+Mammary Carcinoma, Human	ERBB2	1.0	
+Sarcoma, Ewing	ERBB2	1.0	
+Attention deficit hyperactivity disorder	ERBB2	1.0	
+Single tumor	ERBB2	1.0	
+Low Grade Squamous Intraepithelial Neoplasia	ERBB2	1.0	
+Adenocarcinoma of the large intestine	ERBB2	1.0	
+Thymic Carcinoma	ERBB2	1.0	
+Hormone refractory prostate cancer	ERBB2	1.0	
+Inappropriate ADH Syndrome	ERBB2	1.0	
+Familial colorectal cancer	ERBB2	1.0	
+Hereditary nonpolyposis colorectal cancer type 8	ERBB2	1.0	
+Infiltrating Cervical Carcinoma	ERBB2	1.0	
+Invasive Carcinoma	ERBB2	1.0	
+Pancreatic Ductal Adenocarcinoma	ERBB2	1.0	
+Primary Carcinoma	ERBB2	1.0	
+Sporadic Breast Carcinoma	ERBB2	1.0	
+Differentiated Thyroid Gland Carcinoma	ERBB2	1.0	
+Metastatic Carcinoma	ERBB2	1.0	
+Primary Lesion	ERBB2	1.0	
+Hormone receptor positive tumor	ERBB2	1.0	
+Dilated cardiomyopathy 1A	ERBB2	1.0	
+Benign melanocytic nevus	ERBB2	1.0	
+CNS symptom	ERBB2	1.0	
+Angiogenic Switch	ERBB2	1.0	
+Breast Cancer Model	ERBB2	1.0	
+Desmoplastic spindle and epithelioid cell melanocytic nevus of skin	ERBB2	1.0	
+Hepatocarcinogenesis	ERBB2	1.0	
+Mammary Tumorigenesis	ERBB2	1.0	
+Cancer Cell Growth	ERBB2	1.0	
+Pleomorphic adenoma of salivary gland	ERBB2	1.0	
+Skin Carcinogenesis	ERBB2	1.0	
+Tumor Angiogenesis	ERBB2	1.0	
+Tumor Immunity	ERBB2	1.0	
+Xenograft Model	ERBB2	1.0	
+Colorectal cancer	ERBB2	1.0	
+Ductal Carcinoma	ERBB2	1.0	
+Rash and Dermatitis Adverse Event Associated with Chemoradiation	ERBB2	1.0	
+Non-Malignant Ascites Adverse Event	ERBB2	1.0	
+Adenocarcinoma, Endometrioid	ERBB2	1.0	
+Glioblastoma multiforme	ERBB2	1.0	
+androgen independent prostate cancer	ERBB2	1.0	
+Benign Prostatic Hyperplasia	ERBB2	1.0	
+Non-Neoplastic Disorder	ERBB2	1.0	
+Meningioma, benign, no ICD-O subtype	ERBB2	1.0	
+Multicystic renal dysplasia, bilateral	ERBB2	1.0	
+ Gastric cancer, somatic, 137215 (3)	ERBB2	1.0	
+Precursor Cell Lymphoblastic Leukemia-Lymphoma	ERBB2	1.0	
+Hepatocellular carcinoma	ERBB2	1.0	
+Nasopharyngeal carcinoma, susceptibility to, 3	ERBB2	1.0	
+Clear-cell metastatic renal cell carcinoma	ERBB2	1.0	
+Early-Stage Breast Carcinoma	ERBB2	1.0	
+Secondary malignant neoplasm of pancreas	ERBB2	1.0	
+Hydatidiform mole, recurrent, 1, 231090 (3)	ERBB2	1.0	
+Homocysteinemia due to MTHFR deficiency	ERBB2	1.0	
+Progressive cGVHD	ERBB2	1.0	
+Triple Negative Breast Neoplasms	ERBB2	1.0	
+Mammary adenocarcinoma	ERBB2	1.0	
+Estrogen resistance	ERBB2	1.0	
+Abnormality of the respiratory system	ERBB2	1.0	
+Morphological abnormality of the gastrointestinal tract	ERBB2	1.0	
+Abnormality of the tracheobronchial system	ERBB2	1.0	
+Abnormality of lung morphology	ERBB2	1.0	
+Morphological abnormality of the central nervous system	ERBB2	1.0	
+Abnormality of the glial cells	ERBB2	1.0	
+Abnormality of nervous system morphology	ERBB2	1.0	
+Abnormal respiratory system morphology	ERBB2	1.0	
+Neoplasm by anatomical site	ERBB2	1.0	
+Neoplasm by histology	ERBB2	1.0	
+Abnormality of the gastrointestinal tract	ERBB2	1.0	
+Abnormality of the stomach	ERBB2	1.0	
+Abnormality of the upper respiratory tract	ERBB2	1.0	
+Abnormality of digestive system morphology	ERBB2	1.0	

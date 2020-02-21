@@ -1,0 +1,9 @@
+node_name	node_type	
+DB00210	drug	
+RARA	drug_target	
+PTGS2	drug_target	
+RARB	drug_target	
+RARG	drug_target	
+RXRG	drug_target	
+RXRA	drug_target	
+RXRB	drug_target	

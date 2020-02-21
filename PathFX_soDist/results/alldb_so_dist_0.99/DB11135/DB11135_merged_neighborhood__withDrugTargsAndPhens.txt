@@ -1,0 +1,5 @@
+node1	node2	edge_score	
+DB11135	GSR	1.0	
+DB11135	SCLY	1.0	
+DB11135	TXNRD1	1.0	
+

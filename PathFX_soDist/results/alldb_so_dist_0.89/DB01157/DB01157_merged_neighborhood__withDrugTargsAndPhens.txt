@@ -1,0 +1,20 @@
+node1	node2	edge_score	
+DB01157	DHFR	1.0	
+DHFR	rs1650723	0.99
+DHFR	rs1643650	0.99
+DHFR	rs408626	0.99
+DHFR		1.0
+DHFR	rs1105525	0.99
+DHFR	rs70991108	0.99
+DHFR	rs442767	0.99
+DHFR	rs1650697	0.99
+DHFR	rs1053129	0.99
+Megaloblastic anemia, thiamine-responsive, with diabetes mellitus and sensorineural deafness	DHFR	1.0	
+Malaria, Vivax	DHFR	1.0	
+Familial Alzheimer Disease (FAD)	DHFR	1.0	
+Asymptomatic Infections	DHFR	1.0	
+Myelosuppression	DHFR	1.0	
+Folic Acid Deficiency	DHFR	1.0	
+Xeroderma pigmentosum, group A	DHFR	1.0	
+Dialeptic seizures	DHFR	1.0	
+Microcephaly, postnatal progressive, with seizures and brain atrophy	DHFR	1.0	

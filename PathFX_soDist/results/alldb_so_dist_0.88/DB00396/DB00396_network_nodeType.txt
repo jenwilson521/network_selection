@@ -1,0 +1,41 @@
+node_name	node_type	
+DB00396	drug	
+SLCO1B1	drug_target	
+CYP17A1	drug_target	
+SLCO1B3	drug_target	
+SLC10A1	drug_target	
+CYP1B1	drug_target	
+CYP2D6	drug_target	
+ABCB1	drug_target	
+PGR	drug_target	
+NR3C2	drug_target	
+NR3C1	drug_target	
+ABCB11	drug_target	
+AR	drug_target	
+CYP2A6	drug_target	
+OPRK1	drug_target	
+CYP3A4	drug_target	
+CYP3A5	drug_target	
+CYP2C9	drug_target	
+CYP1A1	drug_target	
+ABCG2	drug_target	
+ESR2	drug_target	
+ORM1	drug_target	
+ESR1	drug_target	
+SHBG	drug_target	
+CYP2C19	drug_target	
+SLC22A1	drug_target	
+SLC22A2	drug_target	
+SLC22A3	drug_target	
+ABCC1	drug_target	
+Drug Allergy	phenotype	
+Primary malignant neoplasm of liver	phenotype	
+Pleural Neoplasms	phenotype	
+Genomic Instability	phenotype	
+Intrahepatic cholestasis	phenotype	
+Adverse drug events and drug allergies	phenotype	
+Neurotoxicity Syndromes	phenotype	
+Depressive Symptoms	phenotype	
+Mammographic breast density	phenotype	
+Squamous Cell Neoplasms	phenotype	
+Nausea	phenotype	

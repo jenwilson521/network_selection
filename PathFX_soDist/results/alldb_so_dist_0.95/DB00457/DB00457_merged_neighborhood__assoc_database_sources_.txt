@@ -1,0 +1,4 @@
+Gene	CUI	Source Databases	
+ABCB1	C0152020	Gastroparesis	DisGeNet	
+ADRA1A	C0152020	Gastroparesis	DisGeNet	
+KCNH2	C0152020	Gastroparesis	DisGeNet	

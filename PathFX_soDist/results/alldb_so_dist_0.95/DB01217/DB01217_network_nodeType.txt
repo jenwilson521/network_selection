@@ -1,0 +1,6 @@
+node_name	node_type	
+DB01217	drug	
+CYP2C9	drug_target	
+CYP3A4	drug_target	
+CYP19A1	drug_target	
+CYP1A2	drug_target	

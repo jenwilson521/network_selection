@@ -1,0 +1,665 @@
+node1	node2	edge_score	
+DB09401	BCL2L1	1.0	
+DB09401	MCL1	1.0	
+DB09401	BCL2	1.0	
+BCL2		1.0
+EMG: myopathic abnormalities	BCL2	1.0	
+Acquired Immunodeficiency Syndrome	BCL2	1.0	
+ Adenocarcinoma, ovarian, somatic, 167000 (3)	BCL2	1.0	
+Adenomas, multiple colorectal, 608456 (3)	BCL2	1.0	
+Adenovirus Infections	BCL2	1.0	
+Adrenal insufficiency	BCL2	1.0	
+Neoplasm of the adrenal gland	BCL2	1.0	
+AIDS related complex	BCL2	1.0	
+Alzheimer Disease	BCL2	1.0	
+Ameloblastoma	BCL2	1.0	
+Memory Loss	BCL2	1.0	
+Amyotrophic Lateral Sclerosis	BCL2	1.0	
+Anaplasia	BCL2	1.0	
+Anemia	BCL2	1.0	
+Aplastic anemia	BCL2	1.0	
+Refractory anaemia with excess blasts	BCL2	1.0	
+Hypoxia	BCL2	1.0	
+Anxiety Disorders	BCL2	1.0	
+Arteriosclerosis	BCL2	1.0	
+Arteriovenous fistula	BCL2	1.0	
+Arthritis, Rheumatoid	BCL2	1.0	
+Rheumatoid arthritis	BCL2	1.0	
+Asthma	BCL2	1.0	
+Astrocytoma	BCL2	1.0	
+Atherosclerosis	BCL2	1.0	
+Autism 15	BCL2	1.0	
+Autoimmune disease 1	BCL2	1.0	
+Azoospermia	BCL2	1.0	
+Melanoma, B16	BCL2	1.0	
+Recurrent bacterial infection	BCL2	1.0	
+Gorlin syndrome	BCL2	1.0	
+Behcet Syndrome	BCL2	1.0	
+Bipolar affective disorder	BCL2	1.0	
+Malignant tumor of urinary bladder	BCL2	1.0	
+Urinary Bladder Neoplasms	BCL2	1.0	
+Blast Phase	BCL2	1.0	
+Borderline Personality Disorder	BCL2	1.0	
+Brain neoplasm	BCL2	1.0	
+Breast-ovarian cancer, familial 1	BCL2	1.0	
+Other specified disorders of breast	BCL2	1.0	
+Bronchopulmonary Dysplasia	BCL2	1.0	
+Burkitt lymphoma	BCL2	1.0	
+Cancer of the lower GI tract	BCL2	1.0	
+Carcinoid tumor	BCL2	1.0	
+Colon cancer	BCL2	1.0	
+Malignant neoplasm of endometrium	BCL2	1.0	
+Female Breast Carcinoma	BCL2	1.0	
+Malignant neoplasm of larynx	BCL2	1.0	
+Adenocarcinoma of prostate	BCL2	1.0	
+Skin cancer	BCL2	1.0	
+Thyroid cancer, nonmedullary, 4	BCL2	1.0	
+Bronchogenic Carcinoma	BCL2	1.0	
+Noninfiltrating Intraductal Carcinoma	BCL2	1.0	
+Merkel cell carcinoma	BCL2	1.0	
+Mucinous Adenocarcinoma	BCL2	1.0	
+Non-small cell lung carcinoma	BCL2	1.0	
+Carcinoma, Papillary	BCL2	1.0	
+Renal cell carcinoma, nonpapillary	BCL2	1.0	
+Squamous cell carcinoma	BCL2	1.0	
+Urothelial Carcinoma	BCL2	1.0	
+Celiac Disease	BCL2	1.0	
+Neoplastic Cell Transformation	BCL2	1.0	
+CNS disorder	BCL2	1.0	
+CNS infection	BCL2	1.0	
+Ischaemic cerebral infarction	BCL2	1.0	
+Brain Ischemia	BCL2	1.0	
+Cerebral palsy, spastic quadriplegic, 3	BCL2	1.0	
+Malignant tumor of cervix	BCL2	1.0	
+Cervix Diseases	BCL2	1.0	
+Cervical dysplasia	BCL2	1.0	
+Uterine Cervical Neoplasms	BCL2	1.0	
+Chlamydia Infections	BCL2	1.0	
+Primary biliary cirrhosis	BCL2	1.0	
+Cholera	BCL2	1.0	
+Chondrosarcoma	BCL2	1.0	
+Choriocarcinoma	BCL2	1.0	
+Congenital chromosomal disease	BCL2	1.0	
+Clubfoot	BCL2	1.0	
+Colitis, Ulcerative	BCL2	1.0	
+Ulcerative colitis	BCL2	1.0	
+Neoplasm of the colon	BCL2	1.0	
+Colorectal cancer 1	BCL2	1.0	
+Colorectal Neoplasms	BCL2	1.0	
+Common variable immunodeficiency 2	BCL2	1.0	
+Verotoxigenic Escherichia coli gastrointestinal tract infection	BCL2	1.0	
+Condylomata Acuminata	BCL2	1.0	
+Constitutional symptom	BCL2	1.0	
+Coronary heart disease 7	BCL2	1.0	
+Crohn Disease	BCL2	1.0	
+Cryoglobulinemia	BCL2	1.0	
+Cystic Fibrosis	BCL2	1.0	
+Death, Sudden, Cardiac	BCL2	1.0	
+Dementia familial British	BCL2	1.0	
+Plaque, Atherosclerotic	BCL2	1.0	
+Depressive Disorder	BCL2	1.0	
+Dermatitis Herpetiformis	BCL2	1.0	
+Dermatitis, Atopic	BCL2	1.0	
+Contact Dermatitis	BCL2	1.0	
+Diabetes Mellitus, Type 1	BCL2	1.0	
+Diabetes mellitus type 1	BCL2	1.0	
+Diabetes mellitus type 2	BCL2	1.0	
+Diabetic Nephropathies	BCL2	1.0	
+Down Syndrome	BCL2	1.0	
+Short stature, rhizomelic, with microcephaly, micrognathia, and developmental delay	BCL2	1.0	
+Eczema	BCL2	1.0	
+Hydrops, lactic acidosis, and sideroblastic anemia	BCL2	1.0	
+Encephalitis	BCL2	1.0	
+Endometrial Neoplasms	BCL2	1.0	
+Endometrial Hyperplasia	BCL2	1.0	
+Endometriosis	BCL2	1.0	
+Eosinophilia	BCL2	1.0	
+Epilepsy	BCL2	1.0	
+Epilepsy, Temporal Lobe	BCL2	1.0	
+Esophageal Neoplasms	BCL2	1.0	
+Fatigue	BCL2	1.0	
+Intrauterine growth retardation	BCL2	1.0	
+Malignant hyperthermia susceptibility type 5	BCL2	1.0	
+Fibrosarcoma	BCL2	1.0	
+Folic Acid Deficiency	BCL2	1.0	
+Fowlpox	BCL2	1.0	
+Fuchs' Endothelial Dystrophy	BCL2	1.0	
+Neoplasm of the gallbladder	BCL2	1.0	
+Gastritis	BCL2	1.0	
+Chronic atrophic gastritis	BCL2	1.0	
+Glaucoma, Angle-Closure	BCL2	1.0	
+Glioblastoma	BCL2	1.0	
+Glioma	BCL2	1.0	
+Glomerulonephritis, Membranous	BCL2	1.0	
+IgA nephropathy, susceptibility to, 3	BCL2	1.0	
+granulosa cell tumor	BCL2	1.0	
+Graves Disease	BCL2	1.0	
+Head and Neck Neoplasms	BCL2	1.0	
+Heart Failure	BCL2	1.0	
+Hemangioma	BCL2	1.0	
+Hematological Disease	BCL2	1.0	
+Hepatitis	BCL2	1.0	
+Acute type B viral hepatitis	BCL2	1.0	
+Chronic hepatitis	BCL2	1.0	
+Hepatitis C	BCL2	1.0	
+Herpes NOS	BCL2	1.0	
+Herpes Simplex Infections	BCL2	1.0	
+Histiocytosis, Langerhans-Cell	BCL2	1.0	
+Symptomatic human immunodeficiency virus infection	BCL2	1.0	
+Hodgkin Disease	BCL2	1.0	
+Huntington's chorea	BCL2	1.0	
+Hydatidiform mole, recurrent, 2	BCL2	1.0	
+Normal pressure hydrocephalus	BCL2	1.0	
+Hypercapnia	BCL2	1.0	
+Hypercholesterolemia, autosomal dominant, type B	BCL2	1.0	
+Hyperglycemia	BCL2	1.0	
+Hyperplasia	BCL2	1.0	
+Hypertension	BCL2	1.0	
+Pulmonary hypertension, neonatal, susceptibility to	BCL2	1.0	
+Angioimmunoblastic Lymphadenopathy	BCL2	1.0	
+Immunodeficiency due to defect in CD3-gamma	BCL2	1.0	
+Fatal infectious mononucleosis	BCL2	1.0	
+Male infertility	BCL2	1.0	
+Mammary Ductal Carcinoma	BCL2	1.0	
+Inflammatory Bowel Diseases	BCL2	1.0	
+Abnormality of the intestine	BCL2	1.0	
+Intestinal Neoplasms	BCL2	1.0	
+Ischemia	BCL2	1.0	
+Keloid	BCL2	1.0	
+Actinic keratosis	BCL2	1.0	
+Seborrheic keratosis	BCL2	1.0	
+Kidney Diseases	BCL2	1.0	
+Acute kidney injury	BCL2	1.0	
+Renal neoplasm	BCL2	1.0	
+Learning Disorders	BCL2	1.0	
+Leiomyoma	BCL2	1.0	
+Leiomyosarcoma	BCL2	1.0	
+Leukemia, Lymphocytic, Chronic, B-Cell	BCL2	1.0	
+Chronic Lymphocytic Leukemia	BCL2	1.0	
+Acute Erythroblastic Leukemia	BCL2	1.0	
+Hairy Cell Leukemia	BCL2	1.0	
+Lymphoid leukemia	BCL2	1.0	
+Acute lymphoid leukemia	BCL2	1.0	
+Leukemia, Lymphocytic, Acute, L1	BCL2	1.0	
+Acute myeloid leukemia	BCL2	1.0	
+Myeloid leukemia	BCL2	1.0	
+Chronic myeloid leukemia	BCL2	1.0	
+Precursor B-Cell Lymphoblastic Leukemia-Lymphoma	BCL2	1.0	
+Prolymphocytic Leukemia	BCL2	1.0	
+Acute promyelocytic leukemia	BCL2	1.0	
+Leukemia, T-cell acute lymphoblastoid (2)	BCL2	1.0	
+Adult T-Cell Lymphoma/Leukemia	BCL2	1.0	
+Leukopenia	BCL2	1.0	
+Leukoplakia	BCL2	1.0	
+Oral leukoplakia	BCL2	1.0	
+Lichen planus pemphigoides	BCL2	1.0	
+Liposarcoma	BCL2	1.0	
+Liver Cirrhosis, Biliary	BCL2	1.0	
+Liver Cirrhosis, Alcoholic	BCL2	1.0	
+Liver Diseases	BCL2	1.0	
+Neoplasm of the liver	BCL2	1.0	
+Liver Neoplasms, Experimental	BCL2	1.0	
+Pulmonary Disease, Chronic Obstructive	BCL2	1.0	
+Chronic obstructive pulmonary disease	BCL2	1.0	
+Lung Neoplasms	BCL2	1.0	
+Lupus Vulgaris	BCL2	1.0	
+Discoid lupus erythematosus	BCL2	1.0	
+Lupus Erythematosus, Systemic	BCL2	1.0	
+Lymphatic Metastasis	BCL2	1.0	
+Lymphedema, primary, with myelodysplasia	BCL2	1.0	
+Lymphocytosis	BCL2	1.0	
+Lymphoma, Large B-Cell, Diffuse	BCL2	1.0	
+Lymphoma, Follicular	BCL2	1.0	
+Reticulosarcoma	BCL2	1.0	
+Non-Hodgkin lymphoma	BCL2	1.0	
+Lymphoproliferative disorder	BCL2	1.0	
+Waldenstrom macroglobulinemia	BCL2	1.0	
+Malaria	BCL2	1.0	
+{Gastric cancer risk after H. pylori infection}, 137215 (3)	BCL2	1.0	
+Animal Mammary Neoplasms	BCL2	1.0	
+Mammary Neoplasms, Experimental	BCL2	1.0	
+Mastocytosis	BCL2	1.0	
+Medulloblastoma	BCL2	1.0	
+Melanoma	BCL2	1.0	
+Memory Disorders	BCL2	1.0	
+Meningioma	BCL2	1.0	
+Meningitis, Pneumococcal	BCL2	1.0	
+Mesothelioma, malignant	BCL2	1.0	
+Disorders of Intracellular Cobalamin Metabolism	BCL2	1.0	
+Metaplasia	BCL2	1.0	
+Microphthalmia syndromic 6	BCL2	1.0	
+Mitral stenosis	BCL2	1.0	
+Mixed Salivary Gland Tumor	BCL2	1.0	
+Multiple Myeloma	BCL2	1.0	
+Multiple Sclerosis	BCL2	1.0	
+Spinal muscular atrophy with congenital bone fractures 2	BCL2	1.0	
+Myopathy, scapulohumeroperoneal	BCL2	1.0	
+Muscular dystrophy-dystroglycanopathy (congenital with brain and eye anomalies), type a, 11	BCL2	1.0	
+Myeloproliferative Disorders	BCL2	1.0	
+Myocardial Infarction	BCL2	1.0	
+Myocardial Reperfusion Injury	BCL2	1.0	
+Nasal polyposis	BCL2	1.0	
+Nasopharyngeal Neoplasms	BCL2	1.0	
+Neck Neoplasms	BCL2	1.0	
+Necrosis	BCL2	1.0	
+Secondary hypertriglyceridemia	BCL2	1.0	
+Neoplasm Recurrence, Local	BCL2	1.0	
+Neoplasms	BCL2	1.0	
+Embryonal neoplasm	BCL2	1.0	
+Multiple endocrine neoplasia, type 4	BCL2	1.0	
+Pathologic Neovascularization	BCL2	1.0	
+Wilms Tumor	BCL2	1.0	
+Neurodegeneration with brain iron accumulation	BCL2	1.0	
+Neuromuscular Diseases	BCL2	1.0	
+Neutropenia	BCL2	1.0	
+Melanocytic nevus	BCL2	1.0	
+Obesity	BCL2	1.0	
+Odontogenic neoplasm	BCL2	1.0	
+Osteoarthritis	BCL2	1.0	
+Skeletal dysplasia	BCL2	1.0	
+Osteoporosis	BCL2	1.0	
+Ovarian Diseases	BCL2	1.0	
+Pancreatic Neoplasms	BCL2	1.0	
+Papilloma	BCL2	1.0	
+Neoplasm of the parathyroid gland	BCL2	1.0	
+Muscle weakness	BCL2	1.0	
+Parkinson Disease	BCL2	1.0	
+{Pemphigoid, susceptibility to} (2)	BCL2	1.0	
+Peptic ulcer	BCL2	1.0	
+Peripheral neuropathy, myopathy, hoarseness, and hearing loss	BCL2	1.0	
+Pheochromocytoma	BCL2	1.0	
+Pituitary Neoplasms	BCL2	1.0	
+Plasmacytoma	BCL2	1.0	
+Pleural effusion	BCL2	1.0	
+Pleuritis	BCL2	1.0	
+Pneumonia	BCL2	1.0	
+Polycystic Ovary Syndrome	BCL2	1.0	
+Familial adenomatous polyposis 1	BCL2	1.0	
+polyps	BCL2	1.0	
+Postoperative Complications	BCL2	1.0	
+Precancerous Conditions	BCL2	1.0	
+Prostatic Diseases	BCL2	1.0	
+Prostatic Neoplasms	BCL2	1.0	
+Psoriasis	BCL2	1.0	
+Pterygium	BCL2	1.0	
+Pulmonary edema	BCL2	1.0	
+Rabies (disorder)	BCL2	1.0	
+Neoplasm of the rectum	BCL2	1.0	
+Renal Insufficiency, Chronic	BCL2	1.0	
+Reperfusion Injury	BCL2	1.0	
+Retinal degeneration	BCL2	1.0	
+Retinopathy	BCL2	1.0	
+Retinoblastoma	BCL2	1.0	
+Rhabdomyosarcoma alveolar	BCL2	1.0	
+Salivary gland neoplasm	BCL2	1.0	
+Kaposi's sarcoma	BCL2	1.0	
+Hepatosplenic schistosomiasis	BCL2	1.0	
+Schizophrenia	BCL2	1.0	
+Circumscribed scleroderma	BCL2	1.0	
+Scleroderma	BCL2	1.0	
+Scoliosis	BCL2	1.0	
+Seizures, Febrile	BCL2	1.0	
+Testicular seminoma	BCL2	1.0	
+Septicemia	BCL2	1.0	
+Shock, Septic	BCL2	1.0	
+Abnormality of the skin	BCL2	1.0	
+Skin lesion	BCL2	1.0	
+Neoplasm of the skin	BCL2	1.0	
+Skin nodule	BCL2	1.0	
+Soft Tissue Neoplasms	BCL2	1.0	
+Splenomegaly	BCL2	1.0	
+Status epilepticus	BCL2	1.0	
+Stomach Neoplasms	BCL2	1.0	
+Gastric ulcer	BCL2	1.0	
+Posttraumatic stress disorder	BCL2	1.0	
+Stroke	BCL2	1.0	
+Superinfection	BCL2	1.0	
+Synovial sarcoma	BCL2	1.0	
+Testicular Neoplasms	BCL2	1.0	
+Thromboangiitis Obliterans	BCL2	1.0	
+Thymoma	BCL2	1.0	
+Thyroid Diseases	BCL2	1.0	
+Thyroid Neoplasms	BCL2	1.0	
+Thyroiditis	BCL2	1.0	
+Neoplasm of the tongue	BCL2	1.0	
+Chromosomal translocation	BCL2	1.0	
+Trisomy	BCL2	1.0	
+Tuberculosis	BCL2	1.0	
+Unipolar Depression	BCL2	1.0	
+Urticaria Pigmentosa	BCL2	1.0	
+Uterine leiomyoma	BCL2	1.0	
+Varicose Ulcer	BCL2	1.0	
+Vasculitis	BCL2	1.0	
+Viral hepatitis	BCL2	1.0	
+Virus Diseases	BCL2	1.0	
+Visceromegaly	BCL2	1.0	
+Xeroderma pigmentosum, group E	BCL2	1.0	
+B-cell lymphoma	BCL2	1.0	
+Germinal Center B-Cell-Like Diffuse Large B-Cell Lymphoma	BCL2	1.0	
+Lymphoma, Large-Cell, Follicular	BCL2	1.0	
+Plasmablastic lymphoma	BCL2	1.0	
+Precursor cell lymphoblastic lymphoma	BCL2	1.0	
+T-cell lymphoma	BCL2	1.0	
+Cutaneous T-cell lymphoma	BCL2	1.0	
+Peripheral T-Cell Lymphoma	BCL2	1.0	
+Pleural Effusion, Malignant	BCL2	1.0	
+Motor Neuron Disease	BCL2	1.0	
+Lymphoma, AIDS-Related	BCL2	1.0	
+Severe combined immunodeficiency due to ADA deficiency	BCL2	1.0	
+Li-Fraumeni syndrome	BCL2	1.0	
+Synovial Cyst	BCL2	1.0	
+Acute leukemia	BCL2	1.0	
+Chronic gastritis	BCL2	1.0	
+Monocytosis	BCL2	1.0	
+Cataract, autosomal recessive congenital 5	BCL2	1.0	
+Benign neoplasm of other endocrine glands	BCL2	1.0	
+Sicca Syndrome	BCL2	1.0	
+Epstein-Barr Virus Infections	BCL2	1.0	
+Abnormality of the lymph nodes	BCL2	1.0	
+Squamous cell carcinoma of lung	BCL2	1.0	
+Small cell lung cancer	BCL2	1.0	
+Rectal Carcinoma	BCL2	1.0	
+Thyroid adenoma	BCL2	1.0	
+Dermal atrophy	BCL2	1.0	
+Oral Cavity Carcinoma	BCL2	1.0	
+Acute myocardial ischemia	BCL2	1.0	
+Cutaneous malignant melanoma 3	BCL2	1.0	
+Adenocarcinoma of lung	BCL2	1.0	
+Esophageal carcinoma	BCL2	1.0	
+Complete trisomy 18 syndrome	BCL2	1.0	
+Primary pulmonary hypertension	BCL2	1.0	
+Cancer of mouth	BCL2	1.0	
+Malignant neoplasm of oropharynx	BCL2	1.0	
+Nasopharyngeal cancer recurrent	BCL2	1.0	
+Malignant neoplasm of gallbladder	BCL2	1.0	
+Uterine Corpus Cancer	BCL2	1.0	
+Secondary malignant neoplasm of lung	BCL2	1.0	
+Acute myocardial infarction	BCL2	1.0	
+Adrenoleukodystrophy	BCL2	1.0	
+Acute hepatic failure	BCL2	1.0	
+Dermatitis, Allergic Contact	BCL2	1.0	
+Fibroadenoma of the breast	BCL2	1.0	
+Glomerulosclerosis, Focal Segmental	BCL2	1.0	
+Tumor Progression	BCL2	1.0	
+Abnormal QRS complex	BCL2	1.0	
+Undifferentiated carcinoma	BCL2	1.0	
+Atypical nevus	BCL2	1.0	
+Germ cell neoplasia	BCL2	1.0	
+Lichen Planus, Oral	BCL2	1.0	
+Anaplastic large cell lymphoma, ALK negative	BCL2	1.0	
+Hepatoblastoma	BCL2	1.0	
+Adrenocortical adenoma	BCL2	1.0	
+Adenocarcinoma, Clear Cell	BCL2	1.0	
+Carcinoma, Endometrioid	BCL2	1.0	
+Medullary carcinoma	BCL2	1.0	
+Carcinoma, Neuroendocrine	BCL2	1.0	
+Carcinoma, Signet Ring Cell	BCL2	1.0	
+Cholangiocarcinoma	BCL2	1.0	
+High grade serous carcinoma	BCL2	1.0	
+Cervical intraepithelial neoplasia (Cervical dysplasia)	BCL2	1.0	
+Ganglioneuroblastoma	BCL2	1.0	
+Squamous Cell Neoplasms	BCL2	1.0	
+Neuroendocrine neoplasm	BCL2	1.0	
+Adult Acute Myeloblastic Leukemia	BCL2	1.0	
+Intraocular melanoma	BCL2	1.0	
+Lip and Oral Cavity Carcinoma	BCL2	1.0	
+Metastatic malignant neoplasm to brain	BCL2	1.0	
+Systemic mastocytosis with associated clonal, hematologic non-mast-cell lineage disease	BCL2	1.0	
+Comedone	BCL2	1.0	
+Combined Hepatocellular Carcinoma and Cholangiocarcinoma	BCL2	1.0	
+Malignant neoplasm of female breast	BCL2	1.0	
+Gallbladder Carcinoma	BCL2	1.0	
+Renal dysplasia	BCL2	1.0	
+Pancreatic Carcinoma	BCL2	1.0	
+Gastrointestinal stromal tumor	BCL2	1.0	
+Hereditary pancreatitis	BCL2	1.0	
+Anaplastic thyroid carcinoma	BCL2	1.0	
+Medullary thyroid carcinoma	BCL2	1.0	
+Papillary thyroid carcinoma	BCL2	1.0	
+Hepatic fibrosis	BCL2	1.0	
+Scar conditions and fibrosis of skin	BCL2	1.0	
+Abnormality of blood and blood-forming tissues	BCL2	1.0	
+Impotence	BCL2	1.0	
+Malignant neoplasm of lung	BCL2	1.0	
+Acute Lung Injury	BCL2	1.0	
+Neoplasm, Residual	BCL2	1.0	
+Primary cutaneous marginal zone B-cell lymphoma	BCL2	1.0	
+Disease Progression	BCL2	1.0	
+Sepsis	BCL2	1.0	
+Growth abnormality	BCL2	1.0	
+Miller Dieker syndrome	BCL2	1.0	
+Abnormality of the digestive system	BCL2	1.0	
+Vesicular Stomatitis	BCL2	1.0	
+Glomerulopathy	BCL2	1.0	
+Generalized anxiety disorder	BCL2	1.0	
+Oculopharyngeal muscular dystrophy	BCL2	1.0	
+Carcinoma breast stage IV	BCL2	1.0	
+Inflammatory Breast Carcinoma	BCL2	1.0	
+Gastric Adenocarcinoma	BCL2	1.0	
+Prostate cancer recurrent	BCL2	1.0	
+Metastatic melanoma	BCL2	1.0	
+Cancer of Head and Neck	BCL2	1.0	
+Esophageal Squamous Cell Carcinoma	BCL2	1.0	
+Adenocarcinoma Of Esophagus	BCL2	1.0	
+Gallbladder adenocarcinoma	BCL2	1.0	
+Cervical Adenocarcinoma	BCL2	1.0	
+Transitional cell carcinoma of the bladder	BCL2	1.0	
+Clear cell renal cell carcinoma	BCL2	1.0	
+Solid tumour	BCL2	1.0	
+Oropharyngeal squamous cell carcinoma	BCL2	1.0	
+Laryngeal Squamous Cell Carcinoma	BCL2	1.0	
+Uterine leiomyosarcoma	BCL2	1.0	
+Diffuse Astrocytoma	BCL2	1.0	
+Primary central nervous system lymphoma	BCL2	1.0	
+Pancreatic adenocarcinoma	BCL2	1.0	
+Carcinoma of cervix	BCL2	1.0	
+Tumor necrosis	BCL2	1.0	
+Squamous intraepithelial lesion	BCL2	1.0	
+Lymphoid hyperplasia	BCL2	1.0	
+Carcinoid tumor no ICD-O subtype	BCL2	1.0	
+Malignant Fibrous Histiocytoma	BCL2	1.0	
+Anaplastic astrocytoma	BCL2	1.0	
+Anaplastic Oligodendroglioma	BCL2	1.0	
+Malignant lymphoma, lymphocytic, intermediate differentiation, diffuse	BCL2	1.0	
+Adenocarcinoma of colon	BCL2	1.0	
+Thyroid associated opthalmopathies	BCL2	1.0	
+Chronic liver disease	BCL2	1.0	
+Endometriosis of uterus	BCL2	1.0	
+Mitochondrial DNA depletion syndrome, hepatocerebral form	BCL2	1.0	
+Hepatic cancer metastatic	BCL2	1.0	
+Malignant mesothelioma	BCL2	1.0	
+Malignant neoplasm of adrenal cortex	BCL2	1.0	
+Malignant neoplasm of pancreas	BCL2	1.0	
+Disseminated Malignant Neoplasm	BCL2	1.0	
+Cervical intraepithelial neoplasia grade 1	BCL2	1.0	
+Cervical intraepithelial neoplasia grade 2	BCL2	1.0	
+Squamous cell carcinoma of tongue	BCL2	1.0	
+Splenic Marginal Zone B-Cell Lymphoma	BCL2	1.0	
+Malignant tumor of prostate	BCL2	1.0	
+Hematopoietic Neoplasms	BCL2	1.0	
+Hematological neoplasm	BCL2	1.0	
+Endotoxemia	BCL2	1.0	
+Knee osteoarthritis	BCL2	1.0	
+{Systemic lupus erythematosus, susceptibility to, 8} (2)	BCL2	1.0	
+Trisomy 12	BCL2	1.0	
+Follicular neoplasm	BCL2	1.0	
+Endometrial carcinoma	BCL2	1.0	
+Lymphadenopathy	BCL2	1.0	
+Meningitis	BCL2	1.0	
+Dementia	BCL2	1.0	
+Nevus	BCL2	1.0	
+Abnormality of the nervous system	BCL2	1.0	
+Recurrent tumor	BCL2	1.0	
+Oropharynx (excludes nasopharynx)	BCL2	1.0	
+Neurodegenerative Diseases	BCL2	1.0	
+Hepatitis C, Chronic	BCL2	1.0	
+Mood Disorders	BCL2	1.0	
+Mixed cryoglobulinemia	BCL2	1.0	
+Hypervolemia	BCL2	1.0	
+Malignant tumor of esophagus	BCL2	1.0	
+Thyroid carcinoma	BCL2	1.0	
+Epithelioma	BCL2	1.0	
+Squamous cell carcinoma of the skin	BCL2	1.0	
+Malignant Glioma	BCL2	1.0	
+Tongue Carcinoma	BCL2	1.0	
+Osteosarcoma	BCL2	1.0	
+Laryngeal carcinoma	BCL2	1.0	
+Carcinogenesis	BCL2	1.0	
+Leukemogenesis	BCL2	1.0	
+Tumor Initiation	BCL2	1.0	
+Prostate carcinoma	BCL2	1.0	
+Ovarian epithelial cancer	BCL2	1.0	
+invasive cancer	BCL2	1.0	
+Progressive Neoplastic Disease	BCL2	1.0	
+Refractory cancer	BCL2	1.0	
+Complete hydatidiform mole	BCL2	1.0	
+Breast carcinoma	BCL2	1.0	
+Lung cancer	BCL2	1.0	
+Malignant gastrointestinal tract tumors	BCL2	1.0	
+Nephronophthisis	BCL2	1.0	
+Carcinoma of colon	BCL2	1.0	
+Stomach cancer	BCL2	1.0	
+Bladder carcinoma	BCL2	1.0	
+Skin carcinoma	BCL2	1.0	
+Neuroblastoma	BCL2	1.0	
+Microalbuminuria	BCL2	1.0	
+Middle Cerebral Artery Occlusion	BCL2	1.0	
+Infarction, Middle Cerebral Artery	BCL2	1.0	
+Malignant neoplasm of kidney	BCL2	1.0	
+gastritis h pylori	BCL2	1.0	
+Chronic lung disease	BCL2	1.0	
+early pregnancy	BCL2	1.0	
+Well Differentiated Oligodendroglioma	BCL2	1.0	
+Adult Acute Lymphocytic Leukemia	BCL2	1.0	
+ {Aerodigestive tract cancer, squamous cell, alcohol-related, protection against} (3)	BCL2	1.0	
+Malignant peripheral nerve sheath tumor with rhabdomyoblastic differentiation	BCL2	1.0	
+Brain Infarction	BCL2	1.0	
+Hypoxia-Ischemia, Brain	BCL2	1.0	
+Lewy Body Disease	BCL2	1.0	
+Aicardi Goutieres syndrome 1	BCL2	1.0	
+Pleural Mesothelioma	BCL2	1.0	
+Adenomatous polyp of colon	BCL2	1.0	
+Helicobacter pylori infection	BCL2	1.0	
+Localized skin lesion	BCL2	1.0	
+Carcinoma in situ of uterine cervix	BCL2	1.0	
+Bipolar I disorder	BCL2	1.0	
+Invasive breast carcinoma	BCL2	1.0	
+Diabetic Cardiomyopathies	BCL2	1.0	
+Rhabdoid Tumor of the Kidney	BCL2	1.0	
+Small Lymphocytic Lymphoma	BCL2	1.0	
+Hyperkeratosis	BCL2	1.0	
+Advanced cancer	BCL2	1.0	
+Intraepithelial Neoplasia	BCL2	1.0	
+Cerebral ischemia	BCL2	1.0	
+Ovarian Neoplasms	BCL2	1.0	
+cancer recurrence	BCL2	1.0	
+Renal ischaemia	BCL2	1.0	
+precancerous lesions	BCL2	1.0	
+Acute Coronary Syndrome	BCL2	1.0	
+Ovarian adenocarcinoma	BCL2	1.0	
+Oxyphilic Adenoma	BCL2	1.0	
+Drug Resistant Epilepsy	BCL2	1.0	
+Invasive Ductal Breast Carcinoma	BCL2	1.0	
+Gestational trophoblastic disease	BCL2	1.0	
+BREAST-OVARIAN CANCER, FAMILIAL, SUSCEPTIBILITY TO, 4	BCL2	1.0	
+Endometrial adenocarcinoma	BCL2	1.0	
+High-Grade Prostatic Intraepithelial Neoplasia	BCL2	1.0	
+Squamous cell carcinoma of the head and neck	BCL2	1.0	
+Diamond-Blackfan anemia	BCL2	1.0	
+Sarcoma, Ewing	BCL2	1.0	
+Decreased body weight	BCL2	1.0	
+Persistent infection	BCL2	1.0	
+Atypical teratoid/rhabdoid tumor	BCL2	1.0	
+Major depressive disorder	BCL2	1.0	
+Mild cognitive impairment	BCL2	1.0	
+Cutaneous lymphoma	BCL2	1.0	
+Chronic leukemia	BCL2	1.0	
+Primary Effusion Lymphoma	BCL2	1.0	
+Mediastinal (Thymic) Large B-Cell Lymphoma	BCL2	1.0	
+B Acute Lymphoblastic Leukemia with t(9;22)(q34;q11.2); BCR-ABL1	BCL2	1.0	
+Myeloproliferative disorder (2)	BCL2	1.0	
+Adenoma of large intestine	BCL2	1.0	
+Eosinophilic disorder	BCL2	1.0	
+Adenocarcinoma of the large intestine	BCL2	1.0	
+Hormone refractory prostate cancer	BCL2	1.0	
+Autoimmune lymphoproliferative syndrome, type 2	BCL2	1.0	
+Aggressive Non-Hodgkin Lymphoma	BCL2	1.0	
+Childhood Leukemia	BCL2	1.0	
+Gastric Mucosa-Associated Lymphoid Tissue Lymphoma	BCL2	1.0	
+Infiltrating Cervical Carcinoma	BCL2	1.0	
+Pancreatic Ductal Adenocarcinoma	BCL2	1.0	
+Primary Carcinoma	BCL2	1.0	
+Sporadic Breast Carcinoma	BCL2	1.0	
+Dilated cardiomyopathy 1A	BCL2	1.0	
+Benign melanocytic nevus	BCL2	1.0	
+Mammary Tumorigenesis	BCL2	1.0	
+Cancer Cell Growth	BCL2	1.0	
+Skin Carcinogenesis	BCL2	1.0	
+Tumor Angiogenesis	BCL2	1.0	
+Xenograft Model	BCL2	1.0	
+Colorectal cancer	BCL2	1.0	
+Ductal Carcinoma	BCL2	1.0	
+Neoplasms, Intracranial	BCL2	1.0	
+Rash and Dermatitis Adverse Event Associated with Chemoradiation	BCL2	1.0	
+Non-Malignant Ascites Adverse Event	BCL2	1.0	
+Chronic kidney disease	BCL2	1.0	
+Glioblastoma multiforme	BCL2	1.0	
+Disorder characterized by eosinophilia	BCL2	1.0	
+androgen independent prostate cancer	BCL2	1.0	
+tumor vasculature	BCL2	1.0	
+Abnormality of T cell count	BCL2	1.0	
+Benign Prostatic Hyperplasia	BCL2	1.0	
+Non-Neoplastic Disorder	BCL2	1.0	
+Severe Sepsis	BCL2	1.0	
+Meningioma, benign, no ICD-O subtype	BCL2	1.0	
+Abnormality of temperature regulation	BCL2	1.0	
+Multicystic renal dysplasia, bilateral	BCL2	1.0	
+Glucocorticoid resistance, generalized	BCL2	1.0	
+Severe congenital neutropenia	BCL2	1.0	
+Amyotrophic lateral sclerosis type 1	BCL2	1.0	
+Amyotrophic Lateral Sclerosis, Sporadic	BCL2	1.0	
+Malformation of cortical development	BCL2	1.0	
+Coronary Artery Disease	BCL2	1.0	
+T-cell acute lymphoblastic leukemias	BCL2	1.0	
+Precursor Cell Lymphoblastic Leukemia-Lymphoma	BCL2	1.0	
+Photoreceptor degeneration	BCL2	1.0	
+Leukemia, B-Cell	BCL2	1.0	
+Hepatocellular carcinoma	BCL2	1.0	
+Oropharyngeal Carcinoma	BCL2	1.0	
+Abnormality of fluid regulation	BCL2	1.0	
+Thrombotic Microangiopathies	BCL2	1.0	
+Hypergranular promyelocytic leukemia	BCL2	1.0	
+Nasopharyngeal carcinoma, susceptibility to, 3	BCL2	1.0	
+Clear-cell metastatic renal cell carcinoma	BCL2	1.0	
+Cerebral Hemorrhage	BCL2	1.0	
+Pulmonary arterial hypertension	BCL2	1.0	
+Secondary malignant neoplasm of pancreas	BCL2	1.0	
+Bilateral cataracts (disorder)	BCL2	1.0	
+Myelodysplastic syndrome	BCL2	1.0	
+Hydatidiform mole, recurrent, 1, 231090 (3)	BCL2	1.0	
+Progressive cGVHD	BCL2	1.0	
+Triple Negative Breast Neoplasms	BCL2	1.0	
+Lymphosarcoma	BCL2	1.0	
+Multicystic kidney dysplasia	BCL2	1.0	
+Experimental Organism Basal Cell Carcinoma	BCL2	1.0	
+Interstitial fibrosis	BCL2	1.0	
+Abnormality of the respiratory system	BCL2	1.0	
+Abnormality of abdomen morphology	BCL2	1.0	
+Abnormality of the immune system	BCL2	1.0	
+Abnormality of lung morphology	BCL2	1.0	
+Abnormality of the abdominal organs	BCL2	1.0	
+Morphological abnormality of the central nervous system	BCL2	1.0	
+Abnormality of metabolism/homeostasis	BCL2	1.0	
+Abnormality of the lymphatic system	BCL2	1.0	
+Increased inflammatory response	BCL2	1.0	
+Abnormal inflammatory response	BCL2	1.0	
+Abnormality of nervous system morphology	BCL2	1.0	
+Abnormal respiratory system morphology	BCL2	1.0	
+Neoplasm by anatomical site	BCL2	1.0	
+Abnormality of skin morphology	BCL2	1.0	
+Abnormality of immune system physiology	BCL2	1.0	
+Abnormality of body weight	BCL2	1.0	
+Abnormality of the pleura	BCL2	1.0	
+Abnormality of the spleen	BCL2	1.0	
+Abnormality of the integument	BCL2	1.0	
+Necrotizing Enterocolitis	BCL2	1.0	

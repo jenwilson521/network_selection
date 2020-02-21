@@ -1,0 +1,4 @@
+node1	node2	edge_score	
+DB00083	SNAP25	1.0	
+DB00083	RHOB	1.0	
+

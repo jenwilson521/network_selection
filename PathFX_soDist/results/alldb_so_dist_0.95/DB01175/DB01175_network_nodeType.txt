@@ -1,0 +1,30 @@
+node_name	node_type	
+DB01175	drug	
+SLC6A3	drug_target	
+SLC6A2	drug_target	
+CYP2D6	drug_target	
+SLC6A4	drug_target	
+ADRA1A	drug_target	
+CHRM1	drug_target	
+CYP2C19	drug_target	
+HRH1	drug_target	
+CYP3A4	drug_target	
+Methamphetamine abuse	phenotype	
+Heroin Dependence	phenotype	
+Chronic schizophrenia	phenotype	
+Acute postoperative pain	phenotype	
+Primary malignant neoplasm of liver	phenotype	
+Behavior Disorders	phenotype	
+Tardive Dyskinesia	phenotype	
+Osteochondritis dissecans	phenotype	
+Congenital long QT syndrome	phenotype	
+Depressive Symptoms	phenotype	
+Orofacial dyskinesia	phenotype	
+Personality disorder	phenotype	
+Drug Allergy	phenotype	
+Obsessive-compulsive disorder	phenotype	
+Fibromyalgia	phenotype	
+Prenatal Exposure Delayed Effects	phenotype	
+Nausea	phenotype	
+Memory Disorders	phenotype	
+CNS symptom	phenotype	

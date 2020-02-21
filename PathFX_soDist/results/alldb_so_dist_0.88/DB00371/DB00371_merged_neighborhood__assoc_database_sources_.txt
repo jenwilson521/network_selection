@@ -1,0 +1,22 @@
+Gene	CUI	Source Databases	
+CYP2C19	C0023891	Liver Cirrhosis, Alcoholic	DisGeNet	
+CYP2E1	C0023891	Liver Cirrhosis, Alcoholic	DisGeNet	
+GABRA1	C0023891	Liver Cirrhosis, Alcoholic	DisGeNet	
+GABRA6	C0023891	Liver Cirrhosis, Alcoholic	DisGeNet	
+CYP2C19	C0032229	Pleural Neoplasms	DisGeNet	
+CYP2E1	C0032229	Pleural Neoplasms	DisGeNet	
+CYP2E1	C0085762	Alcohol abuse	DisGeNet	
+GABRA1	C0085762	Alcohol abuse	DisGeNet	
+GABRA6	C0085762	Alcohol abuse	DisGeNet	
+CYP2C19	C0751122	Severe myoclonic epilepsy in infancy	DisGeNet	
+GABRA1	C0751122	Severe myoclonic epilepsy in infancy	DisGeNet	
+CYP2C19	C0919532	Genomic Instability	DisGeNet	
+CYP2E1	C0919532	Genomic Instability	DisGeNet	
+CYP2C19	C0745744	End Stage Liver Disease	DisGeNet	
+CYP2E1	C0745744	End Stage Liver Disease	DisGeNet	
+CYP2C19	C0038354	Stomach Diseases	DisGeNet	
+CYP2E1	C0038354	Stomach Diseases	DisGeNet	
+GABRA1	C0270850	Idiopathic generalized epilepsy	ClinVar,DisGeNet	
+GABRA6	C0270850	Idiopathic generalized epilepsy	DisGeNet	
+CYP2C19	C0270736	Essential tremor	DisGeNet	
+GABRA1	C0270736	Essential tremor	DisGeNet	

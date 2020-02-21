@@ -1,0 +1,6 @@
+node_name	node_type	
+DB00400	drug	
+CYP3A4	drug_target	
+CYP1A2	drug_target	
+CYP2D6	drug_target	
+KRT12	drug_target	

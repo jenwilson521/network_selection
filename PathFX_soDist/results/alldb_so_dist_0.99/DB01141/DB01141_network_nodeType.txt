@@ -1,0 +1,4 @@
+node_name	node_type	
+DB01141	drug	
+ARSA	drug_target	
+COMT	drug_target	

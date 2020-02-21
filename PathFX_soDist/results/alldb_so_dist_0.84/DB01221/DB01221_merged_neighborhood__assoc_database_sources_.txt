@@ -1,0 +1,60 @@
+Gene	CUI	Source Databases	
+ANKK1	C0019337	Heroin Dependence	DisGeNet	
+CYP3A4	C0019337	Heroin Dependence	DisGeNet	
+DRD2	C0019337	Heroin Dependence	DisGeNet	
+HTR3A	C0019337	Heroin Dependence	DisGeNet	
+OPRD1	C0019337	Heroin Dependence	DisGeNet	
+OPRM1	C0019337	Heroin Dependence	DisGeNet	
+SLC6A2	C0019337	Heroin Dependence	DisGeNet	
+ANKK1	C0524662	Opiate Addiction	DisGeNet	
+DRD2	C0524662	Opiate Addiction	DisGeNet	
+HTR3A	C0524662	Opiate Addiction	DisGeNet	
+OPRD1	C0524662	Opiate Addiction	DisGeNet	
+OPRM1	C0524662	Opiate Addiction	DisGeNet	
+ANKK1	C0600427	Cocaine Dependence	DisGeNet	
+BCHE	C0600427	Cocaine Dependence	DisGeNet	
+DRD2	C0600427	Cocaine Dependence	DisGeNet	
+OPRD1	C0600427	Cocaine Dependence	DisGeNet	
+OPRM1	C0600427	Cocaine Dependence	DisGeNet	
+ANKK1	C0031347	Pharyngeal Neoplasms	DisGeNet	
+CYP2C8	C0031347	Pharyngeal Neoplasms	DisGeNet	
+CYP2C9	C0031347	Pharyngeal Neoplasms	DisGeNet	
+CYP3A4	C0031347	Pharyngeal Neoplasms	DisGeNet	
+DRD2	C0031347	Pharyngeal Neoplasms	DisGeNet	
+BCHE	C0013146	Methamphetamine abuse	DisGeNet	
+CYP2B6	C0013146	Methamphetamine abuse	DisGeNet	
+CYP2C9	C0013146	Methamphetamine abuse	DisGeNet	
+DRD2	C0013146	Methamphetamine abuse	DisGeNet	
+OPRM1	C0013146	Methamphetamine abuse	DisGeNet	
+SLC6A2	C0013146	Methamphetamine abuse	DisGeNet	
+ANKK1	C0028043	Nicotine Dependence	DisGeNet	
+CYP2B6	C0028043	Nicotine Dependence	DisGeNet	
+DRD2	C0028043	Nicotine Dependence	DisGeNet	
+GRIN3A	C0028043	Nicotine Dependence	DisGeNet	
+HTR3A	C0028043	Nicotine Dependence	DisGeNet	
+OPRM1	C0028043	Nicotine Dependence	DisGeNet	
+CYP2C9	C0027497	Nausea	DisGeNet	
+DRD2	C0027497	Nausea	DisGeNet	
+HTR3A	C0027497	Nausea	DisGeNet	
+OPRM1	C0027497	Nausea	DisGeNet	
+ANKK1	C0023055	Neoplasm of the larynx	DisGeNet	
+CYP2C8	C0023055	Neoplasm of the larynx	DisGeNet	
+CYP2C9	C0023055	Neoplasm of the larynx	DisGeNet	
+CYP3A4	C0023055	Neoplasm of the larynx	DisGeNet	
+DRD2	C0023055	Neoplasm of the larynx	DisGeNet	
+ANKK1	C1510472	Drug Dependence	DisGeNet	
+DRD2	C1510472	Drug Dependence	DisGeNet	
+OPRD1	C1510472	Drug Dependence	DisGeNet	
+OPRM1	C1510472	Drug Dependence	DisGeNet	
+BCHE	C0877008	Enzyme inhibition disorder	DisGeNet	
+CYP2B6	C0877008	Enzyme inhibition disorder	DisGeNet	
+CYP3A4	C0877008	Enzyme inhibition disorder	DisGeNet	
+CYP3A4	C0011206	Cocaine delirium	DisGeNet	
+DRD2	C0011206	Cocaine delirium	DisGeNet	
+GRIN3A	C0011206	Cocaine delirium	DisGeNet	
+DRD2	C0687132	heavy drinking	DisGeNet	
+HTR3A	C0687132	heavy drinking	DisGeNet	
+OPRM1	C0687132	heavy drinking	DisGeNet	
+ANKK1	C0001956	alcohol use disorder	DisGeNet	
+DRD2	C0001956	alcohol use disorder	DisGeNet	
+OPRM1	C0001956	alcohol use disorder	DisGeNet	

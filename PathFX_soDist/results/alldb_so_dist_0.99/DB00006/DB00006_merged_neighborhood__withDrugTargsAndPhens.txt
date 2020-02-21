@@ -1,0 +1,4 @@
+node1	node2	edge_score	
+DB00006	MPO	1.0	
+DB00006	F2	1.0	
+

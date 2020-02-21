@@ -1,0 +1,3 @@
+node1	node2	edge_score	
+DB01164	S100A13	1.0	
+

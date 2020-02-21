@@ -1,0 +1,6 @@
+node1	node2	edge_score	
+DB08604	NR1I3	1.0	
+DB08604	PPARG	1.0	
+DB08604	AR	1.0	
+DB08604	NR1I2	1.0	
+

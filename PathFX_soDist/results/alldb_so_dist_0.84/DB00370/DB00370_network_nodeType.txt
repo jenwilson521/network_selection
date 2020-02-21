@@ -1,0 +1,39 @@
+node_name	node_type	
+DB00370	drug	
+CYP1A2	drug_target	
+CYP2D6	drug_target	
+SLC6A4	drug_target	
+ADRA2A	drug_target	
+HTR2A	drug_target	
+HTR2C	drug_target	
+HRH1	drug_target	
+OPRK1	drug_target	
+CYP3A4	drug_target	
+Chronic schizophrenia	phenotype	
+Tardive Dyskinesia	phenotype	
+Orofacial dyskinesia	phenotype	
+Acute postoperative pain	phenotype	
+Dyskinesia, Drug-Induced	phenotype	
+Nausea	phenotype	
+Bulimia	phenotype	
+CNS symptom	phenotype	
+As If Personality	phenotype	
+Heroin Dependence	phenotype	
+Puerperal Disorders	phenotype	
+Seasonal Affective Disorder	phenotype	
+Depressive Symptoms	phenotype	
+Eating disorder	phenotype	
+Personality disorder	phenotype	
+Bulimia nervosa 1	phenotype	
+Substance Withdrawal Syndrome	phenotype	
+Low back pain	phenotype	
+Agitation	phenotype	
+Chronic Fatigue Syndrome	phenotype	
+Weight Loss Adverse Event	phenotype	
+Alcohol abuse	phenotype	
+Polydipsia	phenotype	
+Obstructive sleep apnea	phenotype	
+Methamphetamine abuse	phenotype	
+Cocaine Dependence	phenotype	
+Abnormality of the basal ganglia	phenotype	
+Adverse drug events and drug allergies	phenotype	

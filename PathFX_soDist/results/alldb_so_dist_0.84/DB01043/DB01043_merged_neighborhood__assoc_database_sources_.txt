@@ -1,0 +1,19 @@
+Gene	CUI	Source Databases	
+ANKK1	C0003944	As If Personality	DisGeNet	
+CYP2A6	C0003944	As If Personality	DisGeNet	
+DRD2	C0003944	As If Personality	DisGeNet	
+HTR3A	C0003944	As If Personality	DisGeNet	
+ANKK1	C0028043	Nicotine Dependence	DisGeNet	
+CYP2A6	C0028043	Nicotine Dependence	DisGeNet	
+CYP2B6	C0028043	Nicotine Dependence	DisGeNet	
+DRD2	C0028043	Nicotine Dependence	DisGeNet	
+HTR3A	C0028043	Nicotine Dependence	DisGeNet	
+ANKK1	C0524662	Opiate Addiction	DisGeNet	
+DRD2	C0524662	Opiate Addiction	DisGeNet	
+HTR3A	C0524662	Opiate Addiction	DisGeNet	
+CYP2C19	C0027497	Nausea	DisGeNet	
+DRD2	C0027497	Nausea	DisGeNet	
+HTR3A	C0027497	Nausea	DisGeNet	
+CYP2C19	C0013395	Dyspepsia	DisGeNet	
+DRD2	C0013395	Dyspepsia	DisGeNet	
+HTR3A	C0013395	Dyspepsia	DisGeNet	

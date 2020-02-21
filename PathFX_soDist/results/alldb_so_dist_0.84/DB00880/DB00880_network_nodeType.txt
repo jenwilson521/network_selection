@@ -1,0 +1,127 @@
+node_name	node_type	
+DB00880	drug	
+CA2	drug_target	
+SLC22A6	drug_target	
+CA1	drug_target	
+SLC12A3	drug_target	
+Abdominal pain	phenotype	
+EMG: myopathic abnormalities	phenotype	
+Abnormality of acid-base homeostasis	phenotype	
+Alkalosis	phenotype	
+Arteriosclerosis	phenotype	
+Atherosclerosis	phenotype	
+Brain neoplasm	phenotype	
+Breast-ovarian cancer, familial 1	phenotype	
+Non-small cell lung carcinoma	phenotype	
+Renal cell carcinoma, nonpapillary	phenotype	
+Squamous cell carcinoma	phenotype	
+Chordoma	phenotype	
+Constitutional symptom	phenotype	
+Diabetes Mellitus, Type 1	phenotype	
+Diabetes mellitus type 2	phenotype	
+Diabetic Nephropathies	phenotype	
+Diabetic Retinopathy	phenotype	
+Diarrhea 8, secretory sodium, congenital	phenotype	
+Epilepsy	phenotype	
+Epithelial hyperplasia of skin	phenotype	
+Glioblastoma	phenotype	
+Hamartoma	phenotype	
+Hirschsprung Disease	phenotype	
+Hypercalciuria	phenotype	
+Hypertension	phenotype	
+Hypokalemia	phenotype	
+Kidney Diseases	phenotype	
+Kidney Failure, Chronic	phenotype	
+Acute myeloid leukemia	phenotype	
+Liver Cirrhosis, Biliary	phenotype	
+Medulloblastoma	phenotype	
+Melanoma	phenotype	
+Disorders of Intracellular Cobalamin Metabolism	phenotype	
+Muscle cramps	phenotype	
+Tubulointerstitial nephritis	phenotype	
+Nephrocalcinosis	phenotype	
+Osteoporosis	phenotype	
+Pain	phenotype	
+Muscle weakness	phenotype	
+Paresthesia	phenotype	
+Peripheral neuropathy, myopathy, hoarseness, and hearing loss	phenotype	
+Polyuria	phenotype	
+Renal Insufficiency, Chronic	phenotype	
+Seizures, Febrile	phenotype	
+Tobacco Use Disorder	phenotype	
+Tuberous sclerosis syndrome	phenotype	
+Abnormality of the genitourinary system	phenotype	
+Vascular Diseases	phenotype	
+Vomiting	phenotype	
+Essential hypertension	phenotype	
+Polydipsia	phenotype	
+Acute leukemia	phenotype	
+Bicuspid aortic valve	phenotype	
+Small cell lung cancer	phenotype	
+Sensory neuropathy	phenotype	
+Abnormal renal physiology	phenotype	
+Renal tubular dysfunction	phenotype	
+Adenocarcinoma of lung	phenotype	
+Noonan syndrome with multiple lentigines	phenotype	
+Increased analgesia from kappa-opioid receptor agonist, female-specific	phenotype	
+Onset	phenotype	
+{TSC2 angiomyolipomas, renal, modifier of}, 613254 (3)	phenotype	
+NOONAN-LIKE/MULTIPLE GIANT CELL LESION SYNDROME (disorder)	phenotype	
+Behavioral abnormality	phenotype	
+Abnormal joint morphology	phenotype	
+Malignant neoplasm of lung	phenotype	
+Treacher Collins syndrome	phenotype	
+Abnormality of the digestive system	phenotype	
+Congenital anomalies of kidney and urinary tract 1, susceptibility to	phenotype	
+Familial hypokalemia-hypomagnesemia	phenotype	
+Cortical dysplasia, complex, with other brain malformations 3	phenotype	
+Autosomal recessive inheritance	phenotype	
+Abnormality of the nervous system	phenotype	
+Paralysis	phenotype	
+Hypervolemia	phenotype	
+Chondrocalcinosis	phenotype	
+Multisystem disorder	phenotype	
+Breast carcinoma	phenotype	
+Lung cancer	phenotype	
+Malignant neoplasm of kidney	phenotype	
+Abdominal symptom	phenotype	
+Generalized muscle weakness	phenotype	
+Lymphangiomyomatosis	phenotype	
+Germinoma	phenotype	
+Tauopathies	phenotype	
+Sarcoma, Ewing	phenotype	
+Primary hyperaldosteronism	phenotype	
+Precursor Cell Lymphoblastic Leukemia-Lymphoma	phenotype	
+Stage 5 chronic kidney disease	phenotype	
+Hirschsprung disease 1	phenotype	
+Aortic valve disease 2	phenotype	
+Abnormal urine output	phenotype	
+Ectopic calcification	phenotype	
+Abnormality of the musculature	phenotype	
+Abnormality of metabolism/homeostasis	phenotype	
+Abnormality of the skeletal system	phenotype	
+Abnormality of the urinary system	phenotype	
+Abnormal drinking behavior	phenotype	
+Abnormality of nervous system morphology	phenotype	
+Abnormality of nervous system physiology	phenotype	
+Abnormal urinary electrolyte concentration	phenotype	
+Abnormality of skeletal morphology	phenotype	
+Abnormality of muscle physiology	phenotype	
+Abnormality of central motor function	phenotype	
+Abnormality of urine calcium concentration	phenotype	
+Abnormality of the urinary system physiology	phenotype	
+Abnormality of potassium homeostasis	phenotype	
+Abnormality of renal excretion	phenotype	
+Abnormality of the upper urinary tract	phenotype	
+Abnormality of monovalent inorganic cation homeostasis	phenotype	
+Abnormality of cation homeostasis	phenotype	
+Abnormality of divalent inorganic cation homeostasis	phenotype	
+Abnormality of calcium homeostasis	phenotype	
+Juvenile onset	phenotype	
+Abnormality of connective tissue	phenotype	
+Abnormality of ion homeostasis	phenotype	
+Abnormality of urine homeostasis	phenotype	
+Abnormality of the endocrine system	phenotype	
+Abnormal peripheral nervous system morphology	phenotype	
+Abnormal consumption behavior	phenotype	
+Abnormality of digestive system physiology	phenotype	

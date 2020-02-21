@@ -1,0 +1,68 @@
+node1	node2	edge_score	
+DB01351	GRIA2	1.0	
+DB01351	GRIK2	1.0	
+DB01351	CHRNA4	1.0	
+DB01351	CHRNA7	1.0	
+DB01351	CYP2A6	1.0	
+DB01351	GABRA4	1.0	
+DB01351	GABRA6	1.0	
+DB01351	GABRA1	1.0	
+DB01351	GABRA3	1.0	
+DB01351	GABRA2	1.0	
+CYP2A6	rs376817657	0.99
+CHRNA4	rs2236196	0.99
+CYP2A6		1.0
+CYP2A6	rs8192726	0.99
+CHRNA4		1.0
+CYP2A6	rs56113850	0.99
+CYP2A6	rs5031016	0.99
+CYP2A6	rs28399454	0.99
+CYP2A6	rs111033610	0.99
+CHRNA4	rs1044397	0.99
+CYP2A6	CYP2A6*10, CYP2A6*11, CYP2A6*18A, CYP2A6*19, CYP2A6*1A, CYP2A6*4A, CYP2A6*4C, CYP2A6*7, CYP2A6*9A	0.99
+CYP2A6	CYP2A6*10, CYP2A6*19, CYP2A6*1A, CYP2A6*1B1, CYP2A6*1X2B, CYP2A6*2, CYP2A6*20, CYP2A6*24A, CYP2A6*26, CYP2A6*27, CYP2A6*4A, CYP2A6*7, CYP2A6*9A	0.99
+CYP2A6	rs140471703	0.99
+CYP2A6	CYP2A6*15, CYP2A6*1A, CYP2A6*21, CYP2A6*22	0.99
+CHRNA4	rs1044396	0.99
+CYP2A6	rs143690364	0.99
+CHRNA4	rs2229959	0.99
+CHRNA7		1.0
+GABRA6		1.0
+CYP2A6	rs1801272	0.99
+CYP2A6	rs8192720	0.99
+CYP2A6	rs28399468	0.99
+CYP2A6	rs4803381	0.99
+CYP2A6	rs28399433	0.99
+CYP2A6	rs8192725	0.99
+GABRA1		1.0
+Idiopathic generalized epilepsy	CHRNA4	1.0	
+Idiopathic generalized epilepsy	CHRNA7	1.0	
+Idiopathic generalized epilepsy	GABRA1	1.0	
+Idiopathic generalized epilepsy	GABRA6	1.0	
+Juvenile myoclonic epilepsy	CHRNA4	1.0	
+Juvenile myoclonic epilepsy	CHRNA7	1.0	
+Juvenile myoclonic epilepsy	GABRA1	1.0	
+Nicotine Dependence	CHRNA4	1.0	
+Nicotine Dependence	CHRNA7	1.0	
+Nicotine Dependence	CYP2A6	1.0	
+Focal seizures	CHRNA4	1.0	
+Focal seizures	GABRA1	1.0	
+As If Personality	CHRNA7	1.0	
+As If Personality	CYP2A6	1.0	
+NEUROTICISM	CHRNA4	1.0	
+NEUROTICISM	GABRA6	1.0	
+Epilepsy, generalized, with febrile seizures plus, type 6 (2)	CHRNA4	1.0	
+Epilepsy, generalized, with febrile seizures plus, type 6 (2)	CHRNA7	1.0	
+Epilepsy	CHRNA4	1.0	
+Epilepsy	CHRNA7	1.0	
+Epilepsy	CYP2A6	1.0	
+Epilepsy	GABRA1	1.0	
+Epilepsy	GABRA6	1.0	
+Incomplete penetrance	CHRNA4	1.0	
+Incomplete penetrance	CHRNA7	1.0	
+Febrile seizures, familial, 4	CHRNA4	1.0	
+Febrile seizures, familial, 4	GABRA1	1.0	
+Alcohol abuse	GABRA1	1.0	
+Alcohol abuse	GABRA6	1.0	
+Marijuana Abuse	CHRNA7	1.0	
+Marijuana Abuse	GABRA6	1.0	

@@ -1,0 +1,5 @@
+rank	phenotype	cui	assoc in neigh	assoc in intom	probability	Benjamini-Hochberg	genes	
+69	gliosarcoma	C0206726	3	64	3.241192344105581e-05	5.77405857741e-05	CYP2B6,CYP3A4,ESR1
+70	Disorder of endocrine system	C0014130	3	68	4.119280143066728e-05	5.85774058577e-05	CYP19A1,CYP2B6,ESR1
+83	Malignant neoplasm of adrenal cortex	C0346402	2	26	5.331446456469102e-05	6.94560669456e-05	ALB,ESR1
+84	Endometrioma	C0269102	3	75	6.057411078397301e-05	7.02928870293e-05	CYP19A1,CYP2B6,ESR1

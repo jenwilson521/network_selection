@@ -1,0 +1,7 @@
+rank	phenotype	cui	assoc in neigh	assoc in intom	probability	Benjamini-Hochberg	genes	
+11	Weight Gain Adverse Event	C2911647	2	151	4.755776765730246e-06	5.69948186528e-05	GRIA3,GSK3B
+13	Recurrent major depressive episodes	C0154409	1	26	1.6741706645340138e-05	6.73575129534e-05	GSK3B
+14	Prominent supraorbital ridges	C1842060	1	28	1.946752958348341e-05	7.25388601036e-05	GRIA3
+15	Parathyroid carcinoma	C0687150	1	38	3.616546008544663e-05	7.77202072539e-05	GSK3B
+16	Dyskinesia, Drug-Induced	C0013386	1	49	6.0425010060094486e-05	8.29015544041e-05	GSK3B
+17	Drug Resistant Epilepsy	C1096063	1	53	7.077276785250053e-05	8.80829015544e-05	GRIA3

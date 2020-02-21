@@ -1,0 +1,292 @@
+node1	node2	edge_score	
+DB00182	SLC6A3	1.0	
+DB00182	SLC6A2	1.0	
+DB00182	CYP2D6	1.0	
+DB00182	SLC6A4	1.0	
+DB00182	DRD2	1.0	
+DB00182	SLC22A5	1.0	
+DB00182	CYP2A6	1.0	
+DB00182	SLC22A3	1.0	
+DB00182	CARTPT	1.0	
+DB00182	SLC18A2	1.0	
+DB00182	MAOB	1.0	
+CYP2D6	rs3892097	0.99
+CYP2D6	CYP2D6*1, CYP2D6*10, CYP2D6*3, CYP2D6*4, CYP2D6*41, CYP2D6*5, CYP2D6*6	0.99
+CYP2D6	CYP2D6*1, CYP2D6*1xN, CYP2D6*2, CYP2D6*2xN, CYP2D6*3, CYP2D6*4, CYP2D6*5	0.99
+DRD2	rs6275	0.99
+DRD2	rs1799978	0.99
+CYP2D6	rs777560972	0.99
+CYP2A6	CYP2A6*10, CYP2A6*11, CYP2A6*18A, CYP2A6*19, CYP2A6*1A, CYP2A6*4A, CYP2A6*4C, CYP2A6*7, CYP2A6*9A	0.99
+CYP2D6	CYP2D6*1, CYP2D6*3, CYP2D6*4	0.99
+SLC6A4	rs1042173	0.99
+CYP2D6	rs76088846	0.99
+CYP2A6	rs5031016	0.99
+DRD2	rs4436578	0.99
+CYP2D6	CYP2D6*1, CYP2D6*1xN	0.99
+CYP2A6	CYP2A6*10, CYP2A6*19, CYP2A6*1A, CYP2A6*1B1, CYP2A6*1X2B, CYP2A6*2, CYP2A6*20, CYP2A6*24A, CYP2A6*26, CYP2A6*27, CYP2A6*4A, CYP2A6*7, CYP2A6*9A	0.99
+CYP2D6	CYP2D6*1, CYP2D6*100, CYP2D6*101, CYP2D6*13, CYP2D6*2, CYP2D6*31, CYP2D6*4, CYP2D6*5, CYP2D6*69	0.99
+CYP2D6	CYP2D6*1, CYP2D6*15, CYP2D6*4	0.99
+CYP2D6	CYP2D6*1, CYP2D6*3, CYP2D6*36, CYP2D6*4, CYP2D6*40, CYP2D6*42, CYP2D6*4xN, CYP2D6*56	0.99
+SLC22A5		1.0
+CYP2D6	CYP2D6*1, CYP2D6*47, CYP2D6*49, CYP2D6*50, CYP2D6*51, CYP2D6*54, CYP2D6*55, CYP2D6*57, CYP2D6*72, CYP2D6*89, CYP2D6*92, CYP2D6*93, CYP2D6*96	0.99
+CYP2A6	rs1801272	0.99
+CYP2D6	rs367543000	0.99
+CYP2A6	rs8192725	0.99
+DRD2	rs1079597	0.99
+CYP2D6	rs5030655	0.99
+CYP2A6	rs376817657	0.99
+CYP2A6		1.0
+DRD2	rs2734833	0.99
+CYP2D6	CYP2D6*1, CYP2D6*10, CYP2D6*17, CYP2D6*1xN, CYP2D6*2, CYP2D6*2xN, CYP2D6*3, CYP2D6*4, CYP2D6*40, CYP2D6*41, CYP2D6*5, CYP2D6*6	0.99
+CYP2D6	rs28371706	0.99
+CYP2A6	rs56113850	0.99
+DRD2	rs4460839	0.99
+SLC6A4	rs57098334	0.99
+DRD2	rs1799732	0.99
+DRD2	rs1125394	0.99
+CYP2D6	CYP2D6*1, CYP2D6*10, CYP2D6*14, CYP2D6*1xN, CYP2D6*3, CYP2D6*4, CYP2D6*5, CYP2D6*6	0.99
+CYP2A6	CYP2A6*15, CYP2A6*1A, CYP2A6*21, CYP2A6*22	0.99
+CYP2D6	CYP2D6*1, CYP2D6*11, CYP2D6*12, CYP2D6*4, CYP2D6*41, CYP2D6*5, CYP2D6*59, CYP2D6*62, CYP2D6*7, CYP2D6*8	0.99
+CYP2D6	CYP2D6*20, CYP2D6*4	0.99
+DRD2	rs1124493	0.99
+CYP2A6	rs143690364	0.99
+DRD2	rs6277	0.99
+CYP2D6	rs745746329	0.99
+SLC22A3		1.0
+CYP2D6	CYP2D6*1, CYP2D6*5, CYP2D6*8	0.99
+SLC6A2		1.0
+CYP2D6	CYP2D6*1, CYP2D6*10, CYP2D6*3, CYP2D6*4	0.99
+DRD2	rs2734841	0.99
+CYP2D6	CYP2D6*1, CYP2D6*1xN, CYP2D6*3, CYP2D6*4, CYP2D6*5, CYP2D6*6	0.99
+CYP2A6	rs28399468	0.99
+CYP2D6		1.0
+CYP2D6	CYP2D6*1, CYP2D6*4, CYP2D6*5	0.99
+CYP2D6	CYP2D6*1, CYP2D6*10, CYP2D6*14, CYP2D6*21, CYP2D6*36, CYP2D6*4, CYP2D6*5	0.99
+CYP2D6	CYP2D6*1, CYP2D6*10, CYP2D6*17, CYP2D6*2, CYP2D6*3, CYP2D6*4, CYP2D6*5	0.99
+CYP2D6	CYP2D6*1, CYP2D6*3, CYP2D6*4, CYP2D6*5	0.99
+DRD2	rs2283265	0.99
+DRD2	rs2734842	0.99
+SLC6A4	SLC6A4 HTTLPR long form (L allele), SLC6A4 HTTLPR short form (S allele)	0.99
+CYP2A6	rs8192726	0.99
+CYP2D6	rs750996195	0.99
+CYP2A6	rs111033610	0.99
+CYP2A6	rs140471703	0.99
+DRD2	rs1079598	0.99
+CYP2D6	CYP2D6*1, CYP2D6*38, CYP2D6*4, CYP2D6*5, CYP2D6*9	0.99
+DRD2	rs12364283	0.99
+CYP2D6	rs1080985	0.99
+DRD2		1.0
+CYP2D6	CYP2D6*1, CYP2D6*10, CYP2D6*18, CYP2D6*2, CYP2D6*21, CYP2D6*44, CYP2D6*5	0.99
+CYP2D6	CYP2D6*1, CYP2D6*1xN, CYP2D6*2xN, CYP2D6*3, CYP2D6*4, CYP2D6*5, CYP2D6*6	0.99
+SLC6A2	rs5569	0.99
+CYP2D6	CYP2D6*1, CYP2D6*10, CYP2D6*5	0.99
+CYP2A6	rs8192720	0.99
+SLC6A4		1.0
+CYP2D6	rs138417770	0.99
+CYP2D6	CYP2D6*1, CYP2D6*29	0.99
+CYP2D6	rs28360521	0.99
+CYP2D6	rs1065852	0.99
+CYP2D6	CYP2D6*10, CYP2D6*14, CYP2D6*3, CYP2D6*4, CYP2D6*5, CYP2D6*6, CYP2D6*7	0.99
+CYP2D6	CYP2D6*1, CYP2D6*10, CYP2D6*2, CYP2D6*3, CYP2D6*4, CYP2D6*5	0.99
+CYP2D6	CYP2D6*1, CYP2D6*10, CYP2D6*2, CYP2D6*4, CYP2D6*41, CYP2D6*5, CYP2D6*6	0.99
+CYP2D6	CYP2D6*1, CYP2D6*10	0.99
+CYP2D6	CYP2D6*1, CYP2D6*4	0.99
+CYP2D6	CYP2D6*1, CYP2D6*1xN, CYP2D6*3, CYP2D6*4, CYP2D6*41, CYP2D6*5, CYP2D6*6	0.99
+CYP2D6	CYP2D6*1, CYP2D6*10, CYP2D6*1xN, CYP2D6*2, CYP2D6*2xN, CYP2D6*3, CYP2D6*4, CYP2D6*41, CYP2D6*5, CYP2D6*6	0.99
+CYP2D6	CYP2D6*1, CYP2D6*10, CYP2D6*17, CYP2D6*29, CYP2D6*3, CYP2D6*31, CYP2D6*35, CYP2D6*4, CYP2D6*41, CYP2D6*5, CYP2D6*6, CYP2D6*9	0.99
+DRD2	rs6279	0.99
+CYP2D6	rs567606867	0.99
+CYP2D6	CYP2D6*1, CYP2D6*10, CYP2D6*2, CYP2D6*3, CYP2D6*4, CYP2D6*41, CYP2D6*5, CYP2D6*6	0.99
+CYP2A6	rs28399454	0.99
+SLC6A2	rs3785143	0.99
+DRD2	rs2440390	0.99
+ANKK1	rs7118900	0.970299
+SLC6A2	rs12708954	0.99
+CYP2D6	CYP2D6*1, CYP2D6*2xN, CYP2D6*3, CYP2D6*4, CYP2D6*5, CYP2D6*6	0.99
+SLC6A3		1.0
+CYP2D6	CYP2D6*1, CYP2D6*10, CYP2D6*3, CYP2D6*4, CYP2D6*5, CYP2D6*6	0.99
+CYP2D6	CYP2D6*1, CYP2D6*1xN, CYP2D6*2, CYP2D6*2xN, CYP2D6*3, CYP2D6*4, CYP2D6*5, CYP2D6*6	0.99
+CYP2D6	CYP2D6*10, CYP2D6*2	0.99
+SLC6A4	rs25531	0.99
+CYP2D6	CYP2D6*1, CYP2D6*10, CYP2D6*2, CYP2D6*4, CYP2D6*5	0.99
+rs1800497	ANKK1	0.9801
+CYP2D6	CYP2D6*1, CYP2D6*10, CYP2D6*17, CYP2D6*1xN, CYP2D6*2, CYP2D6*2xN, CYP2D6*3, CYP2D6*4, CYP2D6*41, CYP2D6*5	0.99
+CYP2D6	rs371793722	0.99
+DRD2	rs1076560	0.99
+CYP2A6	rs4803381	0.99
+CYP2A6	rs28399433	0.99
+CYP2D6	CYP2D6*1, CYP2D6*10, CYP2D6*1xN, CYP2D6*2, CYP2D6*2xN, CYP2D6*3, CYP2D6*4, CYP2D6*5, CYP2D6*6	0.99
+CYP2D6	CYP2D6*1, CYP2D6*10, CYP2D6*14, CYP2D6*2, CYP2D6*3, CYP2D6*4, CYP2D6*41, CYP2D6*4xN, CYP2D6*5, CYP2D6*6	0.99
+DRD2	rs1800497	0.99
+As If Personality	ANKK1	1.0	
+As If Personality	CYP2A6	1.0	
+As If Personality	CYP2D6	1.0	
+As If Personality	DRD2	1.0	
+As If Personality	SLC6A3	1.0	
+As If Personality	SLC6A4	1.0	
+Heroin Dependence	ANKK1	1.0	
+Heroin Dependence	CYP2D6	1.0	
+Heroin Dependence	DRD2	1.0	
+Heroin Dependence	SLC6A2	1.0	
+Heroin Dependence	SLC6A3	1.0	
+Heroin Dependence	SLC6A4	1.0	
+Behavior Disorders	DRD2	1.0	
+Behavior Disorders	SLC6A2	1.0	
+Behavior Disorders	SLC6A3	1.0	
+Behavior Disorders	SLC6A4	1.0	
+Methamphetamine abuse	CYP2D6	1.0	
+Methamphetamine abuse	DRD2	1.0	
+Methamphetamine abuse	SLC22A3	1.0	
+Methamphetamine abuse	SLC6A2	1.0	
+Methamphetamine abuse	SLC6A3	1.0	
+Methamphetamine abuse	SLC6A4	1.0	
+Antisocial Personality Disorder	ANKK1	1.0	
+Antisocial Personality Disorder	DRD2	1.0	
+Antisocial Personality Disorder	SLC6A3	1.0	
+Antisocial Personality Disorder	SLC6A4	1.0	
+Osteochondritis dissecans	CYP2D6	1.0	
+Osteochondritis dissecans	DRD2	1.0	
+Osteochondritis dissecans	SLC22A3	1.0	
+Osteochondritis dissecans	SLC6A3	1.0	
+Osteochondritis dissecans	SLC6A4	1.0	
+Personality disorder	CYP2D6	1.0	
+Personality disorder	DRD2	1.0	
+Personality disorder	SLC6A2	1.0	
+Personality disorder	SLC6A4	1.0	
+Antisocial/borderline personality disorder	ANKK1	1.0	
+Antisocial/borderline personality disorder	DRD2	1.0	
+Antisocial/borderline personality disorder	SLC6A3	1.0	
+Antisocial/borderline personality disorder	SLC6A4	1.0	
+Substance addiction and disorders	ANKK1	1.0	
+Substance addiction and disorders	DRD2	1.0	
+Substance addiction and disorders	SLC22A3	1.0	
+Substance addiction and disorders	SLC6A3	1.0	
+Substance addiction and disorders	SLC6A4	1.0	
+Obsessive-compulsive disorder	CYP2D6	1.0	
+Obsessive-compulsive disorder	DRD2	1.0	
+Obsessive-compulsive disorder	SLC22A3	1.0	
+Obsessive-compulsive disorder	SLC6A3	1.0	
+Obsessive-compulsive disorder	SLC6A4	1.0	
+Prenatal Exposure Delayed Effects	CYP2D6	1.0	
+Prenatal Exposure Delayed Effects	DRD2	1.0	
+Prenatal Exposure Delayed Effects	SLC6A3	1.0	
+Prenatal Exposure Delayed Effects	SLC6A4	1.0	
+Cocaine Dependence	ANKK1	1.0	
+Cocaine Dependence	DRD2	1.0	
+Cocaine Dependence	SLC6A3	1.0	
+Cocaine Dependence	SLC6A4	1.0	
+Bulimia	DRD2	1.0	
+Bulimia	SLC6A3	1.0	
+Bulimia	SLC6A4	1.0	
+Generalized anxiety disorder	DRD2	1.0	
+Generalized anxiety disorder	SLC6A3	1.0	
+Generalized anxiety disorder	SLC6A4	1.0	
+Tardive Dyskinesia	CYP2D6	1.0	
+Tardive Dyskinesia	DRD2	1.0	
+Tardive Dyskinesia	SLC6A3	1.0	
+Tardive Dyskinesia	SLC6A4	1.0	
+Bipolar I disorder	ANKK1	1.0	
+Bipolar I disorder	DRD2	1.0	
+Bipolar I disorder	SLC6A3	1.0	
+Bipolar I disorder	SLC6A4	1.0	
+Substance Use Disorders	DRD2	1.0	
+Substance Use Disorders	SLC6A3	1.0	
+Substance Use Disorders	SLC6A4	1.0	
+Alcohol withdrawal syndrome	DRD2	1.0	
+Alcohol withdrawal syndrome	SLC6A3	1.0	
+Alcohol withdrawal syndrome	SLC6A4	1.0	
+Psychoses, Substance-Induced	ANKK1	1.0	
+Psychoses, Substance-Induced	DRD2	1.0	
+Psychoses, Substance-Induced	SLC6A3	1.0	
+Psychoses, Substance-Induced	SLC6A4	1.0	
+Drug Dependence	ANKK1	1.0	
+Drug Dependence	DRD2	1.0	
+Drug Dependence	SLC6A3	1.0	
+Drug Dependence	SLC6A4	1.0	
+Nicotine Dependence	ANKK1	1.0	
+Nicotine Dependence	CYP2A6	1.0	
+Nicotine Dependence	DRD2	1.0	
+Nicotine Dependence	SLC6A3	1.0	
+Nicotine Dependence	SLC6A4	1.0	
+Substance-Related Disorders	ANKK1	1.0	
+Substance-Related Disorders	CYP2D6	1.0	
+Substance-Related Disorders	DRD2	1.0	
+Substance-Related Disorders	SLC22A3	1.0	
+Substance-Related Disorders	SLC6A3	1.0	
+Substance-Related Disorders	SLC6A4	1.0	
+NEUROTICISM	ANKK1	1.0	
+NEUROTICISM	DRD2	1.0	
+NEUROTICISM	SLC6A3	1.0	
+NEUROTICISM	SLC6A4	1.0	
+ {Nicotine dependence, protection against}, 188890 (3)	DRD2	1.0	
+ {Nicotine dependence, protection against}, 188890 (3)	SLC6A3	1.0	
+ {Nicotine dependence, protection against}, 188890 (3)	SLC6A4	1.0	
+Orofacial dyskinesia	CYP2D6	1.0	
+Orofacial dyskinesia	DRD2	1.0	
+Orofacial dyskinesia	SLC6A3	1.0	
+Orofacial dyskinesia	SLC6A4	1.0	
+Chronic schizophrenia	CYP2D6	1.0	
+Chronic schizophrenia	DRD2	1.0	
+Chronic schizophrenia	SLC6A3	1.0	
+Eating disorder	CYP2D6	1.0	
+Eating disorder	DRD2	1.0	
+Eating disorder	SLC6A3	1.0	
+Eating disorder	SLC6A4	1.0	
+alcohol use disorder	ANKK1	1.0	
+alcohol use disorder	DRD2	1.0	
+alcohol use disorder	SLC6A4	1.0	
+Bulimia nervosa 1	DRD2	1.0	
+Bulimia nervosa 1	SLC6A3	1.0	
+Bulimia nervosa 1	SLC6A4	1.0	
+Opiate Addiction	ANKK1	1.0	
+Opiate Addiction	CYP2D6	1.0	
+Opiate Addiction	DRD2	1.0	
+Amphetamine-Related Disorders	CYP2D6	1.0	
+Amphetamine-Related Disorders	DRD2	1.0	
+Amphetamine-Related Disorders	SLC6A3	1.0	
+Amphetamine-Related Disorders	SLC6A4	1.0	
+Substance abuse problem	DRD2	1.0	
+Substance abuse problem	SLC6A3	1.0	
+Substance abuse problem	SLC6A4	1.0	
+Drug usage	DRD2	1.0	
+Drug usage	SLC6A3	1.0	
+Drug usage	SLC6A4	1.0	
+Conduct Disorder	DRD2	1.0	
+Conduct Disorder	SLC6A3	1.0	
+Conduct Disorder	SLC6A4	1.0	
+Alcohol abuse	ANKK1	1.0	
+Alcohol abuse	DRD2	1.0	
+Alcohol abuse	SLC6A3	1.0	
+Alcohol abuse	SLC6A4	1.0	
+Marijuana Abuse	ANKK1	1.0	
+Marijuana Abuse	DRD2	1.0	
+Marijuana Abuse	SLC6A3	1.0	
+Marijuana Abuse	SLC6A4	1.0	
+Dyskinesia, seizures, and intellectual developmental disorder	ANKK1	1.0	
+Dyskinesia, seizures, and intellectual developmental disorder	CYP2D6	1.0	
+Dyskinesia, seizures, and intellectual developmental disorder	DRD2	1.0	
+Dyskinesia, seizures, and intellectual developmental disorder	SLC6A3	1.0	
+Nausea	CYP2D6	1.0	
+Nausea	DRD2	1.0	
+Nausea	SLC6A4	1.0	
+Neoplasm of the larynx	ANKK1	1.0	
+Neoplasm of the larynx	CYP2A6	1.0	
+Neoplasm of the larynx	CYP2D6	1.0	
+Neoplasm of the larynx	DRD2	1.0	
+Memory Disorders	DRD2	1.0	
+Memory Disorders	SLC6A3	1.0	
+Memory Disorders	SLC6A4	1.0	
+Anorexia nervosa 1	DRD2	1.0	
+Anorexia nervosa 1	SLC6A2	1.0	
+Anorexia nervosa 1	SLC6A3	1.0	
+Anorexia nervosa 1	SLC6A4	1.0	
+CNS symptom	CYP2D6	1.0	
+CNS symptom	SLC6A3	1.0	
+CNS symptom	SLC6A4	1.0	
+CNS disorder	CYP2D6	1.0	
+CNS disorder	DRD2	1.0	
+CNS disorder	SLC6A3	1.0	
+CNS disorder	SLC6A4	1.0	
+Cognition Disorders	CYP2D6	1.0	
+Cognition Disorders	DRD2	1.0	
+Cognition Disorders	SLC6A4	1.0	

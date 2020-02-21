@@ -1,0 +1,284 @@
+Gene	CUI	Source Databases	
+IL1B	C0003949	Asbestosis	DisGeNet	
+IL1B	C0023223	Leg Ulcer	DisGeNet	
+IL1B	C0035450	Rheumatoid Nodule	DisGeNet	
+IL1B	C0036472	Scrub Typhus	DisGeNet	
+IL1B	C0854135	Pseudomonas aeruginosa infection	DisGeNet	
+IL1B	C1883018	Severe Aplastic Anemia	DisGeNet	
+IL1B	C0001420	Papillary adenocarcinoma	DisGeNet	
+IL1B	C0019101	Hemorrhagic Fever with Renal Syndrome	DisGeNet	
+IL1B	C0162869	Aneurysm, Ruptured	DisGeNet	
+IL1B	C0553692	Brain Hemorrhage, Traumatic	DisGeNet	
+IL1B	C0015923	Fetal Alcohol Syndrome	DisGeNet	
+IL1B	C0034362	Q Fever	DisGeNet	
+IL1B	C0153405	Malignant neoplasm of pharynx	DisGeNet	
+IL1B	C0162672	MERRF Syndrome	DisGeNet	
+IL1B	C0279543	Philadelphia chromosome positive chronic myelogenous leukemia	DisGeNet	
+IL1B	C0451641	Urolithiasis	DisGeNet	
+IL1B	C0746883	Febrile Neutropenia	DisGeNet	
+IL1B	C1136085	Monoclonal Gammapathies	DisGeNet	
+IL1B	C0029883	Otitis Media with Effusion	DisGeNet	
+IL1B	C0035328	Thrombosis of retinal vein	DisGeNet	
+IL1B	C0041466	Typhoid Fever	DisGeNet	
+IL1B	C0206114	Periodontal Attachment Loss	DisGeNet	
+IL1B	C0375071	Malignant neoplasm of vulva	DisGeNet	
+IL1B	C2316212	Cryopyrin-Associated Periodic Syndromes	DisGeNet	
+IL1B	C0025229	Melioidosis, susceptibility to	DisGeNet	
+IL1B	C0206696	Carcinoma, Signet Ring Cell	DisGeNet	
+IL1B	C0009918	Joint contractures involving the joints of the feet	DisGeNet	
+IL1B	C0014121	Bacterial endocarditis	DisGeNet	
+IL1B	C0038363	Oral aphthae	DisGeNet	
+IL1B	C0235989	Renal interstitial fibrosis	DisGeNet	
+IL1B	C0017565	Gingival bleeding	DisGeNet	
+IL1B	C0023652	Lichen Sclerosus et Atrophicus	DisGeNet	
+IL1B	C0002985	Angiokeratoma	DisGeNet	
+IL1B	C0005944	Metabolic Bone Disorder	DisGeNet	
+IL1B	C0017160	Gastroenteritis	DisGeNet	
+IL1B	C0024537	Malaria, Vivax	DisGeNet	
+IL1B	C0034040	Puerperal Disorders	DisGeNet	
+IL1B	C0035228	Respiratory Hypersensitivity	DisGeNet	
+IL1B	C0162671	MELAS Syndrome	DisGeNet	
+IL1B	C0221014	{?Amyloidosis, secondary, susceptibility to} (1)	DisGeNet	
+IL1B	C0276496	Familial Alzheimer Disease (FAD)	DisGeNet	
+IL1B	C0334533	Arteriovenous hemangioma	DisGeNet	
+IL1B	C0729353	Subfertility	DisGeNet	
+IL1B	C0007286	Carpal tunnel syndrome	DisGeNet	
+IL1B	C0024205	Lymphadenitis	DisGeNet	
+IL1B	C0031094	Periodontal Pocket	DisGeNet	
+IL1B	C0038826	Superinfection	DisGeNet	
+IL1B	C0409952	Generalized osteoarthritis	DisGeNet	
+IL1B	C1334811	Mucinous Neoplasm	DisGeNet	
+IL1B	C0002390	Extrinsic allergic alveolitis	DisGeNet	
+IL1B	C0004030	Systemic aspergillosis	DisGeNet	
+IL1B	C0025295	Meningitis, Pneumococcal	DisGeNet	
+IL1B	C0035436	Rheumatic fever / chorea	DisGeNet	
+IL1B	C0263666	Juvenile dermatomyositis	DisGeNet	
+IL1B	C0014661	Equine Infectious Anemia	DisGeNet	
+IL1B	C0026766	Multiple Organ Failure	DisGeNet	
+IL1B	C0026780	Mumps	DisGeNet	
+IL1B	C0409957	Osteoarthritis of distal interphalangeal joint	DisGeNet	
+IL1B	C0751383	Juvenile neuronal ceroid lipofuscinosis	DisGeNet	
+IL1B	C0032533	Polymyalgia Rheumatica	DisGeNet	
+IL1B	C0041582	Peptic Ulcer Hemorrhage	DisGeNet	
+IL1B	C2347126	Microscopic Polyarteritis	DisGeNet	
+IL1B	C0001857	AIDS related complex	DisGeNet	
+IL1B	C0002382	Alveolar Bone Loss	DisGeNet	
+IL1B	C0030201	Acute postoperative pain	DisGeNet	
+IL1B	C0036117	Salmonella infections	DisGeNet	
+IL1B	C0036429	Sclerosis	DisGeNet	
+IL1B	C0037354	Smallpox	DisGeNet	
+IL1B	C0263746	Osteoarthritis of the hand	DisGeNet	
+IL1B	C0477474	Dermatitis and eczema	DisGeNet	
+IL1B	C0001314	Acute disease of cardiovascular system	DisGeNet	
+IL1B	C0017662	Mesangiocapillary glomerulonephritis, type II	DisGeNet	
+IL1B	C0032273	Simple pneumoconiosis	DisGeNet	
+IL1B	C0278498	Malignant neoplasm of stomach stage IV	DisGeNet	
+IL1B	C1719495	Aggressive periodontitis, generalized	DisGeNet	
+IL1B	C0267941	Pancreatitis, Acute Necrotizing	DisGeNet	
+IL1B	C0677659	Gastro-esophageal reflux disease with esophagitis	DisGeNet	
+IL1B	C0085437	Meningitis, Bacterial	DisGeNet	
+IL1B	C0155094	Corneal pannus	DisGeNet	
+IL1B	C0521173	Granulomatosis	DisGeNet	
+IL1B	C0524662	Opiate Addiction	DisGeNet	
+IL1B	C0001144	Acne Vulgaris	DisGeNet	
+IL1B	C0018081	Gonorrhea	DisGeNet	
+IL1B	C0024031	Low back pain	DisGeNet	
+IL1B	C0279130	CNS metastases	DisGeNet	
+IL1B	C0403416	Idiopathic crescentic glomerulonephritis	DisGeNet	
+IL1B	C0014057	Japanese Encephalitis	DisGeNet	
+IL1B	C0021818	Displacement of intervertebral disc	DisGeNet	
+IL1B	C0151332	Active tuberculosis	DisGeNet	
+IL1B	C0596321	Chemical Carcinogenesis	DisGeNet	
+IL1B	C0701807	Acute anterior uveitis	DisGeNet	
+IL1B	C0008373	Cholesteatoma	DisGeNet	
+IL1B	C0032987	Ectopic Pregnancy	DisGeNet	
+IL1B	C0086439	Decreased activity of 3-hydroxyacyl-CoA dehydrogenase	DisGeNet	
+IL1B	C0314719	Dryness of eye	DisGeNet	
+IL1B	C0001849	AIDS Dementia Complex	DisGeNet	
+IL1B	C0038354	Stomach Diseases	DisGeNet	
+IL1B	C0598894	Monocytic leukemia	DisGeNet	
+IL1B	C0002986	Fabry disease	DisGeNet	
+IL1B	C0040021	Thromboangiitis Obliterans	DisGeNet	
+IL1B	C0042341	Varicocele	DisGeNet	
+IL1B	C0242706	Hyperoxia	DisGeNet	
+IL1B	C1504404	Hippocampal sclerosis	DisGeNet	
+IL1B	C0013238	Dry Eye Syndromes	DisGeNet	
+IL1B	C0018824	Heart valve disease	DisGeNet	
+IL1B	C0677055	CARCINOMA OF VULVA	DisGeNet	
+IL1B	C1868677	Photoparoxysmal response 1 (2)	DisGeNet	
+IL1B	C2911645	Weight Loss Adverse Event	DisGeNet	
+IL1B	C0023186	Learning Disorders	DisGeNet	
+IL1B	C0038362	Stomatitis	DisGeNet	
+IL1B	C0038395	Streptococcal Infections	DisGeNet	
+IL1B	C0085166	Bacterial Vaginosis	DisGeNet	
+IL1B	C0600518	Choroidal Neovascularization	DisGeNet	
+IL1B	C0016978	Neoplasm of the gallbladder	DisGeNet	
+IL1B	C0029401	Osteitis Deformans	DisGeNet	
+IL1B	C0032231	Pleuritis	DisGeNet	
+IL1B	C0349459	Cervical intraepithelial neoplasia grade 2	DisGeNet	
+IL1B	C0403529	Anti-Glomerular Basement Membrane Disease	DisGeNet	
+IL1B	C0948480	Coronary Restenosis	DisGeNet	
+IL1B	C1262091	Lymphocytic infiltration	DisGeNet	
+IL1B	C0027813	Neuritis	DisGeNet	
+IL1B	C0032269	Pneumococcal Infections	DisGeNet	
+IL1B	C0035920	Rubella	DisGeNet	
+IL1B	C0085435	Arthritis, Reactive	DisGeNet	
+IL1B	C0085786	Idiopathic fibrosing alveolitis, chronic form	DisGeNet	
+IL1B	C0162316	Iron deficiency anemia	DisGeNet	
+IL1B	C1853118	Severe congenital neutropenia	DisGeNet	
+IL1B	C0023364	Leptospirosis	DisGeNet	
+IL1B	C0027720	Nephrosis	DisGeNet	
+IL1B	C0030807	Pemphigus	DisGeNet	
+IL1B	C0037116	Silicosis	DisGeNet	
+IL1B	C0007930	Chagas Cardiomyopathy	DisGeNet	
+IL1B	C0014869	Peptic Esophagitis	DisGeNet	
+IL1B	C0549463	Lymphoproliferative syndrome, X-linked, 1, 308240 (3)	DisGeNet	
+IL1B	C0751713	Inclusion Body Myopathy, Sporadic	DisGeNet	
+IL1B	C1096063	Drug Resistant Epilepsy	DisGeNet	
+IL1B	C0016169	pathologic fistula	DisGeNet	
+IL1B	C0023283	Zoonotic form of cutaneous leishmaniasis	DisGeNet	
+IL1B	C0600260	Obstructive lung disease	DisGeNet	
+IL1B	C2827407	Infectious Otitis Media	DisGeNet	
+IL1B	C0013395	Dyspepsia	DisGeNet	
+IL1B	C0025261	Memory Disorders	DisGeNet	
+IL1B	C0027540	Necrosis	DisGeNet	
+IL1B	C0600327	Toxic Shock Syndrome	DisGeNet	
+IL1B	C0005426	Biliary tract neoplasm	DisGeNet	
+IL1B	C0023281	Leishmaniasis	DisGeNet	
+IL1B	C0152031	Joint swelling	DisGeNet	
+IL1B	C3665444	Chronic neutrophilia	DisGeNet	
+IL1B	C0027659	Neoplasms, Experimental	DisGeNet	
+IL1B	C0034152	Henoch-Schoenlein Purpura	DisGeNet	
+IL1B	C2717865	Anti-Neutrophil Cytoplasmic Antibody-Associated Vasculitis	DisGeNet	
+IL1B	C0036983	 {Septic shock, susceptibility to} (3)	DisGeNet	
+IL1B	C0019202	Wilson disease	DisGeNet	
+IL1B	C0036205	Sarcoidosis, Pulmonary	DisGeNet	
+IL1B	C1457887	CNS symptom	DisGeNet	
+IL1B	C0023518	Leukocytosis	DisGeNet	
+IL1B	C0240066	Iron deficiency	DisGeNet	
+IL1B	C0948216	Ovarian adenocarcinoma	DisGeNet	
+IL1B	C0014868	Esophagitis	DisGeNet	
+IL1B	C0025303	Meningococcal Infections	DisGeNet	
+IL1B	C0029410	Osteoarthritis of hip	DisGeNet	
+IL1B	C0162674	Progressive external ophthalmoplegia with mitochondrial DNA deletions, autosomal recessive 4	DisGeNet	
+IL1B	C0751356	Idiopathic Inflammatory Myopathies	DisGeNet	
+IL1B	C0948192	Primary infection NOS	DisGeNet	
+IL1B	C0038443	Stress, Psychological	DisGeNet	
+IL1B	C0242966	Systemic Inflammatory Response Syndrome	DisGeNet	
+IL1B	C1260899	Diamond-Blackfan anemia	DisGeNet	
+IL1B	C0040592	Trachoma	DisGeNet	
+IL1B	C0917796	Leber's optic atrophy	DisGeNet	
+IL1B	C0019061	Hemolytic uremic syndrome	DisGeNet	
+IL1B	C0752308	Hypoxia-Ischemia, Brain	DisGeNet	
+IL1B	C2945695	Limb ischemia	DisGeNet	
+IL1B	C0034150	Purpura	DisGeNet	
+IL1B	C0019621	Histiocytosis, Langerhans-Cell	DisGeNet	
+IL1B	C0028797	Occupational Diseases	DisGeNet	
+IL1B	C0035344	Retinopathy of Prematurity	DisGeNet	
+IL1B	C0398686	Primary immune deficiency disorder	DisGeNet	
+IL1B	C0949690	{Spondyloarthropathy, susceptibility to, 1}, 106300 (3)	DisGeNet	
+IL1B	C0036974	Shock, Septic	DisGeNet	
+IL1B	C1535939	Pneumocystis jiroveci pneumonia	DisGeNet	
+IL1B	C0037284	Skin lesion	DisGeNet	
+IL1B	C0311375	Arsenic Poisoning	DisGeNet	
+IL1B	C0017574	Gingivitis	DisGeNet	
+IL1B	C0035369	Retroviridae Infections	DisGeNet	
+IL1B	C0042749	 {HIV-1 viremia, susceptibility to}, 609423 (3)	DisGeNet	
+IL1B	C0242488	Acute Lung Injury	DisGeNet	
+IL1B	C0392707	{Atopy, susceptibility to}, 147050 (3)	DisGeNet	
+IL1B	C0009917	Contractures involving the joints of the feet	DisGeNet	
+IL1B	C0030805	{Pemphigoid, susceptibility to} (2)	DisGeNet	
+IL1B	C0041948	Uremia	DisGeNet	
+IL1B	C0019100	Severe Dengue	DisGeNet	
+IL1B	C0027686	Pathologic Neovascularization	DisGeNet	
+IL1B	C0030809	Pemphigus Vulgaris	DisGeNet	
+IL1B	C0029443	Osteomyelitis, sterile multifocal, with periostitis and pustulosis	DisGeNet	
+IL1B	C0032787	Postoperative Complications	DisGeNet	
+IL1B	C0269102	Endometrioma	DisGeNet	
+IL1B	C0342257	Complications of Diabetes Mellitus	DisGeNet	
+IL1B	C0702166	Acne	DisGeNet	
+IL1B	C0221204	Osteolysis	DisGeNet	
+IL1B	C0034063	Pulmonary edema	DisGeNet	
+IL1B	C0042138	Uterine neoplasm	DisGeNet	
+IL1B	C0085695	Chronic gastritis	DisGeNet	
+IL1B	C0432306	Ichthyosis bullosa of Siemens	DisGeNet	
+IL1B	C0494463	Alzheimer Disease, Late Onset	DisGeNet	
+IL1B	C0751955	Brain Infarction	DisGeNet	
+IL1B	C0949691	Spondylarthropathies	DisGeNet	
+IL1B	C0014599	Epithelial hyperplasia of skin	DisGeNet	
+IL1B	C0018203	Granulomatous disease, chronic, autosomal recessive, cytochrome b-negative	DisGeNet	
+IL1B	C0035220	Neonatal respiratory distress	DisGeNet	
+IL1B	C0149940	Sciatic Neuropathy	DisGeNet	
+IL1B	C0231341	Premature aging syndrome	DisGeNet	
+IL1B	C1096184	West Nile viral infection	DisGeNet	
+IL1B	C1285162	Degenerative disease of the spinal cord	DisGeNet	
+IL1B	C1862941	Amyotrophic Lateral Sclerosis, Sporadic	DisGeNet	
+IL1B	C0000809	Recurrent abortion	DisGeNet	
+IL1B	C0002171	Alopecia Areata	DisGeNet	
+IL1B	C0026936	Mycoplasma Infections	DisGeNet	
+IL1B	C0162670	Myopathy, mitochondrial progressive, with congenital cataract, hearing loss, and developmental delay	DisGeNet	
+IL1B	C0006114	Cerebral edema	DisGeNet	
+IL1B	C0013295	Duodenal Ulcer	DisGeNet	
+IL1B	C0025568	Metaplasia	DisGeNet	
+IL1B	C1318544	M5b Acute differentiated monocytic leukemia	DisGeNet	
+IL1B	C0021079	IMMUNE SUPPRESSION	DisGeNet	
+IL1B	C0042170	Uveomeningoencephalitic Syndrome	DisGeNet	
+IL1B	C0156543	Pregnancy loss	DisGeNet	
+IL1B	C0242231	Coronary artery stenosis	DisGeNet	
+IL1B	C0039614	Tetanus	DisGeNet	
+IL1B	C0879615	Stromal Neoplasm	DisGeNet	
+IL1B	C0008149	Chlamydia Infections	DisGeNet	
+IL1B	C0011269	Dementia, Vascular	DisGeNet	
+IL1B	C0017178	Gastrointestinal Diseases	DisGeNet	
+IL1B	C0206139	Lichen Planus, Oral	DisGeNet	
+IL1B	C0221056	Adult type dermatomyositis	DisGeNet	
+IL1B	C0243038	Carcinoma, Lewis Lung	DisGeNet	
+IL1B	C0392514	Hereditary hemochromatosis	DisGeNet	
+IL1B	C0740392	Infarction, Middle Cerebral Artery	DisGeNet	
+IL1B	C0920646	Renal ischaemia	DisGeNet	
+IL1B	C0017665	Membranous nephropathy, susceptibility to	DisGeNet	
+IL1B	C0027439	Nasopharyngeal Neoplasms	DisGeNet	
+IL1B	C0006840	Candidiasis, familial, 9	DisGeNet	
+IL1B	C0008313	Cholangitis, Sclerosing	DisGeNet	
+IL1B	C0033999	Pterygium	DisGeNet	
+IL1B	C0158266	Intervertebral disc degeneration	DisGeNet	
+IL1B	C0520463	Chronic active hepatitis	DisGeNet	
+IL1B	C1719672	Severe Sepsis	DisGeNet	
+IL1B	C0010200	Cough	DisGeNet	
+IL1B	C0031069	Familial Mediterranean fever	DisGeNet	
+IL1B	C0751967	Multiple Sclerosis, Relapsing-Remitting	DisGeNet	
+IL1B	C1519689	Tumor Promotion	DisGeNet	
+IL1B	C4082937	Necrotizing Enterocolitis	DisGeNet	
+IL1B	C0009952	Febrile seizures, familial, 4	DisGeNet	
+IL1B	C0023290	Leishmaniasis, Visceral	DisGeNet	
+IL1B	C0027859	Vestibular Schwannoma	DisGeNet	
+IL1B	C0032131	Plasmacytoma	DisGeNet	
+IL1B	C0149516	Chronic sinusitis	DisGeNet	
+IL1B	C0242723	Parasitemia	DisGeNet	
+IL1B	C0011616	Contact Dermatitis	DisGeNet	
+IL1B	C0011882	Type 1 diabetic neuropathy	DisGeNet	
+IL1B	C0031106	Periodontitis, Juvenile	DisGeNet	
+IL1B	C0205734	Latent autoimmune diabetes mellitus in adult	DisGeNet	
+IL1B	C0339143	Thyroid associated opthalmopathies	DisGeNet	
+IL1B	C0042029	Urinary tract infection	DisGeNet	
+IL1B	C0162534	Prion Diseases	DisGeNet	
+IL1B	C0867389	Chronic graft-versus-host disease	DisGeNet	
+IL1B	C0003857	Arteriovenous malformation	DisGeNet	
+IL1B	C0699949	airway disease	DisGeNet	
+IL1B	C2919828	Chronic ulcerative colitis	DisGeNet	
+IL1B	C0007789	Cerebral palsy, spastic quadriplegic, 3	DisGeNet	
+IL1B	C0024534	Malaria, Cerebral	DisGeNet	
+IL1B	C0029458	Postmenopausal osteoporosis	DisGeNet	
+IL1B	C0699893	Skin carcinoma	DisGeNet	
+IL1B	C0851578	Sleep Wake Disorders	DisGeNet	
+IL1B	C0024419	Waldenstrom macroglobulinemia	DisGeNet	
+IL1B	C0085409	Polyglandular autoimmune syndrome, type 1	DisGeNet	
+IL1B	C0376618	Endotoxemia	DisGeNet	
+IL1B	C0022568	Keratitis	DisGeNet	
+IL1B	C0343401	Methicillin resistant Staphylococcus aureus	DisGeNet	
+IL1B	C0037019	Shy-Drager syndrome	DisGeNet	
+IL1B	C0038644	SUDDEN INFANT DEATH SYNDROME	DisGeNet	
+IL1B	C1175175	Severe Acute Respiratory Syndrome	DisGeNet	
+IL1B	C0010692	Cystitis	DisGeNet	
+IL1B	C0004565	Melanoma, B16	DisGeNet	
+IL1B	C0085655	Polymyositis	DisGeNet	

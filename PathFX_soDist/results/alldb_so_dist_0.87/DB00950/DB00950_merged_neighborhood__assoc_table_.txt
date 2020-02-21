@@ -1,0 +1,2 @@
+rank	phenotype	cui	assoc in neigh	assoc in intom	probability	Benjamini-Hochberg	genes	
+6	Hyperbilirubinemia	C0020433	4	99	5.6771883872874795e-06	1.15606936416e-05	ABCB1,SLCO1B1,SLCO1B3,SLCO2B1

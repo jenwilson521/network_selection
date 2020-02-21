@@ -1,0 +1,5 @@
+rank	phenotype	cui	assoc in neigh	assoc in intom	probability	Benjamini-Hochberg	genes	
+27	Rhinitis, Allergic, Perennial	C0035457	2	35	1.4856192234624643e-05	5.41082164329e-05	ALB,CYP2C9
+35	Tubulointerstitial nephritis	C0027707	2	44	2.9810600680968413e-05	7.01402805611e-05	ALB,CYP2C9
+42	Adverse drug events and drug allergies	C0041755	2	60	7.588389350077218e-05	8.41683366733e-05	ALB,CYP2C9
+46	Essential tremor	C0270736	2	64	9.204715553312592e-05	9.21843687375e-05	CYP2C9,GABBR1

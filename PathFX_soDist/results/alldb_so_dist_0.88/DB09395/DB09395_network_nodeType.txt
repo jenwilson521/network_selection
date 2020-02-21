@@ -1,0 +1,15 @@
+node_name	node_type	
+DB09395	drug	
+ACSS2	drug_target	
+Angina, Unstable	phenotype	
+Renal cell carcinoma, nonpapillary	phenotype	
+Coronary heart disease 7	phenotype	
+Diabetes mellitus type 2	phenotype	
+Symptomatic human immunodeficiency virus infection	phenotype	
+Animal Mammary Neoplasms	phenotype	
+Acute myocardial infarction	phenotype	
+Stable angina	phenotype	
+Acute Coronary Syndrome	phenotype	
+Cancer Cell Growth	phenotype	
+Coronary Artery Disease	phenotype	
+Hepatocellular carcinoma	phenotype	

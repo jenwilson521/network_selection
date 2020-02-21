@@ -1,0 +1,13 @@
+node_name	node_type	
+DB04868	drug	
+CYP2C9	drug_target	
+CYP2C8	drug_target	
+ABCG2	drug_target	
+CYP2D6	drug_target	
+CYP2B6	drug_target	
+KIT	drug_target	
+SLCO1B1	drug_target	
+ABCB1	drug_target	
+ABL1	drug_target	
+CYP3A4	drug_target	
+UGT1A1	drug_target	

@@ -1,0 +1,16 @@
+Gene	CUI	Source Databases	
+ABCG2	C0032229	Pleural Neoplasms	DisGeNet	
+CYP1A1	C0032229	Pleural Neoplasms	DisGeNet	
+CYP1A2	C0032229	Pleural Neoplasms	DisGeNet	
+ABCG2	C0919532	Genomic Instability	DisGeNet	
+CYP1A1	C0919532	Genomic Instability	DisGeNet	
+CYP1A2	C0919532	Genomic Instability	DisGeNet	
+CYP1A1	C0273115	Lung Injury	DisGeNet	
+CYP1A2	C0273115	Lung Injury	DisGeNet	
+ABCG2	C0206720	Squamous Cell Neoplasms	DisGeNet	
+CYP1A1	C0206720	Squamous Cell Neoplasms	DisGeNet	
+ABCG2	C0023891	Liver Cirrhosis, Alcoholic	DisGeNet	
+CYP1A1	C0023891	Liver Cirrhosis, Alcoholic	DisGeNet	
+CYP1A2	C0023891	Liver Cirrhosis, Alcoholic	DisGeNet	
+CYP1A1	C0596321	Chemical Carcinogenesis	DisGeNet	
+CYP1A2	C0596321	Chemical Carcinogenesis	DisGeNet	

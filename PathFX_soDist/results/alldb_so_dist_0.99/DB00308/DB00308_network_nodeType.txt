@@ -1,0 +1,9 @@
+node_name	node_type	
+DB00308	drug	
+KCNJ11	drug_target	
+KCNH2	drug_target	
+CACNB1	drug_target	
+CACNA1C	drug_target	
+KCNK1	drug_target	
+CACNG1	drug_target	
+CACNA2D1	drug_target	

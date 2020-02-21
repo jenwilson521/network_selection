@@ -1,0 +1,144 @@
+node1	node2	edge_score	
+DB00968	DDC	1.0	
+DB00968	COMT	1.0	
+DB00968	ADRA2A	1.0	
+COMT	rs9332377	0.99
+COMT	rs9606186	0.99
+ADRA2A		1.0
+COMT	rs13306278	0.99
+COMT	rs4646316	0.99
+COMT	rs165599	0.99
+rs13306278	TXNRD2	0.9801
+COMT	rs4680	0.99
+COMT	rs4633	0.99
+COMT	rs4818	0.99
+COMT	rs6269	0.99
+DDC		1.0
+COMT		1.0
+ADRA2A	rs1800545	0.99
+Chronic sciatica	ADRA2A	1.0	
+Chronic sciatica	COMT	1.0	
+Behavior Disorders	ADRA2A	1.0	
+Behavior Disorders	COMT	1.0	
+Paranoid Schizophrenia	COMT	1.0	
+Paranoid Schizophrenia	DDC	1.0	
+Weight Gain Adverse Event	ADRA2A	1.0	
+Weight Gain Adverse Event	COMT	1.0	
+Weight Gain Adverse Event	DDC	1.0	
+Low back pain	ADRA2A	1.0	
+Low back pain	COMT	1.0	
+Drug usage	ADRA2A	1.0	
+Drug usage	COMT	1.0	
+Weight Loss Adverse Event	ADRA2A	1.0	
+Weight Loss Adverse Event	COMT	1.0	
+Dyskinesia, Drug-Induced	COMT	1.0	
+Dyskinesia, Drug-Induced	DDC	1.0	
+Polydipsia	ADRA2A	1.0	
+Polydipsia	COMT	1.0	
+As If Personality	COMT	1.0	
+As If Personality	DDC	1.0	
+Common Migraine	COMT	1.0	
+Common Migraine	DDC	1.0	
+Mammographic breast density	COMT	1.0	
+Mammographic breast density	TXNRD2	1.0	
+MAJOR AFFECTIVE DISORDER 4	COMT	1.0	
+MAJOR AFFECTIVE DISORDER 4	DDC	1.0	
+MAJOR AFFECTIVE DISORDER 5	COMT	1.0	
+MAJOR AFFECTIVE DISORDER 5	DDC	1.0	
+MAJOR AFFECTIVE DISORDER 6	COMT	1.0	
+MAJOR AFFECTIVE DISORDER 6	DDC	1.0	
+Major affective disorder 7	COMT	1.0	
+Major affective disorder 7	DDC	1.0	
+MAJOR AFFECTIVE DISORDER 8	COMT	1.0	
+MAJOR AFFECTIVE DISORDER 8	DDC	1.0	
+MAJOR AFFECTIVE DISORDER 9	COMT	1.0	
+MAJOR AFFECTIVE DISORDER 9	DDC	1.0	
+Migraine with aura	COMT	1.0	
+Migraine with aura	DDC	1.0	
+Ichthyosis bullosa of Siemens	ADRA2A	1.0	
+Ichthyosis bullosa of Siemens	COMT	1.0	
+Gastrointestinal Diseases	ADRA2A	1.0	
+Gastrointestinal Diseases	COMT	1.0	
+Neuralgia	ADRA2A	1.0	
+Neuralgia	COMT	1.0	
+Dyslexia 1	ADRA2A	1.0	
+Dyslexia 1	COMT	1.0	
+Mood Disorders	ADRA2A	1.0	
+Mood Disorders	COMT	1.0	
+Mood Disorders	DDC	1.0	
+Nicotine Dependence	COMT	1.0	
+Nicotine Dependence	DDC	1.0	
+Panic disorder syndrome 1 (2)	ADRA2A	1.0	
+Panic disorder syndrome 1 (2)	COMT	1.0	
+Depressive Symptoms	COMT	1.0	
+Depressive Symptoms	TXNRD2	1.0	
+Hypotension	ADRA2A	1.0	
+Hypotension	DDC	1.0	
+Tourette Syndrome	ADRA2A	1.0	
+Tourette Syndrome	COMT	1.0	
+Anxiety Disorders	ADRA2A	1.0	
+Anxiety Disorders	COMT	1.0	
+Anxiety Disorders	DDC	1.0	
+Hyperthyroidism	COMT	1.0	
+Hyperthyroidism	TXNRD2	1.0	
+Flushing	COMT	1.0	
+Seborrheic dermatitis	COMT	1.0	
+WFS1-Related Disorders	COMT	1.0	
+Arrhinencephaly	COMT	1.0	
+Kashin-Beck Disease	TXNRD2	1.0	
+Thyroid hormone receptor defect	TXNRD2	1.0	
+VITILIGO-ASSOCIATED MULTIPLE AUTOIMMUNE DISEASE SUSCEPTIBILITY 1 (finding)	COMT	1.0	
+VITILIGO-ASSOCIATED MULTIPLE AUTOIMMUNE DISEASE SUSCEPTIBILITY 1 (finding)	TXNRD2	1.0	
+Pleural Neoplasms	COMT	1.0	
+Hypoplasia of the thymus	COMT	1.0	
+Narcolepsy-Cataplexy Syndrome	COMT	1.0	
+Irritable bowel syndrome with diarrhea	ADRA2A	1.0	
+Irritable bowel syndrome with diarrhea	COMT	1.0	
+Bulimia	COMT	1.0	
+Oxycephaly	COMT	1.0	
+Aplasia/Hypoplasia of the thymus	COMT	1.0	
+Bowel incontinence	COMT	1.0	
+Abnormal lung lobation	COMT	1.0	
+Paranoia	COMT	1.0	
+Cholelithiasis	ADRA2A	1.0	
+Cholelithiasis	COMT	1.0	
+Borderline Personality Disorder	COMT	1.0	
+Borderline Personality Disorder	DDC	1.0	
+Hypothermia	DDC	1.0	
+Hyperalgesia	ADRA2A	1.0	
+Hyperalgesia	COMT	1.0	
+Generalized anxiety disorder	COMT	1.0	
+Substance Use Disorders	COMT	1.0	
+Apathy	COMT	1.0	
+Alcohol withdrawal syndrome	COMT	1.0	
+Overfolded helix	COMT	1.0	
+Distal myopathy Markesbery-Griggs type	COMT	1.0	
+Hemorrhagic disorder due to intrinsic circulating anticoagulants	ADRA2A	1.0	
+Truncus arteriosus	COMT	1.0	
+Abnormal large intestine physiology	COMT	1.0	
+Increased body weight	ADRA2A	1.0	
+Increased body weight	COMT	1.0	
+Increased body weight	DDC	1.0	
+Carpal tunnel syndrome	COMT	1.0	
+Patellar dislocation	COMT	1.0	
+Excessive salivation	ADRA2A	1.0	
+Venous insufficiency	COMT	1.0	
+Seasonal Affective Disorder	COMT	1.0	
+childhood brain tumor	COMT	1.0	
+Aplasia/Hypoplasia of the earlobes	COMT	1.0	
+Abnormally folded helix	COMT	1.0	
+Attention deficit hyperactivity disorder	ADRA2A	1.0	
+Attention deficit hyperactivity disorder	COMT	1.0	
+Attention deficit hyperactivity disorder	DDC	1.0	
+Chronic schizophrenia	COMT	1.0	
+Multiple renal cysts	COMT	1.0	
+Acute postoperative pain	COMT	1.0	
+Psychiatric symptom	COMT	1.0	
+Genomic Instability	COMT	1.0	
+Dysphasia	COMT	1.0	
+Retinal vascular tortuosity	COMT	1.0	
+Acute disease of cardiovascular system	ADRA2A	1.0	
+Personality disorder	COMT	1.0	
+Chromosome 5, trisomy 5q	TXNRD2	1.0	
+Laryngomalacia	COMT	1.0	
+Bulimia nervosa 1	COMT	1.0	

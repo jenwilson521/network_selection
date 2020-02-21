@@ -1,0 +1,334 @@
+Gene	CUI	Source Databases	
+GSTP1	C0006142	Breast-ovarian cancer, familial 1	DisGeNet	
+SLCO1A2	C0006142	Breast-ovarian cancer, familial 1	DisGeNet	
+GSTP1	C0009324	Ulcerative colitis	DisGeNet	
+SLCO1A2	C0009324	Ulcerative colitis	DisGeNet	
+GSTP1	C0011860	Diabetes mellitus type 2	DisGeNet	
+SLCO1A2	C0011860	Diabetes mellitus type 2	DisGeNet	
+GSTP1	C0020538	Hypertension	DisGeNet	
+SLCO1A2	C0020538	Hypertension	DisGeNet	
+GSTP1	C0024667	Animal Mammary Neoplasms	DisGeNet	
+SLCO1A2	C0024667	Animal Mammary Neoplasms	DisGeNet	
+GSTP1	C0040336	Tobacco Use Disorder	DisGeNet	
+SLCO1A2	C0040336	Tobacco Use Disorder	DisGeNet	
+GSTP1	C0376358	Malignant tumor of prostate	DisGeNet	
+SLCO1A2	C0376358	Malignant tumor of prostate	DisGeNet	
+GSTP1	C0600139	Prostate carcinoma	DisGeNet	
+SLCO1A2	C0600139	Prostate carcinoma	DisGeNet	
+GSTP1	C0678222	Breast carcinoma	DisGeNet	
+SLCO1A2	C0678222	Breast carcinoma	DisGeNet	
+GSTP1	C0948089	Acute Coronary Syndrome	DisGeNet	
+SLCO1A2	C0948089	Acute Coronary Syndrome	PheGenI	
+GSTP1	C1168401	Squamous cell carcinoma of the head and neck	DisGeNet	
+SLCO1A2	C1168401	Squamous cell carcinoma of the head and neck	DisGeNet	
+GSTP1	C0003949	Asbestosis	DisGeNet	
+GSTP1	C0011609	Drug Eruptions	DisGeNet	
+GSTP1	C0020440	Hypercapnia	DisGeNet	
+GSTP1	C0340100	High altitude pulmonary edema	DisGeNet	
+GSTP1	C1827377	Slow acetylator due to N-acetyltransferase enzyme variant	DisGeNet	
+GSTP1	C0033817	Pseudomonas Infections	DisGeNet	
+GSTP1	C0037090	Signs and Symptoms, Respiratory	DisGeNet	
+GSTP1	C0264423	Asthma, Occupational	DisGeNet	
+GSTP1	C0153405	Malignant neoplasm of pharynx	DisGeNet	
+GSTP1	C0040715	Chromosomal translocation	DisGeNet	
+GSTP1	C0206720	Squamous Cell Neoplasms	DisGeNet	
+GSTP1	C1333782	Gastric Mucosa-Associated Lymphoid Tissue Lymphoma	DisGeNet	
+GSTP1	C0024537	Malaria, Vivax	DisGeNet	
+GSTP1	C0035228	Respiratory Hypersensitivity	DisGeNet	
+GSTP1	C0268138	Xeroderma Pigmentosum, Complementation Group D	DisGeNet	
+GSTP1	C0278510	Medulloblastoma, Childhood	DisGeNet	
+GSTP1	C0854912	Germinoma	DisGeNet	
+GSTP1	C0024137	Lupus Erythematosus, Cutaneous	DisGeNet	
+GSTP1	C0035457	Rhinitis, Allergic, Perennial	DisGeNet	
+GSTP1	C0854467	Myelosuppression	DisGeNet	
+GSTP1	C0001857	AIDS related complex	DisGeNet	
+GSTP1	C0032273	Simple pneumoconiosis	DisGeNet	
+GSTP1	C0852036	Pregnancy associated hypertension	DisGeNet	
+GSTP1	C0280280	Prostate cancer stage C	DisGeNet	
+GSTP1	C0376670	Pancreatitis, Alcoholic	DisGeNet	
+GSTP1	C0677659	Gastro-esophageal reflux disease with esophagitis	DisGeNet	
+GSTP1	C0206368	Exfoliation Syndrome	DisGeNet	
+GSTP1	C0235032	Neurotoxicity Syndromes	DisGeNet	
+GSTP1	C0007121	Bronchogenic Carcinoma	DisGeNet	
+GSTP1	C3662483	Allergic sensitization	DisGeNet	
+GSTP1	C0038354	Stomach Diseases	DisGeNet	
+GSTP1	C0740858	Substance abuse problem	DisGeNet	
+GSTP1	C0018781	Noise-induced hearing loss	DisGeNet	
+GSTP1	C0036646	Age-related cataract	DisGeNet	
+GSTP1	C1257930	Mammary Carcinoma, Human	DisGeNet	
+GSTP1	C0005956	Myelopathy	DisGeNet	
+GSTP1	C0014850	Esophageal atresia	DisGeNet	
+GSTP1	C0022650	Kidney Calculi	DisGeNet	
+GSTP1	C0013386	Dyskinesia, Drug-Induced	DisGeNet	
+GSTP1	C0016978	Neoplasm of the gallbladder	DisGeNet	
+GSTP1	C0950124	Papillomavirus Infections	DisGeNet	
+GSTP1	C1306837	Papillary renal cell carcinoma	DisGeNet	
+GSTP1	C0019045	Hemoglobinopathy	DisGeNet	
+GSTP1	C0037116	Silicosis	DisGeNet	
+GSTP1	C0014869	Peptic Esophagitis	DisGeNet	
+GSTP1	C0023531	Leukoplakia	DisGeNet	
+GSTP1	C0033054	Prenatal Exposure Delayed Effects	DisGeNet	
+GSTP1	C0004779	Gorlin syndrome	DisGeNet	
+GSTP1	C0008628	Chromosome Xq28 deletion syndrome	DisGeNet	
+GSTP1	C0013395	Dyspepsia	DisGeNet	
+GSTP1	C0027540	Necrosis	DisGeNet	
+GSTP1	C0035242	Respiratory Tract Diseases	DisGeNet	
+GSTP1	C0600427	Cocaine Dependence	DisGeNet	
+GSTP1	C0850572	Adenomatous polyp of colon	DisGeNet	
+GSTP1	C0014868	Esophagitis	DisGeNet	
+GSTP1	C1332977	Childhood Leukemia	DisGeNet	
+GSTP1	C0027658	Neoplasms, Germ Cell and Embryonal	DisGeNet	
+GSTP1	C0031347	Pharyngeal Neoplasms	DisGeNet	
+GSTP1	C0270736	Essential tremor	DisGeNet	
+GSTP1	C2986665	Early-Stage Breast Carcinoma	DisGeNet	
+SLCO1A2	C0038868	Progressive supranuclear ophthalmoplegia	DisGeNet	
+GSTP1	C0040137	Thyroid Nodule	DisGeNet	
+GSTP1	C0221757	Alpha-1-antitrypsin deficiency	DisGeNet	
+GSTP1	C0033941	Psychoses, Substance-Induced	DisGeNet	
+GSTP1	C0949059	Colorectal polyposis	DisGeNet	
+GSTP1	C4055506	Neurodegeneration with brain iron accumulation 4	DisGeNet	
+GSTP1	C0028797	Occupational Diseases	DisGeNet	
+GSTP1	C0035344	Retinopathy of Prematurity	DisGeNet	
+GSTP1	C0006271	Bronchiolitis	DisGeNet	
+GSTP1	C0006277	Bronchitis	DisGeNet	
+GSTP1	C0311375	Arsenic Poisoning	DisGeNet	
+GSTP1	C0242488	Acute Lung Injury	DisGeNet	
+GSTP1	C0008677	Bronchitis, Chronic	DisGeNet	
+GSTP1	C0023532	Oral leukoplakia	DisGeNet	
+GSTP1	C0032787	Postoperative Complications	DisGeNet	
+GSTP1	C0013720	Ehlers-Danlos syndrome, type vii, autosomal recessive	DisGeNet	
+GSTP1	C0085695	Chronic gastritis	DisGeNet	
+GSTP1	C0035220	Neonatal respiratory distress	DisGeNet	
+GSTP1	C0013182	Drug Allergy	DisGeNet	
+GSTP1	C0025568	Metaplasia	DisGeNet	
+GSTP1	C0008625	Chromosome Aberrations	DisGeNet	
+GSTP1	C0035204	Respiration Disorders	DisGeNet	
+GSTP1	C0236733	Amphetamine-Related Disorders	DisGeNet	
+GSTP1	C0007120	Alveolar cell carcinoma	DisGeNet	
+GSTP1	C0043144	Wheezing	DisGeNet	
+SLCO1A2	C0947622	Cholecystolithiasis	DisGeNet	
+GSTP1	C0027859	Vestibular Schwannoma	DisGeNet	
+GSTP1	C0011616	Contact Dermatitis	DisGeNet	
+GSTP1	C0152025	Polyneuropathy, hearing loss, ataxia, retinitis pigmentosa, and cataract	DisGeNet	
+GSTP1	C0339143	Thyroid associated opthalmopathies	DisGeNet	
+GSTP1	C1168327	High-Grade Prostatic Intraepithelial Neoplasia	DisGeNet	
+GSTP1	C0012860	DNA Damage	DisGeNet	
+GSTP1	C0022602	Actinic keratosis	DisGeNet	
+GSTP1	C2919828	Chronic ulcerative colitis	DisGeNet	
+GSTP1	C0699893	Skin carcinoma	DisGeNet	
+GSTP1	C0855197	Testicular malignant germ cell tumor	DisGeNet	
+GSTP1	C0013384	Dyskinesia, seizures, and intellectual developmental disorder	DisGeNet	
+GSTP1	C0030554	Paresthesia	DisGeNet	
+GSTP1	C0018995	Hemochromatosis	DisGeNet	
+GSTP1	C0023891	Liver Cirrhosis, Alcoholic	DisGeNet	
+GSTP1	C0023896	Alcoholic Liver Diseases	DisGeNet	
+GSTP1	C1336708	Testicular Germ Cell Tumor	DisGeNet	
+GSTP1	C0013146	Methamphetamine abuse	DisGeNet	
+GSTP1	C0034885	Neoplasm of the rectum	DisGeNet	
+GSTP1	C0264408	Childhood asthma	DisGeNet	
+GSTP1	C0018552	Hamartoma	DisGeNet	
+GSTP1	C0023055	Neoplasm of the larynx	DisGeNet	
+GSTP1	C0940937	precancerous lesions	DisGeNet	
+GSTP1	C0039538	Teratoma	DisGeNet	
+GSTP1	C0262584	Carcinoma, Small Cell	DisGeNet	
+GSTP1	C0345905	Intrahepatic Cholangiocarcinoma	DisGeNet	
+GSTP1	C0023443	Hairy Cell Leukemia	DisGeNet	
+GSTP1	C0079487	Helicobacter Infections	DisGeNet	
+GSTP1	C0577631	Carotid Atherosclerosis	DisGeNet	
+GSTP1	C0017612	Glaucoma, Open-Angle	DisGeNet	
+GSTP1	C0020541	Portal hypertension, noncirrhotic	DisGeNet	
+GSTP1	C0042076	Urinary tract neoplasm	DisGeNet	
+GSTP1	C0017154	Chronic atrophic gastritis	DisGeNet	
+GSTP1	C0020523	Immediate hypersensitivity	DisGeNet	
+GSTP1	C1333990	Hereditary nonpolyposis colorectal cancer type 8	DisGeNet	
+GSTP1	C0014474	Ependymoma	DisGeNet	
+GSTP1	C0030920	Peptic ulcer	DisGeNet	
+GSTP1	C0039446	Telangiectases in sun-exposed and nonexposed skin	DisGeNet	
+GSTP1	C0206687	Carcinoma, Endometrioid	DisGeNet	
+GSTP1	C0017563	Gingival Diseases	DisGeNet	
+GSTP1	C0026857	Musculoskeletal Diseases	DisGeNet	
+GSTP1	C0027809	Schwannoma	DisGeNet	
+GSTP1	C0279680	Transitional cell carcinoma of the bladder	DisGeNet	
+GSTP1	C0878500	Intraepithelial Neoplasia	DisGeNet	
+GSTP1	C0007107	Malignant neoplasm of larynx	DisGeNet	
+GSTP1	C0023892	Biliary cirrhosis	DisGeNet	
+GSTP1	C0032964	Pregnancy Complications, Hematologic	DisGeNet	
+GSTP1	C0007117	Basal cell carcinoma	DisGeNet	
+GSTP1	C0023904	Liver Neoplasms, Experimental	DisGeNet	
+GSTP1	C0085084	Motor Neuron Disease	DisGeNet	
+GSTP1	C0334579	Anaplastic astrocytoma	DisGeNet	
+GSTP1	C0039590	Testicular Neoplasms	DisGeNet	
+GSTP1	C0162309	Adrenoleukodystrophy	DisGeNet	
+GSTP1	C0035222	Respiratory Distress Syndrome, Adult	DisGeNet	
+GSTP1	C0282612	Prostatic Intraepithelial Neoplasias	DisGeNet	
+GSTP1	C0018939	Hematological Disease	DisGeNet	
+GSTP1	C0007621	Neoplastic Cell Transformation	DisGeNet	
+GSTP1	C0015397	orbit (eye disorders)	DisGeNet	
+GSTP1	C0024535	Malaria, Falciparum	DisGeNet	
+GSTP1	C1336076	Sporadic Breast Carcinoma	DisGeNet	
+GSTP1	C0004763	Barrett Esophagus	DisGeNet	
+GSTP1	C0018772	Hearing Loss, Partial	DisGeNet	
+GSTP1	C0015929	Fetal Diseases	DisGeNet	
+GSTP1	C0028960	Oligospermia	DisGeNet	
+GSTP1	C0153633	Malignant neoplasm of brain and nervous system	DisGeNet	
+GSTP1	C1847835	VITILIGO-ASSOCIATED MULTIPLE AUTOIMMUNE DISEASE SUSCEPTIBILITY 1 (finding)	DisGeNet	
+GSTP1	C0007112	Adenocarcinoma of prostate	DisGeNet	
+GSTP1	C0346957	Disseminated Malignant Neoplasm	DisGeNet	
+GSTP1	C0027626	Neoplasm Invasiveness	DisGeNet	
+GSTP1	C0153452	Malignant neoplasm of gallbladder	DisGeNet	
+GSTP1	C0085129	Bronchial Hyperreactivity	DisGeNet	
+GSTP1	C0007873	Uterine Cervical Neoplasms	DisGeNet	
+SLCO1A2	C0008350	Cholelithiasis	DisGeNet	
+GSTP1	C0236969	Substance-Related Disorders	DisGeNet	
+GSTP1	C0339573	Primary open angle glaucoma juvenile onset 1	DisGeNet	
+GSTP1	C0079745	Lymphoma, Large-Cell, Follicular	DisGeNet	
+GSTP1	C0041107	Trisomy	DisGeNet	
+GSTP1	C0206659	Embryonal Carcinoma	DisGeNet	
+GSTP1	C0595989	Laryngeal carcinoma	DisGeNet	
+GSTP1	C0020517	Hypersensitivity	DisGeNet	
+GSTP1	C0007273	Carotid Artery Diseases	DisGeNet	
+GSTP1	C3714757	Juvenile rheumatoid arthritis	DisGeNet	
+GSTP1	C0016059	Fibrosis	DisGeNet	
+GSTP1	C0751396	Well Differentiated Oligodendroglioma	DisGeNet	
+GSTP1	C1449563	Dilated cardiomyopathy 1A	DisGeNet	
+GSTP1	C0149782	Squamous cell carcinoma of lung	DisGeNet	
+GSTP1	C0235782	Gallbladder Carcinoma	DisGeNet	
+GSTP1	C0349204	Cycloid psychosis	DisGeNet	
+GSTP1	C0085183	Neoplasms, Second Primary	DisGeNet	
+GSTP1	C0242647	Primary cutaneous marginal zone B-cell lymphoma	DisGeNet	
+GSTP1	C0009782	Connective Tissue Diseases	DisGeNet	
+GSTP1	C0019189	Chronic hepatitis	DisGeNet	
+GSTP1	C0860207	Drug-Induced Liver Injury	DisGeNet	
+GSTP1	C0155877	Allergic asthma	DisGeNet	
+GSTP1	C0238462	Medullary thyroid carcinoma	DisGeNet	
+GSTP1	C0013404	Dyspnea	DisGeNet	
+GSTP1	C3539909	Allergic disposition	DisGeNet	
+GSTP1	C0034067	Pulmonary Emphysema	DisGeNet	
+GSTP1	C0085605	Liver failure acute infantile	DisGeNet	
+GSTP1	C0026640	Neoplasm of the oral cavity	DisGeNet	
+GSTP1	C1134719	Invasive Ductal Breast Carcinoma	DisGeNet	
+GSTP1	C0007133	Carcinoma, Papillary	DisGeNet	
+GSTP1	C0242422	Parkinsonism	DisGeNet	
+GSTP1	C0242656	Disease Progression	DisGeNet	
+GSTP1	C0006287	Bronchopulmonary Dysplasia	DisGeNet	
+GSTP1	C0151514	Dermal atrophy	DisGeNet	
+GSTP1	C0155626	Acute myocardial infarction	DisGeNet	
+GSTP1	C0042900	Vitiligo	DisGeNet	
+GSTP1	C0015625	Fanconi anemia	DisGeNet	
+GSTP1	C0153594	Malignant tumor of testis	DisGeNet	
+GSTP1	C0027947	Neutropenia	DisGeNet	
+GSTP1	C0011053	Deafness, autosomal recessive 44	DisGeNet	
+GSTP1	C1302401	Adenoma of large intestine	DisGeNet	
+GSTP1	C0017168	Gastroesophageal reflux	DisGeNet	
+GSTP1	C0000786	Spontaneous abortion	DisGeNet	
+GSTP1	C0004509	Azoospermia	DisGeNet	
+GSTP1	C0027726	Nephrotic syndrome, type 5, with or without ocular abnormalities	DisGeNet	
+GSTP1	C0151779	Cutaneous malignant melanoma 3	DisGeNet	
+GSTP1	C3811653	Experimental Organism Basal Cell Carcinoma	DisGeNet	
+GSTP1	C0442874	Neuropathy ataxia retinitis pigmentosa syndrome	DisGeNet	
+GSTP1	C0345967	Malignant mesothelioma	DisGeNet	
+GSTP1	C0014170	Endometrial Neoplasms	DisGeNet	
+GSTP1	C0017185	Gastrointestinal Neoplasms	DisGeNet	
+GSTP1	C0022660	Acute kidney injury	DisGeNet	
+GSTP1	C0524909	Hepatitis B, Chronic	DisGeNet	
+GSTP1	C0027643	Neoplasm Recurrence, Local	DisGeNet	
+GSTP1	C0030305	Pancreatitis	DisGeNet	
+GSTP1	C0032000	Pituitary adenoma	DisGeNet	
+GSTP1	C0149978	Rectal Carcinoma	DisGeNet	
+GSTP1	C0007124	Noninfiltrating Intraductal Carcinoma	DisGeNet	
+GSTP1	C0850666	Helicobacter pylori infection	DisGeNet	
+GSTP1	C0279628	Adenocarcinoma Of Esophagus	DisGeNet	
+GSTP1	C0023530	Leukopenia	DisGeNet	
+GSTP1	C0175754	Agenesis of corpus callosum	DisGeNet	
+GSTP1	C0021364	Male infertility	DisGeNet	
+GSTP1	C0018133	Graft-versus-host disease, susceptibility to	DisGeNet	
+GSTP1	C0400966	Non-alcoholic Fatty Liver Disease	DisGeNet	
+GSTP1	C0024138	Discoid lupus erythematosus	DisGeNet	
+GSTP1	C0032019	Pituitary Neoplasms	DisGeNet	
+GSTP1	C0334634	Malignant lymphoma, lymphocytic, intermediate differentiation, diffuse	DisGeNet	
+GSTP1	C0008370	Cholestasis, benign recurrent intrahepatic 1	DisGeNet	
+GSTP1	C0033975	Psychotic Disorders	DisGeNet	
+GSTP1	C0018671	Head and Neck Neoplasms	DisGeNet	
+GSTP1	C0020542	Pulmonary hypertension, neonatal, susceptibility to	DisGeNet	
+GSTP1	C0149931	Migraine Disorders	DisGeNet	
+GSTP1	C3495559	Juvenile idiopathic arthritis, enthesitis related arthritis	DisGeNet	
+GSTP1	C0003130	Hypoxia	DisGeNet	
+GSTP1	C0013604	Hydrops, lactic acidosis, and sideroblastic anemia	DisGeNet	
+GSTP1	C0278488	Carcinoma breast stage IV	DisGeNet	
+GSTP1	C0008924	Cleft Lip	DisGeNet	
+GSTP1	C0022665	Renal neoplasm	DisGeNet	
+GSTP1	C0853879	Invasive breast carcinoma	DisGeNet	
+GSTP1	C0032914	Preeclampsia/eclampsia 1	DisGeNet	
+GSTP1	C0018213	Graves Disease	DisGeNet	
+GSTP1	C0151526	Premature Birth	DisGeNet	
+GSTP1	C0019159	Hepatitis	DisGeNet	
+GSTP1	C0238339	Hereditary pancreatitis	DisGeNet	
+GSTP1	C0015934	Intrauterine growth retardation	DisGeNet	
+GSTP1	C0003469	Anxiety Disorders	DisGeNet	
+GSTP1	C1271104	Blood pressure finding	DisGeNet	
+GSTP1	C0023452	Leukemia, Lymphocytic, Acute, L1	DisGeNet	
+GSTP1	C0024301	Lymphoma, Follicular	DisGeNet	
+GSTP1	C0007138	Urothelial Carcinoma	DisGeNet	
+GSTP1	C0409974	{Systemic lupus erythematosus, susceptibility to, 8} (2)	DisGeNet	
+GSTP1	C0032580	Familial adenomatous polyposis 1	DisGeNet	
+GSTP1	C3463824	Myelodysplastic syndrome	DisGeNet	
+GSTP1	C0206698	Cholangiocarcinoma	DisGeNet	
+GSTP1	C0740457	Malignant neoplasm of kidney	DisGeNet	
+GSTP1	C0035243	Respiratory tract infection	DisGeNet	
+GSTP1	C0019829	Hodgkin Disease	DisGeNet	
+GSTP1	C0220641	Lip and Oral Cavity Carcinoma	DisGeNet	
+GSTP1	C0153381	Cancer of mouth	DisGeNet	
+GSTP1	C0242383	Age-related macular degeneration 2	DisGeNet	
+GSTP1	C1704272	Benign Prostatic Hyperplasia	DisGeNet	
+GSTP1	C0015695	Hepatic steatosis	DisGeNet	
+GSTP1	C0278996	Cancer of Head and Neck	DisGeNet	
+GSTP1	C0037286	Neoplasm of the skin	DisGeNet	
+GSTP1	C1272641	Systemic arterial pressure	DisGeNet	
+GSTP1	C0010674	Cystic Fibrosis	DisGeNet	
+GSTP1	C0007115	Thyroid cancer, nonmedullary, 4	DisGeNet	
+GSTP1	C0027765	Other disorders of the nervous system	DisGeNet	
+GSTP1	C0032927	Precancerous Conditions	DisGeNet	
+GSTP1	C0017601	Glaucoma, Angle-Closure	DisGeNet	
+GSTP1	C1709246	Non-Neoplastic Disorder	DisGeNet	
+GSTP1	C0005695	Urinary Bladder Neoplasms	DisGeNet	
+GSTP1	C0032285	Pneumonia	DisGeNet	
+GSTP1	C1512409	Hepatocarcinogenesis	DisGeNet	
+GSTP1	C0013595	Eczema	DisGeNet	
+GSTP1	C0013080	Down Syndrome	DisGeNet	
+GSTP1	C0018817	Atrial septal defect	DisGeNet	
+GSTP1	C0037274	Dermatosis NOS	DisGeNet	
+GSTP1	C0151744	Acute myocardial ischemia	DisGeNet	
+GSTP1	C0040136	Thyroid Neoplasms	DisGeNet	
+GSTP1	C0007103	Malignant neoplasm of endometrium	DisGeNet	
+GSTP1	C0153574	Uterine Corpus Cancer	DisGeNet	
+GSTP1	C0085669	Acute leukemia	DisGeNet	
+GSTP1	C0023470	Myeloid leukemia	DisGeNet	
+GSTP1	C0008626	Congenital chromosomal disease	DisGeNet	
+GSTP1	C0024530	Malaria	DisGeNet	
+GSTP1	C0024305	Non-Hodgkin lymphoma	DisGeNet	
+GSTP1	C0011615	Dermatitis, Atopic	DisGeNet	
+GSTP1	C1335302	Pancreatic Ductal Adenocarcinoma	DisGeNet	
+GSTP1	C0079744	Germinal Center B-Cell-Like Diffuse Large B-Cell Lymphoma	DisGeNet	
+GSTP1	C0008925	Cleft Palate	DisGeNet	
+GSTP1	C0152018	Esophageal carcinoma	DisGeNet	
+GSTP1	C0023895	Liver Diseases	DisGeNet	
+GSTP1	C0345904	Hepatic cancer metastatic	DisGeNet	
+GSTP1	C0022661	Kidney Failure, Chronic	DisGeNet	
+GSTP1	C0002871	Anemia	DisGeNet	
+GSTP1	C0030193	Pain	DisGeNet	
+GSTP1	C0149925	Small cell lung cancer	DisGeNet	
+GSTP1	C0032002	Abnormality of the pituitary gland	DisGeNet	
+GSTP1	C0021368	Inflammation	DisGeNet	
+GSTP1	C0022116	Ischemia	DisGeNet	
+GSTP1	C0546837	Malignant tumor of esophagus	DisGeNet	
+GSTP1	C0079731	B-cell lymphoma	DisGeNet	
+GSTP1	C0549473	Thyroid carcinoma	DisGeNet	
+GSTP1	C0598766	Leukemogenesis	DisGeNet	
+GSTP1	C0006118	Brain neoplasm	DisGeNet	
+GSTP1	C2931822	Nasopharyngeal carcinoma, susceptibility to, 3	DisGeNet	
+SLCO1A2	C0014544	Epilepsy	DisGeNet	
+GSTP1	C0004114	Astrocytoma	DisGeNet	
+GSTP1	C0000768	EMG: myopathic abnormalities	DisGeNet	
+GSTP1	C0001973	Alcohol dependence	DisGeNet	
+GSTP1	C0014859	Esophageal Neoplasms	DisGeNet	
+GSTP1	C0086543	Cataract, autosomal recessive congenital 5	DisGeNet	

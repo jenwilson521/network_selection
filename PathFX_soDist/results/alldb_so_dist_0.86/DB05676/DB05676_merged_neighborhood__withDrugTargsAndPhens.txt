@@ -1,0 +1,1389 @@
+node1	node2	edge_score	
+DB05676	NOS3	1.0	
+DB05676	IFNG	1.0	
+DB05676	TNF	1.0	
+DB05676	IL2	1.0	
+DB05676	PDE4A	1.0	
+DB05676	CYP3A4	1.0	
+DB05676	PDE4D	1.0	
+DB05676	PDE4B	1.0	
+CYP3A4	rs35599367	0.99
+CYP3A4	rs2242480	0.99
+TNF	rs1800629	0.99
+rs2740574	CYP3A	0.9801
+IL2		1.0
+CYP3A4	rs4646437	0.99
+TNF		1.0
+TNF	rs361525	0.99
+CYP3A4	rs2246709	0.99
+CYP3A	rs12721627	0.970299
+CYP3A4	CYP3A4*1, CYP3A4*4	0.99
+rs4987161	CYP3A	0.9801
+rs12721627	CYP3A	0.9801
+CYP3A4	rs3735451	0.99
+CYP3A4		1.0
+rs12721627	CYP3A4	0.96059601
+rs4987161	CYP3A4	0.96059601
+CYP3A4	CYP3A4*1, CYP3A4*22	0.99
+CYP3A	rs2740574	0.970299
+NOS3		1.0
+IFNG		1.0
+TNF	rs1799964	0.99
+CYP3A4	rs4987161	0.99
+CYP3A4	rs2740574	0.99
+PDE4D		1.0
+rs2740574	CYP3A4	0.96059601
+CYP3A4	rs28371759	0.99
+TNF	rs1799724	0.99
+CYP3A4	rs4986910	0.99
+CYP3A	rs4987161	0.970299
+CYP3A4	CYP3A4*1, CYP3A4*20, CYP3A4*8	0.99
+PDE4B	complex:lAo9+jzjVOaRJSWZQvoh0G1mUDc	0.904977499353
+CYP3A4	rs4646440	0.99
+CYP3A4	rs12721627	0.99
+PDE4B		1.0
+CYP3A4	CYP3A4*1, CYP3A4*1G	0.99
+CYP3A4	rs56324128	0.99
+Bronchiolitis Obliterans	IFNG	1.0	
+Bronchiolitis Obliterans	IL2	1.0	
+Bronchiolitis Obliterans	NOS3	1.0	
+Bronchiolitis Obliterans	TNF	1.0	
+Tardive Dyskinesia	CYP3A4	1.0	
+Tardive Dyskinesia	NOS3	1.0	
+Tardive Dyskinesia	PDE4B	1.0	
+Tardive Dyskinesia	TNF	1.0	
+Rheumatoid Nodule	IFNG	1.0	
+Rheumatoid Nodule	IL2	1.0	
+Rheumatoid Nodule	TNF	1.0	
+ {HIV-1 viremia, susceptibility to}, 609423 (3)	CYP3A4	1.0	
+ {HIV-1 viremia, susceptibility to}, 609423 (3)	IFNG	1.0	
+ {HIV-1 viremia, susceptibility to}, 609423 (3)	IL2	1.0	
+ {HIV-1 viremia, susceptibility to}, 609423 (3)	TNF	1.0	
+Orofacial dyskinesia	CYP3A4	1.0	
+Orofacial dyskinesia	NOS3	1.0	
+Orofacial dyskinesia	PDE4B	1.0	
+Orofacial dyskinesia	TNF	1.0	
+Complications of Diabetes Mellitus	IFNG	1.0	
+Complications of Diabetes Mellitus	IL2	1.0	
+Complications of Diabetes Mellitus	NOS3	1.0	
+Complications of Diabetes Mellitus	TNF	1.0	
+Steroid-sensitive nephrotic syndrome	IFNG	1.0	
+Steroid-sensitive nephrotic syndrome	IL2	1.0	
+Steroid-sensitive nephrotic syndrome	TNF	1.0	
+Bovine Anaplasmosis	IFNG	1.0	
+Bovine Anaplasmosis	IL2	1.0	
+Bovine Anaplasmosis	TNF	1.0	
+Malignant neoplasm of vulva	IL2	1.0	
+Malignant neoplasm of vulva	NOS3	1.0	
+Malignant neoplasm of vulva	TNF	1.0	
+Alopecia Areata	IFNG	1.0	
+Alopecia Areata	IL2	1.0	
+Alopecia Areata	NOS3	1.0	
+Alopecia Areata	TNF	1.0	
+Femur Head Necrosis	CYP3A4	1.0	
+Femur Head Necrosis	NOS3	1.0	
+Femur Head Necrosis	TNF	1.0	
+Familial cold-induced inflammatory syndrome 1, 120100 (3)	IFNG	1.0	
+Familial cold-induced inflammatory syndrome 1, 120100 (3)	IL2	1.0	
+Familial cold-induced inflammatory syndrome 1, 120100 (3)	TNF	1.0	
+Oral aphthae	IFNG	1.0	
+Oral aphthae	IL2	1.0	
+Oral aphthae	TNF	1.0	
+Periodontal Pocket	IFNG	1.0	
+Periodontal Pocket	IL2	1.0	
+Periodontal Pocket	TNF	1.0	
+Angina, Unstable	IFNG	1.0	
+Angina, Unstable	NOS3	1.0	
+Angina, Unstable	PDE4D	1.0	
+Angina, Unstable	TNF	1.0	
+Equine Infectious Anemia	IFNG	1.0	
+Equine Infectious Anemia	IL2	1.0	
+Equine Infectious Anemia	TNF	1.0	
+Multiple Organ Failure	IFNG	1.0	
+Multiple Organ Failure	NOS3	1.0	
+Multiple Organ Failure	TNF	1.0	
+Paranoid Schizophrenia	IFNG	1.0	
+Paranoid Schizophrenia	IL2	1.0	
+Paranoid Schizophrenia	TNF	1.0	
+Polymyalgia Rheumatica	IFNG	1.0	
+Polymyalgia Rheumatica	NOS3	1.0	
+Polymyalgia Rheumatica	TNF	1.0	
+Alveolar Bone Loss	IFNG	1.0	
+Alveolar Bone Loss	IL2	1.0	
+Alveolar Bone Loss	TNF	1.0	
+Chronic myelopathy	IFNG	1.0	
+Chronic myelopathy	IL2	1.0	
+Chronic myelopathy	TNF	1.0	
+Rheumatic disease of heart valve	IFNG	1.0	
+Rheumatic disease of heart valve	IL2	1.0	
+Rheumatic disease of heart valve	NOS3	1.0	
+Rheumatic disease of heart valve	TNF	1.0	
+Active tuberculosis	IFNG	1.0	
+Active tuberculosis	IL2	1.0	
+Active tuberculosis	TNF	1.0	
+early pregnancy	IFNG	1.0	
+early pregnancy	IL2	1.0	
+early pregnancy	NOS3	1.0	
+early pregnancy	TNF	1.0	
+Lupus Nephritis	CYP3A4	1.0	
+Lupus Nephritis	IFNG	1.0	
+Lupus Nephritis	IL2	1.0	
+Lupus Nephritis	NOS3	1.0	
+Lupus Nephritis	TNF	1.0	
+Myelopathy	IFNG	1.0	
+Myelopathy	IL2	1.0	
+Myelopathy	TNF	1.0	
+Chronic Fatigue Syndrome	IFNG	1.0	
+Chronic Fatigue Syndrome	IL2	1.0	
+Chronic Fatigue Syndrome	TNF	1.0	
+CARCINOMA OF VULVA	IL2	1.0	
+CARCINOMA OF VULVA	NOS3	1.0	
+CARCINOMA OF VULVA	TNF	1.0	
+Brucellosis	IFNG	1.0	
+Brucellosis	IL2	1.0	
+Brucellosis	TNF	1.0	
+Depressive Symptoms	CYP3A4	1.0	
+Depressive Symptoms	IL2	1.0	
+Depressive Symptoms	NOS3	1.0	
+Depressive Symptoms	TNF	1.0	
+Hepatitis, Autoimmune	CYP3A4	1.0	
+Hepatitis, Autoimmune	IFNG	1.0	
+Hepatitis, Autoimmune	IL2	1.0	
+Hepatitis, Autoimmune	TNF	1.0	
+Leptospirosis	IFNG	1.0	
+Leptospirosis	IL2	1.0	
+Leptospirosis	TNF	1.0	
+Pemphigus	IFNG	1.0	
+Pemphigus	IL2	1.0	
+Pemphigus	TNF	1.0	
+Giant cell arteritis	IFNG	1.0	
+Giant cell arteritis	IL2	1.0	
+Giant cell arteritis	NOS3	1.0	
+Giant cell arteritis	TNF	1.0	
+Pain insensitivity	CYP3A4	1.0	
+Pain insensitivity	IL2	1.0	
+Pain insensitivity	TNF	1.0	
+Gingival Diseases	IFNG	1.0	
+Gingival Diseases	IL2	1.0	
+Gingival Diseases	NOS3	1.0	
+Gingival Diseases	TNF	1.0	
+Musculoskeletal Diseases	IFNG	1.0	
+Musculoskeletal Diseases	IL2	1.0	
+Musculoskeletal Diseases	NOS3	1.0	
+Musculoskeletal Diseases	TNF	1.0	
+Pregnancy Complications, Hematologic	IFNG	1.0	
+Pregnancy Complications, Hematologic	IL2	1.0	
+Pregnancy Complications, Hematologic	NOS3	1.0	
+Pregnancy Complications, Hematologic	TNF	1.0	
+Zoonotic form of cutaneous leishmaniasis	IFNG	1.0	
+Zoonotic form of cutaneous leishmaniasis	IL2	1.0	
+Zoonotic form of cutaneous leishmaniasis	TNF	1.0	
+Disease due to Parvoviridae	IFNG	1.0	
+Disease due to Parvoviridae	IL2	1.0	
+Disease due to Parvoviridae	TNF	1.0	
+Acute hepatic failure	CYP3A4	1.0	
+Acute hepatic failure	IFNG	1.0	
+Acute hepatic failure	NOS3	1.0	
+Acute hepatic failure	TNF	1.0	
+Erythema nodosum	IFNG	1.0	
+Erythema nodosum	NOS3	1.0	
+Erythema nodosum	TNF	1.0	
+Primary biliary cirrhosis	CYP3A4	1.0	
+Primary biliary cirrhosis	IFNG	1.0	
+Primary biliary cirrhosis	IL2	1.0	
+Primary biliary cirrhosis	NOS3	1.0	
+Primary biliary cirrhosis	TNF	1.0	
+Neoplasms, Experimental	IFNG	1.0	
+Neoplasms, Experimental	IL2	1.0	
+Neoplasms, Experimental	TNF	1.0	
+Chronic liver disease	CYP3A4	1.0	
+Chronic liver disease	IFNG	1.0	
+Chronic liver disease	IL2	1.0	
+Chronic liver disease	TNF	1.0	
+Sarcoidosis, Pulmonary	IFNG	1.0	
+Sarcoidosis, Pulmonary	IL2	1.0	
+Sarcoidosis, Pulmonary	TNF	1.0	
+Cooley's anemia	CYP3A4	1.0	
+Cooley's anemia	IFNG	1.0	
+Cooley's anemia	NOS3	1.0	
+Hantavirus infection in conditions classified elsewhere and of unspecified site	IFNG	1.0	
+Hantavirus infection in conditions classified elsewhere and of unspecified site	IL2	1.0	
+Hantavirus infection in conditions classified elsewhere and of unspecified site	TNF	1.0	
+Fetal Diseases	IFNG	1.0	
+Fetal Diseases	IL2	1.0	
+Fetal Diseases	NOS3	1.0	
+Fetal Diseases	TNF	1.0	
+Helminthiasis	IFNG	1.0	
+Helminthiasis	IL2	1.0	
+Helminthiasis	TNF	1.0	
+Trachoma	IFNG	1.0	
+Trachoma	NOS3	1.0	
+Trachoma	TNF	1.0	
+{Spondyloarthropathy, susceptibility to, 1}, 106300 (3)	IFNG	1.0	
+{Spondyloarthropathy, susceptibility to, 1}, 106300 (3)	IL2	1.0	
+{Spondyloarthropathy, susceptibility to, 1}, 106300 (3)	TNF	1.0	
+Irritable bowel syndrome with diarrhea	IFNG	1.0	
+Irritable bowel syndrome with diarrhea	IL2	1.0	
+Irritable bowel syndrome with diarrhea	NOS3	1.0	
+Irritable bowel syndrome with diarrhea	TNF	1.0	
+Lymphocytosis	IFNG	1.0	
+Lymphocytosis	IL2	1.0	
+Lymphocytosis	TNF	1.0	
+Shock, Septic	IFNG	1.0	
+Shock, Septic	NOS3	1.0	
+Shock, Septic	TNF	1.0	
+Acquired Immunodeficiency Syndrome	CYP3A4	1.0	
+Acquired Immunodeficiency Syndrome	IFNG	1.0	
+Acquired Immunodeficiency Syndrome	IL2	1.0	
+Acquired Immunodeficiency Syndrome	TNF	1.0	
+Bronchiolitis	IFNG	1.0	
+Bronchiolitis	IL2	1.0	
+Bronchiolitis	TNF	1.0	
+Skin lesion	IFNG	1.0	
+Skin lesion	IL2	1.0	
+Skin lesion	TNF	1.0	
+Acute Lung Injury	IFNG	1.0	
+Acute Lung Injury	IL2	1.0	
+Acute Lung Injury	TNF	1.0	
+{Atopy, susceptibility to}, 147050 (3)	IFNG	1.0	
+{Atopy, susceptibility to}, 147050 (3)	IL2	1.0	
+{Atopy, susceptibility to}, 147050 (3)	TNF	1.0	
+Lymphatic Metastasis	IFNG	1.0	
+Lymphatic Metastasis	IL2	1.0	
+Lymphatic Metastasis	NOS3	1.0	
+Lymphatic Metastasis	TNF	1.0	
+Angina pectoris	IFNG	1.0	
+Angina pectoris	NOS3	1.0	
+Angina pectoris	TNF	1.0	
+Aplastic anemia	CYP3A4	1.0	
+Aplastic anemia	IFNG	1.0	
+Aplastic anemia	IL2	1.0	
+Aplastic anemia	TNF	1.0	
+Pathologic Neovascularization	IFNG	1.0	
+Pathologic Neovascularization	NOS3	1.0	
+Pathologic Neovascularization	TNF	1.0	
+Pemphigus Vulgaris	IFNG	1.0	
+Pemphigus Vulgaris	IL2	1.0	
+Pemphigus Vulgaris	TNF	1.0	
+Dissecting aneurysm of the thoracic aorta	IFNG	1.0	
+Dissecting aneurysm of the thoracic aorta	IL2	1.0	
+Dissecting aneurysm of the thoracic aorta	NOS3	1.0	
+Dissecting aneurysm of the thoracic aorta	TNF	1.0	
+Paroxysmal nocturnal hemoglobinuria	IFNG	1.0	
+Paroxysmal nocturnal hemoglobinuria	IL2	1.0	
+Paroxysmal nocturnal hemoglobinuria	TNF	1.0	
+Postoperative Complications	IFNG	1.0	
+Postoperative Complications	IL2	1.0	
+Postoperative Complications	TNF	1.0	
+Pleural Effusion, Malignant	IFNG	1.0	
+Pleural Effusion, Malignant	IL2	1.0	
+Pleural Effusion, Malignant	TNF	1.0	
+Osteolysis	IFNG	1.0	
+Osteolysis	IL2	1.0	
+Osteolysis	TNF	1.0	
+Pulmonary edema	IL2	1.0	
+Pulmonary edema	NOS3	1.0	
+Pulmonary edema	TNF	1.0	
+Brain Infarction	NOS3	1.0	
+Brain Infarction	PDE4D	1.0	
+Brain Infarction	TNF	1.0	
+Spondylarthropathies	IFNG	1.0	
+Spondylarthropathies	IL2	1.0	
+Spondylarthropathies	TNF	1.0	
+Chronic Periodontitis	IFNG	1.0	
+Chronic Periodontitis	IL2	1.0	
+Chronic Periodontitis	NOS3	1.0	
+Chronic Periodontitis	TNF	1.0	
+Drug Allergy	CYP3A4	1.0	
+Drug Allergy	IFNG	1.0	
+Drug Allergy	TNF	1.0	
+Vasculitis	IFNG	1.0	
+Vasculitis	IL2	1.0	
+Vasculitis	NOS3	1.0	
+Vasculitis	TNF	1.0	
+Duodenal Ulcer	IL2	1.0	
+Duodenal Ulcer	NOS3	1.0	
+Duodenal Ulcer	TNF	1.0	
+Lymphohistiocytosis, Hemophagocytic	IFNG	1.0	
+Lymphohistiocytosis, Hemophagocytic	IL2	1.0	
+Lymphohistiocytosis, Hemophagocytic	TNF	1.0	
+Coronary artery stenosis	NOS3	1.0	
+Coronary artery stenosis	PDE4D	1.0	
+Coronary artery stenosis	TNF	1.0	
+Depressive Disorder	IFNG	1.0	
+Depressive Disorder	IL2	1.0	
+Depressive Disorder	NOS3	1.0	
+Depressive Disorder	PDE4B	1.0	
+Depressive Disorder	PDE4D	1.0	
+Depressive Disorder	TNF	1.0	
+Chlamydia Infections	IFNG	1.0	
+Chlamydia Infections	NOS3	1.0	
+Chlamydia Infections	TNF	1.0	
+Lichen Planus, Oral	IFNG	1.0	
+Lichen Planus, Oral	IL2	1.0	
+Lichen Planus, Oral	TNF	1.0	
+Dilated cardiomyopathy 1A	IFNG	1.0	
+Dilated cardiomyopathy 1A	IL2	1.0	
+Dilated cardiomyopathy 1A	NOS3	1.0	
+Dilated cardiomyopathy 1A	TNF	1.0	
+Membranous nephropathy, susceptibility to	IFNG	1.0	
+Membranous nephropathy, susceptibility to	NOS3	1.0	
+Membranous nephropathy, susceptibility to	TNF	1.0	
+Nasopharyngeal Neoplasms	IFNG	1.0	
+Nasopharyngeal Neoplasms	IL2	1.0	
+Nasopharyngeal Neoplasms	TNF	1.0	
+Wheezing	IFNG	1.0	
+Wheezing	IL2	1.0	
+Wheezing	TNF	1.0	
+Chronic active hepatitis	IFNG	1.0	
+Chronic active hepatitis	IL2	1.0	
+Chronic active hepatitis	TNF	1.0	
+Connective Tissue Diseases	IFNG	1.0	
+Connective Tissue Diseases	IL2	1.0	
+Connective Tissue Diseases	NOS3	1.0	
+Connective Tissue Diseases	TNF	1.0	
+Pleural Tuberculosis	IFNG	1.0	
+Pleural Tuberculosis	TNF	1.0	
+Chronic berylliosis	IL2	1.0	
+Chronic berylliosis	TNF	1.0	
+Latent Tuberculosis	IFNG	1.0	
+Latent Tuberculosis	TNF	1.0	
+Ovarian Failure, Premature	CYP3A4	1.0	
+Ovarian Failure, Premature	IL2	1.0	
+Ovarian Failure, Premature	NOS3	1.0	
+Ovarian Failure, Premature	TNF	1.0	
+Allergic asthma	IFNG	1.0	
+Allergic asthma	IL2	1.0	
+Allergic asthma	NOS3	1.0	
+Allergic asthma	TNF	1.0	
+Leishmaniasis, Visceral	IFNG	1.0	
+Leishmaniasis, Visceral	IL2	1.0	
+Leishmaniasis, Visceral	TNF	1.0	
+Aneurysm, Ruptured	NOS3	1.0	
+Aneurysm, Ruptured	TNF	1.0	
+Periodontitis, Juvenile	IFNG	1.0	
+Periodontitis, Juvenile	IL2	1.0	
+Periodontitis, Juvenile	TNF	1.0	
+Latent autoimmune diabetes mellitus in adult	IFNG	1.0	
+Latent autoimmune diabetes mellitus in adult	IL2	1.0	
+Latent autoimmune diabetes mellitus in adult	TNF	1.0	
+Thyroid associated opthalmopathies	IFNG	1.0	
+Thyroid associated opthalmopathies	IL2	1.0	
+Thyroid associated opthalmopathies	TNF	1.0	
+Cryoglobulinemia	IFNG	1.0	
+Cryoglobulinemia	TNF	1.0	
+Q Fever	IFNG	1.0	
+Q Fever	TNF	1.0	
+Tuberculosis, Meningeal	IFNG	1.0	
+Tuberculosis, Meningeal	TNF	1.0	
+Chronic graft-versus-host disease	IFNG	1.0	
+Chronic graft-versus-host disease	IL2	1.0	
+Chronic graft-versus-host disease	TNF	1.0	
+Neuralgia	IL2	1.0	
+Neuralgia	NOS3	1.0	
+Neuralgia	TNF	1.0	
+Cerebral palsy, spastic quadriplegic, 3	NOS3	1.0	
+Cerebral palsy, spastic quadriplegic, 3	PDE4D	1.0	
+Cerebral palsy, spastic quadriplegic, 3	TNF	1.0	
+Malaria, Cerebral	IFNG	1.0	
+Malaria, Cerebral	NOS3	1.0	
+Malaria, Cerebral	TNF	1.0	
+Alcohol abuse	CYP3A4	1.0	
+Alcohol abuse	NOS3	1.0	
+Alcohol abuse	TNF	1.0	
+Fowlpox	IFNG	1.0	
+Fowlpox	IL2	1.0	
+Periodontal Attachment Loss	IL2	1.0	
+Periodontal Attachment Loss	TNF	1.0	
+Cryopyrin-Associated Periodic Syndromes	IFNG	1.0	
+Cryopyrin-Associated Periodic Syndromes	TNF	1.0	
+Endotoxemia	IFNG	1.0	
+Endotoxemia	NOS3	1.0	
+Endotoxemia	TNF	1.0	
+Proteinuria Adverse Event	NOS3	1.0	
+Proteinuria Adverse Event	TNF	1.0	
+Hyperbilirubinemia	IFNG	1.0	
+Hyperbilirubinemia	IL2	1.0	
+Hyperbilirubinemia	TNF	1.0	
+Severe Acute Respiratory Syndrome	IFNG	1.0	
+Severe Acute Respiratory Syndrome	NOS3	1.0	
+Severe Acute Respiratory Syndrome	TNF	1.0	
+Advanced cancer	CYP3A4	1.0	
+Advanced cancer	IL2	1.0	
+Advanced cancer	TNF	1.0	
+Gastric Mucosa-Associated Lymphoid Tissue Lymphoma	IL2	1.0	
+Gastric Mucosa-Associated Lymphoid Tissue Lymphoma	TNF	1.0	
+Myeloproliferative disorder, chronic, with eosinophilia	IFNG	1.0	
+Myeloproliferative disorder, chronic, with eosinophilia	TNF	1.0	
+Kidney Failure, Chronic	CYP3A4	1.0	
+Kidney Failure, Chronic	IFNG	1.0	
+Kidney Failure, Chronic	IL2	1.0	
+Kidney Failure, Chronic	NOS3	1.0	
+Kidney Failure, Chronic	PDE4D	1.0	
+Kidney Failure, Chronic	TNF	1.0	
+Melanoma, B16	IFNG	1.0	
+Melanoma, B16	IL2	1.0	
+Melanoma, B16	TNF	1.0	
+Liver Cirrhosis, Alcoholic	IFNG	1.0	
+Liver Cirrhosis, Alcoholic	IL2	1.0	
+Liver Cirrhosis, Alcoholic	TNF	1.0	
+Granuloma	IFNG	1.0	
+Granuloma	TNF	1.0	
+Pregnancy Complications, Infectious	IFNG	1.0	
+Pregnancy Complications, Infectious	TNF	1.0	
+Bacteremia, susceptibility to, 2	IL2	1.0	
+Bacteremia, susceptibility to, 2	NOS3	1.0	
+Bacteremia, susceptibility to, 2	TNF	1.0	
+NOONAN-LIKE/MULTIPLE GIANT CELL LESION SYNDROME (disorder)	IFNG	1.0	
+NOONAN-LIKE/MULTIPLE GIANT CELL LESION SYNDROME (disorder)	NOS3	1.0	
+NOONAN-LIKE/MULTIPLE GIANT CELL LESION SYNDROME (disorder)	TNF	1.0	
+Tumor Immunity	IFNG	1.0	
+Tumor Immunity	IL2	1.0	
+Tumor Immunity	TNF	1.0	
+Malaria, Vivax	IFNG	1.0	
+Malaria, Vivax	TNF	1.0	
+Opportunistic Infections	IL2	1.0	
+Opportunistic Infections	TNF	1.0	
+Respiratory Hypersensitivity	IL2	1.0	
+Respiratory Hypersensitivity	TNF	1.0	
+Interstitial lung and liver disease	IFNG	1.0	
+Interstitial lung and liver disease	TNF	1.0	
+Pleomorphic adenoma of salivary gland	IFNG	1.0	
+Pleomorphic adenoma of salivary gland	TNF	1.0	
+Posttraumatic stress disorder	IFNG	1.0	
+Posttraumatic stress disorder	IL2	1.0	
+Posttraumatic stress disorder	TNF	1.0	
+Vascular Diseases	IFNG	1.0	
+Vascular Diseases	IL2	1.0	
+Vascular Diseases	NOS3	1.0	
+Vascular Diseases	PDE4D	1.0	
+Vascular Diseases	TNF	1.0	
+Stage 5 chronic kidney disease	IFNG	1.0	
+Stage 5 chronic kidney disease	IL2	1.0	
+Stage 5 chronic kidney disease	NOS3	1.0	
+Stage 5 chronic kidney disease	TNF	1.0	
+Staphylococcal Infections	IFNG	1.0	
+Staphylococcal Infections	TNF	1.0	
+Asymptomatic Infections	IFNG	1.0	
+Asymptomatic Infections	TNF	1.0	
+Anterior myocardial infarction	NOS3	1.0	
+Anterior myocardial infarction	TNF	1.0	
+Oestrogen deficiency	IFNG	1.0	
+Oestrogen deficiency	TNF	1.0	
+Enzyme inhibition disorder	CYP3A4	1.0	
+Enzyme inhibition disorder	NOS3	1.0	
+Hairy Cell Leukemia	IFNG	1.0	
+Hairy Cell Leukemia	IL2	1.0	
+Hairy Cell Leukemia	TNF	1.0	
+Inflammation	CYP3A4	1.0	
+Inflammation	IFNG	1.0	
+Inflammation	IL2	1.0	
+Inflammation	NOS3	1.0	
+Inflammation	PDE4D	1.0	
+Inflammation	TNF	1.0	
+Extrinsic allergic alveolitis	IFNG	1.0	
+Extrinsic allergic alveolitis	TNF	1.0	
+Systemic aspergillosis	IFNG	1.0	
+Systemic aspergillosis	TNF	1.0	
+Renal hypertension	NOS3	1.0	
+Renal hypertension	TNF	1.0	
+Fatal infectious mononucleosis	IFNG	1.0	
+Fatal infectious mononucleosis	TNF	1.0	
+Lichen planus pemphigoides	IFNG	1.0	
+Lichen planus pemphigoides	TNF	1.0	
+Steroid-resistant nephrotic syndrome	IFNG	1.0	
+Steroid-resistant nephrotic syndrome	IL2	1.0	
+Adenocarcinoma of colon	CYP3A4	1.0	
+Adenocarcinoma of colon	IFNG	1.0	
+Adenocarcinoma of colon	IL2	1.0	
+Adenocarcinoma of colon	TNF	1.0	
+Synovitis	IFNG	1.0	
+Synovitis	IL2	1.0	
+Synovitis	TNF	1.0	
+Dermatitis, Allergic Contact	IFNG	1.0	
+Dermatitis, Allergic Contact	IL2	1.0	
+Dermatitis, Allergic Contact	TNF	1.0	
+Idiopathic thrombocytopenic purpura	IFNG	1.0	
+Idiopathic thrombocytopenic purpura	IL2	1.0	
+Idiopathic thrombocytopenic purpura	TNF	1.0	
+Mycoses	IFNG	1.0	
+Mycoses	IL2	1.0	
+Mycoses	NOS3	1.0	
+Mycoses	TNF	1.0	
+Cocaine delirium	CYP3A4	1.0	
+Cocaine delirium	TNF	1.0	
+Dermatitis Herpetiformis	IFNG	1.0	
+Dermatitis Herpetiformis	TNF	1.0	
+Volvulus	IFNG	1.0	
+Volvulus	TNF	1.0	
+Hay fever	IFNG	1.0	
+Hay fever	IL2	1.0	
+Hay fever	TNF	1.0	
+Hypercalcemia, infantile, 2	IFNG	1.0	
+Hypercalcemia, infantile, 2	IL2	1.0	
+Hypercalcemia, infantile, 2	TNF	1.0	
+Autoimmune thyroid disease 3	IFNG	1.0	
+Autoimmune thyroid disease 3	PDE4B	1.0	
+Autoimmune thyroid disease 3	TNF	1.0	
+HTLV-I Infections	IL2	1.0	
+HTLV-I Infections	TNF	1.0	
+Malignant ascites	IL2	1.0	
+Malignant ascites	TNF	1.0	
+Chronic schizophrenia	CYP3A4	1.0	
+Chronic schizophrenia	TNF	1.0	
+Microscopic Polyarteritis	IL2	1.0	
+Microscopic Polyarteritis	TNF	1.0	
+Deficiency of glucose-6-phosphate dehydrogenase	IFNG	1.0	
+Deficiency of glucose-6-phosphate dehydrogenase	TNF	1.0	
+Gastric ulcer	IL2	1.0	
+Gastric ulcer	NOS3	1.0	
+Gastric ulcer	TNF	1.0	
+Aortic Aneurysm, Thoracic	CYP3A4	1.0	
+Aortic Aneurysm, Thoracic	IFNG	1.0	
+Aortic Aneurysm, Thoracic	TNF	1.0	
+Immediate hypersensitivity	IFNG	1.0	
+Immediate hypersensitivity	NOS3	1.0	
+Immediate hypersensitivity	TNF	1.0	
+Condylomata Acuminata	IFNG	1.0	
+Condylomata Acuminata	TNF	1.0	
+Acute postoperative pain	CYP3A4	1.0	
+Acute postoperative pain	TNF	1.0	
+Salmonella infections	IFNG	1.0	
+Salmonella infections	TNF	1.0	
+Smallpox	IFNG	1.0	
+Smallpox	TNF	1.0	
+Diabetic foot ulcer	NOS3	1.0	
+Diabetic foot ulcer	TNF	1.0	
+Neutropenia	CYP3A4	1.0	
+Neutropenia	IFNG	1.0	
+Neutropenia	PDE4B	1.0	
+Neutropenia	TNF	1.0	
+Cutaneous T-cell lymphoma	CYP3A4	1.0	
+Cutaneous T-cell lymphoma	IFNG	1.0	
+Cutaneous T-cell lymphoma	IL2	1.0	
+Cutaneous T-cell lymphoma	TNF	1.0	
+Sarcoidosis	IFNG	1.0	
+Sarcoidosis	IL2	1.0	
+Sarcoidosis	NOS3	1.0	
+Sarcoidosis	TNF	1.0	
+Herpesviridae Infections	IFNG	1.0	
+Herpesviridae Infections	TNF	1.0	
+Pregnancy associated hypertension	NOS3	1.0	
+Pregnancy associated hypertension	TNF	1.0	
+Aggressive periodontitis, generalized	NOS3	1.0	
+Aggressive periodontitis, generalized	TNF	1.0	
+Esophageal Neoplasms	CYP3A4	1.0	
+Esophageal Neoplasms	IFNG	1.0	
+Esophageal Neoplasms	IL2	1.0	
+Esophageal Neoplasms	NOS3	1.0	
+Esophageal Neoplasms	PDE4D	1.0	
+Esophageal Neoplasms	TNF	1.0	
+Cystic Fibrosis	CYP3A4	1.0	
+Cystic Fibrosis	IFNG	1.0	
+Cystic Fibrosis	IL2	1.0	
+Cystic Fibrosis	NOS3	1.0	
+Cystic Fibrosis	TNF	1.0	
+Peptic ulcer	IFNG	1.0	
+Peptic ulcer	IL2	1.0	
+Peptic ulcer	TNF	1.0	
+Toxic Epidermal Necrolysis	IFNG	1.0	
+Toxic Epidermal Necrolysis	TNF	1.0	
+Cerebral aneurysm	NOS3	1.0	
+Cerebral aneurysm	TNF	1.0	
+Intracranial glioma	IFNG	1.0	
+Intracranial glioma	TNF	1.0	
+Nephrotic syndrome, type 5, with or without ocular abnormalities	CYP3A4	1.0	
+Nephrotic syndrome, type 5, with or without ocular abnormalities	IL2	1.0	
+Nephrotic syndrome, type 5, with or without ocular abnormalities	NOS3	1.0	
+Nephrotic syndrome, type 5, with or without ocular abnormalities	TNF	1.0	
+Neuropathy ataxia retinitis pigmentosa syndrome	CYP3A4	1.0	
+Neuropathy ataxia retinitis pigmentosa syndrome	IL2	1.0	
+Neuropathy ataxia retinitis pigmentosa syndrome	NOS3	1.0	
+Neuropathy ataxia retinitis pigmentosa syndrome	TNF	1.0	
+Obstructive nephropathy	IFNG	1.0	
+Obstructive nephropathy	TNF	1.0	
+Granulomatosis	IL2	1.0	
+Granulomatosis	TNF	1.0	
+Malignant mesothelioma	IFNG	1.0	
+Malignant mesothelioma	IL2	1.0	
+Malignant mesothelioma	NOS3	1.0	
+Malignant mesothelioma	TNF	1.0	
+Skin ulcer	IFNG	1.0	
+Skin ulcer	IL2	1.0	
+Skin ulcer	TNF	1.0	
+Classical Hodgkin's Lymphoma	IFNG	1.0	
+Classical Hodgkin's Lymphoma	IL2	1.0	
+Classical Hodgkin's Lymphoma	TNF	1.0	
+Glomerulonephritis, Membranous	IFNG	1.0	
+Glomerulonephritis, Membranous	IL2	1.0	
+Glomerulonephritis, Membranous	NOS3	1.0	
+Glomerulonephritis, Membranous	TNF	1.0	
+Arteriovenous fistula	NOS3	1.0	
+Arteriovenous fistula	TNF	1.0	
+Idiopathic crescentic glomerulonephritis	IFNG	1.0	
+Idiopathic crescentic glomerulonephritis	TNF	1.0	
+Acute kidney injury	CYP3A4	1.0	
+Acute kidney injury	IFNG	1.0	
+Acute kidney injury	NOS3	1.0	
+Acute kidney injury	TNF	1.0	
+Hypotension	IFNG	1.0	
+Hypotension	IL2	1.0	
+Hypotension	TNF	1.0	
+Common variable immunodeficiency 2	IFNG	1.0	
+Common variable immunodeficiency 2	IL2	1.0	
+Common variable immunodeficiency 2	TNF	1.0	
+Mixed cryoglobulinemia	IFNG	1.0	
+Mixed cryoglobulinemia	TNF	1.0	
+Acute anterior uveitis	IL2	1.0	
+Acute anterior uveitis	TNF	1.0	
+Anaphylactic shock NOS	NOS3	1.0	
+Anaphylactic shock NOS	TNF	1.0	
+Thyroiditis	IFNG	1.0	
+Thyroiditis	NOS3	1.0	
+Thyroiditis	TNF	1.0	
+Ocular Hypertension	NOS3	1.0	
+Ocular Hypertension	TNF	1.0	
+Stomach Diseases	IFNG	1.0	
+Stomach Diseases	TNF	1.0	
+Subacute Sclerosing Panencephalitis	IFNG	1.0	
+Subacute Sclerosing Panencephalitis	IL2	1.0	
+Dermatosis NOS	IFNG	1.0	
+Dermatosis NOS	IL2	1.0	
+Dermatosis NOS	NOS3	1.0	
+Dermatosis NOS	PDE4B	1.0	
+Dermatosis NOS	TNF	1.0	
+Acute myocardial ischemia	CYP3A4	1.0	
+Acute myocardial ischemia	NOS3	1.0	
+Acute myocardial ischemia	PDE4B	1.0	
+Acute myocardial ischemia	PDE4D	1.0	
+Acute myocardial ischemia	TNF	1.0	
+Sjogren's Syndrome	IFNG	1.0	
+Sjogren's Syndrome	IL2	1.0	
+Sjogren's Syndrome	TNF	1.0	
+Fabry disease	NOS3	1.0	
+Fabry disease	TNF	1.0	
+Bone necrosis	CYP3A4	1.0	
+Bone necrosis	NOS3	1.0	
+Thromboangiitis Obliterans	IFNG	1.0	
+Thromboangiitis Obliterans	NOS3	1.0	
+Hyperoxia	NOS3	1.0	
+Hyperoxia	TNF	1.0	
+Major depressive disorder	IFNG	1.0	
+Major depressive disorder	IL2	1.0	
+Major depressive disorder	NOS3	1.0	
+Major depressive disorder	PDE4B	1.0	
+Major depressive disorder	TNF	1.0	
+Lung Diseases, Interstitial	IFNG	1.0	
+Lung Diseases, Interstitial	IL2	1.0	
+Lung Diseases, Interstitial	TNF	1.0	
+Heart valve disease	NOS3	1.0	
+Heart valve disease	TNF	1.0	
+Takayasu Arteritis	IL2	1.0	
+Takayasu Arteritis	TNF	1.0	
+Weight Loss Adverse Event	NOS3	1.0	
+Weight Loss Adverse Event	TNF	1.0	
+Acute GVH disease	IFNG	1.0	
+Acute GVH disease	IL2	1.0	
+Acute GVH disease	TNF	1.0	
+Disorder characterized by eosinophilia	IFNG	1.0	
+Disorder characterized by eosinophilia	IL2	1.0	
+Disorder characterized by eosinophilia	TNF	1.0	
+Hashimoto thyroiditis	IFNG	1.0	
+Hashimoto thyroiditis	IL2	1.0	
+Hashimoto thyroiditis	TNF	1.0	
+Toxoplasmosis	IFNG	1.0	
+Toxoplasmosis	IL2	1.0	
+Mycosis Fungoides	IFNG	1.0	
+Mycosis Fungoides	IL2	1.0	
+Mycosis Fungoides	TNF	1.0	
+Eosinophilic disorder	IFNG	1.0	
+Eosinophilic disorder	IL2	1.0	
+Eosinophilic disorder	TNF	1.0	
+Ischaemic cerebral infarction	CYP3A4	1.0	
+Ischaemic cerebral infarction	NOS3	1.0	
+Ischaemic cerebral infarction	PDE4D	1.0	
+Ischaemic cerebral infarction	TNF	1.0	
+Helicobacter pylori infection	CYP3A4	1.0	
+Helicobacter pylori infection	IFNG	1.0	
+Helicobacter pylori infection	IL2	1.0	
+Helicobacter pylori infection	TNF	1.0	
+Coinfection	IFNG	1.0	
+Coinfection	IL2	1.0	
+Coinfection	TNF	1.0	
+Fibromyalgia	NOS3	1.0	
+Fibromyalgia	TNF	1.0	
+Anterior uveitis	IL2	1.0	
+Anterior uveitis	TNF	1.0	
+Insulin resistance syndrome	NOS3	1.0	
+Insulin resistance syndrome	TNF	1.0	
+Leukopenia	CYP3A4	1.0	
+Leukopenia	IL2	1.0	
+Leukopenia	PDE4B	1.0	
+Leukopenia	TNF	1.0	
+Pleuritis	IFNG	1.0	
+Pleuritis	TNF	1.0	
+Papillomavirus Infections	IFNG	1.0	
+Papillomavirus Infections	TNF	1.0	
+Malaria, Falciparum	IFNG	1.0	
+Malaria, Falciparum	IL2	1.0	
+Malaria, Falciparum	TNF	1.0	
+Neuritis	IFNG	1.0	
+Neuritis	TNF	1.0	
+Pneumococcal Infections	IFNG	1.0	
+Pneumococcal Infections	TNF	1.0	
+Rubella	IFNG	1.0	
+Rubella	TNF	1.0	
+Arthritis, Reactive	IFNG	1.0	
+Arthritis, Reactive	TNF	1.0	
+Idiopathic fibrosing alveolitis, chronic form	IFNG	1.0	
+Idiopathic fibrosing alveolitis, chronic form	TNF	1.0	
+{Aneurysm, familial abdominal 3} (2)	IFNG	1.0	
+{Aneurysm, familial abdominal 3} (2)	NOS3	1.0	
+{Aneurysm, familial abdominal 3} (2)	TNF	1.0	
+Sezary Syndrome	IFNG	1.0	
+Sezary Syndrome	IL2	1.0	
+Sezary Syndrome	TNF	1.0	
+Silicosis	IFNG	1.0	
+Silicosis	TNF	1.0	
+Chagas Cardiomyopathy	IFNG	1.0	
+Chagas Cardiomyopathy	TNF	1.0	
+Peptic Esophagitis	IL2	1.0	
+Peptic Esophagitis	TNF	1.0	
+Guillain-Barre syndrome, familial	IL2	1.0	
+Guillain-Barre syndrome, familial	TNF	1.0	
+Uveitis	IFNG	1.0	
+Uveitis	IL2	1.0	
+Uveitis	TNF	1.0	
+Measles	IFNG	1.0	
+Measles	IL2	1.0	
+Measles	TNF	1.0	
+Acute Coronary Syndrome	CYP3A4	1.0	
+Acute Coronary Syndrome	IFNG	1.0	
+Acute Coronary Syndrome	NOS3	1.0	
+Acute Coronary Syndrome	TNF	1.0	
+Nausea	IFNG	1.0	
+Nausea	TNF	1.0	
+Low Tension Glaucoma	NOS3	1.0	
+Low Tension Glaucoma	TNF	1.0	
+Malaria	CYP3A4	1.0	
+Malaria	IFNG	1.0	
+Malaria	IL2	1.0	
+Malaria	NOS3	1.0	
+Malaria	TNF	1.0	
+VITILIGO-ASSOCIATED MULTIPLE AUTOIMMUNE DISEASE SUSCEPTIBILITY 1 (finding)	IFNG	1.0	
+VITILIGO-ASSOCIATED MULTIPLE AUTOIMMUNE DISEASE SUSCEPTIBILITY 1 (finding)	IL2	1.0	
+VITILIGO-ASSOCIATED MULTIPLE AUTOIMMUNE DISEASE SUSCEPTIBILITY 1 (finding)	TNF	1.0	
+Pneumonitis	IFNG	1.0	
+Pneumonitis	NOS3	1.0	
+Progressive Neoplastic Disease	IFNG	1.0	
+Progressive Neoplastic Disease	IL2	1.0	
+Progressive Neoplastic Disease	TNF	1.0	
+Progressive cGVHD	IFNG	1.0	
+Progressive cGVHD	IL2	1.0	
+Progressive cGVHD	TNF	1.0	
+Necrosis	IFNG	1.0	
+Necrosis	TNF	1.0	
+Respiratory Tract Diseases	IFNG	1.0	
+Respiratory Tract Diseases	TNF	1.0	
+Endometriosis of uterus	NOS3	1.0	
+Endometriosis of uterus	TNF	1.0	
+Biliary tract neoplasm	NOS3	1.0	
+Biliary tract neoplasm	TNF	1.0	
+Leishmaniasis	IFNG	1.0	
+Leishmaniasis	TNF	1.0	
+Chronic neutrophilia	IFNG	1.0	
+Chronic neutrophilia	TNF	1.0	
+{Unipolar depression, susceptibility to}, 608516 (3)	IFNG	1.0	
+{Unipolar depression, susceptibility to}, 608516 (3)	IL2	1.0	
+{Unipolar depression, susceptibility to}, 608516 (3)	NOS3	1.0	
+{Unipolar depression, susceptibility to}, 608516 (3)	PDE4B	1.0	
+{Unipolar depression, susceptibility to}, 608516 (3)	TNF	1.0	
+EPIDERMODYSPLASIA VERRUCIFORMIS	IFNG	1.0	
+EPIDERMODYSPLASIA VERRUCIFORMIS	IL2	1.0	
+Tropical Spastic Paraparesis	IFNG	1.0	
+Tropical Spastic Paraparesis	IL2	1.0	
+Henoch-Schoenlein Purpura	NOS3	1.0	
+Henoch-Schoenlein Purpura	TNF	1.0	
+Oral Submucous Fibrosis	IFNG	1.0	
+Oral Submucous Fibrosis	TNF	1.0	
+Bronchial Hyperreactivity	IFNG	1.0	
+Bronchial Hyperreactivity	NOS3	1.0	
+Bronchial Hyperreactivity	TNF	1.0	
+Tumor necrosis	IFNG	1.0	
+Tumor necrosis	IL2	1.0	
+Tumor necrosis	TNF	1.0	
+Uterine Cervical Neoplasms	IFNG	1.0	
+Uterine Cervical Neoplasms	IL2	1.0	
+Uterine Cervical Neoplasms	TNF	1.0	
+Congenital hypothyroidism	PDE4D	1.0	
+Congenital hypothyroidism	TNF	1.0	
+Shigella Infections	IFNG	1.0	
+Shigella Infections	TNF	1.0	
+Wilson disease	IL2	1.0	
+Wilson disease	TNF	1.0	
+Optic neuritis	IFNG	1.0	
+Optic neuritis	TNF	1.0	
+Cytomegalovirus Infections	IFNG	1.0	
+Cytomegalovirus Infections	IL2	1.0	
+Cytomegalovirus Infections	TNF	1.0	
+Allergic rhinitis	IFNG	1.0	
+Allergic rhinitis	IL2	1.0	
+Allergic rhinitis	TNF	1.0	
+Eosinophilia	IFNG	1.0	
+Eosinophilia	IL2	1.0	
+Eosinophilia	TNF	1.0	
+Idiopathic Inflammatory Myopathies	IFNG	1.0	
+Idiopathic Inflammatory Myopathies	TNF	1.0	
+Primary infection NOS	IL2	1.0	
+Primary infection NOS	TNF	1.0	
+Thymoma	IFNG	1.0	
+Thymoma	IL2	1.0	
+Thymoma	TNF	1.0	
+Chronic Chagas' disease	IFNG	1.0	
+Chronic Chagas' disease	IL2	1.0	
+Chronic Chagas' disease	TNF	1.0	
+Lymphoma, Large-Cell, Follicular	IFNG	1.0	
+Lymphoma, Large-Cell, Follicular	IL2	1.0	
+Lymphoma, Large-Cell, Follicular	TNF	1.0	
+Persistent infection	IFNG	1.0	
+Persistent infection	TNF	1.0	
+Liver Diseases	CYP3A4	1.0	
+Liver Diseases	IFNG	1.0	
+Liver Diseases	IL2	1.0	
+Liver Diseases	NOS3	1.0	
+Liver Diseases	TNF	1.0	
+Diaphragmatic hernia	NOS3	1.0	
+Diaphragmatic hernia	TNF	1.0	
+Pharyngeal Neoplasms	CYP3A4	1.0	
+Pharyngeal Neoplasms	TNF	1.0	
+gliosarcoma	CYP3A4	1.0	
+gliosarcoma	IL2	1.0	
+Non-Malignant Ascites Adverse Event	IFNG	1.0	
+Non-Malignant Ascites Adverse Event	IL2	1.0	
+Non-Malignant Ascites Adverse Event	TNF	1.0	
+Alpha-1-antitrypsin deficiency	NOS3	1.0	
+Alpha-1-antitrypsin deficiency	TNF	1.0	
+Eclampsia	IL2	1.0	
+Eclampsia	NOS3	1.0	
+Eclampsia	TNF	1.0	
+Renal Insufficiency, Chronic	IFNG	1.0	
+Renal Insufficiency, Chronic	IL2	1.0	
+Renal Insufficiency, Chronic	NOS3	1.0	
+Renal Insufficiency, Chronic	TNF	1.0	
+Proliferative diabetic retinopathy	NOS3	1.0	
+Proliferative diabetic retinopathy	TNF	1.0	
+Aqueous Humor Disorders	IFNG	1.0	
+Aqueous Humor Disorders	TNF	1.0	
+Neurodegeneration with brain iron accumulation 4	IFNG	1.0	
+Neurodegeneration with brain iron accumulation 4	TNF	1.0	
+Hypersensitivity	IFNG	1.0	
+Hypersensitivity	IL2	1.0	
+Hypersensitivity	TNF	1.0	
+Preeclampsia/eclampsia 1	IFNG	1.0	
+Preeclampsia/eclampsia 1	IL2	1.0	
+Preeclampsia/eclampsia 1	NOS3	1.0	
+Preeclampsia/eclampsia 1	TNF	1.0	
+Histiocytosis, Langerhans-Cell	IFNG	1.0	
+Histiocytosis, Langerhans-Cell	TNF	1.0	
+Occupational Diseases	NOS3	1.0	
+Occupational Diseases	TNF	1.0	
+Retinopathy of Prematurity	NOS3	1.0	
+Retinopathy of Prematurity	TNF	1.0	
+Carotid Artery Diseases	NOS3	1.0	
+Carotid Artery Diseases	PDE4B	1.0	
+Carotid Artery Diseases	TNF	1.0	
+Aortic Aneurysm, Abdominal	IFNG	1.0	
+Aortic Aneurysm, Abdominal	NOS3	1.0	
+Aortic Aneurysm, Abdominal	TNF	1.0	
+Juvenile rheumatoid arthritis	IFNG	1.0	
+Juvenile rheumatoid arthritis	IL2	1.0	
+Juvenile rheumatoid arthritis	TNF	1.0	
+Graves Disease	IFNG	1.0	
+Graves Disease	IL2	1.0	
+Graves Disease	NOS3	1.0	
+Graves Disease	TNF	1.0	
+Premature Birth	IFNG	1.0	
+Premature Birth	IL2	1.0	
+Premature Birth	NOS3	1.0	
+Premature Birth	TNF	1.0	
+Pulmonary Disease, Chronic Obstructive	IFNG	1.0	
+Pulmonary Disease, Chronic Obstructive	IL2	1.0	
+Pulmonary Disease, Chronic Obstructive	NOS3	1.0	
+Pulmonary Disease, Chronic Obstructive	TNF	1.0	
+Arsenic Poisoning	PDE4B	1.0	
+Arsenic Poisoning	TNF	1.0	
+Fetal Membranes, Premature Rupture	IL2	1.0	
+Fetal Membranes, Premature Rupture	NOS3	1.0	
+Fetal Membranes, Premature Rupture	TNF	1.0	
+Chorioamnionitis	IL2	1.0	
+Chorioamnionitis	NOS3	1.0	
+Chorioamnionitis	TNF	1.0	
+Gingivitis	IFNG	1.0	
+Gingivitis	TNF	1.0	
+Retroviridae Infections	IFNG	1.0	
+Retroviridae Infections	TNF	1.0	
+Ventricular Dysfunction, Right	NOS3	1.0	
+Ventricular Dysfunction, Right	TNF	1.0	
+Mesothelioma, malignant	CYP3A4	1.0	
+Mesothelioma, malignant	IFNG	1.0	
+Mesothelioma, malignant	NOS3	1.0	
+Mesothelioma, malignant	TNF	1.0	
+Chronic hepatitis	IFNG	1.0	
+Chronic hepatitis	IL2	1.0	
+Chronic hepatitis	TNF	1.0	
+Immune dysfunction with T-cell inactivation due to calcium entry defect 1	IFNG	1.0	
+Immune dysfunction with T-cell inactivation due to calcium entry defect 1	IL2	1.0	
+Immune dysfunction with T-cell inactivation due to calcium entry defect 1	TNF	1.0	
+Female infertility	IFNG	1.0	
+Female infertility	TNF	1.0	
+Uremia	NOS3	1.0	
+Uremia	TNF	1.0	
+Septicemia	IFNG	1.0	
+Septicemia	IL2	1.0	
+Septicemia	NOS3	1.0	
+Septicemia	TNF	1.0	
+Leukemia, Lymphocytic, Acute, L1	CYP3A4	1.0	
+Leukemia, Lymphocytic, Acute, L1	IFNG	1.0	
+Leukemia, Lymphocytic, Acute, L1	NOS3	1.0	
+Leukemia, Lymphocytic, Acute, L1	TNF	1.0	
+ Cerebrovascular disease, occlusive (3)	PDE4D	1.0	
+ Cerebrovascular disease, occlusive (3)	TNF	1.0	
+Severe Dengue	IFNG	1.0	
+Severe Dengue	TNF	1.0	
+Viral hepatitis	IFNG	1.0	
+Viral hepatitis	TNF	1.0	
+latent infection	IFNG	1.0	
+latent infection	TNF	1.0	
+Metabolic Syndrome X	CYP3A4	1.0	
+Metabolic Syndrome X	IFNG	1.0	
+Metabolic Syndrome X	NOS3	1.0	
+Metabolic Syndrome X	PDE4D	1.0	
+Metabolic Syndrome X	TNF	1.0	
+Bleeding with minor or no trauma	NOS3	1.0	
+Bleeding with minor or no trauma	TNF	1.0	
+Homocysteinemia due to MTHFR deficiency	NOS3	1.0	
+Homocysteinemia due to MTHFR deficiency	TNF	1.0	
+Granulomatosis with Polyangiitis	IFNG	1.0	
+Granulomatosis with Polyangiitis	TNF	1.0	
+{Systemic lupus erythematosus, susceptibility to, 8} (2)	IFNG	1.0	
+{Systemic lupus erythematosus, susceptibility to, 8} (2)	IL2	1.0	
+{Systemic lupus erythematosus, susceptibility to, 8} (2)	NOS3	1.0	
+{Systemic lupus erythematosus, susceptibility to, 8} (2)	TNF	1.0	
+Death, Sudden, Cardiac	IFNG	1.0	
+Death, Sudden, Cardiac	NOS3	1.0	
+Death, Sudden, Cardiac	TNF	1.0	
+Premature Obstetric Labor	IL2	1.0	
+Premature Obstetric Labor	NOS3	1.0	
+Premature Obstetric Labor	TNF	1.0	
+Acute monocytic leukemia	IL2	1.0	
+Acute monocytic leukemia	TNF	1.0	
+Osteomyelitis, sterile multifocal, with periostitis and pustulosis	IFNG	1.0	
+Osteomyelitis, sterile multifocal, with periostitis and pustulosis	NOS3	1.0	
+Arthritis, Psoriatic	IFNG	1.0	
+Arthritis, Psoriatic	IL2	1.0	
+Arthritis, Psoriatic	TNF	1.0	
+Intraocular melanoma	IFNG	1.0	
+Intraocular melanoma	IL2	1.0	
+Intraocular melanoma	TNF	1.0	
+Malignant tumor of esophagus	CYP3A4	1.0	
+Malignant tumor of esophagus	IFNG	1.0	
+Malignant tumor of esophagus	IL2	1.0	
+Malignant tumor of esophagus	PDE4D	1.0	
+Malignant tumor of esophagus	TNF	1.0	
+Migraine with aura	NOS3	1.0	
+Migraine with aura	TNF	1.0	
+Alzheimer Disease, Late Onset	NOS3	1.0	
+Alzheimer Disease, Late Onset	TNF	1.0	
+Myasthenia Gravis	IFNG	1.0	
+Myasthenia Gravis	IL2	1.0	
+Myasthenia Gravis	TNF	1.0	
+Proteinuria, low molecular weight, with hypercalciuria and nephrocalcinosis	IFNG	1.0	
+Proteinuria, low molecular weight, with hypercalciuria and nephrocalcinosis	NOS3	1.0	
+Proteinuria, low molecular weight, with hypercalciuria and nephrocalcinosis	TNF	1.0	
+Granulomatous disease, chronic, autosomal recessive, cytochrome b-negative	IFNG	1.0	
+Granulomatous disease, chronic, autosomal recessive, cytochrome b-negative	TNF	1.0	
+Neonatal respiratory distress	NOS3	1.0	
+Neonatal respiratory distress	TNF	1.0	
+Maternal diabetes	IFNG	1.0	
+Maternal diabetes	NOS3	1.0	
+Maternal diabetes	TNF	1.0	
+Allergic disposition	IFNG	1.0	
+Allergic disposition	IL2	1.0	
+Allergic disposition	TNF	1.0	
+Unipolar Depression	IFNG	1.0	
+Unipolar Depression	NOS3	1.0	
+Unipolar Depression	PDE4B	1.0	
+Unipolar Depression	TNF	1.0	
+Behcet Syndrome	IFNG	1.0	
+Behcet Syndrome	IL2	1.0	
+Behcet Syndrome	NOS3	1.0	
+Behcet Syndrome	TNF	1.0	
+Bronchiolitis, Viral	IFNG	1.0	
+Bronchiolitis, Viral	IL2	1.0	
+Bronchiolitis, Viral	TNF	1.0	
+Leprosy	IFNG	1.0	
+Leprosy	IL2	1.0	
+Leprosy	TNF	1.0	
+Hypercholesterolemia, autosomal dominant, type B	CYP3A4	1.0	
+Hypercholesterolemia, autosomal dominant, type B	NOS3	1.0	
+Hypercholesterolemia, autosomal dominant, type B	TNF	1.0	
+Cervical intraepithelial neoplasia (Cervical dysplasia)	IFNG	1.0	
+Cervical intraepithelial neoplasia (Cervical dysplasia)	IL2	1.0	
+Cervical intraepithelial neoplasia (Cervical dysplasia)	TNF	1.0	
+Recurrent abortion	NOS3	1.0	
+Recurrent abortion	TNF	1.0	
+Scar conditions and fibrosis of skin	IFNG	1.0	
+Scar conditions and fibrosis of skin	TNF	1.0	
+IMMUNE SUPPRESSION	IFNG	1.0	
+IMMUNE SUPPRESSION	TNF	1.0	
+Pregnancy loss	IFNG	1.0	
+Pregnancy loss	TNF	1.0	
+Prediabetes syndrome	IFNG	1.0	
+Prediabetes syndrome	TNF	1.0	
+Hormone refractory prostate cancer	IL2	1.0	
+Hormone refractory prostate cancer	TNF	1.0	
+Tuberculosis, Pulmonary	IFNG	1.0	
+Tuberculosis, Pulmonary	IL2	1.0	
+Tuberculosis, Pulmonary	TNF	1.0	
+Respiration Disorders	PDE4B	1.0	
+Respiration Disorders	TNF	1.0	
+Tetanus	IFNG	1.0	
+Tetanus	IL2	1.0	
+Stable angina	IFNG	1.0	
+Stable angina	TNF	1.0	
+Epstein-Barr Virus Infections	IFNG	1.0	
+Epstein-Barr Virus Infections	IL2	1.0	
+Epstein-Barr Virus Infections	TNF	1.0	
+Hepatoblastoma	CYP3A4	1.0	
+Hepatoblastoma	IFNG	1.0	
+Hepatoblastoma	TNF	1.0	
+Restenosis	IFNG	1.0	
+Restenosis	NOS3	1.0	
+Restenosis	TNF	1.0	
+Demyelinating Diseases	IFNG	1.0	
+Demyelinating Diseases	TNF	1.0	
+{Diphtheria, susceptibility to} (1)	IL2	1.0	
+{Diphtheria, susceptibility to} (1)	TNF	1.0	
+Adult type dermatomyositis	IL2	1.0	
+Adult type dermatomyositis	TNF	1.0	
+Carcinoma, Lewis Lung	IFNG	1.0	
+Carcinoma, Lewis Lung	IL2	1.0	
+Benign Prostatic Hyperplasia	CYP3A4	1.0	
+Benign Prostatic Hyperplasia	IFNG	1.0	
+Benign Prostatic Hyperplasia	IL2	1.0	
+Benign Prostatic Hyperplasia	NOS3	1.0	
+Amphetamine-Related Disorders	PDE4B	1.0	
+Amphetamine-Related Disorders	PDE4D	1.0	
+Soft Tissue Neoplasms	IFNG	1.0	
+Soft Tissue Neoplasms	TNF	1.0	
+bone destruction	IFNG	1.0	
+bone destruction	TNF	1.0	
+Severe Sepsis	NOS3	1.0	
+Severe Sepsis	TNF	1.0	
+Malignant hyperthermia susceptibility type 5	IFNG	1.0	
+Malignant hyperthermia susceptibility type 5	IL2	1.0	
+Malignant hyperthermia susceptibility type 5	TNF	1.0	
+Dyslipidemias	CYP3A4	1.0	
+Dyslipidemias	NOS3	1.0	
+Dyslipidemias	TNF	1.0	
+Liver regeneration disorder	IFNG	1.0	
+Liver regeneration disorder	TNF	1.0	
+Aortic aneurysm, familial thoracic 11, susceptibility to	IFNG	1.0	
+Aortic aneurysm, familial thoracic 11, susceptibility to	NOS3	1.0	
+Aortic aneurysm, familial thoracic 11, susceptibility to	TNF	1.0	
+Diabetic Angiopathies	NOS3	1.0	
+Diabetic Angiopathies	TNF	1.0	
+Necrotizing Enterocolitis	NOS3	1.0	
+Necrotizing Enterocolitis	TNF	1.0	
+Plasmacytoma	IL2	1.0	
+Plasmacytoma	TNF	1.0	
+Chronic sinusitis	IFNG	1.0	
+Chronic sinusitis	TNF	1.0	
+Parasitemia	IFNG	1.0	
+Parasitemia	TNF	1.0	
+Contact Dermatitis	IFNG	1.0	
+Contact Dermatitis	TNF	1.0	
+Type 1 diabetic neuropathy	NOS3	1.0	
+Type 1 diabetic neuropathy	TNF	1.0	
+Lymphoproliferative disorder	IFNG	1.0	
+Lymphoproliferative disorder	IL2	1.0	
+Lymphoproliferative disorder	TNF	1.0	
+Nasal polyposis	IFNG	1.0	
+Nasal polyposis	IL2	1.0	
+Nasal polyposis	TNF	1.0	
+Cataracts, growth hormone deficiency, sensory neuropathy, sensorineural hearing loss, and skeletal dysplasia	CYP3A4	1.0	
+Cataracts, growth hormone deficiency, sensory neuropathy, sensorineural hearing loss, and skeletal dysplasia	PDE4D	1.0	
+Gastritis	IFNG	1.0	
+Gastritis	IL2	1.0	
+Gastritis	TNF	1.0	
+Dermal atrophy	IFNG	1.0	
+Dermal atrophy	IL2	1.0	
+Dermal atrophy	TNF	1.0	
+Acute myocardial infarction	IFNG	1.0	
+Acute myocardial infarction	NOS3	1.0	
+Acute myocardial infarction	TNF	1.0	
+Mitral stenosis	IFNG	1.0	
+Mitral stenosis	IL2	1.0	
+Mitral stenosis	TNF	1.0	
+Hepatitis C	CYP3A4	1.0	
+Hepatitis C	IFNG	1.0	
+Hepatitis C	IL2	1.0	
+Hepatitis C	NOS3	1.0	
+Hepatitis C	TNF	1.0	
+Vitiligo	IFNG	1.0	
+Vitiligo	IL2	1.0	
+Vitiligo	TNF	1.0	
+Hepatitis C, Chronic	CYP3A4	1.0	
+Hepatitis C, Chronic	IFNG	1.0	
+Hepatitis C, Chronic	IL2	1.0	
+Hepatitis C, Chronic	TNF	1.0	
+airway disease	IFNG	1.0	
+airway disease	TNF	1.0	
+Chronic ulcerative colitis	IL2	1.0	
+Chronic ulcerative colitis	TNF	1.0	
+Hyperglycemia	IFNG	1.0	
+Hyperglycemia	IL2	1.0	
+Hyperglycemia	NOS3	1.0	
+Hyperglycemia	TNF	1.0	
+Postmenopausal osteoporosis	NOS3	1.0	
+Postmenopausal osteoporosis	TNF	1.0	
+Non-Neoplastic Disorder	IFNG	1.0	
+Non-Neoplastic Disorder	IL2	1.0	
+Non-Neoplastic Disorder	NOS3	1.0	
+Non-Neoplastic Disorder	TNF	1.0	
+Arteriosclerosis	CYP3A4	1.0	
+Arteriosclerosis	IFNG	1.0	
+Arteriosclerosis	IL2	1.0	
+Arteriosclerosis	NOS3	1.0	
+Arteriosclerosis	PDE4D	1.0	
+Arteriosclerosis	TNF	1.0	
+Biliary Atresia	IFNG	1.0	
+Biliary Atresia	TNF	1.0	
+Peripheral Arterial Diseases	NOS3	1.0	
+Peripheral Arterial Diseases	TNF	1.0	
+Urinary Bladder Neoplasms	IFNG	1.0	
+Urinary Bladder Neoplasms	IL2	1.0	
+Urinary Bladder Neoplasms	NOS3	1.0	
+Urinary Bladder Neoplasms	TNF	1.0	
+Vesicular Stomatitis	IFNG	1.0	
+Vesicular Stomatitis	TNF	1.0	
+Malignant tumor of testis	CYP3A4	1.0	
+Malignant tumor of testis	IFNG	1.0	
+Malignant tumor of testis	TNF	1.0	
+Pneumonia	IFNG	1.0	
+Pneumonia	IL2	1.0	
+Pneumonia	NOS3	1.0	
+Pneumonia	TNF	1.0	
+Lymphoid leukemia	CYP3A4	1.0	
+Lymphoid leukemia	IFNG	1.0	
+Lymphoid leukemia	TNF	1.0	
+Hemochromatosis	IFNG	1.0	
+Hemochromatosis	TNF	1.0	
+Hepatopulmonary Syndrome	NOS3	1.0	
+Hepatopulmonary Syndrome	TNF	1.0	
+Fibrosarcoma	IFNG	1.0	
+Fibrosarcoma	IL2	1.0	
+Fibrosarcoma	TNF	1.0	
+Cystitis	IL2	1.0	
+Cystitis	TNF	1.0	
+Coronary heart disease 7	CYP3A4	1.0	
+Coronary heart disease 7	IFNG	1.0	
+Coronary heart disease 7	NOS3	1.0	
+Coronary heart disease 7	PDE4D	1.0	
+Coronary heart disease 7	TNF	1.0	
+Asthma	CYP3A4	1.0	
+Asthma	IFNG	1.0	
+Asthma	IL2	1.0	
+Asthma	NOS3	1.0	
+Asthma	PDE4B	1.0	
+Asthma	PDE4D	1.0	
+Asthma	TNF	1.0	
+Kidney Diseases	CYP3A4	1.0	
+Kidney Diseases	IFNG	1.0	
+Kidney Diseases	IL2	1.0	
+Kidney Diseases	NOS3	1.0	
+Kidney Diseases	TNF	1.0	
+Peripheral neuropathy, myopathy, hoarseness, and hearing loss	CYP3A4	1.0	
+Peripheral neuropathy, myopathy, hoarseness, and hearing loss	IFNG	1.0	
+Peripheral neuropathy, myopathy, hoarseness, and hearing loss	IL2	1.0	
+Peripheral neuropathy, myopathy, hoarseness, and hearing loss	PDE4D	1.0	
+Peripheral neuropathy, myopathy, hoarseness, and hearing loss	TNF	1.0	
+Leukoencephalopathy, Progressive Multifocal	IFNG	1.0	
+Leukoencephalopathy, Progressive Multifocal	TNF	1.0	
+Polymyositis	IL2	1.0	
+Polymyositis	TNF	1.0	
+Spontaneous abortion	IFNG	1.0	
+Spontaneous abortion	NOS3	1.0	
+Spontaneous abortion	TNF	1.0	
+Calcinosis	NOS3	1.0	
+Calcinosis	TNF	1.0	
+Mycobacterium Infections	IFNG	1.0	
+Mycobacterium Infections	TNF	1.0	
+Endometrial adenocarcinoma	IFNG	1.0	
+Endometrial adenocarcinoma	TNF	1.0	
+Anaplastic large cell lymphoma, ALK negative	IFNG	1.0	
+Anaplastic large cell lymphoma, ALK negative	IL2	1.0	
+Anaplastic large cell lymphoma, ALK negative	TNF	1.0	
+Experimental Organism Basal Cell Carcinoma	IFNG	1.0	
+Experimental Organism Basal Cell Carcinoma	IL2	1.0	
+Experimental Organism Basal Cell Carcinoma	TNF	1.0	
+Hereditary factor VIII deficiency disease	IL2	1.0	
+Hereditary factor VIII deficiency disease	TNF	1.0	
+Childhood asthma	IFNG	1.0	
+Childhood asthma	TNF	1.0	
+Neoplasm of the larynx	CYP3A4	1.0	
+Neoplasm of the larynx	TNF	1.0	
+Subarachnoid hemorrhage	CYP3A4	1.0	
+Subarachnoid hemorrhage	NOS3	1.0	
+Subarachnoid hemorrhage	TNF	1.0	
+Anorexia nervosa 1	IFNG	1.0	
+Anorexia nervosa 1	TNF	1.0	
+Middle Cerebral Artery Occlusion	NOS3	1.0	
+Middle Cerebral Artery Occlusion	TNF	1.0	
+Ankylosing spondylitis	IFNG	1.0	
+Ankylosing spondylitis	IL2	1.0	
+Ankylosing spondylitis	TNF	1.0	
+ Frontotemporal lobar degeneration, TARDBP-related, 612069 (3)	NOS3	1.0	
+ Frontotemporal lobar degeneration, TARDBP-related, 612069 (3)	TNF	1.0	
+Fibrinogen Adverse Event	NOS3	1.0	
+Fibrinogen Adverse Event	PDE4B	1.0	
+Anemia, Sickle Cell	IFNG	1.0	
+Anemia, Sickle Cell	NOS3	1.0	
+Anemia, Sickle Cell	TNF	1.0	
+Hepatitis B, Chronic	IFNG	1.0	
+Hepatitis B, Chronic	IL2	1.0	
+Hepatitis B, Chronic	TNF	1.0	
+Primary sclerosing cholangitis	IL2	1.0	
+Primary sclerosing cholangitis	TNF	1.0	
+Helicobacter Infections	IL2	1.0	
+Helicobacter Infections	TNF	1.0	
+Left ventricular hypertrophy	IL2	1.0	
+Left ventricular hypertrophy	NOS3	1.0	
+Left ventricular hypertrophy	TNF	1.0	
+Carotid Atherosclerosis	NOS3	1.0	
+Carotid Atherosclerosis	PDE4D	1.0	
+Neoplasm Recurrence, Local	IFNG	1.0	
+Neoplasm Recurrence, Local	IL2	1.0	
+Neoplasm Recurrence, Local	TNF	1.0	
+Glaucoma, Open-Angle	NOS3	1.0	
+Glaucoma, Open-Angle	TNF	1.0	
+Portal hypertension, noncirrhotic	NOS3	1.0	
+Portal hypertension, noncirrhotic	TNF	1.0	
+Myocarditis	IFNG	1.0	
+Myocarditis	TNF	1.0	
+Inflammatory disorder	IFNG	1.0	
+Inflammatory disorder	IL2	1.0	
+Inflammatory disorder	TNF	1.0	
+Dermatomyositis	IL2	1.0	
+Dermatomyositis	TNF	1.0	
+Peritonitis	IFNG	1.0	
+Peritonitis	TNF	1.0	
+Intracranial Aneurysm	NOS3	1.0	
+Intracranial Aneurysm	TNF	1.0	
+Chronic atrophic gastritis	IL2	1.0	
+Chronic atrophic gastritis	TNF	1.0	
+Hereditary hyperhomocysteinemia	NOS3	1.0	
+Hereditary hyperhomocysteinemia	TNF	1.0	
+Breast adenocarcinoma	IL2	1.0	
+Breast adenocarcinoma	TNF	1.0	
+Bronchiectasis	IFNG	1.0	
+Bronchiectasis	TNF	1.0	
+Acute lymphoid leukemia	CYP3A4	1.0	
+Acute lymphoid leukemia	IFNG	1.0	
+Acute lymphoid leukemia	IL2	1.0	
+Acute lymphoid leukemia	NOS3	1.0	
+Acute lymphoid leukemia	TNF	1.0	
+Thromboembolism	CYP3A4	1.0	
+Thromboembolism	TNF	1.0	
+Vascular inflammations	NOS3	1.0	
+Vascular inflammations	TNF	1.0	
+Hyperlipidemia, combined, 1	CYP3A4	1.0	
+Hyperlipidemia, combined, 1	NOS3	1.0	
+Hyperlipidemia, combined, 1	TNF	1.0	
+Squamous cell carcinoma of tongue	IFNG	1.0	
+Squamous cell carcinoma of tongue	TNF	1.0	
+Arterial dissection	TNF	1.0	
+Drug Eruptions	IFNG	1.0	
+Primary malignant neoplasm of liver	CYP3A4	1.0	
+Scrub Typhus	IFNG	1.0	
+Seborrheic dermatitis	TNF	1.0	
+Hyperphosphatemia	PDE4D	1.0	
+ Acrodysostosis 1, with or without hormone resistance, 101800 (3)	PDE4D	1.0	
+Isovaleryl-CoA dehydrogenase deficiency	TNF	1.0	
+High altitude pulmonary edema	NOS3	1.0	
+Post-transplant lymphoproliferative disorder	TNF	1.0	
+Blue irides	PDE4D	1.0	
+Pseudomonas aeruginosa infection	NOS3	1.0	
+Cutaneous lymphoma	IFNG	1.0	
+Kashin-Beck Disease	TNF	1.0	
+Ulcerative colitis	CYP3A4	1.0	
+Ulcerative colitis	IFNG	1.0	
+Ulcerative colitis	IL2	1.0	
+Ulcerative colitis	NOS3	1.0	
+Ulcerative colitis	TNF	1.0	
+Peripheral T-Cell Lymphoma	CYP3A4	1.0	
+Peripheral T-Cell Lymphoma	TNF	1.0	
+Malnutrition	IL2	1.0	
+Malnutrition	TNF	1.0	
+Respiratory Syncytial Virus Infections	IFNG	1.0	
+Respiratory Syncytial Virus Infections	IL2	1.0	
+Respiratory Syncytial Virus Infections	TNF	1.0	
+Pancytopenia	IFNG	1.0	
+Pancytopenia	TNF	1.0	
+Urticaria	IFNG	1.0	
+Urticaria	TNF	1.0	
+Acute-Phase Reaction	TNF	1.0	
+Anemia of chronic disease	TNF	1.0	
+Achalasia	TNF	1.0	
+Primary angle-closure glaucoma	NOS3	1.0	
+Hemorrhagic Fever with Renal Syndrome	TNF	1.0	
+Pseudomonas Infections	TNF	1.0	
+Tetraplegia	TNF	1.0	
+Oral ulcer	TNF	1.0	
+Sarcoma, Epithelioid	IL2	1.0	
+Asthma, Occupational	TNF	1.0	
+Acute hepatitis	IFNG	1.0	
+Lymphoid hyperplasia	IFNG	1.0	
+Neonatal Systemic lupus erythematosus	TNF	1.0	
+Brain Hemorrhage, Traumatic	NOS3	1.0	
+Chronic atrial fibrillation	NOS3	1.0	
+Hypereosinophilic syndrome	IL2	1.0	
+Leprosy, Paucibacillary	TNF	1.0	
+T-cell lymphoma	IFNG	1.0	
+T-cell lymphoma	IL2	1.0	
+T-cell lymphoma	TNF	1.0	
+Thrombophilia	NOS3	1.0	
+Thrombophilia	TNF	1.0	
+Precursor Cell Lymphoblastic Leukemia-Lymphoma	CYP3A4	1.0	
+Precursor Cell Lymphoblastic Leukemia-Lymphoma	IFNG	1.0	
+Precursor Cell Lymphoblastic Leukemia-Lymphoma	IL2	1.0	
+Precursor Cell Lymphoblastic Leukemia-Lymphoma	NOS3	1.0	
+Precursor Cell Lymphoblastic Leukemia-Lymphoma	TNF	1.0	
+Glucose intolerance	IFNG	1.0	
+Glucose intolerance	NOS3	1.0	
+Glucose intolerance	TNF	1.0	
+Reperfusion Injury	IFNG	1.0	
+Reperfusion Injury	NOS3	1.0	
+Reperfusion Injury	TNF	1.0	
+Lupus Vulgaris	IFNG	1.0	
+Lupus Vulgaris	IL2	1.0	
+Lupus Vulgaris	TNF	1.0	
+Esophageal varix	NOS3	1.0	
+HIV encephalitis	TNF	1.0	
+Philadelphia chromosome positive chronic myelogenous leukemia	TNF	1.0	
+Hemophagocytosis	IFNG	1.0	
+Cardiovascular morbidity	NOS3	1.0	
+Non-Hodgkin lymphoma	IFNG	1.0	
+Non-Hodgkin lymphoma	IL2	1.0	
+Non-Hodgkin lymphoma	NOS3	1.0	
+Non-Hodgkin lymphoma	TNF	1.0	
+Chronic obstructive pulmonary disease	IFNG	1.0	
+Chronic obstructive pulmonary disease	IL2	1.0	
+Chronic obstructive pulmonary disease	NOS3	1.0	
+Chronic obstructive pulmonary disease	PDE4D	1.0	
+Chronic obstructive pulmonary disease	TNF	1.0	
+Autism 15	IFNG	1.0	
+Autism 15	IL2	1.0	
+Autism 15	PDE4B	1.0	
+Autism 15	PDE4D	1.0	
+Autism 15	TNF	1.0	

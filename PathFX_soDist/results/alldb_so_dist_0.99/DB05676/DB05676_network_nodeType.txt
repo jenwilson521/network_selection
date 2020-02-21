@@ -1,0 +1,10 @@
+node_name	node_type	
+DB05676	drug	
+NOS3	drug_target	
+IFNG	drug_target	
+TNF	drug_target	
+IL2	drug_target	
+PDE4A	drug_target	
+CYP3A4	drug_target	
+PDE4D	drug_target	
+PDE4B	drug_target	

@@ -1,0 +1,5 @@
+node1	node2	edge_score	
+DB00654	PTGFR	1.0	
+DB00654	SLC22A1	1.0	
+DB00654	SLCO2B1	1.0	
+

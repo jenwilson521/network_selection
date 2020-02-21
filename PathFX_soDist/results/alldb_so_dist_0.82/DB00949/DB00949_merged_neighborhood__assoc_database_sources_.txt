@@ -1,0 +1,10 @@
+Gene	CUI	Source Databases	
+CYP3A4	C0011206	Cocaine delirium	DisGeNet	
+GRIN2B	C0011206	Cocaine delirium	DisGeNet	
+GRIN3A	C0011206	Cocaine delirium	DisGeNet	
+CYP2C19	C0038354	Stomach Diseases	DisGeNet	
+CYP2C9	C0038354	Stomach Diseases	DisGeNet	
+CYP2E1	C0038354	Stomach Diseases	DisGeNet	
+CYP2C19	C0014547	Epilepsy, focal, with speech disorder and with or without mental retardation	DisGeNet	
+CYP2C9	C0014547	Epilepsy, focal, with speech disorder and with or without mental retardation	DisGeNet	
+GRIN2B	C0014547	Epilepsy, focal, with speech disorder and with or without mental retardation	DisGeNet	

@@ -1,0 +1,77 @@
+node1	node2	edge_score	
+DB13873	PPARG	1.0	
+DB13873	PPARD	1.0	
+DB13873	NR1I2	1.0	
+DB13873	PPARA	1.0	
+PPARA	rs4823613	0.99
+PPARA	rs4253778	0.99
+PPARA	rs149711321	0.99
+PPARD	rs3734254	0.99
+NR1I2	rs10934498	0.99
+NR1I2	rs6785049	0.99
+PPARG		1.0
+PPARA	rs9626730	0.99
+NR1I2	rs1523130	0.99
+NR1I2	rs7643645	0.99
+NR1I2	rs3814058	0.99
+PPARA	rs135550	0.99
+PPARA		1.0
+NR1I2	rs3732360	0.99
+PPARD	rs7769719	0.99
+PPARD		1.0
+PPARA	rs4253728	0.99
+NR1I2		1.0
+PPARD	rs6922548	0.99
+NR1I2	rs2276707	0.99
+NR1I2	rs3814055	0.99
+NR1I2	rs2472677	0.99
+PPARD	rs1883322	0.99
+NR1I2	rs2461817	0.99
+PPARD	rs2016520	0.99
+PPARA	rs135543	0.99
+NR1I2	rs2276706	0.99
+NR1I2	rs3732359	0.99
+NR1I2	rs4688040	0.99
+Liver regeneration disorder	NR1I2	1.0	
+Liver regeneration disorder	PPARA	1.0	
+Liver regeneration disorder	PPARD	1.0	
+Liver regeneration disorder	PPARG	1.0	
+Hepatopulmonary Syndrome	NR1I2	1.0	
+Hepatopulmonary Syndrome	PPARA	1.0	
+Hepatopulmonary Syndrome	PPARG	1.0	
+Steatohepatitis	NR1I2	1.0	
+Steatohepatitis	PPARA	1.0	
+Steatohepatitis	PPARD	1.0	
+Steatohepatitis	PPARG	1.0	
+Dyslipidemias	NR1I2	1.0	
+Dyslipidemias	PPARA	1.0	
+Dyslipidemias	PPARD	1.0	
+Dyslipidemias	PPARG	1.0	
+Vascular neoplasm	NR1I2	1.0	
+Vascular neoplasm	PPARA	1.0	
+Vascular neoplasm	PPARG	1.0	
+Cholestasis of pregnancy	NR1I2	1.0	
+Cholestasis of pregnancy	PPARG	1.0	
+Acne Vulgaris	NR1I2	1.0	
+Acne Vulgaris	PPARG	1.0	
+Obesity, severe, 601665 (3)	PPARA	1.0	
+Obesity, severe, 601665 (3)	PPARD	1.0	
+Obesity, severe, 601665 (3)	PPARG	1.0	
+Hypertriglyceridemia result	PPARA	1.0	
+Hypertriglyceridemia result	PPARG	1.0	
+Pediatric Obesity	PPARA	1.0	
+Pediatric Obesity	PPARG	1.0	
+Insulin resistance syndrome	PPARA	1.0	
+Insulin resistance syndrome	PPARG	1.0	
+Coronary Restenosis	PPARA	1.0	
+Coronary Restenosis	PPARG	1.0	
+Non-alcoholic Fatty Liver Disease	NR1I2	1.0	
+Non-alcoholic Fatty Liver Disease	PPARA	1.0	
+Non-alcoholic Fatty Liver Disease	PPARD	1.0	
+Non-alcoholic Fatty Liver Disease	PPARG	1.0	
+Diabetic Cardiomyopathies	NR1I2	1.0	
+Diabetic Cardiomyopathies	PPARA	1.0	
+Biliary tract neoplasm	PPARD	1.0	
+Biliary tract neoplasm	PPARG	1.0	
+Disorders of lipoid metabolism	NR1I2	1.0	
+Disorders of lipoid metabolism	PPARA	1.0	

@@ -1,0 +1,25 @@
+node_name	node_type	
+DB00554	drug	
+CYP2C9	drug_target	
+PTGS2	drug_target	
+PTGS1	drug_target	
+CYP2C8	drug_target	
+ALB	drug_target	
+SLC22A11	drug_target	
+SLC22A6	drug_target	
+SLCO2B1	drug_target	
+SLC22A8	drug_target	
+Rhinitis, Allergic, Perennial	phenotype	
+Stomach Diseases	phenotype	
+Gastric ulcer	phenotype	
+Peptic ulcer	phenotype	
+Adverse drug events and drug allergies	phenotype	
+Drug Allergy	phenotype	
+Echinococcosis	phenotype	
+Old myocardial infarction	phenotype	
+gastritis h pylori	phenotype	
+Creutzfeldt-Jakob Disease, Sporadic	phenotype	
+keratoacanthoma	phenotype	
+Pericardial effusion	phenotype	
+Peptic Ulcer Hemorrhage	phenotype	
+Neoplasm of the larynx	phenotype	

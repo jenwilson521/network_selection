@@ -1,0 +1,21 @@
+Gene	CUI	Source Databases	
+ABCB1	C0013182	Drug Allergy	DisGeNet	
+CYP2C8	C0013182	Drug Allergy	DisGeNet	
+CYP2C9	C0013182	Drug Allergy	DisGeNet	
+CYP3A4	C0013182	Drug Allergy	DisGeNet	
+TYMS	C0013182	Drug Allergy	DisGeNet	
+ABCB1	C0029445	Bone necrosis	DisGeNet	
+CYP2C8	C0029445	Bone necrosis	DisGeNet	
+CYP3A4	C0029445	Bone necrosis	DisGeNet	
+TYMS	C0029445	Bone necrosis	DisGeNet	
+ABCB1	C0041755	Adverse drug events and drug allergies	DisGeNet	
+CYP2C9	C0041755	Adverse drug events and drug allergies	DisGeNet	
+DHFR	C0041755	Adverse drug events and drug allergies	DisGeNet	
+TYMS	C0041755	Adverse drug events and drug allergies	DisGeNet	
+CYP2C8	C0031347	Pharyngeal Neoplasms	DisGeNet	
+CYP2C9	C0031347	Pharyngeal Neoplasms	DisGeNet	
+CYP3A4	C0031347	Pharyngeal Neoplasms	DisGeNet	
+TYMS	C0031347	Pharyngeal Neoplasms	DisGeNet	
+ABCB1	C0854467	Myelosuppression	DisGeNet	
+DHFR	C0854467	Myelosuppression	DisGeNet	
+TYMS	C0854467	Myelosuppression	DisGeNet	

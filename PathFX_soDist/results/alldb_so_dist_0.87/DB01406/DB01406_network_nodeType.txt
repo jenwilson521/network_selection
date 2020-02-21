@@ -1,0 +1,25 @@
+node_name	node_type	
+DB01406	drug	
+CCL2	drug_target	
+ESR1	drug_target	
+CYP19A1	drug_target	
+SHBG	drug_target	
+AR	drug_target	
+PGR	drug_target	
+CYP3A4	drug_target	
+Oestrogen deficiency	phenotype	
+gliosarcoma	phenotype	
+Bladder neck obstruction	phenotype	
+Carpal tunnel syndrome	phenotype	
+Hepatopulmonary Syndrome	phenotype	
+Cocaine delirium	phenotype	
+Cerebral aneurysm	phenotype	
+Stromal sarcoma	phenotype	
+Acanthosis nigricans	phenotype	
+Malignant neoplasm of male breast	phenotype	
+Depressive Symptoms	phenotype	
+Pathologic fracture	phenotype	
+Bone necrosis	phenotype	
+Dry Eye Syndromes	phenotype	
+Abnormal epiphyseal ossification	phenotype	
+Malignant neoplasm of female breast	phenotype	

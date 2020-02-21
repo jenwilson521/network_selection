@@ -1,0 +1,4 @@
+node1	node2	edge_score	
+DB11134	CP	1.0	
+DB11134	ALB	1.0	
+

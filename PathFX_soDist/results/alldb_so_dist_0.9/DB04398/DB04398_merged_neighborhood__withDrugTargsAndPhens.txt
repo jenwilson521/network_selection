@@ -1,0 +1,16 @@
+node1	node2	edge_score	
+DB04398	SLC16A1	1.0	
+DB04398	SLC16A3	1.0	
+DB04398	SLC16A10	1.0	
+DB04398	SLC16A7	1.0	
+DB04398	SLCO2B1	1.0	
+SLCO2B1		1.0
+SLC16A7		1.0
+Body Weight Changes	SLC16A7	1.0	
+Hyperbilirubinemia	SLCO2B1	1.0	
+Fibrinogen Adverse Event	SLC16A7	1.0	
+Autism spectrum disorders	SLC16A7	1.0	
+Hypoglycemia, neonatal, simulating foetopathia diabetica	SLC16A7	1.0	
+Cardiomegaly	SLC16A7	1.0	
+Male infertility	SLC16A7	1.0	
+Gastrointestinal stromal tumor	SLC16A7	1.0	

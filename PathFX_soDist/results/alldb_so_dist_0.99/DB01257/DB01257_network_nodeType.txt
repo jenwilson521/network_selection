@@ -1,0 +1,3 @@
+node_name	node_type	
+DB01257	drug	
+C5	drug_target	

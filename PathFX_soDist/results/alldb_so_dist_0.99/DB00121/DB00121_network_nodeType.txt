@@ -1,0 +1,12 @@
+node_name	node_type	
+DB00121	drug	
+ACACA	drug_target	
+ACACB	drug_target	
+PCCB	drug_target	
+HLCS	drug_target	
+PCCA	drug_target	
+PC	drug_target	
+SLC5A6	drug_target	
+CYP1B1	drug_target	
+MCCC2	drug_target	
+MCCC1	drug_target	

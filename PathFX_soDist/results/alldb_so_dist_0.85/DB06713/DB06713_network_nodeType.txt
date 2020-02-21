@@ -1,0 +1,14 @@
+node_name	node_type	
+DB06713	drug	
+PGR	drug_target	
+CYP3A4	drug_target	
+AR	drug_target	
+ALB	drug_target	
+Dentatorubral pallidoluysian atrophy	phenotype	
+21-hydroxylase deficiency	phenotype	
+Acute hepatic failure	phenotype	
+Tubulointerstitial nephritis	phenotype	
+Adrenal hyperplasia	phenotype	
+Neoplasms, Germ Cell and Embryonal	phenotype	
+ {HIV-1 viremia, susceptibility to}, 609423 (3)	phenotype	
+Adenocarcinoma of colon	phenotype	

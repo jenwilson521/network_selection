@@ -1,0 +1,52 @@
+node_name	node_type	
+DB01136	drug	
+PTGS1	drug_target	
+HIF1A	drug_target	
+ADRA2C	drug_target	
+UGT1A1	drug_target	
+CYP2D6	drug_target	
+ADRA2A	drug_target	
+ADRA2B	drug_target	
+XDH	drug_target	
+ABCB1	drug_target	
+NPPB	drug_target	
+ADRA1A	drug_target	
+NDUFC2	drug_target	
+GJA1	drug_target	
+VEGFA	drug_target	
+VCAM1	drug_target	
+CYP3A4	drug_target	
+CYP2C9	drug_target	
+CYP1A1	drug_target	
+CYP1A2	drug_target	
+ADRA1B	drug_target	
+ADRA1D	drug_target	
+KCNH2	drug_target	
+SELE	drug_target	
+KCNJ4	drug_target	
+CYP2E1	drug_target	
+ADRB1	drug_target	
+ADRB2	drug_target	
+Drug Allergy	phenotype	
+Hepatitis D Infection	phenotype	
+Febrile Neutropenia	phenotype	
+Anemia, Sickle Cell	phenotype	
+Hyperbilirubinemia	phenotype	
+Gastroparesis	phenotype	
+Acute postoperative pain	phenotype	
+Nephrosclerosis	phenotype	
+Adverse drug events and drug allergies	phenotype	
+Occupational Diseases	phenotype	
+Mammographic breast density	phenotype	
+Obstructive sleep apnea	phenotype	
+Cholelithiasis	phenotype	
+Squamous Cell Neoplasms	phenotype	
+Adenoma of large intestine	phenotype	
+Neoplasm of the larynx	phenotype	
+Intermittent claudication	phenotype	
+Congenital long QT syndrome	phenotype	
+Low Tension Glaucoma	phenotype	
+Acute kidney injury	phenotype	
+Chronic schizophrenia	phenotype	
+Peptic ulcer	phenotype	
+Pancreatitis, Alcoholic	phenotype	

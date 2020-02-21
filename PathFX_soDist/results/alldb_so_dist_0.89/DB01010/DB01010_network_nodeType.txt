@@ -1,0 +1,70 @@
+node_name	node_type	
+DB01010	drug	
+ACHE	drug_target	
+BCHE	drug_target	
+Leptospirosis	phenotype	
+Refractory anemia	phenotype	
+Refractory anaemia with excess blasts	phenotype	
+Congenital myasthenic syndrome	phenotype	
+Chronic myelomonocytic leukemia	phenotype	
+Thyroiditis	phenotype	
+Sporadic Breast Carcinoma	phenotype	
+Weight Gain Adverse Event	phenotype	
+Myasthenia Gravis	phenotype	
+Plaque, Atherosclerotic	phenotype	
+Muscle stiffness	phenotype	
+Myasthenic syndrome, congenital, 8	phenotype	
+Senile plaques	phenotype	
+Enzyme inhibition disorder	phenotype	
+childhood brain tumor	phenotype	
+Churg-Strauss Syndrome	phenotype	
+Dementia familial British	phenotype	
+Myotubular myopathy	phenotype	
+Neurotoxicity Syndromes	phenotype	
+Muscular dystrophy-dystroglycanopathy (congenital with brain and eye anomalies), type a, 11	phenotype	
+Gestational trophoblastic disease	phenotype	
+Platelet-type bleeding disorder 15	phenotype	
+Learning Disorders	phenotype	
+Malignant hyperthermia susceptibility	phenotype	
+Cerebral Amyloid Angiopathy	phenotype	
+Aural atresia, congenital	phenotype	
+Renal neoplasm	phenotype	
+Memory Disorders	phenotype	
+Cocaine Dependence	phenotype	
+Adverse drug events and drug allergies	phenotype	
+Memory Loss	phenotype	
+Cognition Disorders	phenotype	
+Hydatidiform mole, recurrent, 1, 231090 (3)	phenotype	
+Fasciculations	phenotype	
+Sleep apnea	phenotype	
+Cystic Fibrosis	phenotype	
+Postoperative Complications	phenotype	
+Congenital disorder of glycosylation	phenotype	
+Dementia	phenotype	
+Growth Disorders	phenotype	
+Pregnancy loss	phenotype	
+Increased body weight	phenotype	
+Dementia, Vascular	phenotype	
+Amphetamine-Related Disorders	phenotype	
+Langereis blood group	phenotype	
+Thyroid associated opthalmopathies	phenotype	
+Paralysis	phenotype	
+Prion Diseases	phenotype	
+body mass	phenotype	
+Creutzfeldt-Jakob Syndrome	phenotype	
+Spastic syndrome	phenotype	
+Methamphetamine abuse	phenotype	
+Thrombocytosis, benign familial microcytic	phenotype	
+CNS disorder	phenotype	
+early pregnancy	phenotype	
+Hereditary hyperhomocysteinemia	phenotype	
+Cocaine-Related Disorders	phenotype	
+Cerebellar ataxia, areflexia, pes cavus, optic atrophy and sensorinural hearing loss	phenotype	
+Hypertriglyceridemia	phenotype	
+Adult onset ataxia with oculomotor apraxia	phenotype	
+Amyloidosis	phenotype	
+Lewy Body Disease	phenotype	
+Neurodegenerative Diseases	phenotype	
+Neoplasm of the nervous system	phenotype	
+Mild cognitive impairment	phenotype	
+orbit (eye disorders)	phenotype	

@@ -1,0 +1,59 @@
+node_name	node_type	
+DB00668	drug	
+CYP2C9	drug_target	
+ADRA1A	drug_target	
+ADRA1B	drug_target	
+ADRA1D	drug_target	
+COMT	drug_target	
+ADRA2B	drug_target	
+ADRA2A	drug_target	
+ADRB1	drug_target	
+ADRB2	drug_target	
+TNF	drug_target	
+SLC22A1	drug_target	
+SLC22A2	drug_target	
+CYP3A4	drug_target	
+Acute postoperative pain	phenotype	
+Low Tension Glaucoma	phenotype	
+Occupational Diseases	phenotype	
+Chronic schizophrenia	phenotype	
+Nephrosclerosis	phenotype	
+Acute Coronary Syndrome	phenotype	
+Acute kidney injury	phenotype	
+Weight Loss Adverse Event	phenotype	
+Fibromyalgia	phenotype	
+Essential hypertension	phenotype	
+Chronic sciatica	phenotype	
+Methamphetamine abuse	phenotype	
+Kidney Failure, Chronic	phenotype	
+Meningococcal Infections	phenotype	
+Stress, Psychological	phenotype	
+Pharyngeal Neoplasms	phenotype	
+Depressive Symptoms	phenotype	
+Renal hypertension	phenotype	
+Rhinitis, Allergic, Perennial	phenotype	
+Hypotension	phenotype	
+Complications of Diabetes Mellitus	phenotype	
+Peptic Ulcer Hemorrhage	phenotype	
+Drug Allergy	phenotype	
+Hyperlipidemia, combined, 1	phenotype	
+Gastrointestinal Diseases	phenotype	
+Chronic heart failure	phenotype	
+Low back pain	phenotype	
+Stomach Diseases	phenotype	
+Drug usage	phenotype	
+Chronic Fatigue Syndrome	phenotype	
+Endotoxemia	phenotype	
+Obstructive sleep apnea	phenotype	
+Prenatal Exposure Delayed Effects	phenotype	
+Pain insensitivity	phenotype	
+Bronchial Hyperreactivity	phenotype	
+Neoplasm of the larynx	phenotype	
+Nausea	phenotype	
+Hyperalgesia	phenotype	
+Memory Disorders	phenotype	
+Helicobacter Infections	phenotype	
+Familial hypercholesterolemia	phenotype	
+Glaucoma, Open-Angle	phenotype	
+ {Septic shock, susceptibility to} (3)	phenotype	
+Polycystic Ovary Syndrome	phenotype	

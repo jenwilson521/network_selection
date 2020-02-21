@@ -1,0 +1,15 @@
+node_name	node_type	
+DB00537	drug	
+CYP1A2	drug_target	
+KCNH2	drug_target	
+ALB	drug_target	
+ABCB1	drug_target	
+SLC47A2	drug_target	
+CYP3A4	drug_target	
+CYP3A5	drug_target	
+SLC47A1	drug_target	
+TOP2A	drug_target	
+Primary malignant neoplasm of liver	phenotype	
+Pain insensitivity	phenotype	
+Glucocorticoid resistance, generalized	phenotype	
+Adverse drug events and drug allergies	phenotype	

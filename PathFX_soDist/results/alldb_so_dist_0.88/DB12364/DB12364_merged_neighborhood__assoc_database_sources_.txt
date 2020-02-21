@@ -1,0 +1,27 @@
+Gene	CUI	Source Databases	
+ABCB1	C0014836	Recurrent E. coli infections	DisGeNet	
+F2	C0014836	Recurrent E. coli infections	DisGeNet	
+ABCB1	C0015814	Femur Head Necrosis	DisGeNet	
+F2	C0015814	Femur Head Necrosis	DisGeNet	
+ABCB1	C0034341	Pyruvate carboxylase deficiency	DisGeNet	
+F2	C0034341	Pyruvate carboxylase deficiency	DisGeNet	
+ABCB1	C0152020	Gastroparesis	DisGeNet	
+KCNH2	C0152020	Gastroparesis	DisGeNet	
+F2	C0011071	Sudden death	DisGeNet	
+KCNH2	C0011071	Sudden death	DisGeNet	
+ABCB1	C0270853	Juvenile myoclonic epilepsy	DisGeNet	
+F2	C0270853	Juvenile myoclonic epilepsy	DisGeNet	
+ABCB1	C0029445	Bone necrosis	DisGeNet	
+F2	C0029445	Bone necrosis	DisGeNet	
+ABCB1	C0741923	cardiac event	DisGeNet	
+KCNH2	C0741923	cardiac event	DisGeNet	
+ABCB1	C3839868	Cytogenetically normal acute myeloid leukemia	DisGeNet	
+KCNH2	C3839868	Cytogenetically normal acute myeloid leukemia	DisGeNet	
+ABCB1	C0948480	Coronary Restenosis	DisGeNet	
+F2	C0948480	Coronary Restenosis	DisGeNet	
+ABCB1	C0153567	Uterine Cancer	DisGeNet	
+KCNH2	C0153567	Uterine Cancer	DisGeNet	
+ABCB1	C0150312	Menopause present (finding)	DisGeNet	
+F2	C0150312	Menopause present (finding)	DisGeNet	
+ABCB1	C0279980	Extraosseous Ewings sarcoma-primitive neuroepithelial tumor	DisGeNet	
+KCNH2	C0279980	Extraosseous Ewings sarcoma-primitive neuroepithelial tumor	DisGeNet	

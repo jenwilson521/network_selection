@@ -1,0 +1,39 @@
+node_name	node_type	
+DB01242	drug	
+SLC6A2	drug_target	
+CYP1A2	drug_target	
+CYP2D6	drug_target	
+SLC6A4	drug_target	
+ALB	drug_target	
+GSTP1	drug_target	
+ABCB1	drug_target	
+CYP2C19	drug_target	
+HTR2C	drug_target	
+HTR2B	drug_target	
+HTR2A	drug_target	
+CYP3A4	drug_target	
+Dyskinesia, Drug-Induced	phenotype	
+Methamphetamine abuse	phenotype	
+Nausea	phenotype	
+Chronic schizophrenia	phenotype	
+Acute postoperative pain	phenotype	
+Tardive Dyskinesia	phenotype	
+Heroin Dependence	phenotype	
+Primary malignant neoplasm of liver	phenotype	
+Orofacial dyskinesia	phenotype	
+Depressive Symptoms	phenotype	
+Cocaine Dependence	phenotype	
+Adverse drug events and drug allergies	phenotype	
+Personality disorder	phenotype	
+Drug Allergy	phenotype	
+Substance Withdrawal Syndrome	phenotype	
+Slow acetylator due to N-acetyltransferase enzyme variant	phenotype	
+Recurrent major depressive episodes	phenotype	
+Bulimia	phenotype	
+Dyspepsia	phenotype	
+CNS symptom	phenotype	
+Substance Use Disorders	phenotype	
+Puerperal Disorders	phenotype	
+As If Personality	phenotype	
+Pervasive developmental disorders	phenotype	
+Seasonal Affective Disorder	phenotype	

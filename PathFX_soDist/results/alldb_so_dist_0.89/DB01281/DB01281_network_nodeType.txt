@@ -1,0 +1,4 @@
+node_name	node_type	
+DB01281	drug	
+CD80	drug_target	
+CD86	drug_target	

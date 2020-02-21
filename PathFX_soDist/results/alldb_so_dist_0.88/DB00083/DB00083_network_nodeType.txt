@@ -1,0 +1,4 @@
+node_name	node_type	
+DB00083	drug	
+SNAP25	drug_target	
+RHOB	drug_target	

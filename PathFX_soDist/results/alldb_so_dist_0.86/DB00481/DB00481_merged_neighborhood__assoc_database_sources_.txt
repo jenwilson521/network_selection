@@ -1,0 +1,111 @@
+Gene	CUI	Source Databases	
+ABCB1	C0020433	Hyperbilirubinemia	DisGeNet	
+ABCC2	C0020433	Hyperbilirubinemia	DisGeNet,HumPhenOnt	
+ABCC3	C0020433	Hyperbilirubinemia	DisGeNet	
+CYP2B6	C0020433	Hyperbilirubinemia	DisGeNet	
+SLCO1B1	C0020433	Hyperbilirubinemia	DisGeNet,HumPhenOnt	
+SLCO1B3	C0020433	Hyperbilirubinemia	DisGeNet,HumPhenOnt	
+UGT1A	C0020433	Hyperbilirubinemia	DisGeNet	
+UGT1A1	C0020433	Hyperbilirubinemia	DisGeNet,HumPhenOnt	
+UGT1A10	C0020433	Hyperbilirubinemia	DisGeNet	
+UGT1A6	C0020433	Hyperbilirubinemia	DisGeNet	
+UGT1A7	C0020433	Hyperbilirubinemia	DisGeNet	
+UGT1A8	C0020433	Hyperbilirubinemia	DisGeNet	
+UGT1A9	C0020433	Hyperbilirubinemia	DisGeNet	
+ABCB1	C0013182	Drug Allergy	DisGeNet	
+ABCC2	C0013182	Drug Allergy	DisGeNet	
+CYP2C8	C0013182	Drug Allergy	DisGeNet	
+CYP3A4	C0013182	Drug Allergy	DisGeNet	
+ESR1	C0013182	Drug Allergy	DisGeNet	
+SLCO1B1	C0013182	Drug Allergy	DisGeNet	
+UGT1A1	C0013182	Drug Allergy	DisGeNet	
+UGT1A7	C0013182	Drug Allergy	DisGeNet	
+UGT1A8	C0013182	Drug Allergy	DisGeNet	
+UGT1A9	C0013182	Drug Allergy	DisGeNet	
+ABCC3	C0008350	Cholelithiasis	DisGeNet	
+ABCG2	C0008350	Cholelithiasis	DisGeNet	
+ESR1	C0008350	Cholelithiasis	DisGeNet	
+ESR2	C0008350	Cholelithiasis	DisGeNet	
+SLCO1B1	C0008350	Cholelithiasis	DisGeNet	
+UGT1A	C0008350	Cholelithiasis	DisGeNet	
+UGT1A1	C0008350	Cholelithiasis	DisGeNet,PheGenI	
+UGT1A10	C0008350	Cholelithiasis	PheGenI	
+UGT1A6	C0008350	Cholelithiasis	DisGeNet,PheGenI	
+UGT1A7	C0008350	Cholelithiasis	PheGenI	
+UGT1A8	C0008350	Cholelithiasis	PheGenI	
+UGT1A9	C0008350	Cholelithiasis	PheGenI	
+ABCB1	C0023530	Leukopenia	DisGeNet	
+ABCC2	C0023530	Leukopenia	DisGeNet	
+ABCC3	C0023530	Leukopenia	DisGeNet	
+ABCC4	C0023530	Leukopenia	DisGeNet	
+ABCG2	C0023530	Leukopenia	DisGeNet	
+CYP2B6	C0023530	Leukopenia	DisGeNet	
+CYP2C8	C0023530	Leukopenia	DisGeNet	
+CYP3A4	C0023530	Leukopenia	DisGeNet	
+SLCO1B3	C0023530	Leukopenia	DisGeNet	
+UGT1A	C0023530	Leukopenia	DisGeNet	
+UGT1A1	C0023530	Leukopenia	DisGeNet	
+UGT1A6	C0023530	Leukopenia	DisGeNet	
+UGT1A7	C0023530	Leukopenia	DisGeNet	
+UGT1A8	C0023530	Leukopenia	DisGeNet	
+UGT1A9	C0023530	Leukopenia	DisGeNet	
+UGT1A	C0011226	Hepatitis D Infection	DisGeNet	
+UGT1A1	C0011226	Hepatitis D Infection	DisGeNet	
+UGT1A10	C0011226	Hepatitis D Infection	DisGeNet	
+UGT1A6	C0011226	Hepatitis D Infection	DisGeNet	
+UGT1A7	C0011226	Hepatitis D Infection	DisGeNet	
+UGT1A8	C0011226	Hepatitis D Infection	DisGeNet	
+UGT1A9	C0011226	Hepatitis D Infection	DisGeNet	
+ABCB1	C0041755	Adverse drug events and drug allergies	DisGeNet	
+ABCC2	C0041755	Adverse drug events and drug allergies	DisGeNet	
+ABCC4	C0041755	Adverse drug events and drug allergies	DisGeNet	
+ABCG2	C0041755	Adverse drug events and drug allergies	DisGeNet	
+ALB	C0041755	Adverse drug events and drug allergies	DisGeNet	
+SLCO1B1	C0041755	Adverse drug events and drug allergies	DisGeNet	
+UGT1A1	C0041755	Adverse drug events and drug allergies	DisGeNet	
+ABCB1	C0746883	Febrile Neutropenia	DisGeNet	
+UGT1A	C0746883	Febrile Neutropenia	DisGeNet	
+UGT1A1	C0746883	Febrile Neutropenia	DisGeNet	
+UGT1A6	C0746883	Febrile Neutropenia	DisGeNet	
+UGT1A7	C0746883	Febrile Neutropenia	DisGeNet	
+ABCC3	C0947622	Cholecystolithiasis	DisGeNet	
+ESR1	C0947622	Cholecystolithiasis	DisGeNet	
+ESR2	C0947622	Cholecystolithiasis	DisGeNet	
+SLCO1B1	C0947622	Cholecystolithiasis	DisGeNet	
+UGT1A	C0947622	Cholecystolithiasis	DisGeNet	
+UGT1A1	C0947622	Cholecystolithiasis	DisGeNet	
+UGT1A6	C0947622	Cholecystolithiasis	DisGeNet	
+CYP19A1	C1268717	Mammographic breast density	DisGeNet	
+ESR1	C1268717	Mammographic breast density	DisGeNet	
+ESR2	C1268717	Mammographic breast density	DisGeNet	
+SLCO1B1	C1268717	Mammographic breast density	DisGeNet	
+UGT1A	C1268717	Mammographic breast density	DisGeNet	
+UGT1A1	C1268717	Mammographic breast density	DisGeNet	
+ABCB1	C0027947	Neutropenia	DisGeNet	
+ABCC2	C0027947	Neutropenia	DisGeNet	
+ABCG2	C0027947	Neutropenia	DisGeNet	
+CYP2C8	C0027947	Neutropenia	DisGeNet	
+CYP3A4	C0027947	Neutropenia	DisGeNet	
+SLCO1B1	C0027947	Neutropenia	DisGeNet	
+SLCO1B3	C0027947	Neutropenia	DisGeNet	
+UGT1A	C0027947	Neutropenia	DisGeNet	
+UGT1A1	C0027947	Neutropenia	DisGeNet	
+UGT1A7	C0027947	Neutropenia	DisGeNet	
+UGT1A9	C0027947	Neutropenia	DisGeNet	
+ABCG2	C0018772	Hearing Loss, Partial	DisGeNet	
+AOX1	C0018772	Hearing Loss, Partial	DisGeNet	
+UGT1A1	C0018772	Hearing Loss, Partial	DisGeNet	
+UGT1A10	C0018772	Hearing Loss, Partial	DisGeNet	
+UGT1A6	C0018772	Hearing Loss, Partial	DisGeNet	
+UGT1A7	C0018772	Hearing Loss, Partial	DisGeNet	
+UGT1A8	C0018772	Hearing Loss, Partial	DisGeNet	
+UGT1A9	C0018772	Hearing Loss, Partial	DisGeNet	
+ABCC2	C0008372	Intrahepatic cholestasis	DisGeNet	
+ABCC3	C0008372	Intrahepatic cholestasis	DisGeNet	
+ABCC4	C0008372	Intrahepatic cholestasis	DisGeNet	
+ABCG2	C0008372	Intrahepatic cholestasis	DisGeNet	
+ESR2	C0008372	Intrahepatic cholestasis	DisGeNet	
+ABCC2	C0268318	Cholestasis of pregnancy	DisGeNet	
+ABCC3	C0268318	Cholestasis of pregnancy	DisGeNet	
+ABCG2	C0268318	Cholestasis of pregnancy	DisGeNet	
+ESR1	C0268318	Cholestasis of pregnancy	DisGeNet	

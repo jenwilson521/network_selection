@@ -1,0 +1,8 @@
+node_name	node_type	
+DB08882	drug	
+ABCB1	drug_target	
+SLC22A1	drug_target	
+SLC22A2	drug_target	
+SLC22A3	drug_target	
+CYP3A4	drug_target	
+DPP4	drug_target	

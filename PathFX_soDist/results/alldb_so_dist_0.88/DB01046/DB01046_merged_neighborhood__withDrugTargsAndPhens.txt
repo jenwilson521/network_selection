@@ -1,0 +1,50 @@
+node1	node2	edge_score	
+DB01046	CLCN2	1.0	
+DB01046	CBR1	1.0	
+CBR1		1.0
+Malignant tumor of urinary bladder	CBR1	1.0	
+Breast-ovarian cancer, familial 1	CBR1	1.0	
+Colon cancer	CBR1	1.0	
+Ulcerative colitis	CBR1	1.0	
+Neoplasm of the colon	CBR1	1.0	
+Colorectal cancer 1	CBR1	1.0	
+Verotoxigenic Escherichia coli gastrointestinal tract infection	CBR1	1.0	
+Diabetes Mellitus, Type 1	CBR1	1.0	
+Diabetes mellitus type 1	CBR1	1.0	
+Down Syndrome	CBR1	1.0	
+Symptomatic human immunodeficiency virus infection	CBR1	1.0	
+Pulmonary hypertension, neonatal, susceptibility to	CBR1	1.0	
+Leukemia, Lymphocytic, Chronic, B-Cell	CBR1	1.0	
+Acute myeloid leukemia	CBR1	1.0	
+Acute promyelocytic leukemia	CBR1	1.0	
+Chronic obstructive pulmonary disease	CBR1	1.0	
+{Gastric cancer risk after H. pylori infection}, 137215 (3)	CBR1	1.0	
+Animal Mammary Neoplasms	CBR1	1.0	
+Secondary hypertriglyceridemia	CBR1	1.0	
+Muscle weakness	CBR1	1.0	
+polyps	CBR1	1.0	
+Prostatic Neoplasms	CBR1	1.0	
+Tuberous sclerosis syndrome	CBR1	1.0	
+Ureteral obstruction	CBR1	1.0	
+Small cell lung cancer	CBR1	1.0	
+Tumor Progression	CBR1	1.0	
+Cholangiocarcinoma	CBR1	1.0	
+Medullary thyroid carcinoma	CBR1	1.0	
+Malignant neoplasm of lung	CBR1	1.0	
+Carcinoma, Small Cell	CBR1	1.0	
+Malignant Childhood Neoplasm	CBR1	1.0	
+Cortical dysplasia, complex, with other brain malformations 3	CBR1	1.0	
+Carcinogenesis	CBR1	1.0	
+Ovarian epithelial cancer	CBR1	1.0	
+Breast carcinoma	CBR1	1.0	
+Lung cancer	CBR1	1.0	
+Malignant gastrointestinal tract tumors	CBR1	1.0	
+Carcinoma of colon	CBR1	1.0	
+Stomach cancer	CBR1	1.0	
+Cardiomyopathy	CBR1	1.0	
+Drug Resistant Epilepsy	CBR1	1.0	
+BREAST-OVARIAN CANCER, FAMILIAL, SUSCEPTIBILITY TO, 4	CBR1	1.0	
+Partial Trisomy	CBR1	1.0	
+Colorectal cancer	CBR1	1.0	
+Malformation of cortical development	CBR1	1.0	
+Hepatocellular carcinoma	CBR1	1.0	

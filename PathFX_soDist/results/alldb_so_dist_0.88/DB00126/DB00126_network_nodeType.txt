@@ -1,0 +1,133 @@
+node_name	node_type	
+DB00126	drug	
+P4HTM	drug_target	
+DBH	drug_target	
+EGLN1	drug_target	
+PLOD1	drug_target	
+OGFOD1	drug_target	
+EGLN3	drug_target	
+OGFOD2	drug_target	
+PLOD2	drug_target	
+PLOD3	drug_target	
+BBOX1	drug_target	
+ALKBH3	drug_target	
+SLC23A1	drug_target	
+P4HA1	drug_target	
+TMLHE	drug_target	
+P3H1	drug_target	
+KDM5D	drug_target	
+EGLN2	drug_target	
+ALKBH2	drug_target	
+PAM	drug_target	
+PHYH	drug_target	
+Alcohol dependence	phenotype	
+Alzheimer Disease	phenotype	
+Anorexia	phenotype	
+Antisocial Personality Disorder	phenotype	
+Anxiety Disorders	phenotype	
+As If Personality	phenotype	
+Autism 15	phenotype	
+Mental disorders	phenotype	
+Bipolar affective disorder	phenotype	
+Ptosis, hereditary congenital 1	phenotype	
+Abnormal systemic blood pressure	phenotype	
+Brain Diseases	phenotype	
+Cardiovascular Diseases	phenotype	
+Brain Ischemia	phenotype	
+{Unipolar depression, susceptibility to}, 608516 (3)	phenotype	
+Depressive Disorder	phenotype	
+Diabetes Mellitus, Type 1	phenotype	
+Dystonia 2, torsion, autosomal recessive	phenotype	
+Disorder of endocrine system	phenotype	
+Epilepsy	phenotype	
+Abnormality of the eye	phenotype	
+Heart Failure	phenotype	
+Congestive heart failure	phenotype	
+Hypertension	phenotype	
+Portal hypertension, noncirrhotic	phenotype	
+Hypoglycemia, neonatal, simulating foetopathia diabetica	phenotype	
+Hypotension	phenotype	
+Hypotension, Orthostatic	phenotype	
+Hypothermia	phenotype	
+Kidney Diseases	phenotype	
+Chronic Lymphocytic Leukemia	phenotype	
+Liver Cirrhosis, Biliary	phenotype	
+Melanoma	phenotype	
+Multiple Endocrine Neoplasia Type 2b	phenotype	
+Premature ovarian failure	phenotype	
+Mitral Valve Prolapse	phenotype	
+Abnormality of the mouth	phenotype	
+Multiple Sclerosis	phenotype	
+Other disorders of the nervous system	phenotype	
+Nicotine Dependence	phenotype	
+Parkinson Disease	phenotype	
+Peripheral neuropathy, myopathy, hoarseness, and hearing loss	phenotype	
+Pheochromocytoma	phenotype	
+Abnormality of the pituitary gland	phenotype	
+Psychotic Disorders	phenotype	
+Schizophrenia	phenotype	
+Seizures, Febrile	phenotype	
+Posttraumatic stress disorder	phenotype	
+Stroke	phenotype	
+Subarachnoid hemorrhage	phenotype	
+Substance Use Disorders	phenotype	
+Tobacco Use Disorder	phenotype	
+Tourette Syndrome	phenotype	
+Tuberous sclerosis syndrome	phenotype	
+Attention Deficit Disorder	phenotype	
+Unipolar Depression	phenotype	
+Abnormality of the genitourinary system	phenotype	
+Increased body weight	phenotype	
+Ovarian Failure, Premature	phenotype	
+Essential hypertension	phenotype	
+Abnormality of bladder morphology	phenotype	
+Migraine Disorders	phenotype	
+Intracranial hemorrhage	phenotype	
+Orofacial dyskinesia	phenotype	
+Migraine with aura	phenotype	
+Chronic schizophrenia	phenotype	
+Alcohol withdrawal syndrome	phenotype	
+High palate	phenotype	
+Abnormality of cardiovascular system electrophysiology	phenotype	
+Dystonia Disorders	phenotype	
+Autosomal recessive inheritance	phenotype	
+Abnormality of the nervous system	phenotype	
+Neurodegenerative Diseases	phenotype	
+Mood Disorders	phenotype	
+Cocaine Dependence	phenotype	
+Tardive Dyskinesia	phenotype	
+Neuroblastoma	phenotype	
+Abnormality of the genital system	phenotype	
+Learning Disabilities	phenotype	
+Lewy Body Disease	phenotype	
+Abnormality of head or neck	phenotype	
+Attention deficit hyperactivity disorder	phenotype	
+Major depressive disorder	phenotype	
+Mild cognitive impairment	phenotype	
+Congenital central hypoventilation	phenotype	
+Paranoia	phenotype	
+CNS symptom	phenotype	
+Abnormality of temperature regulation	phenotype	
+NEUROTICISM	phenotype	
+Weight Gain Adverse Event	phenotype	
+Cerebral Hemorrhage	phenotype	
+Parkinson disease, late-onset	phenotype	
+Functional abnormality of the bladder	phenotype	
+Abnormal male reproductive system physiology	phenotype	
+Abnormality of metabolism/homeostasis	phenotype	
+Abnormality of the head	phenotype	
+Abnormality of the palate	phenotype	
+Abnormality of reproductive system physiology	phenotype	
+Abnormality of the urinary system	phenotype	
+Abnormality of nervous system physiology	phenotype	
+Abnormal eye physiology	phenotype	
+Abnormal autonomic nervous system physiology	phenotype	
+Abnormality of cardiovascular system physiology	phenotype	
+Abnormality of blood glucose concentration	phenotype	
+Abnormal glucose homeostasis	phenotype	
+Abnormality of carbohydrate metabolism/homeostasis	phenotype	
+Abnormality of the lower urinary tract	phenotype	
+Abnormality of the autonomic nervous system	phenotype	
+Abnormality of the face	phenotype	
+Abnormality of the oral cavity	phenotype	
+Abnormality of the peripheral nervous system	phenotype	

@@ -1,0 +1,5 @@
+node1	node2	edge_score	
+DB11793	PARP1	1.0	
+DB11793	PARP2	1.0	
+DB11793	GUSB	1.0	
+

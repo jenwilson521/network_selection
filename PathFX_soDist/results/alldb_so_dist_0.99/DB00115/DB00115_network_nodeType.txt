@@ -1,0 +1,14 @@
+node_name	node_type	
+DB00115	drug	
+LRP2	drug_target	
+AMN	drug_target	
+MTR	drug_target	
+TCN1	drug_target	
+TCN2	drug_target	
+MTHFR	drug_target	
+MMACHC	drug_target	
+CUBN	drug_target	
+MTRR	drug_target	
+MMAA	drug_target	
+MMAB	drug_target	
+ABCC1	drug_target	

@@ -1,0 +1,5 @@
+node1	node2	edge_score	
+DB08877	CYP3A4	1.0	
+DB08877	JAK2	1.0	
+DB08877	JAK1	1.0	
+

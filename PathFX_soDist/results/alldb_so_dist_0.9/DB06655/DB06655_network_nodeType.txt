@@ -1,0 +1,123 @@
+node_name	node_type	
+DB06655	drug	
+MME	drug_target	
+DPP4	drug_target	
+ALB	drug_target	
+GLP1R	drug_target	
+Hemangioblastoma	phenotype	
+Drusen	phenotype	
+Diabetic Retinopathy	phenotype	
+Membranous nephropathy, susceptibility to	phenotype	
+Diabetic Angiopathies	phenotype	
+Type 1 diabetic neuropathy	phenotype	
+Maturity-onset diabetes of the young, type 11	phenotype	
+Anorexia	phenotype	
+Diabetic Nephropathies	phenotype	
+Chronic Kidney Insufficiency	phenotype	
+Metabolic Syndrome X	phenotype	
+Post-transplant lymphoproliferative disorder	phenotype	
+Inclusion body myopathy 2	phenotype	
+Plasmablastic lymphoma	phenotype	
+Malignant neoplasm of adrenal cortex	phenotype	
+Esophageal varix	phenotype	
+Urolithiasis	phenotype	
+Echinococcosis	phenotype	
+Lung Injury	phenotype	
+Cryopyrin-Associated Periodic Syndromes	phenotype	
+Plaque, Atherosclerotic	phenotype	
+Proliferative retinopathy	phenotype	
+Isolated somatotropin deficiency	phenotype	
+Substance Use Disorders	phenotype	
+Dentatorubral pallidoluysian atrophy	phenotype	
+Angiokeratoma	phenotype	
+Isolated growth hormone deficiency type 1B	phenotype	
+Gastroenteritis	phenotype	
+Pericardial effusion	phenotype	
+Senile plaques	phenotype	
+Mumps	phenotype	
+Rhinitis, Allergic, Perennial	phenotype	
+Endemic Cretinism	phenotype	
+Peptic Ulcer Hemorrhage	phenotype	
+Mesangiocapillary glomerulonephritis, type II	phenotype	
+Nephrosclerosis	phenotype	
+Peripheral motor neuropathy	phenotype	
+End Stage Liver Disease	phenotype	
+Common acute lymphoblastic leukemia	phenotype	
+Abnormal albumin level	phenotype	
+Stromal sarcoma	phenotype	
+Small Lymphocytic Lymphoma	phenotype	
+Arteriovenous fistula	phenotype	
+Bronchogenic Carcinoma	phenotype	
+Carcinosarcoma	phenotype	
+Coronary artery aneurysm	phenotype	
+Hyperlipoproteinemia	phenotype	
+Hyperlipoproteinemia Type IIa	phenotype	
+Dementia familial British	phenotype	
+Tubulointerstitial nephritis	phenotype	
+Single tumor	phenotype	
+Nephrotic Syndrome, Minimal Change	phenotype	
+Muscle degeneration	phenotype	
+Varicella zoster	phenotype	
+Insulin resistance syndrome	phenotype	
+Splenic Marginal Zone B-Cell Lymphoma	phenotype	
+Cerebral Amyloid Angiopathy	phenotype	
+Nephrosis	phenotype	
+Aural atresia, congenital	phenotype	
+Chronic kidney disease	phenotype	
+Guillain-Barre syndrome, familial	phenotype	
+Primary hyperparathyroidism	phenotype	
+Drug Resistant Epilepsy	phenotype	
+Cardiovascular Diseases	phenotype	
+Refractory anemia	phenotype	
+Refractory anaemia with excess blasts	phenotype	
+Obstructive lung disease	phenotype	
+Respiratory Tract Diseases	phenotype	
+Sicca Syndrome	phenotype	
+Hypoalbuminemia	phenotype	
+Aicardi Goutieres syndrome 1	phenotype	
+Neurologic, endocrine, and pancreatic disease, multisystem, infantile-onset	phenotype	
+Angioimmunoblastic Lymphadenopathy	phenotype	
+Hereditary pancreatitis	phenotype	
+Congenital hypothyroidism	phenotype	
+Adverse drug events and drug allergies	phenotype	
+Aortic valve disease 2	phenotype	
+Hormone receptor positive tumor	phenotype	
+Childhood Leukemia	phenotype	
+Diabetes mellitus type 1	phenotype	
+Lymphoma, Follicular	phenotype	
+Hemolytic uremic syndrome	phenotype	
+Cholangiocarcinoma	phenotype	
+Occupational Diseases	phenotype	
+Microalbuminuria	phenotype	
+Lymphocytosis	phenotype	
+Chest pain	phenotype	
+ {HIV-1 viremia, susceptibility to}, 609423 (3)	phenotype	
+Acute Lung Injury	phenotype	
+Hepatic steatosis	phenotype	
+Complications of Diabetes Mellitus	phenotype	
+Pulmonary edema	phenotype	
+Stevens-Johnson Syndrome	phenotype	
+pediatric acute myeloblastic leukemia	phenotype	
+Lymphohistiocytosis, Hemophagocytic	phenotype	
+Hyperglycemia	phenotype	
+Non-Neoplastic Disorder	phenotype	
+IMMUNE SUPPRESSION	phenotype	
+Atherosclerosis	phenotype	
+Stromal Neoplasm	phenotype	
+Dementia, Vascular	phenotype	
+Dementia	phenotype	
+Cholera	phenotype	
+Cough	phenotype	
+DiGeorge sequence	phenotype	
+Liver regeneration disorder	phenotype	
+Plasmacytoma	phenotype	
+Polyneuropathy, hearing loss, ataxia, retinitis pigmentosa, and cataract	phenotype	
+Hyperlipidemia, familial combined	phenotype	
+Interstitial fibrosis	phenotype	
+Hemochromatosis	phenotype	
+Leukemia, B-Cell	phenotype	
+Severe combined immunodeficiency due to ADA deficiency	phenotype	
+Adult Acute Lymphocytic Leukemia	phenotype	
+Methamphetamine abuse	phenotype	
+Hereditary factor VIII deficiency disease	phenotype	
+Precursor B-Cell Lymphoblastic Leukemia-Lymphoma	phenotype	

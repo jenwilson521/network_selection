@@ -1,0 +1,33 @@
+node_name	node_type	
+DB00915	drug	
+CHRNA4	drug_target	
+DRD2	drug_target	
+GRIN3A	drug_target	
+MAOB	drug_target	
+CHRNA7	drug_target	
+SLC22A1	drug_target	
+SLC22A2	drug_target	
+CHRNA3	drug_target	
+DDC	drug_target	
+Nicotine Dependence	phenotype	
+Weight Gain Adverse Event	phenotype	
+As If Personality	phenotype	
+Opiate Addiction	phenotype	
+Marijuana Abuse	phenotype	
+Cocaine Dependence	phenotype	
+Increased body weight	phenotype	
+Language impairment	phenotype	
+NEUROTICISM	phenotype	
+Substance Withdrawal Syndrome	phenotype	
+Incomplete penetrance	phenotype	
+Extrahepatic cholestasis	phenotype	
+Retrocollis	phenotype	
+Antisocial Personality Disorder	phenotype	
+Cocaine delirium	phenotype	
+heavy drinking	phenotype	
+alcohol use disorder	phenotype	
+Personality disorder	phenotype	
+Neurobehavioral Manifestations	phenotype	
+Attention deficit hyperactivity disorder	phenotype	
+Antisocial/borderline personality disorder	phenotype	
+Juvenile myoclonic epilepsy	phenotype	

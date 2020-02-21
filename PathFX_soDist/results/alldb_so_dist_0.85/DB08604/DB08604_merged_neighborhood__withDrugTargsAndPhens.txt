@@ -1,0 +1,124 @@
+node1	node2	edge_score	
+DB08604	NR1I3	1.0	
+DB08604	PPARG	1.0	
+DB08604	AR	1.0	
+DB08604	NR1I2	1.0	
+NR1I3	rs2307424	0.99
+NR1I3	rs2502815	0.99
+NR1I3	rs2501873	0.99
+NR1I2	rs10934498	0.99
+NR1I2	rs6785049	0.99
+NR1I2	rs4688040	0.99
+NR1I3	rs10538494	0.99
+NR1I2	rs1523130	0.99
+NR1I2	rs7643645	0.99
+NR1I3		1.0
+NR1I3	rs75114882	0.99
+NR1I2	rs3732360	0.99
+NR1I2	rs2461817	0.99
+NR1I3	rs28738963	0.99
+NR1I2		1.0
+NR1I2	rs3814058	0.99
+NR1I3	rs3003596	0.99
+AR		1.0
+NR1I2	rs2276707	0.99
+NR1I2	rs3814055	0.99
+NR1I2	rs2472677	0.99
+NR1I3	rs9725457	0.99
+NR1I2	rs2276706	0.99
+NR1I2	rs3732359	0.99
+PPARG		1.0
+Acne Vulgaris	AR	1.0	
+Acne Vulgaris	NR1I2	1.0	
+Acne Vulgaris	PPARG	1.0	
+Acne	AR	1.0	
+Acne	NR1I2	1.0	
+Acne	PPARG	1.0	
+Abnormality of the calf musculature	AR	1.0	
+Abnormality of the calf musculature	PPARG	1.0	
+Postmenopausal osteoporosis	AR	1.0	
+Postmenopausal osteoporosis	NR1I2	1.0	
+Postmenopausal osteoporosis	PPARG	1.0	
+Cholestatic liver disease	NR1I2	1.0	
+Cholestatic liver disease	NR1I3	1.0	
+Atrophy, Muscular, Spinobulbar	AR	1.0	
+Atrophy, Muscular, Spinobulbar	PPARG	1.0	
+Cholestasis of pregnancy	NR1I2	1.0	
+Cholestasis of pregnancy	PPARG	1.0	
+Bulbo-Spinal Atrophy, X-Linked	AR	1.0	
+Bulbo-Spinal Atrophy, X-Linked	PPARG	1.0	
+Monocytic leukemia	AR	1.0	
+Monocytic leukemia	PPARG	1.0	
+Weight Loss Adverse Event	AR	1.0	
+Weight Loss Adverse Event	PPARG	1.0	
+Poorly differentiated carcinoma	AR	1.0	
+Poorly differentiated carcinoma	NR1I2	1.0	
+androgen independent prostate cancer	AR	1.0	
+androgen independent prostate cancer	NR1I2	1.0	
+androgen independent prostate cancer	PPARG	1.0	
+Malignant neoplasm of female breast	AR	1.0	
+Malignant neoplasm of female breast	NR1I2	1.0	
+Prenatal Exposure Delayed Effects	AR	1.0	
+Prenatal Exposure Delayed Effects	PPARG	1.0	
+Female Breast Carcinoma	AR	1.0	
+Female Breast Carcinoma	NR1I2	1.0	
+Biliary tract neoplasm	AR	1.0	
+Biliary tract neoplasm	PPARG	1.0	
+Chronic neutrophilia	AR	1.0	
+Chronic neutrophilia	PPARG	1.0	
+Intrahepatic cholestasis	NR1I2	1.0	
+Intrahepatic cholestasis	NR1I3	1.0	
+Tumor Initiation	AR	1.0	
+Tumor Initiation	NR1I2	1.0	
+Tumor Initiation	NR1I3	1.0	
+Microsatellite Instability	AR	1.0	
+Microsatellite Instability	PPARG	1.0	
+Hyperpituitarism	AR	1.0	
+Hyperpituitarism	PPARG	1.0	
+Disorders of lipoid metabolism	NR1I2	1.0	
+Disorders of lipoid metabolism	NR1I3	1.0	
+ Hyperandrogenism, nonclassic type, due to 21-hydroxylase deficiency, 201910 (3)	AR	1.0	
+ Hyperandrogenism, nonclassic type, due to 21-hydroxylase deficiency, 201910 (3)	PPARG	1.0	
+Drug-Induced Liver Injury	NR1I2	1.0	
+Drug-Induced Liver Injury	NR1I3	1.0	
+Drug-Induced Liver Injury	PPARG	1.0	
+Mammographic breast density	AR	1.0	
+Mammographic breast density	PPARG	1.0	
+Female infertility	AR	1.0	
+Female infertility	NR1I2	1.0	
+Abnormality of the musculature of the lower limbs	AR	1.0	
+Abnormality of the musculature of the lower limbs	PPARG	1.0	
+Uterine neoplasm	AR	1.0	
+Uterine neoplasm	PPARG	1.0	
+Granulomatous disease, chronic, autosomal recessive, cytochrome b-negative	AR	1.0	
+Granulomatous disease, chronic, autosomal recessive, cytochrome b-negative	PPARG	1.0	
+Restenosis	NR1I2	1.0	
+Restenosis	NR1I3	1.0	
+Restenosis	PPARG	1.0	
+Scar conditions and fibrosis of skin	NR1I2	1.0	
+Scar conditions and fibrosis of skin	PPARG	1.0	
+M5b Acute differentiated monocytic leukemia	AR	1.0	
+M5b Acute differentiated monocytic leukemia	PPARG	1.0	
+Dyslipidemias	AR	1.0	
+Dyslipidemias	NR1I2	1.0	
+Dyslipidemias	PPARG	1.0	
+Cholecystolithiasis	AR	1.0	
+Cholecystolithiasis	PPARG	1.0	
+Liver regeneration disorder	NR1I2	1.0	
+Liver regeneration disorder	PPARG	1.0	
+Tumor Promotion	NR1I2	1.0	
+Tumor Promotion	NR1I3	1.0	
+Adenocarcinoma of colon	AR	1.0	
+Adenocarcinoma of colon	NR1I2	1.0	
+Adenocarcinoma of colon	PPARG	1.0	
+Hepatocarcinogenesis	AR	1.0	
+Hepatocarcinogenesis	NR1I2	1.0	
+Hepatocarcinogenesis	NR1I3	1.0	
+Hepatocarcinogenesis	PPARG	1.0	
+body mass	AR	1.0	
+body mass	PPARG	1.0	
+Hepatopulmonary Syndrome	NR1I2	1.0	
+Hepatopulmonary Syndrome	PPARG	1.0	
+Endometrial Neoplasms	AR	1.0	
+Endometrial Neoplasms	NR1I2	1.0	
+Endometrial Neoplasms	PPARG	1.0	

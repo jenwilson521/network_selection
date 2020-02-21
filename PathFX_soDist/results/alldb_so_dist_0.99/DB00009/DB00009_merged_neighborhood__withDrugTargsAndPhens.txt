@@ -1,0 +1,6 @@
+node1	node2	edge_score	
+DB00009	PLG	1.0	
+DB00009	PLAUR	1.0	
+DB00009	FGA	1.0	
+DB00009	SERPINE1	1.0	
+

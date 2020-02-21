@@ -1,0 +1,139 @@
+Gene	CUI	Source Databases	
+NRP1	C0000768	EMG: myopathic abnormalities	DisGeNet	
+NRP1	C0001418	 Adenocarcinoma, ovarian, somatic, 167000 (3)	DisGeNet	
+NRP1	C0001973	Alcohol dependence	DisGeNet	
+NRP1	C0002793	Anaplasia	DisGeNet	
+NRP1	C0003130	Hypoxia	DisGeNet	
+NRP1	C0003850	Arteriosclerosis	DisGeNet	
+NRP1	C0003873	Rheumatoid arthritis	DisGeNet	
+NRP1	C0004114	Astrocytoma	DisGeNet	
+NRP1	C0004153	Atherosclerosis	DisGeNet	
+NRP1	C0004779	Gorlin syndrome	DisGeNet	
+NRP1	C0005684	Malignant tumor of urinary bladder	DisGeNet	
+NRP1	C0006118	Brain neoplasm	DisGeNet	
+NRP1	C0006142	Breast-ovarian cancer, familial 1	DisGeNet	
+NRP1	C0007102	Colon cancer	DisGeNet	
+NRP1	C0007124	Noninfiltrating Intraductal Carcinoma	DisGeNet	
+NRP1	C0007131	Non-small cell lung carcinoma	DisGeNet	
+NRP1	C0007134	Renal cell carcinoma, nonpapillary	DisGeNet	
+NRP1	C0007137	Squamous cell carcinoma	DisGeNet	
+NRP1	C0007785	Ischaemic cerebral infarction	DisGeNet	
+NRP1	C0009402	Colorectal cancer 1	DisGeNet	
+NRP1	C0009450	Verotoxigenic Escherichia coli gastrointestinal tract infection	DisGeNet	
+NRP1	C0010674	Cystic Fibrosis	DisGeNet	
+NRP1	C0010692	Cystitis	DisGeNet	
+NRP1	C0011570	{Unipolar depression, susceptibility to}, 608516 (3)	DisGeNet	
+NRP1	C0011581	Depressive Disorder	DisGeNet	
+NRP1	C0011854	Diabetes mellitus type 1	DisGeNet	
+NRP1	C0011884	Diabetic Retinopathy	DisGeNet	
+NRP1	C0014175	Endometriosis	DisGeNet	
+NRP1	C0014859	Esophageal Neoplasms	DisGeNet	
+NRP1	C0015397	orbit (eye disorders)	DisGeNet	
+NRP1	C0015814	Femur Head Necrosis	DisGeNet	
+NRP1	C0017636	Glioblastoma	DisGeNet	
+NRP1	C0017638	Glioma	DisGeNet	
+NRP1	C0019693	Symptomatic human immunodeficiency virus infection	DisGeNet	
+NRP1	C0022116	Ischemia	DisGeNet	
+NRP1	C0022658	Kidney Diseases	DisGeNet	
+NRP1	C0022735	Hypogonadotropic hypogonadism 7 with or without anosmia	DisGeNet	
+NRP1	C0023223	Leg Ulcer	DisGeNet	
+NRP1	C0023418	Leukemia, Lymphocytic, Chronic, B-Cell	DisGeNet	
+NRP1	C0023434	Chronic Lymphocytic Leukemia	DisGeNet	
+NRP1	C0023448	Lymphoid leukemia	DisGeNet	
+NRP1	C0023449	Acute lymphoid leukemia	DisGeNet	
+NRP1	C0023467	Acute myeloid leukemia	DisGeNet	
+NRP1	C0023470	Myeloid leukemia	DisGeNet	
+NRP1	C0023493	Adult T-Cell Lymphoma/Leukemia	DisGeNet	
+NRP1	C0023895	Liver Diseases	DisGeNet	
+NRP1	C0023903	Neoplasm of the liver	DisGeNet	
+NRP1	C0024121	Lung Neoplasms	DisGeNet	
+NRP1	C0024232	Lymphatic Metastasis	DisGeNet	
+NRP1	C0024299	Lymphoma, Large B-Cell, Diffuse	DisGeNet	
+NRP1	C0024623	{Gastric cancer risk after H. pylori infection}, 137215 (3)	DisGeNet	
+NRP1	C0024667	Animal Mammary Neoplasms	DisGeNet	
+NRP1	C0024899	Mastocytosis	DisGeNet	
+NRP1	C0025202	Melanoma	DisGeNet	
+NRP1	C0025268	Multiple Endocrine Neoplasia Type 2a	DisGeNet	
+NRP1	C0027051	Myocardial Infarction	DisGeNet	
+NRP1	C0027626	Neoplasm Invasiveness	DisGeNet	
+NRP1	C0027627	Secondary hypertriglyceridemia	DisGeNet	
+NRP1	C0027643	Neoplasm Recurrence, Local	DisGeNet	
+NRP1	C0027686	Pathologic Neovascularization	DisGeNet	
+NRP1	C0027809	Schwannoma	DisGeNet	
+NRP1	C0029445	Bone necrosis	DisGeNet	
+NRP1	C0030297	Pancreatic Neoplasms	DisGeNet	
+NRP1	C0031117	Peripheral neuropathy, myopathy, hoarseness, and hearing loss	DisGeNet	
+NRP1	C0031511	Pheochromocytoma	DisGeNet	
+NRP1	C0032000	Pituitary adenoma	DisGeNet	
+NRP1	C0032987	Ectopic Pregnancy	DisGeNet	
+NRP1	C0033578	Prostatic Neoplasms	DisGeNet	
+NRP1	C0035344	Retinopathy of Prematurity	DisGeNet	
+NRP1	C0036341	Schizophrenia	DisGeNet	
+NRP1	C0036690	Septicemia	DisGeNet	
+NRP1	C0039445	Hereditary hemorrhagic telangiectasia type 2	DisGeNet	
+NRP1	C0039685	Tetralogy of Fallot	DisGeNet,PheGenI	
+NRP1	C0041206	Truncus arteriosus	DisGeNet	
+NRP1	C0041296	Tuberculosis	DisGeNet	
+NRP1	C0041696	Unipolar Depression	DisGeNet	
+NRP1	C0042111	Urticaria Pigmentosa	DisGeNet	
+NRP1	C0042344	Varicose Ulcer	DisGeNet	
+NRP1	C0085110	Severe combined immunodeficiency due to ADA deficiency	DisGeNet	
+NRP1	C0085548	Autosomal recessive polycystic kidney disease	DisGeNet	
+NRP1	C0085669	Acute leukemia	DisGeNet	
+NRP1	C0149925	Small cell lung cancer	DisGeNet	
+NRP1	C0149978	Rectal Carcinoma	DisGeNet	
+NRP1	C0152136	Low Tension Glaucoma	DisGeNet	
+NRP1	C0153381	Cancer of mouth	DisGeNet	
+NRP1	C0154830	Proliferative diabetic retinopathy	DisGeNet	
+NRP1	C0162809	Hypogonadism with anosmia	DisGeNet	
+NRP1	C0162835	Hypopigmentation of the skin	DisGeNet	
+NRP1	C0178874	Tumor Progression	DisGeNet	
+NRP1	C0206180	Anaplastic large cell lymphoma, ALK negative	DisGeNet	
+NRP1	C0206708	Cervical intraepithelial neoplasia (Cervical dysplasia)	DisGeNet	
+NRP1	C0206754	Neuroendocrine neoplasm	DisGeNet	
+NRP1	C0220641	Lip and Oral Cavity Carcinoma	DisGeNet	
+NRP1	C0235974	Pancreatic Carcinoma	DisGeNet	
+NRP1	C0238198	Gastrointestinal stromal tumor	DisGeNet	
+NRP1	C0242379	Malignant neoplasm of lung	DisGeNet	
+NRP1	C0242596	Neoplasm, Residual	DisGeNet	
+NRP1	C0243026	Sepsis	DisGeNet	
+NRP1	C0279626	Esophageal Squamous Cell Carcinoma	DisGeNet	
+NRP1	C0280100	Solid tumour	DisGeNet	
+NRP1	C0281361	Pancreatic adenocarcinoma	DisGeNet	
+NRP1	C0302592	Carcinoma of cervix	DisGeNet	
+NRP1	C0338106	Adenocarcinoma of colon	DisGeNet	
+NRP1	C0345967	Malignant mesothelioma	DisGeNet	
+NRP1	C0346647	Malignant neoplasm of pancreas	DisGeNet	
+NRP1	C0349566	Squamous cell carcinoma of tongue	DisGeNet	
+NRP1	C0376358	Malignant tumor of prostate	DisGeNet	
+NRP1	C0546837	Malignant tumor of esophagus	DisGeNet	
+NRP1	C0549473	Thyroid carcinoma	DisGeNet	
+NRP1	C0553723	Squamous cell carcinoma of the skin	DisGeNet	
+NRP1	C0585442	Osteosarcoma	DisGeNet	
+NRP1	C0596263	Carcinogenesis	DisGeNet	
+NRP1	C0600139	Prostate carcinoma	DisGeNet	
+NRP1	C0677886	Ovarian epithelial cancer	DisGeNet	
+NRP1	C0678222	Breast carcinoma	DisGeNet	
+NRP1	C0684249	Lung cancer	DisGeNet	
+NRP1	C0699790	Carcinoma of colon	DisGeNet	
+NRP1	C0699791	Stomach cancer	DisGeNet	
+NRP1	C0699885	Bladder carcinoma	DisGeNet	
+NRP1	C0700095	Neuroblastoma	DisGeNet	
+NRP1	C0750974	Brain Tumor, Primary	DisGeNet	
+NRP1	C0751587	CADASIL	DisGeNet	
+NRP1	C0812437	Oculodentodigital dysplasia	DisGeNet	
+NRP1	C0917798	Cerebral ischemia	DisGeNet	
+NRP1	C0919267	Ovarian Neoplasms	DisGeNet	
+NRP1	C1140680	BREAST-OVARIAN CANCER, FAMILIAL, SUSCEPTIBILITY TO, 4	DisGeNet	
+NRP1	C1263846	Attention deficit hyperactivity disorder	DisGeNet	
+NRP1	C1269683	Major depressive disorder	DisGeNet	
+NRP1	C1519670	Tumor Angiogenesis	DisGeNet	
+NRP1	C1527249	Colorectal cancer	DisGeNet	
+NRP1	C1709246	Non-Neoplastic Disorder	DisGeNet	
+NRP1	C1840451	Multicystic renal dysplasia, bilateral	DisGeNet	
+NRP1	C1961099	T-cell acute lymphoblastic leukemias	DisGeNet	
+NRP1	C1961102	Precursor Cell Lymphoblastic Leukemia-Lymphoma	DisGeNet	
+NRP1	C2239176	Hepatocellular carcinoma	DisGeNet	
+NRP1	C3266877	Secondary malignant neoplasm of pancreas	DisGeNet	
+NRP1	C3714506	Meckel syndrome type 6	DisGeNet	
+NRP1	C3811653	Experimental Organism Basal Cell Carcinoma	DisGeNet	

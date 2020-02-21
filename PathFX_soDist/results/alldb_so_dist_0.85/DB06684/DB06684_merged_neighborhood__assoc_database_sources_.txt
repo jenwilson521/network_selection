@@ -1,0 +1,18 @@
+Gene	CUI	Source Databases	
+CYP2C19	C0024620	Primary malignant neoplasm of liver	DisGeNet	
+CYP2D6	C0024620	Primary malignant neoplasm of liver	DisGeNet	
+CYP3A4	C0024620	Primary malignant neoplasm of liver	DisGeNet	
+CYP2C19	C0086132	Depressive Symptoms	DisGeNet	
+CYP2D6	C0086132	Depressive Symptoms	DisGeNet	
+CYP3A4	C0086132	Depressive Symptoms	DisGeNet	
+HTR1A	C0086132	Depressive Symptoms	DisGeNet	
+SLC6A4	C0086132	Depressive Symptoms	DisGeNet	
+CYP2D6	C0030201	Acute postoperative pain	DisGeNet	
+CYP3A4	C0030201	Acute postoperative pain	DisGeNet	
+SLC6A4	C0030201	Acute postoperative pain	DisGeNet	
+CYP2D6	C0031212	Personality disorder	DisGeNet	
+HTR1A	C0031212	Personality disorder	DisGeNet	
+SLC6A4	C0031212	Personality disorder	DisGeNet	
+CYP2C19	C0027497	Nausea	DisGeNet	
+CYP2D6	C0027497	Nausea	DisGeNet	
+SLC6A4	C0027497	Nausea	DisGeNet	

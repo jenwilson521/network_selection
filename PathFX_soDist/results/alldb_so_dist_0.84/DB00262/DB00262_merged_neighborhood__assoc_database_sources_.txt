@@ -1,0 +1,7 @@
+Gene	CUI	Source Databases	
+CYP1A2	C0273115	Lung Injury	DisGeNet	
+GSR	C0273115	Lung Injury	DisGeNet	
+CYP1A2	C0085859	Polyglandular Type I Autoimmune Syndrome	DisGeNet	
+CYP1A2	C0032229	Pleural Neoplasms	DisGeNet	
+GSR	C1833683	Calcium oxalate urolithiasis	DisGeNet	
+CYP1A2	C0162566	 {Porphyria cutanea tarda, susceptibility to}, 176100 (3)	DisGeNet	

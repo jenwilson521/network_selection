@@ -1,0 +1,35 @@
+Gene	CUI	Source Databases	
+CHRNA4	C0270850	Idiopathic generalized epilepsy	DisGeNet	
+CHRNA7	C0270850	Idiopathic generalized epilepsy	DisGeNet	
+GABRA1	C0270850	Idiopathic generalized epilepsy	ClinVar,DisGeNet	
+GABRA6	C0270850	Idiopathic generalized epilepsy	DisGeNet	
+CYP2C19	C0270736	Essential tremor	DisGeNet	
+CYP2C8	C0270736	Essential tremor	DisGeNet	
+CYP2C9	C0270736	Essential tremor	DisGeNet	
+GABRA1	C0270736	Essential tremor	DisGeNet	
+CHRNA4	C0270853	Juvenile myoclonic epilepsy	DisGeNet	
+CHRNA7	C0270853	Juvenile myoclonic epilepsy	DisGeNet	
+GABRA1	C0270853	Juvenile myoclonic epilepsy	ClinVar,DisGeNet	
+CHRNA4	C0038644	SUDDEN INFANT DEATH SYNDROME	DisGeNet	
+CHRNA7	C0038644	SUDDEN INFANT DEATH SYNDROME	DisGeNet	
+CYP2C19	C0038644	SUDDEN INFANT DEATH SYNDROME	DisGeNet	
+CYP2C9	C0038644	SUDDEN INFANT DEATH SYNDROME	DisGeNet	
+CYP1A2	C0023891	Liver Cirrhosis, Alcoholic	DisGeNet	
+CYP2C19	C0023891	Liver Cirrhosis, Alcoholic	DisGeNet	
+GABRA1	C0023891	Liver Cirrhosis, Alcoholic	DisGeNet	
+GABRA6	C0023891	Liver Cirrhosis, Alcoholic	DisGeNet	
+CHRNA4	C0013146	Methamphetamine abuse	DisGeNet	
+CYP2C19	C0013146	Methamphetamine abuse	DisGeNet	
+CYP2C9	C0013146	Methamphetamine abuse	DisGeNet	
+GABRA1	C0013146	Methamphetamine abuse	DisGeNet	
+CHRNA4	C0014547	Epilepsy, focal, with speech disorder and with or without mental retardation	DisGeNet	
+CYP2C19	C0014547	Epilepsy, focal, with speech disorder and with or without mental retardation	DisGeNet	
+CYP2C9	C0014547	Epilepsy, focal, with speech disorder and with or without mental retardation	DisGeNet	
+CYP1A2	C0027497	Nausea	DisGeNet	
+CYP2C19	C0027497	Nausea	DisGeNet	
+CYP2C9	C0027497	Nausea	DisGeNet	
+CYP1A2	C0031347	Pharyngeal Neoplasms	DisGeNet	
+CYP2C8	C0031347	Pharyngeal Neoplasms	DisGeNet	
+CYP2C9	C0031347	Pharyngeal Neoplasms	DisGeNet	
+CYP1A2	C0032229	Pleural Neoplasms	DisGeNet	
+CYP2C19	C0032229	Pleural Neoplasms	DisGeNet	

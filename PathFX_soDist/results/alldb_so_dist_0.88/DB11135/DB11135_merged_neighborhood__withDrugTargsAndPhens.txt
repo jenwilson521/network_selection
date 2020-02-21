@@ -1,0 +1,69 @@
+node1	node2	edge_score	
+DB11135	GSR	1.0	
+DB11135	SCLY	1.0	
+DB11135	TXNRD1	1.0	
+GSR		1.0
+ Adenocarcinoma, ovarian, somatic, 167000 (3)	GSR	1.0	
+Alcohol dependence	GSR	1.0	
+Alzheimer Disease	GSR	1.0	
+Amyotrophic Lateral Sclerosis	GSR	1.0	
+Anemia	GSR	1.0	
+Hemolytic anemia, nonspherocytic, due to glucose phosphate isomerase deficiency	GSR	1.0	
+Arteriosclerosis	GSR	1.0	
+Asthma	GSR	1.0	
+Atherosclerosis	GSR	1.0	
+beta Thalassemia	GSR	1.0	
+Breast-ovarian cancer, familial 1	GSR	1.0	
+Squamous cell carcinoma	GSR	1.0	
+Transient ischemic attack	GSR	1.0	
+Cerebral palsy, spastic quadriplegic, 3	GSR	1.0	
+Chromosome 8, trisomy	GSR	1.0	
+Contact Dermatitis	GSR	1.0	
+Diabetes Mellitus, Type 1	GSR	1.0	
+Diabetic Nephropathies	GSR	1.0	
+Hydrops, lactic acidosis, and sideroblastic anemia	GSR	1.0	
+Hematological Disease	GSR	1.0	
+Huntington's chorea	GSR	1.0	
+Hypercholesterolemia, autosomal dominant, type B	GSR	1.0	
+Hyperthyroidism	GSR	1.0	
+Hypoglycemia, neonatal, simulating foetopathia diabetica	GSR	1.0	
+Insulinoma	GSR	1.0	
+Acute kidney injury	GSR	1.0	
+Chronic Lymphocytic Leukemia	GSR	1.0	
+Chronic obstructive pulmonary disease	GSR	1.0	
+Malaria	GSR	1.0	
+Malaria, Falciparum	GSR	1.0	
+Animal Mammary Neoplasms	GSR	1.0	
+Medulloblastoma	GSR	1.0	
+Myocardial Infarction	GSR	1.0	
+Myocardial Reperfusion Injury	GSR	1.0	
+Obesity	GSR	1.0	
+Osteomyelitis, sterile multifocal, with periostitis and pustulosis	GSR	1.0	
+Osteoporosis	GSR	1.0	
+Peptic ulcer	GSR	1.0	
+Protein Deficiency	GSR	1.0	
+Reperfusion Injury	GSR	1.0	
+Stroke	GSR	1.0	
+Tobacco Use Disorder	GSR	1.0	
+Trisomy	GSR	1.0	
+Chronic Chagas' disease	GSR	1.0	
+Maternal diabetes	GSR	1.0	
+Cataract, autosomal recessive congenital 5	GSR	1.0	
+Cancer of mouth	GSR	1.0	
+Malnutrition	GSR	1.0	
+Lip and Oral Cavity Carcinoma	GSR	1.0	
+Malignant neoplasm of lung	GSR	1.0	
+Parkinsonism	GSR	1.0	
+Acute Lung Injury	GSR	1.0	
+Lung Injury	GSR	1.0	
+Arsenic Poisoning	GSR	1.0	
+Endotoxemia	GSR	1.0	
+Non-alcoholic Fatty Liver Disease	GSR	1.0	
+Neurodegenerative Diseases	GSR	1.0	
+Hepatitis C, Chronic	GSR	1.0	
+Breast carcinoma	GSR	1.0	
+Lung cancer	GSR	1.0	
+Neuroblastoma	GSR	1.0	
+Drug-Induced Liver Injury	GSR	1.0	
+Calcium oxalate urolithiasis	GSR	1.0	
+Amyotrophic Lateral Sclerosis, Sporadic	GSR	1.0	

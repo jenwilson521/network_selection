@@ -1,0 +1,6 @@
+node_name	node_type	
+DB00009	drug	
+PLG	drug_target	
+PLAUR	drug_target	
+FGA	drug_target	
+SERPINE1	drug_target	

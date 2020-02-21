@@ -1,0 +1,5 @@
+Gene	CUI	Source Databases	
+TYMP	C0278498	Malignant neoplasm of stomach stage IV	DisGeNet	
+TYMS	C0278498	Malignant neoplasm of stomach stage IV	DisGeNet	
+CYP2C9	C0235032	Neurotoxicity Syndromes	DisGeNet	
+TYMS	C0235032	Neurotoxicity Syndromes	DisGeNet	

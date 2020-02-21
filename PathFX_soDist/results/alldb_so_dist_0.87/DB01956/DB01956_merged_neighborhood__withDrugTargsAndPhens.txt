@@ -1,0 +1,63 @@
+node1	node2	edge_score	
+DB01956	SLC6A6	1.0	
+DB01956	GLRA2	1.0	
+DB01956	GLRA1	1.0	
+DB01956	BAAT	1.0	
+DB01956	GRIN2B	1.0	
+DB01956	GABBR1	1.0	
+GRIN2B	rs1072388	0.99
+GRIN2B	rs2058878	0.99
+GRIN2B	rs1019385	0.99
+GRIN2B	rs1806201	0.99
+GABBR1		1.0
+GRIN2B		1.0
+GABBR1	complex:lAo9+jzjVOaRJSWZQvoh0G1mUDc	0.904977499353
+Osteochondritis dissecans	GABBR1	1.0	
+Osteochondritis dissecans	GRIN2B	1.0	
+Obsessive-compulsive disorder	GABBR1	1.0	
+Obsessive-compulsive disorder	GRIN2B	1.0	
+Neuralgia	GABBR1	1.0	
+Neuralgia	GRIN2B	1.0	
+Dyslexia 1	GABBR1	1.0	
+Dyslexia 1	GRIN2B	1.0	
+Epilepsy, Temporal Lobe	GABBR1	1.0	
+Epilepsy, Temporal Lobe	GRIN2B	1.0	
+Placental Insufficiency	GRIN2B	1.0	
+Smith-Magenis syndrome	GRIN2B	1.0	
+Alcohol withdrawal syndrome	GRIN2B	1.0	
+Memory impairment	GABBR1	1.0	
+Memory impairment	GRIN2B	1.0	
+Cocaine delirium	GRIN2B	1.0	
+Sclerosis	GABBR1	1.0	
+Personality disorder	GRIN2B	1.0	
+Opiate Addiction	GRIN2B	1.0	
+Juvenile myoclonic epilepsy	GABBR1	1.0	
+Hippocampal sclerosis	GABBR1	1.0	
+Epilepsy, focal, with speech disorder and with or without mental retardation	GRIN2B	1.0	
+Brain Tumor, Primary	GRIN2B	1.0	
+Child Development Disorders, Pervasive	GRIN2B	1.0	
+Cortical dysplasia, complex, with other brain malformations 3	GRIN2B	1.0	
+Memory Loss	GRIN2B	1.0	
+Idiopathic generalized epilepsy	GABBR1	1.0	
+Absent speech	GRIN2B	1.0	
+Essential tremor	GABBR1	1.0	
+Tardive Dyskinesia	GRIN2B	1.0	
+Hypoxia-Ischemia, Brain	GRIN2B	1.0	
+Unipolar Depression	GABBR1	1.0	
+Unipolar Depression	GRIN2B	1.0	
+NEUROTICISM	GRIN2B	1.0	
+Malformation of cortical development	GRIN2B	1.0	
+Sleep apnea	GABBR1	1.0	
+Orofacial dyskinesia	GRIN2B	1.0	
+Eating disorder	GABBR1	1.0	
+Mental disorders	GABBR1	1.0	
+Mental disorders	GRIN2B	1.0	
+Absence seizures	GABBR1	1.0	
+Schizoaffective Disorder	GRIN2B	1.0	
+Nasopharyngeal Neoplasms	GABBR1	1.0	
+Major depressive disorder	GABBR1	1.0	
+Major depressive disorder	GRIN2B	1.0	
+Hypsarrhythmia	GRIN2B	1.0	
+Epileptic encephalopathy, early infantile, 29	GRIN2B	1.0	
+Alcohol abuse	GRIN2B	1.0	
+Liver Cirrhosis, Alcoholic	GRIN2B	1.0	

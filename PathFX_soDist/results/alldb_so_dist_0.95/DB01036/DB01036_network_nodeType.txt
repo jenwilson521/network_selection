@@ -1,0 +1,12 @@
+node_name	node_type	
+DB01036	drug	
+CYP2C9	drug_target	
+CYP2D6	drug_target	
+CHRM4	drug_target	
+CHRM3	drug_target	
+CHRM2	drug_target	
+CHRM1	drug_target	
+CYP2C19	drug_target	
+CYP3A4	drug_target	
+Primary malignant neoplasm of liver	phenotype	
+Drug Allergy	phenotype	

@@ -1,0 +1,194 @@
+node_name	node_type	
+DB00746	drug	
+APP	drug_target	
+XDH	drug_target	
+Hypoxia	phenotype	
+Arteriosclerosis	phenotype	
+Asthma	phenotype	
+Atherosclerosis	phenotype	
+Autism 15	phenotype	
+Breast-ovarian cancer, familial 1	phenotype	
+Cardiovascular Diseases	phenotype	
+Verotoxigenic Escherichia coli gastrointestinal tract infection	phenotype	
+Hypertension	phenotype	
+Ischemia	phenotype	
+{Gastric cancer risk after H. pylori infection}, 137215 (3)	phenotype	
+Myopathy, scapulohumeroperoneal	phenotype	
+Secondary hypertriglyceridemia	phenotype	
+Neurodegeneration with brain iron accumulation	phenotype	
+Sepsis	phenotype	
+Breast carcinoma	phenotype	
+Stomach cancer	phenotype	
+Major depressive disorder	phenotype	
+Hepatocellular carcinoma	phenotype	
+Abnormality of metabolism/homeostasis	phenotype	
+Peroxisome biogenesis disorders	phenotype	
+Phenylketonuria	phenotype	
+Calcium oxalate urolithiasis	phenotype	
+Abnormality of purine metabolism	phenotype	
+Niemann-Pick disease, type C	phenotype	
+Familial Alzheimer Disease (FAD)	phenotype	
+Normal pressure hydrocephalus	phenotype	
+Progressive cerebellar degeneration	phenotype	
+Chronic myelopathy	phenotype	
+Neurobehavioral Manifestations	phenotype	
+Abnormality of nucleobase metabolism	phenotype	
+Plague	phenotype	
+Decreased activity of 3-hydroxyacyl-CoA dehydrogenase	phenotype	
+Death in early adulthood	phenotype	
+Kidney Calculi	phenotype	
+Learning Disorders	phenotype	
+Conduct Disorder	phenotype	
+Moyamoya Disease	phenotype	
+Osteitis Deformans	phenotype	
+Pyelonephritis	phenotype	
+Cerebral Amyloid Angiopathy	phenotype	
+Iron deficiency anemia	phenotype	
+Aural atresia, congenital	phenotype	
+Meningeal Neoplasms	phenotype	
+Memory Disorders	phenotype	
+Necrosis	phenotype	
+Diabetic Cardiomyopathies	phenotype	
+Joint swelling	phenotype	
+Cowden syndrome 1	phenotype	
+2,4-Dienoyl-CoA reductase deficiency	phenotype	
+Memory Loss	phenotype	
+Cognition Disorders	phenotype	
+Attention Deficit Disorder	phenotype	
+Occupational Diseases	phenotype	
+Inclusion Body Myositis (disorder)	phenotype	
+Hyperuricemia, pulmonary hypertension, renal failure, and alkalosis	phenotype	
+Complicated hereditary spastic paraplegia	phenotype	
+Alzheimer Disease, Late Onset	phenotype	
+Premature aging syndrome	phenotype	
+Tetanus	phenotype	
+Dementia, Vascular	phenotype	
+Infarction, Middle Cerebral Artery	phenotype	
+Liver regeneration disorder	phenotype	
+Febrile seizures, familial, 4	phenotype	
+Paralysis	phenotype	
+Coma	phenotype	
+Prion Diseases	phenotype	
+Polyglandular autoimmune syndrome, type 1	phenotype	
+Paresthesia	phenotype	
+Cerebral calcification	phenotype	
+Hepatopulmonary Syndrome	phenotype	
+Abnormality of cerebral artery	phenotype	
+Bacteremia, susceptibility to, 2	phenotype	
+Frontotemporal dementia, ubiquitin-positive	phenotype	
+ Frontotemporal lobar degeneration, TARDBP-related, 612069 (3)	phenotype	
+Fragile X syndrome	phenotype	
+Aortic Aneurysm, Thoracic	phenotype	
+Nephrolithiasis	phenotype	
+Hepatitis, Autoimmune	phenotype	
+Amyloidosis	phenotype	
+Dystonia Disorders	phenotype	
+Dilatation of the renal pelvis	phenotype	
+Abnormality of the renal pelvis	phenotype	
+Gingival Diseases	phenotype	
+Lewy Body Disease	phenotype	
+Pulmonary Embolism	phenotype	
+Abnormalities of the peripheral arteries	phenotype	
+Motor Neuron Disease	phenotype	
+Sjogren's Syndrome	phenotype	
+Hyperthyroidism	phenotype	
+Mild cognitive impairment	phenotype	
+Arterial stenosis	phenotype	
+Myoclonus, intractable, neonatal	phenotype	
+Frontotemporal dementia	phenotype	
+Tachycardia	phenotype	
+Hearing Loss, Partial	phenotype	
+{Aneurysm, familial abdominal 3} (2)	phenotype	
+Sensory impairment	phenotype	
+Hydronephrosis	phenotype	
+Progressive Neoplastic Disease	phenotype	
+Progressive cGVHD	phenotype	
+Ectopic calcification	phenotype	
+Encephalitis	phenotype	
+Amyotrophic lateral sclerosis type 1	phenotype	
+Internal hemorrhage	phenotype	
+Abnormality of extrapyramidal motor function	phenotype	
+Nephritis	phenotype	
+Trisomy	phenotype	
+Abnormality of the cerebral vasculature	phenotype	
+Chronic Periodontitis	phenotype	
+Sensory neuropathy	phenotype	
+Chronic Kidney Insufficiency	phenotype	
+3-Methylglutaconic aciduria	phenotype	
+Abnormality of blood circulation	phenotype	
+Carotid Artery Diseases	phenotype	
+Aortic Aneurysm, Abdominal	phenotype	
+Tuberous sclerosis syndrome	phenotype	
+Mental deterioration	phenotype	
+Cycloid psychosis	phenotype	
+Brain Diseases	phenotype	
+Abnormality of the spinal cord	phenotype	
+Dysphagia	phenotype	
+Death, Sudden, Cardiac	phenotype	
+Headache	phenotype	
+Mammary Neoplasms, Experimental	phenotype	
+Reduced consciousness/confusion	phenotype	
+Endothelial dysfunction	phenotype	
+Meningioma, benign, no ICD-O subtype	phenotype	
+Intracranial hemorrhage	phenotype	
+Age of death	phenotype	
+Mortality/Aging	phenotype	
+Plaque, Atherosclerotic	phenotype	
+Aortic aneurysm, familial thoracic 11, susceptibility to	phenotype	
+Parkinsonism	phenotype	
+Ovarian Diseases	phenotype	
+Cerebral Hemorrhage	phenotype	
+Heterogeneous	phenotype	
+Fanconi anemia	phenotype	
+Germ cell neoplasia	phenotype	
+Thrombocytopenia, platelet dysfunction, hemolysis, and imbalanced globin synthesis	phenotype	
+Memory impairment	phenotype	
+Deafness, autosomal recessive 44	phenotype	
+Senile plaques	phenotype	
+Azoospermia	phenotype	
+Primary biliary cirrhosis	phenotype	
+Acute kidney injury	phenotype	
+Cerebral ischemia	phenotype	
+Pancreatitis	phenotype	
+polyps	phenotype	
+Abnormality of the systemic arterial tree	phenotype	
+Dementia familial British	phenotype	
+Male infertility	phenotype	
+Glucose intolerance	phenotype	
+Reperfusion Injury	phenotype	
+Dystonia 2, torsion, autosomal recessive	phenotype	
+Abnormal bleeding	phenotype	
+Psychotic Disorders	phenotype	
+Migraine Disorders	phenotype	
+Hypothyroidism	phenotype	
+Carcinoma breast stage IV	phenotype	
+Chronic kidney disease	phenotype	
+Renal Insufficiency, Chronic	phenotype	
+Fatigue	phenotype	
+Anxiety Disorders	phenotype	
+Heart Diseases	phenotype	
+Septicemia	phenotype	
+Abnormality of esophagus morphology	phenotype	
+Brain atrophy	phenotype	
+Unipolar Depression	phenotype	
+Abnormal vascular morphology	phenotype	
+Vascular Diseases	phenotype	
+Age-related macular degeneration 2	phenotype	
+Abnormal renal physiology	phenotype	
+Meningioma	phenotype	
+Other disorders of the nervous system	phenotype	
+Functional abnormality of the gastrointestinal tract	phenotype	
+Down Syndrome	phenotype	
+Dementia	phenotype	
+Gait disturbance	phenotype	
+Increased body weight	phenotype	
+Involuntary movements	phenotype	
+Attention deficit hyperactivity disorder	phenotype	
+Herpes Simplex Infections	phenotype	
+Xenograft Model	phenotype	
+Increased inflammatory response	phenotype	
+Abnormal inflammatory response	phenotype	
+Abnormal peripheral nervous system morphology	phenotype	
+Diabetic Nephropathies	phenotype	
+Metabolic Syndrome X	phenotype	
+Inflammation	phenotype	

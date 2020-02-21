@@ -1,0 +1,13 @@
+node_name	node_type	
+DB00518	drug	
+CYP1A1	drug_target	
+CYP1A2	drug_target	
+TUBB4B	drug_target	
+TUBA1A	drug_target	
+ABCB1	drug_target	
+CYP2C19	drug_target	
+CYP3A4	drug_target	
+Primary malignant neoplasm of liver	phenotype	
+Pleural Neoplasms	phenotype	
+Genomic Instability	phenotype	
+Nausea	phenotype	

@@ -1,0 +1,36 @@
+node1	node2	edge_score	
+DB00640	ADORA2A	1.0	
+DB00640	ADORA2B	1.0	
+DB00640	ADORA1	1.0	
+DB00640	SLC28A3	1.0	
+DB00640	ADA	1.0	
+DB00640	ADK	1.0	
+SLC28A3		1.0
+SLC28A3	rs4877847	0.99
+ADORA2A	rs2298383	0.99
+ADORA1		1.0
+ADORA2A	rs2267076	0.99
+ADORA2A	rs5760410	0.99
+SLC28A3	rs885004	0.99
+ADORA2A	rs2236624	0.99
+rs2298383	ADORA2A-AS1	0.9801
+ADORA2A	rs3761422	0.99
+SLC28A3	rs7853758	0.99
+ADORA2A		1.0
+ADORA2A	rs5751876	0.99
+rs5760410	SPECC1L	0.9801
+SLC28A3	rs7867504	0.99
+Adverse drug events and drug allergies	ADORA1	1.0	
+Adverse drug events and drug allergies	ADORA2A	1.0	
+Ventricular Dysfunction, Right	ADORA1	1.0	
+Ventricular Dysfunction, Right	ADORA2A	1.0	
+Drug Allergy	ADORA1	1.0	
+Drug Allergy	ADORA2A	1.0	
+Substance Withdrawal Syndrome	ADORA1	1.0	
+Substance Withdrawal Syndrome	ADORA2A	1.0	
+Sleep Wake Disorders	ADORA1	1.0	
+Sleep Wake Disorders	ADORA2A	1.0	
+Panic disorder syndrome 1 (2)	ADORA1	1.0	
+Panic disorder syndrome 1 (2)	ADORA2A	1.0	
+Hypotension	ADORA1	1.0	
+Hypotension	ADORA2A	1.0	

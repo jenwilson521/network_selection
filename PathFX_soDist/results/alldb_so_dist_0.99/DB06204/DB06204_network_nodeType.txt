@@ -1,0 +1,13 @@
+node_name	node_type	
+DB06204	drug	
+CYP2C9	drug_target	
+SLC6A2	drug_target	
+CYP2D6	drug_target	
+SLC6A4	drug_target	
+OPRM1	drug_target	
+CYP2C19	drug_target	
+OPRD1	drug_target	
+UGT2B7	drug_target	
+HTR3A	drug_target	
+OPRK1	drug_target	
+UGT1A9	drug_target	

@@ -1,0 +1,2 @@
+rank	phenotype	cui	assoc in neigh	assoc in intom	probability	Benjamini-Hochberg	genes	
+21	Acute postoperative pain	C0030201	3	37	1.2445614748779477e-05	2.60223048327e-05	ABCB1,ADRB2,CYP2D6

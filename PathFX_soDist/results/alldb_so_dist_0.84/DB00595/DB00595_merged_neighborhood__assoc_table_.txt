@@ -1,0 +1,7 @@
+rank	phenotype	cui	assoc in neigh	assoc in intom	probability	Benjamini-Hochberg	genes	
+4	Chromosome 11p deletion syndrome	C0812435	1	25	1.0329579172019265e-06	0.0002	SLC22A8
+5	Hyperuricemia, pulmonary hypertension, renal failure, and alkalosis	C0740394	1	69	8.077999647526646e-06	0.00025	SLC22A11
+6	Gout	C0018099	1	116	2.296692214764917e-05	0.0003	SLC22A11
+7	Acute kidney injury	C0022660	1	270	0.00012504429946957885	0.00035	SLC22A8
+8	Renal Insufficiency, Chronic	C0035078	1	363	0.00022623668202248481	0.0004	SLC22A11
+9	Influenza	C0021400	1	497	0.00042441031967632714	0.00045	SLC22A8

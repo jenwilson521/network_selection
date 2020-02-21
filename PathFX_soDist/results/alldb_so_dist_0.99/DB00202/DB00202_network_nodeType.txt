@@ -1,0 +1,6 @@
+node_name	node_type	
+DB00202	drug	
+CHRM3	drug_target	
+BCHE	drug_target	
+CHRM2	drug_target	
+CHRM1	drug_target	

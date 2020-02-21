@@ -1,0 +1,3 @@
+node_name	node_type	
+DB00050	drug	
+LHCGR	drug_target	

@@ -1,0 +1,9 @@
+node_name	node_type	
+DB09228	drug	
+F2	drug_target	
+KLKB1	drug_target	
+PLAT	drug_target	
+F12	drug_target	
+C1S	drug_target	
+C1R	drug_target	
+F11	drug_target	

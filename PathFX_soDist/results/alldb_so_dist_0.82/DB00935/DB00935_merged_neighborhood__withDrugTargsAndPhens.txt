@@ -1,0 +1,215 @@
+node1	node2	edge_score	
+DB00935	ADRA1A	1.0	
+DB00935	ADRA1B	1.0	
+DB00935	ADRA1D	1.0	
+DB00935	ADRA2A	1.0	
+DB00935	ADRA2B	1.0	
+DB00935	ADRA2C	1.0	
+ADRA1A		1.0
+ADRA1B		1.0
+ADRA2C		1.0
+complex:lAo9+jzjVOaRJSWZQvoh0G1mUDc	OR8D2	0.863824739585
+ADRA1B	complex:lAo9+jzjVOaRJSWZQvoh0G1mUDc	0.904977499353
+complex:lAo9+jzjVOaRJSWZQvoh0G1mUDc	KRT9	0.863824739585
+complex:lAo9+jzjVOaRJSWZQvoh0G1mUDc	ALB	0.863824739585
+ADRA2A		1.0
+ADRA2A	rs1800545	0.99
+Chronic sciatica	ADRA1A	1.0	
+Chronic sciatica	ADRA2A	1.0	
+Chronic sciatica	ADRA2C	1.0	
+Hypotension	ADRA1A	1.0	
+Hypotension	ADRA1B	1.0	
+Hypotension	ADRA2A	1.0	
+Hypotension	ALB	1.0	
+Acute disease of cardiovascular system	ADRA1A	1.0	
+Acute disease of cardiovascular system	ADRA2A	1.0	
+Acute disease of cardiovascular system	ADRA2C	1.0	
+Low back pain	ADRA1A	1.0	
+Low back pain	ADRA2A	1.0	
+Low back pain	ADRA2C	1.0	
+Low Tension Glaucoma	ADRA1A	1.0	
+Low Tension Glaucoma	ADRA2A	1.0	
+Low Tension Glaucoma	ADRA2C	1.0	
+Systemic arterial pressure	ADRA1A	1.0	
+Systemic arterial pressure	ADRA1B	1.0	
+Systemic arterial pressure	ADRA2A	1.0	
+Systemic arterial pressure	ADRA2C	1.0	
+Gastroparesis	ADRA1A	1.0	
+Gastroparesis	ADRA1B	1.0	
+Nephrosclerosis	ADRA1A	1.0	
+Nephrosclerosis	ALB	1.0	
+Hyperalgesia	ADRA1A	1.0	
+Hyperalgesia	ADRA2A	1.0	
+Hyperalgesia	ADRA2C	1.0	
+Learning Disabilities	ADRA2A	1.0	
+Learning Disabilities	ADRA2C	1.0	
+Fibrosis	ADRA2A	1.0	
+Fibrosis	ADRA2C	1.0	
+Fibrosis	ALB	1.0	
+Attention deficit hyperactivity disorder	ADRA1A	1.0	
+Attention deficit hyperactivity disorder	ADRA1B	1.0	
+Attention deficit hyperactivity disorder	ADRA2A	1.0	
+Attention deficit hyperactivity disorder	ADRA2C	1.0	
+Pain	ADRA1A	1.0	
+Pain	ADRA2A	1.0	
+Pain	ADRA2C	1.0	
+Pain	ALB	1.0	
+Acute Lung Injury	ADRA2A	1.0	
+Acute Lung Injury	ALB	1.0	
+Cardiomegaly	ADRA1B	1.0	
+Cardiomegaly	ADRA2A	1.0	
+Cardiomegaly	ADRA2C	1.0	
+Essential hypertension	ADRA1A	1.0	
+Essential hypertension	ADRA1B	1.0	
+Essential hypertension	ALB	1.0	
+Mood Disorders	ADRA1B	1.0	
+Mood Disorders	ADRA2A	1.0	
+Mood Disorders	ADRA2C	1.0	
+Neuralgia	ADRA2A	1.0	
+Neuralgia	ADRA2C	1.0	
+Methamphetamine abuse	ADRA1A	1.0	
+Methamphetamine abuse	ALB	1.0	
+Hypertension	ADRA1A	1.0	
+Hypertension	ADRA1B	1.0	
+Hypertension	ADRA2A	1.0	
+Hypertension	ADRA2C	1.0	
+Hypertension	ALB	1.0	
+Tourette Syndrome	ADRA1A	1.0	
+Tourette Syndrome	ADRA2A	1.0	
+Polycystic Ovary Syndrome	ADRA1A	1.0	
+Polycystic Ovary Syndrome	ADRA1B	1.0	
+Polycystic Ovary Syndrome	ALB	1.0	
+Major depressive disorder	ADRA1A	1.0	
+Major depressive disorder	ADRA2A	1.0	
+Major depressive disorder	ADRA2C	1.0	
+Irritable bowel syndrome with diarrhea	ADRA2A	1.0	
+Irritable bowel syndrome with diarrhea	ADRA2C	1.0	
+Obstructive sleep apnea	ADRA1B	1.0	
+Obstructive sleep apnea	ADRA2A	1.0	
+Depressive Disorder	ADRA2A	1.0	
+Depressive Disorder	ADRA2C	1.0	
+Depressive Disorder	ALB	1.0	
+Familial hypercholesterolemia	ADRA1A	1.0	
+Familial hypercholesterolemia	ALB	1.0	
+ Acrodysostosis 1, with or without hormone resistance, 101800 (3)	ADRA1A	1.0	
+Pseudohypoparathyroidism, type IB, 603233 (3)	ADRA1A	1.0	
+Malignant neoplasm of adrenal cortex	ALB	1.0	
+Behavior Disorders	ADRA2A	1.0	
+Esophageal varix	ALB	1.0	
+Disorders of parathyroid gland	ADRA1A	1.0	
+Urolithiasis	ALB	1.0	
+genetic hypertension	ADRA1A	1.0	
+Echinococcosis	ALB	1.0	
+Hereditary Sensory Autonomic Neuropathy, Type 1	ADRA1A	1.0	
+Epidermolysis bullosa simplex, Cockayne-Touraine type	KRT9	1.0	
+Palmar hyperkeratosis	KRT9	1.0	
+Kidney Failure, Chronic	ADRA1A	1.0	
+Kidney Failure, Chronic	ADRA1B	1.0	
+Kidney Failure, Chronic	ALB	1.0	
+Bladder neck obstruction	ADRA1A	1.0	
+Proliferative retinopathy	ALB	1.0	
+Verrucae	KRT9	1.0	
+Taste bitter	ADRA1A	1.0	
+Isolated somatotropin deficiency	ALB	1.0	
+Metabolic Syndrome X	ADRA1A	1.0	
+Metabolic Syndrome X	ADRA2A	1.0	
+Metabolic Syndrome X	ALB	1.0	
+Substance Use Disorders	ALB	1.0	
+Dentatorubral pallidoluysian atrophy	ALB	1.0	
+Angiokeratoma	ALB	1.0	
+Isolated growth hormone deficiency type 1B	ALB	1.0	
+Hemorrhagic disorder due to intrinsic circulating anticoagulants	ADRA2A	1.0	
+Congenital long QT syndrome	ADRA1A	1.0	
+Plantar hyperkeratosis	KRT9	1.0	
+Epilepsy	ADRA1A	1.0	
+Epilepsy	ADRA2A	1.0	
+Epilepsy	ALB	1.0	
+Pericardial effusion	ALB	1.0	
+Excessive salivation	ADRA2A	1.0	
+Pulmonary Cystic Fibrosis	ADRA1A	1.0	
+Mumps	ALB	1.0	
+Rhinitis, Allergic, Perennial	ALB	1.0	
+Endemic Cretinism	ALB	1.0	
+Hemangioblastoma	ALB	1.0	
+Chronic schizophrenia	ADRA1A	1.0	
+Hypoparathyroidism - autosomal dominant	ADRA1A	1.0	
+Acute postoperative pain	ADRA1A	1.0	
+Mesangiocapillary glomerulonephritis, type II	ALB	1.0	
+Peripheral motor neuropathy	ALB	1.0	
+Paroxysmal atrial fibrillation	ADRA1A	1.0	
+End Stage Liver Disease	ALB	1.0	
+Cholestasis of pregnancy	ADRA1A	1.0	
+Abnormal albumin level	ALB	1.0	
+Neurotoxicity Syndromes	ADRA1B	1.0	
+Acth-Independent Macronodular Adrenal Hyperplasia	ADRA2A	1.0	
+Bronchogenic Carcinoma	ALB	1.0	
+Nephrogenic diabetes insipidus, autosomal	ADRA1A	1.0	
+Coronary artery aneurysm	ALB	1.0	
+Hyperlipoproteinemia	ALB	1.0	
+Hyperlipoproteinemia Type IIa	ALB	1.0	
+Tubulointerstitial nephritis	ALB	1.0	
+Single tumor	ALB	1.0	
+Nephrotic Syndrome, Minimal Change	ALB	1.0	
+Congestive heart failure	ADRA1A	1.0	
+Congestive heart failure	ADRA2C	1.0	
+Congestive heart failure	ALB	1.0	
+Drug usage	ADRA2A	1.0	
+Skin Diseases, Genetic	KRT9	1.0	
+Weight Loss Adverse Event	ADRA2A	1.0	
+Varicella zoster	ALB	1.0	
+Drusen	ALB	1.0	
+Heart Failure	ADRA1A	1.0	
+Heart Failure	ADRA2C	1.0	
+Heart Failure	ALB	1.0	
+Fibromyalgia	ADRA1A	1.0	
+Increased antibody level in blood	KRT9	1.0	
+Insulin resistance syndrome	ALB	1.0	
+Dyskinesia, Drug-Induced	ADRA1A	1.0	
+Polydipsia	ADRA2A	1.0	
+Nephrosis	ALB	1.0	
+Spondylitis, Ankylosing	ADRA1B	1.0	
+Guillain-Barre syndrome, familial	ALB	1.0	
+Primary hyperparathyroidism	ALB	1.0	
+Drug Resistant Epilepsy	ALB	1.0	
+Acute Coronary Syndrome	ADRA2A	1.0	
+Acute Coronary Syndrome	ALB	1.0	
+Memory Disorders	ADRA1A	1.0	
+Respiratory Tract Diseases	ALB	1.0	
+Sicca Syndrome	ALB	1.0	
+Hypoalbuminemia	ALB	1.0	
+Neurologic, endocrine, and pancreatic disease, multisystem, infantile-onset	ALB	1.0	
+Abnormality of the plantar skin of foot	KRT9	1.0	
+Inflammatory pain	ADRA1A	1.0	
+Congenital hypothyroidism	ALB	1.0	
+Adverse drug events and drug allergies	ALB	1.0	
+Hypogonadism with anosmia	ADRA1A	1.0	
+Liver Cirrhosis, Biliary	ADRA1A	1.0	
+Liver Cirrhosis, Biliary	ADRA2A	1.0	
+Liver Cirrhosis, Biliary	ALB	1.0	
+Hemolytic uremic syndrome	ALB	1.0	
+Psychoses, Substance-Induced	ADRA2C	1.0	
+Attention Deficit Disorder	ADRA2A	1.0	
+Occupational Diseases	ALB	1.0	
+Microalbuminuria	ALB	1.0	
+Thyroid Diseases	ADRA1B	1.0	
+Thyroid Diseases	ALB	1.0	
+Chest pain	ALB	1.0	
+Urinary incontinence	ADRA1A	1.0	
+ {HIV-1 viremia, susceptibility to}, 609423 (3)	ALB	1.0	
+Anxiety Disorders	ADRA1A	1.0	
+Anxiety Disorders	ADRA2A	1.0	
+Heart Diseases	ADRA2A	1.0	
+Heart Diseases	ALB	1.0	
+Blood pressure finding	ADRA1B	1.0	
+Blood pressure finding	ADRA2A	1.0	
+Complications of Diabetes Mellitus	ALB	1.0	
+Diabetes mellitus type 2	ADRA1A	1.0	
+Diabetes mellitus type 2	ADRA2A	1.0	
+Diabetes mellitus type 2	ADRA2C	1.0	
+Diabetes mellitus type 2	ALB	1.0	
+Pulmonary edema	ALB	1.0	
+Ichthyosis bullosa of Siemens	ADRA2A	1.0	
+Stevens-Johnson Syndrome	ALB	1.0	
+Unipolar Depression	ADRA2A	1.0	
+Unipolar Depression	ADRA2C	1.0	
+Lymphohistiocytosis, Hemophagocytic	ALB	1.0	

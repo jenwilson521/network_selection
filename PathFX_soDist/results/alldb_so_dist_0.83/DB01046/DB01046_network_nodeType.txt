@@ -1,0 +1,50 @@
+node_name	node_type	
+DB01046	drug	
+CLCN2	drug_target	
+CBR1	drug_target	
+Malignant tumor of urinary bladder	phenotype	
+Breast-ovarian cancer, familial 1	phenotype	
+Colon cancer	phenotype	
+Ulcerative colitis	phenotype	
+Neoplasm of the colon	phenotype	
+Colorectal cancer 1	phenotype	
+Verotoxigenic Escherichia coli gastrointestinal tract infection	phenotype	
+Diabetes Mellitus, Type 1	phenotype	
+Diabetes mellitus type 1	phenotype	
+Down Syndrome	phenotype	
+Symptomatic human immunodeficiency virus infection	phenotype	
+Pulmonary hypertension, neonatal, susceptibility to	phenotype	
+Leukemia, Lymphocytic, Chronic, B-Cell	phenotype	
+Acute myeloid leukemia	phenotype	
+Acute promyelocytic leukemia	phenotype	
+Chronic obstructive pulmonary disease	phenotype	
+{Gastric cancer risk after H. pylori infection}, 137215 (3)	phenotype	
+Animal Mammary Neoplasms	phenotype	
+Secondary hypertriglyceridemia	phenotype	
+Muscle weakness	phenotype	
+polyps	phenotype	
+Prostatic Neoplasms	phenotype	
+Tuberous sclerosis syndrome	phenotype	
+Ureteral obstruction	phenotype	
+Small cell lung cancer	phenotype	
+Tumor Progression	phenotype	
+Cholangiocarcinoma	phenotype	
+Medullary thyroid carcinoma	phenotype	
+Malignant neoplasm of lung	phenotype	
+Carcinoma, Small Cell	phenotype	
+Malignant Childhood Neoplasm	phenotype	
+Cortical dysplasia, complex, with other brain malformations 3	phenotype	
+Carcinogenesis	phenotype	
+Ovarian epithelial cancer	phenotype	
+Breast carcinoma	phenotype	
+Lung cancer	phenotype	
+Malignant gastrointestinal tract tumors	phenotype	
+Carcinoma of colon	phenotype	
+Stomach cancer	phenotype	
+Cardiomyopathy	phenotype	
+Drug Resistant Epilepsy	phenotype	
+BREAST-OVARIAN CANCER, FAMILIAL, SUSCEPTIBILITY TO, 4	phenotype	
+Partial Trisomy	phenotype	
+Colorectal cancer	phenotype	
+Malformation of cortical development	phenotype	
+Hepatocellular carcinoma	phenotype	

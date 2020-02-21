@@ -1,0 +1,5 @@
+node1	node2	edge_score	
+DB06372	IL1A	1.0	
+DB06372	IL1B	1.0	
+DB06372	IL1RN	1.0	
+

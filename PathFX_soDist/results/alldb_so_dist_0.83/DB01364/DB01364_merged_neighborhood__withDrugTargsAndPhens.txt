@@ -1,0 +1,131 @@
+node1	node2	edge_score	
+DB01364	ADRA1A	1.0	
+DB01364	ACHE	1.0	
+DB01364	SLC6A2	1.0	
+DB01364	BCHE	1.0	
+DB01364	SLC18A2	1.0	
+BCHE	rs28933389	0.99
+BCHE	rs1799807	0.99
+ADRA1A		1.0
+SLC6A2	rs3785143	0.99
+BCHE	rs1803274	0.99
+BCHE		1.0
+SLC6A2	rs12708954	0.99
+ACHE		1.0
+BCHE	rs28933390	0.99
+SLC6A2	rs5569	0.99
+SLC6A2		1.0
+Methamphetamine abuse	ADRA1A	1.0	
+Methamphetamine abuse	BCHE	1.0	
+Methamphetamine abuse	SLC6A2	1.0	
+Leptospirosis	ACHE	1.0	
+Leptospirosis	BCHE	1.0	
+Refractory anemia	ACHE	1.0	
+Refractory anemia	BCHE	1.0	
+Refractory anaemia with excess blasts	ACHE	1.0	
+Refractory anaemia with excess blasts	BCHE	1.0	
+Memory Disorders	ACHE	1.0	
+Memory Disorders	ADRA1A	1.0	
+Congenital myasthenic syndrome	ACHE	1.0	
+Congenital myasthenic syndrome	BCHE	1.0	
+early pregnancy	BCHE	1.0	
+early pregnancy	SLC6A2	1.0	
+Chronic myelomonocytic leukemia	ACHE	1.0	
+Chronic myelomonocytic leukemia	BCHE	1.0	
+Anxiety Disorders	ACHE	1.0	
+Anxiety Disorders	ADRA1A	1.0	
+Anxiety Disorders	SLC6A2	1.0	
+Tourette Syndrome	ADRA1A	1.0	
+Tourette Syndrome	SLC6A2	1.0	
+Lewy Body Disease	BCHE	1.0	
+Lewy Body Disease	SLC6A2	1.0	
+Thyroiditis	ACHE	1.0	
+Thyroiditis	BCHE	1.0	
+Sporadic Breast Carcinoma	ACHE	1.0	
+Sporadic Breast Carcinoma	BCHE	1.0	
+Tachycardia	BCHE	1.0	
+Tachycardia	SLC6A2	1.0	
+Weight Gain Adverse Event	ACHE	1.0	
+Weight Gain Adverse Event	BCHE	1.0	
+Major depressive disorder	ACHE	1.0	
+Major depressive disorder	ADRA1A	1.0	
+Major depressive disorder	SLC6A2	1.0	
+ Acrodysostosis 1, with or without hormone resistance, 101800 (3)	ADRA1A	1.0	
+Slow acetylator due to N-acetyltransferase enzyme variant	SLC6A2	1.0	
+Pseudohypoparathyroidism, type IB, 603233 (3)	ADRA1A	1.0	
+Dentinogenesis imperfecta	SLC6A2	1.0	
+Chronic sciatica	ADRA1A	1.0	
+Recurrent major depressive episodes	SLC6A2	1.0	
+Asthma, Occupational	SLC6A2	1.0	
+Attention deficit hyperactivity disorder	ADRA1A	1.0	
+Attention deficit hyperactivity disorder	BCHE	1.0	
+Attention deficit hyperactivity disorder	SLC6A2	1.0	
+Behavior Disorders	SLC6A2	1.0	
+Disorders of parathyroid gland	ADRA1A	1.0	
+genetic hypertension	ADRA1A	1.0	
+Hereditary Sensory Autonomic Neuropathy, Type 1	ADRA1A	1.0	
+Bladder neck obstruction	ADRA1A	1.0	
+Orofacial cleft	SLC6A2	1.0	
+Muscle stiffness	ACHE	1.0	
+Taste bitter	ADRA1A	1.0	
+Myasthenic syndrome, congenital, 8	ACHE	1.0	
+Congenital long QT syndrome	ADRA1A	1.0	
+Enzyme inhibition disorder	BCHE	1.0	
+Myasthenia Gravis	ACHE	1.0	
+Myasthenia Gravis	BCHE	1.0	
+Systemic aspergillosis	SLC6A2	1.0	
+Pulmonary Cystic Fibrosis	ADRA1A	1.0	
+childhood brain tumor	BCHE	1.0	
+Churg-Strauss Syndrome	BCHE	1.0	
+Gastroparesis	ADRA1A	1.0	
+Chronic schizophrenia	ADRA1A	1.0	
+Hypoparathyroidism - autosomal dominant	ADRA1A	1.0	
+Acute postoperative pain	ADRA1A	1.0	
+Plaque, Atherosclerotic	ACHE	1.0	
+Plaque, Atherosclerotic	BCHE	1.0	
+Acute disease of cardiovascular system	ADRA1A	1.0	
+Nephrosclerosis	ADRA1A	1.0	
+Personality disorder	SLC6A2	1.0	
+Paroxysmal atrial fibrillation	ADRA1A	1.0	
+Myotubular myopathy	ACHE	1.0	
+Cholestasis of pregnancy	ADRA1A	1.0	
+Neurotoxicity Syndromes	BCHE	1.0	
+Low back pain	ADRA1A	1.0	
+Nephrogenic diabetes insipidus, autosomal	ADRA1A	1.0	
+Gestational trophoblastic disease	BCHE	1.0	
+Platelet-type bleeding disorder 15	ACHE	1.0	
+Disseminated intravascular coagulation	SLC6A2	1.0	
+Senile plaques	ACHE	1.0	
+Senile plaques	BCHE	1.0	
+Weight Loss Adverse Event	SLC6A2	1.0	
+Learning Disorders	ACHE	1.0	
+Fibromyalgia	ADRA1A	1.0	
+Malignant hyperthermia susceptibility	BCHE	1.0	
+Dyskinesia, Drug-Induced	ADRA1A	1.0	
+Cerebral Amyloid Angiopathy	BCHE	1.0	
+Abnormal autonomic nervous system physiology	SLC6A2	1.0	
+Aural atresia, congenital	BCHE	1.0	
+Low Tension Glaucoma	ADRA1A	1.0	
+Cleft palate with cleft lip	SLC6A2	1.0	
+Cocaine Dependence	BCHE	1.0	
+Dementia familial British	ACHE	1.0	
+Dementia familial British	BCHE	1.0	
+Inflammatory pain	ADRA1A	1.0	
+Muscular dystrophy-dystroglycanopathy (congenital with brain and eye anomalies), type a, 11	ACHE	1.0	
+Muscular dystrophy-dystroglycanopathy (congenital with brain and eye anomalies), type a, 11	BCHE	1.0	
+Adverse drug events and drug allergies	BCHE	1.0	
+Heart Failure	ADRA1A	1.0	
+Heart Failure	BCHE	1.0	
+Heart Failure	SLC6A2	1.0	
+Memory Loss	BCHE	1.0	
+Hypogonadism with anosmia	ADRA1A	1.0	
+Cognition Disorders	BCHE	1.0	
+Hydatidiform mole, recurrent, 1, 231090 (3)	BCHE	1.0	
+Cancer Cell Growth	ADRA1A	1.0	
+Cancer Cell Growth	SLC6A2	1.0	
+Mood Disorders	ACHE	1.0	
+Mood Disorders	SLC6A2	1.0	
+Squamous cell carcinoma of the head and neck	ACHE	1.0	
+Squamous cell carcinoma of the head and neck	ADRA1A	1.0	
+Squamous cell carcinoma of the head and neck	SLC6A2	1.0	
+Heroin Dependence	SLC6A2	1.0	

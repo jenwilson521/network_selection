@@ -1,0 +1,84 @@
+Gene	CUI	Source Databases	
+VDR	C1827377	Slow acetylator due to N-acetyltransferase enzyme variant	DisGeNet	
+VDR	C0014511	Epidermal cyst	DisGeNet	
+VDR	C1837081	Tibial bowing	HumPhenOnt	
+VDR	C0034362	Q Fever	DisGeNet	
+VDR	C0451641	Urolithiasis	DisGeNet	
+VDR	C4020957	Abnormal trabecular bone morphology	HumPhenOnt	
+VDR	C0206114	Periodontal Attachment Loss	DisGeNet	
+VDR	C1838662	Metaphyseal irregularity	HumPhenOnt	
+VDR	C3536983	Hypophosphatemic rickets	DisGeNet	
+VDR	C0005944	Metabolic Bone Disorder	DisGeNet	
+VDR	C0013338	Isolated growth hormone deficiency type 1B	DisGeNet	
+VDR	C0024537	Malaria, Vivax	DisGeNet	
+VDR	C1859461	Femoral bowing	HumPhenOnt	
+VDR	C0232513	Premature loss of teeth	HumPhenOnt	
+VDR	C1837402	Flat occiput	HumPhenOnt	
+VDR	C0409957	Osteoarthritis of distal interphalangeal joint	DisGeNet	
+VDR	C0020097	HTLV-I Infections	DisGeNet	
+VDR	C0029442	Osteomalacia	DisGeNet,HumPhenOnt	
+VDR	C0002382	Alveolar Bone Loss	DisGeNet	
+VDR	C0036117	Salmonella infections	DisGeNet	
+VDR	C0263746	Osteoarthritis of the hand	DisGeNet	
+VDR	C0037928	Chronic myelopathy	DisGeNet	
+VDR	C1719495	Aggressive periodontitis, generalized	DisGeNet	
+VDR	C0016068	Abnormality of fibula morphology	HumPhenOnt	
+VDR	C0085682	Hypophosphatemia	HumPhenOnt	
+VDR	C0024031	Low back pain	DisGeNet	
+VDR	C0035579	Rickets	DisGeNet,HumPhenOnt	
+VDR	C4021596	Abnormality of primary teeth	HumPhenOnt	
+VDR	C0021818	Displacement of intervertebral disc	DisGeNet	
+VDR	C0023348	Leprosy, Lepromatous	DisGeNet	
+VDR	C0042870	Vitamin D Deficiency	DisGeNet	
+VDR	C0016663	Pathologic fracture	DisGeNet	
+VDR	C0002986	Fabry disease	DisGeNet	
+VDR	C0029445	Bone necrosis	DisGeNet	
+VDR	C4021246	Abnormal epiphyseal ossification	HumPhenOnt	
+VDR	C0022650	Kidney Calculi	DisGeNet	
+VDR	C0085166	Bacterial Vaginosis	DisGeNet	
+VDR	C0311394	Difficulty walking	HumPhenOnt	
+VDR	C0015302	Exostoses	DisGeNet	
+VDR	C0029401	Osteitis Deformans	DisGeNet	
+VDR	C0948480	Coronary Restenosis	DisGeNet	
+VDR	C4025660	Abnormality of the ankles	HumPhenOnt	
+VDR	C0040184	Tibia, hypoplasia or aplasia of, with polydactyly	HumPhenOnt	
+VDR	C0085435	Arthritis, Reactive	DisGeNet	
+VDR	C0162316	Iron deficiency anemia	DisGeNet	
+VDR	C0280217	stage, non-small cell lung cancer	DisGeNet	
+VDR	C0020598	Hypocalcemia	HumPhenOnt	
+VDR	C0033054	Prenatal Exposure Delayed Effects	DisGeNet	
+VDR	C4022032	Abnormality of phosphate homeostasis	HumPhenOnt	
+VDR	C0151849	Elevated alkaline phosphatase	HumPhenOnt	
+VDR	C0221002	Primary hyperparathyroidism	DisGeNet	
+VDR	C0005941	Bone Diseases, Developmental	DisGeNet	
+VDR	C0011351	Hypoplasia of dental enamel	HumPhenOnt	
+VDR	C4021741	Abnormal cortical bone morphology	HumPhenOnt	
+VDR	C4023608	Abnormality of the abdominal musculature	HumPhenOnt	
+VDR	C0014743	Erythema nodosum	DisGeNet	
+VDR	C0151825	Bone pain	HumPhenOnt	
+VDR	C4025328	Abnormality of alkaline phosphatase activity	HumPhenOnt	
+VDR	C0235357	Hypoplasia of teeth	HumPhenOnt	
+VDR	C4023198	Abnormality of the parathyroid physiology	HumPhenOnt	
+VDR	C0030481	Tropical Spastic Paraparesis	DisGeNet	
+VDR	C0030521	Neoplasm of the parathyroid gland	DisGeNet	
+VDR	C0036205	Sarcoidosis, Pulmonary	DisGeNet	
+VDR	C0002875	Cooley's anemia	DisGeNet	
+VDR	C0029410	Osteoarthritis of hip	DisGeNet	
+VDR	C0796369	Microsatellite Instability	DisGeNet	
+VDR	C0040592	Trachoma	DisGeNet	
+VDR	C4025822	Abnormality of the parathyroid gland	HumPhenOnt	
+VDR	C0020626	Hypoparathyroidism	DisGeNet	
+VDR	C0020502	Hyperparathyroidism 4	DisGeNet,HumPhenOnt	
+VDR	C0006271	Bronchiolitis	DisGeNet	
+VDR	C1268717	Mammographic breast density	DisGeNet	
+VDR	C0017205	Gaucher Disease	DisGeNet	
+VDR	C0041948	Uremia	DisGeNet	
+VDR	C0019100	Severe Dengue	DisGeNet	
+VDR	C4022922	Abnormal enzyme/coenzyme activity	HumPhenOnt	
+VDR	C0023465	Acute monocytic leukemia	DisGeNet	
+VDR	C0020438	Hypercalciuria	DisGeNet	
+VDR	C0221204	Osteolysis	HumPhenOnt	
+VDR	C4023459	Abnormal shape of the occiput	HumPhenOnt	
+VDR	C0000731	Abdominal distention	HumPhenOnt	
+VDR	C0004268	Abnormal concentration of calcium in blood	HumPhenOnt	
+VDR	C0231341	Premature aging syndrome	DisGeNet	

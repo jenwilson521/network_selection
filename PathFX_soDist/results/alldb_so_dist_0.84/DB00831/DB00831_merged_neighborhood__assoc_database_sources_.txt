@@ -1,0 +1,29 @@
+Gene	CUI	Source Databases	
+ABCB1	C0013386	Dyskinesia, Drug-Induced	DisGeNet	
+ADRA1A	C0013386	Dyskinesia, Drug-Induced	DisGeNet	
+CYP1A2	C0013386	Dyskinesia, Drug-Induced	DisGeNet	
+DRD2	C0013386	Dyskinesia, Drug-Induced	DisGeNet	
+ABCB1	C0152020	Gastroparesis	DisGeNet	
+ADRA1A	C0152020	Gastroparesis	DisGeNet	
+DRD2	C0152020	Gastroparesis	DisGeNet	
+ADRA1A	C0221765	Chronic schizophrenia	DisGeNet	
+CYP1A2	C0221765	Chronic schizophrenia	DisGeNet	
+DRD2	C0221765	Chronic schizophrenia	DisGeNet	
+ABCB1	C0524662	Opiate Addiction	DisGeNet	
+ANKK1	C0524662	Opiate Addiction	DisGeNet	
+DRD2	C0524662	Opiate Addiction	DisGeNet	
+ABCB1	C0085602	Polydipsia	DisGeNet	
+CYP1A2	C0085602	Polydipsia	DisGeNet	
+DRD2	C0085602	Polydipsia	DisGeNet	
+ABCB1	C0027497	Nausea	DisGeNet	
+CYP1A2	C0027497	Nausea	DisGeNet	
+DRD2	C0027497	Nausea	DisGeNet	
+ABCB1	C0600427	Cocaine Dependence	DisGeNet	
+ANKK1	C0600427	Cocaine Dependence	DisGeNet	
+DRD2	C0600427	Cocaine Dependence	DisGeNet	
+ANKK1	C0031347	Pharyngeal Neoplasms	DisGeNet	
+CYP1A2	C0031347	Pharyngeal Neoplasms	DisGeNet	
+DRD2	C0031347	Pharyngeal Neoplasms	DisGeNet	
+ABCB1	C0019337	Heroin Dependence	DisGeNet	
+ANKK1	C0019337	Heroin Dependence	DisGeNet	
+DRD2	C0019337	Heroin Dependence	DisGeNet	

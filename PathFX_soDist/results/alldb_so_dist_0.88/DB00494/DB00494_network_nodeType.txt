@@ -1,0 +1,13 @@
+node_name	node_type	
+DB00494	drug	
+COMT	drug_target	
+CYP2D6	drug_target	
+UGT1A9	drug_target	
+Hepatitis D Infection	phenotype	
+Hyperbilirubinemia	phenotype	
+Cholelithiasis	phenotype	
+Febrile Neutropenia	phenotype	
+Anemia, Sickle Cell	phenotype	
+Mammographic breast density	phenotype	
+Drug Allergy	phenotype	
+Hearing Loss, Partial	phenotype	

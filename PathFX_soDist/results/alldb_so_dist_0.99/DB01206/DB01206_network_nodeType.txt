@@ -1,0 +1,5 @@
+node_name	node_type	
+DB01206	drug	
+STMN4	drug_target	
+CYP3A4	drug_target	
+CYP2D6	drug_target	

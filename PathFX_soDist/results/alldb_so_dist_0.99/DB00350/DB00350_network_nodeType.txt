@@ -1,0 +1,6 @@
+node_name	node_type	
+DB00350	drug	
+PTGS1	drug_target	
+REN	drug_target	
+KCNJ1	drug_target	
+UGT1A1	drug_target	

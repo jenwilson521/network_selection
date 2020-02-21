@@ -1,0 +1,46 @@
+node_name	node_type	
+DB00128	drug	
+RNASE1	drug_target	
+ADSS	drug_target	
+ASPA	drug_target	
+DARS	drug_target	
+SLC25A13	drug_target	
+ASPH	drug_target	
+ASNS	drug_target	
+LYZ	drug_target	
+SLC1A1	drug_target	
+PAICS	drug_target	
+DARS2	drug_target	
+SLC16A10	drug_target	
+ADSSL1	drug_target	
+ACY3	drug_target	
+GOT2	drug_target	
+ASRGL1	drug_target	
+GOT1	drug_target	
+ASS1	drug_target	
+SLC25A12	drug_target	
+ACY1	drug_target	
+CAD	drug_target	
+Prominent nose	phenotype	
+Ectopia lentis, isolated autosomal recessive	phenotype	
+CADASIL	phenotype	
+Neuroblastic tumors	phenotype	
+Bile duct cancer resectable	phenotype	
+Convex nasal ridge	phenotype	
+Facial dysmorphism, lens dislocation, anterior segment abnormalities, and spontaneous filtering blebs	phenotype	
+Low Tension Glaucoma	phenotype	
+Wide nose	phenotype	
+Cortical dysplasia, complex, with other brain malformations 3	phenotype	
+Cognition Disorders	phenotype	
+Obsessive-compulsive behavior	phenotype	
+Stress, Psychological	phenotype	
+Osteochondritis dissecans	phenotype	
+Malformation of cortical development	phenotype	
+Dental malocclusion	phenotype	
+Obsessive-compulsive disorder	phenotype	
+Alveolar cell carcinoma	phenotype	
+Creatinine finding	phenotype	
+Shy-Drager syndrome	phenotype	
+Intraocular pressure disorder	phenotype	
+Neuroectodermal neoplasm	phenotype	
+Intrahepatic Cholangiocarcinoma	phenotype	

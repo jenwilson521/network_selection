@@ -1,0 +1,104 @@
+node_name	node_type	
+DB00692	drug	
+ADRA1A	drug_target	
+ADRA1B	drug_target	
+ADRA1D	drug_target	
+ADRA2A	drug_target	
+Hypotension	phenotype	
+Chronic sciatica	phenotype	
+Gastroparesis	phenotype	
+Acute disease of cardiovascular system	phenotype	
+Low back pain	phenotype	
+Low Tension Glaucoma	phenotype	
+Systemic arterial pressure	phenotype	
+Attention deficit hyperactivity disorder	phenotype	
+Tourette Syndrome	phenotype	
+Obstructive sleep apnea	phenotype	
+Hyperalgesia	phenotype	
+Cardiomegaly	phenotype	
+ Acrodysostosis 1, with or without hormone resistance, 101800 (3)	phenotype	
+Pseudohypoparathyroidism, type IB, 603233 (3)	phenotype	
+Behavior Disorders	phenotype	
+Disorders of parathyroid gland	phenotype	
+genetic hypertension	phenotype	
+Hereditary Sensory Autonomic Neuropathy, Type 1	phenotype	
+Essential hypertension	phenotype	
+Bladder neck obstruction	phenotype	
+Taste bitter	phenotype	
+Mood Disorders	phenotype	
+Hemorrhagic disorder due to intrinsic circulating anticoagulants	phenotype	
+Congenital long QT syndrome	phenotype	
+Excessive salivation	phenotype	
+Pulmonary Cystic Fibrosis	phenotype	
+Chronic schizophrenia	phenotype	
+Hypoparathyroidism - autosomal dominant	phenotype	
+Acute postoperative pain	phenotype	
+Nephrosclerosis	phenotype	
+Paroxysmal atrial fibrillation	phenotype	
+Cholestasis of pregnancy	phenotype	
+Anxiety Disorders	phenotype	
+Neurotoxicity Syndromes	phenotype	
+Learning Disabilities	phenotype	
+Acth-Independent Macronodular Adrenal Hyperplasia	phenotype	
+Blood pressure finding	phenotype	
+Nephrogenic diabetes insipidus, autosomal	phenotype	
+Drug usage	phenotype	
+Weight Loss Adverse Event	phenotype	
+Hypertension	phenotype	
+Fibromyalgia	phenotype	
+Dyskinesia, Drug-Induced	phenotype	
+Polydipsia	phenotype	
+Spondylitis, Ankylosing	phenotype	
+Polycystic Ovary Syndrome	phenotype	
+Memory Disorders	phenotype	
+Major depressive disorder	phenotype	
+Inflammatory pain	phenotype	
+Hypogonadism with anosmia	phenotype	
+Attention Deficit Disorder	phenotype	
+Urinary incontinence	phenotype	
+Acute Lung Injury	phenotype	
+Diabetes Mellitus, Type 1	phenotype	
+Ichthyosis bullosa of Siemens	phenotype	
+Kidney Failure, Chronic	phenotype	
+Schizoaffective Disorder	phenotype	
+Obesity	phenotype	
+Pain	phenotype	
+Gastrointestinal Diseases	phenotype	
+Metabolic Syndrome X	phenotype	
+Herpes NOS	phenotype	
+Albinism, ocular, with sensorineural deafness	phenotype	
+Epilepsy	phenotype	
+Neuralgia	phenotype	
+Dyslexia 1	phenotype	
+body mass	phenotype	
+Endotoxemia	phenotype	
+Methamphetamine abuse	phenotype	
+Panic disorder syndrome 1 (2)	phenotype	
+Parkinson Disease	phenotype	
+Primary Effusion Lymphoma	phenotype	
+Obesity, severe, 601665 (3)	phenotype	
+Differentiated Thyroid Gland Carcinoma	phenotype	
+Pruritus	phenotype	
+Neurodegeneration with brain iron accumulation	phenotype	
+Liver Cirrhosis, Biliary	phenotype	
+Weight Gain Adverse Event	phenotype	
+Congenital Myotonic Dystrophy	phenotype	
+Insulinoma	phenotype	
+Steinert myotonic dystrophy syndrome	phenotype	
+Irritable bowel syndrome with diarrhea	phenotype	
+Malignant neoplasm of gallbladder	phenotype	
+Bronchial Hyperreactivity	phenotype	
+Cholelithiasis	phenotype	
+Cytomegalovirus Infections	phenotype	
+Familial hypercholesterolemia	phenotype	
+Hypogonadotropic hypogonadism 7 with or without anosmia	phenotype	
+Kaposi's sarcoma	phenotype	
+Fibrosis	phenotype	
+Gallbladder Carcinoma	phenotype	
+Acute Erythroblastic Leukemia	phenotype	
+Arthritis, Psoriatic	phenotype	
+Intraocular melanoma	phenotype	
+Leprosy	phenotype	
+Overweight	phenotype	
+Skin cancer	phenotype	
+Dyslipidemias	phenotype	

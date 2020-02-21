@@ -1,0 +1,4 @@
+node1	node2	edge_score	
+DB01247	MAOB	1.0	
+DB01247	MAOA	1.0	
+

@@ -1,0 +1,4 @@
+rank	phenotype	cui	assoc in neigh	assoc in intom	probability	Benjamini-Hochberg	genes	
+42	Tubulointerstitial nephritis	C0027707	2	44	2.00668883996169e-05	5.56291390728e-05	AR,CYP2C9
+61	Microsatellite Instability	C0796369	2	63	5.925134435402768e-05	8.07947019868e-05	AR,CYP2C9
+62	Neoplasms, Germ Cell and Embryonal	C0027658	2	64	6.211513547116354e-05	8.2119205298e-05	AR,CYP2C9

@@ -1,0 +1,4 @@
+node1	node2	edge_score	
+DB01339	ABCB1	1.0	
+DB01339	CHRNA2	1.0	
+

@@ -1,0 +1,14 @@
+node_name	node_type	
+DB01197	drug	
+BDKRB1	drug_target	
+CYP2D6	drug_target	
+ACE	drug_target	
+ALB	drug_target	
+ABCB1	drug_target	
+SLC22A6	drug_target	
+MMP9	drug_target	
+LTA4H	drug_target	
+MMP2	drug_target	
+Acute postoperative pain	phenotype	
+Tubulointerstitial nephritis	phenotype	
+Nephrotic Syndrome, Minimal Change	phenotype	

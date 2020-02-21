@@ -1,0 +1,3 @@
+INSR		1.0	
+ALB	complex:lAo9+jzjVOaRJSWZQvoh0G1mUDc	0.954526206676	
+ALB		1.0	

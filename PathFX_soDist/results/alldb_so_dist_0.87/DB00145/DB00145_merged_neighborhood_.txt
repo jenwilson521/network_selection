@@ -1,0 +1,5 @@
+GLDC		1.0	
+GATM		1.0	
+SHMT1		1.0	
+SLC6A5		1.0	
+GNMT		1.0	

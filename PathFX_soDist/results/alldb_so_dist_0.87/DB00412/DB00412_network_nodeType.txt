@@ -1,0 +1,23 @@
+node_name	node_type	
+DB00412	drug	
+CYP2C9	drug_target	
+CYP2C8	drug_target	
+PTGS1	drug_target	
+CYP2D6	drug_target	
+RXRG	drug_target	
+ALB	drug_target	
+CYP1A2	drug_target	
+ACSL4	drug_target	
+RXRA	drug_target	
+SLCO1B1	drug_target	
+PPARG	drug_target	
+PPARD	drug_target	
+RXRB	drug_target	
+PPARA	drug_target	
+ABCB11	drug_target	
+CYP3A4	drug_target	
+CYP2A6	drug_target	
+Adverse drug events and drug allergies	phenotype	
+Drug Allergy	phenotype	
+Pharyngeal Neoplasms	phenotype	
+Neoplasm of the larynx	phenotype	

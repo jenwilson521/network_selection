@@ -1,0 +1,477 @@
+Gene	CUI	Source Databases	
+ALB	C0001418	 Adenocarcinoma, ovarian, somatic, 167000 (3)	DisGeNet	
+INSR	C0001418	 Adenocarcinoma, ovarian, somatic, 167000 (3)	DisGeNet	
+ALB	C0001430	Adenomas, multiple colorectal, 608456 (3)	DisGeNet	
+INSR	C0001430	Adenomas, multiple colorectal, 608456 (3)	DisGeNet	
+ALB	C0002395	Alzheimer Disease	DisGeNet	
+INSR	C0002395	Alzheimer Disease	DisGeNet	
+ALB	C0003850	Arteriosclerosis	DisGeNet	
+INSR	C0003850	Arteriosclerosis	DisGeNet	
+ALB	C0004153	Atherosclerosis	DisGeNet	
+INSR	C0004153	Atherosclerosis	DisGeNet	
+ALB	C0006142	Breast-ovarian cancer, familial 1	DisGeNet	
+INSR	C0006142	Breast-ovarian cancer, familial 1	DisGeNet	
+ALB	C0006625	Cachexia	DisGeNet	
+INSR	C0006625	Cachexia	HumPhenOnt	
+ALB	C0009402	Colorectal cancer 1	DisGeNet	
+INSR	C0009402	Colorectal cancer 1	DisGeNet	
+ALB	C0009812	Constitutional symptom	HumPhenOnt	
+INSR	C0009812	Constitutional symptom	HumPhenOnt	
+ALB	C0010054	Coronary heart disease 7	DisGeNet	
+INSR	C0010054	Coronary heart disease 7	DisGeNet	
+ALB	C0011849	Diabetes Mellitus, Type 1	DisGeNet	
+INSR	C0011849	Diabetes Mellitus, Type 1	DisGeNet,HumPhenOnt	
+ALB	C0011854	Diabetes mellitus type 1	DisGeNet	
+INSR	C0011854	Diabetes mellitus type 1	DisGeNet	
+ALB	C0011860	Diabetes mellitus type 2	DisGeNet	
+INSR	C0011860	Diabetes mellitus type 2	DisGeNet,HumPhenOnt	
+ALB	C0011881	Diabetic Nephropathies	DisGeNet	
+INSR	C0011881	Diabetic Nephropathies	DisGeNet	
+ALB	C0011882	Type 1 diabetic neuropathy	DisGeNet	
+INSR	C0011882	Type 1 diabetic neuropathy	DisGeNet	
+ALB	C0011884	Diabetic Retinopathy	DisGeNet	
+INSR	C0011884	Diabetic Retinopathy	PheGenI	
+ALB	C0015672	Fatigue	DisGeNet,HumPhenOnt	
+INSR	C0015672	Fatigue	HumPhenOnt	
+ALB	C0015695	Hepatic steatosis	DisGeNet	
+INSR	C0015695	Hepatic steatosis	DisGeNet	
+ALB	C0020456	Hyperglycemia	DisGeNet	
+INSR	C0020456	Hyperglycemia	DisGeNet,HumPhenOnt	
+ALB	C0020459	Hyperinsulinemia	DisGeNet	
+INSR	C0020459	Hyperinsulinemia	DisGeNet,HumPhenOnt	
+ALB	C0020473	Hyperlipidemia, combined, 1	DisGeNet,HumPhenOnt	
+INSR	C0020473	Hyperlipidemia, combined, 1	DisGeNet	
+ALB	C0020538	Hypertension	DisGeNet	
+INSR	C0020538	Hypertension	DisGeNet	
+ALB	C0022658	Kidney Diseases	DisGeNet	
+INSR	C0022658	Kidney Diseases	DisGeNet	
+ALB	C0022661	Kidney Failure, Chronic	DisGeNet	
+INSR	C0022661	Kidney Failure, Chronic	DisGeNet	
+ALB	C0023787	Lipoatrophy	HumPhenOnt	
+INSR	C0023787	Lipoatrophy	DisGeNet,HumPhenOnt	
+ALB	C0023895	Liver Diseases	DisGeNet	
+INSR	C0023895	Liver Diseases	DisGeNet	
+ALB	C0023903	Neoplasm of the liver	DisGeNet	
+INSR	C0023903	Neoplasm of the liver	DisGeNet	
+ALB	C0026848	Myopathy, scapulohumeroperoneal	DisGeNet	
+INSR	C0026848	Myopathy, scapulohumeroperoneal	DisGeNet	
+ALB	C0027627	Secondary hypertriglyceridemia	DisGeNet	
+INSR	C0027627	Secondary hypertriglyceridemia	DisGeNet	
+ALB	C0028754	Obesity	DisGeNet	
+INSR	C0028754	Obesity	DisGeNet	
+ALB	C0032002	Abnormality of the pituitary gland	DisGeNet	
+INSR	C0032002	Abnormality of the pituitary gland	HumPhenOnt	
+ALB	C0032460	Polycystic Ovary Syndrome	DisGeNet	
+INSR	C0032460	Polycystic Ovary Syndrome	DisGeNet,HumPhenOnt	
+ALB	C0033687	Proteinuria, low molecular weight, with hypercalciuria and nephrocalcinosis	DisGeNet	
+INSR	C0033687	Proteinuria, low molecular weight, with hypercalciuria and nephrocalcinosis	HumPhenOnt	
+ALB	C0036572	Seizures, Febrile	DisGeNet	
+INSR	C0036572	Seizures, Febrile	HumPhenOnt	
+ALB	C0040128	Thyroid Diseases	DisGeNet	
+INSR	C0040128	Thyroid Diseases	HumPhenOnt	
+ALB	C0085207	Maternal diabetes	DisGeNet	
+INSR	C0085207	Maternal diabetes	DisGeNet	
+ALB	C0085580	Essential hypertension	DisGeNet	
+INSR	C0085580	Essential hypertension	DisGeNet	
+ALB	C0206624	Hepatoblastoma	DisGeNet	
+INSR	C0206624	Hepatoblastoma	DisGeNet	
+ALB	C0235833	Congenital diaphragmatic hernia	DisGeNet	
+INSR	C0235833	Congenital diaphragmatic hernia	DisGeNet	
+ALB	C0239946	Hepatic fibrosis	DisGeNet	
+INSR	C0239946	Hepatic fibrosis	HumPhenOnt	
+ALB	C0242379	Malignant neoplasm of lung	DisGeNet	
+INSR	C0242379	Malignant neoplasm of lung	DisGeNet	
+ALB	C0271650	Glucose intolerance	DisGeNet	
+INSR	C0271650	Glucose intolerance	DisGeNet	
+ALB	C0333186	Restenosis	DisGeNet	
+INSR	C0333186	Restenosis	DisGeNet	
+ALB	C0338656	Cognitive Dysfunction	DisGeNet	
+INSR	C0338656	Cognitive Dysfunction	DisGeNet,HumPhenOnt	
+ALB	C0342276	Maturity-onset diabetes of the young, type 11	DisGeNet	
+INSR	C0342276	Maturity-onset diabetes of the young, type 11	DisGeNet	
+ALB	C0403447	Chronic Kidney Insufficiency	DisGeNet	
+INSR	C0403447	Chronic Kidney Insufficiency	DisGeNet	
+ALB	C0441748	Autosomal recessive inheritance	HumPhenOnt	
+INSR	C0441748	Autosomal recessive inheritance	HumPhenOnt	
+ALB	C0524620	Metabolic Syndrome X	DisGeNet	
+INSR	C0524620	Metabolic Syndrome X	DisGeNet	
+ALB	C0596263	Carcinogenesis	DisGeNet	
+INSR	C0596263	Carcinogenesis	DisGeNet	
+ALB	C0677886	Ovarian epithelial cancer	DisGeNet	
+INSR	C0677886	Ovarian epithelial cancer	DisGeNet	
+ALB	C0678222	Breast carcinoma	DisGeNet	
+INSR	C0678222	Breast carcinoma	DisGeNet	
+ALB	C0684249	Lung cancer	DisGeNet	
+INSR	C0684249	Lung cancer	DisGeNet	
+ALB	C1140680	BREAST-OVARIAN CANCER, FAMILIAL, SUSCEPTIBILITY TO, 4	DisGeNet	
+INSR	C1140680	BREAST-OVARIAN CANCER, FAMILIAL, SUSCEPTIBILITY TO, 4	DisGeNet	
+ALB	C1527249	Colorectal cancer	DisGeNet	
+INSR	C1527249	Colorectal cancer	DisGeNet	
+ALB	C1561643	Chronic kidney disease	DisGeNet	
+INSR	C1561643	Chronic kidney disease	DisGeNet	
+ALB	C1956346	Coronary Artery Disease	DisGeNet	
+INSR	C1956346	Coronary Artery Disease	DisGeNet	
+ALB	C2239176	Hepatocellular carcinoma	DisGeNet	
+INSR	C2239176	Hepatocellular carcinoma	DisGeNet	
+ALB	C4021524	Abnormality of adipose tissue	HumPhenOnt	
+INSR	C4021524	Abnormality of adipose tissue	HumPhenOnt	
+ALB	C4021768	Abnormality of metabolism/homeostasis	HumPhenOnt	
+INSR	C4021768	Abnormality of metabolism/homeostasis	HumPhenOnt	
+ALB	C4021790	Abnormality of the skeletal system	HumPhenOnt	
+INSR	C4021790	Abnormality of the skeletal system	HumPhenOnt	
+ALB	C4023165	Abnormality of skeletal morphology	HumPhenOnt	
+INSR	C4023165	Abnormality of skeletal morphology	HumPhenOnt	
+ALB	C4025596	Abnormality of connective tissue	HumPhenOnt	
+INSR	C4025596	Abnormality of connective tissue	HumPhenOnt	
+INSR	C0011880	Diabetic ketoacidosis	HumPhenOnt	
+INSR	C0221032	Berardinelli-Seip congenital lipodystrophy	DisGeNet	
+ALB	C0346402	Malignant neoplasm of adrenal cortex	DisGeNet	
+ALB	C0014867	Esophageal varix	DisGeNet	
+ALB	C0451641	Urolithiasis	DisGeNet	
+INSR	C0543442	Decreased adipose tissue	HumPhenOnt	
+INSR	C4023047	Abnormality of endocrine pancreas physiology	HumPhenOnt	
+ALB	C0013502	Echinococcosis	DisGeNet	
+ALB	C0339467	Proliferative retinopathy	DisGeNet	
+ALB	C3714796	Isolated somatotropin deficiency	DisGeNet	
+ALB	C0038586	Substance Use Disorders	DisGeNet	
+ALB	C0751781	Dentatorubral pallidoluysian atrophy	DisGeNet	
+ALB	C0002985	Angiokeratoma	DisGeNet	
+ALB	C0013338	Isolated growth hormone deficiency type 1B	DisGeNet	
+INSR	C0854110	Insulin-resistant diabetes mellitus AND acanthosis nigricans	ClinVar,DisGeNet,HumPhenOnt	
+ALB	C0031039	Pericardial effusion	DisGeNet	
+INSR	C4024878	Generalized hyperpigmentation	HumPhenOnt	
+ALB	C0026780	Mumps	DisGeNet	
+ALB	C0035457	Rhinitis, Allergic, Perennial	DisGeNet	
+ALB	C0342200	Endemic Cretinism	DisGeNet	
+ALB	C0206734	Hemangioblastoma	DisGeNet	
+ALB	C0017662	Mesangiocapillary glomerulonephritis, type II	DisGeNet	
+ALB	C0027719	Nephrosclerosis	DisGeNet	
+ALB	C0235025	Peripheral motor neuropathy	DisGeNet	
+ALB	C0745744	End Stage Liver Disease	DisGeNet	
+ALB	C4023036	Abnormal albumin level	HumPhenOnt	
+ALB	C0007121	Bronchogenic Carcinoma	DisGeNet	
+INSR	C0085109	Corneal neovascularization	DisGeNet	
+INSR	C0000889	Acanthosis nigricans	DisGeNet,HumPhenOnt	
+ALB	C0010051	Coronary artery aneurysm	DisGeNet	
+ALB	C0020476	Hyperlipoproteinemia	DisGeNet	
+ALB	C0745103	Hyperlipoproteinemia Type IIa	DisGeNet	
+ALB	C0027707	Tubulointerstitial nephritis	DisGeNet	
+INSR	C0277959	Coarse hair	HumPhenOnt	
+ALB	C1298180	Single tumor	DisGeNet	
+ALB	C1704321	Nephrotic Syndrome, Minimal Change	DisGeNet	
+ALB	C0740380	Varicella zoster	DisGeNet	
+ALB	C1260959	Drusen	DisGeNet	
+INSR	C1836940	Thickened nuchal skin fold	HumPhenOnt	
+INSR	C4280695	Increased size of the clitoris	HumPhenOnt	
+INSR	C4280696	Abnormal size of the clitoris	HumPhenOnt	
+ALB	C3714619	Insulin resistance syndrome	DisGeNet	
+INSR	C1266184	Atypical teratoid/rhabdoid tumor	DisGeNet	
+INSR	C0156394	Clitoral hypertrophy	HumPhenOnt	
+ALB	C0027720	Nephrosis	DisGeNet	
+INSR	C0545053	Accelerated skeletal maturation	HumPhenOnt	
+ALB	C0018378	Guillain-Barre syndrome, familial	DisGeNet	
+ALB	C0221002	Primary hyperparathyroidism	DisGeNet	
+ALB	C1096063	Drug Resistant Epilepsy	DisGeNet	
+ALB	C0035242	Respiratory Tract Diseases	DisGeNet	
+ALB	C0086981	Sicca Syndrome	DisGeNet	
+ALB	C0239981	Hypoalbuminemia	DisGeNet,HumPhenOnt	
+INSR	C0022638	Ketoacidosis	DisGeNet,HumPhenOnt	
+ALB	C0030286	Neurologic, endocrine, and pancreatic disease, multisystem, infantile-onset	DisGeNet	
+INSR	C0238394	Female pseudohermaphroditism	HumPhenOnt	
+INSR	C0014522	EPIDERMODYSPLASIA VERRUCIFORMIS	DisGeNet	
+INSR	C4023366	Fetal ultrasound soft marker	HumPhenOnt	
+INSR	C1842774	Hypermelanotic macule	HumPhenOnt	
+ALB	C0010308	Congenital hypothyroidism	DisGeNet	
+ALB	C0041755	Adverse drug events and drug allergies	DisGeNet	
+INSR	C0018889	Helminthiasis	DisGeNet	
+INSR	C1837404	High, narrow palate	HumPhenOnt	
+INSR	C0020506	Hyperpituitarism	HumPhenOnt	
+ALB	C0019061	Hemolytic uremic syndrome	DisGeNet	
+ALB	C0028797	Occupational Diseases	DisGeNet	
+INSR	C0206081	 Hyperandrogenism, nonclassic type, due to 21-hydroxylase deficiency, 201910 (3)	DisGeNet	
+ALB	C0730345	Microalbuminuria	DisGeNet	
+INSR	C0001206	Acromegaly	DisGeNet	
+ALB	C0008031	Chest pain	DisGeNet	
+ALB	C0042749	 {HIV-1 viremia, susceptibility to}, 609423 (3)	DisGeNet	
+ALB	C0242488	Acute Lung Injury	DisGeNet	
+INSR	C4025893	Abnormality of the clitoris	HumPhenOnt	
+INSR	C4022392	Early onset of sexual maturation	HumPhenOnt	
+INSR	C0282577	Congenital disorder of glycosylation	DisGeNet	
+ALB	C0342257	Complications of Diabetes Mellitus	DisGeNet	
+INSR	C0376480	Gingival overgrowth	HumPhenOnt	
+INSR	C1855538	Small face	HumPhenOnt	
+INSR	C0000731	Abdominal distention	HumPhenOnt	
+ALB	C0034063	Pulmonary edema	DisGeNet	
+INSR	C0154723	Migraine with aura	DisGeNet	
+ALB	C0038325	Stevens-Johnson Syndrome	DisGeNet	
+INSR	C0151811	Subcutaneous nodule	HumPhenOnt	
+ALB	C0024291	Lymphohistiocytosis, Hemophagocytic	DisGeNet	
+ALB	C0021079	IMMUNE SUPPRESSION	DisGeNet	
+ALB	C0011269	Dementia, Vascular	DisGeNet	
+ALB	C0017665	Membranous nephropathy, susceptibility to	DisGeNet	
+ALB	C0012236	DiGeorge sequence	DisGeNet	
+ALB	C1318485	Liver regeneration disorder	DisGeNet	
+ALB	C0011875	Diabetic Angiopathies	DisGeNet	
+ALB	C0032131	Plasmacytoma	DisGeNet	
+INSR	C1398312	Narrow palate	HumPhenOnt	
+ALB	C0152025	Polyneuropathy, hearing loss, ataxia, retinitis pigmentosa, and cataract	DisGeNet	
+INSR	C1839739	Thick lower lip vermilion	HumPhenOnt	
+INSR	C0235991	Small for gestational age	HumPhenOnt	
+INSR	C0037287	Skin nodule	HumPhenOnt	
+INSR	C0009421	Coma	HumPhenOnt	
+INSR	C0518010	body mass	DisGeNet	
+ALB	C0020474	Hyperlipidemia, familial combined	DisGeNet	
+INSR	C0024433	Wide mouth	HumPhenOnt	
+INSR	C1849211	Generalized hirsutism	HumPhenOnt	
+ALB	C3887486	Interstitial fibrosis	DisGeNet	
+INSR	C0332573	Macule	HumPhenOnt	
+ALB	C0018995	Hemochromatosis	DisGeNet	
+INSR	C1857656	Prematurely aged appearance	HumPhenOnt	
+ALB	C0013146	Methamphetamine abuse	DisGeNet	
+INSR	C0018418	Gynecomastia	HumPhenOnt	
+ALB	C0019069	Hereditary factor VIII deficiency disease	DisGeNet	
+INSR	C0854917	Rhabdoid Tumor of the Kidney	DisGeNet	
+INSR	C0023485	Precursor B-Cell Lymphoblastic Leukemia-Lymphoma	DisGeNet	
+INSR	C1859778	Postnatal growth retardation	HumPhenOnt	
+INSR	C2931852	Clear-cell metastatic renal cell carcinoma	DisGeNet	
+ALB	C0178664	Glomerulosclerosis, Focal Segmental	DisGeNet	
+INSR	C0399526	Mandibular prognathia	HumPhenOnt	
+ALB	C1658953	tumor vasculature	DisGeNet	
+INSR	C0151908	Dry skin	HumPhenOnt	
+INSR	C4021822	Abnormality of female external genitalia	HumPhenOnt	
+INSR	C0020555	Hypertrichosis	HumPhenOnt	
+INSR	C4023048	Abnormality of pancreas physiology	HumPhenOnt	
+INSR	C0029927	Ovarian cyst	HumPhenOnt	
+INSR	C1860236	Irregular hyperpigmentation	HumPhenOnt	
+INSR	C3279947	Nail dysplasia	HumPhenOnt	
+INSR	C0034013	Precocious puberty	HumPhenOnt	
+ALB	C0017668	Focal segmental glomerulosclerosis	DisGeNet	
+ALB	C0162429	Malnutrition	DisGeNet	
+INSR	C1836543	Thick vermilion border	HumPhenOnt	
+INSR	C1859363	Abnormality of dental eruption	HumPhenOnt	
+INSR	C0013264	Duchenne muscular dystrophy	DisGeNet	
+INSR	C4073160	Abnormal insulin level	HumPhenOnt	
+INSR	C4073161	Abnormal circulating insulin level	HumPhenOnt	
+ALB	C0042109	Urticaria	DisGeNet	
+INSR	C3839073	Abnormal nipple morphology	HumPhenOnt	
+INSR	C4023722	Abnormality of hair texture	HumPhenOnt	
+INSR	C0152421	Macrotia	HumPhenOnt	
+ALB	C0398623	Thrombophilia	DisGeNet	
+INSR	C0002726	Amyloidosis	DisGeNet	
+ALB	C0020649	Hypotension	DisGeNet,HumPhenOnt	
+INSR	C4021816	Abnormality of the gingiva	HumPhenOnt	
+INSR	C0028756	Obesity, severe, 601665 (3)	DisGeNet	
+INSR	C0752347	Lewy Body Disease	DisGeNet	
+ALB	C0034065	Pulmonary Embolism	DisGeNet	
+ALB	C0003123	Anorexia	DisGeNet	
+ALB	C0162557	Acute hepatic failure	DisGeNet	
+INSR	C1845847	Coarse facial features	HumPhenOnt	
+ALB	C0035222	Respiratory Distress Syndrome, Adult	DisGeNet	
+ALB	C0275524	Coinfection	DisGeNet	
+ALB	C0341439	Chronic liver disease	DisGeNet	
+INSR	C0410226	Congenital Myotonic Dystrophy	DisGeNet	
+ALB	C0042164	Uveitis	DisGeNet	
+INSR	C0019572	Hirsutism	HumPhenOnt	
+INSR	C0021670	Insulinoma	DisGeNet	
+INSR	C0153633	Malignant neoplasm of brain and nervous system	DisGeNet	
+INSR	C3241937	Nonalcoholic Steatohepatitis	DisGeNet	
+ALB	C0268731	Glomerulopathy	DisGeNet	
+INSR	C0027126	Steinert myotonic dystrophy syndrome	DisGeNet	
+ALB	C0206686	Adrenocortical carcinoma	DisGeNet	
+INSR	C4025883	Abnormality of lower lip	HumPhenOnt	
+ALB	C0001925	Albuminuria	DisGeNet	
+INSR	C4023597	Abnormality of blood glucose concentration	HumPhenOnt	
+INSR	C4025864	Abnormality of the chin	HumPhenOnt	
+INSR	C0015300	Proptosis	HumPhenOnt	
+INSR	C0236969	Substance-Related Disorders	DisGeNet	
+INSR	C4021818	Abnormality of the ovary	HumPhenOnt	
+ALB	C4025650	Abnormality of lipid metabolism	HumPhenOnt	
+INSR	C0019294	Inguinal hernia	HumPhenOnt	
+ALB	C0005779	Bleeding disorder, platelet-type, 21	DisGeNet	
+INSR	C0020429	Hyperalgesia	DisGeNet	
+INSR	C0162834	Hyperpigmentation of the skin	HumPhenOnt	
+ALB	C0022548	Keloid	DisGeNet	
+ALB	C0027697	Nephritis	DisGeNet	
+INSR	C1849338	Abnormality of the umbilicus	HumPhenOnt	
+INSR	C1857486	Low-set, posteriorly rotated ears	HumPhenOnt	
+ALB	C1559271	Non-Malignant Ascites Adverse Event	DisGeNet	
+INSR	C4023206	Abnormality of the anterior pituitary	HumPhenOnt	
+ALB	C0020445	Familial hypercholesterolemia	DisGeNet	
+INSR	C0595989	Laryngeal carcinoma	DisGeNet	
+INSR	C0019322	Umbilical hernia	HumPhenOnt	
+ALB	C0020517	Hypersensitivity	DisGeNet	
+INSR	C0034012	Delayed puberty	HumPhenOnt	
+INSR	C4023170	Abnormality of oral mucosa	HumPhenOnt	
+ALB	C0016059	Fibrosis	DisGeNet	
+INSR	C0014556	Epilepsy, Temporal Lobe	DisGeNet	
+INSR	C0041341	Tuberous sclerosis syndrome	DisGeNet	
+ALB	C0006111	Brain Diseases	DisGeNet	
+ALB	C0027055	Myocardial Reperfusion Injury	DisGeNet	
+ALB	C0019189	Chronic hepatitis	DisGeNet	
+ALB	C0021053	Immune dysfunction with T-cell inactivation due to calcium entry defect 1	DisGeNet	
+ALB	C0860207	Drug-Induced Liver Injury	DisGeNet	
+ALB	C0026691	Mucocutaneous Lymph Node Syndrome	DisGeNet	
+INSR	C4023408	Abnormality of mouth size	HumPhenOnt	
+INSR	C0006413	Burkitt lymphoma	DisGeNet	
+INSR	C4025109	Abnormal hand morphology	HumPhenOnt	
+ALB	C0020443	Hypercholesterolemia, autosomal dominant, type B	DisGeNet	
+INSR	C4025751	Abnormality of the pancreas	HumPhenOnt	
+INSR	C0234428	Reduced consciousness/confusion	HumPhenOnt	
+INSR	C0497406	Overweight	DisGeNet	
+ALB	C0011389	Plaque, Atherosclerotic	DisGeNet	
+ALB	C0002793	Anaplasia	DisGeNet	
+INSR	C0541764	Delayed skeletal maturation	HumPhenOnt	
+ALB	C2316810	Stage 5 chronic kidney disease	DisGeNet	
+INSR	C0029928	Ovarian Diseases	DisGeNet	
+INSR	C0742257	Abnormal breast morphology	HumPhenOnt	
+ALB	C0338106	Adenocarcinoma of colon	DisGeNet	
+INSR	C4025829	Abnormality of the breast	HumPhenOnt	
+INSR	C0940767	Abnormality of the biliary system	HumPhenOnt	
+INSR	C0431478	Posteriorly rotated ears	HumPhenOnt	
+INSR	C0019409	Heterogeneous	HumPhenOnt	
+INSR	C0221357	Brachydactyly, type a1, d	HumPhenOnt	
+ALB	C0205851	Germ cell neoplasia	DisGeNet	
+INSR	C4025819	Abnormality of the hypothalamus-pituitary axis	HumPhenOnt	
+ALB	C0040034	Thrombocytopenia, platelet dysfunction, hemolysis, and imbalanced globin synthesis	DisGeNet	
+ALB	C0036202	Sarcoidosis	DisGeNet	
+INSR	C1302401	Adenoma of large intestine	DisGeNet	
+INSR	C0870082	Hyperkeratosis	HumPhenOnt	
+ALB	C0333463	Senile plaques	DisGeNet	
+ALB	C0085584	Encephalopathy, acute, infection-induced, 4, susceptibility to	DisGeNet	
+INSR	C4025652	Abnormality of circulating hormone level	HumPhenOnt	
+ALB	C0008312	Primary biliary cirrhosis	DisGeNet	
+ALB	C0027726	Nephrotic syndrome, type 5, with or without ocular abnormalities	DisGeNet	
+INSR	C0206180	Anaplastic large cell lymphoma, ALK negative	DisGeNet	
+INSR	C0020615	Hypoglycemia, neonatal, simulating foetopathia diabetica	DisGeNet,HumPhenOnt	
+ALB	C0442874	Neuropathy ataxia retinitis pigmentosa syndrome	DisGeNet	
+ALB	C0017658	Glomerulonephritis, Membranous	DisGeNet	
+INSR	C0553580	Ewing's sarcoma	DisGeNet	
+INSR	C4025818	Abnormality of skeletal maturation	HumPhenOnt	
+ALB	C0022660	Acute kidney injury	DisGeNet	
+ALB	C0524909	Hepatitis B, Chronic	DisGeNet	
+INSR	C1836542	Depressed nasal bridge	HumPhenOnt	
+ALB	C4023679	Abnormality of circulating protein level	HumPhenOnt	
+ALB	C0030305	Pancreatitis	DisGeNet	
+INSR	C0008497	Choriocarcinoma	DisGeNet	
+INSR	C1442978	Hernia of the abdominal wall	HumPhenOnt	
+INSR	C0001118	Abnormality of acid-base homeostasis	HumPhenOnt	
+INSR	C0238577	Abdominal wall defect	HumPhenOnt	
+INSR	C0001122	Acidosis	HumPhenOnt	
+INSR	C2674608	Feeding difficulties in infancy	HumPhenOnt	
+INSR	C0853087	Abnormality of the nail	HumPhenOnt	
+ALB	C0005826	Abnormal systemic blood pressure	HumPhenOnt	
+ALB	C0011265	Dementia familial British	DisGeNet	
+ALB	C0035126	Reperfusion Injury	DisGeNet	
+INSR	C0494876	Epidermal thickening	HumPhenOnt	
+INSR	C0026850	Muscular dystrophy-dystroglycanopathy (congenital with brain and eye anomalies), type a, 11	DisGeNet	
+ALB	C0018133	Graft-versus-host disease, susceptibility to	DisGeNet	
+INSR	C0400966	Non-alcoholic Fatty Liver Disease	DisGeNet	
+INSR	C3806482	Recurrent respiratory infections	HumPhenOnt	
+ALB	C0020179	Huntington's chorea	DisGeNet	
+ALB	C0948089	Acute Coronary Syndrome	DisGeNet	
+INSR	C4023124	Short digit	HumPhenOnt	
+INSR	C4021664	Abnormality of the abdominal wall	HumPhenOnt	
+INSR	C0008370	Cholestasis, benign recurrent intrahepatic 1	HumPhenOnt	
+ALB	C0031099	Periodontitis	DisGeNet	
+INSR	C0021655	Insulin Resistance	DisGeNet,HumPhenOnt	
+INSR	C0149931	Migraine Disorders	DisGeNet	
+INSR	C0241165	Thickened skin	HumPhenOnt	
+ALB	C2674432	Reduced bone mineral density	HumPhenOnt	
+ALB	C0238198	Gastrointestinal stromal tumor	DisGeNet	
+INSR	C0020676	Hypothyroidism	DisGeNet	
+ALB	C1800706	Idiopathic Pulmonary Fibrosis	DisGeNet	
+ALB	C0278488	Carcinoma breast stage IV	DisGeNet	
+INSR	C1260926	Abnormality of skin pigmentation	HumPhenOnt	
+INSR	C0240635	High palate	HumPhenOnt	
+INSR	C0019270	Hernia	HumPhenOnt	
+ALB	C0035078	Renal Insufficiency, Chronic	DisGeNet	
+INSR	C0541794	Skeletal muscle atrophy	HumPhenOnt	
+INSR	C0032914	Preeclampsia/eclampsia 1	DisGeNet	
+ALB	C0019159	Hepatitis	DisGeNet	
+INSR	C0024115	Pulmonary Disease, Chronic Obstructive	DisGeNet	
+ALB	C0238339	Hereditary pancreatitis	DisGeNet	
+INSR	C0015934	Intrauterine growth retardation	HumPhenOnt	
+INSR	C0035412	Rhabdomyosarcoma alveolar	DisGeNet	
+INSR	C0266623	Abnormality of the neck	HumPhenOnt	
+INSR	C1292769	B Acute Lymphoblastic Leukemia with t(9;22)(q34;q11.2); BCR-ABL1	DisGeNet	
+ALB	C0018799	Heart Diseases	DisGeNet	
+ALB	C0014072	Experimental Autoimmune Encephalomyelitis	DisGeNet	
+ALB	C0024301	Lymphoma, Follicular	DisGeNet	
+INSR	C4021804	Abnormality of the nasal alae	HumPhenOnt	
+INSR	C0025517	Disorders of Intracellular Cobalamin Metabolism	DisGeNet	
+INSR	C4023397	Abnormal hair quantity	HumPhenOnt	
+ALB	C4021657	Abnormality of bone mineral density	HumPhenOnt	
+INSR	C4025900	Abnormality of female internal genitalia	HumPhenOnt	
+ALB	C0206698	Cholangiocarcinoma	DisGeNet	
+INSR	C0239234	Low-set ears	HumPhenOnt	
+INSR	C0006826	Cancer of the lower GI tract	DisGeNet	
+INSR	C0035243	Respiratory tract infection	HumPhenOnt	
+INSR	C4025655	Abnormality of urine homeostasis	HumPhenOnt	
+ALB	C0042373	Vascular Diseases	DisGeNet	
+ALB	C0007786	Brain Ischemia	DisGeNet	
+ALB	C0242383	Age-related macular degeneration 2	DisGeNet	
+INSR	C0857379	Abnormality of the pinna	HumPhenOnt	
+INSR	C4025824	Abnormal internal genitalia	HumPhenOnt	
+INSR	C4021810	Abnormal location of ears	HumPhenOnt	
+ALB	C0035309	Retinopathy	DisGeNet	
+INSR	C0007570	Celiac Disease	DisGeNet	
+INSR	C4023164	Abnormality of skeletal physiology	HumPhenOnt	
+INSR	C4023598	Abnormal glucose homeostasis	HumPhenOnt	
+INSR	C0039082	C-like syndrome	DisGeNet	
+INSR	C0020534	Hypertelorism	HumPhenOnt	
+INSR	C1272641	Systemic arterial pressure	DisGeNet	
+INSR	C4023820	Abnormality of the female genitalia	HumPhenOnt	
+INSR	C0232466	Feeding difficulties	HumPhenOnt	
+INSR	C0032927	Precancerous Conditions	DisGeNet	
+ALB	C0524910	Hepatitis C, Chronic	DisGeNet	
+ALB	C1709246	Non-Neoplastic Disorder	DisGeNet	
+INSR	C4025896	Abnormality of the penis	HumPhenOnt	
+INSR	C0241052	Abnormality of skeletal muscles	HumPhenOnt	
+ALB	C1512409	Hepatocarcinogenesis	DisGeNet	
+ALB	C4023161	Abnormal bone ossification	HumPhenOnt	
+ALB	C0013595	Eczema	DisGeNet	
+INSR	C4022563	Abnormality of muscle size	HumPhenOnt	
+ALB	C0497327	Dementia	DisGeNet	
+ALB	C0151744	Acute myocardial ischemia	DisGeNet	
+INSR	C0034011	Puberty and gonadal disorders	HumPhenOnt	
+INSR	C4023599	Abnormality of carbohydrate metabolism/homeostasis	HumPhenOnt	
+ALB	C0021400	Influenza	DisGeNet	
+ALB	C0221287	Combined Hepatocellular Carcinoma and Cholangiocarcinoma	DisGeNet	
+INSR	C0007103	Malignant neoplasm of endometrium	DisGeNet	
+INSR	C0153574	Uterine Corpus Cancer	DisGeNet	
+INSR	C0239998	Infections, recurrent, with encephalopathy, hepatic dysfunction, and cardiovascular malformations	HumPhenOnt	
+ALB	C0019348	Herpes Simplex Infections	DisGeNet	
+INSR	C0850826	Localized skin lesion	HumPhenOnt	
+ALB	C4025630	Abnormal bone structure	HumPhenOnt	
+ALB	C0008626	Congenital chromosomal disease	DisGeNet	
+ALB	C0011581	Depressive Disorder	DisGeNet	
+ALB	C0085110	Severe combined immunodeficiency due to ADA deficiency	DisGeNet	
+INSR	C4023638	Abnormality of the external nose	HumPhenOnt	
+INSR	C0424503	Abnormal facial shape	HumPhenOnt	
+INSR	C4025870	Abnormality of the mandible	HumPhenOnt	
+ALB	C0011615	Dermatitis, Atopic	DisGeNet	
+ALB	C0021051	Immunodeficiency due to defect in CD3-gamma	DisGeNet	
+INSR	C0040427	Abnormality of dental morphology	HumPhenOnt	
+INSR	C4021946	Abnormality of globe location	HumPhenOnt	
+INSR	C4025831	Abnormal peripheral nervous system morphology	HumPhenOnt	
+INSR	C4280767	Abnormal jaw morphology	HumPhenOnt	
+INSR	C4021805	Abnormality of the nasal bridge	HumPhenOnt	
+INSR	C4021815	Abnormality of the palate	HumPhenOnt	
+INSR	C2183966	Abnormality of the lip	HumPhenOnt	
+ALB	C0345904	Hepatic cancer metastatic	DisGeNet	
+INSR	C0153676	Secondary malignant neoplasm of lung	DisGeNet	
+INSR	C0015544	Failure to thrive	HumPhenOnt	
+INSR	C0266423	Abnormality of the testis	HumPhenOnt	
+ALB	C0002871	Anemia	DisGeNet	
+ALB	C0030193	Pain	DisGeNet	
+INSR	C0010417	Cryptorchidism	HumPhenOnt	
+ALB	C0029456	Osteoporosis	HumPhenOnt	
+INSR	C0021368	Inflammation	DisGeNet	
+ALB	C0022116	Ischemia	DisGeNet	
+INSR	C0424688	Decreased head circumference	HumPhenOnt	
+INSR	C4021760	Abnormality of lung morphology	HumPhenOnt	
+INSR	C4023437	Abnormality of the urinary system physiology	HumPhenOnt	
+ALB	C0006118	Brain neoplasm	DisGeNet	
+ALB	C0014544	Epilepsy	DisGeNet	
+INSR	C0000768	EMG: myopathic abnormalities	DisGeNet	
+INSR	C1846460	Abnormality of the outer ear	HumPhenOnt	

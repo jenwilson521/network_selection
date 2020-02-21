@@ -1,0 +1,89 @@
+node_name	node_type	
+DB00434	drug	
+CHRM3	drug_target	
+CHRM2	drug_target	
+CHRM1	drug_target	
+HTR7	drug_target	
+HTR2A	drug_target	
+HTR2C	drug_target	
+HRH1	drug_target	
+UGT1A3	drug_target	
+Recurrent major depressive episodes	phenotype	
+Bulimia	phenotype	
+Alcohol abuse	phenotype	
+Chronic Fatigue Syndrome	phenotype	
+MAJOR AFFECTIVE DISORDER 4	phenotype	
+MAJOR AFFECTIVE DISORDER 5	phenotype	
+MAJOR AFFECTIVE DISORDER 6	phenotype	
+Major affective disorder 7	phenotype	
+MAJOR AFFECTIVE DISORDER 8	phenotype	
+MAJOR AFFECTIVE DISORDER 9	phenotype	
+Sleep Wake Disorders	phenotype	
+Anorexia nervosa 1	phenotype	
+Puerperal Disorders	phenotype	
+Seasonal Affective Disorder	phenotype	
+Chronic schizophrenia	phenotype	
+Mood Disorders	phenotype	
+Bulimia nervosa 1	phenotype	
+Weight Gain Adverse Event	phenotype	
+Dyskinesia, Drug-Induced	phenotype	
+Cocaine Dependence	phenotype	
+Abnormality of the basal ganglia	phenotype	
+CNS symptom	phenotype	
+Mental disorders	phenotype	
+As If Personality	phenotype	
+Tardive Dyskinesia	phenotype	
+Bipolar I disorder	phenotype	
+Drug Dependence	phenotype	
+Orofacial dyskinesia	phenotype	
+Eating disorder	phenotype	
+Migraine with aura	phenotype	
+Substance addiction and disorders	phenotype	
+Substance Withdrawal Syndrome	phenotype	
+Agitation	phenotype	
+Depressive Disorder	phenotype	
+{Unipolar depression, susceptibility to}, 608516 (3)	phenotype	
+body mass	phenotype	
+Dyskinesia, seizures, and intellectual developmental disorder	phenotype	
+Methamphetamine abuse	phenotype	
+Nicotine Dependence	phenotype	
+Migraine Disorders	phenotype	
+Alcohol dependence	phenotype	
+Depressive Symptoms	phenotype	
+Tourette Syndrome	phenotype	
+Fatigue	phenotype	
+Anorexia	phenotype	
+Anxiety Disorders	phenotype	
+Chronic sciatica	phenotype	
+Unipolar Depression	phenotype	
+Bladder neck obstruction	phenotype	
+Irritable bowel syndrome with diarrhea	phenotype	
+Bipolar affective disorder	phenotype	
+Generalized anxiety disorder	phenotype	
+Obstructive sleep apnea	phenotype	
+Substance Use Disorders	phenotype	
+Distal myopathy Markesbery-Griggs type	phenotype	
+Substance-Related Disorders	phenotype	
+Borderline Personality Disorder	phenotype	
+Pervasive developmental disorders	phenotype	
+Hyperalgesia	phenotype	
+ {Nicotine dependence, protection against}, 188890 (3)	phenotype	
+Antisocial Personality Disorder	phenotype	
+Acute postoperative pain	phenotype	
+Psychiatric symptom	phenotype	
+Spastic	phenotype	
+Epilepsy, Temporal Lobe	phenotype	
+Cycloid psychosis	phenotype	
+Major depressive disorder	phenotype	
+Acute disease of cardiovascular system	phenotype	
+Personality disorder	phenotype	
+Chronic colitis	phenotype	
+Neurobehavioral Manifestations	phenotype	
+Increased body weight	phenotype	
+Delusions	phenotype	
+Low back pain	phenotype	
+Insomnia	phenotype	
+Depression	phenotype	
+Substance abuse problem	phenotype	
+Hyperactivity	phenotype	
+Weight Loss Adverse Event	phenotype	

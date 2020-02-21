@@ -1,0 +1,4 @@
+node_name	node_type	
+DB00697	drug	
+CYP1A2	drug_target	
+NISCH	drug_target	

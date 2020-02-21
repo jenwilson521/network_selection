@@ -1,0 +1,9 @@
+node_name	node_type	
+DB00643	drug	
+CYP1A1	drug_target	
+CYP3A4	drug_target	
+TUBA1A	drug_target	
+TUBB4B	drug_target	
+Squamous Cell Neoplasms	phenotype	
+Neoplasms, Germ Cell and Embryonal	phenotype	
+Pharyngeal Neoplasms	phenotype	

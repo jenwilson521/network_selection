@@ -1,0 +1,40 @@
+node_name	node_type	
+DB00809	drug	
+CHRM4	drug_target	
+CHRM3	drug_target	
+CHRM2	drug_target	
+CHRM1	drug_target	
+Alcohol dependence	phenotype	
+Alzheimer Disease	phenotype	
+Hypoxia	phenotype	
+Asthma	phenotype	
+Mental disorders	phenotype	
+Bipolar affective disorder	phenotype	
+Cardiomyopathy, Dilated	phenotype	
+{Unipolar depression, susceptibility to}, 608516 (3)	phenotype	
+Depressive Disorder	phenotype	
+Diabetes Mellitus, Type 1	phenotype	
+Diabetes mellitus type 1	phenotype	
+Type 1 diabetic neuropathy	phenotype	
+Epilepsy	phenotype	
+Heart Diseases	phenotype	
+Inflammation	phenotype	
+Multiple Sclerosis	phenotype	
+Myocardial Infarction	phenotype	
+Epiphyseal dysplasia, multiple, with myopia and conductive deafness	phenotype	
+Nicotine Dependence	phenotype	
+Obesity	phenotype	
+Schizophrenia	phenotype	
+Substance addiction and disorders	phenotype	
+Tobacco Use Disorder	phenotype	
+Unipolar Depression	phenotype	
+Alcohol abuse	phenotype	
+Recurrent major depressive episodes	phenotype	
+Acute myocardial infarction	phenotype	
+Ventricular Fibrillation Adverse Event	phenotype	
+Substance-Related Disorders	phenotype	
+Familial dilated cardiomyopathy	phenotype	
+Bradycardia	phenotype	
+Mood Disorders	phenotype	
+Major depressive disorder	phenotype	
+Drug Dependence	phenotype	

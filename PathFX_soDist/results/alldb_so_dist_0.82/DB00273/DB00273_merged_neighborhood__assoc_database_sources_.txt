@@ -1,0 +1,31 @@
+Gene	CUI	Source Databases	
+CYP2C19	C0751122	Severe myoclonic epilepsy in infancy	DisGeNet	
+GABRA1	C0751122	Severe myoclonic epilepsy in infancy	DisGeNet	
+SCN1A	C0751122	Severe myoclonic epilepsy in infancy	ClinVar,DisGeNet	
+GABRA1	C0270850	Idiopathic generalized epilepsy	ClinVar,DisGeNet	
+GRIK1	C0270850	Idiopathic generalized epilepsy	DisGeNet	
+SCN1A	C0270850	Idiopathic generalized epilepsy	DisGeNet	
+CYP2C19	C0013182	Drug Allergy	DisGeNet	
+CYP3A4	C0013182	Drug Allergy	DisGeNet	
+GRIA1	C0013182	Drug Allergy	DisGeNet	
+CYP2C19	C0024620	Primary malignant neoplasm of liver	DisGeNet	
+CYP3A4	C0024620	Primary malignant neoplasm of liver	DisGeNet	
+GABRA1	C0014553	Absence seizures	DisGeNet,HumPhenOnt	
+GRIK1	C0014553	Absence seizures	DisGeNet	
+SCN1A	C0014553	Absence seizures	DisGeNet,HumPhenOnt	
+GABRA1	C0038220	Status epilepticus	HumPhenOnt	
+GRIA1	C0038220	Status epilepticus	DisGeNet	
+GRIK1	C0038220	Status epilepticus	DisGeNet	
+SCN1A	C0038220	Status epilepticus	DisGeNet,HumPhenOnt	
+GABRA1	C0019151	Hepatic encephalopathy	DisGeNet	
+GRIA1	C0019151	Hepatic encephalopathy	DisGeNet	
+CYP2C19	C1291314	21-hydroxylase deficiency	DisGeNet	
+CYP3A4	C1291314	21-hydroxylase deficiency	DisGeNet	
+GABRA1	C4023515	Dialeptic seizures	HumPhenOnt	
+SCN1A	C4023515	Dialeptic seizures	HumPhenOnt	
+GABRA1	C0270853	Juvenile myoclonic epilepsy	ClinVar,DisGeNet	
+SCN1A	C0270853	Juvenile myoclonic epilepsy	DisGeNet	
+CYP2C19	C1096063	Drug Resistant Epilepsy	DisGeNet	
+SCN1A	C1096063	Drug Resistant Epilepsy	DisGeNet	
+CYP2C19	C0014547	Epilepsy, focal, with speech disorder and with or without mental retardation	DisGeNet	
+SCN1A	C0014547	Epilepsy, focal, with speech disorder and with or without mental retardation	DisGeNet	

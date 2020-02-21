@@ -1,0 +1,5 @@
+node_name	node_type	
+DB01179	drug	
+TUBA4A	drug_target	
+TUBB	drug_target	
+TOP2A	drug_target	

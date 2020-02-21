@@ -1,0 +1,44 @@
+Gene	CUI	Source Databases	
+HNMT	C0001973	Alcohol dependence	DisGeNet	
+HNMT	C0004096	Asthma	ClinVar,DisGeNet	
+HNMT	C0006142	Breast-ovarian cancer, familial 1	DisGeNet	
+HNMT	C0006274	Bronchiolitis, Viral	DisGeNet	
+HNMT	C0009324	Ulcerative colitis	DisGeNet	
+HNMT	C0011053	Deafness, autosomal recessive 44	DisGeNet	
+HNMT	C0011615	Dermatitis, Atopic	DisGeNet	
+HNMT	C0011860	Diabetes mellitus type 2	DisGeNet	
+HNMT	C0013182	Drug Allergy	DisGeNet	
+HNMT	C0013295	Duodenal Ulcer	DisGeNet	
+HNMT	C0018772	Hearing Loss, Partial	DisGeNet	
+HNMT	C0020523	Immediate hypersensitivity	DisGeNet	
+HNMT	C0025362	Mental retardation 63, X-linked	ClinVar	
+HNMT	C0026650	Abnormality of movement	DisGeNet	
+HNMT	C0026769	Multiple Sclerosis	DisGeNet	
+HNMT	C0030567	Parkinson Disease	DisGeNet	
+HNMT	C0032927	Precancerous Conditions	DisGeNet	
+HNMT	C0035235	Respiratory Syncytial Virus Infections	DisGeNet	
+HNMT	C0035455	Rhinitis, Allergic, Seasonal	DisGeNet	
+HNMT	C0036341	Schizophrenia	DisGeNet	
+HNMT	C0040336	Tobacco Use Disorder	DisGeNet	
+HNMT	C0040822	Tremor, hereditary essential, 5	DisGeNet	
+HNMT	C0042109	Urticaria	DisGeNet	
+HNMT	C0043094	Increased body weight	DisGeNet	
+HNMT	C0085129	Bronchial Hyperreactivity	DisGeNet	
+HNMT	C0149931	Migraine Disorders	DisGeNet	
+HNMT	C0235974	Pancreatic Carcinoma	DisGeNet	
+HNMT	C0241210	Delayed speech and language development	HumPhenOnt	
+HNMT	C0270736	Essential tremor	DisGeNet	
+HNMT	C0346647	Malignant neoplasm of pancreas	DisGeNet	
+HNMT	C0441748	Autosomal recessive inheritance	HumPhenOnt	
+HNMT	C0497552	Abnormality of the nervous system	HumPhenOnt	
+HNMT	C0557874	Global developmental delay, absent or hypoplastic corpus callosum, and dysmorphic facies	HumPhenOnt	
+HNMT	C0678222	Breast carcinoma	DisGeNet	
+HNMT	C0679378	Neurodevelopmental abnormality	HumPhenOnt	
+HNMT	C0751955	Brain Infarction	DisGeNet	
+HNMT	C1384666	Hearing impairment	DisGeNet	
+HNMT	C1527249	Colorectal cancer	DisGeNet	
+HNMT	C2607914	Allergic rhinitis	DisGeNet	
+HNMT	C2911647	Weight Gain Adverse Event	DisGeNet	
+HNMT	C3714756	Intellectual developmental disorder with dysmorphic facies and ptosis	HumPhenOnt	
+HNMT	C4022738	Neurodevelopmental delay	HumPhenOnt	
+HNMT	C4022811	Abnormality of nervous system physiology	HumPhenOnt	

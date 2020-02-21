@@ -1,0 +1,33 @@
+node_name	node_type	
+DB00544	drug	
+CYP2C9	drug_target	
+CYP2C8	drug_target	
+CYP1A2	drug_target	
+UMPS	drug_target	
+SERPINA7	drug_target	
+MTHFR	drug_target	
+DPYD	drug_target	
+ALB	drug_target	
+ABCG2	drug_target	
+TYMS	drug_target	
+TYMP	drug_target	
+UPP1	drug_target	
+CYP2A6	drug_target	
+SLC29A1	drug_target	
+ABCC4	drug_target	
+ABCC5	drug_target	
+PPAT	drug_target	
+UPP2	drug_target	
+ABCC3	drug_target	
+Adverse drug events and drug allergies	phenotype	
+Pharyngeal Neoplasms	phenotype	
+Neurotoxicity Syndromes	phenotype	
+Pleural Neoplasms	phenotype	
+Myelosuppression	phenotype	
+Genomic Instability	phenotype	
+Malignant neoplasm of stomach stage IV	phenotype	
+Neoplasm of the larynx	phenotype	
+Neoplasm of the oral cavity	phenotype	
+Nausea	phenotype	
+Leukopenia	phenotype	
+Old myocardial infarction	phenotype	

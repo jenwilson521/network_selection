@@ -1,0 +1,31 @@
+Gene	CUI	Source Databases	
+ALDH2	C0031347	Pharyngeal Neoplasms	DisGeNet	
+CYP1A2	C0031347	Pharyngeal Neoplasms	DisGeNet	
+CYP3A4	C0031347	Pharyngeal Neoplasms	DisGeNet	
+CYP1A2	C0686347	Tardive Dyskinesia	DisGeNet	
+CYP2B6	C0686347	Tardive Dyskinesia	DisGeNet	
+CYP3A4	C0686347	Tardive Dyskinesia	DisGeNet	
+CYP1A2	C0152115	Orofacial dyskinesia	DisGeNet	
+CYP2B6	C0152115	Orofacial dyskinesia	DisGeNet	
+CYP3A4	C0152115	Orofacial dyskinesia	DisGeNet	
+CYP1A2	C0085859	Polyglandular Type I Autoimmune Syndrome	DisGeNet	
+CYP2B6	C0085859	Polyglandular Type I Autoimmune Syndrome	DisGeNet	
+ALDH2	C0032229	Pleural Neoplasms	DisGeNet	
+CYP1A2	C0032229	Pleural Neoplasms	DisGeNet	
+ALDH2	C0206720	Squamous Cell Neoplasms	DisGeNet	
+CYP3A4	C0206720	Squamous Cell Neoplasms	DisGeNet	
+CYP1A2	C0162566	 {Porphyria cutanea tarda, susceptibility to}, 176100 (3)	DisGeNet	
+CYP2B6	C0162566	 {Porphyria cutanea tarda, susceptibility to}, 176100 (3)	DisGeNet	
+CYP2B6	C0877008	Enzyme inhibition disorder	DisGeNet	
+CYP3A4	C0877008	Enzyme inhibition disorder	DisGeNet	
+CYP1A2	C0036349	Paranoid Schizophrenia	DisGeNet	
+CYP2B6	C0036349	Paranoid Schizophrenia	DisGeNet	
+CYP1A2	C0221765	Chronic schizophrenia	DisGeNet	
+CYP3A4	C0221765	Chronic schizophrenia	DisGeNet	
+ALDH2	C0919532	Genomic Instability	DisGeNet	
+CYP1A2	C0919532	Genomic Instability	DisGeNet	
+ALDH2	C0023055	Neoplasm of the larynx	DisGeNet	
+CYP1A2	C0023055	Neoplasm of the larynx	DisGeNet	
+CYP3A4	C0023055	Neoplasm of the larynx	DisGeNet	
+CYP2B6	C1291314	21-hydroxylase deficiency	DisGeNet	
+CYP3A4	C1291314	21-hydroxylase deficiency	DisGeNet	

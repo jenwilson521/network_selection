@@ -1,0 +1,453 @@
+Gene	CUI	Source Databases	
+MTR	C0000768	EMG: myopathic abnormalities	DisGeNet	
+MTRR	C0000768	EMG: myopathic abnormalities	DisGeNet	
+MTR	C0000846	Aplasia involving bones of the extremities	HumPhenOnt	
+MTRR	C0000846	Aplasia involving bones of the extremities	HumPhenOnt	
+MTR	C0001418	 Adenocarcinoma, ovarian, somatic, 167000 (3)	DisGeNet	
+MTRR	C0001418	 Adenocarcinoma, ovarian, somatic, 167000 (3)	DisGeNet	
+MTR	C0001430	Adenomas, multiple colorectal, 608456 (3)	DisGeNet	
+MTRR	C0001430	Adenomas, multiple colorectal, 608456 (3)	DisGeNet	
+MTR	C0002395	Alzheimer Disease	DisGeNet	
+MTRR	C0002395	Alzheimer Disease	DisGeNet	
+MTR	C0002871	Anemia	HumPhenOnt	
+MTRR	C0002871	Anemia	HumPhenOnt	
+MTR	C0002886	Macrocytic anemia	HumPhenOnt	
+MTRR	C0002886	Macrocytic anemia	HumPhenOnt	
+MTR	C0002888	Megaloblastic anemia, thiamine-responsive, with diabetes mellitus and sensorineural deafness	HumPhenOnt	
+MTRR	C0002888	Megaloblastic anemia, thiamine-responsive, with diabetes mellitus and sensorineural deafness	DisGeNet,HumPhenOnt	
+MTR	C0003873	Rheumatoid arthritis	DisGeNet	
+MTRR	C0003873	Rheumatoid arthritis	DisGeNet	
+MTR	C0004153	Atherosclerosis	DisGeNet	
+MTRR	C0004153	Atherosclerosis	DisGeNet	
+MTR	C0004352	Autism 15	DisGeNet	
+MTRR	C0004352	Autism 15	DisGeNet	
+MTR	C0004509	Azoospermia	DisGeNet	
+MTRR	C0004509	Azoospermia	DisGeNet	
+MTR	C0005586	Bipolar affective disorder	DisGeNet	
+MTRR	C0005586	Bipolar affective disorder	DisGeNet	
+MTR	C0005684	Malignant tumor of urinary bladder	DisGeNet	
+MTRR	C0005684	Malignant tumor of urinary bladder	DisGeNet	
+MTR	C0006104	Brain very small	HumPhenOnt	
+MTRR	C0006104	Brain very small	HumPhenOnt	
+MTR	C0006118	Brain neoplasm	DisGeNet	
+MTRR	C0006118	Brain neoplasm	DisGeNet	
+MTR	C0006142	Breast-ovarian cancer, familial 1	DisGeNet	
+MTRR	C0006142	Breast-ovarian cancer, familial 1	DisGeNet	
+MTR	C0007102	Colon cancer	DisGeNet	
+MTRR	C0007102	Colon cancer	DisGeNet	
+MTR	C0007131	Non-small cell lung carcinoma	DisGeNet	
+MTRR	C0007131	Non-small cell lung carcinoma	DisGeNet	
+MTR	C0007137	Squamous cell carcinoma	DisGeNet	
+MTRR	C0007137	Squamous cell carcinoma	DisGeNet	
+MTR	C0007222	Cardiovascular Diseases	DisGeNet	
+MTRR	C0007222	Cardiovascular Diseases	DisGeNet	
+MTR	C0007786	Brain Ischemia	DisGeNet	
+MTRR	C0007786	Brain Ischemia	DisGeNet	
+MTR	C0007847	Malignant tumor of cervix	DisGeNet	
+MTRR	C0007847	Malignant tumor of cervix	DisGeNet	
+MTR	C0008924	Cleft Lip	DisGeNet	
+MTRR	C0008924	Cleft Lip	DisGeNet	
+MTR	C0008925	Cleft Palate	DisGeNet	
+MTRR	C0008925	Cleft Palate	DisGeNet	
+MTR	C0009324	Ulcerative colitis	DisGeNet	
+MTRR	C0009324	Ulcerative colitis	DisGeNet	
+MTR	C0009402	Colorectal cancer 1	DisGeNet	
+MTRR	C0009402	Colorectal cancer 1	DisGeNet	
+MTR	C0009404	Colorectal Neoplasms	DisGeNet	
+MTRR	C0009404	Colorectal Neoplasms	DisGeNet	
+MTR	C0010054	Coronary heart disease 7	DisGeNet	
+MTRR	C0010054	Coronary heart disease 7	DisGeNet	
+MTR	C0010346	Crohn Disease	DisGeNet	
+MTRR	C0010346	Crohn Disease	DisGeNet	
+MTR	C0011303	Demyelinating Diseases	DisGeNet	
+MTRR	C0011303	Demyelinating Diseases	DisGeNet	
+MTR	C0011570	{Unipolar depression, susceptibility to}, 608516 (3)	DisGeNet	
+MTRR	C0011570	{Unipolar depression, susceptibility to}, 608516 (3)	DisGeNet	
+MTR	C0011581	Depressive Disorder	DisGeNet	
+MTRR	C0011581	Depressive Disorder	DisGeNet	
+MTR	C0013080	Down Syndrome	DisGeNet	
+MTRR	C0013080	Down Syndrome	DisGeNet	
+MTR	C0013182	Drug Allergy	DisGeNet	
+MTRR	C0013182	Drug Allergy	DisGeNet	
+MTR	C0014544	Epilepsy	DisGeNet	
+MTRR	C0014544	Epilepsy	DisGeNet	
+MTR	C0015393	Abnormality of the eye	HumPhenOnt	
+MTRR	C0015393	Abnormality of the eye	HumPhenOnt	
+MTR	C0015544	Failure to thrive	HumPhenOnt	
+MTRR	C0015544	Failure to thrive	HumPhenOnt	
+MTR	C0015934	Intrauterine growth retardation	DisGeNet	
+MTRR	C0015934	Intrauterine growth retardation	DisGeNet	
+MTR	C0016412	Folic Acid Deficiency	DisGeNet	
+MTRR	C0016412	Folic Acid Deficiency	DisGeNet	
+MTR	C0017638	Glioma	DisGeNet	
+MTRR	C0017638	Glioma	DisGeNet	
+MTR	C0017661	IgA nephropathy, susceptibility to, 3	DisGeNet	
+MTRR	C0017661	IgA nephropathy, susceptibility to, 3	DisGeNet	
+MTR	C0018671	Head and Neck Neoplasms	DisGeNet	
+MTRR	C0018671	Head and Neck Neoplasms	DisGeNet	
+MTR	C0018784	Sensorineural hearing impairment	DisGeNet	
+MTRR	C0018784	Sensorineural hearing impairment	DisGeNet	
+MTR	C0018798	Heart Defects, Congenital	DisGeNet	
+MTRR	C0018798	Heart Defects, Congenital	DisGeNet	
+MTR	C0018816	Ventricular septal defect 2	DisGeNet	
+MTRR	C0018816	Ventricular septal defect 2	DisGeNet	
+MTR	C0019880	Homocystinuria due to CBS deficiency	DisGeNet,HumPhenOnt	
+MTRR	C0019880	Homocystinuria due to CBS deficiency	ClinVar,DisGeNet,HumPhenOnt	
+MTR	C0020179	Huntington's chorea	DisGeNet	
+MTRR	C0020179	Huntington's chorea	DisGeNet	
+MTR	C0020538	Hypertension	DisGeNet	
+MTRR	C0020538	Hypertension	DisGeNet	
+MTR	C0021364	Male infertility	DisGeNet	
+MTRR	C0021364	Male infertility	DisGeNet	
+MTR	C0021390	Inflammatory Bowel Diseases	DisGeNet	
+MTRR	C0021390	Inflammatory Bowel Diseases	DisGeNet	
+MTR	C0022658	Kidney Diseases	DisGeNet	
+MTRR	C0022658	Kidney Diseases	DisGeNet	
+MTR	C0023418	Leukemia, Lymphocytic, Chronic, B-Cell	DisGeNet	
+MTRR	C0023418	Leukemia, Lymphocytic, Chronic, B-Cell	DisGeNet	
+MTR	C0023449	Acute lymphoid leukemia	DisGeNet	
+MTRR	C0023449	Acute lymphoid leukemia	DisGeNet	
+MTR	C0023452	Leukemia, Lymphocytic, Acute, L1	DisGeNet	
+MTRR	C0023452	Leukemia, Lymphocytic, Acute, L1	DisGeNet	
+MTR	C0023467	Acute myeloid leukemia	DisGeNet	
+MTRR	C0023467	Acute myeloid leukemia	DisGeNet	
+MTR	C0024117	Chronic obstructive pulmonary disease	DisGeNet	
+MTRR	C0024117	Chronic obstructive pulmonary disease	DisGeNet	
+MTR	C0024121	Lung Neoplasms	DisGeNet	
+MTRR	C0024121	Lung Neoplasms	DisGeNet	
+MTR	C0024141	Lupus Erythematosus, Systemic	DisGeNet	
+MTRR	C0024141	Lupus Erythematosus, Systemic	DisGeNet	
+MTR	C0024301	Lymphoma, Follicular	DisGeNet	
+MTRR	C0024301	Lymphoma, Follicular	DisGeNet	
+MTR	C0024305	Non-Hodgkin lymphoma	DisGeNet	
+MTRR	C0024305	Non-Hodgkin lymphoma	DisGeNet	
+MTR	C0024623	{Gastric cancer risk after H. pylori infection}, 137215 (3)	DisGeNet	
+MTRR	C0024623	{Gastric cancer risk after H. pylori infection}, 137215 (3)	DisGeNet	
+MTR	C0024667	Animal Mammary Neoplasms	DisGeNet	
+MTRR	C0024667	Animal Mammary Neoplasms	DisGeNet	
+MTR	C0024809	Marijuana Abuse	DisGeNet	
+MTRR	C0024809	Marijuana Abuse	DisGeNet	
+MTR	C0025284	Meningeal Neoplasms	DisGeNet	
+MTRR	C0025284	Meningeal Neoplasms	DisGeNet	
+MTR	C0025286	Meningioma	DisGeNet	
+MTRR	C0025286	Meningioma	DisGeNet	
+MTR	C0025517	Disorders of Intracellular Cobalamin Metabolism	ClinVar,DisGeNet	
+MTRR	C0025517	Disorders of Intracellular Cobalamin Metabolism	ClinVar,DisGeNet	
+MTR	C0026650	Abnormality of movement	HumPhenOnt	
+MTRR	C0026650	Abnormality of movement	HumPhenOnt	
+MTR	C0026764	Multiple Myeloma	DisGeNet	
+MTRR	C0026764	Multiple Myeloma	DisGeNet	
+MTR	C0026769	Multiple Sclerosis	DisGeNet	
+MTRR	C0026769	Multiple Sclerosis	DisGeNet	
+MTR	C0026827	Hypotonia, infantile, with psychomotor retardation	HumPhenOnt	
+MTRR	C0026827	Hypotonia, infantile, with psychomotor retardation	HumPhenOnt	
+MTR	C0027765	Other disorders of the nervous system	DisGeNet	
+MTRR	C0027765	Other disorders of the nervous system	DisGeNet	
+MTR	C0027794	Neural tube defect	ClinVar,DisGeNet	
+MTRR	C0027794	Neural tube defect	ClinVar,DisGeNet	
+MTR	C0028738	Nystagmus	HumPhenOnt	
+MTRR	C0028738	Nystagmus	HumPhenOnt	
+MTR	C0028754	Obesity	DisGeNet	
+MTRR	C0028754	Obesity	DisGeNet	
+MTR	C0028960	Oligospermia	DisGeNet	
+MTRR	C0028960	Oligospermia	DisGeNet	
+MTR	C0030297	Pancreatic Neoplasms	DisGeNet	
+MTRR	C0030297	Pancreatic Neoplasms	DisGeNet	
+MTR	C0030567	Parkinson Disease	DisGeNet	
+MTRR	C0030567	Parkinson Disease	DisGeNet	
+MTR	C0031485	Phenylketonuria	DisGeNet	
+MTRR	C0031485	Phenylketonuria	DisGeNet	
+MTR	C0032051	Placental Insufficiency	DisGeNet	
+MTRR	C0032051	Placental Insufficiency	DisGeNet	
+MTR	C0032914	Preeclampsia/eclampsia 1	DisGeNet	
+MTRR	C0032914	Preeclampsia/eclampsia 1	DisGeNet	
+MTR	C0033941	Psychoses, Substance-Induced	DisGeNet	
+MTRR	C0033941	Psychoses, Substance-Induced	DisGeNet	
+MTR	C0036572	Seizures, Febrile	HumPhenOnt	
+MTRR	C0036572	Seizures, Febrile	HumPhenOnt	
+MTR	C0038356	Stomach Neoplasms	DisGeNet	
+MTRR	C0038356	Stomach Neoplasms	DisGeNet	
+MTR	C0038454	Stroke	DisGeNet	
+MTRR	C0038454	Stroke	DisGeNet	
+MTR	C0040038	Thromboembolism	DisGeNet	
+MTRR	C0040038	Thromboembolism	DisGeNet	
+MTR	C0041755	Adverse drug events and drug allergies	DisGeNet	
+MTRR	C0041755	Adverse drug events and drug allergies	DisGeNet	
+MTR	C0042063	Abnormality of the genitourinary system	HumPhenOnt	
+MTRR	C0042063	Abnormality of the genitourinary system	HumPhenOnt	
+MTR	C0042373	Vascular Diseases	DisGeNet	
+MTRR	C0042373	Vascular Diseases	DisGeNet	
+MTR	C0042487	Venous thrombosis	DisGeNet	
+MTRR	C0042487	Venous thrombosis	DisGeNet	
+MTR	C0079744	Germinal Center B-Cell-Like Diffuse Large B-Cell Lymphoma	DisGeNet	
+MTRR	C0079744	Germinal Center B-Cell-Like Diffuse Large B-Cell Lymphoma	DisGeNet	
+MTR	C0079745	Lymphoma, Large-Cell, Follicular	DisGeNet	
+MTRR	C0079745	Lymphoma, Large-Cell, Follicular	DisGeNet	
+MTR	C0079772	T-cell lymphoma	DisGeNet	
+MTRR	C0079772	T-cell lymphoma	DisGeNet	
+MTR	C0080178	Spina bifida	DisGeNet	
+MTRR	C0080178	Spina bifida	DisGeNet	
+MTR	C0149871	Deep venous thrombosis	DisGeNet	
+MTRR	C0149871	Deep venous thrombosis	DisGeNet	
+MTR	C0149925	Small cell lung cancer	DisGeNet	
+MTRR	C0149925	Small cell lung cancer	DisGeNet	
+MTR	C0149931	Migraine Disorders	DisGeNet	
+MTRR	C0149931	Migraine Disorders	DisGeNet	
+MTR	C0151744	Acute myocardial ischemia	DisGeNet	
+MTRR	C0151744	Acute myocardial ischemia	DisGeNet	
+MTR	C0151950	Deep thrombophlebitis	DisGeNet	
+MTRR	C0151950	Deep thrombophlebitis	DisGeNet	
+MTR	C0152021	Congenital heart disease	DisGeNet	
+MTRR	C0152021	Congenital heart disease	DisGeNet	
+MTR	C0154723	Migraine with aura	DisGeNet	
+MTRR	C0154723	Migraine with aura	DisGeNet	
+MTR	C0162309	Adrenoleukodystrophy	DisGeNet	
+MTRR	C0162309	Adrenoleukodystrophy	DisGeNet	
+MTR	C0162316	Iron deficiency anemia	DisGeNet	
+MTRR	C0162316	Iron deficiency anemia	DisGeNet	
+MTR	C0162871	Aortic Aneurysm, Abdominal	DisGeNet	
+MTRR	C0162871	Aortic Aneurysm, Abdominal	DisGeNet	
+MTR	C0206132	Onset	HumPhenOnt	
+MTRR	C0206132	Onset	HumPhenOnt	
+MTR	C0206708	Cervical intraepithelial neoplasia (Cervical dysplasia)	DisGeNet	
+MTRR	C0206708	Cervical intraepithelial neoplasia (Cervical dysplasia)	DisGeNet	
+MTR	C0221287	Combined Hepatocellular Carcinoma and Cholangiocarcinoma	DisGeNet	
+MTRR	C0221287	Combined Hepatocellular Carcinoma and Cholangiocarcinoma	DisGeNet	
+MTR	C0235946	Brain atrophy	HumPhenOnt	
+MTRR	C0235946	Brain atrophy	HumPhenOnt	
+MTR	C0235974	Pancreatic Carcinoma	DisGeNet	
+MTRR	C0235974	Pancreatic Carcinoma	DisGeNet	
+MTR	C0238621	Aminoaciduria	HumPhenOnt	
+MTRR	C0238621	Aminoaciduria	HumPhenOnt	
+MTR	C0241657	Abnormality of blood and blood-forming tissues	HumPhenOnt	
+MTRR	C0241657	Abnormality of blood and blood-forming tissues	HumPhenOnt	
+MTR	C0242379	Malignant neoplasm of lung	DisGeNet	
+MTRR	C0242379	Malignant neoplasm of lung	DisGeNet	
+MTR	C0242383	Age-related macular degeneration 2	DisGeNet	
+MTRR	C0242383	Age-related macular degeneration 2	DisGeNet	
+MTR	C0262361	Growth abnormality	HumPhenOnt	
+MTRR	C0262361	Growth abnormality	HumPhenOnt	
+MTR	C0278026	3-Methylglutaconic aciduria	HumPhenOnt	
+MTRR	C0278026	3-Methylglutaconic aciduria	HumPhenOnt	
+MTR	C0278996	Cancer of Head and Neck	DisGeNet	
+MTRR	C0278996	Cancer of Head and Neck	DisGeNet	
+MTR	C0279626	Esophageal Squamous Cell Carcinoma	DisGeNet	
+MTRR	C0279626	Esophageal Squamous Cell Carcinoma	DisGeNet	
+MTR	C0302592	Carcinoma of cervix	DisGeNet	
+MTRR	C0302592	Carcinoma of cervix	DisGeNet	
+MTR	C0340708	Deep vein thrombosis of lower limb	DisGeNet	
+MTRR	C0340708	Deep vein thrombosis of lower limb	DisGeNet	
+MTR	C0345904	Hepatic cancer metastatic	DisGeNet	
+MTRR	C0345904	Hepatic cancer metastatic	DisGeNet	
+MTR	C0346647	Malignant neoplasm of pancreas	DisGeNet	
+MTRR	C0346647	Malignant neoplasm of pancreas	DisGeNet	
+MTR	C0376358	Malignant tumor of prostate	DisGeNet	
+MTRR	C0376358	Malignant tumor of prostate	DisGeNet	
+MTR	C0391870	Abnormality of erythrocytes	HumPhenOnt	
+MTRR	C0391870	Abnormality of erythrocytes	HumPhenOnt	
+MTR	C0441748	Autosomal recessive inheritance	HumPhenOnt	
+MTRR	C0441748	Autosomal recessive inheritance	HumPhenOnt	
+MTR	C0456909	Blindness	HumPhenOnt	
+MTRR	C0456909	Blindness	HumPhenOnt	
+MTR	C0497202	Abnormality of eye movement	HumPhenOnt	
+MTRR	C0497202	Abnormality of eye movement	HumPhenOnt	
+MTR	C0497552	Abnormality of the nervous system	HumPhenOnt	
+MTRR	C0497552	Abnormality of the nervous system	HumPhenOnt	
+MTR	C0546837	Malignant tumor of esophagus	DisGeNet	
+MTRR	C0546837	Malignant tumor of esophagus	DisGeNet	
+MTR	C0557874	Global developmental delay, absent or hypoplastic corpus callosum, and dysmorphic facies	HumPhenOnt	
+MTRR	C0557874	Global developmental delay, absent or hypoplastic corpus callosum, and dysmorphic facies	HumPhenOnt	
+MTR	C0575081	Gait disturbance	HumPhenOnt	
+MTRR	C0575081	Gait disturbance	HumPhenOnt	
+MTR	C0596263	Carcinogenesis	DisGeNet	
+MTRR	C0596263	Carcinogenesis	DisGeNet	
+MTR	C0598608	Hereditary hyperhomocysteinemia	DisGeNet	
+MTRR	C0598608	Hereditary hyperhomocysteinemia	DisGeNet	
+MTR	C0600139	Prostate carcinoma	DisGeNet	
+MTRR	C0600139	Prostate carcinoma	DisGeNet	
+MTR	C0600518	Choroidal Neovascularization	DisGeNet	
+MTRR	C0600518	Choroidal Neovascularization	DisGeNet	
+MTR	C0678199	Anemia of inadequate production	HumPhenOnt	
+MTRR	C0678199	Anemia of inadequate production	HumPhenOnt	
+MTR	C0678222	Breast carcinoma	DisGeNet	
+MTRR	C0678222	Breast carcinoma	DisGeNet	
+MTR	C0679378	Neurodevelopmental abnormality	HumPhenOnt	
+MTRR	C0679378	Neurodevelopmental abnormality	HumPhenOnt	
+MTR	C0684249	Lung cancer	DisGeNet	
+MTRR	C0684249	Lung cancer	DisGeNet	
+MTR	C0699790	Carcinoma of colon	DisGeNet	
+MTRR	C0699790	Carcinoma of colon	DisGeNet	
+MTR	C0699791	Stomach cancer	DisGeNet	
+MTRR	C0699791	Stomach cancer	DisGeNet	
+MTR	C0699885	Bladder carcinoma	DisGeNet	
+MTRR	C0699885	Bladder carcinoma	DisGeNet	
+MTR	C0741916	Cardiac defects	DisGeNet	
+MTRR	C0741916	Cardiac defects	DisGeNet	
+MTR	C0750974	Brain Tumor, Primary	DisGeNet	
+MTRR	C0750974	Brain Tumor, Primary	DisGeNet	
+MTR	C0751606	Adult Acute Lymphocytic Leukemia	DisGeNet	
+MTRR	C0751606	Adult Acute Lymphocytic Leukemia	DisGeNet	
+MTR	C0852413	Abnormal muscle tone	HumPhenOnt	
+MTRR	C0852413	Abnormal muscle tone	HumPhenOnt	
+MTR	C0948008	Ischemic stroke	DisGeNet	
+MTRR	C0948008	Ischemic stroke	DisGeNet	
+MTR	C1168401	Squamous cell carcinoma of the head and neck	DisGeNet	
+MTRR	C1168401	Squamous cell carcinoma of the head and neck	DisGeNet	
+MTR	C1262477	Decreased body weight	HumPhenOnt	
+MTRR	C1262477	Decreased body weight	HumPhenOnt	
+MTR	C1302401	Adenoma of large intestine	DisGeNet	
+MTRR	C1302401	Adenoma of large intestine	DisGeNet	
+MTR	C1328440	Abnormality of amino acid metabolism	HumPhenOnt	
+MTRR	C1328440	Abnormality of amino acid metabolism	HumPhenOnt	
+MTR	C1332977	Childhood Leukemia	DisGeNet	
+MTRR	C1332977	Childhood Leukemia	DisGeNet	
+MTR	C1527249	Colorectal cancer	DisGeNet	
+MTRR	C1527249	Colorectal cancer	DisGeNet	
+MTR	C1848924	Infantile-onset ascending hereditary spastic paralysis	HumPhenOnt	
+MTRR	C1848924	Infantile-onset ascending hereditary spastic paralysis	HumPhenOnt	
+MTR	C1956346	Coronary Artery Disease	DisGeNet	
+MTRR	C1956346	Coronary Artery Disease	DisGeNet	
+MTR	C1961102	Precursor Cell Lymphoblastic Leukemia-Lymphoma	DisGeNet	
+MTRR	C1961102	Precursor Cell Lymphoblastic Leukemia-Lymphoma	DisGeNet	
+MTR	C2239176	Hepatocellular carcinoma	DisGeNet	
+MTRR	C2239176	Hepatocellular carcinoma	DisGeNet	
+MTR	C3272363	Ischemic Cerebrovascular Accident	DisGeNet	
+MTRR	C3272363	Ischemic Cerebrovascular Accident	DisGeNet	
+MTR	C3495426	Homocysteinemia due to MTHFR deficiency	DisGeNet	
+MTRR	C3495426	Homocysteinemia due to MTHFR deficiency	DisGeNet	
+MTR	C3665347	Visual impairment	HumPhenOnt	
+MTRR	C3665347	Visual impairment	HumPhenOnt	
+MTR	C3714756	Intellectual developmental disorder with dysmorphic facies and ptosis	HumPhenOnt	
+MTRR	C3714756	Intellectual developmental disorder with dysmorphic facies and ptosis	HumPhenOnt	
+MTR	C4020967	Abnormality of forebrain morphology	HumPhenOnt	
+MTRR	C4020967	Abnormality of forebrain morphology	HumPhenOnt	
+MTR	C4021085	Abnormality of brain morphology	HumPhenOnt	
+MTRR	C4021085	Abnormality of brain morphology	HumPhenOnt	
+MTR	C4021660	Abnormality of sulfur amino acid metabolism	HumPhenOnt	
+MTRR	C4021660	Abnormality of sulfur amino acid metabolism	HumPhenOnt	
+MTR	C4021745	Abnormality of the musculature	HumPhenOnt	
+MTRR	C4021745	Abnormality of the musculature	HumPhenOnt	
+MTR	C4021762	Abnormality of the cerebrum	HumPhenOnt	
+MTRR	C4021762	Abnormality of the cerebrum	HumPhenOnt	
+MTR	C4021765	Morphological abnormality of the central nervous system	HumPhenOnt	
+MTRR	C4021765	Morphological abnormality of the central nervous system	HumPhenOnt	
+MTR	C4021768	Abnormality of metabolism/homeostasis	HumPhenOnt	
+MTRR	C4021768	Abnormality of metabolism/homeostasis	HumPhenOnt	
+MTR	C4021821	Abnormality of the urinary system	HumPhenOnt	
+MTRR	C4021821	Abnormality of the urinary system	HumPhenOnt	
+MTR	C4022036	Abnormality of vitamin metabolism	HumPhenOnt	
+MTRR	C4022036	Abnormality of vitamin metabolism	HumPhenOnt	
+MTR	C4022738	Neurodevelopmental delay	HumPhenOnt	
+MTRR	C4022738	Neurodevelopmental delay	HumPhenOnt	
+MTR	C4022810	Abnormality of nervous system morphology	HumPhenOnt	
+MTRR	C4022810	Abnormality of nervous system morphology	HumPhenOnt	
+MTR	C4022811	Abnormality of nervous system physiology	HumPhenOnt	
+MTRR	C4022811	Abnormality of nervous system physiology	HumPhenOnt	
+MTR	C4022855	Abnormal involuntary eye movements	HumPhenOnt	
+MTRR	C4022855	Abnormal involuntary eye movements	HumPhenOnt	
+MTR	C4022924	Abnormal eye physiology	HumPhenOnt	
+MTRR	C4022924	Abnormal eye physiology	HumPhenOnt	
+MTR	C4023182	Abnormality of muscle physiology	HumPhenOnt	
+MTRR	C4023182	Abnormality of muscle physiology	HumPhenOnt	
+MTR	C4023437	Abnormality of the urinary system physiology	HumPhenOnt	
+MTRR	C4023437	Abnormality of the urinary system physiology	HumPhenOnt	
+MTR	C4025344	Abnormality of carboxylic acid metabolism	HumPhenOnt	
+MTRR	C4025344	Abnormality of carboxylic acid metabolism	HumPhenOnt	
+MTR	C4025357	Abnormality of body weight	HumPhenOnt	
+MTRR	C4025357	Abnormality of body weight	HumPhenOnt	
+MTR	C4025653	Abnormality of serum amino acid levels	HumPhenOnt	
+MTRR	C4025653	Abnormality of serum amino acid levels	HumPhenOnt	
+MTR	C4025655	Abnormality of urine homeostasis	HumPhenOnt	
+MTRR	C4025655	Abnormality of urine homeostasis	HumPhenOnt	
+MTR	C4025846	Abnormality of vision	HumPhenOnt	
+MTRR	C4025846	Abnormality of vision	HumPhenOnt	
+MTR	C4055158	Atrophy/Degeneration affecting the brainstem	HumPhenOnt	
+MTRR	C4055158	Atrophy/Degeneration affecting the brainstem	HumPhenOnt	
+MTR	C0035450	Rheumatoid Nodule	DisGeNet	
+MTRR	C0268138	Xeroderma Pigmentosum, Complementation Group D	DisGeNet	
+MTRR	C0018081	Gonorrhea	DisGeNet	
+MTR	C0280803	Primary central nervous system lymphoma	DisGeNet	
+MTR	C0349459	Cervical intraepithelial neoplasia grade 2	DisGeNet	
+MTR	C0158646	Cleft palate with cleft lip	DisGeNet	
+MTRR	C0009241	Cognition Disorders	DisGeNet	
+MTRR	C0795690	Omphalocele	DisGeNet	
+MTRR	C0887833	Carcinoma, Pancreatic Ductal	DisGeNet	
+MTR	C0520966	Incoordination	HumPhenOnt	
+MTRR	C0007820	 Cerebrovascular disease, occlusive (3)	DisGeNet	
+MTR	C0278704	Malignant Childhood Neoplasm	DisGeNet	
+MTR	C0008625	Chromosome Aberrations	DisGeNet	
+MTR	C0242231	Coronary artery stenosis	DisGeNet	
+MTR	C0017178	Gastrointestinal Diseases	DisGeNet	
+MTRR	C1857640	Decreased motor nerve conduction velocity	HumPhenOnt	
+MTRR	C1866772	Abnormal nerve conduction velocity	HumPhenOnt	
+MTR	C0005967	Bone neoplasms	DisGeNet	
+MTR	C0012860	DNA Damage	DisGeNet	
+MTR	C0162534	Prion Diseases	DisGeNet	
+MTR	C0518010	body mass	DisGeNet	
+MTRR	C4020690	Abnormality of peripheral nerve conduction	HumPhenOnt	
+MTRR	C4022400	Abnormality of peripheral nerves	HumPhenOnt	
+MTR	C2004493	Leukemia, B-Cell	DisGeNet	
+MTRR	C0853150	Abnormality of peripheral nervous system electrophysiology	HumPhenOnt	
+MTRR	C0023380	Lethargy	HumPhenOnt	
+MTR	C0221198	NOONAN-LIKE/MULTIPLE GIANT CELL LESION SYNDROME (disorder)	DisGeNet	
+MTR	C0003125	Anorexia nervosa 1	DisGeNet	
+MTR	C0007766	Intracranial Aneurysm	DisGeNet	
+MTR	C0270612	Leukoencephalopathy with Brainstem and Spinal Cord Involvement and Lactate Elevation	DisGeNet	
+MTR	C0162429	Malnutrition	DisGeNet	
+MTRR	C0039483	Giant cell arteritis	DisGeNet	
+MTR	C0279671	Cervical Squamous Cell Carcinoma	DisGeNet	
+MTR	C0232197	Ventricular Fibrillation Adverse Event	DisGeNet	
+MTRR	C0032962	Pregnancy Complications	DisGeNet	
+MTR	C0279680	Transitional cell carcinoma of the bladder	DisGeNet	
+MTR	C1270972	Mild cognitive impairment	DisGeNet	
+MTR	C0018939	Hematological Disease	DisGeNet	
+MTR	C0007621	Neoplastic Cell Transformation	DisGeNet	
+MTR	C0275524	Coinfection	DisGeNet	
+MTR	C0085136	Neoplasm of the central nervous system	DisGeNet	
+MTR	C0153633	Malignant neoplasm of brain and nervous system	DisGeNet	
+MTR	C0007873	Uterine Cervical Neoplasms	DisGeNet	
+MTRR	C0041107	Trisomy	DisGeNet	
+MTR	C0266929	Chronic Periodontitis	DisGeNet	
+MTR	C0085183	Neoplasms, Second Primary	DisGeNet	
+MTRR	C0848332	Spots on skin	DisGeNet	
+MTRR	C0234428	Reduced consciousness/confusion	HumPhenOnt	
+MTRR	C1762616	Meningioma, benign, no ICD-O subtype	DisGeNet	
+MTRR	C0936223	Metastatic Prostate Carcinoma	DisGeNet	
+MTRR	C0003486	Aortic aneurysm, familial thoracic 11, susceptibility to	DisGeNet	
+MTRR	C1861172	Venous Thromboembolism	DisGeNet	
+MTRR	C0023448	Lymphoid leukemia	DisGeNet	
+MTR	C0027947	Neutropenia	DisGeNet	
+MTR	C0027643	Neoplasm Recurrence, Local	DisGeNet	
+MTR	C0020473	Hyperlipidemia, combined, 1	DisGeNet	
+MTR	C2674608	Feeding difficulties in infancy	HumPhenOnt	
+MTR	C0279628	Adenocarcinoma Of Esophagus	DisGeNet	
+MTR	C0023530	Leukopenia	DisGeNet	
+MTR	C0011265	Dementia familial British	DisGeNet	
+MTRR	C4021781	Abnormal nervous system electrophysiology	HumPhenOnt	
+MTR	C0085580	Essential hypertension	DisGeNet	
+MTR	C0948089	Acute Coronary Syndrome	DisGeNet	
+MTR	C0013604	Hydrops, lactic acidosis, and sideroblastic anemia	DisGeNet	
+MTRR	C0238198	Gastrointestinal stromal tumor	DisGeNet	
+MTRR	C0015230	Exanthema	DisGeNet	
+MTRR	C0151526	Premature Birth	DisGeNet	
+MTR	C0007138	Urothelial Carcinoma	DisGeNet	
+MTRR	C1145670	Respiratory failure	HumPhenOnt	
+MTR	C1704272	Benign Prostatic Hyperplasia	DisGeNet	
+MTR	C1621958	Glioblastoma multiforme	DisGeNet	
+MTR	C0232466	Feeding difficulties	HumPhenOnt	
+MTR	C0005695	Urinary Bladder Neoplasms	DisGeNet	
+MTR	C0035335	Retinoblastoma	DisGeNet	
+MTR	C0032460	Polycystic Ovary Syndrome	DisGeNet	
+MTR	C0497327	Dementia	DisGeNet	
+MTR	C0008626	Congenital chromosomal disease	DisGeNet	
+MTR	C0024530	Malaria	DisGeNet	
+MTR	C0152018	Esophageal carcinoma	DisGeNet	
+MTRR	C4025831	Abnormal peripheral nervous system morphology	HumPhenOnt	
+MTR	C4023353	Abnormality of coordination	HumPhenOnt	
+MTRR	C0376545	Hematological neoplasm	DisGeNet	
+MTR	C0022661	Kidney Failure, Chronic	DisGeNet	
+MTRR	C0524620	Metabolic Syndrome X	DisGeNet	
+MTR	C0079731	B-cell lymphoma	DisGeNet	
+MTRR	C0001973	Alcohol dependence	DisGeNet	
+MTR	C0014859	Esophageal Neoplasms	DisGeNet	
+MTRR	C4025677	Functional respiratory abnormality	HumPhenOnt	

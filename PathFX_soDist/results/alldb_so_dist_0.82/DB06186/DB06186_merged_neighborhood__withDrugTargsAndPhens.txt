@@ -1,0 +1,568 @@
+node1	node2	edge_score	
+DB06186	CTLA4	1.0	
+CTLA4		1.0
+Abdominal pain	CTLA4	1.0	
+Spontaneous abortion	CTLA4	1.0	
+Primary adrenal insufficiency	CTLA4	1.0	
+ Adenocarcinoma, ovarian, somatic, 167000 (3)	CTLA4	1.0	
+Alopecia	CTLA4	1.0	
+Alopecia Areata	CTLA4	1.0	
+Anemia	CTLA4	1.0	
+Hemolytic anemia, nonspherocytic, due to glucose phosphate isomerase deficiency	CTLA4	1.0	
+Autoimmune hemolytic anemia	CTLA4	1.0	
+Angina pectoris	CTLA4	1.0	
+Angina, Unstable	CTLA4	1.0	
+Arrhythmias, Cardiac	CTLA4	1.0	
+Arteriosclerosis	CTLA4	1.0	
+Arthralgia	CTLA4	1.0	
+Arthritis, Rheumatoid	CTLA4	1.0	
+Arthritis, Psoriatic	CTLA4	1.0	
+Rheumatoid arthritis	CTLA4	1.0	
+Asthma	CTLA4	1.0	
+Atherosclerosis	CTLA4	1.0	
+Autoimmune disease 1	CTLA4	1.0	
+Melanoma, B16	CTLA4	1.0	
+Recurrent bacterial infection	CTLA4	1.0	
+Mental disorders	CTLA4	1.0	
+Behcet Syndrome	CTLA4	1.0	
+Bipolar affective disorder	CTLA4	1.0	
+Malignant tumor of urinary bladder	CTLA4	1.0	
+Abnormal systemic blood pressure	CTLA4	1.0	
+Bone neoplasms	CTLA4	1.0	
+Breast-ovarian cancer, familial 1	CTLA4	1.0	
+Bronchiolitis	CTLA4	1.0	
+Bronchiolitis, Viral	CTLA4	1.0	
+Calcinosis	CTLA4	1.0	
+Skin cancer	CTLA4	1.0	
+Basal cell carcinoma	CTLA4	1.0	
+Noninfiltrating Intraductal Carcinoma	CTLA4	1.0	
+Non-small cell lung carcinoma	CTLA4	1.0	
+Renal cell carcinoma, nonpapillary	CTLA4	1.0	
+Squamous cell carcinoma	CTLA4	1.0	
+Cardiomyopathy, Dilated	CTLA4	1.0	
+Celiac Disease	CTLA4	1.0	
+CNS infection	CTLA4	1.0	
+Brain Ischemia	CTLA4	1.0	
+Malignant tumor of cervix	CTLA4	1.0	
+Uterine Cervical Neoplasms	CTLA4	1.0	
+Chest pain	CTLA4	1.0	
+Chlamydia Infections	CTLA4	1.0	
+Primary biliary cirrhosis	CTLA4	1.0	
+Cholangitis, Sclerosing	CTLA4	1.0	
+Cholestasis, benign recurrent intrahepatic 1	CTLA4	1.0	
+Choriocarcinoma	CTLA4	1.0	
+Bronchitis, Chronic	CTLA4	1.0	
+Colitis, Ulcerative	CTLA4	1.0	
+Ulcerative colitis	CTLA4	1.0	
+Neoplasm of the colon	CTLA4	1.0	
+Colorectal cancer 1	CTLA4	1.0	
+Colorectal Neoplasms	CTLA4	1.0	
+Familial cold-induced inflammatory syndrome 1, 120100 (3)	CTLA4	1.0	
+Common variable immunodeficiency 2	CTLA4	1.0	
+Verotoxigenic Escherichia coli gastrointestinal tract infection	CTLA4	1.0	
+Connective Tissue Diseases	CTLA4	1.0	
+Constitutional symptom	CTLA4	1.0	
+Coronary heart disease 7	CTLA4	1.0	
+Cough	CTLA4	1.0	
+Crohn Disease	CTLA4	1.0	
+Cytomegalovirus Infections	CTLA4	1.0	
+Dengue Fever	CTLA4	1.0	
+Erythroderma, congenital, with palmoplantar keratoderma, hypotrichosis, and hyper-ige	CTLA4	1.0	
+Dermatitis, Atopic	CTLA4	1.0	
+Dermatomyositis	CTLA4	1.0	
+Diabetes insipidus	CTLA4	1.0	
+Diabetes Mellitus, Type 1	CTLA4	1.0	
+Diabetes mellitus type 1	CTLA4	1.0	
+Diabetes mellitus type 2	CTLA4	1.0	
+Diabetic ketoacidosis	CTLA4	1.0	
+Diarrhea 8, secretory sodium, congenital	CTLA4	1.0	
+Gallbladder disease 4	CTLA4	1.0	
+Ectropion	CTLA4	1.0	
+Eczema	CTLA4	1.0	
+Hydrops, lactic acidosis, and sideroblastic anemia	CTLA4	1.0	
+Experimental Autoimmune Encephalomyelitis	CTLA4	1.0	
+Disorder of endocrine system	CTLA4	1.0	
+Endometriosis	CTLA4	1.0	
+Eosinophilia	CTLA4	1.0	
+Epistaxis	CTLA4	1.0	
+Erythema nodosum	CTLA4	1.0	
+Exanthema	CTLA4	1.0	
+Proptosis	CTLA4	1.0	
+Abnormality of the eye	CTLA4	1.0	
+orbit (eye disorders)	CTLA4	1.0	
+Fatigue	CTLA4	1.0	
+Hepatic steatosis	CTLA4	1.0	
+Fetal Diseases	CTLA4	1.0	
+Malignant hyperthermia susceptibility type 5	CTLA4	1.0	
+pathologic fistula	CTLA4	1.0	
+Gangrene	CTLA4	1.0	
+Gastrointestinal hemorrhage	CTLA4	1.0	
+Gingival Diseases	CTLA4	1.0	
+Glomerulonephritis, Membranous	CTLA4	1.0	
+Membranous nephropathy, susceptibility to	CTLA4	1.0	
+Graft-versus-host disease, susceptibility to	CTLA4	1.0	
+Graves Disease	CTLA4	1.0	
+Hay fever	CTLA4	1.0	
+Headache	CTLA4	1.0	
+Sensorineural hearing impairment	CTLA4	1.0	
+Heart Defects, Congenital	CTLA4	1.0	
+Heart Diseases	CTLA4	1.0	
+Hematological Disease	CTLA4	1.0	
+Hematuria	CTLA4	1.0	
+Hemiplegia	CTLA4	1.0	
+Hereditary factor VIII deficiency disease	CTLA4	1.0	
+Hemoptysis	CTLA4	1.0	
+Severe Dengue	CTLA4	1.0	
+Hepatitis	CTLA4	1.0	
+Acute type B viral hepatitis	CTLA4	1.0	
+Chronic hepatitis	CTLA4	1.0	
+Hepatitis C	CTLA4	1.0	
+Hepatomegaly	CTLA4	1.0	
+Histiocytosis, Langerhans-Cell	CTLA4	1.0	
+Symptomatic human immunodeficiency virus infection	CTLA4	1.0	
+Hydatidiform mole, recurrent, 2	CTLA4	1.0	
+Hydronephrosis	CTLA4	1.0	
+Hyperglycemia	CTLA4	1.0	
+Immediate hypersensitivity	CTLA4	1.0	
+Hypertension	CTLA4	1.0	
+Hyperthyroidism	CTLA4	1.0	
+Hypoparathyroidism	CTLA4	1.0	
+Hypothyroidism	CTLA4	1.0	
+Immunodeficiency due to defect in CD3-gamma	CTLA4	1.0	
+Immune dysfunction with T-cell inactivation due to calcium entry defect 1	CTLA4	1.0	
+IMMUNE SUPPRESSION	CTLA4	1.0	
+Inflammation	CTLA4	1.0	
+Inflammatory Bowel Diseases	CTLA4	1.0	
+Influenza	CTLA4	1.0	
+Abnormality of the intestine	CTLA4	1.0	
+Intestinal obstruction	CTLA4	1.0	
+Arthropathy	CTLA4	1.0	
+Palmoplantar keratoderma, nonepidermolytic, focal	CTLA4	1.0	
+Kidney Diseases	CTLA4	1.0	
+Kidney Failure, Chronic	CTLA4	1.0	
+Renal neoplasm	CTLA4	1.0	
+Zoonotic form of cutaneous leishmaniasis	CTLA4	1.0	
+Leishmaniasis, Visceral	CTLA4	1.0	
+Leprosy	CTLA4	1.0	
+Leprosy, Lepromatous	CTLA4	1.0	
+Leukemia, Lymphocytic, Chronic, B-Cell	CTLA4	1.0	
+Chronic Lymphocytic Leukemia	CTLA4	1.0	
+Lymphoid leukemia	CTLA4	1.0	
+Acute lymphoid leukemia	CTLA4	1.0	
+Acute myeloid leukemia	CTLA4	1.0	
+Myeloid leukemia	CTLA4	1.0	
+Chronic myelomonocytic leukemia	CTLA4	1.0	
+Adult T-Cell Lymphoma/Leukemia	CTLA4	1.0	
+Liver Cirrhosis, Biliary	CTLA4	1.0	
+Liver Cirrhosis, Alcoholic	CTLA4	1.0	
+Biliary cirrhosis	CTLA4	1.0	
+Liver Diseases	CTLA4	1.0	
+Alcoholic Liver Diseases	CTLA4	1.0	
+Neoplasm of the liver	CTLA4	1.0	
+Chronic obstructive pulmonary disease	CTLA4	1.0	
+Lung Neoplasms	CTLA4	1.0	
+Lupus Vulgaris	CTLA4	1.0	
+Discoid lupus erythematosus	CTLA4	1.0	
+Lupus Erythematosus, Systemic	CTLA4	1.0	
+Lyme Disease	CTLA4	1.0	
+Lymphocytic Choriomeningitis	CTLA4	1.0	
+Lymphocytosis	CTLA4	1.0	
+Lymphohistiocytosis, Hemophagocytic	CTLA4	1.0	
+Lymphoma, Large B-Cell, Diffuse	CTLA4	1.0	
+Lymphoma, Follicular	CTLA4	1.0	
+Non-Hodgkin lymphoma	CTLA4	1.0	
+Lymphopenia	CTLA4	1.0	
+Lymphoproliferative disorder	CTLA4	1.0	
+{Gastric cancer risk after H. pylori infection}, 137215 (3)	CTLA4	1.0	
+Animal Mammary Neoplasms	CTLA4	1.0	
+Melanoma	CTLA4	1.0	
+Mitral stenosis	CTLA4	1.0	
+Monoclonal Gammopathy of Undetermined Significance	CTLA4	1.0	
+Abnormality of the mouth	CTLA4	1.0	
+Abnormality of movement	CTLA4	1.0	
+Mucocutaneous Lymph Node Syndrome	CTLA4	1.0	
+Multiple Myeloma	CTLA4	1.0	
+Multiple Sclerosis	CTLA4	1.0	
+Musculoskeletal Diseases	CTLA4	1.0	
+Myasthenia Gravis	CTLA4	1.0	
+Mycoses	CTLA4	1.0	
+Mycosis Fungoides	CTLA4	1.0	
+Myocardial Infarction	CTLA4	1.0	
+Myocarditis	CTLA4	1.0	
+Nausea and vomiting	CTLA4	1.0	
+Secondary hypertriglyceridemia	CTLA4	1.0	
+Neoplasms	CTLA4	1.0	
+Nephritis	CTLA4	1.0	
+Lipoid nephrosis	CTLA4	1.0	
+Oral Submucous Fibrosis	CTLA4	1.0	
+Otitis media	CTLA4	1.0	
+Pain	CTLA4	1.0	
+Pancreatitis	CTLA4	1.0	
+Papilloma	CTLA4	1.0	
+Pemphigus	CTLA4	1.0	
+Pericarditis	CTLA4	1.0	
+Periodontitis	CTLA4	1.0	
+Periodontitis, Juvenile	CTLA4	1.0	
+Peripheral neuropathy, myopathy, hoarseness, and hearing loss	CTLA4	1.0	
+Pleuritis	CTLA4	1.0	
+Pneumonia	CTLA4	1.0	
+Preeclampsia/eclampsia 1	CTLA4	1.0	
+Pregnancy Complications, Hematologic	CTLA4	1.0	
+Prostatic Neoplasms	CTLA4	1.0	
+Proteinuria, low molecular weight, with hypercalciuria and nephrocalcinosis	CTLA4	1.0	
+Pruritus	CTLA4	1.0	
+Psoriasis	CTLA4	1.0	
+Pulmonary fibrosis and/or bone marrow failure, telomere-related, 4	CTLA4	1.0	
+Purpura	CTLA4	1.0	
+Henoch-Schoenlein Purpura	CTLA4	1.0	
+Renal Insufficiency, Chronic	CTLA4	1.0	
+Respiratory Syncytial Virus Infections	CTLA4	1.0	
+Respiratory tract infection	CTLA4	1.0	
+Abnormality of the retina	CTLA4	1.0	
+Retinopathy	CTLA4	1.0	
+Rhinitis, Allergic, Seasonal	CTLA4	1.0	
+Rhinitis, Allergic, Perennial	CTLA4	1.0	
+Sarcoidosis	CTLA4	1.0	
+Schizophrenia	CTLA4	1.0	
+Scleroderma	CTLA4	1.0	
+Seizures, Febrile	CTLA4	1.0	
+Serositis	CTLA4	1.0	
+Sinusitis	CTLA4	1.0	
+Abnormality of the skin	CTLA4	1.0	
+Dermatosis NOS	CTLA4	1.0	
+Neoplasm of the skin	CTLA4	1.0	
+Skin ulcer	CTLA4	1.0	
+Splenomegaly	CTLA4	1.0	
+Ankylosing spondylitis	CTLA4	1.0	
+Oral aphthae	CTLA4	1.0	
+Arterial stenosis	CTLA4	1.0	
+Stroke	CTLA4	1.0	
+Subacute Sclerosing Panencephalitis	CTLA4	1.0	
+Tetanus	CTLA4	1.0	
+Thalassemia	CTLA4	1.0	
+Thrombocytopenia, platelet dysfunction, hemolysis, and imbalanced globin synthesis	CTLA4	1.0	
+Thymoma	CTLA4	1.0	
+Thyroid Diseases	CTLA4	1.0	
+Thyroiditis	CTLA4	1.0	
+Trachoma	CTLA4	1.0	
+Tremor, hereditary essential, 5	CTLA4	1.0	
+Chronic Chagas' disease	CTLA4	1.0	
+Tuberculosis, Pulmonary	CTLA4	1.0	
+Peptic Ulcer Hemorrhage	CTLA4	1.0	
+Erythema	CTLA4	1.0	
+Ureteral obstruction	CTLA4	1.0	
+Abnormality of the genitourinary system	CTLA4	1.0	
+Urticaria	CTLA4	1.0	
+Anterior uveitis	CTLA4	1.0	
+Uveomeningoencephalitic Syndrome	CTLA4	1.0	
+Vasculitis	CTLA4	1.0	
+Venous thrombosis	CTLA4	1.0	
+Virus Diseases	CTLA4	1.0	
+Visceromegaly	CTLA4	1.0	
+Vitiligo	CTLA4	1.0	
+Wheezing	CTLA4	1.0	
+Wiskott-Aldrich syndrome, 301000 (3)	CTLA4	1.0	
+B-cell lymphoma	CTLA4	1.0	
+Germinal Center B-Cell-Like Diffuse Large B-Cell Lymphoma	CTLA4	1.0	
+Lymphoma, Large-Cell, Follicular	CTLA4	1.0	
+T-cell lymphoma	CTLA4	1.0	
+Cutaneous T-cell lymphoma	CTLA4	1.0	
+Severe combined immunodeficiency due to ADA deficiency	CTLA4	1.0	
+Bronchial Hyperreactivity	CTLA4	1.0	
+Polyglandular autoimmune syndrome, type 1	CTLA4	1.0	
+Polymyositis	CTLA4	1.0	
+Polyglandular Type I Autoimmune Syndrome	CTLA4	1.0	
+Abnormality of the lymph nodes	CTLA4	1.0	
+Small cell lung cancer	CTLA4	1.0	
+Periorbital edema	CTLA4	1.0	
+Cranial nerve paralysis	CTLA4	1.0	
+Sensory neuropathy	CTLA4	1.0	
+Premature Birth	CTLA4	1.0	
+Facial edema	CTLA4	1.0	
+Elevated erythrocyte sedimentation rate	CTLA4	1.0	
+Abnormal renal physiology	CTLA4	1.0	
+Abnormality of thrombocytes	CTLA4	1.0	
+Dry skin	CTLA4	1.0	
+Abnormal leukocyte count	CTLA4	1.0	
+Non-arthropod borne lymphocytic choriomeningitis	CTLA4	1.0	
+Secondary malignant neoplasm of lung	CTLA4	1.0	
+Acute myocardial infarction	CTLA4	1.0	
+Allergic asthma	CTLA4	1.0	
+Abnormality of the hair	CTLA4	1.0	
+Abnormality of the coronary arteries	CTLA4	1.0	
+IgA deficiency	CTLA4	1.0	
+Acute intermittent porphyria	CTLA4	1.0	
+Vascular skin abnormality	CTLA4	1.0	
+Hyperpigmentation of the skin	CTLA4	1.0	
+Hypopigmentation of the skin	CTLA4	1.0	
+Aortic Aneurysm, Abdominal	CTLA4	1.0	
+Autoimmune thyroid disease 3	CTLA4	1.0	
+Tumor Progression	CTLA4	1.0	
+Abnormal QRS complex	CTLA4	1.0	
+Primary Sj�gren's syndrome	CTLA4	1.0	
+Latent autoimmune diabetes mellitus in adult	CTLA4	1.0	
+Malignant ascites	CTLA4	1.0	
+Adult type dermatomyositis	CTLA4	1.0	
+NOONAN-LIKE/MULTIPLE GIANT CELL LESION SYNDROME (disorder)	CTLA4	1.0	
+Nail dystrophy	CTLA4	1.0	
+Myalgia	CTLA4	1.0	
+Pulmonary infiltrates	CTLA4	1.0	
+Abnormality of the skull	CTLA4	1.0	
+Pancreatic Carcinoma	CTLA4	1.0	
+Gastrointestinal obstruction	CTLA4	1.0	
+Hereditary pancreatitis	CTLA4	1.0	
+Infections, recurrent, with encephalopathy, hepatic dysfunction, and cardiovascular malformations	CTLA4	1.0	
+Abnormality of skeletal muscles	CTLA4	1.0	
+Thickened skin	CTLA4	1.0	
+Abnormality of blood and blood-forming tissues	CTLA4	1.0	
+Hepatitis, Autoimmune	CTLA4	1.0	
+Impotence	CTLA4	1.0	
+Malignant neoplasm of lung	CTLA4	1.0	
+Lyme Arthritis	CTLA4	1.0	
+Age-related macular degeneration 2	CTLA4	1.0	
+Autoimmune thrombocytopenia	CTLA4	1.0	
+Neoplasm, Residual	CTLA4	1.0	
+Primary cutaneous marginal zone B-cell lymphoma	CTLA4	1.0	
+Abnormality of cardiovascular system electrophysiology	CTLA4	1.0	
+Growth abnormality	CTLA4	1.0	
+Psoriasis vulgaris	CTLA4	1.0	
+Childhood asthma	CTLA4	1.0	
+Abnormality of the nose	CTLA4	1.0	
+Abnormality of the digestive system	CTLA4	1.0	
+Congenital anomalies of kidney and urinary tract 1, susceptibility to	CTLA4	1.0	
+Abnormality of the ear	CTLA4	1.0	
+Chronic Periodontitis	CTLA4	1.0	
+Glomerulopathy	CTLA4	1.0	
+Axonal neuropathy	CTLA4	1.0	
+Chronic otitis media	CTLA4	1.0	
+Metastatic melanoma	CTLA4	1.0	
+Cervical Squamous Cell Carcinoma	CTLA4	1.0	
+Carcinoma of cervix	CTLA4	1.0	
+Papule	CTLA4	1.0	
+Internal hemorrhage	CTLA4	1.0	
+Malignant lymphoma, lymphocytic, intermediate differentiation, diffuse	CTLA4	1.0	
+Thyroid associated opthalmopathies	CTLA4	1.0	
+Stable angina	CTLA4	1.0	
+Malignant neoplasm of pancreas	CTLA4	1.0	
+Prediabetes syndrome	CTLA4	1.0	
+Hemiplegia/hemiparesis	CTLA4	1.0	
+Malignant tumor of prostate	CTLA4	1.0	
+Hematological neoplasm	CTLA4	1.0	
+Abnormality of erythrocytes	CTLA4	1.0	
+Hereditary hemochromatosis	CTLA4	1.0	
+{Atopy, susceptibility to}, 147050 (3)	CTLA4	1.0	
+Polyradiculoneuropathy, Chronic Inflammatory Demyelinating	CTLA4	1.0	
+Idiopathic thrombocytopenic purpura	CTLA4	1.0	
+Primary immune deficiency disorder	CTLA4	1.0	
+Idiopathic crescentic glomerulonephritis	CTLA4	1.0	
+Chronic rejection of renal transplant	CTLA4	1.0	
+{Systemic lupus erythematosus, susceptibility to, 8} (2)	CTLA4	1.0	
+Abnormal facial shape	CTLA4	1.0	
+Involuntary movements	CTLA4	1.0	
+Abnormality of lymphocytes	CTLA4	1.0	
+Aortic valve calcification	CTLA4	1.0	
+Abnormal erythrocyte sedimentation rate	CTLA4	1.0	
+Neuropathy ataxia retinitis pigmentosa syndrome	CTLA4	1.0	
+Autosomal dominant non-syndromic sensorineural deafness type DFNA	CTLA4	1.0	
+Dermatitis and eczema	CTLA4	1.0	
+Epidermal thickening	CTLA4	1.0	
+Lymphadenopathy	CTLA4	1.0	
+Meningitis	CTLA4	1.0	
+Prostatitis	CTLA4	1.0	
+Abnormality of the nervous system	CTLA4	1.0	
+Granulomatosis	CTLA4	1.0	
+Metabolic Syndrome X	CTLA4	1.0	
+Hepatitis B, Chronic	CTLA4	1.0	
+Hepatitis C, Chronic	CTLA4	1.0	
+Skeletal muscle atrophy	CTLA4	1.0	
+Primary sclerosing cholangitis	CTLA4	1.0	
+Abnormal platelet count	CTLA4	1.0	
+Recurrent upper respiratory tract infections	CTLA4	1.0	
+Osteosarcoma	CTLA4	1.0	
+Abnormal urine cytology	CTLA4	1.0	
+Aqueous Humor Disorders	CTLA4	1.0	
+Carcinogenesis	CTLA4	1.0	
+Inherited neuropathies	CTLA4	1.0	
+Leukemogenesis	CTLA4	1.0	
+Prostate carcinoma	CTLA4	1.0	
+Obstructive lung disease	CTLA4	1.0	
+Hashimoto thyroiditis	CTLA4	1.0	
+Ovarian epithelial cancer	CTLA4	1.0	
+Breast carcinoma	CTLA4	1.0	
+Lung cancer	CTLA4	1.0	
+Stomach cancer	CTLA4	1.0	
+Bladder carcinoma	CTLA4	1.0	
+Skin carcinoma	CTLA4	1.0	
+Abdominal symptom	CTLA4	1.0	
+Abnormality of the genital system	CTLA4	1.0	
+Hyperlipoproteinemia Type IIa	CTLA4	1.0	
+early pregnancy	CTLA4	1.0	
+Localized skin lesion	CTLA4	1.0	
+Abnormality of the nail	CTLA4	1.0	
+Subcutaneous hemorrhage	CTLA4	1.0	
+Abnormality of head or neck	CTLA4	1.0	
+Acute GVH disease	CTLA4	1.0	
+Chronic graft-versus-host disease	CTLA4	1.0	
+Hyperkeratosis	CTLA4	1.0	
+Cardiomyopathy	CTLA4	1.0	
+Cerebral ischemia	CTLA4	1.0	
+Acute Coronary Syndrome	CTLA4	1.0	
+Spondylarthropathies	CTLA4	1.0	
+Invasive Ductal Breast Carcinoma	CTLA4	1.0	
+BREAST-OVARIAN CANCER, FAMILIAL, SUSCEPTIBILITY TO, 4	CTLA4	1.0	
+Respiratory failure	CTLA4	1.0	
+Diffuse Scleroderma	CTLA4	1.0	
+Abnormality of skin pigmentation	CTLA4	1.0	
+Decreased body weight	CTLA4	1.0	
+Inflammatory disorder	CTLA4	1.0	
+B Acute Lymphoblastic Leukemia with t(9;22)(q34;q11.2); BCR-ABL1	CTLA4	1.0	
+Adenoma of large intestine	CTLA4	1.0	
+Autoimmune lymphoproliferative syndrome, type 2	CTLA4	1.0	
+Gastric Mucosa-Associated Lymphoid Tissue Lymphoma	CTLA4	1.0	
+Pancreatic Ductal Adenocarcinoma	CTLA4	1.0	
+Sporadic Breast Carcinoma	CTLA4	1.0	
+Hearing impairment	CTLA4	1.0	
+Dilated cardiomyopathy 1A	CTLA4	1.0	
+Abnormal bleeding	CTLA4	1.0	
+Pleomorphic adenoma of salivary gland	CTLA4	1.0	
+Tumor Immunity	CTLA4	1.0	
+Colorectal cancer	CTLA4	1.0	
+Sjogren's Syndrome	CTLA4	1.0	
+Renal insufficiency	CTLA4	1.0	
+Non-Neoplastic Disorder	CTLA4	1.0	
+Abnormality of temperature regulation	CTLA4	1.0	
+Incomplete penetrance	CTLA4	1.0	
+Phenotypic variability	CTLA4	1.0	
+Upper motor neuron dysfunction	CTLA4	1.0	
+Abnormality of the ureter	CTLA4	1.0	
+Multicystic renal dysplasia, bilateral	CTLA4	1.0	
+VITILIGO-ASSOCIATED MULTIPLE AUTOIMMUNE DISEASE SUSCEPTIBILITY 1 (finding)	CTLA4	1.0	
+Abnormality of B cell physiology	CTLA4	1.0	
+Abnormality of the cranial nerves	CTLA4	1.0	
+Abnormal immunoglobulin level	CTLA4	1.0	
+Irregular hyperpigmentation	CTLA4	1.0	
+Abnormality of the middle ear	CTLA4	1.0	
+Venous Thromboembolism	CTLA4	1.0	
+Dilatation of the renal pelvis	CTLA4	1.0	
+Coronary Artery Disease	CTLA4	1.0	
+Precursor Cell Lymphoblastic Leukemia-Lymphoma	CTLA4	1.0	
+Proteinuria Adverse Event	CTLA4	1.0	
+Hepatocellular carcinoma	CTLA4	1.0	
+Abnormality of facial skeleton	CTLA4	1.0	
+Stage 5 chronic kidney disease	CTLA4	1.0	
+Microscopic Polyarteritis	CTLA4	1.0	
+Abnormality of fluid regulation	CTLA4	1.0	
+Allergic rhinitis	CTLA4	1.0	
+Anti-Neutrophil Cytoplasmic Antibody-Associated Vasculitis	CTLA4	1.0	
+Chronic ulcerative colitis	CTLA4	1.0	
+Abnormality of humoral immunity	CTLA4	1.0	
+Restrictive ventilatory defect	CTLA4	1.0	
+Juvenile idiopathic arthritis, enthesitis related arthritis	CTLA4	1.0	
+Granulomatosis with Polyangiitis	CTLA4	1.0	
+Allergic disposition	CTLA4	1.0	
+Allergic sensitization	CTLA4	1.0	
+Visual impairment	CTLA4	1.0	
+Juvenile rheumatoid arthritis	CTLA4	1.0	
+Recurrent respiratory infections	CTLA4	1.0	
+Experimental Organism Basal Cell Carcinoma	CTLA4	1.0	
+Inflammatory abnormality of the skin	CTLA4	1.0	
+Abnormality of the respiratory system	CTLA4	1.0	
+Abnormality of abdomen morphology	CTLA4	1.0	
+Inflammatory abnormality of the eye	CTLA4	1.0	
+Morphological abnormality of the gastrointestinal tract	CTLA4	1.0	
+Abnormality of brain morphology	CTLA4	1.0	
+Abnormal genital system morphology	CTLA4	1.0	
+Anemia due to reduced life span of red cells	CTLA4	1.0	
+Generalized abnormality of skin	CTLA4	1.0	
+Abnormality of the systemic arterial tree	CTLA4	1.0	
+Weakness due to upper motor neuron dysfunction	CTLA4	1.0	
+Abnormality of cerebral artery	CTLA4	1.0	
+Abnormality of bone marrow cell morphology	CTLA4	1.0	
+Abnormality of macrophages	CTLA4	1.0	
+Abnormality of the musculature	CTLA4	1.0	
+Abnormality of B cells	CTLA4	1.0	
+Abnormality of the immune system	CTLA4	1.0	
+Abnormality of lung morphology	CTLA4	1.0	
+Abnormality of the abdominal organs	CTLA4	1.0	
+Morphological abnormality of the central nervous system	CTLA4	1.0	
+Abnormality of metabolism/homeostasis	CTLA4	1.0	
+Abnormality of the liver	CTLA4	1.0	
+Abnormality of the skeletal system	CTLA4	1.0	
+Abnormality of the thorax	CTLA4	1.0	
+Abnormality of the eyelid	CTLA4	1.0	
+Abnormality of the inner ear	CTLA4	1.0	
+Abnormality of the head	CTLA4	1.0	
+Abnormality of the urinary system	CTLA4	1.0	
+Abnormality of globe location	CTLA4	1.0	
+Abnormality of the lymphatic system	CTLA4	1.0	
+Abnormality of the cerebral vasculature	CTLA4	1.0	
+Abnormality of muscle size	CTLA4	1.0	
+Functional abnormality of the gastrointestinal tract	CTLA4	1.0	
+Increased inflammatory response	CTLA4	1.0	
+Abnormal inflammatory response	CTLA4	1.0	
+Abnormality of nervous system morphology	CTLA4	1.0	
+Abnormality of nervous system physiology	CTLA4	1.0	
+Abnormality of the nephron	CTLA4	1.0	
+Abnormality of the globe	CTLA4	1.0	
+Abnormal eye physiology	CTLA4	1.0	
+Abnormal eye morphology	CTLA4	1.0	
+Abnormal respiratory system morphology	CTLA4	1.0	
+Abnormality of cells of the monocyte/macrophage lineage	CTLA4	1.0	
+Abnormality of pancreas physiology	CTLA4	1.0	
+Abnormality of skeletal morphology	CTLA4	1.0	
+Abnormality of muscle morphology	CTLA4	1.0	
+Abnormality of facial soft tissue	CTLA4	1.0	
+Neoplasm by anatomical site	CTLA4	1.0	
+Abnormality of central motor function	CTLA4	1.0	
+Functional abnormality of the inner ear	CTLA4	1.0	
+Abnormal hair quantity	CTLA4	1.0	
+Abnormality of the urinary system physiology	CTLA4	1.0	
+Elevated C-reactive protein level	CTLA4	1.0	
+Abnormality of skin adnexa morphology	CTLA4	1.0	
+Abnormality of skin physiology	CTLA4	1.0	
+Abnormality of skin morphology	CTLA4	1.0	
+Abnormality of blood circulation	CTLA4	1.0	
+Abnormality of cardiovascular system physiology	CTLA4	1.0	
+Abnormality of the gastrointestinal tract	CTLA4	1.0	
+Abnormality of cell physiology	CTLA4	1.0	
+Abnormality of cellular immune system	CTLA4	1.0	
+Abnormality of immune system physiology	CTLA4	1.0	
+Abnormality of myeloid leukocytes	CTLA4	1.0	
+Abnormality of the renal pelvis	CTLA4	1.0	
+Abnormality of the upper urinary tract	CTLA4	1.0	
+Abnormality of circulating protein level	CTLA4	1.0	
+Abnormality of the male genitalia	CTLA4	1.0	
+Abnormal axial skeleton morphology	CTLA4	1.0	
+Abnormalities of the peripheral arteries	CTLA4	1.0	
+Abnormality of the posterior segment of the globe	CTLA4	1.0	
+Abnormality of body weight	CTLA4	1.0	
+Abnormality of urine homeostasis	CTLA4	1.0	
+Functional respiratory abnormality	CTLA4	1.0	
+Abnormality of the pleura	CTLA4	1.0	
+Abnormal thrombosis	CTLA4	1.0	
+Abnormality of the spleen	CTLA4	1.0	
+Abnormality of the nasopharynx	CTLA4	1.0	
+Abnormality of the pancreas	CTLA4	1.0	
+Abnormality of the pericardium	CTLA4	1.0	
+Abnormality of the integument	CTLA4	1.0	
+Abnormality of the fundus	CTLA4	1.0	
+Abnormality of the hypothalamus-pituitary axis	CTLA4	1.0	
+Abnormality of the endocrine system	CTLA4	1.0	
+Abnormal internal genitalia	CTLA4	1.0	
+Abnormal peripheral nervous system morphology	CTLA4	1.0	
+Abnormality of the periorbital region	CTLA4	1.0	
+Abnormality of the pharynx	CTLA4	1.0	
+Abnormality of vision	CTLA4	1.0	
+Hearing abnormality	CTLA4	1.0	
+Abnormality of the orbital region	CTLA4	1.0	
+Abnormality of the face	CTLA4	1.0	
+Abnormality of the paranasal sinuses	CTLA4	1.0	
+Abnormality of the oral cavity	CTLA4	1.0	
+Abnormality of the glomerulus	CTLA4	1.0	
+Abnormality of male internal genitalia	CTLA4	1.0	
+Decreased antibody level in blood	CTLA4	1.0	
+Abnormality of cardiovascular system morphology	CTLA4	1.0	
+Abnormal morphology of the ocular adnexa	CTLA4	1.0	
+Abnormality of digestive system morphology	CTLA4	1.0	
+Abnormality of digestive system physiology	CTLA4	1.0	
+Abnormal vascular morphology	CTLA4	1.0	

@@ -1,0 +1,464 @@
+node1	node2	edge_score	
+DB00200	AMN	1.0	
+DB00200	MTR	1.0	
+DB00200	TCN1	1.0	
+DB00200	TCN2	1.0	
+DB00200	CUBN	1.0	
+DB00200	MMACHC	1.0	
+DB00200	MTRR	1.0	
+DB00200	MMAA	1.0	
+DB00200	MMAB	1.0	
+MTR		1.0
+MTRR		1.0
+EMG: myopathic abnormalities	MTR	1.0	
+EMG: myopathic abnormalities	MTRR	1.0	
+Aplasia involving bones of the extremities	MTR	1.0	
+Aplasia involving bones of the extremities	MTRR	1.0	
+ Adenocarcinoma, ovarian, somatic, 167000 (3)	MTR	1.0	
+ Adenocarcinoma, ovarian, somatic, 167000 (3)	MTRR	1.0	
+Adenomas, multiple colorectal, 608456 (3)	MTR	1.0	
+Adenomas, multiple colorectal, 608456 (3)	MTRR	1.0	
+Alzheimer Disease	MTR	1.0	
+Alzheimer Disease	MTRR	1.0	
+Anemia	MTR	1.0	
+Anemia	MTRR	1.0	
+Macrocytic anemia	MTR	1.0	
+Macrocytic anemia	MTRR	1.0	
+Megaloblastic anemia, thiamine-responsive, with diabetes mellitus and sensorineural deafness	MTR	1.0	
+Megaloblastic anemia, thiamine-responsive, with diabetes mellitus and sensorineural deafness	MTRR	1.0	
+Rheumatoid arthritis	MTR	1.0	
+Rheumatoid arthritis	MTRR	1.0	
+Atherosclerosis	MTR	1.0	
+Atherosclerosis	MTRR	1.0	
+Autism 15	MTR	1.0	
+Autism 15	MTRR	1.0	
+Azoospermia	MTR	1.0	
+Azoospermia	MTRR	1.0	
+Bipolar affective disorder	MTR	1.0	
+Bipolar affective disorder	MTRR	1.0	
+Malignant tumor of urinary bladder	MTR	1.0	
+Malignant tumor of urinary bladder	MTRR	1.0	
+Brain very small	MTR	1.0	
+Brain very small	MTRR	1.0	
+Brain neoplasm	MTR	1.0	
+Brain neoplasm	MTRR	1.0	
+Breast-ovarian cancer, familial 1	MTR	1.0	
+Breast-ovarian cancer, familial 1	MTRR	1.0	
+Colon cancer	MTR	1.0	
+Colon cancer	MTRR	1.0	
+Non-small cell lung carcinoma	MTR	1.0	
+Non-small cell lung carcinoma	MTRR	1.0	
+Squamous cell carcinoma	MTR	1.0	
+Squamous cell carcinoma	MTRR	1.0	
+Cardiovascular Diseases	MTR	1.0	
+Cardiovascular Diseases	MTRR	1.0	
+Brain Ischemia	MTR	1.0	
+Brain Ischemia	MTRR	1.0	
+Malignant tumor of cervix	MTR	1.0	
+Malignant tumor of cervix	MTRR	1.0	
+Cleft Lip	MTR	1.0	
+Cleft Lip	MTRR	1.0	
+Cleft Palate	MTR	1.0	
+Cleft Palate	MTRR	1.0	
+Ulcerative colitis	MTR	1.0	
+Ulcerative colitis	MTRR	1.0	
+Colorectal cancer 1	MTR	1.0	
+Colorectal cancer 1	MTRR	1.0	
+Colorectal Neoplasms	MTR	1.0	
+Colorectal Neoplasms	MTRR	1.0	
+Coronary heart disease 7	MTR	1.0	
+Coronary heart disease 7	MTRR	1.0	
+Crohn Disease	MTR	1.0	
+Crohn Disease	MTRR	1.0	
+Demyelinating Diseases	MTR	1.0	
+Demyelinating Diseases	MTRR	1.0	
+{Unipolar depression, susceptibility to}, 608516 (3)	MTR	1.0	
+{Unipolar depression, susceptibility to}, 608516 (3)	MTRR	1.0	
+Depressive Disorder	MTR	1.0	
+Depressive Disorder	MTRR	1.0	
+Down Syndrome	MTR	1.0	
+Down Syndrome	MTRR	1.0	
+Drug Allergy	MTR	1.0	
+Drug Allergy	MTRR	1.0	
+Epilepsy	MTR	1.0	
+Epilepsy	MTRR	1.0	
+Abnormality of the eye	MTR	1.0	
+Abnormality of the eye	MTRR	1.0	
+Failure to thrive	MTR	1.0	
+Failure to thrive	MTRR	1.0	
+Intrauterine growth retardation	MTR	1.0	
+Intrauterine growth retardation	MTRR	1.0	
+Folic Acid Deficiency	MTR	1.0	
+Folic Acid Deficiency	MTRR	1.0	
+Glioma	MTR	1.0	
+Glioma	MTRR	1.0	
+IgA nephropathy, susceptibility to, 3	MTR	1.0	
+IgA nephropathy, susceptibility to, 3	MTRR	1.0	
+Head and Neck Neoplasms	MTR	1.0	
+Head and Neck Neoplasms	MTRR	1.0	
+Sensorineural hearing impairment	MTR	1.0	
+Sensorineural hearing impairment	MTRR	1.0	
+Heart Defects, Congenital	MTR	1.0	
+Heart Defects, Congenital	MTRR	1.0	
+Ventricular septal defect 2	MTR	1.0	
+Ventricular septal defect 2	MTRR	1.0	
+Homocystinuria due to CBS deficiency	MTR	1.0	
+Homocystinuria due to CBS deficiency	MTRR	1.0	
+Huntington's chorea	MTR	1.0	
+Huntington's chorea	MTRR	1.0	
+Hypertension	MTR	1.0	
+Hypertension	MTRR	1.0	
+Male infertility	MTR	1.0	
+Male infertility	MTRR	1.0	
+Inflammatory Bowel Diseases	MTR	1.0	
+Inflammatory Bowel Diseases	MTRR	1.0	
+Kidney Diseases	MTR	1.0	
+Kidney Diseases	MTRR	1.0	
+Leukemia, Lymphocytic, Chronic, B-Cell	MTR	1.0	
+Leukemia, Lymphocytic, Chronic, B-Cell	MTRR	1.0	
+Acute lymphoid leukemia	MTR	1.0	
+Acute lymphoid leukemia	MTRR	1.0	
+Leukemia, Lymphocytic, Acute, L1	MTR	1.0	
+Leukemia, Lymphocytic, Acute, L1	MTRR	1.0	
+Acute myeloid leukemia	MTR	1.0	
+Acute myeloid leukemia	MTRR	1.0	
+Chronic obstructive pulmonary disease	MTR	1.0	
+Chronic obstructive pulmonary disease	MTRR	1.0	
+Lung Neoplasms	MTR	1.0	
+Lung Neoplasms	MTRR	1.0	
+Lupus Erythematosus, Systemic	MTR	1.0	
+Lupus Erythematosus, Systemic	MTRR	1.0	
+Lymphoma, Follicular	MTR	1.0	
+Lymphoma, Follicular	MTRR	1.0	
+Non-Hodgkin lymphoma	MTR	1.0	
+Non-Hodgkin lymphoma	MTRR	1.0	
+{Gastric cancer risk after H. pylori infection}, 137215 (3)	MTR	1.0	
+{Gastric cancer risk after H. pylori infection}, 137215 (3)	MTRR	1.0	
+Animal Mammary Neoplasms	MTR	1.0	
+Animal Mammary Neoplasms	MTRR	1.0	
+Marijuana Abuse	MTR	1.0	
+Marijuana Abuse	MTRR	1.0	
+Meningeal Neoplasms	MTR	1.0	
+Meningeal Neoplasms	MTRR	1.0	
+Meningioma	MTR	1.0	
+Meningioma	MTRR	1.0	
+Disorders of Intracellular Cobalamin Metabolism	MTR	1.0	
+Disorders of Intracellular Cobalamin Metabolism	MTRR	1.0	
+Abnormality of movement	MTR	1.0	
+Abnormality of movement	MTRR	1.0	
+Multiple Myeloma	MTR	1.0	
+Multiple Myeloma	MTRR	1.0	
+Multiple Sclerosis	MTR	1.0	
+Multiple Sclerosis	MTRR	1.0	
+Hypotonia, infantile, with psychomotor retardation	MTR	1.0	
+Hypotonia, infantile, with psychomotor retardation	MTRR	1.0	
+Other disorders of the nervous system	MTR	1.0	
+Other disorders of the nervous system	MTRR	1.0	
+Neural tube defect	MTR	1.0	
+Neural tube defect	MTRR	1.0	
+Nystagmus	MTR	1.0	
+Nystagmus	MTRR	1.0	
+Obesity	MTR	1.0	
+Obesity	MTRR	1.0	
+Oligospermia	MTR	1.0	
+Oligospermia	MTRR	1.0	
+Pancreatic Neoplasms	MTR	1.0	
+Pancreatic Neoplasms	MTRR	1.0	
+Parkinson Disease	MTR	1.0	
+Parkinson Disease	MTRR	1.0	
+Phenylketonuria	MTR	1.0	
+Phenylketonuria	MTRR	1.0	
+Placental Insufficiency	MTR	1.0	
+Placental Insufficiency	MTRR	1.0	
+Preeclampsia/eclampsia 1	MTR	1.0	
+Preeclampsia/eclampsia 1	MTRR	1.0	
+Psychoses, Substance-Induced	MTR	1.0	
+Psychoses, Substance-Induced	MTRR	1.0	
+Seizures, Febrile	MTR	1.0	
+Seizures, Febrile	MTRR	1.0	
+Stomach Neoplasms	MTR	1.0	
+Stomach Neoplasms	MTRR	1.0	
+Stroke	MTR	1.0	
+Stroke	MTRR	1.0	
+Thromboembolism	MTR	1.0	
+Thromboembolism	MTRR	1.0	
+Adverse drug events and drug allergies	MTR	1.0	
+Adverse drug events and drug allergies	MTRR	1.0	
+Abnormality of the genitourinary system	MTR	1.0	
+Abnormality of the genitourinary system	MTRR	1.0	
+Vascular Diseases	MTR	1.0	
+Vascular Diseases	MTRR	1.0	
+Venous thrombosis	MTR	1.0	
+Venous thrombosis	MTRR	1.0	
+Germinal Center B-Cell-Like Diffuse Large B-Cell Lymphoma	MTR	1.0	
+Germinal Center B-Cell-Like Diffuse Large B-Cell Lymphoma	MTRR	1.0	
+Lymphoma, Large-Cell, Follicular	MTR	1.0	
+Lymphoma, Large-Cell, Follicular	MTRR	1.0	
+T-cell lymphoma	MTR	1.0	
+T-cell lymphoma	MTRR	1.0	
+Spina bifida	MTR	1.0	
+Spina bifida	MTRR	1.0	
+Deep venous thrombosis	MTR	1.0	
+Deep venous thrombosis	MTRR	1.0	
+Small cell lung cancer	MTR	1.0	
+Small cell lung cancer	MTRR	1.0	
+Migraine Disorders	MTR	1.0	
+Migraine Disorders	MTRR	1.0	
+Acute myocardial ischemia	MTR	1.0	
+Acute myocardial ischemia	MTRR	1.0	
+Deep thrombophlebitis	MTR	1.0	
+Deep thrombophlebitis	MTRR	1.0	
+Congenital heart disease	MTR	1.0	
+Congenital heart disease	MTRR	1.0	
+Migraine with aura	MTR	1.0	
+Migraine with aura	MTRR	1.0	
+Adrenoleukodystrophy	MTR	1.0	
+Adrenoleukodystrophy	MTRR	1.0	
+Iron deficiency anemia	MTR	1.0	
+Iron deficiency anemia	MTRR	1.0	
+Aortic Aneurysm, Abdominal	MTR	1.0	
+Aortic Aneurysm, Abdominal	MTRR	1.0	
+Onset	MTR	1.0	
+Onset	MTRR	1.0	
+Cervical intraepithelial neoplasia (Cervical dysplasia)	MTR	1.0	
+Cervical intraepithelial neoplasia (Cervical dysplasia)	MTRR	1.0	
+Combined Hepatocellular Carcinoma and Cholangiocarcinoma	MTR	1.0	
+Combined Hepatocellular Carcinoma and Cholangiocarcinoma	MTRR	1.0	
+Brain atrophy	MTR	1.0	
+Brain atrophy	MTRR	1.0	
+Pancreatic Carcinoma	MTR	1.0	
+Pancreatic Carcinoma	MTRR	1.0	
+Aminoaciduria	MTR	1.0	
+Aminoaciduria	MTRR	1.0	
+Abnormality of blood and blood-forming tissues	MTR	1.0	
+Abnormality of blood and blood-forming tissues	MTRR	1.0	
+Malignant neoplasm of lung	MTR	1.0	
+Malignant neoplasm of lung	MTRR	1.0	
+Age-related macular degeneration 2	MTR	1.0	
+Age-related macular degeneration 2	MTRR	1.0	
+Growth abnormality	MTR	1.0	
+Growth abnormality	MTRR	1.0	
+3-Methylglutaconic aciduria	MTR	1.0	
+3-Methylglutaconic aciduria	MTRR	1.0	
+Cancer of Head and Neck	MTR	1.0	
+Cancer of Head and Neck	MTRR	1.0	
+Esophageal Squamous Cell Carcinoma	MTR	1.0	
+Esophageal Squamous Cell Carcinoma	MTRR	1.0	
+Carcinoma of cervix	MTR	1.0	
+Carcinoma of cervix	MTRR	1.0	
+Deep vein thrombosis of lower limb	MTR	1.0	
+Deep vein thrombosis of lower limb	MTRR	1.0	
+Hepatic cancer metastatic	MTR	1.0	
+Hepatic cancer metastatic	MTRR	1.0	
+Malignant neoplasm of pancreas	MTR	1.0	
+Malignant neoplasm of pancreas	MTRR	1.0	
+Malignant tumor of prostate	MTR	1.0	
+Malignant tumor of prostate	MTRR	1.0	
+Abnormality of erythrocytes	MTR	1.0	
+Abnormality of erythrocytes	MTRR	1.0	
+Autosomal recessive inheritance	MTR	1.0	
+Autosomal recessive inheritance	MTRR	1.0	
+Blindness	MTR	1.0	
+Blindness	MTRR	1.0	
+Abnormality of eye movement	MTR	1.0	
+Abnormality of eye movement	MTRR	1.0	
+Abnormality of the nervous system	MTR	1.0	
+Abnormality of the nervous system	MTRR	1.0	
+Malignant tumor of esophagus	MTR	1.0	
+Malignant tumor of esophagus	MTRR	1.0	
+Global developmental delay, absent or hypoplastic corpus callosum, and dysmorphic facies	MTR	1.0	
+Global developmental delay, absent or hypoplastic corpus callosum, and dysmorphic facies	MTRR	1.0	
+Gait disturbance	MTR	1.0	
+Gait disturbance	MTRR	1.0	
+Carcinogenesis	MTR	1.0	
+Carcinogenesis	MTRR	1.0	
+Hereditary hyperhomocysteinemia	MTR	1.0	
+Hereditary hyperhomocysteinemia	MTRR	1.0	
+Prostate carcinoma	MTR	1.0	
+Prostate carcinoma	MTRR	1.0	
+Choroidal Neovascularization	MTR	1.0	
+Choroidal Neovascularization	MTRR	1.0	
+Anemia of inadequate production	MTR	1.0	
+Anemia of inadequate production	MTRR	1.0	
+Breast carcinoma	MTR	1.0	
+Breast carcinoma	MTRR	1.0	
+Neurodevelopmental abnormality	MTR	1.0	
+Neurodevelopmental abnormality	MTRR	1.0	
+Lung cancer	MTR	1.0	
+Lung cancer	MTRR	1.0	
+Carcinoma of colon	MTR	1.0	
+Carcinoma of colon	MTRR	1.0	
+Stomach cancer	MTR	1.0	
+Stomach cancer	MTRR	1.0	
+Bladder carcinoma	MTR	1.0	
+Bladder carcinoma	MTRR	1.0	
+Cardiac defects	MTR	1.0	
+Cardiac defects	MTRR	1.0	
+Brain Tumor, Primary	MTR	1.0	
+Brain Tumor, Primary	MTRR	1.0	
+Adult Acute Lymphocytic Leukemia	MTR	1.0	
+Adult Acute Lymphocytic Leukemia	MTRR	1.0	
+Abnormal muscle tone	MTR	1.0	
+Abnormal muscle tone	MTRR	1.0	
+Ischemic stroke	MTR	1.0	
+Ischemic stroke	MTRR	1.0	
+Squamous cell carcinoma of the head and neck	MTR	1.0	
+Squamous cell carcinoma of the head and neck	MTRR	1.0	
+Decreased body weight	MTR	1.0	
+Decreased body weight	MTRR	1.0	
+Adenoma of large intestine	MTR	1.0	
+Adenoma of large intestine	MTRR	1.0	
+Abnormality of amino acid metabolism	MTR	1.0	
+Abnormality of amino acid metabolism	MTRR	1.0	
+Childhood Leukemia	MTR	1.0	
+Childhood Leukemia	MTRR	1.0	
+Colorectal cancer	MTR	1.0	
+Colorectal cancer	MTRR	1.0	
+Infantile-onset ascending hereditary spastic paralysis	MTR	1.0	
+Infantile-onset ascending hereditary spastic paralysis	MTRR	1.0	
+Coronary Artery Disease	MTR	1.0	
+Coronary Artery Disease	MTRR	1.0	
+Precursor Cell Lymphoblastic Leukemia-Lymphoma	MTR	1.0	
+Precursor Cell Lymphoblastic Leukemia-Lymphoma	MTRR	1.0	
+Hepatocellular carcinoma	MTR	1.0	
+Hepatocellular carcinoma	MTRR	1.0	
+Ischemic Cerebrovascular Accident	MTR	1.0	
+Ischemic Cerebrovascular Accident	MTRR	1.0	
+Homocysteinemia due to MTHFR deficiency	MTR	1.0	
+Homocysteinemia due to MTHFR deficiency	MTRR	1.0	
+Visual impairment	MTR	1.0	
+Visual impairment	MTRR	1.0	
+Intellectual developmental disorder with dysmorphic facies and ptosis	MTR	1.0	
+Intellectual developmental disorder with dysmorphic facies and ptosis	MTRR	1.0	
+Abnormality of forebrain morphology	MTR	1.0	
+Abnormality of forebrain morphology	MTRR	1.0	
+Abnormality of brain morphology	MTR	1.0	
+Abnormality of brain morphology	MTRR	1.0	
+Abnormality of sulfur amino acid metabolism	MTR	1.0	
+Abnormality of sulfur amino acid metabolism	MTRR	1.0	
+Abnormality of the musculature	MTR	1.0	
+Abnormality of the musculature	MTRR	1.0	
+Abnormality of the cerebrum	MTR	1.0	
+Abnormality of the cerebrum	MTRR	1.0	
+Morphological abnormality of the central nervous system	MTR	1.0	
+Morphological abnormality of the central nervous system	MTRR	1.0	
+Abnormality of metabolism/homeostasis	MTR	1.0	
+Abnormality of metabolism/homeostasis	MTRR	1.0	
+Abnormality of the urinary system	MTR	1.0	
+Abnormality of the urinary system	MTRR	1.0	
+Abnormality of vitamin metabolism	MTR	1.0	
+Abnormality of vitamin metabolism	MTRR	1.0	
+Neurodevelopmental delay	MTR	1.0	
+Neurodevelopmental delay	MTRR	1.0	
+Abnormality of nervous system morphology	MTR	1.0	
+Abnormality of nervous system morphology	MTRR	1.0	
+Abnormality of nervous system physiology	MTR	1.0	
+Abnormality of nervous system physiology	MTRR	1.0	
+Abnormal involuntary eye movements	MTR	1.0	
+Abnormal involuntary eye movements	MTRR	1.0	
+Abnormal eye physiology	MTR	1.0	
+Abnormal eye physiology	MTRR	1.0	
+Abnormality of muscle physiology	MTR	1.0	
+Abnormality of muscle physiology	MTRR	1.0	
+Abnormality of the urinary system physiology	MTR	1.0	
+Abnormality of the urinary system physiology	MTRR	1.0	
+Abnormality of carboxylic acid metabolism	MTR	1.0	
+Abnormality of carboxylic acid metabolism	MTRR	1.0	
+Abnormality of body weight	MTR	1.0	
+Abnormality of body weight	MTRR	1.0	
+Abnormality of serum amino acid levels	MTR	1.0	
+Abnormality of serum amino acid levels	MTRR	1.0	
+Abnormality of urine homeostasis	MTR	1.0	
+Abnormality of urine homeostasis	MTRR	1.0	
+Abnormality of vision	MTR	1.0	
+Abnormality of vision	MTRR	1.0	
+Atrophy/Degeneration affecting the brainstem	MTR	1.0	
+Atrophy/Degeneration affecting the brainstem	MTRR	1.0	
+Rheumatoid Nodule	MTR	1.0	
+Xeroderma Pigmentosum, Complementation Group D	MTRR	1.0	
+Gonorrhea	MTRR	1.0	
+Primary central nervous system lymphoma	MTR	1.0	
+Cervical intraepithelial neoplasia grade 2	MTR	1.0	
+Cleft palate with cleft lip	MTR	1.0	
+Cognition Disorders	MTRR	1.0	
+Omphalocele	MTRR	1.0	
+Carcinoma, Pancreatic Ductal	MTRR	1.0	
+Incoordination	MTR	1.0	
+ Cerebrovascular disease, occlusive (3)	MTRR	1.0	
+Malignant Childhood Neoplasm	MTR	1.0	
+Chromosome Aberrations	MTR	1.0	
+Coronary artery stenosis	MTR	1.0	
+Gastrointestinal Diseases	MTR	1.0	
+Decreased motor nerve conduction velocity	MTRR	1.0	
+Abnormal nerve conduction velocity	MTRR	1.0	
+Bone neoplasms	MTR	1.0	
+DNA Damage	MTR	1.0	
+Prion Diseases	MTR	1.0	
+body mass	MTR	1.0	
+Abnormality of peripheral nerve conduction	MTRR	1.0	
+Abnormality of peripheral nerves	MTRR	1.0	
+Leukemia, B-Cell	MTR	1.0	
+Abnormality of peripheral nervous system electrophysiology	MTRR	1.0	
+Lethargy	MTRR	1.0	
+NOONAN-LIKE/MULTIPLE GIANT CELL LESION SYNDROME (disorder)	MTR	1.0	
+Anorexia nervosa 1	MTR	1.0	
+Intracranial Aneurysm	MTR	1.0	
+Leukoencephalopathy with Brainstem and Spinal Cord Involvement and Lactate Elevation	MTR	1.0	
+Malnutrition	MTR	1.0	
+Giant cell arteritis	MTRR	1.0	
+Cervical Squamous Cell Carcinoma	MTR	1.0	
+Ventricular Fibrillation Adverse Event	MTR	1.0	
+Pregnancy Complications	MTRR	1.0	
+Transitional cell carcinoma of the bladder	MTR	1.0	
+Mild cognitive impairment	MTR	1.0	
+Hematological Disease	MTR	1.0	
+Neoplastic Cell Transformation	MTR	1.0	
+Coinfection	MTR	1.0	
+Neoplasm of the central nervous system	MTR	1.0	
+Malignant neoplasm of brain and nervous system	MTR	1.0	
+Uterine Cervical Neoplasms	MTR	1.0	
+Trisomy	MTRR	1.0	
+Chronic Periodontitis	MTR	1.0	
+Neoplasms, Second Primary	MTR	1.0	
+Spots on skin	MTRR	1.0	
+Reduced consciousness/confusion	MTRR	1.0	
+Meningioma, benign, no ICD-O subtype	MTRR	1.0	
+Metastatic Prostate Carcinoma	MTRR	1.0	
+Aortic aneurysm, familial thoracic 11, susceptibility to	MTRR	1.0	
+Venous Thromboembolism	MTRR	1.0	
+Lymphoid leukemia	MTRR	1.0	
+Neutropenia	MTR	1.0	
+Neoplasm Recurrence, Local	MTR	1.0	
+Hyperlipidemia, combined, 1	MTR	1.0	
+Feeding difficulties in infancy	MTR	1.0	
+Adenocarcinoma Of Esophagus	MTR	1.0	
+Leukopenia	MTR	1.0	
+Dementia familial British	MTR	1.0	
+Abnormal nervous system electrophysiology	MTRR	1.0	
+Essential hypertension	MTR	1.0	
+Acute Coronary Syndrome	MTR	1.0	
+Hydrops, lactic acidosis, and sideroblastic anemia	MTR	1.0	
+Gastrointestinal stromal tumor	MTRR	1.0	
+Exanthema	MTRR	1.0	
+Premature Birth	MTRR	1.0	
+Urothelial Carcinoma	MTR	1.0	
+Respiratory failure	MTRR	1.0	
+Benign Prostatic Hyperplasia	MTR	1.0	
+Glioblastoma multiforme	MTR	1.0	
+Feeding difficulties	MTR	1.0	
+Urinary Bladder Neoplasms	MTR	1.0	
+Retinoblastoma	MTR	1.0	
+Polycystic Ovary Syndrome	MTR	1.0	
+Dementia	MTR	1.0	
+Congenital chromosomal disease	MTR	1.0	
+Malaria	MTR	1.0	
+Esophageal carcinoma	MTR	1.0	
+Abnormal peripheral nervous system morphology	MTRR	1.0	
+Abnormality of coordination	MTR	1.0	
+Hematological neoplasm	MTRR	1.0	
+Kidney Failure, Chronic	MTR	1.0	
+Metabolic Syndrome X	MTRR	1.0	
+B-cell lymphoma	MTR	1.0	
+Alcohol dependence	MTRR	1.0	
+Esophageal Neoplasms	MTR	1.0	
+Functional respiratory abnormality	MTRR	1.0	

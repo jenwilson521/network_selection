@@ -1,0 +1,5 @@
+node1	node2	edge_score	
+DB01597	SLC22A6	1.0	
+DB01597	SLC22A8	1.0	
+DB01597	DPEP1	1.0	
+

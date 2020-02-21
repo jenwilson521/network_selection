@@ -1,0 +1,5 @@
+node_name	node_type	
+DB00550	drug	
+CYP1A1	drug_target	
+MPO	drug_target	
+DBH	drug_target	

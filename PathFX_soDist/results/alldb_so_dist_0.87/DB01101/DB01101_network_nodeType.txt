@@ -1,0 +1,9 @@
+node_name	node_type	
+DB01101	drug	
+CYP2C9	drug_target	
+CDA	drug_target	
+DPYD	drug_target	
+CES1	drug_target	
+TYMS	drug_target	
+TYMP	drug_target	
+Neurotoxicity Syndromes	phenotype	

@@ -1,0 +1,5 @@
+node1	node2	edge_score	
+DB00998	HTR1D	1.0	
+DB00998	CYP1A2	1.0	
+DB00998	HTR1B	1.0	
+

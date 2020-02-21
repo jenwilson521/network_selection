@@ -1,0 +1,7 @@
+node_name	node_type	
+DB00136	drug	
+GC	drug_target	
+CYP3A4	drug_target	
+CYP24A1	drug_target	
+VDR	drug_target	
+HOXA10	drug_target	

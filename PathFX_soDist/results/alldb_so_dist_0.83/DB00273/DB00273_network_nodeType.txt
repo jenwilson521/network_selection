@@ -1,0 +1,24 @@
+node_name	node_type	
+DB00273	drug	
+CA3	drug_target	
+CA2	drug_target	
+CA1	drug_target	
+GRIA1	drug_target	
+CA4	drug_target	
+CYP2C19	drug_target	
+SCN1A	drug_target	
+CYP3A4	drug_target	
+GABRA1	drug_target	
+GRIK1	drug_target	
+Severe myoclonic epilepsy in infancy	phenotype	
+Idiopathic generalized epilepsy	phenotype	
+Drug Allergy	phenotype	
+Primary malignant neoplasm of liver	phenotype	
+Absence seizures	phenotype	
+Status epilepticus	phenotype	
+Hepatic encephalopathy	phenotype	
+21-hydroxylase deficiency	phenotype	
+Dialeptic seizures	phenotype	
+Juvenile myoclonic epilepsy	phenotype	
+Drug Resistant Epilepsy	phenotype	
+Epilepsy, focal, with speech disorder and with or without mental retardation	phenotype	

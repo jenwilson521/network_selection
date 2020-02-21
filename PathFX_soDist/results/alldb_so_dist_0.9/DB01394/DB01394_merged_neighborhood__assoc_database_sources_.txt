@@ -1,0 +1,5 @@
+Gene	CUI	Source Databases	
+ABCB1	C0029445	Bone necrosis	DisGeNet	
+CYP2C8	C0029445	Bone necrosis	DisGeNet	
+CYP2E1	C0029445	Bone necrosis	DisGeNet	
+CYP3A4	C0029445	Bone necrosis	DisGeNet	

@@ -1,0 +1,11 @@
+node_name	node_type	
+DB00431	drug	
+ESR1	drug_target	
+GLRA2	drug_target	
+GLRA1	drug_target	
+GLRB	drug_target	
+NR1I2	drug_target	
+PGR	drug_target	
+GABRR1	drug_target	
+GABRB1	drug_target	
+GABRB3	drug_target	

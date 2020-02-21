@@ -1,0 +1,9 @@
+node_name	node_type	
+DB09073	drug	
+ABCG2	drug_target	
+ALB	drug_target	
+ABCB1	drug_target	
+CDK4	drug_target	
+SLC22A1	drug_target	
+CDK6	drug_target	
+CYP3A4	drug_target	

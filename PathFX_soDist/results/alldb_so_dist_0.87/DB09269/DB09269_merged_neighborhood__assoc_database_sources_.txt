@@ -1,0 +1,4 @@
+Gene	CUI	Source Databases	
+CES1	C1609538	Latent Tuberculosis	DisGeNet	
+CES1	C0025521	Inborn Errors of Metabolism	DisGeNet	
+CES1	C0270814	Spastic syndrome	DisGeNet	

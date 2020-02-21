@@ -1,0 +1,9 @@
+Gene	CUI	Source Databases	
+CNR1	C0030920	Peptic ulcer	DisGeNet	
+CYP2C8	C0030920	Peptic ulcer	DisGeNet	
+CYP2C9	C0030920	Peptic ulcer	DisGeNet	
+CYP2E1	C0030920	Peptic ulcer	DisGeNet	
+CYP2C8	C0155668	Old myocardial infarction	DisGeNet	
+CYP2C9	C0155668	Old myocardial infarction	DisGeNet	
+CNR1	C0003431	Antisocial Personality Disorder	DisGeNet	
+CYP2E1	C0003431	Antisocial Personality Disorder	DisGeNet	

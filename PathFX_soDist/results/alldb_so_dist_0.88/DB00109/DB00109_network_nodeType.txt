@@ -1,0 +1,8 @@
+node_name	node_type	
+DB00109	drug	
+CYP2C19	drug_target	
+CYP2E1	drug_target	
+Pleural Neoplasms	phenotype	
+Genomic Instability	phenotype	
+End Stage Liver Disease	phenotype	
+Stomach Diseases	phenotype	

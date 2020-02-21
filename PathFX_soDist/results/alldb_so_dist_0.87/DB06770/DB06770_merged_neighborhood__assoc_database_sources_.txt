@@ -1,0 +1,74 @@
+Gene	CUI	Source Databases	
+ALDH2	C0032229	Pleural Neoplasms	DisGeNet	
+CYP1A1	C0032229	Pleural Neoplasms	DisGeNet	
+CYP1A2	C0032229	Pleural Neoplasms	DisGeNet	
+CYP2E1	C0032229	Pleural Neoplasms	DisGeNet	
+ALDH2	C0023055	Neoplasm of the larynx	DisGeNet	
+CYP1A1	C0023055	Neoplasm of the larynx	DisGeNet	
+CYP1A2	C0023055	Neoplasm of the larynx	DisGeNet	
+CYP2C8	C0023055	Neoplasm of the larynx	DisGeNet	
+CYP2D6	C0023055	Neoplasm of the larynx	DisGeNet	
+CYP2E1	C0023055	Neoplasm of the larynx	DisGeNet	
+ALDH2	C0919532	Genomic Instability	DisGeNet	
+CYP1A1	C0919532	Genomic Instability	DisGeNet	
+CYP1A2	C0919532	Genomic Instability	DisGeNet	
+CYP2E1	C0919532	Genomic Instability	DisGeNet	
+ALDH2	C0153405	Malignant neoplasm of pharynx	DisGeNet	
+CYP1A1	C0153405	Malignant neoplasm of pharynx	DisGeNet	
+CYP2E1	C0153405	Malignant neoplasm of pharynx	DisGeNet	
+ALDH2	C0206720	Squamous Cell Neoplasms	DisGeNet	
+CYP1A1	C0206720	Squamous Cell Neoplasms	DisGeNet	
+CYP2E1	C0206720	Squamous Cell Neoplasms	DisGeNet	
+ALDH2	C0031347	Pharyngeal Neoplasms	DisGeNet	
+CYP1A1	C0031347	Pharyngeal Neoplasms	DisGeNet	
+CYP1A2	C0031347	Pharyngeal Neoplasms	DisGeNet	
+CYP2C8	C0031347	Pharyngeal Neoplasms	DisGeNet	
+ALDH2	C0028797	Occupational Diseases	DisGeNet	
+CYP1A1	C0028797	Occupational Diseases	DisGeNet	
+CYP2D6	C0028797	Occupational Diseases	DisGeNet	
+CYP2E1	C0028797	Occupational Diseases	DisGeNet	
+ALDH2	C0376670	Pancreatitis, Alcoholic	DisGeNet	
+CYP1A1	C0376670	Pancreatitis, Alcoholic	DisGeNet	
+CYP2E1	C0376670	Pancreatitis, Alcoholic	DisGeNet	
+CYP1A1	C0596321	Chemical Carcinogenesis	DisGeNet	
+CYP1A2	C0596321	Chemical Carcinogenesis	DisGeNet	
+CYP2D6	C0596321	Chemical Carcinogenesis	DisGeNet	
+ALDH2	C0026640	Neoplasm of the oral cavity	DisGeNet	
+CYP1A1	C0026640	Neoplasm of the oral cavity	DisGeNet	
+CYP1A2	C0026640	Neoplasm of the oral cavity	DisGeNet	
+CYP2C8	C0026640	Neoplasm of the oral cavity	DisGeNet	
+CYP2D6	C0026640	Neoplasm of the oral cavity	DisGeNet	
+CYP2E1	C0026640	Neoplasm of the oral cavity	DisGeNet	
+ALDH2	C0029445	Bone necrosis	DisGeNet	
+CYP2C8	C0029445	Bone necrosis	DisGeNet	
+CYP2E1	C0029445	Bone necrosis	DisGeNet	
+ALDH2	C0023891	Liver Cirrhosis, Alcoholic	DisGeNet	
+CYP1A1	C0023891	Liver Cirrhosis, Alcoholic	DisGeNet	
+CYP1A2	C0023891	Liver Cirrhosis, Alcoholic	DisGeNet	
+CYP2E1	C0023891	Liver Cirrhosis, Alcoholic	DisGeNet	
+CYP1A1	C0033054	Prenatal Exposure Delayed Effects	DisGeNet	
+CYP2D6	C0033054	Prenatal Exposure Delayed Effects	DisGeNet	
+CYP2E1	C0033054	Prenatal Exposure Delayed Effects	DisGeNet	
+ALDH2	C0027497	Nausea	DisGeNet	
+CYP1A2	C0027497	Nausea	DisGeNet	
+CYP2D6	C0027497	Nausea	DisGeNet	
+CYP1A2	C0041755	Adverse drug events and drug allergies	DisGeNet	
+CYP2D6	C0041755	Adverse drug events and drug allergies	DisGeNet	
+CYP2E1	C0041755	Adverse drug events and drug allergies	DisGeNet	
+ALDH2	C0009376	Colonic Polyps	DisGeNet	
+CYP1A1	C0009376	Colonic Polyps	DisGeNet	
+CYP1A2	C0009376	Colonic Polyps	DisGeNet	
+ALDH2	C0003944	As If Personality	DisGeNet	
+CYP2D6	C0003944	As If Personality	DisGeNet	
+CYP2E1	C0003944	As If Personality	DisGeNet	
+ALDH2	C0030920	Peptic ulcer	DisGeNet	
+CYP1A1	C0030920	Peptic ulcer	DisGeNet	
+CYP2C8	C0030920	Peptic ulcer	DisGeNet	
+CYP2E1	C0030920	Peptic ulcer	DisGeNet	
+ALDH2	C0949059	Colorectal polyposis	DisGeNet	
+CYP1A1	C0949059	Colorectal polyposis	DisGeNet	
+CYP1A2	C0949059	Colorectal polyposis	DisGeNet	
+CYP1A1	C0011609	Drug Eruptions	DisGeNet	
+CYP2E1	C0011609	Drug Eruptions	DisGeNet	
+CYP2D6	C1827377	Slow acetylator due to N-acetyltransferase enzyme variant	DisGeNet	
+CYP2E1	C1827377	Slow acetylator due to N-acetyltransferase enzyme variant	DisGeNet	

@@ -1,0 +1,4 @@
+node1	node2	edge_score	
+DB01400	ACHE	1.0	
+DB01400	BCHE	1.0	
+

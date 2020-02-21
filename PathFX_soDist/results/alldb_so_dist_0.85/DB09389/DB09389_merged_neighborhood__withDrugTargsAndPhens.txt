@@ -1,0 +1,84 @@
+node1	node2	edge_score	
+DB09389	CYP3A4	1.0	
+DB09389	CYP19A1	1.0	
+DB09389	PGR	1.0	
+DB09389	AR	1.0	
+CYP3A4	rs35599367	0.99
+CYP3A4	rs2242480	0.99
+rs2740574	CYP3A	0.9801
+CYP19A1	rs700518	0.99
+CYP19A1		1.0
+CYP3A4	rs4646437	0.99
+CYP19A1	rs2289105	0.99
+AR		1.0
+CYP19A1	rs4646	0.99
+CYP3A4	rs2246709	0.99
+CYP3A	rs12721627	0.970299
+CYP19A1	rs7176005	0.99
+CYP3A4	CYP3A4*1, CYP3A4*4	0.99
+rs4987161	CYP3A	0.9801
+rs12721627	CYP3A	0.9801
+CYP3A4	rs3735451	0.99
+CYP19A1	rs2236722	0.99
+CYP3A4		1.0
+rs12721627	CYP3A4	0.96059601
+CYP19A1	rs1008805	0.99
+CYP3A4	rs4987161	0.99
+CYP3A4	CYP3A4*1, CYP3A4*22	0.99
+CYP3A	rs2740574	0.970299
+CYP19A1	rs4775936	0.99
+CYP19A1	rs1062033	0.99
+rs4987161	CYP3A4	0.96059601
+CYP3A4	rs2740574	0.99
+rs2740574	CYP3A4	0.96059601
+CYP3A4	rs28371759	0.99
+CYP3A4	rs4986910	0.99
+CYP3A	rs4987161	0.970299
+CYP3A4	CYP3A4*1, CYP3A4*20, CYP3A4*8	0.99
+CYP19A1	rs10046	0.99
+CYP19A1	rs749292	0.99
+CYP19A1	rs3759811	0.99
+CYP3A4	rs4646440	0.99
+CYP3A4	rs12721627	0.99
+CYP19A1	rs6493497	0.99
+CYP3A4	CYP3A4*1, CYP3A4*1G	0.99
+CYP3A4	rs56324128	0.99
+Alcohol withdrawal syndrome	AR	1.0	
+Alcohol withdrawal syndrome	CYP19A1	1.0	
+Alopecia of scalp	AR	1.0	
+Alopecia of scalp	CYP19A1	1.0	
+Depressive Symptoms	AR	1.0	
+Depressive Symptoms	CYP19A1	1.0	
+Depressive Symptoms	CYP3A4	1.0	
+21-hydroxylase deficiency	AR	1.0	
+21-hydroxylase deficiency	CYP3A4	1.0	
+Malignant neoplasm of male breast	AR	1.0	
+Malignant neoplasm of male breast	CYP19A1	1.0	
+Weight Loss Adverse Event	AR	1.0	
+Weight Loss Adverse Event	CYP19A1	1.0	
+Spermatogenic failure 3	AR	1.0	
+Spermatogenic failure 3	CYP19A1	1.0	
+Virilism	AR	1.0	
+Virilism	CYP19A1	1.0	
+Malignant neoplasm of female breast	AR	1.0	
+Malignant neoplasm of female breast	CYP19A1	1.0	
+Female Breast Carcinoma	AR	1.0	
+Female Breast Carcinoma	CYP19A1	1.0	
+Carcinoma of Male Breast	AR	1.0	
+Carcinoma of Male Breast	CYP19A1	1.0	
+Female pseudohermaphroditism	AR	1.0	
+Female pseudohermaphroditism	CYP19A1	1.0	
+Adrenal hyperplasia	AR	1.0	
+Adrenal hyperplasia	CYP3A4	1.0	
+Breast Fibrocystic Disease	AR	1.0	
+Breast Fibrocystic Disease	CYP19A1	1.0	
+Neoplasms, Germ Cell and Embryonal	AR	1.0	
+Neoplasms, Germ Cell and Embryonal	CYP3A4	1.0	
+Disorder of endocrine system	AR	1.0	
+Disorder of endocrine system	CYP19A1	1.0	
+ Hyperandrogenism, nonclassic type, due to 21-hydroxylase deficiency, 201910 (3)	AR	1.0	
+ Hyperandrogenism, nonclassic type, due to 21-hydroxylase deficiency, 201910 (3)	CYP19A1	1.0	
+Mammographic breast density	AR	1.0	
+Mammographic breast density	CYP19A1	1.0	
+Female infertility	AR	1.0	
+Female infertility	CYP19A1	1.0	

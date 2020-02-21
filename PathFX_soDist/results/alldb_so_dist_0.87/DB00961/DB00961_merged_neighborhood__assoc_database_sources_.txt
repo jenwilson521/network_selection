@@ -1,0 +1,39 @@
+Gene	CUI	Source Databases	
+SCN10A	C0004096	Asthma	DisGeNet	
+SCN10A	C0004134	Ataxia, combined cerebellar and peripheral, with hearing loss and diabetes mellitus	DisGeNet	
+SCN10A	C0004238	Atrial Fibrillation	DisGeNet	
+SCN10A	C0006142	Breast-ovarian cancer, familial 1	DisGeNet	
+SCN10A	C0007194	Hypertrophic cardiomyopathy	DisGeNet	
+SCN10A	C0007222	Cardiovascular Diseases	DisGeNet	
+SCN10A	C0007760	Cerebellar malformation	DisGeNet	
+SCN10A	C0009806	Constipation	HumPhenOnt	
+SCN10A	C0013395	Dyspepsia	DisGeNet	
+SCN10A	C0014072	Experimental Autoimmune Encephalomyelitis	DisGeNet	
+SCN10A	C0018794	Heart block	DisGeNet	
+SCN10A	C0020429	Hyperalgesia	DisGeNet	
+SCN10A	C0023467	Acute myeloid leukemia	DisGeNet	
+SCN10A	C0026769	Multiple Sclerosis	DisGeNet	
+SCN10A	C0027796	Neuralgia	DisGeNet	
+SCN10A	C0030193	Pain	DisGeNet	
+SCN10A	C0036572	Seizures, Febrile	HumPhenOnt	
+SCN10A	C0040336	Tobacco Use Disorder	DisGeNet	
+SCN10A	C0042510	Ventricular fibrillation	DisGeNet	
+SCN10A	C0085648	Synovial Cyst	DisGeNet	
+SCN10A	C0149940	Sciatic Neuropathy	DisGeNet	
+SCN10A	C0150055	Chronic pain	DisGeNet	
+SCN10A	C0206132	Onset	HumPhenOnt	
+SCN10A	C0232197	Ventricular Fibrillation Adverse Event	DisGeNet	
+SCN10A	C0266015	Abnormality of the digestive system	HumPhenOnt	
+SCN10A	C0376545	Hematological neoplasm	DisGeNet	
+SCN10A	C0442874	Neuropathy ataxia retinitis pigmentosa syndrome	DisGeNet	
+SCN10A	C0443147	Autosomal dominant non-syndromic sensorineural deafness type DFNA	HumPhenOnt	
+SCN10A	C0497552	Abnormality of the nervous system	HumPhenOnt	
+SCN10A	C0678222	Breast carcinoma	DisGeNet	
+SCN10A	C0700095	Neuroblastoma	DisGeNet	
+SCN10A	C0740380	Varicella zoster	DisGeNet	
+SCN10A	C0740651	Abdominal symptom	HumPhenOnt	
+SCN10A	C1142166	Brugada Syndrome	DisGeNet,PheGenI	
+SCN10A	C1720983	Channelopathies	DisGeNet	
+SCN10A	C1853562	Adult onset ataxia with oculomotor apraxia	HumPhenOnt	
+SCN10A	C4022811	Abnormality of nervous system physiology	HumPhenOnt	
+SCN10A	C4293692	Abnormality of digestive system physiology	HumPhenOnt	

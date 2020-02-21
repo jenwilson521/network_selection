@@ -1,0 +1,47 @@
+node1	node2	edge_score	
+DB00953	HTR1D	1.0	
+DB00953	MAOA	1.0	
+DB00953	HTR1B	1.0	
+HTR1B	rs130058	0.99
+HTR1B		1.0
+HTR1B	rs11568817	0.99
+HTR1B	rs6296	0.99
+Bulimia	HTR1B	1.0	
+Substance Use Disorders	HTR1B	1.0	
+Antisocial Personality Disorder	HTR1B	1.0	
+Personality disorder	HTR1B	1.0	
+Bulimia nervosa 1	HTR1B	1.0	
+Antisocial/borderline personality disorder	HTR1B	1.0	
+Substance abuse problem	HTR1B	1.0	
+Heart valve disease	HTR1B	1.0	
+Conduct Disorder	HTR1B	1.0	
+Hyperostosis	HTR1B	1.0	
+Bone Diseases, Developmental	HTR1B	1.0	
+As If Personality	HTR1B	1.0	
+Heroin Dependence	HTR1B	1.0	
+Drug Dependence	HTR1B	1.0	
+Osteochondritis dissecans	HTR1B	1.0	
+Ichthyosis bullosa of Siemens	HTR1B	1.0	
+Substance addiction and disorders	HTR1B	1.0	
+Panic disorder 1	HTR1B	1.0	
+Schizoaffective Disorder	HTR1B	1.0	
+Amphetamine-Related Disorders	HTR1B	1.0	
+Obsessive-compulsive disorder	HTR1B	1.0	
+body mass	HTR1B	1.0	
+Alcohol abuse	HTR1B	1.0	
+Dyskinesia, seizures, and intellectual developmental disorder	HTR1B	1.0	
+Methamphetamine abuse	HTR1B	1.0	
+Anorexia nervosa 1	HTR1B	1.0	
+Panic disorder syndrome 1 (2)	HTR1B	1.0	
+Cocaine-Related Disorders	HTR1B	1.0	
+Hypotension	HTR1B	1.0	
+Anorexia	HTR1B	1.0	
+Weight Gain Adverse Event	HTR1B	1.0	
+Irritable bowel syndrome with diarrhea	HTR1B	1.0	
+Obstructive sleep apnea	HTR1B	1.0	
+Bone Diseases	HTR1B	1.0	
+Borderline Personality Disorder	HTR1B	1.0	
+Epilepsy, Temporal Lobe	HTR1B	1.0	
+Headache	HTR1B	1.0	
+Anxiety	HTR1B	1.0	
+Primary pulmonary hypertension	HTR1B	1.0	

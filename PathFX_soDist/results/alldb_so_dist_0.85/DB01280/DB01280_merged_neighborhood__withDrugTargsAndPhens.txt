@@ -1,0 +1,14 @@
+node1	node2	edge_score	
+DB01280	POLA1	1.0	
+DB01280	DGUOK	1.0	
+DB01280	DCK	1.0	
+DB01280	ADA	1.0	
+DCK	rs4694362	0.99
+DCK	rs80143932	0.99
+DCK		1.0
+DCK	rs2306744	0.99
+DCK	rs66878317	0.99
+Reticulosarcoma	DCK	1.0	
+gliosarcoma	DCK	1.0	
+Refractory cancer	DCK	1.0	
+Rash and Dermatitis Adverse Event Associated with Chemoradiation	DCK	1.0	

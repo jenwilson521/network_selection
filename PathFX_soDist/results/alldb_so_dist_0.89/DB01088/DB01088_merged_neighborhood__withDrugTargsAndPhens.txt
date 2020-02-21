@@ -1,0 +1,152 @@
+node1	node2	edge_score	
+DB01088	PDE4C	1.0	
+DB01088	PTGER1	1.0	
+DB01088	PLAT	1.0	
+DB01088	SLCO2B1	1.0	
+DB01088	PDE4A	1.0	
+DB01088	PDE4B	1.0	
+DB01088	PTGIR	1.0	
+DB01088	PDE4D	1.0	
+SLCO2B1		1.0
+PDE4B		1.0
+PTGIR		1.0
+PDE4D		1.0
+Amphetamine-Related Disorders	PDE4B	1.0	
+Amphetamine-Related Disorders	PDE4D	1.0	
+Venous thrombosis	PDE4D	1.0	
+Venous thrombosis	PTGIR	1.0	
+Hyperphosphatemia	PDE4D	1.0	
+ Acrodysostosis 1, with or without hormone resistance, 101800 (3)	PDE4D	1.0	
+Blue irides	PDE4D	1.0	
+Pseudohypoparathyroidism, Type Ia	PDE4D	1.0	
+Pseudohypoparathyroidism type 1A	PDE4D	1.0	
+Epiphyseal stippling	PDE4D	1.0	
+Hypoplasia of the radius	PDE4D	1.0	
+Generalized hypopigmentation of hair	PDE4D	1.0	
+Open bite	PDE4D	1.0	
+Short metatarsal	PDE4D	1.0	
+Asthma	PDE4B	1.0	
+Asthma	PDE4D	1.0	
+Asthma	PTGIR	1.0	
+Aplasia/Hypoplasia of metatarsal bones	PDE4D	1.0	
+Deep vein thrombosis of lower limb	PTGIR	1.0	
+Vascular Diseases	PDE4D	1.0	
+Vascular Diseases	PTGIR	1.0	
+Deep thrombophlebitis	PTGIR	1.0	
+Abnormal morphology of the radius	PDE4D	1.0	
+Abnormal epiphyseal ossification	PDE4D	1.0	
+Dyskinesia, Drug-Induced	PDE4B	1.0	
+Hypoplasia of the ulna	PDE4D	1.0	
+Abnormal morphology of ulna	PDE4D	1.0	
+Hypocalcemia	PDE4D	1.0	
+Accelerated skeletal maturation	PDE4D	1.0	
+Abnormality of phosphate homeostasis	PDE4D	1.0	
+Cone-shaped epiphyses fused within their metaphyses	PDE4D	1.0	
+Acute myocardial ischemia	PDE4B	1.0	
+Acute myocardial ischemia	PDE4D	1.0	
+Aplasia/Hypoplasia of the ulna	PDE4D	1.0	
+Abnormality of intracranial pressure	PDE4D	1.0	
+Abnormality of the parathyroid physiology	PDE4D	1.0	
+Inflammatory pain	PDE4D	1.0	
+Increased intracranial pressure	PDE4D	1.0	
+Round face	PDE4D	1.0	
+Congenital hypothyroidism	PDE4D	1.0	
+Open mouth	PDE4D	1.0	
+Tardive Dyskinesia	PDE4B	1.0	
+Abnormality of the parathyroid gland	PDE4D	1.0	
+Proportionate short stature	PDE4D	1.0	
+Forearm undergrowth	PDE4D	1.0	
+Depressive Disorder	PDE4B	1.0	
+Depressive Disorder	PDE4D	1.0	
+NEUROTICISM	PDE4D	1.0	
+Arsenic Poisoning	PDE4B	1.0	
+Narrow femoral neck	PDE4D	1.0	
+Upper limb undergrowth	PDE4D	1.0	
+Aplasia/Hypoplasia of the radius	PDE4D	1.0	
+ Cerebrovascular disease, occlusive (3)	PDE4D	1.0	
+Orofacial dyskinesia	PDE4B	1.0	
+Brain Infarction	PDE4D	1.0	
+Short toe	PDE4D	1.0	
+Abnormal morphology of forearm bone	PDE4D	1.0	
+Abnormal concentration of calcium in blood	PDE4D	1.0	
+Micromelia	PDE4D	1.0	
+Abnormal thrombosis	PDE4D	1.0	
+Coronary artery stenosis	PDE4D	1.0	
+Respiration Disorders	PDE4B	1.0	
+Hypopigmentation of hair	PDE4D	1.0	
+Congenital heart disease	PTGIR	1.0	
+Abnormality of the metatarsal bones	PDE4D	1.0	
+Specific learning disability	PDE4D	1.0	
+Abnormality of the paranasal sinuses	PDE4D	1.0	
+Cough	PTGIR	1.0	
+Short metacarpal	PDE4D	1.0	
+Hypoplasia of the maxilla	PDE4D	1.0	
+Cataracts, growth hormone deficiency, sensory neuropathy, sensorineural hearing loss, and skeletal dysplasia	PDE4D	1.0	
+Alcohol dependence	PDE4B	1.0	
+Alcohol dependence	PDE4D	1.0	
+Angina, Unstable	PDE4D	1.0	
+Depressed nasal ridge	PDE4D	1.0	
+Abnormality of hair pigmentation	PDE4D	1.0	
+Abnormal enchondral ossification	PDE4D	1.0	
+Cerebral palsy, spastic quadriplegic, 3	PDE4D	1.0	
+Aplasia/Hypoplasia of toe	PDE4D	1.0	
+Hyperbilirubinemia	SLCO2B1	1.0	
+Delayed eruption of teeth	PDE4D	1.0	
+Abnormality of the maxilla	PDE4D	1.0	
+Anterior hypopituitarism	PDE4D	1.0	
+Fibrinogen Adverse Event	PDE4B	1.0	
+Abnormality of calcium homeostasis	PDE4D	1.0	
+Mandibular prognathia	PDE4D	1.0	
+Carotid Atherosclerosis	PDE4D	1.0	
+Abnormal iris pigmentation	PDE4D	1.0	
+Abnormality of female external genitalia	PDE4D	1.0	
+Deep venous thrombosis	PTGIR	1.0	
+Autoimmune thyroid disease 3	PDE4B	1.0	
+Abnormality of divalent inorganic cation homeostasis	PDE4D	1.0	
+Abnormal metacarpal morphology	PDE4D	1.0	
+Abnormality of the ulna	PDE4D	1.0	
+Abnormality of dental eruption	PDE4D	1.0	
+Hypopituitarism	PDE4D	1.0	
+Elevated 7-dehydrocholesterol	PDE4D	1.0	
+Short phalanx of finger	PDE4D	1.0	
+Autism 15	PDE4B	1.0	
+Autism 15	PDE4D	1.0	
+Midface hypoplasia, hearing impairment, elliptocytosis, and nephrocalcinosis	PDE4D	1.0	
+Abnormality of mouth shape	PDE4D	1.0	
+Brachycephaly	PDE4D	1.0	
+Hyperplasia	PTGIR	1.0	
+Short long bone	PDE4D	1.0	
+Abnormality of the metacarpal bones	PDE4D	1.0	
+Abnormality of the radius	PDE4D	1.0	
+Aplasia/Hypoplasia of the phalanges of the hand	PDE4D	1.0	
+Abnormality of the nasal dorsum	PDE4D	1.0	
+Growth retardation, intellectual developmental disorder, hypotonia, and hepatopathy, 617093 (3)	PDE4D	1.0	
+Abnormality of forearm bone	PDE4D	1.0	
+Abnormality of thyroid physiology	PDE4D	1.0	
+Malar flattening	PDE4D	1.0	
+Abnormality of the forearm	PDE4D	1.0	
+Ectopic calcification	PDE4D	1.0	
+Abnormality of the chin	PDE4D	1.0	
+Bone Diseases	PDE4D	1.0	
+Abnormality of malar bones	PDE4D	1.0	
+Nevus	PDE4D	1.0	
+Arteriosclerosis	PDE4D	1.0	
+Arteriosclerosis	PTGIR	1.0	
+Menstrual irregularities	PDE4D	1.0	
+Short nose	PDE4D	1.0	
+Abnormality of the anterior pituitary	PDE4D	1.0	
+Abnormality of epiphysis morphology	PDE4D	1.0	
+Melanocytic nevus	PDE4D	1.0	
+Congenital onset	PDE4D	1.0	
+Abnormality of the zygomatic bone	PDE4D	1.0	
+Misalignment of teeth	PDE4D	1.0	
+Carotid Artery Diseases	PDE4B	1.0	
+Abnormality of cation homeostasis	PDE4D	1.0	
+Vomiting	PDE4D	1.0	
+Patent ductus arteriosus	PTGIR	1.0	
+Autistic behavior	PDE4D	1.0	
+Transient ischemic attack	PDE4D	1.0	
+Skeletal dysplasia	PDE4D	1.0	
+Abnormal morphology of bones of the upper limbs	PDE4D	1.0	
+Chronic Lymphocytic Leukemia	PDE4B	1.0	
+Chronic Lymphocytic Leukemia	PDE4D	1.0	

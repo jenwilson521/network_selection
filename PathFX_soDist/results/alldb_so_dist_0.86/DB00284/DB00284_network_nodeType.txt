@@ -1,0 +1,6 @@
+node_name	node_type	
+DB00284	drug	
+MGAM	drug_target	
+AMY2A	drug_target	
+GAA	drug_target	
+SI	drug_target	

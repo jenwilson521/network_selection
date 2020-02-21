@@ -1,0 +1,5 @@
+node1	node2	edge_score	
+DB01225	MPO	1.0	
+DB01225	F10	1.0	
+DB01225	SERPINC1	1.0	
+

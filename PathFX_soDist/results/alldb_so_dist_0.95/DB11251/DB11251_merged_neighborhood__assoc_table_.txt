@@ -1,0 +1,2 @@
+rank	phenotype	cui	assoc in neigh	assoc in intom	probability	Benjamini-Hochberg	genes	
+21	Hypercholesterolemia, autosomal dominant, type B	C0020443	5	212	2.5262766838896056e-05	2.84552845528e-05	ABCB1,CYP3A4,CYP4F2,LDLR,SCARB1

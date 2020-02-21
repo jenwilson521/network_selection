@@ -1,0 +1,116 @@
+node_name	node_type	
+DB05013	drug	
+PRKCA	drug_target	
+PRKCD	drug_target	
+EMG: myopathic abnormalities	phenotype	
+Adenomas, multiple colorectal, 608456 (3)	phenotype	
+Adrenal Gland Hyperfunction	phenotype	
+Neoplasm of the adrenal gland	phenotype	
+Congenital adrenal hyperplasia	phenotype	
+Asthma	phenotype	
+Astrocytoma	phenotype	
+Mental disorders	phenotype	
+Malignant tumor of urinary bladder	phenotype	
+Breast-ovarian cancer, familial 1	phenotype	
+Colon cancer	phenotype	
+Malignant neoplasm of endometrium	phenotype	
+Skin cancer	phenotype	
+Basal cell carcinoma	phenotype	
+Non-small cell lung carcinoma	phenotype	
+Renal cell carcinoma, nonpapillary	phenotype	
+Squamous cell carcinoma	phenotype	
+Brain Ischemia	phenotype	
+Congenital chromosomal disease	phenotype	
+Verotoxigenic Escherichia coli gastrointestinal tract infection	phenotype	
+Infection by Cryptococcus neoformans	phenotype	
+Cushing's syndrome	phenotype	
+Diabetes Mellitus, Type 1	phenotype	
+Diabetic Nephropathies	phenotype	
+Fibrosis	phenotype	
+Glioblastoma	phenotype	
+Glioma	phenotype	
+Membranous nephropathy, susceptibility to	phenotype	
+Gout	phenotype	
+Cardiomegaly	phenotype	
+Heart Failure	phenotype	
+Symptomatic human immunodeficiency virus infection	phenotype	
+Huntington's chorea	phenotype	
+Hyperglycemia	phenotype	
+Hypertension	phenotype	
+Intestinal Neoplasms	phenotype	
+Ischemia	phenotype	
+Chronic Lymphocytic Leukemia	phenotype	
+Acute myeloid leukemia	phenotype	
+Liver Cirrhosis, Biliary	phenotype	
+Neoplasm of the liver	phenotype	
+Lung Neoplasms	phenotype	
+Animal Mammary Neoplasms	phenotype	
+Melanoma	phenotype	
+Multiple Sclerosis	phenotype	
+Myopathy, scapulohumeroperoneal	phenotype	
+Secondary hypertriglyceridemia	phenotype	
+Wilms Tumor	phenotype	
+Obesity	phenotype	
+Pemphigus Vulgaris	phenotype	
+Pituitary adenoma	phenotype	
+Pituitary Neoplasms	phenotype	
+Polyuria	phenotype	
+Prostatic Neoplasms	phenotype	
+Reperfusion Injury	phenotype	
+Schizophrenia	phenotype	
+Seizures, Febrile	phenotype	
+Septicemia	phenotype	
+Stomach Neoplasms	phenotype	
+Posttraumatic stress disorder	phenotype	
+Thyroid Neoplasms	phenotype	
+Tobacco Use Disorder	phenotype	
+Spina bifida	phenotype	
+Bacterial Vaginosis	phenotype	
+Left ventricular hypertrophy	phenotype	
+Small cell lung cancer	phenotype	
+Premature Birth	phenotype	
+Adenocarcinoma of lung	phenotype	
+Uterine Corpus Cancer	phenotype	
+Secondary malignant neoplasm of lung	phenotype	
+Nephrogenic diabetes insipidus, autosomal	phenotype	
+Right ventricular hypertrophy	phenotype	
+Tumor Progression	phenotype	
+Adrenocortical adenoma	phenotype	
+Metastatic malignant neoplasm to brain	phenotype	
+Memory impairment	phenotype	
+Abnormality of extrapyramidal motor function	phenotype	
+Pancreatic Carcinoma	phenotype	
+Malignant neoplasm of lung	phenotype	
+Neoplasm, Residual	phenotype	
+Sepsis	phenotype	
+Vascular neoplasm	phenotype	
+Adenocarcinoma of colon	phenotype	
+Adrenal hyperplasia	phenotype	
+Malignant neoplasm of pancreas	phenotype	
+Malignant tumor of prostate	phenotype	
+Carney complex	phenotype	
+Endometrial carcinoma	phenotype	
+Carcinogenesis	phenotype	
+Leukemogenesis	phenotype	
+Tumor Initiation	phenotype	
+Prostate carcinoma	phenotype	
+Hepatopulmonary Syndrome	phenotype	
+Ovarian epithelial cancer	phenotype	
+Breast carcinoma	phenotype	
+Lung cancer	phenotype	
+Carcinoma of colon	phenotype	
+Stomach cancer	phenotype	
+Bladder carcinoma	phenotype	
+Neuroblastoma	phenotype	
+Malignant neoplasm of kidney	phenotype	
+Advanced cancer	phenotype	
+Cardiomyopathy	phenotype	
+Ovarian Neoplasms	phenotype	
+BREAST-OVARIAN CANCER, FAMILIAL, SUSCEPTIBILITY TO, 4	phenotype	
+Oncocytic Neoplasm	phenotype	
+Hepatocarcinogenesis	phenotype	
+Skin Carcinogenesis	phenotype	
+Tumor Promotion	phenotype	
+Multicystic renal dysplasia, bilateral	phenotype	
+Hepatocellular carcinoma	phenotype	
+Triple Negative Breast Neoplasms	phenotype	

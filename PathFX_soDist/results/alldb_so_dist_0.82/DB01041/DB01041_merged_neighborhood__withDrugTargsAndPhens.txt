@@ -1,0 +1,507 @@
+node1	node2	edge_score	
+DB01041	CYP2C9	1.0	
+DB01041	PTGS2	1.0	
+DB01041	PTGS1	1.0	
+DB01041	CYP1A1	1.0	
+DB01041	CYP2E1	1.0	
+DB01041	TNF	1.0	
+DB01041	CYP2C19	1.0	
+DB01041	NFKB1	1.0	
+DB01041	CYP3A5	1.0	
+DB01041	FGFR2	1.0	
+DB01041	CRBN	1.0	
+PTGS2	rs12042763	0.99
+CYP2C9	CYP2C9*1, CYP2C9*59	0.99
+rs1800629	LTA	0.9801
+CYP2C9	CYP2C9*1, CYP2C9*3	0.99
+CYP2C9	rs4917639	0.99
+TNF	rs1800629	0.99
+CYP2C19	CYP2C19*1, CYP2C19*2, CYP2C19*3, CYP2C19*5, CYP2C19*6, CYP2C19*7, CYP2C19*8	0.99
+CYP2C9	rs1057910	0.99
+CYP2C19	CYP2C19*1, CYP2C19*17, CYP2C19*2	0.99
+CYP3A5	rs10264272	0.99
+CYP2C9	CYP2C9*1, CYP2C9*13, CYP2C9*2, CYP2C9*3	0.99
+CYP2C9	CYP2C9*1, CYP2C9*13, CYP2C9*3, CYP2C9*5, CYP2C9*6, CYP2C9*8	0.99
+CYP2C9	rs56165452	0.99
+CYP3A5	rs17161788	0.99
+CYP2E1	rs2515641	0.99
+CYP2C19	rs12248560	0.99
+CYP2C9	rs9332096	0.99
+CYP2C19	CYP2C19*1, CYP2C19*10, CYP2C19*11, CYP2C19*13, CYP2C19*14, CYP2C19*15, CYP2C19*16, CYP2C19*18, CYP2C19*19, CYP2C19*22, CYP2C19*23, CYP2C19*24, CYP2C19*25, CYP2C19*26, CYP2C19*5, CYP2C19*6, CYP2C19*8, CYP2C19*9	0.99
+LTA	rs3093726	0.970299
+CYP2C19	CYP2C19*1, CYP2C19*10, CYP2C19*11, CYP2C19*13, CYP2C19*14, CYP2C19*15, CYP2C19*16, CYP2C19*18, CYP2C19*19, CYP2C19*26, CYP2C19*9	0.99
+CYP2C9	rs4918758	0.99
+CYP3A5		1.0
+CYP2C9		1.0
+CYP1A1	rs2606345	0.99
+CYP2C9	rs10509680	0.99
+CYP2C9	rs7089580	0.99
+CYP2E1	rs2070676	0.99
+PTGS2	rs4648287	0.99
+PTGS1	rs10306135	0.99
+CYP2C19	rs4244285	0.99
+CYP2C19	CYP2C19*1, CYP2C19*16, CYP2C19*2	0.99
+rs3093726	LTB	0.96059601
+CYP2C19	rs3814637	0.99
+PTGS2	rs20417	0.99
+CYP2C9	rs9332131	0.99
+PTGS1	rs1330344	0.99
+CYP2C9	rs1934969	0.99
+CYP2E1	CYP2E1*1A, CYP2E1*5B	0.99
+CYP1A1		1.0
+rs3093726	LST1	0.96059601
+CYP2C19	rs11188072	0.99
+CYP2C19	CYP2C19*1, CYP2C19*2, CYP2C19*3, CYP2C19*4, CYP2C19*5, CYP2C19*6, CYP2C19*8	0.99
+CYP2C19	CYP2C19*1, CYP2C19*2, CYP2C19*3	0.99
+CYP2C9	rs71486745	0.99
+CYP2C19	rs28399504	0.99
+CYP2C9	rs9332239	0.99
+CYP2C9	rs28371685	0.99
+CYP2C9	rs72558187	0.99
+CYP2C19	CYP2C19*1, CYP2C19*2	0.99
+CYP2C19	rs12768009	0.99
+CYP2E1	rs2070673	0.99
+CYP1A1	rs1048943	0.99
+CYP3A5	CYP3A5*1A, CYP3A5*3A, CYP3A5*6, CYP3A5*7	0.99
+CYP2C9	CYP2C9*1, CYP2C9*13, CYP2C9*3	0.99
+CYP3A5	rs41303343	0.99
+CYP2C9	rs12782374	0.99
+CYP2C9	CYP2C9*1, CYP2C9*2, CYP2C9*3, CYP2C9*6	0.99
+TNF		1.0
+CYP2E1	rs2031920	0.99
+PTGS2		1.0
+CYP2C19		1.0
+CYP2C9	rs7900194	0.99
+CYP2C9	CYP2C9*1, CYP2C9*11, CYP2C9*2, CYP2C9*3, CYP2C9*5, CYP2C9*6	0.99
+CYP2C19	CYP2C19*1, CYP2C19*8, CYP2C19*9	0.99
+CYP2E1	rs6413432	0.99
+CYP1A1	rs2472297	0.99
+CYP2C9	CYP2C9*1, CYP2C9*2, CYP2C9*3	0.99
+CYP2C9	CYP2C9*1, CYP2C9*3, CYP2C9*8	0.99
+TNF	rs1799964	0.99
+PTGS2	rs5275	0.99
+CYP2C19	rs4986893	0.99
+CYP2C9	rs1799853	0.99
+CYP3A5	CYP3A5*1A, CYP3A5*3A	0.99
+TNF	rs361525	0.99
+PTGS1		1.0
+CYP2C19	CYP2C19*1, CYP2C19*17, CYP2C19*2, CYP2C19*3	0.99
+CYP2C9	rs28371686	0.99
+CYP2E1		1.0
+CYP2C19	CYP2C19*1, CYP2C19*17, CYP2C19*2, CYP2C19*3, CYP2C19*4	0.99
+TNF	rs1799724	0.99
+PTGS1	rs10306114	0.99
+CYP2C9	rs4086116	0.99
+CYP3A5	rs776746	0.99
+CYP2C19	CYP2C19*1, CYP2C19*10, CYP2C19*11, CYP2C19*13, CYP2C19*14, CYP2C19*15, CYP2C19*16, CYP2C19*18, CYP2C19*19, CYP2C19*22, CYP2C19*23, CYP2C19*24, CYP2C19*25, CYP2C19*26, CYP2C19*28, CYP2C19*9	0.99
+Stomach Diseases	CYP2C19	1.0	
+Stomach Diseases	CYP2C9	1.0	
+Stomach Diseases	CYP2E1	1.0	
+Stomach Diseases	LTA	1.0	
+Stomach Diseases	PTGS1	1.0	
+Stomach Diseases	PTGS2	1.0	
+Stomach Diseases	TNF	1.0	
+Rhinitis, Allergic, Perennial	CYP1A1	1.0	
+Rhinitis, Allergic, Perennial	CYP2C19	1.0	
+Rhinitis, Allergic, Perennial	CYP2C9	1.0	
+Rhinitis, Allergic, Perennial	PTGS2	1.0	
+Rhinitis, Allergic, Perennial	TNF	1.0	
+Helicobacter Infections	CYP2C19	1.0	
+Helicobacter Infections	CYP2C9	1.0	
+Helicobacter Infections	CYP2E1	1.0	
+Helicobacter Infections	LTA	1.0	
+Helicobacter Infections	PTGS1	1.0	
+Helicobacter Infections	PTGS2	1.0	
+Helicobacter Infections	TNF	1.0	
+Drug Allergy	CYP2C19	1.0	
+Drug Allergy	CYP2C9	1.0	
+Drug Allergy	CYP3A5	1.0	
+Drug Allergy	LTA	1.0	
+Drug Allergy	PTGS1	1.0	
+Drug Allergy	TNF	1.0	
+Peptic ulcer	CYP1A1	1.0	
+Peptic ulcer	CYP2C19	1.0	
+Peptic ulcer	CYP2C9	1.0	
+Peptic ulcer	CYP2E1	1.0	
+Peptic ulcer	PTGS1	1.0	
+Peptic ulcer	PTGS2	1.0	
+Peptic ulcer	TNF	1.0	
+Squamous Cell Neoplasms	CYP1A1	1.0	
+Squamous Cell Neoplasms	CYP2E1	1.0	
+Squamous Cell Neoplasms	CYP3A5	1.0	
+Squamous Cell Neoplasms	PTGS2	1.0	
+Oral Submucous Fibrosis	CYP1A1	1.0	
+Oral Submucous Fibrosis	CYP3A5	1.0	
+Oral Submucous Fibrosis	LTA	1.0	
+Oral Submucous Fibrosis	PTGS2	1.0	
+Oral Submucous Fibrosis	TNF	1.0	
+Peptic Ulcer Hemorrhage	CYP2C9	1.0	
+Peptic Ulcer Hemorrhage	LTA	1.0	
+Peptic Ulcer Hemorrhage	PTGS1	1.0	
+Peptic Ulcer Hemorrhage	TNF	1.0	
+Gastric ulcer	CYP2C19	1.0	
+Gastric ulcer	CYP2C9	1.0	
+Gastric ulcer	LTA	1.0	
+Gastric ulcer	PTGS1	1.0	
+Gastric ulcer	PTGS2	1.0	
+Gastric ulcer	TNF	1.0	
+Thromboembolism	CYP1A1	1.0	
+Thromboembolism	CYP2C19	1.0	
+Thromboembolism	CYP2C9	1.0	
+Thromboembolism	CYP3A5	1.0	
+Thromboembolism	PTGS2	1.0	
+Thromboembolism	TNF	1.0	
+Duodenal Ulcer	CYP2C19	1.0	
+Duodenal Ulcer	LTA	1.0	
+Duodenal Ulcer	PTGS1	1.0	
+Duodenal Ulcer	PTGS2	1.0	
+Duodenal Ulcer	TNF	1.0	
+Lichen Planus, Oral	CYP2C19	1.0	
+Lichen Planus, Oral	CYP2C9	1.0	
+Lichen Planus, Oral	LTA	1.0	
+Lichen Planus, Oral	PTGS2	1.0	
+Lichen Planus, Oral	TNF	1.0	
+Thrombosis	CYP2C19	1.0	
+Thrombosis	CYP2C9	1.0	
+Thrombosis	CYP3A5	1.0	
+Thrombosis	PTGS1	1.0	
+Thrombosis	PTGS2	1.0	
+Thrombosis	TNF	1.0	
+Acute Coronary Syndrome	CYP1A1	1.0	
+Acute Coronary Syndrome	CYP2C19	1.0	
+Acute Coronary Syndrome	CYP2C9	1.0	
+Acute Coronary Syndrome	CYP3A5	1.0	
+Acute Coronary Syndrome	LTA	1.0	
+Acute Coronary Syndrome	PTGS1	1.0	
+Acute Coronary Syndrome	PTGS2	1.0	
+Acute Coronary Syndrome	TNF	1.0	
+Neoplasm of the larynx	CYP1A1	1.0	
+Neoplasm of the larynx	CYP2C9	1.0	
+Neoplasm of the larynx	CYP2E1	1.0	
+Neoplasm of the larynx	PTGS2	1.0	
+Neoplasm of the larynx	TNF	1.0	
+Pleural Neoplasms	CYP1A1	1.0	
+Pleural Neoplasms	CYP2C19	1.0	
+Pleural Neoplasms	CYP2E1	1.0	
+Esophagitis	CYP2C19	1.0	
+Esophagitis	PTGS1	1.0	
+Esophagitis	PTGS2	1.0	
+Esophagitis	TNF	1.0	
+Neoplasms, Germ Cell and Embryonal	CYP1A1	1.0	
+Neoplasms, Germ Cell and Embryonal	CYP2C19	1.0	
+Neoplasms, Germ Cell and Embryonal	CYP2C9	1.0	
+Neoplasms, Germ Cell and Embryonal	CYP3A5	1.0	
+Chronic atrophic gastritis	CYP2C19	1.0	
+Chronic atrophic gastritis	CYP2E1	1.0	
+Chronic atrophic gastritis	LTA	1.0	
+Chronic atrophic gastritis	PTGS2	1.0	
+Chronic atrophic gastritis	TNF	1.0	
+Colorectal polyposis	CYP1A1	1.0	
+Colorectal polyposis	PTGS1	1.0	
+Colorectal polyposis	PTGS2	1.0	
+Colorectal polyposis	TNF	1.0	
+Drug-Induced Liver Injury	CYP2C19	1.0	
+Drug-Induced Liver Injury	CYP2C9	1.0	
+Drug-Induced Liver Injury	CYP2E1	1.0	
+Drug-Induced Liver Injury	CYP3A5	1.0	
+Drug-Induced Liver Injury	PTGS2	1.0	
+Drug-Induced Liver Injury	TNF	1.0	
+Bleeding with minor or no trauma	CYP2C19	1.0	
+Bleeding with minor or no trauma	CYP2C9	1.0	
+Bleeding with minor or no trauma	PTGS1	1.0	
+Bleeding with minor or no trauma	TNF	1.0	
+Postoperative Complications	CYP3A5	1.0	
+Postoperative Complications	LTA	1.0	
+Postoperative Complications	PTGS2	1.0	
+Postoperative Complications	TNF	1.0	
+Complications of Diabetes Mellitus	CYP2C19	1.0	
+Complications of Diabetes Mellitus	LTA	1.0	
+Complications of Diabetes Mellitus	PTGS2	1.0	
+Complications of Diabetes Mellitus	TNF	1.0	
+Hepatic encephalopathy	LTA	1.0	
+Hepatic encephalopathy	PTGS1	1.0	
+Hepatic encephalopathy	TNF	1.0	
+Musculoskeletal Diseases	CYP1A1	1.0	
+Musculoskeletal Diseases	LST1	1.0	
+Musculoskeletal Diseases	PTGS1	1.0	
+Musculoskeletal Diseases	PTGS2	1.0	
+Musculoskeletal Diseases	TNF	1.0	
+Pregnancy Complications, Hematologic	CYP1A1	1.0	
+Pregnancy Complications, Hematologic	LST1	1.0	
+Pregnancy Complications, Hematologic	PTGS1	1.0	
+Pregnancy Complications, Hematologic	PTGS2	1.0	
+Pregnancy Complications, Hematologic	TNF	1.0	
+Arthritis, Psoriatic	CYP1A1	1.0	
+Arthritis, Psoriatic	CYP2C19	1.0	
+Arthritis, Psoriatic	LTA	1.0	
+Arthritis, Psoriatic	PTGS1	1.0	
+Arthritis, Psoriatic	PTGS2	1.0	
+Arthritis, Psoriatic	TNF	1.0	
+Genomic Instability	CYP1A1	1.0	
+Genomic Instability	CYP2C19	1.0	
+Genomic Instability	CYP2E1	1.0	
+End Stage Liver Disease	CYP2C19	1.0	
+End Stage Liver Disease	CYP2E1	1.0	
+End Stage Liver Disease	TNF	1.0	
+Helicobacter pylori infection	CYP1A1	1.0	
+Helicobacter pylori infection	CYP2C19	1.0	
+Helicobacter pylori infection	CYP2C9	1.0	
+Helicobacter pylori infection	CYP2E1	1.0	
+Helicobacter pylori infection	PTGS1	1.0	
+Helicobacter pylori infection	PTGS2	1.0	
+Helicobacter pylori infection	TNF	1.0	
+Pancreatitis, Alcoholic	CYP1A1	1.0	
+Pancreatitis, Alcoholic	CYP2E1	1.0	
+Pancreatitis, Alcoholic	TNF	1.0	
+Gastric Cardia Adenocarcinoma	LTA	1.0	
+Gastric Cardia Adenocarcinoma	PTGS2	1.0	
+Gastric Cardia Adenocarcinoma	TNF	1.0	
+Tuberculosis, Pulmonary	CYP1A1	1.0	
+Tuberculosis, Pulmonary	CYP2C19	1.0	
+Tuberculosis, Pulmonary	CYP2C9	1.0	
+Tuberculosis, Pulmonary	CYP2E1	1.0	
+Tuberculosis, Pulmonary	LTA	1.0	
+Tuberculosis, Pulmonary	TNF	1.0	
+Chronic liver disease	CYP1A1	1.0	
+Chronic liver disease	CYP2C19	1.0	
+Chronic liver disease	CYP2E1	1.0	
+Chronic liver disease	PTGS2	1.0	
+Chronic liver disease	TNF	1.0	
+Neurotoxicity Syndromes	CYP2C19	1.0	
+Neurotoxicity Syndromes	CYP2C9	1.0	
+Neurotoxicity Syndromes	CYP3A5	1.0	
+Lupus Nephritis	CYP2C19	1.0	
+Lupus Nephritis	CYP2C9	1.0	
+Lupus Nephritis	CYP3A5	1.0	
+Lupus Nephritis	PTGS1	1.0	
+Lupus Nephritis	PTGS2	1.0	
+Lupus Nephritis	TNF	1.0	
+Neoplasm of the oral cavity	CYP1A1	1.0	
+Neoplasm of the oral cavity	CYP2C9	1.0	
+Neoplasm of the oral cavity	CYP2E1	1.0	
+Neoplasm of the oral cavity	LTA	1.0	
+Neoplasm of the oral cavity	PTGS2	1.0	
+Neoplasm of the oral cavity	TNF	1.0	
+Fetal Diseases	CYP1A1	1.0	
+Fetal Diseases	LST1	1.0	
+Fetal Diseases	PTGS1	1.0	
+Fetal Diseases	PTGS2	1.0	
+Fetal Diseases	TNF	1.0	
+Anaphylactic shock NOS	PTGS1	1.0	
+Anaphylactic shock NOS	PTGS2	1.0	
+Anaphylactic shock NOS	TNF	1.0	
+Thyroid associated opthalmopathies	CYP1A1	1.0	
+Thyroid associated opthalmopathies	LTA	1.0	
+Thyroid associated opthalmopathies	PTGS2	1.0	
+Thyroid associated opthalmopathies	TNF	1.0	
+Urinary tract infection	LTA	1.0	
+Urinary tract infection	PTGS1	1.0	
+Urinary tract infection	PTGS2	1.0	
+Urinary tract infection	TNF	1.0	
+Varicose Ulcer	LST1	1.0	
+Varicose Ulcer	LTA	1.0	
+Varicose Ulcer	TNF	1.0	
+Gastritis	CYP2C19	1.0	
+Gastritis	CYP2E1	1.0	
+Gastritis	LTA	1.0	
+Gastritis	PTGS1	1.0	
+Gastritis	PTGS2	1.0	
+Gastritis	TNF	1.0	
+Chronic Fatigue Syndrome	LTA	1.0	
+Chronic Fatigue Syndrome	PTGS2	1.0	
+Chronic Fatigue Syndrome	TNF	1.0	
+Periodontitis	CYP1A1	1.0	
+Periodontitis	CYP2C19	1.0	
+Periodontitis	CYP2C9	1.0	
+Periodontitis	CYP2E1	1.0	
+Periodontitis	LTA	1.0	
+Periodontitis	PTGS2	1.0	
+Periodontitis	TNF	1.0	
+Head and Neck Neoplasms	CYP1A1	1.0	
+Head and Neck Neoplasms	CYP2C9	1.0	
+Head and Neck Neoplasms	CYP2E1	1.0	
+Head and Neck Neoplasms	CYP3A5	1.0	
+Head and Neck Neoplasms	PTGS1	1.0	
+Head and Neck Neoplasms	PTGS2	1.0	
+Head and Neck Neoplasms	TNF	1.0	
+SUDDEN INFANT DEATH SYNDROME	CYP1A1	1.0	
+SUDDEN INFANT DEATH SYNDROME	CYP2C19	1.0	
+SUDDEN INFANT DEATH SYNDROME	CYP2C9	1.0	
+SUDDEN INFANT DEATH SYNDROME	TNF	1.0	
+Acute Cerebrovascular Accidents	CYP2C19	1.0	
+Acute Cerebrovascular Accidents	CYP2C9	1.0	
+Acute Cerebrovascular Accidents	TNF	1.0	
+Coronary Restenosis	CYP2C19	1.0	
+Coronary Restenosis	LTA	1.0	
+Coronary Restenosis	TNF	1.0	
+Neuritis	PTGS1	1.0	
+Neuritis	PTGS2	1.0	
+Neuritis	TNF	1.0	
+Arthritis, Reactive	CYP1A1	1.0	
+Arthritis, Reactive	PTGS2	1.0	
+Arthritis, Reactive	TNF	1.0	
+Uterine Cervical Neoplasms	CYP1A1	1.0	
+Uterine Cervical Neoplasms	CYP2E1	1.0	
+Uterine Cervical Neoplasms	LTA	1.0	
+Uterine Cervical Neoplasms	PTGS2	1.0	
+Uterine Cervical Neoplasms	TNF	1.0	
+Liver Cirrhosis, Alcoholic	CYP1A1	1.0	
+Liver Cirrhosis, Alcoholic	CYP2C19	1.0	
+Liver Cirrhosis, Alcoholic	CYP2E1	1.0	
+Liver Cirrhosis, Alcoholic	TNF	1.0	
+Peptic Esophagitis	CYP2C19	1.0	
+Peptic Esophagitis	PTGS2	1.0	
+Peptic Esophagitis	TNF	1.0	
+Leukoplakia	CYP1A1	1.0	
+Leukoplakia	CYP2E1	1.0	
+Leukoplakia	PTGS2	1.0	
+Prenatal Exposure Delayed Effects	CYP1A1	1.0	
+Prenatal Exposure Delayed Effects	CYP2E1	1.0	
+Prenatal Exposure Delayed Effects	TNF	1.0	
+Squamous intraepithelial lesion	CYP2E1	1.0	
+Squamous intraepithelial lesion	PTGS2	1.0	
+Squamous intraepithelial lesion	TNF	1.0	
+Nausea	CYP2C19	1.0	
+Nausea	CYP2C9	1.0	
+Nausea	TNF	1.0	
+Dyspepsia	CYP2C19	1.0	
+Dyspepsia	PTGS1	1.0	
+Dyspepsia	PTGS2	1.0	
+Respiratory Tract Diseases	CYP1A1	1.0	
+Respiratory Tract Diseases	CYP2E1	1.0	
+Respiratory Tract Diseases	TNF	1.0	
+Endometriosis of uterus	CYP1A1	1.0	
+Endometriosis of uterus	PTGS2	1.0	
+Endometriosis of uterus	TNF	1.0	
+Hepatitis B, Chronic	CYP1A1	1.0	
+Hepatitis B, Chronic	CYP2C19	1.0	
+Hepatitis B, Chronic	CYP3A5	1.0	
+Hepatitis B, Chronic	LTA	1.0	
+Hepatitis B, Chronic	PTGS2	1.0	
+Hepatitis B, Chronic	TNF	1.0	
+Medullary carcinoma	PTGS1	1.0	
+Medullary carcinoma	PTGS2	1.0	
+Medullary carcinoma	TNF	1.0	
+Premature Birth	CYP1A1	1.0	
+Premature Birth	CYP2E1	1.0	
+Premature Birth	LST1	1.0	
+Premature Birth	LTA	1.0	
+Premature Birth	PTGS1	1.0	
+Premature Birth	PTGS2	1.0	
+Premature Birth	TNF	1.0	
+Shigella Infections	LTB	1.0	
+Shigella Infections	PTGS2	1.0	
+Shigella Infections	TNF	1.0	
+Sarcoidosis, Pulmonary	LTA	1.0	
+Sarcoidosis, Pulmonary	PTGS2	1.0	
+Sarcoidosis, Pulmonary	TNF	1.0	
+Adverse drug events and drug allergies	CYP2C9	1.0	
+Adverse drug events and drug allergies	CYP2E1	1.0	
+Adverse drug events and drug allergies	PTGS2	1.0	
+Colonic Polyps	CYP1A1	1.0	
+Colonic Polyps	PTGS1	1.0	
+Colonic Polyps	PTGS2	1.0	
+Chorioamnionitis	CYP1A1	1.0	
+Chorioamnionitis	LTA	1.0	
+Chorioamnionitis	PTGS1	1.0	
+Chorioamnionitis	PTGS2	1.0	
+Chorioamnionitis	TNF	1.0	
+Connective Tissue Diseases	CYP1A1	1.0	
+Connective Tissue Diseases	LST1	1.0	
+Connective Tissue Diseases	PTGS1	1.0	
+Connective Tissue Diseases	PTGS2	1.0	
+Connective Tissue Diseases	TNF	1.0	
+Meningococcal Infections	LST1	1.0	
+Meningococcal Infections	LTA	1.0	
+Meningococcal Infections	TNF	1.0	
+Idiopathic Inflammatory Myopathies	PTGS1	1.0	
+Idiopathic Inflammatory Myopathies	PTGS2	1.0	
+Idiopathic Inflammatory Myopathies	TNF	1.0	
+Vitreoretinopathy, neovascular inflammatory, 193235 (3)	LST1	1.0	
+Vitreoretinopathy, neovascular inflammatory, 193235 (3)	LTA	1.0	
+Vitreoretinopathy, neovascular inflammatory, 193235 (3)	TNF	1.0	
+Breast Fibrocystic Disease	CYP1A1	1.0	
+Breast Fibrocystic Disease	PTGS2	1.0	
+Breast Fibrocystic Disease	TNF	1.0	
+Pharyngeal Neoplasms	CYP1A1	1.0	
+Pharyngeal Neoplasms	CYP2C9	1.0	
+Pharyngeal Neoplasms	TNF	1.0	
+Hyperlipidemia, combined, 1	CYP2C19	1.0	
+Hyperlipidemia, combined, 1	CYP2C9	1.0	
+Hyperlipidemia, combined, 1	CYP3A5	1.0	
+Hyperlipidemia, combined, 1	LTA	1.0	
+Hyperlipidemia, combined, 1	PTGS1	1.0	
+Hyperlipidemia, combined, 1	TNF	1.0	
+Neurodegeneration with brain iron accumulation 4	CYP1A1	1.0	
+Neurodegeneration with brain iron accumulation 4	CYP2E1	1.0	
+Neurodegeneration with brain iron accumulation 4	TNF	1.0	
+Drug Eruptions	CYP1A1	1.0	
+Drug Eruptions	CYP2E1	1.0	
+Primary malignant neoplasm of liver	CYP2C19	1.0	
+Primary malignant neoplasm of liver	CYP3A5	1.0	
+Latent Tuberculosis	CYP2E1	1.0	
+Latent Tuberculosis	TNF	1.0	
+Hodgkin Disease	CYP1A1	1.0	
+Hodgkin Disease	CYP2C9	1.0	
+Hodgkin Disease	CYP2E1	1.0	
+Hodgkin Disease	LTA	1.0	
+Hodgkin Disease	LTB	1.0	
+Hodgkin Disease	PTGS2	1.0	
+Hodgkin Disease	TNF	1.0	
+Occupational Diseases	CYP1A1	1.0	
+Occupational Diseases	CYP2E1	1.0	
+Occupational Diseases	TNF	1.0	
+Reperfusion Injury	CYP1A1	1.0	
+Reperfusion Injury	CYP2E1	1.0	
+Reperfusion Injury	CYP3A5	1.0	
+Reperfusion Injury	PTGS1	1.0	
+Reperfusion Injury	PTGS2	1.0	
+Reperfusion Injury	TNF	1.0	
+Hypercholesterolemia, autosomal dominant, type B	CYP1A1	1.0	
+Hypercholesterolemia, autosomal dominant, type B	CYP2C19	1.0	
+Hypercholesterolemia, autosomal dominant, type B	CYP2C9	1.0	
+Hypercholesterolemia, autosomal dominant, type B	CYP3A5	1.0	
+Hypercholesterolemia, autosomal dominant, type B	TNF	1.0	
+Pregnancy Complications	CYP1A1	1.0	
+Pregnancy Complications	CYP2E1	1.0	
+Pregnancy Complications	LTA	1.0	
+Pregnancy Complications	TNF	1.0	
+Achalasia	LTA	1.0	
+Achalasia	TNF	1.0	
+Neoplasms, Multiple Primary	CYP1A1	1.0	
+Neoplasms, Multiple Primary	CYP2E1	1.0	
+Acute Lung Injury	CYP1A1	1.0	
+Acute Lung Injury	PTGS2	1.0	
+Acute Lung Injury	TNF	1.0	
+Malignant neoplasm of pharynx	CYP1A1	1.0	
+Malignant neoplasm of pharynx	CYP2E1	1.0	
+Echinococcosis	CYP1A1	1.0	
+Echinococcosis	PTGS1	1.0	
+Typhoid Fever	LTA	1.0	
+Typhoid Fever	TNF	1.0	
+Lung Injury	CYP1A1	1.0	
+Lung Injury	TNF	1.0	
+Fulminant hepatitis	LTA	1.0	
+Fulminant hepatitis	TNF	1.0	
+Early gastric cancer	PTGS2	1.0	
+Early gastric cancer	TNF	1.0	
+Malignant neoplasm of vulva	PTGS2	1.0	
+Malignant neoplasm of vulva	TNF	1.0	
+Oral leukoplakia	CYP1A1	1.0	
+Oral leukoplakia	CYP2E1	1.0	
+Oral leukoplakia	PTGS2	1.0	
+Old myocardial infarction	CYP2C9	1.0	
+Old myocardial infarction	TNF	1.0	
+gastritis h pylori	PTGS1	1.0	
+gastritis h pylori	PTGS2	1.0	
+Proteinuria Adverse Event	CYP2C9	1.0	
+Proteinuria Adverse Event	TNF	1.0	
+Spondylarthropathies	LTA	1.0	
+Spondylarthropathies	PTGS2	1.0	
+Spondylarthropathies	TNF	1.0	
+Pharyngitis	CYP2C19	1.0	
+Pharyngitis	TNF	1.0	
+Oral aphthae	LTA	1.0	
+Oral aphthae	TNF	1.0	
+Aortic valve calcification	PTGS2	1.0	
+Aortic valve calcification	TNF	1.0	

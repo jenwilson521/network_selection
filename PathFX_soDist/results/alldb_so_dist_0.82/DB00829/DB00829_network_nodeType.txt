@@ -1,0 +1,37 @@
+node_name	node_type	
+DB00829	drug	
+PTGS1	drug_target	
+GABRG3	drug_target	
+GABRG2	drug_target	
+GABRG1	drug_target	
+GABRA1	drug_target	
+GABRB2	drug_target	
+GABRA3	drug_target	
+GABRA2	drug_target	
+CYP3A5	drug_target	
+CYP2B6	drug_target	
+ABCB1	drug_target	
+GABRR1	drug_target	
+GABRR2	drug_target	
+GABRB1	drug_target	
+CYP3A4	drug_target	
+GABRB3	drug_target	
+TSPO	drug_target	
+CYP2C9	drug_target	
+CYP2C8	drug_target	
+ALB	drug_target	
+GABRP	drug_target	
+CYP2E1	drug_target	
+GABRQ	drug_target	
+CYP2C19	drug_target	
+CYP2C18	drug_target	
+GABRD	drug_target	
+Drug Allergy	phenotype	
+Primary malignant neoplasm of liver	phenotype	
+Neoplasms, Germ Cell and Embryonal	phenotype	
+Essential tremor	phenotype	
+End Stage Liver Disease	phenotype	
+Neurotoxicity Syndromes	phenotype	
+Stomach Diseases	phenotype	
+Bone necrosis	phenotype	
+Peptic ulcer	phenotype	

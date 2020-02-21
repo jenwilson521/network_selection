@@ -1,0 +1,2 @@
+rank	phenotype	cui	assoc in neigh	assoc in intom	probability	Benjamini-Hochberg	genes	
+31	Advanced cancer	C0877373	2	100	6.399576260762707e-05	6.63811563169e-05	CYP3A4,MTOR

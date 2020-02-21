@@ -1,0 +1,29 @@
+node_name	node_type	
+DB00220	drug	
+CYP2C9	drug_target	
+ABCG2	drug_target	
+CYP2D6	drug_target	
+CYP2B6	drug_target	
+ALB	drug_target	
+ABCB11	drug_target	
+SLCO1B1	drug_target	
+SLCO1B3	drug_target	
+CYP2C19	drug_target	
+SLC22A1	drug_target	
+SLCO1A2	drug_target	
+SLCO2B1	drug_target	
+CYP3A4	drug_target	
+CYP3A5	drug_target	
+UGT1A1	drug_target	
+ABCB1	drug_target	
+Drug Allergy	phenotype	
+Hyperbilirubinemia	phenotype	
+Febrile Neutropenia	phenotype	
+Hepatitis D Infection	phenotype	
+Primary malignant neoplasm of liver	phenotype	
+Adverse drug events and drug allergies	phenotype	
+Cholelithiasis	phenotype	
+Neurotoxicity Syndromes	phenotype	
+Neutropenia	phenotype	
+Drug-Induced Liver Injury	phenotype	
+Nausea	phenotype	

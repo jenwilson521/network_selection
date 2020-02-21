@@ -1,0 +1,337 @@
+node1	node2	edge_score	
+DB08815	DRD2	1.0	
+DB08815	ADRA2A	1.0	
+DB08815	ADRA2C	1.0	
+DB08815	HTR7	1.0	
+DB08815	HTR2A	1.0	
+DB08815	CYP3A4	1.0	
+DB08815	HTR1A	1.0	
+CYP3A4	rs35599367	0.99
+HTR2A	rs6314	0.99
+CYP3A4	rs2242480	0.99
+DRD2	rs2734842	0.99
+rs2740574	CYP3A	0.9801
+DRD2	rs6275	0.99
+rs1800497	ANKK1	0.9801
+CYP3A4	rs4646437	0.99
+DRD2	rs1799978	0.99
+DRD2	rs1079597	0.99
+DRD2	rs6279	0.99
+DRD2	rs2734833	0.99
+HTR2A	rs9316233	0.99
+DRD2	rs1125394	0.99
+HTR1A	rs6295	0.99
+ADRA2A		1.0
+CYP3A4	rs2246709	0.99
+CYP3A	rs12721627	0.970299
+CYP3A4	CYP3A4*1, CYP3A4*4	0.99
+rs4987161	CYP3A	0.9801
+DRD2	rs1799732	0.99
+HTR1A	rs878567	0.99
+rs12721627	CYP3A	0.9801
+HTR7		1.0
+CYP3A4	rs3735451	0.99
+DRD2	rs4460839	0.99
+HTR2A	rs6313	0.99
+HTR2A	rs7997012	0.99
+DRD2	rs2440390	0.99
+ANKK1	rs7118900	0.970299
+DRD2	rs1079598	0.99
+DRD2	rs2734841	0.99
+CYP3A4		1.0
+rs12721627	CYP3A4	0.96059601
+HTR2A	rs6305	0.99
+CYP3A4	rs4987161	0.99
+CYP3A4	CYP3A4*1, CYP3A4*22	0.99
+DRD2	rs12364283	0.99
+CYP3A	rs2740574	0.970299
+DRD2		1.0
+DRD2	rs1124493	0.99
+ADRA2C		1.0
+HTR2A		1.0
+DRD2	rs6277	0.99
+HTR1A	rs1364043	0.99
+rs4987161	CYP3A4	0.96059601
+CYP3A4	rs2740574	0.99
+rs2740574	CYP3A4	0.96059601
+CYP3A4	rs28371759	0.99
+CYP3A4	rs4986910	0.99
+CYP3A	rs4987161	0.970299
+CYP3A4	CYP3A4*1, CYP3A4*20, CYP3A4*8	0.99
+DRD2	rs2283265	0.99
+DRD2	rs4436578	0.99
+HTR1A	rs10042486	0.99
+DRD2	rs1076560	0.99
+HTR1A		1.0
+HTR2A	rs6311	0.99
+CYP3A4	rs4646440	0.99
+CYP3A4	rs12721627	0.99
+CYP3A4	CYP3A4*1, CYP3A4*1G	0.99
+ADRA2A	rs1800545	0.99
+DRD2	rs1800497	0.99
+CYP3A4	rs56324128	0.99
+Chronic sciatica	ADRA2A	1.0	
+Chronic sciatica	ADRA2C	1.0	
+Chronic sciatica	DRD2	1.0	
+Chronic sciatica	HTR1A	1.0	
+Chronic sciatica	HTR2A	1.0	
+Acute disease of cardiovascular system	ADRA2A	1.0	
+Acute disease of cardiovascular system	ADRA2C	1.0	
+Acute disease of cardiovascular system	DRD2	1.0	
+Acute disease of cardiovascular system	HTR1A	1.0	
+Acute disease of cardiovascular system	HTR2A	1.0	
+Low back pain	ADRA2A	1.0	
+Low back pain	ADRA2C	1.0	
+Low back pain	DRD2	1.0	
+Low back pain	HTR1A	1.0	
+Low back pain	HTR2A	1.0	
+Bulimia	DRD2	1.0	
+Bulimia	HTR1A	1.0	
+Bulimia	HTR2A	1.0	
+Bulimia	HTR7	1.0	
+Psychoses, Substance-Induced	ADRA2C	1.0	
+Psychoses, Substance-Induced	ANKK1	1.0	
+Psychoses, Substance-Induced	DRD2	1.0	
+Psychoses, Substance-Induced	HTR1A	1.0	
+Psychoses, Substance-Induced	HTR2A	1.0	
+Weight Gain Adverse Event	ADRA2A	1.0	
+Weight Gain Adverse Event	ANKK1	1.0	
+Weight Gain Adverse Event	DRD2	1.0	
+Weight Gain Adverse Event	HTR1A	1.0	
+Weight Gain Adverse Event	HTR2A	1.0	
+Weight Gain Adverse Event	HTR7	1.0	
+Alcohol abuse	ANKK1	1.0	
+Alcohol abuse	CYP3A4	1.0	
+Alcohol abuse	DRD2	1.0	
+Alcohol abuse	HTR2A	1.0	
+Alcohol abuse	HTR7	1.0	
+As If Personality	ANKK1	1.0	
+As If Personality	DRD2	1.0	
+As If Personality	HTR1A	1.0	
+As If Personality	HTR2A	1.0	
+Heroin Dependence	ANKK1	1.0	
+Heroin Dependence	CYP3A4	1.0	
+Heroin Dependence	DRD2	1.0	
+Heroin Dependence	HTR2A	1.0	
+Substance Use Disorders	DRD2	1.0	
+Substance Use Disorders	HTR1A	1.0	
+Substance Use Disorders	HTR2A	1.0	
+Antisocial Personality Disorder	ANKK1	1.0	
+Antisocial Personality Disorder	DRD2	1.0	
+Antisocial Personality Disorder	HTR2A	1.0	
+Chronic schizophrenia	CYP3A4	1.0	
+Chronic schizophrenia	DRD2	1.0	
+Chronic schizophrenia	HTR2A	1.0	
+Personality disorder	DRD2	1.0	
+Personality disorder	HTR1A	1.0	
+Personality disorder	HTR2A	1.0	
+Anxiety Disorders	ADRA2A	1.0	
+Anxiety Disorders	ANKK1	1.0	
+Anxiety Disorders	CYP3A4	1.0	
+Anxiety Disorders	DRD2	1.0	
+Anxiety Disorders	HTR1A	1.0	
+Anxiety Disorders	HTR2A	1.0	
+Anxiety Disorders	HTR7	1.0	
+Marijuana Abuse	ADRA2C	1.0	
+Marijuana Abuse	ANKK1	1.0	
+Marijuana Abuse	DRD2	1.0	
+Marijuana Abuse	HTR2A	1.0	
+Chronic Fatigue Syndrome	HTR1A	1.0	
+Chronic Fatigue Syndrome	HTR2A	1.0	
+Chronic Fatigue Syndrome	HTR7	1.0	
+Dyskinesia, Drug-Induced	DRD2	1.0	
+Dyskinesia, Drug-Induced	HTR1A	1.0	
+Dyskinesia, Drug-Induced	HTR2A	1.0	
+Panic disorder syndrome 1 (2)	ADRA2A	1.0	
+Panic disorder syndrome 1 (2)	DRD2	1.0	
+Panic disorder syndrome 1 (2)	HTR1A	1.0	
+Panic disorder syndrome 1 (2)	HTR2A	1.0	
+Memory Disorders	DRD2	1.0	
+Memory Disorders	HTR1A	1.0	
+Memory Disorders	HTR7	1.0	
+Cocaine Dependence	ANKK1	1.0	
+Cocaine Dependence	DRD2	1.0	
+Cocaine Dependence	HTR2A	1.0	
+Mood Disorders	ADRA2A	1.0	
+Mood Disorders	ADRA2C	1.0	
+Mood Disorders	DRD2	1.0	
+Mood Disorders	HTR1A	1.0	
+Mood Disorders	HTR2A	1.0	
+Mood Disorders	HTR7	1.0	
+Depressive Symptoms	CYP3A4	1.0	
+Depressive Symptoms	DRD2	1.0	
+Depressive Symptoms	HTR1A	1.0	
+Depressive Symptoms	HTR2A	1.0	
+Migraine Disorders	ANKK1	1.0	
+Migraine Disorders	CYP3A4	1.0	
+Migraine Disorders	DRD2	1.0	
+Migraine Disorders	HTR1A	1.0	
+Migraine Disorders	HTR2A	1.0	
+Migraine Disorders	HTR7	1.0	
+Tourette Syndrome	ADRA2A	1.0	
+Tourette Syndrome	DRD2	1.0	
+Tourette Syndrome	HTR1A	1.0	
+Tourette Syndrome	HTR2A	1.0	
+Pharyngeal Neoplasms	ANKK1	1.0	
+Pharyngeal Neoplasms	CYP3A4	1.0	
+Pharyngeal Neoplasms	DRD2	1.0	
+Tardive Dyskinesia	CYP3A4	1.0	
+Tardive Dyskinesia	DRD2	1.0	
+Tardive Dyskinesia	HTR2A	1.0	
+Bipolar I disorder	ANKK1	1.0	
+Bipolar I disorder	DRD2	1.0	
+Bipolar I disorder	HTR2A	1.0	
+NEUROTICISM	ANKK1	1.0	
+NEUROTICISM	DRD2	1.0	
+NEUROTICISM	HTR1A	1.0	
+MAJOR AFFECTIVE DISORDER 4	DRD2	1.0	
+MAJOR AFFECTIVE DISORDER 4	HTR2A	1.0	
+MAJOR AFFECTIVE DISORDER 4	HTR7	1.0	
+MAJOR AFFECTIVE DISORDER 5	DRD2	1.0	
+MAJOR AFFECTIVE DISORDER 5	HTR2A	1.0	
+MAJOR AFFECTIVE DISORDER 5	HTR7	1.0	
+MAJOR AFFECTIVE DISORDER 6	DRD2	1.0	
+MAJOR AFFECTIVE DISORDER 6	HTR2A	1.0	
+MAJOR AFFECTIVE DISORDER 6	HTR7	1.0	
+Major affective disorder 7	DRD2	1.0	
+Major affective disorder 7	HTR2A	1.0	
+Major affective disorder 7	HTR7	1.0	
+MAJOR AFFECTIVE DISORDER 8	DRD2	1.0	
+MAJOR AFFECTIVE DISORDER 8	HTR2A	1.0	
+MAJOR AFFECTIVE DISORDER 8	HTR7	1.0	
+MAJOR AFFECTIVE DISORDER 9	DRD2	1.0	
+MAJOR AFFECTIVE DISORDER 9	HTR2A	1.0	
+MAJOR AFFECTIVE DISORDER 9	HTR7	1.0	
+Orofacial dyskinesia	CYP3A4	1.0	
+Orofacial dyskinesia	DRD2	1.0	
+Orofacial dyskinesia	HTR2A	1.0	
+Behavior Disorders	ADRA2A	1.0	
+Behavior Disorders	DRD2	1.0	
+Depressive Disorder	ADRA2A	1.0	
+Depressive Disorder	ADRA2C	1.0	
+Depressive Disorder	ANKK1	1.0	
+Depressive Disorder	DRD2	1.0	
+Depressive Disorder	HTR1A	1.0	
+Depressive Disorder	HTR2A	1.0	
+Depressive Disorder	HTR7	1.0	
+Substance Withdrawal Syndrome	DRD2	1.0	
+Substance Withdrawal Syndrome	HTR1A	1.0	
+Substance Withdrawal Syndrome	HTR2A	1.0	
+Irritable bowel syndrome with diarrhea	ADRA2A	1.0	
+Irritable bowel syndrome with diarrhea	ADRA2C	1.0	
+Irritable bowel syndrome with diarrhea	HTR2A	1.0	
+Irritable bowel syndrome with diarrhea	HTR7	1.0	
+{Unipolar depression, susceptibility to}, 608516 (3)	ADRA2A	1.0	
+{Unipolar depression, susceptibility to}, 608516 (3)	ADRA2C	1.0	
+{Unipolar depression, susceptibility to}, 608516 (3)	ANKK1	1.0	
+{Unipolar depression, susceptibility to}, 608516 (3)	DRD2	1.0	
+{Unipolar depression, susceptibility to}, 608516 (3)	HTR1A	1.0	
+{Unipolar depression, susceptibility to}, 608516 (3)	HTR2A	1.0	
+{Unipolar depression, susceptibility to}, 608516 (3)	HTR7	1.0	
+Unipolar Depression	ADRA2A	1.0	
+Unipolar Depression	ADRA2C	1.0	
+Unipolar Depression	ANKK1	1.0	
+Unipolar Depression	DRD2	1.0	
+Unipolar Depression	HTR1A	1.0	
+Unipolar Depression	HTR2A	1.0	
+Generalized anxiety disorder	DRD2	1.0	
+Generalized anxiety disorder	HTR2A	1.0	
+Polyphagia	ANKK1	1.0	
+Polyphagia	DRD2	1.0	
+Polyphagia	HTR2A	1.0	
+Hyperalgesia	ADRA2A	1.0	
+Hyperalgesia	ADRA2C	1.0	
+Hyperalgesia	HTR2A	1.0	
+Hyperalgesia	HTR7	1.0	
+Seasonal Affective Disorder	HTR1A	1.0	
+Seasonal Affective Disorder	HTR2A	1.0	
+ {Nicotine dependence, protection against}, 188890 (3)	DRD2	1.0	
+ {Nicotine dependence, protection against}, 188890 (3)	HTR2A	1.0	
+Mental disorders	ADRA2C	1.0	
+Mental disorders	ANKK1	1.0	
+Mental disorders	DRD2	1.0	
+Mental disorders	HTR1A	1.0	
+Mental disorders	HTR2A	1.0	
+Mental disorders	HTR7	1.0	
+Neuralgia	ADRA2A	1.0	
+Neuralgia	ADRA2C	1.0	
+Neuralgia	DRD2	1.0	
+Sleep Wake Disorders	DRD2	1.0	
+Sleep Wake Disorders	HTR2A	1.0	
+Sleep Wake Disorders	HTR7	1.0	
+Cocaine delirium	CYP3A4	1.0	
+Cocaine delirium	DRD2	1.0	
+Dyskinesia, seizures, and intellectual developmental disorder	ANKK1	1.0	
+Dyskinesia, seizures, and intellectual developmental disorder	DRD2	1.0	
+Dyskinesia, seizures, and intellectual developmental disorder	HTR2A	1.0	
+Acute postoperative pain	CYP3A4	1.0	
+Acute postoperative pain	HTR2A	1.0	
+Psychiatric symptom	HTR1A	1.0	
+Psychiatric symptom	HTR2A	1.0	
+alcohol use disorder	ANKK1	1.0	
+alcohol use disorder	DRD2	1.0	
+Neurobehavioral Manifestations	DRD2	1.0	
+Neurobehavioral Manifestations	HTR2A	1.0	
+Bulimia nervosa 1	DRD2	1.0	
+Bulimia nervosa 1	HTR2A	1.0	
+Neoplasm of the larynx	ANKK1	1.0	
+Neoplasm of the larynx	CYP3A4	1.0	
+Neoplasm of the larynx	DRD2	1.0	
+Opiate Addiction	ANKK1	1.0	
+Opiate Addiction	DRD2	1.0	
+Learning Disabilities	ADRA2A	1.0	
+Learning Disabilities	ADRA2C	1.0	
+Anorexia nervosa 1	DRD2	1.0	
+Anorexia nervosa 1	HTR2A	1.0	
+Anorexia nervosa 1	HTR7	1.0	
+Delusions	DRD2	1.0	
+Delusions	HTR2A	1.0	
+Insomnia	DRD2	1.0	
+Insomnia	HTR2A	1.0	
+Major depressive disorder	ADRA2A	1.0	
+Major depressive disorder	ADRA2C	1.0	
+Major depressive disorder	ANKK1	1.0	
+Major depressive disorder	DRD2	1.0	
+Major depressive disorder	HTR1A	1.0	
+Major depressive disorder	HTR2A	1.0	
+Nicotine Dependence	ANKK1	1.0	
+Nicotine Dependence	DRD2	1.0	
+Nicotine Dependence	HTR2A	1.0	
+Antisocial/borderline personality disorder	ANKK1	1.0	
+Antisocial/borderline personality disorder	DRD2	1.0	
+Overweight	ADRA2A	1.0	
+Overweight	ANKK1	1.0	
+Overweight	DRD2	1.0	
+Overweight	HTR2A	1.0	
+Increased body weight	ADRA2A	1.0	
+Increased body weight	ANKK1	1.0	
+Increased body weight	DRD2	1.0	
+Increased body weight	HTR1A	1.0	
+Increased body weight	HTR2A	1.0	
+Increased body weight	HTR7	1.0	
+Drug usage	ADRA2A	1.0	
+Drug usage	DRD2	1.0	
+Alcohol dependence	ADRA2A	1.0	
+Alcohol dependence	ADRA2C	1.0	
+Alcohol dependence	ANKK1	1.0	
+Alcohol dependence	DRD2	1.0	
+Alcohol dependence	HTR1A	1.0	
+Alcohol dependence	HTR2A	1.0	
+Alcohol dependence	HTR7	1.0	
+Cocaine-Related Disorders	DRD2	1.0	
+Cocaine-Related Disorders	HTR1A	1.0	
+Cocaine-Related Disorders	HTR2A	1.0	
+Learning Disorders	HTR1A	1.0	
+Learning Disorders	HTR7	1.0	
+Polydipsia	ADRA2A	1.0	
+Polydipsia	DRD2	1.0	
+Attention deficit hyperactivity disorder	ADRA2A	1.0	
+Attention deficit hyperactivity disorder	ADRA2C	1.0	
+Attention deficit hyperactivity disorder	ANKK1	1.0	
+Attention deficit hyperactivity disorder	DRD2	1.0	
+Attention deficit hyperactivity disorder	HTR1A	1.0	
+Attention deficit hyperactivity disorder	HTR2A	1.0	
+Pain insensitivity	CYP3A4	1.0	
+Pain insensitivity	DRD2	1.0	
+Bradycardia	DRD2	1.0	
+Bradycardia	HTR1A	1.0	

@@ -1,0 +1,2 @@
+rank	phenotype	cui	assoc in neigh	assoc in intom	probability	Benjamini-Hochberg	genes	
+14	Drug-Induced Liver Injury	C0860207	6	198	8.858474238149228e-06	1.11287758347e-05	ABCB1,ABCC2,ABCG2,CYP2C19,PPARG,UGT1A3

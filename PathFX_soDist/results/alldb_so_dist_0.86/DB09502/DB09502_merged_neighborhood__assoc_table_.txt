@@ -1,0 +1,105 @@
+rank	phenotype	cui	assoc in neigh	assoc in intom	probability	Benjamini-Hochberg	genes	
+1	Abdominal distention	C0000731	1	77	0.0	8.40336134454e-06	SLC2A2
+2	Abnormality of acid-base homeostasis	C0001118	1	286	0.0	1.68067226891e-05	SLC2A2
+3	Acidosis	C0001122	1	289	0.0	2.52100840336e-05	SLC2A2
+4	Atherosclerosis	C0004153	1	1271	0.0	3.36134453782e-05	SLC2A2
+5	Breast-ovarian cancer, familial 1	C0006142	1	4543	0.0	4.20168067227e-05	SLC2A2
+6	Colon cancer	C0007102	1	1727	0.0	5.04201680672e-05	SLC2A2
+7	Squamous cell carcinoma	C0007137	1	1855	0.0	5.88235294118e-05	SLC2A2
+8	Cardiovascular Diseases	C0007222	1	1029	0.0	6.72268907563e-05	SLC2A2
+9	Delusions	C0011253	1	41	0.0	7.56302521008e-05	SLC2A2
+10	Diabetes Mellitus, Type 1	C0011849	1	2081	0.0	8.40336134454e-05	SLC2A2
+11	Diabetes mellitus type 1	C0011854	1	1104	0.0	9.24369747899e-05	SLC2A2
+12	Diabetes mellitus type 2	C0011860	1	1972	0.0	0.000100840336134	SLC2A2
+13	Diabetic Nephropathies	C0011881	1	616	0.0	0.000109243697479	SLC2A2
+14	Failure to thrive	C0015544	1	622	0.0	0.000117647058824	SLC2A2
+16	Hepatic steatosis	C0015695	1	427	0.0	0.000134453781513	SLC2A2
+18	Glycogen storage disease	C0017919	1	36	0.0	0.000151260504202	SLC2A2
+19	Glycosuria	C0017979	1	41	0.0	0.000159663865546	SLC2A2
+21	Hepatomegaly	C0019209	1	397	0.0	0.000176470588235	SLC2A2
+22	Hyperglycemia	C0020456	1	459	0.0	0.00018487394958	SLC2A2
+23	Secondary hyperparathyroidism	C0020503	1	182	0.0	0.000193277310924	SLC2A2
+24	Hypoglycemia, neonatal, simulating foetopathia diabetica	C0020615	1	265	0.0	0.000201680672269	SLC2A2
+25	Hypokalemia	C0020621	1	48	0.0	0.000210084033613	SLC2A2
+26	Insulinoma	C0021670	1	157	0.0	0.000218487394958	SLC2A2
+27	Abnormality of the intestine	C0021831	1	584	0.0	0.000226890756303	SLC2A2
+28	Kidney Diseases	C0022658	1	755	0.0	0.000235294117647	SLC2A2
+29	Malabsorption	C0024523	1	224	0.0	0.000243697478992	SLC2A2
+30	Animal Mammary Neoplasms	C0024667	1	2352	0.0	0.000252100840336	SLC2A2
+31	Obesity	C0028754	1	2181	0.0	0.000260504201681	SLC2A2
+32	Osteomalacia	C0029442	1	36	0.0	0.000268907563025	SLC2A2
+33	Pituitary adenoma	C0032000	1	286	0.0	0.00027731092437	SLC2A2
+34	Abnormality of the pituitary gland	C0032002	1	645	0.0	0.000285714285714	SLC2A2
+35	Pituitary Neoplasms	C0032019	1	321	0.0	0.000294117647059	SLC2A2
+36	Abnormality of the skin	C0037268	1	1376	0.0	0.000302521008403	SLC2A2
+37	Abnormality of the genitourinary system	C0042063	1	1555	0.0	0.000310924369748	SLC2A2
+38	Virus Diseases	C0042769	1	772	0.0	0.000319327731092	SLC2A2
+39	B-cell lymphoma	C0079731	1	652	0.0	0.000327731092437	SLC2A2
+40	Hypophosphatemia	C0085682	1	40	0.0	0.000336134453782	SLC2A2
+41	Squamous cell carcinoma of lung	C0149782	1	192	0.0	0.000344537815126	SLC2A2
+42	Abnormal renal physiology	C0151746	1	429	0.0	0.000352941176471	SLC2A2
+43	Renal tubular dysfunction	C0151747	1	64	0.0	0.000361344537815	SLC2A2
+44	Elevated alkaline phosphatase	C0151849	1	53	0.0	0.00036974789916	SLC2A2
+45	Neonatal diabetes mellitus	C0158981	1	36	0.0	0.000378151260504	SLC2A2
+46	Berardinelli-Seip congenital lipodystrophy	C0221032	1	25	0.0	0.000386554621849	SLC2A2
+49	Aminoaciduria	C0238621	1	120	0.0	0.000411764705882	SLC2A2
+50	Azotemia	C0242528	1	75	0.0	0.000420168067227	SLC2A2
+51	Growth abnormality	C0262361	1	1578	0.0	0.000428571428571	SLC2A2
+52	Abnormality of the digestive system	C0266015	1	1679	0.0	0.000436974789916	SLC2A2
+53	Congenital anomalies of kidney and urinary tract 1, susceptibility to	C0266292	1	820	0.0	0.000445378151261	SLC2A2
+54	Hyperphosphaturia	C0268079	1	37	0.0	0.000453781512605	SLC2A2
+56	Glomerulopathy	C0268731	1	159	0.0	0.000470588235294	SLC2A2
+57	Glucose intolerance	C0271650	1	304	0.0	0.000478991596639	SLC2A2
+58	3-Methylglutaconic aciduria	C0278026	1	188	0.0	0.000487394957983	SLC2A2
+60	Autosomal recessive inheritance	C0441748	1	2006	0.0	0.000504201680672	SLC2A2
+61	Abnormality of the nervous system	C0497552	1	2512	0.0	0.000512605042017	SLC2A2
+62	Decreased adipose tissue	C0543442	1	27	0.0	0.000521008403361	SLC2A2
+63	Global developmental delay, absent or hypoplastic corpus callosum, and dysmorphic facies	C0557874	1	964	0.0	0.000529411764706	SLC2A2
+64	Breast carcinoma	C0678222	1	4281	0.0	0.00053781512605	SLC2A2
+65	Neurodevelopmental abnormality	C0679378	1	1639	0.0	0.000546218487395	SLC2A2
+66	Carcinoma of colon	C0699790	1	1856	0.0	0.000554621848739	SLC2A2
+67	Abdominal symptom	C0740651	1	901	0.0	0.000563025210084	SLC2A2
+69	Decreased body weight	C1262477	1	810	0.0	0.000579831932773	SLC2A2
+70	Abnormality of amino acid metabolism	C1328440	1	172	0.0	0.000588235294118	SLC2A2
+71	Well Differentiated Pancreatic Endocrine Tumor	C1337011	1	71	0.0	0.000596638655462	SLC2A2
+76	Hepatocellular carcinoma	C2239176	1	3108	0.0	0.000638655462185	SLC2A2
+77	Reduced bone mineral density	C2674432	1	339	0.0	0.000647058823529	SLC2A2
+79	Morphological abnormality of the gastrointestinal tract	C4021073	1	682	0.0	0.000663865546218	SLC2A2
+80	Generalized abnormality of skin	C4021157	1	712	0.0	0.000672268907563	SLC2A2
+81	Abnormality of adipose tissue	C4021524	1	144	0.0	0.000680672268908	SLC2A2
+83	Abnormality of bone mineral density	C4021657	1	397	0.0	0.000697478991597	SLC2A2
+84	Abnormality of metabolism/homeostasis	C4021768	1	1607	0.0	0.000705882352941	SLC2A2
+85	Abnormality of the skeletal system	C4021790	1	1961	0.0	0.000714285714286	SLC2A2
+86	Abnormality of the urinary system	C4021821	1	1136	0.0	0.00072268907563	SLC2A2
+87	Abnormality of phosphate homeostasis	C4022032	1	52	0.0	0.000731092436975	SLC2A2
+88	Neurodevelopmental delay	C4022738	1	1140	0.0	0.000739495798319	SLC2A2
+89	Abnormality of nervous system physiology	C4022811	1	2307	0.0	0.000747899159664	SLC2A2
+90	Abnormal urine phosphate concentration	C4022828	1	37	0.0	0.000756302521008	SLC2A2
+91	Abnormal urinary electrolyte concentration	C4022833	1	97	0.0	0.000764705882353	SLC2A2
+92	Abnormal enzyme/coenzyme activity	C4022922	1	73	0.0	0.000773109243697	SLC2A2
+93	Abnormal bone ossification	C4023161	1	471	0.0	0.000781512605042	SLC2A2
+94	Abnormality of skeletal morphology	C4023165	1	1878	0.0	0.000789915966387	SLC2A2
+95	Abnormality of the urinary system physiology	C4023437	1	654	0.0	0.000798319327731	SLC2A2
+96	Abnormality of skin morphology	C4023528	1	1261	0.0	0.000806722689076	SLC2A2
+97	Abnormality of potassium homeostasis	C4023575	1	45	0.0	0.00081512605042	SLC2A2
+98	Abnormality of the gastrointestinal tract	C4023588	1	886	0.0	0.000823529411765	SLC2A2
+99	Abnormality of urine glucose concentration	C4023596	1	39	0.0	0.000831932773109	SLC2A2
+100	Abnormal glucose homeostasis	C4023598	1	436	0.0	0.000840336134454	SLC2A2
+101	Abnormality of carbohydrate metabolism/homeostasis	C4023599	1	491	0.0	0.000848739495798	SLC2A2
+102	Abnormality of the upper urinary tract	C4023641	1	827	0.0	0.000857142857143	SLC2A2
+103	Abnormality of nucleobase metabolism	C4023643	1	39	0.0	0.000865546218487	SLC2A2
+104	Abnormality of monovalent inorganic cation homeostasis	C4023645	1	59	0.0	0.000873949579832	SLC2A2
+105	Abnormality of cation homeostasis	C4023646	1	192	0.0	0.000882352941176	SLC2A2
+106	Abnormality of alkaline phosphatase activity	C4025328	1	56	0.0	0.000890756302521	SLC2A2
+108	Abnormality of nitrogen compound homeostasis	C4025336	1	74	0.0	0.00090756302521	SLC2A2
+109	Abnormality of carboxylic acid metabolism	C4025344	1	197	0.0	0.000915966386555	SLC2A2
+110	Abnormality of purine metabolism	C4025346	1	28	0.0	0.000924369747899	SLC2A2
+111	Abnormality of body weight	C4025357	1	970	0.0	0.000932773109244	SLC2A2
+112	Abnormality of connective tissue	C4025596	1	941	0.0	0.000941176470588	SLC2A2
+113	Abnormal bone structure	C4025630	1	530	0.0	0.000949579831933	SLC2A2
+114	Abnormality of ion homeostasis	C4025654	1	214	0.0	0.000957983193277	SLC2A2
+115	Abnormality of urine homeostasis	C4025655	1	409	0.0	0.000966386554622	SLC2A2
+116	Abnormality of the integument	C4025761	1	1665	0.0	0.000974789915966	SLC2A2
+117	Abnormality of subcutaneous fat tissue	C4025813	1	28	0.0	0.000983193277311	SLC2A2
+118	Abnormality of digestive system morphology	C4293691	1	682	0.0	0.000991596638655	SLC2A2
+119	Abnormality of digestive system physiology	C4293692	1	1132	0.0	0.001	SLC2A2

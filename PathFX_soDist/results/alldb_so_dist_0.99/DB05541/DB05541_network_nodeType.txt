@@ -1,0 +1,7 @@
+node_name	node_type	
+DB05541	drug	
+CYP2C9	drug_target	
+CYP2B6	drug_target	
+CYP3A4	drug_target	
+CYP2C19	drug_target	
+SV2A	drug_target	

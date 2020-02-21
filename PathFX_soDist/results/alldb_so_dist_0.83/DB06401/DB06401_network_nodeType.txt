@@ -1,0 +1,25 @@
+node_name	node_type	
+DB06401	drug	
+ESR2	drug_target	
+UGT1A8	drug_target	
+UGT1A10	drug_target	
+ESR1	drug_target	
+Cholelithiasis	phenotype	
+Hepatitis D Infection	phenotype	
+Hyperbilirubinemia	phenotype	
+Febrile Neutropenia	phenotype	
+Drug Allergy	phenotype	
+Cholecystolithiasis	phenotype	
+Hearing Loss, Partial	phenotype	
+Anemia, Sickle Cell	phenotype	
+Mammographic breast density	phenotype	
+Deafness, autosomal recessive 44	phenotype	
+Abdominal pain	phenotype	
+Leukopenia	phenotype	
+Microsatellite Instability	phenotype	
+Influenza	phenotype	
+Postmenopausal osteoporosis	phenotype	
+Osteoarthritis of distal interphalangeal joint	phenotype	
+Deficiency of glucose-6-phosphate dehydrogenase	phenotype	
+Osteoarthritis of the hand	phenotype	
+Bulimia nervosa 1	phenotype	

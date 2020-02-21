@@ -1,0 +1,60 @@
+Gene	CUI	Source Databases	
+GABBR1	C0029421	Osteochondritis dissecans	DisGeNet	
+GRIN2B	C0029421	Osteochondritis dissecans	DisGeNet	
+GABBR1	C0028768	Obsessive-compulsive disorder	DisGeNet	
+GRIN2B	C0028768	Obsessive-compulsive disorder	DisGeNet	
+GABBR1	C0027796	Neuralgia	DisGeNet	
+GRIN2B	C0027796	Neuralgia	DisGeNet	
+GABBR1	C0476254	Dyslexia 1	DisGeNet	
+GRIN2B	C0476254	Dyslexia 1	DisGeNet	
+GABBR1	C0014556	Epilepsy, Temporal Lobe	DisGeNet	
+GRIN2B	C0014556	Epilepsy, Temporal Lobe	DisGeNet	
+GRIN2B	C0032051	Placental Insufficiency	DisGeNet	
+GRIN2B	C0795864	Smith-Magenis syndrome	DisGeNet	
+GABBR1	C0233794	Memory impairment	DisGeNet	
+GRIN2B	C0233794	Memory impairment	DisGeNet	
+GRIN2B	C0236663	Alcohol withdrawal syndrome	DisGeNet	
+GRIN2B	C0011206	Cocaine delirium	DisGeNet	
+GABBR1	C0036429	Sclerosis	DisGeNet	
+GRIN2B	C0031212	Personality disorder	DisGeNet	
+GRIN2B	C0524662	Opiate Addiction	DisGeNet	
+GABBR1	C0270853	Juvenile myoclonic epilepsy	DisGeNet	
+GABBR1	C1504404	Hippocampal sclerosis	DisGeNet	
+GRIN2B	C0014547	Epilepsy, focal, with speech disorder and with or without mental retardation	DisGeNet	
+GRIN2B	C0750974	Brain Tumor, Primary	DisGeNet	
+GRIN2B	C0008074	Child Development Disorders, Pervasive	DisGeNet	
+GRIN2B	C0431380	Cortical dysplasia, complex, with other brain malformations 3	DisGeNet	
+GABBR1	C0041696	Unipolar Depression	DisGeNet	
+GRIN2B	C0041696	Unipolar Depression	DisGeNet	
+GRIN2B	C0002622	Memory Loss	DisGeNet	
+GABBR1	C0270850	Idiopathic generalized epilepsy	DisGeNet	
+GRIN2B	C1854882	Absent speech	HumPhenOnt	
+GABBR1	C0270736	Essential tremor	DisGeNet	
+GRIN2B	C0686347	Tardive Dyskinesia	DisGeNet	
+GRIN2B	C0752308	Hypoxia-Ischemia, Brain	DisGeNet	
+GRIN2B	C1842981	NEUROTICISM	DisGeNet	
+GABBR1	C0004936	Mental disorders	DisGeNet	
+GRIN2B	C0004936	Mental disorders	DisGeNet	
+GRIN2B	C1955869	Malformation of cortical development	DisGeNet	
+GABBR1	C0037315	Sleep apnea	DisGeNet	
+GRIN2B	C0152115	Orofacial dyskinesia	DisGeNet	
+GABBR1	C0013473	Eating disorder	DisGeNet	
+GABBR1	C1269683	Major depressive disorder	DisGeNet	
+GRIN2B	C1269683	Major depressive disorder	DisGeNet	
+GABBR1	C0014553	Absence seizures	DisGeNet	
+GRIN2B	C0036337	Schizoaffective Disorder	DisGeNet	
+GABBR1	C0027439	Nasopharyngeal Neoplasms	DisGeNet	
+GRIN2B	C0037769	Hypsarrhythmia	DisGeNet	
+GRIN2B	C0543888	Epileptic encephalopathy, early infantile, 29	HumPhenOnt	
+GRIN2B	C0085762	Alcohol abuse	DisGeNet	
+GRIN2B	C0023891	Liver Cirrhosis, Alcoholic	DisGeNet	
+GRIN2B	C0003125	Anorexia nervosa 1	DisGeNet	
+GABBR1	C0028043	Nicotine Dependence	DisGeNet	
+GABBR1	C0030193	Pain	DisGeNet	
+GRIN2B	C0030193	Pain	DisGeNet	
+GABBR1	C0236736	Cocaine-Related Disorders	DisGeNet	
+GABBR1	C0014544	Epilepsy	DisGeNet	
+GRIN2B	C0014544	Epilepsy	DisGeNet	
+GABBR1	C0001973	Alcohol dependence	DisGeNet	
+GRIN2B	C0001973	Alcohol dependence	DisGeNet	
+GRIN2B	C0020649	Hypotension	DisGeNet	

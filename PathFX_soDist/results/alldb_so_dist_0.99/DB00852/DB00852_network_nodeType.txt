@@ -1,0 +1,14 @@
+node_name	node_type	
+DB00852	drug	
+SLC6A3	drug_target	
+SLC6A2	drug_target	
+CYP2D6	drug_target	
+SLC6A4	drug_target	
+ADRA1A	drug_target	
+ADRA2A	drug_target	
+ADRB1	drug_target	
+MAOA	drug_target	
+TNF	drug_target	
+IL2	drug_target	
+NFATC1	drug_target	
+ADRB2	drug_target	

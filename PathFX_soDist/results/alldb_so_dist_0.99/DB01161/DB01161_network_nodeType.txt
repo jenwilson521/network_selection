@@ -1,0 +1,7 @@
+node_name	node_type	
+DB01161	drug	
+SLC6A3	drug_target	
+GRIN3A	drug_target	
+BCHE	drug_target	
+SCN10A	drug_target	
+HTR3A	drug_target	

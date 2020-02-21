@@ -1,0 +1,29 @@
+Gene	CUI	Source Databases	
+OPRM1	C0267797	Acute hepatitis	DisGeNet	
+OPRM1	C0038586	Substance Use Disorders	DisGeNet	
+OPRM1	C0439857	 {Nicotine dependence, protection against}, 188890 (3)	DisGeNet	
+OPRM1	C0019151	Hepatic encephalopathy	DisGeNet	
+OPRM1	C0687132	heavy drinking	DisGeNet	
+OPRM1	C0030201	Acute postoperative pain	DisGeNet	
+OPRM1	C0001956	alcohol use disorder	DisGeNet	
+OPRM1	C0268135	Xeroderma pigmentosum, group A	DisGeNet	
+OPRM1	C0524662	Opiate Addiction	DisGeNet	
+OPRM1	C0024031	Low back pain	DisGeNet	
+OPRM1	C0020651	Hypotension, Orthostatic	DisGeNet	
+OPRM1	C0917801	Insomnia	DisGeNet	
+OPRM1	C0150055	Chronic pain	DisGeNet	
+OPRM1	C0233523	Antisocial/borderline personality disorder	DisGeNet	
+OPRM1	C0740858	Substance abuse problem	DisGeNet	
+OPRM1	C0242510	Drug usage	DisGeNet	
+OPRM1	C0016053	Fibromyalgia	DisGeNet	
+OPRM1	C0344307	Pain insensitivity	DisGeNet	
+OPRM1	C0027497	Nausea	DisGeNet	
+OPRM1	C0600427	Cocaine Dependence	DisGeNet	
+OPRM1	C0234251	Inflammatory pain	DisGeNet	
+OPRM1	C0920420	cancer recurrence	DisGeNet	
+OPRM1	C0270850	Idiopathic generalized epilepsy	DisGeNet	
+OPRM1	C0038443	Stress, Psychological	DisGeNet	
+OPRM1	C0019337	Heroin Dependence	DisGeNet	
+OPRM1	C0033941	Psychoses, Substance-Induced	DisGeNet	
+OPRM1	C1510472	Drug Dependence	DisGeNet	
+OPRM1	C0014548	Epilepsy, generalized, with febrile seizures plus, type 6 (2)	DisGeNet	

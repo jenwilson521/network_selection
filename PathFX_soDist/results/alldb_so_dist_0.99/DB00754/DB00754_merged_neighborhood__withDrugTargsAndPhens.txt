@@ -1,0 +1,5 @@
+node1	node2	edge_score	
+DB00754	NR1I2	1.0	
+DB00754	SCN5A	1.0	
+DB00754	SERPINA7	1.0	
+

@@ -1,0 +1,96 @@
+node1	node2	edge_score	
+DB00750	SCN5A	1.0	
+SCN5A		1.0
+SCN5A	complex:lAo9+jzjVOaRJSWZQvoh0G1mUDc	0.904977499353
+Romano-Ward syndrome	SCN5A	1.0	
+VENTRICULAR TACHYCARDIA, CATECHOLAMINERGIC POLYMORPHIC, 1 (disorder)	SCN5A	1.0	
+Palpitations	SCN5A	1.0	
+Left ventricular noncompaction	SCN5A	1.0	
+Overlap syndrome	SCN5A	1.0	
+Prolonged QT interval	SCN5A	1.0	
+Congenital long QT syndrome	SCN5A	1.0	
+Sudden death	SCN5A	1.0	
+Paroxysmal atrial fibrillation	SCN5A	1.0	
+Abnormal atrioventricular conduction	SCN5A	1.0	
+Ventricular tachycardia, catecholaminergic polymorphic, 2	SCN5A	1.0	
+cardiac event	SCN5A	1.0	
+Atrioventricular block	SCN5A	1.0	
+Primary atrial arrhythmia	SCN5A	1.0	
+Ventricular fibrillation	SCN5A	1.0	
+Bloom syndrome	SCN5A	1.0	
+Abnormal cardiac test	SCN5A	1.0	
+Supraventricular arrhythmia	SCN5A	1.0	
+Bradycardia	SCN5A	1.0	
+Chromosome Xq28 deletion syndrome	SCN5A	1.0	
+Brugada Syndrome	SCN5A	1.0	
+Abnormal EKG	SCN5A	1.0	
+Channelopathies	SCN5A	1.0	
+Supraventricular tachycardia	SCN5A	1.0	
+Familial dilated cardiomyopathy	SCN5A	1.0	
+Familial hypertrophic cardiomyopathy 11	SCN5A	1.0	
+Syncope	SCN5A	1.0	
+Ventricular arrhythmia	SCN5A	1.0	
+Shock, Septic	SCN5A	1.0	
+Cardiac fibrosis	SCN5A	1.0	
+Common Migraine	SCN5A	1.0	
+Arrhythmogenic right ventricular cardiomyopathy, type 11	SCN5A	1.0	
+Multiple Endocrine Neoplasia Type 2a	SCN5A	1.0	
+Ichthyosis bullosa of Siemens	SCN5A	1.0	
+Ventricular hypertrophy	SCN5A	1.0	
+Heart block	SCN5A	1.0	
+Congenital heart disease	SCN5A	1.0	
+SUDDEN INFANT DEATH SYNDROME	SCN5A	1.0	
+Acquired long QT syndrome	SCN5A	1.0	
+Abnormality of the atrioventricular valves	SCN5A	1.0	
+Ventricular Fibrillation Adverse Event	SCN5A	1.0	
+Abnormality of adipose tissue	SCN5A	1.0	
+EMG abnormality	SCN5A	1.0	
+Tachycardia	SCN5A	1.0	
+Sudden cardiac death	SCN5A	1.0	
+Congenital Myotonic Dystrophy	SCN5A	1.0	
+Palmoplantar keratoderma, nonepidermolytic, focal	SCN5A	1.0	
+Steinert myotonic dystrophy syndrome	SCN5A	1.0	
+Irritable bowel syndrome with diarrhea	SCN5A	1.0	
+Lipoatrophy	SCN5A	1.0	
+46,XY gonadal dysgenesis, partial, with minifascicular neuropathy	SCN5A	1.0	
+Atrial Fibrillation	SCN5A	1.0	
+Abnormality of granulocytes	SCN5A	1.0	
+Abnormality of the cerebral vasculature	SCN5A	1.0	
+Synovial Cyst	SCN5A	1.0	
+Congenital onset	SCN5A	1.0	
+Abdominal pain	SCN5A	1.0	
+Abnormality of circulating enzyme level	SCN5A	1.0	
+Elevated serum creatine phosphokinase	SCN5A	1.0	
+Abnormality of myeloid leukocytes	SCN5A	1.0	
+Dyspnea	SCN5A	1.0	
+Cardiac arrest	SCN5A	1.0	
+Age of death	SCN5A	1.0	
+Mortality/Aging	SCN5A	1.0	
+Constipation	SCN5A	1.0	
+Acute myocardial infarction	SCN5A	1.0	
+Heterogeneous	SCN5A	1.0	
+Abnormality of the heart valves	SCN5A	1.0	
+Hyperkeratosis	SCN5A	1.0	
+Left ventricular hypertrophy	SCN5A	1.0	
+Abnormality of circulating protein level	SCN5A	1.0	
+Cardiomegaly	SCN5A	1.0	
+Abnormality of cardiac ventricle	SCN5A	1.0	
+Epidermal thickening	SCN5A	1.0	
+Hypoxia	SCN5A	1.0	
+Arrhythmias, Cardiac	SCN5A	1.0	
+Thickened skin	SCN5A	1.0	
+Carcinoma breast stage IV	SCN5A	1.0	
+Abnormality of the myocardium	SCN5A	1.0	
+Diarrhea 8, secretory sodium, congenital	SCN5A	1.0	
+B Acute Lymphoblastic Leukemia with t(9;22)(q34;q11.2); BCR-ABL1	SCN5A	1.0	
+Heart Diseases	SCN5A	1.0	
+Abnormal leukocyte count	SCN5A	1.0	
+Abnormality of cellular immune system	SCN5A	1.0	
+Brain Ischemia	SCN5A	1.0	
+Myopathy, scapulohumeroperoneal	SCN5A	1.0	
+Cardiomyopathy, Dilated	SCN5A	1.0	
+Acute myocardial ischemia	SCN5A	1.0	
+{Unipolar depression, susceptibility to}, 608516 (3)	SCN5A	1.0	
+Functional abnormality of the inner ear	SCN5A	1.0	
+Abnormality of the inner ear	SCN5A	1.0	
+Ischemia	SCN5A	1.0	

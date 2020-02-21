@@ -1,0 +1,11 @@
+node_name	node_type	
+DB12001	drug	
+ABCG2	drug_target	
+OTC	drug_target	
+ALB	drug_target	
+ABCB1	drug_target	
+CDK4	drug_target	
+CDK6	drug_target	
+SLC47A2	drug_target	
+SLC47A1	drug_target	
+CYP3A4	drug_target	

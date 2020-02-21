@@ -1,0 +1,5 @@
+node1	node2	edge_score	
+DB00513	PLG	1.0	
+DB00513	AOX1	1.0	
+DB00513	PLAT	1.0	
+

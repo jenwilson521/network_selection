@@ -1,0 +1,74 @@
+node_name	node_type	
+DB01205	drug	
+GABRG2	drug_target	
+GABRA1	drug_target	
+Alcohol dependence	phenotype	
+Ataxia, combined cerebellar and peripheral, with hearing loss and diabetes mellitus	phenotype	
+Autism 15	phenotype	
+Bipolar affective disorder	phenotype	
+Colon cancer	phenotype	
+Colorectal cancer 1	phenotype	
+Febrile seizures, familial, 4	phenotype	
+Methamphetamine abuse	phenotype	
+Epilepsy	phenotype	
+Absence seizures	phenotype	
+Glioblastoma	phenotype	
+Hepatic encephalopathy	phenotype	
+Liver Cirrhosis, Alcoholic	phenotype	
+Abnormality of movement	phenotype	
+Hypotonia, infantile, with psychomotor retardation	phenotype	
+Ovarian cyst	phenotype	
+Psychotic Disorders	phenotype	
+Schizophrenia	phenotype	
+Seizures, Febrile	phenotype	
+Abnormality of the skin	phenotype	
+Status epilepticus	phenotype	
+Tremor, hereditary essential, 5	phenotype	
+Encephalopathy, acute, infection-induced, 4, susceptibility to	phenotype	
+Alcohol abuse	phenotype	
+EEG abnormality	phenotype	
+Behavioral abnormality	phenotype	
+Action tremor	phenotype	
+Generalized seizures	phenotype	
+Hypoalbuminemia	phenotype	
+Essential tremor	phenotype	
+Idiopathic generalized epilepsy	phenotype	
+Juvenile myoclonic epilepsy	phenotype	
+Cycloid psychosis	phenotype	
+Cutaneous photosensitivity	phenotype	
+Dystonia Disorders	phenotype	
+Involuntary movements	phenotype	
+Autosomal dominant non-syndromic sensorineural deafness type DFNA	phenotype	
+Generalized tonic-clonic seizures	phenotype	
+Abnormality of the nervous system	phenotype	
+Mood Disorders	phenotype	
+Epileptic encephalopathy, early infantile, 29	phenotype	
+Global developmental delay, absent or hypoplastic corpus callosum, and dysmorphic facies	phenotype	
+Neurodevelopmental abnormality	phenotype	
+Carcinoma of colon	phenotype	
+Severe myoclonic epilepsy in infancy	phenotype	
+Focal seizures	phenotype	
+Abnormal muscle tone	phenotype	
+Major depressive disorder	phenotype	
+Colorectal cancer	phenotype	
+Amyotrophic lateral sclerosis type 1	phenotype	
+Abnormality of the cerebellum	phenotype	
+Intellectual developmental disorder with dysmorphic facies and ptosis	phenotype	
+Abnormality of brain morphology	phenotype	
+Generalized abnormality of skin	phenotype	
+Abnormality of hindbrain morphology	phenotype	
+Abnormality of the musculature	phenotype	
+Generalized myoclonic seizures	phenotype	
+Morphological abnormality of the central nervous system	phenotype	
+Abnormal nervous system electrophysiology	phenotype	
+Abnormality of central nervous system electrophysiology	phenotype	
+Neurodevelopmental delay	phenotype	
+Abnormality of nervous system morphology	phenotype	
+Abnormality of nervous system physiology	phenotype	
+Abnormality of muscle physiology	phenotype	
+Abnormality of coordination	phenotype	
+Abnormality of central motor function	phenotype	
+Abnormality of the metencephalon	phenotype	
+Dialeptic seizures	phenotype	
+Abnormality of skin morphology	phenotype	
+Abnormality of the integument	phenotype	

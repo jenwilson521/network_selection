@@ -1,0 +1,21 @@
+Gene	CUI	Source Databases	
+ABCG2	C0854467	Myelosuppression	DisGeNet	
+DHFR	C0854467	Myelosuppression	DisGeNet	
+GGH	C0854467	Myelosuppression	DisGeNet	
+MTHFR	C0854467	Myelosuppression	DisGeNet	
+ABCC4	C0041755	Adverse drug events and drug allergies	DisGeNet	
+ABCG2	C0041755	Adverse drug events and drug allergies	DisGeNet	
+DHFR	C0041755	Adverse drug events and drug allergies	DisGeNet	
+MTHFR	C0041755	Adverse drug events and drug allergies	DisGeNet	
+ABCG2	C0016412	Folic Acid Deficiency	DisGeNet	
+DHFR	C0016412	Folic Acid Deficiency	DisGeNet	
+MTHFR	C0016412	Folic Acid Deficiency	DisGeNet	
+ABCC3	C0008372	Intrahepatic cholestasis	DisGeNet	
+ABCC4	C0008372	Intrahepatic cholestasis	DisGeNet	
+ABCG2	C0008372	Intrahepatic cholestasis	DisGeNet	
+ABCG2	C0018772	Hearing Loss, Partial	DisGeNet	
+CLCN6	C0018772	Hearing Loss, Partial	DisGeNet	
+DHFR	C0018772	Hearing Loss, Partial	DisGeNet	
+MTHFR	C0018772	Hearing Loss, Partial	DisGeNet	
+ABCG2	C0032229	Pleural Neoplasms	DisGeNet	
+MTHFR	C0032229	Pleural Neoplasms	DisGeNet	

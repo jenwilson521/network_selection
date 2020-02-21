@@ -1,0 +1,74 @@
+node1	node2	edge_score	
+DB01205	GABRG2	1.0	
+DB01205	GABRA1	1.0	
+GABRA1		1.0
+Alcohol dependence	GABRA1	1.0	
+Ataxia, combined cerebellar and peripheral, with hearing loss and diabetes mellitus	GABRA1	1.0	
+Autism 15	GABRA1	1.0	
+Bipolar affective disorder	GABRA1	1.0	
+Colon cancer	GABRA1	1.0	
+Colorectal cancer 1	GABRA1	1.0	
+Febrile seizures, familial, 4	GABRA1	1.0	
+Methamphetamine abuse	GABRA1	1.0	
+Epilepsy	GABRA1	1.0	
+Absence seizures	GABRA1	1.0	
+Glioblastoma	GABRA1	1.0	
+Hepatic encephalopathy	GABRA1	1.0	
+Liver Cirrhosis, Alcoholic	GABRA1	1.0	
+Abnormality of movement	GABRA1	1.0	
+Hypotonia, infantile, with psychomotor retardation	GABRA1	1.0	
+Ovarian cyst	GABRA1	1.0	
+Psychotic Disorders	GABRA1	1.0	
+Schizophrenia	GABRA1	1.0	
+Seizures, Febrile	GABRA1	1.0	
+Abnormality of the skin	GABRA1	1.0	
+Status epilepticus	GABRA1	1.0	
+Tremor, hereditary essential, 5	GABRA1	1.0	
+Encephalopathy, acute, infection-induced, 4, susceptibility to	GABRA1	1.0	
+Alcohol abuse	GABRA1	1.0	
+EEG abnormality	GABRA1	1.0	
+Behavioral abnormality	GABRA1	1.0	
+Action tremor	GABRA1	1.0	
+Generalized seizures	GABRA1	1.0	
+Hypoalbuminemia	GABRA1	1.0	
+Essential tremor	GABRA1	1.0	
+Idiopathic generalized epilepsy	GABRA1	1.0	
+Juvenile myoclonic epilepsy	GABRA1	1.0	
+Cycloid psychosis	GABRA1	1.0	
+Cutaneous photosensitivity	GABRA1	1.0	
+Dystonia Disorders	GABRA1	1.0	
+Involuntary movements	GABRA1	1.0	
+Autosomal dominant non-syndromic sensorineural deafness type DFNA	GABRA1	1.0	
+Generalized tonic-clonic seizures	GABRA1	1.0	
+Abnormality of the nervous system	GABRA1	1.0	
+Mood Disorders	GABRA1	1.0	
+Epileptic encephalopathy, early infantile, 29	GABRA1	1.0	
+Global developmental delay, absent or hypoplastic corpus callosum, and dysmorphic facies	GABRA1	1.0	
+Neurodevelopmental abnormality	GABRA1	1.0	
+Carcinoma of colon	GABRA1	1.0	
+Severe myoclonic epilepsy in infancy	GABRA1	1.0	
+Focal seizures	GABRA1	1.0	
+Abnormal muscle tone	GABRA1	1.0	
+Major depressive disorder	GABRA1	1.0	
+Colorectal cancer	GABRA1	1.0	
+Amyotrophic lateral sclerosis type 1	GABRA1	1.0	
+Abnormality of the cerebellum	GABRA1	1.0	
+Intellectual developmental disorder with dysmorphic facies and ptosis	GABRA1	1.0	
+Abnormality of brain morphology	GABRA1	1.0	
+Generalized abnormality of skin	GABRA1	1.0	
+Abnormality of hindbrain morphology	GABRA1	1.0	
+Abnormality of the musculature	GABRA1	1.0	
+Generalized myoclonic seizures	GABRA1	1.0	
+Morphological abnormality of the central nervous system	GABRA1	1.0	
+Abnormal nervous system electrophysiology	GABRA1	1.0	
+Abnormality of central nervous system electrophysiology	GABRA1	1.0	
+Neurodevelopmental delay	GABRA1	1.0	
+Abnormality of nervous system morphology	GABRA1	1.0	
+Abnormality of nervous system physiology	GABRA1	1.0	
+Abnormality of muscle physiology	GABRA1	1.0	
+Abnormality of coordination	GABRA1	1.0	
+Abnormality of central motor function	GABRA1	1.0	
+Abnormality of the metencephalon	GABRA1	1.0	
+Dialeptic seizures	GABRA1	1.0	
+Abnormality of skin morphology	GABRA1	1.0	
+Abnormality of the integument	GABRA1	1.0	

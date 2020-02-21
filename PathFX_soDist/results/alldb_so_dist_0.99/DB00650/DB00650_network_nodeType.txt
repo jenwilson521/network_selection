@@ -1,0 +1,3 @@
+node_name	node_type	
+DB00650	drug	
+SLC22A8	drug_target	

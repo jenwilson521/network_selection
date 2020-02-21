@@ -1,0 +1,8 @@
+node_name	node_type	
+DB00665	drug	
+CYP2C8	drug_target	
+AR	drug_target	
+POR	drug_target	
+CYP2C19	drug_target	
+Adrenal hyperplasia	phenotype	
+Essential tremor	phenotype	

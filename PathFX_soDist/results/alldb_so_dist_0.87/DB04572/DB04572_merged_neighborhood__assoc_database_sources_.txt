@@ -1,0 +1,6 @@
+Gene	CUI	Source Databases	
+BCHE	C0877008	Enzyme inhibition disorder	DisGeNet	
+CYP2B6	C0877008	Enzyme inhibition disorder	DisGeNet	
+CYP3A4	C0877008	Enzyme inhibition disorder	DisGeNet	
+CYP2B6	C1291314	21-hydroxylase deficiency	DisGeNet	
+CYP3A4	C1291314	21-hydroxylase deficiency	DisGeNet	

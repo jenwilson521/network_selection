@@ -1,0 +1,24 @@
+Gene	CUI	Source Databases	
+ASPH	C0426415	Prominent nose	HumPhenOnt	
+ASPH	C0013581	Ectopia lentis, isolated autosomal recessive	DisGeNet,HumPhenOnt	
+ASPH	C0751587	CADASIL	DisGeNet	
+ASPH	C1334953	Neuroblastic tumors	DisGeNet	
+ASPH	C0740277	Bile duct cancer resectable	DisGeNet	
+ASPH	C0240538	Convex nasal ridge	HumPhenOnt	
+ASPH	C0266617	Facial dysmorphism, lens dislocation, anterior segment abnormalities, and spontaneous filtering blebs	ClinVar	
+SLC1A1	C0152136	Low Tension Glaucoma	DisGeNet	
+ASPH	C0426421	Wide nose	HumPhenOnt	
+SLC1A1	C0431380	Cortical dysplasia, complex, with other brain malformations 3	DisGeNet	
+SLC1A1	C0009241	Cognition Disorders	DisGeNet	
+SLC1A1	C0600104	Obsessive-compulsive behavior	DisGeNet	
+SLC1A1	C0038443	Stress, Psychological	DisGeNet	
+SLC1A1	C0029421	Osteochondritis dissecans	DisGeNet	
+SLC1A1	C1955869	Malformation of cortical development	DisGeNet	
+ASPH	C0024636	Dental malocclusion	HumPhenOnt	
+SLC1A1	C0028768	Obsessive-compulsive disorder	DisGeNet	
+ASPH	C0007120	Alveolar cell carcinoma	DisGeNet	
+ASPH	C1561535	Creatinine finding	DisGeNet	
+SLC1A1	C0037019	Shy-Drager syndrome	DisGeNet	
+SLC1A1	C0595921	Intraocular pressure disorder	DisGeNet	
+ASPH	C0206093	Neuroectodermal neoplasm	DisGeNet	
+ASPH	C0345905	Intrahepatic Cholangiocarcinoma	DisGeNet	

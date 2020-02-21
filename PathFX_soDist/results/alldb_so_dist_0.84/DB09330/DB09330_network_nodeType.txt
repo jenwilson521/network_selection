@@ -1,0 +1,10 @@
+node_name	node_type	
+DB09330	drug	
+ABCG2	drug_target	
+EGFR	drug_target	
+CYP3A4	drug_target	
+CYP1A2	drug_target	
+ABCB1	drug_target	
+Pleural Neoplasms	phenotype	
+Squamous Cell Neoplasms	phenotype	
+Nausea	phenotype	

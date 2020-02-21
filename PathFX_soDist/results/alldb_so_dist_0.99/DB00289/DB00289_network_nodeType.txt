@@ -1,0 +1,10 @@
+node_name	node_type	
+DB00289	drug	
+KCNJ3	drug_target	
+SLC6A2	drug_target	
+CYP2D6	drug_target	
+SLC6A4	drug_target	
+ALB	drug_target	
+CYP2C19	drug_target	
+FCGR1A	drug_target	
+OPRK1	drug_target	

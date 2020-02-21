@@ -1,0 +1,81 @@
+node_name	node_type	
+DB00145	drug	
+GSS	drug_target	
+GNMT	drug_target	
+SLC6A5	drug_target	
+AGXT	drug_target	
+SLC6A9	drug_target	
+AGXT2	drug_target	
+GATM	drug_target	
+GLDC	drug_target	
+SHMT2	drug_target	
+ALAS1	drug_target	
+ALAS2	drug_target	
+GRIN3B	drug_target	
+SLC16A10	drug_target	
+GLRB	drug_target	
+GCAT	drug_target	
+GARS	drug_target	
+SHMT1	drug_target	
+PIPOX	drug_target	
+GLRA2	drug_target	
+GLRA1	drug_target	
+BAAT	drug_target	
+GRIN2C	drug_target	
+GRIN2A	drug_target	
+GLYAT	drug_target	
+GCSH	drug_target	
+Abnormality of amino acid metabolism	phenotype	
+Abnormality of carboxylic acid metabolism	phenotype	
+Hereditary hyperhomocysteinemia	phenotype	
+Autosomal recessive inheritance	phenotype	
+3-Methylglutaconic aciduria	phenotype	
+Autism 15	phenotype	
+Spina bifida	phenotype	
+Abnormality of sulfur amino acid metabolism	phenotype	
+Dentinogenesis imperfecta	phenotype	
+Muscle stiffness	phenotype	
+Gowers sign	phenotype	
+Abnormality of serum amino acid levels	phenotype	
+Prostate Cancer, Hereditary, 7	phenotype	
+Infantile-onset ascending hereditary spastic paralysis	phenotype	
+Folic Acid Deficiency	phenotype	
+Gastric Cardia Adenocarcinoma	phenotype	
+Learning Disabilities	phenotype	
+Alcoholic Steatohepatitis	phenotype	
+Cleft Lip	phenotype	
+Conduct Disorder	phenotype	
+Choreoathetosis	phenotype	
+Cardiac defects	phenotype	
+Abnormality of urine homeostasis	phenotype	
+Abnormality of vitamin metabolism	phenotype	
+Necrosis	phenotype	
+Organic aciduria	phenotype	
+Adverse drug events and drug allergies	phenotype	
+Abnormality of muscle physiology	phenotype	
+Atypical nevus	phenotype	
+Abnormality of metabolism/homeostasis	phenotype	
+Drug Allergy	phenotype	
+Gastrointestinal Diseases	phenotype	
+Agitation	phenotype	
+Cleft Palate	phenotype	
+Abnormality of the musculature	phenotype	
+Bone neoplasms	phenotype	
+Neuralgia	phenotype	
+Irritability	phenotype	
+Adult Acute Lymphocytic Leukemia	phenotype	
+Lethargy	phenotype	
+Neoplasm of the rectum	phenotype	
+Malignant tumor of esophagus	phenotype	
+Abnormality of the urinary system physiology	phenotype	
+Schizophrenia	phenotype	
+Aggressive behavior	phenotype	
+Proximal muscle weakness	phenotype	
+Aminoaciduria	phenotype	
+Onset	phenotype	
+Functional respiratory abnormality	phenotype	
+Death in infancy	phenotype	
+Giant cell arteritis	phenotype	
+Elevated hepatic transaminases	phenotype	
+Kidney Diseases	phenotype	
+Hematological Disease	phenotype	

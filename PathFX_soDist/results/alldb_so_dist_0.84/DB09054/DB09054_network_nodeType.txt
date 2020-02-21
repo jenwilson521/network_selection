@@ -1,0 +1,16 @@
+node_name	node_type	
+DB09054	drug	
+CYP3A43	drug_target	
+CYP2C8	drug_target	
+ABCG2	drug_target	
+AOX1	drug_target	
+CYP2B6	drug_target	
+SLCO1B3	drug_target	
+SLCO1B1	drug_target	
+ABCB1	drug_target	
+CYP2C19	drug_target	
+CYP3A4	drug_target	
+CYP3A5	drug_target	
+Primary malignant neoplasm of liver	phenotype	
+Drug Allergy	phenotype	
+Neurotoxicity Syndromes	phenotype	

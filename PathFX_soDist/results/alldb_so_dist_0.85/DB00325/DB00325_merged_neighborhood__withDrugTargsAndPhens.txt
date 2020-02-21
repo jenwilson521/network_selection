@@ -1,0 +1,136 @@
+node1	node2	edge_score	
+DB00325	CYP1A1	1.0	
+DB00325	NPR1	1.0	
+CYP1A1	rs1048943	0.99
+CYP1A1		1.0
+CYP1A1	rs2472297	0.99
+CYP1A1	rs2606345	0.99
+Drug Eruptions	CYP1A1	1.0	
+Neoplasms, Multiple Primary	CYP1A1	1.0	
+Pleural Neoplasms	CYP1A1	1.0	
+Malignant neoplasm of pharynx	CYP1A1	1.0	
+Echinococcosis	CYP1A1	1.0	
+Lung Injury	CYP1A1	1.0	
+Squamous Cell Neoplasms	CYP1A1	1.0	
+Adenocarcinoma in Situ	CYP1A1	1.0	
+Rhinitis, Allergic, Perennial	CYP1A1	1.0	
+Endometriosis of ovary	CYP1A1	1.0	
+childhood brain tumor	CYP1A1	1.0	
+Genomic Instability	CYP1A1	1.0	
+Xeroderma pigmentosum, group A	CYP1A1	1.0	
+Pancreatitis, Alcoholic	CYP1A1	1.0	
+Carcinogenicity	CYP1A1	1.0	
+Bronchogenic Carcinoma	CYP1A1	1.0	
+Angiofibromas	CYP1A1	1.0	
+Chemical Carcinogenesis	CYP1A1	1.0	
+Chloracne	CYP1A1	1.0	
+Hyperoxia	CYP1A1	1.0	
+Li-Fraumeni syndrome	CYP1A1	1.0	
+Bile duct cancer resectable	CYP1A1	1.0	
+Neoplasm of the gallbladder	CYP1A1	1.0	
+Papillomavirus Infections	CYP1A1	1.0	
+Prostate cancer, familial	CYP1A1	1.0	
+Arthritis, Reactive	CYP1A1	1.0	
+Iron deficiency anemia	CYP1A1	1.0	
+Malignant neoplasm of female breast	CYP1A1	1.0	
+Leukoplakia	CYP1A1	1.0	
+Prenatal Exposure Delayed Effects	CYP1A1	1.0	
+Gorlin syndrome	CYP1A1	1.0	
+Female Breast Carcinoma	CYP1A1	1.0	
+Endometrial Hyperplasia	CYP1A1	1.0	
+Respiratory Tract Diseases	CYP1A1	1.0	
+Endometriosis of uterus	CYP1A1	1.0	
+Penile hypospadias	CYP1A1	1.0	
+Human papilloma virus infection	CYP1A1	1.0	
+Oral Submucous Fibrosis	CYP1A1	1.0	
+Intrahepatic cholestasis	CYP1A1	1.0	
+Colonic Polyps	CYP1A1	1.0	
+Menopause present (finding)	CYP1A1	1.0	
+Infiltrating Cervical Carcinoma	CYP1A1	1.0	
+Childhood Leukemia	CYP1A1	1.0	
+Microsatellite Instability	CYP1A1	1.0	
+Breast Fibrocystic Disease	CYP1A1	1.0	
+Neoplasms, Germ Cell and Embryonal	CYP1A1	1.0	
+Pharyngeal Neoplasms	CYP1A1	1.0	
+Thyroid Nodule	CYP1A1	1.0	
+Fibroadenoma of the breast	CYP1A1	1.0	
+Colorectal polyposis	CYP1A1	1.0	
+Neurodegeneration with brain iron accumulation 4	CYP1A1	1.0	
+Occupational Diseases	CYP1A1	1.0	
+Bronchitis	CYP1A1	1.0	
+Mammographic breast density	CYP1A1	1.0	
+Acute Lung Injury	CYP1A1	1.0	
+Oral leukoplakia	CYP1A1	1.0	
+Uterine neoplasm	CYP1A1	1.0	
+Recurrent abortion	CYP1A1	1.0	
+Chromosome Aberrations	CYP1A1	1.0	
+Mucinous Adenocarcinoma	CYP1A1	1.0	
+Pterygium	CYP1A1	1.0	
+Wheezing	CYP1A1	1.0	
+Cholecystolithiasis	CYP1A1	1.0	
+Tumor Promotion	CYP1A1	1.0	
+Contact Dermatitis	CYP1A1	1.0	
+Oral Cavity Carcinoma	CYP1A1	1.0	
+Adult Acute Myeloblastic Leukemia	CYP1A1	1.0	
+Thyroid associated opthalmopathies	CYP1A1	1.0	
+DNA Damage	CYP1A1	1.0	
+Adenocarcinoma, Clear Cell	CYP1A1	1.0	
+Postmenopausal osteoporosis	CYP1A1	1.0	
+Skin carcinoma	CYP1A1	1.0	
+Testicular malignant germ cell tumor	CYP1A1	1.0	
+SUDDEN INFANT DEATH SYNDROME	CYP1A1	1.0	
+Liver Cirrhosis, Alcoholic	CYP1A1	1.0	
+Testicular Germ Cell Tumor	CYP1A1	1.0	
+High grade serous carcinoma	CYP1A1	1.0	
+Hamartoma	CYP1A1	1.0	
+Neoplasm of the larynx	CYP1A1	1.0	
+Carcinoma, Small Cell	CYP1A1	1.0	
+Dermatitis, Allergic Contact	CYP1A1	1.0	
+Breast adenocarcinoma	CYP1A1	1.0	
+Thromboembolism	CYP1A1	1.0	
+Hereditary nonpolyposis colorectal cancer type 8	CYP1A1	1.0	
+Precocious puberty	CYP1A1	1.0	
+Depressive Symptoms	CYP1A1	1.0	
+Peptic ulcer	CYP1A1	1.0	
+Carcinoma, Endometrioid	CYP1A1	1.0	
+Musculoskeletal Diseases	CYP1A1	1.0	
+Pregnancy Complications	CYP1A1	1.0	
+Transitional cell carcinoma of the bladder	CYP1A1	1.0	
+Malignant neoplasm of larynx	CYP1A1	1.0	
+Pregnancy Complications, Hematologic	CYP1A1	1.0	
+Laryngeal Squamous Cell Carcinoma	CYP1A1	1.0	
+Basal cell carcinoma	CYP1A1	1.0	
+Liver Neoplasms, Experimental	CYP1A1	1.0	
+Testicular Neoplasms	CYP1A1	1.0	
+Neoplastic Cell Transformation	CYP1A1	1.0	
+Chronic liver disease	CYP1A1	1.0	
+Coronary Disease	CYP1A1	1.0	
+orbit (eye disorders)	CYP1A1	1.0	
+Barrett Esophagus	CYP1A1	1.0	
+Fetal Diseases	CYP1A1	1.0	
+Peripheral Arterial Disease	CYP1A1	1.0	
+Hydronephrosis	CYP1A1	1.0	
+Malignant neoplasm of brain and nervous system	CYP1A1	1.0	
+Neoplasm Invasiveness	CYP1A1	1.0	
+Malignant neoplasm of gallbladder	CYP1A1	1.0	
+Uterine Cervical Neoplasms	CYP1A1	1.0	
+Cholelithiasis	CYP1A1	1.0	
+Aplastic anemia	CYP1A1	1.0	
+Borderline Personality Disorder	CYP1A1	1.0	
+Primary open angle glaucoma juvenile onset 1	CYP1A1	1.0	
+Dissecting aneurysm of the thoracic aorta	CYP1A1	1.0	
+Lymphoma, Large-Cell, Follicular	CYP1A1	1.0	
+Bleeding disorder, platelet-type, 21	CYP1A1	1.0	
+Tumor Initiation	CYP1A1	1.0	
+Laryngeal carcinoma	CYP1A1	1.0	
+Hypersensitivity	CYP1A1	1.0	
+Adenocarcinoma of the large intestine	CYP1A1	1.0	
+Fibrosis	CYP1A1	1.0	
+Polycythemia vera	CYP1A1	1.0	
+Squamous cell carcinoma of lung	CYP1A1	1.0	
+Gallbladder Carcinoma	CYP1A1	1.0	
+Chorioamnionitis	CYP1A1	1.0	
+Connective Tissue Diseases	CYP1A1	1.0	
+Arthritis, Psoriatic	CYP1A1	1.0	
+Hypercholesterolemia, autosomal dominant, type B	CYP1A1	1.0	
+Cervical intraepithelial neoplasia (Cervical dysplasia)	CYP1A1	1.0	

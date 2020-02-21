@@ -1,0 +1,6 @@
+node1	node2	edge_score	
+DB01280	POLA1	1.0	
+DB01280	DGUOK	1.0	
+DB01280	DCK	1.0	
+DB01280	ADA	1.0	
+

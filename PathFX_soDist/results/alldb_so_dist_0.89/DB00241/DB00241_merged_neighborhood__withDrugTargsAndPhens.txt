@@ -1,0 +1,129 @@
+node1	node2	edge_score	
+DB00241	GRIA2	1.0	
+DB00241	GRIK2	1.0	
+DB00241	CHRNA4	1.0	
+DB00241	CHRNA7	1.0	
+DB00241	GABRA4	1.0	
+DB00241	GABRA6	1.0	
+DB00241	GABRA1	1.0	
+DB00241	GABRA3	1.0	
+DB00241	GABRA2	1.0	
+GABRA6		1.0
+CHRNA4	rs2236196	0.99
+CHRNA4	rs1044396	0.99
+CHRNA4	rs1044397	0.99
+GABRA1		1.0
+CHRNA4		1.0
+CHRNA4	rs2229959	0.99
+CHRNA7		1.0
+Idiopathic generalized epilepsy	CHRNA4	1.0	
+Idiopathic generalized epilepsy	CHRNA7	1.0	
+Idiopathic generalized epilepsy	GABRA1	1.0	
+Idiopathic generalized epilepsy	GABRA6	1.0	
+Juvenile myoclonic epilepsy	CHRNA4	1.0	
+Juvenile myoclonic epilepsy	CHRNA7	1.0	
+Juvenile myoclonic epilepsy	GABRA1	1.0	
+Focal seizures	CHRNA4	1.0	
+Focal seizures	GABRA1	1.0	
+Epilepsy	CHRNA4	1.0	
+Epilepsy	CHRNA7	1.0	
+Epilepsy	GABRA1	1.0	
+Epilepsy	GABRA6	1.0	
+NEUROTICISM	CHRNA4	1.0	
+NEUROTICISM	GABRA6	1.0	
+Epilepsy, generalized, with febrile seizures plus, type 6 (2)	CHRNA4	1.0	
+Epilepsy, generalized, with febrile seizures plus, type 6 (2)	CHRNA7	1.0	
+Incomplete penetrance	CHRNA4	1.0	
+Incomplete penetrance	CHRNA7	1.0	
+Febrile seizures, familial, 4	CHRNA4	1.0	
+Febrile seizures, familial, 4	GABRA1	1.0	
+Autism 15	CHRNA4	1.0	
+Autism 15	CHRNA7	1.0	
+Autism 15	GABRA1	1.0	
+Autism 15	GABRA6	1.0	
+Alcohol abuse	GABRA1	1.0	
+Alcohol abuse	GABRA6	1.0	
+Marijuana Abuse	CHRNA7	1.0	
+Marijuana Abuse	GABRA6	1.0	
+SUDDEN INFANT DEATH SYNDROME	CHRNA4	1.0	
+SUDDEN INFANT DEATH SYNDROME	CHRNA7	1.0	
+Liver Cirrhosis, Alcoholic	GABRA1	1.0	
+Liver Cirrhosis, Alcoholic	GABRA6	1.0	
+Methamphetamine abuse	CHRNA4	1.0	
+Methamphetamine abuse	GABRA1	1.0	
+Nicotine Dependence	CHRNA4	1.0	
+Nicotine Dependence	CHRNA7	1.0	
+Lewy Body Disease	CHRNA4	1.0	
+Lewy Body Disease	CHRNA7	1.0	
+Abdominal obesity	CHRNA4	1.0	
+Abdominal obesity	GABRA6	1.0	
+Mild cognitive impairment	CHRNA4	1.0	
+Mild cognitive impairment	CHRNA7	1.0	
+Major depressive disorder	CHRNA4	1.0	
+Major depressive disorder	CHRNA7	1.0	
+Major depressive disorder	GABRA1	1.0	
+Weight Gain Adverse Event	CHRNA4	1.0	
+Weight Gain Adverse Event	CHRNA7	1.0	
+Cycloid psychosis	CHRNA7	1.0	
+Cycloid psychosis	GABRA1	1.0	
+Adrenal Gland Hyperfunction	GABRA6	1.0	
+Alcohol dependence	CHRNA4	1.0	
+Alcohol dependence	GABRA1	1.0	
+Alcohol dependence	GABRA6	1.0	
+Severe myoclonic epilepsy in infancy	GABRA1	1.0	
+Unverricht-Lundborg syndrome	CHRNA4	1.0	
+Cushing's syndrome	GABRA6	1.0	
+Hepatic encephalopathy	GABRA1	1.0	
+heavy drinking	CHRNA4	1.0	
+Memory impairment	CHRNA4	1.0	
+Memory impairment	GABRA6	1.0	
+Personality disorder	CHRNA7	1.0	
+Neurobehavioral Manifestations	CHRNA7	1.0	
+Dialeptic seizures	GABRA1	1.0	
+Bipolar affective disorder	CHRNA7	1.0	
+Bipolar affective disorder	GABRA1	1.0	
+Bipolar affective disorder	GABRA6	1.0	
+Myelomeningocele	CHRNA7	1.0	
+Chronic pain	CHRNA4	1.0	
+Mild Mental Retardation	CHRNA4	1.0	
+Dementia familial British	CHRNA4	1.0	
+Dementia familial British	CHRNA7	1.0	
+Pemphigus	CHRNA7	1.0	
+Prenatal Exposure Delayed Effects	CHRNA4	1.0	
+Pain insensitivity	CHRNA4	1.0	
+Psychotic Disorders	CHRNA7	1.0	
+Psychotic Disorders	GABRA1	1.0	
+Epilepsy, focal, with speech disorder and with or without mental retardation	CHRNA4	1.0	
+Chromosome Xq28 deletion syndrome	CHRNA7	1.0	
+Memory Disorders	CHRNA7	1.0	
+Hypoalbuminemia	GABRA1	1.0	
+Schizophrenia	CHRNA4	1.0	
+Schizophrenia	CHRNA7	1.0	
+Schizophrenia	GABRA1	1.0	
+Schizophrenia	GABRA6	1.0	
+Channelopathies	CHRNA4	1.0	
+Generalized myoclonic seizures	GABRA1	1.0	
+Congenital myasthenic syndrome	CHRNA4	1.0	
+As If Personality	CHRNA7	1.0	
+Cognition Disorders	CHRNA4	1.0	
+Stress, Psychological	GABRA6	1.0	
+Essential tremor	GABRA1	1.0	
+Synophrys	CHRNA7	1.0	
+Psychoses, Substance-Induced	GABRA6	1.0	
+Shprintzen syndrome	CHRNA7	1.0	
+Action tremor	GABRA1	1.0	
+Anxiety Disorders	CHRNA4	1.0	
+Anxiety Disorders	GABRA6	1.0	
+Language impairment	CHRNA7	1.0	
+Facial hypertrichosis	CHRNA7	1.0	
+Cutaneous photosensitivity	GABRA1	1.0	
+Amyotrophic Lateral Sclerosis, Sporadic	CHRNA4	1.0	
+Substance Withdrawal Syndrome	CHRNA7	1.0	
+Phenotypic variability	CHRNA4	1.0	
+Phenotypic variability	CHRNA7	1.0	
+Absence seizures	GABRA1	1.0	
+Schizoaffective Disorder	CHRNA7	1.0	
+Mental disorders	CHRNA4	1.0	
+Mental disorders	CHRNA7	1.0	
+Dementia, Vascular	CHRNA7	1.0	
+Specific learning disability	CHRNA7	1.0	

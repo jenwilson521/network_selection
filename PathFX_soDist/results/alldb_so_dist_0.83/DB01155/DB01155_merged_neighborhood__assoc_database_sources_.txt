@@ -1,0 +1,8 @@
+Gene	CUI	Source Databases	
+CYP1A2	C0085859	Polyglandular Type I Autoimmune Syndrome	DisGeNet	
+CYP1A2	C0032229	Pleural Neoplasms	DisGeNet	
+CYP1A2	C0273115	Lung Injury	DisGeNet	
+CYP1A2	C0162566	 {Porphyria cutanea tarda, susceptibility to}, 176100 (3)	DisGeNet	
+CYP1A2	C0036349	Paranoid Schizophrenia	DisGeNet	
+CYP1A2	C0221765	Chronic schizophrenia	DisGeNet	
+CYP1A2	C0919532	Genomic Instability	DisGeNet	

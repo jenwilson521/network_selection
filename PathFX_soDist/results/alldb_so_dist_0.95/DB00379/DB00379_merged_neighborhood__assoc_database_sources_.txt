@@ -1,0 +1,31 @@
+Gene	CUI	Source Databases	
+AHR	C0206720	Squamous Cell Neoplasms	DisGeNet	
+CYP2E1	C0206720	Squamous Cell Neoplasms	DisGeNet	
+CYP3A4	C0206720	Squamous Cell Neoplasms	DisGeNet	
+AHR	C0023055	Neoplasm of the larynx	DisGeNet	
+CYP1A2	C0023055	Neoplasm of the larynx	DisGeNet	
+CYP2D6	C0023055	Neoplasm of the larynx	DisGeNet	
+CYP2E1	C0023055	Neoplasm of the larynx	DisGeNet	
+CYP3A4	C0023055	Neoplasm of the larynx	DisGeNet	
+CYP1A2	C0686347	Tardive Dyskinesia	DisGeNet	
+CYP2B6	C0686347	Tardive Dyskinesia	DisGeNet	
+CYP2D6	C0686347	Tardive Dyskinesia	DisGeNet	
+CYP3A4	C0686347	Tardive Dyskinesia	DisGeNet	
+CYP2B6	C0877008	Enzyme inhibition disorder	DisGeNet	
+CYP2D6	C0877008	Enzyme inhibition disorder	DisGeNet	
+CYP3A4	C0877008	Enzyme inhibition disorder	DisGeNet	
+CYP1A2	C0221765	Chronic schizophrenia	DisGeNet	
+CYP2D6	C0221765	Chronic schizophrenia	DisGeNet	
+CYP3A4	C0221765	Chronic schizophrenia	DisGeNet	
+CYP1A2	C0152115	Orofacial dyskinesia	DisGeNet	
+CYP2B6	C0152115	Orofacial dyskinesia	DisGeNet	
+CYP2D6	C0152115	Orofacial dyskinesia	DisGeNet	
+CYP3A4	C0152115	Orofacial dyskinesia	DisGeNet	
+CYP1A2	C0241910	Hepatitis, Autoimmune	DisGeNet	
+CYP2B6	C0241910	Hepatitis, Autoimmune	DisGeNet	
+CYP2D6	C0241910	Hepatitis, Autoimmune	DisGeNet	
+CYP2E1	C0241910	Hepatitis, Autoimmune	DisGeNet	
+CYP3A4	C0241910	Hepatitis, Autoimmune	DisGeNet	
+CYP1A2	C0596321	Chemical Carcinogenesis	DisGeNet	
+CYP2B6	C0596321	Chemical Carcinogenesis	DisGeNet	
+CYP2D6	C0596321	Chemical Carcinogenesis	DisGeNet	

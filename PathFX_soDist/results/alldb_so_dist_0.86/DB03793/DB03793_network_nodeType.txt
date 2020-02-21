@@ -1,0 +1,11 @@
+node_name	node_type	
+DB03793	drug	
+RAB9A	drug_target	
+SLC16A1	drug_target	
+PRDX5	drug_target	
+DAO	drug_target	
+SLCO2B1	drug_target	
+SLC22A8	drug_target	
+Chromosome 11p deletion syndrome	phenotype	
+Hyperbilirubinemia	phenotype	
+Acute kidney injury	phenotype	

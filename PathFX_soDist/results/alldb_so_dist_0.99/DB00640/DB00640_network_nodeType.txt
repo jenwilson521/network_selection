@@ -1,0 +1,8 @@
+node_name	node_type	
+DB00640	drug	
+ADORA2A	drug_target	
+ADORA2B	drug_target	
+ADORA1	drug_target	
+SLC28A3	drug_target	
+ADA	drug_target	
+ADK	drug_target	

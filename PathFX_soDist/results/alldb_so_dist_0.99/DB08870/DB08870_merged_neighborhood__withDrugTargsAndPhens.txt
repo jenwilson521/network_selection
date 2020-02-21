@@ -1,0 +1,5 @@
+node1	node2	edge_score	
+DB08870	CYP3A4	1.0	
+DB08870	TNFRSF8	1.0	
+DB08870	ABCB5	1.0	
+

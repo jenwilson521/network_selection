@@ -1,0 +1,37 @@
+Gene	CUI	Source Databases	
+CCL2	C0853662	Oestrogen deficiency	DisGeNet	
+CYP19A1	C0853662	Oestrogen deficiency	DisGeNet	
+ESR1	C0853662	Oestrogen deficiency	DisGeNet	
+CCL2	C0206726	gliosarcoma	DisGeNet	
+CYP3A4	C0206726	gliosarcoma	DisGeNet	
+ESR1	C0206726	gliosarcoma	DisGeNet	
+CYP19A1	C0005694	Bladder neck obstruction	DisGeNet	
+ESR1	C0005694	Bladder neck obstruction	DisGeNet	
+CCL2	C0007286	Carpal tunnel syndrome	DisGeNet	
+ESR1	C0007286	Carpal tunnel syndrome	DisGeNet	
+CCL2	C0600452	Hepatopulmonary Syndrome	DisGeNet	
+CYP19A1	C0600452	Hepatopulmonary Syndrome	DisGeNet	
+ESR1	C0600452	Hepatopulmonary Syndrome	DisGeNet	
+CCL2	C0011206	Cocaine delirium	DisGeNet	
+CYP3A4	C0011206	Cocaine delirium	DisGeNet	
+CCL2	C0917996	Cerebral aneurysm	DisGeNet	
+ESR1	C0917996	Cerebral aneurysm	DisGeNet	
+CYP19A1	C0206630	Stromal sarcoma	DisGeNet	
+ESR1	C0206630	Stromal sarcoma	DisGeNet	
+CYP19A1	C0000889	Acanthosis nigricans	HumPhenOnt	
+ESR1	C0000889	Acanthosis nigricans	HumPhenOnt	
+CYP19A1	C0242787	Malignant neoplasm of male breast	DisGeNet	
+ESR1	C0242787	Malignant neoplasm of male breast	DisGeNet	
+CYP19A1	C0086132	Depressive Symptoms	DisGeNet	
+CYP3A4	C0086132	Depressive Symptoms	DisGeNet	
+ESR1	C0086132	Depressive Symptoms	DisGeNet	
+CYP19A1	C0016663	Pathologic fracture	DisGeNet	
+ESR1	C0016663	Pathologic fracture	DisGeNet	
+CYP3A4	C0029445	Bone necrosis	DisGeNet	
+ESR1	C0029445	Bone necrosis	DisGeNet	
+CCL2	C0013238	Dry Eye Syndromes	DisGeNet	
+ESR1	C0013238	Dry Eye Syndromes	DisGeNet	
+CYP19A1	C4021246	Abnormal epiphyseal ossification	HumPhenOnt	
+ESR1	C4021246	Abnormal epiphyseal ossification	HumPhenOnt	
+CYP19A1	C0235653	Malignant neoplasm of female breast	DisGeNet	
+ESR1	C0235653	Malignant neoplasm of female breast	DisGeNet	

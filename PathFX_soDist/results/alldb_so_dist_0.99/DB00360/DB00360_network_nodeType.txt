@@ -1,0 +1,7 @@
+node_name	node_type	
+DB00360	drug	
+PAH	drug_target	
+PTGS2	drug_target	
+NOS3	drug_target	
+TH	drug_target	
+TPH1	drug_target	

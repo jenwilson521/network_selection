@@ -1,0 +1,78 @@
+node1	node2	edge_score	
+DB00740	CYP1A1	1.0	
+DB00740	CYP1A2	1.0	
+DB00740	SCN5A	1.0	
+DB00740	ABCG2	1.0	
+DB00740	SLC7A11	1.0	
+SCN5A		1.0
+CYP1A2		1.0
+CYP1A2	rs2470890	0.99
+complex:lAo9+jzjVOaRJSWZQvoh0G1mUDc	KRT9	0.863824739585
+CYP1A2	rs4646425	0.99
+CYP1A2	rs72547516	0.99
+SCN5A	complex:lAo9+jzjVOaRJSWZQvoh0G1mUDc	0.904977499353
+ABCG2	rs58818712	0.99
+ABCG2	rs72552713	0.99
+CYP1A1	rs1048943	0.99
+ABCG2	rs17731538	0.99
+ABCG2	rs1061018	0.99
+ABCG2	rs41282401	0.99
+ABCG2	rs12505410	0.99
+ABCG2	rs13120400	0.99
+CYP1A2	rs72547517	0.99
+CYP1A1		1.0
+complex:lAo9+jzjVOaRJSWZQvoh0G1mUDc	ALB	0.863824739585
+ABCG2	rs2231135	0.99
+CYP1A2	rs2069514	0.99
+CYP1A2	rs2069526	0.99
+complex:lAo9+jzjVOaRJSWZQvoh0G1mUDc	OR8D2	0.863824739585
+CYP1A1	rs2606345	0.99
+CYP1A2	CYP1A2*1A, CYP1A2*1F	0.99
+ABCG2	rs45605536	0.99
+ABCG2	rs4148157	0.99
+ABCG2	rs2231142	0.99
+CYP1A2	rs4646427	0.99
+ABCG2	rs2199939	0.99
+CYP1A2	rs2472304	0.99
+ABCG2		1.0
+ABCG2	rs2725252	0.99
+ABCG2	rs7699188	0.99
+ABCG2	rs3114020	0.99
+CYP1A2	rs762551	0.99
+ABCG2	rs2231137	0.99
+CYP1A1	rs2472297	0.99
+Pleural Neoplasms	ABCG2	1.0	
+Pleural Neoplasms	CYP1A1	1.0	
+Pleural Neoplasms	CYP1A2	1.0	
+Genomic Instability	ABCG2	1.0	
+Genomic Instability	CYP1A1	1.0	
+Genomic Instability	CYP1A2	1.0	
+Adverse drug events and drug allergies	ABCG2	1.0	
+Adverse drug events and drug allergies	ALB	1.0	
+Adverse drug events and drug allergies	CYP1A2	1.0	
+Echinococcosis	ALB	1.0	
+Echinococcosis	CYP1A1	1.0	
+Lung Injury	CYP1A1	1.0	
+Lung Injury	CYP1A2	1.0	
+Squamous Cell Neoplasms	ABCG2	1.0	
+Squamous Cell Neoplasms	CYP1A1	1.0	
+Liver Cirrhosis, Alcoholic	ABCG2	1.0	
+Liver Cirrhosis, Alcoholic	CYP1A1	1.0	
+Liver Cirrhosis, Alcoholic	CYP1A2	1.0	
+Rhinitis, Allergic, Perennial	ALB	1.0	
+Rhinitis, Allergic, Perennial	CYP1A1	1.0	
+Bronchogenic Carcinoma	ALB	1.0	
+Bronchogenic Carcinoma	CYP1A1	1.0	
+Chemical Carcinogenesis	CYP1A1	1.0	
+Chemical Carcinogenesis	CYP1A2	1.0	
+Chronic liver disease	ALB	1.0	
+Chronic liver disease	CYP1A1	1.0	
+Chronic liver disease	CYP1A2	1.0	
+Nausea	ABCG2	1.0	
+Nausea	CYP1A2	1.0	
+Respiratory Tract Diseases	ALB	1.0	
+Respiratory Tract Diseases	CYP1A1	1.0	
+Intrahepatic cholestasis	ABCG2	1.0	
+Intrahepatic cholestasis	CYP1A1	1.0	
+Colonic Polyps	CYP1A1	1.0	
+Colonic Polyps	CYP1A2	1.0	

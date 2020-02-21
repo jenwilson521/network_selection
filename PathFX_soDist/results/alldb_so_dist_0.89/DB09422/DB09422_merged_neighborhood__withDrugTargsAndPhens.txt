@@ -1,0 +1,21 @@
+node1	node2	edge_score	
+DB09422	PPARA	1.0	
+PPARA		1.0
+PPARA	rs4823613	0.99
+PPARA	rs9626730	0.99
+PPARA	rs4253778	0.99
+PPARA	rs135550	0.99
+PPARA	rs149711321	0.99
+PPARA	rs135543	0.99
+PPARA	rs4253728	0.99
+Fetal Alcohol Syndrome	PPARA	1.0	
+Philadelphia chromosome positive	PPARA	1.0	
+Obesity, Visceral	PPARA	1.0	
+Hyperlipoproteinemia	PPARA	1.0	
+Hypertriglyceridemia result	PPARA	1.0	
+Pediatric Obesity	PPARA	1.0	
+Insulin resistance syndrome	PPARA	1.0	
+Anti-Glomerular Basement Membrane Disease	PPARA	1.0	
+Coronary Restenosis	PPARA	1.0	
+Aural atresia, congenital	PPARA	1.0	
+Pain insensitivity	PPARA	1.0	

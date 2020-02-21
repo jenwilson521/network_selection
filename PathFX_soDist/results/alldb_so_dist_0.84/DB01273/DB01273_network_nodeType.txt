@@ -1,0 +1,27 @@
+node_name	node_type	
+DB01273	drug	
+CHRNA4	drug_target	
+CHRNA7	drug_target	
+CHRNB2	drug_target	
+SLC22A2	drug_target	
+CHRNA3	drug_target	
+Nicotine Dependence	phenotype	
+Weight Gain Adverse Event	phenotype	
+Substance Withdrawal Syndrome	phenotype	
+SUDDEN INFANT DEATH SYNDROME	phenotype	
+Juvenile myoclonic epilepsy	phenotype	
+Idiopathic generalized epilepsy	phenotype	
+Down Syndrome	phenotype	
+Epilepsy, generalized, with febrile seizures plus, type 6 (2)	phenotype	
+Increased body weight	phenotype	
+Attention deficit hyperactivity disorder	phenotype	
+Incomplete penetrance	phenotype	
+Sleep Wake Disorders	phenotype	
+Marijuana Abuse	phenotype	
+Lewy Body Disease	phenotype	
+Motor Neuron Disease	phenotype	
+Mild cognitive impairment	phenotype	
+Neurodegeneration with brain iron accumulation	phenotype	
+Hypothermia	phenotype	
+alpha-1-Antitrypsin Deficiency, Autosomal Recessive	phenotype	
+Extrahepatic cholestasis	phenotype	

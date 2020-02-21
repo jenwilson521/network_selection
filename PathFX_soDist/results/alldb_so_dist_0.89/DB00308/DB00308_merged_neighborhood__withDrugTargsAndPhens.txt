@@ -1,0 +1,146 @@
+node1	node2	edge_score	
+DB00308	KCNJ11	1.0	
+DB00308	KCNH2	1.0	
+DB00308	CACNB1	1.0	
+DB00308	CACNA1C	1.0	
+DB00308	KCNK1	1.0	
+DB00308	CACNG1	1.0	
+DB00308	CACNA2D1	1.0	
+CACNA1C	rs1006737	0.99
+KCNH2		1.0
+CACNA1C	rs10848635	0.99
+CACNA1C	rs2239050	0.99
+CACNA1C	rs2238032	0.99
+CACNA1C		1.0
+KCNJ11		1.0
+CACNA1C	rs2239128	0.99
+CACNA1C	rs1051375	0.99
+Acquired long QT syndrome	CACNA1C	1.0	
+Acquired long QT syndrome	KCNH2	1.0	
+Acquired long QT syndrome	KCNJ11	1.0	
+Tachycardia	CACNA1C	1.0	
+Tachycardia	KCNH2	1.0	
+Tachycardia	KCNJ11	1.0	
+Prolonged QT interval	CACNA1C	1.0	
+Prolonged QT interval	KCNH2	1.0	
+Congenital long QT syndrome	CACNA1C	1.0	
+Congenital long QT syndrome	KCNH2	1.0	
+Sudden cardiac death	CACNA1C	1.0	
+Sudden cardiac death	KCNH2	1.0	
+Sudden cardiac death	KCNJ11	1.0	
+Sudden death	CACNA1C	1.0	
+Sudden death	KCNH2	1.0	
+Primary atrial arrhythmia	CACNA1C	1.0	
+Primary atrial arrhythmia	KCNH2	1.0	
+Abnormal cardiac test	CACNA1C	1.0	
+Abnormal cardiac test	KCNH2	1.0	
+Supraventricular arrhythmia	CACNA1C	1.0	
+Supraventricular arrhythmia	KCNH2	1.0	
+Brugada Syndrome	CACNA1C	1.0	
+Brugada Syndrome	KCNH2	1.0	
+Abnormal EKG	CACNA1C	1.0	
+Abnormal EKG	KCNH2	1.0	
+Channelopathies	CACNA1C	1.0	
+Channelopathies	KCNH2	1.0	
+Supraventricular tachycardia	CACNA1C	1.0	
+Supraventricular tachycardia	KCNH2	1.0	
+Syncope	CACNA1C	1.0	
+Syncope	KCNH2	1.0	
+Ventricular arrhythmia	CACNA1C	1.0	
+Ventricular arrhythmia	KCNH2	1.0	
+Primary hyperaldosteronism	CACNA1C	1.0	
+Primary hyperaldosteronism	KCNH2	1.0	
+Arrhythmias, Cardiac	CACNA1C	1.0	
+Arrhythmias, Cardiac	KCNH2	1.0	
+Arrhythmias, Cardiac	KCNJ11	1.0	
+Heart Diseases	CACNA1C	1.0	
+Heart Diseases	KCNH2	1.0	
+Heart Diseases	KCNJ11	1.0	
+Atrial Fibrillation	CACNA1C	1.0	
+Atrial Fibrillation	KCNH2	1.0	
+Diabetic ketoacidosis	KCNJ11	1.0	
+Hypercapnia	KCNJ11	1.0	
+Romano-Ward syndrome	KCNH2	1.0	
+Recurrent major depressive episodes	CACNA1C	1.0	
+Hereditary macular dystrophy	KCNH2	1.0	
+Cycloid psychosis	CACNA1C	1.0	
+Cycloid psychosis	KCNH2	1.0	
+Palpitations	KCNH2	1.0	
+Progressive neurologic deterioration	KCNJ11	1.0	
+Abnormality of endocrine pancreas physiology	KCNJ11	1.0	
+Choroideremia	KCNH2	1.0	
+Prominent metopic ridge	KCNJ11	1.0	
+Abnormality of circulating glucocorticoid level	KCNJ11	1.0	
+Abnormality of circulating cortisol level	KCNJ11	1.0	
+Abnormality of blood volume homeostasis	KCNJ11	1.0	
+Steatorrhea	KCNJ11	1.0	
+Fat malabsorption	KCNJ11	1.0	
+Insulin-resistant diabetes mellitus AND acanthosis nigricans	KCNJ11	1.0	
+Cardiac arrest	CACNA1C	1.0	
+Cardiac arrest	KCNH2	1.0	
+Hypovolemia	KCNJ11	1.0	
+Abnormality of the metopic suture	KCNJ11	1.0	
+Acinar Cell Carcinoma	KCNH2	1.0	
+RETINAL CONE DYSTROPHY 1	KCNH2	1.0	
+Ewing Sarcoma/Peripheral Primitive Neuroectodermal Tumor	KCNH2	1.0	
+Acute myocardial infarction	KCNH2	1.0	
+Acute myocardial infarction	KCNJ11	1.0	
+Gastroparesis	KCNH2	1.0	
+Neonatal diabetes mellitus	KCNJ11	1.0	
+Bull's eye macular dystrophy	KCNH2	1.0	
+Abnormality of cardiovascular system physiology	CACNA1C	1.0	
+Abnormality of cardiovascular system physiology	KCNH2	1.0	
+Abnormality of cardiovascular system physiology	KCNJ11	1.0	
+Heterogeneous	KCNH2	1.0	
+Heterogeneous	KCNJ11	1.0	
+Abnormality of fatty-acid metabolism	KCNJ11	1.0	
+Prostate cancer stage C	KCNH2	1.0	
+Gastro-esophageal reflux disease with esophagitis	KCNH2	1.0	
+Partial Trisomy	KCNH2	1.0	
+Abnormality of urine glucose concentration	KCNJ11	1.0	
+Glycosuria	KCNJ11	1.0	
+Hypoglycemia, neonatal, simulating foetopathia diabetica	CACNA1C	1.0	
+Hypoglycemia, neonatal, simulating foetopathia diabetica	KCNJ11	1.0	
+Abnormal atrioventricular conduction	KCNH2	1.0	
+cardiac event	KCNH2	1.0	
+Prenatal maternal abnormality	KCNJ11	1.0	
+Drusen	KCNH2	1.0	
+Atrioventricular block	KCNH2	1.0	
+Malignant hyperthermia susceptibility	CACNA1C	1.0	
+Cytogenetically normal acute myeloid leukemia	KCNH2	1.0	
+Rous Sarcoma	KCNH2	1.0	
+Ventricular fibrillation	KCNH2	1.0	
+Uterine Cancer	KCNH2	1.0	
+EEG with generalized epileptiform discharges	KCNJ11	1.0	
+Essential hypertension	CACNA1C	1.0	
+Essential hypertension	KCNH2	1.0	
+Peptic Esophagitis	KCNH2	1.0	
+Bradycardia	KCNH2	1.0	
+Chromosome Xq28 deletion syndrome	KCNH2	1.0	
+Abnormality of vitamin metabolism	KCNJ11	1.0	
+Myxoid liposarcoma	KCNH2	1.0	
+Ketoacidosis	KCNJ11	1.0	
+Dysmorphic features	CACNA1C	1.0	
+Psychotic Disorders	CACNA1C	1.0	
+Psychotic Disorders	KCNH2	1.0	
+Generalized myoclonic seizures	KCNJ11	1.0	
+EEG with irregular generalized spike and wave complexes	KCNJ11	1.0	
+cancer recurrence	KCNH2	1.0	
+Abnormality of pancreas morphology	KCNJ11	1.0	
+Renal tubular dysfunction	KCNJ11	1.0	
+Radial deviation of finger	KCNJ11	1.0	
+Extraosseous Ewings sarcoma-primitive neuroepithelial tumor	KCNH2	1.0	
+Attention Deficit Disorder	CACNA1C	1.0	
+Drug Dependence	CACNA1C	1.0	
+Bardet-Biedl syndrome	KCNH2	1.0	
+Radial deviation of the hand	KCNJ11	1.0	
+Microalbuminuria	KCNJ11	1.0	
+Peripheral axonal neuropathy	KCNJ11	1.0	
+Bronchitis	CACNA1C	1.0	
+Epilepsy, generalized, with febrile seizures plus, type 6 (2)	KCNJ11	1.0	
+Common Migraine	CACNA1C	1.0	
+Arrhythmogenic right ventricular cardiomyopathy, type 11	KCNH2	1.0	
+Multiple Endocrine Neoplasia Type 2a	KCNH2	1.0	
+Anxiety Disorders	CACNA1C	1.0	
+Anxiety Disorders	KCNJ11	1.0	
+Pallor	KCNJ11	1.0	

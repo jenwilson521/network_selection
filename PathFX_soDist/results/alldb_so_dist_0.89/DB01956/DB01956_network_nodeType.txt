@@ -1,0 +1,55 @@
+node_name	node_type	
+DB01956	drug	
+SLC6A6	drug_target	
+GLRA2	drug_target	
+GLRA1	drug_target	
+BAAT	drug_target	
+GRIN2B	drug_target	
+GABBR1	drug_target	
+Osteochondritis dissecans	phenotype	
+Obsessive-compulsive disorder	phenotype	
+Neuralgia	phenotype	
+Dyslexia 1	phenotype	
+Epilepsy, Temporal Lobe	phenotype	
+Placental Insufficiency	phenotype	
+Smith-Magenis syndrome	phenotype	
+Memory impairment	phenotype	
+Alcohol withdrawal syndrome	phenotype	
+Cocaine delirium	phenotype	
+Sclerosis	phenotype	
+Personality disorder	phenotype	
+Opiate Addiction	phenotype	
+Juvenile myoclonic epilepsy	phenotype	
+Hippocampal sclerosis	phenotype	
+Epilepsy, focal, with speech disorder and with or without mental retardation	phenotype	
+Brain Tumor, Primary	phenotype	
+Child Development Disorders, Pervasive	phenotype	
+Cortical dysplasia, complex, with other brain malformations 3	phenotype	
+Unipolar Depression	phenotype	
+Memory Loss	phenotype	
+Idiopathic generalized epilepsy	phenotype	
+Absent speech	phenotype	
+Essential tremor	phenotype	
+Tardive Dyskinesia	phenotype	
+Hypoxia-Ischemia, Brain	phenotype	
+NEUROTICISM	phenotype	
+Mental disorders	phenotype	
+Malformation of cortical development	phenotype	
+Sleep apnea	phenotype	
+Orofacial dyskinesia	phenotype	
+Eating disorder	phenotype	
+Major depressive disorder	phenotype	
+Absence seizures	phenotype	
+Schizoaffective Disorder	phenotype	
+Nasopharyngeal Neoplasms	phenotype	
+Hypsarrhythmia	phenotype	
+Epileptic encephalopathy, early infantile, 29	phenotype	
+Alcohol abuse	phenotype	
+Liver Cirrhosis, Alcoholic	phenotype	
+Anorexia nervosa 1	phenotype	
+Nicotine Dependence	phenotype	
+Pain	phenotype	
+Cocaine-Related Disorders	phenotype	
+Epilepsy	phenotype	
+Alcohol dependence	phenotype	
+Hypotension	phenotype	

@@ -1,0 +1,313 @@
+node1	node2	edge_score	
+DB09462	PAPSS1	1.0	
+DB09462	TGFBR2	1.0	
+DB09462	ISYNA1	1.0	
+DB09462	ARF1	1.0	
+DB09462	GSTP1	1.0	
+DB09462	CYP2E1	1.0	
+DB09462	HPGDS	1.0	
+DB09462	PPARD	1.0	
+DB09462	TRDMT1	1.0	
+DB09462	ADH1B	1.0	
+DB09462	PAEP	1.0	
+DB09462	NAGA	1.0	
+DB09462	ITPR1	1.0	
+DB09462	ALDH1A1	1.0	
+PPARD		1.0
+CYP2E1	rs2515641	0.99
+CYP2E1	rs2031920	0.99
+ADH1B		1.0
+CYP2E1	rs2070676	0.99
+PPARD	rs1883322	0.99
+ALDH1A1		1.0
+PPARD	rs6922548	0.99
+CYP2E1	rs6413432	0.99
+PPARD	rs2016520	0.99
+CYP2E1	CYP2E1*1A, CYP2E1*5B	0.99
+CYP2E1		1.0
+GSTP1		1.0
+CYP2E1	rs2070673	0.99
+PPARD	rs3734254	0.99
+PPARD	rs7769719	0.99
+Alcoholic Liver Diseases	ADH1B	1.0	
+Alcoholic Liver Diseases	ALDH1A1	1.0	
+Alcoholic Liver Diseases	CYP2E1	1.0	
+Alcoholic Liver Diseases	GSTP1	1.0	
+Pancreatitis, Alcoholic	ADH1B	1.0	
+Pancreatitis, Alcoholic	CYP2E1	1.0	
+Pancreatitis, Alcoholic	GSTP1	1.0	
+Prenatal Exposure Delayed Effects	ADH1B	1.0	
+Prenatal Exposure Delayed Effects	CYP2E1	1.0	
+Prenatal Exposure Delayed Effects	GSTP1	1.0	
+Oral leukoplakia	ALDH1A1	1.0	
+Oral leukoplakia	CYP2E1	1.0	
+Oral leukoplakia	GSTP1	1.0	
+DNA Damage	ADH1B	1.0	
+DNA Damage	CYP2E1	1.0	
+DNA Damage	GSTP1	1.0	
+Alcohol abuse	ADH1B	1.0	
+Alcohol abuse	ALDH1A1	1.0	
+Alcohol abuse	CYP2E1	1.0	
+Drug Eruptions	CYP2E1	1.0	
+Drug Eruptions	GSTP1	1.0	
+Flushing	ADH1B	1.0	
+Flushing	ALDH1A1	1.0	
+Slow acetylator due to N-acetyltransferase enzyme variant	CYP2E1	1.0	
+Slow acetylator due to N-acetyltransferase enzyme variant	GSTP1	1.0	
+Liver Cirrhosis, Alcoholic	ADH1B	1.0	
+Liver Cirrhosis, Alcoholic	CYP2E1	1.0	
+Liver Cirrhosis, Alcoholic	GSTP1	1.0	
+Neoplasm of the rectum	CYP2E1	1.0	
+Neoplasm of the rectum	GSTP1	1.0	
+Neoplasm of the rectum	PPARD	1.0	
+Neoplasm of the larynx	ADH1B	1.0	
+Neoplasm of the larynx	CYP2E1	1.0	
+Neoplasm of the larynx	GSTP1	1.0	
+Pleural Neoplasms	ADH1B	1.0	
+Pleural Neoplasms	CYP2E1	1.0	
+Malignant neoplasm of pharynx	CYP2E1	1.0	
+Malignant neoplasm of pharynx	GSTP1	1.0	
+Squamous Cell Neoplasms	CYP2E1	1.0	
+Squamous Cell Neoplasms	GSTP1	1.0	
+Rectal Carcinoma	ALDH1A1	1.0	
+Rectal Carcinoma	CYP2E1	1.0	
+Rectal Carcinoma	GSTP1	1.0	
+Rectal Carcinoma	PPARD	1.0	
+Liver Diseases	ADH1B	1.0	
+Liver Diseases	ALDH1A1	1.0	
+Liver Diseases	CYP2E1	1.0	
+Liver Diseases	GSTP1	1.0	
+Liver Diseases	PPARD	1.0	
+Malignant neoplasm of larynx	ADH1B	1.0	
+Malignant neoplasm of larynx	CYP2E1	1.0	
+Malignant neoplasm of larynx	GSTP1	1.0	
+Antisocial Personality Disorder	ADH1B	1.0	
+Antisocial Personality Disorder	CYP2E1	1.0	
+Genomic Instability	ADH1B	1.0	
+Genomic Instability	CYP2E1	1.0	
+alcohol use disorder	ADH1B	1.0	
+alcohol use disorder	CYP2E1	1.0	
+Prostate cancer stage C	ALDH1A1	1.0	
+Prostate cancer stage C	GSTP1	1.0	
+Stomach Diseases	CYP2E1	1.0	
+Stomach Diseases	GSTP1	1.0	
+Bone necrosis	ADH1B	1.0	
+Bone necrosis	CYP2E1	1.0	
+Anxiety Disorders	ADH1B	1.0	
+Anxiety Disorders	ALDH1A1	1.0	
+Anxiety Disorders	CYP2E1	1.0	
+Anxiety Disorders	GSTP1	1.0	
+Leukoplakia	CYP2E1	1.0	
+Leukoplakia	GSTP1	1.0	
+Laryngeal carcinoma	ADH1B	1.0	
+Laryngeal carcinoma	CYP2E1	1.0	
+Laryngeal carcinoma	GSTP1	1.0	
+Lip and Oral Cavity Carcinoma	ADH1B	1.0	
+Lip and Oral Cavity Carcinoma	ALDH1A1	1.0	
+Lip and Oral Cavity Carcinoma	CYP2E1	1.0	
+Lip and Oral Cavity Carcinoma	GSTP1	1.0	
+Gorlin syndrome	ALDH1A1	1.0	
+Gorlin syndrome	GSTP1	1.0	
+Cancer of mouth	ADH1B	1.0	
+Cancer of mouth	ALDH1A1	1.0	
+Cancer of mouth	CYP2E1	1.0	
+Cancer of mouth	GSTP1	1.0	
+Necrosis	CYP2E1	1.0	
+Necrosis	GSTP1	1.0	
+Respiratory Tract Diseases	CYP2E1	1.0	
+Respiratory Tract Diseases	GSTP1	1.0	
+Cancer of Head and Neck	ADH1B	1.0	
+Cancer of Head and Neck	ALDH1A1	1.0	
+Cancer of Head and Neck	CYP2E1	1.0	
+Cancer of Head and Neck	GSTP1	1.0	
+Adenomatous polyp of colon	GSTP1	1.0	
+Adenomatous polyp of colon	PPARD	1.0	
+Childhood Leukemia	CYP2E1	1.0	
+Childhood Leukemia	GSTP1	1.0	
+Neoplasms, Germ Cell and Embryonal	ALDH1A1	1.0	
+Neoplasms, Germ Cell and Embryonal	GSTP1	1.0	
+Pharyngeal Neoplasms	ADH1B	1.0	
+Pharyngeal Neoplasms	GSTP1	1.0	
+Neurodegeneration with brain iron accumulation 4	CYP2E1	1.0	
+Neurodegeneration with brain iron accumulation 4	GSTP1	1.0	
+Occupational Diseases	CYP2E1	1.0	
+Occupational Diseases	GSTP1	1.0	
+Neoplasm of the oral cavity	ADH1B	1.0	
+Neoplasm of the oral cavity	CYP2E1	1.0	
+Neoplasm of the oral cavity	GSTP1	1.0	
+Bronchitis	CYP2E1	1.0	
+Bronchitis	GSTP1	1.0	
+Drug Allergy	ADH1B	1.0	
+Drug Allergy	GSTP1	1.0	
+Metaplasia	CYP2E1	1.0	
+Metaplasia	GSTP1	1.0	
+Chromosome Aberrations	CYP2E1	1.0	
+Chromosome Aberrations	GSTP1	1.0	
+Adenoma of large intestine	CYP2E1	1.0	
+Adenoma of large intestine	GSTP1	1.0	
+Adenoma of large intestine	PPARD	1.0	
+Vestibular Schwannoma	CYP2E1	1.0	
+Vestibular Schwannoma	GSTP1	1.0	
+Polyneuropathy, hearing loss, ataxia, retinitis pigmentosa, and cataract	ADH1B	1.0	
+Polyneuropathy, hearing loss, ataxia, retinitis pigmentosa, and cataract	GSTP1	1.0	
+Pancreatitis	ADH1B	1.0	
+Pancreatitis	CYP2E1	1.0	
+Pancreatitis	GSTP1	1.0	
+Esophageal carcinoma	ADH1B	1.0	
+Esophageal carcinoma	ALDH1A1	1.0	
+Esophageal carcinoma	CYP2E1	1.0	
+Esophageal carcinoma	GSTP1	1.0	
+Methamphetamine abuse	ADH1B	1.0	
+Methamphetamine abuse	GSTP1	1.0	
+Carcinoma, Small Cell	CYP2E1	1.0	
+Carcinoma, Small Cell	GSTP1	1.0	
+Non-alcoholic Fatty Liver Disease	CYP2E1	1.0	
+Non-alcoholic Fatty Liver Disease	GSTP1	1.0	
+Non-alcoholic Fatty Liver Disease	PPARD	1.0	
+Malignant tumor of esophagus	ADH1B	1.0	
+Malignant tumor of esophagus	ALDH1A1	1.0	
+Malignant tumor of esophagus	CYP2E1	1.0	
+Malignant tumor of esophagus	GSTP1	1.0	
+Helicobacter Infections	CYP2E1	1.0	
+Helicobacter Infections	GSTP1	1.0	
+Nicotine Dependence	ADH1B	1.0	
+Nicotine Dependence	CYP2E1	1.0	
+Head and Neck Neoplasms	ADH1B	1.0	
+Head and Neck Neoplasms	CYP2E1	1.0	
+Head and Neck Neoplasms	GSTP1	1.0	
+Alcohol dependence	ADH1B	1.0	
+Alcohol dependence	ALDH1A1	1.0	
+Alcohol dependence	CYP2E1	1.0	
+Alcohol dependence	GSTP1	1.0	
+Chronic atrophic gastritis	CYP2E1	1.0	
+Chronic atrophic gastritis	GSTP1	1.0	
+Gout	CYP2E1	1.0	
+Gout	PPARD	1.0	
+Immediate hypersensitivity	ADH1B	1.0	
+Immediate hypersensitivity	GSTP1	1.0	
+Esophageal Neoplasms	ADH1B	1.0	
+Esophageal Neoplasms	ALDH1A1	1.0	
+Esophageal Neoplasms	CYP2E1	1.0	
+Esophageal Neoplasms	GSTP1	1.0	
+Peptic ulcer	CYP2E1	1.0	
+Peptic ulcer	GSTP1	1.0	
+Carcinoma, Endometrioid	ALDH1A1	1.0	
+Carcinoma, Endometrioid	GSTP1	1.0	
+Musculoskeletal Diseases	ADH1B	1.0	
+Musculoskeletal Diseases	GSTP1	1.0	
+Pregnancy Complications, Hematologic	ADH1B	1.0	
+Pregnancy Complications, Hematologic	GSTP1	1.0	
+ {Aerodigestive tract cancer, squamous cell, alcohol-related, protection against} (3)	ADH1B	1.0	
+ {Aerodigestive tract cancer, squamous cell, alcohol-related, protection against} (3)	CYP2E1	1.0	
+Premature Birth	ADH1B	1.0	
+Premature Birth	CYP2E1	1.0	
+Premature Birth	GSTP1	1.0	
+Hereditary pancreatitis	ADH1B	1.0	
+Hereditary pancreatitis	CYP2E1	1.0	
+Hereditary pancreatitis	GSTP1	1.0	
+Liver Neoplasms, Experimental	CYP2E1	1.0	
+Liver Neoplasms, Experimental	GSTP1	1.0	
+Motor Neuron Disease	CYP2E1	1.0	
+Motor Neuron Disease	GSTP1	1.0	
+Intrauterine growth retardation	ADH1B	1.0	
+Intrauterine growth retardation	CYP2E1	1.0	
+Intrauterine growth retardation	GSTP1	1.0	
+Peripheral neuropathy, myopathy, hoarseness, and hearing loss	ALDH1A1	1.0	
+Peripheral neuropathy, myopathy, hoarseness, and hearing loss	CYP2E1	1.0	
+Peripheral neuropathy, myopathy, hoarseness, and hearing loss	GSTP1	1.0	
+Peripheral neuropathy, myopathy, hoarseness, and hearing loss	PPARD	1.0	
+Adrenoleukodystrophy	CYP2E1	1.0	
+Adrenoleukodystrophy	GSTP1	1.0	
+Chronic liver disease	ADH1B	1.0	
+Chronic liver disease	CYP2E1	1.0	
+Neoplasm of the liver	ADH1B	1.0	
+Neoplasm of the liver	ALDH1A1	1.0	
+Neoplasm of the liver	CYP2E1	1.0	
+Neoplasm of the liver	GSTP1	1.0	
+Neoplasm of the liver	PPARD	1.0	
+Asbestosis	GSTP1	1.0	
+Hypercapnia	GSTP1	1.0	
+High altitude pulmonary edema	GSTP1	1.0	
+Latent Tuberculosis	CYP2E1	1.0	
+Fibromyxosarcoma	ALDH1A1	1.0	
+Hearing Loss, Partial	ADH1B	1.0	
+Hearing Loss, Partial	GSTP1	1.0	
+Fetal Diseases	ADH1B	1.0	
+Fetal Diseases	GSTP1	1.0	
+Acute-Phase Reaction	PPARD	1.0	
+Neoplasms, Multiple Primary	CYP2E1	1.0	
+Pseudomonas Infections	GSTP1	1.0	
+Signs and Symptoms, Respiratory	GSTP1	1.0	
+Sarcoma, Epithelioid	ALDH1A1	1.0	
+Asthma, Occupational	GSTP1	1.0	
+Malignant neoplasm of brain and nervous system	CYP2E1	1.0	
+Malignant neoplasm of brain and nervous system	GSTP1	1.0	
+Fetal Alcohol Syndrome	ADH1B	1.0	
+Squamous cell carcinoma of the head and neck	ADH1B	1.0	
+Squamous cell carcinoma of the head and neck	ALDH1A1	1.0	
+Squamous cell carcinoma of the head and neck	CYP2E1	1.0	
+Squamous cell carcinoma of the head and neck	GSTP1	1.0	
+Hepatic steatosis	CYP2E1	1.0	
+Hepatic steatosis	GSTP1	1.0	
+Hepatic steatosis	PPARD	1.0	
+Chromosomal translocation	GSTP1	1.0	
+Proliferative retinopathy	ADH1B	1.0	
+Oculodentodigital dysplasia	ALDH1A1	1.0	
+Systemic arterial pressure	ADH1B	1.0	
+Systemic arterial pressure	CYP2E1	1.0	
+Systemic arterial pressure	GSTP1	1.0	
+Neoplasm Invasiveness	CYP2E1	1.0	
+Neoplasm Invasiveness	GSTP1	1.0	
+Cholestatic liver disease	CYP2E1	1.0	
+Gastric Mucosa-Associated Lymphoid Tissue Lymphoma	GSTP1	1.0	
+Uterine Cervical Neoplasms	CYP2E1	1.0	
+Uterine Cervical Neoplasms	GSTP1	1.0	
+Substance-Related Disorders	CYP2E1	1.0	
+Substance-Related Disorders	GSTP1	1.0	
+Substance Use Disorders	ALDH1A1	1.0	
+Alcohol withdrawal syndrome	ADH1B	1.0	
+Malaria, Vivax	GSTP1	1.0	
+Respiratory Hypersensitivity	GSTP1	1.0	
+Xeroderma Pigmentosum, Complementation Group D	GSTP1	1.0	
+Urinary Bladder Neoplasms	CYP2E1	1.0	
+Urinary Bladder Neoplasms	GSTP1	1.0	
+Urinary Bladder Neoplasms	PPARD	1.0	
+Trisomy	CYP2E1	1.0	
+Trisomy	GSTP1	1.0	
+Medulloblastoma, Childhood	GSTP1	1.0	
+Enzyme inhibition disorder	ADH1B	1.0	
+ {Nicotine dependence, protection against}, 188890 (3)	ADH1B	1.0	
+Adenoviral infections	CYP2E1	1.0	
+Germinoma	GSTP1	1.0	
+Erythrocytosis	CYP2E1	1.0	
+Hypersensitivity	ADH1B	1.0	
+Hypersensitivity	GSTP1	1.0	
+Dermatosis NOS	ADH1B	1.0	
+Dermatosis NOS	GSTP1	1.0	
+Dermatosis NOS	PPARD	1.0	
+Lupus Erythematosus, Cutaneous	GSTP1	1.0	
+Rhinitis, Allergic, Perennial	GSTP1	1.0	
+heavy drinking	ADH1B	1.0	
+Myelosuppression	GSTP1	1.0	
+Liver Cirrhosis, Biliary	ADH1B	1.0	
+Liver Cirrhosis, Biliary	ALDH1A1	1.0	
+Liver Cirrhosis, Biliary	CYP2E1	1.0	
+Liver Cirrhosis, Biliary	GSTP1	1.0	
+Fibrosis	CYP2E1	1.0	
+Fibrosis	GSTP1	1.0	
+Squamous cell carcinoma of lung	CYP2E1	1.0	
+Squamous cell carcinoma of lung	GSTP1	1.0	
+AIDS related complex	GSTP1	1.0	
+Connective Tissue Diseases	ADH1B	1.0	
+Connective Tissue Diseases	GSTP1	1.0	
+Drug-Induced Liver Injury	CYP2E1	1.0	
+Drug-Induced Liver Injury	GSTP1	1.0	
+Simple pneumoconiosis	GSTP1	1.0	
+End Stage Liver Disease	CYP2E1	1.0	
+Pregnancy associated hypertension	GSTP1	1.0	
+Gastro-esophageal reflux disease with esophagitis	GSTP1	1.0	
+Exfoliation Syndrome	GSTP1	1.0	
+Neurotoxicity Syndromes	GSTP1	1.0	
+Alcoholic Steatohepatitis	CYP2E1	1.0	
+Bronchogenic Carcinoma	GSTP1	1.0	
+Allergic sensitization	GSTP1	1.0	

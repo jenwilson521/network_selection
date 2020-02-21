@@ -1,0 +1,28 @@
+Gene	CUI	Source Databases	
+CYP3A4	C0019337	Heroin Dependence	DisGeNet	
+SLC6A2	C0019337	Heroin Dependence	DisGeNet	
+SLC6A4	C0019337	Heroin Dependence	DisGeNet	
+SLC6A2	C0004930	Behavior Disorders	DisGeNet	
+SLC6A4	C0004930	Behavior Disorders	DisGeNet	
+CYP3A4	C0030201	Acute postoperative pain	DisGeNet	
+SLC6A4	C0030201	Acute postoperative pain	DisGeNet	
+SLC6A2	C0031212	Personality disorder	DisGeNet	
+SLC6A4	C0031212	Personality disorder	DisGeNet	
+SLC6A2	C2911645	Weight Loss Adverse Event	DisGeNet	
+SLC6A4	C2911645	Weight Loss Adverse Event	DisGeNet	
+CYP3A4	C0686347	Tardive Dyskinesia	DisGeNet	
+SLC6A4	C0686347	Tardive Dyskinesia	DisGeNet	
+CYP3A4	C0152115	Orofacial dyskinesia	DisGeNet	
+SLC6A4	C0152115	Orofacial dyskinesia	DisGeNet	
+SLC6A2	C0432306	Ichthyosis bullosa of Siemens	DisGeNet	
+SLC6A4	C0432306	Ichthyosis bullosa of Siemens	DisGeNet	
+SLC6A2	C1868649	Panic disorder 1	DisGeNet	
+SLC6A4	C1868649	Panic disorder 1	DisGeNet	
+SLC6A2	C0017178	Gastrointestinal Diseases	DisGeNet	
+SLC6A4	C0017178	Gastrointestinal Diseases	DisGeNet	
+CYP3A4	C0085762	Alcohol abuse	DisGeNet	
+SLC6A4	C0085762	Alcohol abuse	DisGeNet	
+SLC6A2	C0013146	Methamphetamine abuse	DisGeNet	
+SLC6A4	C0013146	Methamphetamine abuse	DisGeNet	
+SLC6A2	C0003125	Anorexia nervosa 1	DisGeNet	
+SLC6A4	C0003125	Anorexia nervosa 1	DisGeNet	

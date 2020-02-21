@@ -1,0 +1,10 @@
+node_name	node_type	
+DB01030	drug	
+ABCG2	drug_target	
+TOP1MT	drug_target	
+TOP1	drug_target	
+ABCB1	drug_target	
+SLC47A2	drug_target	
+CYP3A4	drug_target	
+SLC47A1	drug_target	
+Squamous Cell Neoplasms	phenotype	

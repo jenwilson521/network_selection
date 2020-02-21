@@ -1,0 +1,148 @@
+Gene	CUI	Source Databases	
+UGT1A	C0011226	Hepatitis D Infection	DisGeNet	
+UGT1A1	C0011226	Hepatitis D Infection	DisGeNet	
+UGT1A10	C0011226	Hepatitis D Infection	DisGeNet	
+UGT1A6	C0011226	Hepatitis D Infection	DisGeNet	
+UGT1A7	C0011226	Hepatitis D Infection	DisGeNet	
+UGT1A8	C0011226	Hepatitis D Infection	DisGeNet	
+UGT1A9	C0011226	Hepatitis D Infection	DisGeNet	
+CYP1A1	C0032229	Pleural Neoplasms	DisGeNet	
+CYP1A2	C0032229	Pleural Neoplasms	DisGeNet	
+CYP1B1	C0032229	Pleural Neoplasms	DisGeNet	
+CYP2C19	C0032229	Pleural Neoplasms	DisGeNet	
+CYP2E1	C0032229	Pleural Neoplasms	DisGeNet	
+CYP2B6	C0020433	Hyperbilirubinemia	DisGeNet	
+UGT1A	C0020433	Hyperbilirubinemia	DisGeNet	
+UGT1A1	C0020433	Hyperbilirubinemia	DisGeNet,HumPhenOnt	
+UGT1A10	C0020433	Hyperbilirubinemia	DisGeNet	
+UGT1A6	C0020433	Hyperbilirubinemia	DisGeNet	
+UGT1A7	C0020433	Hyperbilirubinemia	DisGeNet	
+UGT1A8	C0020433	Hyperbilirubinemia	DisGeNet	
+UGT1A9	C0020433	Hyperbilirubinemia	DisGeNet	
+CYP2C19	C0013182	Drug Allergy	DisGeNet	
+CYP2C8	C0013182	Drug Allergy	DisGeNet	
+CYP2C9	C0013182	Drug Allergy	DisGeNet	
+UGT1A1	C0013182	Drug Allergy	DisGeNet	
+UGT1A7	C0013182	Drug Allergy	DisGeNet	
+UGT1A8	C0013182	Drug Allergy	DisGeNet	
+UGT1A9	C0013182	Drug Allergy	DisGeNet	
+CYP1A1	C0919532	Genomic Instability	DisGeNet	
+CYP1A2	C0919532	Genomic Instability	DisGeNet	
+CYP1B1	C0919532	Genomic Instability	DisGeNet	
+CYP2C19	C0919532	Genomic Instability	DisGeNet	
+CYP2E1	C0919532	Genomic Instability	DisGeNet	
+UGT1A	C0746883	Febrile Neutropenia	DisGeNet	
+UGT1A1	C0746883	Febrile Neutropenia	DisGeNet	
+UGT1A6	C0746883	Febrile Neutropenia	DisGeNet	
+UGT1A7	C0746883	Febrile Neutropenia	DisGeNet	
+CYP1A1	C0008350	Cholelithiasis	DisGeNet	
+UGT1A	C0008350	Cholelithiasis	DisGeNet	
+UGT1A1	C0008350	Cholelithiasis	DisGeNet,PheGenI	
+UGT1A10	C0008350	Cholelithiasis	PheGenI	
+UGT1A6	C0008350	Cholelithiasis	DisGeNet,PheGenI	
+UGT1A7	C0008350	Cholelithiasis	PheGenI	
+UGT1A8	C0008350	Cholelithiasis	PheGenI	
+UGT1A9	C0008350	Cholelithiasis	PheGenI	
+ALB	C0041755	Adverse drug events and drug allergies	DisGeNet	
+CYP1A2	C0041755	Adverse drug events and drug allergies	DisGeNet	
+CYP2C9	C0041755	Adverse drug events and drug allergies	DisGeNet	
+CYP2E1	C0041755	Adverse drug events and drug allergies	DisGeNet	
+UGT1A1	C0041755	Adverse drug events and drug allergies	DisGeNet	
+ALB	C0035457	Rhinitis, Allergic, Perennial	DisGeNet	
+CYP1A1	C0035457	Rhinitis, Allergic, Perennial	DisGeNet	
+CYP2C19	C0035457	Rhinitis, Allergic, Perennial	DisGeNet	
+CYP2C9	C0035457	Rhinitis, Allergic, Perennial	DisGeNet	
+ALB	C0745744	End Stage Liver Disease	DisGeNet	
+CYP2B6	C0745744	End Stage Liver Disease	DisGeNet	
+CYP2C19	C0745744	End Stage Liver Disease	DisGeNet	
+CYP2E1	C0745744	End Stage Liver Disease	DisGeNet	
+CYP1A1	C0023055	Neoplasm of the larynx	DisGeNet	
+CYP1A2	C0023055	Neoplasm of the larynx	DisGeNet	
+CYP1B1	C0023055	Neoplasm of the larynx	DisGeNet	
+CYP2C8	C0023055	Neoplasm of the larynx	DisGeNet	
+CYP2C9	C0023055	Neoplasm of the larynx	DisGeNet	
+CYP2E1	C0023055	Neoplasm of the larynx	DisGeNet	
+CYP1B1	C0018772	Hearing Loss, Partial	DisGeNet	
+UGT1A1	C0018772	Hearing Loss, Partial	DisGeNet	
+UGT1A10	C0018772	Hearing Loss, Partial	DisGeNet	
+UGT1A6	C0018772	Hearing Loss, Partial	DisGeNet	
+UGT1A7	C0018772	Hearing Loss, Partial	DisGeNet	
+UGT1A8	C0018772	Hearing Loss, Partial	DisGeNet	
+UGT1A9	C0018772	Hearing Loss, Partial	DisGeNet	
+CYP1A1	C1268717	Mammographic breast density	DisGeNet	
+CYP1A2	C1268717	Mammographic breast density	DisGeNet	
+CYP1B1	C1268717	Mammographic breast density	DisGeNet	
+UGT1A	C1268717	Mammographic breast density	DisGeNet	
+UGT1A1	C1268717	Mammographic breast density	DisGeNet	
+CYP1A1	C0596321	Chemical Carcinogenesis	DisGeNet	
+CYP1A2	C0596321	Chemical Carcinogenesis	DisGeNet	
+CYP1B1	C0596321	Chemical Carcinogenesis	DisGeNet	
+CYP2B6	C0596321	Chemical Carcinogenesis	DisGeNet	
+CYP2C19	C0002895	Anemia, Sickle Cell	DisGeNet	
+CYP2C9	C0002895	Anemia, Sickle Cell	DisGeNet	
+UGT1A	C0002895	Anemia, Sickle Cell	DisGeNet	
+UGT1A1	C0002895	Anemia, Sickle Cell	DisGeNet,PheGenI	
+UGT1A10	C0002895	Anemia, Sickle Cell	PheGenI	
+UGT1A6	C0002895	Anemia, Sickle Cell	PheGenI	
+UGT1A7	C0002895	Anemia, Sickle Cell	PheGenI	
+UGT1A8	C0002895	Anemia, Sickle Cell	PheGenI	
+UGT1A9	C0002895	Anemia, Sickle Cell	PheGenI	
+CYP1A1	C0030920	Peptic ulcer	DisGeNet	
+CYP2C19	C0030920	Peptic ulcer	DisGeNet	
+CYP2C8	C0030920	Peptic ulcer	DisGeNet	
+CYP2C9	C0030920	Peptic ulcer	DisGeNet	
+CYP2E1	C0030920	Peptic ulcer	DisGeNet	
+UGT1A6	C0030920	Peptic ulcer	DisGeNet	
+CYP1A1	C0023530	Leukopenia	DisGeNet	
+CYP2B6	C0023530	Leukopenia	DisGeNet	
+CYP2C8	C0023530	Leukopenia	DisGeNet	
+UGT1A	C0023530	Leukopenia	DisGeNet	
+UGT1A1	C0023530	Leukopenia	DisGeNet	
+UGT1A6	C0023530	Leukopenia	DisGeNet	
+UGT1A7	C0023530	Leukopenia	DisGeNet	
+UGT1A8	C0023530	Leukopenia	DisGeNet	
+UGT1A9	C0023530	Leukopenia	DisGeNet	
+CYP1A1	C0012860	DNA Damage	DisGeNet	
+CYP1B1	C0012860	DNA Damage	DisGeNet	
+CYP2E1	C0012860	DNA Damage	DisGeNet	
+UGT1A1	C0012860	DNA Damage	DisGeNet	
+UGT1A7	C0012860	DNA Damage	DisGeNet	
+ALB	C0345904	Hepatic cancer metastatic	DisGeNet	
+CYP1A1	C0345904	Hepatic cancer metastatic	DisGeNet	
+CYP1A2	C0345904	Hepatic cancer metastatic	DisGeNet	
+CYP1B1	C0345904	Hepatic cancer metastatic	DisGeNet	
+CYP2B6	C0345904	Hepatic cancer metastatic	DisGeNet	
+CYP2C19	C0345904	Hepatic cancer metastatic	DisGeNet	
+CYP2C9	C0345904	Hepatic cancer metastatic	DisGeNet	
+CYP2E1	C0345904	Hepatic cancer metastatic	DisGeNet	
+UGT1A1	C0345904	Hepatic cancer metastatic	DisGeNet	
+UGT1A10	C0345904	Hepatic cancer metastatic	DisGeNet	
+UGT1A7	C0345904	Hepatic cancer metastatic	DisGeNet	
+UGT1A8	C0345904	Hepatic cancer metastatic	DisGeNet	
+UGT1A9	C0345904	Hepatic cancer metastatic	DisGeNet	
+ALB	C0341439	Chronic liver disease	DisGeNet	
+CYP1A1	C0341439	Chronic liver disease	DisGeNet	
+CYP1A2	C0341439	Chronic liver disease	DisGeNet	
+CYP2C19	C0341439	Chronic liver disease	DisGeNet	
+CYP2E1	C0341439	Chronic liver disease	DisGeNet	
+UGT1A7	C0341439	Chronic liver disease	DisGeNet	
+ALB	C0860207	Drug-Induced Liver Injury	DisGeNet	
+CYP2B6	C0860207	Drug-Induced Liver Injury	DisGeNet	
+CYP2C19	C0860207	Drug-Induced Liver Injury	DisGeNet	
+CYP2C9	C0860207	Drug-Induced Liver Injury	DisGeNet	
+CYP2E1	C0860207	Drug-Induced Liver Injury	DisGeNet	
+UGT1A1	C0860207	Drug-Induced Liver Injury	DisGeNet	
+UGT1A9	C0860207	Drug-Induced Liver Injury	DisGeNet	
+CYP1A1	C0027658	Neoplasms, Germ Cell and Embryonal	DisGeNet	
+CYP2B6	C0027658	Neoplasms, Germ Cell and Embryonal	DisGeNet	
+CYP2C19	C0027658	Neoplasms, Germ Cell and Embryonal	DisGeNet	
+CYP2C9	C0027658	Neoplasms, Germ Cell and Embryonal	DisGeNet	
+CYP1A1	C0031347	Pharyngeal Neoplasms	DisGeNet	
+CYP1A2	C0031347	Pharyngeal Neoplasms	DisGeNet	
+CYP2C8	C0031347	Pharyngeal Neoplasms	DisGeNet	
+CYP2C9	C0031347	Pharyngeal Neoplasms	DisGeNet	
+ALB	C0013146	Methamphetamine abuse	DisGeNet	
+CYP2B6	C0013146	Methamphetamine abuse	DisGeNet	
+CYP2C19	C0013146	Methamphetamine abuse	DisGeNet	
+CYP2C9	C0013146	Methamphetamine abuse	DisGeNet	
+FAAH	C0013146	Methamphetamine abuse	DisGeNet	

@@ -1,0 +1,4 @@
+node_name	node_type	
+DB09477	drug	
+BDKRB1	drug_target	
+ACE	drug_target	

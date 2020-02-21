@@ -1,0 +1,2 @@
+rank	phenotype	cui	assoc in neigh	assoc in intom	probability	Benjamini-Hochberg	genes	
+4	Squamous Cell Neoplasms	C0206720	3	29	1.5531395000101256e-06	6.4620355412e-06	ABCG2,CYP3A4,TOP1

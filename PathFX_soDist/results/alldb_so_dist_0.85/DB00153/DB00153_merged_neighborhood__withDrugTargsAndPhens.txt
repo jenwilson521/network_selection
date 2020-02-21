@@ -1,0 +1,475 @@
+node1	node2	edge_score	
+DB00153	VDR	1.0	
+DB00153	CYP27A1	1.0	
+DB00153	CYP11A1	1.0	
+DB00153	GC	1.0	
+DB00153	CYP27B1	1.0	
+DB00153	CYP24A1	1.0	
+VDR	rs1540339	0.99
+VDR	rs4516035	0.99
+CYP27B1		1.0
+VDR	rs2239179	0.99
+VDR		1.0
+VDR	rs11568820	0.99
+CYP24A1		1.0
+VDR	rs1544410	0.99
+VDR	rs731236	0.99
+VDR	rs2228570	0.99
+Hypophosphatemic rickets	CYP24A1	1.0	
+Hypophosphatemic rickets	CYP27B1	1.0	
+Hypophosphatemic rickets	VDR	1.0	
+Osteomalacia	CYP24A1	1.0	
+Osteomalacia	CYP27B1	1.0	
+Osteomalacia	VDR	1.0	
+Vitamin D Deficiency	CYP24A1	1.0	
+Vitamin D Deficiency	CYP27B1	1.0	
+Vitamin D Deficiency	VDR	1.0	
+Hypercalciuria	CYP24A1	1.0	
+Hypercalciuria	CYP27B1	1.0	
+Hypercalciuria	VDR	1.0	
+Abnormal concentration of calcium in blood	CYP24A1	1.0	
+Abnormal concentration of calcium in blood	CYP27B1	1.0	
+Abnormal concentration of calcium in blood	VDR	1.0	
+Calcinosis	CYP24A1	1.0	
+Calcinosis	CYP27B1	1.0	
+Calcinosis	VDR	1.0	
+Abnormality of calcium homeostasis	CYP24A1	1.0	
+Abnormality of calcium homeostasis	CYP27B1	1.0	
+Abnormality of calcium homeostasis	VDR	1.0	
+Hypercalcemia, infantile, 2	CYP24A1	1.0	
+Hypercalcemia, infantile, 2	CYP27B1	1.0	
+Hypercalcemia, infantile, 2	VDR	1.0	
+Abnormality of divalent inorganic cation homeostasis	CYP24A1	1.0	
+Abnormality of divalent inorganic cation homeostasis	CYP27B1	1.0	
+Abnormality of divalent inorganic cation homeostasis	VDR	1.0	
+Nephrolithiasis	CYP24A1	1.0	
+Nephrolithiasis	CYP27B1	1.0	
+Nephrolithiasis	VDR	1.0	
+Slow acetylator due to N-acetyltransferase enzyme variant	CYP27B1	1.0	
+Slow acetylator due to N-acetyltransferase enzyme variant	VDR	1.0	
+Tibial bowing	CYP27B1	1.0	
+Tibial bowing	VDR	1.0	
+Urolithiasis	CYP27B1	1.0	
+Urolithiasis	VDR	1.0	
+Abnormal trabecular bone morphology	CYP27B1	1.0	
+Abnormal trabecular bone morphology	VDR	1.0	
+Metaphyseal irregularity	CYP27B1	1.0	
+Metaphyseal irregularity	VDR	1.0	
+Malaria, Vivax	CYP27B1	1.0	
+Malaria, Vivax	VDR	1.0	
+Femoral bowing	CYP27B1	1.0	
+Femoral bowing	VDR	1.0	
+Flat occiput	CYP27B1	1.0	
+Flat occiput	VDR	1.0	
+Osteoarthritis of distal interphalangeal joint	CYP27B1	1.0	
+Osteoarthritis of distal interphalangeal joint	VDR	1.0	
+Osteoarthritis of the hand	CYP27B1	1.0	
+Osteoarthritis of the hand	VDR	1.0	
+Aggressive periodontitis, generalized	CYP27B1	1.0	
+Aggressive periodontitis, generalized	VDR	1.0	
+Abnormality of fibula morphology	CYP27B1	1.0	
+Abnormality of fibula morphology	VDR	1.0	
+Bone Diseases	CYP24A1	1.0	
+Bone Diseases	CYP27B1	1.0	
+Bone Diseases	VDR	1.0	
+Hypophosphatemia	CYP27B1	1.0	
+Hypophosphatemia	VDR	1.0	
+Rickets	CYP27B1	1.0	
+Rickets	VDR	1.0	
+Lymphoma, Large-Cell, Follicular	CYP24A1	1.0	
+Lymphoma, Large-Cell, Follicular	CYP27B1	1.0	
+Lymphoma, Large-Cell, Follicular	VDR	1.0	
+Secondary hyperparathyroidism	CYP24A1	1.0	
+Secondary hyperparathyroidism	CYP27B1	1.0	
+Secondary hyperparathyroidism	VDR	1.0	
+Abnormal epiphyseal ossification	CYP27B1	1.0	
+Abnormal epiphyseal ossification	VDR	1.0	
+Abnormality of cation homeostasis	CYP24A1	1.0	
+Abnormality of cation homeostasis	CYP27B1	1.0	
+Abnormality of cation homeostasis	VDR	1.0	
+Kidney Calculi	CYP24A1	1.0	
+Kidney Calculi	VDR	1.0	
+Difficulty walking	CYP27B1	1.0	
+Difficulty walking	VDR	1.0	
+Exostoses	CYP27B1	1.0	
+Exostoses	VDR	1.0	
+Abnormality of the ankles	CYP27B1	1.0	
+Abnormality of the ankles	VDR	1.0	
+Tibia, hypoplasia or aplasia of, with polydactyly	CYP27B1	1.0	
+Tibia, hypoplasia or aplasia of, with polydactyly	VDR	1.0	
+stage, non-small cell lung cancer	CYP27B1	1.0	
+stage, non-small cell lung cancer	VDR	1.0	
+Hypocalcemia	CYP27B1	1.0	
+Hypocalcemia	VDR	1.0	
+Abnormality of phosphate homeostasis	CYP27B1	1.0	
+Abnormality of phosphate homeostasis	VDR	1.0	
+Maternal diabetes	CYP24A1	1.0	
+Maternal diabetes	CYP27B1	1.0	
+Maternal diabetes	VDR	1.0	
+Elevated alkaline phosphatase	CYP27B1	1.0	
+Elevated alkaline phosphatase	VDR	1.0	
+Primary hyperparathyroidism	CYP27B1	1.0	
+Primary hyperparathyroidism	VDR	1.0	
+Abnormality of ion homeostasis	CYP24A1	1.0	
+Abnormality of ion homeostasis	CYP27B1	1.0	
+Abnormality of ion homeostasis	VDR	1.0	
+Hypoplasia of dental enamel	CYP27B1	1.0	
+Hypoplasia of dental enamel	VDR	1.0	
+Abnormal cortical bone morphology	CYP27B1	1.0	
+Abnormal cortical bone morphology	VDR	1.0	
+Abnormality of the abdominal musculature	CYP27B1	1.0	
+Abnormality of the abdominal musculature	VDR	1.0	
+Bone pain	CYP27B1	1.0	
+Bone pain	VDR	1.0	
+Abnormality of alkaline phosphatase activity	CYP27B1	1.0	
+Abnormality of alkaline phosphatase activity	VDR	1.0	
+Hypoplasia of teeth	CYP27B1	1.0	
+Hypoplasia of teeth	VDR	1.0	
+Abnormality of the parathyroid physiology	CYP27B1	1.0	
+Abnormality of the parathyroid physiology	VDR	1.0	
+Neoplasm of the parathyroid gland	CYP27B1	1.0	
+Neoplasm of the parathyroid gland	VDR	1.0	
+Cooley's anemia	CYP27B1	1.0	
+Cooley's anemia	VDR	1.0	
+Abnormality of the parathyroid gland	CYP27B1	1.0	
+Abnormality of the parathyroid gland	VDR	1.0	
+Hypoparathyroidism	CYP27B1	1.0	
+Hypoparathyroidism	VDR	1.0	
+Hyperparathyroidism 4	CYP27B1	1.0	
+Hyperparathyroidism 4	VDR	1.0	
+Mammographic breast density	CYP27B1	1.0	
+Mammographic breast density	VDR	1.0	
+Uremia	CYP27B1	1.0	
+Uremia	VDR	1.0	
+Ankylosing spondylitis	CYP24A1	1.0	
+Ankylosing spondylitis	CYP27B1	1.0	
+Ankylosing spondylitis	VDR	1.0	
+Severe Dengue	CYP27B1	1.0	
+Severe Dengue	VDR	1.0	
+Abnormal enzyme/coenzyme activity	CYP27B1	1.0	
+Abnormal enzyme/coenzyme activity	VDR	1.0	
+Abnormal shape of the occiput	CYP27B1	1.0	
+Abnormal shape of the occiput	VDR	1.0	
+Abdominal distention	CYP27B1	1.0	
+Abdominal distention	VDR	1.0	
+Intervertebral disc degeneration	CYP27B1	1.0	
+Intervertebral disc degeneration	VDR	1.0	
+Abnormality of the wrist	CYP27B1	1.0	
+Abnormality of the wrist	VDR	1.0	
+Periodontitis, Juvenile	CYP27B1	1.0	
+Periodontitis, Juvenile	VDR	1.0	
+Actinic keratosis	CYP27B1	1.0	
+Actinic keratosis	VDR	1.0	
+Parathyroid adenoma	CYP27B1	1.0	
+Parathyroid adenoma	VDR	1.0	
+Abnormal enchondral ossification	CYP27B1	1.0	
+Abnormal enchondral ossification	VDR	1.0	
+Postmenopausal osteoporosis	CYP27B1	1.0	
+Postmenopausal osteoporosis	VDR	1.0	
+Irritability	CYP27B1	1.0	
+Irritability	VDR	1.0	
+Chronic kidney disease	CYP24A1	1.0	
+Chronic kidney disease	CYP27B1	1.0	
+Chronic kidney disease	VDR	1.0	
+Delayed eruption of teeth	CYP27B1	1.0	
+Delayed eruption of teeth	VDR	1.0	
+Primary adrenal insufficiency	CYP27B1	1.0	
+Primary adrenal insufficiency	VDR	1.0	
+Liver Cirrhosis, Alcoholic	CYP27B1	1.0	
+Liver Cirrhosis, Alcoholic	VDR	1.0	
+Recurrent fractures	CYP27B1	1.0	
+Recurrent fractures	VDR	1.0	
+Autoimmune thyroid disease 3	CYP27B1	1.0	
+Autoimmune thyroid disease 3	VDR	1.0	
+early pregnancy	CYP27B1	1.0	
+early pregnancy	VDR	1.0	
+Large fontanelles	CYP27B1	1.0	
+Large fontanelles	VDR	1.0	
+Cholangiocarcinoma	CYP24A1	1.0	
+Cholangiocarcinoma	CYP27B1	1.0	
+Cholangiocarcinoma	VDR	1.0	
+Depressive Symptoms	CYP27B1	1.0	
+Depressive Symptoms	VDR	1.0	
+Abnormality of dental eruption	CYP27B1	1.0	
+Abnormality of dental eruption	VDR	1.0	
+Hepatitis, Autoimmune	CYP27B1	1.0	
+Hepatitis, Autoimmune	VDR	1.0	
+Abnormality of dental enamel	CYP27B1	1.0	
+Abnormality of dental enamel	VDR	1.0	
+Behcet Syndrome	CYP24A1	1.0	
+Behcet Syndrome	CYP27B1	1.0	
+Behcet Syndrome	VDR	1.0	
+Bowing of limbs due to multiple fractures	CYP27B1	1.0	
+Bowing of limbs due to multiple fractures	VDR	1.0	
+Psoriasis vulgaris	CYP27B1	1.0	
+Psoriasis vulgaris	VDR	1.0	
+Gingival Diseases	CYP27B1	1.0	
+Gingival Diseases	VDR	1.0	
+Elevated 7-dehydrocholesterol	CYP27B1	1.0	
+Elevated 7-dehydrocholesterol	VDR	1.0	
+Abnormality of odontoid tissue	CYP27B1	1.0	
+Abnormality of odontoid tissue	VDR	1.0	
+Differentiated Thyroid Gland Carcinoma	CYP24A1	1.0	
+Differentiated Thyroid Gland Carcinoma	CYP27B1	1.0	
+Sjogren's Syndrome	CYP27B1	1.0	
+Sjogren's Syndrome	VDR	1.0	
+Aortic valve stenosis	CYP24A1	1.0	
+Aortic valve stenosis	VDR	1.0	
+Hyperthyroidism	CYP27B1	1.0	
+Hyperthyroidism	VDR	1.0	
+Disorder characterized by eosinophilia	CYP27B1	1.0	
+Disorder characterized by eosinophilia	VDR	1.0	
+Hashimoto thyroiditis	CYP27B1	1.0	
+Hashimoto thyroiditis	VDR	1.0	
+Thyroid cancer, nonmedullary, 4	CYP24A1	1.0	
+Thyroid cancer, nonmedullary, 4	CYP27B1	1.0	
+Thyroid cancer, nonmedullary, 4	VDR	1.0	
+Eosinophilic disorder	CYP27B1	1.0	
+Eosinophilic disorder	VDR	1.0	
+Chronic liver disease	CYP27B1	1.0	
+Chronic liver disease	VDR	1.0	
+Sporadic Breast Carcinoma	CYP27B1	1.0	
+Sporadic Breast Carcinoma	VDR	1.0	
+Hip Dislocation, Congenital	CYP27B1	1.0	
+Hip Dislocation, Congenital	VDR	1.0	
+Arthralgia	CYP27B1	1.0	
+Arthralgia	VDR	1.0	
+Barrett Esophagus	CYP27B1	1.0	
+Barrett Esophagus	VDR	1.0	
+Abnormality of the calf	CYP27B1	1.0	
+Abnormality of the calf	VDR	1.0	
+Thalassemia	CYP27B1	1.0	
+Thalassemia	VDR	1.0	
+Uveitis	CYP24A1	1.0	
+Uveitis	CYP27B1	1.0	
+Measles	CYP27B1	1.0	
+Measles	VDR	1.0	
+Functional motor problems	CYP27B1	1.0	
+Functional motor problems	VDR	1.0	
+VITILIGO-ASSOCIATED MULTIPLE AUTOIMMUNE DISEASE SUSCEPTIBILITY 1 (finding)	CYP27B1	1.0	
+VITILIGO-ASSOCIATED MULTIPLE AUTOIMMUNE DISEASE SUSCEPTIBILITY 1 (finding)	VDR	1.0	
+Abnormality of femur morphology	CYP27B1	1.0	
+Abnormality of femur morphology	VDR	1.0	
+Acquired Immunodeficiency Syndrome	CYP27B1	1.0	
+Acquired Immunodeficiency Syndrome	VDR	1.0	
+46,XY gonadal dysgenesis, partial, with minifascicular neuropathy	CYP27B1	1.0	
+46,XY gonadal dysgenesis, partial, with minifascicular neuropathy	VDR	1.0	
+Bone fragility with contractures, arterial rupture, and deafness	CYP27B1	1.0	
+Bone fragility with contractures, arterial rupture, and deafness	VDR	1.0	
+Malignant neoplasm of gallbladder	CYP27B1	1.0	
+Malignant neoplasm of gallbladder	VDR	1.0	
+Bowing of the long bones	CYP27B1	1.0	
+Bowing of the long bones	VDR	1.0	
+Cachexia	CYP27B1	1.0	
+Cachexia	VDR	1.0	
+Anomaly of the limb diaphyses	CYP27B1	1.0	
+Anomaly of the limb diaphyses	VDR	1.0	
+Eosinophilia	CYP27B1	1.0	
+Eosinophilia	VDR	1.0	
+Thyroid cancer, follicular	CYP24A1	1.0	
+Thyroid cancer, follicular	CYP27B1	1.0	
+Keloid	CYP27B1	1.0	
+Keloid	VDR	1.0	
+Chronic Periodontitis	CYP27B1	1.0	
+Chronic Periodontitis	VDR	1.0	
+Abnormality of the ribs	CYP27B1	1.0	
+Abnormality of the ribs	VDR	1.0	
+Abnormality of epiphysis morphology	CYP27B1	1.0	
+Abnormality of epiphysis morphology	VDR	1.0	
+Epidermal cyst	VDR	1.0	
+Non-Hodgkin lymphoma	CYP24A1	1.0	
+Non-Hodgkin lymphoma	CYP27B1	1.0	
+Non-Hodgkin lymphoma	VDR	1.0	
+Q Fever	VDR	1.0	
+Juvenile rheumatoid arthritis	CYP27B1	1.0	
+Juvenile rheumatoid arthritis	VDR	1.0	
+Dermatitis, Atopic	CYP24A1	1.0	
+Dermatitis, Atopic	CYP27B1	1.0	
+Dermatitis, Atopic	VDR	1.0	
+Gallbladder Carcinoma	CYP27B1	1.0	
+Gallbladder Carcinoma	VDR	1.0	
+Abnormal diaphysis morphology	CYP27B1	1.0	
+Abnormal diaphysis morphology	VDR	1.0	
+Periodontal Attachment Loss	VDR	1.0	
+Abnormality of cranial sutures	CYP27B1	1.0	
+Abnormality of cranial sutures	VDR	1.0	
+Dysgerminoma	CYP27B1	1.0	
+Metabolic Bone Disorder	VDR	1.0	
+Isolated growth hormone deficiency type 1B	VDR	1.0	
+Abnormal urine output	CYP24A1	1.0	
+Abnormal morphology of bones of the lower limbs	CYP27B1	1.0	
+Abnormal morphology of bones of the lower limbs	VDR	1.0	
+Diabetic Nephropathies	CYP24A1	1.0	
+Diabetic Nephropathies	CYP27B1	1.0	
+Diabetic Nephropathies	VDR	1.0	
+Kidney Failure, Chronic	CYP24A1	1.0	
+Kidney Failure, Chronic	CYP27B1	1.0	
+Kidney Failure, Chronic	VDR	1.0	
+Premature loss of teeth	VDR	1.0	
+Failure to thrive	CYP24A1	1.0	
+Failure to thrive	CYP27B1	1.0	
+Failure to thrive	VDR	1.0	
+Tuberculosis, Pulmonary	CYP27B1	1.0	
+Tuberculosis, Pulmonary	VDR	1.0	
+Restenosis	CYP27B1	1.0	
+Restenosis	VDR	1.0	
+Skin cancer	CYP27B1	1.0	
+Skin cancer	VDR	1.0	
+Alport syndrome	CYP24A1	1.0	
+Abnormality of renal excretion	CYP24A1	1.0	
+HTLV-I Infections	VDR	1.0	
+Abnormal shape of the frontal region	CYP27B1	1.0	
+Abnormal shape of the frontal region	VDR	1.0	
+Thyroid carcinoma	CYP24A1	1.0	
+Thyroid carcinoma	CYP27B1	1.0	
+Thyroid carcinoma	VDR	1.0	
+Alveolar Bone Loss	VDR	1.0	
+Salmonella infections	VDR	1.0	
+Frontal bossing	CYP27B1	1.0	
+Frontal bossing	VDR	1.0	
+Stage 5 chronic kidney disease	CYP27B1	1.0	
+Stage 5 chronic kidney disease	VDR	1.0	
+Abnormality of dental structure	CYP27B1	1.0	
+Abnormality of dental structure	VDR	1.0	
+Ovarian Diseases	CYP27B1	1.0	
+Ovarian Diseases	VDR	1.0	
+Bronchopulmonary Dysplasia	CYP27B1	1.0	
+Bronchopulmonary Dysplasia	VDR	1.0	
+Abnormality of the rib cage	CYP27B1	1.0	
+Abnormality of the rib cage	VDR	1.0	
+Chronic myelopathy	VDR	1.0	
+Multinodular goiter	CYP24A1	1.0	
+Mitral stenosis	CYP27B1	1.0	
+Mitral stenosis	VDR	1.0	
+Mycoses	CYP27B1	1.0	
+Mycoses	VDR	1.0	
+Vitiligo	CYP27B1	1.0	
+Vitiligo	VDR	1.0	
+Polyuria	CYP24A1	1.0	
+21-hydroxylase deficiency	CYP24A1	1.0	
+Abnormality of the sternum	CYP27B1	1.0	
+Abnormality of the sternum	VDR	1.0	
+Low back pain	VDR	1.0	
+Neuromyelitis Optica	CYP27B1	1.0	
+Abnormality of primary teeth	VDR	1.0	
+Displacement of intervertebral disc	VDR	1.0	
+Leprosy, Lepromatous	VDR	1.0	
+Acute anterior uveitis	CYP24A1	1.0	
+Sarcoidosis	CYP27B1	1.0	
+Sarcoidosis	VDR	1.0	
+Adenoma of large intestine	CYP27B1	1.0	
+Adenoma of large intestine	VDR	1.0	
+Hyperkeratosis	CYP27B1	1.0	
+Hyperkeratosis	VDR	1.0	
+Abnormality of fontanelles	CYP27B1	1.0	
+Abnormality of fontanelles	VDR	1.0	
+Motor delay	CYP27B1	1.0	
+Motor delay	VDR	1.0	
+Abnormality of circulating hormone level	CYP27B1	1.0	
+Abnormality of circulating hormone level	VDR	1.0	
+Pathologic fracture	VDR	1.0	
+Primary biliary cirrhosis	CYP27B1	1.0	
+Primary biliary cirrhosis	VDR	1.0	
+Cutaneous malignant melanoma 3	CYP27B1	1.0	
+Cutaneous malignant melanoma 3	VDR	1.0	
+Experimental Organism Basal Cell Carcinoma	CYP27B1	1.0	
+Experimental Organism Basal Cell Carcinoma	VDR	1.0	
+Fabry disease	VDR	1.0	
+Bone necrosis	VDR	1.0	
+Diabetic Retinopathy	CYP27B1	1.0	
+Diabetic Retinopathy	VDR	1.0	
+Hepatitis B, Chronic	CYP27B1	1.0	
+Hepatitis B, Chronic	VDR	1.0	
+Left ventricular hypertrophy	CYP27B1	1.0	
+Left ventricular hypertrophy	VDR	1.0	
+Bacterial Vaginosis	VDR	1.0	
+Choriocarcinoma	CYP27B1	1.0	
+Choriocarcinoma	VDR	1.0	
+Osteitis Deformans	VDR	1.0	
+Coronary Restenosis	VDR	1.0	
+Prostate cancer, familial	CYP27B1	1.0	
+Rectal Carcinoma	CYP27B1	1.0	
+Rectal Carcinoma	VDR	1.0	
+Arthritis, Reactive	VDR	1.0	
+Iron deficiency anemia	VDR	1.0	
+Nephrosis	CYP27B1	1.0	
+Prenatal Exposure Delayed Effects	VDR	1.0	
+Abnormality of urine calcium concentration	CYP24A1	1.0	
+Bone Diseases, Developmental	VDR	1.0	
+Decreased body weight	CYP24A1	1.0	
+Decreased body weight	CYP27B1	1.0	
+Decreased body weight	VDR	1.0	
+Erythema nodosum	VDR	1.0	
+Adenocarcinoma of lung	CYP24A1	1.0	
+Adenocarcinoma of lung	CYP27B1	1.0	
+Adenocarcinoma of lung	VDR	1.0	
+Neoplasm of the colon	CYP24A1	1.0	
+Neoplasm of the colon	CYP27B1	1.0	
+Neoplasm of the colon	VDR	1.0	
+Abnormality of upper limb joint	CYP27B1	1.0	
+Abnormality of upper limb joint	VDR	1.0	
+Tropical Spastic Paraparesis	VDR	1.0	
+Anti-Neutrophil Cytoplasmic Antibody-Associated Vasculitis	CYP27B1	1.0	
+Wilson disease	CYP27B1	1.0	
+Sarcoidosis, Pulmonary	VDR	1.0	
+Abnormality of the abdominal wall	CYP27B1	1.0	
+Abnormality of the abdominal wall	VDR	1.0	
+Cholestasis, benign recurrent intrahepatic 1	CYP27B1	1.0	
+Cholestasis, benign recurrent intrahepatic 1	VDR	1.0	
+Periodontitis	CYP27B1	1.0	
+Periodontitis	VDR	1.0	
+Uterine leiomyoma	CYP27B1	1.0	
+Uterine leiomyoma	VDR	1.0	
+Osteoarthritis of hip	VDR	1.0	
+Chronic obstructive pulmonary disease	CYP24A1	1.0	
+Chronic obstructive pulmonary disease	CYP27B1	1.0	
+Chronic obstructive pulmonary disease	VDR	1.0	
+Juvenile idiopathic arthritis, enthesitis related arthritis	CYP27B1	1.0	
+Juvenile idiopathic arthritis, enthesitis related arthritis	VDR	1.0	
+Microsatellite Instability	VDR	1.0	
+Abnormality of lower limb joint	CYP27B1	1.0	
+Abnormality of lower limb joint	VDR	1.0	
+Ischemic Cerebrovascular Accident	CYP27B1	1.0	
+Ischemic Cerebrovascular Accident	VDR	1.0	
+Reduced bone mineral density	CYP27B1	1.0	
+Reduced bone mineral density	VDR	1.0	
+Trachoma	VDR	1.0	
+Autoimmune disease 1	CYP24A1	1.0	
+Autoimmune disease 1	CYP27B1	1.0	
+Autoimmune disease 1	VDR	1.0	
+Abdominal symptom	CYP24A1	1.0	
+Abdominal symptom	CYP27B1	1.0	
+Abdominal symptom	VDR	1.0	
+Pulmonic stenosis	CYP24A1	1.0	
+Bronchiolitis	VDR	1.0	
+Renal Insufficiency, Chronic	CYP27B1	1.0	
+Renal Insufficiency, Chronic	VDR	1.0	
+Gaucher Disease	VDR	1.0	
+Clear cell renal cell carcinoma	CYP27B1	1.0	
+Clear cell renal cell carcinoma	VDR	1.0	
+Ovarian Neoplasms	CYP24A1	1.0	
+Ovarian Neoplasms	CYP27B1	1.0	
+Ovarian Neoplasms	VDR	1.0	
+Graves Disease	CYP27B1	1.0	
+Graves Disease	VDR	1.0	
+Pulmonary Disease, Chronic Obstructive	CYP27B1	1.0	
+Pulmonary Disease, Chronic Obstructive	VDR	1.0	
+Acute monocytic leukemia	VDR	1.0	
+Nephrocalcinosis	CYP24A1	1.0	
+Osteolysis	VDR	1.0	
+Abnormality of body weight	CYP24A1	1.0	
+Abnormality of body weight	CYP27B1	1.0	
+Abnormality of body weight	VDR	1.0	
+Septicemia	CYP27B1	1.0	
+Septicemia	VDR	1.0	
+Premature aging syndrome	VDR	1.0	
+Disorders of Intracellular Cobalamin Metabolism	CYP27B1	1.0	
+Disorders of Intracellular Cobalamin Metabolism	VDR	1.0	
+Abnormality of bone mineral density	CYP27B1	1.0	
+Abnormality of bone mineral density	VDR	1.0	
+Increased analgesia from kappa-opioid receptor agonist, female-specific	VDR	1.0	
+Malignant neoplasm of kidney	CYP27B1	1.0	
+Malignant neoplasm of kidney	VDR	1.0	
+Ischemic stroke	CYP27B1	1.0	
+Ischemic stroke	VDR	1.0	
+Chlamydia Infections	VDR	1.0	

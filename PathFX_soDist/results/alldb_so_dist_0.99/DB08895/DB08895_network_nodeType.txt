@@ -1,0 +1,9 @@
+node_name	node_type	
+DB08895	drug	
+ALB	drug_target	
+CYP2C19	drug_target	
+JAK3	drug_target	
+JAK1	drug_target	
+JAK2	drug_target	
+CYP3A4	drug_target	
+TYK2	drug_target	

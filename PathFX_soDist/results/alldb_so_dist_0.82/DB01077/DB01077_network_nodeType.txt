@@ -1,0 +1,4 @@
+node_name	node_type	
+DB01077	drug	
+ATP6V1A	drug_target	
+PTPRS	drug_target	

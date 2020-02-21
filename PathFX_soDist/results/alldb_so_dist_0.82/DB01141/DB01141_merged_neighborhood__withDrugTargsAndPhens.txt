@@ -1,0 +1,96 @@
+node1	node2	edge_score	
+DB01141	ARSA	1.0	
+DB01141	COMT	1.0	
+COMT	rs9332377	0.99
+COMT	rs9606186	0.99
+COMT	rs13306278	0.99
+COMT	rs4646316	0.99
+COMT	rs165599	0.99
+rs13306278	TXNRD2	0.9801
+COMT	rs4680	0.99
+COMT	rs4633	0.99
+COMT	rs4818	0.99
+COMT	rs6269	0.99
+COMT		1.0
+Mammographic breast density	COMT	1.0	
+Mammographic breast density	TXNRD2	1.0	
+Depressive Symptoms	COMT	1.0	
+Depressive Symptoms	TXNRD2	1.0	
+Hyperthyroidism	COMT	1.0	
+Hyperthyroidism	TXNRD2	1.0	
+VITILIGO-ASSOCIATED MULTIPLE AUTOIMMUNE DISEASE SUSCEPTIBILITY 1 (finding)	COMT	1.0	
+VITILIGO-ASSOCIATED MULTIPLE AUTOIMMUNE DISEASE SUSCEPTIBILITY 1 (finding)	TXNRD2	1.0	
+Flushing	COMT	1.0	
+Seborrheic dermatitis	COMT	1.0	
+WFS1-Related Disorders	COMT	1.0	
+Arrhinencephaly	COMT	1.0	
+Kashin-Beck Disease	TXNRD2	1.0	
+Thyroid hormone receptor defect	TXNRD2	1.0	
+Pleural Neoplasms	COMT	1.0	
+Chronic sciatica	COMT	1.0	
+Hypoplasia of the thymus	COMT	1.0	
+Narcolepsy-Cataplexy Syndrome	COMT	1.0	
+Behavior Disorders	COMT	1.0	
+Bulimia	COMT	1.0	
+Oxycephaly	COMT	1.0	
+Aplasia/Hypoplasia of the thymus	COMT	1.0	
+Bowel incontinence	COMT	1.0	
+Abnormal lung lobation	COMT	1.0	
+Paranoia	COMT	1.0	
+Generalized anxiety disorder	COMT	1.0	
+Substance Use Disorders	COMT	1.0	
+Apathy	COMT	1.0	
+Alcohol withdrawal syndrome	COMT	1.0	
+Overfolded helix	COMT	1.0	
+Distal myopathy Markesbery-Griggs type	COMT	1.0	
+Truncus arteriosus	COMT	1.0	
+Abnormal large intestine physiology	COMT	1.0	
+Carpal tunnel syndrome	COMT	1.0	
+Patellar dislocation	COMT	1.0	
+Venous insufficiency	COMT	1.0	
+Seasonal Affective Disorder	COMT	1.0	
+Paranoid Schizophrenia	COMT	1.0	
+childhood brain tumor	COMT	1.0	
+Aplasia/Hypoplasia of the earlobes	COMT	1.0	
+Abnormally folded helix	COMT	1.0	
+Chronic schizophrenia	COMT	1.0	
+Multiple renal cysts	COMT	1.0	
+Acute postoperative pain	COMT	1.0	
+Psychiatric symptom	COMT	1.0	
+Genomic Instability	COMT	1.0	
+Dysphasia	COMT	1.0	
+Retinal vascular tortuosity	COMT	1.0	
+Personality disorder	COMT	1.0	
+Chromosome 5, trisomy 5q	TXNRD2	1.0	
+Laryngomalacia	COMT	1.0	
+Bulimia nervosa 1	COMT	1.0	
+Abnormality of the thymus	COMT	1.0	
+Opiate Addiction	COMT	1.0	
+Posterior embryotoxon	COMT	1.0	
+Carcinogenicity	COMT	1.0	
+Abnormality of the line of Schwalbe	COMT	1.0	
+Abnormality of T cell physiology	COMT	1.0	
+Vitiligo	COMT	1.0	
+Vitiligo	TXNRD2	1.0	
+Delusions	COMT	1.0	
+Low back pain	COMT	1.0	
+Corneal neovascularization	COMT	1.0	
+Abnormality of retinal arteries	COMT	1.0	
+Ovarian Insufficiency	COMT	1.0	
+Meningocele	COMT	1.0	
+Chronic pain	COMT	1.0	
+Antisocial/borderline personality disorder	COMT	1.0	
+Excessive daytime sleepiness	COMT	1.0	
+Substance abuse problem	COMT	1.0	
+Abnormality of T cells	COMT	1.0	
+Abnormality of the aortic arch	COMT	1.0	
+Drug usage	COMT	1.0	
+Manic	COMT	1.0	
+Chronic Fatigue Syndrome	COMT	1.0	
+Weight Loss Adverse Event	COMT	1.0	
+Conduct Disorder	COMT	1.0	
+Fibromyalgia	COMT	1.0	
+Dyskinesia, Drug-Induced	COMT	1.0	
+Restless Legs Syndrome	COMT	1.0	
+Polydipsia	COMT	1.0	
+Abnormality of head blood vessel	COMT	1.0	

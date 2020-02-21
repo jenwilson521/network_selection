@@ -1,0 +1,4 @@
+Gene	CUI	Source Databases	
+ABCG2	C0206720	Squamous Cell Neoplasms	DisGeNet	
+CYP3A4	C0206720	Squamous Cell Neoplasms	DisGeNet	
+TOP1	C0206720	Squamous Cell Neoplasms	DisGeNet	

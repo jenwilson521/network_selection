@@ -1,0 +1,115 @@
+node1	node2	edge_score	
+DB01708	ESR2	1.0	
+DB01708	ESR1	1.0	
+DB01708	NR1I3	1.0	
+DB01708	NR1I2	1.0	
+DB01708	AR	1.0	
+DB01708	SULT2B1	1.0	
+DB01708	PPARA	1.0	
+DB01708	HSD17B1	1.0	
+DB01708	CYP3A4	1.0	
+DB01708	SIGMAR1	1.0	
+DB01708	SULT2A1	1.0	
+CYP3A4	rs35599367	0.99
+PPARA	rs4823613	0.99
+CYP3A4	rs2242480	0.99
+rs2740574	CYP3A	0.9801
+NR1I3	rs3003596	0.99
+PPARA	rs4253778	0.99
+CYP3A4	rs4646437	0.99
+ESR2	rs4986938	0.99
+ESR1	rs2207396	0.99
+ESR1	rs11543791	0.99
+PPARA	rs149711321	0.99
+PPARA	rs4253728	0.99
+NR1I3	rs2307424	0.99
+NR1I3	rs2502815	0.99
+CYP3A4	rs2246709	0.99
+CYP3A	rs12721627	0.970299
+ESR1	rs4870061	0.99
+NR1I2	rs10934498	0.99
+CYP3A4	CYP3A4*1, CYP3A4*4	0.99
+rs4987161	CYP3A	0.9801
+NR1I2	rs6785049	0.99
+ESR1	rs2813543	0.99
+rs12721627	CYP3A	0.9801
+NR1I2	rs4688040	0.99
+CYP3A4	rs3735451	0.99
+PPARA	rs9626730	0.99
+NR1I3	rs10538494	0.99
+NR1I2	rs1523130	0.99
+NR1I2	rs7643645	0.99
+NR1I3		1.0
+PPARA		1.0
+NR1I3	rs75114882	0.99
+CYP3A4		1.0
+rs12721627	CYP3A4	0.96059601
+PPARA	rs135550	0.99
+NR1I2	rs3732360	0.99
+CYP3A4	rs4987161	0.99
+CYP3A4	CYP3A4*1, CYP3A4*22	0.99
+NR1I3	rs28738963	0.99
+CYP3A	rs2740574	0.970299
+NR1I3	rs9725457	0.99
+ESR1		1.0
+ESR2	rs10140457	0.99
+NR1I3	rs2501873	0.99
+NR1I2		1.0
+ESR2	rs944050	0.99
+NR1I2	rs2461817	0.99
+NR1I2	rs3814058	0.99
+CYP3A4	rs2740574	0.99
+ESR1	rs2234693	0.99
+rs2740574	CYP3A4	0.96059601
+CYP3A4	rs28371759	0.99
+NR1I2	rs2276707	0.99
+NR1I2	rs3814055	0.99
+CYP3A4	rs4986910	0.99
+CYP3A4	CYP3A4*1, CYP3A4*20, CYP3A4*8	0.99
+CYP3A	rs4987161	0.970299
+ESR1	rs9340799	0.99
+rs4987161	CYP3A4	0.96059601
+NR1I2	rs2472677	0.99
+SULT2B1		1.0
+ESR1	rs9322335	0.99
+PPARA	rs135543	0.99
+CYP3A4	rs4646440	0.99
+CYP3A4	rs12721627	0.99
+NR1I2	rs2276706	0.99
+CYP3A4	CYP3A4*1, CYP3A4*1G	0.99
+NR1I2	rs3732359	0.99
+ESR2		1.0
+CYP3A4	rs56324128	0.99
+Tumor Promotion	ESR1	1.0	
+Tumor Promotion	ESR2	1.0	
+Tumor Promotion	NR1I2	1.0	
+Tumor Promotion	NR1I3	1.0	
+Hepatopulmonary Syndrome	ESR1	1.0	
+Hepatopulmonary Syndrome	ESR2	1.0	
+Hepatopulmonary Syndrome	NR1I2	1.0	
+Hepatopulmonary Syndrome	PPARA	1.0	
+Intrahepatic cholestasis	ESR2	1.0	
+Intrahepatic cholestasis	NR1I2	1.0	
+Intrahepatic cholestasis	NR1I3	1.0	
+Disorders of lipoid metabolism	NR1I2	1.0	
+Disorders of lipoid metabolism	NR1I3	1.0	
+Disorders of lipoid metabolism	PPARA	1.0	
+Female infertility	ESR1	1.0	
+Female infertility	ESR2	1.0	
+Female infertility	NR1I2	1.0	
+Coronary artery stenosis	ESR1	1.0	
+Coronary artery stenosis	ESR2	1.0	
+Coronary artery stenosis	PPARA	1.0	
+Cholestatic liver disease	NR1I2	1.0	
+Cholestatic liver disease	NR1I3	1.0	
+Endometrial Neoplasms	CYP3A4	1.0	
+Endometrial Neoplasms	ESR1	1.0	
+Endometrial Neoplasms	ESR2	1.0	
+Endometrial Neoplasms	NR1I2	1.0	
+Endometrial Neoplasms	SULT2B1	1.0	
+Disorders of Intracellular Cobalamin Metabolism	CYP3A4	1.0	
+Disorders of Intracellular Cobalamin Metabolism	ESR1	1.0	
+Disorders of Intracellular Cobalamin Metabolism	ESR2	1.0	
+Disorders of Intracellular Cobalamin Metabolism	NR1I2	1.0	
+Disorders of Intracellular Cobalamin Metabolism	NR1I3	1.0	
+Disorders of Intracellular Cobalamin Metabolism	PPARA	1.0	

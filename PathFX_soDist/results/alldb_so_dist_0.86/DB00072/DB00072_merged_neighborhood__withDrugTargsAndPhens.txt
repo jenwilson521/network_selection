@@ -1,0 +1,435 @@
+node1	node2	edge_score	
+DB00072	ERBB2	1.0	
+DB00072	FCGR2B	1.0	
+DB00072	EGFR	1.0	
+DB00072	CYP19A1	1.0	
+DB00072	C1QC	1.0	
+DB00072	FCGR2C	1.0	
+DB00072	C1QA	1.0	
+DB00072	FCGR2A	1.0	
+DB00072	FCGR1A	1.0	
+DB00072	C1S	1.0	
+DB00072	C1R	1.0	
+DB00072	FCGR3A	1.0	
+DB00072	FCGR3B	1.0	
+DB00072	C1QB	1.0	
+ERBB2		1.0
+CYP19A1	rs10046	0.99
+CYP19A1	rs3759811	0.99
+CYP19A1	rs700518	0.99
+CYP19A1	rs2289105	0.99
+CYP19A1	rs4646	0.99
+CYP19A1	rs7176005	0.99
+EGFR	rs712830	0.99
+CYP19A1		1.0
+EGFR	rs121434568	0.99
+EGFR	rs712829	0.99
+CYP19A1	rs1008805	0.99
+EGFR	rs121434569	0.99
+CYP19A1	rs4775936	0.99
+CYP19A1	rs2236722	0.99
+EGFR	UBC	0.935012238275
+EGFR	rs11568315	0.99
+EGFR	rs2227983	0.99
+EGFR	rs2293347	0.99
+CYP19A1	rs1062033	0.99
+FCGR3A		1.0
+CYP19A1	rs749292	0.99
+EGFR		1.0
+FCGR2A		1.0
+CYP19A1	rs6493497	0.99
+Malignant neoplasm of male breast	CYP19A1	1.0	
+Malignant neoplasm of male breast	EGFR	1.0	
+Malignant neoplasm of male breast	ERBB2	1.0	
+Carcinoma of Male Breast	CYP19A1	1.0	
+Carcinoma of Male Breast	EGFR	1.0	
+Carcinoma of Male Breast	ERBB2	1.0	
+Malignant neoplasm of brain and nervous system	EGFR	1.0	
+Malignant neoplasm of brain and nervous system	ERBB2	1.0	
+Malignant neoplasm of brain and nervous system	FCGR2A	1.0	
+Malignant neoplasm of brain and nervous system	FCGR3A	1.0	
+Breast Fibrocystic Disease	CYP19A1	1.0	
+Breast Fibrocystic Disease	EGFR	1.0	
+Breast Fibrocystic Disease	ERBB2	1.0	
+Endometrioma	CYP19A1	1.0	
+Endometrioma	EGFR	1.0	
+Endometrioma	ERBB2	1.0	
+Lichen Planus, Oral	EGFR	1.0	
+Lichen Planus, Oral	ERBB2	1.0	
+Lichen Planus, Oral	FCGR2A	1.0	
+Alveolar cell carcinoma	CYP19A1	1.0	
+Alveolar cell carcinoma	EGFR	1.0	
+Alveolar cell carcinoma	ERBB2	1.0	
+Cholera	CYP19A1	1.0	
+Cholera	EGFR	1.0	
+Cholera	ERBB2	1.0	
+Papillary adenocarcinoma	EGFR	1.0	
+Papillary adenocarcinoma	ERBB2	1.0	
+Estrogen resistance	EGFR	1.0	
+Estrogen resistance	ERBB2	1.0	
+Merkel cell carcinoma	EGFR	1.0	
+Merkel cell carcinoma	ERBB2	1.0	
+Merkel cell carcinoma	FCGR3A	1.0	
+Periodontal Attachment Loss	FCGR2A	1.0	
+Periodontal Attachment Loss	FCGR3A	1.0	
+Breast cancer recurrent	EGFR	1.0	
+Breast cancer recurrent	ERBB2	1.0	
+Thymic Carcinoma	EGFR	1.0	
+Thymic Carcinoma	ERBB2	1.0	
+Neoplasm of the thymus	EGFR	1.0	
+Neoplasm of the thymus	FCGR2A	1.0	
+Gastrinoma	EGFR	1.0	
+Gastrinoma	ERBB2	1.0	
+Periodontal Pocket	FCGR2A	1.0	
+Periodontal Pocket	FCGR3A	1.0	
+Stage IV Ovarian Carcinoma	EGFR	1.0	
+Stage IV Ovarian Carcinoma	ERBB2	1.0	
+Complete hydatidiform mole	EGFR	1.0	
+Complete hydatidiform mole	ERBB2	1.0	
+Primary Lesion	EGFR	1.0	
+Primary Lesion	ERBB2	1.0	
+Pericardial effusion	EGFR	1.0	
+Pericardial effusion	ERBB2	1.0	
+Comedone	EGFR	1.0	
+Comedone	ERBB2	1.0	
+Prostate cancer recurrent	EGFR	1.0	
+Prostate cancer recurrent	ERBB2	1.0	
+Sentinel node (disorder)	EGFR	1.0	
+Sentinel node (disorder)	ERBB2	1.0	
+Nodule	CYP19A1	1.0	
+Nodule	EGFR	1.0	
+Nodule	ERBB2	1.0	
+Ovarian cyst	CYP19A1	1.0	
+Ovarian cyst	EGFR	1.0	
+Ovarian cyst	ERBB2	1.0	
+Meningitis	ERBB2	1.0	
+Meningitis	FCGR2A	1.0	
+Meningitis	FCGR3A	1.0	
+Metastatic Carcinoma	EGFR	1.0	
+Metastatic Carcinoma	ERBB2	1.0	
+Alveolar Bone Loss	FCGR2A	1.0	
+Alveolar Bone Loss	FCGR3A	1.0	
+Carcinoma, Endometrioid	CYP19A1	1.0	
+Carcinoma, Endometrioid	EGFR	1.0	
+Carcinoma, Endometrioid	ERBB2	1.0	
+Malignant neoplasm of stomach stage IV	EGFR	1.0	
+Malignant neoplasm of stomach stage IV	ERBB2	1.0	
+Neurofibromatoses	EGFR	1.0	
+Neurofibromatoses	ERBB2	1.0	
+Stromal sarcoma	CYP19A1	1.0	
+Stromal sarcoma	EGFR	1.0	
+CNS metastases	EGFR	1.0	
+CNS metastases	ERBB2	1.0	
+Idiopathic crescentic glomerulonephritis	EGFR	1.0	
+Idiopathic crescentic glomerulonephritis	FCGR3A	1.0	
+Diffuse Scleroderma	FCGR2A	1.0	
+Diffuse Scleroderma	FCGR3A	1.0	
+Carcinosarcoma	EGFR	1.0	
+Carcinosarcoma	ERBB2	1.0	
+Erythroblastosis	EGFR	1.0	
+Erythroblastosis	ERBB2	1.0	
+Primary malignant neoplasm of brain	EGFR	1.0	
+Primary malignant neoplasm of brain	ERBB2	1.0	
+Gestational trophoblastic disease	EGFR	1.0	
+Gestational trophoblastic disease	ERBB2	1.0	
+Single tumor	EGFR	1.0	
+Single tumor	ERBB2	1.0	
+Primary Carcinoma	EGFR	1.0	
+Primary Carcinoma	ERBB2	1.0	
+Oropharyngeal disorders	EGFR	1.0	
+Oropharyngeal disorders	ERBB2	1.0	
+Mammary Carcinoma, Human	EGFR	1.0	
+Mammary Carcinoma, Human	ERBB2	1.0	
+Lupus Vulgaris	EGFR	1.0	
+Lupus Vulgaris	ERBB2	1.0	
+Lupus Vulgaris	FCGR2A	1.0	
+Lupus Vulgaris	FCGR3A	1.0	
+Neoplasm of the respiratory system	EGFR	1.0	
+Neoplasm of the respiratory system	ERBB2	1.0	
+Li-Fraumeni syndrome	EGFR	1.0	
+Li-Fraumeni syndrome	ERBB2	1.0	
+Neck Neoplasms	EGFR	1.0	
+Neck Neoplasms	ERBB2	1.0	
+Discoid lupus erythematosus	EGFR	1.0	
+Discoid lupus erythematosus	ERBB2	1.0	
+Discoid lupus erythematosus	FCGR2A	1.0	
+Discoid lupus erythematosus	FCGR3A	1.0	
+Neoplasm of the gallbladder	EGFR	1.0	
+Neoplasm of the gallbladder	ERBB2	1.0	
+Anti-Glomerular Basement Membrane Disease	FCGR2A	1.0	
+Anti-Glomerular Basement Membrane Disease	FCGR3A	1.0	
+Papillomavirus Infections	EGFR	1.0	
+Papillomavirus Infections	ERBB2	1.0	
+stage, non-small cell lung cancer	EGFR	1.0	
+stage, non-small cell lung cancer	ERBB2	1.0	
+Phyllodes tumor, benign	EGFR	1.0	
+Phyllodes tumor, benign	ERBB2	1.0	
+Uterine Cancer	EGFR	1.0	
+Uterine Cancer	ERBB2	1.0	
+Malignant neoplasm of female breast	CYP19A1	1.0	
+Malignant neoplasm of female breast	ERBB2	1.0	
+Guillain-Barre syndrome, familial	FCGR2A	1.0	
+Guillain-Barre syndrome, familial	FCGR3A	1.0	
+Progressive Neoplastic Disease	EGFR	1.0	
+Progressive Neoplastic Disease	ERBB2	1.0	
+Progressive Neoplastic Disease	FCGR3A	1.0	
+Progressive cGVHD	EGFR	1.0	
+Progressive cGVHD	ERBB2	1.0	
+Progressive cGVHD	FCGR3A	1.0	
+Carcinoma breast stage IV	CYP19A1	1.0	
+Carcinoma breast stage IV	EGFR	1.0	
+Carcinoma breast stage IV	ERBB2	1.0	
+Carcinoma breast stage IV	FCGR3A	1.0	
+Female Breast Carcinoma	CYP19A1	1.0	
+Female Breast Carcinoma	ERBB2	1.0	
+Nerve Sheath Tumors	EGFR	1.0	
+Nerve Sheath Tumors	ERBB2	1.0	
+Low Grade Squamous Intraepithelial Neoplasia	EGFR	1.0	
+Low Grade Squamous Intraepithelial Neoplasia	ERBB2	1.0	
+Carcinoma, Neuroendocrine	EGFR	1.0	
+Carcinoma, Neuroendocrine	ERBB2	1.0	
+Pneumonitis	FCGR2A	1.0	
+Pneumonitis	FCGR3A	1.0	
+Tumor necrosis	EGFR	1.0	
+Tumor necrosis	ERBB2	1.0	
+Tumor necrosis	FCGR3A	1.0	
+Infection by Cryptococcus neoformans	FCGR2A	1.0	
+Infection by Cryptococcus neoformans	FCGR3A	1.0	
+Female pseudohermaphroditism	CYP19A1	1.0	
+Female pseudohermaphroditism	EGFR	1.0	
+Human papilloma virus infection	EGFR	1.0	
+Human papilloma virus infection	ERBB2	1.0	
+EPIDERMODYSPLASIA VERRUCIFORMIS	ERBB2	1.0	
+EPIDERMODYSPLASIA VERRUCIFORMIS	FCGR3A	1.0	
+Oropharyngeal squamous cell carcinoma	EGFR	1.0	
+Oropharyngeal squamous cell carcinoma	ERBB2	1.0	
+cancer recurrence	EGFR	1.0	
+cancer recurrence	ERBB2	1.0	
+Adenocarcinoma, Endometrioid	EGFR	1.0	
+Adenocarcinoma, Endometrioid	ERBB2	1.0	
+Infiltrating Cervical Carcinoma	EGFR	1.0	
+Infiltrating Cervical Carcinoma	ERBB2	1.0	
+Tumor Initiation	CYP19A1	1.0	
+Tumor Initiation	EGFR	1.0	
+Tumor Initiation	ERBB2	1.0	
+Other specified disorders of breast	EGFR	1.0	
+Other specified disorders of breast	ERBB2	1.0	
+Meningococcal Infections	FCGR2A	1.0	
+Meningococcal Infections	FCGR3A	1.0	
+Anaplastic carcinoma	CYP19A1	1.0	
+Anaplastic carcinoma	EGFR	1.0	
+Intraosseous mucoepidermoid carcinoma	EGFR	1.0	
+Intraosseous mucoepidermoid carcinoma	ERBB2	1.0	
+Refractory cancer	EGFR	1.0	
+Refractory cancer	ERBB2	1.0	
+Early-Stage Breast Carcinoma	EGFR	1.0	
+Early-Stage Breast Carcinoma	ERBB2	1.0	
+{Systemic lupus erythematosus, susceptibility to, 8} (2)	EGFR	1.0	
+{Systemic lupus erythematosus, susceptibility to, 8} (2)	ERBB2	1.0	
+{Systemic lupus erythematosus, susceptibility to, 8} (2)	FCGR2A	1.0	
+{Systemic lupus erythematosus, susceptibility to, 8} (2)	FCGR3A	1.0	
+Hepatosplenic schistosomiasis	EGFR	1.0	
+Hepatosplenic schistosomiasis	ERBB2	1.0	
+Carcinoma, Large Cell	EGFR	1.0	
+Carcinoma, Large Cell	ERBB2	1.0	
+{Pemphigoid, susceptibility to} (2)	FCGR2A	1.0	
+{Pemphigoid, susceptibility to} (2)	FCGR3A	1.0	
+Breast Cancer Model	EGFR	1.0	
+Breast Cancer Model	ERBB2	1.0	
+Granulomatosis with Polyangiitis	FCGR2A	1.0	
+Granulomatosis with Polyangiitis	FCGR3A	1.0	
+Pleural Effusion, Malignant	EGFR	1.0	
+Pleural Effusion, Malignant	ERBB2	1.0	
+Uterine neoplasm	CYP19A1	1.0	
+Uterine neoplasm	EGFR	1.0	
+Tuberculosis, Pulmonary	EGFR	1.0	
+Tuberculosis, Pulmonary	FCGR2A	1.0	
+Tuberculosis, Pulmonary	FCGR3A	1.0	
+Salivary gland neoplasm	EGFR	1.0	
+Salivary gland neoplasm	ERBB2	1.0	
+Celiac Disease	EGFR	1.0	
+Celiac Disease	ERBB2	1.0	
+Celiac Disease	FCGR2A	1.0	
+Celiac Disease	FCGR3A	1.0	
+Benign melanocytic nevus	EGFR	1.0	
+Benign melanocytic nevus	ERBB2	1.0	
+Rash and Dermatitis Adverse Event Associated with Chemoradiation	EGFR	1.0	
+Rash and Dermatitis Adverse Event Associated with Chemoradiation	ERBB2	1.0	
+Anaplastic thyroid carcinoma	CYP19A1	1.0	
+Anaplastic thyroid carcinoma	EGFR	1.0	
+Anaplastic thyroid carcinoma	ERBB2	1.0	
+Metastatic Prostate Carcinoma	CYP19A1	1.0	
+Metastatic Prostate Carcinoma	EGFR	1.0	
+Metastatic Prostate Carcinoma	ERBB2	1.0	
+Hormone refractory prostate cancer	EGFR	1.0	
+Hormone refractory prostate cancer	ERBB2	1.0	
+Lupus Nephritis	ERBB2	1.0	
+Lupus Nephritis	FCGR2A	1.0	
+Lupus Nephritis	FCGR3A	1.0	
+Hydatidiform mole, recurrent, 2	EGFR	1.0	
+Hydatidiform mole, recurrent, 2	ERBB2	1.0	
+granulosa cell tumor	EGFR	1.0	
+granulosa cell tumor	ERBB2	1.0	
+Undifferentiated carcinoma	CYP19A1	1.0	
+Undifferentiated carcinoma	EGFR	1.0	
+High-Grade Squamous Intraepithelial Lesions	EGFR	1.0	
+High-Grade Squamous Intraepithelial Lesions	ERBB2	1.0	
+Nasopharyngeal Neoplasms	EGFR	1.0	
+Nasopharyngeal Neoplasms	ERBB2	1.0	
+Alveolar rhabdomyosarcoma	EGFR	1.0	
+Alveolar rhabdomyosarcoma	ERBB2	1.0	
+Carcinoma, Papillary	CYP19A1	1.0	
+Carcinoma, Papillary	EGFR	1.0	
+Carcinoma, Papillary	ERBB2	1.0	
+Disease Progression	CYP19A1	1.0	
+Disease Progression	EGFR	1.0	
+Disease Progression	ERBB2	1.0	
+Candidiasis, familial, 9	FCGR2A	1.0	
+Candidiasis, familial, 9	FCGR3A	1.0	
+Mucinous Adenocarcinoma	EGFR	1.0	
+Mucinous Adenocarcinoma	ERBB2	1.0	
+Soft Tissue Neoplasms	EGFR	1.0	
+Soft Tissue Neoplasms	ERBB2	1.0	
+Embryonal rhabdomyosarcoma	EGFR	1.0	
+Embryonal rhabdomyosarcoma	ERBB2	1.0	
+Carcinoid tumor no ICD-O subtype	EGFR	1.0	
+Carcinoid tumor no ICD-O subtype	ERBB2	1.0	
+Pilocytic Astrocytoma	EGFR	1.0	
+Pilocytic Astrocytoma	ERBB2	1.0	
+Recurrent upper respiratory tract infections	EGFR	1.0	
+Recurrent upper respiratory tract infections	FCGR3A	1.0	
+Vestibular Schwannoma	EGFR	1.0	
+Vestibular Schwannoma	ERBB2	1.0	
+Adrenocortical adenoma	CYP19A1	1.0	
+Adrenocortical adenoma	EGFR	1.0	
+Periodontitis, Juvenile	FCGR2A	1.0	
+Periodontitis, Juvenile	FCGR3A	1.0	
+Oral Cavity Carcinoma	EGFR	1.0	
+Oral Cavity Carcinoma	ERBB2	1.0	
+High-Grade Prostatic Intraepithelial Neoplasia	EGFR	1.0	
+High-Grade Prostatic Intraepithelial Neoplasia	ERBB2	1.0	
+Bone neoplasms	EGFR	1.0	
+Bone neoplasms	ERBB2	1.0	
+Aortic regurgitation	CYP19A1	1.0	
+Aortic regurgitation	ERBB2	1.0	
+Adenocarcinoma, Clear Cell	EGFR	1.0	
+Adenocarcinoma, Clear Cell	ERBB2	1.0	
+Inflammatory Breast Carcinoma	EGFR	1.0	
+Inflammatory Breast Carcinoma	ERBB2	1.0	
+Prolactinoma, familial	EGFR	1.0	
+Prolactinoma, familial	ERBB2	1.0	
+Vesicular Stomatitis	ERBB2	1.0	
+Vesicular Stomatitis	FCGR3A	1.0	
+Biliary Tract Cancer	EGFR	1.0	
+Biliary Tract Cancer	ERBB2	1.0	
+Advanced cancer	EGFR	1.0	
+Advanced cancer	ERBB2	1.0	
+Endometrial Neoplasms	CYP19A1	1.0	
+Endometrial Neoplasms	EGFR	1.0	
+Endometrial Neoplasms	ERBB2	1.0	
+Abnormality of the nasopharynx	EGFR	1.0	
+Abnormality of the nasopharynx	FCGR3A	1.0	
+Endometrial adenocarcinoma	EGFR	1.0	
+Endometrial adenocarcinoma	ERBB2	1.0	
+Neuroectodermal neoplasm	EGFR	1.0	
+Neuroectodermal neoplasm	ERBB2	1.0	
+Gynecomastia	CYP19A1	1.0	
+Gynecomastia	ERBB2	1.0	
+High grade serous carcinoma	EGFR	1.0	
+High grade serous carcinoma	ERBB2	1.0	
+Rhabdoid Tumor of the Kidney	EGFR	1.0	
+Rhabdoid Tumor of the Kidney	ERBB2	1.0	
+precancerous lesions	EGFR	1.0	
+precancerous lesions	ERBB2	1.0	
+Neoplasm Recurrence, Local	EGFR	1.0	
+Neoplasm Recurrence, Local	ERBB2	1.0	
+Neoplasm Recurrence, Local	FCGR2A	1.0	
+Choriocarcinoma	CYP19A1	1.0	
+Choriocarcinoma	EGFR	1.0	
+Choriocarcinoma	ERBB2	1.0	
+Carcinoma, Small Cell	EGFR	1.0	
+Carcinoma, Small Cell	ERBB2	1.0	
+Mixed Salivary Gland Tumor	EGFR	1.0	
+Mixed Salivary Gland Tumor	ERBB2	1.0	
+Intrahepatic Cholangiocarcinoma	EGFR	1.0	
+Intrahepatic Cholangiocarcinoma	ERBB2	1.0	
+polyps	CYP19A1	1.0	
+polyps	EGFR	1.0	
+polyps	ERBB2	1.0	
+Rectal Carcinoma	CYP19A1	1.0	
+Rectal Carcinoma	EGFR	1.0	
+Rectal Carcinoma	ERBB2	1.0	
+Neoplasm of the endocrine system	EGFR	1.0	
+Neoplasm of the endocrine system	ERBB2	1.0	
+Idiopathic thrombocytopenic purpura	FCGR2A	1.0	
+Idiopathic thrombocytopenic purpura	FCGR3A	1.0	
+Breast adenocarcinoma	EGFR	1.0	
+Breast adenocarcinoma	ERBB2	1.0	
+Non-Hodgkin lymphoma	CYP19A1	1.0	
+Non-Hodgkin lymphoma	ERBB2	1.0	
+Non-Hodgkin lymphoma	FCGR2A	1.0	
+Non-Hodgkin lymphoma	FCGR3A	1.0	
+Mammary Ductal Carcinoma	EGFR	1.0	
+Mammary Ductal Carcinoma	ERBB2	1.0	
+Adenocarcinoma Of Esophagus	CYP19A1	1.0	
+Adenocarcinoma Of Esophagus	EGFR	1.0	
+Adenocarcinoma Of Esophagus	ERBB2	1.0	
+Hereditary nonpolyposis colorectal cancer type 8	EGFR	1.0	
+Hereditary nonpolyposis colorectal cancer type 8	ERBB2	1.0	
+Ependymoma	EGFR	1.0	
+Ependymoma	ERBB2	1.0	
+Thrombophilia	CYP19A1	1.0	
+Thrombophilia	EGFR	1.0	
+Leiomyoma	CYP19A1	1.0	
+Leiomyoma	EGFR	1.0	
+Leiomyoma	ERBB2	1.0	
+Graft-versus-host disease, susceptibility to	EGFR	1.0	
+Graft-versus-host disease, susceptibility to	FCGR2A	1.0	
+Graft-versus-host disease, susceptibility to	FCGR3A	1.0	
+Drug Eruptions	EGFR	1.0	
+Decreased fertility in females	CYP19A1	1.0	
+Disorder of skeletal system	EGFR	1.0	
+Lobular carcinoma in situ of breast	ERBB2	1.0	
+Acute Coronary Syndrome	EGFR	1.0	
+Acute Coronary Syndrome	FCGR2A	1.0	
+Acute Coronary Syndrome	FCGR3A	1.0	
+Giant cell arteritis	FCGR2A	1.0	
+Giant cell arteritis	FCGR3A	1.0	
+Cervical Squamous Cell Carcinoma	EGFR	1.0	
+Cervical Squamous Cell Carcinoma	ERBB2	1.0	
+Common variable immunodeficiency 2	FCGR2A	1.0	
+Common variable immunodeficiency 2	FCGR3A	1.0	
+Abnormality of the pharynx	EGFR	1.0	
+Abnormality of the pharynx	FCGR3A	1.0	
+Placental Insufficiency	CYP19A1	1.0	
+Pleural Neoplasms	EGFR	1.0	
+Sarcoma, Epithelioid	EGFR	1.0	
+childhood rhabdomyosarcoma	EGFR	1.0	
+Peritoneal Mesothelioma	EGFR	1.0	
+Inappropriate ADH Syndrome	ERBB2	1.0	
+Gingival Diseases	FCGR2A	1.0	
+Gingival Diseases	FCGR3A	1.0	
+Schwannoma	EGFR	1.0	
+Schwannoma	ERBB2	1.0	
+Transitional cell carcinoma of the bladder	EGFR	1.0	
+Transitional cell carcinoma of the bladder	ERBB2	1.0	
+Intraepithelial Neoplasia	EGFR	1.0	
+Intraepithelial Neoplasia	ERBB2	1.0	
+Malignant neoplasm of larynx	EGFR	1.0	
+Malignant neoplasm of larynx	ERBB2	1.0	
+Metastatic malignant neoplasm to brain	EGFR	1.0	
+Metastatic malignant neoplasm to brain	ERBB2	1.0	
+Laryngeal Squamous Cell Carcinoma	EGFR	1.0	
+Laryngeal Squamous Cell Carcinoma	ERBB2	1.0	
+Differentiated Thyroid Gland Carcinoma	EGFR	1.0	
+Differentiated Thyroid Gland Carcinoma	ERBB2	1.0	
+Cervical dysplasia	EGFR	1.0	
+Seborrheic keratosis	EGFR	1.0	
+Gallbladder adenocarcinoma	ERBB2	1.0	
+Head and Neck Neoplasms	EGFR	1.0	
+Head and Neck Neoplasms	ERBB2	1.0	
+Head and Neck Neoplasms	FCGR3A	1.0	
+Pleural effusion	EGFR	1.0	
+Pleural effusion	FCGR3A	1.0	
+Sjogren's Syndrome	CYP19A1	1.0	
+Sjogren's Syndrome	FCGR2A	1.0	

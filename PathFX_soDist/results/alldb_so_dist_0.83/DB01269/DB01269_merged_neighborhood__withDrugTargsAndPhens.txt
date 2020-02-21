@@ -1,0 +1,181 @@
+node1	node2	edge_score	
+DB01269	EGFR	1.0	
+EGFR	rs2293347	0.99
+EGFR		1.0
+EGFR	rs712830	0.99
+EGFR	rs121434569	0.99
+EGFR	rs121434568	0.99
+EGFR	rs712829	0.99
+UBC	TRAF6	0.863464374084
+EGFR	rs11568315	0.99
+EGFR	UBC	0.935012238275
+EGFR	rs2227983	0.99
+Hypohidrotic X-linked ectodermal dysplasia	EGFR	1.0	
+Hypohidrotic X-linked ectodermal dysplasia	TRAF6	1.0	
+Cachexia	EGFR	1.0	
+Cachexia	TRAF6	1.0	
+Cachexia	UBC	1.0	
+{Diphtheria, susceptibility to} (1)	EGFR	1.0	
+{Diphtheria, susceptibility to} (1)	TRAF6	1.0	
+Tumor necrosis	EGFR	1.0	
+Tumor necrosis	TRAF6	1.0	
+Drug Eruptions	EGFR	1.0	
+Disorder of skeletal system	EGFR	1.0	
+Papillary adenocarcinoma	EGFR	1.0	
+Pleural Neoplasms	EGFR	1.0	
+Sarcoma, Epithelioid	EGFR	1.0	
+childhood rhabdomyosarcoma	EGFR	1.0	
+Peritoneal Mesothelioma	EGFR	1.0	
+Estrogen resistance	EGFR	1.0	
+Hypersensitivity	EGFR	1.0	
+Hypersensitivity	TRAF6	1.0	
+Cervical dysplasia	EGFR	1.0	
+Seborrheic keratosis	EGFR	1.0	
+Adrenal Gland Hyperfunction	EGFR	1.0	
+Dupuytren Contracture	EGFR	1.0	
+Multiple Endocrine Neoplasia Type 2b	EGFR	1.0	
+Breast cancer recurrent	EGFR	1.0	
+Early gastric cancer	EGFR	1.0	
+Malignant neoplasm of vulva	EGFR	1.0	
+Astrocytoma, low grade	EGFR	1.0	
+Pyruvate carboxylase deficiency	EGFR	1.0	
+Squamous Cell Neoplasms	EGFR	1.0	
+Pituitary dependent hypercortisolism	EGFR	1.0	
+Dermatofibrosarcoma protuberans	EGFR	1.0	
+Familial cold-induced inflammatory syndrome 1, 120100 (3)	EGFR	1.0	
+Recurrent bronchitis	EGFR	1.0	
+Large cell neuroendocrine carcinoma	EGFR	1.0	
+Thymic Carcinoma	EGFR	1.0	
+Myeloproliferative disorder, chronic, with eosinophilia	EGFR	1.0	
+Neoplasm of the thymus	EGFR	1.0	
+Gastrinoma	EGFR	1.0	
+Xeroderma Pigmentosum, Complementation Group D	EGFR	1.0	
+Staphylococcal Infections	EGFR	1.0	
+Stage IV Ovarian Carcinoma	EGFR	1.0	
+Adenocarcinoma in Situ	EGFR	1.0	
+Complete hydatidiform mole	EGFR	1.0	
+Mucinous Neoplasm	EGFR	1.0	
+Primary Lesion	EGFR	1.0	
+Pericardial effusion	EGFR	1.0	
+Malignant neoplasm of oropharynx	EGFR	1.0	
+Acinar Cell Carcinoma	EGFR	1.0	
+Comedone	EGFR	1.0	
+Prostate cancer recurrent	EGFR	1.0	
+Sentinel node (disorder)	EGFR	1.0	
+Testicular seminoma	EGFR	1.0	
+Testicular seminoma	UBC	1.0	
+Neoplasm of the peripheral nervous system	EGFR	1.0	
+Polymyalgia Rheumatica	TRAF6	1.0	
+Hemangioblastoma	EGFR	1.0	
+Metastatic Carcinoma	EGFR	1.0	
+Nasal polyposis	EGFR	1.0	
+Nasal polyposis	TRAF6	1.0	
+Malignant neoplasm of stomach stage IV	EGFR	1.0	
+Diffuse Astrocytoma	EGFR	1.0	
+Intracranial glioma	EGFR	1.0	
+Plague	EGFR	1.0	
+Neurofibromatoses	EGFR	1.0	
+Stromal sarcoma	EGFR	1.0	
+Clear cell sarcoma, of tendons and aponeuroses	EGFR	1.0	
+Rhinovirus infection	EGFR	1.0	
+Bronchogenic Carcinoma	EGFR	1.0	
+CNS metastases	EGFR	1.0	
+Idiopathic crescentic glomerulonephritis	EGFR	1.0	
+Chronic rejection of renal transplant	EGFR	1.0	
+Carcinosarcoma	EGFR	1.0	
+{TSC2 angiomyolipomas, renal, modifier of}, 613254 (3)	EGFR	1.0	
+Erythroblastosis	EGFR	1.0	
+Primary malignant neoplasm of brain	EGFR	1.0	
+Gestational trophoblastic disease	EGFR	1.0	
+Recurrent bacterial infection	EGFR	1.0	
+Recurrent bacterial infection	TRAF6	1.0	
+Cholesteatoma	EGFR	1.0	
+Malignant neoplasm of male breast	EGFR	1.0	
+Chloracne	EGFR	1.0	
+Dryness of eye	EGFR	1.0	
+Tumor-Associated Vasculature	EGFR	1.0	
+Single tumor	EGFR	1.0	
+Primary Carcinoma	EGFR	1.0	
+Yolk Sac Tumor	EGFR	1.0	
+Autosomal recessive polycystic kidney disease	EGFR	1.0	
+Acute intermittent porphyria	EGFR	1.0	
+Ganglioglioma	EGFR	1.0	
+Oropharyngeal disorders	EGFR	1.0	
+Recurrent pneumonia	EGFR	1.0	
+Mammary Carcinoma, Human	EGFR	1.0	
+Pituitary corticotropic cell adenoma	EGFR	1.0	
+Dry Eye Syndromes	EGFR	1.0	
+Neoplasm of the respiratory system	EGFR	1.0	
+Adenosquamous carcinoma	EGFR	1.0	
+CARCINOMA OF VULVA	EGFR	1.0	
+Li-Fraumeni syndrome	EGFR	1.0	
+Neck Neoplasms	EGFR	1.0	
+Squamous cell carcinoma of mouth	EGFR	1.0	
+Bile duct cancer resectable	EGFR	1.0	
+Neoplasm of the gallbladder	EGFR	1.0	
+Rous Sarcoma	UBC	1.0	
+Ganglioneuroblastoma	EGFR	1.0	
+Papillomavirus Infections	EGFR	1.0	
+stage, non-small cell lung cancer	EGFR	1.0	
+Phyllodes tumor, benign	EGFR	1.0	
+Uterine Cancer	EGFR	1.0	
+Trichomegaly	EGFR	1.0	
+Peptic Esophagitis	EGFR	1.0	
+Leukoplakia	EGFR	1.0	
+Neurofibromas	EGFR	1.0	
+Recurrent lower respiratory tract infections	EGFR	1.0	
+pathologic fistula	EGFR	1.0	
+Nerve Sheath Tumors	EGFR	1.0	
+Brain Tumor, Primary	EGFR	1.0	
+Low Grade Squamous Intraepithelial Neoplasia	EGFR	1.0	
+Chromosome Xq28 deletion syndrome	EGFR	1.0	
+Carcinoma, Neuroendocrine	EGFR	1.0	
+Carcinoma of Male Breast	EGFR	1.0	
+Lupus Vulgaris	EGFR	1.0	
+Lupus Vulgaris	TRAF6	1.0	
+Arnold-Chiari malformation	EGFR	1.0	
+Russell-Silver syndrome	EGFR	1.0	
+Biliary tract neoplasm	EGFR	1.0	
+Optic neuropathy	EGFR	1.0	
+Female pseudohermaphroditism	EGFR	1.0	
+Malignant Fibrous Histiocytoma	EGFR	1.0	
+Human papilloma virus infection	EGFR	1.0	
+Graft-versus-host disease, susceptibility to	EGFR	1.0	
+Graft-versus-host disease, susceptibility to	TRAF6	1.0	
+Oropharyngeal squamous cell carcinoma	EGFR	1.0	
+Lymphangiomyomatosis	EGFR	1.0	
+Discoid lupus erythematosus	EGFR	1.0	
+Discoid lupus erythematosus	TRAF6	1.0	
+Huntington's chorea	TRAF6	1.0	
+Huntington's chorea	UBC	1.0	
+cancer recurrence	EGFR	1.0	
+Adenocarcinoma, Endometrioid	EGFR	1.0	
+Oropharyngeal Carcinoma	EGFR	1.0	
+Stereotypy	EGFR	1.0	
+Infiltrating Cervical Carcinoma	EGFR	1.0	
+Primary Glioblastoma	EGFR	1.0	
+Other specified disorders of breast	EGFR	1.0	
+Anaplastic carcinoma	EGFR	1.0	
+Intraosseous mucoepidermoid carcinoma	EGFR	1.0	
+Helminthiasis	EGFR	1.0	
+Breast Fibrocystic Disease	EGFR	1.0	
+gliosarcoma	EGFR	1.0	
+Rhabdoid tumors, somatic, 609322 (3)	EGFR	1.0	
+Refractory cancer	EGFR	1.0	
+Ovarian Serous Adenocarcinoma	EGFR	1.0	
+Early-Stage Breast Carcinoma	EGFR	1.0	
+Ameloblastoma	EGFR	1.0	
+Atypical nevus	EGFR	1.0	
+Extraosseous Ewings sarcoma-primitive neuroepithelial tumor	EGFR	1.0	
+Papule	EGFR	1.0	
+Fasciculations	EGFR	1.0	
+Hyperparathyroidism 4	EGFR	1.0	
+Hepatosplenic schistosomiasis	EGFR	1.0	
+Carcinoma, Large Cell	EGFR	1.0	
+Neoplasms, Intracranial	EGFR	1.0	
+Giant cell tumor of bone	EGFR	1.0	
+Malignant neoplasm of colon stage IV	EGFR	1.0	
+Bronchitis	EGFR	1.0	
+Nasopharyngeal cancer recurrent	EGFR	1.0	
+Retroviridae Infections	EGFR	1.0	
+Uremia	EGFR	1.0	

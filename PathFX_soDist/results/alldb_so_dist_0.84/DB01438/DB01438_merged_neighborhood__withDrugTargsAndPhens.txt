@@ -1,0 +1,155 @@
+node1	node2	edge_score	
+DB01438	SCN1A	1.0	
+SCN1A		1.0
+EMG: myopathic abnormalities	SCN1A	1.0	
+Aplasia involving bones of the extremities	SCN1A	1.0	
+ Adenocarcinoma, ovarian, somatic, 167000 (3)	SCN1A	1.0	
+Aggressive behavior	SCN1A	1.0	
+Ataxia, combined cerebellar and peripheral, with hearing loss and diabetes mellitus	SCN1A	1.0	
+Autism 15	SCN1A	1.0	
+Brain very small	SCN1A	1.0	
+Squamous cell carcinoma	SCN1A	1.0	
+Malignant tumor of cervix	SCN1A	1.0	
+Child Development Disorders, Pervasive	SCN1A	1.0	
+Colorectal cancer 1	SCN1A	1.0	
+Febrile seizures, familial, 4	SCN1A	1.0	
+EEG with irregular generalized spike and wave complexes	SCN1A	1.0	
+EPIDERMODYSPLASIA VERRUCIFORMIS	SCN1A	1.0	
+Epilepsy	SCN1A	1.0	
+Epilepsy, focal, with speech disorder and with or without mental retardation	SCN1A	1.0	
+Epilepsy, generalized, with febrile seizures plus, type 6 (2)	SCN1A	1.0	
+Myoclonus with epilepsy with ragged red fibers	SCN1A	1.0	
+Absence seizures	SCN1A	1.0	
+Epilepsy, Temporal Lobe	SCN1A	1.0	
+Abnormality of the eye	SCN1A	1.0	
+Headache	SCN1A	1.0	
+Sensorineural hearing impairment	SCN1A	1.0	
+Hemiparesis	SCN1A	1.0	
+Hemiplegia	SCN1A	1.0	
+Microcephaly 16, primary, autosomal recessive	SCN1A	1.0	
+Abnormality of movement	SCN1A	1.0	
+Hypotonia, infantile, with psychomotor retardation	SCN1A	1.0	
+Myoclonus, intractable, neonatal	SCN1A	1.0	
+Other disorders of the nervous system	SCN1A	1.0	
+Nystagmus	SCN1A	1.0	
+Personality disorder	SCN1A	1.0	
+Abnormality of the retina	SCN1A	1.0	
+Retinitis pigmentosa	SCN1A	1.0	
+Seizures, Febrile	SCN1A	1.0	
+Septicemia	SCN1A	1.0	
+Mental Retardation, Severe, With Spasticity And Pigmentary Tapetoretinal Degeneration	SCN1A	1.0	
+Abnormality of the skin	SCN1A	1.0	
+Hypsarrhythmia	SCN1A	1.0	
+Neurological speech impairment	SCN1A	1.0	
+Status epilepticus	SCN1A	1.0	
+Tremor, hereditary essential, 5	SCN1A	1.0	
+Vertigo	SCN1A	1.0	
+Encephalopathy, acute, infection-induced, 4, susceptibility to	SCN1A	1.0	
+Photophobia	SCN1A	1.0	
+Migraine Disorders	SCN1A	1.0	
+EEG abnormality	SCN1A	1.0	
+Migraine with aura	SCN1A	1.0	
+Abnormal QRS complex	SCN1A	1.0	
+Onset	SCN1A	1.0	
+Adenosquamous carcinoma	SCN1A	1.0	
+Behavioral abnormality	SCN1A	1.0	
+Cortical visual impairment	SCN1A	1.0	
+Generalized seizures	SCN1A	1.0	
+Mental deterioration	SCN1A	1.0	
+Abnormality of the skull	SCN1A	1.0	
+Brain atrophy	SCN1A	1.0	
+Sepsis	SCN1A	1.0	
+Abnormality of the ear	SCN1A	1.0	
+Idiopathic generalized epilepsy	SCN1A	1.0	
+Juvenile myoclonic epilepsy	SCN1A	1.0	
+Carcinoma of cervix	SCN1A	1.0	
+Cognitive Dysfunction	SCN1A	1.0	
+Cutaneous photosensitivity	SCN1A	1.0	
+Hemiplegia/hemiparesis	SCN1A	1.0	
+Hyperactivity	SCN1A	1.0	
+Decreased head circumference	SCN1A	1.0	
+Involuntary movements	SCN1A	1.0	
+Autosomal dominant non-syndromic sensorineural deafness type DFNA	SCN1A	1.0	
+Blindness	SCN1A	1.0	
+Generalized tonic-clonic seizures	SCN1A	1.0	
+Abnormality of eye movement	SCN1A	1.0	
+Abnormality of the nervous system	SCN1A	1.0	
+Motor delay	SCN1A	1.0	
+Recurrent tumor	SCN1A	1.0	
+Epileptic encephalopathy, early infantile, 29	SCN1A	1.0	
+Global developmental delay, absent or hypoplastic corpus callosum, and dysmorphic facies	SCN1A	1.0	
+Gait disturbance	SCN1A	1.0	
+Tumor Initiation	SCN1A	1.0	
+Ovarian epithelial cancer	SCN1A	1.0	
+Neurodevelopmental abnormality	SCN1A	1.0	
+Neuroblastoma	SCN1A	1.0	
+Severe myoclonic epilepsy in infancy	SCN1A	1.0	
+Focal seizures	SCN1A	1.0	
+Mitochondrial diseases	SCN1A	1.0	
+Abnormal muscle tone	SCN1A	1.0	
+Abnormality of head or neck	SCN1A	1.0	
+Autistic behavior	SCN1A	1.0	
+Dysphasia	SCN1A	1.0	
+Drug Resistant Epilepsy	SCN1A	1.0	
+BREAST-OVARIAN CANCER, FAMILIAL, SUSCEPTIBILITY TO, 4	SCN1A	1.0	
+Blood pressure finding	SCN1A	1.0	
+Systemic arterial pressure	SCN1A	1.0	
+Acute encephalopathy	SCN1A	1.0	
+Ovarian Serous Adenocarcinoma	SCN1A	1.0	
+Hearing impairment	SCN1A	1.0	
+Abnormal emotion/affect behavior	SCN1A	1.0	
+Hippocampal sclerosis	SCN1A	1.0	
+Colorectal cancer	SCN1A	1.0	
+Channelopathies	SCN1A	1.0	
+Childhood onset	SCN1A	1.0	
+Phenotypic variability	SCN1A	1.0	
+Upper motor neuron dysfunction	SCN1A	1.0	
+Microcephaly, postnatal progressive, with seizures and brain atrophy	SCN1A	1.0	
+Infantile-onset ascending hereditary spastic paralysis	SCN1A	1.0	
+Abnormality of brainstem morphology	SCN1A	1.0	
+Variable expressivity	SCN1A	1.0	
+Abnormality of retinal pigmentation	SCN1A	1.0	
+Abnormality of the cerebellum	SCN1A	1.0	
+Malformation of cortical development	SCN1A	1.0	
+Early infantile epileptic encephalopathy 8	SCN1A	1.0	
+Visual impairment	SCN1A	1.0	
+Intellectual developmental disorder with dysmorphic facies and ptosis	SCN1A	1.0	
+Abnormality of forebrain morphology	SCN1A	1.0	
+Abnormality of brain morphology	SCN1A	1.0	
+Generalized abnormality of skin	SCN1A	1.0	
+Abnormality of hindbrain morphology	SCN1A	1.0	
+Weakness due to upper motor neuron dysfunction	SCN1A	1.0	
+Abnormality of the musculature	SCN1A	1.0	
+Generalized myoclonic seizures	SCN1A	1.0	
+Abnormality of the cerebrum	SCN1A	1.0	
+Morphological abnormality of the central nervous system	SCN1A	1.0	
+Abnormal nervous system electrophysiology	SCN1A	1.0	
+Abnormality of the skeletal system	SCN1A	1.0	
+Abnormality of the inner ear	SCN1A	1.0	
+Abnormality of the head	SCN1A	1.0	
+Abnormality of central nervous system electrophysiology	SCN1A	1.0	
+Neurodevelopmental delay	SCN1A	1.0	
+Abnormality of nervous system morphology	SCN1A	1.0	
+Abnormality of nervous system physiology	SCN1A	1.0	
+Abnormal involuntary eye movements	SCN1A	1.0	
+Abnormality of the globe	SCN1A	1.0	
+Abnormal eye physiology	SCN1A	1.0	
+Abnormal eye morphology	SCN1A	1.0	
+Abnormality of skeletal morphology	SCN1A	1.0	
+Abnormality of muscle physiology	SCN1A	1.0	
+Abnormality of higher mental function	SCN1A	1.0	
+Abnormality of coordination	SCN1A	1.0	
+Abnormality of central motor function	SCN1A	1.0	
+Functional abnormality of the inner ear	SCN1A	1.0	
+Abnormality of the metencephalon	SCN1A	1.0	
+Dialeptic seizures	SCN1A	1.0	
+Abnormality of skin morphology	SCN1A	1.0	
+Abnormal axial skeleton morphology	SCN1A	1.0	
+Aplasia/Hypoplasia of the cerebrum	SCN1A	1.0	
+Abnormality of the posterior segment of the globe	SCN1A	1.0	
+Abnormality of the integument	SCN1A	1.0	
+Abnormality of the fundus	SCN1A	1.0	
+Abnormality of vision	SCN1A	1.0	
+Hearing abnormality	SCN1A	1.0	
+Abnormality of skull size	SCN1A	1.0	
+Atrophy/Degeneration affecting the brainstem	SCN1A	1.0	

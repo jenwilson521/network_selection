@@ -1,0 +1,21 @@
+node_name	node_type	
+DB01044	drug	
+CYP1A2	drug_target	
+ALB	drug_target	
+Adverse drug events and drug allergies	phenotype	
+Acute hepatic failure	phenotype	
+Chronic liver disease	phenotype	
+Polyglandular Type I Autoimmune Syndrome	phenotype	
+Pleural Neoplasms	phenotype	
+Malignant neoplasm of adrenal cortex	phenotype	
+Esophageal varix	phenotype	
+Urolithiasis	phenotype	
+Echinococcosis	phenotype	
+Epidermolysis bullosa simplex, Cockayne-Touraine type	phenotype	
+Palmar hyperkeratosis	phenotype	
+Lung Injury	phenotype	
+Proliferative retinopathy	phenotype	
+Verrucae	phenotype	
+Isolated somatotropin deficiency	phenotype	
+Substance Use Disorders	phenotype	
+Dentatorubral pallidoluysian atrophy	phenotype	

@@ -1,0 +1,4 @@
+node1	node2	edge_score	
+DB04951	CYP1A2	1.0	
+DB04951	FURIN	1.0	
+

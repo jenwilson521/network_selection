@@ -1,0 +1,17 @@
+node_name	node_type	
+DB06817	drug	
+UGT1A1	drug_target	
+Hyperbilirubinemia	phenotype	
+Hepatitis D Infection	phenotype	
+Cholelithiasis	phenotype	
+Febrile Neutropenia	phenotype	
+Hearing Loss, Partial	phenotype	
+Anemia, Sickle Cell	phenotype	
+Drug Allergy	phenotype	
+Deafness, autosomal recessive 44	phenotype	
+Leukopenia	phenotype	
+Influenza	phenotype	
+Cholecystolithiasis	phenotype	
+Abdominal pain	phenotype	
+Deficiency of glucose-6-phosphate dehydrogenase	phenotype	
+Neutropenia	phenotype	

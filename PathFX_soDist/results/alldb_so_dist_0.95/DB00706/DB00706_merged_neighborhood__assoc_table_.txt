@@ -1,0 +1,5 @@
+rank	phenotype	cui	assoc in neigh	assoc in intom	probability	Benjamini-Hochberg	genes	
+12	Congenital long QT syndrome	C1141890	3	32	2.911128140770103e-06	2.5e-05	ADRA1A,CYP2D6,CYP3A4
+13	Chronic schizophrenia	C0221765	3	36	4.723918615834322e-06	2.70833333333e-05	ADRA1A,CYP2D6,CYP3A4
+14	Acute postoperative pain	C0030201	3	37	5.2841076617626825e-06	2.91666666667e-05	ADRA1A,CYP2D6,CYP3A4
+31	Primary malignant neoplasm of liver	C0024620	2	25	6.337016582202981e-05	6.45833333333e-05	CYP2D6,CYP3A4

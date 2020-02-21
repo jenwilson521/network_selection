@@ -1,0 +1,7 @@
+node_name	node_type	
+DB00211	drug	
+ADRA1A	drug_target	
+ADRA1B	drug_target	
+ADRA1D	drug_target	
+CYP2D6	drug_target	
+Congenital long QT syndrome	phenotype	

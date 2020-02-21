@@ -1,0 +1,8 @@
+node_name	node_type	
+DB01337	drug	
+SLC22A2	drug_target	
+CHRM3	drug_target	
+CHRM2	drug_target	
+BCHE	drug_target	
+SLC22A1	drug_target	
+CHRNA2	drug_target	

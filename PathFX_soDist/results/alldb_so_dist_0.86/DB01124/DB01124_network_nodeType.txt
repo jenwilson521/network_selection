@@ -1,0 +1,18 @@
+node_name	node_type	
+DB01124	drug	
+CYP2C9	drug_target	
+CYP2C8	drug_target	
+KCNJ1	drug_target	
+ALB	drug_target	
+SLC22A6	drug_target	
+CYP2C19	drug_target	
+CYP2C18	drug_target	
+SLCO1A2	drug_target	
+SLCO2B1	drug_target	
+SLC15A2	drug_target	
+ABCC8	drug_target	
+Rhinitis, Allergic, Perennial	phenotype	
+Tubulointerstitial nephritis	phenotype	
+Essential tremor	phenotype	
+Drug Allergy	phenotype	
+Old myocardial infarction	phenotype	

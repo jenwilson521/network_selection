@@ -1,0 +1,40 @@
+node1	node2	edge_score	
+DB00290	BLMH	1.0	
+DB00290	LIG1	1.0	
+DB00290	LIG3	1.0	
+LIG3		1.0
+Arrhythmias, Cardiac	LIG3	1.0	
+Ataxia, combined cerebellar and peripheral, with hearing loss and diabetes mellitus	LIG3	1.0	
+Ataxia-telangiectasia syndrome	LIG3	1.0	
+Malignant tumor of urinary bladder	LIG3	1.0	
+Breast-ovarian cancer, familial 1	LIG3	1.0	
+Colorectal Neoplasms	LIG3	1.0	
+Esophageal Neoplasms	LIG3	1.0	
+Graft-versus-host disease, susceptibility to	LIG3	1.0	
+Head and Neck Neoplasms	LIG3	1.0	
+Neoplasm of the larynx	LIG3	1.0	
+Leukemia, Lymphocytic, Chronic, B-Cell	LIG3	1.0	
+Leukemia, Lymphocytic, Acute, L1	LIG3	1.0	
+Chronic myeloid leukemia	LIG3	1.0	
+Chronic obstructive pulmonary disease	LIG3	1.0	
+Non-Hodgkin lymphoma	LIG3	1.0	
+Neoplasm of the oral cavity	LIG3	1.0	
+Multiple Sclerosis	LIG3	1.0	
+Pancreatic Neoplasms	LIG3	1.0	
+Pharyngeal Neoplasms	LIG3	1.0	
+Reperfusion Injury	LIG3	1.0	
+Tobacco Use Disorder	LIG3	1.0	
+Sudden cardiac death	LIG3	1.0	
+Pancreatic Carcinoma	LIG3	1.0	
+Malignant neoplasm of lung	LIG3	1.0	
+Esophageal Squamous Cell Carcinoma	LIG3	1.0	
+Malignant neoplasm of pancreas	LIG3	1.0	
+Hematological neoplasm	LIG3	1.0	
+Malignant tumor of esophagus	LIG3	1.0	
+Ovarian epithelial cancer	LIG3	1.0	
+Breast carcinoma	LIG3	1.0	
+Bladder carcinoma	LIG3	1.0	
+Neuroblastoma	LIG3	1.0	
+B Acute Lymphoblastic Leukemia with t(9;22)(q34;q11.2); BCR-ABL1	LIG3	1.0	
+Adenoma of large intestine	LIG3	1.0	
+Colorectal cancer	LIG3	1.0	

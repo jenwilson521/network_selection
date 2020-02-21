@@ -1,0 +1,138 @@
+node_name	node_type	
+DB01088	drug	
+PDE4C	drug_target	
+PTGER1	drug_target	
+PLAT	drug_target	
+SLCO2B1	drug_target	
+PDE4A	drug_target	
+PDE4B	drug_target	
+PTGIR	drug_target	
+PDE4D	drug_target	
+Amphetamine-Related Disorders	phenotype	
+Venous thrombosis	phenotype	
+Hyperphosphatemia	phenotype	
+ Acrodysostosis 1, with or without hormone resistance, 101800 (3)	phenotype	
+Blue irides	phenotype	
+Pseudohypoparathyroidism, Type Ia	phenotype	
+Pseudohypoparathyroidism type 1A	phenotype	
+Epiphyseal stippling	phenotype	
+Hypoplasia of the radius	phenotype	
+Generalized hypopigmentation of hair	phenotype	
+Open bite	phenotype	
+Short metatarsal	phenotype	
+Asthma	phenotype	
+Aplasia/Hypoplasia of metatarsal bones	phenotype	
+Deep vein thrombosis of lower limb	phenotype	
+Vascular Diseases	phenotype	
+Deep thrombophlebitis	phenotype	
+Abnormal morphology of the radius	phenotype	
+Abnormal epiphyseal ossification	phenotype	
+Dyskinesia, Drug-Induced	phenotype	
+Hypoplasia of the ulna	phenotype	
+Abnormal morphology of ulna	phenotype	
+Hypocalcemia	phenotype	
+Accelerated skeletal maturation	phenotype	
+Abnormality of phosphate homeostasis	phenotype	
+Cone-shaped epiphyses fused within their metaphyses	phenotype	
+Acute myocardial ischemia	phenotype	
+Aplasia/Hypoplasia of the ulna	phenotype	
+Abnormality of intracranial pressure	phenotype	
+Abnormality of the parathyroid physiology	phenotype	
+Inflammatory pain	phenotype	
+Increased intracranial pressure	phenotype	
+Round face	phenotype	
+Congenital hypothyroidism	phenotype	
+Open mouth	phenotype	
+Tardive Dyskinesia	phenotype	
+Abnormality of the parathyroid gland	phenotype	
+Proportionate short stature	phenotype	
+Forearm undergrowth	phenotype	
+Depressive Disorder	phenotype	
+NEUROTICISM	phenotype	
+Arsenic Poisoning	phenotype	
+Narrow femoral neck	phenotype	
+Upper limb undergrowth	phenotype	
+Aplasia/Hypoplasia of the radius	phenotype	
+ Cerebrovascular disease, occlusive (3)	phenotype	
+Orofacial dyskinesia	phenotype	
+Brain Infarction	phenotype	
+Short toe	phenotype	
+Abnormal morphology of forearm bone	phenotype	
+Abnormal concentration of calcium in blood	phenotype	
+Micromelia	phenotype	
+Abnormal thrombosis	phenotype	
+Coronary artery stenosis	phenotype	
+Respiration Disorders	phenotype	
+Hypopigmentation of hair	phenotype	
+Congenital heart disease	phenotype	
+Abnormality of the metatarsal bones	phenotype	
+Specific learning disability	phenotype	
+Abnormality of the paranasal sinuses	phenotype	
+Cough	phenotype	
+Short metacarpal	phenotype	
+Hypoplasia of the maxilla	phenotype	
+Cataracts, growth hormone deficiency, sensory neuropathy, sensorineural hearing loss, and skeletal dysplasia	phenotype	
+Alcohol dependence	phenotype	
+Angina, Unstable	phenotype	
+Depressed nasal ridge	phenotype	
+Abnormality of hair pigmentation	phenotype	
+Abnormal enchondral ossification	phenotype	
+Cerebral palsy, spastic quadriplegic, 3	phenotype	
+Aplasia/Hypoplasia of toe	phenotype	
+Hyperbilirubinemia	phenotype	
+Delayed eruption of teeth	phenotype	
+Abnormality of the maxilla	phenotype	
+Anterior hypopituitarism	phenotype	
+Fibrinogen Adverse Event	phenotype	
+Abnormality of calcium homeostasis	phenotype	
+Mandibular prognathia	phenotype	
+Carotid Atherosclerosis	phenotype	
+Abnormal iris pigmentation	phenotype	
+Abnormality of female external genitalia	phenotype	
+Deep venous thrombosis	phenotype	
+Autoimmune thyroid disease 3	phenotype	
+Abnormality of divalent inorganic cation homeostasis	phenotype	
+Abnormal metacarpal morphology	phenotype	
+Abnormality of the ulna	phenotype	
+Abnormality of dental eruption	phenotype	
+Hypopituitarism	phenotype	
+Elevated 7-dehydrocholesterol	phenotype	
+Short phalanx of finger	phenotype	
+Autism 15	phenotype	
+Midface hypoplasia, hearing impairment, elliptocytosis, and nephrocalcinosis	phenotype	
+Abnormality of mouth shape	phenotype	
+Brachycephaly	phenotype	
+Hyperplasia	phenotype	
+Short long bone	phenotype	
+Abnormality of the metacarpal bones	phenotype	
+Abnormality of the radius	phenotype	
+Aplasia/Hypoplasia of the phalanges of the hand	phenotype	
+Abnormality of the nasal dorsum	phenotype	
+Growth retardation, intellectual developmental disorder, hypotonia, and hepatopathy, 617093 (3)	phenotype	
+Abnormality of forearm bone	phenotype	
+Abnormality of thyroid physiology	phenotype	
+Malar flattening	phenotype	
+Abnormality of the forearm	phenotype	
+Ectopic calcification	phenotype	
+Abnormality of the chin	phenotype	
+Bone Diseases	phenotype	
+Abnormality of malar bones	phenotype	
+Nevus	phenotype	
+Arteriosclerosis	phenotype	
+Menstrual irregularities	phenotype	
+Short nose	phenotype	
+Abnormality of the anterior pituitary	phenotype	
+Abnormality of epiphysis morphology	phenotype	
+Melanocytic nevus	phenotype	
+Congenital onset	phenotype	
+Abnormality of the zygomatic bone	phenotype	
+Misalignment of teeth	phenotype	
+Carotid Artery Diseases	phenotype	
+Abnormality of cation homeostasis	phenotype	
+Vomiting	phenotype	
+Patent ductus arteriosus	phenotype	
+Autistic behavior	phenotype	
+Transient ischemic attack	phenotype	
+Skeletal dysplasia	phenotype	
+Abnormal morphology of bones of the upper limbs	phenotype	
+Chronic Lymphocytic Leukemia	phenotype	

@@ -1,0 +1,8 @@
+node_name	node_type	
+DB00133	drug	
+AGXT	drug_target	
+SRR	drug_target	
+SPTLC2	drug_target	
+SLC16A10	drug_target	
+SPTLC1	drug_target	
+SARS	drug_target	

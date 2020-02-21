@@ -1,0 +1,28 @@
+node_name	node_type	
+DB00388	drug	
+ADRA1A	drug_target	
+CYP1A2	drug_target	
+ADRA1B	drug_target	
+MAOA	drug_target	
+ADRA1D	drug_target	
+Hypotension	phenotype	
+Gastroparesis	phenotype	
+Chronic schizophrenia	phenotype	
+Nephrosclerosis	phenotype	
+Dyskinesia, Drug-Induced	phenotype	
+Adverse drug events and drug allergies	phenotype	
+Methamphetamine abuse	phenotype	
+Essential hypertension	phenotype	
+Acute hepatic failure	phenotype	
+Pruritus	phenotype	
+Chronic liver disease	phenotype	
+Polyglandular Type I Autoimmune Syndrome	phenotype	
+ Acrodysostosis 1, with or without hormone resistance, 101800 (3)	phenotype	
+Pseudohypoparathyroidism, type IB, 603233 (3)	phenotype	
+Pleural Neoplasms	phenotype	
+Chronic sciatica	phenotype	
+Malignant neoplasm of adrenal cortex	phenotype	
+Esophageal varix	phenotype	
+Disorders of parathyroid gland	phenotype	
+Urolithiasis	phenotype	
+genetic hypertension	phenotype	

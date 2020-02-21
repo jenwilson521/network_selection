@@ -1,0 +1,112 @@
+Gene	CUI	Source Databases	
+DBH	C0001973	Alcohol dependence	DisGeNet	
+DBH	C0002395	Alzheimer Disease	DisGeNet	
+DBH	C0003123	Anorexia	DisGeNet	
+DBH	C0003431	Antisocial Personality Disorder	DisGeNet	
+DBH	C0003469	Anxiety Disorders	DisGeNet	
+DBH	C0003944	As If Personality	DisGeNet	
+DBH	C0004352	Autism 15	DisGeNet	
+DBH	C0004936	Mental disorders	DisGeNet	
+DBH	C0005586	Bipolar affective disorder	DisGeNet	
+DBH	C0005745	Ptosis, hereditary congenital 1	HumPhenOnt	
+DBH	C0005826	Abnormal systemic blood pressure	HumPhenOnt	
+DBH	C0006111	Brain Diseases	DisGeNet	
+DBH	C0007222	Cardiovascular Diseases	DisGeNet	
+DBH	C0007786	Brain Ischemia	DisGeNet	
+DBH	C0011570	{Unipolar depression, susceptibility to}, 608516 (3)	DisGeNet	
+DBH	C0011581	Depressive Disorder	DisGeNet	
+DBH	C0011849	Diabetes Mellitus, Type 1	DisGeNet	
+DBH	C0013421	Dystonia 2, torsion, autosomal recessive	DisGeNet	
+DBH	C0014130	Disorder of endocrine system	DisGeNet	
+DBH	C0014544	Epilepsy	DisGeNet	
+DBH	C0015393	Abnormality of the eye	HumPhenOnt	
+DBH	C0018801	Heart Failure	DisGeNet	
+DBH	C0018802	Congestive heart failure	DisGeNet	
+DBH	C0020538	Hypertension	DisGeNet	
+DBH	C0020541	Portal hypertension, noncirrhotic	DisGeNet	
+DBH	C0020615	Hypoglycemia, neonatal, simulating foetopathia diabetica	HumPhenOnt	
+DBH	C0020649	Hypotension	HumPhenOnt	
+DBH	C0020651	Hypotension, Orthostatic	HumPhenOnt	
+DBH	C0020672	Hypothermia	HumPhenOnt	
+DBH	C0022658	Kidney Diseases	DisGeNet	
+DBH	C0023434	Chronic Lymphocytic Leukemia	DisGeNet	
+DBH	C0023890	Liver Cirrhosis, Biliary	DisGeNet	
+DBH	C0025202	Melanoma	DisGeNet	
+DBH	C0025269	Multiple Endocrine Neoplasia Type 2b	DisGeNet	
+DBH	C0025322	Premature ovarian failure	DisGeNet	
+DBH	C0026267	Mitral Valve Prolapse	DisGeNet	
+DBH	C0026633	Abnormality of the mouth	HumPhenOnt	
+DBH	C0026769	Multiple Sclerosis	DisGeNet	
+DBH	C0027765	Other disorders of the nervous system	DisGeNet	
+DBH	C0028043	Nicotine Dependence	DisGeNet	
+DBH	C0030567	Parkinson Disease	DisGeNet	
+DBH	C0031117	Peripheral neuropathy, myopathy, hoarseness, and hearing loss	DisGeNet	
+DBH	C0031511	Pheochromocytoma	DisGeNet	
+DBH	C0032002	Abnormality of the pituitary gland	DisGeNet	
+DBH	C0033975	Psychotic Disorders	DisGeNet	
+DBH	C0036341	Schizophrenia	DisGeNet	
+DBH	C0036572	Seizures, Febrile	HumPhenOnt	
+DBH	C0038436	Posttraumatic stress disorder	DisGeNet	
+DBH	C0038454	Stroke	DisGeNet	
+DBH	C0038525	Subarachnoid hemorrhage	DisGeNet	
+DBH	C0038586	Substance Use Disorders	DisGeNet	
+DBH	C0040336	Tobacco Use Disorder	DisGeNet	
+DBH	C0040517	Tourette Syndrome	DisGeNet	
+DBH	C0041341	Tuberous sclerosis syndrome	DisGeNet	
+DBH	C0041671	Attention Deficit Disorder	DisGeNet	
+DBH	C0041696	Unipolar Depression	DisGeNet	
+DBH	C0042063	Abnormality of the genitourinary system	HumPhenOnt	
+DBH	C0043094	Increased body weight	DisGeNet	
+DBH	C0085215	Ovarian Failure, Premature	DisGeNet	
+DBH	C0085580	Essential hypertension	DisGeNet	
+DBH	C0149632	Abnormality of bladder morphology	HumPhenOnt	
+DBH	C0149931	Migraine Disorders	DisGeNet	
+DBH	C0151699	Intracranial hemorrhage	DisGeNet	
+DBH	C0152115	Orofacial dyskinesia	DisGeNet	
+DBH	C0154723	Migraine with aura	DisGeNet	
+DBH	C0221765	Chronic schizophrenia	DisGeNet	
+DBH	C0236663	Alcohol withdrawal syndrome	DisGeNet	
+DBH	C0240635	High palate	HumPhenOnt	
+DBH	C0243050	Abnormality of cardiovascular system electrophysiology	HumPhenOnt	
+DBH	C0393593	Dystonia Disorders	DisGeNet	
+DBH	C0441748	Autosomal recessive inheritance	HumPhenOnt	
+DBH	C0497552	Abnormality of the nervous system	HumPhenOnt	
+DBH	C0524851	Neurodegenerative Diseases	DisGeNet	
+DBH	C0525045	Mood Disorders	DisGeNet	
+DBH	C0600427	Cocaine Dependence	DisGeNet	
+DBH	C0686347	Tardive Dyskinesia	DisGeNet	
+DBH	C0700095	Neuroblastoma	DisGeNet	
+DBH	C0744356	Abnormality of the genital system	HumPhenOnt	
+DBH	C0751265	Learning Disabilities	DisGeNet	
+DBH	C0752347	Lewy Body Disease	DisGeNet	
+DBH	C0854297	Abnormality of head or neck	HumPhenOnt	
+DBH	C1263846	Attention deficit hyperactivity disorder	DisGeNet	
+DBH	C1269683	Major depressive disorder	DisGeNet	
+DBH	C1270972	Mild cognitive impairment	DisGeNet	
+DBH	C1275808	Congenital central hypoventilation	DisGeNet	
+DBH	C1456784	Paranoia	DisGeNet	
+DBH	C1457887	CNS symptom	DisGeNet	
+DBH	C1832160	Abnormality of temperature regulation	HumPhenOnt	
+DBH	C1842981	NEUROTICISM	DisGeNet	
+DBH	C2911647	Weight Gain Adverse Event	DisGeNet	
+DBH	C2937358	Cerebral Hemorrhage	DisGeNet	
+DBH	C3160718	Parkinson disease, late-onset	DisGeNet	
+DBH	C3806583	Functional abnormality of the bladder	HumPhenOnt	
+DBH	C4020716	Abnormal male reproductive system physiology	HumPhenOnt	
+DBH	C4021768	Abnormality of metabolism/homeostasis	HumPhenOnt	
+DBH	C4021812	Abnormality of the head	HumPhenOnt	
+DBH	C4021815	Abnormality of the palate	HumPhenOnt	
+DBH	C4021820	Abnormality of reproductive system physiology	HumPhenOnt	
+DBH	C4021821	Abnormality of the urinary system	HumPhenOnt	
+DBH	C4022811	Abnormality of nervous system physiology	HumPhenOnt	
+DBH	C4022924	Abnormal eye physiology	HumPhenOnt	
+DBH	C4022952	Abnormal autonomic nervous system physiology	HumPhenOnt	
+DBH	C4023587	Abnormality of cardiovascular system physiology	HumPhenOnt	
+DBH	C4023597	Abnormality of blood glucose concentration	HumPhenOnt	
+DBH	C4023598	Abnormal glucose homeostasis	HumPhenOnt	
+DBH	C4023599	Abnormality of carbohydrate metabolism/homeostasis	HumPhenOnt	
+DBH	C4023640	Abnormality of the lower urinary tract	HumPhenOnt	
+DBH	C4025714	Abnormality of the autonomic nervous system	HumPhenOnt	
+DBH	C4025871	Abnormality of the face	HumPhenOnt	
+DBH	C4025887	Abnormality of the oral cavity	HumPhenOnt	
+DBH	C4073187	Abnormality of the peripheral nervous system	HumPhenOnt	

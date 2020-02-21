@@ -1,0 +1,227 @@
+Gene	CUI	Source Databases	
+ALB	C0002395	Alzheimer Disease	DisGeNet	
+GRIA1	C0002395	Alzheimer Disease	DisGeNet	
+ALB	C0011581	Depressive Disorder	DisGeNet	
+GRIA1	C0011581	Depressive Disorder	DisGeNet	
+ALB	C0014544	Epilepsy	DisGeNet	
+GRIA1	C0014544	Epilepsy	DisGeNet	
+ALB	C0019693	Symptomatic human immunodeficiency virus infection	DisGeNet	
+GRIA1	C0019693	Symptomatic human immunodeficiency virus infection	DisGeNet	
+ALB	C0020649	Hypotension	DisGeNet,HumPhenOnt	
+GRIA1	C0020649	Hypotension	DisGeNet	
+ALB	C0035126	Reperfusion Injury	DisGeNet	
+GRIA1	C0035126	Reperfusion Injury	DisGeNet	
+ALB	C0036572	Seizures, Febrile	DisGeNet	
+GRIA1	C0036572	Seizures, Febrile	DisGeNet	
+GRIA1	C0017650	Globus Hystericus	DisGeNet	
+ALB	C0346402	Malignant neoplasm of adrenal cortex	DisGeNet	
+ALB	C0014867	Esophageal varix	DisGeNet	
+ALB	C0451641	Urolithiasis	DisGeNet	
+ALB	C0013502	Echinococcosis	DisGeNet	
+ALB	C0339467	Proliferative retinopathy	DisGeNet	
+ALB	C3714796	Isolated somatotropin deficiency	DisGeNet	
+ALB	C0038586	Substance Use Disorders	DisGeNet	
+ALB	C0751781	Dentatorubral pallidoluysian atrophy	DisGeNet	
+ALB	C0002985	Angiokeratoma	DisGeNet	
+ALB	C0013338	Isolated growth hormone deficiency type 1B	DisGeNet	
+ALB	C0031039	Pericardial effusion	DisGeNet	
+GRIA1	C0019151	Hepatic encephalopathy	DisGeNet	
+ALB	C0026780	Mumps	DisGeNet	
+ALB	C0035457	Rhinitis, Allergic, Perennial	DisGeNet	
+ALB	C0342200	Endemic Cretinism	DisGeNet	
+ALB	C0206734	Hemangioblastoma	DisGeNet	
+GRIA1	C0443306	Spastic	DisGeNet	
+ALB	C0017662	Mesangiocapillary glomerulonephritis, type II	DisGeNet	
+ALB	C0027719	Nephrosclerosis	DisGeNet	
+ALB	C0235025	Peripheral motor neuropathy	DisGeNet	
+ALB	C0745744	End Stage Liver Disease	DisGeNet	
+ALB	C4023036	Abnormal albumin level	HumPhenOnt	
+ALB	C0007121	Bronchogenic Carcinoma	DisGeNet	
+ALB	C0010051	Coronary artery aneurysm	DisGeNet	
+ALB	C0020476	Hyperlipoproteinemia	DisGeNet	
+ALB	C0745103	Hyperlipoproteinemia Type IIa	DisGeNet	
+ALB	C0027707	Tubulointerstitial nephritis	DisGeNet	
+ALB	C1298180	Single tumor	DisGeNet	
+ALB	C1704321	Nephrotic Syndrome, Minimal Change	DisGeNet	
+GRIA1	C0023186	Learning Disorders	DisGeNet	
+ALB	C0740380	Varicella zoster	DisGeNet	
+ALB	C1260959	Drusen	DisGeNet	
+ALB	C3714619	Insulin resistance syndrome	DisGeNet	
+ALB	C0027720	Nephrosis	DisGeNet	
+ALB	C0018378	Guillain-Barre syndrome, familial	DisGeNet	
+ALB	C0221002	Primary hyperparathyroidism	DisGeNet	
+ALB	C1096063	Drug Resistant Epilepsy	DisGeNet	
+ALB	C0035242	Respiratory Tract Diseases	DisGeNet	
+ALB	C0086981	Sicca Syndrome	DisGeNet	
+ALB	C0239981	Hypoalbuminemia	DisGeNet,HumPhenOnt	
+ALB	C0030286	Neurologic, endocrine, and pancreatic disease, multisystem, infantile-onset	DisGeNet	
+GRIA1	C0005911	Body Weight Changes	DisGeNet	
+ALB	C0010308	Congenital hypothyroidism	DisGeNet	
+ALB	C0041755	Adverse drug events and drug allergies	DisGeNet	
+ALB	C0019061	Hemolytic uremic syndrome	DisGeNet	
+ALB	C0028797	Occupational Diseases	DisGeNet	
+ALB	C0730345	Microalbuminuria	DisGeNet	
+ALB	C0008031	Chest pain	DisGeNet	
+ALB	C0042749	 {HIV-1 viremia, susceptibility to}, 609423 (3)	DisGeNet	
+ALB	C0242488	Acute Lung Injury	DisGeNet	
+ALB	C0342257	Complications of Diabetes Mellitus	DisGeNet	
+ALB	C0034063	Pulmonary edema	DisGeNet	
+ALB	C0038325	Stevens-Johnson Syndrome	DisGeNet	
+GRIA1	C0013182	Drug Allergy	DisGeNet	
+ALB	C0024291	Lymphohistiocytosis, Hemophagocytic	DisGeNet	
+GRIA1	C0038587	Substance Withdrawal Syndrome	DisGeNet	
+ALB	C0021079	IMMUNE SUPPRESSION	DisGeNet	
+ALB	C0011269	Dementia, Vascular	DisGeNet	
+ALB	C0017665	Membranous nephropathy, susceptibility to	DisGeNet	
+ALB	C0012236	DiGeorge sequence	DisGeNet	
+ALB	C1318485	Liver regeneration disorder	DisGeNet	
+ALB	C0011875	Diabetic Angiopathies	DisGeNet	
+ALB	C0032131	Plasmacytoma	DisGeNet	
+ALB	C0011882	Type 1 diabetic neuropathy	DisGeNet	
+ALB	C0152025	Polyneuropathy, hearing loss, ataxia, retinitis pigmentosa, and cataract	DisGeNet	
+ALB	C0020474	Hyperlipidemia, familial combined	DisGeNet	
+ALB	C3887486	Interstitial fibrosis	DisGeNet	
+ALB	C0018995	Hemochromatosis	DisGeNet	
+ALB	C0013146	Methamphetamine abuse	DisGeNet	
+ALB	C0019069	Hereditary factor VIII deficiency disease	DisGeNet	
+ALB	C0178664	Glomerulosclerosis, Focal Segmental	DisGeNet	
+ALB	C1658953	tumor vasculature	DisGeNet	
+ALB	C0342276	Maturity-onset diabetes of the young, type 11	DisGeNet	
+GRIA1	C0236736	Cocaine-Related Disorders	DisGeNet	
+ALB	C0017668	Focal segmental glomerulosclerosis	DisGeNet	
+ALB	C0162429	Malnutrition	DisGeNet	
+ALB	C0042109	Urticaria	DisGeNet	
+ALB	C0398623	Thrombophilia	DisGeNet	
+ALB	C0235833	Congenital diaphragmatic hernia	DisGeNet	
+ALB	C0034065	Pulmonary Embolism	DisGeNet	
+ALB	C0003123	Anorexia	DisGeNet	
+ALB	C0162557	Acute hepatic failure	DisGeNet	
+GRIA1	C0334579	Anaplastic astrocytoma	DisGeNet	
+ALB	C0035222	Respiratory Distress Syndrome, Adult	DisGeNet	
+ALB	C0275524	Coinfection	DisGeNet	
+ALB	C0341439	Chronic liver disease	DisGeNet	
+ALB	C4021524	Abnormality of adipose tissue	HumPhenOnt	
+GRIA1	C2911647	Weight Gain Adverse Event	DisGeNet	
+GRIA1	C0085298	Sudden cardiac death	DisGeNet	
+ALB	C0042164	Uveitis	DisGeNet	
+ALB	C0268731	Glomerulopathy	DisGeNet	
+ALB	C0206686	Adrenocortical carcinoma	DisGeNet	
+ALB	C0001925	Albuminuria	DisGeNet	
+ALB	C0023787	Lipoatrophy	HumPhenOnt	
+ALB	C0006625	Cachexia	DisGeNet	
+ALB	C4025650	Abnormality of lipid metabolism	HumPhenOnt	
+ALB	C0005779	Bleeding disorder, platelet-type, 21	DisGeNet	
+ALB	C0022548	Keloid	DisGeNet	
+ALB	C0027697	Nephritis	DisGeNet	
+ALB	C1559271	Non-Malignant Ascites Adverse Event	DisGeNet	
+ALB	C0020445	Familial hypercholesterolemia	DisGeNet	
+GRIA1	C0038220	Status epilepticus	DisGeNet	
+ALB	C0020517	Hypersensitivity	DisGeNet	
+ALB	C0403447	Chronic Kidney Insufficiency	DisGeNet	
+ALB	C0016059	Fibrosis	DisGeNet	
+GRIA1	C0014556	Epilepsy, Temporal Lobe	DisGeNet	
+ALB	C0006111	Brain Diseases	DisGeNet	
+ALB	C0027055	Myocardial Reperfusion Injury	DisGeNet	
+ALB	C0019189	Chronic hepatitis	DisGeNet	
+ALB	C0021053	Immune dysfunction with T-cell inactivation due to calcium entry defect 1	DisGeNet	
+ALB	C0860207	Drug-Induced Liver Injury	DisGeNet	
+ALB	C0026691	Mucocutaneous Lymph Node Syndrome	DisGeNet	
+GRIA1	C0011065	Death, Sudden, Cardiac	PheGenI	
+ALB	C0033687	Proteinuria, low molecular weight, with hypercalciuria and nephrocalcinosis	DisGeNet	
+ALB	C0085207	Maternal diabetes	DisGeNet	
+GRIA1	C3539909	Allergic disposition	DisGeNet	
+ALB	C0020443	Hypercholesterolemia, autosomal dominant, type B	DisGeNet	
+GRIA1	C0424295	Hyperactivity	DisGeNet	
+ALB	C0206624	Hepatoblastoma	DisGeNet	
+ALB	C0333186	Restenosis	DisGeNet	
+ALB	C0011389	Plaque, Atherosclerotic	DisGeNet	
+ALB	C0002793	Anaplasia	DisGeNet	
+ALB	C2316810	Stage 5 chronic kidney disease	DisGeNet	
+ALB	C0338106	Adenocarcinoma of colon	DisGeNet	
+ALB	C0205851	Germ cell neoplasia	DisGeNet	
+ALB	C0040034	Thrombocytopenia, platelet dysfunction, hemolysis, and imbalanced globin synthesis	DisGeNet	
+ALB	C0036202	Sarcoidosis	DisGeNet	
+ALB	C0333463	Senile plaques	DisGeNet	
+ALB	C0085584	Encephalopathy, acute, infection-induced, 4, susceptibility to	DisGeNet	
+ALB	C0008312	Primary biliary cirrhosis	DisGeNet	
+ALB	C0027726	Nephrotic syndrome, type 5, with or without ocular abnormalities	DisGeNet	
+ALB	C0442874	Neuropathy ataxia retinitis pigmentosa syndrome	DisGeNet	
+ALB	C0017658	Glomerulonephritis, Membranous	DisGeNet	
+ALB	C0011884	Diabetic Retinopathy	DisGeNet	
+ALB	C0022660	Acute kidney injury	DisGeNet	
+ALB	C0524909	Hepatitis B, Chronic	DisGeNet	
+ALB	C4023679	Abnormality of circulating protein level	HumPhenOnt	
+ALB	C0030305	Pancreatitis	DisGeNet	
+ALB	C0020473	Hyperlipidemia, combined, 1	DisGeNet,HumPhenOnt	
+ALB	C0005826	Abnormal systemic blood pressure	HumPhenOnt	
+ALB	C0011265	Dementia familial British	DisGeNet	
+ALB	C0271650	Glucose intolerance	DisGeNet	
+ALB	C0085580	Essential hypertension	DisGeNet	
+ALB	C0018133	Graft-versus-host disease, susceptibility to	DisGeNet	
+ALB	C0020179	Huntington's chorea	DisGeNet	
+ALB	C0948089	Acute Coronary Syndrome	DisGeNet	
+GRIA1	C0525045	Mood Disorders	DisGeNet	
+GRIA1	C0033975	Psychotic Disorders	DisGeNet	
+ALB	C0031099	Periodontitis	DisGeNet	
+GRIA1	C0149931	Migraine Disorders	DisGeNet	
+ALB	C2674432	Reduced bone mineral density	HumPhenOnt	
+ALB	C0238198	Gastrointestinal stromal tumor	DisGeNet	
+ALB	C1800706	Idiopathic Pulmonary Fibrosis	DisGeNet	
+ALB	C0278488	Carcinoma breast stage IV	DisGeNet	
+ALB	C1561643	Chronic kidney disease	DisGeNet	
+ALB	C0020459	Hyperinsulinemia	DisGeNet	
+ALB	C0035078	Renal Insufficiency, Chronic	DisGeNet	
+ALB	C0015672	Fatigue	DisGeNet,HumPhenOnt	
+GRIA1	C1961099	T-cell acute lymphoblastic leukemias	DisGeNet	
+ALB	C0040128	Thyroid Diseases	DisGeNet	
+ALB	C0019159	Hepatitis	DisGeNet	
+ALB	C0238339	Hereditary pancreatitis	DisGeNet	
+GRIA1	C0015934	Intrauterine growth retardation	DisGeNet	
+GRIA1	C0003469	Anxiety Disorders	DisGeNet	
+ALB	C0018799	Heart Diseases	DisGeNet	
+ALB	C0014072	Experimental Autoimmune Encephalomyelitis	DisGeNet	
+ALB	C0024301	Lymphoma, Follicular	DisGeNet	
+ALB	C4021657	Abnormality of bone mineral density	HumPhenOnt	
+ALB	C0206698	Cholangiocarcinoma	DisGeNet	
+GRIA1	C0041696	Unipolar Depression	DisGeNet	
+ALB	C0042373	Vascular Diseases	DisGeNet	
+ALB	C0007786	Brain Ischemia	DisGeNet	
+ALB	C0239946	Hepatic fibrosis	DisGeNet	
+ALB	C0242383	Age-related macular degeneration 2	DisGeNet	
+ALB	C0015695	Hepatic steatosis	DisGeNet	
+ALB	C0035309	Retinopathy	DisGeNet	
+GRIA1	C0004936	Mental disorders	DisGeNet	
+ALB	C0026848	Myopathy, scapulohumeroperoneal	DisGeNet	
+GRIA1	C0026838	Spasticity, childhood-onset, with hyperglycinemia	DisGeNet	
+ALB	C0524910	Hepatitis C, Chronic	DisGeNet	
+ALB	C0020456	Hyperglycemia	DisGeNet	
+ALB	C1709246	Non-Neoplastic Disorder	DisGeNet	
+ALB	C1512409	Hepatocarcinogenesis	DisGeNet	
+ALB	C4023161	Abnormal bone ossification	HumPhenOnt	
+ALB	C0013595	Eczema	DisGeNet	
+ALB	C0032460	Polycystic Ovary Syndrome	DisGeNet	
+ALB	C0497327	Dementia	DisGeNet	
+ALB	C0151744	Acute myocardial ischemia	DisGeNet	
+GRIA1	C1269683	Major depressive disorder	DisGeNet	
+ALB	C0021400	Influenza	DisGeNet	
+ALB	C0221287	Combined Hepatocellular Carcinoma and Cholangiocarcinoma	DisGeNet	
+GRIA1	C0043094	Increased body weight	DisGeNet	
+ALB	C0019348	Herpes Simplex Infections	DisGeNet	
+ALB	C4025630	Abnormal bone structure	HumPhenOnt	
+ALB	C0008626	Congenital chromosomal disease	DisGeNet	
+ALB	C0085110	Severe combined immunodeficiency due to ADA deficiency	DisGeNet	
+GRIA1	C0011570	{Unipolar depression, susceptibility to}, 608516 (3)	DisGeNet	
+ALB	C0011615	Dermatitis, Atopic	DisGeNet	
+ALB	C0021051	Immunodeficiency due to defect in CD3-gamma	DisGeNet	
+ALB	C0009812	Constitutional symptom	HumPhenOnt	
+ALB	C0023895	Liver Diseases	DisGeNet	
+ALB	C0345904	Hepatic cancer metastatic	DisGeNet	
+ALB	C0011881	Diabetic Nephropathies	DisGeNet	
+ALB	C0022661	Kidney Failure, Chronic	DisGeNet	
+ALB	C0002871	Anemia	DisGeNet	
+ALB	C0030193	Pain	DisGeNet	
+ALB	C0524620	Metabolic Syndrome X	DisGeNet	
+ALB	C0029456	Osteoporosis	HumPhenOnt	
+ALB	C0032002	Abnormality of the pituitary gland	DisGeNet	
+ALB	C0022116	Ischemia	DisGeNet	
+ALB	C0006118	Brain neoplasm	DisGeNet	

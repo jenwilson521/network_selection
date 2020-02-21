@@ -1,0 +1,97 @@
+node_name	node_type	
+DB00142	drug	
+GGCX	drug_target	
+EARS2	drug_target	
+GRIA2	drug_target	
+GRIA3	drug_target	
+GRIA1	drug_target	
+NADSYN1	drug_target	
+GRIA4	drug_target	
+GLUD2	drug_target	
+GLUL	drug_target	
+SLC25A18	drug_target	
+SLC1A2	drug_target	
+GLS	drug_target	
+OPLAH	drug_target	
+GAD2	drug_target	
+TAT	drug_target	
+ENPEP	drug_target	
+GCLM	drug_target	
+ALDH18A1	drug_target	
+GRIK5	drug_target	
+AASS	drug_target	
+GCLC	drug_target	
+GAD1	drug_target	
+GRIN3A	drug_target	
+GRIN3B	drug_target	
+GRM8	drug_target	
+SLC16A10	drug_target	
+GOT2	drug_target	
+EPRS	drug_target	
+GRM7	drug_target	
+GRM1	drug_target	
+GATB	drug_target	
+FOLH1	drug_target	
+DNPEP	drug_target	
+GRID1	drug_target	
+GRID2	drug_target	
+SLC7A11	drug_target	
+BCAT2	drug_target	
+BCAT1	drug_target	
+SLC25A22	drug_target	
+GRM4	drug_target	
+FPGS	drug_target	
+GPT	drug_target	
+GRIN1	drug_target	
+GMPS	drug_target	
+GOT1	drug_target	
+GRIN2B	drug_target	
+GPT2	drug_target	
+SLC16A1	drug_target	
+GRIK1	drug_target	
+GRIK2	drug_target	
+GRIK3	drug_target	
+GRIK4	drug_target	
+ASNS	drug_target	
+GLUD1	drug_target	
+PSAT1	drug_target	
+GRIN2C	drug_target	
+FTCD	drug_target	
+PFAS	drug_target	
+GRIN2D	drug_target	
+GRIN2A	drug_target	
+SLC1A6	drug_target	
+SLC1A7	drug_target	
+SLC1A1	drug_target	
+GLS2	drug_target	
+SLC1A3	drug_target	
+Weight Gain Adverse Event	phenotype	
+Epilepsy, Temporal Lobe	phenotype	
+Bipolar affective disorder	phenotype	
+Increased body weight	phenotype	
+Mental disorders	phenotype	
+Schizophrenia	phenotype	
+Osteochondritis dissecans	phenotype	
+Malformation of cortical development	phenotype	
+Obsessive-compulsive disorder	phenotype	
+Placental Insufficiency	phenotype	
+Alcohol withdrawal syndrome	phenotype	
+Unipolar Depression	phenotype	
+Cocaine delirium	phenotype	
+Autism spectrum disorders	phenotype	
+Epilepsy	phenotype	
+Folic Acid Deficiency	phenotype	
+Spastic	phenotype	
+Major depressive disorder	phenotype	
+Drug Resistant Epilepsy	phenotype	
+Huntington's chorea	phenotype	
+Psychotic Disorders	phenotype	
+{Unipolar depression, susceptibility to}, 608516 (3)	phenotype	
+Cortical dysplasia, complex, with other brain malformations 3	phenotype	
+Stress, Psychological	phenotype	
+Autism 15	phenotype	
+Hypoxia-Ischemia, Brain	phenotype	
+Status epilepticus	phenotype	
+Substance Withdrawal Syndrome	phenotype	
+Chromosome Aberrations	phenotype	
+Alcohol dependence	phenotype	

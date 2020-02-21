@@ -1,0 +1,5 @@
+node_name	node_type	
+DB01275	drug	
+CYP3A4	drug_target	
+P4HA1	drug_target	
+AOC3	drug_target	

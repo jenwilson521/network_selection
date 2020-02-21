@@ -1,0 +1,3 @@
+node1	node2	edge_score	
+DB09395	ACSS2	1.0	
+

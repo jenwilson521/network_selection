@@ -1,0 +1,4 @@
+node_name	node_type	
+DB08904	drug	
+TNF	drug_target	
+AKR1A1	drug_target	

@@ -1,0 +1,8 @@
+node_name	node_type	
+DB00436	drug	
+CA2	drug_target	
+CA1	drug_target	
+TPMT	drug_target	
+KCNMA1	drug_target	
+CA4	drug_target	
+SLC12A3	drug_target	

@@ -1,0 +1,62 @@
+node_name	node_type	
+DB08910	drug	
+PTGS2	drug_target	
+CYP1A2	drug_target	
+ABCB1	drug_target	
+TNF	drug_target	
+CYP3A4	drug_target	
+CRBN	drug_target	
+Acute postoperative pain	phenotype	
+Femur Head Necrosis	phenotype	
+Postoperative Complications	phenotype	
+Acute hepatic failure	phenotype	
+Drug Allergy	phenotype	
+Chronic schizophrenia	phenotype	
+Lichen Planus, Oral	phenotype	
+Gastric Cardia Adenocarcinoma	phenotype	
+Stomach Diseases	phenotype	
+Chronic Fatigue Syndrome	phenotype	
+Coronary Restenosis	phenotype	
+Endometrial Neoplasms	phenotype	
+Neoplasm of the larynx	phenotype	
+Pain insensitivity	phenotype	
+Helicobacter Infections	phenotype	
+Nausea	phenotype	
+Malignant Fibrous Histiocytoma	phenotype	
+Oral Submucous Fibrosis	phenotype	
+Sarcoidosis, Pulmonary	phenotype	
+Adverse drug events and drug allergies	phenotype	
+Peripheral T-Cell Lymphoma	phenotype	
+Pharyngeal Neoplasms	phenotype	
+Tardive Dyskinesia	phenotype	
+Colorectal polyposis	phenotype	
+Acute Coronary Syndrome	phenotype	
+Primary malignant neoplasm of liver	phenotype	
+Neoplasm of the oral cavity	phenotype	
+Dyslipidemias	phenotype	
+Achalasia	phenotype	
+Viral hepatitis	phenotype	
+Orofacial dyskinesia	phenotype	
+Philadelphia chromosome positive chronic myelogenous leukemia	phenotype	
+Steroid-sensitive nephrotic syndrome	phenotype	
+Chronic liver disease	phenotype	
+Complications of Diabetes Mellitus	phenotype	
+Typhoid Fever	phenotype	
+Lung Injury	phenotype	
+Fulminant hepatitis	phenotype	
+Early gastric cancer	phenotype	
+Malignant neoplasm of vulva	phenotype	
+Malaria, Falciparum	phenotype	
+Chronic gastritis	phenotype	
+Spondylarthropathies	phenotype	
+Chromosomal translocation	phenotype	
+Squamous Cell Neoplasms	phenotype	
+Neonatal respiratory distress	phenotype	
+Duodenal Ulcer	phenotype	
+M5b Acute differentiated monocytic leukemia	phenotype	
+Oral aphthae	phenotype	
+Aortic valve calcification	phenotype	
+Malignant tumor of testis	phenotype	
+Chronic leukemia	phenotype	
+Neoplasm of the thymus	phenotype	
+Thrombosis	phenotype	

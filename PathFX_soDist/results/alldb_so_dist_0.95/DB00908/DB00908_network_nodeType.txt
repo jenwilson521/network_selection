@@ -1,0 +1,33 @@
+node_name	node_type	
+DB00908	drug	
+SLCO1B1	drug_target	
+CYP2D6	drug_target	
+CYP2B6	drug_target	
+KCNK1	drug_target	
+ABCB1	drug_target	
+ADRA1A	drug_target	
+CYP1A1	drug_target	
+ABCB11	drug_target	
+SLCO1A2	drug_target	
+CYP3A4	drug_target	
+ORM1	drug_target	
+CYP2C9	drug_target	
+CYP2C8	drug_target	
+CYP1A2	drug_target	
+ADRA1B	drug_target	
+ADRA1D	drug_target	
+KCNH2	drug_target	
+CYP2E1	drug_target	
+SLC22A4	drug_target	
+SLC22A5	drug_target	
+SLC22A1	drug_target	
+SLC22A2	drug_target	
+SCN5A	drug_target	
+SLC22A8	drug_target	
+ABCC2	drug_target	
+Adverse drug events and drug allergies	phenotype	
+Congenital long QT syndrome	phenotype	
+Drug Allergy	phenotype	
+Neoplasm of the larynx	phenotype	
+Gastroparesis	phenotype	
+Chronic schizophrenia	phenotype	

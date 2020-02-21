@@ -1,0 +1,53 @@
+node_name	node_type	
+DB08910	drug	
+PTGS2	drug_target	
+CYP1A2	drug_target	
+ABCB1	drug_target	
+TNF	drug_target	
+CYP3A4	drug_target	
+CRBN	drug_target	
+Acute postoperative pain	phenotype	
+Femur Head Necrosis	phenotype	
+Postoperative Complications	phenotype	
+Acute hepatic failure	phenotype	
+Chronic schizophrenia	phenotype	
+Drug Allergy	phenotype	
+Lichen Planus, Oral	phenotype	
+Gastric Cardia Adenocarcinoma	phenotype	
+Malaria, Falciparum	phenotype	
+Stomach Diseases	phenotype	
+Varicose Ulcer	phenotype	
+Chronic Fatigue Syndrome	phenotype	
+Coronary Restenosis	phenotype	
+Neoplasm of the larynx	phenotype	
+Endometrial Neoplasms	phenotype	
+Pain insensitivity	phenotype	
+Helicobacter Infections	phenotype	
+Nausea	phenotype	
+Malignant Fibrous Histiocytoma	phenotype	
+Oral Submucous Fibrosis	phenotype	
+Shigella Infections	phenotype	
+Sarcoidosis, Pulmonary	phenotype	
+Adverse drug events and drug allergies	phenotype	
+Peripheral T-Cell Lymphoma	phenotype	
+Meningococcal Infections	phenotype	
+Vitreoretinopathy, neovascular inflammatory, 193235 (3)	phenotype	
+Pharyngeal Neoplasms	phenotype	
+Tardive Dyskinesia	phenotype	
+Colorectal polyposis	phenotype	
+Acute Coronary Syndrome	phenotype	
+Primary malignant neoplasm of liver	phenotype	
+Achalasia	phenotype	
+Neoplasm of the oral cavity	phenotype	
+Dyslipidemias	phenotype	
+Viral hepatitis	phenotype	
+Orofacial dyskinesia	phenotype	
+Philadelphia chromosome positive chronic myelogenous leukemia	phenotype	
+Steroid-sensitive nephrotic syndrome	phenotype	
+Chronic liver disease	phenotype	
+Complications of Diabetes Mellitus	phenotype	
+Typhoid Fever	phenotype	
+Lung Injury	phenotype	
+Fulminant hepatitis	phenotype	
+Early gastric cancer	phenotype	
+Malignant neoplasm of vulva	phenotype	

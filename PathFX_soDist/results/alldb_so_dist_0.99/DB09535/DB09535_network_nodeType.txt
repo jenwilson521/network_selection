@@ -1,0 +1,4 @@
+node_name	node_type	
+DB09535	drug	
+ESR2	drug_target	
+ESR1	drug_target	

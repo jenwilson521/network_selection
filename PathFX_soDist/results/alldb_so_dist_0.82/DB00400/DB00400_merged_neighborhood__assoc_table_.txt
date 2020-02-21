@@ -1,0 +1,2 @@
+rank	phenotype	cui	assoc in neigh	assoc in intom	probability	Benjamini-Hochberg	genes	
+14	Chronic schizophrenia	C0221765	3	36	7.786335700421532e-06	2.93501048218e-05	CYP1A2,CYP2D6,CYP3A4

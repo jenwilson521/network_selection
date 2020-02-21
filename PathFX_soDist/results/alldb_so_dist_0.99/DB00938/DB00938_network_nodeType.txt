@@ -1,0 +1,8 @@
+node_name	node_type	
+DB00938	drug	
+CYP2C8	drug_target	
+ADRB1	drug_target	
+ADRB2	drug_target	
+ADRB3	drug_target	
+CYP3A4	drug_target	
+CYP3A5	drug_target	

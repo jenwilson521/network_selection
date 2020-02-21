@@ -1,0 +1,6 @@
+rank	phenotype	cui	assoc in neigh	assoc in intom	probability	Benjamini-Hochberg	genes	
+3	Hyperuricemia, pulmonary hypertension, renal failure, and alkalosis	C0740394	3	69	3.5488039784592473e-07	9.40438871473e-06	ABCG2,SLC22A2,XDH
+15	Hearing Loss, Partial	C0018772	3	150	7.944512959934258e-06	4.70219435737e-05	ABCG2,AOX1,XDH
+17	Intrahepatic cholestasis	C0008372	2	60	1.8895675306218607e-05	5.32915360502e-05	ABCG2,SLC22A2
+32	Deafness, autosomal recessive 44	C0011053	3	257	6.55338547260742e-05	0.000100313479624	ABCG2,AOX1,XDH
+36	Acute kidney injury	C0022660	3	270	7.93386469308821e-05	0.000112852664577	SLC22A2,SLC22A8,XDH

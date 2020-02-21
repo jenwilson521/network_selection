@@ -1,0 +1,8 @@
+node_name	node_type	
+DB00022	drug	
+IFNAR2	drug_target	
+CYP2C9	drug_target	
+CYP1A2	drug_target	
+IFNAR1	drug_target	
+CYP2D6	drug_target	
+Nausea	phenotype	

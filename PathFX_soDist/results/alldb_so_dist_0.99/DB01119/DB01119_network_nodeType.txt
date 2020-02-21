@@ -1,0 +1,9 @@
+node_name	node_type	
+DB01119	drug	
+KCNJ11	drug_target	
+SLC12A3	drug_target	
+CA2	drug_target	
+CA1	drug_target	
+KCNMA1	drug_target	
+GLUL	drug_target	
+ATP1A1	drug_target	

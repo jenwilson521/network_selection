@@ -1,0 +1,83 @@
+Gene	CUI	Source Databases	
+COMT	C1268717	Mammographic breast density	DisGeNet	
+TXNRD2	C1268717	Mammographic breast density	DisGeNet	
+COMT	C0086132	Depressive Symptoms	DisGeNet	
+TXNRD2	C0086132	Depressive Symptoms	DisGeNet	
+COMT	C0020550	Hyperthyroidism	HumPhenOnt	
+TXNRD2	C0020550	Hyperthyroidism	DisGeNet	
+COMT	C1847835	VITILIGO-ASSOCIATED MULTIPLE AUTOIMMUNE DISEASE SUSCEPTIBILITY 1 (finding)	DisGeNet	
+TXNRD2	C1847835	VITILIGO-ASSOCIATED MULTIPLE AUTOIMMUNE DISEASE SUSCEPTIBILITY 1 (finding)	DisGeNet	
+COMT	C0016382	Flushing	DisGeNet	
+COMT	C0036508	Seborrheic dermatitis	HumPhenOnt	
+COMT	C0043207	WFS1-Related Disorders	DisGeNet	
+COMT	C0078982	Arrhinencephaly	HumPhenOnt	
+TXNRD2	C2745963	Kashin-Beck Disease	DisGeNet	
+TXNRD2	C2940786	Thyroid hormone receptor defect	DisGeNet	
+COMT	C0032229	Pleural Neoplasms	DisGeNet	
+COMT	C0036396	Chronic sciatica	DisGeNet	
+COMT	C0685891	Hypoplasia of the thymus	HumPhenOnt	
+COMT	C0751362	Narcolepsy-Cataplexy Syndrome	DisGeNet	
+COMT	C0004930	Behavior Disorders	DisGeNet	
+COMT	C0006370	Bulimia	DisGeNet	
+COMT	C0030044	Oxycephaly	HumPhenOnt	
+COMT	C4023796	Aplasia/Hypoplasia of the thymus	HumPhenOnt	
+COMT	C0015732	Bowel incontinence	HumPhenOnt	
+COMT	C0685695	Abnormal lung lobation	HumPhenOnt	
+COMT	C1456784	Paranoia	DisGeNet	
+COMT	C0270549	Generalized anxiety disorder	DisGeNet	
+COMT	C0038586	Substance Use Disorders	DisGeNet	
+COMT	C0085632	Apathy	DisGeNet	
+COMT	C0236663	Alcohol withdrawal syndrome	DisGeNet	
+COMT	C1837731	Overfolded helix	HumPhenOnt	
+COMT	C1838244	Distal myopathy Markesbery-Griggs type	DisGeNet	
+COMT	C0041206	Truncus arteriosus	HumPhenOnt	
+COMT	C4022766	Abnormal large intestine physiology	HumPhenOnt	
+COMT	C0007286	Carpal tunnel syndrome	DisGeNet	
+COMT	C1135812	Patellar dislocation	HumPhenOnt	
+COMT	C0042485	Venous insufficiency	HumPhenOnt	
+COMT	C0085159	Seasonal Affective Disorder	DisGeNet	
+COMT	C0036349	Paranoid Schizophrenia	DisGeNet	
+COMT	C0220603	childhood brain tumor	DisGeNet	
+COMT	C1851792	Aplasia/Hypoplasia of the earlobes	HumPhenOnt	
+COMT	C1970777	Abnormally folded helix	HumPhenOnt	
+COMT	C0221765	Chronic schizophrenia	DisGeNet	
+COMT	C0431718	Multiple renal cysts	HumPhenOnt	
+COMT	C0030201	Acute postoperative pain	DisGeNet	
+COMT	C0233401	Psychiatric symptom	DisGeNet	
+COMT	C0919532	Genomic Instability	DisGeNet	
+COMT	C0973461	Dysphasia	HumPhenOnt	
+COMT	C1860475	Retinal vascular tortuosity	HumPhenOnt	
+COMT	C0031212	Personality disorder	DisGeNet	
+TXNRD2	C1802398	Chromosome 5, trisomy 5q	DisGeNet	
+COMT	C0264303	Laryngomalacia	HumPhenOnt	
+COMT	C2267227	Bulimia nervosa 1	DisGeNet	
+COMT	C0262650	Abnormality of the thymus	HumPhenOnt	
+COMT	C0524662	Opiate Addiction	DisGeNet	
+COMT	C0546967	Posterior embryotoxon	HumPhenOnt	
+COMT	C0858970	Carcinogenicity	DisGeNet	
+COMT	C4021856	Abnormality of the line of Schwalbe	HumPhenOnt	
+COMT	C4023166	Abnormality of T cell physiology	HumPhenOnt	
+COMT	C0042900	Vitiligo	DisGeNet	
+TXNRD2	C0042900	Vitiligo	DisGeNet	
+COMT	C0011253	Delusions	DisGeNet	
+COMT	C0024031	Low back pain	DisGeNet	
+COMT	C0085109	Corneal neovascularization	HumPhenOnt	
+COMT	C4021802	Abnormality of retinal arteries	HumPhenOnt	
+COMT	C0747102	Ovarian Insufficiency	DisGeNet	
+COMT	C0025299	Meningocele	HumPhenOnt	
+COMT	C0150055	Chronic pain	DisGeNet	
+COMT	C0233523	Antisocial/borderline personality disorder	DisGeNet	
+COMT	C0694563	Excessive daytime sleepiness	DisGeNet	
+COMT	C0740858	Substance abuse problem	DisGeNet	
+COMT	C1855752	Abnormality of T cells	HumPhenOnt	
+COMT	C3163801	Abnormality of the aortic arch	HumPhenOnt	
+COMT	C0242510	Drug usage	DisGeNet	
+COMT	C0564408	Manic	DisGeNet	
+COMT	C0015674	Chronic Fatigue Syndrome	DisGeNet	
+COMT	C2911645	Weight Loss Adverse Event	DisGeNet	
+COMT	C0149654	Conduct Disorder	DisGeNet	
+COMT	C0016053	Fibromyalgia	DisGeNet	
+COMT	C0013386	Dyskinesia, Drug-Induced	DisGeNet	
+COMT	C0035258	Restless Legs Syndrome	DisGeNet	
+COMT	C0085602	Polydipsia	DisGeNet	
+COMT	C4073244	Abnormality of head blood vessel	HumPhenOnt	

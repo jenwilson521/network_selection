@@ -1,0 +1,667 @@
+node1	node2	edge_score	
+DB00573	PTGS2	1.0	
+DB00573	PTGS1	1.0	
+DB00573	ALB	1.0	
+DB00573	PPARG	1.0	
+DB00573	PPARA	1.0	
+PTGS2	rs12042763	0.99
+PTGS2	rs20417	0.99
+PPARA	rs4823613	0.99
+ALB		1.0
+PTGS2	rs5275	0.99
+PTGS1	rs1330344	0.99
+PPARG		1.0
+PTGS1	rs10306135	0.99
+PTGS2	rs4648287	0.99
+PPARA	rs4253778	0.99
+PPARA	rs9626730	0.99
+PTGS1		1.0
+PPARA	rs135550	0.99
+PPARA		1.0
+PPARA	rs135543	0.99
+PTGS2		1.0
+PPARA	rs4253728	0.99
+PPARA	rs149711321	0.99
+PTGS1	rs10306114	0.99
+Insulin resistance syndrome	ALB	1.0	
+Insulin resistance syndrome	PPARA	1.0	
+Insulin resistance syndrome	PPARG	1.0	
+Reperfusion Injury	ALB	1.0	
+Reperfusion Injury	PPARA	1.0	
+Reperfusion Injury	PPARG	1.0	
+Reperfusion Injury	PTGS1	1.0	
+Reperfusion Injury	PTGS2	1.0	
+Dyspepsia	PPARG	1.0	
+Dyspepsia	PTGS1	1.0	
+Dyspepsia	PTGS2	1.0	
+Acute Coronary Syndrome	ALB	1.0	
+Acute Coronary Syndrome	PPARA	1.0	
+Acute Coronary Syndrome	PPARG	1.0	
+Acute Coronary Syndrome	PTGS1	1.0	
+Acute Coronary Syndrome	PTGS2	1.0	
+Adverse drug events and drug allergies	ALB	1.0	
+Adverse drug events and drug allergies	PPARA	1.0	
+Adverse drug events and drug allergies	PTGS2	1.0	
+Colonic Polyps	PPARG	1.0	
+Colonic Polyps	PTGS1	1.0	
+Colonic Polyps	PTGS2	1.0	
+gliosarcoma	PPARG	1.0	
+gliosarcoma	PTGS1	1.0	
+gliosarcoma	PTGS2	1.0	
+Colorectal polyposis	PPARG	1.0	
+Colorectal polyposis	PTGS1	1.0	
+Colorectal polyposis	PTGS2	1.0	
+Acute Lung Injury	ALB	1.0	
+Acute Lung Injury	PPARG	1.0	
+Acute Lung Injury	PTGS2	1.0	
+Complications of Diabetes Mellitus	ALB	1.0	
+Complications of Diabetes Mellitus	PPARG	1.0	
+Complications of Diabetes Mellitus	PTGS2	1.0	
+Fetal Membranes, Premature Rupture	PPARA	1.0	
+Fetal Membranes, Premature Rupture	PPARG	1.0	
+Fetal Membranes, Premature Rupture	PTGS1	1.0	
+Fetal Membranes, Premature Rupture	PTGS2	1.0	
+Chorioamnionitis	PPARA	1.0	
+Chorioamnionitis	PPARG	1.0	
+Chorioamnionitis	PTGS1	1.0	
+Chorioamnionitis	PTGS2	1.0	
+Drug-Induced Liver Injury	ALB	1.0	
+Drug-Induced Liver Injury	PPARA	1.0	
+Drug-Induced Liver Injury	PPARG	1.0	
+Drug-Induced Liver Injury	PTGS2	1.0	
+Experimental Autoimmune Encephalomyelitis	ALB	1.0	
+Experimental Autoimmune Encephalomyelitis	PPARA	1.0	
+Experimental Autoimmune Encephalomyelitis	PPARG	1.0	
+Experimental Autoimmune Encephalomyelitis	PTGS1	1.0	
+Experimental Autoimmune Encephalomyelitis	PTGS2	1.0	
+Premature Obstetric Labor	PPARA	1.0	
+Premature Obstetric Labor	PPARG	1.0	
+Premature Obstetric Labor	PTGS1	1.0	
+Premature Obstetric Labor	PTGS2	1.0	
+Brain Ischemia	ALB	1.0	
+Brain Ischemia	PPARA	1.0	
+Brain Ischemia	PPARG	1.0	
+Brain Ischemia	PTGS1	1.0	
+Brain Ischemia	PTGS2	1.0	
+Liver regeneration disorder	ALB	1.0	
+Liver regeneration disorder	PPARA	1.0	
+Liver regeneration disorder	PPARG	1.0	
+Type 1 diabetic neuropathy	ALB	1.0	
+Type 1 diabetic neuropathy	PPARG	1.0	
+Type 1 diabetic neuropathy	PTGS2	1.0	
+Thyroid associated opthalmopathies	PPARA	1.0	
+Thyroid associated opthalmopathies	PPARG	1.0	
+Thyroid associated opthalmopathies	PTGS2	1.0	
+Hyperlipidemia, familial combined	ALB	1.0	
+Hyperlipidemia, familial combined	PPARA	1.0	
+Hyperlipidemia, familial combined	PPARG	1.0	
+Echinococcosis	ALB	1.0	
+Echinococcosis	PTGS1	1.0	
+Proliferative retinopathy	ALB	1.0	
+Proliferative retinopathy	PPARG	1.0	
+gastritis h pylori	PTGS1	1.0	
+gastritis h pylori	PTGS2	1.0	
+Helicobacter Infections	PPARG	1.0	
+Helicobacter Infections	PTGS1	1.0	
+Helicobacter Infections	PTGS2	1.0	
+Acute kidney injury	ALB	1.0	
+Acute kidney injury	PPARA	1.0	
+Acute kidney injury	PPARG	1.0	
+Acute kidney injury	PTGS2	1.0	
+Creutzfeldt-Jakob Disease, Sporadic	PTGS1	1.0	
+Creutzfeldt-Jakob Disease, Sporadic	PTGS2	1.0	
+Ovarian cyst	PPARG	1.0	
+Ovarian cyst	PTGS1	1.0	
+Ovarian cyst	PTGS2	1.0	
+Knee osteoarthritis	PPARA	1.0	
+Knee osteoarthritis	PPARG	1.0	
+Knee osteoarthritis	PTGS2	1.0	
+Anterior myocardial infarction	PPARG	1.0	
+Anterior myocardial infarction	PTGS2	1.0	
+Peptic ulcer	PPARG	1.0	
+Peptic ulcer	PTGS1	1.0	
+Peptic ulcer	PTGS2	1.0	
+keratoacanthoma	PTGS1	1.0	
+keratoacanthoma	PTGS2	1.0	
+Pericardial effusion	ALB	1.0	
+Pericardial effusion	PTGS2	1.0	
+Hyperlipidemia, combined, 1	ALB	1.0	
+Hyperlipidemia, combined, 1	PPARA	1.0	
+Hyperlipidemia, combined, 1	PPARG	1.0	
+Hyperlipidemia, combined, 1	PTGS1	1.0	
+Rhinitis, Allergic, Perennial	ALB	1.0	
+Rhinitis, Allergic, Perennial	PTGS2	1.0	
+Acute hepatic failure	ALB	1.0	
+Acute hepatic failure	PPARA	1.0	
+Acute hepatic failure	PTGS2	1.0	
+Rotavirus Infections	PTGS1	1.0	
+Rotavirus Infections	PTGS2	1.0	
+Bronchogenic Carcinoma	ALB	1.0	
+Bronchogenic Carcinoma	PTGS2	1.0	
+Periodontitis	ALB	1.0	
+Periodontitis	PPARA	1.0	
+Periodontitis	PPARG	1.0	
+Periodontitis	PTGS2	1.0	
+Anaphylactic shock NOS	PTGS1	1.0	
+Anaphylactic shock NOS	PTGS2	1.0	
+Hyperlipoproteinemia	ALB	1.0	
+Hyperlipoproteinemia	PPARA	1.0	
+Ischemic Cerebrovascular Accident	PPARA	1.0	
+Ischemic Cerebrovascular Accident	PPARG	1.0	
+Ischemic Cerebrovascular Accident	PTGS1	1.0	
+Ischemic Cerebrovascular Accident	PTGS2	1.0	
+Stomach Diseases	PTGS1	1.0	
+Stomach Diseases	PTGS2	1.0	
+Monocytic leukemia	PPARG	1.0	
+Monocytic leukemia	PTGS2	1.0	
+Hypertriglyceridemia result	PPARA	1.0	
+Hypertriglyceridemia result	PPARG	1.0	
+Diabetic Nephropathies	ALB	1.0	
+Diabetic Nephropathies	PPARA	1.0	
+Diabetic Nephropathies	PPARG	1.0	
+Diabetic Nephropathies	PTGS1	1.0	
+Diabetic Nephropathies	PTGS2	1.0	
+Kidney Failure, Chronic	ALB	1.0	
+Kidney Failure, Chronic	PPARA	1.0	
+Kidney Failure, Chronic	PPARG	1.0	
+Kidney Failure, Chronic	PTGS1	1.0	
+Kidney Failure, Chronic	PTGS2	1.0	
+Pediatric Obesity	PPARA	1.0	
+Pediatric Obesity	PPARG	1.0	
+Thrombosis	PPARA	1.0	
+Thrombosis	PTGS1	1.0	
+Thrombosis	PTGS2	1.0	
+Drusen	ALB	1.0	
+Drusen	PTGS2	1.0	
+Metabolic Syndrome X	ALB	1.0	
+Metabolic Syndrome X	PPARA	1.0	
+Metabolic Syndrome X	PPARG	1.0	
+Metabolic Syndrome X	PTGS1	1.0	
+Metabolic Syndrome X	PTGS2	1.0	
+Adenocarcinoma of prostate	PPARA	1.0	
+Adenocarcinoma of prostate	PPARG	1.0	
+Adenocarcinoma of prostate	PTGS2	1.0	
+Renovascular hypertension	PTGS1	1.0	
+Renovascular hypertension	PTGS2	1.0	
+Albuminuria	ALB	1.0	
+Albuminuria	PPARG	1.0	
+Albuminuria	PTGS2	1.0	
+Lipoatrophy	ALB	1.0	
+Lipoatrophy	PPARA	1.0	
+Lipoatrophy	PPARG	1.0	
+Coronary Restenosis	PPARA	1.0	
+Coronary Restenosis	PPARG	1.0	
+Neuritis	PTGS1	1.0	
+Neuritis	PTGS2	1.0	
+Preeclampsia/eclampsia 1	PPARA	1.0	
+Preeclampsia/eclampsia 1	PPARG	1.0	
+Preeclampsia/eclampsia 1	PTGS1	1.0	
+Preeclampsia/eclampsia 1	PTGS2	1.0	
+Premature Birth	PPARA	1.0	
+Premature Birth	PPARG	1.0	
+Premature Birth	PTGS1	1.0	
+Premature Birth	PTGS2	1.0	
+Cervical Adenocarcinoma	PTGS1	1.0	
+Cervical Adenocarcinoma	PTGS2	1.0	
+Eclampsia	PPARG	1.0	
+Eclampsia	PTGS1	1.0	
+Eclampsia	PTGS2	1.0	
+Medullary carcinoma	PTGS1	1.0	
+Medullary carcinoma	PTGS2	1.0	
+Ischemic stroke	PPARA	1.0	
+Ischemic stroke	PPARG	1.0	
+Ischemic stroke	PTGS1	1.0	
+Ischemic stroke	PTGS2	1.0	
+Fibrosis	ALB	1.0	
+Fibrosis	PPARG	1.0	
+Fibrosis	PTGS2	1.0	
+Sarcoidosis, Pulmonary	PPARG	1.0	
+Sarcoidosis, Pulmonary	PTGS2	1.0	
+Myocardial Reperfusion Injury	ALB	1.0	
+Myocardial Reperfusion Injury	PPARA	1.0	
+Myocardial Reperfusion Injury	PTGS2	1.0	
+Esophagitis	PTGS1	1.0	
+Esophagitis	PTGS2	1.0	
+Idiopathic Inflammatory Myopathies	PTGS1	1.0	
+Idiopathic Inflammatory Myopathies	PTGS2	1.0	
+Cytochrome-c oxidase deficiency	PTGS1	1.0	
+Cytochrome-c oxidase deficiency	PTGS2	1.0	
+Hepatic steatosis	ALB	1.0	
+Hepatic steatosis	PPARA	1.0	
+Hepatic steatosis	PPARG	1.0	
+Hepatic steatosis	PTGS2	1.0	
+Arthritis, Psoriatic	PPARG	1.0	
+Arthritis, Psoriatic	PTGS1	1.0	
+Arthritis, Psoriatic	PTGS2	1.0	
+Thyroid Nodule	PPARG	1.0	
+Thyroid Nodule	PTGS2	1.0	
+Coronary heart disease 7	ALB	1.0	
+Coronary heart disease 7	PPARA	1.0	
+Coronary heart disease 7	PPARG	1.0	
+Coronary heart disease 7	PTGS1	1.0	
+Coronary heart disease 7	PTGS2	1.0	
+Aqueous Humor Disorders	PPARG	1.0	
+Aqueous Humor Disorders	PTGS2	1.0	
+Proteinuria, low molecular weight, with hypercalciuria and nephrocalcinosis	ALB	1.0	
+Proteinuria, low molecular weight, with hypercalciuria and nephrocalcinosis	PPARA	1.0	
+Proteinuria, low molecular weight, with hypercalciuria and nephrocalcinosis	PTGS2	1.0	
+Maternal diabetes	ALB	1.0	
+Maternal diabetes	PPARA	1.0	
+Maternal diabetes	PPARG	1.0	
+Microalbuminuria	ALB	1.0	
+Microalbuminuria	PPARA	1.0	
+Hypercholesterolemia, autosomal dominant, type B	ALB	1.0	
+Hypercholesterolemia, autosomal dominant, type B	PPARA	1.0	
+Hypercholesterolemia, autosomal dominant, type B	PPARG	1.0	
+Myopathy, scapulohumeroperoneal	ALB	1.0	
+Myopathy, scapulohumeroperoneal	PPARA	1.0	
+Myopathy, scapulohumeroperoneal	PPARG	1.0	
+Myopathy, scapulohumeroperoneal	PTGS2	1.0	
+Cystic Fibrosis	PPARA	1.0	
+Cystic Fibrosis	PPARG	1.0	
+Cystic Fibrosis	PTGS1	1.0	
+Cystic Fibrosis	PTGS2	1.0	
+Endothelial dysfunction	PPARG	1.0	
+Endothelial dysfunction	PTGS1	1.0	
+Endothelial dysfunction	PTGS2	1.0	
+Chest pain	ALB	1.0	
+Chest pain	PPARG	1.0	
+Arrhythmogenic right ventricular cardiomyopathy, type 11	PPARA	1.0	
+Arrhythmogenic right ventricular cardiomyopathy, type 11	PPARG	1.0	
+Overweight	PPARA	1.0	
+Overweight	PPARG	1.0	
+Overweight	PTGS2	1.0	
+Hyperglycemia	ALB	1.0	
+Hyperglycemia	PPARA	1.0	
+Hyperglycemia	PPARG	1.0	
+Hyperglycemia	PTGS2	1.0	
+Ventricular Dysfunction, Right	PPARA	1.0	
+Ventricular Dysfunction, Right	PPARG	1.0	
+Peutz-Jeghers syndrome	PTGS1	1.0	
+Peutz-Jeghers syndrome	PTGS2	1.0	
+Heart Failure	ALB	1.0	
+Heart Failure	PPARA	1.0	
+Heart Failure	PPARG	1.0	
+Heart Failure	PTGS1	1.0	
+Heart Failure	PTGS2	1.0	
+Hepatocarcinogenesis	ALB	1.0	
+Hepatocarcinogenesis	PPARA	1.0	
+Hepatocarcinogenesis	PPARG	1.0	
+Hepatocarcinogenesis	PTGS2	1.0	
+Granulomatosis with Polyangiitis	PPARA	1.0	
+Granulomatosis with Polyangiitis	PPARG	1.0	
+Plaque, Atherosclerotic	ALB	1.0	
+Plaque, Atherosclerotic	PPARG	1.0	
+Plaque, Atherosclerotic	PTGS2	1.0	
+Eczema	ALB	1.0	
+Eczema	PPARA	1.0	
+Eczema	PPARG	1.0	
+Eczema	PTGS2	1.0	
+Dyslipidemias	PPARA	1.0	
+Dyslipidemias	PPARG	1.0	
+Dyslipidemias	PTGS2	1.0	
+Dementia	ALB	1.0	
+Dementia	PPARA	1.0	
+Dementia	PPARG	1.0	
+Dementia	PTGS2	1.0	
+Dermatosis NOS	PPARA	1.0	
+Dermatosis NOS	PPARG	1.0	
+Dermatosis NOS	PTGS1	1.0	
+Dermatosis NOS	PTGS2	1.0	
+Pulmonary edema	ALB	1.0	
+Pulmonary edema	PTGS2	1.0	
+Salivary gland neoplasm	PPARG	1.0	
+Salivary gland neoplasm	PTGS2	1.0	
+Gastritis	PPARG	1.0	
+Gastritis	PTGS1	1.0	
+Gastritis	PTGS2	1.0	
+Ulcerative colitis	ALB	1.0	
+Ulcerative colitis	PPARA	1.0	
+Ulcerative colitis	PPARG	1.0	
+Ulcerative colitis	PTGS1	1.0	
+Ulcerative colitis	PTGS2	1.0	
+Duodenal Ulcer	PTGS1	1.0	
+Duodenal Ulcer	PTGS2	1.0	
+M5b Acute differentiated monocytic leukemia	PPARG	1.0	
+M5b Acute differentiated monocytic leukemia	PTGS2	1.0	
+Adenocarcinoma of colon	ALB	1.0	
+Adenocarcinoma of colon	PPARG	1.0	
+Adenocarcinoma of colon	PTGS2	1.0	
+Influenza	ALB	1.0	
+Influenza	PPARG	1.0	
+Influenza	PTGS1	1.0	
+Influenza	PTGS2	1.0	
+Combined Hepatocellular Carcinoma and Cholangiocarcinoma	ALB	1.0	
+Combined Hepatocellular Carcinoma and Cholangiocarcinoma	PPARA	1.0	
+Combined Hepatocellular Carcinoma and Cholangiocarcinoma	PPARG	1.0	
+Combined Hepatocellular Carcinoma and Cholangiocarcinoma	PTGS2	1.0	
+IMMUNE SUPPRESSION	ALB	1.0	
+IMMUNE SUPPRESSION	PTGS2	1.0	
+Coronary artery stenosis	PPARA	1.0	
+Coronary artery stenosis	PPARG	1.0	
+Undifferentiated carcinoma	PPARG	1.0	
+Undifferentiated carcinoma	PTGS2	1.0	
+Adult type dermatomyositis	PTGS1	1.0	
+Adult type dermatomyositis	PTGS2	1.0	
+Intestinal polyp	PTGS1	1.0	
+Intestinal polyp	PTGS2	1.0	
+Malignant gastrointestinal tract tumors	PPARG	1.0	
+Malignant gastrointestinal tract tumors	PTGS1	1.0	
+Malignant gastrointestinal tract tumors	PTGS2	1.0	
+Cholecystolithiasis	PPARG	1.0	
+Cholecystolithiasis	PTGS2	1.0	
+Sarcoidosis	ALB	1.0	
+Sarcoidosis	PPARG	1.0	
+Sarcoidosis	PTGS2	1.0	
+Adenoma of large intestine	PPARG	1.0	
+Adenoma of large intestine	PTGS1	1.0	
+Adenoma of large intestine	PTGS2	1.0	
+Diabetic Angiopathies	ALB	1.0	
+Diabetic Angiopathies	PPARG	1.0	
+Senile plaques	ALB	1.0	
+Senile plaques	PPARG	1.0	
+Senile plaques	PTGS2	1.0	
+Thyroid adenoma	PPARG	1.0	
+Thyroid adenoma	PTGS2	1.0	
+Primary biliary cirrhosis	ALB	1.0	
+Primary biliary cirrhosis	PPARG	1.0	
+Primary biliary cirrhosis	PTGS2	1.0	
+Actinic keratosis	PPARA	1.0	
+Actinic keratosis	PTGS2	1.0	
+Urinary tract infection	PTGS1	1.0	
+Urinary tract infection	PTGS2	1.0	
+Glomerulonephritis, Membranous	ALB	1.0	
+Glomerulonephritis, Membranous	PPARA	1.0	
+Glomerulonephritis, Membranous	PPARG	1.0	
+Diabetic Retinopathy	ALB	1.0	
+Diabetic Retinopathy	PPARG	1.0	
+Diabetic Retinopathy	PTGS2	1.0	
+Follicular adenoma	PPARG	1.0	
+Follicular adenoma	PTGS2	1.0	
+airway disease	PPARA	1.0	
+airway disease	PTGS2	1.0	
+Hepatitis B, Chronic	ALB	1.0	
+Hepatitis B, Chronic	PPARG	1.0	
+Hepatitis B, Chronic	PTGS2	1.0	
+Creutzfeldt-Jakob Syndrome	PTGS1	1.0	
+Creutzfeldt-Jakob Syndrome	PTGS2	1.0	
+Left ventricular hypertrophy	PPARA	1.0	
+Left ventricular hypertrophy	PPARG	1.0	
+Left ventricular hypertrophy	PTGS2	1.0	
+Endotoxemia	PPARG	1.0	
+Endotoxemia	PTGS2	1.0	
+Pancreatitis	ALB	1.0	
+Pancreatitis	PPARG	1.0	
+Pancreatitis	PTGS2	1.0	
+Interstitial fibrosis	ALB	1.0	
+Interstitial fibrosis	PPARG	1.0	
+Hyperplastic Polyp	PTGS1	1.0	
+Hyperplastic Polyp	PTGS2	1.0	
+Hepatopulmonary Syndrome	PPARA	1.0	
+Hepatopulmonary Syndrome	PPARG	1.0	
+Dermatitis, Atopic	ALB	1.0	
+Dermatitis, Atopic	PPARA	1.0	
+Dermatitis, Atopic	PPARG	1.0	
+Dermatitis, Atopic	PTGS2	1.0	
+polyps	PPARG	1.0	
+polyps	PTGS1	1.0	
+polyps	PTGS2	1.0	
+Rectal Carcinoma	PPARG	1.0	
+Rectal Carcinoma	PTGS1	1.0	
+Rectal Carcinoma	PTGS2	1.0	
+Polymyositis	PTGS1	1.0	
+Polymyositis	PTGS2	1.0	
+Intraocular pressure disorder	PTGS1	1.0	
+Intraocular pressure disorder	PTGS2	1.0	
+Neoplasm of the rectum	PPARG	1.0	
+Neoplasm of the rectum	PTGS2	1.0	
+Helicobacter pylori infection	PPARG	1.0	
+Helicobacter pylori infection	PTGS1	1.0	
+Helicobacter pylori infection	PTGS2	1.0	
+Hamartoma	PTGS1	1.0	
+Hamartoma	PTGS2	1.0	
+Adenocarcinoma Of Esophagus	PPARG	1.0	
+Adenocarcinoma Of Esophagus	PTGS1	1.0	
+Adenocarcinoma Of Esophagus	PTGS2	1.0	
+Dementia familial British	ALB	1.0	
+Dementia familial British	PPARG	1.0	
+Dementia familial British	PTGS2	1.0	
+Vascular neoplasm	PPARA	1.0	
+Vascular neoplasm	PPARG	1.0	
+Glucose intolerance	ALB	1.0	
+Glucose intolerance	PPARA	1.0	
+Glucose intolerance	PPARG	1.0	
+Skin Carcinogenesis	PPARG	1.0	
+Skin Carcinogenesis	PTGS2	1.0	
+Dermatitis, Allergic Contact	PPARA	1.0	
+Dermatitis, Allergic Contact	PPARG	1.0	
+Maturity-onset diabetes of the young, type 11	ALB	1.0	
+Maturity-onset diabetes of the young, type 11	PPARA	1.0	
+Hepatic cancer metastatic	ALB	1.0	
+Hepatic cancer metastatic	PPARA	1.0	
+Hepatic cancer metastatic	PPARG	1.0	
+Hepatic cancer metastatic	PTGS2	1.0	
+Dermatomyositis	PTGS1	1.0	
+Dermatomyositis	PTGS2	1.0	
+Peritonitis	PPARG	1.0	
+Peritonitis	PTGS2	1.0	
+Gastric ulcer	PTGS1	1.0	
+Gastric ulcer	PTGS2	1.0	
+Cardiovascular Diseases	ALB	1.0	
+Cardiovascular Diseases	PPARA	1.0	
+Cardiovascular Diseases	PPARG	1.0	
+Cardiovascular Diseases	PTGS1	1.0	
+Cardiovascular Diseases	PTGS2	1.0	
+Huntington's chorea	ALB	1.0	
+Huntington's chorea	PPARG	1.0	
+Huntington's chorea	PTGS2	1.0	
+Pain	ALB	1.0	
+Pain	PPARG	1.0	
+Pain	PTGS1	1.0	
+Pain	PTGS2	1.0	
+Hypertriglyceridemia	PPARA	1.0	
+Hypertriglyceridemia	PPARG	1.0	
+Vascular inflammations	PPARG	1.0	
+Vascular inflammations	PTGS2	1.0	
+Precocious puberty	PPARG	1.0	
+Precocious puberty	PTGS2	1.0	
+Malnutrition	ALB	1.0	
+Malnutrition	PPARG	1.0	
+Inflammation	PPARA	1.0	
+Inflammation	PPARG	1.0	
+Inflammation	PTGS1	1.0	
+Inflammation	PTGS2	1.0	
+Ischemia	ALB	1.0	
+Ischemia	PPARA	1.0	
+Ischemia	PPARG	1.0	
+Ischemia	PTGS2	1.0	
+Arteriosclerosis	ALB	1.0	
+Arteriosclerosis	PPARA	1.0	
+Arteriosclerosis	PPARG	1.0	
+Arteriosclerosis	PTGS1	1.0	
+Arteriosclerosis	PTGS2	1.0	
+Pulmonary hypertension, neonatal, susceptibility to	PPARG	1.0	
+Pulmonary hypertension, neonatal, susceptibility to	PTGS1	1.0	
+Pulmonary hypertension, neonatal, susceptibility to	PTGS2	1.0	
+Urticaria	ALB	1.0	
+Urticaria	PTGS2	1.0	
+Thrombophilia	ALB	1.0	
+Thrombophilia	PPARG	1.0	
+Idiopathic Pulmonary Fibrosis	ALB	1.0	
+Idiopathic Pulmonary Fibrosis	PTGS1	1.0	
+Idiopathic Pulmonary Fibrosis	PTGS2	1.0	
+Chronic kidney disease	ALB	1.0	
+Chronic kidney disease	PPARG	1.0	
+Chronic kidney disease	PTGS1	1.0	
+Obesity, severe, 601665 (3)	PPARA	1.0	
+Obesity, severe, 601665 (3)	PPARG	1.0	
+Musculoskeletal Diseases	PTGS1	1.0	
+Musculoskeletal Diseases	PTGS2	1.0	
+Pregnancy Complications, Hematologic	PTGS1	1.0	
+Pregnancy Complications, Hematologic	PTGS2	1.0	
+Hyperinsulinemia	ALB	1.0	
+Hyperinsulinemia	PPARA	1.0	
+Hyperinsulinemia	PPARG	1.0	
+Verotoxigenic Escherichia coli gastrointestinal tract infection	ALB	1.0	
+Verotoxigenic Escherichia coli gastrointestinal tract infection	PPARA	1.0	
+Verotoxigenic Escherichia coli gastrointestinal tract infection	PPARG	1.0	
+Verotoxigenic Escherichia coli gastrointestinal tract infection	PTGS1	1.0	
+Verotoxigenic Escherichia coli gastrointestinal tract infection	PTGS2	1.0	
+Myositis	PTGS1	1.0	
+Myositis	PTGS2	1.0	
+Lyme Disease	PTGS1	1.0	
+Lyme Disease	PTGS2	1.0	
+Flushing	PTGS1	1.0	
+Berardinelli-Seip congenital lipodystrophy	PPARG	1.0	
+Pseudomonas aeruginosa infection	PPARG	1.0	
+Mammary Tumorigenesis	PPARG	1.0	
+Mammary Tumorigenesis	PTGS2	1.0	
+Arterial stenosis	PPARG	1.0	
+Arterial stenosis	PTGS2	1.0	
+Chronic liver disease	ALB	1.0	
+Chronic liver disease	PTGS2	1.0	
+Abnormality of adipose tissue	ALB	1.0	
+Abnormality of adipose tissue	PPARG	1.0	
+Placental Insufficiency	PPARG	1.0	
+Malignant neoplasm of adrenal cortex	ALB	1.0	
+Broad foot	PPARG	1.0	
+Abnormality of the calf musculature	PPARG	1.0	
+Hepatitis	ALB	1.0	
+Hepatitis	PTGS1	1.0	
+Hepatitis	PTGS2	1.0	
+Pulmonary Disease, Chronic Obstructive	PPARG	1.0	
+Pulmonary Disease, Chronic Obstructive	PTGS1	1.0	
+Pulmonary Disease, Chronic Obstructive	PTGS2	1.0	
+Arthropathy	PTGS1	1.0	
+Arthropathy	PTGS2	1.0	
+Polycystic kidney disease, autosomal dominant	PTGS1	1.0	
+Polycystic kidney disease, autosomal dominant	PTGS2	1.0	
+Esophageal varix	ALB	1.0	
+Fetal Alcohol Syndrome	PPARA	1.0	
+Urolithiasis	ALB	1.0	
+Decreased adipose tissue	PPARG	1.0	
+Chondrosarcoma, extraskeletal myxoid, 612237 (3)	PPARG	1.0	
+Cardiovascular morbidity	PTGS1	1.0	
+Craniometaphyseal dysplasia, autosomal dominant	PPARG	1.0	
+Heart Diseases	ALB	1.0	
+Heart Diseases	PPARA	1.0	
+Heart Diseases	PPARG	1.0	
+Barrett Esophagus	PPARG	1.0	
+Barrett Esophagus	PTGS2	1.0	
+Hearing Loss, Partial	PPARG	1.0	
+Hearing Loss, Partial	PTGS2	1.0	
+Fetal Diseases	PTGS1	1.0	
+Fetal Diseases	PTGS2	1.0	
+Squamous cell carcinoma of the hypopharynx	PTGS2	1.0	
+Early gastric cancer	PTGS2	1.0	
+Malignant neoplasm of vulva	PTGS2	1.0	
+Prominent supraorbital ridges	PPARG	1.0	
+Abnormality of skeletal muscle fiber size	PPARG	1.0	
+Abnormality of purine metabolism	PPARG	1.0	
+Abnormality of subcutaneous fat tissue	PPARG	1.0	
+Hemolytic anemia, nonspherocytic, due to glucose phosphate isomerase deficiency	PPARA	1.0	
+Hemolytic anemia, nonspherocytic, due to glucose phosphate isomerase deficiency	PTGS2	1.0	
+Familial adenomatous polyposis 1	PPARG	1.0	
+Familial adenomatous polyposis 1	PTGS1	1.0	
+Familial adenomatous polyposis 1	PTGS2	1.0	
+Ureteral obstruction	PTGS1	1.0	
+Ureteral obstruction	PTGS2	1.0	
+Bladder neck obstruction	PTGS2	1.0	
+Aortic atherosclerosis	PTGS2	1.0	
+Squamous Cell Neoplasms	PTGS2	1.0	
+Pituitary dependent hypercortisolism	PPARG	1.0	
+androgen independent prostate cancer	PPARG	1.0	
+androgen independent prostate cancer	PTGS2	1.0	
+Cholangiocarcinoma	ALB	1.0	
+Cholangiocarcinoma	PPARG	1.0	
+Cholangiocarcinoma	PTGS2	1.0	
+Kidney Diseases	ALB	1.0	
+Kidney Diseases	PPARA	1.0	
+Kidney Diseases	PPARG	1.0	
+Kidney Diseases	PTGS2	1.0	
+Malignant neoplasm of brain and nervous system	PPARG	1.0	
+Malignant neoplasm of brain and nervous system	PTGS2	1.0	
+Glomerulopathy	ALB	1.0	
+Glomerulopathy	PPARG	1.0	
+Aortic valve calcification	PTGS2	1.0	
+Thymic Carcinoma	PTGS2	1.0	
+Isolated somatotropin deficiency	ALB	1.0	
+Vascular Diseases	ALB	1.0	
+Vascular Diseases	PPARG	1.0	
+Vascular Diseases	PTGS2	1.0	
+Stroke	ALB	1.0	
+Stroke	PPARA	1.0	
+Stroke	PPARG	1.0	
+Stroke	PTGS1	1.0	
+Stroke	PTGS2	1.0	
+Virus Diseases	ALB	1.0	
+Virus Diseases	PPARA	1.0	
+Virus Diseases	PTGS1	1.0	
+Virus Diseases	PTGS2	1.0	
+Substance Use Disorders	ALB	1.0	
+Dentatorubral pallidoluysian atrophy	ALB	1.0	
+Hepatic fibrosis	ALB	1.0	
+Hepatic fibrosis	PPARG	1.0	
+Hepatic fibrosis	PTGS2	1.0	
+Congestive heart failure	ALB	1.0	
+Congestive heart failure	PPARA	1.0	
+Congestive heart failure	PPARG	1.0	
+Congestive heart failure	PTGS2	1.0	
+Angiokeratoma	ALB	1.0	
+Isolated growth hormone deficiency type 1B	ALB	1.0	
+Oligomenorrhea	PPARG	1.0	
+Insulin-resistant diabetes mellitus AND acanthosis nigricans	PPARG	1.0	
+Philadelphia chromosome positive	PPARA	1.0	
+Encephalitis	PPARG	1.0	
+Encephalitis	PTGS2	1.0	
+Acute type B viral hepatitis	ALB	1.0	
+Acute type B viral hepatitis	PPARA	1.0	
+Acute type B viral hepatitis	PPARG	1.0	
+Acute type B viral hepatitis	PTGS2	1.0	
+Cholangitis	PPARG	1.0	
+Generalized osteoarthritis	PPARG	1.0	
+Follicular neoplasm	PPARG	1.0	
+Prostatitis	PTGS2	1.0	
+Atrophy, Muscular, Spinobulbar	PPARG	1.0	
+Enzyme inhibition disorder	PTGS2	1.0	
+Mucinous Neoplasm	PTGS2	1.0	
+Abnormality of the level of lipoprotein cholesterol	PPARG	1.0	
+Cachexia	ALB	1.0	
+Cachexia	PTGS2	1.0	
+Cholelithiasis	PPARG	1.0	
+Cholelithiasis	PTGS2	1.0	
+Acute promyelocytic leukemia	PPARG	1.0	
+Acute promyelocytic leukemia	PTGS1	1.0	
+Acute promyelocytic leukemia	PTGS2	1.0	
+Borderline Personality Disorder	PPARG	1.0	
+Borderline Personality Disorder	PTGS2	1.0	
+Primary open angle glaucoma juvenile onset 1	PTGS1	1.0	
+Primary open angle glaucoma juvenile onset 1	PTGS2	1.0	
+Abnormality of lipid metabolism	ALB	1.0	
+Abnormality of lipid metabolism	PPARG	1.0	
+Atherosclerosis	ALB	1.0	
+Atherosclerosis	PPARA	1.0	
+Atherosclerosis	PPARG	1.0	
+Atherosclerosis	PTGS1	1.0	
+Atherosclerosis	PTGS2	1.0	
+Retinopathy	ALB	1.0	
+Retinopathy	PPARG	1.0	
+Retinopathy	PTGS2	1.0	
+Streptococcal pneumonia	PTGS2	1.0	
+Pulmonary Cystic Fibrosis	PPARG	1.0	
+Hepatic encephalopathy	PTGS1	1.0	
+Mumps	ALB	1.0	
+Endemic Cretinism	ALB	1.0	
+Osteoarthritis of distal interphalangeal joint	PTGS2	1.0	
+Hyperalgesia	PTGS1	1.0	
+Hyperalgesia	PTGS2	1.0	
+Thyroid cancer, follicular	PPARG	1.0	
+Thyroid cancer, follicular	PTGS2	1.0	
+Tumor Angiogenesis	PPARA	1.0	
+Tumor Angiogenesis	PTGS1	1.0	
+Tumor Angiogenesis	PTGS2	1.0	
+Keloid	ALB	1.0	
+Keloid	PPARG	1.0	
+Peptic Ulcer Hemorrhage	PTGS1	1.0	
+Hemangioblastoma	ALB	1.0	
+Invasive Lobular Breast Carcinoma	PTGS2	1.0	

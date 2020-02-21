@@ -1,0 +1,12 @@
+Gene	CUI	Source Databases	
+CYP2B6	C0206726	gliosarcoma	DisGeNet	
+CYP3A4	C0206726	gliosarcoma	DisGeNet	
+ESR1	C0206726	gliosarcoma	DisGeNet	
+CYP19A1	C0014130	Disorder of endocrine system	DisGeNet	
+CYP2B6	C0014130	Disorder of endocrine system	DisGeNet	
+ESR1	C0014130	Disorder of endocrine system	DisGeNet	
+ALB	C0346402	Malignant neoplasm of adrenal cortex	DisGeNet	
+ESR1	C0346402	Malignant neoplasm of adrenal cortex	DisGeNet	
+CYP19A1	C0269102	Endometrioma	DisGeNet	
+CYP2B6	C0269102	Endometrioma	DisGeNet	
+ESR1	C0269102	Endometrioma	DisGeNet	

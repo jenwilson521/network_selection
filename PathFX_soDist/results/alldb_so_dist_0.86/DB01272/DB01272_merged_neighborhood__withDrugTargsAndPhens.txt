@@ -1,0 +1,3 @@
+node1	node2	edge_score	
+DB01272	M6PR	1.0	
+

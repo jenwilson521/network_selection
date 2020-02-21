@@ -1,0 +1,87 @@
+node_name	node_type	
+DB06410	drug	
+CYP27A1	drug_target	
+VDR	drug_target	
+Slow acetylator due to N-acetyltransferase enzyme variant	phenotype	
+Epidermal cyst	phenotype	
+Tibial bowing	phenotype	
+Q Fever	phenotype	
+Urolithiasis	phenotype	
+Abnormal trabecular bone morphology	phenotype	
+Periodontal Attachment Loss	phenotype	
+Metaphyseal irregularity	phenotype	
+Hypophosphatemic rickets	phenotype	
+Metabolic Bone Disorder	phenotype	
+Isolated growth hormone deficiency type 1B	phenotype	
+Malaria, Vivax	phenotype	
+Femoral bowing	phenotype	
+Premature loss of teeth	phenotype	
+Flat occiput	phenotype	
+Osteoarthritis of distal interphalangeal joint	phenotype	
+HTLV-I Infections	phenotype	
+Osteomalacia	phenotype	
+Alveolar Bone Loss	phenotype	
+Salmonella infections	phenotype	
+Osteoarthritis of the hand	phenotype	
+Chronic myelopathy	phenotype	
+Aggressive periodontitis, generalized	phenotype	
+Abnormality of fibula morphology	phenotype	
+Hypophosphatemia	phenotype	
+Low back pain	phenotype	
+Rickets	phenotype	
+Abnormality of primary teeth	phenotype	
+Displacement of intervertebral disc	phenotype	
+Leprosy, Lepromatous	phenotype	
+Vitamin D Deficiency	phenotype	
+Pathologic fracture	phenotype	
+Fabry disease	phenotype	
+Bone necrosis	phenotype	
+Abnormal epiphyseal ossification	phenotype	
+Kidney Calculi	phenotype	
+Bacterial Vaginosis	phenotype	
+Difficulty walking	phenotype	
+Exostoses	phenotype	
+Osteitis Deformans	phenotype	
+Coronary Restenosis	phenotype	
+Abnormality of the ankles	phenotype	
+Tibia, hypoplasia or aplasia of, with polydactyly	phenotype	
+Arthritis, Reactive	phenotype	
+Iron deficiency anemia	phenotype	
+stage, non-small cell lung cancer	phenotype	
+Hypocalcemia	phenotype	
+Prenatal Exposure Delayed Effects	phenotype	
+Abnormality of phosphate homeostasis	phenotype	
+Elevated alkaline phosphatase	phenotype	
+Primary hyperparathyroidism	phenotype	
+Bone Diseases, Developmental	phenotype	
+Hypoplasia of dental enamel	phenotype	
+Abnormal cortical bone morphology	phenotype	
+Abnormality of the abdominal musculature	phenotype	
+Erythema nodosum	phenotype	
+Bone pain	phenotype	
+Abnormality of alkaline phosphatase activity	phenotype	
+Hypoplasia of teeth	phenotype	
+Abnormality of the parathyroid physiology	phenotype	
+Tropical Spastic Paraparesis	phenotype	
+Neoplasm of the parathyroid gland	phenotype	
+Sarcoidosis, Pulmonary	phenotype	
+Cooley's anemia	phenotype	
+Osteoarthritis of hip	phenotype	
+Microsatellite Instability	phenotype	
+Trachoma	phenotype	
+Abnormality of the parathyroid gland	phenotype	
+Hypoparathyroidism	phenotype	
+Hyperparathyroidism 4	phenotype	
+Bronchiolitis	phenotype	
+Mammographic breast density	phenotype	
+Gaucher Disease	phenotype	
+Uremia	phenotype	
+Severe Dengue	phenotype	
+Abnormal enzyme/coenzyme activity	phenotype	
+Acute monocytic leukemia	phenotype	
+Hypercalciuria	phenotype	
+Osteolysis	phenotype	
+Abnormal shape of the occiput	phenotype	
+Abdominal distention	phenotype	
+Abnormal concentration of calcium in blood	phenotype	
+Premature aging syndrome	phenotype	

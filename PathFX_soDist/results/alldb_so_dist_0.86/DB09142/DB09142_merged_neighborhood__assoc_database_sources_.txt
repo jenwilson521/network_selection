@@ -1,0 +1,6 @@
+Gene	CUI	Source Databases	
+SLCO1B3	C0079474	Recessive dystrophic epidermolysis bullosa	DisGeNet	
+SLCO1B3	C0023474	Leukemia, Myeloid, Chronic-Phase	DisGeNet	
+SLCO1B3	C0855197	Testicular malignant germ cell tumor	DisGeNet	
+SLCO1B3	C0020433	Hyperbilirubinemia	DisGeNet,HumPhenOnt	
+SLCO1B3	C0079774	Peripheral T-Cell Lymphoma	DisGeNet	

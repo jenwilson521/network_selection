@@ -1,0 +1,73 @@
+node1	node2	edge_score	
+DB01327	PON1	1.0	
+DB01327	TPMT	1.0	
+DB01327	ALB	1.0	
+DB01327	IL15	1.0	
+DB01327	SLC22A11	1.0	
+DB01327	SLC22A6	1.0	
+DB01327	IL2	1.0	
+DB01327	ABCC4	1.0	
+DB01327	SLC22A8	1.0	
+PON1	rs854547	0.99
+TPMT	TPMT*1, TPMT*11, TPMT*12, TPMT*14, TPMT*16, TPMT*17, TPMT*18, TPMT*1S, TPMT*20, TPMT*21, TPMT*22, TPMT*23, TPMT*6, TPMT*7, TPMT*8, TPMT*9	0.99
+PON1	rs662	0.99
+PON1	rs854548	0.99
+TPMT	rs1800460	0.99
+SLC22A11		1.0
+IL2		1.0
+TPMT		1.0
+TPMT	rs12201199	0.99
+TPMT	TPMT*1, TPMT*10, TPMT*13, TPMT*15, TPMT*19, TPMT*1A, TPMT*24, TPMT*25, TPMT*26, TPMT*27, TPMT*28, TPMT*30, TPMT*31, TPMT*32, TPMT*33, TPMT*34, TPMT*37, TPMT*3D, TPMT*5	0.99
+ABCC4	rs9516519	0.99
+ABCC4	rs7317112	0.99
+TPMT	TPMT*1, TPMT*2, TPMT*3A, TPMT*3C	0.99
+PON1		1.0
+ABCC4	rs9561765	0.99
+ABCC4	rs11568695	0.99
+TPMT	TPMT*1, TPMT*3A, TPMT*3C	0.99
+ABCC4	rs1751034	0.99
+PON1	rs854560	0.99
+TPMT	rs1142345	0.99
+ALB		1.0
+ABCC4	rs1678387	0.99
+TPMT	rs17839843	0.99
+TPMT	TPMT*1, TPMT*2, TPMT*3A, TPMT*3B, TPMT*3C, TPMT*4	0.99
+SLC22A8		1.0
+ABCC4	rs3742106	0.99
+ABCC4	rs1059751	0.99
+PON1	rs854555	0.99
+PON1	rs705379	0.99
+TPMT	rs3931660	0.99
+ABCC4	rs11568658	0.99
+ABCC4	rs16950650	0.99
+ABCC4		1.0
+ABCC4	rs3765534	0.99
+ABCC4	rs9561778	0.99
+Complications of Diabetes Mellitus	ALB	1.0	
+Complications of Diabetes Mellitus	IL2	1.0	
+Complications of Diabetes Mellitus	PON1	1.0	
+Chromosome 11p deletion syndrome	ABCC4	1.0	
+Chromosome 11p deletion syndrome	SLC22A8	1.0	
+Chronic ulcerative colitis	ABCC4	1.0	
+Chronic ulcerative colitis	IL2	1.0	
+Chronic ulcerative colitis	TPMT	1.0	
+Mesangiocapillary glomerulonephritis, type II	ALB	1.0	
+Mesangiocapillary glomerulonephritis, type II	PON1	1.0	
+Malnutrition	ALB	1.0	
+Malnutrition	IL2	1.0	
+Malnutrition	PON1	1.0	
+Hyperlipoproteinemia	ALB	1.0	
+Hyperlipoproteinemia	PON1	1.0	
+Primary biliary cirrhosis	ABCC4	1.0	
+Primary biliary cirrhosis	ALB	1.0	
+Primary biliary cirrhosis	IL2	1.0	
+Primary biliary cirrhosis	TPMT	1.0	
+Myelopathy	IL2	1.0	
+Myelopathy	TPMT	1.0	
+Chronic liver disease	ALB	1.0	
+Chronic liver disease	IL2	1.0	
+Chronic liver disease	PON1	1.0	
+Guillain-Barre syndrome, familial	ALB	1.0	
+Guillain-Barre syndrome, familial	IL2	1.0	
+Adverse drug events and drug allergies	ABCC4	1.0	
+Adverse drug events and drug allergies	ALB	1.0	

@@ -1,0 +1,111 @@
+node_name	node_type	
+DB00852	drug	
+SLC6A3	drug_target	
+SLC6A2	drug_target	
+CYP2D6	drug_target	
+SLC6A4	drug_target	
+ADRA1A	drug_target	
+ADRA2A	drug_target	
+ADRB1	drug_target	
+MAOA	drug_target	
+TNF	drug_target	
+IL2	drug_target	
+NFATC1	drug_target	
+ADRB2	drug_target	
+Acute postoperative pain	phenotype	
+Weight Loss Adverse Event	phenotype	
+Fibromyalgia	phenotype	
+Prenatal Exposure Delayed Effects	phenotype	
+Low Tension Glaucoma	phenotype	
+Behavior Disorders	phenotype	
+Methamphetamine abuse	phenotype	
+Occupational Diseases	phenotype	
+Chronic schizophrenia	phenotype	
+Personality disorder	phenotype	
+Depressive Symptoms	phenotype	
+Tourette Syndrome	phenotype	
+Gastrointestinal Diseases	phenotype	
+Memory Disorders	phenotype	
+Mood Disorders	phenotype	
+Obstructive sleep apnea	phenotype	
+Hyperalgesia	phenotype	
+Stress, Psychological	phenotype	
+Periodontal Attachment Loss	phenotype	
+Malignant neoplasm of vulva	phenotype	
+Tardive Dyskinesia	phenotype	
+Heroin Dependence	phenotype	
+Oral aphthae	phenotype	
+Osteochondritis dissecans	phenotype	
+Respiratory Hypersensitivity	phenotype	
+Periodontal Pocket	phenotype	
+Orofacial dyskinesia	phenotype	
+ {Nicotine dependence, protection against}, 188890 (3)	phenotype	
+Major depressive disorder	phenotype	
+Anxiety Disorders	phenotype	
+Postoperative Complications	phenotype	
+Musculoskeletal Diseases	phenotype	
+Pregnancy Complications, Hematologic	phenotype	
+Ichthyosis bullosa of Siemens	phenotype	
+Nephrosclerosis	phenotype	
+Chronic heart failure	phenotype	
+Obsessive-compulsive disorder	phenotype	
+Attention deficit hyperactivity disorder	phenotype	
+Low back pain	phenotype	
+Tachycardia	phenotype	
+Fetal Diseases	phenotype	
+Weight Gain Adverse Event	phenotype	
+Drug usage	phenotype	
+Chronic Fatigue Syndrome	phenotype	
+CARCINOMA OF VULVA	phenotype	
+Irritable bowel syndrome with diarrhea	phenotype	
+Liver Cirrhosis, Alcoholic	phenotype	
+Bacteremia, susceptibility to, 2	phenotype	
+Pain insensitivity	phenotype	
+Posttraumatic stress disorder	phenotype	
+Anorexia nervosa 1	phenotype	
+Nausea	phenotype	
+Left ventricular hypertrophy	phenotype	
+Glaucoma, Open-Angle	phenotype	
+CNS disorder	phenotype	
+CNS symptom	phenotype	
+Connective Tissue Diseases	phenotype	
+As If Personality	phenotype	
+Meningococcal Infections	phenotype	
+Unipolar Depression	phenotype	
+Bipolar I disorder	phenotype	
+Attention Deficit Disorder	phenotype	
+Hypotension	phenotype	
+Obesity, severe, 601665 (3)	phenotype	
+Rheumatoid Nodule	phenotype	
+Chronic berylliosis	phenotype	
+Slow acetylator due to N-acetyltransferase enzyme variant	phenotype	
+Depressive Disorder	phenotype	
+Overweight	phenotype	
+Chronic sciatica	phenotype	
+Asthma, Occupational	phenotype	
+Acute Lung Injury	phenotype	
+Ventricular Dysfunction, Right	phenotype	
+{Unipolar depression, susceptibility to}, 608516 (3)	phenotype	
+Bulimia	phenotype	
+Steroid-sensitive nephrotic syndrome	phenotype	
+Ischemic cardiomyopathy	phenotype	
+Bovine Anaplasmosis	phenotype	
+Eating disorder	phenotype	
+Complications of Diabetes Mellitus	phenotype	
+Pulmonary edema	phenotype	
+Migraine with aura	phenotype	
+Familial cold-induced inflammatory syndrome 1, 120100 (3)	phenotype	
+Generalized anxiety disorder	phenotype	
+Gastric Mucosa-Associated Lymphoid Tissue Lymphoma	phenotype	
+Drug Allergy	phenotype	
+Intermittent claudication	phenotype	
+Substance Use Disorders	phenotype	
+Alcohol withdrawal syndrome	phenotype	
+Schizoaffective Disorder	phenotype	
+Respiration Disorders	phenotype	
+Opportunistic Infections	phenotype	
+Puerperal Disorders	phenotype	
+Congenital long QT syndrome	phenotype	
+Lichen Planus, Oral	phenotype	
+Amphetamine-Related Disorders	phenotype	
+Motor symptoms	phenotype	

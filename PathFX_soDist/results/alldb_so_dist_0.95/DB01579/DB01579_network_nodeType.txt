@@ -1,0 +1,93 @@
+node_name	node_type	
+DB01579	drug	
+ADRA1A	drug_target	
+SLC6A2	drug_target	
+ADRA1B	drug_target	
+Methamphetamine abuse	phenotype	
+Tourette Syndrome	phenotype	
+ Acrodysostosis 1, with or without hormone resistance, 101800 (3)	phenotype	
+Slow acetylator due to N-acetyltransferase enzyme variant	phenotype	
+Pseudohypoparathyroidism, type IB, 603233 (3)	phenotype	
+Dentinogenesis imperfecta	phenotype	
+Chronic sciatica	phenotype	
+Recurrent major depressive episodes	phenotype	
+Asthma, Occupational	phenotype	
+Behavior Disorders	phenotype	
+Disorders of parathyroid gland	phenotype	
+genetic hypertension	phenotype	
+Hereditary Sensory Autonomic Neuropathy, Type 1	phenotype	
+Bladder neck obstruction	phenotype	
+Orofacial cleft	phenotype	
+Taste bitter	phenotype	
+Congenital long QT syndrome	phenotype	
+Systemic aspergillosis	phenotype	
+Pulmonary Cystic Fibrosis	phenotype	
+Gastroparesis	phenotype	
+Chronic schizophrenia	phenotype	
+Hypoparathyroidism - autosomal dominant	phenotype	
+Cancer Cell Growth	phenotype	
+Acute postoperative pain	phenotype	
+Acute disease of cardiovascular system	phenotype	
+Nephrosclerosis	phenotype	
+Personality disorder	phenotype	
+Paroxysmal atrial fibrillation	phenotype	
+Cholestasis of pregnancy	phenotype	
+Low back pain	phenotype	
+Nephrogenic diabetes insipidus, autosomal	phenotype	
+Disseminated intravascular coagulation	phenotype	
+Weight Loss Adverse Event	phenotype	
+Fibromyalgia	phenotype	
+Anxiety Disorders	phenotype	
+Dyskinesia, Drug-Induced	phenotype	
+Abnormal autonomic nervous system physiology	phenotype	
+Low Tension Glaucoma	phenotype	
+Cleft palate with cleft lip	phenotype	
+Memory Disorders	phenotype	
+Inflammatory pain	phenotype	
+Systemic arterial pressure	phenotype	
+Hypogonadism with anosmia	phenotype	
+Heroin Dependence	phenotype	
+Colorectal polyposis	phenotype	
+Major depressive disorder	phenotype	
+Urinary incontinence	phenotype	
+Multiple Endocrine Neoplasia Type 2a	phenotype	
+Well Differentiated Pancreatic Endocrine Tumor	phenotype	
+Ichthyosis bullosa of Siemens	phenotype	
+Attention deficit hyperactivity disorder	phenotype	
+Granulomatous disease, chronic, autosomal recessive, cytochrome b-negative	phenotype	
+Panic disorder 1	phenotype	
+Multiple Endocrine Neoplasia Type 1	phenotype	
+Schizoaffective Disorder	phenotype	
+Gastrointestinal Diseases	phenotype	
+Mitral Valve Prolapse	phenotype	
+Candidiasis, familial, 9	phenotype	
+Herpes NOS	phenotype	
+Albinism, ocular, with sensorineural deafness	phenotype	
+Arterial thrombosis	phenotype	
+Cerebral palsy, spastic quadriplegic, 3	phenotype	
+Methicillin resistant Staphylococcus aureus	phenotype	
+Hyperplastic Polyp	phenotype	
+Bacteremia, susceptibility to, 2	phenotype	
+Anorexia nervosa 1	phenotype	
+Von Hippel-Lindau syndrome	phenotype	
+early pregnancy	phenotype	
+Panic disorder syndrome 1 (2)	phenotype	
+Primary Effusion Lymphoma	phenotype	
+Hypotension	phenotype	
+Lewy Body Disease	phenotype	
+ {Aerodigestive tract cancer, squamous cell, alcohol-related, protection against} (3)	phenotype	
+Differentiated Thyroid Gland Carcinoma	phenotype	
+Pruritus	phenotype	
+Congestive heart failure	phenotype	
+Heart Failure	phenotype	
+Abnormality of the autonomic nervous system	phenotype	
+Abnormality of the peripheral nervous system	phenotype	
+Bipolar affective disorder	phenotype	
+Tachycardia	phenotype	
+Squamous cell carcinoma of the head and neck	phenotype	
+Neurofibromatosis, type 1, 162200 (3)	phenotype	
+Congenital Myotonic Dystrophy	phenotype	
+Steinert myotonic dystrophy syndrome	phenotype	
+Irritable bowel syndrome with diarrhea	phenotype	
+Bronchial Hyperreactivity	phenotype	
+Borderline Personality Disorder	phenotype	

@@ -1,0 +1,105 @@
+node1	node2	edge_score	
+DB01579	ADRA1A	1.0	
+DB01579	SLC6A2	1.0	
+DB01579	ADRA1B	1.0	
+ADRA1A		1.0
+ADRA1B		1.0
+SLC6A2	rs3785143	0.99
+SLC6A2	rs12708954	0.99
+SLC6A2	rs5569	0.99
+SLC6A2		1.0
+Gastroparesis	ADRA1A	1.0	
+Gastroparesis	ADRA1B	1.0	
+Methamphetamine abuse	ADRA1A	1.0	
+Methamphetamine abuse	SLC6A2	1.0	
+Systemic arterial pressure	ADRA1A	1.0	
+Systemic arterial pressure	ADRA1B	1.0	
+Systemic arterial pressure	SLC6A2	1.0	
+Hypotension	ADRA1A	1.0	
+Hypotension	ADRA1B	1.0	
+Tourette Syndrome	ADRA1A	1.0	
+Tourette Syndrome	SLC6A2	1.0	
+Attention deficit hyperactivity disorder	ADRA1A	1.0	
+Attention deficit hyperactivity disorder	ADRA1B	1.0	
+Attention deficit hyperactivity disorder	SLC6A2	1.0	
+ Acrodysostosis 1, with or without hormone resistance, 101800 (3)	ADRA1A	1.0	
+Slow acetylator due to N-acetyltransferase enzyme variant	SLC6A2	1.0	
+Pseudohypoparathyroidism, type IB, 603233 (3)	ADRA1A	1.0	
+Dentinogenesis imperfecta	SLC6A2	1.0	
+Chronic sciatica	ADRA1A	1.0	
+Recurrent major depressive episodes	SLC6A2	1.0	
+Asthma, Occupational	SLC6A2	1.0	
+Behavior Disorders	SLC6A2	1.0	
+Disorders of parathyroid gland	ADRA1A	1.0	
+genetic hypertension	ADRA1A	1.0	
+Hereditary Sensory Autonomic Neuropathy, Type 1	ADRA1A	1.0	
+Bladder neck obstruction	ADRA1A	1.0	
+Orofacial cleft	SLC6A2	1.0	
+Taste bitter	ADRA1A	1.0	
+Congenital long QT syndrome	ADRA1A	1.0	
+Systemic aspergillosis	SLC6A2	1.0	
+Pulmonary Cystic Fibrosis	ADRA1A	1.0	
+Chronic schizophrenia	ADRA1A	1.0	
+Hypoparathyroidism - autosomal dominant	ADRA1A	1.0	
+Acute postoperative pain	ADRA1A	1.0	
+Acute disease of cardiovascular system	ADRA1A	1.0	
+Nephrosclerosis	ADRA1A	1.0	
+Personality disorder	SLC6A2	1.0	
+Paroxysmal atrial fibrillation	ADRA1A	1.0	
+Cholestasis of pregnancy	ADRA1A	1.0	
+Essential hypertension	ADRA1A	1.0	
+Essential hypertension	ADRA1B	1.0	
+Neurotoxicity Syndromes	ADRA1B	1.0	
+Low back pain	ADRA1A	1.0	
+Nephrogenic diabetes insipidus, autosomal	ADRA1A	1.0	
+Cancer Cell Growth	ADRA1A	1.0	
+Cancer Cell Growth	SLC6A2	1.0	
+Mood Disorders	ADRA1B	1.0	
+Mood Disorders	SLC6A2	1.0	
+Disseminated intravascular coagulation	SLC6A2	1.0	
+Weight Loss Adverse Event	SLC6A2	1.0	
+Fibromyalgia	ADRA1A	1.0	
+Dyskinesia, Drug-Induced	ADRA1A	1.0	
+Abnormal autonomic nervous system physiology	SLC6A2	1.0	
+Spondylitis, Ankylosing	ADRA1B	1.0	
+Low Tension Glaucoma	ADRA1A	1.0	
+Cleft palate with cleft lip	SLC6A2	1.0	
+Anxiety Disorders	ADRA1A	1.0	
+Anxiety Disorders	SLC6A2	1.0	
+Memory Disorders	ADRA1A	1.0	
+Inflammatory pain	ADRA1A	1.0	
+Hypogonadism with anosmia	ADRA1A	1.0	
+Heroin Dependence	SLC6A2	1.0	
+Colorectal polyposis	SLC6A2	1.0	
+Urinary incontinence	ADRA1A	1.0	
+Multiple Endocrine Neoplasia Type 2a	SLC6A2	1.0	
+Well Differentiated Pancreatic Endocrine Tumor	SLC6A2	1.0	
+Polycystic Ovary Syndrome	ADRA1A	1.0	
+Polycystic Ovary Syndrome	ADRA1B	1.0	
+Ichthyosis bullosa of Siemens	SLC6A2	1.0	
+Granulomatous disease, chronic, autosomal recessive, cytochrome b-negative	SLC6A2	1.0	
+Major depressive disorder	ADRA1A	1.0	
+Major depressive disorder	SLC6A2	1.0	
+Panic disorder 1	SLC6A2	1.0	
+Multiple Endocrine Neoplasia Type 1	SLC6A2	1.0	
+Schizoaffective Disorder	ADRA1A	1.0	
+Gastrointestinal Diseases	SLC6A2	1.0	
+Mitral Valve Prolapse	SLC6A2	1.0	
+Candidiasis, familial, 9	SLC6A2	1.0	
+Herpes NOS	ADRA1A	1.0	
+Albinism, ocular, with sensorineural deafness	ADRA1A	1.0	
+Arterial thrombosis	SLC6A2	1.0	
+Cerebral palsy, spastic quadriplegic, 3	SLC6A2	1.0	
+Methicillin resistant Staphylococcus aureus	SLC6A2	1.0	
+Hyperplastic Polyp	SLC6A2	1.0	
+Bacteremia, susceptibility to, 2	SLC6A2	1.0	
+Anorexia nervosa 1	SLC6A2	1.0	
+Hypertension	ADRA1A	1.0	
+Hypertension	ADRA1B	1.0	
+Hypertension	SLC6A2	1.0	
+Kidney Failure, Chronic	ADRA1A	1.0	
+Kidney Failure, Chronic	ADRA1B	1.0	
+Von Hippel-Lindau syndrome	SLC6A2	1.0	
+early pregnancy	SLC6A2	1.0	
+Panic disorder syndrome 1 (2)	SLC6A2	1.0	
+Primary Effusion Lymphoma	ADRA1A	1.0	

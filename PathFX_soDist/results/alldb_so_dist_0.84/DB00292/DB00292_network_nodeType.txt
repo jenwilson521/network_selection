@@ -1,0 +1,28 @@
+node_name	node_type	
+DB00292	drug	
+CYP11B2	drug_target	
+CYP19A1	drug_target	
+GABRA1	drug_target	
+SLC2A1	drug_target	
+ADRA2B	drug_target	
+Prenatal maternal abnormality	phenotype	
+Disorder of endocrine system	phenotype	
+Neoplasm of the adrenal cortex	phenotype	
+Adrenocortical adenoma	phenotype	
+Nodule	phenotype	
+Ovarian cyst	phenotype	
+Decreased fertility in females	phenotype	
+High altitude pulmonary edema	phenotype	
+Placental Insufficiency	phenotype	
+Adrenocortical carcinoma	phenotype	
+Adrenal Gland Hyperfunction	phenotype	
+Hyperkalemia	phenotype	
+Bladder neck obstruction	phenotype	
+Tinnitus	phenotype	
+Severe myoclonic epilepsy in infancy	phenotype	
+Abnormality of sodium homeostasis	phenotype	
+Hyponatremia	phenotype	
+Alcohol withdrawal syndrome	phenotype	
+Adrenal overactivity	phenotype	
+Alopecia of scalp	phenotype	
+Oestrogen deficiency	phenotype	

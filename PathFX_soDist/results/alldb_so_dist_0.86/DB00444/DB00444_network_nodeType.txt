@@ -1,0 +1,16 @@
+node_name	node_type	
+DB00444	drug	
+CYP2C9	drug_target	
+ABCG2	drug_target	
+CYP2C19	drug_target	
+ABCC6	drug_target	
+CYP3A5	drug_target	
+CYP3A4	drug_target	
+TOP2A	drug_target	
+Neurotoxicity Syndromes	phenotype	
+Primary malignant neoplasm of liver	phenotype	
+Squamous Cell Neoplasms	phenotype	
+Neoplasms, Germ Cell and Embryonal	phenotype	
+Cocaine delirium	phenotype	
+Drug Allergy	phenotype	
+Nausea	phenotype	

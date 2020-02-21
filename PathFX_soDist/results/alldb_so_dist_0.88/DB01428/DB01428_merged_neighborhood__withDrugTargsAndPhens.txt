@@ -1,0 +1,286 @@
+node1	node2	edge_score	
+DB01428	PGR	1.0	
+DB01428	AR	1.0	
+DB01428	ESR2	1.0	
+DB01428	ESR1	1.0	
+ESR1	rs9340799	0.99
+ESR1	rs4870061	0.99
+ESR1		1.0
+ESR2	rs10140457	0.99
+ESR1	rs2207396	0.99
+ESR1	rs2813543	0.99
+ESR2	rs944050	0.99
+ESR2	rs4986938	0.99
+ESR1	rs9322335	0.99
+ESR1	rs11543791	0.99
+ESR1	rs2234693	0.99
+ESR2		1.0
+Osteoarthritis of distal interphalangeal joint	ESR1	1.0	
+Osteoarthritis of distal interphalangeal joint	ESR2	1.0	
+Osteoarthritis of the hand	ESR1	1.0	
+Osteoarthritis of the hand	ESR2	1.0	
+Bulimia nervosa 1	ESR1	1.0	
+Bulimia nervosa 1	ESR2	1.0	
+Cellulitis	ESR1	1.0	
+Cellulitis	ESR2	1.0	
+Varicose Ulcer	ESR1	1.0	
+Varicose Ulcer	ESR2	1.0	
+Adolescent idiopathic scoliosis	ESR1	1.0	
+Adolescent idiopathic scoliosis	ESR2	1.0	
+Bile duct cancer resectable	ESR1	1.0	
+Bile duct cancer resectable	ESR2	1.0	
+Phyllodes tumor, benign	ESR1	1.0	
+Phyllodes tumor, benign	ESR2	1.0	
+Penile hypospadias	ESR1	1.0	
+Penile hypospadias	ESR2	1.0	
+Biliary tract neoplasm	ESR1	1.0	
+Biliary tract neoplasm	ESR2	1.0	
+Menopause present (finding)	ESR1	1.0	
+Menopause present (finding)	ESR2	1.0	
+Cognition Disorders	ESR1	1.0	
+Cognition Disorders	ESR2	1.0	
+Microsatellite Instability	ESR1	1.0	
+Microsatellite Instability	ESR2	1.0	
+Breast Fibrocystic Disease	ESR1	1.0	
+Breast Fibrocystic Disease	ESR2	1.0	
+Fibroadenoma of the breast	ESR1	1.0	
+Fibroadenoma of the breast	ESR2	1.0	
+Osteochondritis dissecans	ESR1	1.0	
+Osteochondritis dissecans	ESR2	1.0	
+Disorder of endocrine system	ESR1	1.0	
+Disorder of endocrine system	ESR2	1.0	
+Shock, Septic	ESR1	1.0	
+Shock, Septic	ESR2	1.0	
+Mammographic breast density	ESR1	1.0	
+Mammographic breast density	ESR2	1.0	
+Female infertility	ESR1	1.0	
+Female infertility	ESR2	1.0	
+Endometrioma	ESR1	1.0	
+Endometrioma	ESR2	1.0	
+Malignant Childhood Neoplasm	ESR1	1.0	
+Malignant Childhood Neoplasm	ESR2	1.0	
+Migraine with aura	ESR1	1.0	
+Migraine with aura	ESR2	1.0	
+Recurrent abortion	ESR1	1.0	
+Recurrent abortion	ESR2	1.0	
+Metaplasia	ESR1	1.0	
+Metaplasia	ESR2	1.0	
+Coronary artery stenosis	ESR1	1.0	
+Coronary artery stenosis	ESR2	1.0	
+Dementia, Vascular	ESR1	1.0	
+Dementia, Vascular	ESR2	1.0	
+granulosa cell tumor	ESR1	1.0	
+granulosa cell tumor	ESR2	1.0	
+Obsessive-compulsive disorder	ESR1	1.0	
+Obsessive-compulsive disorder	ESR2	1.0	
+Cholecystolithiasis	ESR1	1.0	
+Cholecystolithiasis	ESR2	1.0	
+Tumor Promotion	ESR1	1.0	
+Tumor Promotion	ESR2	1.0	
+Adrenocortical adenoma	ESR1	1.0	
+Adrenocortical adenoma	ESR2	1.0	
+Postmenopausal osteoporosis	ESR1	1.0	
+Postmenopausal osteoporosis	ESR2	1.0	
+Sleep Wake Disorders	ESR1	1.0	
+Sleep Wake Disorders	ESR2	1.0	
+Testicular malignant germ cell tumor	ESR1	1.0	
+Testicular malignant germ cell tumor	ESR2	1.0	
+Hepatopulmonary Syndrome	ESR1	1.0	
+Hepatopulmonary Syndrome	ESR2	1.0	
+Endometrial adenocarcinoma	ESR1	1.0	
+Endometrial adenocarcinoma	ESR2	1.0	
+Testicular Germ Cell Tumor	ESR1	1.0	
+Testicular Germ Cell Tumor	ESR2	1.0	
+Anorexia nervosa 1	ESR1	1.0	
+Anorexia nervosa 1	ESR2	1.0	
+Glaucoma, Open-Angle	ESR1	1.0	
+Glaucoma, Open-Angle	ESR2	1.0	
+Peritonitis	ESR1	1.0	
+Peritonitis	ESR2	1.0	
+Breast adenocarcinoma	ESR1	1.0	
+Breast adenocarcinoma	ESR2	1.0	
+Mammary Ductal Carcinoma	ESR1	1.0	
+Mammary Ductal Carcinoma	ESR2	1.0	
+Carcinoma, Endometrioid	ESR1	1.0	
+Carcinoma, Endometrioid	ESR2	1.0	
+Giant cell arteritis	ESR1	1.0	
+Giant cell arteritis	ESR2	1.0	
+Mild cognitive impairment	ESR1	1.0	
+Mild cognitive impairment	ESR2	1.0	
+Venous thrombosis	ESR1	1.0	
+Venous thrombosis	ESR2	1.0	
+Prostatic Intraepithelial Neoplasias	ESR1	1.0	
+Prostatic Intraepithelial Neoplasias	ESR2	1.0	
+Sporadic Breast Carcinoma	ESR1	1.0	
+Sporadic Breast Carcinoma	ESR2	1.0	
+Peripheral Arterial Disease	ESR1	1.0	
+Peripheral Arterial Disease	ESR2	1.0	
+Malignant peripheral nerve sheath tumor with rhabdomyoblastic differentiation	ESR1	1.0	
+Malignant peripheral nerve sheath tumor with rhabdomyoblastic differentiation	ESR2	1.0	
+Invasive Carcinoma	ESR1	1.0	
+Invasive Carcinoma	ESR2	1.0	
+Oligospermia	ESR1	1.0	
+Oligospermia	ESR2	1.0	
+androgen independent prostate cancer	ESR1	1.0	
+androgen independent prostate cancer	ESR2	1.0	
+Adrenocortical carcinoma	ESR1	1.0	
+Adrenocortical carcinoma	ESR2	1.0	
+Adenocarcinoma of prostate	ESR1	1.0	
+Adenocarcinoma of prostate	ESR2	1.0	
+Disseminated Malignant Neoplasm	ESR1	1.0	
+Disseminated Malignant Neoplasm	ESR2	1.0	
+Lipoatrophy	ESR1	1.0	
+Lipoatrophy	ESR2	1.0	
+Malignant neoplasm of gallbladder	ESR1	1.0	
+Malignant neoplasm of gallbladder	ESR2	1.0	
+Malignant neoplasm of adrenal cortex	ESR1	1.0	
+Estrogen resistance	ESR1	1.0	
+Cholelithiasis	ESR1	1.0	
+Cholelithiasis	ESR2	1.0	
+Bulimia	ESR2	1.0	
+Cervical dysplasia	ESR1	1.0	
+Atrial Fibrillation	ESR1	1.0	
+Atrial Fibrillation	ESR2	1.0	
+Lung Injury	ESR2	1.0	
+Breast cancer recurrent	ESR1	1.0	
+Chronic Periodontitis	ESR1	1.0	
+Chronic Periodontitis	ESR2	1.0	
+Cyst	ESR1	1.0	
+Cyst	ESR2	1.0	
+Bladder neck obstruction	ESR1	1.0	
+Cholesterol gallstones	ESR1	1.0	
+Aortic Aneurysm, Abdominal	ESR1	1.0	
+Aortic Aneurysm, Abdominal	ESR2	1.0	
+Gallbladder Carcinoma	ESR1	1.0	
+Gallbladder Carcinoma	ESR2	1.0	
+Herpes zoster disease	ESR1	1.0	
+Fetal Membranes, Premature Rupture	ESR1	1.0	
+Fetal Membranes, Premature Rupture	ESR2	1.0	
+Chorioamnionitis	ESR1	1.0	
+Chorioamnionitis	ESR2	1.0	
+Angiokeratoma	ESR2	1.0	
+Metabolic Bone Disorder	ESR1	1.0	
+Hypoplasia of the uterus	ESR1	1.0	
+Ovarian Failure, Premature	ESR1	1.0	
+Ovarian Failure, Premature	ESR2	1.0	
+Medullary thyroid carcinoma	ESR1	1.0	
+Medullary thyroid carcinoma	ESR2	1.0	
+Carpal tunnel syndrome	ESR1	1.0	
+Stage IV Ovarian Carcinoma	ESR2	1.0	
+Generalized osteoarthritis	ESR1	1.0	
+Oestrogen deficiency	ESR1	1.0	
+Premature Obstetric Labor	ESR1	1.0	
+Premature Obstetric Labor	ESR2	1.0	
+Transient ischemic attack	ESR1	1.0	
+Transient ischemic attack	ESR2	1.0	
+Cervix Diseases	ESR1	1.0	
+Comedone	ESR1	1.0	
+Triploidy syndrome	ESR1	1.0	
+Mammary Neoplasms, Experimental	ESR1	1.0	
+Mammary Neoplasms, Experimental	ESR2	1.0	
+Myasthenia Gravis	ESR1	1.0	
+Myasthenia Gravis	ESR2	1.0	
+Endometriosis of ovary	ESR1	1.0	
+Polymyalgia Rheumatica	ESR1	1.0	
+Invasive Lobular Breast Carcinoma	ESR1	1.0	
+Overweight	ESR1	1.0	
+Overweight	ESR2	1.0	
+Alveolar Bone Loss	ESR1	1.0	
+Condylomata Acuminata	ESR1	1.0	
+Sudden death	ESR1	1.0	
+Mammary adenocarcinoma	ESR1	1.0	
+Pregnancy associated hypertension	ESR1	1.0	
+Testicular seminoma	ESR1	1.0	
+Testicular seminoma	ESR2	1.0	
+Ductal Carcinoma	ESR1	1.0	
+Ductal Carcinoma	ESR2	1.0	
+Coronary Thrombosis	ESR1	1.0	
+Breast hypoplasia	ESR1	1.0	
+Cholestasis of pregnancy	ESR1	1.0	
+Gastro-esophageal reflux disease with esophagitis	ESR1	1.0	
+Cerebral aneurysm	ESR1	1.0	
+Stromal sarcoma	ESR1	1.0	
+Anaplasia	ESR1	1.0	
+Anaplasia	ESR2	1.0	
+Invasive Ductal Breast Carcinoma	ESR1	1.0	
+Invasive Ductal Breast Carcinoma	ESR2	1.0	
+Abnormal circulating gonadotropin level	ESR1	1.0	
+Ovarian Diseases	ESR1	1.0	
+Ovarian Diseases	ESR2	1.0	
+Dermal atrophy	ESR1	1.0	
+Dermal atrophy	ESR2	1.0	
+Acanthosis nigricans	ESR1	1.0	
+Angiofibromas	ESR1	1.0	
+Absence of secondary sex characteristics	ESR1	1.0	
+Venous Thromboembolism	ESR1	1.0	
+Venous Thromboembolism	ESR2	1.0	
+Anaphylactic shock NOS	ESR1	1.0	
+Malignant neoplasm of male breast	ESR1	1.0	
+Chronic interstitial cystitis	ESR2	1.0	
+Pathologic fracture	ESR1	1.0	
+Substance abuse problem	ESR1	1.0	
+Single tumor	ESR1	1.0	
+Yolk Sac Tumor	ESR1	1.0	
+Bone necrosis	ESR1	1.0	
+Mammary Carcinoma, Human	ESR1	1.0	
+Germ cell neoplasia	ESR1	1.0	
+Germ cell neoplasia	ESR2	1.0	
+Dry Eye Syndromes	ESR1	1.0	
+Abnormal epiphyseal ossification	ESR1	1.0	
+Li-Fraumeni syndrome	ESR1	1.0	
+Aplasia/hypoplasia of the uterus	ESR1	1.0	
+Azoospermia	ESR1	1.0	
+Azoospermia	ESR2	1.0	
+Neoplasm of the gallbladder	ESR2	1.0	
+Pleuritis	ESR1	1.0	
+Coronary Restenosis	ESR1	1.0	
+Papillomavirus Infections	ESR1	1.0	
+Lymphocytic infiltration	ESR1	1.0	
+Malignant mesothelioma	ESR1	1.0	
+Malignant mesothelioma	ESR2	1.0	
+Endometrial Neoplasms	ESR1	1.0	
+Endometrial Neoplasms	ESR2	1.0	
+Malignant neoplasm of female breast	ESR1	1.0	
+Left ventricular hypertrophy	ESR1	1.0	
+Left ventricular hypertrophy	ESR2	1.0	
+Peptic Esophagitis	ESR1	1.0	
+Lehman syndrome	ESR1	1.0	
+Elevated alkaline phosphatase	ESR1	1.0	
+Primary hyperparathyroidism	ESR1	1.0	
+Aplasia/Hypoplasia of the breasts	ESR1	1.0	
+Hypospadias	ESR1	1.0	
+Hypospadias	ESR2	1.0	
+Bone Diseases, Developmental	ESR1	1.0	
+Female Breast Carcinoma	ESR1	1.0	
+Endometrial Hyperplasia	ESR1	1.0	
+Low Tension Glaucoma	ESR2	1.0	
+Nerve Sheath Tumors	ESR1	1.0	
+Carcinoma of Male Breast	ESR1	1.0	
+Pituitary adenoma	ESR1	1.0	
+Pituitary adenoma	ESR2	1.0	
+Rectal Carcinoma	ESR1	1.0	
+Rectal Carcinoma	ESR2	1.0	
+Gastric Adenocarcinoma	ESR1	1.0	
+Gastric Adenocarcinoma	ESR2	1.0	
+Endometriosis of uterus	ESR1	1.0	
+Toxic Shock Syndrome	ESR1	1.0	
+Abnormality of alkaline phosphatase activity	ESR1	1.0	
+Noninfiltrating Intraductal Carcinoma	ESR1	1.0	
+Noninfiltrating Intraductal Carcinoma	ESR2	1.0	
+Medullary carcinoma	ESR1	1.0	
+Hyperlipidemia, combined, 1	ESR1	1.0	
+Hyperlipidemia, combined, 1	ESR2	1.0	
+EPIDERMODYSPLASIA VERRUCIFORMIS	ESR1	1.0	
+Lymphocytic Choriomeningitis	ESR1	1.0	
+Lymphangiomyomatosis	ESR1	1.0	
+Neoplasm of the parathyroid gland	ESR1	1.0	
+Desmoid tumor	ESR1	1.0	
+Carcinoma, Lobular	ESR1	1.0	
+cancer recurrence	ESR1	1.0	
+Adenocarcinoma, Endometrioid	ESR1	1.0	
+Dementia familial British	ESR1	1.0	
+Dementia familial British	ESR2	1.0	
+Intrahepatic cholestasis	ESR2	1.0	
+Aortic valve disease 2	ESR1	1.0	
+Male infertility	ESR1	1.0	
+Male infertility	ESR2	1.0	

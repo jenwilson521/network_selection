@@ -1,0 +1,33 @@
+Gene	CUI	Source Databases	
+AHR	C0206720	Squamous Cell Neoplasms	DisGeNet	
+CYP3A4	C0206720	Squamous Cell Neoplasms	DisGeNet	
+CYP3A5	C0206720	Squamous Cell Neoplasms	DisGeNet	
+CYP3A4	C0024620	Primary malignant neoplasm of liver	DisGeNet	
+CYP3A5	C0024620	Primary malignant neoplasm of liver	DisGeNet	
+CACNA1S	C0020461	Hyperkalemia	HumPhenOnt	
+NR3C2	C0020461	Hyperkalemia	HumPhenOnt	
+CACNA1C	C0151878	Prolonged QT interval	HumPhenOnt	
+CACNA1S	C0151878	Prolonged QT interval	HumPhenOnt	
+CACNA1C	C1141890	Congenital long QT syndrome	DisGeNet	
+CYP3A4	C1141890	Congenital long QT syndrome	DisGeNet	
+CYP3A4	C0011206	Cocaine delirium	DisGeNet	
+CYP3A5	C0011206	Cocaine delirium	DisGeNet	
+CACNA1C	C0086132	Depressive Symptoms	DisGeNet	
+CYP3A4	C0086132	Depressive Symptoms	DisGeNet	
+NR3C2	C0086132	Depressive Symptoms	DisGeNet	
+CACNA1S	C4023575	Abnormality of potassium homeostasis	HumPhenOnt	
+NR3C2	C4023575	Abnormality of potassium homeostasis	HumPhenOnt	
+CACNA1C	C0024591	Malignant hyperthermia susceptibility	DisGeNet	
+CACNA1S	C0024591	Malignant hyperthermia susceptibility	ClinVar,DisGeNet	
+CACNA1C	C0438215	Abnormal cardiac test	HumPhenOnt	
+CACNA1S	C0438215	Abnormal cardiac test	HumPhenOnt	
+CYP3A4	C0344307	Pain insensitivity	DisGeNet	
+CYP3A5	C0344307	Pain insensitivity	DisGeNet	
+CACNA1C	C0522055	Abnormal EKG	HumPhenOnt	
+CACNA1S	C0522055	Abnormal EKG	HumPhenOnt	
+CYP3A5	C1841972	Glucocorticoid resistance, generalized	DisGeNet	
+NR3C2	C1841972	Glucocorticoid resistance, generalized	DisGeNet	
+CACNA1C	C1720983	Channelopathies	DisGeNet	
+CACNA1S	C1720983	Channelopathies	DisGeNet	
+CACNA1S	C4023645	Abnormality of monovalent inorganic cation homeostasis	HumPhenOnt	
+NR3C2	C4023645	Abnormality of monovalent inorganic cation homeostasis	HumPhenOnt	

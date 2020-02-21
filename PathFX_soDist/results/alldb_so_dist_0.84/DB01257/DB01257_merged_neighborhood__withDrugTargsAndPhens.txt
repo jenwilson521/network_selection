@@ -1,0 +1,82 @@
+node1	node2	edge_score	
+DB01257	C5	1.0	
+C5		1.0
+Alopecia Areata	C5	1.0	
+Arthritis, Rheumatoid	C5	1.0	
+Rheumatoid arthritis	C5	1.0	
+Asthma	C5	1.0	
+Atherosclerosis	C5	1.0	
+Autoimmune disease 1	C5	1.0	
+Cerebral edema	C5	1.0	
+Breast-ovarian cancer, familial 1	C5	1.0	
+Bronchiolitis, Viral	C5	1.0	
+CNS disorder	C5	1.0	
+CNS infection	C5	1.0	
+Brain Ischemia	C5	1.0	
+Chlamydia Infections	C5	1.0	
+Colitis, Ulcerative	C5	1.0	
+Death, Sudden, Cardiac	C5	1.0	
+Diabetes mellitus type 1	C5	1.0	
+Diabetes mellitus type 2	C5	1.0	
+Diarrhea 8, secretory sodium, congenital	C5	1.0	
+Eczema	C5	1.0	
+Experimental Autoimmune Encephalomyelitis	C5	1.0	
+Endometriosis	C5	1.0	
+Erythema nodosum	C5	1.0	
+Fibrosis	C5	1.0	
+Folic Acid Deficiency	C5	1.0	
+IgA nephropathy, susceptibility to, 3	C5	1.0	
+Immediate hypersensitivity	C5	1.0	
+Immunodeficiency due to defect in CD3-gamma	C5	1.0	
+Infertility associated with multi-tailed spermatozoa and excessive DNA	C5	1.0	
+Inflammation	C5	1.0	
+Ischemia	C5	1.0	
+Liver Cirrhosis, Biliary	C5	1.0	
+Lupus Erythematosus, Systemic	C5	1.0	
+Lupus Nephritis	C5	1.0	
+Non-Hodgkin lymphoma	C5	1.0	
+Meningitis, Pneumococcal	C5	1.0	
+Myocardial Reperfusion Injury	C5	1.0	
+Neutropenia	C5	1.0	
+Peritonitis	C5	1.0	
+Reperfusion Injury	C5	1.0	
+Respiratory Distress Syndrome, Adult	C5	1.0	
+Respiratory Syncytial Virus Infections	C5	1.0	
+Sarcoidosis	C5	1.0	
+Seborrheic dermatitis	C5	1.0	
+Septicemia	C5	1.0	
+Abnormality of the skin	C5	1.0	
+Stroke	C5	1.0	
+Trachoma	C5	1.0	
+Virus Diseases	C5	1.0	
+Bronchial Hyperreactivity	C5	1.0	
+Renal fibrosis	C5	1.0	
+Infections, recurrent, with encephalopathy, hepatic dysfunction, and cardiovascular malformations	C5	1.0	
+Age-related macular degeneration 2	C5	1.0	
+Sepsis	C5	1.0	
+Abnormality of the digestive system	C5	1.0	
+Autosomal recessive inheritance	C5	1.0	
+Abnormality of the nervous system	C5	1.0	
+Hepatitis C, Chronic	C5	1.0	
+Breast carcinoma	C5	1.0	
+Acute anterior uveitis	C5	1.0	
+Abdominal symptom	C5	1.0	
+Drusen	C5	1.0	
+Venous Thromboembolism	C5	1.0	
+Coronary Artery Disease	C5	1.0	
+Hepatocellular carcinoma	C5	1.0	
+Thrombotic Microangiopathies	C5	1.0	
+Kashin-Beck Disease	C5	1.0	
+Abnormality of humoral immunity	C5	1.0	
+Juvenile idiopathic arthritis, enthesitis related arthritis	C5	1.0	
+Allergic sensitization	C5	1.0	
+Inflammatory abnormality of the skin	C5	1.0	
+Abnormality of the immune system	C5	1.0	
+Morphological abnormality of the central nervous system	C5	1.0	
+Increased inflammatory response	C5	1.0	
+Abnormal inflammatory response	C5	1.0	
+Abnormality of nervous system morphology	C5	1.0	
+Abnormality of skin physiology	C5	1.0	
+Abnormality of immune system physiology	C5	1.0	
+Abnormality of the integument	C5	1.0	
+Abnormality of digestive system physiology	C5	1.0	

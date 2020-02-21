@@ -1,0 +1,13 @@
+node_name	node_type	
+DB00594	drug	
+AOC1	drug_target	
+SCNN1G	drug_target	
+SCNN1A	drug_target	
+ASIC1	drug_target	
+PLAU	drug_target	
+ASIC2	drug_target	
+SLC22A4	drug_target	
+SCNN1D	drug_target	
+SCNN1B	drug_target	
+SLC22A2	drug_target	
+SLC9A1	drug_target	

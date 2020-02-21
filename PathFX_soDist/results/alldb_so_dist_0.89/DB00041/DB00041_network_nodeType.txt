@@ -1,0 +1,22 @@
+node_name	node_type	
+DB00041	drug	
+IL2RA	drug_target	
+IL2RB	drug_target	
+PTGS2	drug_target	
+IL2RG	drug_target	
+CYP2E1	drug_target	
+XDH	drug_target	
+PLA2G4A	drug_target	
+CYP3A4	drug_target	
+Squamous Cell Neoplasms	phenotype	
+Enzyme inhibition disorder	phenotype	
+Neoplasm of the larynx	phenotype	
+Acute postoperative pain	phenotype	
+Stomach Diseases	phenotype	
+Bone necrosis	phenotype	
+Chronic liver disease	phenotype	
+Leukoplakia	phenotype	
+Squamous intraepithelial lesion	phenotype	
+Reperfusion Injury	phenotype	
+Adverse drug events and drug allergies	phenotype	
+Cooley's anemia	phenotype	

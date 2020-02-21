@@ -1,0 +1,38 @@
+Gene	CUI	Source Databases	
+ABCB1	C0041755	Adverse drug events and drug allergies	DisGeNet	
+ABCC1	C0041755	Adverse drug events and drug allergies	DisGeNet	
+ABCC2	C0041755	Adverse drug events and drug allergies	DisGeNet	
+ABCG2	C0041755	Adverse drug events and drug allergies	DisGeNet	
+ALB	C0041755	Adverse drug events and drug allergies	DisGeNet	
+CYP2D6	C0041755	Adverse drug events and drug allergies	DisGeNet	
+ALB	C0028797	Occupational Diseases	DisGeNet	
+CYP2D6	C0028797	Occupational Diseases	DisGeNet	
+NOS2	C0028797	Occupational Diseases	DisGeNet	
+NOS3	C0028797	Occupational Diseases	DisGeNet	
+NQO1	C0028797	Occupational Diseases	DisGeNet	
+XDH	C0028797	Occupational Diseases	DisGeNet	
+ABCB1	C0008312	Primary biliary cirrhosis	DisGeNet	
+ABCC1	C0008312	Primary biliary cirrhosis	DisGeNet	
+ABCC2	C0008312	Primary biliary cirrhosis	DisGeNet	
+ABCC3	C0008312	Primary biliary cirrhosis	DisGeNet	
+ABCC6	C0008312	Primary biliary cirrhosis	DisGeNet	
+ABCG2	C0008312	Primary biliary cirrhosis	DisGeNet	
+ALB	C0008312	Primary biliary cirrhosis	DisGeNet	
+CYP2B6	C0008312	Primary biliary cirrhosis	DisGeNet	
+CYP2D6	C0008312	Primary biliary cirrhosis	DisGeNet	
+CYP3A4	C0008312	Primary biliary cirrhosis	DisGeNet	
+NOS3	C0008312	Primary biliary cirrhosis	DisGeNet	
+ABCB1	C1096063	Drug Resistant Epilepsy	DisGeNet	
+ABCC1	C1096063	Drug Resistant Epilepsy	DisGeNet	
+ABCC2	C1096063	Drug Resistant Epilepsy	DisGeNet	
+ALB	C1096063	Drug Resistant Epilepsy	DisGeNet	
+CBR1	C1096063	Drug Resistant Epilepsy	DisGeNet	
+CYP2B6	C0877008	Enzyme inhibition disorder	DisGeNet	
+CYP2D6	C0877008	Enzyme inhibition disorder	DisGeNet	
+CYP3A4	C0877008	Enzyme inhibition disorder	DisGeNet	
+NOS3	C0877008	Enzyme inhibition disorder	DisGeNet	
+CYP2B6	C0686347	Tardive Dyskinesia	DisGeNet	
+CYP2D6	C0686347	Tardive Dyskinesia	DisGeNet	
+CYP3A4	C0686347	Tardive Dyskinesia	DisGeNet	
+NOS3	C0686347	Tardive Dyskinesia	DisGeNet	
+NQO1	C0686347	Tardive Dyskinesia	DisGeNet	

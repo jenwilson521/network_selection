@@ -1,0 +1,4 @@
+node_name	node_type	
+DB00165	drug	
+CYP1A1	drug_target	
+PDXK	drug_target	

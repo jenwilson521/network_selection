@@ -1,0 +1,2 @@
+rank	phenotype	cui	assoc in neigh	assoc in intom	probability	Benjamini-Hochberg	genes	
+4	Gastroparesis	C0152020	3	36	3.0044635677128895e-06	5.05689001264e-06	ABCB1,ADRA1A,KCNH2

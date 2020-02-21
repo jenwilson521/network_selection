@@ -1,0 +1,7 @@
+node_name	node_type	
+DB00633	drug	
+CYP1A1	drug_target	
+CYP1A2	drug_target	
+CYP2E1	drug_target	
+CYP2D6	drug_target	
+ADRA2A	drug_target	

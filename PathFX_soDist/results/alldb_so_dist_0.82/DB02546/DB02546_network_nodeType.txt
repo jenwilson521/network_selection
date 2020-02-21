@@ -1,0 +1,66 @@
+node_name	node_type	
+DB02546	drug	
+HDAC1	drug_target	
+HDAC8	drug_target	
+HDAC3	drug_target	
+HDAC2	drug_target	
+HDAC6	drug_target	
+Stromal sarcoma	phenotype	
+Pancreatic Ductal Adenocarcinoma	phenotype	
+Endometriosis	phenotype	
+Borderline Personality Disorder	phenotype	
+Carcinoma, Papillary	phenotype	
+Bronchopulmonary Dysplasia	phenotype	
+Cutaneous T-cell lymphoma	phenotype	
+polyps	phenotype	
+Adrenal Gland Hyperfunction	phenotype	
+Liposarcoma, Dedifferentiated	phenotype	
+Pituitary dependent hypercortisolism	phenotype	
+Pancreatic adenocarcinoma	phenotype	
+Cancer Cell Growth	phenotype	
+Hypoxia	phenotype	
+Intrauterine growth retardation	phenotype	
+Ectopic Pregnancy	phenotype	
+Pituitary corticotropic cell adenoma	phenotype	
+Bacterial Vaginosis	phenotype	
+Colon cancer	phenotype	
+Glucocorticoid resistance, generalized	phenotype	
+Combined Hepatocellular Carcinoma and Cholangiocarcinoma	phenotype	
+Carcinoma of colon	phenotype	
+Neoplasm of the parathyroid gland	phenotype	
+Colonic Polyps	phenotype	
+Microsatellite Instability	phenotype	
+Myeloid leukemia	phenotype	
+Tumor Progression	phenotype	
+Xenograft Model	phenotype	
+Primary immune deficiency disorder	phenotype	
+Glioma	phenotype	
+Right ventricular hypertrophy	phenotype	
+Bronchitis	phenotype	
+Wiskott-Aldrich syndrome, 301000 (3)	phenotype	
+{Gastric cancer risk after H. pylori infection}, 137215 (3)	phenotype	
+Pemphigus Vulgaris	phenotype	
+Stomach cancer	phenotype	
+Granulomatous disease, chronic, autosomal recessive, cytochrome b-negative	phenotype	
+Hepatic cancer metastatic	phenotype	
+Lung cancer	phenotype	
+Testicular malignant germ cell tumor	phenotype	
+Spastic syndrome	phenotype	
+Leukoencephalopathy, Progressive Multifocal	phenotype	
+Malignant neoplasm of lung	phenotype	
+Teratoma	phenotype	
+Intrahepatic Cholangiocarcinoma	phenotype	
+Solid tumour	phenotype	
+Hereditary nonpolyposis colorectal cancer type 8	phenotype	
+Adenocarcinoma of lung	phenotype	
+Stomach Neoplasms	phenotype	
+Intestinal Neoplasms	phenotype	
+Amyotrophic lateral sclerosis type 1	phenotype	
+Allergic rhinitis	phenotype	
+Amyotrophy involving the shoulder musculature	phenotype	
+Embryonal Carcinoma	phenotype	
+Melanocytic nevus	phenotype	
+Spinal muscular atrophy with congenital bone fractures 2	phenotype	
+Gallbladder Carcinoma	phenotype	
+Cycloid psychosis	phenotype	
+Secondary hypertriglyceridemia	phenotype	

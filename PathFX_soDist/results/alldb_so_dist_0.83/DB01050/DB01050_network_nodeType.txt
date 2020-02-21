@@ -1,0 +1,49 @@
+node_name	node_type	
+DB01050	drug	
+PTGS2	drug_target	
+PTGS1	drug_target	
+FABP2	drug_target	
+UGT1A9	drug_target	
+UGT1A3	drug_target	
+GP1BA	drug_target	
+ABCB1	drug_target	
+S100A7	drug_target	
+UGT2B7	drug_target	
+UGT2B4	drug_target	
+PPARG	drug_target	
+SLCO1A2	drug_target	
+PPARA	drug_target	
+THBD	drug_target	
+CFTR	drug_target	
+CYP2C9	drug_target	
+CYP2C8	drug_target	
+ALB	drug_target	
+SLC22A11	drug_target	
+SLC22A6	drug_target	
+CYP2C19	drug_target	
+SLCO2B1	drug_target	
+ABCC4	drug_target	
+SLC22A8	drug_target	
+ABCC1	drug_target	
+BCL2	drug_target	
+Drug Allergy	phenotype	
+Hyperbilirubinemia	phenotype	
+Hepatitis D Infection	phenotype	
+Adverse drug events and drug allergies	phenotype	
+Peptic ulcer	phenotype	
+Cholelithiasis	phenotype	
+Febrile Neutropenia	phenotype	
+Anemia, Sickle Cell	phenotype	
+Hearing Loss, Partial	phenotype	
+Acute kidney injury	phenotype	
+Acute Coronary Syndrome	phenotype	
+Drug-Induced Liver Injury	phenotype	
+Leukopenia	phenotype	
+Drug Resistant Epilepsy	phenotype	
+Hepatic cancer metastatic	phenotype	
+Influenza	phenotype	
+Cholecystolithiasis	phenotype	
+Thrombosis	phenotype	
+Rhinitis, Allergic, Perennial	phenotype	
+Neutropenia	phenotype	
+Hypercholesterolemia, autosomal dominant, type B	phenotype	

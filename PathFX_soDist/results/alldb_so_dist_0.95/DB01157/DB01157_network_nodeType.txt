@@ -1,0 +1,12 @@
+node_name	node_type	
+DB01157	drug	
+DHFR	drug_target	
+Megaloblastic anemia, thiamine-responsive, with diabetes mellitus and sensorineural deafness	phenotype	
+Malaria, Vivax	phenotype	
+Familial Alzheimer Disease (FAD)	phenotype	
+Asymptomatic Infections	phenotype	
+Myelosuppression	phenotype	
+Folic Acid Deficiency	phenotype	
+Xeroderma pigmentosum, group A	phenotype	
+Dialeptic seizures	phenotype	
+Microcephaly, postnatal progressive, with seizures and brain atrophy	phenotype	

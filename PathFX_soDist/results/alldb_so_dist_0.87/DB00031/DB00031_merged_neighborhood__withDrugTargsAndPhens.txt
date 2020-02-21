@@ -1,0 +1,262 @@
+node1	node2	edge_score	
+DB00031	LRP1	1.0	
+DB00031	CLEC3B	1.0	
+DB00031	PLAUR	1.0	
+DB00031	CALR	1.0	
+DB00031	SERPINE1	1.0	
+DB00031	PLG	1.0	
+DB00031	ANXA2	1.0	
+DB00031	KRT8	1.0	
+DB00031	SERPINB2	1.0	
+DB00031	FGA	1.0	
+DB00031	CANX	1.0	
+SERPINE1	rs1799889	0.99
+SERPINE1	rs6092	0.99
+SERPINE1		1.0
+SERPINE1	rs2227631	0.99
+Leg Ulcer	SERPINE1	1.0	
+Hemorrhagic Fever with Renal Syndrome	SERPINE1	1.0	
+Placental Insufficiency	SERPINE1	1.0	
+Aneurysm, Ruptured	SERPINE1	1.0	
+Lupus anticoagulant disorder	SERPINE1	1.0	
+Brain Hemorrhage, Traumatic	SERPINE1	1.0	
+Thrombophilia due to activated protein C resistance	SERPINE1	1.0	
+Lobar Pneumonia	SERPINE1	1.0	
+Thrombosis of retinal vein	SERPINE1	1.0	
+Old myocardial infarction	SERPINE1	1.0	
+Proliferative retinopathy	SERPINE1	1.0	
+Acute pyelonephritis	SERPINE1	1.0	
+Renal interstitial fibrosis	SERPINE1	1.0	
+Protein S deficiency	SERPINE1	1.0	
+pricking of skin	SERPINE1	1.0	
+Intermittent claudication	SERPINE1	1.0	
+Hemorrhagic disorder due to intrinsic circulating anticoagulants	SERPINE1	1.0	
+Puerperal Disorders	SERPINE1	1.0	
+Respiratory Hypersensitivity	SERPINE1	1.0	
+Anterior myocardial infarction	SERPINE1	1.0	
+Meningitis, Pneumococcal	SERPINE1	1.0	
+Venous insufficiency	SERPINE1	1.0	
+Streptococcal pneumonia	SERPINE1	1.0	
+Aortic aneurysm without mention of rupture NOS	SERPINE1	1.0	
+Enteritis	SERPINE1	1.0	
+Multiple Organ Failure	SERPINE1	1.0	
+Rhinitis, Allergic, Perennial	SERPINE1	1.0	
+Resistance to activated protein C	SERPINE1	1.0	
+Community acquired pneumonia	SERPINE1	1.0	
+Peripheral artery occlusive disease	SERPINE1	1.0	
+Simple pneumoconiosis	SERPINE1	1.0	
+Pregnancy associated hypertension	SERPINE1	1.0	
+Aggressive periodontitis, generalized	SERPINE1	1.0	
+Coronary Thrombosis	SERPINE1	1.0	
+Polyuria	SERPINE1	1.0	
+Pancreatitis, Acute Necrotizing	SERPINE1	1.0	
+Obstructive nephropathy	SERPINE1	1.0	
+Idiopathic crescentic glomerulonephritis	SERPINE1	1.0	
+Thrombotic Microangiopathies	SERPINE1	1.0	
+Obesity, Visceral	SERPINE1	1.0	
+Coronary artery aneurysm	SERPINE1	1.0	
+Deep vein thrombosis of lower limb	SERPINE1	1.0	
+Disseminated intravascular coagulation	SERPINE1	1.0	
+Stomach Diseases	SERPINE1	1.0	
+Deep thrombophlebitis	SERPINE1	1.0	
+Bone necrosis	SERPINE1	1.0	
+Age-related cataract	SERPINE1	1.0	
+cardiac event	SERPINE1	1.0	
+Streptococcal Infections	SERPINE1	1.0	
+Fibromyalgia	SERPINE1	1.0	
+Virilism	SERPINE1	1.0	
+Insulin resistance syndrome	SERPINE1	1.0	
+Acute Cerebrovascular Accidents	SERPINE1	1.0	
+Coronary Restenosis	SERPINE1	1.0	
+Pneumococcal Infections	SERPINE1	1.0	
+Pyelonephritis	SERPINE1	1.0	
+Idiopathic fibrosing alveolitis, chronic form	SERPINE1	1.0	
+Idiopathic Membranous Glomerulonephritis	SERPINE1	1.0	
+Infectious Otitis Media	SERPINE1	1.0	
+Dyspepsia	SERPINE1	1.0	
+Factor V Leiden mutation	SERPINE1	1.0	
+Lymphangiomyomatosis	SERPINE1	1.0	
+Oral Submucous Fibrosis	SERPINE1	1.0	
+ {Septic shock, susceptibility to} (3)	SERPINE1	1.0	
+Desmoid tumor	SERPINE1	1.0	
+Menopause present (finding)	SERPINE1	1.0	
+Meningococcal Infections	SERPINE1	1.0	
+Stress, Psychological	SERPINE1	1.0	
+Systemic Inflammatory Response Syndrome	SERPINE1	1.0	
+Aortic dissection	SERPINE1	1.0	
+Hemolytic uremic syndrome	SERPINE1	1.0	
+Alpha-1-antitrypsin deficiency	SERPINE1	1.0	
+Primary hyperaldosteronism	SERPINE1	1.0	
+Angiogenic Switch	SERPINE1	1.0	
+Proliferative diabetic retinopathy	SERPINE1	1.0	
+Neurodegeneration with brain iron accumulation 4	SERPINE1	1.0	
+Hemangiosarcoma	SERPINE1	1.0	
+Primary antiphospholipid syndrome	SERPINE1	1.0	
+Acute Lung Injury	SERPINE1	1.0	
+Female infertility	SERPINE1	1.0	
+Angina pectoris	SERPINE1	1.0	
+ Cerebrovascular disease, occlusive (3)	SERPINE1	1.0	
+Ischemic cardiomyopathy	SERPINE1	1.0	
+Homocysteinemia due to MTHFR deficiency	SERPINE1	1.0	
+Granulomatosis with Polyangiitis	SERPINE1	1.0	
+Osteomyelitis, sterile multifocal, with periostitis and pustulosis	SERPINE1	1.0	
+Postoperative Complications	SERPINE1	1.0	
+Endometrioma	SERPINE1	1.0	
+Complications of Diabetes Mellitus	SERPINE1	1.0	
+Adenovirus Infections	SERPINE1	1.0	
+Pulmonary edema	SERPINE1	1.0	
+Premature aging syndrome	SERPINE1	1.0	
+Recurrent abortion	SERPINE1	1.0	
+Scar conditions and fibrosis of skin	SERPINE1	1.0	
+Cerebral edema	SERPINE1	1.0	
+Duodenal Ulcer	SERPINE1	1.0	
+Werner syndrome	SERPINE1	1.0	
+Pregnancy loss	SERPINE1	1.0	
+Coronary artery stenosis	SERPINE1	1.0	
+Infarction, Middle Cerebral Artery	SERPINE1	1.0	
+Membranous nephropathy, susceptibility to	SERPINE1	1.0	
+Soft Tissue Neoplasms	SERPINE1	1.0	
+Severe Sepsis	SERPINE1	1.0	
+Familial Mediterranean fever	SERPINE1	1.0	
+Diabetic Angiopathies	SERPINE1	1.0	
+Oral Cavity Carcinoma	SERPINE1	1.0	
+Cerebral autosomal recessive arteriopathy with subcortical infarcts and leukoencephalopathy	SERPINE1	1.0	
+Angina, Unstable	SERPINE1	1.0	
+X-linked ichthyosis with steryl-sulfatase deficiency	SERPINE1	1.0	
+Arterial thrombosis	SERPINE1	1.0	
+Adenocarcinoma, Clear Cell	SERPINE1	1.0	
+Cerebral palsy, spastic quadriplegic, 3	SERPINE1	1.0	
+Hyperlipidemia, familial combined	SERPINE1	1.0	
+Postmenopausal osteoporosis	SERPINE1	1.0	
+Skin carcinoma	SERPINE1	1.0	
+Biliary Atresia	SERPINE1	1.0	
+Polyglandular autoimmune syndrome, type 1	SERPINE1	1.0	
+Endotoxemia	SERPINE1	1.0	
+Testicular malignant germ cell tumor	SERPINE1	1.0	
+Interstitial fibrosis	SERPINE1	1.0	
+Hepatopulmonary Syndrome	SERPINE1	1.0	
+Cystitis	SERPINE1	1.0	
+Acute pancreatitis	SERPINE1	1.0	
+Liver Cirrhosis, Alcoholic	SERPINE1	1.0	
+Bacteremia, susceptibility to, 2	SERPINE1	1.0	
+Hereditary factor VIII deficiency disease	SERPINE1	1.0	
+Middle Cerebral Artery Occlusion	SERPINE1	1.0	
+Fibrinogen Adverse Event	SERPINE1	1.0	
+Glomerulosclerosis, Focal Segmental	SERPINE1	1.0	
+tumor vasculature	SERPINE1	1.0	
+Synovitis	SERPINE1	1.0	
+Glaucoma, Open-Angle	SERPINE1	1.0	
+Deep venous thrombosis	SERPINE1	1.0	
+Hay fever	SERPINE1	1.0	
+Sinusitis	SERPINE1	1.0	
+early pregnancy	SERPINE1	1.0	
+Peritonitis	SERPINE1	1.0	
+Intracranial Aneurysm	SERPINE1	1.0	
+Gastric ulcer	SERPINE1	1.0	
+Aortic Aneurysm, Thoracic	SERPINE1	1.0	
+Meningitis	SERPINE1	1.0	
+Hereditary hyperhomocysteinemia	SERPINE1	1.0	
+Immediate hypersensitivity	SERPINE1	1.0	
+Thromboembolism	SERPINE1	1.0	
+Knee osteoarthritis	SERPINE1	1.0	
+Hypertriglyceridemia	SERPINE1	1.0	
+Vascular inflammations	SERPINE1	1.0	
+Bilateral cataracts (disorder)	SERPINE1	1.0	
+Focal segmental glomerulosclerosis	SERPINE1	1.0	
+Peptic ulcer	SERPINE1	1.0	
+Thrombophilia	SERPINE1	1.0	
+Infertility associated with multi-tailed spermatozoa and excessive DNA	SERPINE1	1.0	
+Amyloidosis	SERPINE1	1.0	
+Obesity, severe, 601665 (3)	SERPINE1	1.0	
+Gingival Diseases	SERPINE1	1.0	
+Musculoskeletal Diseases	SERPINE1	1.0	
+Pregnancy Complications	SERPINE1	1.0	
+Pregnancy Complications, Hematologic	SERPINE1	1.0	
+Pulmonary Embolism	SERPINE1	1.0	
+Abdominal obesity	SERPINE1	1.0	
+beta Thalassemia	SERPINE1	1.0	
+Leiomyosarcoma	SERPINE1	1.0	
+Anaplastic astrocytoma	SERPINE1	1.0	
+Testicular Neoplasms	SERPINE1	1.0	
+Adrenoleukodystrophy	SERPINE1	1.0	
+Hyperthyroidism	SERPINE1	1.0	
+Mild cognitive impairment	SERPINE1	1.0	
+Respiratory Distress Syndrome, Adult	SERPINE1	1.0	
+Venous thrombosis	SERPINE1	1.0	
+Hyperplasia	SERPINE1	1.0	
+Essential thrombocythemia	SERPINE1	1.0	
+{Aneurysm, familial abdominal 3} (2)	SERPINE1	1.0	
+Fetal Diseases	SERPINE1	1.0	
+Sudden cardiac death	SERPINE1	1.0	
+Ureteral obstruction	SERPINE1	1.0	
+Thrombosis	SERPINE1	1.0	
+Glomerulopathy	SERPINE1	1.0	
+Adenocarcinoma of prostate	SERPINE1	1.0	
+Carotid Stenosis	SERPINE1	1.0	
+Albuminuria	SERPINE1	1.0	
+Lipoatrophy	SERPINE1	1.0	
+Abnormality of the menstrual cycle	SERPINE1	1.0	
+46,XY gonadal dysgenesis, partial, with minifascicular neuropathy	SERPINE1	1.0	
+Myeloproliferative disorder (2)	SERPINE1	1.0	
+Obstructive sleep apnea	SERPINE1	1.0	
+Lymphatic Metastasis	SERPINE1	1.0	
+Neoplasm Invasiveness	SERPINE1	1.0	
+Renal fibrosis	SERPINE1	1.0	
+Bronchial Hyperreactivity	SERPINE1	1.0	
+Tumor necrosis	SERPINE1	1.0	
+Borderline Personality Disorder	SERPINE1	1.0	
+Dissecting aneurysm of the thoracic aorta	SERPINE1	1.0	
+Allergic rhinitis	SERPINE1	1.0	
+Atrial Fibrillation	SERPINE1	1.0	
+Bleeding disorder, platelet-type, 21	SERPINE1	1.0	
+Thyroid cancer, follicular	SERPINE1	1.0	
+Keloid	SERPINE1	1.0	
+Nephritis	SERPINE1	1.0	
+Amyotrophy involving the shoulder musculature	SERPINE1	1.0	
+Menstrual irregularities	SERPINE1	1.0	
+Non-Malignant Ascites Adverse Event	SERPINE1	1.0	
+Familial hypercholesterolemia	SERPINE1	1.0	
+Chronic Periodontitis	SERPINE1	1.0	
+Eclampsia	SERPINE1	1.0	
+Hypogonadotropic hypogonadism 7 with or without anosmia	SERPINE1	1.0	
+Congenital onset	SERPINE1	1.0	
+Chronic Kidney Insufficiency	SERPINE1	1.0	
+Aortic Aneurysm, Abdominal	SERPINE1	1.0	
+Fibrosis	SERPINE1	1.0	
+Dilated cardiomyopathy 1A	SERPINE1	1.0	
+Polycythemia vera	SERPINE1	1.0	
+Fetal Membranes, Premature Rupture	SERPINE1	1.0	
+Chorioamnionitis	SERPINE1	1.0	
+Connective Tissue Diseases	SERPINE1	1.0	
+Ovarian Failure, Premature	SERPINE1	1.0	
+Allergic asthma	SERPINE1	1.0	
+Mucocutaneous Lymph Node Syndrome	SERPINE1	1.0	
+Premature Obstetric Labor	SERPINE1	1.0	
+Intraocular melanoma	SERPINE1	1.0	
+Myasthenia Gravis	SERPINE1	1.0	
+Maternal diabetes	SERPINE1	1.0	
+Allergic disposition	SERPINE1	1.0	
+Pulmonary Emphysema	SERPINE1	1.0	
+Hypercholesterolemia, autosomal dominant, type B	SERPINE1	1.0	
+Benign neoplasm of other endocrine glands	SERPINE1	1.0	
+Endothelial dysfunction	SERPINE1	1.0	
+Overweight	SERPINE1	1.0	
+Hepatoblastoma	SERPINE1	1.0	
+Restenosis	SERPINE1	1.0	
+Testicular seminoma	SERPINE1	1.0	
+Cardiac arrest	SERPINE1	1.0	
+Liver failure acute infantile	SERPINE1	1.0	
+Ductal Carcinoma	SERPINE1	1.0	
+Plaque, Atherosclerotic	SERPINE1	1.0	
+Lupus Nephritis	SERPINE1	1.0	
+Otitis media	SERPINE1	1.0	
+Primary pulmonary hypertension	SERPINE1	1.0	
+Dyslipidemias	SERPINE1	1.0	
+Aortic aneurysm, familial thoracic 11, susceptibility to	SERPINE1	1.0	
+Anaplasia	SERPINE1	1.0	
+Invasive Ductal Breast Carcinoma	SERPINE1	1.0	
+Ovarian Diseases	SERPINE1	1.0	
+Bronchopulmonary Dysplasia	SERPINE1	1.0	
+Gastritis	SERPINE1	1.0	
+Acute myocardial infarction	SERPINE1	1.0	
+Venous Thromboembolism	SERPINE1	1.0	

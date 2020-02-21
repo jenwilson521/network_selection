@@ -1,0 +1,69 @@
+Gene	CUI	Source Databases	
+BCHE	C0877008	Enzyme inhibition disorder	DisGeNet	
+CYP3A4	C0877008	Enzyme inhibition disorder	DisGeNet	
+PTGS2	C0877008	Enzyme inhibition disorder	DisGeNet	
+CYP3A4	C0206720	Squamous Cell Neoplasms	DisGeNet	
+PTGS2	C0206720	Squamous Cell Neoplasms	DisGeNet	
+AR	C0497496	Prostatitis	DisGeNet	
+PTGS2	C0497496	Prostatitis	DisGeNet	
+AR	C0279565	Invasive Lobular Breast Carcinoma	DisGeNet	
+PTGS2	C0279565	Invasive Lobular Breast Carcinoma	DisGeNet	
+CYP3A4	C0030201	Acute postoperative pain	DisGeNet	
+PTGS2	C0030201	Acute postoperative pain	DisGeNet	
+AR	C0280280	Prostate cancer stage C	DisGeNet	
+PTGS2	C0280280	Prostate cancer stage C	DisGeNet	
+AR	C0086132	Depressive Symptoms	DisGeNet	
+CYP3A4	C0086132	Depressive Symptoms	DisGeNet	
+NR3C2	C0086132	Depressive Symptoms	DisGeNet	
+AR	C1291314	21-hydroxylase deficiency	DisGeNet	
+CYP3A4	C1291314	21-hydroxylase deficiency	DisGeNet	
+AR	C0598894	Monocytic leukemia	DisGeNet	
+PTGS2	C0598894	Monocytic leukemia	DisGeNet	
+AR	C0162557	Acute hepatic failure	DisGeNet	
+CYP3A4	C0162557	Acute hepatic failure	DisGeNet	
+PTGS2	C0162557	Acute hepatic failure	DisGeNet	
+AR	C0741899	Poorly differentiated carcinoma	DisGeNet	
+PTGS2	C0741899	Poorly differentiated carcinoma	DisGeNet	
+AR	C0014173	Endometrial Hyperplasia	DisGeNet	
+PTGS2	C0014173	Endometrial Hyperplasia	DisGeNet	
+AR	C0002893	Refractory anemia	DisGeNet	
+BCHE	C0002893	Refractory anemia	DisGeNet	
+AR	C0334463	Malignant Fibrous Histiocytoma	DisGeNet	
+PTGS2	C0334463	Malignant Fibrous Histiocytoma	DisGeNet	
+AR	C0079218	Desmoid tumor	DisGeNet	
+PTGS2	C0079218	Desmoid tumor	DisGeNet	
+AR	C0206692	Carcinoma, Lobular	DisGeNet	
+PTGS2	C0206692	Carcinoma, Lobular	DisGeNet	
+BCHE	C0041755	Adverse drug events and drug allergies	DisGeNet	
+PTGS2	C0041755	Adverse drug events and drug allergies	DisGeNet	
+BCHE	C0009241	Cognition Disorders	DisGeNet	
+PTGS2	C0009241	Cognition Disorders	DisGeNet	
+AR	C0342492	Adrenal hyperplasia	DisGeNet	
+CYP3A4	C0342492	Adrenal hyperplasia	DisGeNet	
+AR	C0016034	Breast Fibrocystic Disease	DisGeNet	
+PTGS2	C0016034	Breast Fibrocystic Disease	DisGeNet	
+AR	C0027658	Neoplasms, Germ Cell and Embryonal	DisGeNet	
+CYP3A4	C0027658	Neoplasms, Germ Cell and Embryonal	DisGeNet	
+CYP3A4	C0206726	gliosarcoma	DisGeNet	
+PTGS2	C0206726	gliosarcoma	DisGeNet	
+CYP3A4	C0019337	Heroin Dependence	DisGeNet	
+NR3C2	C0019337	Heroin Dependence	DisGeNet	
+AR	C0015644	Fasciculations	DisGeNet,HumPhenOnt	
+BCHE	C0015644	Fasciculations	DisGeNet	
+NR3C2	C0595936	Aqueous Humor Disorders	DisGeNet	
+PTGS2	C0595936	Aqueous Humor Disorders	DisGeNet	
+AR	C1842981	NEUROTICISM	DisGeNet	
+NR3C2	C1842981	NEUROTICISM	DisGeNet	
+AR	C0003469	Anxiety Disorders	DisGeNet	
+CYP3A4	C0003469	Anxiety Disorders	DisGeNet	
+NR3C2	C0003469	Anxiety Disorders	DisGeNet	
+PTGS2	C0003469	Anxiety Disorders	DisGeNet	
+AR	C0001627	Congenital adrenal hyperplasia	DisGeNet	
+NR3C2	C0001627	Congenital adrenal hyperplasia	DisGeNet	
+BCHE	C0032787	Postoperative Complications	DisGeNet	
+PTGS2	C0032787	Postoperative Complications	DisGeNet	
+AR	C0524620	Metabolic Syndrome X	DisGeNet	
+BCHE	C0524620	Metabolic Syndrome X	DisGeNet	
+CYP3A4	C0524620	Metabolic Syndrome X	DisGeNet	
+NR3C2	C0524620	Metabolic Syndrome X	DisGeNet	
+PTGS2	C0524620	Metabolic Syndrome X	DisGeNet	

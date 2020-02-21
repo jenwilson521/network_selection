@@ -1,0 +1,8 @@
+Gene	CUI	Source Databases	
+CYP1A2	C0031347	Pharyngeal Neoplasms	DisGeNet	
+CYP2C8	C0031347	Pharyngeal Neoplasms	DisGeNet	
+CYP2C9	C0031347	Pharyngeal Neoplasms	DisGeNet	
+CYP3A4	C0031347	Pharyngeal Neoplasms	DisGeNet	
+ALB	C0035457	Rhinitis, Allergic, Perennial	DisGeNet	
+CYP2C19	C0035457	Rhinitis, Allergic, Perennial	DisGeNet	
+CYP2C9	C0035457	Rhinitis, Allergic, Perennial	DisGeNet	

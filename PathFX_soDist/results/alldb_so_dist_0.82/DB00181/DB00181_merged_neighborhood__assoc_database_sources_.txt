@@ -1,0 +1,124 @@
+Gene	CUI	Source Databases	
+ALB	C0346402	Malignant neoplasm of adrenal cortex	DisGeNet	
+ALB	C0014867	Esophageal varix	DisGeNet	
+ALB	C0451641	Urolithiasis	DisGeNet	
+ALB	C0013502	Echinococcosis	DisGeNet	
+KRT9	C0079298	Epidermolysis bullosa simplex, Cockayne-Touraine type	DisGeNet	
+KRT9	C0240641	Palmar hyperkeratosis	HumPhenOnt	
+ALB	C0339467	Proliferative retinopathy	DisGeNet	
+KRT9	C0043037	Verrucae	HumPhenOnt	
+ALB	C3714796	Isolated somatotropin deficiency	DisGeNet	
+ALB	C0038586	Substance Use Disorders	DisGeNet	
+ALB	C0751781	Dentatorubral pallidoluysian atrophy	DisGeNet	
+ALB	C0002985	Angiokeratoma	DisGeNet	
+ALB	C0013338	Isolated growth hormone deficiency type 1B	DisGeNet	
+KRT9	C1856954	Plantar hyperkeratosis	HumPhenOnt	
+ALB	C0031039	Pericardial effusion	DisGeNet	
+ALB	C0026780	Mumps	DisGeNet	
+ALB	C0035457	Rhinitis, Allergic, Perennial	DisGeNet	
+ALB	C0342200	Endemic Cretinism	DisGeNet	
+ALB	C0206734	Hemangioblastoma	DisGeNet	
+GABBR1	C0036429	Sclerosis	DisGeNet	
+ALB	C0017662	Mesangiocapillary glomerulonephritis, type II	DisGeNet	
+ALB	C0027719	Nephrosclerosis	DisGeNet	
+ALB	C0235025	Peripheral motor neuropathy	DisGeNet	
+ALB	C0745744	End Stage Liver Disease	DisGeNet	
+ALB	C4023036	Abnormal albumin level	HumPhenOnt	
+ALB	C0007121	Bronchogenic Carcinoma	DisGeNet	
+ALB	C0010051	Coronary artery aneurysm	DisGeNet	
+ALB	C0020476	Hyperlipoproteinemia	DisGeNet	
+ALB	C0745103	Hyperlipoproteinemia Type IIa	DisGeNet	
+ALB	C0027707	Tubulointerstitial nephritis	DisGeNet	
+GABBR1	C0270853	Juvenile myoclonic epilepsy	DisGeNet	
+ALB	C1298180	Single tumor	DisGeNet	
+ALB	C1704321	Nephrotic Syndrome, Minimal Change	DisGeNet	
+GABBR1	C1504404	Hippocampal sclerosis	DisGeNet	
+KRT9	C0037277	Skin Diseases, Genetic	DisGeNet	
+ALB	C0740380	Varicella zoster	DisGeNet	
+ALB	C1260959	Drusen	DisGeNet	
+KRT9	C0151669	Increased antibody level in blood	HumPhenOnt	
+ALB	C3714619	Insulin resistance syndrome	DisGeNet	
+ALB	C0027720	Nephrosis	DisGeNet	
+ALB	C0018378	Guillain-Barre syndrome, familial	DisGeNet	
+ALB	C0221002	Primary hyperparathyroidism	DisGeNet	
+ALB	C1096063	Drug Resistant Epilepsy	DisGeNet	
+ALB	C0035242	Respiratory Tract Diseases	DisGeNet	
+ALB	C0086981	Sicca Syndrome	DisGeNet	
+ALB	C0239981	Hypoalbuminemia	DisGeNet,HumPhenOnt	
+ALB	C0030286	Neurologic, endocrine, and pancreatic disease, multisystem, infantile-onset	DisGeNet	
+KRT9	C4020946	Abnormality of the plantar skin of foot	HumPhenOnt	
+ALB	C0010308	Congenital hypothyroidism	DisGeNet	
+ALB	C0041755	Adverse drug events and drug allergies	DisGeNet	
+GABBR1	C0270850	Idiopathic generalized epilepsy	DisGeNet	
+GABBR1	C0270736	Essential tremor	DisGeNet	
+ALB	C0019061	Hemolytic uremic syndrome	DisGeNet	
+ALB	C0013595	Eczema	DisGeNet	
+KRT9	C0013595	Eczema	HumPhenOnt	
+GABBR1	C0029421	Osteochondritis dissecans	DisGeNet	
+ALB	C0028797	Occupational Diseases	DisGeNet	
+ALB	C0730345	Microalbuminuria	DisGeNet	
+GABBR1	C0037315	Sleep apnea	DisGeNet	
+ALB	C0008031	Chest pain	DisGeNet	
+ALB	C0042749	 {HIV-1 viremia, susceptibility to}, 609423 (3)	DisGeNet	
+ALB	C0242488	Acute Lung Injury	DisGeNet	
+GABBR1	C0013473	Eating disorder	DisGeNet	
+ALB	C0342257	Complications of Diabetes Mellitus	DisGeNet	
+ALB	C0034063	Pulmonary edema	DisGeNet	
+ALB	C0038325	Stevens-Johnson Syndrome	DisGeNet	
+ALB	C0024291	Lymphohistiocytosis, Hemophagocytic	DisGeNet	
+GABBR1	C0014553	Absence seizures	DisGeNet	
+ALB	C0021079	IMMUNE SUPPRESSION	DisGeNet	
+ALB	C0011269	Dementia, Vascular	DisGeNet	
+ALB	C0017665	Membranous nephropathy, susceptibility to	DisGeNet	
+GABBR1	C0027439	Nasopharyngeal Neoplasms	DisGeNet	
+GABBR1	C0028768	Obsessive-compulsive disorder	DisGeNet	
+ALB	C0012236	DiGeorge sequence	DisGeNet	
+ALB	C1318485	Liver regeneration disorder	DisGeNet	
+ALB	C0011875	Diabetic Angiopathies	DisGeNet	
+ALB	C0032131	Plasmacytoma	DisGeNet	
+ALB	C0011882	Type 1 diabetic neuropathy	DisGeNet	
+ALB	C0152025	Polyneuropathy, hearing loss, ataxia, retinitis pigmentosa, and cataract	DisGeNet	
+GABBR1	C0027796	Neuralgia	DisGeNet	
+GABBR1	C0476254	Dyslexia 1	DisGeNet	
+ALB	C0020474	Hyperlipidemia, familial combined	DisGeNet	
+ALB	C3887486	Interstitial fibrosis	DisGeNet	
+ALB	C0018995	Hemochromatosis	DisGeNet	
+ALB	C0030193	Pain	DisGeNet	
+GABBR1	C0030193	Pain	DisGeNet	
+KRT9	C0020458	Hyperhidrosis	HumPhenOnt	
+ALB	C0013146	Methamphetamine abuse	DisGeNet	
+ALB	C0019069	Hereditary factor VIII deficiency disease	DisGeNet	
+ALB	C0178664	Glomerulosclerosis, Focal Segmental	DisGeNet	
+ALB	C1658953	tumor vasculature	DisGeNet	
+ALB	C0014544	Epilepsy	DisGeNet	
+GABBR1	C0014544	Epilepsy	DisGeNet	
+ALB	C0342276	Maturity-onset diabetes of the young, type 11	DisGeNet	
+GABBR1	C0028043	Nicotine Dependence	DisGeNet	
+GABBR1	C0236736	Cocaine-Related Disorders	DisGeNet	
+ALB	C0017668	Focal segmental glomerulosclerosis	DisGeNet	
+ALB	C0162429	Malnutrition	DisGeNet	
+KRT9	C0041834	Erythema	HumPhenOnt	
+ALB	C0042109	Urticaria	DisGeNet	
+ALB	C0398623	Thrombophilia	DisGeNet	
+ALB	C0020649	Hypotension	DisGeNet,HumPhenOnt	
+KRT9	C4021782	Abnormality of the fingernails	HumPhenOnt	
+ALB	C0235833	Congenital diaphragmatic hernia	DisGeNet	
+ALB	C0034065	Pulmonary Embolism	DisGeNet	
+ALB	C0003123	Anorexia	DisGeNet	
+KRT9	C1855755	Abnormal immunoglobulin level	HumPhenOnt	
+ALB	C0162557	Acute hepatic failure	DisGeNet	
+KRT9	C1849242	Abnormality of B cell physiology	HumPhenOnt	
+KRT9	C4021748	Abnormality of B cells	HumPhenOnt	
+ALB	C0012634	Gallbladder disease 4	DisGeNet	
+KRT9	C0012634	Gallbladder disease 4	DisGeNet	
+ALB	C0035222	Respiratory Distress Syndrome, Adult	DisGeNet	
+ALB	C0275524	Coinfection	DisGeNet	
+ALB	C0341439	Chronic liver disease	DisGeNet	
+ALB	C4021524	Abnormality of adipose tissue	HumPhenOnt	
+KRT9	C0020620	Hypohidrosis	HumPhenOnt	
+KRT9	C0020757	Ichthyosis, congenital, autosomal recessive 12	HumPhenOnt	
+ALB	C0042164	Uveitis	DisGeNet	
+KRT9	C0022596	Palmoplantar keratoderma, nonepidermolytic, focal	DisGeNet,HumPhenOnt	
+KRT9	C3150510	Abnormality of humoral immunity	HumPhenOnt	
+ALB	C0268731	Glomerulopathy	DisGeNet	
+ALB	C0206686	Adrenocortical carcinoma	DisGeNet	

@@ -1,0 +1,18 @@
+node1	node2	edge_score	
+DB01356	GRIA3	1.0	
+DB01356	IMPA2	1.0	
+DB01356	IMPA1	1.0	
+DB01356	GSK3B	1.0	
+GRIA3		1.0
+GRIA3	rs3761555	0.99
+GRIA3	rs3761554	0.99
+GSK3B		1.0
+GRIA3	rs4825476	0.99
+GRIA3	rs502434	0.99
+Weight Gain Adverse Event	GRIA3	1.0	
+Weight Gain Adverse Event	GSK3B	1.0	
+Recurrent major depressive episodes	GSK3B	1.0	
+Prominent supraorbital ridges	GRIA3	1.0	
+Parathyroid carcinoma	GSK3B	1.0	
+Dyskinesia, Drug-Induced	GSK3B	1.0	
+Drug Resistant Epilepsy	GRIA3	1.0	

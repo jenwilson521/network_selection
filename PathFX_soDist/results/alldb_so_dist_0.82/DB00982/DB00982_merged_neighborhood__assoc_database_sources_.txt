@@ -1,0 +1,3 @@
+Gene	CUI	Source Databases	
+ALB	C0042749	 {HIV-1 viremia, susceptibility to}, 609423 (3)	DisGeNet	
+CYP3A4	C0042749	 {HIV-1 viremia, susceptibility to}, 609423 (3)	DisGeNet	

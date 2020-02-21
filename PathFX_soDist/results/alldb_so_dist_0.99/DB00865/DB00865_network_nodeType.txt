@@ -1,0 +1,9 @@
+node_name	node_type	
+DB00865	drug	
+SLC6A3	drug_target	
+ADRA1A	drug_target	
+CYP2B6	drug_target	
+POR	drug_target	
+ADRA2A	drug_target	
+SLC18A2	drug_target	
+CYP3A4	drug_target	

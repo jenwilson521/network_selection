@@ -1,0 +1,53 @@
+node_name	node_type	
+DB01174	drug	
+GRIA2	drug_target	
+CYP4B1	drug_target	
+GABRA1	drug_target	
+UGT1A1	drug_target	
+CYP1B1	drug_target	
+CYP2B6	drug_target	
+ABCB1	drug_target	
+UGT2B7	drug_target	
+CYP1A1	drug_target	
+CHRNA4	drug_target	
+ABCB11	drug_target	
+CHRNA7	drug_target	
+CYP2A6	drug_target	
+CYP3A4	drug_target	
+CYP3A5	drug_target	
+CYP2C9	drug_target	
+CYP2C8	drug_target	
+CYP1A2	drug_target	
+CYP4A11	drug_target	
+GRIK2	drug_target	
+CYP2E1	drug_target	
+NR1I2	drug_target	
+CYP2C19	drug_target	
+CYP2C18	drug_target	
+ABCC1	drug_target	
+ABCC2	drug_target	
+ABCC3	drug_target	
+Drug Allergy	phenotype	
+Hyperbilirubinemia	phenotype	
+Pleural Neoplasms	phenotype	
+Leukopenia	phenotype	
+Febrile Neutropenia	phenotype	
+Genomic Instability	phenotype	
+Hepatitis D Infection	phenotype	
+Adverse drug events and drug allergies	phenotype	
+Neutropenia	phenotype	
+Drug-Induced Liver Injury	phenotype	
+Neoplasm of the larynx	phenotype	
+Primary malignant neoplasm of liver	phenotype	
+Neoplasms, Germ Cell and Embryonal	phenotype	
+Pharyngeal Neoplasms	phenotype	
+Hearing Loss, Partial	phenotype	
+DNA Damage	phenotype	
+Peptic ulcer	phenotype	
+Mammographic breast density	phenotype	
+Squamous Cell Neoplasms	phenotype	
+Pain insensitivity	phenotype	
+Cholelithiasis	phenotype	
+Head and Neck Neoplasms	phenotype	
+Epilepsy, focal, with speech disorder and with or without mental retardation	phenotype	
+Nausea	phenotype	

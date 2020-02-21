@@ -1,0 +1,17 @@
+node_name	node_type	
+DB08860	drug	
+CYP2C9	drug_target	
+CYP2C8	drug_target	
+SLC10A1	drug_target	
+ORM1	drug_target	
+UGT2B7	drug_target	
+ALB	drug_target	
+SLCO1B3	drug_target	
+SLCO1B1	drug_target	
+ABCB11	drug_target	
+HMGCR	drug_target	
+SLCO2B1	drug_target	
+ABCG2	drug_target	
+UGT1A3	drug_target	
+ABCC2	drug_target	
+ABCB1	drug_target	

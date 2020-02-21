@@ -1,0 +1,3 @@
+Gene	CUI	Source Databases	
+CYP3A4	C0271561	Cataracts, growth hormone deficiency, sensory neuropathy, sensorineural hearing loss, and skeletal dysplasia	DisGeNet	
+PDE4D	C0271561	Cataracts, growth hormone deficiency, sensory neuropathy, sensorineural hearing loss, and skeletal dysplasia	HumPhenOnt	

@@ -1,0 +1,82 @@
+node_name	node_type	
+DB00800	drug	
+ADRA1A	drug_target	
+ADRA1B	drug_target	
+ADRA1D	drug_target	
+DRD5	drug_target	
+ADRA2A	drug_target	
+ADRA2B	drug_target	
+DRD1	drug_target	
+ADRA2C	drug_target	
+Hypotension	phenotype	
+Chronic sciatica	phenotype	
+Acute disease of cardiovascular system	phenotype	
+Low back pain	phenotype	
+Low Tension Glaucoma	phenotype	
+Systemic arterial pressure	phenotype	
+Neuralgia	phenotype	
+Attention deficit hyperactivity disorder	phenotype	
+Essential hypertension	phenotype	
+Tourette Syndrome	phenotype	
+Mood Disorders	phenotype	
+Gastroparesis	phenotype	
+Nephrosclerosis	phenotype	
+Learning Disabilities	phenotype	
+Drug usage	phenotype	
+Dyskinesia, Drug-Induced	phenotype	
+Hyperalgesia	phenotype	
+Fibrosis	phenotype	
+Psychoses, Substance-Induced	phenotype	
+Major depressive disorder	phenotype	
+Acute Lung Injury	phenotype	
+Depressive Disorder	phenotype	
+Cardiomegaly	phenotype	
+Marijuana Abuse	phenotype	
+Kidney Failure, Chronic	phenotype	
+Pain	phenotype	
+Methamphetamine abuse	phenotype	
+Metabolic Syndrome X	phenotype	
+Hypertension	phenotype	
+Panic disorder syndrome 1 (2)	phenotype	
+ Acrodysostosis 1, with or without hormone resistance, 101800 (3)	phenotype	
+Pseudohypoparathyroidism, type IB, 603233 (3)	phenotype	
+Unipolar Depression	phenotype	
+Weight Gain Adverse Event	phenotype	
+Malignant neoplasm of adrenal cortex	phenotype	
+Behavior Disorders	phenotype	
+Esophageal varix	phenotype	
+Disorders of parathyroid gland	phenotype	
+Urolithiasis	phenotype	
+genetic hypertension	phenotype	
+Echinococcosis	phenotype	
+Hereditary Sensory Autonomic Neuropathy, Type 1	phenotype	
+Epidermolysis bullosa simplex, Cockayne-Touraine type	phenotype	
+Palmar hyperkeratosis	phenotype	
+Irritable bowel syndrome with diarrhea	phenotype	
+Bladder neck obstruction	phenotype	
+Tracheal stenosis	phenotype	
+Proliferative retinopathy	phenotype	
+Obstructive sleep apnea	phenotype	
+Verrucae	phenotype	
+Taste bitter	phenotype	
+Isolated somatotropin deficiency	phenotype	
+Substance Use Disorders	phenotype	
+Dentatorubral pallidoluysian atrophy	phenotype	
+Angiokeratoma	phenotype	
+Isolated growth hormone deficiency type 1B	phenotype	
+Hemorrhagic disorder due to intrinsic circulating anticoagulants	phenotype	
+Congenital long QT syndrome	phenotype	
+Plantar hyperkeratosis	phenotype	
+Familial hypercholesterolemia	phenotype	
+Polycystic Ovary Syndrome	phenotype	
+Renal hypertension	phenotype	
+Pericardial effusion	phenotype	
+Excessive salivation	phenotype	
+Pulmonary Cystic Fibrosis	phenotype	
+Chronic Kidney Insufficiency	phenotype	
+Mumps	phenotype	
+Rhinitis, Allergic, Perennial	phenotype	
+Endemic Cretinism	phenotype	
+Hemangioblastoma	phenotype	
+Chronic schizophrenia	phenotype	
+Hypoparathyroidism - autosomal dominant	phenotype	

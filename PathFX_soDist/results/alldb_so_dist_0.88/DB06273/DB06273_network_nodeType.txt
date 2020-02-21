@@ -1,0 +1,6 @@
+node_name	node_type	
+DB06273	drug	
+CYP3A4	drug_target	
+IL6R	drug_target	
+Cocaine delirium	phenotype	
+Cooley's anemia	phenotype	

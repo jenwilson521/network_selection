@@ -1,0 +1,89 @@
+node1	node2	edge_score	
+DB01276	DPP4	1.0	
+DB01276	ALB	1.0	
+DB01276	GLP1R	1.0	
+GLP1R	rs2268639	0.99
+ALB		1.0
+complex:lAo9+jzjVOaRJSWZQvoh0G1mUDc	OR8D2	0.911120279231
+GLP1R	rs10305420	0.99
+GLP1R		1.0
+complex:lAo9+jzjVOaRJSWZQvoh0G1mUDc	KRT9	0.911120279231
+ALB	complex:lAo9+jzjVOaRJSWZQvoh0G1mUDc	0.954526206676
+GLP1R	rs6923761	0.99
+Diabetic Angiopathies	ALB	1.0	
+Diabetic Angiopathies	GLP1R	1.0	
+Maturity-onset diabetes of the young, type 11	ALB	1.0	
+Maturity-onset diabetes of the young, type 11	GLP1R	1.0	
+Anorexia	ALB	1.0	
+Anorexia	GLP1R	1.0	
+Chronic Kidney Insufficiency	ALB	1.0	
+Chronic Kidney Insufficiency	GLP1R	1.0	
+Malignant neoplasm of adrenal cortex	ALB	1.0	
+Esophageal varix	ALB	1.0	
+Urolithiasis	ALB	1.0	
+Echinococcosis	ALB	1.0	
+Epidermolysis bullosa simplex, Cockayne-Touraine type	KRT9	1.0	
+Palmar hyperkeratosis	KRT9	1.0	
+Proliferative retinopathy	ALB	1.0	
+Verrucae	KRT9	1.0	
+Isolated somatotropin deficiency	ALB	1.0	
+Substance Use Disorders	ALB	1.0	
+Dentatorubral pallidoluysian atrophy	ALB	1.0	
+Angiokeratoma	ALB	1.0	
+Isolated growth hormone deficiency type 1B	ALB	1.0	
+Plantar hyperkeratosis	KRT9	1.0	
+Pericardial effusion	ALB	1.0	
+Mumps	ALB	1.0	
+Rhinitis, Allergic, Perennial	ALB	1.0	
+Endemic Cretinism	ALB	1.0	
+Hemangioblastoma	ALB	1.0	
+Mesangiocapillary glomerulonephritis, type II	ALB	1.0	
+Nephrosclerosis	ALB	1.0	
+Peripheral motor neuropathy	ALB	1.0	
+End Stage Liver Disease	ALB	1.0	
+Abnormal albumin level	ALB	1.0	
+Diabetic Retinopathy	ALB	1.0	
+Diabetic Retinopathy	GLP1R	1.0	
+Arteriovenous fistula	GLP1R	1.0	
+Bronchogenic Carcinoma	ALB	1.0	
+Coronary artery aneurysm	ALB	1.0	
+Hyperlipoproteinemia	ALB	1.0	
+Hyperlipoproteinemia Type IIa	ALB	1.0	
+Tubulointerstitial nephritis	ALB	1.0	
+Single tumor	ALB	1.0	
+Nephrotic Syndrome, Minimal Change	ALB	1.0	
+Skin Diseases, Genetic	KRT9	1.0	
+Varicella zoster	ALB	1.0	
+Drusen	ALB	1.0	
+Increased antibody level in blood	KRT9	1.0	
+Insulin resistance syndrome	ALB	1.0	
+Nephrosis	ALB	1.0	
+Guillain-Barre syndrome, familial	ALB	1.0	
+Primary hyperparathyroidism	ALB	1.0	
+Drug Resistant Epilepsy	ALB	1.0	
+Obstructive lung disease	GLP1R	1.0	
+Respiratory Tract Diseases	ALB	1.0	
+Sicca Syndrome	ALB	1.0	
+Hypoalbuminemia	ALB	1.0	
+Chronic kidney disease	ALB	1.0	
+Chronic kidney disease	GLP1R	1.0	
+Neurologic, endocrine, and pancreatic disease, multisystem, infantile-onset	ALB	1.0	
+Abnormality of the plantar skin of foot	KRT9	1.0	
+Congenital hypothyroidism	ALB	1.0	
+Adverse drug events and drug allergies	ALB	1.0	
+Hemolytic uremic syndrome	ALB	1.0	
+Hereditary pancreatitis	ALB	1.0	
+Hereditary pancreatitis	GLP1R	1.0	
+Occupational Diseases	ALB	1.0	
+Microalbuminuria	ALB	1.0	
+Chest pain	ALB	1.0	
+ {HIV-1 viremia, susceptibility to}, 609423 (3)	ALB	1.0	
+Acute Lung Injury	ALB	1.0	
+Complications of Diabetes Mellitus	ALB	1.0	
+Pulmonary edema	ALB	1.0	
+Stevens-Johnson Syndrome	ALB	1.0	
+Hepatic steatosis	ALB	1.0	
+Hepatic steatosis	GLP1R	1.0	
+Lymphohistiocytosis, Hemophagocytic	ALB	1.0	
+IMMUNE SUPPRESSION	ALB	1.0	
+Dementia, Vascular	ALB	1.0	

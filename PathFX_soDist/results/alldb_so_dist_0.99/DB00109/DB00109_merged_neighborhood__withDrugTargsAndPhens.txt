@@ -1,0 +1,4 @@
+node1	node2	edge_score	
+DB00109	CYP2C19	1.0	
+DB00109	CYP2E1	1.0	
+

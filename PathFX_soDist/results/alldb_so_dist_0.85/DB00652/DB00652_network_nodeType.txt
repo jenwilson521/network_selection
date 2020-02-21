@@ -1,0 +1,33 @@
+node_name	node_type	
+DB00652	drug	
+OPRK1	drug_target	
+OPRM1	drug_target	
+SIGMAR1	drug_target	
+Acute hepatitis	phenotype	
+Substance Use Disorders	phenotype	
+ {Nicotine dependence, protection against}, 188890 (3)	phenotype	
+Hepatic encephalopathy	phenotype	
+heavy drinking	phenotype	
+Acute postoperative pain	phenotype	
+alcohol use disorder	phenotype	
+Xeroderma pigmentosum, group A	phenotype	
+Opiate Addiction	phenotype	
+Low back pain	phenotype	
+Hypotension, Orthostatic	phenotype	
+Insomnia	phenotype	
+Chronic pain	phenotype	
+Antisocial/borderline personality disorder	phenotype	
+Substance abuse problem	phenotype	
+Drug usage	phenotype	
+Fibromyalgia	phenotype	
+Pain insensitivity	phenotype	
+Nausea	phenotype	
+Cocaine Dependence	phenotype	
+Inflammatory pain	phenotype	
+cancer recurrence	phenotype	
+Idiopathic generalized epilepsy	phenotype	
+Stress, Psychological	phenotype	
+Heroin Dependence	phenotype	
+Psychoses, Substance-Induced	phenotype	
+Drug Dependence	phenotype	
+Epilepsy, generalized, with febrile seizures plus, type 6 (2)	phenotype	

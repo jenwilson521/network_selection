@@ -1,0 +1,5 @@
+node1	node2	edge_score	
+DB00186	UGT2B15	1.0	
+DB00186	CYP3A4	1.0	
+DB00186	TSPO	1.0	
+

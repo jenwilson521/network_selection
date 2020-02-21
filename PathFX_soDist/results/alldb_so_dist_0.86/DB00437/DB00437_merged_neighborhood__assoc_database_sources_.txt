@@ -1,0 +1,15 @@
+Gene	CUI	Source Databases	
+ABCG2	C0740394	Hyperuricemia, pulmonary hypertension, renal failure, and alkalosis	DisGeNet	
+SLC22A2	C0740394	Hyperuricemia, pulmonary hypertension, renal failure, and alkalosis	DisGeNet	
+XDH	C0740394	Hyperuricemia, pulmonary hypertension, renal failure, and alkalosis	DisGeNet	
+ABCG2	C0018772	Hearing Loss, Partial	DisGeNet	
+AOX1	C0018772	Hearing Loss, Partial	DisGeNet	
+XDH	C0018772	Hearing Loss, Partial	DisGeNet	
+ABCG2	C0008372	Intrahepatic cholestasis	DisGeNet	
+SLC22A2	C0008372	Intrahepatic cholestasis	DisGeNet	
+ABCG2	C0011053	Deafness, autosomal recessive 44	DisGeNet	
+AOX1	C0011053	Deafness, autosomal recessive 44	DisGeNet	
+XDH	C0011053	Deafness, autosomal recessive 44	DisGeNet	
+SLC22A2	C0022660	Acute kidney injury	DisGeNet	
+SLC22A8	C0022660	Acute kidney injury	DisGeNet	
+XDH	C0022660	Acute kidney injury	DisGeNet	

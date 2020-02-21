@@ -1,0 +1,4 @@
+node1	node2	edge_score	
+DB04845	CYP3A4	1.0	
+DB04845	TUBB3	1.0	
+

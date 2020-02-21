@@ -1,0 +1,298 @@
+node1	node2	edge_score	
+DB11091	GPX1	1.0	
+DB11091	CAT	1.0	
+CAT		1.0
+EMG: myopathic abnormalities	CAT	1.0	
+Abscess	CAT	1.0	
+Acute pancreatitis	CAT	1.0	
+ Adenocarcinoma, ovarian, somatic, 167000 (3)	CAT	1.0	
+Adenomas, multiple colorectal, 608456 (3)	CAT	1.0	
+Albuminuria	CAT	1.0	
+Alcohol dependence	CAT	1.0	
+Alzheimer Disease	CAT	1.0	
+Amyotrophic Lateral Sclerosis	CAT	1.0	
+Refractory anaemia with excess blasts	CAT	1.0	
+Aniridia 1	CAT	1.0	
+Anxiety Disorders	CAT	1.0	
+Aortic Diseases	CAT	1.0	
+Arteriosclerosis	CAT	1.0	
+Arthritis, Rheumatoid	CAT	1.0	
+Rheumatoid arthritis	CAT	1.0	
+Asbestosis	CAT	1.0	
+Systemic aspergillosis	CAT	1.0	
+Asthma	CAT	1.0	
+Ataxia-telangiectasia syndrome	CAT	1.0	
+Atherosclerosis	CAT	1.0	
+Autism 15	CAT	1.0	
+Bacteremia, susceptibility to, 2	CAT	1.0	
+Pneumonia, Bacterial	CAT	1.0	
+Barrett Esophagus	CAT	1.0	
+Behcet Syndrome	CAT	1.0	
+beta Thalassemia	CAT	1.0	
+Bipolar affective disorder	CAT	1.0	
+Malignant tumor of urinary bladder	CAT	1.0	
+Brain neoplasm	CAT	1.0	
+Breast-ovarian cancer, familial 1	CAT	1.0	
+Bronchopulmonary Dysplasia	CAT	1.0	
+Colon cancer	CAT	1.0	
+Skin cancer	CAT	1.0	
+Thyroid cancer, nonmedullary, 4	CAT	1.0	
+Basal cell carcinoma	CAT	1.0	
+Non-small cell lung carcinoma	CAT	1.0	
+Squamous cell carcinoma	CAT	1.0	
+Cardiovascular Diseases	CAT	1.0	
+Neoplastic Cell Transformation	CAT	1.0	
+Brain Ischemia	CAT	1.0	
+Malignant tumor of cervix	CAT	1.0	
+Cholestasis, benign recurrent intrahepatic 1	CAT	1.0	
+Choriocarcinoma	CAT	1.0	
+Congenital chromosomal disease	CAT	1.0	
+Cockayne syndrome	CAT	1.0	
+Colitis, Ulcerative	CAT	1.0	
+Ulcerative colitis	CAT	1.0	
+Neoplasm of the colon	CAT	1.0	
+Verotoxigenic Escherichia coli gastrointestinal tract infection	CAT	1.0	
+Cutis laxa, autosomal dominant 3	CAT	1.0	
+Cystic Fibrosis	CAT	1.0	
+Plaque, Atherosclerotic	CAT	1.0	
+Seborheic dermatitis	CAT	1.0	
+Diabetes Mellitus, Type 1	CAT	1.0	
+Diabetes mellitus type 1	CAT	1.0	
+Diabetes mellitus type 2	CAT	1.0	
+Diabetic Angiopathies	CAT	1.0	
+Diabetic Nephropathies	CAT	1.0	
+Type 1 diabetic neuropathy	CAT	1.0	
+Diabetic Retinopathy	CAT	1.0	
+DNA Damage	CAT	1.0	
+Down Syndrome	CAT	1.0	
+Dyskinesia, Drug-Induced	CAT	1.0	
+Hydrops, lactic acidosis, and sideroblastic anemia	CAT	1.0	
+Experimental Autoimmune Encephalomyelitis	CAT	1.0	
+Endometriosis	CAT	1.0	
+Fanconi anemia	CAT	1.0	
+Hepatic steatosis	CAT	1.0	
+Fragile X syndrome	CAT	1.0	
+Friedreich's ataxia	CAT	1.0	
+Gastritis	CAT	1.0	
+Gastroenteritis	CAT	1.0	
+Glioma	CAT	1.0	
+Gonorrhea	CAT	1.0	
+Granulomatous disease, chronic, autosomal recessive, cytochrome b-negative	CAT	1.0	
+Sensorineural hearing impairment	CAT	1.0	
+Cardiac arrest	CAT	1.0	
+Heart Failure	CAT	1.0	
+Congestive heart failure	CAT	1.0	
+Hepatitis	CAT	1.0	
+Acute type B viral hepatitis	CAT	1.0	
+Chronic hepatitis	CAT	1.0	
+Wilson disease	CAT	1.0	
+Herpes Simplex Infections	CAT	1.0	
+Symptomatic human immunodeficiency virus infection	CAT	1.0	
+Huntington's chorea	CAT	1.0	
+Hyperalgesia	CAT	1.0	
+Hyperglycemia	CAT	1.0	
+Hypertension	CAT	1.0	
+Hyperthyroidism	CAT	1.0	
+Hypotension	CAT	1.0	
+Male infertility	CAT	1.0	
+Mammary Ductal Carcinoma	CAT	1.0	
+Inflammation	CAT	1.0	
+Influenza	CAT	1.0	
+Insulin Resistance	CAT	1.0	
+Insulinoma	CAT	1.0	
+Ischemia	CAT	1.0	
+Keratoconus	CAT	1.0	
+Kidney Calculi	CAT	1.0	
+Kidney Diseases	CAT	1.0	
+Acute kidney injury	CAT	1.0	
+Kidney Failure, Chronic	CAT	1.0	
+Leukemia, Lymphocytic, Chronic, B-Cell	CAT	1.0	
+Adult T-Cell Lymphoma/Leukemia	CAT	1.0	
+Leukoencephalopathy, Progressive Multifocal	CAT	1.0	
+Liver Cirrhosis, Biliary	CAT	1.0	
+Liver Cirrhosis, Alcoholic	CAT	1.0	
+Neoplasm of the liver	CAT	1.0	
+Pulmonary Disease, Chronic Obstructive	CAT	1.0	
+Chronic obstructive pulmonary disease	CAT	1.0	
+Lupus Erythematosus, Systemic	CAT	1.0	
+Lymphoma, Large B-Cell, Diffuse	CAT	1.0	
+Non-Hodgkin lymphoma	CAT	1.0	
+Malaria	CAT	1.0	
+{Gastric cancer risk after H. pylori infection}, 137215 (3)	CAT	1.0	
+Animal Mammary Neoplasms	CAT	1.0	
+Marfan syndrome	CAT	1.0	
+Melanoma	CAT	1.0	
+Mental retardation 63, X-linked	CAT	1.0	
+Mesothelioma, malignant	CAT	1.0	
+Disorders of Intracellular Cobalamin Metabolism	CAT	1.0	
+Microcephaly 16, primary, autosomal recessive	CAT	1.0	
+Monosomy	CAT	1.0	
+Abnormality of the mouth	CAT	1.0	
+Neoplasm of the oral cavity	CAT	1.0	
+Multiple Sclerosis	CAT	1.0	
+Mycoses	CAT	1.0	
+Myocardial Infarction	CAT	1.0	
+Myocardial Reperfusion Injury	CAT	1.0	
+Necrosis	CAT	1.0	
+Neoplasm Invasiveness	CAT	1.0	
+Secondary hypertriglyceridemia	CAT	1.0	
+Wilms Tumor	CAT	1.0	
+Obesity	CAT	1.0	
+Occupational Diseases	CAT	1.0	
+Optic neuritis	CAT	1.0	
+Osteoarthritis	CAT	1.0	
+Bone necrosis	CAT	1.0	
+Osteoporosis	CAT	1.0	
+Postmenopausal osteoporosis	CAT	1.0	
+Otitis media	CAT	1.0	
+Pancreatic Neoplasms	CAT	1.0	
+Pancreatitis	CAT	1.0	
+Parkinson Disease	CAT	1.0	
+Pericardial effusion	CAT	1.0	
+Pericarditis	CAT	1.0	
+Phenylketonuria	CAT	1.0	
+Pheochromocytoma	CAT	1.0	
+Abnormality of the pituitary gland	CAT	1.0	
+Pituitary Neoplasms	CAT	1.0	
+Plasmacytoma	CAT	1.0	
+Precancerous Conditions	CAT	1.0	
+Protein Deficiency	CAT	1.0	
+Psoriasis	CAT	1.0	
+Pulmonary edema	CAT	1.0	
+Pulmonary Embolism	CAT	1.0	
+Pulmonary Emphysema	CAT	1.0	
+Purpura	CAT	1.0	
+Reperfusion Injury	CAT	1.0	
+Respiratory Tract Diseases	CAT	1.0	
+Retinopathy	CAT	1.0	
+Sarcoidosis	CAT	1.0	
+Seizures, Febrile	CAT	1.0	
+Sickle Cell Trait	CAT	1.0	
+Neoplasm of the skin	CAT	1.0	
+Status epilepticus	CAT	1.0	
+Gastric ulcer	CAT	1.0	
+Stomatitis	CAT	1.0	
+Stroke	CAT	1.0	
+Superinfection	CAT	1.0	
+Tuberculosis	CAT	1.0	
+46,XY gonadal dysgenesis, partial, with minifascicular neuropathy	CAT	1.0	
+Unipolar Depression	CAT	1.0	
+Ureteral obstruction	CAT	1.0	
+Urticaria	CAT	1.0	
+Vascular Diseases	CAT	1.0	
+Vitiligo	CAT	1.0	
+Werner syndrome	CAT	1.0	
+Xeroderma pigmentosum, group E	CAT	1.0	
+Zellweger syndrome	CAT	1.0	
+Recessive dystrophic epidermolysis bullosa	CAT	1.0	
+Germinal Center B-Cell-Like Diffuse Large B-Cell Lymphoma	CAT	1.0	
+Maternal diabetes	CAT	1.0	
+Microcytic anemia	CAT	1.0	
+Essential hypertension	CAT	1.0	
+Alcohol abuse	CAT	1.0	
+Cataract, autosomal recessive congenital 5	CAT	1.0	
+Spinocerebellar ataxia, autosomal recessive 17	CAT	1.0	
+Left ventricular hypertrophy	CAT	1.0	
+Oral ulcer	CAT	1.0	
+Small cell lung cancer	CAT	1.0	
+Sciatic Neuropathy	CAT	1.0	
+Premature Birth	CAT	1.0	
+Cancer of mouth	CAT	1.0	
+Malnutrition	CAT	1.0	
+Hypopigmentation of the skin	CAT	1.0	
+Aortic Aneurysm, Thoracic	CAT	1.0	
+Hepatoblastoma	CAT	1.0	
+Embryonal Carcinoma	CAT	1.0	
+Gonadoblastoma	CAT	1.0	
+Teratocarcinoma	CAT	1.0	
+Thyroid cancer, follicular	CAT	1.0	
+Lip and Oral Cavity Carcinoma	CAT	1.0	
+Alpha-1-antitrypsin deficiency	CAT	1.0	
+Abnormality of extrapyramidal motor function	CAT	1.0	
+Neurotoxicity Syndromes	CAT	1.0	
+Brain atrophy	CAT	1.0	
+Pancreatic Carcinoma	CAT	1.0	
+Substance-Related Disorders	CAT	1.0	
+Hereditary pancreatitis	CAT	1.0	
+Anaplastic thyroid carcinoma	CAT	1.0	
+Medullary thyroid carcinoma	CAT	1.0	
+Papillary thyroid carcinoma	CAT	1.0	
+Infections, recurrent, with encephalopathy, hepatic dysfunction, and cardiovascular malformations	CAT	1.0	
+Dyslipidemias	CAT	1.0	
+Malignant neoplasm of lung	CAT	1.0	
+Age-related macular degeneration 2	CAT	1.0	
+Acute Lung Injury	CAT	1.0	
+Disease Progression	CAT	1.0	
+Sepsis	CAT	1.0	
+Chronic Periodontitis	CAT	1.0	
+Spastic syndrome	CAT	1.0	
+Glucose intolerance	CAT	1.0	
+Cancer of Head and Neck	CAT	1.0	
+Pancreatic adenocarcinoma	CAT	1.0	
+Peroxisome biogenesis disorder 1B	CAT	1.0	
+Carcinoma of cervix	CAT	1.0	
+Cognitive Dysfunction	CAT	1.0	
+Complications of Diabetes Mellitus	CAT	1.0	
+Methicillin resistant Staphylococcus aureus	CAT	1.0	
+Malignant mesothelioma	CAT	1.0	
+Prediabetes syndrome	CAT	1.0	
+Malignant tumor of prostate	CAT	1.0	
+Abnormality of chromosome stability	CAT	1.0	
+Chronic Kidney Insufficiency	CAT	1.0	
+Autosomal recessive inheritance	CAT	1.0	
+Pseudoxanthoma elasticum	CAT	1.0	
+Endometrial carcinoma	CAT	1.0	
+Overweight	CAT	1.0	
+Motor delay	CAT	1.0	
+Metabolic Syndrome X	CAT	1.0	
+Neurodegenerative Diseases	CAT	1.0	
+Hepatitis B, Chronic	CAT	1.0	
+Thyroid carcinoma	CAT	1.0	
+Osteosarcoma	CAT	1.0	
+Prostate carcinoma	CAT	1.0	
+Obstructive lung disease	CAT	1.0	
+Toxic Shock Syndrome	CAT	1.0	
+Ovarian epithelial cancer	CAT	1.0	
+Breast carcinoma	CAT	1.0	
+Lung cancer	CAT	1.0	
+Carcinoma of colon	CAT	1.0	
+Stomach cancer	CAT	1.0	
+Neuroblastoma	CAT	1.0	
+Spinocerebellar ataxia 1	CAT	1.0	
+Pleural Mesothelioma	CAT	1.0	
+Helicobacter pylori infection	CAT	1.0	
+Oestrogen deficiency	CAT	1.0	
+Abnormality of head or neck	CAT	1.0	
+Endothelial dysfunction	CAT	1.0	
+Drug-Induced Liver Injury	CAT	1.0	
+Hyperkeratosis	CAT	1.0	
+latent infection	CAT	1.0	
+Cardiomyopathy	CAT	1.0	
+BREAST-OVARIAN CANCER, FAMILIAL, SUSCEPTIBILITY TO, 4	CAT	1.0	
+Squamous cell carcinoma of the head and neck	CAT	1.0	
+Diffuse Scleroderma	CAT	1.0	
+Major depressive disorder	CAT	1.0	
+Avellino corneal dystrophy	CAT	1.0	
+Infiltrating Cervical Carcinoma	CAT	1.0	
+Tumor Angiogenesis	CAT	1.0	
+Xenograft Model	CAT	1.0	
+Colorectal cancer	CAT	1.0	
+Ductal Carcinoma	CAT	1.0	
+Chronic kidney disease	CAT	1.0	
+Non-Neoplastic Disorder	CAT	1.0	
+VITILIGO-ASSOCIATED MULTIPLE AUTOIMMUNE DISEASE SUSCEPTIBILITY 1 (finding)	CAT	1.0	
+Amyotrophic lateral sclerosis type 1	CAT	1.0	
+Amyotrophic Lateral Sclerosis, Sporadic	CAT	1.0	
+Trichothiodystrophy Syndromes	CAT	1.0	
+Coronary Artery Disease	CAT	1.0	
+Hepatocellular carcinoma	CAT	1.0	
+Pediatric Obesity	CAT	1.0	
+Chronic ulcerative colitis	CAT	1.0	
+FANCONI ANEMIA, COMPLEMENTATION GROUP A (disorder)	CAT	1.0	
+alpha-1-Antitrypsin Deficiency, Autosomal Recessive	CAT	1.0	
+Abnormality of metabolism/homeostasis	CAT	1.0	
+Abnormality of the head	CAT	1.0	
+Abnormal enzyme/coenzyme activity	CAT	1.0	
+Abnormality of oral mucosa	CAT	1.0	
+Abnormality of the face	CAT	1.0	
+Abnormality of the oral cavity	CAT	1.0	

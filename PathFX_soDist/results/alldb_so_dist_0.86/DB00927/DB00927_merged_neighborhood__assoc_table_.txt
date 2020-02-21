@@ -1,0 +1,2 @@
+rank	phenotype	cui	assoc in neigh	assoc in intom	probability	Benjamini-Hochberg	genes	
+29	Acute kidney injury	C0022660	3	270	9.61180952043783e-05	0.000121338912134	CYP2C19,SLC22A2,SLC22A8

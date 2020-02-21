@@ -1,0 +1,140 @@
+node_name	node_type	
+DB00115	drug	
+LRP2	drug_target	
+AMN	drug_target	
+MTR	drug_target	
+TCN1	drug_target	
+TCN2	drug_target	
+MTHFR	drug_target	
+MMACHC	drug_target	
+CUBN	drug_target	
+MTRR	drug_target	
+MMAA	drug_target	
+MMAB	drug_target	
+ABCC1	drug_target	
+Adverse drug events and drug allergies	phenotype	
+Abnormality of sulfur amino acid metabolism	phenotype	
+Phenylketonuria	phenotype	
+Homocystinuria due to CBS deficiency	phenotype	
+Megaloblastic anemia, thiamine-responsive, with diabetes mellitus and sensorineural deafness	phenotype	
+Folic Acid Deficiency	phenotype	
+Deep vein thrombosis of lower limb	phenotype	
+Deep thrombophlebitis	phenotype	
+Choroidal Neovascularization	phenotype	
+Iron deficiency anemia	phenotype	
+Meningeal Neoplasms	phenotype	
+Cardiac defects	phenotype	
+Brain Tumor, Primary	phenotype	
+Childhood Leukemia	phenotype	
+Omphalocele	phenotype	
+Psychoses, Substance-Induced	phenotype	
+Homocysteinemia due to MTHFR deficiency	phenotype	
+Migraine with aura	phenotype	
+Drug Allergy	phenotype	
+Demyelinating Diseases	phenotype	
+Congenital heart disease	phenotype	
+Marijuana Abuse	phenotype	
+Placental Insufficiency	phenotype	
+Adult Acute Lymphocytic Leukemia	phenotype	
+Deep venous thrombosis	phenotype	
+Hereditary hyperhomocysteinemia	phenotype	
+Xeroderma Pigmentosum, Complementation Group D	phenotype	
+Abnormality of serum amino acid levels	phenotype	
+Thromboembolism	phenotype	
+Aminoaciduria	phenotype	
+T-cell lymphoma	phenotype	
+Adrenoleukodystrophy	phenotype	
+Venous thrombosis	phenotype	
+Primary central nervous system lymphoma	phenotype	
+Head and Neck Neoplasms	phenotype	
+Oligospermia	phenotype	
+Macrocytic anemia	phenotype	
+Blindness	phenotype	
+Cervical intraepithelial neoplasia grade 2	phenotype	
+Ventricular septal defect 2	phenotype	
+Abnormality of amino acid metabolism	phenotype	
+Cytomegalovirus Infections	phenotype	
+Cleft palate with cleft lip	phenotype	
+Lymphoma, Large-Cell, Follicular	phenotype	
+Abnormality of vitamin metabolism	phenotype	
+Leukemia, Lymphocytic, Acute, L1	phenotype	
+3-Methylglutaconic aciduria	phenotype	
+Aortic Aneurysm, Abdominal	phenotype	
+Abnormality of urine homeostasis	phenotype	
+Neural tube defect	phenotype	
+Abnormality of carboxylic acid metabolism	phenotype	
+Incoordination	phenotype	
+Cervical intraepithelial neoplasia (Cervical dysplasia)	phenotype	
+Adenomatous Polyps	phenotype	
+ Cerebrovascular disease, occlusive (3)	phenotype	
+Malignant Childhood Neoplasm	phenotype	
+Spina bifida	phenotype	
+Chromosome Aberrations	phenotype	
+Coronary artery stenosis	phenotype	
+Gastrointestinal Diseases	phenotype	
+Combined Hepatocellular Carcinoma and Cholangiocarcinoma	phenotype	
+Membranous nephropathy, susceptibility to	phenotype	
+Neutropenia	phenotype	
+Adenoma of large intestine	phenotype	
+Bone neoplasms	phenotype	
+DNA Damage	phenotype	
+Azoospermia	phenotype	
+Parathyroid adenoma	phenotype	
+body mass	phenotype	
+Liver Cirrhosis, Alcoholic	phenotype	
+NOONAN-LIKE/MULTIPLE GIANT CELL LESION SYNDROME (disorder)	phenotype	
+Hyperlipidemia, combined, 1	phenotype	
+Anorexia nervosa 1	phenotype	
+Anemia of inadequate production	phenotype	
+Leukopenia	phenotype	
+Male infertility	phenotype	
+Intracranial Aneurysm	phenotype	
+Hepatic cancer metastatic	phenotype	
+Leukoencephalopathy with Brainstem and Spinal Cord Involvement and Lactate Elevation	phenotype	
+Huntington's chorea	phenotype	
+Malnutrition	phenotype	
+Small cell lung cancer	phenotype	
+Migraine Disorders	phenotype	
+Ischemic Cerebrovascular Accident	phenotype	
+Malignant tumor of esophagus	phenotype	
+Gastrointestinal stromal tumor	phenotype	
+Giant cell arteritis	phenotype	
+Abnormality of the urinary system physiology	phenotype	
+Cleft Lip	phenotype	
+Pregnancy Complications	phenotype	
+Brain neoplasm	phenotype	
+Epilepsy	phenotype	
+Sensorineural hearing impairment	phenotype	
+EMG: myopathic abnormalities	phenotype	
+Arterial dissection	phenotype	
+Drug Eruptions	phenotype	
+Primary malignant neoplasm of liver	phenotype	
+Rheumatoid Nodule	phenotype	
+Mild cognitive impairment	phenotype	
+Primary angle-closure glaucoma	phenotype	
+Pleural Neoplasms	phenotype	
+Tetraplegia	phenotype	
+Recurrent major depressive episodes	phenotype	
+Aneurysm, Ruptured	phenotype	
+recurrent childhood acute lymphoblastic leukemia	phenotype	
+Lupus anticoagulant disorder	phenotype	
+Thrombophilia due to activated protein C resistance	phenotype	
+Hematological Disease	phenotype	
+Preeclampsia/eclampsia 1	phenotype	
+Neoplastic Cell Transformation	phenotype	
+Neoplasm of the central nervous system	phenotype	
+Cervical dysplasia	phenotype	
+Intrauterine growth retardation	phenotype	
+Hypertension	phenotype	
+Thrombosis of retinal vein	phenotype	
+Thyrotoxicosis	phenotype	
+Hearing Loss, Partial	phenotype	
+Recurrent E. coli infections	phenotype	
+Femur Head Necrosis	phenotype	
+Old myocardial infarction	phenotype	
+Proliferative retinopathy	phenotype	
+Proteinuria Adverse Event	phenotype	
+Lymphoma, Follicular	phenotype	
+Disorders of Intracellular Cobalamin Metabolism	phenotype	
+Protein S deficiency	phenotype	
+Hypoplasia of the iris	phenotype	

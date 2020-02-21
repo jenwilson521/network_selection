@@ -1,0 +1,7 @@
+node_name	node_type	
+DB00384	drug	
+SCNN1G	drug_target	
+CYP1A2	drug_target	
+SCNN1D	drug_target	
+SCNN1B	drug_target	
+SCNN1A	drug_target	

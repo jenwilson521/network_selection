@@ -1,0 +1,151 @@
+node_name	node_type	
+DB09462	drug	
+PAPSS1	drug_target	
+TGFBR2	drug_target	
+ISYNA1	drug_target	
+ARF1	drug_target	
+GSTP1	drug_target	
+CYP2E1	drug_target	
+HPGDS	drug_target	
+PPARD	drug_target	
+TRDMT1	drug_target	
+ADH1B	drug_target	
+PAEP	drug_target	
+NAGA	drug_target	
+ITPR1	drug_target	
+ALDH1A1	drug_target	
+Alcoholic Liver Diseases	phenotype	
+Pancreatitis, Alcoholic	phenotype	
+Prenatal Exposure Delayed Effects	phenotype	
+Oral leukoplakia	phenotype	
+DNA Damage	phenotype	
+Alcohol abuse	phenotype	
+Drug Eruptions	phenotype	
+Flushing	phenotype	
+Slow acetylator due to N-acetyltransferase enzyme variant	phenotype	
+Liver Cirrhosis, Alcoholic	phenotype	
+Neoplasm of the rectum	phenotype	
+Neoplasm of the larynx	phenotype	
+Pleural Neoplasms	phenotype	
+Malignant neoplasm of pharynx	phenotype	
+Squamous Cell Neoplasms	phenotype	
+Rectal Carcinoma	phenotype	
+Liver Diseases	phenotype	
+Malignant neoplasm of larynx	phenotype	
+Antisocial Personality Disorder	phenotype	
+Genomic Instability	phenotype	
+alcohol use disorder	phenotype	
+Prostate cancer stage C	phenotype	
+Stomach Diseases	phenotype	
+Bone necrosis	phenotype	
+Anxiety Disorders	phenotype	
+Leukoplakia	phenotype	
+Laryngeal carcinoma	phenotype	
+Lip and Oral Cavity Carcinoma	phenotype	
+Gorlin syndrome	phenotype	
+Cancer of mouth	phenotype	
+Necrosis	phenotype	
+Respiratory Tract Diseases	phenotype	
+Cancer of Head and Neck	phenotype	
+Adenomatous polyp of colon	phenotype	
+Childhood Leukemia	phenotype	
+Neoplasms, Germ Cell and Embryonal	phenotype	
+Pharyngeal Neoplasms	phenotype	
+Neurodegeneration with brain iron accumulation 4	phenotype	
+Occupational Diseases	phenotype	
+Neoplasm of the oral cavity	phenotype	
+Bronchitis	phenotype	
+Drug Allergy	phenotype	
+Metaplasia	phenotype	
+Chromosome Aberrations	phenotype	
+Adenoma of large intestine	phenotype	
+Vestibular Schwannoma	phenotype	
+Polyneuropathy, hearing loss, ataxia, retinitis pigmentosa, and cataract	phenotype	
+Pancreatitis	phenotype	
+Esophageal carcinoma	phenotype	
+Methamphetamine abuse	phenotype	
+Carcinoma, Small Cell	phenotype	
+Non-alcoholic Fatty Liver Disease	phenotype	
+Malignant tumor of esophagus	phenotype	
+Helicobacter Infections	phenotype	
+Nicotine Dependence	phenotype	
+Head and Neck Neoplasms	phenotype	
+Alcohol dependence	phenotype	
+Chronic atrophic gastritis	phenotype	
+Gout	phenotype	
+Immediate hypersensitivity	phenotype	
+Esophageal Neoplasms	phenotype	
+Peptic ulcer	phenotype	
+Carcinoma, Endometrioid	phenotype	
+Musculoskeletal Diseases	phenotype	
+Pregnancy Complications, Hematologic	phenotype	
+ {Aerodigestive tract cancer, squamous cell, alcohol-related, protection against} (3)	phenotype	
+Premature Birth	phenotype	
+Hereditary pancreatitis	phenotype	
+Liver Neoplasms, Experimental	phenotype	
+Motor Neuron Disease	phenotype	
+Intrauterine growth retardation	phenotype	
+Peripheral neuropathy, myopathy, hoarseness, and hearing loss	phenotype	
+Adrenoleukodystrophy	phenotype	
+Chronic liver disease	phenotype	
+Neoplasm of the liver	phenotype	
+Asbestosis	phenotype	
+Hypercapnia	phenotype	
+High altitude pulmonary edema	phenotype	
+Latent Tuberculosis	phenotype	
+Fibromyxosarcoma	phenotype	
+Hearing Loss, Partial	phenotype	
+Fetal Diseases	phenotype	
+Acute-Phase Reaction	phenotype	
+Neoplasms, Multiple Primary	phenotype	
+Pseudomonas Infections	phenotype	
+Signs and Symptoms, Respiratory	phenotype	
+Sarcoma, Epithelioid	phenotype	
+Asthma, Occupational	phenotype	
+Malignant neoplasm of brain and nervous system	phenotype	
+Fetal Alcohol Syndrome	phenotype	
+Squamous cell carcinoma of the head and neck	phenotype	
+Hepatic steatosis	phenotype	
+Chromosomal translocation	phenotype	
+Proliferative retinopathy	phenotype	
+Oculodentodigital dysplasia	phenotype	
+Systemic arterial pressure	phenotype	
+Neoplasm Invasiveness	phenotype	
+Cholestatic liver disease	phenotype	
+Gastric Mucosa-Associated Lymphoid Tissue Lymphoma	phenotype	
+Uterine Cervical Neoplasms	phenotype	
+Substance-Related Disorders	phenotype	
+Substance Use Disorders	phenotype	
+Alcohol withdrawal syndrome	phenotype	
+Malaria, Vivax	phenotype	
+Respiratory Hypersensitivity	phenotype	
+Xeroderma Pigmentosum, Complementation Group D	phenotype	
+Urinary Bladder Neoplasms	phenotype	
+Trisomy	phenotype	
+Medulloblastoma, Childhood	phenotype	
+Enzyme inhibition disorder	phenotype	
+ {Nicotine dependence, protection against}, 188890 (3)	phenotype	
+Adenoviral infections	phenotype	
+Germinoma	phenotype	
+Erythrocytosis	phenotype	
+Hypersensitivity	phenotype	
+Dermatosis NOS	phenotype	
+Lupus Erythematosus, Cutaneous	phenotype	
+Rhinitis, Allergic, Perennial	phenotype	
+heavy drinking	phenotype	
+Myelosuppression	phenotype	
+Liver Cirrhosis, Biliary	phenotype	
+Fibrosis	phenotype	
+Squamous cell carcinoma of lung	phenotype	
+AIDS related complex	phenotype	
+Connective Tissue Diseases	phenotype	
+Drug-Induced Liver Injury	phenotype	
+Simple pneumoconiosis	phenotype	
+End Stage Liver Disease	phenotype	
+Pregnancy associated hypertension	phenotype	
+Gastro-esophageal reflux disease with esophagitis	phenotype	
+Exfoliation Syndrome	phenotype	
+Neurotoxicity Syndromes	phenotype	
+Alcoholic Steatohepatitis	phenotype	
+Bronchogenic Carcinoma	phenotype	
+Allergic sensitization	phenotype	

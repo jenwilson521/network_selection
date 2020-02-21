@@ -1,0 +1,45 @@
+Gene	CUI	Source Databases	
+ABCG2	C0206720	Squamous Cell Neoplasms	DisGeNet	
+CYP3A4	C0206720	Squamous Cell Neoplasms	DisGeNet	
+EGFR	C0206720	Squamous Cell Neoplasms	DisGeNet	
+ABCG2	C0278838	Prostate cancer recurrent	DisGeNet	
+EGFR	C0278838	Prostate cancer recurrent	DisGeNet	
+ERBB2	C0278838	Prostate cancer recurrent	DisGeNet	
+ABCB5	C0677944	Sentinel node (disorder)	DisGeNet	
+EGFR	C0677944	Sentinel node (disorder)	DisGeNet	
+ERBB2	C0677944	Sentinel node (disorder)	DisGeNet	
+EGFR	C0854917	Rhabdoid Tumor of the Kidney	DisGeNet	
+ERBB2	C0854917	Rhabdoid Tumor of the Kidney	DisGeNet	
+FLT3	C0854917	Rhabdoid Tumor of the Kidney	DisGeNet	
+INSR	C0854917	Rhabdoid Tumor of the Kidney	DisGeNet	
+ABCG2	C0206695	Carcinoma, Neuroendocrine	DisGeNet	
+EGFR	C0206695	Carcinoma, Neuroendocrine	DisGeNet	
+ERBB2	C0206695	Carcinoma, Neuroendocrine	DisGeNet	
+CYP2C8	C0031347	Pharyngeal Neoplasms	DisGeNet	
+CYP3A4	C0031347	Pharyngeal Neoplasms	DisGeNet	
+ERBB2	C0031347	Pharyngeal Neoplasms	DisGeNet	
+EGFR	C0677936	Refractory cancer	DisGeNet	
+ERBB2	C0677936	Refractory cancer	DisGeNet	
+FLT3	C0677936	Refractory cancer	DisGeNet	
+EGFR	C0001420	Papillary adenocarcinoma	DisGeNet	
+ERBB2	C0001420	Papillary adenocarcinoma	DisGeNet	
+ABCG2	C0032229	Pleural Neoplasms	DisGeNet	
+EGFR	C0032229	Pleural Neoplasms	DisGeNet	
+EGFR	C3809250	Estrogen resistance	DisGeNet	
+ERBB2	C3809250	Estrogen resistance	DisGeNet	
+ABCG2	C0027686	Pathologic Neovascularization	DisGeNet	
+FLT3	C0027686	Pathologic Neovascularization	DisGeNet	
+SLC22A1	C0027686	Pathologic Neovascularization	DisGeNet	
+ABCG2	C0279651	Gallbladder adenocarcinoma	DisGeNet	
+ERBB2	C0279651	Gallbladder adenocarcinoma	DisGeNet	
+EGFR	C0278493	Breast cancer recurrent	DisGeNet	
+ERBB2	C0278493	Breast cancer recurrent	DisGeNet	
+EGFR	C1322286	Thymic Carcinoma	DisGeNet	
+ERBB2	C1322286	Thymic Carcinoma	DisGeNet	
+ABCG2	C0153633	Malignant neoplasm of brain and nervous system	DisGeNet	
+EGFR	C0153633	Malignant neoplasm of brain and nervous system	DisGeNet	
+ERBB2	C0153633	Malignant neoplasm of brain and nervous system	DisGeNet	
+INSR	C0153633	Malignant neoplasm of brain and nervous system	DisGeNet	
+ABCG2	C0206139	Lichen Planus, Oral	DisGeNet	
+EGFR	C0206139	Lichen Planus, Oral	DisGeNet	
+ERBB2	C0206139	Lichen Planus, Oral	DisGeNet	

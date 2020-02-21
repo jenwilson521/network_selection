@@ -1,0 +1,5 @@
+node1	node2	edge_score	
+DB11148	BCHE	1.0	
+DB11148	ALB	1.0	
+DB11148	ORM1	1.0	
+

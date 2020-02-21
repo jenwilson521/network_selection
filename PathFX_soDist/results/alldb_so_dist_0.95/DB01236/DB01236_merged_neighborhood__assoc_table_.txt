@@ -1,0 +1,2 @@
+rank	phenotype	cui	assoc in neigh	assoc in intom	probability	Benjamini-Hochberg	genes	
+11	End Stage Liver Disease	C0745744	3	38	4.219126096827175e-06	1.40306122449e-05	ALB,CYP2B6,CYP2E1

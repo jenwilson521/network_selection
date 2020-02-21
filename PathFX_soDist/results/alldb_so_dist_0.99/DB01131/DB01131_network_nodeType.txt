@@ -1,0 +1,8 @@
+node_name	node_type	
+DB01131	drug	
+CYP2C9	drug_target	
+CYP2D6	drug_target	
+DHFR	drug_target	
+CYP2E1	drug_target	
+CYP2C19	drug_target	
+CYP3A4	drug_target	

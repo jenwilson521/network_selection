@@ -1,0 +1,8 @@
+node_name	node_type	
+DB01620	drug	
+NR1I3	drug_target	
+HRH1	drug_target	
+Peroxisome biogenesis disorder 6A	phenotype	
+Cholestatic liver disease	phenotype	
+Myelosuppression	phenotype	
+Hypoparathyroidism - autosomal dominant	phenotype	

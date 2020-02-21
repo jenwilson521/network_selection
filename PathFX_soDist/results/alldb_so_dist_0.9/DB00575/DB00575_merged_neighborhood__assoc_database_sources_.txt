@@ -1,0 +1,47 @@
+Gene	CUI	Source Databases	
+ABCB1	C0024620	Primary malignant neoplasm of liver	DisGeNet	
+CYP2D6	C0024620	Primary malignant neoplasm of liver	DisGeNet	
+CYP3A4	C0024620	Primary malignant neoplasm of liver	DisGeNet	
+CYP3A5	C0024620	Primary malignant neoplasm of liver	DisGeNet	
+ADRA1A	C1141890	Congenital long QT syndrome	DisGeNet	
+CYP2D6	C1141890	Congenital long QT syndrome	DisGeNet	
+CYP3A4	C1141890	Congenital long QT syndrome	DisGeNet	
+SLC22A5	C1141890	Congenital long QT syndrome	DisGeNet	
+ABCB1	C0152020	Gastroparesis	DisGeNet	
+ADRA1A	C0152020	Gastroparesis	DisGeNet	
+ADRA1B	C0152020	Gastroparesis	DisGeNet	
+CYP2D6	C0152020	Gastroparesis	DisGeNet	
+ADRA1A	C0221765	Chronic schizophrenia	DisGeNet	
+CYP1A2	C0221765	Chronic schizophrenia	DisGeNet	
+CYP2D6	C0221765	Chronic schizophrenia	DisGeNet	
+CYP3A4	C0221765	Chronic schizophrenia	DisGeNet	
+ABCB1	C0030201	Acute postoperative pain	DisGeNet	
+ADRA1A	C0030201	Acute postoperative pain	DisGeNet	
+CYP2D6	C0030201	Acute postoperative pain	DisGeNet	
+CYP3A4	C0030201	Acute postoperative pain	DisGeNet	
+ADRA1A	C0024031	Low back pain	DisGeNet	
+ADRA2A	C0024031	Low back pain	DisGeNet	
+ADRA2C	C0024031	Low back pain	DisGeNet	
+CYP2D6	C0024031	Low back pain	DisGeNet	
+ABCB1	C0013386	Dyskinesia, Drug-Induced	DisGeNet	
+ADRA1A	C0013386	Dyskinesia, Drug-Induced	DisGeNet	
+CYP1A2	C0013386	Dyskinesia, Drug-Induced	DisGeNet	
+CYP2D6	C0013386	Dyskinesia, Drug-Induced	DisGeNet	
+ABCB1	C0085602	Polydipsia	DisGeNet	
+ADRA2A	C0085602	Polydipsia	DisGeNet	
+CYP1A2	C0085602	Polydipsia	DisGeNet	
+CYP2D6	C0085602	Polydipsia	DisGeNet	
+ABCB1	C0344307	Pain insensitivity	DisGeNet	
+CYP2D6	C0344307	Pain insensitivity	DisGeNet	
+CYP3A4	C0344307	Pain insensitivity	DisGeNet	
+CYP3A5	C0344307	Pain insensitivity	DisGeNet	
+ADRA1A	C0036396	Chronic sciatica	DisGeNet	
+ADRA2A	C0036396	Chronic sciatica	DisGeNet	
+ADRA2C	C0036396	Chronic sciatica	DisGeNet	
+CYP1A1	C0206720	Squamous Cell Neoplasms	DisGeNet	
+CYP3A4	C0206720	Squamous Cell Neoplasms	DisGeNet	
+CYP3A5	C0206720	Squamous Cell Neoplasms	DisGeNet	
+CYP1A2	C0686347	Tardive Dyskinesia	DisGeNet	
+CYP2D6	C0686347	Tardive Dyskinesia	DisGeNet	
+CYP3A4	C0686347	Tardive Dyskinesia	DisGeNet	
+CYP3A5	C0686347	Tardive Dyskinesia	DisGeNet	

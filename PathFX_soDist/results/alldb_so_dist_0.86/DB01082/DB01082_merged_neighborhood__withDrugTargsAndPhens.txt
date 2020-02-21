@@ -1,0 +1,4 @@
+node1	node2	edge_score	
+DB01082	SLC22A6	1.0	
+DB01082	PADI4	1.0	
+

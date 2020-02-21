@@ -1,0 +1,15 @@
+node_name	node_type	
+DB00687	drug	
+NR3C2	drug_target	
+CYP3A4	drug_target	
+AR	drug_target	
+NR3C1	drug_target	
+Depressive Symptoms	phenotype	
+21-hydroxylase deficiency	phenotype	
+Adrenal hyperplasia	phenotype	
+Neoplasms, Germ Cell and Embryonal	phenotype	
+Heroin Dependence	phenotype	
+NEUROTICISM	phenotype	
+Congenital adrenal hyperplasia	phenotype	
+Increased analgesia from kappa-opioid receptor agonist, female-specific	phenotype	
+Hepatitis, Autoimmune	phenotype	

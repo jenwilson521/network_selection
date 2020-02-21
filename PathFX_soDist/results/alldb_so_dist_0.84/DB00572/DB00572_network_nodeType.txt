@@ -1,0 +1,40 @@
+node_name	node_type	
+DB00572	drug	
+CHRM4	drug_target	
+GLRA1	drug_target	
+CHRNB2	drug_target	
+CHRM3	drug_target	
+CHRM2	drug_target	
+CHRM1	drug_target	
+CHRNA4	drug_target	
+ABCB11	drug_target	
+Nicotine Dependence	phenotype	
+Sleep Wake Disorders	phenotype	
+SUDDEN INFANT DEATH SYNDROME	phenotype	
+Weight Gain Adverse Event	phenotype	
+Depressive Disorder	phenotype	
+Recurrent major depressive episodes	phenotype	
+{Unipolar depression, susceptibility to}, 608516 (3)	phenotype	
+Hypothermia	phenotype	
+Unverricht-Lundborg syndrome	phenotype	
+heavy drinking	phenotype	
+Epilepsy	phenotype	
+Memory impairment	phenotype	
+Chronic pain	phenotype	
+Juvenile myoclonic epilepsy	phenotype	
+Mild Mental Retardation	phenotype	
+Hippocampal sclerosis	phenotype	
+Prenatal Exposure Delayed Effects	phenotype	
+Pain insensitivity	phenotype	
+Bradycardia	phenotype	
+Epilepsy, focal, with speech disorder and with or without mental retardation	phenotype	
+Nausea	phenotype	
+Focal seizures	phenotype	
+Channelopathies	phenotype	
+Idiopathic generalized epilepsy	phenotype	
+Familial dilated cardiomyopathy	phenotype	
+Congenital myasthenic syndrome	phenotype	
+Cognition Disorders	phenotype	
+Drug Dependence	phenotype	
+NEUROTICISM	phenotype	
+Epilepsy, generalized, with febrile seizures plus, type 6 (2)	phenotype	

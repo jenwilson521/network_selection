@@ -1,0 +1,7 @@
+node_name	node_type	
+DB00104	drug	
+SSTR1	drug_target	
+MPO	drug_target	
+CYP3A4	drug_target	
+SSTR2	drug_target	
+SSTR5	drug_target	

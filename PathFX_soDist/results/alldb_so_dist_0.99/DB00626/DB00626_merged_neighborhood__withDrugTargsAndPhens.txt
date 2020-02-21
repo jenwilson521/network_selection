@@ -1,0 +1,4 @@
+node1	node2	edge_score	
+DB00626	IDE	1.0	
+DB00626	A2M	1.0	
+

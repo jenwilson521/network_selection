@@ -1,0 +1,283 @@
+node_name	node_type	
+DB00526	drug	
+CYP1A1	drug_target	
+ABCG2	drug_target	
+CYP1B1	drug_target	
+GSTT1	drug_target	
+SOD1	drug_target	
+GSTM1	drug_target	
+SLC22A3	drug_target	
+CYP2E1	drug_target	
+NQO1	drug_target	
+SLC31A1	drug_target	
+GSTP1	drug_target	
+SLC22A2	drug_target	
+MPO	drug_target	
+MT2A	drug_target	
+ATP7A	drug_target	
+MT1A	drug_target	
+ABCC2	drug_target	
+ATP7B	drug_target	
+Drug Eruptions	phenotype	
+Slow acetylator due to N-acetyltransferase enzyme variant	phenotype	
+DNA Damage	phenotype	
+Pleural Neoplasms	phenotype	
+Prenatal Exposure Delayed Effects	phenotype	
+Squamous Cell Neoplasms	phenotype	
+Malignant neoplasm of pharynx	phenotype	
+Childhood Leukemia	phenotype	
+Neoplasm of the larynx	phenotype	
+Occupational Diseases	phenotype	
+Genomic Instability	phenotype	
+Pancreatitis, Alcoholic	phenotype	
+Oral leukoplakia	phenotype	
+Neurotoxicity Syndromes	phenotype	
+Pregnancy Complications	phenotype	
+Chromosome Aberrations	phenotype	
+Papillomavirus Infections	phenotype	
+Leukoplakia	phenotype	
+Neoplasm of the oral cavity	phenotype	
+Malignant neoplasm of brain and nervous system	phenotype	
+Respiratory Tract Diseases	phenotype	
+Neoplasms, Multiple Primary	phenotype	
+Liver Cirrhosis, Alcoholic	phenotype	
+Intrahepatic cholestasis	phenotype	
+Carcinoma, Small Cell	phenotype	
+Adenoma of large intestine	phenotype	
+Pharyngeal Neoplasms	phenotype	
+Neurodegeneration with brain iron accumulation 4	phenotype	
+Bronchitis	phenotype	
+Rhinitis, Allergic, Perennial	phenotype	
+Malignant neoplasm of larynx	phenotype	
+Liver Neoplasms, Experimental	phenotype	
+Metaplasia	phenotype	
+Carcinogenicity	phenotype	
+Bronchogenic Carcinoma	phenotype	
+Stomach Diseases	phenotype	
+Cholestasis, benign recurrent intrahepatic 1	phenotype	
+Head and Neck Neoplasms	phenotype	
+Urinary Bladder Neoplasms	phenotype	
+Neoplasm of the gallbladder	phenotype	
+Uterine Cervical Neoplasms	phenotype	
+Testicular Germ Cell Tumor	phenotype	
+Gorlin syndrome	phenotype	
+Helicobacter Infections	phenotype	
+Mesothelioma, malignant	phenotype	
+Laryngeal carcinoma	phenotype	
+Leukemia, Lymphocytic, Acute, L1	phenotype	
+Fibrosis	phenotype	
+Malignant neoplasm of kidney	phenotype	
+Asbestosis	phenotype	
+Drug-Induced Liver Injury	phenotype	
+Pseudomonas Infections	phenotype	
+Peptic ulcer	phenotype	
+Thyroid Nodule	phenotype	
+Chromosomal translocation	phenotype	
+Non-alcoholic Fatty Liver Disease	phenotype	
+Biliary cirrhosis	phenotype	
+Acute Lung Injury	phenotype	
+Motor Neuron Disease	phenotype	
+Adrenoleukodystrophy	phenotype	
+Respiratory Hypersensitivity	phenotype	
+Xeroderma Pigmentosum, Complementation Group D	phenotype	
+Ehlers-Danlos syndrome, type vii, autosomal recessive	phenotype	
+Neoplastic Cell Transformation	phenotype	
+Acute Myeloid Leukemia Arising from Previous Myelodysplastic Syndrome	phenotype	
+Germinoma	phenotype	
+Barrett Esophagus	phenotype	
+Hearing Loss, Partial	phenotype	
+childhood brain tumor	phenotype	
+AIDS related complex	phenotype	
+Wheezing	phenotype	
+Small cell lung cancer	phenotype	
+Renal neoplasm	phenotype	
+Gastro-esophageal reflux disease with esophagitis	phenotype	
+Neoplasm of the colon	phenotype	
+Contact Dermatitis	phenotype	
+Adult Acute Myeloblastic Leukemia	phenotype	
+Exfoliation Syndrome	phenotype	
+Hepatitis	phenotype	
+Squamous cell carcinoma of the head and neck	phenotype	
+Intrauterine growth retardation	phenotype	
+Neoplasm Invasiveness	phenotype	
+Malignant neoplasm of gallbladder	phenotype	
+Alcohol abuse	phenotype	
+Skin carcinoma	phenotype	
+Aplastic anemia	phenotype	
+Primary open angle glaucoma juvenile onset 1	phenotype	
+Ovarian epithelial cancer stage III	phenotype	
+Ocular Hypertension	phenotype	
+Trisomy	phenotype	
+Noise-induced hearing loss	phenotype	
+Age-related cataract	phenotype	
+Varicocele	phenotype	
+HELLP Syndrome	phenotype	
+Myelopathy	phenotype	
+Neoplasm of the respiratory system	phenotype	
+Alcoholic Liver Diseases	phenotype	
+Hodgkin Disease	phenotype	
+Esophageal atresia	phenotype	
+Methamphetamine abuse	phenotype	
+Neoplasm of the rectum	phenotype	
+Childhood asthma	phenotype	
+Esophageal Squamous Cell Carcinoma	phenotype	
+Hamartoma	phenotype	
+Adenocarcinoma of the large intestine	phenotype	
+Dyskinesia, Drug-Induced	phenotype	
+Squamous cell carcinoma of lung	phenotype	
+Gallbladder Carcinoma	phenotype	
+Benign Prostatic Hyperplasia	phenotype	
+Germinal Center B-Cell-Like Diffuse Large B-Cell Lymphoma	phenotype	
+Hemoglobinopathy	phenotype	
+Hepatic steatosis	phenotype	
+Leukopenia	phenotype	
+Cancer of Head and Neck	phenotype	
+Glaucoma, Open-Angle	phenotype	
+Peptic Esophagitis	phenotype	
+Esophageal carcinoma	phenotype	
+Urinary tract neoplasm	phenotype	
+Liver Diseases	phenotype	
+Pancreatic Neoplasms	phenotype	
+Chronic atrophic gastritis	phenotype	
+Low Tension Glaucoma	phenotype	
+Chromosome Xq28 deletion syndrome	phenotype	
+Hereditary nonpolyposis colorectal cancer type 8	phenotype	
+Dyspepsia	phenotype	
+Necrosis	phenotype	
+Endometriosis of uterus	phenotype	
+Penile hypospadias	phenotype	
+Ependymoma	phenotype	
+Human papilloma virus infection	phenotype	
+Hepatic cancer metastatic	phenotype	
+Colorectal Neoplasms	phenotype	
+Oral Submucous Fibrosis	phenotype	
+Wilson disease	phenotype	
+Adverse drug events and drug allergies	phenotype	
+Cervical Squamous Cell Carcinoma	phenotype	
+Transitional cell carcinoma of the bladder	phenotype	
+Adenocarcinoma of lung	phenotype	
+Tardive Dyskinesia	phenotype	
+Basal cell carcinoma	phenotype	
+Carcinoma, Papillary	phenotype	
+Malignant tumor of esophagus	phenotype	
+Psychoses, Substance-Induced	phenotype	
+Testicular Neoplasms	phenotype	
+Bronchopulmonary Dysplasia	phenotype	
+Nasopharyngeal carcinoma, susceptibility to, 3	phenotype	
+Chronic liver disease	phenotype	
+Nasopharyngeal cancer recurrent	phenotype	
+Arsenic Poisoning	phenotype	
+Mammographic breast density	phenotype	
+orbit (eye disorders)	phenotype	
+Premature Birth	phenotype	
+Esophageal Neoplasms	phenotype	
+Hereditary pancreatitis	phenotype	
+BREAST-OVARIAN CANCER, FAMILIAL, SUSCEPTIBILITY TO, 4	phenotype	
+Orofacial dyskinesia	phenotype	
+Acute leukemia	phenotype	
+Neutropenia	phenotype	
+Neoplasms, Radiation-Induced	phenotype	
+Deafness, autosomal recessive 44	phenotype	
+Bronchitis, Chronic	phenotype	
+Postoperative Complications	phenotype	
+Neoplasm of the liver	phenotype	
+Spontaneous abortion	phenotype	
+Congenital chromosomal disease	phenotype	
+Lymphoma, Follicular	phenotype	
+Primary angle-closure glaucoma	phenotype	
+Signs and Symptoms, Respiratory	phenotype	
+Bladder carcinoma	phenotype	
+Uterine neoplasm	phenotype	
+Chronic gastritis	phenotype	
+Experimental Organism Basal Cell Carcinoma	phenotype	
+Neonatal respiratory distress	phenotype	
+Neuropathy ataxia retinitis pigmentosa syndrome	phenotype	
+Malignant mesothelioma	phenotype	
+Cervical dysplasia	phenotype	
+Recurrent abortion	phenotype	
+Drug Allergy	phenotype	
+VITILIGO-ASSOCIATED MULTIPLE AUTOIMMUNE DISEASE SUSCEPTIBILITY 1 (finding)	phenotype	
+Endometrial Neoplasms	phenotype	
+Myelodysplastic syndrome	phenotype	
+Non-Hodgkin lymphoma	phenotype	
+Respiration Disorders	phenotype	
+Chondrocalcinosis	phenotype	
+Proteinuria Adverse Event	phenotype	
+Neoplasm Recurrence, Local	phenotype	
+Pancreatitis	phenotype	
+Nasopharyngeal Neoplasms	phenotype	
+Amphetamine-Related Disorders	phenotype	
+Extrahepatic cholestasis	phenotype	
+Substance-Related Disorders	phenotype	
+Ovarian Neoplasms	phenotype	
+Age-related macular degeneration 2	phenotype	
+Distal myopathy Markesbery-Griggs type	phenotype	
+Peripheral neuropathy, myopathy, hoarseness, and hearing loss	phenotype	
+Lung Neoplasms	phenotype	
+Prostatic Neoplasms	phenotype	
+Lymphoma, Large-Cell, Follicular	phenotype	
+Vestibular Schwannoma	phenotype	
+Oral Cavity Carcinoma	phenotype	
+Actinic keratosis	phenotype	
+Helicobacter pylori infection	phenotype	
+Adenomas, multiple colorectal, 608456 (3)	phenotype	
+Chronic ulcerative colitis	phenotype	
+Venous insufficiency	phenotype	
+Male infertility	phenotype	
+Hypersensitivity	phenotype	
+Parkinson Disease	phenotype	
+Testicular malignant germ cell tumor	phenotype	
+Myelosuppression	phenotype	
+Ovarian epithelial cancer	phenotype	
+Thyroid cancer, nonmedullary, 4	phenotype	
+Other disorders of the nervous system	phenotype	
+Neoplasms, Second Primary	phenotype	
+Non-Neoplastic Disorder	phenotype	
+Chronic hepatitis	phenotype	
+Simple pneumoconiosis	phenotype	
+Chronic myeloid leukemia	phenotype	
+Acute lymphoid leukemia	phenotype	
+Cholestasis of pregnancy	phenotype	
+precancerous lesions	phenotype	
+B-cell lymphoma	phenotype	
+Thyroid Neoplasms	phenotype	
+Pulmonary Emphysema	phenotype	
+Chemical Carcinogenesis	phenotype	
+Dermatitis, Allergic Contact	phenotype	
+Carotid Atherosclerosis	phenotype	
+Cervical intraepithelial neoplasia (Cervical dysplasia)	phenotype	
+Precursor Cell Lymphoblastic Leukemia-Lymphoma	phenotype	
+Chloracne	phenotype	
+Cleft Lip	phenotype	
+Chronic obstructive pulmonary disease	phenotype	
+Tuberculosis, Pulmonary	phenotype	
+Breast adenocarcinoma	phenotype	
+Hepatoblastoma	phenotype	
+Malignant neoplasm of endometrium	phenotype	
+Uterine Corpus Cancer	phenotype	
+Skin cancer	phenotype	
+Photoparoxysmal response 1 (2)	phenotype	
+Malignant tumor of cervix	phenotype	
+Li-Fraumeni syndrome	phenotype	
+Hepatitis, Autoimmune	phenotype	
+Exanthema	phenotype	
+Invasive breast carcinoma	phenotype	
+Abnormality of chromosome stability	phenotype	
+Prostate cancer, familial	phenotype	
+Preeclampsia/eclampsia 1	phenotype	
+Myeloid leukemia	phenotype	
+Dermal atrophy	phenotype	
+Lymphoma, Large B-Cell, Diffuse	phenotype	
+Malignant neoplasm of female breast	phenotype	
+Pleural Mesothelioma	phenotype	
+Vitiligo	phenotype	
+Malignant tumor of urinary bladder	phenotype	
+Endometriosis	phenotype	
+Squamous intraepithelial lesion	phenotype	
+Musculoskeletal Diseases	phenotype	
+Pregnancy Complications, Hematologic	phenotype	
+Laryngeal Squamous Cell Carcinoma	phenotype	
+Female Breast Carcinoma	phenotype	
+Nausea	phenotype	
+beta Thalassemia	phenotype	
+Fanconi anemia	phenotype	

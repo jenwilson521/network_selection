@@ -1,0 +1,68 @@
+Gene	CUI	Source Databases	
+SCNN1B	C0020461	Hyperkalemia	HumPhenOnt	
+SLC22A2	C0005398	Extrahepatic cholestasis	DisGeNet	
+SCNN1B	C4023644	Abnormality of sodium homeostasis	HumPhenOnt	
+SCNN1B	C0020625	Hyponatremia	HumPhenOnt	
+SCNN1B	C4025685	Adrenal overactivity	HumPhenOnt	
+SLC22A4	C0030524	Paratuberculosis	DisGeNet	
+SLC22A2	C0031039	Pericardial effusion	DisGeNet	
+SCNN1B	C1565489	Renal insufficiency	HumPhenOnt	
+SLC22A2	C1565489	Renal insufficiency	DisGeNet	
+SLC22A4	C0014378	Enterovirus Infections	DisGeNet	
+SCNN1B	C0002063	Alkalosis	HumPhenOnt	
+SCNN1B	C0020428	Hyperaldosteronism, familial, type IV	HumPhenOnt	
+SCNN1B	C4023575	Abnormality of potassium homeostasis	HumPhenOnt	
+SCNN1B	C0020538	Hypertension	DisGeNet,HumPhenOnt	
+SLC22A2	C0020538	Hypertension	DisGeNet	
+SLC22A4	C0020538	Hypertension	DisGeNet	
+SCNN1B	C0020545	Renovascular hypertension	DisGeNet	
+SCNN1B	C0020621	Hypokalemia	HumPhenOnt	
+SLC22A4	C0016169	pathologic fistula	DisGeNet	
+SCNN1B	C0600260	Obstructive lung disease	DisGeNet	
+ASIC2	C0034152	Henoch-Schoenlein Purpura	DisGeNet	
+SCNN1B	C4023645	Abnormality of monovalent inorganic cation homeostasis	HumPhenOnt	
+SLC22A2	C0008372	Intrahepatic cholestasis	DisGeNet	
+SCNN1B	C0220981	Metabolic acidosis	HumPhenOnt	
+SLC22A2	C0740394	Hyperuricemia, pulmonary hypertension, renal failure, and alkalosis	DisGeNet	
+SCNN1B	C0006277	Bronchitis	HumPhenOnt	
+SCNN1B	C0008677	Bronchitis, Chronic	HumPhenOnt	
+ASIC2	C1868649	Panic disorder 1	DisGeNet	
+SLC22A4	C0018273	Growth Disorders	DisGeNet	
+SCNN1B	C4025725	Abnormality of the bronchi	HumPhenOnt	
+SCNN1B	C0581381	Recurrent upper respiratory tract infections	HumPhenOnt	
+SLC22A2	C1561535	Creatinine finding	DisGeNet	
+SLC22A4	C2919828	Chronic ulcerative colitis	DisGeNet	
+SLC22A2	C0376618	Endotoxemia	DisGeNet	
+SCNN1B	C4022833	Abnormal urinary electrolyte concentration	HumPhenOnt	
+SCNN1B	C4021520	Abnormality of cerebral artery	HumPhenOnt	
+SCNN1B	C0001403	Primary adrenal insufficiency	HumPhenOnt	
+SCNN1B	C4025750	Abnormality of the nasopharynx	HumPhenOnt	
+SCNN1B	C0011175	Dehydration	HumPhenOnt	
+SCNN1B	C0205216	Decreased beta-glucocerebrosidase protein and activity	HumPhenOnt	
+SLC22A4	C1561955	Fibrinogen Adverse Event	DisGeNet	
+SCNN1B	C0022658	Kidney Diseases	HumPhenOnt	
+SLC22A2	C0022658	Kidney Diseases	DisGeNet	
+SLC22A4	C0027059	Myocarditis	DisGeNet	
+SCNN1B	C4023212	Abnormality of adrenal physiology	HumPhenOnt	
+SCNN1B	C0001623	Adrenal insufficiency	HumPhenOnt	
+SLC22A4	C0178468	Autoimmune thyroid disease 3	DisGeNet	
+ASIC2	C0030319	Panic disorder syndrome 1 (2)	DisGeNet	
+ASIC2	C0018099	Gout	PheGenI	
+SCNN1B	C0006267	Bronchiectasis	DisGeNet,HumPhenOnt	
+SLC22A2	C1292753	Primary Effusion Lymphoma	DisGeNet	
+SLC22A2	C1333064	Classical Hodgkin's Lymphoma	DisGeNet	
+SCNN1B	C0009324	Ulcerative colitis	DisGeNet	
+SLC22A4	C0009324	Ulcerative colitis	DisGeNet	
+SCNN1B	C0020649	Hypotension	HumPhenOnt	
+SCNN1B	C4025838	Abnormality of the pharynx	HumPhenOnt	
+SCNN1B	C4025247	Abnormalities of the peripheral arteries	HumPhenOnt	
+SCNN1B	C0038449	Arterial stenosis	HumPhenOnt	
+SLC22A4	C0677607	Hashimoto thyroiditis	DisGeNet	
+ASIC2	C0010068	Coronary Disease	PheGenI	
+SCNN1B	C4021794	Abnormality of the adrenal glands	HumPhenOnt	
+SCNN1B	C4022001	Abnormality of the cerebral vasculature	HumPhenOnt	
+SCNN1B	C0020503	Secondary hyperparathyroidism	DisGeNet	
+SLC22A2	C0011854	Diabetes mellitus type 1	DisGeNet	
+SLC22A4	C0011854	Diabetes mellitus type 1	DisGeNet	
+SCNN1B	C4023646	Abnormality of cation homeostasis	HumPhenOnt	
+SCNN1B	C0042963	Vomiting	HumPhenOnt	

@@ -1,0 +1,95 @@
+Gene	CUI	Source Databases	
+CYP2C19	C0027497	Nausea	DisGeNet	
+CYP2C9	C0027497	Nausea	DisGeNet	
+CYP2D6	C0027497	Nausea	DisGeNet	
+HTR3A	C0027497	Nausea	DisGeNet	
+OPRM1	C0027497	Nausea	DisGeNet	
+SLC6A4	C0027497	Nausea	DisGeNet	
+UGT2B7	C0027497	Nausea	DisGeNet	
+UGT1A	C0011226	Hepatitis D Infection	DisGeNet	
+UGT1A1	C0011226	Hepatitis D Infection	DisGeNet	
+UGT1A10	C0011226	Hepatitis D Infection	DisGeNet	
+UGT1A6	C0011226	Hepatitis D Infection	DisGeNet	
+UGT1A7	C0011226	Hepatitis D Infection	DisGeNet	
+UGT1A8	C0011226	Hepatitis D Infection	DisGeNet	
+UGT1A9	C0011226	Hepatitis D Infection	DisGeNet	
+CYP2C19	C0013182	Drug Allergy	DisGeNet	
+CYP2C9	C0013182	Drug Allergy	DisGeNet	
+CYP2D6	C0013182	Drug Allergy	DisGeNet	
+UGT1A1	C0013182	Drug Allergy	DisGeNet	
+UGT1A7	C0013182	Drug Allergy	DisGeNet	
+UGT1A8	C0013182	Drug Allergy	DisGeNet	
+UGT1A9	C0013182	Drug Allergy	DisGeNet	
+UGT2B7	C0013182	Drug Allergy	DisGeNet	
+CYP2D6	C0019337	Heroin Dependence	DisGeNet	
+HTR3A	C0019337	Heroin Dependence	DisGeNet	
+OPRD1	C0019337	Heroin Dependence	DisGeNet	
+OPRM1	C0019337	Heroin Dependence	DisGeNet	
+SLC6A2	C0019337	Heroin Dependence	DisGeNet	
+SLC6A4	C0019337	Heroin Dependence	DisGeNet	
+UGT1A	C0020433	Hyperbilirubinemia	DisGeNet	
+UGT1A1	C0020433	Hyperbilirubinemia	DisGeNet,HumPhenOnt	
+UGT1A10	C0020433	Hyperbilirubinemia	DisGeNet	
+UGT1A6	C0020433	Hyperbilirubinemia	DisGeNet	
+UGT1A7	C0020433	Hyperbilirubinemia	DisGeNet	
+UGT1A8	C0020433	Hyperbilirubinemia	DisGeNet	
+UGT1A9	C0020433	Hyperbilirubinemia	DisGeNet	
+CYP2C19	C0002895	Anemia, Sickle Cell	DisGeNet	
+CYP2C9	C0002895	Anemia, Sickle Cell	DisGeNet	
+CYP2D6	C0002895	Anemia, Sickle Cell	DisGeNet	
+UGT1A	C0002895	Anemia, Sickle Cell	DisGeNet	
+UGT1A1	C0002895	Anemia, Sickle Cell	DisGeNet,PheGenI	
+UGT1A10	C0002895	Anemia, Sickle Cell	PheGenI	
+UGT1A6	C0002895	Anemia, Sickle Cell	PheGenI	
+UGT1A7	C0002895	Anemia, Sickle Cell	PheGenI	
+UGT1A8	C0002895	Anemia, Sickle Cell	PheGenI	
+UGT1A9	C0002895	Anemia, Sickle Cell	PheGenI	
+UGT2B7	C0002895	Anemia, Sickle Cell	DisGeNet	
+UGT1A	C0746883	Febrile Neutropenia	DisGeNet	
+UGT1A1	C0746883	Febrile Neutropenia	DisGeNet	
+UGT1A6	C0746883	Febrile Neutropenia	DisGeNet	
+UGT1A7	C0746883	Febrile Neutropenia	DisGeNet	
+CYP2D6	C0030201	Acute postoperative pain	DisGeNet	
+OPRM1	C0030201	Acute postoperative pain	DisGeNet	
+SLC6A4	C0030201	Acute postoperative pain	DisGeNet	
+UGT2B7	C0030201	Acute postoperative pain	DisGeNet	
+CYP2D6	C0524662	Opiate Addiction	DisGeNet	
+HTR3A	C0524662	Opiate Addiction	DisGeNet	
+OPRD1	C0524662	Opiate Addiction	DisGeNet	
+OPRM1	C0524662	Opiate Addiction	DisGeNet	
+CYP2C19	C0013146	Methamphetamine abuse	DisGeNet	
+CYP2C9	C0013146	Methamphetamine abuse	DisGeNet	
+CYP2D6	C0013146	Methamphetamine abuse	DisGeNet	
+OPRM1	C0013146	Methamphetamine abuse	DisGeNet	
+SLC6A2	C0013146	Methamphetamine abuse	DisGeNet	
+SLC6A4	C0013146	Methamphetamine abuse	DisGeNet	
+SLC6A4	C0018772	Hearing Loss, Partial	DisGeNet	
+UGT1A1	C0018772	Hearing Loss, Partial	DisGeNet	
+UGT1A10	C0018772	Hearing Loss, Partial	DisGeNet	
+UGT1A6	C0018772	Hearing Loss, Partial	DisGeNet	
+UGT1A7	C0018772	Hearing Loss, Partial	DisGeNet	
+UGT1A8	C0018772	Hearing Loss, Partial	DisGeNet	
+UGT1A9	C0018772	Hearing Loss, Partial	DisGeNet	
+CYP2C19	C0011991	Diarrhea 8, secretory sodium, congenital	DisGeNet	
+CYP2C9	C0011991	Diarrhea 8, secretory sodium, congenital	DisGeNet	
+CYP2D6	C0011991	Diarrhea 8, secretory sodium, congenital	DisGeNet	
+HTR3A	C0011991	Diarrhea 8, secretory sodium, congenital	DisGeNet	
+OPRM1	C0011991	Diarrhea 8, secretory sodium, congenital	DisGeNet	
+SLC6A4	C0011991	Diarrhea 8, secretory sodium, congenital	DisGeNet	
+UGT1A1	C0011991	Diarrhea 8, secretory sodium, congenital	DisGeNet	
+UGT1A7	C0011991	Diarrhea 8, secretory sodium, congenital	DisGeNet	
+UGT1A8	C0011991	Diarrhea 8, secretory sodium, congenital	DisGeNet	
+UGT1A9	C0011991	Diarrhea 8, secretory sodium, congenital	DisGeNet	
+UGT2B7	C0011991	Diarrhea 8, secretory sodium, congenital	DisGeNet	
+CYP2C9	C0017178	Gastrointestinal Diseases	DisGeNet	
+CYP2D6	C0017178	Gastrointestinal Diseases	DisGeNet	
+SLC6A2	C0017178	Gastrointestinal Diseases	DisGeNet	
+SLC6A4	C0017178	Gastrointestinal Diseases	DisGeNet	
+UGT1A9	C0017178	Gastrointestinal Diseases	DisGeNet	
+UGT1A	C0008350	Cholelithiasis	DisGeNet	
+UGT1A1	C0008350	Cholelithiasis	DisGeNet,PheGenI	
+UGT1A10	C0008350	Cholelithiasis	PheGenI	
+UGT1A6	C0008350	Cholelithiasis	DisGeNet,PheGenI	
+UGT1A7	C0008350	Cholelithiasis	PheGenI	
+UGT1A8	C0008350	Cholelithiasis	PheGenI	
+UGT1A9	C0008350	Cholelithiasis	PheGenI	

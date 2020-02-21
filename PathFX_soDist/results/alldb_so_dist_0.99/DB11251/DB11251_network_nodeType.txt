@@ -1,0 +1,10 @@
+node_name	node_type	
+DB11251	drug	
+CYP4F2	drug_target	
+VLDLR	drug_target	
+SCARB1	drug_target	
+ABCB1	drug_target	
+SEC14L4	drug_target	
+LDLR	drug_target	
+CYP3A4	drug_target	
+TTPA	drug_target	

@@ -1,0 +1,23 @@
+node_name	node_type	
+DB01068	drug	
+NAT2	drug_target	
+ALB	drug_target	
+CYP2E1	drug_target	
+NR1I2	drug_target	
+CYP3A4	drug_target	
+TSPO	drug_target	
+Adverse drug events and drug allergies	phenotype	
+Occupational Diseases	phenotype	
+Chronic liver disease	phenotype	
+Slow acetylator due to N-acetyltransferase enzyme variant	phenotype	
+Neoplasms, Multiple Primary	phenotype	
+Pleural Neoplasms	phenotype	
+Squamous Cell Neoplasms	phenotype	
+Cholestatic liver disease	phenotype	
+Rhinitis, Allergic, Perennial	phenotype	
+Osteomalacia	phenotype	
+Drug-Induced Liver Injury	phenotype	
+Genomic Instability	phenotype	
+End Stage Liver Disease	phenotype	
+Neoplasm of the larynx	phenotype	
+Hepatic necrosis	phenotype	

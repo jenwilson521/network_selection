@@ -1,0 +1,4 @@
+node_name	node_type	
+DB00979	drug	
+BCHE	drug_target	
+CHRM1	drug_target	

@@ -1,0 +1,6 @@
+node1	node2	edge_score	
+DB00350	PTGS1	1.0	
+DB00350	REN	1.0	
+DB00350	KCNJ1	1.0	
+DB00350	UGT1A1	1.0	
+

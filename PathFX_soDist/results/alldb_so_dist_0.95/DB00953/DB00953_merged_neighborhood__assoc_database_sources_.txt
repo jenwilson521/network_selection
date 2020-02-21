@@ -1,0 +1,40 @@
+Gene	CUI	Source Databases	
+HTR1B	C0006370	Bulimia	DisGeNet	
+HTR1B	C0038586	Substance Use Disorders	DisGeNet	
+HTR1B	C0003431	Antisocial Personality Disorder	DisGeNet	
+HTR1B	C0031212	Personality disorder	DisGeNet	
+HTR1B	C2267227	Bulimia nervosa 1	DisGeNet	
+HTR1B	C0233523	Antisocial/borderline personality disorder	DisGeNet	
+HTR1B	C0740858	Substance abuse problem	DisGeNet	
+HTR1B	C0018824	Heart valve disease	DisGeNet	
+HTR1B	C0149654	Conduct Disorder	DisGeNet	
+HTR1B	C0020492	Hyperostosis	DisGeNet	
+HTR1B	C0005941	Bone Diseases, Developmental	DisGeNet	
+HTR1B	C0003944	As If Personality	DisGeNet	
+HTR1B	C0019337	Heroin Dependence	DisGeNet	
+HTR1B	C1510472	Drug Dependence	DisGeNet	
+HTR1B	C0029421	Osteochondritis dissecans	DisGeNet	
+HTR1B	C0432306	Ichthyosis bullosa of Siemens	DisGeNet	
+HTR1B	C0038580	Substance addiction and disorders	DisGeNet	
+HTR1B	C1868649	Panic disorder 1	DisGeNet	
+HTR1B	C0036337	Schizoaffective Disorder	DisGeNet	
+HTR1B	C0236733	Amphetamine-Related Disorders	DisGeNet	
+HTR1B	C0028768	Obsessive-compulsive disorder	DisGeNet	
+HTR1B	C0518010	body mass	DisGeNet	
+HTR1B	C0085762	Alcohol abuse	DisGeNet	
+HTR1B	C0013384	Dyskinesia, seizures, and intellectual developmental disorder	DisGeNet	
+HTR1B	C0013146	Methamphetamine abuse	DisGeNet	
+HTR1B	C0003125	Anorexia nervosa 1	DisGeNet	
+HTR1B	C0030319	Panic disorder syndrome 1 (2)	DisGeNet	
+HTR1B	C0236736	Cocaine-Related Disorders	DisGeNet	
+HTR1B	C0020649	Hypotension	DisGeNet	
+HTR1B	C0003123	Anorexia	DisGeNet	
+HTR1B	C2911647	Weight Gain Adverse Event	DisGeNet	
+HTR1B	C0022104	Irritable bowel syndrome with diarrhea	DisGeNet	
+HTR1B	C0520679	Obstructive sleep apnea	DisGeNet	
+HTR1B	C0005940	Bone Diseases	DisGeNet	
+HTR1B	C0006012	Borderline Personality Disorder	DisGeNet	
+HTR1B	C0014556	Epilepsy, Temporal Lobe	DisGeNet	
+HTR1B	C0018681	Headache	DisGeNet	
+HTR1B	C0003467	Anxiety	DisGeNet	
+HTR1B	C0152171	Primary pulmonary hypertension	DisGeNet	

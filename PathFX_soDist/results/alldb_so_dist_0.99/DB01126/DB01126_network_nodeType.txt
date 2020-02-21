@@ -1,0 +1,6 @@
+node_name	node_type	
+DB01126	drug	
+CYP3A4	drug_target	
+CYP3A5	drug_target	
+ALB	drug_target	
+ORM1	drug_target	

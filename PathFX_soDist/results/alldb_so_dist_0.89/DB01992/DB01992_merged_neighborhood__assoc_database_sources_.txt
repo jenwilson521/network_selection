@@ -1,0 +1,4 @@
+Gene	CUI	Source Databases	
+HMGCR	C0027813	Neuritis	DisGeNet	
+HMGCR	C0751674	Lymphangiomyomatosis	DisGeNet	
+HMGCR	C0019202	Wilson disease	DisGeNet	

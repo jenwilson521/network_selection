@@ -1,0 +1,14 @@
+node_name	node_type	
+DB00905	drug	
+CYP3A4	drug_target	
+CYP3A5	drug_target	
+PTGER1	drug_target	
+PTGFR	drug_target	
+PTGER3	drug_target	
+Drug Allergy	phenotype	
+Primary malignant neoplasm of liver	phenotype	
+Squamous Cell Neoplasms	phenotype	
+Cocaine delirium	phenotype	
+Pain insensitivity	phenotype	
+Neoplasms, Germ Cell and Embryonal	phenotype	
+Tardive Dyskinesia	phenotype	

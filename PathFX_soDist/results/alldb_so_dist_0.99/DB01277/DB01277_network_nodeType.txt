@@ -1,0 +1,7 @@
+node_name	node_type	
+DB01277	drug	
+IGFBP3	drug_target	
+INSR	drug_target	
+IGF2R	drug_target	
+IGF1R	drug_target	
+IGFALS	drug_target	

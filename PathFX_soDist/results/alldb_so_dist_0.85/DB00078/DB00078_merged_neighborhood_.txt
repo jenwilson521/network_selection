@@ -1,0 +1,2 @@
+FCGR2A		1.0	
+FCGR3A		1.0	

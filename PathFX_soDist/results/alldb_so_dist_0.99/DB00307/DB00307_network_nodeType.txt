@@ -1,0 +1,8 @@
+node_name	node_type	
+DB00307	drug	
+CYP2C9	drug_target	
+CYP2C8	drug_target	
+RXRG	drug_target	
+RXRA	drug_target	
+RXRB	drug_target	
+CYP3A4	drug_target	

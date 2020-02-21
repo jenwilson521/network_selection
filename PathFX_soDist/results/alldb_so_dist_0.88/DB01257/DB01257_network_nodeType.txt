@@ -1,0 +1,82 @@
+node_name	node_type	
+DB01257	drug	
+C5	drug_target	
+Alopecia Areata	phenotype	
+Arthritis, Rheumatoid	phenotype	
+Rheumatoid arthritis	phenotype	
+Asthma	phenotype	
+Atherosclerosis	phenotype	
+Autoimmune disease 1	phenotype	
+Cerebral edema	phenotype	
+Breast-ovarian cancer, familial 1	phenotype	
+Bronchiolitis, Viral	phenotype	
+CNS disorder	phenotype	
+CNS infection	phenotype	
+Brain Ischemia	phenotype	
+Chlamydia Infections	phenotype	
+Colitis, Ulcerative	phenotype	
+Death, Sudden, Cardiac	phenotype	
+Diabetes mellitus type 1	phenotype	
+Diabetes mellitus type 2	phenotype	
+Diarrhea 8, secretory sodium, congenital	phenotype	
+Eczema	phenotype	
+Experimental Autoimmune Encephalomyelitis	phenotype	
+Endometriosis	phenotype	
+Erythema nodosum	phenotype	
+Fibrosis	phenotype	
+Folic Acid Deficiency	phenotype	
+IgA nephropathy, susceptibility to, 3	phenotype	
+Immediate hypersensitivity	phenotype	
+Immunodeficiency due to defect in CD3-gamma	phenotype	
+Infertility associated with multi-tailed spermatozoa and excessive DNA	phenotype	
+Inflammation	phenotype	
+Ischemia	phenotype	
+Liver Cirrhosis, Biliary	phenotype	
+Lupus Erythematosus, Systemic	phenotype	
+Lupus Nephritis	phenotype	
+Non-Hodgkin lymphoma	phenotype	
+Meningitis, Pneumococcal	phenotype	
+Myocardial Reperfusion Injury	phenotype	
+Neutropenia	phenotype	
+Peritonitis	phenotype	
+Reperfusion Injury	phenotype	
+Respiratory Distress Syndrome, Adult	phenotype	
+Respiratory Syncytial Virus Infections	phenotype	
+Sarcoidosis	phenotype	
+Seborrheic dermatitis	phenotype	
+Septicemia	phenotype	
+Abnormality of the skin	phenotype	
+Stroke	phenotype	
+Trachoma	phenotype	
+Virus Diseases	phenotype	
+Bronchial Hyperreactivity	phenotype	
+Renal fibrosis	phenotype	
+Infections, recurrent, with encephalopathy, hepatic dysfunction, and cardiovascular malformations	phenotype	
+Age-related macular degeneration 2	phenotype	
+Sepsis	phenotype	
+Abnormality of the digestive system	phenotype	
+Autosomal recessive inheritance	phenotype	
+Abnormality of the nervous system	phenotype	
+Hepatitis C, Chronic	phenotype	
+Breast carcinoma	phenotype	
+Acute anterior uveitis	phenotype	
+Abdominal symptom	phenotype	
+Drusen	phenotype	
+Venous Thromboembolism	phenotype	
+Coronary Artery Disease	phenotype	
+Hepatocellular carcinoma	phenotype	
+Thrombotic Microangiopathies	phenotype	
+Kashin-Beck Disease	phenotype	
+Abnormality of humoral immunity	phenotype	
+Juvenile idiopathic arthritis, enthesitis related arthritis	phenotype	
+Allergic sensitization	phenotype	
+Inflammatory abnormality of the skin	phenotype	
+Abnormality of the immune system	phenotype	
+Morphological abnormality of the central nervous system	phenotype	
+Increased inflammatory response	phenotype	
+Abnormal inflammatory response	phenotype	
+Abnormality of nervous system morphology	phenotype	
+Abnormality of skin physiology	phenotype	
+Abnormality of immune system physiology	phenotype	
+Abnormality of the integument	phenotype	
+Abnormality of digestive system physiology	phenotype	

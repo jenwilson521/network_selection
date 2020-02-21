@@ -1,0 +1,70 @@
+Gene	CUI	Source Databases	
+CYP1A2	C0032229	Pleural Neoplasms	DisGeNet	
+CYP2A6	C0032229	Pleural Neoplasms	DisGeNet	
+CYP2C19	C0032229	Pleural Neoplasms	DisGeNet	
+CYP2E1	C0032229	Pleural Neoplasms	DisGeNet	
+NAT2	C0032229	Pleural Neoplasms	DisGeNet	
+CYP1A2	C0023055	Neoplasm of the larynx	DisGeNet	
+CYP2A6	C0023055	Neoplasm of the larynx	DisGeNet	
+CYP2C8	C0023055	Neoplasm of the larynx	DisGeNet	
+CYP2C9	C0023055	Neoplasm of the larynx	DisGeNet	
+CYP2D6	C0023055	Neoplasm of the larynx	DisGeNet	
+CYP2E1	C0023055	Neoplasm of the larynx	DisGeNet	
+CYP3A4	C0023055	Neoplasm of the larynx	DisGeNet	
+NAT2	C0023055	Neoplasm of the larynx	DisGeNet	
+CYP1A2	C0919532	Genomic Instability	DisGeNet	
+CYP2A6	C0919532	Genomic Instability	DisGeNet	
+CYP2C19	C0919532	Genomic Instability	DisGeNet	
+CYP2E1	C0919532	Genomic Instability	DisGeNet	
+NAT2	C0919532	Genomic Instability	DisGeNet	
+ALB	C0041755	Adverse drug events and drug allergies	DisGeNet	
+CYP1A2	C0041755	Adverse drug events and drug allergies	DisGeNet	
+CYP2C9	C0041755	Adverse drug events and drug allergies	DisGeNet	
+CYP2D6	C0041755	Adverse drug events and drug allergies	DisGeNet	
+CYP2E1	C0041755	Adverse drug events and drug allergies	DisGeNet	
+NAT2	C0041755	Adverse drug events and drug allergies	DisGeNet	
+CYP1A2	C0031347	Pharyngeal Neoplasms	DisGeNet	
+CYP2A6	C0031347	Pharyngeal Neoplasms	DisGeNet	
+CYP2C8	C0031347	Pharyngeal Neoplasms	DisGeNet	
+CYP2C9	C0031347	Pharyngeal Neoplasms	DisGeNet	
+CYP3A4	C0031347	Pharyngeal Neoplasms	DisGeNet	
+NAT2	C0031347	Pharyngeal Neoplasms	DisGeNet	
+CYP2C19	C0013182	Drug Allergy	DisGeNet	
+CYP2C8	C0013182	Drug Allergy	DisGeNet	
+CYP2C9	C0013182	Drug Allergy	DisGeNet	
+CYP2D6	C0013182	Drug Allergy	DisGeNet	
+CYP3A4	C0013182	Drug Allergy	DisGeNet	
+NAT2	C0013182	Drug Allergy	DisGeNet	
+ALB	C0035457	Rhinitis, Allergic, Perennial	DisGeNet	
+CYP2C19	C0035457	Rhinitis, Allergic, Perennial	DisGeNet	
+CYP2C9	C0035457	Rhinitis, Allergic, Perennial	DisGeNet	
+NAT2	C0035457	Rhinitis, Allergic, Perennial	DisGeNet	
+ALB	C0341439	Chronic liver disease	DisGeNet	
+CYP1A2	C0341439	Chronic liver disease	DisGeNet	
+CYP2A6	C0341439	Chronic liver disease	DisGeNet	
+CYP2C19	C0341439	Chronic liver disease	DisGeNet	
+CYP2E1	C0341439	Chronic liver disease	DisGeNet	
+CYP3A4	C0341439	Chronic liver disease	DisGeNet	
+NAT2	C0341439	Chronic liver disease	DisGeNet	
+ALB	C0027707	Tubulointerstitial nephritis	DisGeNet	
+CYP2C19	C0027707	Tubulointerstitial nephritis	DisGeNet	
+CYP2C9	C0027707	Tubulointerstitial nephritis	DisGeNet	
+CYP2D6	C0027707	Tubulointerstitial nephritis	DisGeNet	
+CYP2C19	C0024620	Primary malignant neoplasm of liver	DisGeNet	
+CYP2D6	C0024620	Primary malignant neoplasm of liver	DisGeNet	
+CYP3A4	C0024620	Primary malignant neoplasm of liver	DisGeNet	
+CYP2D6	C1827377	Slow acetylator due to N-acetyltransferase enzyme variant	DisGeNet	
+CYP2E1	C1827377	Slow acetylator due to N-acetyltransferase enzyme variant	DisGeNet	
+NAT2	C1827377	Slow acetylator due to N-acetyltransferase enzyme variant	ClinVar,DisGeNet	
+CYP1A2	C0026640	Neoplasm of the oral cavity	DisGeNet	
+CYP2A6	C0026640	Neoplasm of the oral cavity	DisGeNet	
+CYP2C8	C0026640	Neoplasm of the oral cavity	DisGeNet	
+CYP2C9	C0026640	Neoplasm of the oral cavity	DisGeNet	
+CYP2D6	C0026640	Neoplasm of the oral cavity	DisGeNet	
+CYP2E1	C0026640	Neoplasm of the oral cavity	DisGeNet	
+CYP3A4	C0026640	Neoplasm of the oral cavity	DisGeNet	
+NAT2	C0026640	Neoplasm of the oral cavity	DisGeNet	
+CYP1A2	C0027497	Nausea	DisGeNet	
+CYP2C19	C0027497	Nausea	DisGeNet	
+CYP2C9	C0027497	Nausea	DisGeNet	
+CYP2D6	C0027497	Nausea	DisGeNet	

@@ -1,0 +1,3 @@
+Gene	CUI	Source Databases	
+ABCC2	C0041755	Adverse drug events and drug allergies	DisGeNet	
+CYP1A2	C0041755	Adverse drug events and drug allergies	DisGeNet	

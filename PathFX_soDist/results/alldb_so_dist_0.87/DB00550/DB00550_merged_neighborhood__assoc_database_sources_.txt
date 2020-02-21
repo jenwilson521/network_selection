@@ -1,0 +1,149 @@
+Gene	CUI	Source Databases	
+CYP1A1	C0011609	Drug Eruptions	DisGeNet	
+CYP1A1	C0027663	Neoplasms, Multiple Primary	DisGeNet	
+CYP1A1	C0032229	Pleural Neoplasms	DisGeNet	
+CYP1A1	C0153405	Malignant neoplasm of pharynx	DisGeNet	
+CYP1A1	C0013502	Echinococcosis	DisGeNet	
+DBH	C0025269	Multiple Endocrine Neoplasia Type 2b	DisGeNet	
+CYP1A1	C0273115	Lung Injury	DisGeNet	
+DBH	C1456784	Paranoia	DisGeNet	
+DBH	C0020672	Hypothermia	HumPhenOnt	
+CYP1A1	C0206720	Squamous Cell Neoplasms	DisGeNet	
+DBH	C0038586	Substance Use Disorders	DisGeNet	
+DBH	C0236663	Alcohol withdrawal syndrome	DisGeNet	
+CYP1A1	C0334276	Adenocarcinoma in Situ	DisGeNet	
+DBH	C1275808	Congenital central hypoventilation	DisGeNet	
+DBH	C3160718	Parkinson disease, late-onset	DisGeNet	
+DBH	C0003431	Antisocial Personality Disorder	DisGeNet	
+CYP1A1	C0035457	Rhinitis, Allergic, Perennial	DisGeNet	
+CYP1A1	C0156344	Endometriosis of ovary	DisGeNet	
+CYP1A1	C0220603	childhood brain tumor	DisGeNet	
+DBH	C0221765	Chronic schizophrenia	DisGeNet	
+CYP1A1	C0919532	Genomic Instability	DisGeNet	
+CYP1A1	C0268135	Xeroderma pigmentosum, group A	DisGeNet	
+CYP1A1	C0376670	Pancreatitis, Alcoholic	DisGeNet	
+DBH	C0751265	Learning Disabilities	DisGeNet	
+CYP1A1	C0858970	Carcinogenicity	DisGeNet	
+CYP1A1	C0007121	Bronchogenic Carcinoma	DisGeNet	
+DBH	C0020651	Hypotension, Orthostatic	HumPhenOnt	
+CYP1A1	C0206731	Angiofibromas	DisGeNet	
+CYP1A1	C0596321	Chemical Carcinogenesis	DisGeNet	
+CYP1A1	C0263454	Chloracne	DisGeNet	
+CYP1A1	C0242706	Hyperoxia	DisGeNet	
+CYP1A1	C0085390	Li-Fraumeni syndrome	DisGeNet	
+CYP1A1	C0740277	Bile duct cancer resectable	DisGeNet	
+CYP1A1	C0016978	Neoplasm of the gallbladder	DisGeNet	
+CYP1A1	C0950124	Papillomavirus Infections	DisGeNet	
+CYP1A1	C2931456	Prostate cancer, familial	DisGeNet	
+CYP1A1	C0085435	Arthritis, Reactive	DisGeNet	
+CYP1A1	C0162316	Iron deficiency anemia	DisGeNet	
+DBH	C4022952	Abnormal autonomic nervous system physiology	HumPhenOnt	
+CYP1A1	C0235653	Malignant neoplasm of female breast	DisGeNet	
+CYP1A1	C0023531	Leukoplakia	DisGeNet	
+CYP1A1	C0033054	Prenatal Exposure Delayed Effects	DisGeNet	
+CYP1A1	C0004779	Gorlin syndrome	DisGeNet	
+CYP1A1	C0007104	Female Breast Carcinoma	DisGeNet	
+CYP1A1	C0014173	Endometrial Hyperplasia	DisGeNet	
+CYP1A1	C0035242	Respiratory Tract Diseases	DisGeNet	
+CYP1A1	C0341858	Endometriosis of uterus	DisGeNet	
+DBH	C0600427	Cocaine Dependence	DisGeNet	
+CYP1A1	C1691215	Penile hypospadias	DisGeNet	
+CYP1A1	C0343641	Human papilloma virus infection	DisGeNet	
+CYP1A1	C0029172	Oral Submucous Fibrosis	DisGeNet	
+CYP1A1	C0008372	Intrahepatic cholestasis	DisGeNet	
+DBH	C1457887	CNS symptom	DisGeNet	
+CYP1A1	C0009376	Colonic Polyps	DisGeNet	
+CYP1A1	C0150312	Menopause present (finding)	DisGeNet	
+CYP1A1	C1334177	Infiltrating Cervical Carcinoma	DisGeNet	
+DBH	C0003944	As If Personality	DisGeNet	
+CYP1A1	C1332977	Childhood Leukemia	DisGeNet	
+CYP1A1	C0796369	Microsatellite Instability	DisGeNet	
+CYP1A1	C0016034	Breast Fibrocystic Disease	DisGeNet	
+CYP1A1	C0027658	Neoplasms, Germ Cell and Embryonal	DisGeNet	
+CYP1A1	C0031347	Pharyngeal Neoplasms	DisGeNet	
+DBH	C0686347	Tardive Dyskinesia	DisGeNet	
+CYP1A1	C0040137	Thyroid Nodule	DisGeNet	
+DBH	C0041671	Attention Deficit Disorder	DisGeNet	
+CYP1A1	C0178421	Fibroadenoma of the breast	DisGeNet	
+CYP1A1	C0949059	Colorectal polyposis	DisGeNet	
+CYP1A1	C4055506	Neurodegeneration with brain iron accumulation 4	DisGeNet	
+DBH	C1842981	NEUROTICISM	DisGeNet	
+DBH	C0014130	Disorder of endocrine system	DisGeNet	
+CYP1A1	C0028797	Occupational Diseases	DisGeNet	
+CYP1A1	C0006277	Bronchitis	DisGeNet	
+CYP1A1	C1268717	Mammographic breast density	DisGeNet	
+CYP1A1	C0242488	Acute Lung Injury	DisGeNet	
+DBH	C0152115	Orofacial dyskinesia	DisGeNet	
+CYP1A1	C0023532	Oral leukoplakia	DisGeNet	
+CYP1A1	C0042138	Uterine neoplasm	DisGeNet	
+DBH	C0154723	Migraine with aura	DisGeNet	
+CYP1A1	C0000809	Recurrent abortion	DisGeNet	
+CYP1A1	C0008625	Chromosome Aberrations	DisGeNet	
+DBH	C0026267	Mitral Valve Prolapse	DisGeNet	
+CYP1A1	C0007130	Mucinous Adenocarcinoma	DisGeNet	
+CYP1A1	C0033999	Pterygium	DisGeNet	
+CYP1A1	C0043144	Wheezing	DisGeNet	
+CYP1A1	C0947622	Cholecystolithiasis	DisGeNet	
+CYP1A1	C1519689	Tumor Promotion	DisGeNet	
+CYP1A1	C0011616	Contact Dermatitis	DisGeNet	
+CYP1A1	C0151546	Oral Cavity Carcinoma	DisGeNet	
+CYP1A1	C0220615	Adult Acute Myeloblastic Leukemia	DisGeNet	
+CYP1A1	C0339143	Thyroid associated opthalmopathies	DisGeNet	
+CYP1A1	C0012860	DNA Damage	DisGeNet	
+CYP1A1	C0206681	Adenocarcinoma, Clear Cell	DisGeNet	
+CYP1A1	C0029458	Postmenopausal osteoporosis	DisGeNet	
+CYP1A1	C0699893	Skin carcinoma	DisGeNet	
+CYP1A1	C0855197	Testicular malignant germ cell tumor	DisGeNet	
+CYP1A1	C0038644	SUDDEN INFANT DEATH SYNDROME	DisGeNet	
+CYP1A1	C0023891	Liver Cirrhosis, Alcoholic	DisGeNet	
+CYP1A1	C1336708	Testicular Germ Cell Tumor	DisGeNet	
+CYP1A1	C0206701	High grade serous carcinoma	DisGeNet	
+CYP1A1	C0018552	Hamartoma	DisGeNet	
+CYP1A1	C0023055	Neoplasm of the larynx	DisGeNet	
+DBH	C0038436	Posttraumatic stress disorder	DisGeNet	
+CYP1A1	C0262584	Carcinoma, Small Cell	DisGeNet	
+CYP1A1	C0162820	Dermatitis, Allergic Contact	DisGeNet	
+CYP1A1	C0001973	Alcohol dependence	DisGeNet	
+DBH	C0001973	Alcohol dependence	DisGeNet	
+DBH	C0020541	Portal hypertension, noncirrhotic	DisGeNet	
+DBH	C0028043	Nicotine Dependence	DisGeNet	
+CYP1A1	C0858252	Breast adenocarcinoma	DisGeNet	
+CYP1A1	C0040038	Thromboembolism	DisGeNet	
+CYP1A1	C1333990	Hereditary nonpolyposis colorectal cancer type 8	DisGeNet	
+CYP1A1	C0034013	Precocious puberty	DisGeNet	
+CYP1A1	C0086132	Depressive Symptoms	DisGeNet	
+DBH	C0025322	Premature ovarian failure	DisGeNet	
+CYP1A1	C0030920	Peptic ulcer	DisGeNet	
+CYP1A1	C0206687	Carcinoma, Endometrioid	DisGeNet	
+DBH	C4020716	Abnormal male reproductive system physiology	HumPhenOnt	
+DBH	C0020649	Hypotension	HumPhenOnt	
+DBH	C0393593	Dystonia Disorders	DisGeNet	
+DBH	C0040517	Tourette Syndrome	DisGeNet	
+CYP1A1	C0031117	Peripheral neuropathy, myopathy, hoarseness, and hearing loss	DisGeNet	
+DBH	C0031117	Peripheral neuropathy, myopathy, hoarseness, and hearing loss	DisGeNet	
+CYP1A1	C0026857	Musculoskeletal Diseases	DisGeNet	
+CYP1A1	C0032962	Pregnancy Complications	DisGeNet	
+CYP1A1	C0279680	Transitional cell carcinoma of the bladder	DisGeNet	
+DBH	C0752347	Lewy Body Disease	DisGeNet	
+CYP1A1	C0007107	Malignant neoplasm of larynx	DisGeNet	
+CYP1A1	C0032964	Pregnancy Complications, Hematologic	DisGeNet	
+DBH	C0003123	Anorexia	DisGeNet	
+CYP1A1	C0280324	Laryngeal Squamous Cell Carcinoma	DisGeNet	
+CYP1A1	C0007117	Basal cell carcinoma	DisGeNet	
+CYP1A1	C0023904	Liver Neoplasms, Experimental	DisGeNet	
+CYP1A1	C0039590	Testicular Neoplasms	DisGeNet	
+CYP1A1	C0030567	Parkinson Disease	DisGeNet	
+DBH	C0030567	Parkinson Disease	DisGeNet	
+DBH	C1270972	Mild cognitive impairment	DisGeNet	
+CYP1A1	C0007621	Neoplastic Cell Transformation	DisGeNet	
+CYP1A1	C0341439	Chronic liver disease	DisGeNet	
+CYP1A1	C0010068	Coronary Disease	PheGenI	
+CYP1A1	C0015397	orbit (eye disorders)	DisGeNet	
+DBH	C4025714	Abnormality of the autonomic nervous system	HumPhenOnt	
+DBH	C4073187	Abnormality of the peripheral nervous system	HumPhenOnt	
+CYP1A1	C0004763	Barrett Esophagus	DisGeNet	
+CYP1A1	C0015929	Fetal Diseases	DisGeNet	
+CYP1A1	C0085096	Peripheral Arterial Disease	DisGeNet	
+DBH	C2911647	Weight Gain Adverse Event	DisGeNet	
+CYP1A1	C0020295	Hydronephrosis	DisGeNet	
+CYP1A1	C0153633	Malignant neoplasm of brain and nervous system	DisGeNet	

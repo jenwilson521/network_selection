@@ -1,0 +1,320 @@
+rank	phenotype	cui	assoc in neigh	assoc in intom	probability	Benjamini-Hochberg	genes	
+1	Aplasia involving bones of the extremities	C0000846	1	1321	0.0	2.68096514745e-06	POR
+2	Primary adrenal insufficiency	C0001403	1	102	0.0	5.36193029491e-06	POR
+3	Adenomas, multiple colorectal, 608456 (3)	C0001430	1	975	0.0	8.04289544236e-06	POR
+4	Adrenal insufficiency	C0001623	1	114	0.0	1.07238605898e-05	POR
+5	Congenital adrenal hyperplasia	C0001627	1	74	0.0	1.34048257373e-05	POR
+6	Amenorrhea	C0002453	1	151	0.0	1.60857908847e-05	POR
+7	Arachnodactyly	C0003706	1	81	0.0	1.87667560322e-05	POR
+8	Arnold-Chiari malformation	C0003803	1	56	0.0	2.14477211796e-05	POR
+9	Autism 15	C0004352	1	868	0.0	2.41286863271e-05	POR
+11	Urinary Bladder Neoplasms	C0005695	1	463	0.0	2.9490616622e-05	POR
+12	Abnormal systemic blood pressure	C0005826	1	300	0.0	3.21715817694e-05	POR
+13	Bone Diseases	C0005940	1	169	0.0	3.48525469169e-05	POR
+14	Breast-ovarian cancer, familial 1	C0006142	1	4543	0.0	3.75335120643e-05	POR
+15	Neoplastic Cell Transformation	C0007621	1	144	0.0	4.02144772118e-05	POR
+16	Cerebellar malformation	C0007760	1	220	0.0	4.28954423592e-05	POR
+17	Choanal atresia	C0008297	1	80	0.0	4.55764075067e-05	POR
+18	Colorectal cancer 1	C0009402	1	2543	0.0	4.82573726542e-05	POR
+19	Craniosynostoses	C0010278	1	219	0.0	5.09383378016e-05	POR
+20	Cryptorchidism	C0010417	1	630	0.0	5.36193029491e-05	POR
+21	Diabetes Mellitus, Type 1	C0011849	1	2081	0.0	5.63002680965e-05	POR
+22	Gallbladder disease 4	C0012634	1	785	0.0	5.8981233244e-05	POR
+23	Short stature, rhizomelic, with microcephaly, micrognathia, and developmental delay	C0013336	1	949	0.0	6.16621983914e-05	POR
+24	Proptosis	C0015300	1	171	0.0	6.43431635389e-05	POR
+25	Abnormality of the eye	C0015393	1	1900	0.0	6.70241286863e-05	POR
+26	Abnormality of femur morphology	C0015811	1	161	0.0	6.97050938338e-05	POR
+27	Abnormality of the foot	C0016506	1	787	0.0	7.23860589812e-05	POR
+28	Glioma	C0017638	1	1997	0.0	7.50670241287e-05	POR
+29	Abnormality of the hand	C0018564	1	852	0.0	7.77479892761e-05	POR
+30	Conductive hearing impairment	C0018777	1	196	0.0	8.04289544236e-05	POR
+31	Heart Defects, Congenital	C0018798	1	1004	0.0	8.3109919571e-05	POR
+32	Ventricular septal defect 2	C0018816	1	371	0.0	8.57908847185e-05	POR
+33	Atrial septal defect	C0018817	1	476	0.0	8.8471849866e-05	POR
+34	Hirsutism	C0019572	1	157	0.0	9.11528150134e-05	POR
+35	Symptomatic human immunodeficiency virus infection	C0019693	1	1900	0.0	9.38337801609e-05	POR
+36	Hydrocephalus	C0020255	1	285	0.0	9.65147453083e-05	POR
+37	Familial hypercholesterolemia	C0020445	1	182	0.0	9.91957104558e-05	POR
+38	Hyperlipidemia, combined, 1	C0020473	1	293	0.0	0.000101876675603	POR
+39	Hyperpituitarism	C0020506	1	64	0.0	0.000104557640751	POR
+40	Hypertelorism	C0020534	1	439	0.0	0.000107238605898	POR
+41	Hypertension	C0020538	1	1647	0.0	0.000109919571046	POR
+42	Hypotension	C0020649	1	129	0.0	0.000112600536193	POR
+43	Learning Disorders	C0023186	1	47	0.0	0.00011528150134	POR
+44	Lung Neoplasms	C0024121	1	1155	0.0	0.000117962466488	POR
+45	Animal Mammary Neoplasms	C0024667	1	2352	0.0	0.000120643431635	POR
+46	Microcephaly 16, primary, autosomal recessive	C0025958	1	721	0.0	0.000123324396783	POR
+47	Abnormality of the mouth	C0026633	1	1308	0.0	0.00012600536193	POR
+48	Osteoporosis	C0029456	1	642	0.0	0.000128686327078	POR
+49	Ovarian cyst	C0029927	1	116	0.0	0.000131367292225	POR
+50	Abnormality of the pituitary gland	C0032002	1	645	0.0	0.000134048257373	POR
+51	Polycystic Ovary Syndrome	C0032460	1	477	0.0	0.00013672922252	POR
+52	Puberty and gonadal disorders	C0034011	1	488	0.0	0.000139410187668	POR
+53	Delayed puberty	C0034012	1	186	0.0	0.000142091152815	POR
+54	Scoliosis	C0036439	1	641	0.0	0.000144772117962	POR
+55	Abnormality of the skin	C0037268	1	1376	0.0	0.00014745308311	POR
+56	Synostosis involving bones of the feet	C0039093	1	98	0.0	0.000150134048257	POR
+57	Abnormality of the genitourinary system	C0042063	1	1555	0.0	0.000152815013405	POR
+60	Oligohydramnios	C0079924	1	89	0.0	0.000160857908847	POR
+61	Abnormality of bladder morphology	C0149632	1	205	0.0	0.000163538873995	POR
+62	Abnormal CSF metabolite level	C0151583	1	304	0.0	0.000166219839142	POR
+63	Decreased fertility in females	C0151639	1	25	0.0	0.00016890080429	POR
+64	Decreased fertility in males	C0151640	1	63	0.0	0.000171581769437	POR
+65	Clitoral hypertrophy	C0156394	1	50	0.0	0.000174262734584	POR
+66	Menstrual irregularities	C0156404	1	180	0.0	0.000176943699732	POR
+67	Abnormality of the hair	C0157733	1	766	0.0	0.000179624664879	POR
+68	Joint contracture of the hand	C0158113	1	155	0.0	0.000182305630027	POR
+69	Radioulnar synostosis	C0158761	1	56	0.0	0.000184986595174	POR
+70	Abnormality of the vertebrae	C0158775	1	299	0.0	0.000187667560322	POR
+71	Hyperpigmentation of the skin	C0162834	1	177	0.0	0.000190348525469	POR
+73	Abnormal QRS complex	C0205161	1	1098	0.0	0.000195710455764	POR
+74	Decreased beta-glucocerebrosidase protein and activity	C0205216	1	103	0.0	0.000198391420912	POR
+75	Increased analgesia from kappa-opioid receptor agonist, female-specific	C0205217	1	81	0.0	0.000201072386059	POR
+76	Adrenocortical adenoma	C0206667	1	89	0.0	0.000203753351206	POR
+77	gliosarcoma	C0206726	1	64	0.0	0.000206434316354	POR
+79	Horseshoe kidney	C0221353	1	36	0.0	0.000211796246649	POR
+80	Frontal bossing	C0221354	1	234	0.0	0.000214477211796	POR
+81	Brachycephaly	C0221356	1	142	0.0	0.000217158176944	POR
+82	Camptodactyly, tall stature, and hearing loss syndrome	C0221369	1	180	0.0	0.000219839142091	POR
+84	Abnormality of the skull	C0235942	1	1324	0.0	0.000225201072386	POR
+85	Small for gestational age	C0235991	1	91	0.0	0.000227882037534	POR
+86	Male pseudohermaphroditism	C0238395	1	48	0.0	0.000230563002681	POR
+88	Low-set ears	C0239234	1	402	0.0	0.000235924932976	POR
+89	Abnormality of limbs	C0239337	1	1290	0.0	0.000238605898123	POR
+90	Abnormal joint morphology	C0240083	1	915	0.0	0.000241286863271	POR
+91	Vertical talus, congenital	C0240912	1	32	0.0	0.000243967828418	POR
+93	Tall stature	C0241240	1	101	0.0	0.000249329758713	POR
+94	Decreased testicular size	C0241355	1	112	0.0	0.000252010723861	POR
+95	Abnormality of blood and blood-forming tissues	C0241657	1	1335	0.0	0.000254691689008	POR
+96	Malignant neoplasm of lung	C0242379	1	2460	0.0	0.000257372654155	POR
+97	Abnormality of cardiovascular system electrophysiology	C0243050	1	1568	0.0	0.000260053619303	POR
+98	Growth abnormality	C0262361	1	1578	0.0	0.00026273458445	POR
+99	Laryngomalacia	C0264303	1	39	0.0	0.000265415549598	POR
+101	Aortic dilatation	C0265004	1	87	0.0	0.000270777479893	POR
+102	Clinodactyly	C0265610	1	282	0.0	0.00027345844504	POR
+104	Hemivertebrae	C0265677	1	34	0.0	0.000278820375335	POR
+105	Abnormality of the nose	C0265736	1	1028	0.0	0.000281501340483	POR
+106	Abnormality of the digestive system	C0266015	1	1679	0.0	0.00028418230563	POR
+108	Congenital anomalies of kidney and urinary tract 1, susceptibility to	C0266292	1	820	0.0	0.000289544235925	POR
+109	Ambiguous genitalia	C0266362	1	90	0.0	0.000292225201072	POR
+110	Abnormality of the testis	C0266423	1	622	0.0	0.00029490616622	POR
+111	Hypoplasia of penis	C0266435	1	294	0.0	0.000297587131367	POR
+112	Abnormality of the ear	C0266589	1	1354	0.0	0.000300268096515	POR
+113	Abnormality of the amniotic fluid	C0266781	1	205	0.0	0.000302949061662	POR
+115	Flexion contracture	C0333068	1	436	0.0	0.000308310991957	POR
+117	Adrenal hyperplasia	C0342492	1	63	0.0	0.000313672922252	POR
+120	Abnormality of the atrial septum	C0344722	1	212	0.0	0.000321715817694	POR
+121	Dilatation of the ascending aorta	C0345049	1	32	0.0	0.000324396782842	POR
+126	Decreased head circumference	C0424688	1	648	0.0	0.000337801608579	POR
+127	Narrow chest	C0426790	1	79	0.0	0.000340482573727	POR
+129	Scrotal hypoplasia	C0431659	1	49	0.0	0.000345844504021	POR
+130	Carpal synostosis	C0431863	1	28	0.0	0.000348525469169	POR
+131	Vertebral segmentation defect	C0432163	1	98	0.0	0.000351206434316	POR
+132	Autosomal recessive inheritance	C0441748	1	2006	0.0	0.000353887399464	POR
+134	Growth delay	C0456070	1	1102	0.0	0.000359249329759	POR
+135	Large fontanelles	C0456132	1	116	0.0	0.000361930294906	POR
+136	Abnormality of the nervous system	C0497552	1	2512	0.0	0.000364611260054	POR
+137	Chronic active hepatitis	C0520463	1	86	0.0	0.000367292225201	POR
+138	Decreased fertility	C0520927	1	161	0.0	0.000369973190349	POR
+139	Delayed skeletal maturation	C0541764	1	234	0.0	0.000372654155496	POR
+140	Bowing of limbs due to multiple fractures	C0544755	1	129	0.0	0.000375335120643	POR
+141	Accelerated skeletal maturation	C0545053	1	51	0.0	0.000378016085791	POR
+143	Abnormal serum testosterone level	C0580454	1	41	0.0	0.000383378016086	POR
+146	Breast carcinoma	C0678222	1	4281	0.0	0.000391420911528	POR
+147	Neurodevelopmental abnormality	C0679378	1	1639	0.0	0.000394101876676	POR
+148	Lung cancer	C0684249	1	2234	0.0	0.000396782841823	POR
+149	Acne	C0702166	1	75	0.0	0.000399463806971	POR
+151	Abnormal morphology of the great vessels	C0741583	1	324	0.0	0.000404825737265	POR
+152	Abnormality of the genital system	C0744356	1	983	0.0	0.000407506702413	POR
+153	Hypospadias	C0848558	1	279	0.0	0.00041018766756	POR
+154	Urogenital fistula	C0853877	1	32	0.0	0.000412868632708	POR
+155	Abnormality of head or neck	C0854297	1	2021	0.0	0.000415549597855	POR
+156	Abnormality of the pinna	C0857379	1	425	0.0	0.000418230563003	POR
+157	Decreased serum testosterone level	C0857983	1	38	0.0	0.00042091152815	POR
+160	Abnormality of the lower limb	C1096086	1	947	0.0	0.000428954423592	POR
+161	Female sexual dysfunction	C1112442	1	42	0.0	0.00043163538874	POR
+162	Squamous cell carcinoma of the head and neck	C1168401	1	825	0.0	0.000434316353887	POR
+163	Abnormality of skin pigmentation	C1260926	1	344	0.0	0.000436997319035	POR
+164	Decreased body weight	C1262477	1	810	0.0	0.000439678284182	POR
+165	Abnormalities of placenta or umbilical cord	C1306893	1	28	0.0	0.00044235924933	POR
+167	Hearing impairment	C1384666	1	1031	0.0	0.000447721179625	POR
+168	Colorectal cancer	C1527249	1	2681	0.0	0.000450402144772	POR
+169	Abnormality of T cell count	C1704258	1	903	0.0	0.00045308310992	POR
+171	Depressed nasal bridge	C1836542	1	273	0.0	0.000458445040214	POR
+172	Thoracic hypoplasia	C1837482	1	92	0.0	0.000461126005362	POR
+174	Abnormal form of the vertebral bodies	C1839326	1	219	0.0	0.000466487935657	POR
+175	Flexion contracture of digit	C1839864	1	183	0.0	0.000469168900804	POR
+176	Abnormality of the carpal bones	C1840535	1	57	0.0	0.000471849865952	POR
+177	Abnormality of the outer ear	C1846460	1	678	0.0	0.000474530831099	POR
+179	Labial hypoplasia	C1850325	1	39	0.0	0.000479892761394	POR
+180	Hypoplastic male external genitalia	C1852534	1	351	0.0	0.000482573726542	POR
+181	Midface hypoplasia, hearing impairment, elliptocytosis, and nephrocalcinosis	C1853242	1	134	0.0	0.000485254691689	POR
+183	External genital hypoplasia	C1855333	1	364	0.0	0.000490616621984	POR
+184	Bowing of the long bones	C1855340	1	170	0.0	0.000493297587131	POR
+185	Abnormality of the vagina	C1856023	1	78	0.0	0.000495978552279	POR
+187	Abnormality of the philtrum	C1857045	1	309	0.0	0.000501340482574	POR
+188	Slender finger	C1857482	1	84	0.0	0.000504021447721	POR
+189	Malar flattening	C1858085	1	164	0.0	0.000506702412869	POR
+190	Long fingers	C1858091	1	138	0.0	0.000509383378016	POR
+191	Femoral bowing	C1859461	1	32	0.0	0.000512064343164	POR
+194	Abnormality of the middle ear	C1861141	1	320	0.0	0.000520107238606	POR
+195	Abnormality of the tarsal bones	C1862136	1	63	0.0	0.000522788203753	POR
+196	Long philtrum	C1865014	1	195	0.0	0.000525469168901	POR
+198	Abnormality of the cerebellum	C1866129	1	798	0.0	0.000530831099196	POR
+199	Wide anterior fontanel	C1866134	1	53	0.0	0.000533512064343	POR
+200	Limb joint contracture	C1969879	1	223	0.0	0.000536193029491	POR
+201	Abnormality of the lip	C2183966	1	602	0.0	0.000538873994638	POR
+202	Abnormality of facial skeleton	C2315229	1	715	0.0	0.000541554959786	POR
+204	Reduced bone mineral density	C2674432	1	339	0.0	0.00054691689008	POR
+205	Abnormality of finger	C2674737	1	662	0.0	0.000549597855228	POR
+206	Contractures of the joints of the upper limbs	C2750635	1	179	0.0	0.000552278820375	POR
+209	Abnormality of digit	C3550704	1	806	0.0	0.000560321715818	POR
+210	Intellectual developmental disorder with dysmorphic facies and ptosis	C3714756	1	1371	0.0	0.000563002680965	POR
+211	Inflammatory abnormality of the skin	C3875321	1	278	0.0	0.000565683646113	POR
+212	Abnormality of the respiratory system	C4018871	1	1121	0.0	0.00056836461126	POR
+213	Abnormality of fontanelles	C4020755	1	261	0.0	0.000571045576408	POR
+214	Abnormality of pelvic girdle bone morphology	C4020847	1	353	0.0	0.000573726541555	POR
+215	Abnormality of abdomen morphology	C4020869	1	505	0.0	0.000576407506702	POR
+216	Abnormality of the upper limb	C4020900	1	923	0.0	0.00057908847185	POR
+217	Displacement of the external urethral meatus	C4020961	1	219	0.0	0.000581769436997	POR
+218	Abnormality of forebrain morphology	C4020967	1	1074	0.0	0.000584450402145	POR
+219	Abnormal localization of kidney	C4020968	1	102	0.0	0.000587131367292	POR
+220	Abnormality of lower limb joint	C4020971	1	337	0.0	0.00058981233244	POR
+221	Synostosis of carpals/tarsals	C4021025	1	37	0.0	0.000592493297587	POR
+222	Abnormal tendon morphology	C4021026	1	449	0.0	0.000595174262735	POR
+223	Abnormality of brain morphology	C4021085	1	1573	0.0	0.000597855227882	POR
+224	Abnormal genital system morphology	C4021096	1	892	0.0	0.000600536193029	POR
+226	Abnormality of long bone morphology	C4021165	1	437	0.0	0.000605898123324	POR
+227	Abnormality of hindbrain morphology	C4021170	1	800	0.0	0.000608579088472	POR
+228	Abnormality of the systemic arterial tree	C4021205	1	299	0.0	0.000611260053619	POR
+229	Abnormality of the elbow	C4021386	1	150	0.0	0.000613941018767	POR
+230	Abnormality of upper limb joint	C4021387	1	317	0.0	0.000616621983914	POR
+231	Absence of secondary sex characteristics	C4021551	1	42	0.0	0.000619302949062	POR
+232	Anomaly of the limb diaphyses	C4021594	1	173	0.0	0.000621983914209	POR
+233	Abnormality of the tracheobronchial system	C4021631	1	205	0.0	0.000624664879357	POR
+234	Abnormality of bone mineral density	C4021657	1	397	0.0	0.000627345844504	POR
+235	Abnormality of the humerus	C4021742	1	42	0.0	0.000630026809651	POR
+236	Abnormality of the wrist	C4021744	1	87	0.0	0.000632707774799	POR
+237	Abnormality of the musculature	C4021745	1	1765	0.0	0.000635388739946	POR
+238	Abnormality of the immune system	C4021753	1	1164	0.0	0.000638069705094	POR
+239	Abnormality of the cerebrum	C4021762	1	1054	0.0	0.000640750670241	POR
+240	Morphological abnormality of the central nervous system	C4021765	1	1722	0.0	0.000643431635389	POR
+241	Abnormality of metabolism/homeostasis	C4021768	1	1607	0.0	0.000646112600536	POR
+242	Abnormality of the larynx	C4021777	1	132	0.0	0.000648793565684	POR
+243	Abnormal diaphysis morphology	C4021787	1	192	0.0	0.000651474530831	POR
+244	Abnormality of the vertebral column	C4021789	1	835	0.0	0.000654155495979	POR
+245	Abnormality of the skeletal system	C4021790	1	1961	0.0	0.000656836461126	POR
+246	Abnormality of the adrenal glands	C4021794	1	161	0.0	0.000659517426273	POR
+247	Abnormality of the thorax	C4021797	1	501	0.0	0.000662198391421	POR
+248	Abnormality of the nasal bridge	C4021805	1	601	0.0	0.000664879356568	POR
+249	Abnormality of the auditory canal	C4021807	1	54	0.0	0.000667560321716	POR
+250	Abnormal location of ears	C4021810	1	432	0.0	0.000670241286863	POR
+251	Abnormality of the midface	C4021811	1	317	0.0	0.000672922252011	POR
+252	Abnormality of the head	C4021812	1	1995	0.0	0.000675603217158	POR
+253	Abnormality of the ovary	C4021818	1	171	0.0	0.000678284182306	POR
+254	Abnormality of reproductive system physiology	C4021820	1	407	0.0	0.000680965147453	POR
+255	Abnormality of the urinary system	C4021821	1	1136	0.0	0.000683646112601	POR
+256	Abnormality of female external genitalia	C4021822	1	111	0.0	0.000686327077748	POR
+257	Abnormality of the calf	C4021832	1	151	0.0	0.000689008042895	POR
+258	Functional abnormality of the middle ear	C4021846	1	196	0.0	0.000691689008043	POR
+259	Abnormality of globe location	C4021946	1	584	0.0	0.00069436997319	POR
+261	Abnormality of the humeroradial joint	C4021981	1	32	0.0	0.000699731903485	POR
+262	Synostosis of joints	C4022183	1	138	0.0	0.000702412868633	POR
+263	Early onset of sexual maturation	C4022392	1	72	0.0	0.00070509383378	POR
+264	Abnormal morphology of forearm bone	C4022451	1	77	0.0	0.000707774798928	POR
+265	Abnormality of forearm bone	C4022452	1	163	0.0	0.000710455764075	POR
+266	Abnormality of upper limb bone	C4022454	1	305	0.0	0.000713136729223	POR
+267	Abnormality of lower limb bone	C4022455	1	431	0.0	0.00071581769437	POR
+268	Abnormality of limb bone	C4022456	1	931	0.0	0.000718498659517	POR
+269	Abnormal morphology of bones of the lower limbs	C4022457	1	213	0.0	0.000721179624665	POR
+270	Abnormal morphology of bones of the upper limbs	C4022458	1	207	0.0	0.000723860589812	POR
+272	Abnormal female reproductive system physiology	C4022678	1	42	0.0	0.000729222520107	POR
+274	Abnormality of the labia minora	C4022696	1	25	0.0	0.000734584450402	POR
+275	Hypoplastic female external genitalia	C4022715	1	40	0.0	0.00073726541555	POR
+276	Increased inflammatory response	C4022803	1	581	0.0	0.000739946380697	POR
+277	Abnormal inflammatory response	C4022805	1	581	0.0	0.000742627345845	POR
+278	Abnormality of nervous system morphology	C4022810	1	1875	0.0	0.000745308310992	POR
+279	Abnormality of nervous system physiology	C4022811	1	2307	0.0	0.000747989276139	POR
+280	Abnormality of the globe	C4022923	1	1529	0.0	0.000750670241287	POR
+281	Abnormal eye morphology	C4022925	1	1529	0.0	0.000753351206434	POR
+282	Abnormality of malar bones	C4022926	1	169	0.0	0.000756032171582	POR
+284	Abnormal respiratory system morphology	C4022992	1	778	0.0	0.000761394101877	POR
+286	Abnormality of circulating glucocorticoid level	C4023038	1	28	0.0	0.000766756032172	POR
+287	Abnormal bone ossification	C4023161	1	471	0.0	0.000769436997319	POR
+288	Abnormal appendicular skeleton morphology	C4023163	1	992	0.0	0.000772117962466	POR
+289	Abnormality of skeletal physiology	C4023164	1	436	0.0	0.000774798927614	POR
+290	Abnormality of skeletal morphology	C4023165	1	1878	0.0	0.000777479892761	POR
+291	Abnormality of muscle morphology	C4023181	1	942	0.0	0.000780160857909	POR
+292	Abnormality of the anterior pituitary	C4023206	1	181	0.0	0.000782841823056	POR
+293	Abnormality of adrenal physiology	C4023212	1	113	0.0	0.000785522788204	POR
+294	Abnormality of adrenal morphology	C4023213	1	68	0.0	0.000788203753351	POR
+295	Abnormality of circulating cortisol level	C4023214	1	28	0.0	0.000790884718499	POR
+296	Abnormality of joint mobility	C4023216	1	715	0.0	0.000793565683646	POR
+298	Abnormal hair quantity	C4023397	1	395	0.0	0.000798927613941	POR
+299	Abnormality of cranial sutures	C4023412	1	195	0.0	0.000801608579088	POR
+300	Abnormality of the metencephalon	C4023432	1	800	0.0	0.000804289544236	POR
+301	Abnormal shape of the frontal region	C4023458	1	233	0.0	0.000806970509383	POR
+302	Abnormality of skin adnexa morphology	C4023518	1	942	0.0	0.000809651474531	POR
+303	Abnormality of skin physiology	C4023527	1	286	0.0	0.000812332439678	POR
+304	Abnormality of skin morphology	C4023528	1	1261	0.0	0.000815013404826	POR
+307	Abnormality of cardiovascular system physiology	C4023587	1	700	0.0	0.000823056300268	POR
+308	Abnormality of immune system physiology	C4023616	1	884	0.0	0.000825737265416	POR
+309	Abnormality of the lower urinary tract	C4023640	1	415	0.0	0.000828418230563	POR
+310	Abnormality of the upper urinary tract	C4023641	1	827	0.0	0.00083109919571	POR
+311	Abnormality of the curvature of the vertebral column	C4023747	1	631	0.0	0.000833780160858	POR
+312	Abnormality of the zygomatic bone	C4023749	1	186	0.0	0.000836461126005	POR
+313	Aplasia/Hypoplasia of the testes	C4023817	1	133	0.0	0.000839142091153	POR
+314	Abnormality of the male genitalia	C4023819	1	729	0.0	0.0008418230563	POR
+315	Abnormality of the female genitalia	C4023820	1	449	0.0	0.000844504021448	POR
+316	Abnormal axial skeleton morphology	C4024586	1	1562	0.0	0.000847184986595	POR
+318	Abnormality of the talus	C4024688	1	31	0.0	0.00085254691689	POR
+321	Generalized hyperpigmentation	C4024878	1	34	0.0	0.000860589812332	POR
+322	Aplasia/Hypoplasia of the cerebrum	C4024902	1	792	0.0	0.00086327077748	POR
+323	Abnormality of cardiac atrium	C4025246	1	214	0.0	0.000865951742627	POR
+324	Abnormal nasal morphology	C4025252	1	582	0.0	0.000868632707775	POR
+325	Abnormality of body weight	C4025357	1	970	0.0	0.000871313672922	POR
+326	Abnormality of connective tissue	C4025596	1	941	0.0	0.00087399463807	POR
+327	Abnormal bone structure	C4025630	1	530	0.0	0.000876675603217	POR
+328	Abnormality of lipid metabolism	C4025650	1	172	0.0	0.000879356568365	POR
+329	Abnormality of circulating hormone level	C4025652	1	262	0.0	0.000882037533512	POR
+330	Abnormality of the ulna	C4025662	1	119	0.0	0.00088471849866	POR
+331	Abnormality of the forearm	C4025666	1	165	0.0	0.000887399463807	POR
+332	Abnormality of the radius	C4025675	1	151	0.0	0.000890080428954	POR
+333	Prenatal maternal abnormality	C4025690	1	46	0.0	0.000892761394102	POR
+334	Abnormality of the calvaria	C4025691	1	636	0.0	0.000895442359249	POR
+335	Abnormality of calvarial morphology	C4025692	1	535	0.0	0.000898123324397	POR
+336	Abnormality of the cerebral ventricles	C4025724	1	462	0.0	0.000900804289544	POR
+337	Abnormality of the bronchi	C4025725	1	85	0.0	0.000903485254692	POR
+338	Abnormality of the upper respiratory tract	C4025727	1	309	0.0	0.000906166219839	POR
+340	Abnormality of the aorta	C4025756	1	183	0.0	0.000911528150134	POR
+341	Abnormality of the integument	C4025761	1	1665	0.0	0.000914209115282	POR
+342	Abnormality of the upper arm	C4025776	1	46	0.0	0.000916890080429	POR
+343	Abnormality of skeletal maturation	C4025818	1	268	0.0	0.000919571045576	POR
+344	Abnormality of the hypothalamus-pituitary axis	C4025819	1	252	0.0	0.000922252010724	POR
+345	Abnormality of the endocrine system	C4025823	1	878	0.0	0.000924932975871	POR
+346	Abnormal internal genitalia	C4025824	1	426	0.0	0.000927613941019	POR
+347	Abnormal external genitalia	C4025825	1	737	0.0	0.000930294906166	POR
+348	Abnormality of the urethra	C4025826	1	262	0.0	0.000932975871314	POR
+349	Abnormality of the choanae	C4025855	1	83	0.0	0.000935656836461	POR
+350	Hearing abnormality	C4025860	1	921	0.0	0.000938337801609	POR
+351	Abnormality of the orbital region	C4025863	1	1127	0.0	0.000941018766756	POR
+352	Abnormality of the forehead	C4025867	1	555	0.0	0.000943699731903	POR
+353	Abnormality of the face	C4025871	1	1817	0.0	0.000946380697051	POR
+354	Abnormality of skull size	C4025874	1	840	0.0	0.000949061662198	POR
+355	Abnormality of the anterior fontanelle	C4025875	1	71	0.0	0.000951742627346	POR
+356	Abnormality of upper lip	C4025884	1	469	0.0	0.000954423592493	POR
+357	Abnormality of the menstrual cycle	C4025888	1	163	0.0	0.000957104557641	POR
+358	Abnormality of the labia	C4025892	1	60	0.0	0.000959785522788	POR
+359	Abnormality of the clitoris	C4025893	1	71	0.0	0.000962466487936	POR
+360	Abnormality of the scrotum	C4025895	1	91	0.0	0.000965147453083	POR
+361	Abnormality of the penis	C4025896	1	462	0.0	0.000967828418231	POR
+362	Abnormality of male external genitalia	C4025897	1	714	0.0	0.000970509383378	POR
+363	Abnormality of female internal genitalia	C4025900	1	398	0.0	0.000973190348525	POR
+364	Abnormality of body height	C4025901	1	908	0.0	0.000975871313673	POR
+365	Abnormality of cardiovascular system morphology	C4049796	1	989	0.0	0.00097855227882	POR
+367	Abnormal circulating androgen level	C4072892	1	44	0.0	0.000983914209115	POR
+369	Abnormality of the testis size	C4073180	1	146	0.0	0.00098927613941	POR
+370	Abnormality of limb bone morphology	C4082761	1	921	0.0	0.000991957104558	POR
+371	Increased size of the clitoris	C4280695	1	47	0.0	0.000994638069705	POR
+372	Abnormal size of the clitoris	C4280696	1	47	0.0	0.000997319034853	POR
+373	Abnormal vascular morphology	C4293699	1	409	0.0	0.001	POR

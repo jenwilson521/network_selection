@@ -1,0 +1,16 @@
+node_name	node_type	
+DB00193	drug	
+SLC6A2	drug_target	
+CYP2D6	drug_target	
+SLC6A4	drug_target	
+CYP2B6	drug_target	
+CHRM3	drug_target	
+OPRM1	drug_target	
+CHRM1	drug_target	
+GRIN3A	drug_target	
+ABCB1	drug_target	
+OPRD1	drug_target	
+HTR2C	drug_target	
+OPRK1	drug_target	
+CYP3A4	drug_target	
+UGT1A1	drug_target	

@@ -1,0 +1,5 @@
+node1	node2	edge_score	
+DB00230	CACNA2D1	1.0	
+DB00230	SLC7A5	1.0	
+DB00230	SLC1A1	1.0	
+

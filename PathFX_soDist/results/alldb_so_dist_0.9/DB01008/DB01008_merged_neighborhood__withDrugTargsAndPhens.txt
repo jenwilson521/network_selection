@@ -1,0 +1,357 @@
+node1	node2	edge_score	
+DB01008	GSTM1	1.0	
+DB01008	GSTP1	1.0	
+DB01008	CYP3A4	1.0	
+DB01008	GSTA1	1.0	
+DB01008	GSTA2	1.0	
+CYP3A4	rs35599367	0.99
+GSTM1		1.0
+CYP3A4	rs2242480	0.99
+rs2740574	CYP3A	0.9801
+CYP3A4	rs4646437	0.99
+CYP3A4	rs2246709	0.99
+CYP3A	rs12721627	0.970299
+CYP3A4	CYP3A4*1, CYP3A4*4	0.99
+rs4987161	CYP3A	0.9801
+rs12721627	CYP3A	0.9801
+CYP3A4	rs3735451	0.99
+CYP3A4		1.0
+rs12721627	CYP3A4	0.96059601
+CYP3A4	rs4646440	0.99
+CYP3A4	CYP3A4*1, CYP3A4*22	0.99
+CYP3A	rs2740574	0.970299
+rs4987161	CYP3A4	0.96059601
+CYP3A4	rs4987161	0.99
+CYP3A4	rs2740574	0.99
+rs2740574	CYP3A4	0.96059601
+CYP3A4	rs28371759	0.99
+CYP3A4	rs4986910	0.99
+CYP3A	rs4987161	0.970299
+GSTP1		1.0
+CYP3A4	CYP3A4*1, CYP3A4*20, CYP3A4*8	0.99
+CYP3A4	rs12721627	0.99
+CYP3A4	CYP3A4*1, CYP3A4*1G	0.99
+GSTA1		1.0
+CYP3A4	rs56324128	0.99
+Chromosomal translocation	GSTA1	1.0	
+Chromosomal translocation	GSTM1	1.0	
+Chromosomal translocation	GSTP1	1.0	
+Squamous Cell Neoplasms	CYP3A4	1.0	
+Squamous Cell Neoplasms	GSTM1	1.0	
+Squamous Cell Neoplasms	GSTP1	1.0	
+Hemoglobinopathy	GSTA1	1.0	
+Hemoglobinopathy	GSTM1	1.0	
+Hemoglobinopathy	GSTP1	1.0	
+Chromosome Xq28 deletion syndrome	GSTA1	1.0	
+Chromosome Xq28 deletion syndrome	GSTM1	1.0	
+Chromosome Xq28 deletion syndrome	GSTP1	1.0	
+Neoplasms, Germ Cell and Embryonal	CYP3A4	1.0	
+Neoplasms, Germ Cell and Embryonal	GSTA1	1.0	
+Neoplasms, Germ Cell and Embryonal	GSTP1	1.0	
+Pharyngeal Neoplasms	CYP3A4	1.0	
+Pharyngeal Neoplasms	GSTM1	1.0	
+Pharyngeal Neoplasms	GSTP1	1.0	
+Drug Allergy	CYP3A4	1.0	
+Drug Allergy	GSTM1	1.0	
+Drug Allergy	GSTP1	1.0	
+Chromosome Aberrations	GSTA1	1.0	
+Chromosome Aberrations	GSTM1	1.0	
+Chromosome Aberrations	GSTP1	1.0	
+Amphetamine-Related Disorders	GSTA1	1.0	
+Amphetamine-Related Disorders	GSTM1	1.0	
+Amphetamine-Related Disorders	GSTP1	1.0	
+DNA Damage	GSTA1	1.0	
+DNA Damage	GSTM1	1.0	
+DNA Damage	GSTP1	1.0	
+Asbestosis	GSTM1	1.0	
+Asbestosis	GSTP1	1.0	
+Drug Eruptions	GSTM1	1.0	
+Drug Eruptions	GSTP1	1.0	
+Slow acetylator due to N-acetyltransferase enzyme variant	GSTM1	1.0	
+Slow acetylator due to N-acetyltransferase enzyme variant	GSTP1	1.0	
+Pseudomonas Infections	GSTM1	1.0	
+Pseudomonas Infections	GSTP1	1.0	
+Signs and Symptoms, Respiratory	GSTM1	1.0	
+Signs and Symptoms, Respiratory	GSTP1	1.0	
+Malignant neoplasm of pharynx	GSTM1	1.0	
+Malignant neoplasm of pharynx	GSTP1	1.0	
+Alcoholic Liver Diseases	GSTA1	1.0	
+Alcoholic Liver Diseases	GSTM1	1.0	
+Alcoholic Liver Diseases	GSTP1	1.0	
+Neoplasm of the larynx	CYP3A4	1.0	
+Neoplasm of the larynx	GSTM1	1.0	
+Neoplasm of the larynx	GSTP1	1.0	
+Respiratory Hypersensitivity	GSTM1	1.0	
+Respiratory Hypersensitivity	GSTP1	1.0	
+Xeroderma Pigmentosum, Complementation Group D	GSTM1	1.0	
+Xeroderma Pigmentosum, Complementation Group D	GSTP1	1.0	
+Germinoma	GSTM1	1.0	
+Germinoma	GSTP1	1.0	
+Rhinitis, Allergic, Perennial	GSTM1	1.0	
+Rhinitis, Allergic, Perennial	GSTP1	1.0	
+AIDS related complex	GSTM1	1.0	
+AIDS related complex	GSTP1	1.0	
+Leukopenia	CYP3A4	1.0	
+Leukopenia	GSTA1	1.0	
+Leukopenia	GSTM1	1.0	
+Leukopenia	GSTP1	1.0	
+Pancreatitis, Alcoholic	GSTM1	1.0	
+Pancreatitis, Alcoholic	GSTP1	1.0	
+Gastro-esophageal reflux disease with esophagitis	GSTM1	1.0	
+Gastro-esophageal reflux disease with esophagitis	GSTP1	1.0	
+Exfoliation Syndrome	GSTM1	1.0	
+Exfoliation Syndrome	GSTP1	1.0	
+Neurotoxicity Syndromes	GSTM1	1.0	
+Neurotoxicity Syndromes	GSTP1	1.0	
+Testicular Neoplasms	CYP3A4	1.0	
+Testicular Neoplasms	GSTM1	1.0	
+Testicular Neoplasms	GSTP1	1.0	
+Bronchogenic Carcinoma	GSTM1	1.0	
+Bronchogenic Carcinoma	GSTP1	1.0	
+Non-alcoholic Fatty Liver Disease	CYP3A4	1.0	
+Non-alcoholic Fatty Liver Disease	GSTA1	1.0	
+Non-alcoholic Fatty Liver Disease	GSTM1	1.0	
+Non-alcoholic Fatty Liver Disease	GSTP1	1.0	
+Neoplastic Cell Transformation	CYP3A4	1.0	
+Neoplastic Cell Transformation	GSTM1	1.0	
+Neoplastic Cell Transformation	GSTP1	1.0	
+Stomach Diseases	GSTM1	1.0	
+Stomach Diseases	GSTP1	1.0	
+Noise-induced hearing loss	GSTM1	1.0	
+Noise-induced hearing loss	GSTP1	1.0	
+Age-related cataract	GSTM1	1.0	
+Age-related cataract	GSTP1	1.0	
+Myelopathy	GSTM1	1.0	
+Myelopathy	GSTP1	1.0	
+Esophageal atresia	GSTM1	1.0	
+Esophageal atresia	GSTP1	1.0	
+Dyskinesia, Drug-Induced	GSTM1	1.0	
+Dyskinesia, Drug-Induced	GSTP1	1.0	
+Neoplasm of the gallbladder	GSTM1	1.0	
+Neoplasm of the gallbladder	GSTP1	1.0	
+Papillomavirus Infections	GSTM1	1.0	
+Papillomavirus Infections	GSTP1	1.0	
+Peptic Esophagitis	GSTM1	1.0	
+Peptic Esophagitis	GSTP1	1.0	
+Leukoplakia	GSTM1	1.0	
+Leukoplakia	GSTP1	1.0	
+Prenatal Exposure Delayed Effects	GSTM1	1.0	
+Prenatal Exposure Delayed Effects	GSTP1	1.0	
+Pain insensitivity	CYP3A4	1.0	
+Pain insensitivity	GSTM1	1.0	
+Gorlin syndrome	GSTM1	1.0	
+Gorlin syndrome	GSTP1	1.0	
+Dyspepsia	GSTM1	1.0	
+Dyspepsia	GSTP1	1.0	
+Respiratory Tract Diseases	GSTM1	1.0	
+Respiratory Tract Diseases	GSTP1	1.0	
+Myelodysplastic syndrome	CYP3A4	1.0	
+Myelodysplastic syndrome	GSTA1	1.0	
+Myelodysplastic syndrome	GSTM1	1.0	
+Myelodysplastic syndrome	GSTP1	1.0	
+Childhood Leukemia	GSTM1	1.0	
+Childhood Leukemia	GSTP1	1.0	
+Tardive Dyskinesia	CYP3A4	1.0	
+Tardive Dyskinesia	GSTM1	1.0	
+Drug-Induced Liver Injury	GSTA1	1.0	
+Drug-Induced Liver Injury	GSTM1	1.0	
+Drug-Induced Liver Injury	GSTP1	1.0	
+Thyroid Nodule	GSTM1	1.0	
+Thyroid Nodule	GSTP1	1.0	
+Psychoses, Substance-Induced	GSTM1	1.0	
+Psychoses, Substance-Induced	GSTP1	1.0	
+Colorectal polyposis	GSTA1	1.0	
+Colorectal polyposis	GSTP1	1.0	
+Neurodegeneration with brain iron accumulation 4	GSTM1	1.0	
+Neurodegeneration with brain iron accumulation 4	GSTP1	1.0	
+Cancer of mouth	CYP3A4	1.0	
+Cancer of mouth	GSTA1	1.0	
+Cancer of mouth	GSTM1	1.0	
+Cancer of mouth	GSTP1	1.0	
+Occupational Diseases	GSTM1	1.0	
+Occupational Diseases	GSTP1	1.0	
+Bronchitis	GSTM1	1.0	
+Bronchitis	GSTP1	1.0	
+Arsenic Poisoning	GSTM1	1.0	
+Arsenic Poisoning	GSTP1	1.0	
+Acute Lung Injury	GSTM1	1.0	
+Acute Lung Injury	GSTP1	1.0	
+Orofacial dyskinesia	CYP3A4	1.0	
+Orofacial dyskinesia	GSTM1	1.0	
+Bronchitis, Chronic	GSTM1	1.0	
+Bronchitis, Chronic	GSTP1	1.0	
+Oral leukoplakia	GSTM1	1.0	
+Oral leukoplakia	GSTP1	1.0	
+Postoperative Complications	GSTM1	1.0	
+Postoperative Complications	GSTP1	1.0	
+Ehlers-Danlos syndrome, type vii, autosomal recessive	GSTM1	1.0	
+Ehlers-Danlos syndrome, type vii, autosomal recessive	GSTP1	1.0	
+Neoplasm of the oral cavity	CYP3A4	1.0	
+Neoplasm of the oral cavity	GSTM1	1.0	
+Neoplasm of the oral cavity	GSTP1	1.0	
+Chronic gastritis	GSTM1	1.0	
+Chronic gastritis	GSTP1	1.0	
+Neonatal respiratory distress	GSTM1	1.0	
+Neonatal respiratory distress	GSTP1	1.0	
+Metaplasia	GSTM1	1.0	
+Metaplasia	GSTP1	1.0	
+Respiration Disorders	GSTM1	1.0	
+Respiration Disorders	GSTP1	1.0	
+Wheezing	GSTM1	1.0	
+Wheezing	GSTP1	1.0	
+Vestibular Schwannoma	GSTM1	1.0	
+Vestibular Schwannoma	GSTP1	1.0	
+Neutropenia	CYP3A4	1.0	
+Neutropenia	GSTM1	1.0	
+Neutropenia	GSTP1	1.0	
+High-Grade Prostatic Intraepithelial Neoplasia	GSTA1	1.0	
+High-Grade Prostatic Intraepithelial Neoplasia	GSTP1	1.0	
+Adenoma of large intestine	GSTA1	1.0	
+Adenoma of large intestine	GSTM1	1.0	
+Adenoma of large intestine	GSTP1	1.0	
+Actinic keratosis	GSTM1	1.0	
+Actinic keratosis	GSTP1	1.0	
+Gastroesophageal reflux	CYP3A4	1.0	
+Gastroesophageal reflux	GSTM1	1.0	
+Gastroesophageal reflux	GSTP1	1.0	
+Azoospermia	CYP3A4	1.0	
+Azoospermia	GSTM1	1.0	
+Azoospermia	GSTP1	1.0	
+Nephrotic syndrome, type 5, with or without ocular abnormalities	CYP3A4	1.0	
+Nephrotic syndrome, type 5, with or without ocular abnormalities	GSTM1	1.0	
+Nephrotic syndrome, type 5, with or without ocular abnormalities	GSTP1	1.0	
+Chronic ulcerative colitis	GSTM1	1.0	
+Chronic ulcerative colitis	GSTP1	1.0	
+Neuropathy ataxia retinitis pigmentosa syndrome	CYP3A4	1.0	
+Neuropathy ataxia retinitis pigmentosa syndrome	GSTM1	1.0	
+Neuropathy ataxia retinitis pigmentosa syndrome	GSTP1	1.0	
+Alcohol abuse	CYP3A4	1.0	
+Alcohol abuse	GSTM1	1.0	
+Skin carcinoma	GSTM1	1.0	
+Skin carcinoma	GSTP1	1.0	
+Endometrial Neoplasms	CYP3A4	1.0	
+Endometrial Neoplasms	GSTM1	1.0	
+Endometrial Neoplasms	GSTP1	1.0	
+Liver Cirrhosis, Alcoholic	GSTM1	1.0	
+Liver Cirrhosis, Alcoholic	GSTP1	1.0	
+Testicular Germ Cell Tumor	GSTM1	1.0	
+Testicular Germ Cell Tumor	GSTP1	1.0	
+Methamphetamine abuse	GSTM1	1.0	
+Methamphetamine abuse	GSTP1	1.0	
+Neoplasm of the rectum	GSTM1	1.0	
+Neoplasm of the rectum	GSTP1	1.0	
+Childhood asthma	GSTM1	1.0	
+Childhood asthma	GSTP1	1.0	
+Hamartoma	GSTM1	1.0	
+Hamartoma	GSTP1	1.0	
+precancerous lesions	GSTM1	1.0	
+precancerous lesions	GSTP1	1.0	
+Carcinoma, Small Cell	GSTM1	1.0	
+Carcinoma, Small Cell	GSTP1	1.0	
+Helicobacter pylori infection	CYP3A4	1.0	
+Helicobacter pylori infection	GSTM1	1.0	
+Helicobacter pylori infection	GSTP1	1.0	
+Helicobacter Infections	GSTM1	1.0	
+Helicobacter Infections	GSTP1	1.0	
+Carotid Atherosclerosis	GSTM1	1.0	
+Carotid Atherosclerosis	GSTP1	1.0	
+Glaucoma, Open-Angle	GSTM1	1.0	
+Glaucoma, Open-Angle	GSTP1	1.0	
+Liver Diseases	CYP3A4	1.0	
+Liver Diseases	GSTA1	1.0	
+Liver Diseases	GSTM1	1.0	
+Liver Diseases	GSTP1	1.0	
+Urinary tract neoplasm	GSTM1	1.0	
+Urinary tract neoplasm	GSTP1	1.0	
+Chronic atrophic gastritis	GSTM1	1.0	
+Chronic atrophic gastritis	GSTP1	1.0	
+Hereditary nonpolyposis colorectal cancer type 8	GSTM1	1.0	
+Hereditary nonpolyposis colorectal cancer type 8	GSTP1	1.0	
+Graft-versus-host disease, susceptibility to	GSTA1	1.0	
+Graft-versus-host disease, susceptibility to	GSTM1	1.0	
+Graft-versus-host disease, susceptibility to	GSTP1	1.0	
+Ependymoma	GSTM1	1.0	
+Ependymoma	GSTP1	1.0	
+Peptic ulcer	GSTM1	1.0	
+Peptic ulcer	GSTP1	1.0	
+Erythema	GSTA1	1.0	
+Erythema	GSTM1	1.0	
+Hepatitis, Autoimmune	CYP3A4	1.0	
+Hepatitis, Autoimmune	GSTM1	1.0	
+Cholestasis, benign recurrent intrahepatic 1	CYP3A4	1.0	
+Cholestasis, benign recurrent intrahepatic 1	GSTM1	1.0	
+Cholestasis, benign recurrent intrahepatic 1	GSTP1	1.0	
+Head and Neck Neoplasms	CYP3A4	1.0	
+Head and Neck Neoplasms	GSTM1	1.0	
+Head and Neck Neoplasms	GSTP1	1.0	
+Migraine Disorders	CYP3A4	1.0	
+Migraine Disorders	GSTM1	1.0	
+Migraine Disorders	GSTP1	1.0	
+Transitional cell carcinoma of the bladder	GSTM1	1.0	
+Transitional cell carcinoma of the bladder	GSTP1	1.0	
+Malignant neoplasm of larynx	GSTM1	1.0	
+Malignant neoplasm of larynx	GSTP1	1.0	
+Biliary cirrhosis	GSTM1	1.0	
+Biliary cirrhosis	GSTP1	1.0	
+beta Thalassemia	CYP3A4	1.0	
+beta Thalassemia	GSTM1	1.0	
+Flushing	GSTM1	1.0	
+Globus Hystericus	GSTM1	1.0	
+Hypercapnia	GSTP1	1.0	
+Primary malignant neoplasm of liver	CYP3A4	1.0	
+Neoplasms, Radiation-Induced	GSTM1	1.0	
+High altitude pulmonary edema	GSTP1	1.0	
+Basal cell carcinoma	GSTM1	1.0	
+Basal cell carcinoma	GSTP1	1.0	
+Motor Neuron Disease	GSTM1	1.0	
+Motor Neuron Disease	GSTP1	1.0	
+Adrenoleukodystrophy	GSTM1	1.0	
+Adrenoleukodystrophy	GSTP1	1.0	
+Primary angle-closure glaucoma	GSTM1	1.0	
+Neoplasms, Multiple Primary	GSTM1	1.0	
+Pleural Neoplasms	GSTM1	1.0	
+Asthma, Occupational	GSTP1	1.0	
+Respiratory Distress Syndrome, Adult	GSTM1	1.0	
+Respiratory Distress Syndrome, Adult	GSTP1	1.0	
+Prostatic Intraepithelial Neoplasias	GSTA1	1.0	
+Prostatic Intraepithelial Neoplasias	GSTP1	1.0	
+Renal neoplasm	CYP3A4	1.0	
+Renal neoplasm	GSTM1	1.0	
+Renal neoplasm	GSTP1	1.0	
+Cervical dysplasia	GSTM1	1.0	
+Hematological Disease	GSTM1	1.0	
+Hematological Disease	GSTP1	1.0	
+Chronic liver disease	CYP3A4	1.0	
+Chronic liver disease	GSTM1	1.0	
+orbit (eye disorders)	GSTM1	1.0	
+orbit (eye disorders)	GSTP1	1.0	
+Malignant neoplasm of vulva	GSTM1	1.0	
+Malaria, Falciparum	GSTM1	1.0	
+Malaria, Falciparum	GSTP1	1.0	
+Sporadic Breast Carcinoma	GSTM1	1.0	
+Sporadic Breast Carcinoma	GSTP1	1.0	
+Femur Head Necrosis	CYP3A4	1.0	
+Pyruvate carboxylase deficiency	GSTM1	1.0	
+Proteinuria Adverse Event	GSTM1	1.0	
+Barrett Esophagus	GSTM1	1.0	
+Barrett Esophagus	GSTP1	1.0	
+Hearing Loss, Partial	GSTM1	1.0	
+Hearing Loss, Partial	GSTP1	1.0	
+Anxiety Disorders	CYP3A4	1.0	
+Anxiety Disorders	GSTM1	1.0	
+Anxiety Disorders	GSTP1	1.0	
+Gastric Mucosa-Associated Lymphoid Tissue Lymphoma	GSTP1	1.0	
+Leukemia, Lymphocytic, Acute, L1	CYP3A4	1.0	
+Leukemia, Lymphocytic, Acute, L1	GSTM1	1.0	
+Leukemia, Lymphocytic, Acute, L1	GSTP1	1.0	
+Oligospermia	GSTM1	1.0	
+Oligospermia	GSTP1	1.0	
+Distal myopathy Markesbery-Griggs type	GSTM1	1.0	
+Familial adenomatous polyposis 1	GSTA1	1.0	
+Familial adenomatous polyposis 1	GSTM1	1.0	
+Familial adenomatous polyposis 1	GSTP1	1.0	
+VITILIGO-ASSOCIATED MULTIPLE AUTOIMMUNE DISEASE SUSCEPTIBILITY 1 (finding)	GSTM1	1.0	
+VITILIGO-ASSOCIATED MULTIPLE AUTOIMMUNE DISEASE SUSCEPTIBILITY 1 (finding)	GSTP1	1.0	
+Malaria, Vivax	GSTP1	1.0	
+ {Porphyria cutanea tarda, susceptibility to}, 176100 (3)	GSTM1	1.0	
+Congenital long QT syndrome	CYP3A4	1.0	

@@ -1,0 +1,35 @@
+node_name	node_type	
+DB00250	drug	
+CYP2C9	drug_target	
+PTGS2	drug_target	
+PTGS1	drug_target	
+FMO3	drug_target	
+CYP2C8	drug_target	
+MPO	drug_target	
+CYP2E1	drug_target	
+CYP2C19	drug_target	
+CYP2C18	drug_target	
+NAT2	drug_target	
+CYP3A4	drug_target	
+CYP3A5	drug_target	
+Drug Allergy	phenotype	
+Stomach Diseases	phenotype	
+Squamous Cell Neoplasms	phenotype	
+Rhinitis, Allergic, Perennial	phenotype	
+Neoplasm of the larynx	phenotype	
+Peptic ulcer	phenotype	
+Drug-Induced Liver Injury	phenotype	
+Primary malignant neoplasm of liver	phenotype	
+Pleural Neoplasms	phenotype	
+Adverse drug events and drug allergies	phenotype	
+Colonic Polyps	phenotype	
+Neoplasms, Germ Cell and Embryonal	phenotype	
+Pharyngeal Neoplasms	phenotype	
+Helicobacter Infections	phenotype	
+Gastric ulcer	phenotype	
+Thromboembolism	phenotype	
+Head and Neck Neoplasms	phenotype	
+Genomic Instability	phenotype	
+Neurotoxicity Syndromes	phenotype	
+Bone necrosis	phenotype	
+Chronic liver disease	phenotype	

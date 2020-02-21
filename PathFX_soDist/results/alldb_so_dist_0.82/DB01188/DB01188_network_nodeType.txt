@@ -1,0 +1,3 @@
+node_name	node_type	
+DB01188	drug	
+ATP1A1	drug_target	

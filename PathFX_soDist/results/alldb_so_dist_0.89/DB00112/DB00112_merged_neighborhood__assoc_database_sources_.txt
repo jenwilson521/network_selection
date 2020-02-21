@@ -1,0 +1,177 @@
+Gene	CUI	Source Databases	
+FCGR2A	C3714636	Pneumonitis	DisGeNet	
+FCGR3A	C3714636	Pneumonitis	DisGeNet	
+VEGFA	C3714636	Pneumonitis	DisGeNet	
+FCGR2A	C0030805	{Pemphigoid, susceptibility to} (2)	DisGeNet	
+FCGR3A	C0030805	{Pemphigoid, susceptibility to} (2)	DisGeNet	
+VEGFA	C0030805	{Pemphigoid, susceptibility to} (2)	DisGeNet	
+FCGR2A	C0206114	Periodontal Attachment Loss	DisGeNet	
+FCGR3A	C0206114	Periodontal Attachment Loss	DisGeNet	
+FCGR2A	C0031094	Periodontal Pocket	DisGeNet	
+FCGR3A	C0031094	Periodontal Pocket	DisGeNet	
+FCGR3A	C0340293	Anterior myocardial infarction	DisGeNet	
+VEGFA	C0340293	Anterior myocardial infarction	DisGeNet	
+FCGR2A	C0039483	Giant cell arteritis	DisGeNet	
+FCGR3A	C0039483	Giant cell arteritis	DisGeNet	
+VEGFA	C0039483	Giant cell arteritis	DisGeNet	
+FCGR2A	C0017563	Gingival Diseases	DisGeNet	
+FCGR3A	C0017563	Gingival Diseases	DisGeNet	
+VEGFA	C0017563	Gingival Diseases	DisGeNet	
+FCGR2A	C0002382	Alveolar Bone Loss	DisGeNet	
+FCGR3A	C0002382	Alveolar Bone Loss	DisGeNet	
+FCGR3A	C0019372	Herpesviridae Infections	DisGeNet	
+VEGFA	C0019372	Herpesviridae Infections	DisGeNet	
+FCGR3A	C0403416	Idiopathic crescentic glomerulonephritis	DisGeNet	
+VEGFA	C0403416	Idiopathic crescentic glomerulonephritis	DisGeNet	
+FCGR2A	C1258104	Diffuse Scleroderma	DisGeNet	
+FCGR3A	C1258104	Diffuse Scleroderma	DisGeNet	
+FCGR2A	C0403529	Anti-Glomerular Basement Membrane Disease	DisGeNet	
+FCGR3A	C0403529	Anti-Glomerular Basement Membrane Disease	DisGeNet	
+FCGR2A	C0018378	Guillain-Barre syndrome, familial	DisGeNet	
+FCGR3A	C0018378	Guillain-Barre syndrome, familial	DisGeNet	
+FCGR2A	C0027697	Nephritis	DisGeNet	
+FCGR3A	C0027697	Nephritis	DisGeNet	
+VEGFA	C0027697	Nephritis	DisGeNet	
+FCGR2A	C0010414	Infection by Cryptococcus neoformans	DisGeNet	
+FCGR3A	C0010414	Infection by Cryptococcus neoformans	DisGeNet	
+FCGR2A	C0025303	Meningococcal Infections	DisGeNet	
+FCGR3A	C0025303	Meningococcal Infections	DisGeNet	
+FCGR2A	C0026691	Mucocutaneous Lymph Node Syndrome	DisGeNet,PheGenI	
+FCGR3A	C0026691	Mucocutaneous Lymph Node Syndrome	DisGeNet	
+VEGFA	C0026691	Mucocutaneous Lymph Node Syndrome	DisGeNet	
+FCGR2A	C0003872	Arthritis, Psoriatic	DisGeNet	
+FCGR3A	C0003872	Arthritis, Psoriatic	DisGeNet	
+VEGFA	C0003872	Arthritis, Psoriatic	DisGeNet	
+FCGR2A	C0024143	Lupus Nephritis	DisGeNet	
+FCGR3A	C0024143	Lupus Nephritis	DisGeNet	
+VEGFA	C0024143	Lupus Nephritis	DisGeNet	
+FCGR2A	C0019100	Severe Dengue	DisGeNet	
+VEGFA	C0019100	Severe Dengue	DisGeNet	
+FCGR2A	C3495801	Granulomatosis with Polyangiitis	DisGeNet	
+FCGR3A	C3495801	Granulomatosis with Polyangiitis	DisGeNet	
+FCGR2A	C0006840	Candidiasis, familial, 9	DisGeNet	
+FCGR3A	C0006840	Candidiasis, familial, 9	DisGeNet	
+FCGR2A	C0027726	Nephrotic syndrome, type 5, with or without ocular abnormalities	DisGeNet	
+FCGR3A	C0027726	Nephrotic syndrome, type 5, with or without ocular abnormalities	DisGeNet	
+VEGFA	C0027726	Nephrotic syndrome, type 5, with or without ocular abnormalities	DisGeNet	
+FCGR2A	C0031106	Periodontitis, Juvenile	DisGeNet	
+FCGR3A	C0031106	Periodontitis, Juvenile	DisGeNet	
+FCGR3A	C0152025	Polyneuropathy, hearing loss, ataxia, retinitis pigmentosa, and cataract	DisGeNet	
+VEGFA	C0152025	Polyneuropathy, hearing loss, ataxia, retinitis pigmentosa, and cataract	DisGeNet	
+FCGR3A	C0042029	Urinary tract infection	DisGeNet	
+VEGFA	C0042029	Urinary tract infection	DisGeNet	
+FCGR3A	C0007129	Merkel cell carcinoma	DisGeNet	
+VEGFA	C0007129	Merkel cell carcinoma	DisGeNet	
+FCGR3A	C0005411	Biliary Atresia	DisGeNet	
+VEGFA	C0005411	Biliary Atresia	DisGeNet	
+FCGR3A	C3887486	Interstitial fibrosis	DisGeNet	
+VEGFA	C3887486	Interstitial fibrosis	DisGeNet	
+FCGR3A	C0035435	Rheumatic disease of heart valve	DisGeNet	
+VEGFA	C0035435	Rheumatic disease of heart valve	DisGeNet	
+FCGR2A	C0079487	Helicobacter Infections	PheGenI	
+VEGFA	C0079487	Helicobacter Infections	DisGeNet	
+FCGR2A	C0398650	Idiopathic thrombocytopenic purpura	DisGeNet	
+FCGR3A	C0398650	Idiopathic thrombocytopenic purpura	DisGeNet	
+FCGR2A	C0018133	Graft-versus-host disease, susceptibility to	DisGeNet	
+FCGR3A	C0018133	Graft-versus-host disease, susceptibility to	DisGeNet	
+VEGFA	C0018133	Graft-versus-host disease, susceptibility to	DisGeNet	
+FCGR2A	C0948089	Acute Coronary Syndrome	DisGeNet	
+FCGR3A	C0948089	Acute Coronary Syndrome	DisGeNet	
+VEGFA	C0948089	Acute Coronary Syndrome	DisGeNet	
+FCGR2A	C0497299	Meningitis	DisGeNet	
+FCGR3A	C0497299	Meningitis	DisGeNet	
+FCGR2A	C0031099	Periodontitis	DisGeNet	
+FCGR3A	C0031099	Periodontitis	DisGeNet	
+VEGFA	C0031099	Periodontitis	DisGeNet	
+FCGR3A	C0024312	Lymphopenia	DisGeNet	
+VEGFA	C0024312	Lymphopenia	DisGeNet	
+FCGR2A	C0009447	Common variable immunodeficiency 2	DisGeNet	
+FCGR3A	C0009447	Common variable immunodeficiency 2	DisGeNet	
+FCGR3A	C0032227	Pleural effusion	DisGeNet	
+VEGFA	C0032227	Pleural effusion	DisGeNet	
+FCGR2A	C0035455	Rhinitis, Allergic, Seasonal	DisGeNet	
+VEGFA	C0035455	Rhinitis, Allergic, Seasonal	DisGeNet	
+FCGR2A	C0018213	Graves Disease	DisGeNet	
+FCGR3A	C0018213	Graves Disease	DisGeNet	
+VEGFA	C0018213	Graves Disease	DisGeNet	
+VEGFA	C0023223	Leg Ulcer	DisGeNet	
+VEGFA	C0268575	Isovaleryl-CoA dehydrogenase deficiency	DisGeNet	
+VEGFA	C0340100	High altitude pulmonary edema	DisGeNet	
+VEGFA	C2745963	Kashin-Beck Disease	DisGeNet	
+VEGFA	C3714524	Fibromyxosarcoma	DisGeNet	
+VEGFA	C0001420	Papillary adenocarcinoma	DisGeNet	
+VEGFA	C0032051	Placental Insufficiency	DisGeNet	
+VEGFA	C0039445	Hereditary hemorrhagic telangiectasia type 2	DisGeNet	
+VEGFA	C0278519	recurrent childhood acute lymphoblastic leukemia	DisGeNet	
+FCGR2A	C0024301	Lymphoma, Follicular	DisGeNet	
+FCGR3A	C0024301	Lymphoma, Follicular	DisGeNet	
+VEGFA	C0024301	Lymphoma, Follicular	DisGeNet	
+FCGR2A	C0040028	Essential thrombocythemia	DisGeNet	
+VEGFA	C0040028	Essential thrombocythemia	DisGeNet	
+VEGFA	C0014867	Esophageal varix	DisGeNet	
+VEGFA	C0041318	Tuberculosis, Meningeal	DisGeNet	
+VEGFA	C0403396	Steroid-sensitive nephrotic syndrome	DisGeNet	
+VEGFA	C1708565	Invasive Skin Melanoma	DisGeNet	
+FCGR2A	C0002940	{Aneurysm, familial abdominal 3} (2)	DisGeNet	
+VEGFA	C0002940	{Aneurysm, familial abdominal 3} (2)	DisGeNet	
+VEGFA	C0029883	Otitis Media with Effusion	DisGeNet	
+VEGFA	C0035328	Thrombosis of retinal vein	DisGeNet	
+VEGFA	C0280321	Squamous cell carcinoma of the hypopharynx	DisGeNet	
+VEGFA	C1260922	Abnormal breathing	DisGeNet	
+VEGFA	C1314694	Astrocytoma, low grade	DisGeNet	
+VEGFA	C1961121	Congenital vascular anomaly	DisGeNet	
+FCGR2A	C0004943	Behcet Syndrome	DisGeNet	
+FCGR3A	C0004943	Behcet Syndrome	DisGeNet	
+VEGFA	C0004943	Behcet Syndrome	DisGeNet	
+FCGR2A	C0040053	Thrombosis	DisGeNet	
+VEGFA	C0040053	Thrombosis	DisGeNet	
+FCGR2A	C0153633	Malignant neoplasm of brain and nervous system	DisGeNet	
+FCGR3A	C0153633	Malignant neoplasm of brain and nervous system	DisGeNet	
+VEGFA	C0015814	Femur Head Necrosis	DisGeNet	
+VEGFA	C0206720	Squamous Cell Neoplasms	DisGeNet	
+VEGFA	C0339467	Proliferative retinopathy	DisGeNet	
+FCGR3A	C0677932	Progressive Neoplastic Disease	DisGeNet	
+VEGFA	C0677932	Progressive Neoplastic Disease	DisGeNet	
+FCGR3A	C3539781	Progressive cGVHD	DisGeNet	
+VEGFA	C3539781	Progressive cGVHD	DisGeNet	
+FCGR2A	C0014121	Bacterial endocarditis	DisGeNet	
+VEGFA	C0023494	T-Cell Prolymphocytic Leukemia	DisGeNet	
+VEGFA	C0027149	Myxoma	DisGeNet	
+VEGFA	C0078911	AIDS-Associated Nephropathy	DisGeNet	
+VEGFA	C0428791	Aortic valve calcification	DisGeNet	
+VEGFA	C0521607	Peritoneal Fibrosis	DisGeNet	
+VEGFA	C1266042	Chromophobe Renal Cell Carcinoma	DisGeNet	
+VEGFA	C1851585	Myeloproliferative disorder, chronic, with eosinophilia	DisGeNet	
+FCGR3A	C0001175	Acquired Immunodeficiency Syndrome	DisGeNet	
+VEGFA	C0001175	Acquired Immunodeficiency Syndrome	DisGeNet	
+FCGR2A	C0001925	Albuminuria	DisGeNet	
+VEGFA	C0001925	Albuminuria	DisGeNet	
+VEGFA	C0016977	Gallbladder Diseases	DisGeNet	
+VEGFA	C0018188	Granuloma	DisGeNet	
+VEGFA	C0021775	Intermittent claudication	DisGeNet	
+FCGR2A	C3714644	Neoplasm of the thymus	DisGeNet	
+VEGFA	C0002985	Angiokeratoma	DisGeNet	
+FCGR2A	C0034040	Puerperal Disorders	DisGeNet	
+VEGFA	C0041206	Truncus arteriosus	DisGeNet	
+VEGFA	C0158570	Vascular malformation, primary intraosseous	DisGeNet	
+VEGFA	C0220756	Niemann-Pick disease, type C	DisGeNet	
+VEGFA	C0334533	Arteriovenous hemangioma	DisGeNet	
+FCGR3A	C0581354	Recurrent sinusitis	HumPhenOnt	
+VEGFA	C0678234	Stenosis	DisGeNet	
+FCGR3A	C3889979	TNF receptor-associated periodic fever syndrome (TRAPS)	DisGeNet	
+FCGR3A	C0333516	Tumor necrosis	DisGeNet	
+VEGFA	C0333516	Tumor necrosis	DisGeNet	
+VEGFA	C0079474	Recessive dystrophic epidermolysis bullosa	DisGeNet	
+VEGFA	C0278688	Stage IV Ovarian Carcinoma	DisGeNet	
+VEGFA	C0409952	Generalized osteoarthritis	DisGeNet	
+VEGFA	C0497496	Prostatitis	DisGeNet	
+FCGR3A	C2607914	Allergic rhinitis	DisGeNet	
+VEGFA	C2607914	Allergic rhinitis	DisGeNet	
+FCGR2A	C0040100	Thymoma	DisGeNet	
+VEGFA	C0040100	Thymoma	DisGeNet	
+FCGR2A	C0079745	Lymphoma, Large-Cell, Follicular	DisGeNet	
+VEGFA	C0079745	Lymphoma, Large-Cell, Follicular	DisGeNet	
+VEGFA	C0031039	Pericardial effusion	DisGeNet	
+FCGR2A	C0035436	Rheumatic fever / chorea	DisGeNet	
+VEGFA	C0221228	Comedone	DisGeNet	
+VEGFA	C0677944	Sentinel node (disorder)	DisGeNet	

@@ -1,0 +1,21 @@
+Gene	CUI	Source Databases	
+ALB	C0041755	Adverse drug events and drug allergies	DisGeNet	
+CYP1A2	C0041755	Adverse drug events and drug allergies	DisGeNet	
+ALB	C0162557	Acute hepatic failure	DisGeNet	
+CYP1A2	C0162557	Acute hepatic failure	DisGeNet	
+ALB	C0341439	Chronic liver disease	DisGeNet	
+CYP1A2	C0341439	Chronic liver disease	DisGeNet	
+CYP1A2	C0085859	Polyglandular Type I Autoimmune Syndrome	DisGeNet	
+CYP1A2	C0032229	Pleural Neoplasms	DisGeNet	
+ALB	C0346402	Malignant neoplasm of adrenal cortex	DisGeNet	
+ALB	C0014867	Esophageal varix	DisGeNet	
+ALB	C0451641	Urolithiasis	DisGeNet	
+ALB	C0013502	Echinococcosis	DisGeNet	
+KRT9	C0079298	Epidermolysis bullosa simplex, Cockayne-Touraine type	DisGeNet	
+KRT9	C0240641	Palmar hyperkeratosis	HumPhenOnt	
+CYP1A2	C0273115	Lung Injury	DisGeNet	
+ALB	C0339467	Proliferative retinopathy	DisGeNet	
+KRT9	C0043037	Verrucae	HumPhenOnt	
+ALB	C3714796	Isolated somatotropin deficiency	DisGeNet	
+ALB	C0038586	Substance Use Disorders	DisGeNet	
+ALB	C0751781	Dentatorubral pallidoluysian atrophy	DisGeNet	

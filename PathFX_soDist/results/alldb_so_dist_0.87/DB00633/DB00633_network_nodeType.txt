@@ -1,0 +1,17 @@
+node_name	node_type	
+DB00633	drug	
+CYP1A1	drug_target	
+CYP1A2	drug_target	
+CYP2E1	drug_target	
+CYP2D6	drug_target	
+ADRA2A	drug_target	
+Pleural Neoplasms	phenotype	
+Genomic Instability	phenotype	
+Chemical Carcinogenesis	phenotype	
+Polydipsia	phenotype	
+Prenatal Exposure Delayed Effects	phenotype	
+Neoplasm of the larynx	phenotype	
+Adverse drug events and drug allergies	phenotype	
+Drug Eruptions	phenotype	
+Slow acetylator due to N-acetyltransferase enzyme variant	phenotype	
+Occupational Diseases	phenotype	

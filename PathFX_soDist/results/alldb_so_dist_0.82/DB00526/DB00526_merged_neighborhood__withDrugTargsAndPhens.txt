@@ -1,0 +1,1370 @@
+node1	node2	edge_score	
+DB00526	CYP1A1	1.0	
+DB00526	ABCG2	1.0	
+DB00526	CYP1B1	1.0	
+DB00526	GSTT1	1.0	
+DB00526	SOD1	1.0	
+DB00526	GSTM1	1.0	
+DB00526	SLC22A3	1.0	
+DB00526	CYP2E1	1.0	
+DB00526	NQO1	1.0	
+DB00526	SLC31A1	1.0	
+DB00526	GSTP1	1.0	
+DB00526	SLC22A2	1.0	
+DB00526	MPO	1.0	
+DB00526	MT2A	1.0	
+DB00526	ATP7A	1.0	
+DB00526	MT1A	1.0	
+DB00526	ABCC2	1.0	
+DB00526	ATP7B	1.0	
+GSTM1		1.0
+ABCC2		1.0
+ABCG2		1.0
+GSTT1		1.0
+GSTP1		1.0
+CYP2E1	rs2515641	0.99
+ABCC2	rs4148386	0.99
+ABCG2	rs4148157	0.99
+ATP7B	rs9535828	0.99
+ABCG2	rs72552713	0.99
+CYP1A1	rs2606345	0.99
+CYP2E1	rs2070676	0.99
+ABCG2	rs17731538	0.99
+NQO1		1.0
+ATP7B	rs1801249	0.99
+ABCG2	rs1061018	0.99
+ABCG2	rs41282401	0.99
+ABCG2	rs12505410	0.99
+CYP2E1	CYP2E1*1A, CYP2E1*5B	0.99
+ABCG2	rs13120400	0.99
+CYP1A1		1.0
+ATP7B	rs1061472	0.99
+ATP7B		1.0
+SLC22A2		1.0
+CYP1B1		1.0
+ABCG2	rs2231135	0.99
+ABCC2	rs2273697	0.99
+ABCG2	rs2199939	0.99
+ABCC2	rs3740065	0.99
+ABCC2	rs7917432	0.99
+CYP2E1	rs6413432	0.99
+CYP1A1	rs1048943	0.99
+ABCG2	rs45605536	0.99
+SLC22A3		1.0
+ABCC2	rs12762549	0.99
+CYP2E1	rs2031920	0.99
+ABCC2	rs113646094	0.99
+ABCG2	rs2231142	0.99
+ABCG2	rs58818712	0.99
+CYP2E1	rs2070673	0.99
+ABCC2	ABCC2 H12, ABCC2 H2	0.99
+ABCC2	rs3740066	0.99
+SLC31A1		1.0
+ATP7B	rs9535826	0.99
+ABCC2	rs8187707	0.99
+ABCG2	rs2725252	0.99
+ABCG2	rs7699188	0.99
+ABCG2	rs3114020	0.99
+CYP2E1		1.0
+ATP7A		1.0
+ABCC2	rs717620	0.99
+ABCG2	rs2231137	0.99
+CYP1A1	rs2472297	0.99
+ABCC2	rs17222723	0.99
+ABCC2	rs8187710	0.99
+Drug Eruptions	CYP1A1	1.0	
+Drug Eruptions	CYP2E1	1.0	
+Drug Eruptions	GSTM1	1.0	
+Drug Eruptions	GSTP1	1.0	
+Drug Eruptions	GSTT1	1.0	
+Slow acetylator due to N-acetyltransferase enzyme variant	CYP1B1	1.0	
+Slow acetylator due to N-acetyltransferase enzyme variant	CYP2E1	1.0	
+Slow acetylator due to N-acetyltransferase enzyme variant	GSTM1	1.0	
+Slow acetylator due to N-acetyltransferase enzyme variant	GSTP1	1.0	
+Slow acetylator due to N-acetyltransferase enzyme variant	GSTT1	1.0	
+DNA Damage	CYP1A1	1.0	
+DNA Damage	CYP1B1	1.0	
+DNA Damage	CYP2E1	1.0	
+DNA Damage	GSTM1	1.0	
+DNA Damage	GSTP1	1.0	
+DNA Damage	GSTT1	1.0	
+DNA Damage	NQO1	1.0	
+Pleural Neoplasms	ABCG2	1.0	
+Pleural Neoplasms	CYP1A1	1.0	
+Pleural Neoplasms	CYP1B1	1.0	
+Pleural Neoplasms	CYP2E1	1.0	
+Pleural Neoplasms	GSTM1	1.0	
+Prenatal Exposure Delayed Effects	CYP1A1	1.0	
+Prenatal Exposure Delayed Effects	CYP2E1	1.0	
+Prenatal Exposure Delayed Effects	GSTM1	1.0	
+Prenatal Exposure Delayed Effects	GSTP1	1.0	
+Prenatal Exposure Delayed Effects	GSTT1	1.0	
+Prenatal Exposure Delayed Effects	NQO1	1.0	
+Squamous Cell Neoplasms	ABCG2	1.0	
+Squamous Cell Neoplasms	CYP1A1	1.0	
+Squamous Cell Neoplasms	CYP2E1	1.0	
+Squamous Cell Neoplasms	GSTM1	1.0	
+Squamous Cell Neoplasms	GSTP1	1.0	
+Malignant neoplasm of pharynx	CYP1A1	1.0	
+Malignant neoplasm of pharynx	CYP2E1	1.0	
+Malignant neoplasm of pharynx	GSTM1	1.0	
+Malignant neoplasm of pharynx	GSTP1	1.0	
+Malignant neoplasm of pharynx	GSTT1	1.0	
+Childhood Leukemia	CYP1A1	1.0	
+Childhood Leukemia	CYP2E1	1.0	
+Childhood Leukemia	GSTM1	1.0	
+Childhood Leukemia	GSTP1	1.0	
+Childhood Leukemia	GSTT1	1.0	
+Childhood Leukemia	NQO1	1.0	
+Neoplasm of the larynx	CYP1A1	1.0	
+Neoplasm of the larynx	CYP1B1	1.0	
+Neoplasm of the larynx	CYP2E1	1.0	
+Neoplasm of the larynx	GSTM1	1.0	
+Neoplasm of the larynx	GSTP1	1.0	
+Neoplasm of the larynx	GSTT1	1.0	
+Neoplasm of the larynx	NQO1	1.0	
+Occupational Diseases	CYP1A1	1.0	
+Occupational Diseases	CYP2E1	1.0	
+Occupational Diseases	GSTM1	1.0	
+Occupational Diseases	GSTP1	1.0	
+Occupational Diseases	GSTT1	1.0	
+Occupational Diseases	NQO1	1.0	
+Genomic Instability	ABCG2	1.0	
+Genomic Instability	CYP1A1	1.0	
+Genomic Instability	CYP1B1	1.0	
+Genomic Instability	CYP2E1	1.0	
+Genomic Instability	GSTM1	1.0	
+Pancreatitis, Alcoholic	CYP1A1	1.0	
+Pancreatitis, Alcoholic	CYP2E1	1.0	
+Pancreatitis, Alcoholic	GSTM1	1.0	
+Pancreatitis, Alcoholic	GSTP1	1.0	
+Pancreatitis, Alcoholic	GSTT1	1.0	
+Oral leukoplakia	CYP1A1	1.0	
+Oral leukoplakia	CYP1B1	1.0	
+Oral leukoplakia	CYP2E1	1.0	
+Oral leukoplakia	GSTM1	1.0	
+Oral leukoplakia	GSTP1	1.0	
+Oral leukoplakia	GSTT1	1.0	
+Neurotoxicity Syndromes	ABCG2	1.0	
+Neurotoxicity Syndromes	GSTM1	1.0	
+Neurotoxicity Syndromes	GSTP1	1.0	
+Neurotoxicity Syndromes	GSTT1	1.0	
+Neurotoxicity Syndromes	NQO1	1.0	
+Pregnancy Complications	ABCC2	1.0	
+Pregnancy Complications	CYP1A1	1.0	
+Pregnancy Complications	CYP1B1	1.0	
+Pregnancy Complications	CYP2E1	1.0	
+Pregnancy Complications	GSTM1	1.0	
+Pregnancy Complications	GSTT1	1.0	
+Pregnancy Complications	NQO1	1.0	
+Chromosome Aberrations	CYP1A1	1.0	
+Chromosome Aberrations	CYP2E1	1.0	
+Chromosome Aberrations	GSTM1	1.0	
+Chromosome Aberrations	GSTP1	1.0	
+Chromosome Aberrations	GSTT1	1.0	
+Chromosome Aberrations	NQO1	1.0	
+Papillomavirus Infections	CYP1A1	1.0	
+Papillomavirus Infections	GSTM1	1.0	
+Papillomavirus Infections	GSTP1	1.0	
+Papillomavirus Infections	GSTT1	1.0	
+Papillomavirus Infections	NQO1	1.0	
+Leukoplakia	CYP1A1	1.0	
+Leukoplakia	CYP2E1	1.0	
+Leukoplakia	GSTM1	1.0	
+Leukoplakia	GSTP1	1.0	
+Leukoplakia	GSTT1	1.0	
+Neoplasm of the oral cavity	ATP7B	1.0	
+Neoplasm of the oral cavity	CYP1A1	1.0	
+Neoplasm of the oral cavity	CYP1B1	1.0	
+Neoplasm of the oral cavity	CYP2E1	1.0	
+Neoplasm of the oral cavity	GSTM1	1.0	
+Neoplasm of the oral cavity	GSTP1	1.0	
+Neoplasm of the oral cavity	GSTT1	1.0	
+Neoplasm of the oral cavity	NQO1	1.0	
+Malignant neoplasm of brain and nervous system	ABCG2	1.0	
+Malignant neoplasm of brain and nervous system	CYP1A1	1.0	
+Malignant neoplasm of brain and nervous system	CYP1B1	1.0	
+Malignant neoplasm of brain and nervous system	CYP2E1	1.0	
+Malignant neoplasm of brain and nervous system	GSTP1	1.0	
+Malignant neoplasm of brain and nervous system	GSTT1	1.0	
+Malignant neoplasm of brain and nervous system	NQO1	1.0	
+Respiratory Tract Diseases	CYP1A1	1.0	
+Respiratory Tract Diseases	CYP2E1	1.0	
+Respiratory Tract Diseases	GSTM1	1.0	
+Respiratory Tract Diseases	GSTP1	1.0	
+Respiratory Tract Diseases	GSTT1	1.0	
+Neoplasms, Multiple Primary	CYP1A1	1.0	
+Neoplasms, Multiple Primary	CYP2E1	1.0	
+Neoplasms, Multiple Primary	GSTM1	1.0	
+Neoplasms, Multiple Primary	GSTT1	1.0	
+Liver Cirrhosis, Alcoholic	ABCG2	1.0	
+Liver Cirrhosis, Alcoholic	CYP1A1	1.0	
+Liver Cirrhosis, Alcoholic	CYP2E1	1.0	
+Liver Cirrhosis, Alcoholic	GSTM1	1.0	
+Liver Cirrhosis, Alcoholic	GSTP1	1.0	
+Liver Cirrhosis, Alcoholic	GSTT1	1.0	
+Intrahepatic cholestasis	ABCC2	1.0	
+Intrahepatic cholestasis	ABCG2	1.0	
+Intrahepatic cholestasis	CYP1A1	1.0	
+Intrahepatic cholestasis	CYP1B1	1.0	
+Intrahepatic cholestasis	SLC22A2	1.0	
+Carcinoma, Small Cell	CYP1A1	1.0	
+Carcinoma, Small Cell	CYP2E1	1.0	
+Carcinoma, Small Cell	GSTM1	1.0	
+Carcinoma, Small Cell	GSTP1	1.0	
+Carcinoma, Small Cell	GSTT1	1.0	
+Carcinoma, Small Cell	SLC22A3	1.0	
+Adenoma of large intestine	ABCC2	1.0	
+Adenoma of large intestine	ABCG2	1.0	
+Adenoma of large intestine	CYP1A1	1.0	
+Adenoma of large intestine	CYP2E1	1.0	
+Adenoma of large intestine	GSTM1	1.0	
+Adenoma of large intestine	GSTP1	1.0	
+Adenoma of large intestine	GSTT1	1.0	
+Adenoma of large intestine	NQO1	1.0	
+Pharyngeal Neoplasms	CYP1A1	1.0	
+Pharyngeal Neoplasms	GSTM1	1.0	
+Pharyngeal Neoplasms	GSTP1	1.0	
+Pharyngeal Neoplasms	GSTT1	1.0	
+Pharyngeal Neoplasms	NQO1	1.0	
+Neurodegeneration with brain iron accumulation 4	CYP1A1	1.0	
+Neurodegeneration with brain iron accumulation 4	CYP2E1	1.0	
+Neurodegeneration with brain iron accumulation 4	GSTM1	1.0	
+Neurodegeneration with brain iron accumulation 4	GSTP1	1.0	
+Neurodegeneration with brain iron accumulation 4	GSTT1	1.0	
+Bronchitis	CYP1A1	1.0	
+Bronchitis	CYP2E1	1.0	
+Bronchitis	GSTM1	1.0	
+Bronchitis	GSTP1	1.0	
+Bronchitis	GSTT1	1.0	
+Rhinitis, Allergic, Perennial	CYP1A1	1.0	
+Rhinitis, Allergic, Perennial	GSTM1	1.0	
+Rhinitis, Allergic, Perennial	GSTP1	1.0	
+Rhinitis, Allergic, Perennial	GSTT1	1.0	
+Malignant neoplasm of larynx	CYP1A1	1.0	
+Malignant neoplasm of larynx	CYP1B1	1.0	
+Malignant neoplasm of larynx	CYP2E1	1.0	
+Malignant neoplasm of larynx	GSTM1	1.0	
+Malignant neoplasm of larynx	GSTP1	1.0	
+Malignant neoplasm of larynx	GSTT1	1.0	
+Liver Neoplasms, Experimental	ATP7A	1.0	
+Liver Neoplasms, Experimental	ATP7B	1.0	
+Liver Neoplasms, Experimental	CYP1A1	1.0	
+Liver Neoplasms, Experimental	CYP2E1	1.0	
+Liver Neoplasms, Experimental	GSTP1	1.0	
+Liver Neoplasms, Experimental	SLC31A1	1.0	
+Metaplasia	CYP2E1	1.0	
+Metaplasia	GSTM1	1.0	
+Metaplasia	GSTP1	1.0	
+Metaplasia	GSTT1	1.0	
+Metaplasia	NQO1	1.0	
+Carcinogenicity	CYP1A1	1.0	
+Carcinogenicity	CYP1B1	1.0	
+Carcinogenicity	GSTT1	1.0	
+Carcinogenicity	NQO1	1.0	
+Bronchogenic Carcinoma	CYP1A1	1.0	
+Bronchogenic Carcinoma	GSTM1	1.0	
+Bronchogenic Carcinoma	GSTP1	1.0	
+Bronchogenic Carcinoma	GSTT1	1.0	
+Stomach Diseases	CYP2E1	1.0	
+Stomach Diseases	GSTM1	1.0	
+Stomach Diseases	GSTP1	1.0	
+Stomach Diseases	GSTT1	1.0	
+Cholestasis, benign recurrent intrahepatic 1	ABCC2	1.0	
+Cholestasis, benign recurrent intrahepatic 1	ABCG2	1.0	
+Cholestasis, benign recurrent intrahepatic 1	ATP7A	1.0	
+Cholestasis, benign recurrent intrahepatic 1	ATP7B	1.0	
+Cholestasis, benign recurrent intrahepatic 1	GSTM1	1.0	
+Cholestasis, benign recurrent intrahepatic 1	GSTP1	1.0	
+Cholestasis, benign recurrent intrahepatic 1	NQO1	1.0	
+Cholestasis, benign recurrent intrahepatic 1	SLC22A3	1.0	
+Head and Neck Neoplasms	ABCG2	1.0	
+Head and Neck Neoplasms	CYP1A1	1.0	
+Head and Neck Neoplasms	CYP1B1	1.0	
+Head and Neck Neoplasms	CYP2E1	1.0	
+Head and Neck Neoplasms	GSTM1	1.0	
+Head and Neck Neoplasms	GSTP1	1.0	
+Head and Neck Neoplasms	GSTT1	1.0	
+Head and Neck Neoplasms	NQO1	1.0	
+Urinary Bladder Neoplasms	ATP7A	1.0	
+Urinary Bladder Neoplasms	CYP1A1	1.0	
+Urinary Bladder Neoplasms	CYP1B1	1.0	
+Urinary Bladder Neoplasms	CYP2E1	1.0	
+Urinary Bladder Neoplasms	GSTM1	1.0	
+Urinary Bladder Neoplasms	GSTP1	1.0	
+Urinary Bladder Neoplasms	GSTT1	1.0	
+Urinary Bladder Neoplasms	NQO1	1.0	
+Urinary Bladder Neoplasms	SLC22A3	1.0	
+Neoplasm of the gallbladder	CYP1A1	1.0	
+Neoplasm of the gallbladder	GSTM1	1.0	
+Neoplasm of the gallbladder	GSTP1	1.0	
+Neoplasm of the gallbladder	GSTT1	1.0	
+Uterine Cervical Neoplasms	CYP1A1	1.0	
+Uterine Cervical Neoplasms	CYP2E1	1.0	
+Uterine Cervical Neoplasms	GSTM1	1.0	
+Uterine Cervical Neoplasms	GSTP1	1.0	
+Uterine Cervical Neoplasms	GSTT1	1.0	
+Uterine Cervical Neoplasms	NQO1	1.0	
+Testicular Germ Cell Tumor	CYP1A1	1.0	
+Testicular Germ Cell Tumor	CYP1B1	1.0	
+Testicular Germ Cell Tumor	GSTM1	1.0	
+Testicular Germ Cell Tumor	GSTP1	1.0	
+Testicular Germ Cell Tumor	GSTT1	1.0	
+Gorlin syndrome	CYP1A1	1.0	
+Gorlin syndrome	GSTM1	1.0	
+Gorlin syndrome	GSTP1	1.0	
+Gorlin syndrome	GSTT1	1.0	
+Helicobacter Infections	CYP2E1	1.0	
+Helicobacter Infections	GSTM1	1.0	
+Helicobacter Infections	GSTP1	1.0	
+Helicobacter Infections	GSTT1	1.0	
+Helicobacter Infections	NQO1	1.0	
+Mesothelioma, malignant	ABCC2	1.0	
+Mesothelioma, malignant	ABCG2	1.0	
+Mesothelioma, malignant	CYP1A1	1.0	
+Mesothelioma, malignant	CYP1B1	1.0	
+Mesothelioma, malignant	CYP2E1	1.0	
+Mesothelioma, malignant	GSTM1	1.0	
+Mesothelioma, malignant	GSTT1	1.0	
+Mesothelioma, malignant	NQO1	1.0	
+Laryngeal carcinoma	CYP1A1	1.0	
+Laryngeal carcinoma	CYP1B1	1.0	
+Laryngeal carcinoma	CYP2E1	1.0	
+Laryngeal carcinoma	GSTM1	1.0	
+Laryngeal carcinoma	GSTP1	1.0	
+Laryngeal carcinoma	GSTT1	1.0	
+Leukemia, Lymphocytic, Acute, L1	ABCC2	1.0	
+Leukemia, Lymphocytic, Acute, L1	ABCG2	1.0	
+Leukemia, Lymphocytic, Acute, L1	CYP1A1	1.0	
+Leukemia, Lymphocytic, Acute, L1	CYP2E1	1.0	
+Leukemia, Lymphocytic, Acute, L1	GSTM1	1.0	
+Leukemia, Lymphocytic, Acute, L1	GSTP1	1.0	
+Leukemia, Lymphocytic, Acute, L1	GSTT1	1.0	
+Leukemia, Lymphocytic, Acute, L1	NQO1	1.0	
+Fibrosis	ATP7B	1.0	
+Fibrosis	CYP1A1	1.0	
+Fibrosis	CYP2E1	1.0	
+Fibrosis	GSTM1	1.0	
+Fibrosis	GSTP1	1.0	
+Fibrosis	GSTT1	1.0	
+Malignant neoplasm of kidney	ABCC2	1.0	
+Malignant neoplasm of kidney	ABCG2	1.0	
+Malignant neoplasm of kidney	CYP1A1	1.0	
+Malignant neoplasm of kidney	CYP1B1	1.0	
+Malignant neoplasm of kidney	GSTM1	1.0	
+Malignant neoplasm of kidney	GSTP1	1.0	
+Malignant neoplasm of kidney	GSTT1	1.0	
+Malignant neoplasm of kidney	NQO1	1.0	
+Asbestosis	GSTM1	1.0	
+Asbestosis	GSTP1	1.0	
+Asbestosis	GSTT1	1.0	
+Drug-Induced Liver Injury	ABCC2	1.0	
+Drug-Induced Liver Injury	ABCG2	1.0	
+Drug-Induced Liver Injury	CYP2E1	1.0	
+Drug-Induced Liver Injury	GSTM1	1.0	
+Drug-Induced Liver Injury	GSTP1	1.0	
+Drug-Induced Liver Injury	GSTT1	1.0	
+Pseudomonas Infections	GSTM1	1.0	
+Pseudomonas Infections	GSTP1	1.0	
+Pseudomonas Infections	GSTT1	1.0	
+Peptic ulcer	CYP1A1	1.0	
+Peptic ulcer	CYP2E1	1.0	
+Peptic ulcer	GSTM1	1.0	
+Peptic ulcer	GSTP1	1.0	
+Peptic ulcer	GSTT1	1.0	
+Thyroid Nodule	CYP1A1	1.0	
+Thyroid Nodule	GSTM1	1.0	
+Thyroid Nodule	GSTP1	1.0	
+Thyroid Nodule	GSTT1	1.0	
+Chromosomal translocation	GSTM1	1.0	
+Chromosomal translocation	GSTP1	1.0	
+Chromosomal translocation	GSTT1	1.0	
+Non-alcoholic Fatty Liver Disease	ABCC2	1.0	
+Non-alcoholic Fatty Liver Disease	CYP2E1	1.0	
+Non-alcoholic Fatty Liver Disease	GSTM1	1.0	
+Non-alcoholic Fatty Liver Disease	GSTP1	1.0	
+Non-alcoholic Fatty Liver Disease	GSTT1	1.0	
+Non-alcoholic Fatty Liver Disease	NQO1	1.0	
+Non-alcoholic Fatty Liver Disease	SLC22A3	1.0	
+Biliary cirrhosis	ABCC2	1.0	
+Biliary cirrhosis	ABCG2	1.0	
+Biliary cirrhosis	GSTM1	1.0	
+Biliary cirrhosis	GSTP1	1.0	
+Biliary cirrhosis	GSTT1	1.0	
+Acute Lung Injury	CYP1A1	1.0	
+Acute Lung Injury	GSTM1	1.0	
+Acute Lung Injury	GSTP1	1.0	
+Acute Lung Injury	GSTT1	1.0	
+Motor Neuron Disease	ATP7A	1.0	
+Motor Neuron Disease	CYP2E1	1.0	
+Motor Neuron Disease	GSTM1	1.0	
+Motor Neuron Disease	GSTP1	1.0	
+Motor Neuron Disease	GSTT1	1.0	
+Adrenoleukodystrophy	ABCG2	1.0	
+Adrenoleukodystrophy	CYP2E1	1.0	
+Adrenoleukodystrophy	GSTM1	1.0	
+Adrenoleukodystrophy	GSTP1	1.0	
+Adrenoleukodystrophy	GSTT1	1.0	
+Respiratory Hypersensitivity	GSTM1	1.0	
+Respiratory Hypersensitivity	GSTP1	1.0	
+Respiratory Hypersensitivity	GSTT1	1.0	
+Xeroderma Pigmentosum, Complementation Group D	GSTM1	1.0	
+Xeroderma Pigmentosum, Complementation Group D	GSTP1	1.0	
+Xeroderma Pigmentosum, Complementation Group D	GSTT1	1.0	
+Ehlers-Danlos syndrome, type vii, autosomal recessive	ATP7A	1.0	
+Ehlers-Danlos syndrome, type vii, autosomal recessive	GSTM1	1.0	
+Ehlers-Danlos syndrome, type vii, autosomal recessive	GSTP1	1.0	
+Ehlers-Danlos syndrome, type vii, autosomal recessive	GSTT1	1.0	
+Neoplastic Cell Transformation	CYP1A1	1.0	
+Neoplastic Cell Transformation	GSTM1	1.0	
+Neoplastic Cell Transformation	GSTP1	1.0	
+Neoplastic Cell Transformation	GSTT1	1.0	
+Neoplastic Cell Transformation	NQO1	1.0	
+Acute Myeloid Leukemia Arising from Previous Myelodysplastic Syndrome	GSTM1	1.0	
+Acute Myeloid Leukemia Arising from Previous Myelodysplastic Syndrome	GSTT1	1.0	
+Acute Myeloid Leukemia Arising from Previous Myelodysplastic Syndrome	NQO1	1.0	
+Germinoma	GSTM1	1.0	
+Germinoma	GSTP1	1.0	
+Germinoma	GSTT1	1.0	
+Barrett Esophagus	CYP1A1	1.0	
+Barrett Esophagus	GSTM1	1.0	
+Barrett Esophagus	GSTP1	1.0	
+Barrett Esophagus	GSTT1	1.0	
+Barrett Esophagus	NQO1	1.0	
+Hearing Loss, Partial	ABCG2	1.0	
+Hearing Loss, Partial	CYP1B1	1.0	
+Hearing Loss, Partial	GSTM1	1.0	
+Hearing Loss, Partial	GSTP1	1.0	
+Hearing Loss, Partial	GSTT1	1.0	
+childhood brain tumor	CYP1A1	1.0	
+childhood brain tumor	GSTM1	1.0	
+childhood brain tumor	GSTT1	1.0	
+AIDS related complex	GSTM1	1.0	
+AIDS related complex	GSTP1	1.0	
+AIDS related complex	GSTT1	1.0	
+Wheezing	CYP1A1	1.0	
+Wheezing	GSTM1	1.0	
+Wheezing	GSTP1	1.0	
+Wheezing	GSTT1	1.0	
+Small cell lung cancer	ABCC2	1.0	
+Small cell lung cancer	ABCG2	1.0	
+Small cell lung cancer	ATP7A	1.0	
+Small cell lung cancer	CYP1A1	1.0	
+Small cell lung cancer	CYP2E1	1.0	
+Small cell lung cancer	GSTM1	1.0	
+Small cell lung cancer	GSTP1	1.0	
+Small cell lung cancer	GSTT1	1.0	
+Small cell lung cancer	NQO1	1.0	
+Renal neoplasm	ATP7B	1.0	
+Renal neoplasm	CYP1A1	1.0	
+Renal neoplasm	CYP1B1	1.0	
+Renal neoplasm	CYP2E1	1.0	
+Renal neoplasm	GSTM1	1.0	
+Renal neoplasm	GSTP1	1.0	
+Renal neoplasm	GSTT1	1.0	
+Gastro-esophageal reflux disease with esophagitis	GSTM1	1.0	
+Gastro-esophageal reflux disease with esophagitis	GSTP1	1.0	
+Gastro-esophageal reflux disease with esophagitis	GSTT1	1.0	
+Neoplasm of the colon	ABCC2	1.0	
+Neoplasm of the colon	ABCG2	1.0	
+Neoplasm of the colon	ATP7A	1.0	
+Neoplasm of the colon	CYP1A1	1.0	
+Neoplasm of the colon	CYP1B1	1.0	
+Neoplasm of the colon	GSTM1	1.0	
+Neoplasm of the colon	GSTP1	1.0	
+Neoplasm of the colon	GSTT1	1.0	
+Neoplasm of the colon	NQO1	1.0	
+Neoplasm of the colon	SLC22A3	1.0	
+Contact Dermatitis	CYP1A1	1.0	
+Contact Dermatitis	CYP1B1	1.0	
+Contact Dermatitis	GSTP1	1.0	
+Contact Dermatitis	NQO1	1.0	
+Adult Acute Myeloblastic Leukemia	ABCG2	1.0	
+Adult Acute Myeloblastic Leukemia	CYP1A1	1.0	
+Adult Acute Myeloblastic Leukemia	GSTM1	1.0	
+Adult Acute Myeloblastic Leukemia	GSTT1	1.0	
+Exfoliation Syndrome	GSTM1	1.0	
+Exfoliation Syndrome	GSTP1	1.0	
+Exfoliation Syndrome	GSTT1	1.0	
+Hepatitis	ABCC2	1.0	
+Hepatitis	ABCG2	1.0	
+Hepatitis	ATP7B	1.0	
+Hepatitis	CYP2E1	1.0	
+Hepatitis	GSTM1	1.0	
+Hepatitis	GSTP1	1.0	
+Hepatitis	GSTT1	1.0	
+Squamous cell carcinoma of the head and neck	ABCC2	1.0	
+Squamous cell carcinoma of the head and neck	ABCG2	1.0	
+Squamous cell carcinoma of the head and neck	ATP7B	1.0	
+Squamous cell carcinoma of the head and neck	CYP1A1	1.0	
+Squamous cell carcinoma of the head and neck	CYP1B1	1.0	
+Squamous cell carcinoma of the head and neck	CYP2E1	1.0	
+Squamous cell carcinoma of the head and neck	GSTM1	1.0	
+Squamous cell carcinoma of the head and neck	GSTP1	1.0	
+Squamous cell carcinoma of the head and neck	GSTT1	1.0	
+Squamous cell carcinoma of the head and neck	NQO1	1.0	
+Intrauterine growth retardation	ATP7A	1.0	
+Intrauterine growth retardation	CYP1A1	1.0	
+Intrauterine growth retardation	CYP2E1	1.0	
+Intrauterine growth retardation	GSTM1	1.0	
+Intrauterine growth retardation	GSTP1	1.0	
+Intrauterine growth retardation	GSTT1	1.0	
+Intrauterine growth retardation	NQO1	1.0	
+Neoplasm Invasiveness	CYP1A1	1.0	
+Neoplasm Invasiveness	CYP2E1	1.0	
+Neoplasm Invasiveness	GSTM1	1.0	
+Neoplasm Invasiveness	GSTP1	1.0	
+Neoplasm Invasiveness	GSTT1	1.0	
+Malignant neoplasm of gallbladder	CYP1A1	1.0	
+Malignant neoplasm of gallbladder	CYP1B1	1.0	
+Malignant neoplasm of gallbladder	GSTM1	1.0	
+Malignant neoplasm of gallbladder	GSTP1	1.0	
+Malignant neoplasm of gallbladder	GSTT1	1.0	
+Alcohol abuse	CYP1B1	1.0	
+Alcohol abuse	CYP2E1	1.0	
+Alcohol abuse	GSTM1	1.0	
+Alcohol abuse	NQO1	1.0	
+Skin carcinoma	CYP1A1	1.0	
+Skin carcinoma	GSTM1	1.0	
+Skin carcinoma	GSTP1	1.0	
+Skin carcinoma	GSTT1	1.0	
+Aplastic anemia	CYP1A1	1.0	
+Aplastic anemia	CYP2E1	1.0	
+Aplastic anemia	GSTM1	1.0	
+Aplastic anemia	GSTT1	1.0	
+Aplastic anemia	NQO1	1.0	
+Primary open angle glaucoma juvenile onset 1	CYP1A1	1.0	
+Primary open angle glaucoma juvenile onset 1	CYP1B1	1.0	
+Primary open angle glaucoma juvenile onset 1	GSTM1	1.0	
+Primary open angle glaucoma juvenile onset 1	GSTP1	1.0	
+Primary open angle glaucoma juvenile onset 1	GSTT1	1.0	
+Ovarian epithelial cancer stage III	ABCC2	1.0	
+Ovarian epithelial cancer stage III	ABCG2	1.0	
+Ovarian epithelial cancer stage III	GSTM1	1.0	
+Ocular Hypertension	CYP1B1	1.0	
+Ocular Hypertension	GSTM1	1.0	
+Ocular Hypertension	GSTT1	1.0	
+Trisomy	CYP2E1	1.0	
+Trisomy	GSTM1	1.0	
+Trisomy	GSTP1	1.0	
+Trisomy	GSTT1	1.0	
+Trisomy	NQO1	1.0	
+Noise-induced hearing loss	GSTM1	1.0	
+Noise-induced hearing loss	GSTP1	1.0	
+Noise-induced hearing loss	GSTT1	1.0	
+Age-related cataract	GSTM1	1.0	
+Age-related cataract	GSTP1	1.0	
+Age-related cataract	GSTT1	1.0	
+Varicocele	GSTM1	1.0	
+Varicocele	GSTT1	1.0	
+Varicocele	NQO1	1.0	
+HELLP Syndrome	ABCG2	1.0	
+HELLP Syndrome	GSTM1	1.0	
+HELLP Syndrome	GSTT1	1.0	
+Myelopathy	GSTM1	1.0	
+Myelopathy	GSTP1	1.0	
+Myelopathy	GSTT1	1.0	
+Neoplasm of the respiratory system	CYP2E1	1.0	
+Neoplasm of the respiratory system	GSTM1	1.0	
+Neoplasm of the respiratory system	GSTT1	1.0	
+Alcoholic Liver Diseases	CYP2E1	1.0	
+Alcoholic Liver Diseases	GSTM1	1.0	
+Alcoholic Liver Diseases	GSTP1	1.0	
+Alcoholic Liver Diseases	GSTT1	1.0	
+Hodgkin Disease	CYP1A1	1.0	
+Hodgkin Disease	CYP2E1	1.0	
+Hodgkin Disease	GSTM1	1.0	
+Hodgkin Disease	GSTP1	1.0	
+Hodgkin Disease	GSTT1	1.0	
+Hodgkin Disease	NQO1	1.0	
+Hodgkin Disease	SLC22A2	1.0	
+Esophageal atresia	GSTM1	1.0	
+Esophageal atresia	GSTP1	1.0	
+Esophageal atresia	GSTT1	1.0	
+Methamphetamine abuse	GSTM1	1.0	
+Methamphetamine abuse	GSTP1	1.0	
+Methamphetamine abuse	NQO1	1.0	
+Methamphetamine abuse	SLC22A3	1.0	
+Neoplasm of the rectum	CYP2E1	1.0	
+Neoplasm of the rectum	GSTM1	1.0	
+Neoplasm of the rectum	GSTP1	1.0	
+Neoplasm of the rectum	GSTT1	1.0	
+Childhood asthma	GSTM1	1.0	
+Childhood asthma	GSTP1	1.0	
+Childhood asthma	GSTT1	1.0	
+Childhood asthma	NQO1	1.0	
+Esophageal Squamous Cell Carcinoma	ABCC2	1.0	
+Esophageal Squamous Cell Carcinoma	ABCG2	1.0	
+Esophageal Squamous Cell Carcinoma	CYP1A1	1.0	
+Esophageal Squamous Cell Carcinoma	CYP1B1	1.0	
+Esophageal Squamous Cell Carcinoma	CYP2E1	1.0	
+Esophageal Squamous Cell Carcinoma	GSTM1	1.0	
+Esophageal Squamous Cell Carcinoma	GSTP1	1.0	
+Esophageal Squamous Cell Carcinoma	GSTT1	1.0	
+Esophageal Squamous Cell Carcinoma	NQO1	1.0	
+Esophageal Squamous Cell Carcinoma	SLC22A3	1.0	
+Hamartoma	CYP1A1	1.0	
+Hamartoma	GSTM1	1.0	
+Hamartoma	GSTP1	1.0	
+Hamartoma	GSTT1	1.0	
+Adenocarcinoma of the large intestine	ATP7A	1.0	
+Adenocarcinoma of the large intestine	ATP7B	1.0	
+Adenocarcinoma of the large intestine	CYP1A1	1.0	
+Adenocarcinoma of the large intestine	GSTM1	1.0	
+Adenocarcinoma of the large intestine	GSTT1	1.0	
+Dyskinesia, Drug-Induced	GSTM1	1.0	
+Dyskinesia, Drug-Induced	GSTP1	1.0	
+Dyskinesia, Drug-Induced	GSTT1	1.0	
+Squamous cell carcinoma of lung	CYP1A1	1.0	
+Squamous cell carcinoma of lung	CYP2E1	1.0	
+Squamous cell carcinoma of lung	GSTM1	1.0	
+Squamous cell carcinoma of lung	GSTP1	1.0	
+Squamous cell carcinoma of lung	SLC22A3	1.0	
+Gallbladder Carcinoma	CYP1A1	1.0	
+Gallbladder Carcinoma	CYP1B1	1.0	
+Gallbladder Carcinoma	GSTM1	1.0	
+Gallbladder Carcinoma	GSTP1	1.0	
+Gallbladder Carcinoma	GSTT1	1.0	
+Benign Prostatic Hyperplasia	CYP1A1	1.0	
+Benign Prostatic Hyperplasia	CYP1B1	1.0	
+Benign Prostatic Hyperplasia	GSTM1	1.0	
+Benign Prostatic Hyperplasia	GSTP1	1.0	
+Benign Prostatic Hyperplasia	GSTT1	1.0	
+Benign Prostatic Hyperplasia	NQO1	1.0	
+Benign Prostatic Hyperplasia	SLC22A3	1.0	
+Germinal Center B-Cell-Like Diffuse Large B-Cell Lymphoma	ABCG2	1.0	
+Germinal Center B-Cell-Like Diffuse Large B-Cell Lymphoma	ATP7A	1.0	
+Germinal Center B-Cell-Like Diffuse Large B-Cell Lymphoma	CYP1A1	1.0	
+Germinal Center B-Cell-Like Diffuse Large B-Cell Lymphoma	CYP1B1	1.0	
+Germinal Center B-Cell-Like Diffuse Large B-Cell Lymphoma	GSTM1	1.0	
+Germinal Center B-Cell-Like Diffuse Large B-Cell Lymphoma	GSTP1	1.0	
+Germinal Center B-Cell-Like Diffuse Large B-Cell Lymphoma	GSTT1	1.0	
+Germinal Center B-Cell-Like Diffuse Large B-Cell Lymphoma	NQO1	1.0	
+Hemoglobinopathy	GSTM1	1.0	
+Hemoglobinopathy	GSTP1	1.0	
+Hemoglobinopathy	GSTT1	1.0	
+Hepatic steatosis	ABCC2	1.0	
+Hepatic steatosis	ATP7B	1.0	
+Hepatic steatosis	CYP2E1	1.0	
+Hepatic steatosis	GSTM1	1.0	
+Hepatic steatosis	GSTP1	1.0	
+Hepatic steatosis	GSTT1	1.0	
+Hepatic steatosis	NQO1	1.0	
+Leukopenia	ABCC2	1.0	
+Leukopenia	ABCG2	1.0	
+Leukopenia	CYP1A1	1.0	
+Leukopenia	GSTM1	1.0	
+Leukopenia	GSTP1	1.0	
+Leukopenia	GSTT1	1.0	
+Cancer of Head and Neck	CYP1A1	1.0	
+Cancer of Head and Neck	CYP1B1	1.0	
+Cancer of Head and Neck	CYP2E1	1.0	
+Cancer of Head and Neck	GSTM1	1.0	
+Cancer of Head and Neck	GSTP1	1.0	
+Cancer of Head and Neck	GSTT1	1.0	
+Cancer of Head and Neck	SLC22A3	1.0	
+Glaucoma, Open-Angle	CYP1B1	1.0	
+Glaucoma, Open-Angle	GSTM1	1.0	
+Glaucoma, Open-Angle	GSTP1	1.0	
+Glaucoma, Open-Angle	GSTT1	1.0	
+Peptic Esophagitis	GSTM1	1.0	
+Peptic Esophagitis	GSTP1	1.0	
+Peptic Esophagitis	GSTT1	1.0	
+Esophageal carcinoma	CYP1A1	1.0	
+Esophageal carcinoma	CYP1B1	1.0	
+Esophageal carcinoma	CYP2E1	1.0	
+Esophageal carcinoma	GSTM1	1.0	
+Esophageal carcinoma	GSTP1	1.0	
+Esophageal carcinoma	GSTT1	1.0	
+Esophageal carcinoma	NQO1	1.0	
+Esophageal carcinoma	SLC22A3	1.0	
+Urinary tract neoplasm	ATP7A	1.0	
+Urinary tract neoplasm	GSTM1	1.0	
+Urinary tract neoplasm	GSTP1	1.0	
+Urinary tract neoplasm	GSTT1	1.0	
+Liver Diseases	ABCC2	1.0	
+Liver Diseases	ATP7B	1.0	
+Liver Diseases	CYP1A1	1.0	
+Liver Diseases	CYP2E1	1.0	
+Liver Diseases	GSTM1	1.0	
+Liver Diseases	GSTP1	1.0	
+Liver Diseases	GSTT1	1.0	
+Liver Diseases	NQO1	1.0	
+Pancreatic Neoplasms	ABCC2	1.0	
+Pancreatic Neoplasms	ABCG2	1.0	
+Pancreatic Neoplasms	CYP1A1	1.0	
+Pancreatic Neoplasms	CYP1B1	1.0	
+Pancreatic Neoplasms	GSTM1	1.0	
+Pancreatic Neoplasms	GSTP1	1.0	
+Pancreatic Neoplasms	GSTT1	1.0	
+Pancreatic Neoplasms	NQO1	1.0	
+Pancreatic Neoplasms	SLC22A3	1.0	
+Chronic atrophic gastritis	CYP2E1	1.0	
+Chronic atrophic gastritis	GSTM1	1.0	
+Chronic atrophic gastritis	GSTP1	1.0	
+Chronic atrophic gastritis	GSTT1	1.0	
+Low Tension Glaucoma	CYP1B1	1.0	
+Low Tension Glaucoma	GSTM1	1.0	
+Low Tension Glaucoma	GSTT1	1.0	
+Chromosome Xq28 deletion syndrome	GSTM1	1.0	
+Chromosome Xq28 deletion syndrome	GSTP1	1.0	
+Chromosome Xq28 deletion syndrome	GSTT1	1.0	
+Hereditary nonpolyposis colorectal cancer type 8	CYP1A1	1.0	
+Hereditary nonpolyposis colorectal cancer type 8	GSTM1	1.0	
+Hereditary nonpolyposis colorectal cancer type 8	GSTP1	1.0	
+Hereditary nonpolyposis colorectal cancer type 8	GSTT1	1.0	
+Dyspepsia	GSTM1	1.0	
+Dyspepsia	GSTP1	1.0	
+Dyspepsia	GSTT1	1.0	
+Necrosis	CYP2E1	1.0	
+Necrosis	GSTP1	1.0	
+Necrosis	SLC31A1	1.0	
+Endometriosis of uterus	CYP1A1	1.0	
+Endometriosis of uterus	CYP1B1	1.0	
+Endometriosis of uterus	GSTM1	1.0	
+Penile hypospadias	CYP1A1	1.0	
+Penile hypospadias	GSTM1	1.0	
+Penile hypospadias	GSTT1	1.0	
+Ependymoma	ABCG2	1.0	
+Ependymoma	GSTM1	1.0	
+Ependymoma	GSTP1	1.0	
+Ependymoma	GSTT1	1.0	
+Human papilloma virus infection	CYP1A1	1.0	
+Human papilloma virus infection	GSTM1	1.0	
+Human papilloma virus infection	GSTT1	1.0	
+Hepatic cancer metastatic	ATP7B	1.0	
+Hepatic cancer metastatic	CYP1A1	1.0	
+Hepatic cancer metastatic	CYP1B1	1.0	
+Hepatic cancer metastatic	CYP2E1	1.0	
+Hepatic cancer metastatic	GSTM1	1.0	
+Hepatic cancer metastatic	GSTP1	1.0	
+Hepatic cancer metastatic	GSTT1	1.0	
+Hepatic cancer metastatic	NQO1	1.0	
+Colorectal Neoplasms	ABCC2	1.0	
+Colorectal Neoplasms	ABCG2	1.0	
+Colorectal Neoplasms	ATP7B	1.0	
+Colorectal Neoplasms	CYP1A1	1.0	
+Colorectal Neoplasms	CYP1B1	1.0	
+Colorectal Neoplasms	CYP2E1	1.0	
+Colorectal Neoplasms	GSTM1	1.0	
+Colorectal Neoplasms	GSTP1	1.0	
+Colorectal Neoplasms	GSTT1	1.0	
+Colorectal Neoplasms	NQO1	1.0	
+Colorectal Neoplasms	SLC22A3	1.0	
+Oral Submucous Fibrosis	CYP1A1	1.0	
+Oral Submucous Fibrosis	GSTM1	1.0	
+Oral Submucous Fibrosis	GSTT1	1.0	
+Wilson disease	ATP7A	1.0	
+Wilson disease	ATP7B	1.0	
+Wilson disease	SLC31A1	1.0	
+Adverse drug events and drug allergies	ABCC2	1.0	
+Adverse drug events and drug allergies	ABCG2	1.0	
+Adverse drug events and drug allergies	CYP2E1	1.0	
+Cervical Squamous Cell Carcinoma	GSTM1	1.0	
+Cervical Squamous Cell Carcinoma	GSTT1	1.0	
+Cervical Squamous Cell Carcinoma	NQO1	1.0	
+Cervical Squamous Cell Carcinoma	SLC22A3	1.0	
+Transitional cell carcinoma of the bladder	CYP1A1	1.0	
+Transitional cell carcinoma of the bladder	GSTM1	1.0	
+Transitional cell carcinoma of the bladder	GSTP1	1.0	
+Transitional cell carcinoma of the bladder	GSTT1	1.0	
+Adenocarcinoma of lung	ABCG2	1.0	
+Adenocarcinoma of lung	CYP1A1	1.0	
+Adenocarcinoma of lung	CYP1B1	1.0	
+Adenocarcinoma of lung	CYP2E1	1.0	
+Adenocarcinoma of lung	GSTM1	1.0	
+Adenocarcinoma of lung	GSTP1	1.0	
+Adenocarcinoma of lung	GSTT1	1.0	
+Adenocarcinoma of lung	NQO1	1.0	
+Adenocarcinoma of lung	SLC22A3	1.0	
+Tardive Dyskinesia	GSTM1	1.0	
+Tardive Dyskinesia	GSTT1	1.0	
+Tardive Dyskinesia	NQO1	1.0	
+Basal cell carcinoma	CYP1A1	1.0	
+Basal cell carcinoma	GSTM1	1.0	
+Basal cell carcinoma	GSTP1	1.0	
+Basal cell carcinoma	GSTT1	1.0	
+Carcinoma, Papillary	CYP1A1	1.0	
+Carcinoma, Papillary	GSTM1	1.0	
+Carcinoma, Papillary	GSTP1	1.0	
+Carcinoma, Papillary	GSTT1	1.0	
+Carcinoma, Papillary	NQO1	1.0	
+Malignant tumor of esophagus	CYP1A1	1.0	
+Malignant tumor of esophagus	CYP1B1	1.0	
+Malignant tumor of esophagus	CYP2E1	1.0	
+Malignant tumor of esophagus	GSTM1	1.0	
+Malignant tumor of esophagus	GSTP1	1.0	
+Malignant tumor of esophagus	GSTT1	1.0	
+Malignant tumor of esophagus	NQO1	1.0	
+Malignant tumor of esophagus	SLC22A3	1.0	
+Psychoses, Substance-Induced	GSTM1	1.0	
+Psychoses, Substance-Induced	GSTP1	1.0	
+Psychoses, Substance-Induced	NQO1	1.0	
+Testicular Neoplasms	CYP1A1	1.0	
+Testicular Neoplasms	GSTM1	1.0	
+Testicular Neoplasms	GSTP1	1.0	
+Testicular Neoplasms	GSTT1	1.0	
+Bronchopulmonary Dysplasia	CYP1A1	1.0	
+Bronchopulmonary Dysplasia	GSTM1	1.0	
+Bronchopulmonary Dysplasia	GSTP1	1.0	
+Bronchopulmonary Dysplasia	GSTT1	1.0	
+Bronchopulmonary Dysplasia	NQO1	1.0	
+Nasopharyngeal carcinoma, susceptibility to, 3	ABCC2	1.0	
+Nasopharyngeal carcinoma, susceptibility to, 3	ABCG2	1.0	
+Nasopharyngeal carcinoma, susceptibility to, 3	CYP2E1	1.0	
+Nasopharyngeal carcinoma, susceptibility to, 3	GSTM1	1.0	
+Nasopharyngeal carcinoma, susceptibility to, 3	GSTP1	1.0	
+Nasopharyngeal carcinoma, susceptibility to, 3	GSTT1	1.0	
+Nasopharyngeal carcinoma, susceptibility to, 3	NQO1	1.0	
+Nasopharyngeal carcinoma, susceptibility to, 3	SLC22A3	1.0	
+Chronic liver disease	CYP1A1	1.0	
+Chronic liver disease	CYP2E1	1.0	
+Chronic liver disease	GSTM1	1.0	
+Chronic liver disease	GSTT1	1.0	
+Nasopharyngeal cancer recurrent	GSTM1	1.0	
+Nasopharyngeal cancer recurrent	GSTT1	1.0	
+Nasopharyngeal cancer recurrent	SLC22A3	1.0	
+Arsenic Poisoning	GSTM1	1.0	
+Arsenic Poisoning	GSTP1	1.0	
+Arsenic Poisoning	GSTT1	1.0	
+Mammographic breast density	CYP1A1	1.0	
+Mammographic breast density	CYP1B1	1.0	
+Mammographic breast density	GSTM1	1.0	
+orbit (eye disorders)	CYP1A1	1.0	
+orbit (eye disorders)	GSTM1	1.0	
+orbit (eye disorders)	GSTP1	1.0	
+orbit (eye disorders)	GSTT1	1.0	
+Premature Birth	CYP1A1	1.0	
+Premature Birth	CYP2E1	1.0	
+Premature Birth	GSTM1	1.0	
+Premature Birth	GSTP1	1.0	
+Premature Birth	GSTT1	1.0	
+Premature Birth	NQO1	1.0	
+Esophageal Neoplasms	CYP1A1	1.0	
+Esophageal Neoplasms	CYP1B1	1.0	
+Esophageal Neoplasms	CYP2E1	1.0	
+Esophageal Neoplasms	GSTM1	1.0	
+Esophageal Neoplasms	GSTP1	1.0	
+Esophageal Neoplasms	GSTT1	1.0	
+Esophageal Neoplasms	NQO1	1.0	
+Esophageal Neoplasms	SLC22A3	1.0	
+Hereditary pancreatitis	ABCC2	1.0	
+Hereditary pancreatitis	CYP1B1	1.0	
+Hereditary pancreatitis	CYP2E1	1.0	
+Hereditary pancreatitis	GSTM1	1.0	
+Hereditary pancreatitis	GSTP1	1.0	
+Hereditary pancreatitis	GSTT1	1.0	
+BREAST-OVARIAN CANCER, FAMILIAL, SUSCEPTIBILITY TO, 4	ABCC2	1.0	
+BREAST-OVARIAN CANCER, FAMILIAL, SUSCEPTIBILITY TO, 4	ABCG2	1.0	
+BREAST-OVARIAN CANCER, FAMILIAL, SUSCEPTIBILITY TO, 4	ATP7A	1.0	
+BREAST-OVARIAN CANCER, FAMILIAL, SUSCEPTIBILITY TO, 4	ATP7B	1.0	
+BREAST-OVARIAN CANCER, FAMILIAL, SUSCEPTIBILITY TO, 4	CYP1A1	1.0	
+BREAST-OVARIAN CANCER, FAMILIAL, SUSCEPTIBILITY TO, 4	CYP1B1	1.0	
+BREAST-OVARIAN CANCER, FAMILIAL, SUSCEPTIBILITY TO, 4	CYP2E1	1.0	
+BREAST-OVARIAN CANCER, FAMILIAL, SUSCEPTIBILITY TO, 4	GSTM1	1.0	
+BREAST-OVARIAN CANCER, FAMILIAL, SUSCEPTIBILITY TO, 4	GSTP1	1.0	
+BREAST-OVARIAN CANCER, FAMILIAL, SUSCEPTIBILITY TO, 4	GSTT1	1.0	
+BREAST-OVARIAN CANCER, FAMILIAL, SUSCEPTIBILITY TO, 4	NQO1	1.0	
+BREAST-OVARIAN CANCER, FAMILIAL, SUSCEPTIBILITY TO, 4	SLC22A2	1.0	
+BREAST-OVARIAN CANCER, FAMILIAL, SUSCEPTIBILITY TO, 4	SLC22A3	1.0	
+BREAST-OVARIAN CANCER, FAMILIAL, SUSCEPTIBILITY TO, 4	SLC31A1	1.0	
+Orofacial dyskinesia	GSTM1	1.0	
+Orofacial dyskinesia	GSTT1	1.0	
+Orofacial dyskinesia	NQO1	1.0	
+Acute leukemia	ABCG2	1.0	
+Acute leukemia	CYP1A1	1.0	
+Acute leukemia	CYP2E1	1.0	
+Acute leukemia	GSTM1	1.0	
+Acute leukemia	GSTP1	1.0	
+Acute leukemia	GSTT1	1.0	
+Acute leukemia	NQO1	1.0	
+Neutropenia	ABCC2	1.0	
+Neutropenia	ABCG2	1.0	
+Neutropenia	GSTM1	1.0	
+Neutropenia	GSTP1	1.0	
+Neutropenia	GSTT1	1.0	
+Neoplasms, Radiation-Induced	GSTM1	1.0	
+Neoplasms, Radiation-Induced	GSTT1	1.0	
+Deafness, autosomal recessive 44	ABCG2	1.0	
+Deafness, autosomal recessive 44	CYP1B1	1.0	
+Deafness, autosomal recessive 44	GSTM1	1.0	
+Deafness, autosomal recessive 44	GSTP1	1.0	
+Deafness, autosomal recessive 44	GSTT1	1.0	
+Bronchitis, Chronic	GSTM1	1.0	
+Bronchitis, Chronic	GSTP1	1.0	
+Bronchitis, Chronic	GSTT1	1.0	
+Postoperative Complications	GSTM1	1.0	
+Postoperative Complications	GSTP1	1.0	
+Postoperative Complications	GSTT1	1.0	
+Neoplasm of the liver	ABCC2	1.0	
+Neoplasm of the liver	ABCG2	1.0	
+Neoplasm of the liver	ATP7B	1.0	
+Neoplasm of the liver	CYP1A1	1.0	
+Neoplasm of the liver	CYP1B1	1.0	
+Neoplasm of the liver	CYP2E1	1.0	
+Neoplasm of the liver	GSTM1	1.0	
+Neoplasm of the liver	GSTP1	1.0	
+Neoplasm of the liver	GSTT1	1.0	
+Neoplasm of the liver	NQO1	1.0	
+Neoplasm of the liver	SLC22A3	1.0	
+Spontaneous abortion	CYP1A1	1.0	
+Spontaneous abortion	CYP1B1	1.0	
+Spontaneous abortion	GSTM1	1.0	
+Spontaneous abortion	GSTP1	1.0	
+Spontaneous abortion	GSTT1	1.0	
+Congenital chromosomal disease	CYP1A1	1.0	
+Congenital chromosomal disease	CYP1B1	1.0	
+Congenital chromosomal disease	CYP2E1	1.0	
+Congenital chromosomal disease	GSTM1	1.0	
+Congenital chromosomal disease	GSTP1	1.0	
+Congenital chromosomal disease	GSTT1	1.0	
+Congenital chromosomal disease	NQO1	1.0	
+Lymphoma, Follicular	CYP1A1	1.0	
+Lymphoma, Follicular	CYP1B1	1.0	
+Lymphoma, Follicular	CYP2E1	1.0	
+Lymphoma, Follicular	GSTM1	1.0	
+Lymphoma, Follicular	GSTP1	1.0	
+Lymphoma, Follicular	GSTT1	1.0	
+Primary angle-closure glaucoma	CYP1B1	1.0	
+Primary angle-closure glaucoma	GSTM1	1.0	
+Signs and Symptoms, Respiratory	GSTM1	1.0	
+Signs and Symptoms, Respiratory	GSTP1	1.0	
+Bladder carcinoma	ATP7A	1.0	
+Bladder carcinoma	CYP1A1	1.0	
+Bladder carcinoma	CYP1B1	1.0	
+Bladder carcinoma	CYP2E1	1.0	
+Bladder carcinoma	GSTM1	1.0	
+Bladder carcinoma	GSTP1	1.0	
+Bladder carcinoma	GSTT1	1.0	
+Bladder carcinoma	NQO1	1.0	
+Bladder carcinoma	SLC22A3	1.0	
+Bladder carcinoma	SLC31A1	1.0	
+Uterine neoplasm	CYP1A1	1.0	
+Uterine neoplasm	CYP1B1	1.0	
+Uterine neoplasm	GSTM1	1.0	
+Chronic gastritis	GSTM1	1.0	
+Chronic gastritis	GSTP1	1.0	
+Chronic gastritis	GSTT1	1.0	
+Experimental Organism Basal Cell Carcinoma	CYP1A1	1.0	
+Experimental Organism Basal Cell Carcinoma	GSTM1	1.0	
+Experimental Organism Basal Cell Carcinoma	GSTP1	1.0	
+Experimental Organism Basal Cell Carcinoma	GSTT1	1.0	
+Experimental Organism Basal Cell Carcinoma	NQO1	1.0	
+Neonatal respiratory distress	GSTM1	1.0	
+Neonatal respiratory distress	GSTP1	1.0	
+Neonatal respiratory distress	GSTT1	1.0	
+Neuropathy ataxia retinitis pigmentosa syndrome	ATP7A	1.0	
+Neuropathy ataxia retinitis pigmentosa syndrome	GSTM1	1.0	
+Neuropathy ataxia retinitis pigmentosa syndrome	GSTP1	1.0	
+Neuropathy ataxia retinitis pigmentosa syndrome	GSTT1	1.0	
+Neuropathy ataxia retinitis pigmentosa syndrome	NQO1	1.0	
+Malignant mesothelioma	ABCC2	1.0	
+Malignant mesothelioma	CYP1A1	1.0	
+Malignant mesothelioma	GSTM1	1.0	
+Malignant mesothelioma	GSTP1	1.0	
+Malignant mesothelioma	GSTT1	1.0	
+Cervical dysplasia	GSTM1	1.0	
+Cervical dysplasia	GSTT1	1.0	
+Recurrent abortion	CYP1A1	1.0	
+Recurrent abortion	GSTM1	1.0	
+Recurrent abortion	GSTT1	1.0	
+Drug Allergy	ABCC2	1.0	
+Drug Allergy	GSTM1	1.0	
+Drug Allergy	GSTP1	1.0	
+VITILIGO-ASSOCIATED MULTIPLE AUTOIMMUNE DISEASE SUSCEPTIBILITY 1 (finding)	GSTM1	1.0	
+VITILIGO-ASSOCIATED MULTIPLE AUTOIMMUNE DISEASE SUSCEPTIBILITY 1 (finding)	GSTP1	1.0	
+VITILIGO-ASSOCIATED MULTIPLE AUTOIMMUNE DISEASE SUSCEPTIBILITY 1 (finding)	GSTT1	1.0	
+VITILIGO-ASSOCIATED MULTIPLE AUTOIMMUNE DISEASE SUSCEPTIBILITY 1 (finding)	NQO1	1.0	
+Endometrial Neoplasms	CYP1A1	1.0	
+Endometrial Neoplasms	CYP1B1	1.0	
+Endometrial Neoplasms	GSTM1	1.0	
+Endometrial Neoplasms	GSTP1	1.0	
+Endometrial Neoplasms	GSTT1	1.0	
+Myelodysplastic syndrome	CYP1A1	1.0	
+Myelodysplastic syndrome	CYP1B1	1.0	
+Myelodysplastic syndrome	GSTM1	1.0	
+Myelodysplastic syndrome	GSTP1	1.0	
+Myelodysplastic syndrome	GSTT1	1.0	
+Myelodysplastic syndrome	NQO1	1.0	
+Non-Hodgkin lymphoma	CYP1A1	1.0	
+Non-Hodgkin lymphoma	CYP1B1	1.0	
+Non-Hodgkin lymphoma	CYP2E1	1.0	
+Non-Hodgkin lymphoma	GSTM1	1.0	
+Non-Hodgkin lymphoma	GSTP1	1.0	
+Non-Hodgkin lymphoma	GSTT1	1.0	
+Non-Hodgkin lymphoma	NQO1	1.0	
+Respiration Disorders	GSTM1	1.0	
+Respiration Disorders	GSTP1	1.0	
+Respiration Disorders	GSTT1	1.0	
+Chondrocalcinosis	ATP7A	1.0	
+Chondrocalcinosis	ATP7B	1.0	
+Proteinuria Adverse Event	GSTM1	1.0	
+Proteinuria Adverse Event	GSTT1	1.0	
+Neoplasm Recurrence, Local	ABCG2	1.0	
+Neoplasm Recurrence, Local	GSTM1	1.0	
+Neoplasm Recurrence, Local	GSTP1	1.0	
+Neoplasm Recurrence, Local	GSTT1	1.0	
+Neoplasm Recurrence, Local	NQO1	1.0	
+Pancreatitis	CYP1A1	1.0	
+Pancreatitis	CYP2E1	1.0	
+Pancreatitis	GSTM1	1.0	
+Pancreatitis	GSTP1	1.0	
+Pancreatitis	GSTT1	1.0	
+Nasopharyngeal Neoplasms	CYP2E1	1.0	
+Nasopharyngeal Neoplasms	GSTM1	1.0	
+Nasopharyngeal Neoplasms	GSTT1	1.0	
+Amphetamine-Related Disorders	GSTM1	1.0	
+Amphetamine-Related Disorders	GSTP1	1.0	
+Amphetamine-Related Disorders	GSTT1	1.0	
+Extrahepatic cholestasis	ABCC2	1.0	
+Extrahepatic cholestasis	SLC22A2	1.0	
+Substance-Related Disorders	CYP2E1	1.0	
+Substance-Related Disorders	GSTM1	1.0	
+Substance-Related Disorders	GSTP1	1.0	
+Substance-Related Disorders	SLC22A3	1.0	
+Ovarian Neoplasms	ABCG2	1.0	
+Ovarian Neoplasms	ATP7A	1.0	
+Ovarian Neoplasms	ATP7B	1.0	
+Ovarian Neoplasms	CYP1A1	1.0	
+Ovarian Neoplasms	CYP1B1	1.0	
+Ovarian Neoplasms	GSTM1	1.0	
+Ovarian Neoplasms	GSTP1	1.0	
+Ovarian Neoplasms	GSTT1	1.0	
+Ovarian Neoplasms	SLC31A1	1.0	
+Age-related macular degeneration 2	ABCG2	1.0	
+Age-related macular degeneration 2	CYP1A1	1.0	
+Age-related macular degeneration 2	CYP2E1	1.0	
+Age-related macular degeneration 2	GSTM1	1.0	
+Age-related macular degeneration 2	GSTP1	1.0	
+Age-related macular degeneration 2	GSTT1	1.0	
+Distal myopathy Markesbery-Griggs type	GSTM1	1.0	
+Distal myopathy Markesbery-Griggs type	GSTT1	1.0	
+Peripheral neuropathy, myopathy, hoarseness, and hearing loss	ABCC2	1.0	
+Peripheral neuropathy, myopathy, hoarseness, and hearing loss	ATP7A	1.0	
+Peripheral neuropathy, myopathy, hoarseness, and hearing loss	ATP7B	1.0	
+Peripheral neuropathy, myopathy, hoarseness, and hearing loss	CYP1A1	1.0	
+Peripheral neuropathy, myopathy, hoarseness, and hearing loss	CYP2E1	1.0	
+Peripheral neuropathy, myopathy, hoarseness, and hearing loss	GSTM1	1.0	
+Peripheral neuropathy, myopathy, hoarseness, and hearing loss	GSTP1	1.0	
+Peripheral neuropathy, myopathy, hoarseness, and hearing loss	GSTT1	1.0	
+Lung Neoplasms	ABCC2	1.0	
+Lung Neoplasms	ABCG2	1.0	
+Lung Neoplasms	ATP7B	1.0	
+Lung Neoplasms	CYP1A1	1.0	
+Lung Neoplasms	CYP1B1	1.0	
+Lung Neoplasms	CYP2E1	1.0	
+Lung Neoplasms	GSTM1	1.0	
+Lung Neoplasms	GSTP1	1.0	
+Lung Neoplasms	GSTT1	1.0	
+Lung Neoplasms	NQO1	1.0	
+Prostatic Neoplasms	ABCG2	1.0	
+Prostatic Neoplasms	ATP7B	1.0	
+Prostatic Neoplasms	CYP1A1	1.0	
+Prostatic Neoplasms	CYP1B1	1.0	
+Prostatic Neoplasms	CYP2E1	1.0	
+Prostatic Neoplasms	GSTM1	1.0	
+Prostatic Neoplasms	GSTP1	1.0	
+Prostatic Neoplasms	GSTT1	1.0	
+Prostatic Neoplasms	NQO1	1.0	
+Prostatic Neoplasms	SLC22A2	1.0	
+Prostatic Neoplasms	SLC22A3	1.0	
+Prostatic Neoplasms	SLC31A1	1.0	
+Lymphoma, Large-Cell, Follicular	CYP1A1	1.0	
+Lymphoma, Large-Cell, Follicular	GSTM1	1.0	
+Lymphoma, Large-Cell, Follicular	GSTP1	1.0	
+Lymphoma, Large-Cell, Follicular	GSTT1	1.0	
+Vestibular Schwannoma	CYP2E1	1.0	
+Vestibular Schwannoma	GSTM1	1.0	
+Vestibular Schwannoma	GSTP1	1.0	
+Oral Cavity Carcinoma	CYP1A1	1.0	
+Oral Cavity Carcinoma	GSTM1	1.0	
+Oral Cavity Carcinoma	GSTT1	1.0	
+Actinic keratosis	GSTM1	1.0	
+Actinic keratosis	GSTP1	1.0	
+Actinic keratosis	GSTT1	1.0	
+Helicobacter pylori infection	CYP1A1	1.0	
+Helicobacter pylori infection	CYP2E1	1.0	
+Helicobacter pylori infection	GSTM1	1.0	
+Helicobacter pylori infection	GSTP1	1.0	
+Helicobacter pylori infection	GSTT1	1.0	
+Adenomas, multiple colorectal, 608456 (3)	ABCC2	1.0	
+Adenomas, multiple colorectal, 608456 (3)	ABCG2	1.0	
+Adenomas, multiple colorectal, 608456 (3)	CYP1A1	1.0	
+Adenomas, multiple colorectal, 608456 (3)	CYP1B1	1.0	
+Adenomas, multiple colorectal, 608456 (3)	CYP2E1	1.0	
+Adenomas, multiple colorectal, 608456 (3)	GSTM1	1.0	
+Adenomas, multiple colorectal, 608456 (3)	GSTP1	1.0	
+Adenomas, multiple colorectal, 608456 (3)	GSTT1	1.0	
+Adenomas, multiple colorectal, 608456 (3)	NQO1	1.0	
+Chronic ulcerative colitis	GSTM1	1.0	
+Chronic ulcerative colitis	GSTP1	1.0	
+Chronic ulcerative colitis	GSTT1	1.0	
+Venous insufficiency	ATP7A	1.0	
+Venous insufficiency	GSTT1	1.0	
+Male infertility	CYP1A1	1.0	
+Male infertility	GSTM1	1.0	
+Male infertility	GSTP1	1.0	
+Male infertility	GSTT1	1.0	
+Male infertility	NQO1	1.0	
+Hypersensitivity	CYP1A1	1.0	
+Hypersensitivity	GSTM1	1.0	
+Hypersensitivity	GSTP1	1.0	
+Hypersensitivity	GSTT1	1.0	
+Parkinson Disease	ATP7A	1.0	
+Parkinson Disease	CYP1A1	1.0	
+Parkinson Disease	CYP1B1	1.0	
+Parkinson Disease	CYP2E1	1.0	
+Parkinson Disease	GSTM1	1.0	
+Parkinson Disease	GSTP1	1.0	
+Parkinson Disease	GSTT1	1.0	
+Parkinson Disease	NQO1	1.0	
+Testicular malignant germ cell tumor	CYP1A1	1.0	
+Testicular malignant germ cell tumor	GSTP1	1.0	
+Testicular malignant germ cell tumor	SLC22A3	1.0	
+Myelosuppression	ABCG2	1.0	
+Myelosuppression	GSTP1	1.0	
+Ovarian epithelial cancer	ABCC2	1.0	
+Ovarian epithelial cancer	ABCG2	1.0	
+Ovarian epithelial cancer	ATP7A	1.0	
+Ovarian epithelial cancer	ATP7B	1.0	
+Ovarian epithelial cancer	CYP1A1	1.0	
+Ovarian epithelial cancer	CYP1B1	1.0	
+Ovarian epithelial cancer	CYP2E1	1.0	
+Ovarian epithelial cancer	GSTM1	1.0	
+Ovarian epithelial cancer	GSTP1	1.0	
+Ovarian epithelial cancer	GSTT1	1.0	
+Ovarian epithelial cancer	NQO1	1.0	
+Ovarian epithelial cancer	SLC22A2	1.0	
+Ovarian epithelial cancer	SLC22A3	1.0	
+Ovarian epithelial cancer	SLC31A1	1.0	
+Thyroid cancer, nonmedullary, 4	CYP1A1	1.0	
+Thyroid cancer, nonmedullary, 4	GSTM1	1.0	
+Thyroid cancer, nonmedullary, 4	GSTP1	1.0	
+Thyroid cancer, nonmedullary, 4	GSTT1	1.0	
+Thyroid cancer, nonmedullary, 4	NQO1	1.0	
+Thyroid cancer, nonmedullary, 4	SLC22A3	1.0	
+Other disorders of the nervous system	ABCC2	1.0	
+Other disorders of the nervous system	ABCG2	1.0	
+Other disorders of the nervous system	ATP7B	1.0	
+Other disorders of the nervous system	GSTM1	1.0	
+Other disorders of the nervous system	GSTP1	1.0	
+Other disorders of the nervous system	GSTT1	1.0	
+Neoplasms, Second Primary	GSTM1	1.0	
+Neoplasms, Second Primary	GSTP1	1.0	
+Neoplasms, Second Primary	GSTT1	1.0	
+Neoplasms, Second Primary	NQO1	1.0	
+Non-Neoplastic Disorder	ABCG2	1.0	
+Non-Neoplastic Disorder	CYP1A1	1.0	
+Non-Neoplastic Disorder	GSTM1	1.0	
+Non-Neoplastic Disorder	GSTP1	1.0	
+Non-Neoplastic Disorder	GSTT1	1.0	
+Non-Neoplastic Disorder	SLC22A3	1.0	
+Chronic hepatitis	ATP7A	1.0	
+Chronic hepatitis	GSTM1	1.0	
+Chronic hepatitis	GSTP1	1.0	
+Chronic hepatitis	GSTT1	1.0	
+Simple pneumoconiosis	GSTP1	1.0	
+Simple pneumoconiosis	GSTT1	1.0	
+Chronic myeloid leukemia	ABCC2	1.0	
+Chronic myeloid leukemia	ABCG2	1.0	
+Chronic myeloid leukemia	CYP1A1	1.0	
+Chronic myeloid leukemia	GSTM1	1.0	
+Chronic myeloid leukemia	GSTP1	1.0	
+Chronic myeloid leukemia	GSTT1	1.0	
+Chronic myeloid leukemia	NQO1	1.0	
+Chronic myeloid leukemia	SLC22A2	1.0	
+Acute lymphoid leukemia	ABCG2	1.0	
+Acute lymphoid leukemia	CYP1A1	1.0	
+Acute lymphoid leukemia	CYP1B1	1.0	
+Acute lymphoid leukemia	CYP2E1	1.0	
+Acute lymphoid leukemia	GSTM1	1.0	
+Acute lymphoid leukemia	GSTP1	1.0	
+Acute lymphoid leukemia	GSTT1	1.0	
+Acute lymphoid leukemia	NQO1	1.0	
+Cholestasis of pregnancy	ABCC2	1.0	
+Cholestasis of pregnancy	ABCG2	1.0	
+precancerous lesions	GSTM1	1.0	
+precancerous lesions	GSTP1	1.0	
+precancerous lesions	GSTT1	1.0	
+B-cell lymphoma	ABCC2	1.0	
+B-cell lymphoma	ABCG2	1.0	
+B-cell lymphoma	CYP1B1	1.0	
+B-cell lymphoma	GSTM1	1.0	
+B-cell lymphoma	GSTP1	1.0	
+B-cell lymphoma	GSTT1	1.0	
+B-cell lymphoma	SLC22A2	1.0	
+Thyroid Neoplasms	ABCG2	1.0	
+Thyroid Neoplasms	CYP1A1	1.0	
+Thyroid Neoplasms	GSTM1	1.0	
+Thyroid Neoplasms	GSTP1	1.0	
+Thyroid Neoplasms	GSTT1	1.0	
+Thyroid Neoplasms	NQO1	1.0	
+Pulmonary Emphysema	CYP1B1	1.0	
+Pulmonary Emphysema	GSTM1	1.0	
+Pulmonary Emphysema	GSTP1	1.0	
+Pulmonary Emphysema	GSTT1	1.0	
+Chemical Carcinogenesis	CYP1A1	1.0	
+Chemical Carcinogenesis	CYP1B1	1.0	
+Dermatitis, Allergic Contact	CYP1A1	1.0	
+Dermatitis, Allergic Contact	GSTM1	1.0	
+Dermatitis, Allergic Contact	GSTT1	1.0	
+Carotid Atherosclerosis	GSTM1	1.0	
+Carotid Atherosclerosis	GSTP1	1.0	
+Carotid Atherosclerosis	GSTT1	1.0	
+Cervical intraepithelial neoplasia (Cervical dysplasia)	CYP1A1	1.0	
+Cervical intraepithelial neoplasia (Cervical dysplasia)	CYP2E1	1.0	
+Cervical intraepithelial neoplasia (Cervical dysplasia)	GSTM1	1.0	
+Cervical intraepithelial neoplasia (Cervical dysplasia)	GSTT1	1.0	
+Precursor Cell Lymphoblastic Leukemia-Lymphoma	ABCG2	1.0	
+Precursor Cell Lymphoblastic Leukemia-Lymphoma	CYP1A1	1.0	
+Precursor Cell Lymphoblastic Leukemia-Lymphoma	CYP1B1	1.0	
+Precursor Cell Lymphoblastic Leukemia-Lymphoma	CYP2E1	1.0	
+Precursor Cell Lymphoblastic Leukemia-Lymphoma	GSTM1	1.0	
+Precursor Cell Lymphoblastic Leukemia-Lymphoma	GSTP1	1.0	
+Precursor Cell Lymphoblastic Leukemia-Lymphoma	GSTT1	1.0	
+Precursor Cell Lymphoblastic Leukemia-Lymphoma	NQO1	1.0	
+Chloracne	CYP1A1	1.0	
+Chloracne	GSTM1	1.0	
+Cleft Lip	CYP1A1	1.0	
+Cleft Lip	CYP2E1	1.0	
+Cleft Lip	GSTM1	1.0	
+Cleft Lip	GSTP1	1.0	
+Cleft Lip	GSTT1	1.0	
+Chronic obstructive pulmonary disease	ABCC2	1.0	
+Chronic obstructive pulmonary disease	CYP1A1	1.0	
+Chronic obstructive pulmonary disease	CYP1B1	1.0	
+Chronic obstructive pulmonary disease	CYP2E1	1.0	
+Chronic obstructive pulmonary disease	GSTM1	1.0	
+Chronic obstructive pulmonary disease	GSTP1	1.0	
+Chronic obstructive pulmonary disease	GSTT1	1.0	
+Chronic obstructive pulmonary disease	NQO1	1.0	
+Tuberculosis, Pulmonary	CYP1A1	1.0	
+Tuberculosis, Pulmonary	CYP2E1	1.0	
+Tuberculosis, Pulmonary	GSTM1	1.0	
+Tuberculosis, Pulmonary	GSTT1	1.0	
+Breast adenocarcinoma	ABCG2	1.0	
+Breast adenocarcinoma	CYP1A1	1.0	
+Breast adenocarcinoma	NQO1	1.0	
+Hepatoblastoma	ABCC2	1.0	
+Hepatoblastoma	ATP7B	1.0	
+Hepatoblastoma	NQO1	1.0	
+Hepatoblastoma	SLC22A3	1.0	
+Malignant neoplasm of endometrium	CYP1A1	1.0	
+Malignant neoplasm of endometrium	CYP1B1	1.0	
+Malignant neoplasm of endometrium	GSTM1	1.0	
+Malignant neoplasm of endometrium	GSTP1	1.0	
+Malignant neoplasm of endometrium	GSTT1	1.0	
+Malignant neoplasm of endometrium	SLC22A3	1.0	
+Uterine Corpus Cancer	CYP1A1	1.0	
+Uterine Corpus Cancer	CYP1B1	1.0	
+Uterine Corpus Cancer	GSTM1	1.0	
+Uterine Corpus Cancer	GSTP1	1.0	
+Uterine Corpus Cancer	GSTT1	1.0	
+Uterine Corpus Cancer	SLC22A3	1.0	
+Skin cancer	ATP7A	1.0	
+Skin cancer	GSTM1	1.0	
+Skin cancer	GSTT1	1.0	
+Skin cancer	NQO1	1.0	
+Photoparoxysmal response 1 (2)	ABCG2	1.0	
+Photoparoxysmal response 1 (2)	GSTM1	1.0	
+Malignant tumor of cervix	CYP1A1	1.0	
+Malignant tumor of cervix	CYP1B1	1.0	
+Malignant tumor of cervix	CYP2E1	1.0	
+Malignant tumor of cervix	GSTM1	1.0	
+Malignant tumor of cervix	GSTP1	1.0	
+Malignant tumor of cervix	GSTT1	1.0	
+Malignant tumor of cervix	NQO1	1.0	
+Malignant tumor of cervix	SLC22A3	1.0	
+Li-Fraumeni syndrome	CYP1A1	1.0	
+Li-Fraumeni syndrome	CYP1B1	1.0	
+Hepatitis, Autoimmune	CYP2E1	1.0	
+Hepatitis, Autoimmune	GSTM1	1.0	
+Hepatitis, Autoimmune	GSTT1	1.0	
+Exanthema	ABCG2	1.0	
+Exanthema	CYP2E1	1.0	
+Exanthema	GSTM1	1.0	
+Exanthema	GSTT1	1.0	
+Exanthema	NQO1	1.0	
+Invasive breast carcinoma	CYP1A1	1.0	
+Invasive breast carcinoma	CYP1B1	1.0	
+Invasive breast carcinoma	GSTP1	1.0	
+Invasive breast carcinoma	GSTT1	1.0	
+Invasive breast carcinoma	SLC22A3	1.0	
+Abnormality of chromosome stability	GSTM1	1.0	
+Abnormality of chromosome stability	GSTT1	1.0	
+Prostate cancer, familial	CYP1A1	1.0	
+Prostate cancer, familial	CYP1B1	1.0	
+Preeclampsia/eclampsia 1	CYP1A1	1.0	
+Preeclampsia/eclampsia 1	CYP2E1	1.0	
+Preeclampsia/eclampsia 1	GSTM1	1.0	
+Preeclampsia/eclampsia 1	GSTP1	1.0	
+Preeclampsia/eclampsia 1	GSTT1	1.0	
+Myeloid leukemia	ABCG2	1.0	
+Myeloid leukemia	CYP1A1	1.0	
+Myeloid leukemia	GSTM1	1.0	
+Myeloid leukemia	GSTP1	1.0	
+Myeloid leukemia	GSTT1	1.0	
+Myeloid leukemia	NQO1	1.0	
+Dermal atrophy	GSTM1	1.0	
+Dermal atrophy	GSTP1	1.0	
+Dermal atrophy	GSTT1	1.0	
+Dermal atrophy	NQO1	1.0	
+Lymphoma, Large B-Cell, Diffuse	ABCC2	1.0	
+Lymphoma, Large B-Cell, Diffuse	ABCG2	1.0	
+Lymphoma, Large B-Cell, Diffuse	CYP1A1	1.0	
+Lymphoma, Large B-Cell, Diffuse	CYP1B1	1.0	
+Lymphoma, Large B-Cell, Diffuse	CYP2E1	1.0	
+Lymphoma, Large B-Cell, Diffuse	GSTM1	1.0	
+Lymphoma, Large B-Cell, Diffuse	GSTP1	1.0	
+Lymphoma, Large B-Cell, Diffuse	GSTT1	1.0	
+Lymphoma, Large B-Cell, Diffuse	NQO1	1.0	
+Lymphoma, Large B-Cell, Diffuse	SLC22A2	1.0	
+Malignant neoplasm of female breast	CYP1A1	1.0	
+Malignant neoplasm of female breast	CYP1B1	1.0	
+Pleural Mesothelioma	ABCG2	1.0	
+Pleural Mesothelioma	CYP1A1	1.0	
+Pleural Mesothelioma	GSTM1	1.0	
+Pleural Mesothelioma	SLC22A3	1.0	
+Vitiligo	GSTM1	1.0	
+Vitiligo	GSTP1	1.0	
+Vitiligo	GSTT1	1.0	
+Vitiligo	NQO1	1.0	
+Malignant tumor of urinary bladder	ABCC2	1.0	
+Malignant tumor of urinary bladder	CYP1A1	1.0	
+Malignant tumor of urinary bladder	CYP1B1	1.0	
+Malignant tumor of urinary bladder	CYP2E1	1.0	
+Malignant tumor of urinary bladder	GSTM1	1.0	
+Malignant tumor of urinary bladder	GSTP1	1.0	
+Malignant tumor of urinary bladder	GSTT1	1.0	
+Malignant tumor of urinary bladder	NQO1	1.0	
+Malignant tumor of urinary bladder	SLC22A3	1.0	
+Malignant tumor of urinary bladder	SLC31A1	1.0	
+Endometriosis	CYP1A1	1.0	
+Endometriosis	CYP1B1	1.0	
+Endometriosis	CYP2E1	1.0	
+Endometriosis	GSTM1	1.0	
+Endometriosis	GSTP1	1.0	
+Endometriosis	GSTT1	1.0	
+Endometriosis	NQO1	1.0	
+Squamous intraepithelial lesion	CYP2E1	1.0	
+Squamous intraepithelial lesion	GSTT1	1.0	
+Musculoskeletal Diseases	CYP1A1	1.0	
+Musculoskeletal Diseases	GSTP1	1.0	
+Musculoskeletal Diseases	GSTT1	1.0	
+Pregnancy Complications, Hematologic	CYP1A1	1.0	
+Pregnancy Complications, Hematologic	GSTP1	1.0	
+Pregnancy Complications, Hematologic	GSTT1	1.0	
+Laryngeal Squamous Cell Carcinoma	CYP1A1	1.0	
+Laryngeal Squamous Cell Carcinoma	GSTM1	1.0	
+Laryngeal Squamous Cell Carcinoma	GSTT1	1.0	
+Female Breast Carcinoma	CYP1A1	1.0	
+Female Breast Carcinoma	CYP1B1	1.0	
+Nausea	ABCG2	1.0	
+Nausea	GSTM1	1.0	
+beta Thalassemia	CYP2E1	1.0	
+beta Thalassemia	GSTM1	1.0	
+beta Thalassemia	GSTT1	1.0	
+Fanconi anemia	GSTM1	1.0	
+Fanconi anemia	GSTP1	1.0	
+Fanconi anemia	GSTT1	1.0	
+Fanconi anemia	SLC22A3	1.0	

@@ -1,0 +1,84 @@
+Gene	CUI	Source Databases	
+GATM	C1328440	Abnormality of amino acid metabolism	HumPhenOnt	
+GLDC	C1328440	Abnormality of amino acid metabolism	HumPhenOnt	
+GNMT	C1328440	Abnormality of amino acid metabolism	HumPhenOnt	
+GATM	C4025344	Abnormality of carboxylic acid metabolism	HumPhenOnt	
+GLDC	C4025344	Abnormality of carboxylic acid metabolism	HumPhenOnt	
+GNMT	C4025344	Abnormality of carboxylic acid metabolism	HumPhenOnt	
+GNMT	C0598608	Hereditary hyperhomocysteinemia	DisGeNet	
+SHMT1	C0598608	Hereditary hyperhomocysteinemia	DisGeNet	
+GATM	C0441748	Autosomal recessive inheritance	HumPhenOnt	
+GLDC	C0441748	Autosomal recessive inheritance	HumPhenOnt	
+GNMT	C0441748	Autosomal recessive inheritance	HumPhenOnt	
+SLC6A5	C0441748	Autosomal recessive inheritance	HumPhenOnt	
+GATM	C0278026	3-Methylglutaconic aciduria	HumPhenOnt	
+GLDC	C0278026	3-Methylglutaconic aciduria	HumPhenOnt	
+GATM	C0004352	Autism 15	HumPhenOnt	
+GLDC	C0004352	Autism 15	DisGeNet	
+SHMT1	C0004352	Autism 15	DisGeNet	
+GNMT	C0080178	Spina bifida	DisGeNet	
+SHMT1	C0080178	Spina bifida	DisGeNet	
+GNMT	C4021660	Abnormality of sulfur amino acid metabolism	HumPhenOnt	
+SLC6A5	C0011436	Dentinogenesis imperfecta	DisGeNet	
+SLC6A5	C0221170	Muscle stiffness	HumPhenOnt	
+GATM	C0234182	Gowers sign	HumPhenOnt	
+GLDC	C4025653	Abnormality of serum amino acid levels	HumPhenOnt	
+GATM	C1853195	Prostate Cancer, Hereditary, 7	DisGeNet	
+GATM	C1848924	Infantile-onset ascending hereditary spastic paralysis	HumPhenOnt	
+SLC6A5	C1848924	Infantile-onset ascending hereditary spastic paralysis	HumPhenOnt	
+SHMT1	C0016412	Folic Acid Deficiency	DisGeNet	
+SHMT1	C1333762	Gastric Cardia Adenocarcinoma	DisGeNet	
+GLDC	C0751265	Learning Disabilities	DisGeNet	
+SHMT1	C2718067	Alcoholic Steatohepatitis	DisGeNet	
+GNMT	C0008924	Cleft Lip	DisGeNet	
+SHMT1	C0008924	Cleft Lip	DisGeNet	
+GLDC	C0149654	Conduct Disorder	DisGeNet	
+GLDC	C0085583	Choreoathetosis	DisGeNet	
+SHMT1	C0741916	Cardiac defects	DisGeNet	
+GATM	C4025655	Abnormality of urine homeostasis	HumPhenOnt	
+GLDC	C4025655	Abnormality of urine homeostasis	HumPhenOnt	
+GLDC	C4022036	Abnormality of vitamin metabolism	HumPhenOnt	
+GATM	C0027540	Necrosis	DisGeNet	
+GATM	C0241775	Organic aciduria	HumPhenOnt	
+SHMT1	C0041755	Adverse drug events and drug allergies	DisGeNet	
+GATM	C4023182	Abnormality of muscle physiology	HumPhenOnt	
+GLDC	C4023182	Abnormality of muscle physiology	HumPhenOnt	
+SLC6A5	C4023182	Abnormality of muscle physiology	HumPhenOnt	
+GNMT	C0205748	Atypical nevus	DisGeNet	
+GATM	C4021768	Abnormality of metabolism/homeostasis	HumPhenOnt	
+GLDC	C4021768	Abnormality of metabolism/homeostasis	HumPhenOnt	
+GNMT	C4021768	Abnormality of metabolism/homeostasis	HumPhenOnt	
+SHMT1	C0013182	Drug Allergy	DisGeNet	
+SHMT1	C0017178	Gastrointestinal Diseases	DisGeNet	
+GLDC	C0085631	Agitation	HumPhenOnt	
+GNMT	C0008925	Cleft Palate	DisGeNet	
+SHMT1	C0008925	Cleft Palate	DisGeNet	
+GATM	C4021745	Abnormality of the musculature	HumPhenOnt	
+GLDC	C4021745	Abnormality of the musculature	HumPhenOnt	
+SLC6A5	C4021745	Abnormality of the musculature	HumPhenOnt	
+SHMT1	C0005967	Bone neoplasms	DisGeNet	
+SLC6A5	C0027796	Neuralgia	DisGeNet	
+GLDC	C0022107	Irritability	HumPhenOnt	
+SHMT1	C0751606	Adult Acute Lymphocytic Leukemia	DisGeNet	
+GLDC	C0023380	Lethargy	HumPhenOnt	
+SHMT1	C0034885	Neoplasm of the rectum	DisGeNet	
+SHMT1	C0546837	Malignant tumor of esophagus	DisGeNet	
+SLC6A5	C0546837	Malignant tumor of esophagus	DisGeNet	
+GATM	C4023437	Abnormality of the urinary system physiology	HumPhenOnt	
+GLDC	C4023437	Abnormality of the urinary system physiology	HumPhenOnt	
+GNMT	C0036341	Schizophrenia	DisGeNet	
+SHMT1	C0036341	Schizophrenia	DisGeNet	
+SLC6A5	C0036341	Schizophrenia	DisGeNet	
+GLDC	C0001807	Aggressive behavior	HumPhenOnt	
+GATM	C0221629	Proximal muscle weakness	HumPhenOnt	
+GLDC	C0238621	Aminoaciduria	HumPhenOnt	
+GATM	C0206132	Onset	HumPhenOnt	
+SLC6A5	C0206132	Onset	HumPhenOnt	
+GLDC	C4025677	Functional respiratory abnormality	HumPhenOnt	
+SLC6A5	C4025677	Functional respiratory abnormality	HumPhenOnt	
+GLDC	C1858430	Death in infancy	HumPhenOnt	
+SHMT1	C0039483	Giant cell arteritis	DisGeNet	
+GNMT	C1848701	Elevated hepatic transaminases	HumPhenOnt	
+GATM	C0022658	Kidney Diseases	DisGeNet	
+SHMT1	C0022658	Kidney Diseases	DisGeNet	
+SHMT1	C0018939	Hematological Disease	DisGeNet	

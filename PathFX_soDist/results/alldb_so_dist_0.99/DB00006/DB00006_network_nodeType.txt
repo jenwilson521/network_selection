@@ -1,0 +1,4 @@
+node_name	node_type	
+DB00006	drug	
+MPO	drug_target	
+F2	drug_target	

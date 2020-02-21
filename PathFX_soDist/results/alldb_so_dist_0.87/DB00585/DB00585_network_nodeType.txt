@@ -1,0 +1,4 @@
+node_name	node_type	
+DB00585	drug	
+ABCB1	drug_target	
+BCHE	drug_target	

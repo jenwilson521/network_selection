@@ -1,0 +1,2 @@
+rank	phenotype	cui	assoc in neigh	assoc in intom	probability	Benjamini-Hochberg	genes	
+9	Pharyngeal Neoplasms	C0031347	3	64	2.1060501401271026e-05	2.54957507082e-05	CYP2C8,CYP2C9,CYP3A4

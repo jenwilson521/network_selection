@@ -1,0 +1,4 @@
+node1	node2	edge_score	
+DB01046	CLCN2	1.0	
+DB01046	CBR1	1.0	
+

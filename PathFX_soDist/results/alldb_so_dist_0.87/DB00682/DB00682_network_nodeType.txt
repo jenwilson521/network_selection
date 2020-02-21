@@ -1,0 +1,14 @@
+node_name	node_type	
+DB00682	drug	
+CYP2C9	drug_target	
+CYP2C8	drug_target	
+CYP1A2	drug_target	
+ORM1	drug_target	
+VKORC1	drug_target	
+ALB	drug_target	
+NR1I2	drug_target	
+CYP2C19	drug_target	
+CYP2C18	drug_target	
+CYP3A4	drug_target	
+Pharyngeal Neoplasms	phenotype	
+Rhinitis, Allergic, Perennial	phenotype	

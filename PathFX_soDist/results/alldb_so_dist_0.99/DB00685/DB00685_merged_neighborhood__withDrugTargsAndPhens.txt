@@ -1,0 +1,4 @@
+node1	node2	edge_score	
+DB00685	CYP1A2	1.0	
+DB00685	TOP2A	1.0	
+

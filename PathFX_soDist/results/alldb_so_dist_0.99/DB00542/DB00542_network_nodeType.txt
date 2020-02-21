@@ -1,0 +1,5 @@
+node_name	node_type	
+DB00542	drug	
+MTHFR	drug_target	
+SLC15A2	drug_target	
+ACE	drug_target	

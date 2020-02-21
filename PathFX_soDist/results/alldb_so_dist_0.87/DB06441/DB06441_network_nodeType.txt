@@ -1,0 +1,11 @@
+node_name	node_type	
+DB06441	drug	
+P2RY12	drug_target	
+Mechanical Allodynia	phenotype	
+Abnormal platelet function	phenotype	
+Platelet-type bleeding disorder 15	phenotype	
+Deep thrombophlebitis	phenotype	
+Coronary Restenosis	phenotype	
+Inflammatory pain	phenotype	
+Hantavirus infection in conditions classified elsewhere and of unspecified site	phenotype	
+Epistaxis	phenotype	

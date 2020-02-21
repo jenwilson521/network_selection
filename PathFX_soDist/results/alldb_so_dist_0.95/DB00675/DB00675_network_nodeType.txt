@@ -1,0 +1,57 @@
+node_name	node_type	
+DB00675	drug	
+CYP1B1	drug_target	
+CYP2D6	drug_target	
+SERPINA7	drug_target	
+CYP2B6	drug_target	
+ABCB1	drug_target	
+EBP	drug_target	
+ESR1	drug_target	
+FMO3	drug_target	
+ESRRG	drug_target	
+FMO1	drug_target	
+CYP1A1	drug_target	
+SULT1A1	drug_target	
+CES1	drug_target	
+ABCB11	drug_target	
+AR	drug_target	
+CYP2A6	drug_target	
+CYP3A4	drug_target	
+CYP3A5	drug_target	
+CYP2C9	drug_target	
+CYP2C8	drug_target	
+ABCG2	drug_target	
+ESR2	drug_target	
+UGT1A10	drug_target	
+KCNH2	drug_target	
+CYP19A1	drug_target	
+CYP2E1	drug_target	
+SHBG	drug_target	
+NR1I2	drug_target	
+CYP2C19	drug_target	
+ABCC2	drug_target	
+Drug Allergy	phenotype	
+Febrile Neutropenia	phenotype	
+Drug-Induced Liver Injury	phenotype	
+Mammographic breast density	phenotype	
+Pleural Neoplasms	phenotype	
+Hyperbilirubinemia	phenotype	
+Genomic Instability	phenotype	
+Neutropenia	phenotype	
+Hepatitis D Infection	phenotype	
+Primary malignant neoplasm of liver	phenotype	
+Leukopenia	phenotype	
+Hearing Loss, Partial	phenotype	
+Adverse drug events and drug allergies	phenotype	
+Neoplasm of the larynx	phenotype	
+Squamous Cell Neoplasms	phenotype	
+Cholelithiasis	phenotype	
+Depressive Symptoms	phenotype	
+Neurotoxicity Syndromes	phenotype	
+Intrahepatic cholestasis	phenotype	
+Gastrointestinal Diseases	phenotype	
+Slow acetylator due to N-acetyltransferase enzyme variant	phenotype	
+Menopause present (finding)	phenotype	
+Neoplasms, Germ Cell and Embryonal	phenotype	
+Pharyngeal Neoplasms	phenotype	
+Bone necrosis	phenotype	

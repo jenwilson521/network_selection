@@ -1,0 +1,4 @@
+node1	node2	edge_score	
+DB09085	RYR1	1.0	
+DB09085	RYR2	1.0	
+

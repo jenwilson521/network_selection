@@ -1,0 +1,113 @@
+node_name	node_type	
+DB09502	drug	
+HK1	drug_target	
+SLC2A5	drug_target	
+SLC2A4	drug_target	
+SLC2A3	drug_target	
+SLC2A2	drug_target	
+SLC2A1	drug_target	
+SLC2A12	drug_target	
+Abdominal distention	phenotype	
+Abnormality of acid-base homeostasis	phenotype	
+Acidosis	phenotype	
+Atherosclerosis	phenotype	
+Breast-ovarian cancer, familial 1	phenotype	
+Colon cancer	phenotype	
+Squamous cell carcinoma	phenotype	
+Cardiovascular Diseases	phenotype	
+Delusions	phenotype	
+Diabetes Mellitus, Type 1	phenotype	
+Diabetes mellitus type 1	phenotype	
+Diabetes mellitus type 2	phenotype	
+Diabetic Nephropathies	phenotype	
+Failure to thrive	phenotype	
+Hepatic steatosis	phenotype	
+Glycogen storage disease	phenotype	
+Glycosuria	phenotype	
+Hepatomegaly	phenotype	
+Hyperglycemia	phenotype	
+Secondary hyperparathyroidism	phenotype	
+Hypoglycemia, neonatal, simulating foetopathia diabetica	phenotype	
+Hypokalemia	phenotype	
+Insulinoma	phenotype	
+Abnormality of the intestine	phenotype	
+Kidney Diseases	phenotype	
+Malabsorption	phenotype	
+Animal Mammary Neoplasms	phenotype	
+Obesity	phenotype	
+Osteomalacia	phenotype	
+Pituitary adenoma	phenotype	
+Abnormality of the pituitary gland	phenotype	
+Pituitary Neoplasms	phenotype	
+Abnormality of the skin	phenotype	
+Abnormality of the genitourinary system	phenotype	
+Virus Diseases	phenotype	
+B-cell lymphoma	phenotype	
+Hypophosphatemia	phenotype	
+Squamous cell carcinoma of lung	phenotype	
+Abnormal renal physiology	phenotype	
+Renal tubular dysfunction	phenotype	
+Elevated alkaline phosphatase	phenotype	
+Neonatal diabetes mellitus	phenotype	
+Berardinelli-Seip congenital lipodystrophy	phenotype	
+Aminoaciduria	phenotype	
+Azotemia	phenotype	
+Growth abnormality	phenotype	
+Abnormality of the digestive system	phenotype	
+Congenital anomalies of kidney and urinary tract 1, susceptibility to	phenotype	
+Hyperphosphaturia	phenotype	
+Glomerulopathy	phenotype	
+Glucose intolerance	phenotype	
+3-Methylglutaconic aciduria	phenotype	
+Autosomal recessive inheritance	phenotype	
+Abnormality of the nervous system	phenotype	
+Decreased adipose tissue	phenotype	
+Global developmental delay, absent or hypoplastic corpus callosum, and dysmorphic facies	phenotype	
+Breast carcinoma	phenotype	
+Neurodevelopmental abnormality	phenotype	
+Carcinoma of colon	phenotype	
+Abdominal symptom	phenotype	
+Decreased body weight	phenotype	
+Abnormality of amino acid metabolism	phenotype	
+Well Differentiated Pancreatic Endocrine Tumor	phenotype	
+Hepatocellular carcinoma	phenotype	
+Reduced bone mineral density	phenotype	
+Morphological abnormality of the gastrointestinal tract	phenotype	
+Generalized abnormality of skin	phenotype	
+Abnormality of adipose tissue	phenotype	
+Abnormality of bone mineral density	phenotype	
+Abnormality of metabolism/homeostasis	phenotype	
+Abnormality of the skeletal system	phenotype	
+Abnormality of the urinary system	phenotype	
+Abnormality of phosphate homeostasis	phenotype	
+Neurodevelopmental delay	phenotype	
+Abnormality of nervous system physiology	phenotype	
+Abnormal urine phosphate concentration	phenotype	
+Abnormal urinary electrolyte concentration	phenotype	
+Abnormal enzyme/coenzyme activity	phenotype	
+Abnormal bone ossification	phenotype	
+Abnormality of skeletal morphology	phenotype	
+Abnormality of the urinary system physiology	phenotype	
+Abnormality of skin morphology	phenotype	
+Abnormality of potassium homeostasis	phenotype	
+Abnormality of the gastrointestinal tract	phenotype	
+Abnormality of urine glucose concentration	phenotype	
+Abnormal glucose homeostasis	phenotype	
+Abnormality of carbohydrate metabolism/homeostasis	phenotype	
+Abnormality of the upper urinary tract	phenotype	
+Abnormality of nucleobase metabolism	phenotype	
+Abnormality of monovalent inorganic cation homeostasis	phenotype	
+Abnormality of cation homeostasis	phenotype	
+Abnormality of alkaline phosphatase activity	phenotype	
+Abnormality of nitrogen compound homeostasis	phenotype	
+Abnormality of carboxylic acid metabolism	phenotype	
+Abnormality of purine metabolism	phenotype	
+Abnormality of body weight	phenotype	
+Abnormality of connective tissue	phenotype	
+Abnormal bone structure	phenotype	
+Abnormality of ion homeostasis	phenotype	
+Abnormality of urine homeostasis	phenotype	
+Abnormality of the integument	phenotype	
+Abnormality of subcutaneous fat tissue	phenotype	
+Abnormality of digestive system morphology	phenotype	
+Abnormality of digestive system physiology	phenotype	

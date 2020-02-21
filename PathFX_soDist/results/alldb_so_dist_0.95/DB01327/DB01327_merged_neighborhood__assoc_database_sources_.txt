@@ -1,0 +1,29 @@
+Gene	CUI	Source Databases	
+ALB	C0342257	Complications of Diabetes Mellitus	DisGeNet	
+IL2	C0342257	Complications of Diabetes Mellitus	DisGeNet	
+PON1	C0342257	Complications of Diabetes Mellitus	DisGeNet	
+ABCC4	C0812435	Chromosome 11p deletion syndrome	DisGeNet	
+SLC22A8	C0812435	Chromosome 11p deletion syndrome	DisGeNet	
+ABCC4	C2919828	Chronic ulcerative colitis	DisGeNet	
+IL2	C2919828	Chronic ulcerative colitis	DisGeNet	
+TPMT	C2919828	Chronic ulcerative colitis	DisGeNet	
+ALB	C0017662	Mesangiocapillary glomerulonephritis, type II	DisGeNet	
+PON1	C0017662	Mesangiocapillary glomerulonephritis, type II	DisGeNet	
+ALB	C0162429	Malnutrition	DisGeNet	
+IL2	C0162429	Malnutrition	DisGeNet	
+PON1	C0162429	Malnutrition	DisGeNet	
+ALB	C0020476	Hyperlipoproteinemia	DisGeNet	
+PON1	C0020476	Hyperlipoproteinemia	DisGeNet	
+ABCC4	C0008312	Primary biliary cirrhosis	DisGeNet	
+ALB	C0008312	Primary biliary cirrhosis	DisGeNet	
+IL2	C0008312	Primary biliary cirrhosis	DisGeNet	
+TPMT	C0008312	Primary biliary cirrhosis	DisGeNet	
+IL2	C0005956	Myelopathy	DisGeNet	
+TPMT	C0005956	Myelopathy	DisGeNet	
+ALB	C0341439	Chronic liver disease	DisGeNet	
+IL2	C0341439	Chronic liver disease	DisGeNet	
+PON1	C0341439	Chronic liver disease	DisGeNet	
+ALB	C0018378	Guillain-Barre syndrome, familial	DisGeNet	
+IL2	C0018378	Guillain-Barre syndrome, familial	DisGeNet	
+ABCC4	C0041755	Adverse drug events and drug allergies	DisGeNet	
+ALB	C0041755	Adverse drug events and drug allergies	DisGeNet	

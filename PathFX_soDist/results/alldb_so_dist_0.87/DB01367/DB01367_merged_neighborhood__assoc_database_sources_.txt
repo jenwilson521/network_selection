@@ -1,0 +1,109 @@
+Gene	CUI	Source Databases	
+BCL2	C0206139	Lichen Planus, Oral	DisGeNet	
+CYP1A2	C0206139	Lichen Planus, Oral	DisGeNet	
+BCL2	C0023891	Liver Cirrhosis, Alcoholic	DisGeNet	
+CYP1A2	C0023891	Liver Cirrhosis, Alcoholic	DisGeNet	
+BCL2	C0279680	Transitional cell carcinoma of the bladder	DisGeNet	
+CYP1A2	C0279680	Transitional cell carcinoma of the bladder	DisGeNet	
+BCL2	C0162557	Acute hepatic failure	DisGeNet	
+CYP1A2	C0162557	Acute hepatic failure	DisGeNet	
+BCL2	C0023904	Liver Neoplasms, Experimental	DisGeNet	
+CYP1A2	C0023904	Liver Neoplasms, Experimental	DisGeNet	
+BCL2	C0039590	Testicular Neoplasms	DisGeNet	
+CYP1A2	C0039590	Testicular Neoplasms	DisGeNet	
+BCL2	C0341439	Chronic liver disease	DisGeNet	
+CYP1A2	C0341439	Chronic liver disease	DisGeNet	
+BCL2	C0020440	Hypercapnia	DisGeNet	
+CYP1A2	C0085859	Polyglandular Type I Autoimmune Syndrome	DisGeNet	
+BCL2	C0270952	Oculopharyngeal muscular dystrophy	DisGeNet	
+BCL2	C1276146	Cutaneous lymphoma	DisGeNet	
+CYP1A2	C0032229	Pleural Neoplasms	DisGeNet	
+BCL2	C0079746	Plasmablastic lymphoma	DisGeNet	
+BCL2	C0333997	Lymphoid hyperplasia	DisGeNet	
+BCL2	C0346402	Malignant neoplasm of adrenal cortex	DisGeNet	
+BCL2	C0521367	Oropharynx (excludes nasopharynx)	DisGeNet	
+BCL2	C0007868	Cervical dysplasia	DisGeNet	
+BCL2	C0010403	Cryoglobulinemia	DisGeNet	
+BCL2	C0022603	Seborrheic keratosis	DisGeNet	
+BCL2	C0279651	Gallbladder adenocarcinoma	DisGeNet	
+BCL2	C0016629	Fowlpox	DisGeNet	
+CYP1A2	C0273115	Lung Injury	DisGeNet	
+BCL2	C0040715	Chromosomal translocation	DisGeNet	
+BCL2	C0206696	Carcinoma, Signet Ring Cell	DisGeNet	
+BCL2	C0206720	Squamous Cell Neoplasms	DisGeNet	
+BCL2	C0744310	gastritis h pylori	DisGeNet	
+BCL2	C0270549	Generalized anxiety disorder	DisGeNet	
+BCL2	C1333782	Gastric Mucosa-Associated Lymphoid Tissue Lymphoma	DisGeNet	
+BCL2	C0149782	Squamous cell carcinoma of lung	DisGeNet	
+CYP1A2	C0149782	Squamous cell carcinoma of lung	DisGeNet	
+BCL2	C0085702	Monocytosis	DisGeNet	
+BCL2	C1279296	Chronic leukemia	DisGeNet	
+CYP1A2	C0162566	 {Porphyria cutanea tarda, susceptibility to}, 176100 (3)	DisGeNet	
+BCL2	C0238462	Medullary thyroid carcinoma	DisGeNet	
+CYP1A2	C0238462	Medullary thyroid carcinoma	DisGeNet	
+BCL2	C0020258	Normal pressure hydrocephalus	DisGeNet	
+BCL2	C0036420	Circumscribed scleroderma	DisGeNet	
+BCL2	C0038826	Superinfection	DisGeNet	
+BCL2	C0280631	Uterine leiomyosarcoma	DisGeNet	
+BCL2	C0474808	Follicular neoplasm	DisGeNet	
+BCL2	C0678213	Complete hydatidiform mole	DisGeNet	
+BCL2	C1332225	Aggressive Non-Hodgkin Lymphoma	DisGeNet	
+BCL2	C0007867	Cervix Diseases	DisGeNet	
+BCL2	C0021345	Fatal infectious mononucleosis	DisGeNet	
+BCL2	C0023646	Lichen planus pemphigoides	DisGeNet	
+BCL2	C0025295	Meningitis, Pneumococcal	DisGeNet	
+BCL2	C0153382	Malignant neoplasm of oropharynx	DisGeNet	
+BCL2	C0221228	Comedone	DisGeNet	
+BCL2	C0278838	Prostate cancer recurrent	DisGeNet	
+BCL2	C0546817	Hypervolemia	DisGeNet	
+BCL2	C0011608	Dermatitis Herpetiformis	DisGeNet	
+CYP1A2	C0036349	Paranoid Schizophrenia	DisGeNet	
+BCL2	C0152096	Complete trisomy 18 syndrome	DisGeNet	
+CYP1A2	C0221765	Chronic schizophrenia	DisGeNet	
+BCL2	C0001857	AIDS related complex	DisGeNet	
+BCL2	C0009663	Condylomata Acuminata	DisGeNet	
+BCL2	C0016412	Folic Acid Deficiency	DisGeNet	
+BCL2	C0028880	Odontogenic neoplasm	DisGeNet	
+CYP1A2	C0919532	Genomic Instability	DisGeNet	
+BCL2	C1292754	Mediastinal (Thymic) Large B-Cell Lymphoma	DisGeNet	
+BCL2	C0085090	Lymphoma, AIDS-Related	DisGeNet	
+BCL2	C3714542	Lymphosarcoma	DisGeNet	
+BCL2	C0280785	Diffuse Astrocytoma	DisGeNet	
+BCL2	C0023486	Prolymphocytic Leukemia	DisGeNet	
+BCL2	C0033575	Prostatic Diseases	DisGeNet	
+BCL2	C0855095	Small Lymphocytic Lymphoma	DisGeNet	
+BCL2	C0003855	Arteriovenous fistula	DisGeNet	
+BCL2	C0007121	Bronchogenic Carcinoma	DisGeNet	
+BCL2	C0034494	Rabies (disorder)	DisGeNet	
+BCL2	C0040411	Neoplasm of the tongue	DisGeNet	
+BCL2	C0151514	Dermal atrophy	DisGeNet	
+CYP1A2	C0151514	Dermal atrophy	DisGeNet	
+BCL2	C0543697	Mixed cryoglobulinemia	DisGeNet	
+CYP1A2	C0596321	Chemical Carcinogenesis	DisGeNet	
+BCL2	C1135868	Gestational trophoblastic disease	DisGeNet	
+BCL2	C2717961	Thrombotic Microangiopathies	DisGeNet	
+BCL2	C0079748	Precursor cell lymphoblastic lymphoma	DisGeNet	
+BCL2	C0280803	Primary central nervous system lymphoma	DisGeNet	
+BCL2	C0349458	Cervical intraepithelial neoplasia grade 1	DisGeNet	
+BCL2	C1335475	Primary Carcinoma	DisGeNet	
+BCL2	C0016781	Fuchs' Endothelial Dystrophy	DisGeNet	
+BCL2	C0024302	Reticulosarcoma	DisGeNet	
+BCL2	C0040021	Thromboangiitis Obliterans	DisGeNet	
+BCL2	C0042344	Varicose Ulcer	DisGeNet	
+BCL2	C0023186	Learning Disorders	DisGeNet	
+BCL2	C0085390	Li-Fraumeni syndrome	DisGeNet	
+BCL2	C0432408	Trisomy 12	DisGeNet	
+BCL2	C1302401	Adenoma of large intestine	DisGeNet	
+CYP1A2	C1302401	Adenoma of large intestine	DisGeNet	
+BCL2	C0027533	Neck Neoplasms	DisGeNet	
+CYP1A2	C0013386	Dyskinesia, Drug-Induced	DisGeNet	
+BCL2	C0016978	Neoplasm of the gallbladder	DisGeNet	
+BCL2	C0032231	Pleuritis	DisGeNet	
+CYP1A2	C0085602	Polydipsia	DisGeNet	
+BCL2	C0206718	Ganglioneuroblastoma	DisGeNet	
+BCL2	C0349459	Cervical intraepithelial neoplasia grade 2	DisGeNet	
+BCL2	C0349632	Splenic Marginal Zone B-Cell Lymphoma	DisGeNet	
+BCL2	C1266184	Atypical teratoid/rhabdoid tumor	DisGeNet	
+BCL2	C1853118	Severe congenital neutropenia	DisGeNet	
+BCL2	C0014170	Endometrial Neoplasms	DisGeNet	
+CYP1A2	C0014170	Endometrial Neoplasms	DisGeNet	

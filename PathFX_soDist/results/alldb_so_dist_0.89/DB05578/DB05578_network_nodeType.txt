@@ -1,0 +1,71 @@
+node_name	node_type	
+DB05578	drug	
+KDR	drug_target	
+Placental Insufficiency	phenotype	
+Esophageal varix	phenotype	
+Otitis Media with Effusion	phenotype	
+Femur Head Necrosis	phenotype	
+AIDS-Associated Nephropathy	phenotype	
+Niemann-Pick disease, type C	phenotype	
+Philadelphia chromosome positive	phenotype	
+Primary Lesion	phenotype	
+Sentinel node (disorder)	phenotype	
+Malignant ascites	phenotype	
+Ovarian hyperstimulation syndrome	phenotype	
+Macular corneal dystrophy Type I	phenotype	
+Acanthosis nigricans	phenotype	
+Deep vein thrombosis of lower limb	phenotype	
+Tumor-Associated Vasculature	phenotype	
+Bone necrosis	phenotype	
+Capillary hemangiomas	phenotype	
+Deficiency of malonyl-CoA decarboxylase	phenotype	
+Adenosquamous carcinoma	phenotype	
+Metastatic Renal Cell Cancer	phenotype	
+Choroidal Neovascularization	phenotype	
+Moyamoya Disease	phenotype	
+Papillary renal cell carcinoma	phenotype	
+Carcinoma, Neuroendocrine	phenotype	
+Angioimmunoblastic Lymphadenopathy	phenotype	
+Neoplasms, Experimental	phenotype	
+Primary Glioblastoma	phenotype	
+secondary acute myeloid leukemia	phenotype	
+Extraosseous Ewings sarcoma-primitive neuroepithelial tumor	phenotype	
+Proliferative diabetic retinopathy	phenotype	
+Hypoxia-Ischemia, Brain	phenotype	
+Hemangiosarcoma	phenotype	
+Retinopathy of Prematurity	phenotype	
+Acute Lung Injury	phenotype	
+Uremia	phenotype	
+Pathologic Neovascularization	phenotype	
+Undifferentiated leukemia	phenotype	
+Cerebral edema	phenotype	
+Rash and Dermatitis Adverse Event Associated with Chemoradiation	phenotype	
+Acute Undifferentiated Leukemia	phenotype	
+granulosa cell tumor	phenotype	
+Alveolar rhabdomyosarcoma	phenotype	
+Pterygium	phenotype	
+Pilocytic Astrocytoma	phenotype	
+X-linked ichthyosis with steryl-sulfatase deficiency	phenotype	
+Lymphedema, primary, with myelodysplasia	phenotype	
+Neuralgia	phenotype	
+Inflammatory Breast Carcinoma	phenotype	
+Malaria, Cerebral	phenotype	
+Biliary Tract Cancer	phenotype	
+Cystitis	phenotype	
+Advanced cancer	phenotype	
+Middle Cerebral Artery Occlusion	phenotype	
+Mixed Salivary Gland Tumor	phenotype	
+Glomerulosclerosis, Focal Segmental	phenotype	
+Vascular neoplasm	phenotype	
+tumor vasculature	phenotype	
+Deep venous thrombosis	phenotype	
+early pregnancy	phenotype	
+Gastric ulcer	phenotype	
+Goiter, multinodular 1, with or without sertoli-leydig cell tumors	phenotype	
+Varicose Veins	phenotype	
+Ependymoma	phenotype	
+Depressive Symptoms	phenotype	
+Impotence	phenotype	
+Metastatic malignant neoplasm to brain	phenotype	
+Differentiated Thyroid Gland Carcinoma	phenotype	
+Liver Neoplasms, Experimental	phenotype	

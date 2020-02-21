@@ -1,0 +1,15 @@
+Gene	CUI	Source Databases	
+ABCB1	C0030920	Peptic ulcer	DisGeNet	
+AGTR1	C0030920	Peptic ulcer	DisGeNet	
+CYP2C8	C0030920	Peptic ulcer	DisGeNet	
+CYP2C9	C0030920	Peptic ulcer	DisGeNet	
+PTGS1	C0030920	Peptic ulcer	DisGeNet	
+SLCO1B1	C0030920	Peptic ulcer	DisGeNet	
+ABCB1	C0013182	Drug Allergy	DisGeNet	
+CYP2C8	C0013182	Drug Allergy	DisGeNet	
+CYP2C9	C0013182	Drug Allergy	DisGeNet	
+PTGS1	C0013182	Drug Allergy	DisGeNet	
+SLCO1B1	C0013182	Drug Allergy	DisGeNet	
+AGTR1	C0155668	Old myocardial infarction	DisGeNet	
+CYP2C8	C0155668	Old myocardial infarction	DisGeNet	
+CYP2C9	C0155668	Old myocardial infarction	DisGeNet	

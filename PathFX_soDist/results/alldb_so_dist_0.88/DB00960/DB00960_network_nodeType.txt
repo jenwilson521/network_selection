@@ -1,0 +1,17 @@
+node_name	node_type	
+DB00960	drug	
+CYP2D6	drug_target	
+ADRB1	drug_target	
+ADRB2	drug_target	
+ADRB3	drug_target	
+HTR1A	drug_target	
+HTR1B	drug_target	
+Personality disorder	phenotype	
+body mass	phenotype	
+Obstructive sleep apnea	phenotype	
+Low Tension Glaucoma	phenotype	
+As If Personality	phenotype	
+Mood Disorders	phenotype	
+Occupational Diseases	phenotype	
+Bulimia	phenotype	
+Weight Gain Adverse Event	phenotype	

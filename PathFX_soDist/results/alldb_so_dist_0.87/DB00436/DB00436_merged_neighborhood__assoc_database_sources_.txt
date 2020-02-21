@@ -1,0 +1,19 @@
+Gene	CUI	Source Databases	
+KCNMA1	C1384514	Primary hyperaldosteronism	DisGeNet	
+SLC12A3	C1384514	Primary hyperaldosteronism	DisGeNet	
+SLC12A3	C0268450	Familial hypokalemia-hypomagnesemia	ClinVar,DisGeNet	
+SLC12A3	C0242387	Treacher Collins syndrome	DisGeNet	
+TPMT	C0746883	Febrile Neutropenia	DisGeNet	
+KCNMA1	C0005694	Bladder neck obstruction	DisGeNet	
+SLC12A3	C0553730	Chondrocalcinosis	HumPhenOnt	
+KCNMA1	C0001126	Renal tubular acidosis, distal, autosomal dominant	DisGeNet	
+KCNMA1	C0005944	Metabolic Bone Disorder	DisGeNet	
+SLC12A3	C3693260	Abnormal urine output	HumPhenOnt	
+SLC12A3	C0546817	Hypervolemia	DisGeNet	
+SLC12A3	C0854912	Germinoma	DisGeNet	
+SLC12A3	C4022657	Abnormal drinking behavior	HumPhenOnt	
+TPMT	C0206157	Nemaline myopathy	DisGeNet	
+TPMT	C0854467	Myelosuppression	DisGeNet	
+SLC12A3	C4023579	Abnormality of renal excretion	HumPhenOnt	
+KCNMA1	C0152096	Complete trisomy 18 syndrome	DisGeNet	
+SLC12A3	C0175704	Noonan syndrome with multiple lentigines	DisGeNet	

@@ -1,0 +1,55 @@
+Gene	CUI	Source Databases	
+ABCB1	C0041755	Adverse drug events and drug allergies	DisGeNet	
+ALB	C0041755	Adverse drug events and drug allergies	DisGeNet	
+CYP1A2	C0041755	Adverse drug events and drug allergies	DisGeNet	
+CYP2C9	C0041755	Adverse drug events and drug allergies	DisGeNet	
+CYP2D6	C0041755	Adverse drug events and drug allergies	DisGeNet	
+SLC6A4	C0041755	Adverse drug events and drug allergies	DisGeNet	
+ABCB1	C0027497	Nausea	DisGeNet	
+CYP1A2	C0027497	Nausea	DisGeNet	
+CYP2C9	C0027497	Nausea	DisGeNet	
+CYP2D6	C0027497	Nausea	DisGeNet	
+SLC6A4	C0027497	Nausea	DisGeNet	
+ABCB1	C0019337	Heroin Dependence	DisGeNet	
+CYP2D6	C0019337	Heroin Dependence	DisGeNet	
+SLC6A2	C0019337	Heroin Dependence	DisGeNet	
+SLC6A3	C0019337	Heroin Dependence	DisGeNet	
+SLC6A4	C0019337	Heroin Dependence	DisGeNet	
+ALB	C0013146	Methamphetamine abuse	DisGeNet	
+CYP2C9	C0013146	Methamphetamine abuse	DisGeNet	
+CYP2D6	C0013146	Methamphetamine abuse	DisGeNet	
+SLC6A2	C0013146	Methamphetamine abuse	DisGeNet	
+SLC6A3	C0013146	Methamphetamine abuse	DisGeNet	
+SLC6A4	C0013146	Methamphetamine abuse	DisGeNet	
+ABCB1	C0242510	Drug usage	DisGeNet	
+CYP2C9	C0242510	Drug usage	DisGeNet	
+SLC6A3	C0242510	Drug usage	DisGeNet	
+SLC6A4	C0242510	Drug usage	DisGeNet	
+ABCB1	C0017178	Gastrointestinal Diseases	DisGeNet	
+CYP2C9	C0017178	Gastrointestinal Diseases	DisGeNet	
+CYP2D6	C0017178	Gastrointestinal Diseases	DisGeNet	
+SLC6A2	C0017178	Gastrointestinal Diseases	DisGeNet	
+SLC6A4	C0017178	Gastrointestinal Diseases	DisGeNet	
+SLC6A2	C0004930	Behavior Disorders	DisGeNet	
+SLC6A3	C0004930	Behavior Disorders	DisGeNet	
+SLC6A4	C0004930	Behavior Disorders	DisGeNet	
+ALB	C0038586	Substance Use Disorders	DisGeNet	
+SLC6A3	C0038586	Substance Use Disorders	DisGeNet	
+SLC6A4	C0038586	Substance Use Disorders	DisGeNet	
+CYP1A2	C0686347	Tardive Dyskinesia	DisGeNet	
+CYP2D6	C0686347	Tardive Dyskinesia	DisGeNet	
+SLC6A3	C0686347	Tardive Dyskinesia	DisGeNet	
+SLC6A4	C0686347	Tardive Dyskinesia	DisGeNet	
+CYP1A2	C0221765	Chronic schizophrenia	DisGeNet	
+CYP2D6	C0221765	Chronic schizophrenia	DisGeNet	
+SLC6A3	C0221765	Chronic schizophrenia	DisGeNet	
+ABCB1	C0030201	Acute postoperative pain	DisGeNet	
+CYP2D6	C0030201	Acute postoperative pain	DisGeNet	
+SLC6A4	C0030201	Acute postoperative pain	DisGeNet	
+CYP1A2	C0152115	Orofacial dyskinesia	DisGeNet	
+CYP2D6	C0152115	Orofacial dyskinesia	DisGeNet	
+SLC6A3	C0152115	Orofacial dyskinesia	DisGeNet	
+SLC6A4	C0152115	Orofacial dyskinesia	DisGeNet	
+CYP2D6	C0031212	Personality disorder	DisGeNet	
+SLC6A2	C0031212	Personality disorder	DisGeNet	
+SLC6A4	C0031212	Personality disorder	DisGeNet	

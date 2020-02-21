@@ -1,0 +1,22 @@
+Gene	CUI	Source Databases	
+SLC12A3	C0268450	Familial hypokalemia-hypomagnesemia	ClinVar,DisGeNet	
+SLC12A3	C0242387	Treacher Collins syndrome	DisGeNet	
+TPMT	C0746883	Febrile Neutropenia	DisGeNet	
+SLC12A3	C0553730	Chondrocalcinosis	HumPhenOnt	
+SLC12A3	C3693260	Abnormal urine output	HumPhenOnt	
+SLC12A3	C0546817	Hypervolemia	DisGeNet	
+SLC12A3	C0854912	Germinoma	DisGeNet	
+SLC12A3	C4022657	Abnormal drinking behavior	HumPhenOnt	
+TPMT	C0206157	Nemaline myopathy	DisGeNet	
+TPMT	C0854467	Myelosuppression	DisGeNet	
+SLC12A3	C4023579	Abnormality of renal excretion	HumPhenOnt	
+SLC12A3	C0175704	Noonan syndrome with multiple lentigines	DisGeNet	
+SLC12A3	C0002063	Alkalosis	HumPhenOnt	
+SLC12A3	C0032617	Polyuria	HumPhenOnt	
+SLC12A3	C0206633	{TSC2 angiomyolipomas, renal, modifier of}, 613254 (3)	DisGeNet	
+SLC12A3	C0027707	Tubulointerstitial nephritis	DisGeNet	
+SLC12A3	C4023575	Abnormality of potassium homeostasis	HumPhenOnt	
+TPMT	C0005956	Myelopathy	DisGeNet	
+TPMT	C0001824	Agranulocytosis	DisGeNet	
+SLC12A3	C0020621	Hypokalemia	HumPhenOnt	
+SLC12A3	C0085602	Polydipsia	HumPhenOnt	

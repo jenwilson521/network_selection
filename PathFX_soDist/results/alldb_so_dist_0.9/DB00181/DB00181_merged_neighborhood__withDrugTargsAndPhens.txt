@@ -1,0 +1,48 @@
+node1	node2	edge_score	
+DB00181	GABBR1	1.0	
+DB00181	GABBR2	1.0	
+GABBR1		1.0
+Alcohol dependence	GABBR1	1.0	
+Alzheimer Disease	GABBR1	1.0	
+Autism 15	GABBR1	1.0	
+Mental disorders	GABBR1	1.0	
+Diabetes Mellitus, Type 1	GABBR1	1.0	
+Eating disorder	GABBR1	1.0	
+Encephalitis	GABBR1	1.0	
+Epilepsy	GABBR1	1.0	
+Absence seizures	GABBR1	1.0	
+Epilepsy, Temporal Lobe	GABBR1	1.0	
+Gastroesophageal reflux	GABBR1	1.0	
+Hypertension	GABBR1	1.0	
+Lupus Erythematosus, Systemic	GABBR1	1.0	
+Multiple Sclerosis	GABBR1	1.0	
+Narcolepsy	GABBR1	1.0	
+Nasopharyngeal Neoplasms	GABBR1	1.0	
+Neuralgia	GABBR1	1.0	
+Nicotine Dependence	GABBR1	1.0	
+Obsessive-compulsive disorder	GABBR1	1.0	
+Osteochondritis dissecans	GABBR1	1.0	
+Pain	GABBR1	1.0	
+Pancreatic Neoplasms	GABBR1	1.0	
+Schizophrenia	GABBR1	1.0	
+Sclerosis	GABBR1	1.0	
+Seizures, Febrile	GABBR1	1.0	
+Sleep apnea	GABBR1	1.0	
+Tobacco Use Disorder	GABBR1	1.0	
+Tremor, hereditary essential, 5	GABBR1	1.0	
+Unipolar Depression	GABBR1	1.0	
+Small cell lung cancer	GABBR1	1.0	
+Memory impairment	GABBR1	1.0	
+Pancreatic Carcinoma	GABBR1	1.0	
+Cocaine-Related Disorders	GABBR1	1.0	
+Essential tremor	GABBR1	1.0	
+Idiopathic generalized epilepsy	GABBR1	1.0	
+Juvenile myoclonic epilepsy	GABBR1	1.0	
+Malignant neoplasm of pancreas	GABBR1	1.0	
+Hyperactivity	GABBR1	1.0	
+Dyslexia 1	GABBR1	1.0	
+Obstructive sleep apnea	GABBR1	1.0	
+Carcinogenesis	GABBR1	1.0	
+Major depressive disorder	GABBR1	1.0	
+Hippocampal sclerosis	GABBR1	1.0	
+Nasopharyngeal carcinoma, susceptibility to, 3	GABBR1	1.0	

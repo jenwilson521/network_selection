@@ -1,0 +1,5 @@
+node1	node2	edge_score	
+DB00968	DDC	1.0	
+DB00968	COMT	1.0	
+DB00968	ADRA2A	1.0	
+

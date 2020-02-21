@@ -1,0 +1,40 @@
+node_name	node_type	
+DB00210	drug	
+RARA	drug_target	
+PTGS2	drug_target	
+RARB	drug_target	
+RARG	drug_target	
+RXRG	drug_target	
+RXRA	drug_target	
+RXRB	drug_target	
+Bile duct cancer resectable	phenotype	
+Cholecystolithiasis	phenotype	
+High-Grade Prostatic Intraepithelial Neoplasia	phenotype	
+Follicular adenoma	phenotype	
+Prostatic Intraepithelial Neoplasias	phenotype	
+Hyperplasia	phenotype	
+Chronic liver disease	phenotype	
+Acute promyelocytic leukemia	phenotype	
+Measles	phenotype	
+Adenocarcinoma of prostate	phenotype	
+Cholelithiasis	phenotype	
+Squamous cell carcinoma of the hypopharynx	phenotype	
+Early gastric cancer	phenotype	
+Malignant neoplasm of vulva	phenotype	
+Bladder neck obstruction	phenotype	
+Aortic atherosclerosis	phenotype	
+Squamous Cell Neoplasms	phenotype	
+gastritis h pylori	phenotype	
+Aortic valve calcification	phenotype	
+Thymic Carcinoma	phenotype	
+Creutzfeldt-Jakob Disease, Sporadic	phenotype	
+Neoplasms, Second Primary	phenotype	
+Anterior myocardial infarction	phenotype	
+Prostatitis	phenotype	
+Enzyme inhibition disorder	phenotype	
+Mucinous Neoplasm	phenotype	
+keratoacanthoma	phenotype	
+Pericardial effusion	phenotype	
+Streptococcal pneumonia	phenotype	
+Rhinitis, Allergic, Perennial	phenotype	
+Osteoarthritis of distal interphalangeal joint	phenotype	

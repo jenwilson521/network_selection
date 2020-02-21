@@ -1,0 +1,7 @@
+node_name	node_type	
+DB00346	drug	
+ADRA1A	drug_target	
+CYP3A4	drug_target	
+ADRA1B	drug_target	
+ADRA1D	drug_target	
+KCNH2	drug_target	

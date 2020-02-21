@@ -1,0 +1,6 @@
+node_name	node_type	
+DB06212	drug	
+CYP3A4	drug_target	
+AVPR1A	drug_target	
+AVPR2	drug_target	
+ABCB1	drug_target	

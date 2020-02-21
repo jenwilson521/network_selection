@@ -1,0 +1,18 @@
+node1	node2	edge_score	
+DB03166	SLC16A1	1.0	
+DB03166	SLCO2B1	1.0	
+SLCO2B1		1.0
+Breast-ovarian cancer, familial 1	SLCO2B1	1.0	
+Thyroid cancer, nonmedullary, 4	SLCO2B1	1.0	
+Hyperbilirubinemia	SLCO2B1	1.0	
+Secondary hypertriglyceridemia	SLCO2B1	1.0	
+Combined Hepatocellular Carcinoma and Cholangiocarcinoma	SLCO2B1	1.0	
+Pancreatic Carcinoma	SLCO2B1	1.0	
+Hepatic cancer metastatic	SLCO2B1	1.0	
+Malignant neoplasm of pancreas	SLCO2B1	1.0	
+Malignant tumor of prostate	SLCO2B1	1.0	
+Thyroid carcinoma	SLCO2B1	1.0	
+Carcinogenesis	SLCO2B1	1.0	
+Prostate carcinoma	SLCO2B1	1.0	
+Breast carcinoma	SLCO2B1	1.0	
+Squamous cell carcinoma of the head and neck	SLCO2B1	1.0	

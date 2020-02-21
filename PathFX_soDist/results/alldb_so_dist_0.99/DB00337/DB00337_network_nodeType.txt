@@ -1,0 +1,5 @@
+node_name	node_type	
+DB00337	drug	
+CYP3A4	drug_target	
+MTOR	drug_target	
+FKBP1A	drug_target	

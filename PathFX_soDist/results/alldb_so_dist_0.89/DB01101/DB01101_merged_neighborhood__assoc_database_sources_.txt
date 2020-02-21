@@ -1,0 +1,4 @@
+Gene	CUI	Source Databases	
+CYP2C9	C0235032	Neurotoxicity Syndromes	DisGeNet	
+DPYD	C0235032	Neurotoxicity Syndromes	DisGeNet	
+TYMS	C0235032	Neurotoxicity Syndromes	DisGeNet	

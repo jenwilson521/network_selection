@@ -1,0 +1,7 @@
+node_name	node_type	
+DB00445	drug	
+CHD1	drug_target	
+UGT2B7	drug_target	
+PLA2G4A	drug_target	
+ABCC1	drug_target	
+TOP2A	drug_target	

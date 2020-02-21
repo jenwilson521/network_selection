@@ -1,0 +1,47 @@
+Gene	CUI	Source Databases	
+CBR1	C0005684	Malignant tumor of urinary bladder	DisGeNet	
+CBR1	C0006142	Breast-ovarian cancer, familial 1	DisGeNet	
+CBR1	C0007102	Colon cancer	DisGeNet	
+CBR1	C0009324	Ulcerative colitis	DisGeNet	
+CBR1	C0009375	Neoplasm of the colon	DisGeNet	
+CBR1	C0009402	Colorectal cancer 1	DisGeNet	
+CBR1	C0009450	Verotoxigenic Escherichia coli gastrointestinal tract infection	DisGeNet	
+CBR1	C0011849	Diabetes Mellitus, Type 1	DisGeNet	
+CBR1	C0011854	Diabetes mellitus type 1	DisGeNet	
+CBR1	C0013080	Down Syndrome	DisGeNet	
+CBR1	C0019693	Symptomatic human immunodeficiency virus infection	DisGeNet	
+CBR1	C0020542	Pulmonary hypertension, neonatal, susceptibility to	DisGeNet	
+CBR1	C0023418	Leukemia, Lymphocytic, Chronic, B-Cell	DisGeNet	
+CBR1	C0023467	Acute myeloid leukemia	DisGeNet	
+CBR1	C0023487	Acute promyelocytic leukemia	DisGeNet	
+CBR1	C0024117	Chronic obstructive pulmonary disease	DisGeNet	
+CBR1	C0024623	{Gastric cancer risk after H. pylori infection}, 137215 (3)	DisGeNet	
+CBR1	C0024667	Animal Mammary Neoplasms	DisGeNet	
+CBR1	C0027627	Secondary hypertriglyceridemia	DisGeNet	
+CBR1	C0030552	Muscle weakness	DisGeNet	
+CBR1	C0032584	polyps	DisGeNet	
+CBR1	C0033578	Prostatic Neoplasms	DisGeNet	
+CBR1	C0041341	Tuberous sclerosis syndrome	DisGeNet	
+CBR1	C0041956	Ureteral obstruction	DisGeNet	
+CBR1	C0149925	Small cell lung cancer	DisGeNet	
+CBR1	C0178874	Tumor Progression	DisGeNet	
+CBR1	C0206698	Cholangiocarcinoma	DisGeNet	
+CBR1	C0238462	Medullary thyroid carcinoma	DisGeNet	
+CBR1	C0242379	Malignant neoplasm of lung	DisGeNet	
+CBR1	C0262584	Carcinoma, Small Cell	DisGeNet	
+CBR1	C0278704	Malignant Childhood Neoplasm	DisGeNet	
+CBR1	C0431380	Cortical dysplasia, complex, with other brain malformations 3	DisGeNet	
+CBR1	C0596263	Carcinogenesis	DisGeNet	
+CBR1	C0677886	Ovarian epithelial cancer	DisGeNet	
+CBR1	C0678222	Breast carcinoma	DisGeNet	
+CBR1	C0684249	Lung cancer	DisGeNet	
+CBR1	C0685938	Malignant gastrointestinal tract tumors	DisGeNet	
+CBR1	C0699790	Carcinoma of colon	DisGeNet	
+CBR1	C0699791	Stomach cancer	DisGeNet	
+CBR1	C0878544	Cardiomyopathy	DisGeNet	
+CBR1	C1096063	Drug Resistant Epilepsy	DisGeNet	
+CBR1	C1140680	BREAST-OVARIAN CANCER, FAMILIAL, SUSCEPTIBILITY TO, 4	DisGeNet	
+CBR1	C1297882	Partial Trisomy	DisGeNet	
+CBR1	C1527249	Colorectal cancer	DisGeNet	
+CBR1	C1955869	Malformation of cortical development	DisGeNet	
+CBR1	C2239176	Hepatocellular carcinoma	DisGeNet	

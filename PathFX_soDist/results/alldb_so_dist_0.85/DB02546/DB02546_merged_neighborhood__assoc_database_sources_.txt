@@ -1,0 +1,93 @@
+Gene	CUI	Source Databases	
+HDAC1	C0206630	Stromal sarcoma	DisGeNet	
+HDAC2	C0206630	Stromal sarcoma	DisGeNet	
+HDAC1	C0006012	Borderline Personality Disorder	DisGeNet	
+HDAC2	C0006012	Borderline Personality Disorder	DisGeNet	
+HDAC1	C0007133	Carcinoma, Papillary	DisGeNet	
+HDAC2	C0007133	Carcinoma, Papillary	DisGeNet	
+HDAC1	C0006287	Bronchopulmonary Dysplasia	DisGeNet	
+HDAC2	C0006287	Bronchopulmonary Dysplasia	DisGeNet	
+HDAC1	C0079773	Cutaneous T-cell lymphoma	DisGeNet	
+HDAC2	C0079773	Cutaneous T-cell lymphoma	DisGeNet	
+HDAC1	C0032584	polyps	DisGeNet	
+HDAC2	C0032584	polyps	DisGeNet	
+HDAC1	C0281361	Pancreatic adenocarcinoma	DisGeNet	
+HDAC2	C0281361	Pancreatic adenocarcinoma	DisGeNet	
+HDAC1	C1516170	Cancer Cell Growth	DisGeNet	
+HDAC2	C1516170	Cancer Cell Growth	DisGeNet	
+HDAC1	C0003130	Hypoxia	DisGeNet	
+HDAC2	C0003130	Hypoxia	DisGeNet	
+HDAC1	C0015934	Intrauterine growth retardation	DisGeNet	
+HDAC2	C0015934	Intrauterine growth retardation	DisGeNet	
+HDAC2	C0001622	Adrenal Gland Hyperfunction	DisGeNet	
+HDAC1	C0205824	Liposarcoma, Dedifferentiated	DisGeNet	
+HDAC2	C0221406	Pituitary dependent hypercortisolism	DisGeNet	
+HDAC1	C0221287	Combined Hepatocellular Carcinoma and Cholangiocarcinoma	DisGeNet	
+HDAC2	C0221287	Combined Hepatocellular Carcinoma and Cholangiocarcinoma	DisGeNet	
+HDAC2	C1306214	Pituitary corticotropic cell adenoma	DisGeNet	
+HDAC1	C0023470	Myeloid leukemia	DisGeNet	
+HDAC2	C0023470	Myeloid leukemia	DisGeNet	
+HDAC1	C1520166	Xenograft Model	DisGeNet	
+HDAC2	C1520166	Xenograft Model	DisGeNet	
+HDAC1	C1335302	Pancreatic Ductal Adenocarcinoma	DisGeNet	
+HDAC2	C1335302	Pancreatic Ductal Adenocarcinoma	DisGeNet	
+HDAC1	C0345904	Hepatic cancer metastatic	DisGeNet	
+HDAC2	C0345904	Hepatic cancer metastatic	DisGeNet	
+HDAC2	C1841972	Glucocorticoid resistance, generalized	DisGeNet	
+HDAC1	C0030521	Neoplasm of the parathyroid gland	DisGeNet	
+HDAC2	C0009376	Colonic Polyps	DisGeNet	
+HDAC2	C0796369	Microsatellite Instability	DisGeNet	
+HDAC1	C0162770	Right ventricular hypertrophy	DisGeNet	
+HDAC2	C0006277	Bronchitis	DisGeNet	
+HDAC1	C0014175	Endometriosis	DisGeNet	
+HDAC2	C0014175	Endometriosis	DisGeNet	
+HDAC2	C0030809	Pemphigus Vulgaris	DisGeNet	
+HDAC1	C0152013	Adenocarcinoma of lung	DisGeNet	
+HDAC2	C0152013	Adenocarcinoma of lung	DisGeNet	
+HDAC1	C0855197	Testicular malignant germ cell tumor	DisGeNet	
+HDAC2	C0270814	Spastic syndrome	DisGeNet	
+HDAC1	C0023524	Leukoencephalopathy, Progressive Multifocal	DisGeNet	
+HDAC1	C0038356	Stomach Neoplasms	DisGeNet	
+HDAC2	C0038356	Stomach Neoplasms	DisGeNet	
+HDAC1	C0039538	Teratoma	DisGeNet	
+HDAC1	C0345905	Intrahepatic Cholangiocarcinoma	DisGeNet	
+HDAC2	C1333990	Hereditary nonpolyposis colorectal cancer type 8	DisGeNet	
+HDAC2	C0021841	Intestinal Neoplasms	DisGeNet	
+HDAC1	C0009404	Colorectal Neoplasms	DisGeNet	
+HDAC2	C0009404	Colorectal Neoplasms	DisGeNet	
+HDAC1	C0038454	Stroke	DisGeNet	
+HDAC2	C0038454	Stroke	DisGeNet	
+HDAC1	C1862939	Amyotrophic lateral sclerosis type 1	DisGeNet	
+HDAC1	C2607914	Allergic rhinitis	DisGeNet	
+HDAC1	C0026846	Amyotrophy involving the shoulder musculature	DisGeNet	
+HDAC1	C0206659	Embryonal Carcinoma	DisGeNet	
+HDAC1	C0027962	Melanocytic nevus	DisGeNet	
+HDAC2	C0026847	Spinal muscular atrophy with congenital bone fractures 2	DisGeNet	
+HDAC1	C0235782	Gallbladder Carcinoma	DisGeNet	
+HDAC2	C0349204	Cycloid psychosis	DisGeNet	
+HDAC1	C0004096	Asthma	DisGeNet	
+HDAC2	C0004096	Asthma	DisGeNet	
+HDAC2	C0034067	Pulmonary Emphysema	DisGeNet	
+HDAC1	C0936223	Metastatic Prostate Carcinoma	DisGeNet	
+HDAC1	C2745900	Hypergranular promyelocytic leukemia	DisGeNet	
+HDAC1	C0033578	Prostatic Neoplasms	DisGeNet	
+HDAC2	C0033578	Prostatic Neoplasms	DisGeNet	
+HDAC1	C0700095	Neuroblastoma	DisGeNet	
+HDAC2	C0700095	Neuroblastoma	DisGeNet	
+HDAC1	C0346647	Malignant neoplasm of pancreas	DisGeNet	
+HDAC2	C0346647	Malignant neoplasm of pancreas	DisGeNet	
+HDAC1	C0153594	Malignant tumor of testis	DisGeNet	
+HDAC1	C0016057	Fibrosarcoma	DisGeNet	
+HDAC1	C0233794	Memory impairment	DisGeNet	
+HDAC1	C0235974	Pancreatic Carcinoma	DisGeNet	
+HDAC2	C0235974	Pancreatic Carcinoma	DisGeNet	
+HDAC1	C0014170	Endometrial Neoplasms	DisGeNet	
+HDAC1	C0007102	Colon cancer	DisGeNet	
+HDAC2	C0007102	Colon cancer	DisGeNet	
+HDAC1	C0023467	Acute myeloid leukemia	DisGeNet	
+HDAC2	C0023467	Acute myeloid leukemia	DisGeNet	
+HDAC2	C0018800	Cardiomegaly	DisGeNet	
+HDAC1	C0007137	Squamous cell carcinoma	DisGeNet	
+HDAC2	C0007137	Squamous cell carcinoma	DisGeNet	
+HDAC1	C0699790	Carcinoma of colon	DisGeNet	
+HDAC2	C0699790	Carcinoma of colon	DisGeNet	

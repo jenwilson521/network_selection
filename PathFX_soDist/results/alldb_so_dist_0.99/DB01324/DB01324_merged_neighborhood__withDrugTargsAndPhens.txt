@@ -1,0 +1,3 @@
+node1	node2	edge_score	
+DB01324	SLC12A3	1.0	
+

@@ -1,0 +1,7 @@
+node_name	node_type	
+DB08880	drug	
+SLCO1B1	drug_target	
+CYP2C8	drug_target	
+CYP1A2	drug_target	
+ABCG2	drug_target	
+DHODH	drug_target	

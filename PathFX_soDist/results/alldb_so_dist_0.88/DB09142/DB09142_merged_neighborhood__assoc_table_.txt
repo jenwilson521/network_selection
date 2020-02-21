@@ -1,0 +1,6 @@
+rank	phenotype	cui	assoc in neigh	assoc in intom	probability	Benjamini-Hochberg	genes	
+9	Recessive dystrophic epidermolysis bullosa	C0079474	1	33	1.0889707734551557e-05	0.000113924050633	SLCO1B3
+10	Leukemia, Myeloid, Chronic-Phase	C0023474	1	79	6.338247091786098e-05	0.000126582278481	SLCO1B3
+11	Testicular malignant germ cell tumor	C0855197	1	96	9.372012169894806e-05	0.000139240506329	SLCO1B3
+12	Hyperbilirubinemia	C0020433	1	99	9.968436514851131e-05	0.000151898734177	SLCO1B3
+13	Peripheral T-Cell Lymphoma	C0079774	1	122	0.0001514805103259853	0.000164556962025	SLCO1B3

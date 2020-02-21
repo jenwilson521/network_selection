@@ -1,0 +1,8 @@
+node_name	node_type	
+DB01296	drug	
+IFNG	drug_target	
+CYP2E1	drug_target	
+TNF	drug_target	
+CYP2C19	drug_target	
+MMP9	drug_target	
+NFKB2	drug_target	

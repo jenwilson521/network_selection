@@ -1,0 +1,49 @@
+Gene	CUI	Source Databases	
+VEGFA	C0023223	Leg Ulcer	DisGeNet	
+VEGFA	C0268575	Isovaleryl-CoA dehydrogenase deficiency	DisGeNet	
+VEGFA	C0340100	High altitude pulmonary edema	DisGeNet	
+VEGFA	C2745963	Kashin-Beck Disease	DisGeNet	
+VEGFA	C3714524	Fibromyxosarcoma	DisGeNet	
+VEGFA	C0001420	Papillary adenocarcinoma	DisGeNet	
+VEGFA	C0032051	Placental Insufficiency	DisGeNet	
+VEGFA	C0039445	Hereditary hemorrhagic telangiectasia type 2	DisGeNet	
+VEGFA	C0278519	recurrent childhood acute lymphoblastic leukemia	DisGeNet	
+VEGFA	C0014867	Esophageal varix	DisGeNet	
+VEGFA	C0041318	Tuberculosis, Meningeal	DisGeNet	
+VEGFA	C0403396	Steroid-sensitive nephrotic syndrome	DisGeNet	
+VEGFA	C1708565	Invasive Skin Melanoma	DisGeNet	
+VEGFA	C0029883	Otitis Media with Effusion	DisGeNet	
+VEGFA	C0035328	Thrombosis of retinal vein	DisGeNet	
+VEGFA	C0280321	Squamous cell carcinoma of the hypopharynx	DisGeNet	
+VEGFA	C1260922	Abnormal breathing	DisGeNet	
+VEGFA	C1314694	Astrocytoma, low grade	DisGeNet	
+VEGFA	C1961121	Congenital vascular anomaly	DisGeNet	
+VEGFA	C0015814	Femur Head Necrosis	DisGeNet	
+VEGFA	C0206720	Squamous Cell Neoplasms	DisGeNet	
+VEGFA	C0339467	Proliferative retinopathy	DisGeNet	
+VEGFA	C0023494	T-Cell Prolymphocytic Leukemia	DisGeNet	
+VEGFA	C0027149	Myxoma	DisGeNet	
+VEGFA	C0078911	AIDS-Associated Nephropathy	DisGeNet	
+VEGFA	C0428791	Aortic valve calcification	DisGeNet	
+VEGFA	C0521607	Peritoneal Fibrosis	DisGeNet	
+VEGFA	C1266042	Chromophobe Renal Cell Carcinoma	DisGeNet	
+VEGFA	C1851585	Myeloproliferative disorder, chronic, with eosinophilia	DisGeNet	
+VEGFA	C0016977	Gallbladder Diseases	DisGeNet	
+VEGFA	C0018188	Granuloma	DisGeNet	
+VEGFA	C0021775	Intermittent claudication	DisGeNet	
+VEGFA	C0002985	Angiokeratoma	DisGeNet	
+VEGFA	C0041206	Truncus arteriosus	DisGeNet	
+VEGFA	C0158570	Vascular malformation, primary intraosseous	DisGeNet	
+VEGFA	C0220756	Niemann-Pick disease, type C	DisGeNet	
+VEGFA	C0334533	Arteriovenous hemangioma	DisGeNet	
+VEGFA	C0678234	Stenosis	DisGeNet	
+VEGFA	C0079474	Recessive dystrophic epidermolysis bullosa	DisGeNet	
+VEGFA	C0278688	Stage IV Ovarian Carcinoma	DisGeNet	
+VEGFA	C0340293	Anterior myocardial infarction	DisGeNet	
+VEGFA	C0409952	Generalized osteoarthritis	DisGeNet	
+VEGFA	C0497496	Prostatitis	DisGeNet	
+VEGFA	C0031039	Pericardial effusion	DisGeNet	
+VEGFA	C0221228	Comedone	DisGeNet	
+VEGFA	C0677944	Sentinel node (disorder)	DisGeNet	
+VEGFA	C0011608	Dermatitis Herpetiformis	DisGeNet	
+VEGFA	C0234366	Ataxic	DisGeNet	

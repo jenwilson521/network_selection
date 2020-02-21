@@ -1,0 +1,6 @@
+node_name	node_type	
+DB01428	drug	
+PGR	drug_target	
+AR	drug_target	
+ESR2	drug_target	
+ESR1	drug_target	

@@ -1,0 +1,4 @@
+rank	phenotype	cui	assoc in neigh	assoc in intom	probability	Benjamini-Hochberg	genes	
+8	Squamous Cell Neoplasms	C0206720	2	29	3.997175258896313e-06	2.43161094225e-05	CYP2E1,CYP3A4
+14	Bone necrosis	C0029445	2	45	1.5346115703862573e-05	4.25531914894e-05	CYP2E1,CYP3A4
+15	Cooley's anemia	C0002875	2	61	3.847913348153931e-05	4.55927051672e-05	CYP2E1,CYP3A4

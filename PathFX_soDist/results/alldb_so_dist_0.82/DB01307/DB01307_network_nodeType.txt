@@ -1,0 +1,184 @@
+node_name	node_type	
+DB01307	drug	
+INSR	drug_target	
+ALB	drug_target	
+IGF1R	drug_target	
+Type 1 diabetic neuropathy	phenotype	
+Maturity-onset diabetes of the young, type 11	phenotype	
+Congenital diaphragmatic hernia	phenotype	
+Abnormality of adipose tissue	phenotype	
+Lipoatrophy	phenotype	
+Cachexia	phenotype	
+Chronic Kidney Insufficiency	phenotype	
+Proteinuria, low molecular weight, with hypercalciuria and nephrocalcinosis	phenotype	
+Maternal diabetes	phenotype	
+Hepatoblastoma	phenotype	
+Restenosis	phenotype	
+Diabetic ketoacidosis	phenotype	
+Berardinelli-Seip congenital lipodystrophy	phenotype	
+Malignant neoplasm of adrenal cortex	phenotype	
+Esophageal varix	phenotype	
+Urolithiasis	phenotype	
+Decreased adipose tissue	phenotype	
+Abnormality of endocrine pancreas physiology	phenotype	
+Echinococcosis	phenotype	
+Epidermolysis bullosa simplex, Cockayne-Touraine type	phenotype	
+Palmar hyperkeratosis	phenotype	
+Proliferative retinopathy	phenotype	
+Verrucae	phenotype	
+Isolated somatotropin deficiency	phenotype	
+Hyperkeratosis	phenotype	
+Substance Use Disorders	phenotype	
+Dentatorubral pallidoluysian atrophy	phenotype	
+Angiokeratoma	phenotype	
+Isolated growth hormone deficiency type 1B	phenotype	
+Insulin-resistant diabetes mellitus AND acanthosis nigricans	phenotype	
+Plantar hyperkeratosis	phenotype	
+Diabetic Retinopathy	phenotype	
+Pericardial effusion	phenotype	
+Generalized hyperpigmentation	phenotype	
+Mumps	phenotype	
+Rhinitis, Allergic, Perennial	phenotype	
+Endemic Cretinism	phenotype	
+Hemangioblastoma	phenotype	
+Hyperlipidemia, combined, 1	phenotype	
+Abnormality of the nail	phenotype	
+Mesangiocapillary glomerulonephritis, type II	phenotype	
+Nephrosclerosis	phenotype	
+Peripheral motor neuropathy	phenotype	
+End Stage Liver Disease	phenotype	
+Abnormal albumin level	phenotype	
+Glucose intolerance	phenotype	
+Essential hypertension	phenotype	
+Epidermal thickening	phenotype	
+Bronchogenic Carcinoma	phenotype	
+Corneal neovascularization	phenotype	
+Acanthosis nigricans	phenotype	
+Coronary artery aneurysm	phenotype	
+Hyperlipoproteinemia	phenotype	
+Hyperlipoproteinemia Type IIa	phenotype	
+Tubulointerstitial nephritis	phenotype	
+Coarse hair	phenotype	
+Single tumor	phenotype	
+Nephrotic Syndrome, Minimal Change	phenotype	
+Skin Diseases, Genetic	phenotype	
+Thickened skin	phenotype	
+Chronic kidney disease	phenotype	
+Varicella zoster	phenotype	
+Drusen	phenotype	
+Thickened nuchal skin fold	phenotype	
+Increased size of the clitoris	phenotype	
+Abnormal size of the clitoris	phenotype	
+Increased antibody level in blood	phenotype	
+Insulin resistance syndrome	phenotype	
+Atypical teratoid/rhabdoid tumor	phenotype	
+Hyperinsulinemia	phenotype	
+Clitoral hypertrophy	phenotype	
+Nephrosis	phenotype	
+Accelerated skeletal maturation	phenotype	
+Fatigue	phenotype	
+Guillain-Barre syndrome, familial	phenotype	
+Primary hyperparathyroidism	phenotype	
+Drug Resistant Epilepsy	phenotype	
+Thyroid Diseases	phenotype	
+Respiratory Tract Diseases	phenotype	
+Sicca Syndrome	phenotype	
+Hypoalbuminemia	phenotype	
+Ketoacidosis	phenotype	
+Neurologic, endocrine, and pancreatic disease, multisystem, infantile-onset	phenotype	
+Female pseudohermaphroditism	phenotype	
+Abnormality of the plantar skin of foot	phenotype	
+EPIDERMODYSPLASIA VERRUCIFORMIS	phenotype	
+Fetal ultrasound soft marker	phenotype	
+Hypermelanotic macule	phenotype	
+Congenital hypothyroidism	phenotype	
+Adverse drug events and drug allergies	phenotype	
+Hepatic fibrosis	phenotype	
+Helminthiasis	phenotype	
+High, narrow palate	phenotype	
+Hyperpituitarism	phenotype	
+Hepatic steatosis	phenotype	
+Hemolytic uremic syndrome	phenotype	
+Occupational Diseases	phenotype	
+ Hyperandrogenism, nonclassic type, due to 21-hydroxylase deficiency, 201910 (3)	phenotype	
+Microalbuminuria	phenotype	
+Acromegaly	phenotype	
+Chest pain	phenotype	
+Myopathy, scapulohumeroperoneal	phenotype	
+ {HIV-1 viremia, susceptibility to}, 609423 (3)	phenotype	
+Acute Lung Injury	phenotype	
+Abnormality of the clitoris	phenotype	
+Early onset of sexual maturation	phenotype	
+Hyperglycemia	phenotype	
+Congenital disorder of glycosylation	phenotype	
+Complications of Diabetes Mellitus	phenotype	
+Gingival overgrowth	phenotype	
+Eczema	phenotype	
+Small face	phenotype	
+Polycystic Ovary Syndrome	phenotype	
+Abdominal distention	phenotype	
+Pulmonary edema	phenotype	
+Migraine with aura	phenotype	
+Stevens-Johnson Syndrome	phenotype	
+Subcutaneous nodule	phenotype	
+Lymphohistiocytosis, Hemophagocytic	phenotype	
+IMMUNE SUPPRESSION	phenotype	
+Dementia, Vascular	phenotype	
+Membranous nephropathy, susceptibility to	phenotype	
+DiGeorge sequence	phenotype	
+Liver regeneration disorder	phenotype	
+Diabetic Angiopathies	phenotype	
+Plasmacytoma	phenotype	
+Narrow palate	phenotype	
+Polyneuropathy, hearing loss, ataxia, retinitis pigmentosa, and cataract	phenotype	
+Thick lower lip vermilion	phenotype	
+Small for gestational age	phenotype	
+Skin nodule	phenotype	
+Coma	phenotype	
+body mass	phenotype	
+Hyperlipidemia, familial combined	phenotype	
+Wide mouth	phenotype	
+Generalized hirsutism	phenotype	
+Interstitial fibrosis	phenotype	
+Macule	phenotype	
+Hemochromatosis	phenotype	
+Constitutional symptom	phenotype	
+Prematurely aged appearance	phenotype	
+Abnormality of metabolism/homeostasis	phenotype	
+Liver Diseases	phenotype	
+Hyperhidrosis	phenotype	
+Methamphetamine abuse	phenotype	
+Gynecomastia	phenotype	
+Hereditary factor VIII deficiency disease	phenotype	
+Rhabdoid Tumor of the Kidney	phenotype	
+Precursor B-Cell Lymphoblastic Leukemia-Lymphoma	phenotype	
+Postnatal growth retardation	phenotype	
+Clear-cell metastatic renal cell carcinoma	phenotype	
+Glomerulosclerosis, Focal Segmental	phenotype	
+Mandibular prognathia	phenotype	
+tumor vasculature	phenotype	
+Dry skin	phenotype	
+Abnormality of female external genitalia	phenotype	
+Diabetic Nephropathies	phenotype	
+Kidney Failure, Chronic	phenotype	
+Hypertrichosis	phenotype	
+Abnormality of pancreas physiology	phenotype	
+Ovarian cyst	phenotype	
+Irregular hyperpigmentation	phenotype	
+Metabolic Syndrome X	phenotype	
+Nail dysplasia	phenotype	
+Abnormality of the pituitary gland	phenotype	
+Precocious puberty	phenotype	
+Focal segmental glomerulosclerosis	phenotype	
+Malnutrition	phenotype	
+Thick vermilion border	phenotype	
+Abnormality of dental eruption	phenotype	
+Duchenne muscular dystrophy	phenotype	
+Erythema	phenotype	
+Abnormal insulin level	phenotype	
+Abnormal circulating insulin level	phenotype	
+Urticaria	phenotype	
+Abnormal nipple morphology	phenotype	
+Abnormality of hair texture	phenotype	
+Macrotia	phenotype	
+Thrombophilia	phenotype	

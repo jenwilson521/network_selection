@@ -1,0 +1,4 @@
+Gene	CUI	Source Databases	
+CYP2B6	C0877008	Enzyme inhibition disorder	DisGeNet	
+CYP2D6	C0877008	Enzyme inhibition disorder	DisGeNet	
+CYP3A4	C0877008	Enzyme inhibition disorder	DisGeNet	

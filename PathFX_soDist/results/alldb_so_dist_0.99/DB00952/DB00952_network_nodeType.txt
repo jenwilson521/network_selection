@@ -1,0 +1,6 @@
+node_name	node_type	
+DB00952	drug	
+HTR1D	drug_target	
+MAOA	drug_target	
+HTR1A	drug_target	
+HTR1B	drug_target	

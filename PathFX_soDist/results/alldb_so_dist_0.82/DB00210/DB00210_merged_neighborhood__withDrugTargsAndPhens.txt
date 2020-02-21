@@ -1,0 +1,65 @@
+node1	node2	edge_score	
+DB00210	RARA	1.0	
+DB00210	PTGS2	1.0	
+DB00210	RARB	1.0	
+DB00210	RARG	1.0	
+DB00210	RXRG	1.0	
+DB00210	RXRA	1.0	
+DB00210	RXRB	1.0	
+RXRA	RXRAAG, RXRAGA	0.99
+PTGS2	rs12042763	0.99
+RXRA	rs62576288	0.99
+PTGS2	rs5275	0.99
+PTGS2	rs4648287	0.99
+RARG		1.0
+PTGS2	rs20417	0.99
+RXRA	rs6413517	0.99
+RXRA	rs11185647	0.99
+RXRA	rs1536475	0.99
+PTGS2		1.0
+RXRA	rs2234753	0.99
+RXRA		1.0
+Bile duct cancer resectable	PTGS2	1.0	
+Bile duct cancer resectable	RARG	1.0	
+Cholecystolithiasis	PTGS2	1.0	
+Cholecystolithiasis	RXRA	1.0	
+High-Grade Prostatic Intraepithelial Neoplasia	PTGS2	1.0	
+High-Grade Prostatic Intraepithelial Neoplasia	RXRA	1.0	
+Follicular adenoma	PTGS2	1.0	
+Follicular adenoma	RXRA	1.0	
+Prostatic Intraepithelial Neoplasias	PTGS2	1.0	
+Prostatic Intraepithelial Neoplasias	RXRA	1.0	
+Hyperplasia	PTGS2	1.0	
+Hyperplasia	RXRA	1.0	
+Chronic liver disease	PTGS2	1.0	
+Chronic liver disease	RXRA	1.0	
+Acute promyelocytic leukemia	PTGS2	1.0	
+Acute promyelocytic leukemia	RARG	1.0	
+Acute promyelocytic leukemia	RXRA	1.0	
+Measles	RARG	1.0	
+Measles	RXRA	1.0	
+Adenocarcinoma of prostate	PTGS2	1.0	
+Adenocarcinoma of prostate	RXRA	1.0	
+Cholelithiasis	PTGS2	1.0	
+Cholelithiasis	RXRA	1.0	
+Squamous cell carcinoma of the hypopharynx	PTGS2	1.0	
+Early gastric cancer	PTGS2	1.0	
+Malignant neoplasm of vulva	PTGS2	1.0	
+Bladder neck obstruction	PTGS2	1.0	
+Aortic atherosclerosis	PTGS2	1.0	
+Squamous Cell Neoplasms	PTGS2	1.0	
+gastritis h pylori	PTGS2	1.0	
+Aortic valve calcification	PTGS2	1.0	
+Thymic Carcinoma	PTGS2	1.0	
+Creutzfeldt-Jakob Disease, Sporadic	PTGS2	1.0	
+Neoplasms, Second Primary	PTGS2	1.0	
+Neoplasms, Second Primary	RXRA	1.0	
+Anterior myocardial infarction	PTGS2	1.0	
+Prostatitis	PTGS2	1.0	
+Enzyme inhibition disorder	PTGS2	1.0	
+Mucinous Neoplasm	PTGS2	1.0	
+keratoacanthoma	PTGS2	1.0	
+Pericardial effusion	PTGS2	1.0	
+Streptococcal pneumonia	PTGS2	1.0	
+Rhinitis, Allergic, Perennial	PTGS2	1.0	
+Osteoarthritis of distal interphalangeal joint	PTGS2	1.0	

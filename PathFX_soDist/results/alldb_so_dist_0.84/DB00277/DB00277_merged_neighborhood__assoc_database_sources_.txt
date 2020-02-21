@@ -1,0 +1,71 @@
+Gene	CUI	Source Databases	
+CYP1A1	C0023055	Neoplasm of the larynx	DisGeNet	
+CYP1A2	C0023055	Neoplasm of the larynx	DisGeNet	
+CYP1B1	C0023055	Neoplasm of the larynx	DisGeNet	
+CYP2C8	C0023055	Neoplasm of the larynx	DisGeNet	
+CYP2D6	C0023055	Neoplasm of the larynx	DisGeNet	
+CYP2E1	C0023055	Neoplasm of the larynx	DisGeNet	
+CYP3A4	C0023055	Neoplasm of the larynx	DisGeNet	
+CYP1A1	C0032229	Pleural Neoplasms	DisGeNet	
+CYP1A2	C0032229	Pleural Neoplasms	DisGeNet	
+CYP1B1	C0032229	Pleural Neoplasms	DisGeNet	
+CYP2E1	C0032229	Pleural Neoplasms	DisGeNet	
+ADORA1	C0041755	Adverse drug events and drug allergies	DisGeNet	
+ADORA2A	C0041755	Adverse drug events and drug allergies	DisGeNet	
+CYP1A2	C0041755	Adverse drug events and drug allergies	DisGeNet	
+CYP2D6	C0041755	Adverse drug events and drug allergies	DisGeNet	
+CYP2E1	C0041755	Adverse drug events and drug allergies	DisGeNet	
+ADORA2A	C0686347	Tardive Dyskinesia	DisGeNet	
+CYP1A2	C0686347	Tardive Dyskinesia	DisGeNet	
+CYP2D6	C0686347	Tardive Dyskinesia	DisGeNet	
+CYP3A4	C0686347	Tardive Dyskinesia	DisGeNet	
+PDE4B	C0686347	Tardive Dyskinesia	DisGeNet	
+CYP1A1	C0919532	Genomic Instability	DisGeNet	
+CYP1A2	C0919532	Genomic Instability	DisGeNet	
+CYP1B1	C0919532	Genomic Instability	DisGeNet	
+CYP2E1	C0919532	Genomic Instability	DisGeNet	
+ADORA2A	C0152115	Orofacial dyskinesia	DisGeNet	
+CYP1A2	C0152115	Orofacial dyskinesia	DisGeNet	
+CYP2D6	C0152115	Orofacial dyskinesia	DisGeNet	
+CYP3A4	C0152115	Orofacial dyskinesia	DisGeNet	
+PDE4B	C0152115	Orofacial dyskinesia	DisGeNet	
+CYP1A1	C0596321	Chemical Carcinogenesis	DisGeNet	
+CYP1A2	C0596321	Chemical Carcinogenesis	DisGeNet	
+CYP1B1	C0596321	Chemical Carcinogenesis	DisGeNet	
+CYP2D6	C0596321	Chemical Carcinogenesis	DisGeNet	
+ADORA1	C0013182	Drug Allergy	DisGeNet	
+ADORA2A	C0013182	Drug Allergy	DisGeNet	
+CYP2C8	C0013182	Drug Allergy	DisGeNet	
+CYP2D6	C0013182	Drug Allergy	DisGeNet	
+CYP3A4	C0013182	Drug Allergy	DisGeNet	
+ADORA1	C0033054	Prenatal Exposure Delayed Effects	DisGeNet	
+CYP1A1	C0033054	Prenatal Exposure Delayed Effects	DisGeNet	
+CYP2D6	C0033054	Prenatal Exposure Delayed Effects	DisGeNet	
+CYP2E1	C0033054	Prenatal Exposure Delayed Effects	DisGeNet	
+CYP1B1	C1827377	Slow acetylator due to N-acetyltransferase enzyme variant	DisGeNet	
+CYP2D6	C1827377	Slow acetylator due to N-acetyltransferase enzyme variant	DisGeNet	
+CYP2E1	C1827377	Slow acetylator due to N-acetyltransferase enzyme variant	DisGeNet	
+CYP1A1	C0206720	Squamous Cell Neoplasms	DisGeNet	
+CYP2E1	C0206720	Squamous Cell Neoplasms	DisGeNet	
+CYP3A4	C0206720	Squamous Cell Neoplasms	DisGeNet	
+CYP1A1	C0031347	Pharyngeal Neoplasms	DisGeNet	
+CYP1A2	C0031347	Pharyngeal Neoplasms	DisGeNet	
+CYP2C8	C0031347	Pharyngeal Neoplasms	DisGeNet	
+CYP3A4	C0031347	Pharyngeal Neoplasms	DisGeNet	
+CYP1A1	C0026640	Neoplasm of the oral cavity	DisGeNet	
+CYP1A2	C0026640	Neoplasm of the oral cavity	DisGeNet	
+CYP1B1	C0026640	Neoplasm of the oral cavity	DisGeNet	
+CYP2C8	C0026640	Neoplasm of the oral cavity	DisGeNet	
+CYP2D6	C0026640	Neoplasm of the oral cavity	DisGeNet	
+CYP2E1	C0026640	Neoplasm of the oral cavity	DisGeNet	
+CYP3A4	C0026640	Neoplasm of the oral cavity	DisGeNet	
+CYP2D6	C0877008	Enzyme inhibition disorder	DisGeNet	
+CYP3A4	C0877008	Enzyme inhibition disorder	DisGeNet	
+PARP1	C0877008	Enzyme inhibition disorder	DisGeNet	
+CYP1A1	C1268717	Mammographic breast density	DisGeNet	
+CYP1A2	C1268717	Mammographic breast density	DisGeNet	
+CYP1B1	C1268717	Mammographic breast density	DisGeNet	
+CYP2D6	C1268717	Mammographic breast density	DisGeNet	
+CYP1A2	C0221765	Chronic schizophrenia	DisGeNet	
+CYP2D6	C0221765	Chronic schizophrenia	DisGeNet	
+CYP3A4	C0221765	Chronic schizophrenia	DisGeNet	

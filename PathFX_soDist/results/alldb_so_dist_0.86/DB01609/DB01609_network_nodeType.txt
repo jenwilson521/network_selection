@@ -1,0 +1,21 @@
+node_name	node_type	
+DB01609	drug	
+CYP2C8	drug_target	
+CYP1A2	drug_target	
+UGT1A9	drug_target	
+CYP3A4	drug_target	
+UGT1A1	drug_target	
+UGT1A3	drug_target	
+Hepatitis D Infection	phenotype	
+Hyperbilirubinemia	phenotype	
+Cholelithiasis	phenotype	
+Drug Allergy	phenotype	
+Febrile Neutropenia	phenotype	
+Hearing Loss, Partial	phenotype	
+Anemia, Sickle Cell	phenotype	
+Leukopenia	phenotype	
+Deafness, autosomal recessive 44	phenotype	
+Mammographic breast density	phenotype	
+Neutropenia	phenotype	
+Influenza	phenotype	
+Pharyngeal Neoplasms	phenotype	

@@ -1,0 +1,42 @@
+node_name	node_type	
+DB00514	drug	
+SLC6A2	drug_target	
+SLC6A4	drug_target	
+CYP2D6	drug_target	
+CHRNB2	drug_target	
+CYP2B6	drug_target	
+CHRNB4	drug_target	
+GRIN3A	drug_target	
+PGRMC1	drug_target	
+CHRNA4	drug_target	
+OPRM1	drug_target	
+CHRNA7	drug_target	
+CHRNA2	drug_target	
+CHRNA3	drug_target	
+OPRK1	drug_target	
+CYP3A4	drug_target	
+CYP3A5	drug_target	
+CYP2C9	drug_target	
+CYP2C8	drug_target	
+CYP2E1	drug_target	
+CYP2C19	drug_target	
+OPRD1	drug_target	
+SIGMAR1	drug_target	
+Nicotine Dependence	phenotype	
+Methamphetamine abuse	phenotype	
+Nausea	phenotype	
+Substance Withdrawal Syndrome	phenotype	
+Heroin Dependence	phenotype	
+Primary malignant neoplasm of liver	phenotype	
+SUDDEN INFANT DEATH SYNDROME	phenotype	
+Drug Allergy	phenotype	
+Pain insensitivity	phenotype	
+Acute postoperative pain	phenotype	
+Personality disorder	phenotype	
+Neoplasms, Germ Cell and Embryonal	phenotype	
+Tardive Dyskinesia	phenotype	
+Opiate Addiction	phenotype	
+Chronic pain	phenotype	
+Orofacial dyskinesia	phenotype	
+Weight Gain Adverse Event	phenotype	
+Slow acetylator due to N-acetyltransferase enzyme variant	phenotype	

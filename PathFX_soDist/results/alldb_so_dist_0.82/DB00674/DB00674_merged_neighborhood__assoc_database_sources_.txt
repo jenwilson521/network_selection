@@ -1,0 +1,33 @@
+Gene	CUI	Source Databases	
+ACHE	C2911647	Weight Gain Adverse Event	DisGeNet	
+BCHE	C2911647	Weight Gain Adverse Event	DisGeNet	
+CHRNA3	C2911647	Weight Gain Adverse Event	DisGeNet	
+CHRNA4	C2911647	Weight Gain Adverse Event	DisGeNet	
+CHRNA5	C2911647	Weight Gain Adverse Event	DisGeNet	
+CHRNA7	C2911647	Weight Gain Adverse Event	DisGeNet	
+CHRNB2	C2911647	Weight Gain Adverse Event	DisGeNet	
+CHRNB4	C2911647	Weight Gain Adverse Event	DisGeNet	
+CHRNA3	C0038587	Substance Withdrawal Syndrome	DisGeNet	
+CHRNA5	C0038587	Substance Withdrawal Syndrome	DisGeNet	
+CHRNA7	C0038587	Substance Withdrawal Syndrome	DisGeNet	
+CHRNB2	C0038587	Substance Withdrawal Syndrome	DisGeNet	
+CHRNB4	C0038587	Substance Withdrawal Syndrome	DisGeNet	
+CYP2D6	C0038587	Substance Withdrawal Syndrome	DisGeNet	
+CHRNA3	C0028043	Nicotine Dependence	DisGeNet	
+CHRNA4	C0028043	Nicotine Dependence	DisGeNet	
+CHRNA5	C0028043	Nicotine Dependence	DisGeNet	
+CHRNA7	C0028043	Nicotine Dependence	DisGeNet	
+CHRNB2	C0028043	Nicotine Dependence	DisGeNet	
+CHRNB4	C0028043	Nicotine Dependence	DisGeNet	
+BCHE	C0877008	Enzyme inhibition disorder	DisGeNet	
+CYP2D6	C0877008	Enzyme inhibition disorder	DisGeNet	
+CYP3A4	C0877008	Enzyme inhibition disorder	DisGeNet	
+ACHE	C0043094	Increased body weight	DisGeNet	
+BCHE	C0043094	Increased body weight	DisGeNet	
+CHRNA3	C0043094	Increased body weight	DisGeNet	
+CHRNA4	C0043094	Increased body weight	DisGeNet	
+CHRNA5	C0043094	Increased body weight	DisGeNet	
+CHRNA7	C0043094	Increased body weight	DisGeNet	
+CHRNB2	C0043094	Increased body weight	DisGeNet	
+CHRNB4	C0043094	Increased body weight	DisGeNet	
+CYP2D6	C0043094	Increased body weight	DisGeNet	

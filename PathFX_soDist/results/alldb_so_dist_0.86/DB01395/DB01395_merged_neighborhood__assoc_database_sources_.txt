@@ -1,0 +1,18 @@
+Gene	CUI	Source Databases	
+BCHE	C0877008	Enzyme inhibition disorder	DisGeNet	
+CYP3A4	C0877008	Enzyme inhibition disorder	DisGeNet	
+PTGS2	C0877008	Enzyme inhibition disorder	DisGeNet	
+CYP3A4	C0206720	Squamous Cell Neoplasms	DisGeNet	
+PTGS2	C0206720	Squamous Cell Neoplasms	DisGeNet	
+CYP3A4	C0030201	Acute postoperative pain	DisGeNet	
+PTGS2	C0030201	Acute postoperative pain	DisGeNet	
+BCHE	C0041755	Adverse drug events and drug allergies	DisGeNet	
+PTGS2	C0041755	Adverse drug events and drug allergies	DisGeNet	
+BCHE	C0009241	Cognition Disorders	DisGeNet	
+PTGS2	C0009241	Cognition Disorders	DisGeNet	
+CYP3A4	C0206726	gliosarcoma	DisGeNet	
+PTGS2	C0206726	gliosarcoma	DisGeNet	
+CYP3A4	C0019337	Heroin Dependence	DisGeNet	
+NR3C2	C0019337	Heroin Dependence	DisGeNet	
+NR3C2	C0595936	Aqueous Humor Disorders	DisGeNet	
+PTGS2	C0595936	Aqueous Humor Disorders	DisGeNet	

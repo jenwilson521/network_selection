@@ -1,0 +1,30 @@
+Gene	CUI	Source Databases	
+ADRA1A	C1141890	Congenital long QT syndrome	DisGeNet	
+CYP3A4	C1141890	Congenital long QT syndrome	DisGeNet	
+KCNH2	C1141890	Congenital long QT syndrome	DisGeNet	
+ADRA1A	C0152020	Gastroparesis	DisGeNet	
+ADRA1B	C0152020	Gastroparesis	DisGeNet	
+KCNH2	C0152020	Gastroparesis	DisGeNet	
+ADRA1A	C0221765	Chronic schizophrenia	DisGeNet	
+CYP3A4	C0221765	Chronic schizophrenia	DisGeNet	
+ADRA1A	C0030201	Acute postoperative pain	DisGeNet	
+CYP3A4	C0030201	Acute postoperative pain	DisGeNet	
+ADRA1A	C0027719	Nephrosclerosis	DisGeNet	
+ALB	C0027719	Nephrosclerosis	DisGeNet	
+ADRA1A	C0020649	Hypotension	DisGeNet	
+ADRA1B	C0020649	Hypotension	DisGeNet	
+ALB	C0020649	Hypotension	DisGeNet,HumPhenOnt	
+ADRA1A	C0085580	Essential hypertension	DisGeNet	
+ADRA1B	C0085580	Essential hypertension	DisGeNet	
+ALB	C0085580	Essential hypertension	DisGeNet	
+KCNH2	C0085580	Essential hypertension	DisGeNet	
+ALB	C1260959	Drusen	DisGeNet	
+KCNH2	C1260959	Drusen	DisGeNet	
+ALB	C0042749	 {HIV-1 viremia, susceptibility to}, 609423 (3)	DisGeNet	
+CYP3A4	C0042749	 {HIV-1 viremia, susceptibility to}, 609423 (3)	DisGeNet	
+ADRA1A	C0001916	Albinism, ocular, with sensorineural deafness	DisGeNet	
+KCNH2	C0001916	Albinism, ocular, with sensorineural deafness	DisGeNet	
+ADRA1A	C0151744	Acute myocardial ischemia	DisGeNet	
+ALB	C0151744	Acute myocardial ischemia	DisGeNet	
+CYP3A4	C0151744	Acute myocardial ischemia	DisGeNet	
+KCNH2	C0151744	Acute myocardial ischemia	DisGeNet	

@@ -1,0 +1,20 @@
+node_name	node_type	
+DB00315	drug	
+HTR1D	drug_target	
+CYP1A2	drug_target	
+MAOA	drug_target	
+HTR1B	drug_target	
+HTR1A	drug_target	
+Bulimia	phenotype	
+Substance Use Disorders	phenotype	
+Paranoid Schizophrenia	phenotype	
+Personality disorder	phenotype	
+Dyskinesia, Drug-Induced	phenotype	
+As If Personality	phenotype	
+Panic disorder 1	phenotype	
+Panic disorder syndrome 1 (2)	phenotype	
+Cocaine-Related Disorders	phenotype	
+Migraine Disorders	phenotype	
+Polyglandular Type I Autoimmune Syndrome	phenotype	
+Pleural Neoplasms	phenotype	
+Chronic sciatica	phenotype	

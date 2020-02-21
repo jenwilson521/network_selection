@@ -1,0 +1,11 @@
+node_name	node_type	
+DB01656	drug	
+PDE4A	drug_target	
+CYP3A4	drug_target	
+PDE4C	drug_target	
+PDE4D	drug_target	
+PDE4B	drug_target	
+Tardive Dyskinesia	phenotype	
+Orofacial dyskinesia	phenotype	
+Amphetamine-Related Disorders	phenotype	
+Cataracts, growth hormone deficiency, sensory neuropathy, sensorineural hearing loss, and skeletal dysplasia	phenotype	

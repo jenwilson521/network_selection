@@ -1,0 +1,71 @@
+Gene	CUI	Source Databases	
+GABRA1	C0001973	Alcohol dependence	DisGeNet	
+GABRA1	C0004134	Ataxia, combined cerebellar and peripheral, with hearing loss and diabetes mellitus	DisGeNet,HumPhenOnt	
+GABRA1	C0004352	Autism 15	DisGeNet	
+GABRA1	C0005586	Bipolar affective disorder	DisGeNet	
+GABRA1	C0007102	Colon cancer	DisGeNet	
+GABRA1	C0009402	Colorectal cancer 1	DisGeNet	
+GABRA1	C0009952	Febrile seizures, familial, 4	HumPhenOnt	
+GABRA1	C0013146	Methamphetamine abuse	DisGeNet	
+GABRA1	C0014544	Epilepsy	ClinVar,DisGeNet	
+GABRA1	C0014553	Absence seizures	DisGeNet,HumPhenOnt	
+GABRA1	C0017636	Glioblastoma	DisGeNet	
+GABRA1	C0019151	Hepatic encephalopathy	DisGeNet	
+GABRA1	C0023891	Liver Cirrhosis, Alcoholic	DisGeNet	
+GABRA1	C0026650	Abnormality of movement	HumPhenOnt	
+GABRA1	C0026827	Hypotonia, infantile, with psychomotor retardation	HumPhenOnt	
+GABRA1	C0029927	Ovarian cyst	DisGeNet	
+GABRA1	C0033975	Psychotic Disorders	DisGeNet	
+GABRA1	C0036341	Schizophrenia	DisGeNet	
+GABRA1	C0036572	Seizures, Febrile	DisGeNet,HumPhenOnt	
+GABRA1	C0037268	Abnormality of the skin	HumPhenOnt	
+GABRA1	C0038220	Status epilepticus	HumPhenOnt	
+GABRA1	C0040822	Tremor, hereditary essential, 5	HumPhenOnt	
+GABRA1	C0085584	Encephalopathy, acute, infection-induced, 4, susceptibility to	HumPhenOnt	
+GABRA1	C0085762	Alcohol abuse	DisGeNet	
+GABRA1	C0151611	EEG abnormality	HumPhenOnt	
+GABRA1	C0233514	Behavioral abnormality	HumPhenOnt	
+GABRA1	C0234376	Action tremor	DisGeNet	
+GABRA1	C0234533	Generalized seizures	HumPhenOnt	
+GABRA1	C0239981	Hypoalbuminemia	DisGeNet	
+GABRA1	C0270736	Essential tremor	DisGeNet	
+GABRA1	C0270850	Idiopathic generalized epilepsy	ClinVar,DisGeNet	
+GABRA1	C0270853	Juvenile myoclonic epilepsy	ClinVar,DisGeNet	
+GABRA1	C0349204	Cycloid psychosis	DisGeNet	
+GABRA1	C0349506	Cutaneous photosensitivity	HumPhenOnt	
+GABRA1	C0393593	Dystonia Disorders	DisGeNet	
+GABRA1	C0427086	Involuntary movements	HumPhenOnt	
+GABRA1	C0443147	Autosomal dominant non-syndromic sensorineural deafness type DFNA	HumPhenOnt	
+GABRA1	C0494475	Generalized tonic-clonic seizures	HumPhenOnt	
+GABRA1	C0497552	Abnormality of the nervous system	HumPhenOnt	
+GABRA1	C0525045	Mood Disorders	DisGeNet	
+GABRA1	C0543888	Epileptic encephalopathy, early infantile, 29	HumPhenOnt	
+GABRA1	C0557874	Global developmental delay, absent or hypoplastic corpus callosum, and dysmorphic facies	HumPhenOnt	
+GABRA1	C0679378	Neurodevelopmental abnormality	HumPhenOnt	
+GABRA1	C0699790	Carcinoma of colon	DisGeNet	
+GABRA1	C0751122	Severe myoclonic epilepsy in infancy	DisGeNet	
+GABRA1	C0751495	Focal seizures	HumPhenOnt	
+GABRA1	C0852413	Abnormal muscle tone	HumPhenOnt	
+GABRA1	C1269683	Major depressive disorder	DisGeNet	
+GABRA1	C1527249	Colorectal cancer	DisGeNet	
+GABRA1	C1862939	Amyotrophic lateral sclerosis type 1	DisGeNet	
+GABRA1	C1866129	Abnormality of the cerebellum	HumPhenOnt	
+GABRA1	C3714756	Intellectual developmental disorder with dysmorphic facies and ptosis	HumPhenOnt	
+GABRA1	C4021085	Abnormality of brain morphology	HumPhenOnt	
+GABRA1	C4021157	Generalized abnormality of skin	HumPhenOnt	
+GABRA1	C4021170	Abnormality of hindbrain morphology	HumPhenOnt	
+GABRA1	C4021745	Abnormality of the musculature	HumPhenOnt	
+GABRA1	C4021759	Generalized myoclonic seizures	HumPhenOnt	
+GABRA1	C4021765	Morphological abnormality of the central nervous system	HumPhenOnt	
+GABRA1	C4021781	Abnormal nervous system electrophysiology	HumPhenOnt	
+GABRA1	C4022597	Abnormality of central nervous system electrophysiology	HumPhenOnt	
+GABRA1	C4022738	Neurodevelopmental delay	HumPhenOnt	
+GABRA1	C4022810	Abnormality of nervous system morphology	HumPhenOnt	
+GABRA1	C4022811	Abnormality of nervous system physiology	HumPhenOnt	
+GABRA1	C4023182	Abnormality of muscle physiology	HumPhenOnt	
+GABRA1	C4023353	Abnormality of coordination	HumPhenOnt	
+GABRA1	C4023354	Abnormality of central motor function	HumPhenOnt	
+GABRA1	C4023432	Abnormality of the metencephalon	HumPhenOnt	
+GABRA1	C4023515	Dialeptic seizures	HumPhenOnt	
+GABRA1	C4023528	Abnormality of skin morphology	HumPhenOnt	
+GABRA1	C4025761	Abnormality of the integument	HumPhenOnt	

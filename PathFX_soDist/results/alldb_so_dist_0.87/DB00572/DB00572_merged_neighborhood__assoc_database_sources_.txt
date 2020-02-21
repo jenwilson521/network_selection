@@ -1,0 +1,43 @@
+Gene	CUI	Source Databases	
+CHRM2	C0028043	Nicotine Dependence	DisGeNet	
+CHRNA4	C0028043	Nicotine Dependence	DisGeNet	
+CHRNB2	C0028043	Nicotine Dependence	DisGeNet	
+CHRNA4	C0851578	Sleep Wake Disorders	DisGeNet	
+CHRNB2	C0851578	Sleep Wake Disorders	DisGeNet	
+CHRNA4	C0038644	SUDDEN INFANT DEATH SYNDROME	DisGeNet	
+CHRNB2	C0038644	SUDDEN INFANT DEATH SYNDROME	DisGeNet	
+CHRNA4	C2911647	Weight Gain Adverse Event	DisGeNet	
+CHRNB2	C2911647	Weight Gain Adverse Event	DisGeNet	
+CHRM2	C0011581	Depressive Disorder	DisGeNet	
+CHRNA4	C0011581	Depressive Disorder	DisGeNet	
+CHRNB2	C0011581	Depressive Disorder	DisGeNet	
+CHRM2	C0154409	Recurrent major depressive episodes	DisGeNet	
+CHRM2	C0011570	{Unipolar depression, susceptibility to}, 608516 (3)	DisGeNet	
+CHRNA4	C0011570	{Unipolar depression, susceptibility to}, 608516 (3)	DisGeNet	
+CHRNB2	C0011570	{Unipolar depression, susceptibility to}, 608516 (3)	DisGeNet	
+CHRNB2	C0020672	Hypothermia	DisGeNet	
+CHRNA4	C0751785	Unverricht-Lundborg syndrome	DisGeNet	
+CHRNA4	C0687132	heavy drinking	DisGeNet	
+CHRM2	C0014544	Epilepsy	DisGeNet	
+CHRNA4	C0014544	Epilepsy	DisGeNet	
+CHRNB2	C0014544	Epilepsy	DisGeNet	
+CHRNA4	C0233794	Memory impairment	DisGeNet	
+CHRNB2	C0233794	Memory impairment	DisGeNet	
+CHRNA4	C0150055	Chronic pain	DisGeNet	
+CHRNA4	C0270853	Juvenile myoclonic epilepsy	DisGeNet	
+CHRNA4	C0026106	Mild Mental Retardation	DisGeNet	
+CHRNB2	C1504404	Hippocampal sclerosis	DisGeNet	
+CHRNA4	C0033054	Prenatal Exposure Delayed Effects	DisGeNet	
+CHRNA4	C0344307	Pain insensitivity	DisGeNet	
+CHRM2	C0428977	Bradycardia	DisGeNet	
+CHRNA4	C0014547	Epilepsy, focal, with speech disorder and with or without mental retardation	DisGeNet	
+CHRNB2	C0027497	Nausea	DisGeNet	
+CHRNA4	C0751495	Focal seizures	HumPhenOnt	
+CHRNA4	C1720983	Channelopathies	DisGeNet	
+CHRNA4	C0270850	Idiopathic generalized epilepsy	DisGeNet	
+CHRM2	C0340427	Familial dilated cardiomyopathy	DisGeNet	
+CHRNA4	C0751882	Congenital myasthenic syndrome	DisGeNet	
+CHRNA4	C0009241	Cognition Disorders	DisGeNet	
+CHRM2	C1510472	Drug Dependence	DisGeNet	
+CHRNA4	C1842981	NEUROTICISM	DisGeNet	
+CHRNA4	C0014548	Epilepsy, generalized, with febrile seizures plus, type 6 (2)	DisGeNet	

@@ -1,0 +1,189 @@
+node1	node2	edge_score	
+DB00121	ACACA	1.0	
+DB00121	ACACB	1.0	
+DB00121	PCCB	1.0	
+DB00121	HLCS	1.0	
+DB00121	PCCA	1.0	
+DB00121	PC	1.0	
+DB00121	SLC5A6	1.0	
+DB00121	CYP1B1	1.0	
+DB00121	MCCC2	1.0	
+DB00121	MCCC1	1.0	
+CYP1B1		1.0
+EMG: myopathic abnormalities	CYP1B1	1.0	
+Spontaneous abortion	CYP1B1	1.0	
+ Adenocarcinoma, ovarian, somatic, 167000 (3)	CYP1B1	1.0	
+Adenomas, multiple colorectal, 608456 (3)	CYP1B1	1.0	
+Aniridia 1	CYP1B1	1.0	
+Asthma	CYP1B1	1.0	
+Autism 15	CYP1B1	1.0	
+Malignant tumor of urinary bladder	CYP1B1	1.0	
+Urinary Bladder Neoplasms	CYP1B1	1.0	
+Breast-ovarian cancer, familial 1	CYP1B1	1.0	
+Malignant neoplasm of endometrium	CYP1B1	1.0	
+Female Breast Carcinoma	CYP1B1	1.0	
+Malignant neoplasm of larynx	CYP1B1	1.0	
+Non-small cell lung carcinoma	CYP1B1	1.0	
+Renal cell carcinoma, nonpapillary	CYP1B1	1.0	
+Squamous cell carcinoma	CYP1B1	1.0	
+Cardiovascular Diseases	CYP1B1	1.0	
+Malignant tumor of cervix	CYP1B1	1.0	
+Intrahepatic cholestasis	CYP1B1	1.0	
+Choriocarcinoma	CYP1B1	1.0	
+Congenital chromosomal disease	CYP1B1	1.0	
+Neoplasm of the colon	CYP1B1	1.0	
+Colorectal cancer 1	CYP1B1	1.0	
+Colorectal Neoplasms	CYP1B1	1.0	
+Corneal opacity	CYP1B1	1.0	
+Deafness, autosomal recessive 44	CYP1B1	1.0	
+Contact Dermatitis	CYP1B1	1.0	
+DiGeorge sequence	CYP1B1	1.0	
+Gallbladder disease 4	CYP1B1	1.0	
+DNA Damage	CYP1B1	1.0	
+Disorder of endocrine system	CYP1B1	1.0	
+Endometrial Neoplasms	CYP1B1	1.0	
+Endometriosis	CYP1B1	1.0	
+Esophageal Neoplasms	CYP1B1	1.0	
+Abnormality of the eye	CYP1B1	1.0	
+Breast Fibrocystic Disease	CYP1B1	1.0	
+Glaucoma, Angle-Closure	CYP1B1	1.0	
+Primary angle-closure glaucoma	CYP1B1	1.0	
+Glaucoma, Open-Angle	CYP1B1	1.0	
+Glioma	CYP1B1	1.0	
+Head and Neck Neoplasms	CYP1B1	1.0	
+Hearing Loss, Partial	CYP1B1	1.0	
+Cardiomegaly	CYP1B1	1.0	
+Atrial septal defect	CYP1B1	1.0	
+Heterogeneous	CYP1B1	1.0	
+Buphthalmos	CYP1B1	1.0	
+Hypertension	CYP1B1	1.0	
+Renal neoplasm	CYP1B1	1.0	
+Neoplasm of the larynx	CYP1B1	1.0	
+Leiomyoma	CYP1B1	1.0	
+Chronic Lymphocytic Leukemia	CYP1B1	1.0	
+Acute lymphoid leukemia	CYP1B1	1.0	
+Oral leukoplakia	CYP1B1	1.0	
+Neoplasm of the liver	CYP1B1	1.0	
+Pulmonary Disease, Chronic Obstructive	CYP1B1	1.0	
+Chronic obstructive pulmonary disease	CYP1B1	1.0	
+Lung Neoplasms	CYP1B1	1.0	
+Lymphoma, Large B-Cell, Diffuse	CYP1B1	1.0	
+Lymphoma, Follicular	CYP1B1	1.0	
+Non-Hodgkin lymphoma	CYP1B1	1.0	
+{Gastric cancer risk after H. pylori infection}, 137215 (3)	CYP1B1	1.0	
+Animal Mammary Neoplasms	CYP1B1	1.0	
+Melanoma	CYP1B1	1.0	
+Meningioma	CYP1B1	1.0	
+Mesothelioma, malignant	CYP1B1	1.0	
+Disorders of Intracellular Cobalamin Metabolism	CYP1B1	1.0	
+Microphthalmia syndromic 6	CYP1B1	1.0	
+Neoplasm of the oral cavity	CYP1B1	1.0	
+Multiple Myeloma	CYP1B1	1.0	
+Secondary hypertriglyceridemia	CYP1B1	1.0	
+Nystagmus	CYP1B1	1.0	
+Obesity	CYP1B1	1.0	
+Ocular Hypertension	CYP1B1	1.0	
+Osteoporosis	CYP1B1	1.0	
+Postmenopausal osteoporosis	CYP1B1	1.0	
+Pancreatic Neoplasms	CYP1B1	1.0	
+Parkinson Disease	CYP1B1	1.0	
+Pleural Neoplasms	CYP1B1	1.0	
+Precancerous Conditions	CYP1B1	1.0	
+Pregnancy Complications	CYP1B1	1.0	
+Prostatic Neoplasms	CYP1B1	1.0	
+Precocious puberty	CYP1B1	1.0	
+Pulmonary Emphysema	CYP1B1	1.0	
+Retinopathy	CYP1B1	1.0	
+Stomach Neoplasms	CYP1B1	1.0	
+Strabismus	CYP1B1	1.0	
+Tobacco Use Disorder	CYP1B1	1.0	
+Uterine leiomyoma	CYP1B1	1.0	
+Uterine neoplasm	CYP1B1	1.0	
+Vascular Diseases	CYP1B1	1.0	
+B-cell lymphoma	CYP1B1	1.0	
+Germinal Center B-Cell-Like Diffuse Large B-Cell Lymphoma	CYP1B1	1.0	
+Corneal neovascularization	CYP1B1	1.0	
+Li-Fraumeni syndrome	CYP1B1	1.0	
+Alcohol abuse	CYP1B1	1.0	
+Depressive Symptoms	CYP1B1	1.0	
+Menopause present (finding)	CYP1B1	1.0	
+Adenocarcinoma of lung	CYP1B1	1.0	
+Esophageal carcinoma	CYP1B1	1.0	
+Low Tension Glaucoma	CYP1B1	1.0	
+Primary pulmonary hypertension	CYP1B1	1.0	
+Malignant neoplasm of gallbladder	CYP1B1	1.0	
+Uterine Corpus Cancer	CYP1B1	1.0	
+Malignant tumor of testis	CYP1B1	1.0	
+Malignant neoplasm of brain and nervous system	CYP1B1	1.0	
+Pregnancy loss	CYP1B1	1.0	
+Tumor Progression	CYP1B1	1.0	
+Hepatocellular adenoma	CYP1B1	1.0	
+Shprintzen syndrome	CYP1B1	1.0	
+Malignant neoplasm of female breast	CYP1B1	1.0	
+Gallbladder Carcinoma	CYP1B1	1.0	
+Pancreatic Carcinoma	CYP1B1	1.0	
+Gastrointestinal stromal tumor	CYP1B1	1.0	
+Hereditary pancreatitis	CYP1B1	1.0	
+Malignant neoplasm of lung	CYP1B1	1.0	
+Anterior segment dysgenesis	CYP1B1	1.0	
+Stage IV Ovarian Carcinoma	CYP1B1	1.0	
+Cancer of Head and Neck	CYP1B1	1.0	
+Esophageal Squamous Cell Carcinoma	CYP1B1	1.0	
+Carcinoma of cervix	CYP1B1	1.0	
+Primary open angle glaucoma juvenile onset 1	CYP1B1	1.0	
+Endometriosis of uterus	CYP1B1	1.0	
+Hepatic cancer metastatic	CYP1B1	1.0	
+Malignant neoplasm of pancreas	CYP1B1	1.0	
+Malignant tumor of prostate	CYP1B1	1.0	
+Autosomal recessive inheritance	CYP1B1	1.0	
+Endometrial carcinoma	CYP1B1	1.0	
+Abnormality of eye movement	CYP1B1	1.0	
+Malignant tumor of esophagus	CYP1B1	1.0	
+Intraocular pressure disorder	CYP1B1	1.0	
+Aqueous Humor Disorders	CYP1B1	1.0	
+Laryngeal carcinoma	CYP1B1	1.0	
+Carcinogenesis	CYP1B1	1.0	
+Chemical Carcinogenesis	CYP1B1	1.0	
+Tumor Initiation	CYP1B1	1.0	
+Prostate carcinoma	CYP1B1	1.0	
+Ovarian epithelial cancer	CYP1B1	1.0	
+Breast carcinoma	CYP1B1	1.0	
+Lung cancer	CYP1B1	1.0	
+Stomach cancer	CYP1B1	1.0	
+Bladder carcinoma	CYP1B1	1.0	
+Malignant neoplasm of kidney	CYP1B1	1.0	
+ {Aerodigestive tract cancer, squamous cell, alcohol-related, protection against} (3)	CYP1B1	1.0	
+Oculodentodigital dysplasia	CYP1B1	1.0	
+Invasive breast carcinoma	CYP1B1	1.0	
+Carcinogenicity	CYP1B1	1.0	
+Intraepithelial Neoplasia	CYP1B1	1.0	
+Ovarian Neoplasms	CYP1B1	1.0	
+Genomic Instability	CYP1B1	1.0	
+Metastatic Prostate Carcinoma	CYP1B1	1.0	
+Invasive Ductal Breast Carcinoma	CYP1B1	1.0	
+BREAST-OVARIAN CANCER, FAMILIAL, SUSCEPTIBILITY TO, 4	CYP1B1	1.0	
+Squamous cell carcinoma of the head and neck	CYP1B1	1.0	
+Mammographic breast density	CYP1B1	1.0	
+Pancreatic Ductal Adenocarcinoma	CYP1B1	1.0	
+Testicular Germ Cell Tumor	CYP1B1	1.0	
+Hearing impairment	CYP1B1	1.0	
+Mammary Tumorigenesis	CYP1B1	1.0	
+Xenograft Model	CYP1B1	1.0	
+Colorectal cancer	CYP1B1	1.0	
+Benign Prostatic Hyperplasia	CYP1B1	1.0	
+Meningioma, benign, no ICD-O subtype	CYP1B1	1.0	
+Slow acetylator due to N-acetyltransferase enzyme variant	CYP1B1	1.0	
+Abnormal conjugate eye movement	CYP1B1	1.0	
+Abnormality of the cornea	CYP1B1	1.0	
+Precursor Cell Lymphoblastic Leukemia-Lymphoma	CYP1B1	1.0	
+Hepatocellular carcinoma	CYP1B1	1.0	
+Prostate cancer, familial	CYP1B1	1.0	
+Abnormality of the anterior chamber	CYP1B1	1.0	
+Pulmonary arterial hypertension	CYP1B1	1.0	
+Secondary malignant neoplasm of pancreas	CYP1B1	1.0	
+Myelodysplastic syndrome	CYP1B1	1.0	
+Abnormal involuntary eye movements	CYP1B1	1.0	
+Abnormality of the globe	CYP1B1	1.0	
+Abnormal eye physiology	CYP1B1	1.0	
+Abnormal eye morphology	CYP1B1	1.0	
+Abnormality of the anterior segment of the globe	CYP1B1	1.0	

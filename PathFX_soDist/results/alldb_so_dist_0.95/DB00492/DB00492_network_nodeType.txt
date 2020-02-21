@@ -1,0 +1,165 @@
+node_name	node_type	
+DB00492	drug	
+SLC15A2	drug_target	
+ACE	drug_target	
+Chronic berylliosis	phenotype	
+High altitude pulmonary edema	phenotype	
+Secondary hyperparathyroidism	phenotype	
+Recurrent major depressive episodes	phenotype	
+Aneurysm, Ruptured	phenotype	
+Thrombophilia due to activated protein C resistance	phenotype	
+Esophageal varix	phenotype	
+Steroid-sensitive nephrotic syndrome	phenotype	
+genetic hypertension	phenotype	
+Cardiovascular morbidity	phenotype	
+Adrenal Gland Hyperfunction	phenotype	
+Otosclerosis	phenotype	
+Thrombosis of retinal vein	phenotype	
+Early gastric cancer	phenotype	
+Aortic Diseases	phenotype	
+Recurrent E. coli infections	phenotype	
+Femur Head Necrosis	phenotype	
+Chromosomal translocation	phenotype	
+Old myocardial infarction	phenotype	
+Aortic atherosclerosis	phenotype	
+Proliferative retinopathy	phenotype	
+Acute pyelonephritis	phenotype	
+Proteinuria Adverse Event	phenotype	
+Pancreatic fibrosis	phenotype	
+Aortic valve calcification	phenotype	
+Intermittent claudication	phenotype	
+Puerperal Disorders	phenotype	
+Interstitial lung and liver disease	phenotype	
+Abnormal urine output	phenotype	
+Normal pressure hydrocephalus	phenotype	
+Rhabdomyolysis	phenotype	
+Staphylococcal Infections	phenotype	
+Anterior myocardial infarction	phenotype	
+Cushing's syndrome	phenotype	
+Renal hypertension	phenotype	
+Rheumatic fever / chorea	phenotype	
+Seasonal Affective Disorder	phenotype	
+Aortic aneurysm without mention of rupture NOS	phenotype	
+Hypervolemia	phenotype	
+Erythrocytosis	phenotype	
+Steroid-resistant nephrotic syndrome	phenotype	
+Antisocial Personality Disorder	phenotype	
+Rhinitis, Allergic, Perennial	phenotype	
+Diastrophic dysplasia	phenotype	
+Resistance to activated protein C	phenotype	
+Alport syndrome	phenotype	
+Abnormality of renal excretion	phenotype	
+Peptic Ulcer Hemorrhage	phenotype	
+Chronic schizophrenia	phenotype	
+Sudden death	phenotype	
+Lipoid nephrosis	phenotype	
+Acute postoperative pain	phenotype	
+Diabetic foot ulcer	phenotype	
+Community acquired pneumonia	phenotype	
+Post MI	phenotype	
+Peripheral artery occlusive disease	phenotype	
+Gangrene	phenotype	
+Nephrosclerosis	phenotype	
+Pregnancy associated hypertension	phenotype	
+Coronary Thrombosis	phenotype	
+Cerebroretinal microangiopathy with calcifications and cysts 1	phenotype	
+Cholestasis of pregnancy	phenotype	
+Exfoliation Syndrome	phenotype	
+Granulomatosis	phenotype	
+Arterial Occlusive Diseases	phenotype	
+Arteriovenous fistula	phenotype	
+Low back pain	phenotype	
+Chronic rejection of renal transplant	phenotype	
+Hypotension, Orthostatic	phenotype	
+Unilateral renal agenesis	phenotype	
+Cellulitis	phenotype	
+Coronary artery aneurysm	phenotype	
+Hyperlipoproteinemia	phenotype	
+Deep vein thrombosis of lower limb	phenotype	
+Tubulointerstitial nephritis	phenotype	
+Ocular Hypertension	phenotype	
+Subacute Sclerosing Panencephalitis	phenotype	
+Nephrotic Syndrome, Minimal Change	phenotype	
+Fabry disease	phenotype	
+Bone necrosis	phenotype	
+Autosomal recessive polycystic kidney disease	phenotype	
+Drug usage	phenotype	
+Chronic Fatigue Syndrome	phenotype	
+Heart valve disease	phenotype	
+Skin Diseases, Genetic	phenotype	
+Takayasu Arteritis	phenotype	
+Ventricular tachycardia, catecholaminergic polymorphic, 2	phenotype	
+Focal segmental glomerulosclerosis 1	phenotype	
+cardiac event	phenotype	
+Atrioventricular septal defect 2	phenotype	
+Weight Loss Adverse Event	phenotype	
+Streptococcal Infections	phenotype	
+Drusen	phenotype	
+Fibromyalgia	phenotype	
+Renovascular hypertension	phenotype	
+Insulin resistance syndrome	phenotype	
+Airway Obstruction	phenotype	
+Polydipsia	phenotype	
+Coronary Restenosis	phenotype	
+Pyelonephritis	phenotype	
+Other rheumatic heart disease	phenotype	
+Ventricular fibrillation	phenotype	
+Nephrosis	phenotype	
+Aural atresia, congenital	phenotype	
+Chagas Cardiomyopathy	phenotype	
+Cardiac defects	phenotype	
+pathologic fistula	phenotype	
+Chromosome Xq28 deletion syndrome	phenotype	
+Marfan syndrome	phenotype	
+Pneumonitis	phenotype	
+Memory Disorders	phenotype	
+Respiratory Tract Diseases	phenotype	
+Factor V Leiden mutation	phenotype	
+Diabetic Cardiomyopathies	phenotype	
+Optic neuropathy	phenotype	
+Neurologic, endocrine, and pancreatic disease, multisystem, infantile-onset	phenotype	
+Henoch-Schoenlein Purpura	phenotype	
+Lymphangiomyomatosis	phenotype	
+ {Septic shock, susceptibility to} (3)	phenotype	
+Sarcoidosis, Pulmonary	phenotype	
+Aortic valve disease 2	phenotype	
+Memory Loss	phenotype	
+Bronchiolitis Obliterans	phenotype	
+Familial hypertrophic cardiomyopathy 11	phenotype	
+Cognition Disorders	phenotype	
+Meningococcal Infections	phenotype	
+Syncope	phenotype	
+Stress, Psychological	phenotype	
+Aortic dissection	phenotype	
+Diaphragmatic hernia	phenotype	
+Hemolytic uremic syndrome	phenotype	
+Dilatation	phenotype	
+Psychoses, Substance-Induced	phenotype	
+Proliferative diabetic retinopathy	phenotype	
+Renal dysplasia	phenotype	
+Neurodegeneration with brain iron accumulation 4	phenotype	
+Retinopathy of Prematurity	phenotype	
+ Hyperandrogenism, nonclassic type, due to 21-hydroxylase deficiency, 201910 (3)	phenotype	
+Microalbuminuria	phenotype	
+Shock, Septic	phenotype	
+Sleep apnea	phenotype	
+Right ventricular hypertrophy	phenotype	
+Nephronophthisis	phenotype	
+Cardiac fibrosis	phenotype	
+Chest pain	phenotype	
+Urinary incontinence	phenotype	
+Common Migraine	phenotype	
+Arrhythmogenic right ventricular cardiomyopathy, type 11	phenotype	
+Gaucher Disease	phenotype	
+Ventricular Dysfunction, Right	phenotype	
+{Atopy, susceptibility to}, 147050 (3)	phenotype	
+MAJOR AFFECTIVE DISORDER 4	phenotype	
+MAJOR AFFECTIVE DISORDER 5	phenotype	
+MAJOR AFFECTIVE DISORDER 6	phenotype	
+Major affective disorder 7	phenotype	
+MAJOR AFFECTIVE DISORDER 8	phenotype	
+MAJOR AFFECTIVE DISORDER 9	phenotype	
+Uremia	phenotype	
+Angina pectoris	phenotype	
+ Cerebrovascular disease, occlusive (3)	phenotype	
+Ischemic cardiomyopathy	phenotype	

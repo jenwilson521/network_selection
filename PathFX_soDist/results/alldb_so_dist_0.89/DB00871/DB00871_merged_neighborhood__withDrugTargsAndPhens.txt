@@ -1,0 +1,249 @@
+node1	node2	edge_score	
+DB00871	ADRB1	1.0	
+DB00871	ADRB2	1.0	
+DB00871	ADRB3	1.0	
+DB00871	BCHE	1.0	
+BCHE	rs28933389	0.99
+BCHE	rs1799807	0.99
+ADRB2	rs1042713	0.99
+ADRB2	rs1042714	0.99
+ADRB2		1.0
+BCHE	rs1803274	0.99
+BCHE		1.0
+BCHE	rs28933390	0.99
+ADRB2	rs1042718	0.99
+ADRB3		1.0
+ADRB1		1.0
+body mass	ADRB1	1.0	
+body mass	ADRB2	1.0	
+body mass	ADRB3	1.0	
+body mass	BCHE	1.0	
+Low Tension Glaucoma	ADRB1	1.0	
+Low Tension Glaucoma	ADRB2	1.0	
+Low Tension Glaucoma	ADRB3	1.0	
+Obesity, severe, 601665 (3)	ADRB1	1.0	
+Obesity, severe, 601665 (3)	ADRB2	1.0	
+Obesity, severe, 601665 (3)	ADRB3	1.0	
+Tachycardia	ADRB1	1.0	
+Tachycardia	ADRB2	1.0	
+Tachycardia	BCHE	1.0	
+Weight Gain Adverse Event	ADRB2	1.0	
+Weight Gain Adverse Event	ADRB3	1.0	
+Weight Gain Adverse Event	BCHE	1.0	
+Hemangioma	ADRB1	1.0	
+Hemangioma	ADRB2	1.0	
+Hemangioma	ADRB3	1.0	
+Nephrosclerosis	ADRB1	1.0	
+Nephrosclerosis	ADRB2	1.0	
+Obstructive sleep apnea	ADRB1	1.0	
+Obstructive sleep apnea	ADRB2	1.0	
+Obstructive sleep apnea	ADRB3	1.0	
+Acanthosis nigricans	ADRB2	1.0	
+Acanthosis nigricans	ADRB3	1.0	
+Chronic interstitial cystitis	ADRB2	1.0	
+Chronic interstitial cystitis	ADRB3	1.0	
+Atrial Fibrillation	ADRB1	1.0	
+Atrial Fibrillation	ADRB2	1.0	
+Atrial Fibrillation	ADRB3	1.0	
+Capillary hemangiomas	ADRB1	1.0	
+Capillary hemangiomas	ADRB2	1.0	
+Familial hypercholesterolemia	ADRB1	1.0	
+Familial hypercholesterolemia	ADRB2	1.0	
+Familial hypercholesterolemia	ADRB3	1.0	
+Ventricular tachycardia, catecholaminergic polymorphic, 2	ADRB1	1.0	
+Ventricular tachycardia, catecholaminergic polymorphic, 2	ADRB2	1.0	
+Weight Loss Adverse Event	ADRB2	1.0	
+Weight Loss Adverse Event	ADRB3	1.0	
+Fibromyalgia	ADRB2	1.0	
+Fibromyalgia	ADRB3	1.0	
+Ventricular fibrillation	ADRB1	1.0	
+Ventricular fibrillation	ADRB2	1.0	
+Restenosis	ADRB2	1.0	
+Restenosis	ADRB3	1.0	
+Restenosis	BCHE	1.0	
+Meningococcal Infections	ADRB1	1.0	
+Meningococcal Infections	ADRB2	1.0	
+Stress, Psychological	ADRB1	1.0	
+Stress, Psychological	ADRB2	1.0	
+Occupational Diseases	ADRB1	1.0	
+Occupational Diseases	ADRB2	1.0	
+Sleep apnea	ADRB3	1.0	
+Sleep apnea	BCHE	1.0	
+Ventricular Dysfunction, Right	ADRB1	1.0	
+Ventricular Dysfunction, Right	ADRB2	1.0	
+Female infertility	ADRB2	1.0	
+Female infertility	ADRB3	1.0	
+Kidney Failure, Chronic	ADRB1	1.0	
+Kidney Failure, Chronic	ADRB2	1.0	
+Kidney Failure, Chronic	ADRB3	1.0	
+Kidney Failure, Chronic	BCHE	1.0	
+Left ventricular hypertrophy	ADRB1	1.0	
+Left ventricular hypertrophy	ADRB2	1.0	
+Left ventricular hypertrophy	ADRB3	1.0	
+Metabolic Syndrome X	ADRB1	1.0	
+Metabolic Syndrome X	ADRB2	1.0	
+Metabolic Syndrome X	ADRB3	1.0	
+Metabolic Syndrome X	BCHE	1.0	
+Respiration Disorders	ADRB1	1.0	
+Respiration Disorders	ADRB2	1.0	
+Hyperlipidemia, combined, 1	ADRB1	1.0	
+Hyperlipidemia, combined, 1	ADRB2	1.0	
+Hyperlipidemia, combined, 1	ADRB3	1.0	
+Chronic heart failure	ADRB1	1.0	
+Chronic heart failure	ADRB2	1.0	
+Essential hypertension	ADRB1	1.0	
+Essential hypertension	ADRB2	1.0	
+Essential hypertension	ADRB3	1.0	
+Acute Coronary Syndrome	ADRB1	1.0	
+Acute Coronary Syndrome	ADRB2	1.0	
+Acute Coronary Syndrome	ADRB3	1.0	
+Sleep Wake Disorders	ADRB2	1.0	
+Sleep Wake Disorders	ADRB3	1.0	
+Mood Disorders	ADRB1	1.0	
+Mood Disorders	ADRB2	1.0	
+Mood Disorders	ADRB3	1.0	
+Coronary heart disease 7	ADRB1	1.0	
+Coronary heart disease 7	ADRB2	1.0	
+Coronary heart disease 7	ADRB3	1.0	
+Coronary heart disease 7	BCHE	1.0	
+Glaucoma, Open-Angle	ADRB1	1.0	
+Glaucoma, Open-Angle	ADRB2	1.0	
+Portal hypertension, noncirrhotic	ADRB2	1.0	
+Portal hypertension, noncirrhotic	ADRB3	1.0	
+Heart Failure	ADRB1	1.0	
+Heart Failure	ADRB2	1.0	
+Heart Failure	ADRB3	1.0	
+Heart Failure	BCHE	1.0	
+Acquired long QT syndrome	ADRB1	1.0	
+Acquired long QT syndrome	ADRB2	1.0	
+Hypertriglyceridemia	ADRB2	1.0	
+Hypertriglyceridemia	BCHE	1.0	
+Blood pressure finding	ADRB1	1.0	
+Blood pressure finding	ADRB2	1.0	
+Blood pressure finding	ADRB3	1.0	
+Pulmonary Embolism	ADRB2	1.0	
+Pulmonary Embolism	ADRB3	1.0	
+Abdominal obesity	ADRB2	1.0	
+Abdominal obesity	ADRB3	1.0	
+Liver Cirrhosis, Biliary	ADRB1	1.0	
+Liver Cirrhosis, Biliary	ADRB2	1.0	
+Liver Cirrhosis, Biliary	ADRB3	1.0	
+Liver Cirrhosis, Biliary	BCHE	1.0	
+Venous thrombosis	ADRB2	1.0	
+Venous thrombosis	ADRB3	1.0	
+Systemic arterial pressure	ADRB1	1.0	
+Systemic arterial pressure	ADRB2	1.0	
+Systemic arterial pressure	ADRB3	1.0	
+Glaucoma, Angle-Closure	ADRB1	1.0	
+Glaucoma, Angle-Closure	ADRB2	1.0	
+Glaucoma, Angle-Closure	ADRB3	1.0	
+Sudden cardiac death	ADRB1	1.0	
+Sudden cardiac death	ADRB2	1.0	
+Acute myocardial ischemia	ADRB1	1.0	
+Acute myocardial ischemia	ADRB2	1.0	
+Acute myocardial ischemia	ADRB3	1.0	
+Albuminuria	ADRB2	1.0	
+Albuminuria	ADRB3	1.0	
+Cardiovascular Diseases	ADRB1	1.0	
+Cardiovascular Diseases	ADRB2	1.0	
+Cardiovascular Diseases	ADRB3	1.0	
+Cardiovascular Diseases	BCHE	1.0	
+Increased body weight	ADRB2	1.0	
+Increased body weight	ADRB3	1.0	
+Increased body weight	BCHE	1.0	
+Berardinelli-Seip congenital lipodystrophy	ADRB3	1.0	
+High altitude pulmonary edema	ADRB2	1.0	
+Signs and Symptoms, Respiratory	ADRB2	1.0	
+Attention deficit hyperactivity disorder	ADRB1	1.0	
+Attention deficit hyperactivity disorder	ADRB2	1.0	
+Attention deficit hyperactivity disorder	BCHE	1.0	
+Proliferative retinopathy	ADRB3	1.0	
+Cholesterol gallstones	ADRB3	1.0	
+Chorioamnionitis	ADRB2	1.0	
+Chorioamnionitis	ADRB3	1.0	
+Myocardial Reperfusion Injury	ADRB1	1.0	
+Myocardial Reperfusion Injury	ADRB2	1.0	
+Intermittent claudication	ADRB2	1.0	
+Respiratory Hypersensitivity	ADRB2	1.0	
+Vascular malformation, primary intraosseous	ADRB1	1.0	
+Enzyme inhibition disorder	BCHE	1.0	
+Myasthenia Gravis	ADRB2	1.0	
+Myasthenia Gravis	BCHE	1.0	
+Renal hypertension	ADRB2	1.0	
+Hypervolemia	ADRB2	1.0	
+childhood brain tumor	BCHE	1.0	
+heavy drinking	ADRB2	1.0	
+Overweight	ADRB2	1.0	
+Overweight	ADRB3	1.0	
+Churg-Strauss Syndrome	BCHE	1.0	
+Buphthalmos	ADRB2	1.0	
+Acute postoperative pain	ADRB2	1.0	
+Dyslipidemias	ADRB2	1.0	
+Dyslipidemias	ADRB3	1.0	
+Personality disorder	ADRB1	1.0	
+Pregnancy associated hypertension	ADRB3	1.0	
+Chromosome 5, trisomy 5q	ADRB2	1.0	
+Ovarian Diseases	ADRB2	1.0	
+Ovarian Diseases	ADRB3	1.0	
+Meningitis, Bacterial	ADRB2	1.0	
+Neurotoxicity Syndromes	BCHE	1.0	
+Venous Thromboembolism	ADRB2	1.0	
+Venous Thromboembolism	ADRB3	1.0	
+Allergic sensitization	ADRB2	1.0	
+Hypoplastic left heart syndrome	ADRB1	1.0	
+Gestational trophoblastic disease	BCHE	1.0	
+Obesity, Visceral	ADRB3	1.0	
+Anaphylactic shock NOS	ADRB1	1.0	
+Chronic pain	ADRB2	1.0	
+Hypertriglyceridemia result	ADRB2	1.0	
+Pediatric Obesity	ADRB2	1.0	
+Coronary Artery Disease	ADRB1	1.0	
+Coronary Artery Disease	ADRB2	1.0	
+Coronary Artery Disease	ADRB3	1.0	
+Coronary Artery Disease	BCHE	1.0	
+Cardiomyopathy	ADRB1	1.0	
+Cardiomyopathy	ADRB2	1.0	
+Cardiomyopathy	ADRB3	1.0	
+Subarachnoid hemorrhage	ADRB1	1.0	
+Subarachnoid hemorrhage	ADRB2	1.0	
+Renovascular hypertension	ADRB1	1.0	
+Hypokalemia	ADRB2	1.0	
+Malignant hyperthermia susceptibility	BCHE	1.0	
+Insulin resistance syndrome	ADRB3	1.0	
+Airway Obstruction	ADRB2	1.0	
+Cerebral Amyloid Angiopathy	BCHE	1.0	
+Leptospirosis	BCHE	1.0	
+Aural atresia, congenital	BCHE	1.0	
+Pulmonary function (finding)	ADRB2	1.0	
+Prenatal Exposure Delayed Effects	ADRB2	1.0	
+Refractory anemia	BCHE	1.0	
+Refractory anaemia with excess blasts	BCHE	1.0	
+Cocaine Dependence	BCHE	1.0	
+Ketoacidosis	ADRB3	1.0	
+Glucocorticoid resistance, generalized	ADRB2	1.0	
+Congestive heart failure	ADRB1	1.0	
+Congestive heart failure	ADRB2	1.0	
+Congestive heart failure	ADRB3	1.0	
+Glucose intolerance	ADRB2	1.0	
+Glucose intolerance	ADRB3	1.0	
+Reperfusion Injury	ADRB1	1.0	
+Reperfusion Injury	ADRB2	1.0	
+ {Septic shock, susceptibility to} (3)	ADRB2	1.0	
+Adverse drug events and drug allergies	BCHE	1.0	
+Memory Loss	BCHE	1.0	
+Congenital myasthenic syndrome	BCHE	1.0	
+Cognition Disorders	BCHE	1.0	
+Syncope	ADRB1	1.0	
+Hydatidiform mole, recurrent, 1, 231090 (3)	BCHE	1.0	
+Trachoma	ADRB2	1.0	
+Insulin Resistance	ADRB2	1.0	
+Insulin Resistance	ADRB3	1.0	
+Fasciculations	BCHE	1.0	
+Proliferative diabetic retinopathy	ADRB3	1.0	
+Aqueous Humor Disorders	ADRB2	1.0	
+Retinopathy of Prematurity	ADRB3	1.0	
+ Hyperandrogenism, nonclassic type, due to 21-hydroxylase deficiency, 201910 (3)	ADRB3	1.0	
+Hyperuricemia, pulmonary hypertension, renal failure, and alkalosis	ADRB3	1.0	
+Chronic obstructive pulmonary disease	ADRB1	1.0	
+Chronic obstructive pulmonary disease	ADRB2	1.0	
+Chronic obstructive pulmonary disease	ADRB3	1.0	

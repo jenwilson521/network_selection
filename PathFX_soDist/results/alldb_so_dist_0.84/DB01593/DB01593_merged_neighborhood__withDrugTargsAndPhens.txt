@@ -1,0 +1,4773 @@
+node1	node2	edge_score	
+DB01593	CPE	1.0	
+DB01593	CCS	1.0	
+DB01593	HBB	1.0	
+DB01593	TPI1	1.0	
+DB01593	APLP1	1.0	
+DB01593	APLP2	1.0	
+DB01593	AGT	1.0	
+DB01593	GSN	1.0	
+DB01593	DCD	1.0	
+DB01593	SEMG1	1.0	
+DB01593	FGA	1.0	
+DB01593	A1BG	1.0	
+DB01593	SOD1	1.0	
+DB01593	P4HB	1.0	
+DB01593	SIVA1	1.0	
+DB01593	MGMT	1.0	
+DB01593	MDM2	1.0	
+DB01593	NME1	1.0	
+DB01593	FN1	1.0	
+DB01593	APP	1.0	
+DB01593	C1QC	1.0	
+DB01593	C1QB	1.0	
+DB01593	UTRN	1.0	
+DB01593	IGFALS	1.0	
+DB01593	APOA1	1.0	
+DB01593	APOA2	1.0	
+DB01593	APOE	1.0	
+DB01593	HRNR	1.0	
+DB01593	C4BPA	1.0	
+DB01593	ITIH4	1.0	
+DB01593	JUP	1.0	
+DB01593	MT1A	1.0	
+DB01593	FCN3	1.0	
+DB01593	BRCC3	1.0	
+DB01593	PARP1	1.0	
+DB01593	DSP	1.0	
+DB01593	F12	1.0	
+DB01593	SERPIND1	1.0	
+DB01593	MPG	1.0	
+DB01593	TP53	1.0	
+DB01593	ESR1	1.0	
+DB01593	ITIH3	1.0	
+DB01593	INS	1.0	
+DB01593	SHBG	1.0	
+DB01593	KRT16	1.0	
+DB01593	KRT14	1.0	
+DB01593	KRT10	1.0	
+DB01593	ORM2	1.0	
+DB01593	HDAC1	1.0	
+DB01593	HDAC4	1.0	
+DB01593	HDAC8	1.0	
+DB01593	KRT2	1.0	
+DB01593	KRT1	1.0	
+DB01593	KRT5	1.0	
+DB01593	ITIH1	1.0	
+DB01593	KRT9	1.0	
+DB01593	ITIH2	1.0	
+DB01593	A2M	1.0	
+DB01593	ASPA	1.0	
+DB01593	IDE	1.0	
+DB01593	S100A9	1.0	
+DB01593	S100A8	1.0	
+DB01593	KRT6A	1.0	
+DB01593	C3	1.0	
+DB01593	S100A7	1.0	
+DB01593	C5	1.0	
+DB01593	S100A2	1.0	
+DB01593	F13B	1.0	
+DB01593	C4B_2	1.0	
+DB01593	VTN	1.0	
+DB01593	ENO1	1.0	
+DB01593	CLU	1.0	
+DB01593	CP	1.0	
+DB01593	BDKRB1	1.0	
+DB01593	F2	1.0	
+DB01593	PSPH	1.0	
+DB01593	PON1	1.0	
+DB01593	KNG1	1.0	
+DB01593	TP73	1.0	
+DB01593	IL3	1.0	
+DB01593	CPN1	1.0	
+DB01593	CA1	1.0	
+DB01593	MT2A	1.0	
+DB01593	EEF1A1	1.0	
+DB01593	PRDX1	1.0	
+DB01593	PDCD6	1.0	
+DB01593	C8A	1.0	
+DB01593	C8B	1.0	
+DB01593	AHSG	1.0	
+DB01593	C8G	1.0	
+DB01593	SERPINA1	1.0	
+DB01593	SERPINA3	1.0	
+DB01593	SERPINA4	1.0	
+DB01593	MT3	1.0	
+DB01593	TF	1.0	
+DB01593	APCS	1.0	
+DB01593	APOL1	1.0	
+DB01593	KLKB1	1.0	
+DB01593	HPR	1.0	
+DB01593	MMP9	1.0	
+DB01593	PDIA3	1.0	
+DB01593	GAPDHS	1.0	
+DB01593	ALDOA	1.0	
+DB01593	HBA2	1.0	
+DB01593	CFH	1.0	
+DB01593	CFI	1.0	
+DB01593	GLRA1	1.0	
+DB01593	CFB	1.0	
+DB01593	ADH1C	1.0	
+DB01593	TTR	1.0	
+DB01593	C1S	1.0	
+DB01593	C1R	1.0	
+DB01593	TUFM	1.0	
+MDM2		1.0
+AHSG	complex:lAo9+jzjVOaRJSWZQvoh0G1mUDc	0.904977499353
+A2M		1.0
+FN1		1.0
+AGT	rs699	0.99
+KRT6A		1.0
+APOC1	rs7412	0.970299
+ESR1	rs4870061	0.99
+BDKRB1		1.0
+CFH		1.0
+KRT6A	complex:lAo9+jzjVOaRJSWZQvoh0G1mUDc	0.904977499353
+PARP1		1.0
+ESR1		1.0
+C5		1.0
+AHSG		1.0
+APOA1	rs2727786	0.99
+KRT16		1.0
+APOA1	rs964184	0.99
+F2		1.0
+TP53	rs1042522	0.99
+DCD		1.0
+GSN	complex:lAo9+jzjVOaRJSWZQvoh0G1mUDc	0.904977499353
+CFH	rs1061170	0.99
+HDAC1	rs1741981	0.99
+ESR1	rs2234693	0.99
+DCD	complex:lAo9+jzjVOaRJSWZQvoh0G1mUDc	0.904977499353
+KRT16	complex:lAo9+jzjVOaRJSWZQvoh0G1mUDc	0.904977499353
+PON1	rs662	0.99
+TTR		1.0
+APOA1		1.0
+ADH1C		1.0
+rs429358	APOE	0.96059601
+APP		1.0
+ITIH1		1.0
+PON1	rs705379	0.99
+SERPINA3		1.0
+HBB		1.0
+APOA2	complex:lAo9+jzjVOaRJSWZQvoh0G1mUDc	0.904977499353
+APOE	complex:lAo9+jzjVOaRJSWZQvoh0G1mUDc	0.904977499353
+ITIH3		1.0
+AGT	rs7079	0.99
+rs7412	APOE	0.96059601
+PON1	rs854560	0.99
+HDAC1		1.0
+KRT10	complex:lAo9+jzjVOaRJSWZQvoh0G1mUDc	0.904977499353
+KRT9		1.0
+ESR1	rs2813543	0.99
+TTR	complex:lAo9+jzjVOaRJSWZQvoh0G1mUDc	0.904977499353
+KRT14		1.0
+ESR1	rs9322335	0.99
+KRT10		1.0
+KRT1	complex:lAo9+jzjVOaRJSWZQvoh0G1mUDc	0.904977499353
+AGT		1.0
+ESR1	rs9340799	0.99
+AGT	rs5050	0.99
+PON1	rs854555	0.99
+TP53		1.0
+PON1	rs854547	0.99
+PON1	rs854548	0.99
+AGT	rs5051	0.99
+ESR1	rs2207396	0.99
+KRT14	complex:lAo9+jzjVOaRJSWZQvoh0G1mUDc	0.904977499353
+TF		1.0
+GSN		1.0
+APOC1	rs429358	0.970299
+CFB		1.0
+AGT	rs943580	0.99
+F12		1.0
+APOE	rs429358	0.99
+CFH	complex:lAo9+jzjVOaRJSWZQvoh0G1mUDc	0.904977499353
+rs429358	APOC1	0.9801
+KRT1		1.0
+APOA1	complex:lAo9+jzjVOaRJSWZQvoh0G1mUDc	0.904977499353
+ESR1	rs11543791	0.99
+KRT9	complex:lAo9+jzjVOaRJSWZQvoh0G1mUDc	0.954526206676
+CFB	complex:lAo9+jzjVOaRJSWZQvoh0G1mUDc	0.904977499353
+APOA2		1.0
+APOE		1.0
+ITIH1	complex:lAo9+jzjVOaRJSWZQvoh0G1mUDc	0.904977499353
+ORM2		1.0
+rs429358	TOMM40	0.9801
+KRT5	complex:lAo9+jzjVOaRJSWZQvoh0G1mUDc	0.904977499353
+complex:lAo9+jzjVOaRJSWZQvoh0G1mUDc	ALB	0.911120279231
+complex:lAo9+jzjVOaRJSWZQvoh0G1mUDc	OR8D2	0.911120279231
+KRT5		1.0
+rs7412	APOC1	0.9801
+APOE	APOE E2, APOE E3, APOE E4	0.99
+FN1	complex:lAo9+jzjVOaRJSWZQvoh0G1mUDc	0.904977499353
+AGT	rs11122576	0.99
+PON1		1.0
+CFH	rs800292	0.99
+APOE	rs7412	0.99
+Epidermolysis bullosa simplex, Cockayne-Touraine type	FN1	1.0	
+Epidermolysis bullosa simplex, Cockayne-Touraine type	KRT1	1.0	
+Epidermolysis bullosa simplex, Cockayne-Touraine type	KRT10	1.0	
+Epidermolysis bullosa simplex, Cockayne-Touraine type	KRT14	1.0	
+Epidermolysis bullosa simplex, Cockayne-Touraine type	KRT5	1.0	
+Epidermolysis bullosa simplex, Cockayne-Touraine type	KRT9	1.0	
+Cerebral Amyloid Angiopathy	A2M	1.0	
+Cerebral Amyloid Angiopathy	APOA1	1.0	
+Cerebral Amyloid Angiopathy	APOE	1.0	
+Cerebral Amyloid Angiopathy	APP	1.0	
+Cerebral Amyloid Angiopathy	GSN	1.0	
+Cerebral Amyloid Angiopathy	SERPINA3	1.0	
+Cerebral Amyloid Angiopathy	TTR	1.0	
+Palmar hyperkeratosis	KRT1	1.0	
+Palmar hyperkeratosis	KRT10	1.0	
+Palmar hyperkeratosis	KRT14	1.0	
+Palmar hyperkeratosis	KRT16	1.0	
+Palmar hyperkeratosis	KRT5	1.0	
+Palmar hyperkeratosis	KRT6A	1.0	
+Palmar hyperkeratosis	KRT9	1.0	
+Aural atresia, congenital	A2M	1.0	
+Aural atresia, congenital	APOE	1.0	
+Aural atresia, congenital	APP	1.0	
+Aural atresia, congenital	GSN	1.0	
+Aural atresia, congenital	HBB	1.0	
+Aural atresia, congenital	SERPINA3	1.0	
+Aural atresia, congenital	TTR	1.0	
+Plantar hyperkeratosis	KRT1	1.0	
+Plantar hyperkeratosis	KRT10	1.0	
+Plantar hyperkeratosis	KRT14	1.0	
+Plantar hyperkeratosis	KRT16	1.0	
+Plantar hyperkeratosis	KRT5	1.0	
+Plantar hyperkeratosis	KRT6A	1.0	
+Plantar hyperkeratosis	KRT9	1.0	
+Dementia, Vascular	AGT	1.0	
+Dementia, Vascular	ALB	1.0	
+Dementia, Vascular	APOE	1.0	
+Dementia, Vascular	APP	1.0	
+Dementia, Vascular	ESR1	1.0	
+Dementia, Vascular	FN1	1.0	
+Dementia, Vascular	PON1	1.0	
+Dementia, Vascular	SERPINA3	1.0	
+Dementia, Vascular	TP53	1.0	
+Sepsis	A2M	1.0	
+Sepsis	AGT	1.0	
+Sepsis	APOA1	1.0	
+Sepsis	APOC1	1.0	
+Sepsis	APOE	1.0	
+Sepsis	APP	1.0	
+Sepsis	C5	1.0	
+Sepsis	CFB	1.0	
+Sepsis	CFH	1.0	
+Sepsis	F2	1.0	
+Sepsis	FN1	1.0	
+Sepsis	GSN	1.0	
+Sepsis	HBB	1.0	
+Sepsis	MDM2	1.0	
+Sepsis	PARP1	1.0	
+Coronary heart disease 7	ADH1C	1.0	
+Coronary heart disease 7	AGT	1.0	
+Coronary heart disease 7	AHSG	1.0	
+Coronary heart disease 7	ALB	1.0	
+Coronary heart disease 7	APOA1	1.0	
+Coronary heart disease 7	APOA2	1.0	
+Coronary heart disease 7	APOC1	1.0	
+Coronary heart disease 7	APOE	1.0	
+Coronary heart disease 7	BDKRB1	1.0	
+Coronary heart disease 7	CFH	1.0	
+Coronary heart disease 7	ESR1	1.0	
+Coronary heart disease 7	F12	1.0	
+Coronary heart disease 7	F2	1.0	
+Coronary heart disease 7	FN1	1.0	
+Coronary heart disease 7	HBB	1.0	
+Coronary heart disease 7	PARP1	1.0	
+Coronary heart disease 7	PON1	1.0	
+Coronary heart disease 7	TP53	1.0	
+Dementia familial British	ALB	1.0	
+Dementia familial British	APOA1	1.0	
+Dementia familial British	APOC1	1.0	
+Dementia familial British	APOE	1.0	
+Dementia familial British	APP	1.0	
+Dementia familial British	ESR1	1.0	
+Dementia familial British	FN1	1.0	
+Dementia familial British	PARP1	1.0	
+Dementia familial British	PON1	1.0	
+Dementia familial British	SERPINA3	1.0	
+Dementia familial British	TP53	1.0	
+Dementia familial British	TTR	1.0	
+Hemochromatosis	AGT	1.0	
+Hemochromatosis	ALB	1.0	
+Hemochromatosis	APOE	1.0	
+Hemochromatosis	F2	1.0	
+Hemochromatosis	HBB	1.0	
+Hemochromatosis	MDM2	1.0	
+Hemochromatosis	TF	1.0	
+Hemochromatosis	TP53	1.0	
+Diabetes Mellitus, Type 1	A2M	1.0	
+Diabetes Mellitus, Type 1	ADH1C	1.0	
+Diabetes Mellitus, Type 1	AGT	1.0	
+Diabetes Mellitus, Type 1	AHSG	1.0	
+Diabetes Mellitus, Type 1	ALB	1.0	
+Diabetes Mellitus, Type 1	APOA1	1.0	
+Diabetes Mellitus, Type 1	APOA2	1.0	
+Diabetes Mellitus, Type 1	APOE	1.0	
+Diabetes Mellitus, Type 1	APP	1.0	
+Diabetes Mellitus, Type 1	BDKRB1	1.0	
+Diabetes Mellitus, Type 1	CFB	1.0	
+Diabetes Mellitus, Type 1	CFH	1.0	
+Diabetes Mellitus, Type 1	ESR1	1.0	
+Diabetes Mellitus, Type 1	F2	1.0	
+Diabetes Mellitus, Type 1	FN1	1.0	
+Diabetes Mellitus, Type 1	GSN	1.0	
+Diabetes Mellitus, Type 1	HBB	1.0	
+Diabetes Mellitus, Type 1	HDAC1	1.0	
+Diabetes Mellitus, Type 1	KRT16	1.0	
+Diabetes Mellitus, Type 1	MDM2	1.0	
+Diabetes Mellitus, Type 1	PARP1	1.0	
+Diabetes Mellitus, Type 1	PON1	1.0	
+Diabetes Mellitus, Type 1	SERPINA3	1.0	
+Diabetes Mellitus, Type 1	TF	1.0	
+Diabetes Mellitus, Type 1	TOMM40	1.0	
+Diabetes Mellitus, Type 1	TP53	1.0	
+Inflammation	A2M	1.0	
+Inflammation	ADH1C	1.0	
+Inflammation	AGT	1.0	
+Inflammation	AHSG	1.0	
+Inflammation	APOA1	1.0	
+Inflammation	APOA2	1.0	
+Inflammation	APOC1	1.0	
+Inflammation	APOE	1.0	
+Inflammation	APP	1.0	
+Inflammation	BDKRB1	1.0	
+Inflammation	C5	1.0	
+Inflammation	CFH	1.0	
+Inflammation	ESR1	1.0	
+Inflammation	F2	1.0	
+Inflammation	FN1	1.0	
+Inflammation	HBB	1.0	
+Inflammation	PARP1	1.0	
+Inflammation	PON1	1.0	
+Inflammation	SERPINA3	1.0	
+Inflammation	TF	1.0	
+Inflammation	TP53	1.0	
+Papilloma	APOE	1.0	
+Papilloma	ESR1	1.0	
+Papilloma	KRT1	1.0	
+Papilloma	KRT14	1.0	
+Papilloma	KRT16	1.0	
+Papilloma	KRT5	1.0	
+Papilloma	KRT9	1.0	
+Papilloma	MDM2	1.0	
+Papilloma	TP53	1.0	
+Papilloma	TTR	1.0	
+Age-related macular degeneration 2	A2M	1.0	
+Age-related macular degeneration 2	AGT	1.0	
+Age-related macular degeneration 2	ALB	1.0	
+Age-related macular degeneration 2	APOC1	1.0	
+Age-related macular degeneration 2	APOE	1.0	
+Age-related macular degeneration 2	APP	1.0	
+Age-related macular degeneration 2	C5	1.0	
+Age-related macular degeneration 2	CFB	1.0	
+Age-related macular degeneration 2	CFH	1.0	
+Age-related macular degeneration 2	ESR1	1.0	
+Age-related macular degeneration 2	F2	1.0	
+Age-related macular degeneration 2	PARP1	1.0	
+Age-related macular degeneration 2	PON1	1.0	
+Age-related macular degeneration 2	SERPINA3	1.0	
+Age-related macular degeneration 2	TF	1.0	
+Age-related macular degeneration 2	TOMM40	1.0	
+Abnormality of the plantar skin of foot	KRT1	1.0	
+Abnormality of the plantar skin of foot	KRT10	1.0	
+Abnormality of the plantar skin of foot	KRT14	1.0	
+Abnormality of the plantar skin of foot	KRT16	1.0	
+Abnormality of the plantar skin of foot	KRT5	1.0	
+Abnormality of the plantar skin of foot	KRT6A	1.0	
+Abnormality of the plantar skin of foot	KRT9	1.0	
+Stroke	A2M	1.0	
+Stroke	ADH1C	1.0	
+Stroke	AGT	1.0	
+Stroke	AHSG	1.0	
+Stroke	ALB	1.0	
+Stroke	APOA1	1.0	
+Stroke	APOE	1.0	
+Stroke	APP	1.0	
+Stroke	C5	1.0	
+Stroke	CFH	1.0	
+Stroke	ESR1	1.0	
+Stroke	F12	1.0	
+Stroke	F2	1.0	
+Stroke	HBB	1.0	
+Stroke	HDAC1	1.0	
+Stroke	KRT5	1.0	
+Stroke	PARP1	1.0	
+Stroke	PON1	1.0	
+Stroke	SERPINA3	1.0	
+Stroke	TF	1.0	
+Stroke	TP53	1.0	
+Stroke	TTR	1.0	
+Neoplasm of the liver	A2M	1.0	
+Neoplasm of the liver	AGT	1.0	
+Neoplasm of the liver	AHSG	1.0	
+Neoplasm of the liver	ALB	1.0	
+Neoplasm of the liver	APOA1	1.0	
+Neoplasm of the liver	APOE	1.0	
+Neoplasm of the liver	APP	1.0	
+Neoplasm of the liver	DCD	1.0	
+Neoplasm of the liver	ESR1	1.0	
+Neoplasm of the liver	F2	1.0	
+Neoplasm of the liver	FN1	1.0	
+Neoplasm of the liver	HBB	1.0	
+Neoplasm of the liver	ITIH1	1.0	
+Neoplasm of the liver	KRT5	1.0	
+Neoplasm of the liver	MDM2	1.0	
+Neoplasm of the liver	PARP1	1.0	
+Neoplasm of the liver	PON1	1.0	
+Neoplasm of the liver	SERPINA3	1.0	
+Neoplasm of the liver	TF	1.0	
+Neoplasm of the liver	TP53	1.0	
+Neoplasm of the liver	TTR	1.0	
+Cerebroretinal microangiopathy with calcifications and cysts 1	AGT	1.0	
+Cerebroretinal microangiopathy with calcifications and cysts 1	APOE	1.0	
+Cerebroretinal microangiopathy with calcifications and cysts 1	CFH	1.0	
+Cerebroretinal microangiopathy with calcifications and cysts 1	PARP1	1.0	
+Cerebroretinal microangiopathy with calcifications and cysts 1	PON1	1.0	
+Cerebroretinal microangiopathy with calcifications and cysts 1	TTR	1.0	
+Diabetes mellitus type 2	ADH1C	1.0	
+Diabetes mellitus type 2	AGT	1.0	
+Diabetes mellitus type 2	AHSG	1.0	
+Diabetes mellitus type 2	ALB	1.0	
+Diabetes mellitus type 2	APOA1	1.0	
+Diabetes mellitus type 2	APOA2	1.0	
+Diabetes mellitus type 2	APOC1	1.0	
+Diabetes mellitus type 2	APOE	1.0	
+Diabetes mellitus type 2	C5	1.0	
+Diabetes mellitus type 2	CFB	1.0	
+Diabetes mellitus type 2	CFH	1.0	
+Diabetes mellitus type 2	DCD	1.0	
+Diabetes mellitus type 2	ESR1	1.0	
+Diabetes mellitus type 2	F12	1.0	
+Diabetes mellitus type 2	F2	1.0	
+Diabetes mellitus type 2	FN1	1.0	
+Diabetes mellitus type 2	GSN	1.0	
+Diabetes mellitus type 2	KRT16	1.0	
+Diabetes mellitus type 2	PARP1	1.0	
+Diabetes mellitus type 2	PON1	1.0	
+Diabetes mellitus type 2	SERPINA3	1.0	
+Diabetes mellitus type 2	TF	1.0	
+Diabetes mellitus type 2	TOMM40	1.0	
+Diabetes mellitus type 2	TP53	1.0	
+Diabetes mellitus type 2	TTR	1.0	
+Bone necrosis	ADH1C	1.0	
+Bone necrosis	APOA1	1.0	
+Bone necrosis	ESR1	1.0	
+Bone necrosis	F2	1.0	
+Bone necrosis	PON1	1.0	
+Bone necrosis	TF	1.0	
+Bone necrosis	TP53	1.0	
+Plaque, Atherosclerotic	A2M	1.0	
+Plaque, Atherosclerotic	ALB	1.0	
+Plaque, Atherosclerotic	APOA1	1.0	
+Plaque, Atherosclerotic	APOE	1.0	
+Plaque, Atherosclerotic	APP	1.0	
+Plaque, Atherosclerotic	GSN	1.0	
+Plaque, Atherosclerotic	PARP1	1.0	
+Plaque, Atherosclerotic	SERPINA3	1.0	
+Plaque, Atherosclerotic	TF	1.0	
+Plaque, Atherosclerotic	TTR	1.0	
+Cardiovascular Diseases	ADH1C	1.0	
+Cardiovascular Diseases	AGT	1.0	
+Cardiovascular Diseases	AHSG	1.0	
+Cardiovascular Diseases	ALB	1.0	
+Cardiovascular Diseases	APOA1	1.0	
+Cardiovascular Diseases	APOC1	1.0	
+Cardiovascular Diseases	APOE	1.0	
+Cardiovascular Diseases	APP	1.0	
+Cardiovascular Diseases	BDKRB1	1.0	
+Cardiovascular Diseases	CFH	1.0	
+Cardiovascular Diseases	ESR1	1.0	
+Cardiovascular Diseases	F12	1.0	
+Cardiovascular Diseases	F2	1.0	
+Cardiovascular Diseases	FN1	1.0	
+Cardiovascular Diseases	KRT5	1.0	
+Cardiovascular Diseases	PON1	1.0	
+Cardiovascular Diseases	TF	1.0	
+Cardiovascular Diseases	TOMM40	1.0	
+Cardiovascular Diseases	TP53	1.0	
+Kidney Failure, Chronic	AGT	1.0	
+Kidney Failure, Chronic	AHSG	1.0	
+Kidney Failure, Chronic	ALB	1.0	
+Kidney Failure, Chronic	APOA1	1.0	
+Kidney Failure, Chronic	APOE	1.0	
+Kidney Failure, Chronic	BDKRB1	1.0	
+Kidney Failure, Chronic	CFH	1.0	
+Kidney Failure, Chronic	ESR1	1.0	
+Kidney Failure, Chronic	F12	1.0	
+Kidney Failure, Chronic	F2	1.0	
+Kidney Failure, Chronic	GSN	1.0	
+Kidney Failure, Chronic	PON1	1.0	
+Kidney Failure, Chronic	SERPINA3	1.0	
+Kidney Failure, Chronic	TP53	1.0	
+Kidney Failure, Chronic	TTR	1.0	
+Myocardial Infarction	A2M	1.0	
+Myocardial Infarction	ADH1C	1.0	
+Myocardial Infarction	AGT	1.0	
+Myocardial Infarction	AHSG	1.0	
+Myocardial Infarction	APOA1	1.0	
+Myocardial Infarction	APOA2	1.0	
+Myocardial Infarction	APOC1	1.0	
+Myocardial Infarction	APOE	1.0	
+Myocardial Infarction	BDKRB1	1.0	
+Myocardial Infarction	CFH	1.0	
+Myocardial Infarction	ESR1	1.0	
+Myocardial Infarction	F12	1.0	
+Myocardial Infarction	F2	1.0	
+Myocardial Infarction	FN1	1.0	
+Myocardial Infarction	GSN	1.0	
+Myocardial Infarction	ITIH3	1.0	
+Myocardial Infarction	KRT16	1.0	
+Myocardial Infarction	PARP1	1.0	
+Myocardial Infarction	PON1	1.0	
+Myocardial Infarction	SERPINA3	1.0	
+Myocardial Infarction	TF	1.0	
+Myocardial Infarction	TP53	1.0	
+Coronary Artery Disease	ADH1C	1.0	
+Coronary Artery Disease	AGT	1.0	
+Coronary Artery Disease	AHSG	1.0	
+Coronary Artery Disease	ALB	1.0	
+Coronary Artery Disease	APOA1	1.0	
+Coronary Artery Disease	APOA2	1.0	
+Coronary Artery Disease	APOC1	1.0	
+Coronary Artery Disease	APOE	1.0	
+Coronary Artery Disease	APP	1.0	
+Coronary Artery Disease	BDKRB1	1.0	
+Coronary Artery Disease	C5	1.0	
+Coronary Artery Disease	CFB	1.0	
+Coronary Artery Disease	CFH	1.0	
+Coronary Artery Disease	ESR1	1.0	
+Coronary Artery Disease	F12	1.0	
+Coronary Artery Disease	F2	1.0	
+Coronary Artery Disease	FN1	1.0	
+Coronary Artery Disease	HBB	1.0	
+Coronary Artery Disease	KRT5	1.0	
+Coronary Artery Disease	PON1	1.0	
+Coronary Artery Disease	TP53	1.0	
+Stage 5 chronic kidney disease	AGT	1.0	
+Stage 5 chronic kidney disease	AHSG	1.0	
+Stage 5 chronic kidney disease	ALB	1.0	
+Stage 5 chronic kidney disease	APOA1	1.0	
+Stage 5 chronic kidney disease	APOE	1.0	
+Stage 5 chronic kidney disease	CFH	1.0	
+Stage 5 chronic kidney disease	ESR1	1.0	
+Stage 5 chronic kidney disease	FN1	1.0	
+Stage 5 chronic kidney disease	GSN	1.0	
+Stage 5 chronic kidney disease	TTR	1.0	
+Liver Cirrhosis, Biliary	A2M	1.0	
+Liver Cirrhosis, Biliary	ADH1C	1.0	
+Liver Cirrhosis, Biliary	AGT	1.0	
+Liver Cirrhosis, Biliary	ALB	1.0	
+Liver Cirrhosis, Biliary	APOA1	1.0	
+Liver Cirrhosis, Biliary	APOE	1.0	
+Liver Cirrhosis, Biliary	C5	1.0	
+Liver Cirrhosis, Biliary	ESR1	1.0	
+Liver Cirrhosis, Biliary	F2	1.0	
+Liver Cirrhosis, Biliary	FN1	1.0	
+Liver Cirrhosis, Biliary	GSN	1.0	
+Liver Cirrhosis, Biliary	HBB	1.0	
+Liver Cirrhosis, Biliary	MDM2	1.0	
+Liver Cirrhosis, Biliary	PON1	1.0	
+Liver Cirrhosis, Biliary	SERPINA3	1.0	
+Liver Cirrhosis, Biliary	TF	1.0	
+Liver Cirrhosis, Biliary	TP53	1.0	
+Ischemic stroke	A2M	1.0	
+Ischemic stroke	AGT	1.0	
+Ischemic stroke	AHSG	1.0	
+Ischemic stroke	APOA1	1.0	
+Ischemic stroke	APOE	1.0	
+Ischemic stroke	CFH	1.0	
+Ischemic stroke	ESR1	1.0	
+Ischemic stroke	F12	1.0	
+Ischemic stroke	F2	1.0	
+Ischemic stroke	PON1	1.0	
+Ischemic stroke	SERPINA3	1.0	
+Ischemic stroke	TP53	1.0	
+Familial hypercholesterolemia	AGT	1.0	
+Familial hypercholesterolemia	ALB	1.0	
+Familial hypercholesterolemia	APOA1	1.0	
+Familial hypercholesterolemia	APOA2	1.0	
+Familial hypercholesterolemia	APOE	1.0	
+Familial hypercholesterolemia	CFH	1.0	
+Familial hypercholesterolemia	ESR1	1.0	
+Familial hypercholesterolemia	F2	1.0	
+Familial hypercholesterolemia	PON1	1.0	
+Membranous nephropathy, susceptibility to	A2M	1.0	
+Membranous nephropathy, susceptibility to	AGT	1.0	
+Membranous nephropathy, susceptibility to	ALB	1.0	
+Membranous nephropathy, susceptibility to	APOA1	1.0	
+Membranous nephropathy, susceptibility to	APOE	1.0	
+Membranous nephropathy, susceptibility to	CFH	1.0	
+Membranous nephropathy, susceptibility to	FN1	1.0	
+Vascular Diseases	AGT	1.0	
+Vascular Diseases	AHSG	1.0	
+Vascular Diseases	ALB	1.0	
+Vascular Diseases	APOA1	1.0	
+Vascular Diseases	APOE	1.0	
+Vascular Diseases	APP	1.0	
+Vascular Diseases	ESR1	1.0	
+Vascular Diseases	F2	1.0	
+Vascular Diseases	PON1	1.0	
+Vascular Diseases	SERPINA3	1.0	
+Vascular Diseases	TP53	1.0	
+Vascular Diseases	TTR	1.0	
+Alzheimer Disease	A2M	1.0	
+Alzheimer Disease	AGT	1.0	
+Alzheimer Disease	AHSG	1.0	
+Alzheimer Disease	ALB	1.0	
+Alzheimer Disease	APOA1	1.0	
+Alzheimer Disease	APOC1	1.0	
+Alzheimer Disease	APOE	1.0	
+Alzheimer Disease	APP	1.0	
+Alzheimer Disease	CFB	1.0	
+Alzheimer Disease	CFH	1.0	
+Alzheimer Disease	ESR1	1.0	
+Alzheimer Disease	F2	1.0	
+Alzheimer Disease	FN1	1.0	
+Alzheimer Disease	GSN	1.0	
+Alzheimer Disease	KRT14	1.0	
+Alzheimer Disease	PARP1	1.0	
+Alzheimer Disease	PON1	1.0	
+Alzheimer Disease	SERPINA3	1.0	
+Alzheimer Disease	TF	1.0	
+Alzheimer Disease	TOMM40	1.0	
+Alzheimer Disease	TP53	1.0	
+Alzheimer Disease	TTR	1.0	
+Brain Ischemia	AGT	1.0	
+Brain Ischemia	ALB	1.0	
+Brain Ischemia	APOE	1.0	
+Brain Ischemia	C5	1.0	
+Brain Ischemia	ESR1	1.0	
+Brain Ischemia	F2	1.0	
+Brain Ischemia	KRT5	1.0	
+Brain Ischemia	PARP1	1.0	
+Brain Ischemia	PON1	1.0	
+Brain Ischemia	TF	1.0	
+Brain Ischemia	TP53	1.0	
+Brain Ischemia	TTR	1.0	
+Diabetic Nephropathies	AGT	1.0	
+Diabetic Nephropathies	AHSG	1.0	
+Diabetic Nephropathies	ALB	1.0	
+Diabetic Nephropathies	APOC1	1.0	
+Diabetic Nephropathies	APOE	1.0	
+Diabetic Nephropathies	BDKRB1	1.0	
+Diabetic Nephropathies	CFH	1.0	
+Diabetic Nephropathies	ESR1	1.0	
+Diabetic Nephropathies	FN1	1.0	
+Diabetic Nephropathies	KRT16	1.0	
+Diabetic Nephropathies	PARP1	1.0	
+Diabetic Nephropathies	PON1	1.0	
+Diabetic Nephropathies	TF	1.0	
+Diabetic Nephropathies	TP53	1.0	
+Verotoxigenic Escherichia coli gastrointestinal tract infection	ADH1C	1.0	
+Verotoxigenic Escherichia coli gastrointestinal tract infection	AGT	1.0	
+Verotoxigenic Escherichia coli gastrointestinal tract infection	AHSG	1.0	
+Verotoxigenic Escherichia coli gastrointestinal tract infection	ALB	1.0	
+Verotoxigenic Escherichia coli gastrointestinal tract infection	APOA1	1.0	
+Verotoxigenic Escherichia coli gastrointestinal tract infection	APOC1	1.0	
+Verotoxigenic Escherichia coli gastrointestinal tract infection	APOE	1.0	
+Verotoxigenic Escherichia coli gastrointestinal tract infection	APP	1.0	
+Verotoxigenic Escherichia coli gastrointestinal tract infection	CFH	1.0	
+Verotoxigenic Escherichia coli gastrointestinal tract infection	DCD	1.0	
+Verotoxigenic Escherichia coli gastrointestinal tract infection	ESR1	1.0	
+Verotoxigenic Escherichia coli gastrointestinal tract infection	F12	1.0	
+Verotoxigenic Escherichia coli gastrointestinal tract infection	F2	1.0	
+Verotoxigenic Escherichia coli gastrointestinal tract infection	FN1	1.0	
+Verotoxigenic Escherichia coli gastrointestinal tract infection	MDM2	1.0	
+Verotoxigenic Escherichia coli gastrointestinal tract infection	PARP1	1.0	
+Verotoxigenic Escherichia coli gastrointestinal tract infection	PON1	1.0	
+Verotoxigenic Escherichia coli gastrointestinal tract infection	TP53	1.0	
+Ischemic Cerebrovascular Accident	A2M	1.0	
+Ischemic Cerebrovascular Accident	AGT	1.0	
+Ischemic Cerebrovascular Accident	AHSG	1.0	
+Ischemic Cerebrovascular Accident	APOE	1.0	
+Ischemic Cerebrovascular Accident	CFH	1.0	
+Ischemic Cerebrovascular Accident	ESR1	1.0	
+Ischemic Cerebrovascular Accident	F12	1.0	
+Ischemic Cerebrovascular Accident	F2	1.0	
+Ischemic Cerebrovascular Accident	PON1	1.0	
+Ischemic Cerebrovascular Accident	SERPINA3	1.0	
+Ischemic Cerebrovascular Accident	TP53	1.0	
+Verrucae	KRT1	1.0	
+Verrucae	KRT16	1.0	
+Verrucae	KRT9	1.0	
+Verrucae	MDM2	1.0	
+Verrucae	TP53	1.0	
+Mild cognitive impairment	APOE	1.0	
+Mild cognitive impairment	APP	1.0	
+Mild cognitive impairment	ESR1	1.0	
+Mild cognitive impairment	KRT14	1.0	
+Mild cognitive impairment	SERPINA3	1.0	
+Mild cognitive impairment	TOMM40	1.0	
+Mild cognitive impairment	TP53	1.0	
+Mild cognitive impairment	TTR	1.0	
+Acute kidney injury	A2M	1.0	
+Acute kidney injury	AGT	1.0	
+Acute kidney injury	ALB	1.0	
+Acute kidney injury	APOE	1.0	
+Acute kidney injury	CFB	1.0	
+Acute kidney injury	CFH	1.0	
+Acute kidney injury	FN1	1.0	
+Acute kidney injury	MDM2	1.0	
+Acute kidney injury	PARP1	1.0	
+Acute kidney injury	TP53	1.0	
+Atherosclerosis	ADH1C	1.0	
+Atherosclerosis	AGT	1.0	
+Atherosclerosis	AHSG	1.0	
+Atherosclerosis	ALB	1.0	
+Atherosclerosis	APOA1	1.0	
+Atherosclerosis	APOA2	1.0	
+Atherosclerosis	APOC1	1.0	
+Atherosclerosis	APOE	1.0	
+Atherosclerosis	APP	1.0	
+Atherosclerosis	C5	1.0	
+Atherosclerosis	CFH	1.0	
+Atherosclerosis	ESR1	1.0	
+Atherosclerosis	F2	1.0	
+Atherosclerosis	FN1	1.0	
+Atherosclerosis	MDM2	1.0	
+Atherosclerosis	PARP1	1.0	
+Atherosclerosis	PON1	1.0	
+Atherosclerosis	TP53	1.0	
+Atherosclerosis	TTR	1.0	
+Kidney Diseases	AGT	1.0	
+Kidney Diseases	AHSG	1.0	
+Kidney Diseases	ALB	1.0	
+Kidney Diseases	APOA1	1.0	
+Kidney Diseases	APOE	1.0	
+Kidney Diseases	BDKRB1	1.0	
+Kidney Diseases	CFH	1.0	
+Kidney Diseases	ESR1	1.0	
+Kidney Diseases	F2	1.0	
+Kidney Diseases	FN1	1.0	
+Kidney Diseases	GSN	1.0	
+Kidney Diseases	PARP1	1.0	
+Kidney Diseases	PON1	1.0	
+Kidney Diseases	TP53	1.0	
+Kidney Diseases	TTR	1.0	
+Hypercholesterolemia, autosomal dominant, type B	AGT	1.0	
+Hypercholesterolemia, autosomal dominant, type B	ALB	1.0	
+Hypercholesterolemia, autosomal dominant, type B	APOA1	1.0	
+Hypercholesterolemia, autosomal dominant, type B	APOA2	1.0	
+Hypercholesterolemia, autosomal dominant, type B	APOE	1.0	
+Hypercholesterolemia, autosomal dominant, type B	F12	1.0	
+Hypercholesterolemia, autosomal dominant, type B	F2	1.0	
+Hypercholesterolemia, autosomal dominant, type B	PON1	1.0	
+Hypercholesterolemia, autosomal dominant, type B	SERPINA3	1.0	
+Hepatoblastoma	ALB	1.0	
+Hepatoblastoma	APOA1	1.0	
+Hepatoblastoma	APOE	1.0	
+Hepatoblastoma	ESR1	1.0	
+Hepatoblastoma	F2	1.0	
+Hepatoblastoma	MDM2	1.0	
+Hepatoblastoma	SERPINA3	1.0	
+Hepatoblastoma	TP53	1.0	
+Hepatoblastoma	TTR	1.0	
+Dementia	ALB	1.0	
+Dementia	APOA1	1.0	
+Dementia	APOC1	1.0	
+Dementia	APOE	1.0	
+Dementia	APP	1.0	
+Dementia	ESR1	1.0	
+Dementia	FN1	1.0	
+Dementia	PARP1	1.0	
+Dementia	PON1	1.0	
+Dementia	SERPINA3	1.0	
+Dementia	TP53	1.0	
+Dementia	TTR	1.0	
+Increased inflammatory response	APOA1	1.0	
+Increased inflammatory response	APOE	1.0	
+Increased inflammatory response	C5	1.0	
+Increased inflammatory response	CFB	1.0	
+Increased inflammatory response	ESR1	1.0	
+Increased inflammatory response	HBB	1.0	
+Increased inflammatory response	KRT1	1.0	
+Increased inflammatory response	KRT10	1.0	
+Increased inflammatory response	KRT14	1.0	
+Increased inflammatory response	KRT16	1.0	
+Increased inflammatory response	KRT5	1.0	
+Increased inflammatory response	KRT9	1.0	
+Increased inflammatory response	TP53	1.0	
+Abnormal inflammatory response	APOA1	1.0	
+Abnormal inflammatory response	APOE	1.0	
+Abnormal inflammatory response	C5	1.0	
+Abnormal inflammatory response	CFB	1.0	
+Abnormal inflammatory response	ESR1	1.0	
+Abnormal inflammatory response	HBB	1.0	
+Abnormal inflammatory response	KRT1	1.0	
+Abnormal inflammatory response	KRT10	1.0	
+Abnormal inflammatory response	KRT14	1.0	
+Abnormal inflammatory response	KRT16	1.0	
+Abnormal inflammatory response	KRT5	1.0	
+Abnormal inflammatory response	KRT9	1.0	
+Abnormal inflammatory response	TP53	1.0	
+Liver Diseases	ADH1C	1.0	
+Liver Diseases	AGT	1.0	
+Liver Diseases	ALB	1.0	
+Liver Diseases	APOA1	1.0	
+Liver Diseases	APOE	1.0	
+Liver Diseases	CFH	1.0	
+Liver Diseases	ESR1	1.0	
+Liver Diseases	F2	1.0	
+Liver Diseases	FN1	1.0	
+Liver Diseases	MDM2	1.0	
+Liver Diseases	PON1	1.0	
+Liver Diseases	SERPINA3	1.0	
+Liver Diseases	TP53	1.0	
+Dermatosis NOS	ADH1C	1.0	
+Dermatosis NOS	CFH	1.0	
+Dermatosis NOS	DCD	1.0	
+Dermatosis NOS	F2	1.0	
+Dermatosis NOS	KRT1	1.0	
+Dermatosis NOS	KRT10	1.0	
+Dermatosis NOS	KRT14	1.0	
+Dermatosis NOS	KRT5	1.0	
+Dermatosis NOS	KRT6A	1.0	
+Dermatosis NOS	KRT9	1.0	
+Dermatosis NOS	PON1	1.0	
+Dermatosis NOS	TP53	1.0	
+Mesangiocapillary glomerulonephritis, type II	ALB	1.0	
+Mesangiocapillary glomerulonephritis, type II	CFH	1.0	
+Mesangiocapillary glomerulonephritis, type II	FN1	1.0	
+Mesangiocapillary glomerulonephritis, type II	KRT5	1.0	
+Mesangiocapillary glomerulonephritis, type II	PON1	1.0	
+Acute myocardial ischemia	ADH1C	1.0	
+Acute myocardial ischemia	AGT	1.0	
+Acute myocardial ischemia	ALB	1.0	
+Acute myocardial ischemia	APOA1	1.0	
+Acute myocardial ischemia	APOE	1.0	
+Acute myocardial ischemia	CFH	1.0	
+Acute myocardial ischemia	ESR1	1.0	
+Acute myocardial ischemia	F2	1.0	
+Acute myocardial ischemia	HBB	1.0	
+Acute myocardial ischemia	PARP1	1.0	
+Acute myocardial ischemia	PON1	1.0	
+Acute myocardial ischemia	SERPINA3	1.0	
+Diabetes mellitus type 1	AGT	1.0	
+Diabetes mellitus type 1	ALB	1.0	
+Diabetes mellitus type 1	APOC1	1.0	
+Diabetes mellitus type 1	APOE	1.0	
+Diabetes mellitus type 1	APP	1.0	
+Diabetes mellitus type 1	C5	1.0	
+Diabetes mellitus type 1	CFB	1.0	
+Diabetes mellitus type 1	CFH	1.0	
+Diabetes mellitus type 1	ESR1	1.0	
+Diabetes mellitus type 1	FN1	1.0	
+Diabetes mellitus type 1	GSN	1.0	
+Diabetes mellitus type 1	HBB	1.0	
+Diabetes mellitus type 1	PARP1	1.0	
+Diabetes mellitus type 1	PON1	1.0	
+Diabetes mellitus type 1	SERPINA3	1.0	
+Diabetes mellitus type 1	TP53	1.0	
+Diabetes mellitus type 1	TTR	1.0	
+ Cerebrovascular disease, occlusive (3)	AGT	1.0	
+ Cerebrovascular disease, occlusive (3)	APOA1	1.0	
+ Cerebrovascular disease, occlusive (3)	APOE	1.0	
+ Cerebrovascular disease, occlusive (3)	F2	1.0	
+ Cerebrovascular disease, occlusive (3)	PON1	1.0	
+ Cerebrovascular disease, occlusive (3)	SERPINA3	1.0	
+Abnormality of cardiovascular system electrophysiology	AGT	1.0	
+Abnormality of cardiovascular system electrophysiology	ALB	1.0	
+Abnormality of cardiovascular system electrophysiology	APOA1	1.0	
+Abnormality of cardiovascular system electrophysiology	APOE	1.0	
+Abnormality of cardiovascular system electrophysiology	APP	1.0	
+Abnormality of cardiovascular system electrophysiology	ESR1	1.0	
+Abnormality of cardiovascular system electrophysiology	F12	1.0	
+Abnormality of cardiovascular system electrophysiology	F2	1.0	
+Abnormality of cardiovascular system electrophysiology	FN1	1.0	
+Abnormality of cardiovascular system electrophysiology	GSN	1.0	
+Abnormality of cardiovascular system electrophysiology	HBB	1.0	
+Abnormality of cardiovascular system electrophysiology	KRT1	1.0	
+Abnormality of cardiovascular system electrophysiology	KRT10	1.0	
+Abnormality of cardiovascular system electrophysiology	KRT14	1.0	
+Abnormality of cardiovascular system electrophysiology	KRT16	1.0	
+Abnormality of cardiovascular system electrophysiology	KRT5	1.0	
+Abnormality of cardiovascular system electrophysiology	KRT9	1.0	
+Abnormality of cardiovascular system electrophysiology	TF	1.0	
+Abnormality of cardiovascular system electrophysiology	TP53	1.0	
+Abnormality of cardiovascular system electrophysiology	TTR	1.0	
+Abnormal blistering of the skin	KRT1	1.0	
+Abnormal blistering of the skin	KRT10	1.0	
+Abnormal blistering of the skin	KRT14	1.0	
+Abnormal blistering of the skin	KRT16	1.0	
+Abnormal blistering of the skin	KRT5	1.0	
+Abnormal blistering of the skin	KRT6A	1.0	
+Autosomal dominant non-syndromic sensorineural deafness type DFNA	A2M	1.0	
+Autosomal dominant non-syndromic sensorineural deafness type DFNA	APOA1	1.0	
+Autosomal dominant non-syndromic sensorineural deafness type DFNA	APOE	1.0	
+Autosomal dominant non-syndromic sensorineural deafness type DFNA	APP	1.0	
+Autosomal dominant non-syndromic sensorineural deafness type DFNA	CFH	1.0	
+Autosomal dominant non-syndromic sensorineural deafness type DFNA	F12	1.0	
+Autosomal dominant non-syndromic sensorineural deafness type DFNA	F2	1.0	
+Autosomal dominant non-syndromic sensorineural deafness type DFNA	FN1	1.0	
+Autosomal dominant non-syndromic sensorineural deafness type DFNA	GSN	1.0	
+Autosomal dominant non-syndromic sensorineural deafness type DFNA	HBB	1.0	
+Autosomal dominant non-syndromic sensorineural deafness type DFNA	KRT1	1.0	
+Autosomal dominant non-syndromic sensorineural deafness type DFNA	KRT10	1.0	
+Autosomal dominant non-syndromic sensorineural deafness type DFNA	KRT14	1.0	
+Autosomal dominant non-syndromic sensorineural deafness type DFNA	KRT16	1.0	
+Autosomal dominant non-syndromic sensorineural deafness type DFNA	KRT5	1.0	
+Autosomal dominant non-syndromic sensorineural deafness type DFNA	KRT9	1.0	
+Autosomal dominant non-syndromic sensorineural deafness type DFNA	TP53	1.0	
+Autosomal dominant non-syndromic sensorineural deafness type DFNA	TTR	1.0	
+Acute Coronary Syndrome	ADH1C	1.0	
+Acute Coronary Syndrome	AGT	1.0	
+Acute Coronary Syndrome	ALB	1.0	
+Acute Coronary Syndrome	APOA1	1.0	
+Acute Coronary Syndrome	APOE	1.0	
+Acute Coronary Syndrome	ESR1	1.0	
+Acute Coronary Syndrome	F12	1.0	
+Acute Coronary Syndrome	F2	1.0	
+Acute Coronary Syndrome	GSN	1.0	
+Acute Coronary Syndrome	PON1	1.0	
+Hyperlipoproteinemia	ALB	1.0	
+Hyperlipoproteinemia	APOA1	1.0	
+Hyperlipoproteinemia	APOA2	1.0	
+Hyperlipoproteinemia	APOE	1.0	
+Hyperlipoproteinemia	PON1	1.0	
+Thrombophilia	A2M	1.0	
+Thrombophilia	AGT	1.0	
+Thrombophilia	ALB	1.0	
+Thrombophilia	APOE	1.0	
+Thrombophilia	ESR1	1.0	
+Thrombophilia	F12	1.0	
+Thrombophilia	F2	1.0	
+Hypoxia	APOA1	1.0	
+Hypoxia	APOE	1.0	
+Hypoxia	APP	1.0	
+Hypoxia	DCD	1.0	
+Hypoxia	ESR1	1.0	
+Hypoxia	F2	1.0	
+Hypoxia	HDAC1	1.0	
+Hypoxia	MDM2	1.0	
+Hypoxia	TF	1.0	
+Hypoxia	TP53	1.0	
+Chronic Kidney Insufficiency	AGT	1.0	
+Chronic Kidney Insufficiency	AHSG	1.0	
+Chronic Kidney Insufficiency	ALB	1.0	
+Chronic Kidney Insufficiency	APOE	1.0	
+Chronic Kidney Insufficiency	ESR1	1.0	
+Chronic Kidney Insufficiency	PARP1	1.0	
+Chronic Kidney Insufficiency	PON1	1.0	
+Chronic Kidney Insufficiency	TP53	1.0	
+Metabolic Syndrome X	AGT	1.0	
+Metabolic Syndrome X	AHSG	1.0	
+Metabolic Syndrome X	ALB	1.0	
+Metabolic Syndrome X	APOA1	1.0	
+Metabolic Syndrome X	APOA2	1.0	
+Metabolic Syndrome X	APOC1	1.0	
+Metabolic Syndrome X	APOE	1.0	
+Metabolic Syndrome X	APP	1.0	
+Metabolic Syndrome X	ESR1	1.0	
+Metabolic Syndrome X	F2	1.0	
+Metabolic Syndrome X	KRT16	1.0	
+Metabolic Syndrome X	PON1	1.0	
+Metabolic Syndrome X	TOMM40	1.0	
+Abnormality of immune system physiology	APOA1	1.0	
+Abnormality of immune system physiology	APOE	1.0	
+Abnormality of immune system physiology	C5	1.0	
+Abnormality of immune system physiology	CFB	1.0	
+Abnormality of immune system physiology	CFH	1.0	
+Abnormality of immune system physiology	ESR1	1.0	
+Abnormality of immune system physiology	HBB	1.0	
+Abnormality of immune system physiology	KRT1	1.0	
+Abnormality of immune system physiology	KRT10	1.0	
+Abnormality of immune system physiology	KRT14	1.0	
+Abnormality of immune system physiology	KRT16	1.0	
+Abnormality of immune system physiology	KRT5	1.0	
+Abnormality of immune system physiology	KRT9	1.0	
+Abnormality of immune system physiology	TF	1.0	
+Abnormality of immune system physiology	TP53	1.0	
+Hyperkeratosis	APOC1	1.0	
+Hyperkeratosis	KRT1	1.0	
+Hyperkeratosis	KRT10	1.0	
+Hyperkeratosis	KRT14	1.0	
+Hyperkeratosis	KRT16	1.0	
+Hyperkeratosis	KRT5	1.0	
+Hyperkeratosis	KRT6A	1.0	
+Hyperkeratosis	KRT9	1.0	
+Hyperkeratosis	TP53	1.0	
+Amyloidosis	A2M	1.0	
+Amyloidosis	APOA1	1.0	
+Amyloidosis	APOA2	1.0	
+Amyloidosis	APOE	1.0	
+Amyloidosis	APP	1.0	
+Amyloidosis	GSN	1.0	
+Amyloidosis	TTR	1.0	
+Spontaneous abortion	APOE	1.0	
+Spontaneous abortion	CFB	1.0	
+Spontaneous abortion	ESR1	1.0	
+Spontaneous abortion	F2	1.0	
+Spontaneous abortion	FN1	1.0	
+Spontaneous abortion	MDM2	1.0	
+Spontaneous abortion	PON1	1.0	
+Spontaneous abortion	TF	1.0	
+Spontaneous abortion	TP53	1.0	
+Chronic kidney disease	AGT	1.0	
+Chronic kidney disease	AHSG	1.0	
+Chronic kidney disease	ALB	1.0	
+Chronic kidney disease	APOE	1.0	
+Chronic kidney disease	CFH	1.0	
+Chronic kidney disease	ESR1	1.0	
+Chronic kidney disease	FN1	1.0	
+Chronic kidney disease	PON1	1.0	
+Chronic kidney disease	TOMM40	1.0	
+Chronic kidney disease	TP53	1.0	
+Skin Diseases, Genetic	KRT1	1.0	
+Skin Diseases, Genetic	KRT10	1.0	
+Skin Diseases, Genetic	KRT14	1.0	
+Skin Diseases, Genetic	KRT5	1.0	
+Skin Diseases, Genetic	KRT9	1.0	
+Retinopathy	AGT	1.0	
+Retinopathy	ALB	1.0	
+Retinopathy	APOA1	1.0	
+Retinopathy	APOE	1.0	
+Retinopathy	CFB	1.0	
+Retinopathy	CFH	1.0	
+Retinopathy	FN1	1.0	
+Retinopathy	HBB	1.0	
+Retinopathy	PON1	1.0	
+Retinopathy	SERPINA3	1.0	
+Retinopathy	TP53	1.0	
+Ischemia	AGT	1.0	
+Ischemia	ALB	1.0	
+Ischemia	APOE	1.0	
+Ischemia	APP	1.0	
+Ischemia	C5	1.0	
+Ischemia	F2	1.0	
+Ischemia	FN1	1.0	
+Ischemia	HDAC1	1.0	
+Ischemia	PARP1	1.0	
+Ischemia	PON1	1.0	
+Ischemia	TF	1.0	
+Ischemia	TP53	1.0	
+Ischemia	TTR	1.0	
+Drusen	ALB	1.0	
+Drusen	APOE	1.0	
+Drusen	C5	1.0	
+Drusen	CFB	1.0	
+Drusen	CFH	1.0	
+Abnormality of blood and blood-forming tissues	APOA1	1.0	
+Abnormality of blood and blood-forming tissues	APOE	1.0	
+Abnormality of blood and blood-forming tissues	APP	1.0	
+Abnormality of blood and blood-forming tissues	ESR1	1.0	
+Abnormality of blood and blood-forming tissues	F12	1.0	
+Abnormality of blood and blood-forming tissues	F2	1.0	
+Abnormality of blood and blood-forming tissues	FN1	1.0	
+Abnormality of blood and blood-forming tissues	HBB	1.0	
+Abnormality of blood and blood-forming tissues	KRT1	1.0	
+Abnormality of blood and blood-forming tissues	KRT10	1.0	
+Abnormality of blood and blood-forming tissues	KRT14	1.0	
+Abnormality of blood and blood-forming tissues	KRT16	1.0	
+Abnormality of blood and blood-forming tissues	KRT5	1.0	
+Abnormality of blood and blood-forming tissues	KRT9	1.0	
+Abnormality of blood and blood-forming tissues	MDM2	1.0	
+Abnormality of blood and blood-forming tissues	TF	1.0	
+Abnormality of blood and blood-forming tissues	TP53	1.0	
+Abnormality of blood and blood-forming tissues	TTR	1.0	
+Fetal Membranes, Premature Rupture	AGT	1.0	
+Fetal Membranes, Premature Rupture	APOA1	1.0	
+Fetal Membranes, Premature Rupture	APOE	1.0	
+Fetal Membranes, Premature Rupture	ESR1	1.0	
+Fetal Membranes, Premature Rupture	F12	1.0	
+Fetal Membranes, Premature Rupture	F2	1.0	
+Fetal Membranes, Premature Rupture	FN1	1.0	
+Fetal Membranes, Premature Rupture	PON1	1.0	
+Glomerulonephritis, Membranous	AGT	1.0	
+Glomerulonephritis, Membranous	ALB	1.0	
+Glomerulonephritis, Membranous	APOE	1.0	
+Glomerulonephritis, Membranous	CFB	1.0	
+Glomerulonephritis, Membranous	CFH	1.0	
+Glomerulonephritis, Membranous	ESR1	1.0	
+Glomerulonephritis, Membranous	FN1	1.0	
+Glomerulonephritis, Membranous	PARP1	1.0	
+Glomerulonephritis, Membranous	PON1	1.0	
+Chorioamnionitis	AGT	1.0	
+Chorioamnionitis	APOA1	1.0	
+Chorioamnionitis	APOE	1.0	
+Chorioamnionitis	ESR1	1.0	
+Chorioamnionitis	F12	1.0	
+Chorioamnionitis	F2	1.0	
+Chorioamnionitis	FN1	1.0	
+Chorioamnionitis	PON1	1.0	
+Diabetic Retinopathy	AGT	1.0	
+Diabetic Retinopathy	ALB	1.0	
+Diabetic Retinopathy	APOA1	1.0	
+Diabetic Retinopathy	APOE	1.0	
+Diabetic Retinopathy	BDKRB1	1.0	
+Diabetic Retinopathy	CFH	1.0	
+Diabetic Retinopathy	FN1	1.0	
+Diabetic Retinopathy	PON1	1.0	
+Diabetic Retinopathy	SERPINA3	1.0	
+Cholecystolithiasis	APOA1	1.0	
+Cholecystolithiasis	APOC1	1.0	
+Cholecystolithiasis	APOE	1.0	
+Cholecystolithiasis	ESR1	1.0	
+Cholecystolithiasis	TP53	1.0	
+Cholecystolithiasis	TTR	1.0	
+Drug-Induced Liver Injury	ALB	1.0	
+Drug-Induced Liver Injury	APOA1	1.0	
+Drug-Induced Liver Injury	APOE	1.0	
+Drug-Induced Liver Injury	F2	1.0	
+Drug-Induced Liver Injury	GSN	1.0	
+Drug-Induced Liver Injury	PON1	1.0	
+Drug-Induced Liver Injury	TF	1.0	
+Drug-Induced Liver Injury	TTR	1.0	
+Coronary Restenosis	AGT	1.0	
+Coronary Restenosis	APOE	1.0	
+Coronary Restenosis	ESR1	1.0	
+Coronary Restenosis	F2	1.0	
+Coronary Restenosis	TP53	1.0	
+Diabetic Angiopathies	AGT	1.0	
+Diabetic Angiopathies	ALB	1.0	
+Diabetic Angiopathies	APOE	1.0	
+Diabetic Angiopathies	BDKRB1	1.0	
+Diabetic Angiopathies	FN1	1.0	
+Diabetic Angiopathies	PON1	1.0	
+Iron deficiency anemia	APOE	1.0	
+Iron deficiency anemia	APP	1.0	
+Iron deficiency anemia	FN1	1.0	
+Iron deficiency anemia	HBB	1.0	
+Iron deficiency anemia	TF	1.0	
+Hepatitis C, Chronic	A2M	1.0	
+Hepatitis C, Chronic	AGT	1.0	
+Hepatitis C, Chronic	ALB	1.0	
+Hepatitis C, Chronic	APOE	1.0	
+Hepatitis C, Chronic	C5	1.0	
+Hepatitis C, Chronic	F2	1.0	
+Hepatitis C, Chronic	HBB	1.0	
+Hepatitis C, Chronic	HDAC1	1.0	
+Hepatitis C, Chronic	MDM2	1.0	
+Hepatitis C, Chronic	PON1	1.0	
+Hepatitis C, Chronic	TP53	1.0	
+Premature Obstetric Labor	AGT	1.0	
+Premature Obstetric Labor	APOA1	1.0	
+Premature Obstetric Labor	APOE	1.0	
+Premature Obstetric Labor	ESR1	1.0	
+Premature Obstetric Labor	F12	1.0	
+Premature Obstetric Labor	F2	1.0	
+Premature Obstetric Labor	FN1	1.0	
+Premature Obstetric Labor	PON1	1.0	
+Inflammatory abnormality of the skin	APOA1	1.0	
+Inflammatory abnormality of the skin	C5	1.0	
+Inflammatory abnormality of the skin	ESR1	1.0	
+Inflammatory abnormality of the skin	KRT1	1.0	
+Inflammatory abnormality of the skin	KRT10	1.0	
+Inflammatory abnormality of the skin	KRT14	1.0	
+Inflammatory abnormality of the skin	KRT16	1.0	
+Inflammatory abnormality of the skin	KRT5	1.0	
+Inflammatory abnormality of the skin	KRT9	1.0	
+Nephrosis	AGT	1.0	
+Nephrosis	ALB	1.0	
+Nephrosis	APOA1	1.0	
+Nephrosis	CFH	1.0	
+Nephrosis	F2	1.0	
+Cerebral autosomal recessive arteriopathy with subcortical infarcts and leukoencephalopathy	AGT	1.0	
+Cerebral autosomal recessive arteriopathy with subcortical infarcts and leukoencephalopathy	APOE	1.0	
+Cerebral autosomal recessive arteriopathy with subcortical infarcts and leukoencephalopathy	ESR1	1.0	
+Cerebral autosomal recessive arteriopathy with subcortical infarcts and leukoencephalopathy	F2	1.0	
+Cerebral autosomal recessive arteriopathy with subcortical infarcts and leukoencephalopathy	FN1	1.0	
+Cerebral autosomal recessive arteriopathy with subcortical infarcts and leukoencephalopathy	PON1	1.0	
+Abnormality of the skin	APOA1	1.0	
+Abnormality of the skin	APOC1	1.0	
+Abnormality of the skin	APOE	1.0	
+Abnormality of the skin	C5	1.0	
+Abnormality of the skin	ESR1	1.0	
+Abnormality of the skin	F12	1.0	
+Abnormality of the skin	F2	1.0	
+Abnormality of the skin	GSN	1.0	
+Abnormality of the skin	HBB	1.0	
+Abnormality of the skin	KRT1	1.0	
+Abnormality of the skin	KRT10	1.0	
+Abnormality of the skin	KRT14	1.0	
+Abnormality of the skin	KRT16	1.0	
+Abnormality of the skin	KRT5	1.0	
+Abnormality of the skin	KRT6A	1.0	
+Abnormality of the skin	KRT9	1.0	
+Abnormality of the skin	MDM2	1.0	
+Abnormality of the skin	TP53	1.0	
+Venous thrombosis	AGT	1.0	
+Venous thrombosis	APOE	1.0	
+Venous thrombosis	ESR1	1.0	
+Venous thrombosis	F12	1.0	
+Venous thrombosis	F2	1.0	
+Venous thrombosis	HBB	1.0	
+Venous thrombosis	TP53	1.0	
+Mammary Neoplasms, Experimental	AGT	1.0	
+Mammary Neoplasms, Experimental	ESR1	1.0	
+Mammary Neoplasms, Experimental	FN1	1.0	
+Mammary Neoplasms, Experimental	GSN	1.0	
+Mammary Neoplasms, Experimental	KRT5	1.0	
+Mammary Neoplasms, Experimental	PARP1	1.0	
+Mammary Neoplasms, Experimental	TF	1.0	
+Mammary Neoplasms, Experimental	TP53	1.0	
+Abnormality of skin physiology	APOA1	1.0	
+Abnormality of skin physiology	C5	1.0	
+Abnormality of skin physiology	ESR1	1.0	
+Abnormality of skin physiology	KRT1	1.0	
+Abnormality of skin physiology	KRT10	1.0	
+Abnormality of skin physiology	KRT14	1.0	
+Abnormality of skin physiology	KRT16	1.0	
+Abnormality of skin physiology	KRT5	1.0	
+Abnormality of skin physiology	KRT9	1.0	
+Premature Birth	ADH1C	1.0	
+Premature Birth	AGT	1.0	
+Premature Birth	APOA1	1.0	
+Premature Birth	APOE	1.0	
+Premature Birth	CFB	1.0	
+Premature Birth	ESR1	1.0	
+Premature Birth	F12	1.0	
+Premature Birth	F2	1.0	
+Premature Birth	FN1	1.0	
+Premature Birth	PON1	1.0	
+Malignant neoplasm of adrenal cortex	ALB	1.0	
+Malignant neoplasm of adrenal cortex	ESR1	1.0	
+Malignant neoplasm of adrenal cortex	KRT5	1.0	
+Malignant neoplasm of adrenal cortex	TP53	1.0	
+Hepatitis	AGT	1.0	
+Hepatitis	ALB	1.0	
+Hepatitis	APOA2	1.0	
+Hepatitis	APOE	1.0	
+Hepatitis	ESR1	1.0	
+Hepatitis	F2	1.0	
+Hepatitis	PARP1	1.0	
+Hepatitis	TF	1.0	
+Hepatitis	TP53	1.0	
+Hepatitis	TTR	1.0	
+Hyperlipidemia, familial combined	ALB	1.0	
+Hyperlipidemia, familial combined	APOA1	1.0	
+Hyperlipidemia, familial combined	APOA2	1.0	
+Hyperlipidemia, familial combined	APOE	1.0	
+Hyperlipidemia, familial combined	FN1	1.0	
+Hyperlipidemia, familial combined	PON1	1.0	
+Hepatocellular carcinoma	A2M	1.0	
+Hepatocellular carcinoma	ADH1C	1.0	
+Hepatocellular carcinoma	AGT	1.0	
+Hepatocellular carcinoma	AHSG	1.0	
+Hepatocellular carcinoma	ALB	1.0	
+Hepatocellular carcinoma	APOA1	1.0	
+Hepatocellular carcinoma	APOA2	1.0	
+Hepatocellular carcinoma	APOE	1.0	
+Hepatocellular carcinoma	APP	1.0	
+Hepatocellular carcinoma	C5	1.0	
+Hepatocellular carcinoma	CFH	1.0	
+Hepatocellular carcinoma	DCD	1.0	
+Hepatocellular carcinoma	ESR1	1.0	
+Hepatocellular carcinoma	F2	1.0	
+Hepatocellular carcinoma	FN1	1.0	
+Hepatocellular carcinoma	GSN	1.0	
+Hepatocellular carcinoma	HDAC1	1.0	
+Hepatocellular carcinoma	ITIH3	1.0	
+Hepatocellular carcinoma	KRT10	1.0	
+Hepatocellular carcinoma	KRT5	1.0	
+Hepatocellular carcinoma	MDM2	1.0	
+Hepatocellular carcinoma	PARP1	1.0	
+Hepatocellular carcinoma	PON1	1.0	
+Hepatocellular carcinoma	SERPINA3	1.0	
+Hepatocellular carcinoma	TF	1.0	
+Hepatocellular carcinoma	TP53	1.0	
+Hepatocellular carcinoma	TTR	1.0	
+Hyperlipidemia, combined, 1	AGT	1.0	
+Hyperlipidemia, combined, 1	ALB	1.0	
+Hyperlipidemia, combined, 1	APOA1	1.0	
+Hyperlipidemia, combined, 1	APOA2	1.0	
+Hyperlipidemia, combined, 1	APOC1	1.0	
+Hyperlipidemia, combined, 1	APOE	1.0	
+Hyperlipidemia, combined, 1	ESR1	1.0	
+Hyperlipidemia, combined, 1	F2	1.0	
+Hyperlipidemia, combined, 1	PON1	1.0	
+Peripheral Arterial Disease	AGT	1.0	
+Peripheral Arterial Disease	APOE	1.0	
+Peripheral Arterial Disease	CFB	1.0	
+Peripheral Arterial Disease	CFH	1.0	
+Peripheral Arterial Disease	ESR1	1.0	
+Peripheral Arterial Disease	F2	1.0	
+Peripheral Arterial Disease	PON1	1.0	
+Ichthyosis, congenital, autosomal recessive 12	KRT1	1.0	
+Ichthyosis, congenital, autosomal recessive 12	KRT10	1.0	
+Ichthyosis, congenital, autosomal recessive 12	KRT14	1.0	
+Ichthyosis, congenital, autosomal recessive 12	KRT16	1.0	
+Ichthyosis, congenital, autosomal recessive 12	KRT6A	1.0	
+Ichthyosis, congenital, autosomal recessive 12	KRT9	1.0	
+Ichthyosis, congenital, autosomal recessive 12	MDM2	1.0	
+Restenosis	AGT	1.0	
+Restenosis	ALB	1.0	
+Restenosis	APOE	1.0	
+Restenosis	ESR1	1.0	
+Restenosis	F2	1.0	
+Restenosis	MDM2	1.0	
+Restenosis	PON1	1.0	
+Restenosis	TP53	1.0	
+Hepatitis C	AGT	1.0	
+Hepatitis C	ALB	1.0	
+Hepatitis C	APOA1	1.0	
+Hepatitis C	APOA2	1.0	
+Hepatitis C	APOC1	1.0	
+Hepatitis C	APOE	1.0	
+Hepatitis C	ESR1	1.0	
+Hepatitis C	FN1	1.0	
+Hepatitis C	KRT14	1.0	
+Hepatitis C	PARP1	1.0	
+Hepatitis C	PON1	1.0	
+Hepatitis C	TOMM40	1.0	
+Hepatitis C	TP53	1.0	
+Palmoplantar keratoderma, nonepidermolytic, focal	KRT1	1.0	
+Palmoplantar keratoderma, nonepidermolytic, focal	KRT10	1.0	
+Palmoplantar keratoderma, nonepidermolytic, focal	KRT14	1.0	
+Palmoplantar keratoderma, nonepidermolytic, focal	KRT16	1.0	
+Palmoplantar keratoderma, nonepidermolytic, focal	KRT5	1.0	
+Palmoplantar keratoderma, nonepidermolytic, focal	KRT6A	1.0	
+Palmoplantar keratoderma, nonepidermolytic, focal	KRT9	1.0	
+Femur Head Necrosis	A2M	1.0	
+Femur Head Necrosis	APOA1	1.0	
+Femur Head Necrosis	F2	1.0	
+Femur Head Necrosis	TF	1.0	
+Liver Cirrhosis, Alcoholic	ADH1C	1.0	
+Liver Cirrhosis, Alcoholic	AGT	1.0	
+Liver Cirrhosis, Alcoholic	APOA1	1.0	
+Liver Cirrhosis, Alcoholic	APOE	1.0	
+Liver Cirrhosis, Alcoholic	MDM2	1.0	
+Liver Cirrhosis, Alcoholic	TF	1.0	
+Dyslipidemias	AGT	1.0	
+Dyslipidemias	AHSG	1.0	
+Dyslipidemias	APOA1	1.0	
+Dyslipidemias	APOE	1.0	
+Dyslipidemias	ESR1	1.0	
+Dyslipidemias	HBB	1.0	
+Dyslipidemias	KRT16	1.0	
+Dyslipidemias	PON1	1.0	
+Chronic obstructive pulmonary disease	A2M	1.0	
+Chronic obstructive pulmonary disease	ADH1C	1.0	
+Chronic obstructive pulmonary disease	AGT	1.0	
+Chronic obstructive pulmonary disease	APOA2	1.0	
+Chronic obstructive pulmonary disease	APOE	1.0	
+Chronic obstructive pulmonary disease	CFH	1.0	
+Chronic obstructive pulmonary disease	ESR1	1.0	
+Chronic obstructive pulmonary disease	FN1	1.0	
+Chronic obstructive pulmonary disease	MDM2	1.0	
+Chronic obstructive pulmonary disease	PARP1	1.0	
+Chronic obstructive pulmonary disease	PON1	1.0	
+Chronic obstructive pulmonary disease	SERPINA3	1.0	
+Chronic obstructive pulmonary disease	TF	1.0	
+Chronic obstructive pulmonary disease	TP53	1.0	
+Hyperhidrosis	KRT1	1.0	
+Hyperhidrosis	KRT14	1.0	
+Hyperhidrosis	KRT16	1.0	
+Hyperhidrosis	KRT5	1.0	
+Hyperhidrosis	KRT6A	1.0	
+Hyperhidrosis	KRT9	1.0	
+Progressive Neoplastic Disease	APOE	1.0	
+Progressive Neoplastic Disease	APP	1.0	
+Progressive Neoplastic Disease	CFH	1.0	
+Progressive Neoplastic Disease	ESR1	1.0	
+Progressive Neoplastic Disease	MDM2	1.0	
+Progressive Neoplastic Disease	TP53	1.0	
+Progressive Neoplastic Disease	TTR	1.0	
+Progressive cGVHD	APOE	1.0	
+Progressive cGVHD	APP	1.0	
+Progressive cGVHD	CFH	1.0	
+Progressive cGVHD	ESR1	1.0	
+Progressive cGVHD	MDM2	1.0	
+Progressive cGVHD	TP53	1.0	
+Progressive cGVHD	TTR	1.0	
+Hypertension	ADH1C	1.0	
+Hypertension	AGT	1.0	
+Hypertension	ALB	1.0	
+Hypertension	APOA1	1.0	
+Hypertension	APOC1	1.0	
+Hypertension	APOE	1.0	
+Hypertension	APP	1.0	
+Hypertension	BDKRB1	1.0	
+Hypertension	CFH	1.0	
+Hypertension	ESR1	1.0	
+Hypertension	F12	1.0	
+Hypertension	F2	1.0	
+Hypertension	FN1	1.0	
+Hypertension	HBB	1.0	
+Hypertension	PARP1	1.0	
+Hypertension	PON1	1.0	
+Hypertension	SERPINA3	1.0	
+Hypertension	TP53	1.0	
+Hypertension	TTR	1.0	
+Acute myocardial infarction	AGT	1.0	
+Acute myocardial infarction	APOA1	1.0	
+Acute myocardial infarction	APOE	1.0	
+Acute myocardial infarction	ESR1	1.0	
+Acute myocardial infarction	F2	1.0	
+Acute myocardial infarction	PARP1	1.0	
+Acute myocardial infarction	PON1	1.0	
+Acute myocardial infarction	SERPINA3	1.0	
+Venous Thromboembolism	AGT	1.0	
+Venous Thromboembolism	APOE	1.0	
+Venous Thromboembolism	C5	1.0	
+Venous Thromboembolism	ESR1	1.0	
+Venous Thromboembolism	F12	1.0	
+Venous Thromboembolism	F2	1.0	
+Venous Thromboembolism	FN1	1.0	
+Venous Thromboembolism	PON1	1.0	
+Hemolytic uremic syndrome	AGT	1.0	
+Hemolytic uremic syndrome	ALB	1.0	
+Hemolytic uremic syndrome	CFB	1.0	
+Hemolytic uremic syndrome	CFH	1.0	
+Hemolytic uremic syndrome	F2	1.0	
+Cholelithiasis	APOA1	1.0	
+Cholelithiasis	APOC1	1.0	
+Cholelithiasis	APOE	1.0	
+Cholelithiasis	ESR1	1.0	
+Cholelithiasis	HBB	1.0	
+Cholelithiasis	TP53	1.0	
+Cholelithiasis	TTR	1.0	
+Abnormality of the skin of the palm	KRT1	1.0	
+Abnormality of the skin of the palm	KRT10	1.0	
+Abnormality of the skin of the palm	KRT14	1.0	
+Abnormality of the skin of the palm	KRT16	1.0	
+Abnormality of the skin of the palm	KRT5	1.0	
+Abnormality of the skin of the palm	KRT6A	1.0	
+Abnormality of the skin of the palm	KRT9	1.0	
+Abnormality of the digestive system	APOA1	1.0	
+Abnormality of the digestive system	APOE	1.0	
+Abnormality of the digestive system	APP	1.0	
+Abnormality of the digestive system	C5	1.0	
+Abnormality of the digestive system	CFB	1.0	
+Abnormality of the digestive system	ESR1	1.0	
+Abnormality of the digestive system	F12	1.0	
+Abnormality of the digestive system	F2	1.0	
+Abnormality of the digestive system	GSN	1.0	
+Abnormality of the digestive system	HBB	1.0	
+Abnormality of the digestive system	KRT14	1.0	
+Abnormality of the digestive system	KRT16	1.0	
+Abnormality of the digestive system	KRT5	1.0	
+Abnormality of the digestive system	KRT6A	1.0	
+Abnormality of the digestive system	MDM2	1.0	
+Abnormality of the digestive system	PON1	1.0	
+Abnormality of the digestive system	TF	1.0	
+Abnormality of the digestive system	TP53	1.0	
+Abnormality of the digestive system	TTR	1.0	
+Pulmonary hypertension, neonatal, susceptibility to	AGT	1.0	
+Pulmonary hypertension, neonatal, susceptibility to	APOA1	1.0	
+Pulmonary hypertension, neonatal, susceptibility to	APOE	1.0	
+Pulmonary hypertension, neonatal, susceptibility to	CFH	1.0	
+Pulmonary hypertension, neonatal, susceptibility to	ESR1	1.0	
+Pulmonary hypertension, neonatal, susceptibility to	F2	1.0	
+Pulmonary hypertension, neonatal, susceptibility to	HDAC1	1.0	
+Pulmonary hypertension, neonatal, susceptibility to	MDM2	1.0	
+Pulmonary hypertension, neonatal, susceptibility to	TP53	1.0	
+Arteriosclerosis	AGT	1.0	
+Arteriosclerosis	AHSG	1.0	
+Arteriosclerosis	ALB	1.0	
+Arteriosclerosis	APOA1	1.0	
+Arteriosclerosis	APOA2	1.0	
+Arteriosclerosis	APOE	1.0	
+Arteriosclerosis	APP	1.0	
+Arteriosclerosis	CFH	1.0	
+Arteriosclerosis	ESR1	1.0	
+Arteriosclerosis	F2	1.0	
+Arteriosclerosis	FN1	1.0	
+Arteriosclerosis	MDM2	1.0	
+Arteriosclerosis	PON1	1.0	
+Arteriosclerosis	TP53	1.0	
+Arteriosclerosis	TTR	1.0	
+Paratuberculosis	F2	1.0	
+Paratuberculosis	FN1	1.0	
+Paratuberculosis	GSN	1.0	
+Paratuberculosis	TF	1.0	
+Comedone	ESR1	1.0	
+Comedone	KRT5	1.0	
+Comedone	PARP1	1.0	
+Comedone	TP53	1.0	
+Gallbladder disease 4	A2M	1.0	
+Gallbladder disease 4	ADH1C	1.0	
+Gallbladder disease 4	ALB	1.0	
+Gallbladder disease 4	APP	1.0	
+Gallbladder disease 4	CFH	1.0	
+Gallbladder disease 4	ESR1	1.0	
+Gallbladder disease 4	F2	1.0	
+Gallbladder disease 4	HBB	1.0	
+Gallbladder disease 4	HDAC1	1.0	
+Gallbladder disease 4	KRT9	1.0	
+Gallbladder disease 4	MDM2	1.0	
+Gallbladder disease 4	PON1	1.0	
+Gallbladder disease 4	TP53	1.0	
+Carcinoma breast stage IV	ALB	1.0	
+Carcinoma breast stage IV	APP	1.0	
+Carcinoma breast stage IV	ESR1	1.0	
+Carcinoma breast stage IV	FN1	1.0	
+Carcinoma breast stage IV	KRT1	1.0	
+Carcinoma breast stage IV	KRT16	1.0	
+Carcinoma breast stage IV	MDM2	1.0	
+Carcinoma breast stage IV	PARP1	1.0	
+Carcinoma breast stage IV	TP53	1.0	
+heavy drinking	ADH1C	1.0	
+heavy drinking	APOE	1.0	
+heavy drinking	PON1	1.0	
+heavy drinking	TP53	1.0	
+Senile plaques	A2M	1.0	
+Senile plaques	ALB	1.0	
+Senile plaques	APOA1	1.0	
+Senile plaques	APOE	1.0	
+Senile plaques	APP	1.0	
+Senile plaques	SERPINA3	1.0	
+Senile plaques	TF	1.0	
+Senile plaques	TTR	1.0	
+Focal segmental glomerulosclerosis	AGT	1.0	
+Focal segmental glomerulosclerosis	ALB	1.0	
+Focal segmental glomerulosclerosis	APOE	1.0	
+Focal segmental glomerulosclerosis	CFH	1.0	
+Focal segmental glomerulosclerosis	FN1	1.0	
+Focal segmental glomerulosclerosis	PON1	1.0	
+{Unipolar depression, susceptibility to}, 608516 (3)	A2M	1.0	
+{Unipolar depression, susceptibility to}, 608516 (3)	AGT	1.0	
+{Unipolar depression, susceptibility to}, 608516 (3)	APOE	1.0	
+{Unipolar depression, susceptibility to}, 608516 (3)	CFB	1.0	
+{Unipolar depression, susceptibility to}, 608516 (3)	ESR1	1.0	
+{Unipolar depression, susceptibility to}, 608516 (3)	MDM2	1.0	
+{Unipolar depression, susceptibility to}, 608516 (3)	PON1	1.0	
+{Unipolar depression, susceptibility to}, 608516 (3)	TF	1.0	
+{Unipolar depression, susceptibility to}, 608516 (3)	TOMM40	1.0	
+{Unipolar depression, susceptibility to}, 608516 (3)	TP53	1.0	
+{Unipolar depression, susceptibility to}, 608516 (3)	TTR	1.0	
+Uremia	AGT	1.0	
+Uremia	APOA1	1.0	
+Uremia	APOE	1.0	
+Uremia	PON1	1.0	
+Uremia	TP53	1.0	
+Malnutrition	AHSG	1.0	
+Malnutrition	ALB	1.0	
+Malnutrition	APOE	1.0	
+Malnutrition	HBB	1.0	
+Malnutrition	PON1	1.0	
+Malnutrition	TTR	1.0	
+Nephrotic syndrome, type 5, with or without ocular abnormalities	A2M	1.0	
+Nephrotic syndrome, type 5, with or without ocular abnormalities	AGT	1.0	
+Nephrotic syndrome, type 5, with or without ocular abnormalities	ALB	1.0	
+Nephrotic syndrome, type 5, with or without ocular abnormalities	APOA1	1.0	
+Nephrotic syndrome, type 5, with or without ocular abnormalities	APOE	1.0	
+Nephrotic syndrome, type 5, with or without ocular abnormalities	FN1	1.0	
+Nephrotic syndrome, type 5, with or without ocular abnormalities	GSN	1.0	
+Nephrotic syndrome, type 5, with or without ocular abnormalities	TF	1.0	
+Erythema	KRT1	1.0	
+Erythema	KRT10	1.0	
+Erythema	KRT16	1.0	
+Erythema	KRT5	1.0	
+Erythema	KRT9	1.0	
+Erythema	TP53	1.0	
+Bleeding with minor or no trauma	AGT	1.0	
+Bleeding with minor or no trauma	APOE	1.0	
+Bleeding with minor or no trauma	F12	1.0	
+Bleeding with minor or no trauma	F2	1.0	
+Bleeding with minor or no trauma	KRT1	1.0	
+Granulomatosis with Polyangiitis	AGT	1.0	
+Granulomatosis with Polyangiitis	F2	1.0	
+Granulomatosis with Polyangiitis	MDM2	1.0	
+Granulomatosis with Polyangiitis	SERPINA3	1.0	
+Granulomatosis with Polyangiitis	TP53	1.0	
+Oral leukoplakia	KRT14	1.0	
+Oral leukoplakia	KRT16	1.0	
+Oral leukoplakia	KRT5	1.0	
+Oral leukoplakia	KRT6A	1.0	
+Oral leukoplakia	TP53	1.0	
+Fibrosis	AGT	1.0	
+Fibrosis	ALB	1.0	
+Fibrosis	BDKRB1	1.0	
+Fibrosis	C5	1.0	
+Fibrosis	MDM2	1.0	
+Fibrosis	PON1	1.0	
+Fibrosis	TP53	1.0	
+Vascular skin abnormality	APOE	1.0	
+Vascular skin abnormality	F12	1.0	
+Vascular skin abnormality	F2	1.0	
+Vascular skin abnormality	KRT1	1.0	
+Vascular skin abnormality	KRT10	1.0	
+Vascular skin abnormality	KRT14	1.0	
+Vascular skin abnormality	KRT16	1.0	
+Vascular skin abnormality	KRT5	1.0	
+Vascular skin abnormality	KRT9	1.0	
+Hepatitis B, Chronic	AGT	1.0	
+Hepatitis B, Chronic	ALB	1.0	
+Hepatitis B, Chronic	APOA1	1.0	
+Hepatitis B, Chronic	CFB	1.0	
+Hepatitis B, Chronic	ESR1	1.0	
+Hepatitis B, Chronic	F2	1.0	
+Hepatitis B, Chronic	MDM2	1.0	
+Hepatitis B, Chronic	TP53	1.0	
+Alzheimer Disease, Late Onset	APOC1	1.0	
+Alzheimer Disease, Late Onset	APOE	1.0	
+Alzheimer Disease, Late Onset	APP	1.0	
+Alzheimer Disease, Late Onset	SERPINA3	1.0	
+Alzheimer Disease, Late Onset	TOMM40	1.0	
+Chronic hepatitis	AGT	1.0	
+Chronic hepatitis	ALB	1.0	
+Chronic hepatitis	APOE	1.0	
+Chronic hepatitis	F2	1.0	
+Chronic hepatitis	FN1	1.0	
+Chronic hepatitis	PON1	1.0	
+Chronic hepatitis	TP53	1.0	
+Neurodegenerative Diseases	A2M	1.0	
+Neurodegenerative Diseases	AHSG	1.0	
+Neurodegenerative Diseases	APOE	1.0	
+Neurodegenerative Diseases	APP	1.0	
+Neurodegenerative Diseases	CFH	1.0	
+Neurodegenerative Diseases	GSN	1.0	
+Neurodegenerative Diseases	PON1	1.0	
+Neurodegenerative Diseases	SERPINA3	1.0	
+Neurodegenerative Diseases	TF	1.0	
+Neurodegenerative Diseases	TOMM40	1.0	
+Neurodegenerative Diseases	TP53	1.0	
+Neurodegenerative Diseases	TTR	1.0	
+Pancreatitis	A2M	1.0	
+Pancreatitis	ADH1C	1.0	
+Pancreatitis	ALB	1.0	
+Pancreatitis	APOE	1.0	
+Pancreatitis	MDM2	1.0	
+Pancreatitis	PON1	1.0	
+Pancreatitis	TF	1.0	
+Pancreatitis	TP53	1.0	
+Preeclampsia/eclampsia 1	AGT	1.0	
+Preeclampsia/eclampsia 1	APOA1	1.0	
+Preeclampsia/eclampsia 1	APOE	1.0	
+Preeclampsia/eclampsia 1	CFH	1.0	
+Preeclampsia/eclampsia 1	ESR1	1.0	
+Preeclampsia/eclampsia 1	F12	1.0	
+Preeclampsia/eclampsia 1	F2	1.0	
+Preeclampsia/eclampsia 1	FN1	1.0	
+Preeclampsia/eclampsia 1	PON1	1.0	
+Pregnancy loss	APOE	1.0	
+Pregnancy loss	ESR1	1.0	
+Pregnancy loss	F2	1.0	
+Pregnancy loss	MDM2	1.0	
+Pregnancy loss	TP53	1.0	
+Coronary artery stenosis	AGT	1.0	
+Coronary artery stenosis	APOE	1.0	
+Coronary artery stenosis	ESR1	1.0	
+Coronary artery stenosis	F2	1.0	
+Coronary artery stenosis	PON1	1.0	
+beta Thalassemia	APOE	1.0	
+beta Thalassemia	ESR1	1.0	
+beta Thalassemia	F2	1.0	
+beta Thalassemia	GSN	1.0	
+beta Thalassemia	HBB	1.0	
+beta Thalassemia	PON1	1.0	
+Death, Sudden, Cardiac	APOA1	1.0	
+Death, Sudden, Cardiac	APOE	1.0	
+Death, Sudden, Cardiac	APP	1.0	
+Death, Sudden, Cardiac	C5	1.0	
+Death, Sudden, Cardiac	ESR1	1.0	
+Death, Sudden, Cardiac	MDM2	1.0	
+Death, Sudden, Cardiac	TP53	1.0	
+Hereditary pancreatitis	ADH1C	1.0	
+Hereditary pancreatitis	ALB	1.0	
+Hereditary pancreatitis	APOE	1.0	
+Hereditary pancreatitis	CFB	1.0	
+Hereditary pancreatitis	HDAC1	1.0	
+Hereditary pancreatitis	MDM2	1.0	
+Hereditary pancreatitis	PON1	1.0	
+Hereditary pancreatitis	SERPINA3	1.0	
+Hereditary pancreatitis	TP53	1.0	
+Transient ischemic attack	AGT	1.0	
+Transient ischemic attack	APOE	1.0	
+Transient ischemic attack	ESR1	1.0	
+Transient ischemic attack	F2	1.0	
+Transient ischemic attack	MDM2	1.0	
+Transient ischemic attack	PARP1	1.0	
+Transient ischemic attack	TP53	1.0	
+Abnormality of the immune system	APOA1	1.0	
+Abnormality of the immune system	APOE	1.0	
+Abnormality of the immune system	C5	1.0	
+Abnormality of the immune system	CFB	1.0	
+Abnormality of the immune system	CFH	1.0	
+Abnormality of the immune system	ESR1	1.0	
+Abnormality of the immune system	HBB	1.0	
+Abnormality of the immune system	KRT1	1.0	
+Abnormality of the immune system	KRT10	1.0	
+Abnormality of the immune system	KRT14	1.0	
+Abnormality of the immune system	KRT16	1.0	
+Abnormality of the immune system	KRT5	1.0	
+Abnormality of the immune system	KRT9	1.0	
+Abnormality of the immune system	TF	1.0	
+Abnormality of the immune system	TP53	1.0	
+Rheumatoid arthritis	A2M	1.0	
+Rheumatoid arthritis	ALB	1.0	
+Rheumatoid arthritis	APOA1	1.0	
+Rheumatoid arthritis	APOE	1.0	
+Rheumatoid arthritis	APP	1.0	
+Rheumatoid arthritis	C5	1.0	
+Rheumatoid arthritis	CFB	1.0	
+Rheumatoid arthritis	CFH	1.0	
+Rheumatoid arthritis	ESR1	1.0	
+Rheumatoid arthritis	F2	1.0	
+Rheumatoid arthritis	FN1	1.0	
+Rheumatoid arthritis	GSN	1.0	
+Rheumatoid arthritis	HDAC1	1.0	
+Rheumatoid arthritis	KRT16	1.0	
+Rheumatoid arthritis	MDM2	1.0	
+Rheumatoid arthritis	PARP1	1.0	
+Rheumatoid arthritis	PON1	1.0	
+Rheumatoid arthritis	TF	1.0	
+Rheumatoid arthritis	TP53	1.0	
+Ataxia-telangiectasia syndrome	AGT	1.0	
+Ataxia-telangiectasia syndrome	CFB	1.0	
+Ataxia-telangiectasia syndrome	CFH	1.0	
+Ataxia-telangiectasia syndrome	FN1	1.0	
+Ataxia-telangiectasia syndrome	MDM2	1.0	
+Ataxia-telangiectasia syndrome	PARP1	1.0	
+Ataxia-telangiectasia syndrome	TP53	1.0	
+Drug usage	AGT	1.0	
+Drug usage	APOE	1.0	
+Drug usage	PON1	1.0	
+Drug usage	TP53	1.0	
+Neoplastic Cell Transformation	ESR1	1.0	
+Neoplastic Cell Transformation	FN1	1.0	
+Neoplastic Cell Transformation	KRT14	1.0	
+Neoplastic Cell Transformation	KRT5	1.0	
+Neoplastic Cell Transformation	MDM2	1.0	
+Neoplastic Cell Transformation	TP53	1.0	
+Chronic liver disease	ALB	1.0	
+Chronic liver disease	APOE	1.0	
+Chronic liver disease	ESR1	1.0	
+Chronic liver disease	F2	1.0	
+Chronic liver disease	PON1	1.0	
+Chronic liver disease	TP53	1.0	
+Nail dystrophy	KRT1	1.0	
+Nail dystrophy	KRT14	1.0	
+Nail dystrophy	KRT16	1.0	
+Nail dystrophy	KRT5	1.0	
+Nail dystrophy	KRT6A	1.0	
+Anemia	AGT	1.0	
+Anemia	ALB	1.0	
+Anemia	APOA1	1.0	
+Anemia	CFH	1.0	
+Anemia	HBB	1.0	
+Anemia	KRT14	1.0	
+Anemia	PARP1	1.0	
+Anemia	PON1	1.0	
+Anemia	TF	1.0	
+Anemia	TP53	1.0	
+Anemia	TTR	1.0	
+Glucose intolerance	ADH1C	1.0	
+Glucose intolerance	ALB	1.0	
+Glucose intolerance	APOA1	1.0	
+Glucose intolerance	APOE	1.0	
+Glucose intolerance	APP	1.0	
+Glucose intolerance	ESR1	1.0	
+Glucose intolerance	FN1	1.0	
+Glucose intolerance	PON1	1.0	
+Type 1 diabetic neuropathy	AGT	1.0	
+Type 1 diabetic neuropathy	ALB	1.0	
+Type 1 diabetic neuropathy	APOE	1.0	
+Type 1 diabetic neuropathy	BDKRB1	1.0	
+Type 1 diabetic neuropathy	PARP1	1.0	
+DNA Damage	AGT	1.0	
+DNA Damage	MDM2	1.0	
+DNA Damage	PARP1	1.0	
+DNA Damage	PON1	1.0	
+DNA Damage	TP53	1.0	
+Hypohidrosis	KRT1	1.0	
+Hypohidrosis	KRT14	1.0	
+Hypohidrosis	KRT16	1.0	
+Hypohidrosis	KRT5	1.0	
+Hypohidrosis	KRT6A	1.0	
+Hypohidrosis	KRT9	1.0	
+Epidermal thickening	ESR1	1.0	
+Epidermal thickening	KRT1	1.0	
+Epidermal thickening	KRT10	1.0	
+Epidermal thickening	KRT14	1.0	
+Epidermal thickening	KRT16	1.0	
+Epidermal thickening	KRT5	1.0	
+Epidermal thickening	KRT6A	1.0	
+Epidermal thickening	KRT9	1.0	
+Angina, Unstable	AGT	1.0	
+Angina, Unstable	APOE	1.0	
+Angina, Unstable	F2	1.0	
+Angina, Unstable	PARP1	1.0	
+Angina, Unstable	PON1	1.0	
+Cognitive Dysfunction	ALB	1.0	
+Cognitive Dysfunction	APOA1	1.0	
+Cognitive Dysfunction	APOC1	1.0	
+Cognitive Dysfunction	APOE	1.0	
+Cognitive Dysfunction	APP	1.0	
+Cognitive Dysfunction	ESR1	1.0	
+Cognitive Dysfunction	KRT16	1.0	
+Cognitive Dysfunction	KRT6A	1.0	
+Cognitive Dysfunction	SERPINA3	1.0	
+Cognitive Dysfunction	TOMM40	1.0	
+Cognitive Dysfunction	TP53	1.0	
+Cognitive Dysfunction	TTR	1.0	
+Stomach Neoplasms	ADH1C	1.0	
+Stomach Neoplasms	AGT	1.0	
+Stomach Neoplasms	ALB	1.0	
+Stomach Neoplasms	APOA1	1.0	
+Stomach Neoplasms	APOE	1.0	
+Stomach Neoplasms	BDKRB1	1.0	
+Stomach Neoplasms	ESR1	1.0	
+Stomach Neoplasms	F2	1.0	
+Stomach Neoplasms	FN1	1.0	
+Stomach Neoplasms	HDAC1	1.0	
+Stomach Neoplasms	MDM2	1.0	
+Stomach Neoplasms	PARP1	1.0	
+Stomach Neoplasms	TP53	1.0	
+Invasive Carcinoma	AGT	1.0	
+Invasive Carcinoma	ESR1	1.0	
+Invasive Carcinoma	GSN	1.0	
+Invasive Carcinoma	KRT14	1.0	
+Invasive Carcinoma	MDM2	1.0	
+Invasive Carcinoma	TP53	1.0	
+Alcohol abuse	ADH1C	1.0	
+Alcohol abuse	APOE	1.0	
+Alcohol abuse	ESR1	1.0	
+Alcohol abuse	F2	1.0	
+Alcohol abuse	FN1	1.0	
+Abnormal bleeding	APOE	1.0	
+Abnormal bleeding	APP	1.0	
+Abnormal bleeding	F2	1.0	
+Abnormal bleeding	FN1	1.0	
+Abnormal bleeding	KRT1	1.0	
+Abnormal bleeding	KRT14	1.0	
+Abnormal bleeding	KRT5	1.0	
+Abnormal bleeding	TP53	1.0	
+Thrombosis	AGT	1.0	
+Thrombosis	APOE	1.0	
+Thrombosis	ESR1	1.0	
+Thrombosis	F12	1.0	
+Thrombosis	F2	1.0	
+Thrombosis	PON1	1.0	
+Acute type B viral hepatitis	AGT	1.0	
+Acute type B viral hepatitis	ALB	1.0	
+Acute type B viral hepatitis	APOA1	1.0	
+Acute type B viral hepatitis	APOE	1.0	
+Acute type B viral hepatitis	ESR1	1.0	
+Acute type B viral hepatitis	F2	1.0	
+Acute type B viral hepatitis	HBB	1.0	
+Acute type B viral hepatitis	HDAC1	1.0	
+Acute type B viral hepatitis	KRT14	1.0	
+Acute type B viral hepatitis	MDM2	1.0	
+Acute type B viral hepatitis	PARP1	1.0	
+Acute type B viral hepatitis	TP53	1.0	
+Glomerulopathy	AGT	1.0	
+Glomerulopathy	ALB	1.0	
+Glomerulopathy	APOE	1.0	
+Glomerulopathy	CFH	1.0	
+Glomerulopathy	FN1	1.0	
+Glomerulopathy	HBB	1.0	
+Adrenocortical carcinoma	AGT	1.0	
+Adrenocortical carcinoma	ALB	1.0	
+Adrenocortical carcinoma	ESR1	1.0	
+Adrenocortical carcinoma	KRT5	1.0	
+Adrenocortical carcinoma	SERPINA3	1.0	
+Adrenocortical carcinoma	TP53	1.0	
+Dermal atrophy	APOC1	1.0	
+Dermal atrophy	APOE	1.0	
+Dermal atrophy	CFH	1.0	
+Dermal atrophy	ESR1	1.0	
+Dermal atrophy	KRT14	1.0	
+Dermal atrophy	KRT5	1.0	
+Dermal atrophy	TP53	1.0	
+Depressive Disorder	AGT	1.0	
+Depressive Disorder	ALB	1.0	
+Depressive Disorder	APOE	1.0	
+Depressive Disorder	ESR1	1.0	
+Depressive Disorder	ITIH3	1.0	
+Depressive Disorder	MDM2	1.0	
+Depressive Disorder	PON1	1.0	
+Depressive Disorder	TOMM40	1.0	
+Depressive Disorder	TP53	1.0	
+Depressive Disorder	TTR	1.0	
+Carotid Stenosis	AGT	1.0	
+Carotid Stenosis	APOA1	1.0	
+Carotid Stenosis	APOC1	1.0	
+Carotid Stenosis	APOE	1.0	
+Carotid Stenosis	ESR1	1.0	
+Carotid Stenosis	F2	1.0	
+Inclusion Body Myopathy, Sporadic	APOE	1.0	
+Inclusion Body Myopathy, Sporadic	SERPINA3	1.0	
+Inclusion Body Myopathy, Sporadic	TOMM40	1.0	
+Inclusion Body Myopathy, Sporadic	TTR	1.0	
+Albuminuria	AGT	1.0	
+Albuminuria	ALB	1.0	
+Albuminuria	APOE	1.0	
+Albuminuria	F2	1.0	
+Albuminuria	HBB	1.0	
+Albuminuria	PON1	1.0	
+Abnormality of the palm	KRT1	1.0	
+Abnormality of the palm	KRT10	1.0	
+Abnormality of the palm	KRT14	1.0	
+Abnormality of the palm	KRT16	1.0	
+Abnormality of the palm	KRT5	1.0	
+Abnormality of the palm	KRT6A	1.0	
+Abnormality of the palm	KRT9	1.0	
+Abnormality of skin morphology	APOA1	1.0	
+Abnormality of skin morphology	APOE	1.0	
+Abnormality of skin morphology	ESR1	1.0	
+Abnormality of skin morphology	F12	1.0	
+Abnormality of skin morphology	F2	1.0	
+Abnormality of skin morphology	GSN	1.0	
+Abnormality of skin morphology	HBB	1.0	
+Abnormality of skin morphology	KRT1	1.0	
+Abnormality of skin morphology	KRT10	1.0	
+Abnormality of skin morphology	KRT14	1.0	
+Abnormality of skin morphology	KRT16	1.0	
+Abnormality of skin morphology	KRT5	1.0	
+Abnormality of skin morphology	KRT6A	1.0	
+Abnormality of skin morphology	KRT9	1.0	
+Abnormality of skin morphology	MDM2	1.0	
+Insulin Resistance	AGT	1.0	
+Insulin Resistance	APOA1	1.0	
+Insulin Resistance	APOA2	1.0	
+Insulin Resistance	APOE	1.0	
+Insulin Resistance	BDKRB1	1.0	
+Insulin Resistance	ESR1	1.0	
+Insulin Resistance	PON1	1.0	
+Insulin Resistance	TF	1.0	
+Nerve Sheath Tumors	ESR1	1.0	
+Nerve Sheath Tumors	FN1	1.0	
+Nerve Sheath Tumors	MDM2	1.0	
+Nerve Sheath Tumors	TP53	1.0	
+Regional abnormality of skin	KRT1	1.0	
+Regional abnormality of skin	KRT10	1.0	
+Regional abnormality of skin	KRT14	1.0	
+Regional abnormality of skin	KRT16	1.0	
+Regional abnormality of skin	KRT5	1.0	
+Regional abnormality of skin	KRT6A	1.0	
+Regional abnormality of skin	KRT9	1.0	
+Neoplasm of the skin	KRT1	1.0	
+Neoplasm of the skin	KRT10	1.0	
+Neoplasm of the skin	KRT14	1.0	
+Neoplasm of the skin	KRT16	1.0	
+Neoplasm of the skin	KRT5	1.0	
+Neoplasm of the skin	KRT9	1.0	
+Neoplasm of the skin	MDM2	1.0	
+Neoplasm of the skin	PARP1	1.0	
+Neoplasm of the skin	TP53	1.0	
+Adenocarcinoma of lung	ALB	1.0	
+Adenocarcinoma of lung	APOA1	1.0	
+Adenocarcinoma of lung	APOE	1.0	
+Adenocarcinoma of lung	BDKRB1	1.0	
+Adenocarcinoma of lung	CFH	1.0	
+Adenocarcinoma of lung	ESR1	1.0	
+Adenocarcinoma of lung	FN1	1.0	
+Adenocarcinoma of lung	GSN	1.0	
+Adenocarcinoma of lung	HDAC1	1.0	
+Adenocarcinoma of lung	MDM2	1.0	
+Adenocarcinoma of lung	TF	1.0	
+Adenocarcinoma of lung	TP53	1.0	
+Non-Hodgkin lymphoma	APOA2	1.0	
+Non-Hodgkin lymphoma	APOE	1.0	
+Non-Hodgkin lymphoma	C5	1.0	
+Non-Hodgkin lymphoma	CFB	1.0	
+Non-Hodgkin lymphoma	CFH	1.0	
+Non-Hodgkin lymphoma	ESR1	1.0	
+Non-Hodgkin lymphoma	MDM2	1.0	
+Non-Hodgkin lymphoma	PARP1	1.0	
+Non-Hodgkin lymphoma	PON1	1.0	
+Non-Hodgkin lymphoma	TP53	1.0	
+Thickened skin	ESR1	1.0	
+Thickened skin	KRT1	1.0	
+Thickened skin	KRT10	1.0	
+Thickened skin	KRT14	1.0	
+Thickened skin	KRT16	1.0	
+Thickened skin	KRT5	1.0	
+Thickened skin	KRT6A	1.0	
+Thickened skin	KRT9	1.0	
+Diabetic Cardiomyopathies	A2M	1.0	
+Diabetic Cardiomyopathies	AGT	1.0	
+Diabetic Cardiomyopathies	APOA1	1.0	
+Diabetic Cardiomyopathies	FN1	1.0	
+Multiple Sclerosis	A2M	1.0	
+Multiple Sclerosis	AGT	1.0	
+Multiple Sclerosis	ALB	1.0	
+Multiple Sclerosis	APOA1	1.0	
+Multiple Sclerosis	APOC1	1.0	
+Multiple Sclerosis	APOE	1.0	
+Multiple Sclerosis	BDKRB1	1.0	
+Multiple Sclerosis	CFB	1.0	
+Multiple Sclerosis	CFH	1.0	
+Multiple Sclerosis	ESR1	1.0	
+Multiple Sclerosis	FN1	1.0	
+Multiple Sclerosis	PARP1	1.0	
+Multiple Sclerosis	PON1	1.0	
+Multiple Sclerosis	TP53	1.0	
+Neoplasm of the parathyroid gland	ESR1	1.0	
+Neoplasm of the parathyroid gland	HDAC1	1.0	
+Neoplasm of the parathyroid gland	MDM2	1.0	
+Neoplasm of the parathyroid gland	TP53	1.0	
+Hyperglycemia	AGT	1.0	
+Hyperglycemia	ALB	1.0	
+Hyperglycemia	APOA2	1.0	
+Hyperglycemia	APOE	1.0	
+Hyperglycemia	ESR1	1.0	
+Hyperglycemia	FN1	1.0	
+Hyperglycemia	PARP1	1.0	
+Hyperglycemia	PON1	1.0	
+Hyperglycemia	TP53	1.0	
+Bleeding disorder, platelet-type, 21	ALB	1.0	
+Bleeding disorder, platelet-type, 21	APOE	1.0	
+Bleeding disorder, platelet-type, 21	F12	1.0	
+Bleeding disorder, platelet-type, 21	F2	1.0	
+Bleeding disorder, platelet-type, 21	GSN	1.0	
+Bleeding disorder, platelet-type, 21	SERPINA3	1.0	
+Abnormality of the integument	APOA1	1.0	
+Abnormality of the integument	APOE	1.0	
+Abnormality of the integument	C5	1.0	
+Abnormality of the integument	ESR1	1.0	
+Abnormality of the integument	F12	1.0	
+Abnormality of the integument	F2	1.0	
+Abnormality of the integument	GSN	1.0	
+Abnormality of the integument	HBB	1.0	
+Abnormality of the integument	KRT1	1.0	
+Abnormality of the integument	KRT10	1.0	
+Abnormality of the integument	KRT14	1.0	
+Abnormality of the integument	KRT16	1.0	
+Abnormality of the integument	KRT5	1.0	
+Abnormality of the integument	KRT6A	1.0	
+Abnormality of the integument	KRT9	1.0	
+Abnormality of the integument	MDM2	1.0	
+Abnormality of the integument	TP53	1.0	
+Carotid Atherosclerosis	AGT	1.0	
+Carotid Atherosclerosis	APOA1	1.0	
+Carotid Atherosclerosis	APOE	1.0	
+Carotid Atherosclerosis	PON1	1.0	
+Carotid Atherosclerosis	TP53	1.0	
+Lung Neoplasms	A2M	1.0	
+Lung Neoplasms	ADH1C	1.0	
+Lung Neoplasms	APOA1	1.0	
+Lung Neoplasms	APOE	1.0	
+Lung Neoplasms	ESR1	1.0	
+Lung Neoplasms	FN1	1.0	
+Lung Neoplasms	GSN	1.0	
+Lung Neoplasms	MDM2	1.0	
+Lung Neoplasms	PARP1	1.0	
+Lung Neoplasms	PON1	1.0	
+Lung Neoplasms	SERPINA3	1.0	
+Lung Neoplasms	TF	1.0	
+Lung Neoplasms	TP53	1.0	
+Lung Neoplasms	TTR	1.0	
+Glaucoma, Open-Angle	AGT	1.0	
+Glaucoma, Open-Angle	APOE	1.0	
+Glaucoma, Open-Angle	ESR1	1.0	
+Glaucoma, Open-Angle	PON1	1.0	
+Glaucoma, Open-Angle	TP53	1.0	
+Aneurysm, Ruptured	APOE	1.0	
+Aneurysm, Ruptured	FN1	1.0	
+Aneurysm, Ruptured	SERPINA3	1.0	
+Brain Hemorrhage, Traumatic	APOA1	1.0	
+Brain Hemorrhage, Traumatic	F2	1.0	
+Brain Hemorrhage, Traumatic	SERPINA3	1.0	
+Cooley's anemia	AGT	1.0	
+Cooley's anemia	APOE	1.0	
+Cooley's anemia	F2	1.0	
+Cooley's anemia	HBB	1.0	
+Menopause present (finding)	AGT	1.0	
+Menopause present (finding)	APOE	1.0	
+Menopause present (finding)	ESR1	1.0	
+Menopause present (finding)	F2	1.0	
+Synovial Cyst	APOE	1.0	
+Synovial Cyst	CFH	1.0	
+Synovial Cyst	ESR1	1.0	
+Synovial Cyst	FN1	1.0	
+Synovial Cyst	PARP1	1.0	
+Synovial Cyst	TP53	1.0	
+Neuropathy ataxia retinitis pigmentosa syndrome	ALB	1.0	
+Neuropathy ataxia retinitis pigmentosa syndrome	APOA2	1.0	
+Neuropathy ataxia retinitis pigmentosa syndrome	APOE	1.0	
+Neuropathy ataxia retinitis pigmentosa syndrome	GSN	1.0	
+Neuropathy ataxia retinitis pigmentosa syndrome	PON1	1.0	
+Neuropathy ataxia retinitis pigmentosa syndrome	TP53	1.0	
+Neuropathy ataxia retinitis pigmentosa syndrome	TTR	1.0	
+Cognition Disorders	APOC1	1.0	
+Cognition Disorders	APOE	1.0	
+Cognition Disorders	APP	1.0	
+Cognition Disorders	ESR1	1.0	
+Meningococcal Infections	AGT	1.0	
+Meningococcal Infections	CFB	1.0	
+Meningococcal Infections	CFH	1.0	
+Meningococcal Infections	PARP1	1.0	
+Renal Insufficiency, Chronic	AGT	1.0	
+Renal Insufficiency, Chronic	ALB	1.0	
+Renal Insufficiency, Chronic	APOE	1.0	
+Renal Insufficiency, Chronic	APP	1.0	
+Renal Insufficiency, Chronic	BDKRB1	1.0	
+Renal Insufficiency, Chronic	CFH	1.0	
+Renal Insufficiency, Chronic	ESR1	1.0	
+Renal Insufficiency, Chronic	TP53	1.0	
+Peritonitis	A2M	1.0	
+Peritonitis	C5	1.0	
+Peritonitis	CFB	1.0	
+Peritonitis	ESR1	1.0	
+Peritonitis	TP53	1.0	
+Peeling skin with leukonychia, acral punctate keratoses, cheilitis, and knuckle pads	APOC1	1.0	
+Peeling skin with leukonychia, acral punctate keratoses, cheilitis, and knuckle pads	KRT1	1.0	
+Peeling skin with leukonychia, acral punctate keratoses, cheilitis, and knuckle pads	KRT10	1.0	
+Monoclonal Gammapathies	CFH	1.0	
+Monoclonal Gammapathies	PARP1	1.0	
+Monoclonal Gammapathies	TTR	1.0	
+Subarachnoid hemorrhage	AGT	1.0	
+Subarachnoid hemorrhage	APOE	1.0	
+Subarachnoid hemorrhage	ESR1	1.0	
+Subarachnoid hemorrhage	F2	1.0	
+Subarachnoid hemorrhage	SERPINA3	1.0	
+Subarachnoid hemorrhage	TP53	1.0	
+Subarachnoid hemorrhage	TTR	1.0	
+Intracranial Aneurysm	AGT	1.0	
+Intracranial Aneurysm	APOE	1.0	
+Intracranial Aneurysm	FN1	1.0	
+Intracranial Aneurysm	SERPINA3	1.0	
+Intracranial Aneurysm	TP53	1.0	
+Early-Stage Breast Carcinoma	APOE	1.0	
+Early-Stage Breast Carcinoma	ESR1	1.0	
+Early-Stage Breast Carcinoma	PARP1	1.0	
+Early-Stage Breast Carcinoma	TP53	1.0	
+Thromboembolism	A2M	1.0	
+Thromboembolism	CFH	1.0	
+Thromboembolism	ESR1	1.0	
+Thromboembolism	F12	1.0	
+Thromboembolism	F2	1.0	
+Echinococcosis	ALB	1.0	
+Echinococcosis	HBB	1.0	
+Echinococcosis	TF	1.0	
+Liposarcoma, Dedifferentiated	HDAC1	1.0	
+Liposarcoma, Dedifferentiated	MDM2	1.0	
+Liposarcoma, Dedifferentiated	TP53	1.0	
+Left ventricular hypertrophy	AGT	1.0	
+Left ventricular hypertrophy	APOE	1.0	
+Left ventricular hypertrophy	BDKRB1	1.0	
+Left ventricular hypertrophy	ESR1	1.0	
+Left ventricular hypertrophy	FN1	1.0	
+Left ventricular hypertrophy	PON1	1.0	
+Left ventricular hypertrophy	TTR	1.0	
+Carotid Artery Diseases	AGT	1.0	
+Carotid Artery Diseases	APOE	1.0	
+Carotid Artery Diseases	CFH	1.0	
+Carotid Artery Diseases	PON1	1.0	
+Carotid Artery Diseases	TF	1.0	
+Carotid Artery Diseases	TP53	1.0	
+Aortic Aneurysm, Abdominal	AGT	1.0	
+Aortic Aneurysm, Abdominal	APOE	1.0	
+Aortic Aneurysm, Abdominal	APP	1.0	
+Aortic Aneurysm, Abdominal	ESR1	1.0	
+Aortic Aneurysm, Abdominal	PON1	1.0	
+Aortic Aneurysm, Abdominal	TP53	1.0	
+Old myocardial infarction	APOA1	1.0	
+Old myocardial infarction	APOE	1.0	
+Old myocardial infarction	F2	1.0	
+Abnormal urine cytology	APOA1	1.0	
+Abnormal urine cytology	CFH	1.0	
+Abnormal urine cytology	FN1	1.0	
+Abnormal urine cytology	HBB	1.0	
+Brain Diseases	AGT	1.0	
+Brain Diseases	ALB	1.0	
+Brain Diseases	APOA1	1.0	
+Brain Diseases	APOE	1.0	
+Brain Diseases	APP	1.0	
+Brain Diseases	F2	1.0	
+Occupational Diseases	ALB	1.0	
+Occupational Diseases	MDM2	1.0	
+Occupational Diseases	PON1	1.0	
+Occupational Diseases	TP53	1.0	
+Microalbuminuria	AGT	1.0	
+Microalbuminuria	ALB	1.0	
+Microalbuminuria	PON1	1.0	
+Microalbuminuria	TTR	1.0	
+Myocardial Reperfusion Injury	AGT	1.0	
+Myocardial Reperfusion Injury	ALB	1.0	
+Myocardial Reperfusion Injury	C5	1.0	
+Myocardial Reperfusion Injury	ESR1	1.0	
+Myocardial Reperfusion Injury	MDM2	1.0	
+Myocardial Reperfusion Injury	TP53	1.0	
+Shock, Septic	APOE	1.0	
+Shock, Septic	CFH	1.0	
+Shock, Septic	ESR1	1.0	
+Shock, Septic	F2	1.0	
+Inclusion Body Myositis (disorder)	APOE	1.0	
+Inclusion Body Myositis (disorder)	APP	1.0	
+Inclusion Body Myositis (disorder)	GSN	1.0	
+Inclusion Body Myositis (disorder)	TTR	1.0	
+Spots on skin	APOA1	1.0	
+Spots on skin	APOE	1.0	
+Spots on skin	FN1	1.0	
+Spots on skin	HBB	1.0	
+Spots on skin	KRT10	1.0	
+Spots on skin	TP53	1.0	
+Gallbladder Diseases	APOA1	1.0	
+Gallbladder Diseases	APOE	1.0	
+Gallbladder Diseases	TP53	1.0	
+Abnormality of the fingernails	KRT1	1.0	
+Abnormality of the fingernails	KRT14	1.0	
+Abnormality of the fingernails	KRT16	1.0	
+Abnormality of the fingernails	KRT6A	1.0	
+Abnormality of the fingernails	KRT9	1.0	
+Epidermolysis bullosa, junctional	KRT14	1.0	
+Epidermolysis bullosa, junctional	KRT5	1.0	
+Epidermolysis bullosa, junctional	TP53	1.0	
+Stenosis	APOE	1.0	
+Stenosis	F2	1.0	
+Stenosis	PON1	1.0	
+Viral hepatitis	ADH1C	1.0	
+Viral hepatitis	AGT	1.0	
+Viral hepatitis	APOA2	1.0	
+Viral hepatitis	TP53	1.0	
+Ischaemic cerebral infarction	AGT	1.0	
+Ischaemic cerebral infarction	APOA1	1.0	
+Ischaemic cerebral infarction	APOE	1.0	
+Ischaemic cerebral infarction	ESR1	1.0	
+Ischaemic cerebral infarction	F2	1.0	
+Ischaemic cerebral infarction	PARP1	1.0	
+Ischaemic cerebral infarction	PON1	1.0	
+Congestive heart failure	AGT	1.0	
+Congestive heart failure	ALB	1.0	
+Congestive heart failure	APOA1	1.0	
+Congestive heart failure	APOE	1.0	
+Congestive heart failure	ESR1	1.0	
+Congestive heart failure	GSN	1.0	
+Congestive heart failure	PARP1	1.0	
+Congestive heart failure	SERPINA3	1.0	
+Congestive heart failure	TF	1.0	
+Congestive heart failure	TP53	1.0	
+Congestive heart failure	TTR	1.0	
+Obesity	AGT	1.0	
+Obesity	AHSG	1.0	
+Obesity	ALB	1.0	
+Obesity	APOA1	1.0	
+Obesity	APOA2	1.0	
+Obesity	APOC1	1.0	
+Obesity	APOE	1.0	
+Obesity	APP	1.0	
+Obesity	BDKRB1	1.0	
+Obesity	CFB	1.0	
+Obesity	CFH	1.0	
+Obesity	ESR1	1.0	
+Obesity	F2	1.0	
+Obesity	FN1	1.0	
+Obesity	KRT16	1.0	
+Obesity	PARP1	1.0	
+Obesity	PON1	1.0	
+Obesity	TF	1.0	
+Obesity	TP53	1.0	
+Neoplasms	ESR1	1.0	
+Neoplasms	FN1	1.0	
+Neoplasms	HBB	1.0	
+Neoplasms	KRT1	1.0	
+Neoplasms	KRT14	1.0	
+Neoplasms	KRT16	1.0	
+Neoplasms	KRT5	1.0	
+Neoplasms	KRT9	1.0	
+Neoplasms	MDM2	1.0	
+Neoplasms	TP53	1.0	
+Homocysteinemia due to MTHFR deficiency	AGT	1.0	
+Homocysteinemia due to MTHFR deficiency	APOE	1.0	
+Homocysteinemia due to MTHFR deficiency	F2	1.0	
+Homocysteinemia due to MTHFR deficiency	PON1	1.0	
+Abnormality of metabolism/homeostasis	ALB	1.0	
+Abnormality of metabolism/homeostasis	APOA1	1.0	
+Abnormality of metabolism/homeostasis	APOE	1.0	
+Abnormality of metabolism/homeostasis	APP	1.0	
+Abnormality of metabolism/homeostasis	CFH	1.0	
+Abnormality of metabolism/homeostasis	ESR1	1.0	
+Abnormality of metabolism/homeostasis	F12	1.0	
+Abnormality of metabolism/homeostasis	FN1	1.0	
+Abnormality of metabolism/homeostasis	GSN	1.0	
+Abnormality of metabolism/homeostasis	HBB	1.0	
+Abnormality of metabolism/homeostasis	KRT1	1.0	
+Abnormality of metabolism/homeostasis	KRT14	1.0	
+Abnormality of metabolism/homeostasis	KRT9	1.0	
+Abnormality of metabolism/homeostasis	TF	1.0	
+Abnormality of metabolism/homeostasis	TP53	1.0	
+Abnormality of metabolism/homeostasis	TTR	1.0	
+Enzyme inhibition disorder	ADH1C	1.0	
+Enzyme inhibition disorder	AGT	1.0	
+Enzyme inhibition disorder	PARP1	1.0	
+Proteinuria, low molecular weight, with hypercalciuria and nephrocalcinosis	AGT	1.0	
+Proteinuria, low molecular weight, with hypercalciuria and nephrocalcinosis	ALB	1.0	
+Proteinuria, low molecular weight, with hypercalciuria and nephrocalcinosis	APOA1	1.0	
+Proteinuria, low molecular weight, with hypercalciuria and nephrocalcinosis	APOE	1.0	
+Proteinuria, low molecular weight, with hypercalciuria and nephrocalcinosis	CFH	1.0	
+Proteinuria, low molecular weight, with hypercalciuria and nephrocalcinosis	FN1	1.0	
+IgA nephropathy, susceptibility to, 3	AGT	1.0	
+IgA nephropathy, susceptibility to, 3	APOC1	1.0	
+IgA nephropathy, susceptibility to, 3	APOE	1.0	
+IgA nephropathy, susceptibility to, 3	BDKRB1	1.0	
+IgA nephropathy, susceptibility to, 3	C5	1.0	
+IgA nephropathy, susceptibility to, 3	CFH	1.0	
+IgA nephropathy, susceptibility to, 3	F12	1.0	
+IgA nephropathy, susceptibility to, 3	FN1	1.0	
+IgA nephropathy, susceptibility to, 3	PON1	1.0	
+IgA nephropathy, susceptibility to, 3	TP53	1.0	
+Parkinson Disease	A2M	1.0	
+Parkinson Disease	ADH1C	1.0	
+Parkinson Disease	APOE	1.0	
+Parkinson Disease	APP	1.0	
+Parkinson Disease	CFB	1.0	
+Parkinson Disease	CFH	1.0	
+Parkinson Disease	ESR1	1.0	
+Parkinson Disease	PARP1	1.0	
+Parkinson Disease	PON1	1.0	
+Parkinson Disease	SERPINA3	1.0	
+Parkinson Disease	TF	1.0	
+Postoperative Complications	AGT	1.0	
+Postoperative Complications	APOE	1.0	
+Postoperative Complications	F2	1.0	
+Postoperative Complications	TP53	1.0	
+Complications of Diabetes Mellitus	ALB	1.0	
+Complications of Diabetes Mellitus	APOE	1.0	
+Complications of Diabetes Mellitus	F2	1.0	
+Complications of Diabetes Mellitus	PON1	1.0	
+Familial type 3 hyperlipoproteinemia	APOA1	1.0	
+Familial type 3 hyperlipoproteinemia	APOC1	1.0	
+Familial type 3 hyperlipoproteinemia	APOE	1.0	
+Malignant neoplasm of oropharynx	ADH1C	1.0	
+Malignant neoplasm of oropharynx	MDM2	1.0	
+Malignant neoplasm of oropharynx	TP53	1.0	
+Triploidy syndrome	ESR1	1.0	
+Triploidy syndrome	KRT5	1.0	
+Triploidy syndrome	TP53	1.0	
+Myofibrillar myopathy, BAG3-related	CFH	1.0	
+Myofibrillar myopathy, BAG3-related	FN1	1.0	
+Myofibrillar myopathy, BAG3-related	GSN	1.0	
+Reperfusion Injury	AGT	1.0	
+Reperfusion Injury	ALB	1.0	
+Reperfusion Injury	C5	1.0	
+Reperfusion Injury	CFH	1.0	
+Reperfusion Injury	F2	1.0	
+Reperfusion Injury	PARP1	1.0	
+Reperfusion Injury	TP53	1.0	
+Migraine with aura	AGT	1.0	
+Migraine with aura	APOE	1.0	
+Migraine with aura	ESR1	1.0	
+Migraine with aura	F2	1.0	
+Brain Infarction	AGT	1.0	
+Brain Infarction	APOA1	1.0	
+Brain Infarction	APOE	1.0	
+Brain Infarction	TP53	1.0	
+Asthma	AGT	1.0	
+Asthma	APOA1	1.0	
+Asthma	APOE	1.0	
+Asthma	APP	1.0	
+Asthma	BDKRB1	1.0	
+Asthma	C5	1.0	
+Asthma	ESR1	1.0	
+Asthma	FN1	1.0	
+Asthma	GSN	1.0	
+Asthma	HDAC1	1.0	
+Asthma	PARP1	1.0	
+Asthma	PON1	1.0	
+Asthma	SERPINA3	1.0	
+Asthma	TF	1.0	
+Asthma	TP53	1.0	
+Endometriosis of ovary	APOA2	1.0	
+Endometriosis of ovary	ESR1	1.0	
+Endometriosis of ovary	TP53	1.0	
+Sciatic Neuropathy	AGT	1.0	
+Sciatic Neuropathy	APOA1	1.0	
+Sciatic Neuropathy	APOE	1.0	
+Sciatic Neuropathy	BDKRB1	1.0	
+Overweight	AGT	1.0	
+Overweight	AHSG	1.0	
+Overweight	APOA1	1.0	
+Overweight	APOE	1.0	
+Overweight	ESR1	1.0	
+Overweight	TP53	1.0	
+Brain neoplasm	ALB	1.0	
+Brain neoplasm	APOE	1.0	
+Brain neoplasm	ESR1	1.0	
+Brain neoplasm	FN1	1.0	
+Brain neoplasm	KRT5	1.0	
+Brain neoplasm	MDM2	1.0	
+Brain neoplasm	PARP1	1.0	
+Brain neoplasm	PON1	1.0	
+Brain neoplasm	TF	1.0	
+Brain neoplasm	TP53	1.0	
+Hematuria	APOA1	1.0	
+Hematuria	CFH	1.0	
+Hematuria	FN1	1.0	
+Hematuria	HBB	1.0	
+Hyperthyroidism	APOA1	1.0	
+Hyperthyroidism	APOA2	1.0	
+Hyperthyroidism	APP	1.0	
+Hyperthyroidism	FN1	1.0	
+Hyperthyroidism	PON1	1.0	
+Mammary Tumorigenesis	AHSG	1.0	
+Mammary Tumorigenesis	ESR1	1.0	
+Mammary Tumorigenesis	MDM2	1.0	
+Mammary Tumorigenesis	PARP1	1.0	
+Mammary Tumorigenesis	TP53	1.0	
+Complete trisomy 18 syndrome	APOA1	1.0	
+Complete trisomy 18 syndrome	TP53	1.0	
+Complete trisomy 18 syndrome	TTR	1.0	
+Azorean disease	APOE	1.0	
+Azorean disease	SERPINA3	1.0	
+Azorean disease	TP53	1.0	
+Azorean disease	TTR	1.0	
+Werner syndrome	APOA1	1.0	
+Werner syndrome	FN1	1.0	
+Werner syndrome	PARP1	1.0	
+Werner syndrome	TP53	1.0	
+Intracranial hemorrhage	APOE	1.0	
+Intracranial hemorrhage	APP	1.0	
+Intracranial hemorrhage	F2	1.0	
+Intracranial hemorrhage	FN1	1.0	
+Intracranial hemorrhage	HBB	1.0	
+Intracranial hemorrhage	TF	1.0	
+Hepatic steatosis	AGT	1.0	
+Hepatic steatosis	AHSG	1.0	
+Hepatic steatosis	ALB	1.0	
+Hepatic steatosis	APOA1	1.0	
+Hepatic steatosis	APOC1	1.0	
+Hepatic steatosis	APOE	1.0	
+Hepatic steatosis	F2	1.0	
+Hepatic steatosis	TF	1.0	
+Sudden death	AGT	1.0	
+Sudden death	ESR1	1.0	
+Sudden death	F2	1.0	
+Mammary adenocarcinoma	ESR1	1.0	
+Mammary adenocarcinoma	FN1	1.0	
+Mammary adenocarcinoma	TP53	1.0	
+Abnormal renal physiology	AGT	1.0	
+Abnormal renal physiology	APOA1	1.0	
+Abnormal renal physiology	APOE	1.0	
+Abnormal renal physiology	CFH	1.0	
+Abnormal renal physiology	FN1	1.0	
+Abnormal renal physiology	GSN	1.0	
+Abnormal renal physiology	HBB	1.0	
+Abnormal renal physiology	MDM2	1.0	
+Lupus Nephritis	AGT	1.0	
+Lupus Nephritis	C5	1.0	
+Lupus Nephritis	CFH	1.0	
+Lupus Nephritis	ESR1	1.0	
+Lupus Nephritis	FN1	1.0	
+Lupus Nephritis	PON1	1.0	
+Iron Overload	APOE	1.0	
+Iron Overload	F2	1.0	
+Iron Overload	HBB	1.0	
+Iron Overload	TF	1.0	
+Hereditary hemochromatosis	AGT	1.0	
+Hereditary hemochromatosis	APOE	1.0	
+Hereditary hemochromatosis	PON1	1.0	
+Hereditary hemochromatosis	TF	1.0	
+Chronic myelopathy	APOE	1.0	
+Chronic myelopathy	APP	1.0	
+Chronic myelopathy	TTR	1.0	
+Pregnancy associated hypertension	AGT	1.0	
+Pregnancy associated hypertension	ESR1	1.0	
+Pregnancy associated hypertension	F2	1.0	
+Pancreatitis, Alcoholic	ADH1C	1.0	
+Pancreatitis, Alcoholic	APOE	1.0	
+Pancreatitis, Alcoholic	PON1	1.0	
+Carcinoma, Papillary	ESR1	1.0	
+Carcinoma, Papillary	FN1	1.0	
+Carcinoma, Papillary	HDAC1	1.0	
+Carcinoma, Papillary	MDM2	1.0	
+Carcinoma, Papillary	TP53	1.0	
+Carcinoma, Papillary	TTR	1.0	
+{Aneurysm, familial abdominal 3} (2)	AGT	1.0	
+{Aneurysm, familial abdominal 3} (2)	APOE	1.0	
+{Aneurysm, familial abdominal 3} (2)	APP	1.0	
+{Aneurysm, familial abdominal 3} (2)	FN1	1.0	
+{Aneurysm, familial abdominal 3} (2)	TP53	1.0	
+Fetal Diseases	ADH1C	1.0	
+Fetal Diseases	APOE	1.0	
+Fetal Diseases	F2	1.0	
+Fetal Diseases	HBB	1.0	
+Fetal Diseases	PON1	1.0	
+Tumor Angiogenesis	AGT	1.0	
+Tumor Angiogenesis	APOA1	1.0	
+Tumor Angiogenesis	F2	1.0	
+Tumor Angiogenesis	FN1	1.0	
+Tumor Angiogenesis	HDAC1	1.0	
+Tumor Angiogenesis	MDM2	1.0	
+Tumor Angiogenesis	PARP1	1.0	
+Tumor Angiogenesis	TP53	1.0	
+Pancreatic Ductal Adenocarcinoma	AGT	1.0	
+Pancreatic Ductal Adenocarcinoma	APOC1	1.0	
+Pancreatic Ductal Adenocarcinoma	CFB	1.0	
+Pancreatic Ductal Adenocarcinoma	FN1	1.0	
+Pancreatic Ductal Adenocarcinoma	HDAC1	1.0	
+Pancreatic Ductal Adenocarcinoma	MDM2	1.0	
+Pancreatic Ductal Adenocarcinoma	PARP1	1.0	
+Pancreatic Ductal Adenocarcinoma	TP53	1.0	
+Pancreatic Ductal Adenocarcinoma	TTR	1.0	
+Herpes NOS	APOE	1.0	
+Herpes NOS	ESR1	1.0	
+Herpes NOS	HBB	1.0	
+Herpes NOS	TP53	1.0	
+Liver regeneration disorder	ALB	1.0	
+Liver regeneration disorder	APP	1.0	
+Liver regeneration disorder	SERPINA3	1.0	
+Liver regeneration disorder	TP53	1.0	
+Stromal sarcoma	ESR1	1.0	
+Stromal sarcoma	HDAC1	1.0	
+Stromal sarcoma	TP53	1.0	
+Granulomatosis	AGT	1.0	
+Granulomatosis	MDM2	1.0	
+Granulomatosis	TP53	1.0	
+Alcoholic Steatohepatitis	APOE	1.0	
+Alcoholic Steatohepatitis	PON1	1.0	
+Alcoholic Steatohepatitis	TP53	1.0	
+Bronchogenic Carcinoma	ALB	1.0	
+Bronchogenic Carcinoma	MDM2	1.0	
+Bronchogenic Carcinoma	TP53	1.0	
+Generalized abnormality of skin	APOE	1.0	
+Generalized abnormality of skin	F12	1.0	
+Generalized abnormality of skin	F2	1.0	
+Generalized abnormality of skin	HBB	1.0	
+Generalized abnormality of skin	KRT1	1.0	
+Generalized abnormality of skin	KRT10	1.0	
+Generalized abnormality of skin	KRT14	1.0	
+Generalized abnormality of skin	KRT16	1.0	
+Generalized abnormality of skin	KRT5	1.0	
+Generalized abnormality of skin	KRT9	1.0	
+Neoplasm by anatomical site	FN1	1.0	
+Neoplasm by anatomical site	HBB	1.0	
+Neoplasm by anatomical site	KRT1	1.0	
+Neoplasm by anatomical site	KRT14	1.0	
+Neoplasm by anatomical site	KRT16	1.0	
+Neoplasm by anatomical site	KRT5	1.0	
+Neoplasm by anatomical site	KRT9	1.0	
+Neoplasm by anatomical site	MDM2	1.0	
+Neoplasm by anatomical site	TP53	1.0	
+Meningioma	APOA1	1.0	
+Meningioma	ESR1	1.0	
+Meningioma	FN1	1.0	
+Meningioma	MDM2	1.0	
+Meningioma	PARP1	1.0	
+Meningioma	PON1	1.0	
+Meningioma	TP53	1.0	
+Meningioma	TTR	1.0	
+Secondary hypertriglyceridemia	A2M	1.0	
+Secondary hypertriglyceridemia	AGT	1.0	
+Secondary hypertriglyceridemia	ALB	1.0	
+Secondary hypertriglyceridemia	APOA1	1.0	
+Secondary hypertriglyceridemia	APOE	1.0	
+Secondary hypertriglyceridemia	APP	1.0	
+Secondary hypertriglyceridemia	BDKRB1	1.0	
+Secondary hypertriglyceridemia	ESR1	1.0	
+Secondary hypertriglyceridemia	F12	1.0	
+Secondary hypertriglyceridemia	F2	1.0	
+Secondary hypertriglyceridemia	FN1	1.0	
+Secondary hypertriglyceridemia	GSN	1.0	
+Secondary hypertriglyceridemia	HBB	1.0	
+Secondary hypertriglyceridemia	HDAC1	1.0	
+Secondary hypertriglyceridemia	ITIH1	1.0	
+Secondary hypertriglyceridemia	ITIH3	1.0	
+Secondary hypertriglyceridemia	KRT14	1.0	
+Secondary hypertriglyceridemia	KRT5	1.0	
+Secondary hypertriglyceridemia	MDM2	1.0	
+Secondary hypertriglyceridemia	PARP1	1.0	
+Secondary hypertriglyceridemia	SERPINA3	1.0	
+Secondary hypertriglyceridemia	TF	1.0	
+Secondary hypertriglyceridemia	TP53	1.0	
+Secondary hypertriglyceridemia	TTR	1.0	
+Abnormality of humoral immunity	C5	1.0	
+Abnormality of humoral immunity	CFB	1.0	
+Abnormality of humoral immunity	CFH	1.0	
+Abnormality of humoral immunity	KRT1	1.0	
+Abnormality of humoral immunity	KRT9	1.0	
+Polyneuropathy, hearing loss, ataxia, retinitis pigmentosa, and cataract	ALB	1.0	
+Polyneuropathy, hearing loss, ataxia, retinitis pigmentosa, and cataract	APOA1	1.0	
+Polyneuropathy, hearing loss, ataxia, retinitis pigmentosa, and cataract	GSN	1.0	
+Polyneuropathy, hearing loss, ataxia, retinitis pigmentosa, and cataract	TTR	1.0	
+Hypothyroidism	APOE	1.0	
+Hypothyroidism	APP	1.0	
+Hypothyroidism	GSN	1.0	
+Hypothyroidism	HBB	1.0	
+Hypothyroidism	KRT6A	1.0	
+Hypothyroidism	TF	1.0	
+Hypothyroidism	TTR	1.0	
+Precancerous Conditions	CFH	1.0	
+Precancerous Conditions	ESR1	1.0	
+Precancerous Conditions	HDAC1	1.0	
+Precancerous Conditions	KRT14	1.0	
+Precancerous Conditions	KRT5	1.0	
+Precancerous Conditions	MDM2	1.0	
+Precancerous Conditions	PARP1	1.0	
+Precancerous Conditions	TP53	1.0	
+Angiofibromas	ESR1	1.0	
+Angiofibromas	MDM2	1.0	
+Angiofibromas	TP53	1.0	
+Chemical Carcinogenesis	GSN	1.0	
+Chemical Carcinogenesis	KRT14	1.0	
+Chemical Carcinogenesis	TP53	1.0	
+Acute anterior uveitis	C5	1.0	
+Acute anterior uveitis	CFB	1.0	
+Acute anterior uveitis	CFH	1.0	
+Thrombotic Microangiopathies	C5	1.0	
+Thrombotic Microangiopathies	CFH	1.0	
+Thrombotic Microangiopathies	F2	1.0	
+Obesity, Visceral	AGT	1.0	
+Obesity, Visceral	APOA2	1.0	
+Obesity, Visceral	TP53	1.0	
+Aortic regurgitation	AGT	1.0	
+Aortic regurgitation	ESR1	1.0	
+Aortic regurgitation	FN1	1.0	
+Aortic regurgitation	TP53	1.0	
+X-linked ichthyosis with steryl-sulfatase deficiency	FN1	1.0	
+X-linked ichthyosis with steryl-sulfatase deficiency	MDM2	1.0	
+X-linked ichthyosis with steryl-sulfatase deficiency	PARP1	1.0	
+X-linked ichthyosis with steryl-sulfatase deficiency	TP53	1.0	
+Malignant tumor of urinary bladder	ADH1C	1.0	
+Malignant tumor of urinary bladder	AGT	1.0	
+Malignant tumor of urinary bladder	APOA2	1.0	
+Malignant tumor of urinary bladder	APOE	1.0	
+Malignant tumor of urinary bladder	CFH	1.0	
+Malignant tumor of urinary bladder	ESR1	1.0	
+Malignant tumor of urinary bladder	FN1	1.0	
+Malignant tumor of urinary bladder	GSN	1.0	
+Malignant tumor of urinary bladder	KRT5	1.0	
+Malignant tumor of urinary bladder	KRT6A	1.0	
+Malignant tumor of urinary bladder	MDM2	1.0	
+Malignant tumor of urinary bladder	PARP1	1.0	
+Malignant tumor of urinary bladder	PON1	1.0	
+Malignant tumor of urinary bladder	TP53	1.0	
+Cerebral Hemorrhage	AGT	1.0	
+Cerebral Hemorrhage	APOE	1.0	
+Cerebral Hemorrhage	APP	1.0	
+Cerebral Hemorrhage	ESR1	1.0	
+Cerebral Hemorrhage	FN1	1.0	
+Cerebral Hemorrhage	SERPINA3	1.0	
+Cholesteatoma	FN1	1.0	
+Cholesteatoma	KRT16	1.0	
+Cholesteatoma	TP53	1.0	
+Ovarian epithelial cancer stage III	MDM2	1.0	
+Ovarian epithelial cancer stage III	PARP1	1.0	
+Ovarian epithelial cancer stage III	TP53	1.0	
+Hyperlipoproteinemia Type IIa	ALB	1.0	
+Hyperlipoproteinemia Type IIa	APOA2	1.0	
+Hyperlipoproteinemia Type IIa	APOE	1.0	
+Endometriosis	AHSG	1.0	
+Endometriosis	APOE	1.0	
+Endometriosis	BDKRB1	1.0	
+Endometriosis	C5	1.0	
+Endometriosis	ESR1	1.0	
+Endometriosis	F2	1.0	
+Endometriosis	FN1	1.0	
+Endometriosis	HDAC1	1.0	
+Endometriosis	PON1	1.0	
+Endometriosis	TP53	1.0	
+Prion Diseases	APOE	1.0	
+Prion Diseases	APP	1.0	
+Prion Diseases	GSN	1.0	
+Prion Diseases	SERPINA3	1.0	
+Psoriasis	APOA1	1.0	
+Psoriasis	APOE	1.0	
+Psoriasis	APP	1.0	
+Psoriasis	CFB	1.0	
+Psoriasis	ESR1	1.0	
+Psoriasis	FN1	1.0	
+Psoriasis	KRT14	1.0	
+Psoriasis	KRT16	1.0	
+Psoriasis	KRT5	1.0	
+Psoriasis	PON1	1.0	
+Psoriasis	TP53	1.0	
+Arterial thrombosis	APOE	1.0	
+Arterial thrombosis	ESR1	1.0	
+Arterial thrombosis	F2	1.0	
+Arterial thrombosis	TP53	1.0	
+body mass	APOA1	1.0	
+body mass	APOA2	1.0	
+body mass	APOE	1.0	
+body mass	ESR1	1.0	
+Renal insufficiency	AGT	1.0	
+Renal insufficiency	APOE	1.0	
+Renal insufficiency	CFH	1.0	
+Renal insufficiency	FN1	1.0	
+Renal insufficiency	GSN	1.0	
+Renal insufficiency	PARP1	1.0	
+Renal insufficiency	PON1	1.0	
+Single tumor	ALB	1.0	
+Single tumor	ESR1	1.0	
+Single tumor	TP53	1.0	
+Hypertriglyceridemia result	APOA1	1.0	
+Hypertriglyceridemia result	APOA2	1.0	
+Hypertriglyceridemia result	APOE	1.0	
+Cerebral palsy, spastic quadriplegic, 3	AGT	1.0	
+Cerebral palsy, spastic quadriplegic, 3	APOE	1.0	
+Cerebral palsy, spastic quadriplegic, 3	F2	1.0	
+Cerebral palsy, spastic quadriplegic, 3	TTR	1.0	
+Carcinoma of cervix	ADH1C	1.0	
+Carcinoma of cervix	AGT	1.0	
+Carcinoma of cervix	ESR1	1.0	
+Carcinoma of cervix	FN1	1.0	
+Carcinoma of cervix	GSN	1.0	
+Carcinoma of cervix	HBB	1.0	
+Carcinoma of cervix	HDAC1	1.0	
+Carcinoma of cervix	KRT14	1.0	
+Carcinoma of cervix	MDM2	1.0	
+Carcinoma of cervix	PARP1	1.0	
+Carcinoma of cervix	SERPINA3	1.0	
+Carcinoma of cervix	TP53	1.0	
+Germ cell neoplasia	ALB	1.0	
+Germ cell neoplasia	APP	1.0	
+Germ cell neoplasia	ESR1	1.0	
+Germ cell neoplasia	MDM2	1.0	
+Germ cell neoplasia	PARP1	1.0	
+Germ cell neoplasia	TP53	1.0	
+Hyperinsulinemia	AGT	1.0	
+Hyperinsulinemia	AHSG	1.0	
+Hyperinsulinemia	ALB	1.0	
+Hyperinsulinemia	APOA2	1.0	
+Hyperinsulinemia	APOC1	1.0	
+Hyperinsulinemia	APOE	1.0	
+Hyperinsulinemia	ESR1	1.0	
+Autoimmune disease 1	ALB	1.0	
+Autoimmune disease 1	APOA1	1.0	
+Autoimmune disease 1	C5	1.0	
+Autoimmune disease 1	CFB	1.0	
+Autoimmune disease 1	CFH	1.0	
+Autoimmune disease 1	ESR1	1.0	
+Autoimmune disease 1	GSN	1.0	
+Autoimmune disease 1	KRT14	1.0	
+Autoimmune disease 1	MDM2	1.0	
+Autoimmune disease 1	PARP1	1.0	
+Autoimmune disease 1	TP53	1.0	
+Squamous cell carcinoma of the skin	CFH	1.0	
+Squamous cell carcinoma of the skin	KRT14	1.0	
+Squamous cell carcinoma of the skin	KRT16	1.0	
+Squamous cell carcinoma of the skin	KRT5	1.0	
+Squamous cell carcinoma of the skin	TP53	1.0	
+Varicose Ulcer	ESR1	1.0	
+Varicose Ulcer	F2	1.0	
+Varicose Ulcer	TP53	1.0	
+Testicular malignant germ cell tumor	ESR1	1.0	
+Testicular malignant germ cell tumor	HDAC1	1.0	
+Testicular malignant germ cell tumor	MDM2	1.0	
+Testicular malignant germ cell tumor	TP53	1.0	
+Encephalitis	APOE	1.0	
+Encephalitis	APP	1.0	
+Encephalitis	GSN	1.0	
+Encephalitis	PARP1	1.0	
+Encephalitis	TP53	1.0	
+Neutropenia	C5	1.0	
+Neutropenia	CFH	1.0	
+Neutropenia	HBB	1.0	
+Neutropenia	MDM2	1.0	
+Neutropenia	PARP1	1.0	
+Neutropenia	TP53	1.0	
+Memory impairment	APOA1	1.0	
+Memory impairment	APOC1	1.0	
+Memory impairment	APOE	1.0	
+Memory impairment	APP	1.0	
+Memory impairment	HDAC1	1.0	
+Memory impairment	PARP1	1.0	
+Interstitial fibrosis	AGT	1.0	
+Interstitial fibrosis	ALB	1.0	
+Interstitial fibrosis	FN1	1.0	
+Interstitial fibrosis	TP53	1.0	
+Down Syndrome	APOA1	1.0	
+Down Syndrome	APOE	1.0	
+Down Syndrome	APP	1.0	
+Down Syndrome	ESR1	1.0	
+Down Syndrome	GSN	1.0	
+Down Syndrome	PARP1	1.0	
+Down Syndrome	TP53	1.0	
+Down Syndrome	TTR	1.0	
+Lymphatic Metastasis	ESR1	1.0	
+Lymphatic Metastasis	FN1	1.0	
+Lymphatic Metastasis	MDM2	1.0	
+Lymphatic Metastasis	PARP1	1.0	
+Lymphatic Metastasis	TP53	1.0	
+Focal segmental glomerulosclerosis 1	AGT	1.0	
+Focal segmental glomerulosclerosis 1	APOE	1.0	
+Focal segmental glomerulosclerosis 1	PON1	1.0	
+Breast carcinoma	ADH1C	1.0	
+Breast carcinoma	AGT	1.0	
+Breast carcinoma	AHSG	1.0	
+Breast carcinoma	ALB	1.0	
+Breast carcinoma	APOA1	1.0	
+Breast carcinoma	APOE	1.0	
+Breast carcinoma	APP	1.0	
+Breast carcinoma	BDKRB1	1.0	
+Breast carcinoma	C5	1.0	
+Breast carcinoma	CFH	1.0	
+Breast carcinoma	DCD	1.0	
+Breast carcinoma	ESR1	1.0	
+Breast carcinoma	F2	1.0	
+Breast carcinoma	FN1	1.0	
+Breast carcinoma	GSN	1.0	
+Breast carcinoma	HBB	1.0	
+Breast carcinoma	HDAC1	1.0	
+Breast carcinoma	KRT14	1.0	
+Breast carcinoma	KRT5	1.0	
+Breast carcinoma	KRT6A	1.0	
+Breast carcinoma	MDM2	1.0	
+Breast carcinoma	PARP1	1.0	
+Breast carcinoma	PON1	1.0	
+Breast carcinoma	SERPINA3	1.0	
+Breast carcinoma	TF	1.0	
+Breast carcinoma	TP53	1.0	
+Breast carcinoma	TTR	1.0	
+Teratocarcinoma	APOE	1.0	
+Teratocarcinoma	HBB	1.0	
+Teratocarcinoma	PARP1	1.0	
+Teratocarcinoma	TP53	1.0	
+Severe Acute Respiratory Syndrome	AGT	1.0	
+Severe Acute Respiratory Syndrome	AHSG	1.0	
+Severe Acute Respiratory Syndrome	F2	1.0	
+Severe Acute Respiratory Syndrome	FN1	1.0	
+Hepatic cancer metastatic	ADH1C	1.0	
+Hepatic cancer metastatic	AGT	1.0	
+Hepatic cancer metastatic	ALB	1.0	
+Hepatic cancer metastatic	ESR1	1.0	
+Hepatic cancer metastatic	FN1	1.0	
+Hepatic cancer metastatic	HDAC1	1.0	
+Hepatic cancer metastatic	MDM2	1.0	
+Hepatic cancer metastatic	PARP1	1.0	
+Hepatic cancer metastatic	TP53	1.0	
+Sickle Cell Trait	APOE	1.0	
+Sickle Cell Trait	F2	1.0	
+Sickle Cell Trait	HBB	1.0	
+Li-Fraumeni syndrome	ESR1	1.0	
+Li-Fraumeni syndrome	MDM2	1.0	
+Li-Fraumeni syndrome	TP53	1.0	
+Nijmegen Breakage Syndrome	MDM2	1.0	
+Nijmegen Breakage Syndrome	PARP1	1.0	
+Nijmegen Breakage Syndrome	TP53	1.0	
+Choroidal Neovascularization	CFB	1.0	
+Choroidal Neovascularization	CFH	1.0	
+Choroidal Neovascularization	F2	1.0	
+Advanced cancer	DCD	1.0	
+Advanced cancer	ESR1	1.0	
+Advanced cancer	MDM2	1.0	
+Advanced cancer	TP53	1.0	
+Bile duct cancer resectable	APOE	1.0	
+Bile duct cancer resectable	ESR1	1.0	
+Bile duct cancer resectable	TP53	1.0	
+Insulin resistance syndrome	ALB	1.0	
+Insulin resistance syndrome	APOA2	1.0	
+Insulin resistance syndrome	APOC1	1.0	
+Experimental Organism Basal Cell Carcinoma	ESR1	1.0	
+Experimental Organism Basal Cell Carcinoma	FN1	1.0	
+Experimental Organism Basal Cell Carcinoma	HBB	1.0	
+Experimental Organism Basal Cell Carcinoma	KRT5	1.0	
+Experimental Organism Basal Cell Carcinoma	MDM2	1.0	
+Experimental Organism Basal Cell Carcinoma	TP53	1.0	
+Major depressive disorder	APOA1	1.0	
+Major depressive disorder	APOE	1.0	
+Major depressive disorder	APP	1.0	
+Major depressive disorder	ESR1	1.0	
+Major depressive disorder	HDAC1	1.0	
+Major depressive disorder	ITIH1	1.0	
+Major depressive disorder	PON1	1.0	
+Major depressive disorder	TOMM40	1.0	
+Pleuritis	BDKRB1	1.0	
+Pleuritis	ESR1	1.0	
+Pleuritis	TP53	1.0	
+Papillomavirus Infections	ESR1	1.0	
+Papillomavirus Infections	MDM2	1.0	
+Papillomavirus Infections	TP53	1.0	
+Combined Hepatocellular Carcinoma and Cholangiocarcinoma	AGT	1.0	
+Combined Hepatocellular Carcinoma and Cholangiocarcinoma	ALB	1.0	
+Combined Hepatocellular Carcinoma and Cholangiocarcinoma	ESR1	1.0	
+Combined Hepatocellular Carcinoma and Cholangiocarcinoma	FN1	1.0	
+Combined Hepatocellular Carcinoma and Cholangiocarcinoma	HDAC1	1.0	
+Combined Hepatocellular Carcinoma and Cholangiocarcinoma	MDM2	1.0	
+Combined Hepatocellular Carcinoma and Cholangiocarcinoma	PARP1	1.0	
+Combined Hepatocellular Carcinoma and Cholangiocarcinoma	TP53	1.0	
+Arthritis, Reactive	CFH	1.0	
+Arthritis, Reactive	FN1	1.0	
+Arthritis, Reactive	TP53	1.0	
+Anemia, Sickle Cell	AGT	1.0	
+Anemia, Sickle Cell	APOA1	1.0	
+Anemia, Sickle Cell	APOE	1.0	
+Anemia, Sickle Cell	F2	1.0	
+Anemia, Sickle Cell	FN1	1.0	
+Anemia, Sickle Cell	HBB	1.0	
+High grade serous carcinoma	APOA1	1.0	
+High grade serous carcinoma	ESR1	1.0	
+High grade serous carcinoma	PARP1	1.0	
+High grade serous carcinoma	TP53	1.0	
+NOONAN-LIKE/MULTIPLE GIANT CELL LESION SYNDROME (disorder)	AGT	1.0	
+NOONAN-LIKE/MULTIPLE GIANT CELL LESION SYNDROME (disorder)	APOE	1.0	
+NOONAN-LIKE/MULTIPLE GIANT CELL LESION SYNDROME (disorder)	F2	1.0	
+NOONAN-LIKE/MULTIPLE GIANT CELL LESION SYNDROME (disorder)	TP53	1.0	
+Cerebral ischemia	AGT	1.0	
+Cerebral ischemia	APOE	1.0	
+Cerebral ischemia	APP	1.0	
+Cerebral ischemia	F2	1.0	
+Cerebral ischemia	PARP1	1.0	
+Cerebral ischemia	TP53	1.0	
+precancerous lesions	ESR1	1.0	
+precancerous lesions	MDM2	1.0	
+precancerous lesions	PARP1	1.0	
+precancerous lesions	TP53	1.0	
+Non-Malignant Ascites Adverse Event	ALB	1.0	
+Non-Malignant Ascites Adverse Event	APOA2	1.0	
+Non-Malignant Ascites Adverse Event	F2	1.0	
+Non-Malignant Ascites Adverse Event	TP53	1.0	
+Non-Malignant Ascites Adverse Event	TTR	1.0	
+Bloom syndrome	KRT10	1.0	
+Bloom syndrome	PARP1	1.0	
+Bloom syndrome	TP53	1.0	
+Phyllodes tumor, benign	ESR1	1.0	
+Phyllodes tumor, benign	MDM2	1.0	
+Phyllodes tumor, benign	TP53	1.0	
+Acute respiratory failure	MDM2	1.0	
+Acute respiratory failure	PARP1	1.0	
+Acute respiratory failure	TP53	1.0	
+Pseudoxanthoma elasticum	AHSG	1.0	
+Pseudoxanthoma elasticum	APOE	1.0	
+Pseudoxanthoma elasticum	CFH	1.0	
+Abnormal peripheral nervous system synaptic transmission	KRT14	1.0	
+Abnormal peripheral nervous system synaptic transmission	KRT5	1.0	
+Abnormal peripheral nervous system synaptic transmission	PON1	1.0	
+Abnormal synaptic transmission	KRT14	1.0	
+Abnormal synaptic transmission	KRT5	1.0	
+Abnormal synaptic transmission	PON1	1.0	
+Abnormal synaptic transmission at the neuromuscular junction	KRT14	1.0	
+Abnormal synaptic transmission at the neuromuscular junction	KRT5	1.0	
+Abnormal synaptic transmission at the neuromuscular junction	PON1	1.0	
+Osteoarthritis	A2M	1.0	
+Osteoarthritis	APOA1	1.0	
+Osteoarthritis	APOE	1.0	
+Osteoarthritis	APP	1.0	
+Osteoarthritis	ESR1	1.0	
+Osteoarthritis	FN1	1.0	
+Osteoarthritis	HDAC1	1.0	
+Osteoarthritis	PARP1	1.0	
+Osteoarthritis	SERPINA3	1.0	
+Osteoarthritis	TP53	1.0	
+Osteoarthritis	TTR	1.0	
+Teratoma	ESR1	1.0	
+Teratoma	HDAC1	1.0	
+Teratoma	KRT10	1.0	
+Teratoma	TP53	1.0	
+Meningeal Neoplasms	PARP1	1.0	
+Meningeal Neoplasms	PON1	1.0	
+Meningeal Neoplasms	TP53	1.0	
+Cyst	AGT	1.0	
+Cyst	ESR1	1.0	
+Cyst	FN1	1.0	
+Cyst	KRT6A	1.0	
+Cyst	TP53	1.0	
+Heart Diseases	AGT	1.0	
+Heart Diseases	ALB	1.0	
+Heart Diseases	APOE	1.0	
+Heart Diseases	ESR1	1.0	
+Heart Diseases	F2	1.0	
+Heart Diseases	HDAC1	1.0	
+Heart Diseases	TTR	1.0	
+Septicemia	AGT	1.0	
+Septicemia	APP	1.0	
+Septicemia	C5	1.0	
+Septicemia	CFB	1.0	
+Septicemia	CFH	1.0	
+Septicemia	F2	1.0	
+Septicemia	PARP1	1.0	
+Cardiomegaly	A2M	1.0	
+Cardiomegaly	AGT	1.0	
+Cardiomegaly	HBB	1.0	
+Cardiomegaly	PARP1	1.0	
+Cardiomegaly	TP53	1.0	
+Cardiomegaly	TTR	1.0	
+Squamous cell carcinoma	ADH1C	1.0	
+Squamous cell carcinoma	AGT	1.0	
+Squamous cell carcinoma	APOE	1.0	
+Squamous cell carcinoma	ESR1	1.0	
+Squamous cell carcinoma	FN1	1.0	
+Squamous cell carcinoma	GSN	1.0	
+Squamous cell carcinoma	HDAC1	1.0	
+Squamous cell carcinoma	KRT1	1.0	
+Squamous cell carcinoma	KRT10	1.0	
+Squamous cell carcinoma	KRT14	1.0	
+Squamous cell carcinoma	KRT5	1.0	
+Squamous cell carcinoma	KRT9	1.0	
+Squamous cell carcinoma	MDM2	1.0	
+Squamous cell carcinoma	PARP1	1.0	
+Squamous cell carcinoma	PON1	1.0	
+Squamous cell carcinoma	TP53	1.0	
+Helicobacter Infections	AGT	1.0	
+Helicobacter Infections	MDM2	1.0	
+Helicobacter Infections	PARP1	1.0	
+Helicobacter Infections	TP53	1.0	
+Urothelial Carcinoma	APOA1	1.0	
+Urothelial Carcinoma	ESR1	1.0	
+Urothelial Carcinoma	FN1	1.0	
+Urothelial Carcinoma	KRT14	1.0	
+Urothelial Carcinoma	MDM2	1.0	
+Urothelial Carcinoma	PARP1	1.0	
+Urothelial Carcinoma	TP53	1.0	
+Abnormality of the respiratory system	AGT	1.0	
+Abnormality of the respiratory system	APOE	1.0	
+Abnormality of the respiratory system	CFB	1.0	
+Abnormality of the respiratory system	F12	1.0	
+Abnormality of the respiratory system	F2	1.0	
+Abnormality of the respiratory system	HBB	1.0	
+Abnormality of the respiratory system	KRT14	1.0	
+Abnormality of the respiratory system	KRT16	1.0	
+Abnormality of the respiratory system	KRT5	1.0	
+Abnormality of the respiratory system	KRT6A	1.0	
+Abnormality of the respiratory system	PON1	1.0	
+Abnormality of the respiratory system	TP53	1.0	
+Abnormality of oral mucosa	F2	1.0	
+Abnormality of oral mucosa	KRT14	1.0	
+Abnormality of oral mucosa	KRT16	1.0	
+Abnormality of oral mucosa	KRT5	1.0	
+Abnormality of oral mucosa	KRT6A	1.0	
+{Gastric cancer risk after H. pylori infection}, 137215 (3)	ADH1C	1.0	
+{Gastric cancer risk after H. pylori infection}, 137215 (3)	AGT	1.0	
+{Gastric cancer risk after H. pylori infection}, 137215 (3)	ALB	1.0	
+{Gastric cancer risk after H. pylori infection}, 137215 (3)	APOA1	1.0	
+{Gastric cancer risk after H. pylori infection}, 137215 (3)	APOE	1.0	
+{Gastric cancer risk after H. pylori infection}, 137215 (3)	APP	1.0	
+{Gastric cancer risk after H. pylori infection}, 137215 (3)	BDKRB1	1.0	
+{Gastric cancer risk after H. pylori infection}, 137215 (3)	CFB	1.0	
+{Gastric cancer risk after H. pylori infection}, 137215 (3)	CFH	1.0	
+{Gastric cancer risk after H. pylori infection}, 137215 (3)	ESR1	1.0	
+{Gastric cancer risk after H. pylori infection}, 137215 (3)	F2	1.0	
+{Gastric cancer risk after H. pylori infection}, 137215 (3)	FN1	1.0	
+{Gastric cancer risk after H. pylori infection}, 137215 (3)	HDAC1	1.0	
+{Gastric cancer risk after H. pylori infection}, 137215 (3)	KRT6A	1.0	
+{Gastric cancer risk after H. pylori infection}, 137215 (3)	MDM2	1.0	
+{Gastric cancer risk after H. pylori infection}, 137215 (3)	PARP1	1.0	
+{Gastric cancer risk after H. pylori infection}, 137215 (3)	TP53	1.0	
+Endometrial Hyperplasia	APOE	1.0	
+Endometrial Hyperplasia	ESR1	1.0	
+Endometrial Hyperplasia	TP53	1.0	
+Disorders of Intracellular Cobalamin Metabolism	AGT	1.0	
+Disorders of Intracellular Cobalamin Metabolism	APOA1	1.0	
+Disorders of Intracellular Cobalamin Metabolism	APOE	1.0	
+Disorders of Intracellular Cobalamin Metabolism	CFH	1.0	
+Disorders of Intracellular Cobalamin Metabolism	ESR1	1.0	
+Disorders of Intracellular Cobalamin Metabolism	PARP1	1.0	
+Disorders of Intracellular Cobalamin Metabolism	TP53	1.0	
+Deep venous thrombosis	A2M	1.0	
+Deep venous thrombosis	APOE	1.0	
+Deep venous thrombosis	F2	1.0	
+Deep venous thrombosis	SERPINA3	1.0	
+Heart Failure	AGT	1.0	
+Heart Failure	ALB	1.0	
+Heart Failure	APOA1	1.0	
+Heart Failure	APOE	1.0	
+Heart Failure	ESR1	1.0	
+Heart Failure	GSN	1.0	
+Heart Failure	PARP1	1.0	
+Heart Failure	SERPINA3	1.0	
+Heart Failure	TP53	1.0	
+Heart Failure	TTR	1.0	
+Splenomegaly	APOA1	1.0	
+Splenomegaly	APOE	1.0	
+Splenomegaly	BDKRB1	1.0	
+Splenomegaly	F2	1.0	
+Splenomegaly	HBB	1.0	
+Splenomegaly	TP53	1.0	
+CNS disorder	APOE	1.0	
+CNS disorder	C5	1.0	
+CNS disorder	PARP1	1.0	
+CNS disorder	TTR	1.0	
+Dilated cardiomyopathy 1A	ESR1	1.0	
+Dilated cardiomyopathy 1A	FN1	1.0	
+Dilated cardiomyopathy 1A	KRT14	1.0	
+Dilated cardiomyopathy 1A	MDM2	1.0	
+Dilated cardiomyopathy 1A	TP53	1.0	
+Abnormality of digestive system physiology	APP	1.0	
+Abnormality of digestive system physiology	C5	1.0	
+Abnormality of digestive system physiology	ESR1	1.0	
+Abnormality of digestive system physiology	F12	1.0	
+Abnormality of digestive system physiology	F2	1.0	
+Abnormality of digestive system physiology	HBB	1.0	
+Abnormality of digestive system physiology	KRT14	1.0	
+Abnormality of digestive system physiology	KRT5	1.0	
+Abnormality of digestive system physiology	MDM2	1.0	
+Abnormality of digestive system physiology	PON1	1.0	
+Abnormality of digestive system physiology	TP53	1.0	
+Abnormality of digestive system physiology	TTR	1.0	
+Epilepsy, Temporal Lobe	AGT	1.0	
+Epilepsy, Temporal Lobe	APOE	1.0	
+Epilepsy, Temporal Lobe	BDKRB1	1.0	
+Epilepsy, Temporal Lobe	MDM2	1.0	
+Epilepsy, Temporal Lobe	TP53	1.0	
+Mental deterioration	APOC1	1.0	
+Mental deterioration	APOE	1.0	
+Mental deterioration	APP	1.0	
+Mental deterioration	TOMM40	1.0	
+Mental deterioration	TTR	1.0	
+early pregnancy	ESR1	1.0	
+early pregnancy	F2	1.0	
+early pregnancy	MDM2	1.0	
+early pregnancy	TP53	1.0	
+Hypoalbuminemia	A2M	1.0	
+Hypoalbuminemia	ALB	1.0	
+Hypoalbuminemia	FN1	1.0	
+Macular Degeneration	APOC1	1.0	
+Macular Degeneration	APOE	1.0	
+Macular Degeneration	CFB	1.0	
+Macular Degeneration	CFH	1.0	
+Macular Degeneration	PON1	1.0	
+Noninfiltrating Intraductal Carcinoma	ESR1	1.0	
+Noninfiltrating Intraductal Carcinoma	GSN	1.0	
+Noninfiltrating Intraductal Carcinoma	KRT5	1.0	
+Noninfiltrating Intraductal Carcinoma	PARP1	1.0	
+Noninfiltrating Intraductal Carcinoma	PON1	1.0	
+Noninfiltrating Intraductal Carcinoma	TP53	1.0	
+Herpes Simplex Infections	ALB	1.0	
+Herpes Simplex Infections	APOE	1.0	
+Herpes Simplex Infections	APP	1.0	
+Herpes Simplex Infections	ESR1	1.0	
+Herpes Simplex Infections	FN1	1.0	
+Herpes Simplex Infections	HBB	1.0	
+Herpes Simplex Infections	PARP1	1.0	
+Herpes Simplex Infections	TP53	1.0	
+Adenomas, multiple colorectal, 608456 (3)	ADH1C	1.0	
+Adenomas, multiple colorectal, 608456 (3)	AGT	1.0	
+Adenomas, multiple colorectal, 608456 (3)	ALB	1.0	
+Adenomas, multiple colorectal, 608456 (3)	APOE	1.0	
+Adenomas, multiple colorectal, 608456 (3)	BDKRB1	1.0	
+Adenomas, multiple colorectal, 608456 (3)	CFH	1.0	
+Adenomas, multiple colorectal, 608456 (3)	ESR1	1.0	
+Adenomas, multiple colorectal, 608456 (3)	FN1	1.0	
+Adenomas, multiple colorectal, 608456 (3)	GSN	1.0	
+Adenomas, multiple colorectal, 608456 (3)	PARP1	1.0	
+Adenomas, multiple colorectal, 608456 (3)	TP53	1.0	
+Bipolar affective disorder	AGT	1.0	
+Bipolar affective disorder	APOE	1.0	
+Bipolar affective disorder	APP	1.0	
+Bipolar affective disorder	ESR1	1.0	
+Bipolar affective disorder	HDAC1	1.0	
+Bipolar affective disorder	ITIH1	1.0	
+Bipolar affective disorder	ITIH3	1.0	
+Bipolar affective disorder	PON1	1.0	
+Bipolar affective disorder	SERPINA3	1.0	
+Bipolar affective disorder	TP53	1.0	
+Aortic Aneurysm, Thoracic	AGT	1.0	
+Aortic Aneurysm, Thoracic	APP	1.0	
+Aortic Aneurysm, Thoracic	FN1	1.0	
+Aortic Aneurysm, Thoracic	HBB	1.0	
+Hereditary hyperhomocysteinemia	AGT	1.0	
+Hereditary hyperhomocysteinemia	APOE	1.0	
+Hereditary hyperhomocysteinemia	F2	1.0	
+Hereditary hyperhomocysteinemia	PON1	1.0	
+Breast adenocarcinoma	ESR1	1.0	
+Breast adenocarcinoma	KRT5	1.0	
+Breast adenocarcinoma	MDM2	1.0	
+Breast adenocarcinoma	TP53	1.0	
+Medullary carcinoma	ESR1	1.0	
+Medullary carcinoma	MDM2	1.0	
+Medullary carcinoma	TP53	1.0	
+Malignant Fibrous Histiocytoma	MDM2	1.0	
+Malignant Fibrous Histiocytoma	SERPINA3	1.0	
+Malignant Fibrous Histiocytoma	TP53	1.0	
+Human papilloma virus infection	ADH1C	1.0	
+Human papilloma virus infection	MDM2	1.0	
+Human papilloma virus infection	TP53	1.0	
+Unipolar Depression	APOE	1.0	
+Unipolar Depression	APP	1.0	
+Unipolar Depression	ESR1	1.0	
+Unipolar Depression	HDAC1	1.0	
+Unipolar Depression	ITIH1	1.0	
+Unipolar Depression	PON1	1.0	
+Unipolar Depression	TOMM40	1.0	
+Immediate hypersensitivity	ADH1C	1.0	
+Immediate hypersensitivity	C5	1.0	
+Immediate hypersensitivity	ESR1	1.0	
+Immediate hypersensitivity	SERPINA3	1.0	
+Stomach cancer	ADH1C	1.0	
+Stomach cancer	AGT	1.0	
+Stomach cancer	ALB	1.0	
+Stomach cancer	APOA1	1.0	
+Stomach cancer	APOE	1.0	
+Stomach cancer	APP	1.0	
+Stomach cancer	BDKRB1	1.0	
+Stomach cancer	CFB	1.0	
+Stomach cancer	CFH	1.0	
+Stomach cancer	ESR1	1.0	
+Stomach cancer	F2	1.0	
+Stomach cancer	FN1	1.0	
+Stomach cancer	HDAC1	1.0	
+Stomach cancer	KRT6A	1.0	
+Stomach cancer	MDM2	1.0	
+Stomach cancer	PARP1	1.0	
+Stomach cancer	TP53	1.0	
+Inflammatory Bowel Diseases	AGT	1.0	
+Inflammatory Bowel Diseases	APOA1	1.0	
+Inflammatory Bowel Diseases	APOE	1.0	
+Inflammatory Bowel Diseases	BDKRB1	1.0	
+Inflammatory Bowel Diseases	CFB	1.0	
+Inflammatory Bowel Diseases	CFH	1.0	
+Inflammatory Bowel Diseases	ESR1	1.0	
+Inflammatory Bowel Diseases	F2	1.0	
+Inflammatory Bowel Diseases	PON1	1.0	
+Inflammatory Bowel Diseases	TF	1.0	
+Inflammatory Bowel Diseases	TP53	1.0	
+Lymphangiomyomatosis	AGT	1.0	
+Lymphangiomyomatosis	ESR1	1.0	
+Lymphangiomyomatosis	PARP1	1.0	
+Abnormality of the nail	KRT1	1.0	
+Abnormality of the nail	KRT14	1.0	
+Abnormality of the nail	KRT16	1.0	
+Abnormality of the nail	KRT5	1.0	
+Abnormality of the nail	KRT6A	1.0	
+Abnormality of the nail	KRT9	1.0	
+Carcinoma, Lobular	ESR1	1.0	
+Carcinoma, Lobular	KRT5	1.0	
+Carcinoma, Lobular	TP53	1.0	
+Wilson disease	A2M	1.0	
+Wilson disease	APOE	1.0	
+Wilson disease	TP53	1.0	
+Oropharyngeal Carcinoma	ADH1C	1.0	
+Oropharyngeal Carcinoma	MDM2	1.0	
+Oropharyngeal Carcinoma	TP53	1.0	
+Aortic valve disease 2	AGT	1.0	
+Aortic valve disease 2	ESR1	1.0	
+Aortic valve disease 2	FN1	1.0	
+Male infertility	APP	1.0	
+Male infertility	ESR1	1.0	
+Male infertility	MDM2	1.0	
+Male infertility	PARP1	1.0	
+Male infertility	PON1	1.0	
+Male infertility	TP53	1.0	
+Respiratory failure	AGT	1.0	
+Respiratory failure	HBB	1.0	
+Respiratory failure	KRT14	1.0	
+Respiratory failure	KRT16	1.0	
+Respiratory failure	KRT5	1.0	
+Respiratory failure	KRT6A	1.0	
+Respiratory failure	PON1	1.0	
+Breast-ovarian cancer, familial 1	ADH1C	1.0	
+Breast-ovarian cancer, familial 1	AGT	1.0	
+Breast-ovarian cancer, familial 1	AHSG	1.0	
+Breast-ovarian cancer, familial 1	ALB	1.0	
+Breast-ovarian cancer, familial 1	APOA1	1.0	
+Breast-ovarian cancer, familial 1	APOE	1.0	
+Breast-ovarian cancer, familial 1	APP	1.0	
+Breast-ovarian cancer, familial 1	BDKRB1	1.0	
+Breast-ovarian cancer, familial 1	C5	1.0	
+Breast-ovarian cancer, familial 1	DCD	1.0	
+Breast-ovarian cancer, familial 1	ESR1	1.0	
+Breast-ovarian cancer, familial 1	F2	1.0	
+Breast-ovarian cancer, familial 1	FN1	1.0	
+Breast-ovarian cancer, familial 1	GSN	1.0	
+Breast-ovarian cancer, familial 1	HBB	1.0	
+Breast-ovarian cancer, familial 1	HDAC1	1.0	
+Breast-ovarian cancer, familial 1	KRT14	1.0	
+Breast-ovarian cancer, familial 1	KRT5	1.0	
+Breast-ovarian cancer, familial 1	KRT6A	1.0	
+Breast-ovarian cancer, familial 1	MDM2	1.0	
+Breast-ovarian cancer, familial 1	PARP1	1.0	
+Breast-ovarian cancer, familial 1	PON1	1.0	
+Breast-ovarian cancer, familial 1	SERPINA3	1.0	
+Breast-ovarian cancer, familial 1	TF	1.0	
+Breast-ovarian cancer, familial 1	TOMM40	1.0	
+Breast-ovarian cancer, familial 1	TP53	1.0	
+Breast-ovarian cancer, familial 1	TTR	1.0	
+Abnormality of cardiovascular system physiology	AGT	1.0	
+Abnormality of cardiovascular system physiology	ALB	1.0	
+Abnormality of cardiovascular system physiology	APOA1	1.0	
+Abnormality of cardiovascular system physiology	APP	1.0	
+Abnormality of cardiovascular system physiology	F2	1.0	
+Abnormality of cardiovascular system physiology	FN1	1.0	
+Abnormality of cardiovascular system physiology	HBB	1.0	
+Abnormality of cardiovascular system physiology	TF	1.0	
+Abnormality of cardiovascular system physiology	TTR	1.0	
+Maternal diabetes	AHSG	1.0	
+Maternal diabetes	ALB	1.0	
+Maternal diabetes	ESR1	1.0	
+Maternal diabetes	FN1	1.0	
+Maternal diabetes	PON1	1.0	
+Vitreoretinopathy, neovascular inflammatory, 193235 (3)	FN1	1.0	
+Vitreoretinopathy, neovascular inflammatory, 193235 (3)	MDM2	1.0	
+Vitreoretinopathy, neovascular inflammatory, 193235 (3)	TP53	1.0	
+Microsatellite Instability	APOE	1.0	
+Microsatellite Instability	ESR1	1.0	
+Microsatellite Instability	TP53	1.0	
+Corneal dystrophy, Fuchs endothelial 1	GSN	1.0	
+Corneal dystrophy, Fuchs endothelial 1	KRT16	1.0	
+Corneal dystrophy, Fuchs endothelial 1	KRT6A	1.0	
+Breast Fibrocystic Disease	ESR1	1.0	
+Breast Fibrocystic Disease	MDM2	1.0	
+Breast Fibrocystic Disease	TP53	1.0	
+Pharyngeal Neoplasms	ADH1C	1.0	
+Pharyngeal Neoplasms	MDM2	1.0	
+Pharyngeal Neoplasms	TP53	1.0	
+gliosarcoma	ESR1	1.0	
+gliosarcoma	MDM2	1.0	
+gliosarcoma	TP53	1.0	
+Ovarian Serous Adenocarcinoma	APOA1	1.0	
+Ovarian Serous Adenocarcinoma	GSN	1.0	
+Ovarian Serous Adenocarcinoma	TP53	1.0	
+Arthritis, Rheumatoid	A2M	1.0	
+Arthritis, Rheumatoid	ALB	1.0	
+Arthritis, Rheumatoid	APOA1	1.0	
+Arthritis, Rheumatoid	APOE	1.0	
+Arthritis, Rheumatoid	C5	1.0	
+Arthritis, Rheumatoid	ESR1	1.0	
+Arthritis, Rheumatoid	F2	1.0	
+Arthritis, Rheumatoid	FN1	1.0	
+Arthritis, Rheumatoid	PARP1	1.0	
+Arthritis, Rheumatoid	TF	1.0	
+Arthritis, Rheumatoid	TP53	1.0	
+Graft-versus-host disease, susceptibility to	AGT	1.0	
+Graft-versus-host disease, susceptibility to	ALB	1.0	
+Graft-versus-host disease, susceptibility to	ESR1	1.0	
+Graft-versus-host disease, susceptibility to	FN1	1.0	
+Graft-versus-host disease, susceptibility to	PARP1	1.0	
+Graft-versus-host disease, susceptibility to	TP53	1.0	
+Disorders of lipoid metabolism	APOA2	1.0	
+Disorders of lipoid metabolism	APOE	1.0	
+Disorders of lipoid metabolism	PON1	1.0	
+Recurrent skin infections	KRT1	1.0	
+Recurrent skin infections	KRT14	1.0	
+Recurrent skin infections	KRT5	1.0	
+Unspecified visual loss	CFB	1.0	
+Unspecified visual loss	CFH	1.0	
+Unspecified visual loss	TTR	1.0	
+Gingival Diseases	APOE	1.0	
+Gingival Diseases	APP	1.0	
+Gingival Diseases	CFH	1.0	
+Gingival Diseases	FN1	1.0	
+Lewy Body Disease	A2M	1.0	
+Lewy Body Disease	APOE	1.0	
+Lewy Body Disease	APP	1.0	
+Lewy Body Disease	SERPINA3	1.0	
+Systemic arterial pressure	AGT	1.0	
+Systemic arterial pressure	APOA1	1.0	
+Systemic arterial pressure	APOA2	1.0	
+Systemic arterial pressure	APOE	1.0	
+Systemic arterial pressure	ESR1	1.0	
+Systemic arterial pressure	PON1	1.0	
+Systemic arterial pressure	SERPINA3	1.0	
+Biliary cirrhosis	AGT	1.0	
+Biliary cirrhosis	APOE	1.0	
+Biliary cirrhosis	ESR1	1.0	
+Biliary cirrhosis	FN1	1.0	
+Pregnancy Complications, Hematologic	ADH1C	1.0	
+Pregnancy Complications, Hematologic	F2	1.0	
+Pregnancy Complications, Hematologic	HBB	1.0	
+Pregnancy Complications, Hematologic	PON1	1.0	
+Pulmonary Embolism	ALB	1.0	
+Pulmonary Embolism	APOE	1.0	
+Pulmonary Embolism	F2	1.0	
+Pulmonary Embolism	FN1	1.0	
+Myasthenia, limb-girdle, familial	KRT14	1.0	
+Myasthenia, limb-girdle, familial	KRT5	1.0	
+Myasthenia, limb-girdle, familial	PON1	1.0	
+Differentiated Thyroid Gland Carcinoma	FN1	1.0	
+Differentiated Thyroid Gland Carcinoma	MDM2	1.0	
+Differentiated Thyroid Gland Carcinoma	PARP1	1.0	
+Differentiated Thyroid Gland Carcinoma	TP53	1.0	
+Steatohepatitis	AGT	1.0	
+Steatohepatitis	AHSG	1.0	
+Steatohepatitis	APOA1	1.0	
+Steatohepatitis	APOC1	1.0	
+Steatohepatitis	APOE	1.0	
+Retinopathy of Prematurity	AGT	1.0	
+Retinopathy of Prematurity	CFH	1.0	
+Retinopathy of Prematurity	ESR1	1.0	
+Abnormalities of the peripheral arteries	APOE	1.0	
+Abnormalities of the peripheral arteries	APP	1.0	
+Abnormalities of the peripheral arteries	ESR1	1.0	
+Abnormalities of the peripheral arteries	TP53	1.0	
+Prostatic Neoplasms	A2M	1.0	
+Prostatic Neoplasms	AGT	1.0	
+Prostatic Neoplasms	APOE	1.0	
+Prostatic Neoplasms	CFH	1.0	
+Prostatic Neoplasms	DCD	1.0	
+Prostatic Neoplasms	ESR1	1.0	
+Prostatic Neoplasms	FN1	1.0	
+Prostatic Neoplasms	HDAC1	1.0	
+Prostatic Neoplasms	KRT14	1.0	
+Prostatic Neoplasms	MDM2	1.0	
+Prostatic Neoplasms	PARP1	1.0	
+Prostatic Neoplasms	PON1	1.0	
+Prostatic Neoplasms	SERPINA3	1.0	
+Prostatic Neoplasms	TP53	1.0	
+Cardiac arrest	APOE	1.0	
+Cardiac arrest	ESR1	1.0	
+Cardiac arrest	HBB	1.0	
+Cardiac arrest	TP53	1.0	
+Cardiac arrest	TTR	1.0	
+Esophageal carcinoma	ADH1C	1.0	
+Esophageal carcinoma	ESR1	1.0	
+Esophageal carcinoma	GSN	1.0	
+Esophageal carcinoma	KRT10	1.0	
+Esophageal carcinoma	KRT16	1.0	
+Esophageal carcinoma	MDM2	1.0	
+Esophageal carcinoma	PARP1	1.0	
+Esophageal carcinoma	TP53	1.0	
+Leiomyosarcoma	ESR1	1.0	
+Leiomyosarcoma	MDM2	1.0	
+Leiomyosarcoma	PARP1	1.0	
+Leiomyosarcoma	TP53	1.0	
+Motor Neuron Disease	APOE	1.0	
+Motor Neuron Disease	APP	1.0	
+Motor Neuron Disease	PON1	1.0	
+Motor Neuron Disease	TP53	1.0	
+Sleep apnea	AGT	1.0	
+Sleep apnea	APOE	1.0	
+Sleep apnea	GSN	1.0	
+Hyperuricemia, pulmonary hypertension, renal failure, and alkalosis	APOA1	1.0	
+Hyperuricemia, pulmonary hypertension, renal failure, and alkalosis	APOE	1.0	
+Hyperuricemia, pulmonary hypertension, renal failure, and alkalosis	PON1	1.0	
+Periodontitis	AGT	1.0	
+Periodontitis	ALB	1.0	
+Periodontitis	ESR1	1.0	
+Periodontitis	FN1	1.0	
+Periodontitis	PON1	1.0	
+Periodontitis	TP53	1.0	
+Cardiomyopathy, Dilated	AGT	1.0	
+Cardiomyopathy, Dilated	APOE	1.0	
+Cardiomyopathy, Dilated	ESR1	1.0	
+Cardiomyopathy, Dilated	F2	1.0	
+Cardiomyopathy, Dilated	FN1	1.0	
+Cardiomyopathy, Dilated	KRT9	1.0	
+Cardiomyopathy, Dilated	TP53	1.0	
+Migraine Disorders	AGT	1.0	
+Migraine Disorders	APOE	1.0	
+Migraine Disorders	APP	1.0	
+Migraine Disorders	ESR1	1.0	
+Migraine Disorders	F2	1.0	
+Migraine Disorders	PON1	1.0	
+Drug Eruptions	APOA1	1.0	
+Drug Eruptions	TTR	1.0	
+Neoplasms, Radiation-Induced	PARP1	1.0	
+Neoplasms, Radiation-Induced	TP53	1.0	
+Fibromyxosarcoma	MDM2	1.0	
+Fibromyxosarcoma	TP53	1.0	
+Acromegaly	AGT	1.0	
+Acromegaly	APOE	1.0	
+Acromegaly	TP53	1.0	
+Chest pain	ALB	1.0	
+Chest pain	HBB	1.0	
+Chest pain	TP53	1.0	
+Arsenic Poisoning	KRT10	1.0	
+Arsenic Poisoning	PON1	1.0	
+Arsenic Poisoning	TP53	1.0	
+Hydrops, lactic acidosis, and sideroblastic anemia	AGT	1.0	
+Hydrops, lactic acidosis, and sideroblastic anemia	APOA1	1.0	
+Hydrops, lactic acidosis, and sideroblastic anemia	APOE	1.0	
+Hydrops, lactic acidosis, and sideroblastic anemia	BDKRB1	1.0	
+Hydrops, lactic acidosis, and sideroblastic anemia	F12	1.0	
+Hydrops, lactic acidosis, and sideroblastic anemia	FN1	1.0	
+Acute Lung Injury	ALB	1.0	
+Acute Lung Injury	APOA1	1.0	
+Acute Lung Injury	F2	1.0	
+Familial colorectal cancer	MDM2	1.0	
+Familial colorectal cancer	PARP1	1.0	
+Familial colorectal cancer	TP53	1.0	
+Aortic valve stenosis	AGT	1.0	
+Aortic valve stenosis	APOE	1.0	
+Aortic valve stenosis	ESR1	1.0	
+Aortic valve stenosis	FN1	1.0	
+Anaplasia	ALB	1.0	
+Anaplasia	ESR1	1.0	
+Anaplasia	MDM2	1.0	
+Anaplasia	SERPINA3	1.0	
+Anaplasia	TP53	1.0	
+Invasive Ductal Breast Carcinoma	APOC1	1.0	
+Invasive Ductal Breast Carcinoma	ESR1	1.0	
+Invasive Ductal Breast Carcinoma	FN1	1.0	
+Invasive Ductal Breast Carcinoma	MDM2	1.0	
+Invasive Ductal Breast Carcinoma	TP53	1.0	
+Female infertility	ESR1	1.0	
+Female infertility	F2	1.0	
+Female infertility	TP53	1.0	
+Epidermal cyst	KRT6A	1.0	
+Epidermal cyst	TP53	1.0	
+hemangiopericytoma	MDM2	1.0	
+hemangiopericytoma	TP53	1.0	
+childhood rhabdomyosarcoma	MDM2	1.0	
+childhood rhabdomyosarcoma	TP53	1.0	
+recurrent childhood acute lymphoblastic leukemia	MDM2	1.0	
+recurrent childhood acute lymphoblastic leukemia	TP53	1.0	
+Lipomatosis, Multiple	MDM2	1.0	
+Lipomatosis, Multiple	TP53	1.0	
+Respiratory Distress Syndrome, Adult	AGT	1.0	
+Respiratory Distress Syndrome, Adult	ALB	1.0	
+Respiratory Distress Syndrome, Adult	C5	1.0	
+Respiratory Distress Syndrome, Adult	SERPINA3	1.0	
+Arterial stenosis	APOE	1.0	
+Arterial stenosis	APP	1.0	
+Arterial stenosis	ESR1	1.0	
+Arterial stenosis	TP53	1.0	
+Parkinsonism	APOE	1.0	
+Parkinsonism	APP	1.0	
+Parkinsonism	ESR1	1.0	
+Parkinsonism	PARP1	1.0	
+Parkinsonism	TP53	1.0	
+Angina pectoris	APOE	1.0	
+Angina pectoris	F2	1.0	
+Angina pectoris	PON1	1.0	
+Neurodegeneration with brain iron accumulation	APOE	1.0	
+Neurodegeneration with brain iron accumulation	APP	1.0	
+Neurodegeneration with brain iron accumulation	F2	1.0	
+Neurodegeneration with brain iron accumulation	PON1	1.0	
+Coinfection	ALB	1.0	
+Coinfection	CFB	1.0	
+Coinfection	PARP1	1.0	
+Coinfection	TP53	1.0	
+Peripheral neuropathy, myopathy, hoarseness, and hearing loss	APOE	1.0	
+Peripheral neuropathy, myopathy, hoarseness, and hearing loss	APP	1.0	
+Peripheral neuropathy, myopathy, hoarseness, and hearing loss	ESR1	1.0	
+Peripheral neuropathy, myopathy, hoarseness, and hearing loss	GSN	1.0	
+Peripheral neuropathy, myopathy, hoarseness, and hearing loss	HBB	1.0	
+Peripheral neuropathy, myopathy, hoarseness, and hearing loss	MDM2	1.0	
+Peripheral neuropathy, myopathy, hoarseness, and hearing loss	PARP1	1.0	
+Peripheral neuropathy, myopathy, hoarseness, and hearing loss	TP53	1.0	
+Peripheral neuropathy, myopathy, hoarseness, and hearing loss	TTR	1.0	
+Ovarian Diseases	AGT	1.0	
+Ovarian Diseases	APOA1	1.0	
+Ovarian Diseases	APP	1.0	
+Ovarian Diseases	ESR1	1.0	
+Ovarian Diseases	PON1	1.0	
+Cervical dysplasia	ESR1	1.0	
+Cervical dysplasia	TP53	1.0	
+Esophageal varix	AGT	1.0	
+Esophageal varix	ALB	1.0	
+Phenylketonuria	APP	1.0	
+Phenylketonuria	HBB	1.0	
+Urolithiasis	AGT	1.0	
+Urolithiasis	ALB	1.0	
+Febrile Neutropenia	MDM2	1.0	
+Febrile Neutropenia	TP53	1.0	
+Eczema	ALB	1.0	
+Eczema	APOC1	1.0	
+Eczema	C5	1.0	
+Eczema	FN1	1.0	
+Eczema	KRT1	1.0	
+Eczema	KRT16	1.0	
+Eczema	KRT9	1.0	
+Lupus Erythematosus, Systemic	AGT	1.0	
+Lupus Erythematosus, Systemic	APOA1	1.0	
+Lupus Erythematosus, Systemic	APOE	1.0	
+Lupus Erythematosus, Systemic	C5	1.0	
+Lupus Erythematosus, Systemic	CFB	1.0	
+Lupus Erythematosus, Systemic	CFH	1.0	
+Lupus Erythematosus, Systemic	ESR1	1.0	
+Lupus Erythematosus, Systemic	F2	1.0	
+Lupus Erythematosus, Systemic	FN1	1.0	
+Lupus Erythematosus, Systemic	HDAC1	1.0	
+Lupus Erythematosus, Systemic	PARP1	1.0	
+Lupus Erythematosus, Systemic	PON1	1.0	
+Lupus Erythematosus, Systemic	TP53	1.0	
+Polycystic Ovary Syndrome	AGT	1.0	
+Polycystic Ovary Syndrome	ALB	1.0	
+Polycystic Ovary Syndrome	APOA1	1.0	
+Polycystic Ovary Syndrome	APOE	1.0	
+Polycystic Ovary Syndrome	ESR1	1.0	
+Polycystic Ovary Syndrome	F2	1.0	
+Polycystic Ovary Syndrome	PON1	1.0	
+Breast cancer recurrent	ESR1	1.0	
+Breast cancer recurrent	TP53	1.0	
+Astrocytoma, low grade	FN1	1.0	
+Astrocytoma, low grade	TP53	1.0	
+Essential thrombocythemia	APOA1	1.0	
+Essential thrombocythemia	F2	1.0	
+Essential thrombocythemia	MDM2	1.0	
+Essential thrombocythemia	TP53	1.0	
+Malignant peripheral nerve sheath tumor with rhabdomyoblastic differentiation	ESR1	1.0	
+Malignant peripheral nerve sheath tumor with rhabdomyoblastic differentiation	FN1	1.0	
+Malignant peripheral nerve sheath tumor with rhabdomyoblastic differentiation	MDM2	1.0	
+Malignant peripheral nerve sheath tumor with rhabdomyoblastic differentiation	TP53	1.0	
+Epithelial hyperplasia of skin	APOC1	1.0	
+Epithelial hyperplasia of skin	ESR1	1.0	
+Epithelial hyperplasia of skin	TP53	1.0	
+Protein Deficiency	CFH	1.0	
+Protein Deficiency	F2	1.0	
+Protein Deficiency	TP53	1.0	
+Salivary gland neoplasm	KRT5	1.0	
+Salivary gland neoplasm	MDM2	1.0	
+Salivary gland neoplasm	TP53	1.0	
+Premature aging syndrome	APOE	1.0	
+Premature aging syndrome	APP	1.0	
+Premature aging syndrome	TP53	1.0	
+Degenerative disease of the spinal cord	APOE	1.0	
+Degenerative disease of the spinal cord	ESR1	1.0	
+Degenerative disease of the spinal cord	TTR	1.0	
+Amyotrophic Lateral Sclerosis, Sporadic	APOE	1.0	
+Amyotrophic Lateral Sclerosis, Sporadic	PON1	1.0	
+Amyotrophic Lateral Sclerosis, Sporadic	TP53	1.0	
+Abnormal respiratory system morphology	AGT	1.0	
+Abnormal respiratory system morphology	APOE	1.0	
+Abnormal respiratory system morphology	CFB	1.0	
+Abnormal respiratory system morphology	F12	1.0	
+Abnormal respiratory system morphology	F2	1.0	
+Abnormal respiratory system morphology	KRT16	1.0	
+Abnormal respiratory system morphology	KRT6A	1.0	
+Abnormal respiratory system morphology	PON1	1.0	
+Abnormal respiratory system morphology	TP53	1.0	
+Pyruvate carboxylase deficiency	CFB	1.0	
+Pyruvate carboxylase deficiency	F2	1.0	
+Aortic atherosclerosis	AGT	1.0	
+Aortic atherosclerosis	APOE	1.0	
+Dermatofibrosarcoma protuberans	MDM2	1.0	
+Dermatofibrosarcoma protuberans	TP53	1.0	
+Cholesterol gallstones	APOE	1.0	
+Cholesterol gallstones	ESR1	1.0	
+alpha-1-Antitrypsin Deficiency, Autosomal Recessive	A2M	1.0	
+alpha-1-Antitrypsin Deficiency, Autosomal Recessive	SERPINA3	1.0	
+Thyroid Neoplasms	ESR1	1.0	
+Thyroid Neoplasms	FN1	1.0	
+Thyroid Neoplasms	HBB	1.0	
+Thyroid Neoplasms	MDM2	1.0	
+Thyroid Neoplasms	PARP1	1.0	
+Thyroid Neoplasms	TF	1.0	
+Thyroid Neoplasms	TP53	1.0	
+Recurrent abortion	ESR1	1.0	
+Recurrent abortion	F2	1.0	
+Recurrent abortion	TP53	1.0	
+Abnormal thrombosis	F2	1.0	
+Abnormal thrombosis	HBB	1.0	
+Abnormal thrombosis	TP53	1.0	
+Cerebral edema	APOE	1.0	
+Cerebral edema	C5	1.0	
+Cerebral edema	F2	1.0	
+Duodenal Ulcer	ADH1C	1.0	
+Duodenal Ulcer	AGT	1.0	
+Duodenal Ulcer	TP53	1.0	
+Benign melanocytic nevus	MDM2	1.0	
+Benign melanocytic nevus	PARP1	1.0	
+Benign melanocytic nevus	TP53	1.0	
+Rash and Dermatitis Adverse Event Associated with Chemoradiation	MDM2	1.0	
+Rash and Dermatitis Adverse Event Associated with Chemoradiation	PARP1	1.0	
+Rash and Dermatitis Adverse Event Associated with Chemoradiation	TP53	1.0	
+Renal neoplasm	APOC1	1.0	
+Renal neoplasm	APOE	1.0	
+Renal neoplasm	ESR1	1.0	
+Renal neoplasm	FN1	1.0	
+Renal neoplasm	MDM2	1.0	
+Renal neoplasm	TP53	1.0	
+Familial cancer of breast	ESR1	1.0	
+Familial cancer of breast	MDM2	1.0	
+Familial cancer of breast	PARP1	1.0	
+Familial cancer of breast	TP53	1.0	
+ Adenocarcinoma, ovarian, somatic, 167000 (3)	ADH1C	1.0	
+ Adenocarcinoma, ovarian, somatic, 167000 (3)	AGT	1.0	
+ Adenocarcinoma, ovarian, somatic, 167000 (3)	ALB	1.0	
+ Adenocarcinoma, ovarian, somatic, 167000 (3)	APOA1	1.0	
+ Adenocarcinoma, ovarian, somatic, 167000 (3)	APOE	1.0	
+ Adenocarcinoma, ovarian, somatic, 167000 (3)	CFH	1.0	
+ Adenocarcinoma, ovarian, somatic, 167000 (3)	ESR1	1.0	
+ Adenocarcinoma, ovarian, somatic, 167000 (3)	FN1	1.0	
+ Adenocarcinoma, ovarian, somatic, 167000 (3)	GSN	1.0	
+ Adenocarcinoma, ovarian, somatic, 167000 (3)	KRT14	1.0	
+ Adenocarcinoma, ovarian, somatic, 167000 (3)	KRT5	1.0	
+ Adenocarcinoma, ovarian, somatic, 167000 (3)	MDM2	1.0	
+ Adenocarcinoma, ovarian, somatic, 167000 (3)	PARP1	1.0	
+ Adenocarcinoma, ovarian, somatic, 167000 (3)	TP53	1.0	
+Renal interstitial fibrosis	AGT	1.0	
+Renal interstitial fibrosis	FN1	1.0	
+Protein S deficiency	F12	1.0	
+Protein S deficiency	F2	1.0	
+Avellino corneal dystrophy	FN1	1.0	
+Avellino corneal dystrophy	TP53	1.0	
+Myeloproliferative disorder, chronic, with eosinophilia	APOE	1.0	
+Myeloproliferative disorder, chronic, with eosinophilia	FN1	1.0	
+Hormone refractory prostate cancer	ESR1	1.0	
+Hormone refractory prostate cancer	PARP1	1.0	
+Hormone refractory prostate cancer	TP53	1.0	
+Exanthema	APOA1	1.0	
+Exanthema	APOE	1.0	
+Exanthema	FN1	1.0	
+Exanthema	HBB	1.0	
+Exanthema	KRT5	1.0	
+Exanthema	TP53	1.0	
+Osteoporosis	AGT	1.0	
+Osteoporosis	AHSG	1.0	
+Osteoporosis	ALB	1.0	
+Osteoporosis	APOE	1.0	
+Osteoporosis	DCD	1.0	
+Osteoporosis	ESR1	1.0	
+Osteoporosis	GSN	1.0	
+Osteoporosis	HBB	1.0	
+Invasive breast carcinoma	ESR1	1.0	
+Invasive breast carcinoma	GSN	1.0	
+Invasive breast carcinoma	HDAC1	1.0	
+Invasive breast carcinoma	MDM2	1.0	
+Invasive breast carcinoma	PARP1	1.0	
+Invasive breast carcinoma	TP53	1.0	
+Animal Mammary Neoplasms	ADH1C	1.0	
+Animal Mammary Neoplasms	AGT	1.0	
+Animal Mammary Neoplasms	AHSG	1.0	
+Animal Mammary Neoplasms	APOE	1.0	
+Animal Mammary Neoplasms	BDKRB1	1.0	
+Animal Mammary Neoplasms	ESR1	1.0	
+Animal Mammary Neoplasms	FN1	1.0	
+Animal Mammary Neoplasms	GSN	1.0	
+Animal Mammary Neoplasms	HDAC1	1.0	
+Animal Mammary Neoplasms	ITIH1	1.0	
+Animal Mammary Neoplasms	KRT14	1.0	
+Animal Mammary Neoplasms	KRT5	1.0	
+Animal Mammary Neoplasms	MDM2	1.0	
+Animal Mammary Neoplasms	PARP1	1.0	
+Animal Mammary Neoplasms	PON1	1.0	
+Animal Mammary Neoplasms	TF	1.0	
+Animal Mammary Neoplasms	TP53	1.0	
+Hemiplegia	APOE	1.0	
+Hemiplegia	F2	1.0	
+Herpes zoster disease	APOE	1.0	
+Herpes zoster disease	ESR1	1.0	
+Atypical hemolytic-uremic syndrome 5	CFB	1.0	
+Atypical hemolytic-uremic syndrome 5	CFH	1.0	
+Chlamydia Infections	C5	1.0	
+Chlamydia Infections	CFH	1.0	
+Chlamydia Infections	FN1	1.0	
+Gastrointestinal Diseases	AGT	1.0	
+Gastrointestinal Diseases	PON1	1.0	
+Gastrointestinal Diseases	TP53	1.0	
+Carcinoma, Lewis Lung	F2	1.0	
+Carcinoma, Lewis Lung	FN1	1.0	
+Carcinoma, Lewis Lung	PON1	1.0	
+Renal ischaemia	AGT	1.0	
+Renal ischaemia	PARP1	1.0	
+Renal ischaemia	TP53	1.0	
+Sarcoidosis	AGT	1.0	
+Sarcoidosis	ALB	1.0	
+Sarcoidosis	C5	1.0	
+Sarcoidosis	CFH	1.0	
+Sarcoidosis	PON1	1.0	
+Adenoma of large intestine	ADH1C	1.0	
+Adenoma of large intestine	APOE	1.0	
+Adenoma of large intestine	ESR1	1.0	
+Adenoma of large intestine	PARP1	1.0	
+Adenoma of large intestine	TP53	1.0	
+VITILIGO-ASSOCIATED MULTIPLE AUTOIMMUNE DISEASE SUSCEPTIBILITY 1 (finding)	ESR1	1.0	
+VITILIGO-ASSOCIATED MULTIPLE AUTOIMMUNE DISEASE SUSCEPTIBILITY 1 (finding)	MDM2	1.0	
+VITILIGO-ASSOCIATED MULTIPLE AUTOIMMUNE DISEASE SUSCEPTIBILITY 1 (finding)	PARP1	1.0	
+VITILIGO-ASSOCIATED MULTIPLE AUTOIMMUNE DISEASE SUSCEPTIBILITY 1 (finding)	TP53	1.0	
+Chronic heart failure	AGT	1.0	
+Chronic heart failure	DCD	1.0	
+Chronic heart failure	TP53	1.0	
+Abnormality of abdomen morphology	APOA1	1.0	
+Abnormality of abdomen morphology	APOE	1.0	
+Abnormality of abdomen morphology	GSN	1.0	
+Abnormality of abdomen morphology	HBB	1.0	
+Abnormality of abdomen morphology	KRT16	1.0	
+Abnormality of abdomen morphology	KRT6A	1.0	
+Abnormality of abdomen morphology	TP53	1.0	
+Metabolic Bone Disorder	APOE	1.0	
+Metabolic Bone Disorder	ESR1	1.0	
+Hemorrhagic disorder due to intrinsic circulating anticoagulants	F12	1.0	
+Hemorrhagic disorder due to intrinsic circulating anticoagulants	F2	1.0	
+Niemann-Pick disease, type C	APOE	1.0	
+Niemann-Pick disease, type C	APP	1.0	
+Familial Alzheimer Disease (FAD)	APOE	1.0	
+Familial Alzheimer Disease (FAD)	APP	1.0	
+Arteriovenous hemangioma	APOE	1.0	
+Arteriovenous hemangioma	FN1	1.0	
+Thyroid Diseases	ALB	1.0	
+Thyroid Diseases	APOE	1.0	
+Thyroid Diseases	CFB	1.0	
+Thyroid Diseases	HBB	1.0	
+Thyroid Diseases	TF	1.0	
+Thyroid Diseases	TP53	1.0	
+Abnormality of the nephron	AGT	1.0	
+Abnormality of the nephron	APOE	1.0	
+Abnormality of the nephron	CFH	1.0	
+Abnormality of the nephron	FN1	1.0	
+Pulmonary Disease, Chronic Obstructive	A2M	1.0	
+Pulmonary Disease, Chronic Obstructive	F2	1.0	
+Pulmonary Disease, Chronic Obstructive	FN1	1.0	
+Pulmonary Disease, Chronic Obstructive	GSN	1.0	
+Pulmonary Disease, Chronic Obstructive	SERPINA3	1.0	
+Pulmonary Disease, Chronic Obstructive	TP53	1.0	
+Abnormality of the urinary system physiology	AGT	1.0	
+Abnormality of the urinary system physiology	APOA1	1.0	
+Abnormality of the urinary system physiology	APOE	1.0	
+Abnormality of the urinary system physiology	CFH	1.0	
+Abnormality of the urinary system physiology	FN1	1.0	
+Abnormality of the urinary system physiology	GSN	1.0	
+Abnormality of the urinary system physiology	HBB	1.0	
+Abnormality of the urinary system physiology	MDM2	1.0	
+Crohn Disease	AGT	1.0	
+Crohn Disease	ALB	1.0	
+Crohn Disease	APOA1	1.0	
+Crohn Disease	APOE	1.0	
+Crohn Disease	CFB	1.0	
+Crohn Disease	F2	1.0	
+Crohn Disease	FN1	1.0	
+Crohn Disease	MDM2	1.0	
+Crohn Disease	PON1	1.0	
+Crohn Disease	TP53	1.0	
+Amyotrophic Lateral Sclerosis	AGT	1.0	
+Amyotrophic Lateral Sclerosis	APOE	1.0	
+Amyotrophic Lateral Sclerosis	APP	1.0	
+Amyotrophic Lateral Sclerosis	F2	1.0	
+Amyotrophic Lateral Sclerosis	PARP1	1.0	
+Amyotrophic Lateral Sclerosis	PON1	1.0	
+Amyotrophic Lateral Sclerosis	SERPINA3	1.0	
+Amyotrophic Lateral Sclerosis	TP53	1.0	
+Amyotrophic Lateral Sclerosis	TTR	1.0	
+Encephalopathy, acute, infection-induced, 4, susceptibility to	ALB	1.0	
+Encephalopathy, acute, infection-induced, 4, susceptibility to	APOE	1.0	
+Encephalopathy, acute, infection-induced, 4, susceptibility to	F2	1.0	
+Encephalopathy, acute, infection-induced, 4, susceptibility to	MDM2	1.0	
+Encephalopathy, acute, infection-induced, 4, susceptibility to	TP53	1.0	
+Intrauterine growth retardation	AGT	1.0	
+Intrauterine growth retardation	APOE	1.0	
+Intrauterine growth retardation	F2	1.0	
+Intrauterine growth retardation	HDAC1	1.0	
+Intrauterine growth retardation	MDM2	1.0	
+Intrauterine growth retardation	PON1	1.0	
+Schizophrenia	APOA1	1.0	
+Schizophrenia	APOE	1.0	
+Schizophrenia	APP	1.0	
+Schizophrenia	CFB	1.0	
+Schizophrenia	ESR1	1.0	
+Schizophrenia	FN1	1.0	
+Schizophrenia	GSN	1.0	
+Schizophrenia	HDAC1	1.0	
+Schizophrenia	ITIH1	1.0	
+Schizophrenia	ITIH3	1.0	
+Schizophrenia	PON1	1.0	
+Schizophrenia	SERPINA3	1.0	
+Schizophrenia	TF	1.0	
+Schizophrenia	TP53	1.0	
+Schizophrenia	TTR	1.0	
+Mucinous Adenocarcinoma	ESR1	1.0	
+Mucinous Adenocarcinoma	MDM2	1.0	
+Mucinous Adenocarcinoma	TP53	1.0	
+Cholera	APOE	1.0	
+Cholera	ESR1	1.0	
+Cholera	SERPINA3	1.0	
+Pterygium	AGT	1.0	
+Pterygium	FN1	1.0	
+Pterygium	TP53	1.0	
+Chronic active hepatitis	ESR1	1.0	
+Chronic active hepatitis	MDM2	1.0	
+Chronic active hepatitis	TP53	1.0	
+Subcutaneous hemorrhage	APOE	1.0	
+Subcutaneous hemorrhage	F2	1.0	
+Subcutaneous hemorrhage	KRT14	1.0	
+Subcutaneous hemorrhage	KRT5	1.0	
+Neoplasm of the colon	A2M	1.0	
+Neoplasm of the colon	APOE	1.0	
+Neoplasm of the colon	APP	1.0	
+Neoplasm of the colon	CFH	1.0	
+Neoplasm of the colon	ESR1	1.0	
+Neoplasm of the colon	FN1	1.0	
+Neoplasm of the colon	MDM2	1.0	
+Neoplasm of the colon	PARP1	1.0	
+Neoplasm of the colon	TP53	1.0	
+Carpal tunnel syndrome	ESR1	1.0	
+Carpal tunnel syndrome	TTR	1.0	
+Normal pressure hydrocephalus	APOE	1.0	
+Normal pressure hydrocephalus	APP	1.0	
+Recessive dystrophic epidermolysis bullosa	FN1	1.0	
+Recessive dystrophic epidermolysis bullosa	TP53	1.0	
+Uterine leiomyosarcoma	MDM2	1.0	
+Uterine leiomyosarcoma	TP53	1.0	
+Oestrogen deficiency	AGT	1.0	
+Oestrogen deficiency	ESR1	1.0	
+Aggressive Non-Hodgkin Lymphoma	PARP1	1.0	
+Aggressive Non-Hodgkin Lymphoma	TP53	1.0	
+Abnormality of the level of lipoprotein cholesterol	APOA1	1.0	
+Abnormality of the level of lipoprotein cholesterol	APOE	1.0	
+Embryonal rhabdomyosarcoma	ESR1	1.0	
+Embryonal rhabdomyosarcoma	MDM2	1.0	
+Embryonal rhabdomyosarcoma	TP53	1.0	
+Obstructive sleep apnea	AGT	1.0	
+Obstructive sleep apnea	APOE	1.0	
+Obstructive sleep apnea	GSN	1.0	
+Obstructive sleep apnea	MDM2	1.0	
+Congenital anomalies of kidney and urinary tract 1, susceptibility to	AGT	1.0	
+Congenital anomalies of kidney and urinary tract 1, susceptibility to	APOA1	1.0	
+Congenital anomalies of kidney and urinary tract 1, susceptibility to	APOE	1.0	
+Congenital anomalies of kidney and urinary tract 1, susceptibility to	CFH	1.0	
+Congenital anomalies of kidney and urinary tract 1, susceptibility to	FN1	1.0	
+Congenital anomalies of kidney and urinary tract 1, susceptibility to	GSN	1.0	
+Congenital anomalies of kidney and urinary tract 1, susceptibility to	HBB	1.0	
+Congenital anomalies of kidney and urinary tract 1, susceptibility to	MDM2	1.0	
+Congenital anomalies of kidney and urinary tract 1, susceptibility to	TP53	1.0	
+Abnormality of the skeletal system	AGT	1.0	
+Abnormality of the skeletal system	ALB	1.0	
+Abnormality of the skeletal system	APOE	1.0	
+Abnormality of the skeletal system	APP	1.0	
+Abnormality of the skeletal system	ESR1	1.0	
+Abnormality of the skeletal system	F2	1.0	
+Abnormality of the skeletal system	HBB	1.0	
+Abnormality of the skeletal system	KRT1	1.0	
+Abnormality of the skeletal system	KRT10	1.0	
+Abnormality of the skeletal system	KRT14	1.0	
+Abnormality of the skeletal system	KRT5	1.0	
+Abnormality of the skeletal system	MDM2	1.0	
+Abnormality of the skeletal system	TF	1.0	
+Abnormality of the skeletal system	TP53	1.0	
+Abnormality of the skeletal system	TTR	1.0	
+Abnormality of the coronary arteries	APOE	1.0	
+Abnormality of the coronary arteries	ESR1	1.0	
+Abnormality of the coronary arteries	TP53	1.0	
+Pilocytic Astrocytoma	FN1	1.0	
+Pilocytic Astrocytoma	PARP1	1.0	
+Pilocytic Astrocytoma	TP53	1.0	
+Tumor Promotion	ESR1	1.0	
+Tumor Promotion	MDM2	1.0	
+Tumor Promotion	TP53	1.0	
+Neoplasm Invasiveness	ESR1	1.0	
+Neoplasm Invasiveness	FN1	1.0	
+Neoplasm Invasiveness	TF	1.0	
+Neoplasm Invasiveness	TP53	1.0	
+Malignant neoplasm of gallbladder	APOE	1.0	
+Malignant neoplasm of gallbladder	ESR1	1.0	
+Malignant neoplasm of gallbladder	PARP1	1.0	
+Malignant neoplasm of gallbladder	TP53	1.0	
+Cervix Diseases	ESR1	1.0	
+Cervix Diseases	TP53	1.0	
+Pericardial effusion	ALB	1.0	
+Pericardial effusion	TP53	1.0	
+Inflammatory Myofibroblastic Tumor	MDM2	1.0	
+Inflammatory Myofibroblastic Tumor	TP53	1.0	
+Aortic aneurysm without mention of rupture NOS	AGT	1.0	
+Aortic aneurysm without mention of rupture NOS	APOE	1.0	
+Geographic Atrophy	CFB	1.0	
+Geographic Atrophy	CFH	1.0	
+Parkinson disease, late-onset	ADH1C	1.0	
+Parkinson disease, late-onset	APOE	1.0	
+Abnormality of the upper urinary tract	AGT	1.0	
+Abnormality of the upper urinary tract	APOA1	1.0	
+Abnormality of the upper urinary tract	APOE	1.0	
+Abnormality of the upper urinary tract	CFH	1.0	
+Abnormality of the upper urinary tract	FN1	1.0	
+Abnormality of the upper urinary tract	GSN	1.0	
+Abnormality of the upper urinary tract	HBB	1.0	
+Abnormality of the upper urinary tract	MDM2	1.0	
+Abnormality of the upper urinary tract	TP53	1.0	
+Vestibular Schwannoma	MDM2	1.0	
+Vestibular Schwannoma	PARP1	1.0	
+Vestibular Schwannoma	TP53	1.0	
+Adrenocortical adenoma	AGT	1.0	
+Adrenocortical adenoma	ESR1	1.0	
+Adrenocortical adenoma	TP53	1.0	
+Renal fibrosis	AGT	1.0	
+Renal fibrosis	C5	1.0	
+Renal fibrosis	FN1	1.0	
+Renal fibrosis	TP53	1.0	
+Experimental Autoimmune Encephalomyelitis	A2M	1.0	
+Experimental Autoimmune Encephalomyelitis	ALB	1.0	
+Experimental Autoimmune Encephalomyelitis	APOE	1.0	
+Experimental Autoimmune Encephalomyelitis	C5	1.0	
+Experimental Autoimmune Encephalomyelitis	ESR1	1.0	
+Experimental Autoimmune Encephalomyelitis	TP53	1.0	
+Nasopharyngeal carcinoma, susceptibility to, 3	AGT	1.0	
+Nasopharyngeal carcinoma, susceptibility to, 3	ESR1	1.0	
+Nasopharyngeal carcinoma, susceptibility to, 3	FN1	1.0	
+Nasopharyngeal carcinoma, susceptibility to, 3	HBB	1.0	
+Nasopharyngeal carcinoma, susceptibility to, 3	KRT14	1.0	
+Nasopharyngeal carcinoma, susceptibility to, 3	MDM2	1.0	
+Nasopharyngeal carcinoma, susceptibility to, 3	PARP1	1.0	
+Nasopharyngeal carcinoma, susceptibility to, 3	TP53	1.0	
+Tumor necrosis	ESR1	1.0	
+Tumor necrosis	MDM2	1.0	
+Tumor necrosis	PARP1	1.0	
+Tumor necrosis	TP53	1.0	
+Oral Cavity Carcinoma	FN1	1.0	
+Oral Cavity Carcinoma	MDM2	1.0	
+Oral Cavity Carcinoma	TP53	1.0	
+Astrocytoma	A2M	1.0	
+Astrocytoma	APOE	1.0	
+Astrocytoma	ESR1	1.0	
+Astrocytoma	FN1	1.0	
+Astrocytoma	GSN	1.0	
+Astrocytoma	MDM2	1.0	
+Astrocytoma	PON1	1.0	
+Astrocytoma	TP53	1.0	
+Uterine Cervical Neoplasms	GSN	1.0	
+Uterine Cervical Neoplasms	KRT14	1.0	
+Uterine Cervical Neoplasms	MDM2	1.0	
+Uterine Cervical Neoplasms	TP53	1.0	
+Amyotrophic lateral sclerosis type 1	APP	1.0	
+Amyotrophic lateral sclerosis type 1	HDAC1	1.0	
+Amyotrophic lateral sclerosis type 1	PON1	1.0	
+Amyotrophic lateral sclerosis type 1	SERPINA3	1.0	
+Alcohol dependence	ADH1C	1.0	
+Alcohol dependence	AGT	1.0	
+Alcohol dependence	APOE	1.0	
+Alcohol dependence	ESR1	1.0	
+Alcohol dependence	F2	1.0	
+Alcohol dependence	FN1	1.0	
+Alcohol dependence	TF	1.0	
+Alcohol dependence	TP53	1.0	
+childhood brain tumor	PON1	1.0	
+childhood brain tumor	TP53	1.0	
+Endemic Cretinism	ALB	1.0	
+Endemic Cretinism	APOE	1.0	
+Bone neoplasms	MDM2	1.0	
+Bone neoplasms	PARP1	1.0	
+Bone neoplasms	TP53	1.0	
+Borderline Personality Disorder	FN1	1.0	
+Borderline Personality Disorder	HBB	1.0	
+Borderline Personality Disorder	HDAC1	1.0	
+Borderline Personality Disorder	TP53	1.0	
+Ulcerative colitis	ALB	1.0	
+Ulcerative colitis	APOE	1.0	
+Ulcerative colitis	BDKRB1	1.0	
+Ulcerative colitis	CFB	1.0	
+Ulcerative colitis	ESR1	1.0	
+Ulcerative colitis	F2	1.0	
+Ulcerative colitis	MDM2	1.0	
+Ulcerative colitis	PON1	1.0	
+Ulcerative colitis	TP53	1.0	
+Localized skin lesion	APOA1	1.0	
+Localized skin lesion	APOE	1.0	
+Localized skin lesion	HBB	1.0	
+Localized skin lesion	KRT14	1.0	
+Localized skin lesion	KRT5	1.0	
+Localized skin lesion	KRT6A	1.0	
+Localized skin lesion	MDM2	1.0	
+Familial adenomatous polyposis 1	APOA1	1.0	
+Familial adenomatous polyposis 1	ESR1	1.0	
+Familial adenomatous polyposis 1	GSN	1.0	
+Familial adenomatous polyposis 1	PARP1	1.0	
+Familial adenomatous polyposis 1	TP53	1.0	
+Familial adenomatous polyposis 1	TTR	1.0	
+Colitis, Ulcerative	APP	1.0	
+Colitis, Ulcerative	C5	1.0	
+Colitis, Ulcerative	CFB	1.0	
+Colitis, Ulcerative	FN1	1.0	
+Colitis, Ulcerative	PARP1	1.0	
+Colitis, Ulcerative	PON1	1.0	
+Colitis, Ulcerative	TP53	1.0	
+Colitis, Ulcerative	TTR	1.0	
+Paralysis	APOE	1.0	
+Paralysis	APP	1.0	
+Paralysis	PON1	1.0	
+Abnormality of the abdominal organs	APOA1	1.0	
+Abnormality of the abdominal organs	APOE	1.0	
+Abnormality of the abdominal organs	CFB	1.0	
+Abnormality of the abdominal organs	HBB	1.0	
+Abnormality of the abdominal organs	KRT16	1.0	
+Abnormality of the abdominal organs	KRT6A	1.0	
+Abnormality of the abdominal organs	MDM2	1.0	
+Abnormality of the abdominal organs	TF	1.0	
+Abnormality of the abdominal organs	TP53	1.0	
+Peptic Ulcer Hemorrhage	AGT	1.0	
+Peptic Ulcer Hemorrhage	TP53	1.0	
+Invasive Lobular Breast Carcinoma	ESR1	1.0	
+Invasive Lobular Breast Carcinoma	TP53	1.0	
+Prolonged bleeding time	F2	1.0	
+Prolonged bleeding time	TP53	1.0	
+Metastatic Carcinoma	GSN	1.0	
+Metastatic Carcinoma	TP53	1.0	
+Deficiency of glucose-6-phosphate dehydrogenase	F2	1.0	
+Deficiency of glucose-6-phosphate dehydrogenase	HBB	1.0	
+Chronic graft-versus-host disease	AGT	1.0	
+Chronic graft-versus-host disease	PARP1	1.0	
+Chronic graft-versus-host disease	TF	1.0	
+Esophageal Neoplasms	ADH1C	1.0	
+Esophageal Neoplasms	GSN	1.0	
+Esophageal Neoplasms	KRT10	1.0	
+Esophageal Neoplasms	KRT14	1.0	
+Esophageal Neoplasms	KRT16	1.0	
+Esophageal Neoplasms	MDM2	1.0	
+Esophageal Neoplasms	PARP1	1.0	
+Esophageal Neoplasms	TP53	1.0	
+Atrial Fibrillation	AGT	1.0	
+Atrial Fibrillation	APOE	1.0	
+Atrial Fibrillation	ESR1	1.0	
+Atrial Fibrillation	F2	1.0	
+Arteriovenous malformation	APOE	1.0	
+Arteriovenous malformation	FN1	1.0	
+Arteriovenous malformation	MDM2	1.0	
+Bruising susceptibility	F2	1.0	
+Bruising susceptibility	KRT14	1.0	
+Bruising susceptibility	KRT5	1.0	
+Inflammatory Breast Carcinoma	AGT	1.0	
+Inflammatory Breast Carcinoma	ESR1	1.0	
+Inflammatory Breast Carcinoma	TP53	1.0	
+Malaria	AGT	1.0	
+Malaria	AHSG	1.0	
+Malaria	APOE	1.0	
+Malaria	CFH	1.0	
+Malaria	HBB	1.0	
+Malaria	SERPINA3	1.0	
+Malaria	TP53	1.0	
+Cataract, autosomal recessive congenital 5	APOE	1.0	
+Cataract, autosomal recessive congenital 5	APP	1.0	
+Cataract, autosomal recessive congenital 5	ESR1	1.0	
+Cataract, autosomal recessive congenital 5	FN1	1.0	
+Cataract, autosomal recessive congenital 5	HBB	1.0	
+Cataract, autosomal recessive congenital 5	KRT1	1.0	
+Cataract, autosomal recessive congenital 5	KRT16	1.0	
+Cataract, autosomal recessive congenital 5	KRT6A	1.0	
+Condylomata Acuminata	ESR1	1.0	
+Condylomata Acuminata	TP53	1.0	
+Corneal Diseases	APOE	1.0	
+Corneal Diseases	GSN	1.0	
+Odontogenic neoplasm	KRT5	1.0	
+Odontogenic neoplasm	MDM2	1.0	
+Keloid	AGT	1.0	
+Keloid	ALB	1.0	
+Keloid	FN1	1.0	
+Keloid	TP53	1.0	
+Nephritis	ALB	1.0	
+Nephritis	CFH	1.0	
+Nephritis	FN1	1.0	
+Nephritis	PARP1	1.0	
+Malignant neoplasm of lung	ADH1C	1.0	
+Malignant neoplasm of lung	AGT	1.0	
+Malignant neoplasm of lung	ALB	1.0	
+Malignant neoplasm of lung	APOA2	1.0	
+Malignant neoplasm of lung	APOE	1.0	
+Malignant neoplasm of lung	CFH	1.0	
+Malignant neoplasm of lung	ESR1	1.0	
+Malignant neoplasm of lung	FN1	1.0	
+Malignant neoplasm of lung	GSN	1.0	
+Malignant neoplasm of lung	HDAC1	1.0	
+Malignant neoplasm of lung	ITIH1	1.0	
+Malignant neoplasm of lung	KRT5	1.0	
+Malignant neoplasm of lung	MDM2	1.0	
+Malignant neoplasm of lung	PARP1	1.0	
+Malignant neoplasm of lung	PON1	1.0	
+Malignant neoplasm of lung	SERPINA3	1.0	
+Malignant neoplasm of lung	TP53	1.0	
+Amyotrophy involving the shoulder musculature	AGT	1.0	
+Amyotrophy involving the shoulder musculature	CFH	1.0	
+Amyotrophy involving the shoulder musculature	HDAC1	1.0	
+Amyotrophy involving the shoulder musculature	TP53	1.0	
+Trisomy	APOE	1.0	
+Trisomy	APP	1.0	
+Trisomy	SERPINA3	1.0	
+Trisomy	TP53	1.0	
+polyps	APP	1.0	
+polyps	HDAC1	1.0	
+polyps	MDM2	1.0	
+polyps	PARP1	1.0	
+polyps	TP53	1.0	
+Polyglandular autoimmune syndrome, type 1	APP	1.0	
+Polyglandular autoimmune syndrome, type 1	F2	1.0	
+Polyglandular autoimmune syndrome, type 1	PARP1	1.0	
+Multiple tumors	CFH	1.0	
+Multiple tumors	MDM2	1.0	
+Multiple tumors	TP53	1.0	
+Peripheral Arterial Diseases	APOE	1.0	
+Peripheral Arterial Diseases	F2	1.0	
+Peripheral Arterial Diseases	PON1	1.0	
+Severe combined immunodeficiency due to ADA deficiency	ALB	1.0	
+Severe combined immunodeficiency due to ADA deficiency	ESR1	1.0	
+Severe combined immunodeficiency due to ADA deficiency	FN1	1.0	
+Severe combined immunodeficiency due to ADA deficiency	MDM2	1.0	
+Severe combined immunodeficiency due to ADA deficiency	PARP1	1.0	
+Severe combined immunodeficiency due to ADA deficiency	PON1	1.0	
+Severe combined immunodeficiency due to ADA deficiency	TP53	1.0	
+Abnormality of the cerebral vasculature	APP	1.0	
+Abnormality of the cerebral vasculature	FN1	1.0	
+Abnormality of the cerebral vasculature	TP53	1.0	
+Abnormality of the cerebral vasculature	TTR	1.0	
+Rectal Carcinoma	AHSG	1.0	
+Rectal Carcinoma	APOE	1.0	
+Rectal Carcinoma	ESR1	1.0	
+Rectal Carcinoma	PARP1	1.0	
+Rectal Carcinoma	TP53	1.0	
+Nephrosclerosis	AGT	1.0	
+Nephrosclerosis	ALB	1.0	
+Peripheral motor neuropathy	ALB	1.0	
+Peripheral motor neuropathy	TTR	1.0	
+Chronic colitis	PON1	1.0	
+Chronic colitis	TP53	1.0	
+End Stage Liver Disease	ALB	1.0	
+End Stage Liver Disease	F2	1.0	
+Seborheic dermatitis	F12	1.0	
+Seborheic dermatitis	FN1	1.0	
+Seborheic dermatitis	PARP1	1.0	
+Seborheic dermatitis	TP53	1.0	
+Embryonal Carcinoma	HDAC1	1.0	
+Embryonal Carcinoma	MDM2	1.0	
+Embryonal Carcinoma	PARP1	1.0	
+Embryonal Carcinoma	TP53	1.0	
+Paresthesia	APP	1.0	
+Paresthesia	HBB	1.0	
+Paresthesia	TP53	1.0	
+Chronic Periodontitis	AGT	1.0	
+Chronic Periodontitis	APOE	1.0	
+Chronic Periodontitis	APP	1.0	
+Chronic Periodontitis	ESR1	1.0	
+Shy-Drager syndrome	APOE	1.0	
+Shy-Drager syndrome	SERPINA3	1.0	
+Shy-Drager syndrome	TTR	1.0	
+Eclampsia	AGT	1.0	
+Eclampsia	APOE	1.0	
+Eclampsia	BDKRB1	1.0	
+Eclampsia	F2	1.0	
+Renal cell carcinoma, nonpapillary	AGT	1.0	
+Renal cell carcinoma, nonpapillary	ALB	1.0	
+Renal cell carcinoma, nonpapillary	APOC1	1.0	
+Renal cell carcinoma, nonpapillary	APOE	1.0	
+Renal cell carcinoma, nonpapillary	CFH	1.0	
+Renal cell carcinoma, nonpapillary	ESR1	1.0	
+Renal cell carcinoma, nonpapillary	F2	1.0	
+Renal cell carcinoma, nonpapillary	FN1	1.0	
+Renal cell carcinoma, nonpapillary	MDM2	1.0	
+Renal cell carcinoma, nonpapillary	PARP1	1.0	
+Renal cell carcinoma, nonpapillary	TP53	1.0	
+Renal cell carcinoma, nonpapillary	TTR	1.0	
+Laryngeal carcinoma	ADH1C	1.0	
+Laryngeal carcinoma	FN1	1.0	
+Laryngeal carcinoma	MDM2	1.0	
+Laryngeal carcinoma	TP53	1.0	
+Coronary Thrombosis	AGT	1.0	
+Coronary Thrombosis	ESR1	1.0	
+Purpura, Thrombotic Thrombocytopenic	CFH	1.0	
+Purpura, Thrombotic Thrombocytopenic	F2	1.0	
+Wet Macular Degeneration	APOE	1.0	
+Wet Macular Degeneration	CFH	1.0	
+Laryngomalacia	KRT16	1.0	
+Laryngomalacia	KRT6A	1.0	
+Neurobehavioral Manifestations	APOE	1.0	
+Neurobehavioral Manifestations	APP	1.0	
+Cerebral aneurysm	AGT	1.0	
+Cerebral aneurysm	ESR1	1.0	
+Gastric Cardia Adenocarcinoma	MDM2	1.0	
+Gastric Cardia Adenocarcinoma	TP53	1.0	
+Erectile abnormalities	HBB	1.0	
+Erectile abnormalities	TTR	1.0	
+Abnormal albumin level	ALB	1.0	
+Abnormal albumin level	FN1	1.0	
+Melanocytic nevus	HDAC1	1.0	
+Melanocytic nevus	MDM2	1.0	
+Melanocytic nevus	PARP1	1.0	
+Melanocytic nevus	TP53	1.0	
+Sensory neuropathy	APOE	1.0	
+Sensory neuropathy	APP	1.0	
+Sensory neuropathy	HBB	1.0	
+Sensory neuropathy	TP53	1.0	
+Malignant neoplasm of pancreas	ADH1C	1.0	
+Malignant neoplasm of pancreas	AGT	1.0	
+Malignant neoplasm of pancreas	APOC1	1.0	
+Malignant neoplasm of pancreas	DCD	1.0	
+Malignant neoplasm of pancreas	ESR1	1.0	
+Malignant neoplasm of pancreas	FN1	1.0	
+Malignant neoplasm of pancreas	GSN	1.0	
+Malignant neoplasm of pancreas	HDAC1	1.0	
+Malignant neoplasm of pancreas	MDM2	1.0	
+Malignant neoplasm of pancreas	PARP1	1.0	
+Malignant neoplasm of pancreas	SERPINA3	1.0	
+Malignant neoplasm of pancreas	TF	1.0	
+Malignant neoplasm of pancreas	TP53	1.0	
+Corneal pannus	FN1	1.0	
+Corneal pannus	TP53	1.0	
+Carcinogenicity	ADH1C	1.0	
+Carcinogenicity	TP53	1.0	
+Abnormality of the nervous system	AGT	1.0	
+Abnormality of the nervous system	APOA1	1.0	
+Abnormality of the nervous system	APOE	1.0	
+Abnormality of the nervous system	APP	1.0	
+Abnormality of the nervous system	C5	1.0	
+Abnormality of the nervous system	ESR1	1.0	
+Abnormality of the nervous system	FN1	1.0	
+Abnormality of the nervous system	GSN	1.0	
+Abnormality of the nervous system	HBB	1.0	
+Abnormality of the nervous system	KRT14	1.0	
+Abnormality of the nervous system	KRT16	1.0	
+Abnormality of the nervous system	KRT5	1.0	
+Abnormality of the nervous system	KRT6A	1.0	
+Abnormality of the nervous system	MDM2	1.0	
+Abnormality of the nervous system	PON1	1.0	
+Abnormality of the nervous system	TP53	1.0	
+Abnormality of the nervous system	TTR	1.0	
+Confusion	APOE	1.0	
+Confusion	CFH	1.0	
+Neoplasm of the tongue	KRT14	1.0	
+Neoplasm of the tongue	TP53	1.0	
+CNS metastases	TP53	1.0	
+CNS metastases	TTR	1.0	
+Chronic rejection of renal transplant	AGT	1.0	
+Chronic rejection of renal transplant	FN1	1.0	
+CADASIL	APOE	1.0	
+CADASIL	FN1	1.0	
+Calcinosis	AGT	1.0	
+Calcinosis	AHSG	1.0	
+Calcinosis	APOE	1.0	
+Endometrial adenocarcinoma	ESR1	1.0	
+Endometrial adenocarcinoma	MDM2	1.0	
+Endometrial adenocarcinoma	TP53	1.0	
+Glioblastoma	AGT	1.0	
+Glioblastoma	AHSG	1.0	
+Glioblastoma	APOA1	1.0	
+Glioblastoma	APOE	1.0	
+Glioblastoma	APP	1.0	
+Glioblastoma	CFH	1.0	
+Glioblastoma	ESR1	1.0	
+Glioblastoma	FN1	1.0	
+Glioblastoma	GSN	1.0	
+Glioblastoma	MDM2	1.0	
+Glioblastoma	PARP1	1.0	
+Glioblastoma	TF	1.0	
+Glioblastoma	TP53	1.0	
+Esophageal Squamous Cell Carcinoma	ADH1C	1.0	
+Esophageal Squamous Cell Carcinoma	ESR1	1.0	
+Esophageal Squamous Cell Carcinoma	FN1	1.0	
+Esophageal Squamous Cell Carcinoma	KRT14	1.0	
+Esophageal Squamous Cell Carcinoma	KRT16	1.0	
+Esophageal Squamous Cell Carcinoma	MDM2	1.0	
+Esophageal Squamous Cell Carcinoma	PARP1	1.0	
+Esophageal Squamous Cell Carcinoma	SERPINA3	1.0	
+Esophageal Squamous Cell Carcinoma	TP53	1.0	
+Alopecia	KRT14	1.0	
+Alopecia	KRT16	1.0	
+Alopecia	KRT6A	1.0	
+Alopecia	PARP1	1.0	
+Malignant tumor of cervix	AGT	1.0	
+Malignant tumor of cervix	ESR1	1.0	
+Malignant tumor of cervix	FN1	1.0	
+Malignant tumor of cervix	GSN	1.0	
+Malignant tumor of cervix	HDAC1	1.0	
+Malignant tumor of cervix	KRT14	1.0	
+Malignant tumor of cervix	MDM2	1.0	
+Malignant tumor of cervix	PARP1	1.0	
+Malignant tumor of cervix	TP53	1.0	
+Abnormal systemic blood pressure	AGT	1.0	
+Abnormal systemic blood pressure	ALB	1.0	
+Abnormal systemic blood pressure	APOA1	1.0	
+Abnormal systemic blood pressure	FN1	1.0	
+Abnormal systemic blood pressure	TTR	1.0	
+Bacteremia, susceptibility to, 2	APP	1.0	
+Bacteremia, susceptibility to, 2	CFH	1.0	
+Bacteremia, susceptibility to, 2	FN1	1.0	
+Polycythemia vera	F2	1.0	
+Polycythemia vera	HBB	1.0	
+Polycythemia vera	MDM2	1.0	
+Polycythemia vera	TP53	1.0	
+Gallbladder Carcinoma	ESR1	1.0	
+Gallbladder Carcinoma	HDAC1	1.0	
+Gallbladder Carcinoma	PARP1	1.0	
+Gallbladder Carcinoma	TP53	1.0	
+Cycloid psychosis	APOE	1.0	
+Cycloid psychosis	APP	1.0	
+Cycloid psychosis	ITIH3	1.0	
+Cycloid psychosis	TOMM40	1.0	
+Immunodeficiency due to defect in CD3-gamma	ALB	1.0	
+Immunodeficiency due to defect in CD3-gamma	C5	1.0	
+Immunodeficiency due to defect in CD3-gamma	CFH	1.0	
+Immunodeficiency due to defect in CD3-gamma	FN1	1.0	
+Immunodeficiency due to defect in CD3-gamma	HBB	1.0	
+Immunodeficiency due to defect in CD3-gamma	KRT5	1.0	
+Immunodeficiency due to defect in CD3-gamma	TP53	1.0	
+Carcinosarcoma	MDM2	1.0	
+Carcinosarcoma	TP53	1.0	
+Hypotension, Orthostatic	AGT	1.0	
+Hypotension, Orthostatic	TTR	1.0	
+Malignant Conversion	MDM2	1.0	
+Malignant Conversion	TP53	1.0	
+Constitutional symptom	ALB	1.0	
+Constitutional symptom	ESR1	1.0	
+Constitutional symptom	F12	1.0	
+Constitutional symptom	HBB	1.0	
+Constitutional symptom	PON1	1.0	
+Constitutional symptom	TP53	1.0	
+Constitutional symptom	TTR	1.0	
+Methamphetamine abuse	ADH1C	1.0	
+Methamphetamine abuse	ALB	1.0	
+Methamphetamine abuse	TP53	1.0	
+Neoplasm of the rectum	AHSG	1.0	
+Neoplasm of the rectum	APOE	1.0	
+Neoplasm of the rectum	TP53	1.0	
+Neoplasm of the larynx	ADH1C	1.0	
+Neoplasm of the larynx	MDM2	1.0	
+Neoplasm of the larynx	TP53	1.0	
+Posttraumatic stress disorder	APOE	1.0	
+Posttraumatic stress disorder	MDM2	1.0	
+Posttraumatic stress disorder	TP53	1.0	
+Frontotemporal dementia, ubiquitin-positive	APOC1	1.0	
+Frontotemporal dementia, ubiquitin-positive	APOE	1.0	
+Frontotemporal dementia, ubiquitin-positive	APP	1.0	
+Abdominal symptom	C5	1.0	
+Abdominal symptom	ESR1	1.0	
+Abdominal symptom	F12	1.0	
+Abdominal symptom	HBB	1.0	
+Abdominal symptom	KRT14	1.0	
+Abdominal symptom	KRT5	1.0	
+Abdominal symptom	PON1	1.0	
+Abdominal symptom	TP53	1.0	
+Abdominal symptom	TTR	1.0	
+Glioblastoma multiforme	AGT	1.0	
+Glioblastoma multiforme	FN1	1.0	
+Glioblastoma multiforme	MDM2	1.0	
+Glioblastoma multiforme	PARP1	1.0	
+Glioblastoma multiforme	TF	1.0	
+Glioblastoma multiforme	TP53	1.0	
+Anaphylactic shock NOS	AGT	1.0	
+Anaphylactic shock NOS	ESR1	1.0	
+Cellulitis	APOE	1.0	
+Cellulitis	ESR1	1.0	
+Leukemia, Plasma Cell	MDM2	1.0	
+Leukemia, Plasma Cell	TP53	1.0	
+Malignant neoplasm of male breast	ESR1	1.0	
+Malignant neoplasm of male breast	TP53	1.0	
+Deep vein thrombosis of lower limb	A2M	1.0	
+Deep vein thrombosis of lower limb	F2	1.0	
+Connective Tissue Diseases	ADH1C	1.0	
+Connective Tissue Diseases	AGT	1.0	
+Connective Tissue Diseases	F2	1.0	
+Connective Tissue Diseases	PON1	1.0	
+Muscle weakness	APP	1.0	
+Muscle weakness	CFH	1.0	
+Muscle weakness	GSN	1.0	
+Muscle weakness	HBB	1.0	
+Muscle weakness	KRT14	1.0	
+Muscle weakness	KRT5	1.0	
+Muscle weakness	PON1	1.0	
+Muscle weakness	TTR	1.0	
+Immune dysfunction with T-cell inactivation due to calcium entry defect 1	ALB	1.0	
+Immune dysfunction with T-cell inactivation due to calcium entry defect 1	CFH	1.0	
+Immune dysfunction with T-cell inactivation due to calcium entry defect 1	ESR1	1.0	
+Immune dysfunction with T-cell inactivation due to calcium entry defect 1	PARP1	1.0	
+Bladder carcinoma	ADH1C	1.0	
+Bladder carcinoma	AGT	1.0	
+Bladder carcinoma	ESR1	1.0	
+Bladder carcinoma	FN1	1.0	
+Bladder carcinoma	GSN	1.0	
+Bladder carcinoma	KRT14	1.0	
+Bladder carcinoma	KRT5	1.0	
+Bladder carcinoma	MDM2	1.0	
+Bladder carcinoma	PARP1	1.0	
+Bladder carcinoma	TP53	1.0	
+AIDS Dementia Complex	APOE	1.0	
+AIDS Dementia Complex	TP53	1.0	
+Tubulointerstitial nephritis	AGT	1.0	
+Tubulointerstitial nephritis	ALB	1.0	
+Deep thrombophlebitis	A2M	1.0	
+Deep thrombophlebitis	F2	1.0	
+Primary Carcinoma	APOC1	1.0	
+Primary Carcinoma	TP53	1.0	
+Nephrotic Syndrome, Minimal Change	ALB	1.0	
+Nephrotic Syndrome, Minimal Change	APOE	1.0	
+Glomerulosclerosis, Focal Segmental	AGT	1.0	
+Glomerulosclerosis, Focal Segmental	ALB	1.0	
+Glomerulosclerosis, Focal Segmental	FN1	1.0	
+Intrahepatic Cholangiocarcinoma	HDAC1	1.0	
+Intrahepatic Cholangiocarcinoma	MDM2	1.0	
+Intrahepatic Cholangiocarcinoma	TP53	1.0	
+Adenoid Cystic Carcinoma	FN1	1.0	
+Adenoid Cystic Carcinoma	KRT5	1.0	
+Adenoid Cystic Carcinoma	MDM2	1.0	
+Adenoid Cystic Carcinoma	TP53	1.0	
+Skin Carcinogenesis	KRT1	1.0	
+Skin Carcinogenesis	PARP1	1.0	
+Skin Carcinogenesis	TP53	1.0	
+Pulmonary arterial hypertension	BDKRB1	1.0	
+Pulmonary arterial hypertension	CFH	1.0	
+Pulmonary arterial hypertension	ESR1	1.0	
+Pulmonary arterial hypertension	HBB	1.0	
+Pulmonary arterial hypertension	PARP1	1.0	
+Symptomatic human immunodeficiency virus infection	ALB	1.0	
+Symptomatic human immunodeficiency virus infection	APOA1	1.0	
+Symptomatic human immunodeficiency virus infection	APOE	1.0	
+Symptomatic human immunodeficiency virus infection	APP	1.0	
+Symptomatic human immunodeficiency virus infection	CFB	1.0	
+Symptomatic human immunodeficiency virus infection	CFH	1.0	
+Symptomatic human immunodeficiency virus infection	ESR1	1.0	
+Symptomatic human immunodeficiency virus infection	FN1	1.0	
+Symptomatic human immunodeficiency virus infection	HBB	1.0	
+Symptomatic human immunodeficiency virus infection	HDAC1	1.0	
+Symptomatic human immunodeficiency virus infection	MDM2	1.0	
+Symptomatic human immunodeficiency virus infection	PARP1	1.0	
+Symptomatic human immunodeficiency virus infection	PON1	1.0	
+Symptomatic human immunodeficiency virus infection	TP53	1.0	
+Fabry disease	AGT	1.0	
+Fabry disease	PON1	1.0	
+Erythroderma, congenital, with palmoplantar keratoderma, hypotrichosis, and hyper-ige	KRT1	1.0	
+Erythroderma, congenital, with palmoplantar keratoderma, hypotrichosis, and hyper-ige	KRT10	1.0	
+Yolk Sac Tumor	ESR1	1.0	
+Yolk Sac Tumor	TP53	1.0	
+Fuchs' Endothelial Dystrophy	FN1	1.0	
+Fuchs' Endothelial Dystrophy	TP53	1.0	
+Age-related cataract	APOE	1.0	
+Age-related cataract	TP53	1.0	
+Thromboangiitis Obliterans	F2	1.0	
+Thromboangiitis Obliterans	PON1	1.0	
+HELLP Syndrome	CFH	1.0	
+HELLP Syndrome	F2	1.0	
+Mammary Carcinoma, Human	ESR1	1.0	
+Mammary Carcinoma, Human	TP53	1.0	
+Pancreatic Carcinoma	ADH1C	1.0	
+Pancreatic Carcinoma	AGT	1.0	
+Pancreatic Carcinoma	APOC1	1.0	
+Pancreatic Carcinoma	DCD	1.0	
+Pancreatic Carcinoma	ESR1	1.0	
+Pancreatic Carcinoma	FN1	1.0	
+Pancreatic Carcinoma	GSN	1.0	
+Pancreatic Carcinoma	HDAC1	1.0	
+Pancreatic Carcinoma	MDM2	1.0	
+Pancreatic Carcinoma	PARP1	1.0	
+Pancreatic Carcinoma	SERPINA3	1.0	
+Pancreatic Carcinoma	TF	1.0	
+Pancreatic Carcinoma	TP53	1.0	
+Neoplasm of the adrenal gland	AGT	1.0	
+Neoplasm of the adrenal gland	MDM2	1.0	
+Neoplasm of the adrenal gland	TP53	1.0	
+Neoplasm of the endocrine system	ESR1	1.0	
+Neoplasm of the endocrine system	MDM2	1.0	
+Neoplasm of the endocrine system	TP53	1.0	
+Retinal detachment	FN1	1.0	
+Retinal detachment	MDM2	1.0	
+Retinal detachment	TP53	1.0	
+Synovitis	FN1	1.0	
+Synovitis	MDM2	1.0	
+Synovitis	TP53	1.0	
+Leiomyoma	ESR1	1.0	
+Leiomyoma	FN1	1.0	
+Leiomyoma	MDM2	1.0	
+Leiomyoma	PARP1	1.0	
+Leiomyoma	TP53	1.0	
+Non-alcoholic Fatty Liver Disease	AGT	1.0	
+Non-alcoholic Fatty Liver Disease	AHSG	1.0	
+Non-alcoholic Fatty Liver Disease	APOE	1.0	
+Non-alcoholic Fatty Liver Disease	F2	1.0	
+Non-alcoholic Fatty Liver Disease	TP53	1.0	
+Headache	APOE	1.0	
+Headache	APP	1.0	
+Headache	TP53	1.0	
+Headache	TTR	1.0	
+Adenosquamous carcinoma	KRT5	1.0	
+Adenosquamous carcinoma	TP53	1.0	
+Anonychia	KRT16	1.0	
+Anonychia	KRT6A	1.0	
+Pediatric Obesity	APOE	1.0	
+Pediatric Obesity	PON1	1.0	
+Huntington's chorea	ALB	1.0	
+Huntington's chorea	APOE	1.0	
+Huntington's chorea	HDAC1	1.0	
+Huntington's chorea	PON1	1.0	
+Huntington's chorea	TP53	1.0	
+Pancreatic adenocarcinoma	HDAC1	1.0	
+Pancreatic adenocarcinoma	MDM2	1.0	
+Pancreatic adenocarcinoma	PARP1	1.0	
+Pancreatic adenocarcinoma	TP53	1.0	
+Pancreatic adenocarcinoma	TTR	1.0	
+Recurrent tumor	ESR1	1.0	
+Recurrent tumor	HDAC1	1.0	
+Recurrent tumor	PARP1	1.0	
+Recurrent tumor	SERPINA3	1.0	
+Recurrent tumor	TP53	1.0	
+Cancer Cell Growth	AGT	1.0	
+Cancer Cell Growth	ESR1	1.0	
+Cancer Cell Growth	HDAC1	1.0	
+Cancer Cell Growth	MDM2	1.0	
+Cancer Cell Growth	TP53	1.0	
+Other disorders of the nervous system	APOE	1.0	
+Other disorders of the nervous system	APP	1.0	
+Other disorders of the nervous system	F2	1.0	
+Other disorders of the nervous system	PARP1	1.0	
+Other disorders of the nervous system	TP53	1.0	
+Other disorders of the nervous system	TTR	1.0	
+Learning Disorders	APOE	1.0	
+Learning Disorders	APP	1.0	
+Trisomy 12	MDM2	1.0	
+Trisomy 12	TP53	1.0	
+Varicella zoster	ALB	1.0	
+Varicella zoster	APOE	1.0	
+Abnormality of the glomerulus	APOE	1.0	
+Abnormality of the glomerulus	CFH	1.0	
+Abnormality of the glomerulus	FN1	1.0	
+Nodule	APOA1	1.0	
+Nodule	ESR1	1.0	
+Nodule	TP53	1.0	
+Gastric ulcer	BDKRB1	1.0	
+Gastric ulcer	FN1	1.0	
+Gastric ulcer	TP53	1.0	
+Renovascular hypertension	AGT	1.0	
+Renovascular hypertension	FN1	1.0	
+Anterior uveitis	CFB	1.0	
+Anterior uveitis	CFH	1.0	
+Virilism	APOE	1.0	
+Virilism	PON1	1.0	
+Increased antibody level in blood	KRT1	1.0	
+Increased antibody level in blood	KRT9	1.0	
+Visceromegaly	APOA1	1.0	
+Visceromegaly	APOE	1.0	
+Visceromegaly	HBB	1.0	
+Visceromegaly	KRT16	1.0	
+Visceromegaly	KRT6A	1.0	
+Visceromegaly	TP53	1.0	
+Triple Negative Breast Neoplasms	ESR1	1.0	
+Triple Negative Breast Neoplasms	FN1	1.0	
+Triple Negative Breast Neoplasms	KRT14	1.0	
+Triple Negative Breast Neoplasms	MDM2	1.0	
+Triple Negative Breast Neoplasms	PARP1	1.0	
+Triple Negative Breast Neoplasms	TP53	1.0	
+Cervical intraepithelial neoplasia (Cervical dysplasia)	AGT	1.0	
+Cervical intraepithelial neoplasia (Cervical dysplasia)	KRT14	1.0	
+Cervical intraepithelial neoplasia (Cervical dysplasia)	MDM2	1.0	
+Cervical intraepithelial neoplasia (Cervical dysplasia)	TP53	1.0	
+Abnormality of the pancreas	APOE	1.0	
+Abnormality of the pancreas	MDM2	1.0	
+Abnormality of the pancreas	TF	1.0	
+Abnormality of the pancreas	TP53	1.0	
+Psychotic Disorders	APOE	1.0	
+Psychotic Disorders	APP	1.0	
+Psychotic Disorders	ESR1	1.0	
+Psychotic Disorders	ITIH3	1.0	
+Psychotic Disorders	TOMM40	1.0	
+Solid tumour	AGT	1.0	
+Solid tumour	ALB	1.0	
+Solid tumour	ESR1	1.0	
+Solid tumour	FN1	1.0	
+Solid tumour	ITIH1	1.0	
+Solid tumour	MDM2	1.0	
+Solid tumour	PARP1	1.0	
+Solid tumour	TP53	1.0	
+Urinary Bladder Neoplasms	ESR1	1.0	
+Urinary Bladder Neoplasms	GSN	1.0	
+Urinary Bladder Neoplasms	KRT16	1.0	
+Urinary Bladder Neoplasms	KRT5	1.0	
+Urinary Bladder Neoplasms	MDM2	1.0	
+Urinary Bladder Neoplasms	TP53	1.0	
+Knee osteoarthritis	ESR1	1.0	
+Knee osteoarthritis	FN1	1.0	
+Knee osteoarthritis	PON1	1.0	
+Abnormality of the lower limb	FN1	1.0	
+Abnormality of the lower limb	HBB	1.0	
+Abnormality of the lower limb	KRT1	1.0	
+Abnormality of the lower limb	KRT10	1.0	
+Abnormality of the lower limb	KRT14	1.0	
+Abnormality of the lower limb	KRT16	1.0	
+Abnormality of the lower limb	KRT5	1.0	
+Abnormality of the lower limb	KRT6A	1.0	
+Abnormality of the lower limb	KRT9	1.0	
+Von Willebrand disease, recessive form	F2	1.0	
+Von Willebrand disease, recessive form	ITIH1	1.0	
+Hepatocellular adenoma	A2M	1.0	
+Hepatocellular adenoma	TP53	1.0	
+Ganglioneuroblastoma	MDM2	1.0	
+Ganglioneuroblastoma	TP53	1.0	
+Acute Cerebrovascular Accidents	APOE	1.0	
+Acute Cerebrovascular Accidents	F2	1.0	
+Uterine leiomyoma	ESR1	1.0	
+Uterine leiomyoma	FN1	1.0	
+Uterine leiomyoma	MDM2	1.0	
+Uterine leiomyoma	PON1	1.0	
+Uterine leiomyoma	TP53	1.0	
+Hypertriglyceridemia	APOA1	1.0	
+Hypertriglyceridemia	APOA2	1.0	
+Hypertriglyceridemia	APOE	1.0	
+Vascular inflammations	AGT	1.0	
+Vascular inflammations	APOA1	1.0	
+Vascular inflammations	APOE	1.0	
+Ovarian epithelial cancer	AGT	1.0	
+Ovarian epithelial cancer	ALB	1.0	
+Ovarian epithelial cancer	APOA1	1.0	
+Ovarian epithelial cancer	APOE	1.0	
+Ovarian epithelial cancer	ESR1	1.0	
+Ovarian epithelial cancer	F2	1.0	
+Ovarian epithelial cancer	FN1	1.0	
+Ovarian epithelial cancer	GSN	1.0	
+Ovarian epithelial cancer	HBB	1.0	
+Ovarian epithelial cancer	HDAC1	1.0	
+Ovarian epithelial cancer	KRT9	1.0	
+Ovarian epithelial cancer	MDM2	1.0	
+Ovarian epithelial cancer	PARP1	1.0	
+Ovarian epithelial cancer	PON1	1.0	
+Ovarian epithelial cancer	TP53	1.0	
+Abnormality of the urinary system	AGT	1.0	
+Abnormality of the urinary system	APOA1	1.0	
+Abnormality of the urinary system	APOE	1.0	
+Abnormality of the urinary system	CFH	1.0	
+Abnormality of the urinary system	FN1	1.0	
+Abnormality of the urinary system	GSN	1.0	
+Abnormality of the urinary system	HBB	1.0	
+Abnormality of the urinary system	MDM2	1.0	
+Abnormality of the urinary system	TP53	1.0	
+Abnormality of the urinary system	TTR	1.0	
+Head and Neck Neoplasms	ADH1C	1.0	
+Head and Neck Neoplasms	APOE	1.0	
+Head and Neck Neoplasms	MDM2	1.0	
+Head and Neck Neoplasms	PON1	1.0	
+Head and Neck Neoplasms	TP53	1.0	
+Metastatic melanoma	FN1	1.0	
+Metastatic melanoma	HDAC1	1.0	
+Metastatic melanoma	MDM2	1.0	
+Metastatic melanoma	PARP1	1.0	
+Metastatic melanoma	TP53	1.0	
+Hemoglobinopathy	HBB	1.0	
+Hemoglobinopathy	PON1	1.0	
+stage, non-small cell lung cancer	MDM2	1.0	
+stage, non-small cell lung cancer	TP53	1.0	
+Vascular lesions	APOE	1.0	
+Vascular lesions	TP53	1.0	
+Seizures, Febrile	AGT	1.0	
+Seizures, Febrile	AHSG	1.0	
+Seizures, Febrile	ALB	1.0	
+Seizures, Febrile	APOA1	1.0	
+Seizures, Febrile	APOE	1.0	
+Seizures, Febrile	APP	1.0	
+Seizures, Febrile	ESR1	1.0	
+Seizures, Febrile	F2	1.0	
+Seizures, Febrile	FN1	1.0	
+Seizures, Febrile	MDM2	1.0	
+Seizures, Febrile	TP53	1.0	
+Seizures, Febrile	TTR	1.0	
+Ependymoma	MDM2	1.0	
+Ependymoma	TP53	1.0	
+Ependymoma	TTR	1.0	
+Hepatocarcinogenesis	AGT	1.0	
+Hepatocarcinogenesis	ALB	1.0	
+Hepatocarcinogenesis	ESR1	1.0	
+Hepatocarcinogenesis	HDAC1	1.0	
+Hepatocarcinogenesis	MDM2	1.0	
+Hepatocarcinogenesis	TP53	1.0	
+Secondary malignant neoplasm of pancreas	A2M	1.0	
+Secondary malignant neoplasm of pancreas	AGT	1.0	
+Secondary malignant neoplasm of pancreas	ALB	1.0	
+Secondary malignant neoplasm of pancreas	APOE	1.0	
+Secondary malignant neoplasm of pancreas	CFH	1.0	
+Secondary malignant neoplasm of pancreas	ESR1	1.0	
+Secondary malignant neoplasm of pancreas	FN1	1.0	
+Secondary malignant neoplasm of pancreas	GSN	1.0	
+Secondary malignant neoplasm of pancreas	HBB	1.0	
+Secondary malignant neoplasm of pancreas	HDAC1	1.0	
+Secondary malignant neoplasm of pancreas	MDM2	1.0	
+Secondary malignant neoplasm of pancreas	TP53	1.0	
+Malignant neoplasm of female breast	ESR1	1.0	
+Malignant neoplasm of female breast	TP53	1.0	
+Hereditary breast and ovarian cancer syndrome	PARP1	1.0	
+Hereditary breast and ovarian cancer syndrome	TP53	1.0	
+Liposarcoma	A2M	1.0	
+Liposarcoma	MDM2	1.0	
+Liposarcoma	TP53	1.0	
+Depressive Symptoms	APOE	1.0	
+Depressive Symptoms	ESR1	1.0	
+Depressive Symptoms	PON1	1.0	
+Duchenne muscular dystrophy	CFH	1.0	
+Duchenne muscular dystrophy	FN1	1.0	
+Duchenne muscular dystrophy	PARP1	1.0	
+Tauopathies	APOE	1.0	
+Tauopathies	SERPINA3	1.0	
+Tauopathies	TP53	1.0	
+Pain	ALB	1.0	
+Pain	BDKRB1	1.0	
+Pain	ESR1	1.0	
+Pain	F12	1.0	
+Pain	HBB	1.0	
+Pain	PON1	1.0	
+Pain	TP53	1.0	
+Guillain-Barre syndrome, familial	ALB	1.0	
+Guillain-Barre syndrome, familial	APOE	1.0	
+Leukoplakia	MDM2	1.0	
+Leukoplakia	TP53	1.0	
+Prenatal Exposure Delayed Effects	ADH1C	1.0	
+Prenatal Exposure Delayed Effects	APOE	1.0	
+Squamous intraepithelial lesion	KRT14	1.0	
+Squamous intraepithelial lesion	TP53	1.0	
+Lehman syndrome	ESR1	1.0	
+Lehman syndrome	TP53	1.0	
+Neoplasm of the skeletal system	MDM2	1.0	
+Neoplasm of the skeletal system	TP53	1.0	
+Idiopathic Pulmonary Fibrosis	AGT	1.0	
+Idiopathic Pulmonary Fibrosis	ALB	1.0	
+Idiopathic Pulmonary Fibrosis	APOA1	1.0	
+Idiopathic Pulmonary Fibrosis	FN1	1.0	
+Idiopathic Pulmonary Fibrosis	TP53	1.0	
+Skin cancer	ADH1C	1.0	
+Skin cancer	AGT	1.0	
+Skin cancer	MDM2	1.0	
+Skin cancer	TP53	1.0	
+Abnormality of the genitourinary system	AGT	1.0	
+Abnormality of the genitourinary system	APOA1	1.0	
+Abnormality of the genitourinary system	APOE	1.0	
+Abnormality of the genitourinary system	CFH	1.0	
+Abnormality of the genitourinary system	ESR1	1.0	
+Abnormality of the genitourinary system	F2	1.0	
+Abnormality of the genitourinary system	FN1	1.0	
+Abnormality of the genitourinary system	GSN	1.0	
+Abnormality of the genitourinary system	HBB	1.0	
+Abnormality of the genitourinary system	MDM2	1.0	
+Abnormality of the genitourinary system	TP53	1.0	
+Abnormality of the genitourinary system	TTR	1.0	
+Neurofibromas	FN1	1.0	
+Neurofibromas	TP53	1.0	
+Urticaria Pigmentosa	KRT14	1.0	
+Urticaria Pigmentosa	PARP1	1.0	
+Primary hyperparathyroidism	ALB	1.0	
+Primary hyperparathyroidism	ESR1	1.0	
+Cervical Adenocarcinoma	FN1	1.0	
+Cervical Adenocarcinoma	TP53	1.0	
+Drug Resistant Epilepsy	ALB	1.0	
+Drug Resistant Epilepsy	APOE	1.0	

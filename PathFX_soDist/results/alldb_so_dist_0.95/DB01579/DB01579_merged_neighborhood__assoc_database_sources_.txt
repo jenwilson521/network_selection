@@ -1,0 +1,100 @@
+Gene	CUI	Source Databases	
+ADRA1A	C0013146	Methamphetamine abuse	DisGeNet	
+SLC6A2	C0013146	Methamphetamine abuse	DisGeNet	
+ADRA1A	C0040517	Tourette Syndrome	DisGeNet	
+SLC6A2	C0040517	Tourette Syndrome	DisGeNet	
+ADRA1A	C0220659	 Acrodysostosis 1, with or without hormone resistance, 101800 (3)	DisGeNet	
+SLC6A2	C1827377	Slow acetylator due to N-acetyltransferase enzyme variant	DisGeNet	
+ADRA1A	C1864100	Pseudohypoparathyroidism, type IB, 603233 (3)	DisGeNet	
+SLC6A2	C0011436	Dentinogenesis imperfecta	DisGeNet	
+ADRA1A	C0036396	Chronic sciatica	DisGeNet	
+SLC6A2	C0154409	Recurrent major depressive episodes	DisGeNet	
+SLC6A2	C0264423	Asthma, Occupational	DisGeNet	
+SLC6A2	C0004930	Behavior Disorders	DisGeNet	
+ADRA1A	C0030517	Disorders of parathyroid gland	DisGeNet	
+ADRA1A	C0598428	genetic hypertension	DisGeNet	
+ADRA1A	C0020071	Hereditary Sensory Autonomic Neuropathy, Type 1	DisGeNet	
+ADRA1A	C0005694	Bladder neck obstruction	DisGeNet	
+SLC6A2	C3266076	Orofacial cleft	DisGeNet	
+ADRA1A	C0235290	Taste bitter	DisGeNet	
+ADRA1A	C1141890	Congenital long QT syndrome	DisGeNet	
+SLC6A2	C0004030	Systemic aspergillosis	DisGeNet	
+ADRA1A	C0392164	Pulmonary Cystic Fibrosis	DisGeNet	
+ADRA1A	C0152020	Gastroparesis	DisGeNet	
+ADRA1A	C0221765	Chronic schizophrenia	DisGeNet	
+ADRA1A	C0342345	Hypoparathyroidism - autosomal dominant	DisGeNet	
+ADRA1A	C1516170	Cancer Cell Growth	DisGeNet	
+SLC6A2	C1516170	Cancer Cell Growth	DisGeNet	
+ADRA1A	C0030201	Acute postoperative pain	DisGeNet	
+ADRA1A	C0001314	Acute disease of cardiovascular system	DisGeNet	
+ADRA1A	C0027719	Nephrosclerosis	DisGeNet	
+SLC6A2	C0031212	Personality disorder	DisGeNet	
+ADRA1A	C0235480	Paroxysmal atrial fibrillation	DisGeNet	
+ADRA1A	C0268318	Cholestasis of pregnancy	DisGeNet	
+ADRA1A	C0024031	Low back pain	DisGeNet	
+ADRA1A	C0162283	Nephrogenic diabetes insipidus, autosomal	DisGeNet	
+SLC6A2	C0012739	Disseminated intravascular coagulation	DisGeNet	
+SLC6A2	C2911645	Weight Loss Adverse Event	DisGeNet	
+ADRA1A	C0016053	Fibromyalgia	DisGeNet	
+ADRA1A	C0003469	Anxiety Disorders	DisGeNet	
+SLC6A2	C0003469	Anxiety Disorders	DisGeNet	
+ADRA1A	C0013386	Dyskinesia, Drug-Induced	DisGeNet	
+SLC6A2	C4022952	Abnormal autonomic nervous system physiology	HumPhenOnt	
+ADRA1A	C0152136	Low Tension Glaucoma	DisGeNet	
+SLC6A2	C0158646	Cleft palate with cleft lip	DisGeNet	
+ADRA1A	C0025261	Memory Disorders	DisGeNet	
+ADRA1A	C0234251	Inflammatory pain	DisGeNet	
+ADRA1A	C1272641	Systemic arterial pressure	DisGeNet	
+SLC6A2	C1272641	Systemic arterial pressure	DisGeNet	
+ADRA1A	C0162809	Hypogonadism with anosmia	DisGeNet	
+SLC6A2	C0019337	Heroin Dependence	DisGeNet	
+SLC6A2	C0949059	Colorectal polyposis	DisGeNet	
+ADRA1A	C1269683	Major depressive disorder	DisGeNet	
+SLC6A2	C1269683	Major depressive disorder	DisGeNet	
+ADRA1A	C0042024	Urinary incontinence	DisGeNet	
+SLC6A2	C0025268	Multiple Endocrine Neoplasia Type 2a	DisGeNet	
+SLC6A2	C1337011	Well Differentiated Pancreatic Endocrine Tumor	DisGeNet	
+SLC6A2	C0432306	Ichthyosis bullosa of Siemens	DisGeNet	
+ADRA1A	C1263846	Attention deficit hyperactivity disorder	DisGeNet	
+SLC6A2	C1263846	Attention deficit hyperactivity disorder	DisGeNet	
+SLC6A2	C0018203	Granulomatous disease, chronic, autosomal recessive, cytochrome b-negative	DisGeNet	
+SLC6A2	C1868649	Panic disorder 1	DisGeNet	
+SLC6A2	C0025267	Multiple Endocrine Neoplasia Type 1	DisGeNet	
+ADRA1A	C0036337	Schizoaffective Disorder	DisGeNet	
+SLC6A2	C0017178	Gastrointestinal Diseases	DisGeNet	
+SLC6A2	C0026267	Mitral Valve Prolapse	DisGeNet	
+SLC6A2	C0006840	Candidiasis, familial, 9	DisGeNet	
+ADRA1A	C0019340	Herpes NOS	DisGeNet	
+ADRA1A	C0001916	Albinism, ocular, with sensorineural deafness	DisGeNet	
+SLC6A2	C0151942	Arterial thrombosis	DisGeNet	
+SLC6A2	C0007789	Cerebral palsy, spastic quadriplegic, 3	DisGeNet	
+SLC6A2	C0343401	Methicillin resistant Staphylococcus aureus	DisGeNet	
+SLC6A2	C0333983	Hyperplastic Polyp	DisGeNet	
+SLC6A2	C0004610	Bacteremia, susceptibility to, 2	DisGeNet	
+SLC6A2	C0003125	Anorexia nervosa 1	DisGeNet	
+SLC6A2	C0019562	Von Hippel-Lindau syndrome	DisGeNet	
+SLC6A2	C0747845	early pregnancy	DisGeNet	
+SLC6A2	C0030319	Panic disorder syndrome 1 (2)	DisGeNet	
+ADRA1A	C1292753	Primary Effusion Lymphoma	DisGeNet	
+ADRA1A	C0020649	Hypotension	DisGeNet	
+SLC6A2	C0752347	Lewy Body Disease	DisGeNet	
+SLC6A2	C0751688	 {Aerodigestive tract cancer, squamous cell, alcohol-related, protection against} (3)	DisGeNet	
+ADRA1A	C1337013	Differentiated Thyroid Gland Carcinoma	DisGeNet	
+ADRA1A	C0033774	Pruritus	DisGeNet	
+ADRA1A	C0018802	Congestive heart failure	DisGeNet	
+SLC6A2	C0018802	Congestive heart failure	DisGeNet	
+ADRA1A	C0018801	Heart Failure	DisGeNet	
+SLC6A2	C0018801	Heart Failure	DisGeNet	
+SLC6A2	C4025714	Abnormality of the autonomic nervous system	HumPhenOnt	
+SLC6A2	C4073187	Abnormality of the peripheral nervous system	HumPhenOnt	
+ADRA1A	C0005586	Bipolar affective disorder	DisGeNet	
+SLC6A2	C0005586	Bipolar affective disorder	DisGeNet	
+SLC6A2	C3827868	Tachycardia	DisGeNet	
+ADRA1A	C1168401	Squamous cell carcinoma of the head and neck	DisGeNet	
+SLC6A2	C1168401	Squamous cell carcinoma of the head and neck	DisGeNet	
+SLC6A2	C0027831	Neurofibromatosis, type 1, 162200 (3)	DisGeNet	
+ADRA1A	C0410226	Congenital Myotonic Dystrophy	DisGeNet	
+ADRA1A	C0027126	Steinert myotonic dystrophy syndrome	DisGeNet	
+SLC6A2	C0022104	Irritable bowel syndrome with diarrhea	DisGeNet	
+ADRA1A	C0085129	Bronchial Hyperreactivity	DisGeNet	
+SLC6A2	C0006012	Borderline Personality Disorder	DisGeNet	

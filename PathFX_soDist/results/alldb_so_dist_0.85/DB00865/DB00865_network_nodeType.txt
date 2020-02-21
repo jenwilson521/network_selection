@@ -1,0 +1,26 @@
+node_name	node_type	
+DB00865	drug	
+SLC6A3	drug_target	
+ADRA1A	drug_target	
+CYP2B6	drug_target	
+POR	drug_target	
+ADRA2A	drug_target	
+SLC18A2	drug_target	
+CYP3A4	drug_target	
+Chronic schizophrenia	phenotype	
+Adrenal hyperplasia	phenotype	
+gliosarcoma	phenotype	
+Tardive Dyskinesia	phenotype	
+Orofacial dyskinesia	phenotype	
+Chronic sciatica	phenotype	
+Behavior Disorders	phenotype	
+Congenital long QT syndrome	phenotype	
+Enzyme inhibition disorder	phenotype	
+Cocaine delirium	phenotype	
+Methamphetamine abuse	phenotype	
+Acute postoperative pain	phenotype	
+Acute disease of cardiovascular system	phenotype	
+21-hydroxylase deficiency	phenotype	
+Low back pain	phenotype	
+Anxiety Disorders	phenotype	
+Drug usage	phenotype	

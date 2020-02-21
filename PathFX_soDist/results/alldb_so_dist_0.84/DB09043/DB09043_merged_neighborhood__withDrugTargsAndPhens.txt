@@ -1,0 +1,16 @@
+node1	node2	edge_score	
+DB09043	GLP1R	1.0	
+GLP1R	rs6923761	0.99
+GLP1R		1.0
+GLP1R	rs10305420	0.99
+GLP1R	rs2268639	0.99
+Arteriovenous fistula	GLP1R	1.0	
+Obstructive lung disease	GLP1R	1.0	
+Cholera	GLP1R	1.0	
+Diabetic Angiopathies	GLP1R	1.0	
+Maturity-onset diabetes of the young, type 11	GLP1R	1.0	
+Intraepithelial Neoplasia	GLP1R	1.0	
+Anorexia	GLP1R	1.0	
+Hyperplasia	GLP1R	1.0	
+Insulinoma	GLP1R	1.0	
+Nonalcoholic Steatohepatitis	GLP1R	1.0	

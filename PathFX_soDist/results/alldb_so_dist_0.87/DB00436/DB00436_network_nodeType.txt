@@ -1,0 +1,25 @@
+node_name	node_type	
+DB00436	drug	
+CA2	drug_target	
+CA1	drug_target	
+TPMT	drug_target	
+KCNMA1	drug_target	
+CA4	drug_target	
+SLC12A3	drug_target	
+Primary hyperaldosteronism	phenotype	
+Familial hypokalemia-hypomagnesemia	phenotype	
+Treacher Collins syndrome	phenotype	
+Febrile Neutropenia	phenotype	
+Bladder neck obstruction	phenotype	
+Chondrocalcinosis	phenotype	
+Renal tubular acidosis, distal, autosomal dominant	phenotype	
+Metabolic Bone Disorder	phenotype	
+Abnormal urine output	phenotype	
+Hypervolemia	phenotype	
+Germinoma	phenotype	
+Abnormal drinking behavior	phenotype	
+Nemaline myopathy	phenotype	
+Myelosuppression	phenotype	
+Abnormality of renal excretion	phenotype	
+Complete trisomy 18 syndrome	phenotype	
+Noonan syndrome with multiple lentigines	phenotype	

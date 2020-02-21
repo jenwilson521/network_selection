@@ -1,0 +1,90 @@
+Gene	CUI	Source Databases	
+GABBR1	C0029421	Osteochondritis dissecans	DisGeNet	
+GRIN2B	C0029421	Osteochondritis dissecans	DisGeNet	
+GABBR1	C0028768	Obsessive-compulsive disorder	DisGeNet	
+GRIN2B	C0028768	Obsessive-compulsive disorder	DisGeNet	
+GABBR1	C0027796	Neuralgia	DisGeNet	
+GRIN2B	C0027796	Neuralgia	DisGeNet	
+GABBR1	C0476254	Dyslexia 1	DisGeNet	
+GRIN2B	C0476254	Dyslexia 1	DisGeNet	
+ALB	C0020649	Hypotension	DisGeNet,HumPhenOnt	
+GRIN2B	C0020649	Hypotension	DisGeNet	
+GRIN2B	C0032051	Placental Insufficiency	DisGeNet	
+ALB	C0346402	Malignant neoplasm of adrenal cortex	DisGeNet	
+ALB	C0014867	Esophageal varix	DisGeNet	
+ALB	C0451641	Urolithiasis	DisGeNet	
+GABBR1	C0014556	Epilepsy, Temporal Lobe	DisGeNet	
+GRIN2B	C0014556	Epilepsy, Temporal Lobe	DisGeNet	
+ALB	C0013502	Echinococcosis	DisGeNet	
+KRT9	C0079298	Epidermolysis bullosa simplex, Cockayne-Touraine type	DisGeNet	
+KRT9	C0240641	Palmar hyperkeratosis	HumPhenOnt	
+GRIN2B	C0795864	Smith-Magenis syndrome	DisGeNet	
+ALB	C0339467	Proliferative retinopathy	DisGeNet	
+KRT9	C0043037	Verrucae	HumPhenOnt	
+ALB	C3714796	Isolated somatotropin deficiency	DisGeNet	
+ALB	C0038586	Substance Use Disorders	DisGeNet	
+GRIN2B	C0236663	Alcohol withdrawal syndrome	DisGeNet	
+ALB	C0751781	Dentatorubral pallidoluysian atrophy	DisGeNet	
+ALB	C0002985	Angiokeratoma	DisGeNet	
+ALB	C0013338	Isolated growth hormone deficiency type 1B	DisGeNet	
+KRT9	C1856954	Plantar hyperkeratosis	HumPhenOnt	
+ALB	C0030193	Pain	DisGeNet	
+GABBR1	C0030193	Pain	DisGeNet	
+GRIN2B	C0030193	Pain	DisGeNet	
+ALB	C0031039	Pericardial effusion	DisGeNet	
+GRIN2B	C0011206	Cocaine delirium	DisGeNet	
+ALB	C0026780	Mumps	DisGeNet	
+ALB	C0035457	Rhinitis, Allergic, Perennial	DisGeNet	
+ALB	C0342200	Endemic Cretinism	DisGeNet	
+ALB	C0206734	Hemangioblastoma	DisGeNet	
+GABBR1	C0036429	Sclerosis	DisGeNet	
+ALB	C0017662	Mesangiocapillary glomerulonephritis, type II	DisGeNet	
+ALB	C0027719	Nephrosclerosis	DisGeNet	
+GRIN2B	C0031212	Personality disorder	DisGeNet	
+ALB	C0235025	Peripheral motor neuropathy	DisGeNet	
+ALB	C0745744	End Stage Liver Disease	DisGeNet	
+ALB	C0014544	Epilepsy	DisGeNet	
+GABBR1	C0014544	Epilepsy	DisGeNet	
+GRIN2B	C0014544	Epilepsy	DisGeNet	
+ALB	C4023036	Abnormal albumin level	HumPhenOnt	
+GRIN2B	C0524662	Opiate Addiction	DisGeNet	
+ALB	C0007121	Bronchogenic Carcinoma	DisGeNet	
+GABBR1	C0233794	Memory impairment	DisGeNet	
+GRIN2B	C0233794	Memory impairment	DisGeNet	
+ALB	C0010051	Coronary artery aneurysm	DisGeNet	
+ALB	C0020476	Hyperlipoproteinemia	DisGeNet	
+ALB	C0745103	Hyperlipoproteinemia Type IIa	DisGeNet	
+ALB	C0085584	Encephalopathy, acute, infection-induced, 4, susceptibility to	DisGeNet	
+GRIN2B	C0085584	Encephalopathy, acute, infection-induced, 4, susceptibility to	HumPhenOnt	
+ALB	C0027707	Tubulointerstitial nephritis	DisGeNet	
+GABBR1	C0270853	Juvenile myoclonic epilepsy	DisGeNet	
+ALB	C1298180	Single tumor	DisGeNet	
+ALB	C1704321	Nephrotic Syndrome, Minimal Change	DisGeNet	
+GABBR1	C1504404	Hippocampal sclerosis	DisGeNet	
+KRT9	C0037277	Skin Diseases, Genetic	DisGeNet	
+ALB	C0740380	Varicella zoster	DisGeNet	
+ALB	C1260959	Drusen	DisGeNet	
+KRT9	C0151669	Increased antibody level in blood	HumPhenOnt	
+ALB	C3714619	Insulin resistance syndrome	DisGeNet	
+ALB	C0027720	Nephrosis	DisGeNet	
+ALB	C0018378	Guillain-Barre syndrome, familial	DisGeNet	
+ALB	C0221002	Primary hyperparathyroidism	DisGeNet	
+ALB	C1096063	Drug Resistant Epilepsy	DisGeNet	
+GRIN2B	C0014547	Epilepsy, focal, with speech disorder and with or without mental retardation	DisGeNet	
+GRIN2B	C0750974	Brain Tumor, Primary	DisGeNet	
+ALB	C0035126	Reperfusion Injury	DisGeNet	
+GRIN2B	C0035126	Reperfusion Injury	DisGeNet	
+GRIN2B	C0008074	Child Development Disorders, Pervasive	DisGeNet	
+ALB	C0035242	Respiratory Tract Diseases	DisGeNet	
+ALB	C0086981	Sicca Syndrome	DisGeNet	
+ALB	C0239981	Hypoalbuminemia	DisGeNet,HumPhenOnt	
+ALB	C0030286	Neurologic, endocrine, and pancreatic disease, multisystem, infantile-onset	DisGeNet	
+KRT9	C4020946	Abnormality of the plantar skin of foot	HumPhenOnt	
+ALB	C0020179	Huntington's chorea	DisGeNet	
+GRIN2B	C0020179	Huntington's chorea	DisGeNet	
+ALB	C0010308	Congenital hypothyroidism	DisGeNet	
+ALB	C0041755	Adverse drug events and drug allergies	DisGeNet	
+GRIN2B	C0431380	Cortical dysplasia, complex, with other brain malformations 3	DisGeNet	
+GRIN2B	C0002622	Memory Loss	DisGeNet	
+GABBR1	C0270850	Idiopathic generalized epilepsy	DisGeNet	
+GRIN2B	C1854882	Absent speech	HumPhenOnt	

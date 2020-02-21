@@ -1,0 +1,20 @@
+node_name	node_type	
+DB06151	drug	
+GRIN2B	drug_target	
+GSS	drug_target	
+CHUK	drug_target	
+SLC7A11	drug_target	
+IKBKB	drug_target	
+SLC22A6	drug_target	
+GRIN2A	drug_target	
+GRIN2D	drug_target	
+GRIN1	drug_target	
+SLCO1B1	drug_target	
+ACY1	drug_target	
+GRIN3A	drug_target	
+Placental Insufficiency	phenotype	
+Alcohol withdrawal syndrome	phenotype	
+Cocaine delirium	phenotype	
+Weight Gain Adverse Event	phenotype	
+Hypoxia-Ischemia, Brain	phenotype	
+Malformation of cortical development	phenotype	

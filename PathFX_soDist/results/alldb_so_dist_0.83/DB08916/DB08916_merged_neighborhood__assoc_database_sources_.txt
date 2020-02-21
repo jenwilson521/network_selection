@@ -1,0 +1,100 @@
+Gene	CUI	Source Databases	
+ABCG2	C0278838	Prostate cancer recurrent	DisGeNet	
+EGFR	C0278838	Prostate cancer recurrent	DisGeNet	
+ERBB2	C0278838	Prostate cancer recurrent	DisGeNet	
+ABCB1	C0280220	Ovarian epithelial cancer stage III	DisGeNet	
+ABCG2	C0280220	Ovarian epithelial cancer stage III	DisGeNet	
+ERBB2	C0280220	Ovarian epithelial cancer stage III	DisGeNet	
+ABCB1	C0153567	Uterine Cancer	DisGeNet	
+EGFR	C0153567	Uterine Cancer	DisGeNet	
+ERBB2	C0153567	Uterine Cancer	DisGeNet	
+ABCB1	C0858252	Breast adenocarcinoma	DisGeNet	
+ABCG2	C0858252	Breast adenocarcinoma	DisGeNet	
+EGFR	C0858252	Breast adenocarcinoma	DisGeNet	
+ERBB2	C0858252	Breast adenocarcinoma	DisGeNet	
+ABCG2	C0206695	Carcinoma, Neuroendocrine	DisGeNet	
+EGFR	C0206695	Carcinoma, Neuroendocrine	DisGeNet	
+ERBB2	C0206695	Carcinoma, Neuroendocrine	DisGeNet	
+ABCB1	C0014474	Ependymoma	DisGeNet	
+ABCG2	C0014474	Ependymoma	DisGeNet	
+EGFR	C0014474	Ependymoma	DisGeNet	
+ERBB2	C0014474	Ependymoma	HumPhenOnt	
+ABCB1	C0206694	Intraosseous mucoepidermoid carcinoma	DisGeNet	
+EGFR	C0206694	Intraosseous mucoepidermoid carcinoma	DisGeNet	
+ERBB2	C0206694	Intraosseous mucoepidermoid carcinoma	DisGeNet	
+ABCB1	C0677936	Refractory cancer	DisGeNet	
+EGFR	C0677936	Refractory cancer	DisGeNet	
+ERBB2	C0677936	Refractory cancer	DisGeNet	
+ABCB1	C2986665	Early-Stage Breast Carcinoma	DisGeNet	
+EGFR	C2986665	Early-Stage Breast Carcinoma	DisGeNet	
+ERBB2	C2986665	Early-Stage Breast Carcinoma	DisGeNet	
+EGFR	C0001420	Papillary adenocarcinoma	DisGeNet	
+ERBB2	C0001420	Papillary adenocarcinoma	DisGeNet	
+ABCG2	C0032229	Pleural Neoplasms	DisGeNet	
+EGFR	C0032229	Pleural Neoplasms	DisGeNet	
+EGFR	C3809250	Estrogen resistance	DisGeNet	
+ERBB2	C3809250	Estrogen resistance	DisGeNet	
+ABCG2	C0279651	Gallbladder adenocarcinoma	DisGeNet	
+ERBB2	C0279651	Gallbladder adenocarcinoma	DisGeNet	
+ABCB1	C1654637	androgen independent prostate cancer	DisGeNet	
+ABCG2	C1654637	androgen independent prostate cancer	DisGeNet	
+EGFR	C1654637	androgen independent prostate cancer	DisGeNet	
+ERBB2	C1654637	androgen independent prostate cancer	DisGeNet	
+ABCB1	C0153633	Malignant neoplasm of brain and nervous system	DisGeNet	
+ABCG2	C0153633	Malignant neoplasm of brain and nervous system	DisGeNet	
+EGFR	C0153633	Malignant neoplasm of brain and nervous system	DisGeNet	
+ERBB2	C0153633	Malignant neoplasm of brain and nervous system	DisGeNet	
+EGFR	C0278493	Breast cancer recurrent	DisGeNet	
+ERBB2	C0278493	Breast cancer recurrent	DisGeNet	
+ABCB1	C0034341	Pyruvate carboxylase deficiency	DisGeNet	
+EGFR	C0034341	Pyruvate carboxylase deficiency	DisGeNet	
+ABCG2	C0206720	Squamous Cell Neoplasms	DisGeNet	
+EGFR	C0206720	Squamous Cell Neoplasms	DisGeNet	
+ABCG2	C0206139	Lichen Planus, Oral	DisGeNet	
+EGFR	C0206139	Lichen Planus, Oral	DisGeNet	
+ERBB2	C0206139	Lichen Planus, Oral	DisGeNet	
+EGFR	C1322286	Thymic Carcinoma	DisGeNet	
+ERBB2	C1322286	Thymic Carcinoma	DisGeNet	
+ABCB1	C0027439	Nasopharyngeal Neoplasms	DisGeNet	
+EGFR	C0027439	Nasopharyngeal Neoplasms	DisGeNet	
+ERBB2	C0027439	Nasopharyngeal Neoplasms	DisGeNet	
+ABCB1	C0007120	Alveolar cell carcinoma	DisGeNet	
+EGFR	C0007120	Alveolar cell carcinoma	DisGeNet,HumPhenOnt	
+ERBB2	C0007120	Alveolar cell carcinoma	DisGeNet,HumPhenOnt	
+EGFR	C0017150	Gastrinoma	DisGeNet	
+ERBB2	C0017150	Gastrinoma	DisGeNet	
+EGFR	C0162359	Hypohidrotic X-linked ectodermal dysplasia	DisGeNet	
+TRAF6	C0162359	Hypohidrotic X-linked ectodermal dysplasia	DisGeNet	
+ABCB1	C1168327	High-Grade Prostatic Intraepithelial Neoplasia	DisGeNet	
+EGFR	C1168327	High-Grade Prostatic Intraepithelial Neoplasia	DisGeNet	
+ERBB2	C1168327	High-Grade Prostatic Intraepithelial Neoplasia	DisGeNet	
+EGFR	C0278688	Stage IV Ovarian Carcinoma	DisGeNet	
+ERBB2	C0278688	Stage IV Ovarian Carcinoma	DisGeNet	
+EGFR	C0678213	Complete hydatidiform mole	DisGeNet	
+ERBB2	C0678213	Complete hydatidiform mole	DisGeNet	
+EGFR	C1402294	Primary Lesion	DisGeNet	
+ERBB2	C1402294	Primary Lesion	DisGeNet	
+EGFR	C0031039	Pericardial effusion	DisGeNet	
+ERBB2	C0031039	Pericardial effusion	DisGeNet	
+EGFR	C0221228	Comedone	DisGeNet	
+ERBB2	C0221228	Comedone	DisGeNet	
+EGFR	C0677944	Sentinel node (disorder)	DisGeNet	
+ERBB2	C0677944	Sentinel node (disorder)	DisGeNet	
+ABCB1	C0854467	Myelosuppression	DisGeNet	
+ABCG2	C0854467	Myelosuppression	DisGeNet	
+EGFR	C1384494	Metastatic Carcinoma	DisGeNet	
+ERBB2	C1384494	Metastatic Carcinoma	DisGeNet	
+ABCB1	C0877373	Advanced cancer	DisGeNet	
+EGFR	C0877373	Advanced cancer	DisGeNet	
+ERBB2	C0877373	Advanced cancer	DisGeNet	
+EGFR	C0278498	Malignant neoplasm of stomach stage IV	DisGeNet	
+ERBB2	C0278498	Malignant neoplasm of stomach stage IV	DisGeNet	
+ABCB1	C0751606	Adult Acute Lymphocytic Leukemia	DisGeNet	
+ABCG2	C0751606	Adult Acute Lymphocytic Leukemia	DisGeNet	
+ERBB2	C0751606	Adult Acute Lymphocytic Leukemia	DisGeNet	
+EGFR	C0162678	Neurofibromatoses	DisGeNet	
+ERBB2	C0162678	Neurofibromatoses	DisGeNet	
+ABCB1	C0235032	Neurotoxicity Syndromes	DisGeNet	
+ABCG2	C0235032	Neurotoxicity Syndromes	DisGeNet	
+EGFR	C0279130	CNS metastases	DisGeNet	
+ERBB2	C0279130	CNS metastases	DisGeNet	

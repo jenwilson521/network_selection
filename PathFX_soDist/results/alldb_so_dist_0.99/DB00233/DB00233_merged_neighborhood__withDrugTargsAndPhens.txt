@@ -1,0 +1,6 @@
+node1	node2	edge_score	
+DB00233	PTGS2	1.0	
+DB00233	ALOX5	1.0	
+DB00233	CHUK	1.0	
+DB00233	MPO	1.0	
+

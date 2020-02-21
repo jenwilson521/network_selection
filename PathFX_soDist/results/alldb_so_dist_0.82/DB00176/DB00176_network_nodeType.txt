@@ -1,0 +1,32 @@
+node_name	node_type	
+DB00176	drug	
+CYP2C9	drug_target	
+CYP2C8	drug_target	
+CYP1A2	drug_target	
+CYP2D6	drug_target	
+KCNH2	drug_target	
+SLC6A4	drug_target	
+CYP2B6	drug_target	
+ABCB11	drug_target	
+CYP2E1	drug_target	
+CYP1A1	drug_target	
+ABCB1	drug_target	
+CYP2C19	drug_target	
+CYP3A4	drug_target	
+CYP3A5	drug_target	
+Primary malignant neoplasm of liver	phenotype	
+Nausea	phenotype	
+Drug Allergy	phenotype	
+Adverse drug events and drug allergies	phenotype	
+Neoplasms, Germ Cell and Embryonal	phenotype	
+Tardive Dyskinesia	phenotype	
+Pleural Neoplasms	phenotype	
+Orofacial dyskinesia	phenotype	
+Neoplasm of the larynx	phenotype	
+Squamous Cell Neoplasms	phenotype	
+Acute postoperative pain	phenotype	
+Genomic Instability	phenotype	
+Pharyngeal Neoplasms	phenotype	
+Neurotoxicity Syndromes	phenotype	
+SUDDEN INFANT DEATH SYNDROME	phenotype	
+Chemical Carcinogenesis	phenotype	

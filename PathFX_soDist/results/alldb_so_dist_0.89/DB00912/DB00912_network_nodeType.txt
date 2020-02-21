@@ -1,0 +1,10 @@
+node_name	node_type	
+DB00912	drug	
+CYP2C8	drug_target	
+ALB	drug_target	
+SLCO1B1	drug_target	
+PPARG	drug_target	
+ABCB11	drug_target	
+ABCC8	drug_target	
+CYP3A4	drug_target	
+Bone necrosis	phenotype	

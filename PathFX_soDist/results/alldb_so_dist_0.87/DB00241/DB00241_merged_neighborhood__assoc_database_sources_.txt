@@ -1,0 +1,112 @@
+Gene	CUI	Source Databases	
+CHRNA4	C0270850	Idiopathic generalized epilepsy	DisGeNet	
+CHRNA7	C0270850	Idiopathic generalized epilepsy	DisGeNet	
+GABRA1	C0270850	Idiopathic generalized epilepsy	ClinVar,DisGeNet	
+GABRA6	C0270850	Idiopathic generalized epilepsy	DisGeNet	
+CHRNA4	C0270853	Juvenile myoclonic epilepsy	DisGeNet	
+CHRNA7	C0270853	Juvenile myoclonic epilepsy	DisGeNet	
+GABRA1	C0270853	Juvenile myoclonic epilepsy	ClinVar,DisGeNet	
+CHRNA4	C0751495	Focal seizures	HumPhenOnt	
+GABRA1	C0751495	Focal seizures	HumPhenOnt	
+CHRNA4	C0014544	Epilepsy	DisGeNet	
+CHRNA7	C0014544	Epilepsy	DisGeNet	
+GABRA1	C0014544	Epilepsy	ClinVar,DisGeNet	
+GABRA6	C0014544	Epilepsy	DisGeNet	
+CHRNA4	C1842981	NEUROTICISM	DisGeNet	
+GABRA6	C1842981	NEUROTICISM	DisGeNet	
+CHRNA4	C0014548	Epilepsy, generalized, with febrile seizures plus, type 6 (2)	DisGeNet	
+CHRNA7	C0014548	Epilepsy, generalized, with febrile seizures plus, type 6 (2)	DisGeNet	
+CHRNA4	C1836598	Incomplete penetrance	HumPhenOnt	
+CHRNA7	C1836598	Incomplete penetrance	HumPhenOnt	
+CHRNA4	C0009952	Febrile seizures, familial, 4	DisGeNet	
+GABRA1	C0009952	Febrile seizures, familial, 4	HumPhenOnt	
+CHRNA4	C0004352	Autism 15	DisGeNet	
+CHRNA7	C0004352	Autism 15	DisGeNet,HumPhenOnt	
+GABRA1	C0004352	Autism 15	DisGeNet	
+GABRA6	C0004352	Autism 15	DisGeNet	
+GABRA1	C0085762	Alcohol abuse	DisGeNet	
+GABRA6	C0085762	Alcohol abuse	DisGeNet	
+CHRNA7	C0024809	Marijuana Abuse	DisGeNet	
+GABRA6	C0024809	Marijuana Abuse	DisGeNet	
+CHRNA4	C0038644	SUDDEN INFANT DEATH SYNDROME	DisGeNet	
+CHRNA7	C0038644	SUDDEN INFANT DEATH SYNDROME	DisGeNet	
+GABRA1	C0023891	Liver Cirrhosis, Alcoholic	DisGeNet	
+GABRA6	C0023891	Liver Cirrhosis, Alcoholic	DisGeNet	
+CHRNA4	C0013146	Methamphetamine abuse	DisGeNet	
+GABRA1	C0013146	Methamphetamine abuse	DisGeNet	
+CHRNA4	C0028043	Nicotine Dependence	DisGeNet	
+CHRNA7	C0028043	Nicotine Dependence	DisGeNet	
+CHRNA4	C0752347	Lewy Body Disease	DisGeNet	
+CHRNA7	C0752347	Lewy Body Disease	DisGeNet	
+CHRNA4	C0311277	Abdominal obesity	DisGeNet	
+GABRA6	C0311277	Abdominal obesity	DisGeNet	
+CHRNA4	C1270972	Mild cognitive impairment	DisGeNet	
+CHRNA7	C1270972	Mild cognitive impairment	DisGeNet	
+CHRNA4	C1269683	Major depressive disorder	DisGeNet	
+CHRNA7	C1269683	Major depressive disorder	DisGeNet	
+GABRA1	C1269683	Major depressive disorder	DisGeNet	
+CHRNA4	C2911647	Weight Gain Adverse Event	DisGeNet	
+CHRNA7	C2911647	Weight Gain Adverse Event	DisGeNet	
+CHRNA7	C0349204	Cycloid psychosis	DisGeNet	
+GABRA1	C0349204	Cycloid psychosis	DisGeNet	
+GABRA6	C0001622	Adrenal Gland Hyperfunction	DisGeNet	
+CHRNA4	C0001973	Alcohol dependence	DisGeNet	
+GABRA1	C0001973	Alcohol dependence	DisGeNet	
+GABRA6	C0001973	Alcohol dependence	DisGeNet	
+GABRA1	C0751122	Severe myoclonic epilepsy in infancy	DisGeNet	
+CHRNA4	C0751785	Unverricht-Lundborg syndrome	DisGeNet	
+GABRA6	C0010481	Cushing's syndrome	DisGeNet	
+GABRA1	C0019151	Hepatic encephalopathy	DisGeNet	
+CHRNA4	C0687132	heavy drinking	DisGeNet	
+CHRNA4	C0233794	Memory impairment	DisGeNet	
+GABRA6	C0233794	Memory impairment	DisGeNet	
+CHRNA7	C0031212	Personality disorder	DisGeNet	
+CHRNA7	C0525041	Neurobehavioral Manifestations	DisGeNet	
+GABRA1	C4023515	Dialeptic seizures	HumPhenOnt	
+CHRNA7	C0005586	Bipolar affective disorder	DisGeNet,HumPhenOnt	
+GABRA1	C0005586	Bipolar affective disorder	DisGeNet	
+GABRA6	C0005586	Bipolar affective disorder	DisGeNet	
+CHRNA7	C0025312	Myelomeningocele	DisGeNet	
+CHRNA4	C0150055	Chronic pain	DisGeNet	
+CHRNA4	C0026106	Mild Mental Retardation	DisGeNet	
+CHRNA4	C0011265	Dementia familial British	DisGeNet	
+CHRNA7	C0011265	Dementia familial British	DisGeNet	
+CHRNA7	C0030807	Pemphigus	DisGeNet	
+CHRNA4	C0033054	Prenatal Exposure Delayed Effects	DisGeNet	
+CHRNA4	C0344307	Pain insensitivity	DisGeNet	
+CHRNA7	C0033975	Psychotic Disorders	DisGeNet	
+GABRA1	C0033975	Psychotic Disorders	DisGeNet	
+CHRNA4	C0014547	Epilepsy, focal, with speech disorder and with or without mental retardation	DisGeNet	
+CHRNA7	C0008628	Chromosome Xq28 deletion syndrome	DisGeNet	
+CHRNA7	C0025261	Memory Disorders	DisGeNet	
+GABRA1	C0239981	Hypoalbuminemia	DisGeNet	
+CHRNA4	C0036341	Schizophrenia	DisGeNet	
+CHRNA7	C0036341	Schizophrenia	DisGeNet,HumPhenOnt	
+GABRA1	C0036341	Schizophrenia	DisGeNet	
+GABRA6	C0036341	Schizophrenia	DisGeNet	
+CHRNA4	C1720983	Channelopathies	DisGeNet	
+GABRA1	C4021759	Generalized myoclonic seizures	HumPhenOnt	
+CHRNA4	C0751882	Congenital myasthenic syndrome	DisGeNet	
+CHRNA7	C0003944	As If Personality	DisGeNet	
+CHRNA4	C0009241	Cognition Disorders	DisGeNet	
+GABRA6	C0038443	Stress, Psychological	DisGeNet	
+GABRA1	C0270736	Essential tremor	DisGeNet	
+CHRNA7	C0431447	Synophrys	HumPhenOnt	
+GABRA6	C0033941	Psychoses, Substance-Induced	DisGeNet	
+CHRNA7	C0220704	Shprintzen syndrome	DisGeNet	
+GABRA1	C0234376	Action tremor	DisGeNet	
+CHRNA4	C0003469	Anxiety Disorders	DisGeNet	
+GABRA6	C0003469	Anxiety Disorders	DisGeNet	
+CHRNA7	C0023015	Language impairment	DisGeNet	
+CHRNA7	C1851400	Facial hypertrichosis	HumPhenOnt	
+GABRA1	C0349506	Cutaneous photosensitivity	HumPhenOnt	
+CHRNA4	C1862941	Amyotrophic Lateral Sclerosis, Sporadic	DisGeNet	
+CHRNA7	C0038587	Substance Withdrawal Syndrome	DisGeNet	
+CHRNA4	C1837514	Phenotypic variability	HumPhenOnt	
+CHRNA7	C1837514	Phenotypic variability	HumPhenOnt	
+GABRA1	C0014553	Absence seizures	DisGeNet,HumPhenOnt	
+CHRNA7	C0036337	Schizoaffective Disorder	DisGeNet	
+CHRNA4	C0004936	Mental disorders	DisGeNet	
+CHRNA7	C0004936	Mental disorders	DisGeNet	
+CHRNA7	C0011269	Dementia, Vascular	DisGeNet	
+CHRNA7	C4025790	Specific learning disability	HumPhenOnt	

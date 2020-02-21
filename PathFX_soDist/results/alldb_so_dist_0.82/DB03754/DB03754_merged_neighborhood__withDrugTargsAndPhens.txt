@@ -1,0 +1,69 @@
+node1	node2	edge_score	
+DB03754	DCN	1.0	
+DB03754	VEGFA	1.0	
+DB03754	NEIL1	1.0	
+DB03754	AMD1	1.0	
+VEGFA	rs879825	0.99
+VEGFA	rs833069	0.99
+VEGFA	rs144854329	0.99
+VEGFA	rs699947	0.99
+VEGFA	rs1570360	0.99
+VEGFA		1.0
+VEGFA	rs6900017	0.99
+VEGFA	rs3025039	0.99
+VEGFA	rs13207351	0.99
+VEGFA	rs25648	0.99
+VEGFA	rs9369421	0.99
+VEGFA	rs3025000	0.99
+VEGFA	rs2010963	0.99
+VEGFA	rs833061	0.99
+VEGFA	rs35864111	0.99
+VEGFA	rs3025040	0.99
+Leg Ulcer	VEGFA	1.0	
+Isovaleryl-CoA dehydrogenase deficiency	VEGFA	1.0	
+High altitude pulmonary edema	VEGFA	1.0	
+Kashin-Beck Disease	VEGFA	1.0	
+Fibromyxosarcoma	VEGFA	1.0	
+Papillary adenocarcinoma	VEGFA	1.0	
+Placental Insufficiency	VEGFA	1.0	
+Hereditary hemorrhagic telangiectasia type 2	VEGFA	1.0	
+recurrent childhood acute lymphoblastic leukemia	VEGFA	1.0	
+Esophageal varix	VEGFA	1.0	
+Tuberculosis, Meningeal	VEGFA	1.0	
+Steroid-sensitive nephrotic syndrome	VEGFA	1.0	
+Invasive Skin Melanoma	VEGFA	1.0	
+Otitis Media with Effusion	VEGFA	1.0	
+Thrombosis of retinal vein	VEGFA	1.0	
+Squamous cell carcinoma of the hypopharynx	VEGFA	1.0	
+Abnormal breathing	VEGFA	1.0	
+Astrocytoma, low grade	VEGFA	1.0	
+Congenital vascular anomaly	VEGFA	1.0	
+Femur Head Necrosis	VEGFA	1.0	
+Squamous Cell Neoplasms	VEGFA	1.0	
+Proliferative retinopathy	VEGFA	1.0	
+T-Cell Prolymphocytic Leukemia	VEGFA	1.0	
+Myxoma	VEGFA	1.0	
+AIDS-Associated Nephropathy	VEGFA	1.0	
+Aortic valve calcification	VEGFA	1.0	
+Peritoneal Fibrosis	VEGFA	1.0	
+Chromophobe Renal Cell Carcinoma	VEGFA	1.0	
+Myeloproliferative disorder, chronic, with eosinophilia	VEGFA	1.0	
+Gallbladder Diseases	VEGFA	1.0	
+Granuloma	VEGFA	1.0	
+Intermittent claudication	VEGFA	1.0	
+Angiokeratoma	VEGFA	1.0	
+Truncus arteriosus	VEGFA	1.0	
+Vascular malformation, primary intraosseous	VEGFA	1.0	
+Niemann-Pick disease, type C	VEGFA	1.0	
+Arteriovenous hemangioma	VEGFA	1.0	
+Stenosis	VEGFA	1.0	
+Recessive dystrophic epidermolysis bullosa	VEGFA	1.0	
+Stage IV Ovarian Carcinoma	VEGFA	1.0	
+Anterior myocardial infarction	VEGFA	1.0	
+Generalized osteoarthritis	VEGFA	1.0	
+Prostatitis	VEGFA	1.0	
+Pericardial effusion	VEGFA	1.0	
+Comedone	VEGFA	1.0	
+Sentinel node (disorder)	VEGFA	1.0	
+Dermatitis Herpetiformis	VEGFA	1.0	
+Ataxic	VEGFA	1.0	

@@ -1,0 +1,7 @@
+node_name	node_type	
+DB00612	drug	
+ADRB1	drug_target	
+CYP3A4	drug_target	
+ADRB2	drug_target	
+CYP2D6	drug_target	
+Acute postoperative pain	phenotype	

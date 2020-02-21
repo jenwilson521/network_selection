@@ -1,0 +1,123 @@
+node_name	node_type	
+DB01189	drug	
+ATP2C1	drug_target	
+GLRA1	drug_target	
+GRIA1	drug_target	
+ALB	drug_target	
+KCNA1	drug_target	
+Hypotension	phenotype	
+Globus Hystericus	phenotype	
+Malignant neoplasm of adrenal cortex	phenotype	
+Esophageal varix	phenotype	
+Urolithiasis	phenotype	
+Echinococcosis	phenotype	
+Epidermolysis bullosa simplex, Cockayne-Touraine type	phenotype	
+Palmar hyperkeratosis	phenotype	
+Proliferative retinopathy	phenotype	
+Verrucae	phenotype	
+Isolated somatotropin deficiency	phenotype	
+Substance Use Disorders	phenotype	
+Dentatorubral pallidoluysian atrophy	phenotype	
+Angiokeratoma	phenotype	
+Isolated growth hormone deficiency type 1B	phenotype	
+Plantar hyperkeratosis	phenotype	
+Pericardial effusion	phenotype	
+Reperfusion Injury	phenotype	
+Hepatic encephalopathy	phenotype	
+Mumps	phenotype	
+Rhinitis, Allergic, Perennial	phenotype	
+Endemic Cretinism	phenotype	
+Hemangioblastoma	phenotype	
+Spastic	phenotype	
+Mesangiocapillary glomerulonephritis, type II	phenotype	
+Nephrosclerosis	phenotype	
+Peripheral motor neuropathy	phenotype	
+End Stage Liver Disease	phenotype	
+Abnormal albumin level	phenotype	
+Bronchogenic Carcinoma	phenotype	
+Coronary artery aneurysm	phenotype	
+Hyperlipoproteinemia	phenotype	
+Hyperlipoproteinemia Type IIa	phenotype	
+Tubulointerstitial nephritis	phenotype	
+Single tumor	phenotype	
+Nephrotic Syndrome, Minimal Change	phenotype	
+Skin Diseases, Genetic	phenotype	
+Learning Disorders	phenotype	
+Varicella zoster	phenotype	
+Drusen	phenotype	
+Increased antibody level in blood	phenotype	
+Insulin resistance syndrome	phenotype	
+Nephrosis	phenotype	
+Guillain-Barre syndrome, familial	phenotype	
+Primary hyperparathyroidism	phenotype	
+Drug Resistant Epilepsy	phenotype	
+Respiratory Tract Diseases	phenotype	
+Sicca Syndrome	phenotype	
+Hypoalbuminemia	phenotype	
+Neurologic, endocrine, and pancreatic disease, multisystem, infantile-onset	phenotype	
+Abnormality of the plantar skin of foot	phenotype	
+Body Weight Changes	phenotype	
+Congenital hypothyroidism	phenotype	
+Adverse drug events and drug allergies	phenotype	
+Hemolytic uremic syndrome	phenotype	
+Eczema	phenotype	
+Occupational Diseases	phenotype	
+Microalbuminuria	phenotype	
+Chest pain	phenotype	
+ {HIV-1 viremia, susceptibility to}, 609423 (3)	phenotype	
+Acute Lung Injury	phenotype	
+Complications of Diabetes Mellitus	phenotype	
+Pulmonary edema	phenotype	
+Stevens-Johnson Syndrome	phenotype	
+Drug Allergy	phenotype	
+Lymphohistiocytosis, Hemophagocytic	phenotype	
+Substance Withdrawal Syndrome	phenotype	
+Depressive Disorder	phenotype	
+IMMUNE SUPPRESSION	phenotype	
+Dementia, Vascular	phenotype	
+Membranous nephropathy, susceptibility to	phenotype	
+DiGeorge sequence	phenotype	
+Liver regeneration disorder	phenotype	
+Diabetic Angiopathies	phenotype	
+Plasmacytoma	phenotype	
+Type 1 diabetic neuropathy	phenotype	
+Polyneuropathy, hearing loss, ataxia, retinitis pigmentosa, and cataract	phenotype	
+Hyperlipidemia, familial combined	phenotype	
+Interstitial fibrosis	phenotype	
+Hemochromatosis	phenotype	
+Hyperhidrosis	phenotype	
+Methamphetamine abuse	phenotype	
+Hereditary factor VIII deficiency disease	phenotype	
+Glomerulosclerosis, Focal Segmental	phenotype	
+tumor vasculature	phenotype	
+Epilepsy	phenotype	
+Maturity-onset diabetes of the young, type 11	phenotype	
+Cocaine-Related Disorders	phenotype	
+Focal segmental glomerulosclerosis	phenotype	
+Malnutrition	phenotype	
+Erythema	phenotype	
+Urticaria	phenotype	
+Thrombophilia	phenotype	
+Abnormality of the fingernails	phenotype	
+Congenital diaphragmatic hernia	phenotype	
+Pulmonary Embolism	phenotype	
+Anorexia	phenotype	
+Abnormal immunoglobulin level	phenotype	
+Acute hepatic failure	phenotype	
+Abnormality of B cell physiology	phenotype	
+Abnormality of B cells	phenotype	
+Anaplastic astrocytoma	phenotype	
+Gallbladder disease 4	phenotype	
+Respiratory Distress Syndrome, Adult	phenotype	
+Coinfection	phenotype	
+Chronic liver disease	phenotype	
+Abnormality of adipose tissue	phenotype	
+Hypohidrosis	phenotype	
+Weight Gain Adverse Event	phenotype	
+Ichthyosis, congenital, autosomal recessive 12	phenotype	
+Sudden cardiac death	phenotype	
+Uveitis	phenotype	
+Palmoplantar keratoderma, nonepidermolytic, focal	phenotype	
+Abnormality of humoral immunity	phenotype	
+Glomerulopathy	phenotype	
+Adrenocortical carcinoma	phenotype	

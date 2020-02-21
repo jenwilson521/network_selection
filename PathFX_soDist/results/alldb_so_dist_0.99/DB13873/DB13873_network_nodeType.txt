@@ -1,0 +1,6 @@
+node_name	node_type	
+DB13873	drug	
+PPARG	drug_target	
+PPARD	drug_target	
+NR1I2	drug_target	
+PPARA	drug_target	

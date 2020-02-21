@@ -1,0 +1,13 @@
+node_name	node_type	
+DB00471	drug	
+CYP2C9	drug_target	
+CYP2C8	drug_target	
+PTGS1	drug_target	
+ALOX5	drug_target	
+CYP2A6	drug_target	
+SLCO2B1	drug_target	
+CYP3A4	drug_target	
+CYSLTR1	drug_target	
+Pharyngeal Neoplasms	phenotype	
+Drug Allergy	phenotype	
+Neoplasm of the larynx	phenotype	

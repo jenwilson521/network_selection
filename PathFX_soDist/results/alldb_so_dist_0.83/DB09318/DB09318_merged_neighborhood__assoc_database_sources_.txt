@@ -1,0 +1,7 @@
+Gene	CUI	Source Databases	
+CYP3A4	C0029445	Bone necrosis	DisGeNet	
+ESR1	C0029445	Bone necrosis	DisGeNet	
+CYP3A4	C0206726	gliosarcoma	DisGeNet	
+ESR1	C0206726	gliosarcoma	DisGeNet	
+CYP3A4	C0013182	Drug Allergy	DisGeNet	
+ESR1	C0013182	Drug Allergy	DisGeNet	

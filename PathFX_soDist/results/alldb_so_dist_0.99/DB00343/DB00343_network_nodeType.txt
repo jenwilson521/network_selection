@@ -1,0 +1,12 @@
+node_name	node_type	
+DB00343	drug	
+CYP2C8	drug_target	
+ORM1	drug_target	
+CYP2D6	drug_target	
+CACNA1C	drug_target	
+ALB	drug_target	
+ABCB1	drug_target	
+CYP2C19	drug_target	
+CACNG1	drug_target	
+CYP3A4	drug_target	
+CYP3A5	drug_target	

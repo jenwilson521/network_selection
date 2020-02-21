@@ -1,0 +1,7 @@
+node_name	node_type	
+DB00893	drug	
+TF	drug_target	
+FTH1	drug_target	
+FTL	drug_target	
+HBA2	drug_target	
+HBB	drug_target	

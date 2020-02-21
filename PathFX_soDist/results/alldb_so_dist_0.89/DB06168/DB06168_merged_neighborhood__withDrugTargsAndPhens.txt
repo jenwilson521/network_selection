@@ -1,0 +1,293 @@
+node1	node2	edge_score	
+DB06168	IL1B	1.0	
+IL1B	rs4849127	0.99
+IL1B	rs16944	0.99
+IL1B		1.0
+IL1B	rs1143623	0.99
+IL1B	rs4848306	0.99
+IL1B	rs12621220	0.99
+IL1B	rs1143634	0.99
+IL1B	rs1143627	0.99
+Asbestosis	IL1B	1.0	
+Leg Ulcer	IL1B	1.0	
+Rheumatoid Nodule	IL1B	1.0	
+Scrub Typhus	IL1B	1.0	
+Pseudomonas aeruginosa infection	IL1B	1.0	
+Severe Aplastic Anemia	IL1B	1.0	
+Papillary adenocarcinoma	IL1B	1.0	
+Hemorrhagic Fever with Renal Syndrome	IL1B	1.0	
+Aneurysm, Ruptured	IL1B	1.0	
+Brain Hemorrhage, Traumatic	IL1B	1.0	
+Fetal Alcohol Syndrome	IL1B	1.0	
+Q Fever	IL1B	1.0	
+Malignant neoplasm of pharynx	IL1B	1.0	
+MERRF Syndrome	IL1B	1.0	
+Philadelphia chromosome positive chronic myelogenous leukemia	IL1B	1.0	
+Urolithiasis	IL1B	1.0	
+Febrile Neutropenia	IL1B	1.0	
+Monoclonal Gammapathies	IL1B	1.0	
+Otitis Media with Effusion	IL1B	1.0	
+Thrombosis of retinal vein	IL1B	1.0	
+Typhoid Fever	IL1B	1.0	
+Periodontal Attachment Loss	IL1B	1.0	
+Malignant neoplasm of vulva	IL1B	1.0	
+Cryopyrin-Associated Periodic Syndromes	IL1B	1.0	
+Melioidosis, susceptibility to	IL1B	1.0	
+Carcinoma, Signet Ring Cell	IL1B	1.0	
+Joint contractures involving the joints of the feet	IL1B	1.0	
+Bacterial endocarditis	IL1B	1.0	
+Oral aphthae	IL1B	1.0	
+Renal interstitial fibrosis	IL1B	1.0	
+Gingival bleeding	IL1B	1.0	
+Lichen Sclerosus et Atrophicus	IL1B	1.0	
+Angiokeratoma	IL1B	1.0	
+Metabolic Bone Disorder	IL1B	1.0	
+Gastroenteritis	IL1B	1.0	
+Malaria, Vivax	IL1B	1.0	
+Puerperal Disorders	IL1B	1.0	
+Respiratory Hypersensitivity	IL1B	1.0	
+MELAS Syndrome	IL1B	1.0	
+{?Amyloidosis, secondary, susceptibility to} (1)	IL1B	1.0	
+Familial Alzheimer Disease (FAD)	IL1B	1.0	
+Arteriovenous hemangioma	IL1B	1.0	
+Subfertility	IL1B	1.0	
+Carpal tunnel syndrome	IL1B	1.0	
+Lymphadenitis	IL1B	1.0	
+Periodontal Pocket	IL1B	1.0	
+Superinfection	IL1B	1.0	
+Generalized osteoarthritis	IL1B	1.0	
+Mucinous Neoplasm	IL1B	1.0	
+Extrinsic allergic alveolitis	IL1B	1.0	
+Systemic aspergillosis	IL1B	1.0	
+Meningitis, Pneumococcal	IL1B	1.0	
+Rheumatic fever / chorea	IL1B	1.0	
+Juvenile dermatomyositis	IL1B	1.0	
+Equine Infectious Anemia	IL1B	1.0	
+Multiple Organ Failure	IL1B	1.0	
+Mumps	IL1B	1.0	
+Osteoarthritis of distal interphalangeal joint	IL1B	1.0	
+Juvenile neuronal ceroid lipofuscinosis	IL1B	1.0	
+Polymyalgia Rheumatica	IL1B	1.0	
+Peptic Ulcer Hemorrhage	IL1B	1.0	
+Microscopic Polyarteritis	IL1B	1.0	
+AIDS related complex	IL1B	1.0	
+Alveolar Bone Loss	IL1B	1.0	
+Acute postoperative pain	IL1B	1.0	
+Salmonella infections	IL1B	1.0	
+Sclerosis	IL1B	1.0	
+Smallpox	IL1B	1.0	
+Osteoarthritis of the hand	IL1B	1.0	
+Dermatitis and eczema	IL1B	1.0	
+Acute disease of cardiovascular system	IL1B	1.0	
+Mesangiocapillary glomerulonephritis, type II	IL1B	1.0	
+Simple pneumoconiosis	IL1B	1.0	
+Malignant neoplasm of stomach stage IV	IL1B	1.0	
+Aggressive periodontitis, generalized	IL1B	1.0	
+Pancreatitis, Acute Necrotizing	IL1B	1.0	
+Gastro-esophageal reflux disease with esophagitis	IL1B	1.0	
+Meningitis, Bacterial	IL1B	1.0	
+Corneal pannus	IL1B	1.0	
+Granulomatosis	IL1B	1.0	
+Opiate Addiction	IL1B	1.0	
+Acne Vulgaris	IL1B	1.0	
+Gonorrhea	IL1B	1.0	
+Low back pain	IL1B	1.0	
+CNS metastases	IL1B	1.0	
+Idiopathic crescentic glomerulonephritis	IL1B	1.0	
+Japanese Encephalitis	IL1B	1.0	
+Displacement of intervertebral disc	IL1B	1.0	
+Active tuberculosis	IL1B	1.0	
+Chemical Carcinogenesis	IL1B	1.0	
+Acute anterior uveitis	IL1B	1.0	
+Cholesteatoma	IL1B	1.0	
+Ectopic Pregnancy	IL1B	1.0	
+Decreased activity of 3-hydroxyacyl-CoA dehydrogenase	IL1B	1.0	
+Dryness of eye	IL1B	1.0	
+AIDS Dementia Complex	IL1B	1.0	
+Stomach Diseases	IL1B	1.0	
+Monocytic leukemia	IL1B	1.0	
+Fabry disease	IL1B	1.0	
+Thromboangiitis Obliterans	IL1B	1.0	
+Varicocele	IL1B	1.0	
+Hyperoxia	IL1B	1.0	
+Hippocampal sclerosis	IL1B	1.0	
+Dry Eye Syndromes	IL1B	1.0	
+Heart valve disease	IL1B	1.0	
+CARCINOMA OF VULVA	IL1B	1.0	
+Photoparoxysmal response 1 (2)	IL1B	1.0	
+Weight Loss Adverse Event	IL1B	1.0	
+Learning Disorders	IL1B	1.0	
+Stomatitis	IL1B	1.0	
+Streptococcal Infections	IL1B	1.0	
+Bacterial Vaginosis	IL1B	1.0	
+Choroidal Neovascularization	IL1B	1.0	
+Neoplasm of the gallbladder	IL1B	1.0	
+Osteitis Deformans	IL1B	1.0	
+Pleuritis	IL1B	1.0	
+Cervical intraepithelial neoplasia grade 2	IL1B	1.0	
+Anti-Glomerular Basement Membrane Disease	IL1B	1.0	
+Coronary Restenosis	IL1B	1.0	
+Lymphocytic infiltration	IL1B	1.0	
+Neuritis	IL1B	1.0	
+Pneumococcal Infections	IL1B	1.0	
+Rubella	IL1B	1.0	
+Arthritis, Reactive	IL1B	1.0	
+Idiopathic fibrosing alveolitis, chronic form	IL1B	1.0	
+Iron deficiency anemia	IL1B	1.0	
+Severe congenital neutropenia	IL1B	1.0	
+Leptospirosis	IL1B	1.0	
+Nephrosis	IL1B	1.0	
+Pemphigus	IL1B	1.0	
+Silicosis	IL1B	1.0	
+Chagas Cardiomyopathy	IL1B	1.0	
+Peptic Esophagitis	IL1B	1.0	
+Lymphoproliferative syndrome, X-linked, 1, 308240 (3)	IL1B	1.0	
+Inclusion Body Myopathy, Sporadic	IL1B	1.0	
+Drug Resistant Epilepsy	IL1B	1.0	
+pathologic fistula	IL1B	1.0	
+Zoonotic form of cutaneous leishmaniasis	IL1B	1.0	
+Obstructive lung disease	IL1B	1.0	
+Infectious Otitis Media	IL1B	1.0	
+Dyspepsia	IL1B	1.0	
+Memory Disorders	IL1B	1.0	
+Necrosis	IL1B	1.0	
+Toxic Shock Syndrome	IL1B	1.0	
+Biliary tract neoplasm	IL1B	1.0	
+Leishmaniasis	IL1B	1.0	
+Joint swelling	IL1B	1.0	
+Chronic neutrophilia	IL1B	1.0	
+Neoplasms, Experimental	IL1B	1.0	
+Henoch-Schoenlein Purpura	IL1B	1.0	
+Anti-Neutrophil Cytoplasmic Antibody-Associated Vasculitis	IL1B	1.0	
+ {Septic shock, susceptibility to} (3)	IL1B	1.0	
+Wilson disease	IL1B	1.0	
+Sarcoidosis, Pulmonary	IL1B	1.0	
+CNS symptom	IL1B	1.0	
+Leukocytosis	IL1B	1.0	
+Iron deficiency	IL1B	1.0	
+Ovarian adenocarcinoma	IL1B	1.0	
+Esophagitis	IL1B	1.0	
+Meningococcal Infections	IL1B	1.0	
+Osteoarthritis of hip	IL1B	1.0	
+Progressive external ophthalmoplegia with mitochondrial DNA deletions, autosomal recessive 4	IL1B	1.0	
+Idiopathic Inflammatory Myopathies	IL1B	1.0	
+Primary infection NOS	IL1B	1.0	
+Stress, Psychological	IL1B	1.0	
+Systemic Inflammatory Response Syndrome	IL1B	1.0	
+Diamond-Blackfan anemia	IL1B	1.0	
+Trachoma	IL1B	1.0	
+Leber's optic atrophy	IL1B	1.0	
+Hemolytic uremic syndrome	IL1B	1.0	
+Hypoxia-Ischemia, Brain	IL1B	1.0	
+Limb ischemia	IL1B	1.0	
+Purpura	IL1B	1.0	
+Histiocytosis, Langerhans-Cell	IL1B	1.0	
+Occupational Diseases	IL1B	1.0	
+Retinopathy of Prematurity	IL1B	1.0	
+Primary immune deficiency disorder	IL1B	1.0	
+{Spondyloarthropathy, susceptibility to, 1}, 106300 (3)	IL1B	1.0	
+Shock, Septic	IL1B	1.0	
+Pneumocystis jiroveci pneumonia	IL1B	1.0	
+Skin lesion	IL1B	1.0	
+Arsenic Poisoning	IL1B	1.0	
+Gingivitis	IL1B	1.0	
+Retroviridae Infections	IL1B	1.0	
+ {HIV-1 viremia, susceptibility to}, 609423 (3)	IL1B	1.0	
+Acute Lung Injury	IL1B	1.0	
+{Atopy, susceptibility to}, 147050 (3)	IL1B	1.0	
+Contractures involving the joints of the feet	IL1B	1.0	
+{Pemphigoid, susceptibility to} (2)	IL1B	1.0	
+Uremia	IL1B	1.0	
+Severe Dengue	IL1B	1.0	
+Pathologic Neovascularization	IL1B	1.0	
+Pemphigus Vulgaris	IL1B	1.0	
+Osteomyelitis, sterile multifocal, with periostitis and pustulosis	IL1B	1.0	
+Postoperative Complications	IL1B	1.0	
+Endometrioma	IL1B	1.0	
+Complications of Diabetes Mellitus	IL1B	1.0	
+Acne	IL1B	1.0	
+Osteolysis	IL1B	1.0	
+Pulmonary edema	IL1B	1.0	
+Uterine neoplasm	IL1B	1.0	
+Chronic gastritis	IL1B	1.0	
+Ichthyosis bullosa of Siemens	IL1B	1.0	
+Alzheimer Disease, Late Onset	IL1B	1.0	
+Brain Infarction	IL1B	1.0	
+Spondylarthropathies	IL1B	1.0	
+Epithelial hyperplasia of skin	IL1B	1.0	
+Granulomatous disease, chronic, autosomal recessive, cytochrome b-negative	IL1B	1.0	
+Neonatal respiratory distress	IL1B	1.0	
+Sciatic Neuropathy	IL1B	1.0	
+Premature aging syndrome	IL1B	1.0	
+West Nile viral infection	IL1B	1.0	
+Degenerative disease of the spinal cord	IL1B	1.0	
+Amyotrophic Lateral Sclerosis, Sporadic	IL1B	1.0	
+Recurrent abortion	IL1B	1.0	
+Alopecia Areata	IL1B	1.0	
+Mycoplasma Infections	IL1B	1.0	
+Myopathy, mitochondrial progressive, with congenital cataract, hearing loss, and developmental delay	IL1B	1.0	
+Cerebral edema	IL1B	1.0	
+Duodenal Ulcer	IL1B	1.0	
+Metaplasia	IL1B	1.0	
+M5b Acute differentiated monocytic leukemia	IL1B	1.0	
+IMMUNE SUPPRESSION	IL1B	1.0	
+Uveomeningoencephalitic Syndrome	IL1B	1.0	
+Pregnancy loss	IL1B	1.0	
+Coronary artery stenosis	IL1B	1.0	
+Tetanus	IL1B	1.0	
+Stromal Neoplasm	IL1B	1.0	
+Chlamydia Infections	IL1B	1.0	
+Dementia, Vascular	IL1B	1.0	
+Gastrointestinal Diseases	IL1B	1.0	
+Lichen Planus, Oral	IL1B	1.0	
+Adult type dermatomyositis	IL1B	1.0	
+Carcinoma, Lewis Lung	IL1B	1.0	
+Hereditary hemochromatosis	IL1B	1.0	
+Infarction, Middle Cerebral Artery	IL1B	1.0	
+Renal ischaemia	IL1B	1.0	
+Membranous nephropathy, susceptibility to	IL1B	1.0	
+Nasopharyngeal Neoplasms	IL1B	1.0	
+Candidiasis, familial, 9	IL1B	1.0	
+Cholangitis, Sclerosing	IL1B	1.0	
+Pterygium	IL1B	1.0	
+Intervertebral disc degeneration	IL1B	1.0	
+Chronic active hepatitis	IL1B	1.0	
+Severe Sepsis	IL1B	1.0	
+Cough	IL1B	1.0	
+Familial Mediterranean fever	IL1B	1.0	
+Multiple Sclerosis, Relapsing-Remitting	IL1B	1.0	
+Tumor Promotion	IL1B	1.0	
+Necrotizing Enterocolitis	IL1B	1.0	
+Febrile seizures, familial, 4	IL1B	1.0	
+Leishmaniasis, Visceral	IL1B	1.0	
+Vestibular Schwannoma	IL1B	1.0	
+Plasmacytoma	IL1B	1.0	
+Chronic sinusitis	IL1B	1.0	
+Parasitemia	IL1B	1.0	
+Contact Dermatitis	IL1B	1.0	
+Type 1 diabetic neuropathy	IL1B	1.0	
+Periodontitis, Juvenile	IL1B	1.0	
+Latent autoimmune diabetes mellitus in adult	IL1B	1.0	
+Thyroid associated opthalmopathies	IL1B	1.0	
+Urinary tract infection	IL1B	1.0	
+Prion Diseases	IL1B	1.0	
+Chronic graft-versus-host disease	IL1B	1.0	
+Arteriovenous malformation	IL1B	1.0	
+airway disease	IL1B	1.0	
+Chronic ulcerative colitis	IL1B	1.0	
+Cerebral palsy, spastic quadriplegic, 3	IL1B	1.0	
+Malaria, Cerebral	IL1B	1.0	
+Postmenopausal osteoporosis	IL1B	1.0	
+Skin carcinoma	IL1B	1.0	
+Sleep Wake Disorders	IL1B	1.0	
+Waldenstrom macroglobulinemia	IL1B	1.0	
+Polyglandular autoimmune syndrome, type 1	IL1B	1.0	
+Endotoxemia	IL1B	1.0	
+Keratitis	IL1B	1.0	
+Methicillin resistant Staphylococcus aureus	IL1B	1.0	
+Shy-Drager syndrome	IL1B	1.0	
+SUDDEN INFANT DEATH SYNDROME	IL1B	1.0	
+Severe Acute Respiratory Syndrome	IL1B	1.0	
+Cystitis	IL1B	1.0	
+Melanoma, B16	IL1B	1.0	
+Polymyositis	IL1B	1.0	

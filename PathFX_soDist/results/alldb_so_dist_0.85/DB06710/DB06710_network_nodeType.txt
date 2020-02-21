@@ -1,0 +1,40 @@
+node_name	node_type	
+DB06710	drug	
+ESR1	drug_target	
+CYP2B6	drug_target	
+CYP19A1	drug_target	
+ALB	drug_target	
+SHBG	drug_target	
+AR	drug_target	
+SLCO1A2	drug_target	
+CYP3A4	drug_target	
+SLC22A8	drug_target	
+Disorder of endocrine system	phenotype	
+21-hydroxylase deficiency	phenotype	
+Malignant neoplasm of male breast	phenotype	
+Virilism	phenotype	
+Malignant neoplasm of female breast	phenotype	
+Female Breast Carcinoma	phenotype	
+Endometrial Hyperplasia	phenotype	
+Carcinoma of Male Breast	phenotype	
+Ovarian Failure, Premature	phenotype	
+Depressive Symptoms	phenotype	
+Premature ovarian failure	phenotype	
+Adrenal hyperplasia	phenotype	
+Breast Fibrocystic Disease	phenotype	
+Neoplasms, Germ Cell and Embryonal	phenotype	
+gliosarcoma	phenotype	
+ Hyperandrogenism, nonclassic type, due to 21-hydroxylase deficiency, 201910 (3)	phenotype	
+Mammographic breast density	phenotype	
+Chromosome 11p deletion syndrome	phenotype	
+Female infertility	phenotype	
+Malignant neoplasm of adrenal cortex	phenotype	
+Endometrioma	phenotype	
+Uterine neoplasm	phenotype	
+Bladder neck obstruction	phenotype	
+Recurrent abortion	phenotype	
+Pregnancy loss	phenotype	
+Alcohol withdrawal syndrome	phenotype	
+Dentatorubral pallidoluysian atrophy	phenotype	
+Adrenocortical carcinoma	phenotype	
+Alopecia of scalp	phenotype	

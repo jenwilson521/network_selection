@@ -1,0 +1,152 @@
+node1	node2	edge_score	
+DB01250	IFNG	1.0	
+DB01250	TPMT	1.0	
+TPMT	rs1800460	0.99
+TPMT	rs1142345	0.99
+TPMT	TPMT*1, TPMT*2, TPMT*3A, TPMT*3C	0.99
+IFNG		1.0
+TPMT	rs17839843	0.99
+TPMT	rs3931660	0.99
+TPMT		1.0
+TPMT	TPMT*1, TPMT*10, TPMT*13, TPMT*15, TPMT*19, TPMT*1A, TPMT*24, TPMT*25, TPMT*26, TPMT*27, TPMT*28, TPMT*30, TPMT*31, TPMT*32, TPMT*33, TPMT*34, TPMT*37, TPMT*3D, TPMT*5	0.99
+TPMT	TPMT*1, TPMT*2, TPMT*3A, TPMT*3B, TPMT*3C, TPMT*4	0.99
+TPMT	rs12201199	0.99
+TPMT	TPMT*1, TPMT*11, TPMT*12, TPMT*14, TPMT*16, TPMT*17, TPMT*18, TPMT*1S, TPMT*20, TPMT*21, TPMT*22, TPMT*23, TPMT*6, TPMT*7, TPMT*8, TPMT*9	0.99
+TPMT	TPMT*1, TPMT*3A, TPMT*3C	0.99
+Myelopathy	IFNG	1.0	
+Myelopathy	TPMT	1.0	
+{Spondyloarthropathy, susceptibility to, 1}, 106300 (3)	IFNG	1.0	
+{Spondyloarthropathy, susceptibility to, 1}, 106300 (3)	TPMT	1.0	
+Viral hepatitis	IFNG	1.0	
+Viral hepatitis	TPMT	1.0	
+Drug Allergy	IFNG	1.0	
+Drug Allergy	TPMT	1.0	
+Rheumatic disease of heart valve	IFNG	1.0	
+Rheumatic disease of heart valve	TPMT	1.0	
+Hepatitis, Autoimmune	IFNG	1.0	
+Hepatitis, Autoimmune	TPMT	1.0	
+Hematological Disease	IFNG	1.0	
+Hematological Disease	TPMT	1.0	
+Drug Eruptions	IFNG	1.0	
+Rheumatoid Nodule	IFNG	1.0	
+Scrub Typhus	IFNG	1.0	
+Pleural Tuberculosis	IFNG	1.0	
+Cutaneous lymphoma	IFNG	1.0	
+Latent Tuberculosis	IFNG	1.0	
+Acute hepatitis	IFNG	1.0	
+Lymphoid hyperplasia	IFNG	1.0	
+Cryoglobulinemia	IFNG	1.0	
+Q Fever	IFNG	1.0	
+Tuberculosis, Meningeal	IFNG	1.0	
+Steroid-sensitive nephrotic syndrome	IFNG	1.0	
+Febrile Neutropenia	TPMT	1.0	
+Hemophagocytosis	IFNG	1.0	
+Bovine Anaplasmosis	IFNG	1.0	
+Chronic mucocutaneous candidiasis	IFNG	1.0	
+Fowlpox	IFNG	1.0	
+Cryopyrin-Associated Periodic Syndromes	IFNG	1.0	
+Abscess	IFNG	1.0	
+Melioidosis, susceptibility to	IFNG	1.0	
+Familial cold-induced inflammatory syndrome 1, 120100 (3)	IFNG	1.0	
+Oral aphthae	IFNG	1.0	
+Myeloproliferative disorder, chronic, with eosinophilia	IFNG	1.0	
+Gingival bleeding	IFNG	1.0	
+Granuloma	IFNG	1.0	
+Hyponatremia	IFNG	1.0	
+Pregnancy Complications, Infectious	IFNG	1.0	
+Malignant melanoma of eye	IFNG	1.0	
+Malaria, Vivax	IFNG	1.0	
+Interstitial lung and liver disease	IFNG	1.0	
+Pleomorphic adenoma of salivary gland	IFNG	1.0	
+Drug-Induced Liver Injury	IFNG	1.0	
+Drug-Induced Liver Injury	TPMT	1.0	
+Cholangitis	IFNG	1.0	
+Lymphadenitis	IFNG	1.0	
+Periodontal Pocket	IFNG	1.0	
+Staphylococcal Infections	IFNG	1.0	
+Asymptomatic Infections	IFNG	1.0	
+Oestrogen deficiency	IFNG	1.0	
+Extrinsic allergic alveolitis	IFNG	1.0	
+Systemic aspergillosis	IFNG	1.0	
+Fatal infectious mononucleosis	IFNG	1.0	
+Lichen planus pemphigoides	IFNG	1.0	
+Steroid-resistant nephrotic syndrome	IFNG	1.0	
+Dermatitis Herpetiformis	IFNG	1.0	
+Enterovirus Infections	IFNG	1.0	
+Equine Infectious Anemia	IFNG	1.0	
+Multiple Organ Failure	IFNG	1.0	
+Paranoid Schizophrenia	IFNG	1.0	
+Volvulus	IFNG	1.0	
+Nemaline myopathy	TPMT	1.0	
+Myelosuppression	TPMT	1.0	
+Polymyalgia Rheumatica	IFNG	1.0	
+Deficiency of glucose-6-phosphate dehydrogenase	IFNG	1.0	
+Alveolar Bone Loss	IFNG	1.0	
+Condylomata Acuminata	IFNG	1.0	
+Salmonella infections	IFNG	1.0	
+Smallpox	IFNG	1.0	
+Herpesviridae Infections	IFNG	1.0	
+Chronic myelopathy	IFNG	1.0	
+Combined immunodeficiency, X-linked	IFNG	1.0	
+Toxic Epidermal Necrolysis	IFNG	1.0	
+Intracranial glioma	IFNG	1.0	
+Obstructive nephropathy	IFNG	1.0	
+Idiopathic crescentic glomerulonephritis	IFNG	1.0	
+Chronic rejection of renal transplant	IFNG	1.0	
+Lymphoproliferative disorder	IFNG	1.0	
+Lymphoproliferative disorder	TPMT	1.0	
+Active tuberculosis	IFNG	1.0	
+{TSC2 angiomyolipomas, renal, modifier of}, 613254 (3)	IFNG	1.0	
+Mixed cryoglobulinemia	IFNG	1.0	
+Stomach Diseases	IFNG	1.0	
+Subacute Sclerosing Panencephalitis	IFNG	1.0	
+Non-arthropod borne lymphocytic choriomeningitis	IFNG	1.0	
+Cervical intraepithelial neoplasia grade 1	IFNG	1.0	
+Reticulosarcoma	IFNG	1.0	
+Thromboangiitis Obliterans	IFNG	1.0	
+Pituitary corticotropic cell adenoma	IFNG	1.0	
+Rapidly progressive	IFNG	1.0	
+Lymphoid leukemia	IFNG	1.0	
+Lymphoid leukemia	TPMT	1.0	
+Chronic Fatigue Syndrome	IFNG	1.0	
+Neutropenia	IFNG	1.0	
+Neutropenia	TPMT	1.0	
+Agranulocytosis	TPMT	1.0	
+Brucellosis	IFNG	1.0	
+Toxoplasmosis	IFNG	1.0	
+Pelvic inflammatory disease	IFNG	1.0	
+Primary biliary cirrhosis	IFNG	1.0	
+Primary biliary cirrhosis	TPMT	1.0	
+Friedreich's ataxia	IFNG	1.0	
+Pleuritis	IFNG	1.0	
+Cervical intraepithelial neoplasia grade 2	IFNG	1.0	
+Papillomavirus Infections	IFNG	1.0	
+Neuritis	IFNG	1.0	
+Pneumococcal Infections	IFNG	1.0	
+Rubella	IFNG	1.0	
+Arthritis, Reactive	IFNG	1.0	
+Idiopathic fibrosing alveolitis, chronic form	IFNG	1.0	
+Leptospirosis	IFNG	1.0	
+Pemphigus	IFNG	1.0	
+Silicosis	IFNG	1.0	
+Chagas Cardiomyopathy	IFNG	1.0	
+Lehman syndrome	IFNG	1.0	
+Lymphoproliferative syndrome, X-linked, 1, 308240 (3)	IFNG	1.0	
+Zoonotic form of cutaneous leishmaniasis	IFNG	1.0	
+Nausea	IFNG	1.0	
+Cleft palate with cleft lip	IFNG	1.0	
+Disease due to Parvoviridae	IFNG	1.0	
+Hepatitis D Infection	IFNG	1.0	
+Erythema nodosum	IFNG	1.0	
+Pneumonitis	IFNG	1.0	
+Necrosis	IFNG	1.0	
+Respiratory Tract Diseases	IFNG	1.0	
+Leishmaniasis	IFNG	1.0	
+Joint swelling	IFNG	1.0	
+Chronic neutrophilia	IFNG	1.0	
+EPIDERMODYSPLASIA VERRUCIFORMIS	IFNG	1.0	
+Lymphocytic Choriomeningitis	IFNG	1.0	
+Neoplasms, Experimental	IFNG	1.0	
+Tropical Spastic Paraparesis	IFNG	1.0	
+Cowden syndrome 1	IFNG	1.0	
+Oral Submucous Fibrosis	IFNG	1.0	

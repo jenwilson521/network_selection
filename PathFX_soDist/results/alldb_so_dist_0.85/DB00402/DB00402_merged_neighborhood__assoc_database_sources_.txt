@@ -1,0 +1,7 @@
+Gene	CUI	Source Databases	
+CYP2C8	C0029445	Bone necrosis	DisGeNet	
+CYP3A4	C0029445	Bone necrosis	DisGeNet	
+CYP2C8	C0031347	Pharyngeal Neoplasms	DisGeNet	
+CYP3A4	C0031347	Pharyngeal Neoplasms	DisGeNet	
+CYP2C8	C0270736	Essential tremor	DisGeNet	
+GABRA1	C0270736	Essential tremor	DisGeNet	

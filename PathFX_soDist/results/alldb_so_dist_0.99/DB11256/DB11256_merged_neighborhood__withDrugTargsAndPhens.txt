@@ -1,0 +1,5 @@
+node1	node2	edge_score	
+DB11256	MTR	1.0	
+DB11256	SLC19A1	1.0	
+DB11256	SLC46A1	1.0	
+

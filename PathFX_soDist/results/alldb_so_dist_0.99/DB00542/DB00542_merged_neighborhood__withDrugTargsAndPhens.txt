@@ -1,0 +1,5 @@
+node1	node2	edge_score	
+DB00542	MTHFR	1.0	
+DB00542	SLC15A2	1.0	
+DB00542	ACE	1.0	
+

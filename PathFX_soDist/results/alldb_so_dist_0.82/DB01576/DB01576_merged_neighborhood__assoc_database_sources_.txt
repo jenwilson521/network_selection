@@ -1,0 +1,21 @@
+Gene	CUI	Source Databases	
+ADRA1A	C0013146	Methamphetamine abuse	DisGeNet	
+ALB	C0013146	Methamphetamine abuse	DisGeNet	
+CYP2D6	C0013146	Methamphetamine abuse	DisGeNet	
+SLC6A2	C0013146	Methamphetamine abuse	DisGeNet	
+SLC6A3	C0013146	Methamphetamine abuse	DisGeNet	
+ADRA1A	C0152020	Gastroparesis	DisGeNet	
+ADRA1B	C0152020	Gastroparesis	DisGeNet	
+CYP2D6	C0152020	Gastroparesis	DisGeNet	
+ADRA1A	C0221765	Chronic schizophrenia	DisGeNet	
+CYP2D6	C0221765	Chronic schizophrenia	DisGeNet	
+SLC6A3	C0221765	Chronic schizophrenia	DisGeNet	
+CYP2D6	C0019337	Heroin Dependence	DisGeNet	
+SLC6A2	C0019337	Heroin Dependence	DisGeNet	
+SLC6A3	C0019337	Heroin Dependence	DisGeNet	
+CYP2D6	C1827377	Slow acetylator due to N-acetyltransferase enzyme variant	DisGeNet	
+SLC6A2	C1827377	Slow acetylator due to N-acetyltransferase enzyme variant	DisGeNet	
+SLC6A2	C0004930	Behavior Disorders	DisGeNet	
+SLC6A3	C0004930	Behavior Disorders	DisGeNet	
+ALB	C0038586	Substance Use Disorders	DisGeNet	
+SLC6A3	C0038586	Substance Use Disorders	DisGeNet	

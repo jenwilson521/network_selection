@@ -1,0 +1,7 @@
+Gene	CUI	Source Databases	
+CYP2E1	C0206720	Squamous Cell Neoplasms	DisGeNet	
+CYP3A4	C0206720	Squamous Cell Neoplasms	DisGeNet	
+CYP2E1	C0029445	Bone necrosis	DisGeNet	
+CYP3A4	C0029445	Bone necrosis	DisGeNet	
+CYP2E1	C0002875	Cooley's anemia	DisGeNet	
+CYP3A4	C0002875	Cooley's anemia	DisGeNet	

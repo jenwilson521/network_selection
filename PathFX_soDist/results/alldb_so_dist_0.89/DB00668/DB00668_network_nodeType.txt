@@ -1,0 +1,42 @@
+node_name	node_type	
+DB00668	drug	
+CYP2C9	drug_target	
+ADRA1A	drug_target	
+ADRA1B	drug_target	
+ADRA1D	drug_target	
+COMT	drug_target	
+ADRA2B	drug_target	
+ADRA2A	drug_target	
+ADRB1	drug_target	
+ADRB2	drug_target	
+TNF	drug_target	
+SLC22A1	drug_target	
+SLC22A2	drug_target	
+CYP3A4	drug_target	
+Acute postoperative pain	phenotype	
+Low Tension Glaucoma	phenotype	
+Chronic schizophrenia	phenotype	
+Weight Loss Adverse Event	phenotype	
+Fibromyalgia	phenotype	
+Chronic sciatica	phenotype	
+Stress, Psychological	phenotype	
+Pharyngeal Neoplasms	phenotype	
+Occupational Diseases	phenotype	
+Depressive Symptoms	phenotype	
+Acute kidney injury	phenotype	
+Renal hypertension	phenotype	
+Nephrosclerosis	phenotype	
+Gastrointestinal Diseases	phenotype	
+Low back pain	phenotype	
+Acute Coronary Syndrome	phenotype	
+Drug usage	phenotype	
+Endotoxemia	phenotype	
+Obstructive sleep apnea	phenotype	
+Prenatal Exposure Delayed Effects	phenotype	
+Pain insensitivity	phenotype	
+Methamphetamine abuse	phenotype	
+Neoplasm of the larynx	phenotype	
+Hyperalgesia	phenotype	
+Nausea	phenotype	
+Memory Disorders	phenotype	
+Glaucoma, Open-Angle	phenotype	

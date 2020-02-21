@@ -1,0 +1,11 @@
+Gene	CUI	Source Databases	
+CES1	C1609538	Latent Tuberculosis	DisGeNet	
+CHRM2	C0154409	Recurrent major depressive episodes	DisGeNet	
+CHRM2	C0428977	Bradycardia	DisGeNet	
+CHRM2	C0340427	Familial dilated cardiomyopathy	DisGeNet	
+CHRM2	C1510472	Drug Dependence	DisGeNet	
+CES1	C0025521	Inborn Errors of Metabolism	DisGeNet	
+CHRM2	C0038580	Substance addiction and disorders	DisGeNet	
+CHRM2	C0011882	Type 1 diabetic neuropathy	DisGeNet	
+CHRM2	C0085762	Alcohol abuse	DisGeNet	
+CES1	C0270814	Spastic syndrome	DisGeNet	

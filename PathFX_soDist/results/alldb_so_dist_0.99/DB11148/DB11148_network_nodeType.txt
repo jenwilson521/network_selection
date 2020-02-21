@@ -1,0 +1,5 @@
+node_name	node_type	
+DB11148	drug	
+BCHE	drug_target	
+ALB	drug_target	
+ORM1	drug_target	

@@ -1,0 +1,80 @@
+rank	phenotype	cui	assoc in neigh	assoc in intom	probability	Benjamini-Hochberg	genes	
+1	Alopecia Areata	C0002171	1	79	0.0	1.0989010989e-05	C5
+2	Arthritis, Rheumatoid	C0003864	1	1030	0.0	2.1978021978e-05	C5
+3	Rheumatoid arthritis	C0003873	1	1856	0.0	3.2967032967e-05	C5
+4	Asthma	C0004096	1	1454	0.0	4.3956043956e-05	C5
+5	Atherosclerosis	C0004153	1	1271	0.0	5.49450549451e-05	C5
+6	Autoimmune disease 1	C0004364	1	890	0.0	6.59340659341e-05	C5
+7	Cerebral edema	C0006114	1	80	0.0	7.69230769231e-05	C5
+8	Breast-ovarian cancer, familial 1	C0006142	1	4543	0.0	8.79120879121e-05	C5
+9	Bronchiolitis, Viral	C0006274	1	211	0.0	9.89010989011e-05	C5
+10	CNS disorder	C0007682	1	113	0.0	0.00010989010989	C5
+11	CNS infection	C0007684	1	84	0.0	0.000120879120879	C5
+12	Brain Ischemia	C0007786	1	415	0.0	0.000131868131868	C5
+13	Chlamydia Infections	C0008149	1	83	0.0	0.000142857142857	C5
+14	Colitis, Ulcerative	C0009319	1	679	0.0	0.000153846153846	C5
+15	Death, Sudden, Cardiac	C0011065	1	203	0.0	0.000164835164835	C5
+16	Diabetes mellitus type 1	C0011854	1	1104	0.0	0.000175824175824	C5
+17	Diabetes mellitus type 2	C0011860	1	1972	0.0	0.000186813186813	C5
+18	Diarrhea 8, secretory sodium, congenital	C0011991	1	379	0.0	0.000197802197802	C5
+19	Eczema	C0013595	1	474	0.0	0.000208791208791	C5
+20	Experimental Autoimmune Encephalomyelitis	C0014072	1	389	0.0	0.00021978021978	C5
+21	Endometriosis	C0014175	1	727	0.0	0.000230769230769	C5
+22	Erythema nodosum	C0014743	1	55	0.0	0.000241758241758	C5
+23	Fibrosis	C0016059	1	191	0.0	0.000252747252747	C5
+24	Folic Acid Deficiency	C0016412	1	37	0.0	0.000263736263736	C5
+25	IgA nephropathy, susceptibility to, 3	C0017661	1	650	0.0	0.000274725274725	C5
+26	Immediate hypersensitivity	C0020523	1	117	0.0	0.000285714285714	C5
+28	Immunodeficiency due to defect in CD3-gamma	C0021051	1	571	0.0	0.000307692307692	C5
+29	Infertility associated with multi-tailed spermatozoa and excessive DNA	C0021359	1	128	0.0	0.000318681318681	C5
+30	Inflammation	C0021368	1	647	0.0	0.00032967032967	C5
+31	Ischemia	C0022116	1	647	0.0	0.000340659340659	C5
+32	Liver Cirrhosis, Biliary	C0023890	1	919	0.0	0.000351648351648	C5
+33	Lupus Erythematosus, Systemic	C0024141	1	1467	0.0	0.000362637362637	C5
+34	Lupus Nephritis	C0024143	1	226	0.0	0.000373626373626	C5
+35	Non-Hodgkin lymphoma	C0024305	1	556	0.0	0.000384615384615	C5
+37	Meningitis, Pneumococcal	C0025295	1	34	0.0	0.000406593406593	C5
+39	Myocardial Reperfusion Injury	C0027055	1	196	0.0	0.000428571428571	C5
+40	Neutropenia	C0027947	1	255	0.0	0.00043956043956	C5
+41	Peritonitis	C0031154	1	115	0.0	0.000450549450549	C5
+42	Reperfusion Injury	C0035126	1	305	0.0	0.000461538461538	C5
+43	Respiratory Distress Syndrome, Adult	C0035222	1	142	0.0	0.000472527472527	C5
+44	Respiratory Syncytial Virus Infections	C0035235	1	299	0.0	0.000483516483516	C5
+45	Sarcoidosis	C0036202	1	257	0.0	0.000494505494505	C5
+46	Seborrheic dermatitis	C0036508	1	25	0.0	0.000505494505495	C5
+47	Septicemia	C0036690	1	387	0.0	0.000516483516484	C5
+48	Abnormality of the skin	C0037268	1	1376	0.0	0.000527472527473	C5
+49	Stroke	C0038454	1	1229	0.0	0.000538461538462	C5
+50	Trachoma	C0040592	1	64	0.0	0.000549450549451	C5
+51	Virus Diseases	C0042769	1	772	0.0	0.00056043956044	C5
+52	Bronchial Hyperreactivity	C0085129	1	170	0.0	0.000571428571429	C5
+53	Renal fibrosis	C0151650	1	169	0.0	0.000582417582418	C5
+55	Infections, recurrent, with encephalopathy, hepatic dysfunction, and cardiovascular malformations	C0239998	1	521	0.0	0.000604395604396	C5
+56	Age-related macular degeneration 2	C0242383	1	423	0.0	0.000615384615385	C5
+57	Sepsis	C0243026	1	602	0.0	0.000626373626374	C5
+58	Abnormality of the digestive system	C0266015	1	1679	0.0	0.000637362637363	C5
+61	Autosomal recessive inheritance	C0441748	1	2006	0.0	0.00067032967033	C5
+62	Abnormality of the nervous system	C0497552	1	2512	0.0	0.000681318681319	C5
+63	Hepatitis C, Chronic	C0524910	1	455	0.0	0.000692307692308	C5
+64	Breast carcinoma	C0678222	1	4281	0.0	0.000703296703297	C5
+65	Acute anterior uveitis	C0701807	1	42	0.0	0.000714285714286	C5
+66	Abdominal symptom	C0740651	1	901	0.0	0.000725274725275	C5
+69	Drusen	C1260959	1	47	0.0	0.000758241758242	C5
+71	Venous Thromboembolism	C1861172	1	240	0.0	0.00078021978022	C5
+72	Coronary Artery Disease	C1956346	1	1366	0.0	0.000791208791209	C5
+73	Hepatocellular carcinoma	C2239176	1	3108	0.0	0.000802197802198	C5
+74	Thrombotic Microangiopathies	C2717961	1	42	0.0	0.000813186813187	C5
+75	Kashin-Beck Disease	C2745963	1	25	0.0	0.000824175824176	C5
+76	Abnormality of humoral immunity	C3150510	1	157	0.0	0.000835164835165	C5
+77	Juvenile idiopathic arthritis, enthesitis related arthritis	C3495559	1	333	0.0	0.000846153846154	C5
+78	Allergic sensitization	C3662483	1	41	0.0	0.000857142857143	C5
+80	Inflammatory abnormality of the skin	C3875321	1	278	0.0	0.000879120879121	C5
+81	Abnormality of the immune system	C4021753	1	1164	0.0	0.00089010989011	C5
+82	Morphological abnormality of the central nervous system	C4021765	1	1722	0.0	0.000901098901099	C5
+83	Increased inflammatory response	C4022803	1	581	0.0	0.000912087912088	C5
+84	Abnormal inflammatory response	C4022805	1	581	0.0	0.000923076923077	C5
+85	Abnormality of nervous system morphology	C4022810	1	1875	0.0	0.000934065934066	C5
+86	Abnormality of skin physiology	C4023527	1	286	0.0	0.000945054945055	C5
+87	Abnormality of immune system physiology	C4023616	1	884	0.0	0.000956043956044	C5
+90	Abnormality of the integument	C4025761	1	1665	0.0	0.000989010989011	C5
+91	Abnormality of digestive system physiology	C4293692	1	1132	0.0	0.001	C5

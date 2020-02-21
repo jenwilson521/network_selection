@@ -1,0 +1,13 @@
+node_name	node_type	
+DB00836	drug	
+CYP2C8	drug_target	
+CYP2D6	drug_target	
+CACNA1A	drug_target	
+CYP2B6	drug_target	
+ABCB1	drug_target	
+NR1I3	drug_target	
+OPRM1	drug_target	
+OPRD1	drug_target	
+POMC	drug_target	
+OPRK1	drug_target	
+CYP3A4	drug_target	

@@ -1,0 +1,4 @@
+node_name	node_type	
+DB01744	drug	
+TRPM8	drug_target	
+TRPV1	drug_target	

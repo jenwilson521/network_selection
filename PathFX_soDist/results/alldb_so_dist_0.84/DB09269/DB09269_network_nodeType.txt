@@ -1,0 +1,6 @@
+node_name	node_type	
+DB09269	drug	
+CES1	drug_target	
+Latent Tuberculosis	phenotype	
+Inborn Errors of Metabolism	phenotype	
+Spastic syndrome	phenotype	

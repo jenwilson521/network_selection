@@ -1,0 +1,5 @@
+node_name	node_type	
+DB00232	drug	
+CA2	drug_target	
+CA1	drug_target	
+CA4	drug_target	

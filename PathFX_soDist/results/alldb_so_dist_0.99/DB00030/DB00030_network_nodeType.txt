@@ -1,0 +1,9 @@
+node_name	node_type	
+DB00030	drug	
+IGF1R	drug_target	
+PCSK2	drug_target	
+PCSK1	drug_target	
+CPE	drug_target	
+RB1	drug_target	
+INSR	drug_target	
+IDE	drug_target	

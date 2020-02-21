@@ -1,0 +1,6 @@
+node1	node2	edge_score	
+DB00982	RARA	1.0	
+DB00982	CYP3A4	1.0	
+DB00982	ALB	1.0	
+DB00982	RARG	1.0	
+

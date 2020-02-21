@@ -1,0 +1,18 @@
+node_name	node_type	
+DB00371	drug	
+CYP2E1	drug_target	
+CYP2C19	drug_target	
+GABRA4	drug_target	
+GABRA6	drug_target	
+GABRA1	drug_target	
+GABRA3	drug_target	
+GABRA2	drug_target	
+Liver Cirrhosis, Alcoholic	phenotype	
+Pleural Neoplasms	phenotype	
+Alcohol abuse	phenotype	
+Severe myoclonic epilepsy in infancy	phenotype	
+Genomic Instability	phenotype	
+End Stage Liver Disease	phenotype	
+Stomach Diseases	phenotype	
+Idiopathic generalized epilepsy	phenotype	
+Essential tremor	phenotype	

@@ -1,0 +1,7 @@
+node_name	node_type	
+DB01364	drug	
+ADRA1A	drug_target	
+ACHE	drug_target	
+SLC6A2	drug_target	
+BCHE	drug_target	
+SLC18A2	drug_target	

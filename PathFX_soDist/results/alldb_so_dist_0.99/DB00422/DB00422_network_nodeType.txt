@@ -1,0 +1,5 @@
+node_name	node_type	
+DB00422	drug	
+SLC6A3	drug_target	
+SLC6A2	drug_target	
+HTR1A	drug_target	

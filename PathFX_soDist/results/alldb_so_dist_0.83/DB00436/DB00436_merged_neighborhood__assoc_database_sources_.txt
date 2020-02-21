@@ -1,0 +1,20 @@
+Gene	CUI	Source Databases	
+ALB	C0027707	Tubulointerstitial nephritis	DisGeNet	
+SLC12A3	C0027707	Tubulointerstitial nephritis	DisGeNet	
+KCNMA1	C1384514	Primary hyperaldosteronism	DisGeNet	
+SLC12A3	C1384514	Primary hyperaldosteronism	DisGeNet	
+ALB	C0085580	Essential hypertension	DisGeNet	
+KCNMA1	C0085580	Essential hypertension	DisGeNet	
+SLC12A3	C0085580	Essential hypertension	DisGeNet	
+SLC12A3	C0268450	Familial hypokalemia-hypomagnesemia	ClinVar,DisGeNet	
+ALB	C0346402	Malignant neoplasm of adrenal cortex	DisGeNet	
+ALB	C0014867	Esophageal varix	DisGeNet	
+SLC12A3	C0242387	Treacher Collins syndrome	DisGeNet	
+ALB	C0451641	Urolithiasis	DisGeNet	
+TPMT	C0746883	Febrile Neutropenia	DisGeNet	
+ALB	C0013502	Echinococcosis	DisGeNet	
+KRT9	C0079298	Epidermolysis bullosa simplex, Cockayne-Touraine type	DisGeNet	
+KRT9	C0240641	Palmar hyperkeratosis	HumPhenOnt	
+KCNMA1	C0005694	Bladder neck obstruction	DisGeNet	
+ALB	C0339467	Proliferative retinopathy	DisGeNet	
+SLC12A3	C0553730	Chondrocalcinosis	HumPhenOnt	

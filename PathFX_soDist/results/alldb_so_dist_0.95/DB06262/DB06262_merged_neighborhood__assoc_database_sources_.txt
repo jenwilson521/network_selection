@@ -1,0 +1,396 @@
+Gene	CUI	Source Databases	
+ADRA1A	C0152136	Low Tension Glaucoma	DisGeNet	
+ADRA2A	C0152136	Low Tension Glaucoma	DisGeNet	
+ADRA2C	C0152136	Low Tension Glaucoma	DisGeNet	
+ADRB1	C0152136	Low Tension Glaucoma	DisGeNet	
+ADRB2	C0152136	Low Tension Glaucoma	DisGeNet	
+ADRB3	C0152136	Low Tension Glaucoma	DisGeNet	
+ADRA2A	C0525045	Mood Disorders	DisGeNet	
+ADRA2C	C0525045	Mood Disorders	DisGeNet	
+ADRB1	C0525045	Mood Disorders	DisGeNet	
+ADRB2	C0525045	Mood Disorders	DisGeNet	
+ADRB3	C0525045	Mood Disorders	DisGeNet	
+DDC	C0525045	Mood Disorders	DisGeNet	
+SLC6A2	C0525045	Mood Disorders	DisGeNet	
+ADRA2A	C2911645	Weight Loss Adverse Event	DisGeNet	
+ADRB2	C2911645	Weight Loss Adverse Event	DisGeNet	
+ADRB3	C2911645	Weight Loss Adverse Event	DisGeNet	
+SLC6A2	C2911645	Weight Loss Adverse Event	DisGeNet	
+ADRA1A	C1272641	Systemic arterial pressure	DisGeNet	
+ADRA2A	C1272641	Systemic arterial pressure	DisGeNet	
+ADRA2C	C1272641	Systemic arterial pressure	DisGeNet	
+ADRB1	C1272641	Systemic arterial pressure	DisGeNet	
+ADRB2	C1272641	Systemic arterial pressure	DisGeNet	
+ADRB3	C1272641	Systemic arterial pressure	DisGeNet	
+SLC6A2	C1272641	Systemic arterial pressure	DisGeNet	
+ADRA1A	C1263846	Attention deficit hyperactivity disorder	DisGeNet	
+ADRA2A	C1263846	Attention deficit hyperactivity disorder	DisGeNet	
+ADRA2C	C1263846	Attention deficit hyperactivity disorder	DisGeNet	
+ADRB1	C1263846	Attention deficit hyperactivity disorder	DisGeNet	
+ADRB2	C1263846	Attention deficit hyperactivity disorder	DisGeNet	
+DDC	C1263846	Attention deficit hyperactivity disorder	DisGeNet	
+SLC6A2	C1263846	Attention deficit hyperactivity disorder	DisGeNet	
+ADRA1A	C0036396	Chronic sciatica	DisGeNet	
+ADRA2A	C0036396	Chronic sciatica	DisGeNet	
+ADRA2C	C0036396	Chronic sciatica	DisGeNet	
+ADRA2A	C0518010	body mass	DisGeNet	
+ADRB1	C0518010	body mass	DisGeNet	
+ADRB2	C0518010	body mass	DisGeNet	
+ADRB3	C0518010	body mass	DisGeNet	
+ADRA1A	C0001314	Acute disease of cardiovascular system	DisGeNet	
+ADRA2A	C0001314	Acute disease of cardiovascular system	DisGeNet	
+ADRA2C	C0001314	Acute disease of cardiovascular system	DisGeNet	
+ADRA1A	C0027719	Nephrosclerosis	DisGeNet	
+ADRB1	C0027719	Nephrosclerosis	DisGeNet	
+ADRB2	C0027719	Nephrosclerosis	DisGeNet	
+ADRA1A	C1269683	Major depressive disorder	DisGeNet	
+ADRA2A	C1269683	Major depressive disorder	DisGeNet	
+ADRA2C	C1269683	Major depressive disorder	DisGeNet	
+ADRB1	C1269683	Major depressive disorder	DisGeNet	
+ADRB3	C1269683	Major depressive disorder	DisGeNet	
+SLC6A2	C1269683	Major depressive disorder	DisGeNet	
+ADRA1A	C0024031	Low back pain	DisGeNet	
+ADRA2A	C0024031	Low back pain	DisGeNet	
+ADRA2C	C0024031	Low back pain	DisGeNet	
+ADRA2A	C0028756	Obesity, severe, 601665 (3)	DisGeNet	
+ADRB1	C0028756	Obesity, severe, 601665 (3)	DisGeNet	
+ADRB2	C0028756	Obesity, severe, 601665 (3)	DisGeNet	
+ADRB3	C0028756	Obesity, severe, 601665 (3)	DisGeNet	
+ADRA1A	C0016053	Fibromyalgia	DisGeNet	
+ADRB2	C0016053	Fibromyalgia	DisGeNet	
+ADRB3	C0016053	Fibromyalgia	DisGeNet	
+ADRA2C	C3827868	Tachycardia	DisGeNet	
+ADRB1	C3827868	Tachycardia	DisGeNet	
+ADRB2	C3827868	Tachycardia	DisGeNet	
+SLC6A2	C3827868	Tachycardia	DisGeNet	
+ADRA2A	C2911647	Weight Gain Adverse Event	DisGeNet	
+ADRB2	C2911647	Weight Gain Adverse Event	DisGeNet	
+ADRB3	C2911647	Weight Gain Adverse Event	DisGeNet	
+DDC	C2911647	Weight Gain Adverse Event	DisGeNet	
+ADRA2A	C0520679	Obstructive sleep apnea	DisGeNet	
+ADRB1	C0520679	Obstructive sleep apnea	DisGeNet	
+ADRB2	C0520679	Obstructive sleep apnea	DisGeNet	
+ADRB3	C0520679	Obstructive sleep apnea	DisGeNet	
+ADRA1A	C0020429	Hyperalgesia	DisGeNet	
+ADRA2A	C0020429	Hyperalgesia	DisGeNet	
+ADRA2C	C0020429	Hyperalgesia	DisGeNet	
+ADRB1	C0020429	Hyperalgesia	DisGeNet	
+ADRA1A	C0020445	Familial hypercholesterolemia	DisGeNet	
+ADRB1	C0020445	Familial hypercholesterolemia	DisGeNet	
+ADRB2	C0020445	Familial hypercholesterolemia	DisGeNet	
+ADRB3	C0020445	Familial hypercholesterolemia	DisGeNet	
+ADRA1A	C0003469	Anxiety Disorders	DisGeNet	
+ADRA2A	C0003469	Anxiety Disorders	DisGeNet	
+ADRB2	C0003469	Anxiety Disorders	DisGeNet	
+DDC	C0003469	Anxiety Disorders	DisGeNet	
+SLC6A2	C0003469	Anxiety Disorders	DisGeNet	
+ADRA2A	C0041696	Unipolar Depression	DisGeNet	
+ADRA2C	C0041696	Unipolar Depression	DisGeNet	
+ADRB1	C0041696	Unipolar Depression	DisGeNet	
+ADRB3	C0041696	Unipolar Depression	DisGeNet	
+SLC6A2	C0041696	Unipolar Depression	DisGeNet	
+ADRA1A	C0018802	Congestive heart failure	DisGeNet	
+ADRA2C	C0018802	Congestive heart failure	DisGeNet	
+ADRB1	C0018802	Congestive heart failure	DisGeNet	
+ADRB2	C0018802	Congestive heart failure	DisGeNet	
+ADRB3	C0018802	Congestive heart failure	DisGeNet	
+SLC6A2	C0018802	Congestive heart failure	DisGeNet	
+ADRA1A	C0018801	Heart Failure	DisGeNet	
+ADRA2C	C0018801	Heart Failure	DisGeNet	
+ADRB1	C0018801	Heart Failure	DisGeNet	
+ADRB2	C0018801	Heart Failure	DisGeNet	
+ADRB3	C0018801	Heart Failure	DisGeNet	
+SLC6A2	C0018801	Heart Failure	DisGeNet	
+ADRA1A	C0149721	Left ventricular hypertrophy	DisGeNet	
+ADRB1	C0149721	Left ventricular hypertrophy	DisGeNet	
+ADRB2	C0149721	Left ventricular hypertrophy	DisGeNet	
+ADRB3	C0149721	Left ventricular hypertrophy	DisGeNet	
+ADRA1A	C0023890	Liver Cirrhosis, Biliary	DisGeNet	
+ADRA2A	C0023890	Liver Cirrhosis, Biliary	DisGeNet	
+ADRB1	C0023890	Liver Cirrhosis, Biliary	DisGeNet	
+ADRB2	C0023890	Liver Cirrhosis, Biliary	DisGeNet	
+ADRB3	C0023890	Liver Cirrhosis, Biliary	DisGeNet	
+DDC	C0023890	Liver Cirrhosis, Biliary	DisGeNet	
+ADRA2A	C0004930	Behavior Disorders	DisGeNet	
+SLC6A2	C0004930	Behavior Disorders	DisGeNet	
+ADRB2	C0020541	Portal hypertension, noncirrhotic	DisGeNet	
+ADRB3	C0020541	Portal hypertension, noncirrhotic	DisGeNet	
+DDC	C0020541	Portal hypertension, noncirrhotic	DisGeNet	
+ADRA2C	C0023976	Acquired long QT syndrome	DisGeNet	
+ADRB1	C0023976	Acquired long QT syndrome	DisGeNet	
+ADRB2	C0023976	Acquired long QT syndrome	DisGeNet	
+ADRA1A	C0085580	Essential hypertension	DisGeNet	
+ADRB1	C0085580	Essential hypertension	DisGeNet	
+ADRB2	C0085580	Essential hypertension	DisGeNet	
+ADRB3	C0085580	Essential hypertension	DisGeNet	
+ADRA1A	C0020649	Hypotension	DisGeNet	
+ADRA2A	C0020649	Hypotension	DisGeNet	
+DDC	C0020649	Hypotension	HumPhenOnt	
+ADRA2A	C0948089	Acute Coronary Syndrome	DisGeNet	
+ADRB1	C0948089	Acute Coronary Syndrome	DisGeNet	
+ADRB2	C0948089	Acute Coronary Syndrome	DisGeNet	
+ADRB3	C0948089	Acute Coronary Syndrome	DisGeNet	
+ADRA1A	C0040517	Tourette Syndrome	DisGeNet	
+ADRA2A	C0040517	Tourette Syndrome	DisGeNet	
+SLC6A2	C0040517	Tourette Syndrome	DisGeNet	
+ADRA1A	C0022661	Kidney Failure, Chronic	DisGeNet	
+ADRB1	C0022661	Kidney Failure, Chronic	DisGeNet	
+ADRB2	C0022661	Kidney Failure, Chronic	DisGeNet	
+ADRB3	C0022661	Kidney Failure, Chronic	DisGeNet	
+DDC	C0022661	Kidney Failure, Chronic	DisGeNet	
+ADRA1A	C0524620	Metabolic Syndrome X	DisGeNet	
+ADRA2A	C0524620	Metabolic Syndrome X	DisGeNet	
+ADRB1	C0524620	Metabolic Syndrome X	DisGeNet	
+ADRB2	C0524620	Metabolic Syndrome X	DisGeNet	
+ADRB3	C0524620	Metabolic Syndrome X	DisGeNet	
+ADRA1A	C0030201	Acute postoperative pain	DisGeNet	
+ADRB2	C0030201	Acute postoperative pain	DisGeNet	
+ADRB1	C0031212	Personality disorder	DisGeNet	
+SLC6A2	C0031212	Personality disorder	DisGeNet	
+ADRA2A	C0751265	Learning Disabilities	DisGeNet	
+ADRA2C	C0751265	Learning Disabilities	DisGeNet	
+ADRA1A	C0020538	Hypertension	DisGeNet	
+ADRA2A	C0020538	Hypertension	DisGeNet	
+ADRA2C	C0020538	Hypertension	DisGeNet	
+ADRB1	C0020538	Hypertension	DisGeNet	
+ADRB2	C0020538	Hypertension	DisGeNet	
+ADRB3	C0020538	Hypertension	DisGeNet	
+SLC6A2	C0020538	Hypertension	DisGeNet	
+ADRB2	C0000889	Acanthosis nigricans	DisGeNet	
+ADRB3	C0000889	Acanthosis nigricans	DisGeNet	
+ADRB1	C0018916	Hemangioma	DisGeNet	
+ADRB2	C0018916	Hemangioma	DisGeNet	
+ADRB3	C0018916	Hemangioma	DisGeNet	
+ADRB2	C0600040	Chronic interstitial cystitis	DisGeNet	
+ADRB3	C0600040	Chronic interstitial cystitis	DisGeNet	
+ADRA2A	C0022104	Irritable bowel syndrome with diarrhea	DisGeNet	
+ADRA2C	C0022104	Irritable bowel syndrome with diarrhea	DisGeNet	
+SLC6A2	C0022104	Irritable bowel syndrome with diarrhea	DisGeNet	
+ADRA2A	C1271104	Blood pressure finding	DisGeNet	
+ADRB1	C1271104	Blood pressure finding	DisGeNet	
+ADRB2	C1271104	Blood pressure finding	DisGeNet	
+ADRB3	C1271104	Blood pressure finding	DisGeNet	
+ADRB1	C0206733	Capillary hemangiomas	DisGeNet	
+ADRB2	C0206733	Capillary hemangiomas	DisGeNet	
+ADRB1	C0042514	Ventricular tachycardia, catecholaminergic polymorphic, 2	DisGeNet	
+ADRB2	C0042514	Ventricular tachycardia, catecholaminergic polymorphic, 2	DisGeNet	
+ADRB1	C0004238	Atrial Fibrillation	DisGeNet	
+ADRB2	C0004238	Atrial Fibrillation	DisGeNet	
+ADRB3	C0004238	Atrial Fibrillation	DisGeNet	
+ADRA1A	C0013386	Dyskinesia, Drug-Induced	DisGeNet	
+DDC	C0013386	Dyskinesia, Drug-Induced	DisGeNet	
+ADRB1	C0042510	Ventricular fibrillation	DisGeNet	
+ADRB2	C0042510	Ventricular fibrillation	DisGeNet	
+ADRA2A	C0016059	Fibrosis	DisGeNet	
+ADRA2C	C0016059	Fibrosis	DisGeNet	
+ADRB2	C0016059	Fibrosis	DisGeNet	
+ADRA2C	C0007193	Cardiomyopathy, Dilated	DisGeNet	
+ADRB1	C0007193	Cardiomyopathy, Dilated	DisGeNet	
+ADRB2	C0007193	Cardiomyopathy, Dilated	DisGeNet	
+SLC6A2	C0007193	Cardiomyopathy, Dilated	DisGeNet	
+ADRB1	C0025303	Meningococcal Infections	DisGeNet	
+ADRB2	C0025303	Meningococcal Infections	DisGeNet	
+ADRB1	C0038443	Stress, Psychological	DisGeNet	
+ADRB2	C0038443	Stress, Psychological	DisGeNet	
+ADRA2A	C0497406	Overweight	DisGeNet	
+ADRB2	C0497406	Overweight	DisGeNet	
+ADRB3	C0497406	Overweight	DisGeNet	
+ADRA1A	C0151744	Acute myocardial ischemia	DisGeNet	
+ADRB1	C0151744	Acute myocardial ischemia	DisGeNet	
+ADRB2	C0151744	Acute myocardial ischemia	DisGeNet	
+ADRB3	C0151744	Acute myocardial ischemia	DisGeNet	
+ADRB1	C0028797	Occupational Diseases	DisGeNet	
+ADRB2	C0028797	Occupational Diseases	DisGeNet	
+ADRA2A	C0043094	Increased body weight	DisGeNet	
+ADRB2	C0043094	Increased body weight	DisGeNet	
+ADRB3	C0043094	Increased body weight	DisGeNet	
+DDC	C0043094	Increased body weight	DisGeNet	
+ADRA1A	C0242339	Dyslipidemias	DisGeNet	
+ADRB2	C0242339	Dyslipidemias	DisGeNet	
+ADRB3	C0242339	Dyslipidemias	DisGeNet	
+ADRB1	C0242973	Ventricular Dysfunction, Right	DisGeNet	
+ADRB2	C0242973	Ventricular Dysfunction, Right	DisGeNet	
+ADRB2	C0021361	Female infertility	DisGeNet	
+ADRB3	C0021361	Female infertility	DisGeNet	
+ADRA2A	C0432306	Ichthyosis bullosa of Siemens	DisGeNet	
+SLC6A2	C0432306	Ichthyosis bullosa of Siemens	DisGeNet	
+ADRA2A	C0011581	Depressive Disorder	DisGeNet	
+ADRA2C	C0011581	Depressive Disorder	DisGeNet	
+ADRB2	C0011581	Depressive Disorder	DisGeNet	
+SLC6A2	C0011581	Depressive Disorder	DisGeNet	
+ADRA2A	C0011570	{Unipolar depression, susceptibility to}, 608516 (3)	DisGeNet	
+ADRA2C	C0011570	{Unipolar depression, susceptibility to}, 608516 (3)	DisGeNet	
+ADRB2	C0011570	{Unipolar depression, susceptibility to}, 608516 (3)	DisGeNet	
+SLC6A2	C0011570	{Unipolar depression, susceptibility to}, 608516 (3)	DisGeNet	
+ADRB1	C0035204	Respiration Disorders	DisGeNet	
+ADRB2	C0035204	Respiration Disorders	DisGeNet	
+ADRA2A	C0017178	Gastrointestinal Diseases	DisGeNet	
+SLC6A2	C0017178	Gastrointestinal Diseases	DisGeNet	
+ADRB1	C0264716	Chronic heart failure	DisGeNet	
+ADRB2	C0264716	Chronic heart failure	DisGeNet	
+ADRA2A	C0027796	Neuralgia	DisGeNet	
+ADRA2C	C0027796	Neuralgia	DisGeNet	
+ADRB2	C0007789	Cerebral palsy, spastic quadriplegic, 3	DisGeNet	
+SLC6A2	C0007789	Cerebral palsy, spastic quadriplegic, 3	DisGeNet	
+ADRB2	C0851578	Sleep Wake Disorders	DisGeNet	
+ADRB3	C0851578	Sleep Wake Disorders	DisGeNet	
+ADRB1	C0020473	Hyperlipidemia, combined, 1	DisGeNet	
+ADRB2	C0020473	Hyperlipidemia, combined, 1	DisGeNet	
+ADRB3	C0020473	Hyperlipidemia, combined, 1	DisGeNet	
+ADRA1A	C0030193	Pain	DisGeNet	
+ADRA2A	C0030193	Pain	DisGeNet	
+ADRA2C	C0030193	Pain	DisGeNet	
+ADRB2	C0030193	Pain	DisGeNet	
+ADRB2	C0004610	Bacteremia, susceptibility to, 2	DisGeNet	
+SLC6A2	C0004610	Bacteremia, susceptibility to, 2	DisGeNet	
+ADRA1A	C0013146	Methamphetamine abuse	DisGeNet	
+SLC6A2	C0013146	Methamphetamine abuse	DisGeNet	
+ADRB3	C0003125	Anorexia nervosa 1	DisGeNet	
+SLC6A2	C0003125	Anorexia nervosa 1	DisGeNet	
+ADRA2A	C0001973	Alcohol dependence	DisGeNet	
+ADRA2C	C0001973	Alcohol dependence	DisGeNet	
+ADRB2	C0001973	Alcohol dependence	DisGeNet	
+SLC6A2	C0001973	Alcohol dependence	DisGeNet	
+ADRB1	C0017612	Glaucoma, Open-Angle	DisGeNet	
+ADRB2	C0017612	Glaucoma, Open-Angle	DisGeNet	
+ADRA2A	C0030319	Panic disorder syndrome 1 (2)	DisGeNet	
+SLC6A2	C0030319	Panic disorder syndrome 1 (2)	DisGeNet	
+ADRA2A	C0010054	Coronary heart disease 7	DisGeNet	
+ADRB1	C0010054	Coronary heart disease 7	DisGeNet	
+ADRB2	C0010054	Coronary heart disease 7	DisGeNet	
+ADRB3	C0010054	Coronary heart disease 7	DisGeNet	
+ADRB2	C0034065	Pulmonary Embolism	DisGeNet	
+ADRB3	C0034065	Pulmonary Embolism	DisGeNet	
+ADRB2	C0311277	Abdominal obesity	DisGeNet	
+ADRB3	C0311277	Abdominal obesity	DisGeNet	
+ADRA1A	C0036341	Schizophrenia	DisGeNet	
+ADRA2A	C0036341	Schizophrenia	DisGeNet	
+ADRA2C	C0036341	Schizophrenia	DisGeNet	
+ADRB3	C0036341	Schizophrenia	DisGeNet	
+DDC	C0036341	Schizophrenia	DisGeNet	
+SLC6A2	C0036341	Schizophrenia	DisGeNet	
+ADRA1A	C0025517	Disorders of Intracellular Cobalamin Metabolism	DisGeNet	
+ADRB2	C0025517	Disorders of Intracellular Cobalamin Metabolism	DisGeNet	
+ADRB3	C0025517	Disorders of Intracellular Cobalamin Metabolism	DisGeNet	
+ADRB2	C0042487	Venous thrombosis	DisGeNet	
+ADRB3	C0042487	Venous thrombosis	DisGeNet	
+ADRA1A	C0011860	Diabetes mellitus type 2	DisGeNet	
+ADRA2A	C0011860	Diabetes mellitus type 2	DisGeNet	
+ADRA2C	C0011860	Diabetes mellitus type 2	DisGeNet	
+ADRB1	C0011860	Diabetes mellitus type 2	DisGeNet	
+ADRB2	C0011860	Diabetes mellitus type 2	DisGeNet	
+ADRB3	C0011860	Diabetes mellitus type 2	DisGeNet	
+ADRA1A	C0005586	Bipolar affective disorder	DisGeNet	
+ADRB2	C0005586	Bipolar affective disorder	DisGeNet	
+DDC	C0005586	Bipolar affective disorder	DisGeNet	
+SLC6A2	C0005586	Bipolar affective disorder	DisGeNet	
+ADRA1A	C1956346	Coronary Artery Disease	DisGeNet	
+ADRA2A	C1956346	Coronary Artery Disease	DisGeNet	
+ADRB1	C1956346	Coronary Artery Disease	DisGeNet	
+ADRB2	C1956346	Coronary Artery Disease	DisGeNet	
+ADRB3	C1956346	Coronary Artery Disease	DisGeNet	
+ADRA1A	C0220659	 Acrodysostosis 1, with or without hormone resistance, 101800 (3)	DisGeNet	
+ADRB3	C0221032	Berardinelli-Seip congenital lipodystrophy	DisGeNet	
+ADRB2	C0340100	High altitude pulmonary edema	DisGeNet	
+SLC6A2	C1827377	Slow acetylator due to N-acetyltransferase enzyme variant	DisGeNet	
+ADRA1A	C1864100	Pseudohypoparathyroidism, type IB, 603233 (3)	DisGeNet	
+ADRB1	C0085298	Sudden cardiac death	DisGeNet	
+ADRB2	C0085298	Sudden cardiac death	DisGeNet	
+SLC6A2	C0011436	Dentinogenesis imperfecta	DisGeNet	
+ADRB2	C0037090	Signs and Symptoms, Respiratory	DisGeNet	
+SLC6A2	C0154409	Recurrent major depressive episodes	DisGeNet	
+SLC6A2	C0264423	Asthma, Occupational	DisGeNet	
+ADRA1A	C0030517	Disorders of parathyroid gland	DisGeNet	
+ADRA1A	C0598428	genetic hypertension	DisGeNet	
+ADRA2C	C0004936	Mental disorders	DisGeNet	
+DDC	C0004936	Mental disorders	DisGeNet	
+SLC6A2	C0004936	Mental disorders	DisGeNet	
+ADRB2	C0001925	Albuminuria	DisGeNet	
+ADRB3	C0001925	Albuminuria	DisGeNet	
+ADRA1A	C0020071	Hereditary Sensory Autonomic Neuropathy, Type 1	DisGeNet	
+ADRA1A	C0005694	Bladder neck obstruction	DisGeNet	
+DDC	C0020672	Hypothermia	HumPhenOnt	
+ADRB3	C0339467	Proliferative retinopathy	DisGeNet	
+ADRB3	C0856727	Cholesterol gallstones	DisGeNet	
+SLC6A2	C3266076	Orofacial cleft	DisGeNet	
+ADRA1A	C0085129	Bronchial Hyperreactivity	DisGeNet	
+ADRB2	C0085129	Bronchial Hyperreactivity	DisGeNet	
+ADRA2A	C0008350	Cholelithiasis	DisGeNet	
+ADRB3	C0008350	Cholelithiasis	DisGeNet	
+ADRB1	C0017601	Glaucoma, Angle-Closure	DisGeNet	
+ADRB2	C0017601	Glaucoma, Angle-Closure	DisGeNet	
+ADRB3	C0017601	Glaucoma, Angle-Closure	DisGeNet	
+DDC	C0006012	Borderline Personality Disorder	DisGeNet	
+SLC6A2	C0006012	Borderline Personality Disorder	DisGeNet	
+ADRA1A	C0235290	Taste bitter	DisGeNet	
+ADRA1A	C0028754	Obesity	DisGeNet	
+ADRA2A	C0028754	Obesity	DisGeNet	
+ADRB1	C0028754	Obesity	DisGeNet	
+ADRB2	C0028754	Obesity	ClinVar,DisGeNet	
+ADRB3	C0028754	Obesity	ClinVar,DisGeNet	
+SLC6A2	C0028754	Obesity	DisGeNet	
+ADRB2	C0021775	Intermittent claudication	DisGeNet	
+ADRA1A	C0032460	Polycystic Ovary Syndrome	DisGeNet	
+ADRB2	C0032460	Polycystic Ovary Syndrome	DisGeNet	
+ADRB3	C0032460	Polycystic Ovary Syndrome	DisGeNet	
+ADRA2A	C0019087	Hemorrhagic disorder due to intrinsic circulating anticoagulants	DisGeNet	
+ADRB2	C0035228	Respiratory Hypersensitivity	DisGeNet	
+ADRB1	C0158570	Vascular malformation, primary intraosseous	DisGeNet	
+ADRA1A	C1141890	Congenital long QT syndrome	DisGeNet	
+DDC	C0007095	Carcinoid tumor	DisGeNet	
+SLC6A2	C0007095	Carcinoid tumor	DisGeNet	
+SLC6A2	C0004030	Systemic aspergillosis	DisGeNet	
+ADRB2	C0020544	Renal hypertension	DisGeNet	
+ADRA2A	C0037036	Excessive salivation	DisGeNet	
+ADRA1A	C0392164	Pulmonary Cystic Fibrosis	DisGeNet	
+ADRB2	C0546817	Hypervolemia	DisGeNet	
+DDC	C1319315	Adenocarcinoma of the large intestine	DisGeNet	
+SLC6A2	C1319315	Adenocarcinoma of the large intestine	DisGeNet	
+DDC	C0036349	Paranoid Schizophrenia	DisGeNet	
+ADRB2	C0687132	heavy drinking	DisGeNet	
+ADRB2	C0008495	Chorioamnionitis	DisGeNet	
+ADRB3	C0008495	Chorioamnionitis	DisGeNet	
+ADRB1	C0027055	Myocardial Reperfusion Injury	DisGeNet	
+ADRB2	C0027055	Myocardial Reperfusion Injury	DisGeNet	
+ADRB2	C0020302	Buphthalmos	DisGeNet	
+ADRA1A	C0152020	Gastroparesis	DisGeNet	
+ADRA1A	C0221765	Chronic schizophrenia	DisGeNet	
+ADRA1A	C0342345	Hypoparathyroidism - autosomal dominant	DisGeNet	
+ADRA1A	C0235480	Paroxysmal atrial fibrillation	DisGeNet	
+ADRB3	C0852036	Pregnancy associated hypertension	DisGeNet	
+ADRB2	C1802398	Chromosome 5, trisomy 5q	DisGeNet	
+ADRA1A	C0268318	Cholestasis of pregnancy	DisGeNet	
+ADRB2	C3539909	Allergic disposition	DisGeNet	
+SLC6A2	C3539909	Allergic disposition	DisGeNet	
+ADRB2	C0085437	Meningitis, Bacterial	DisGeNet	
+ADRA2A	C1857451	Acth-Independent Macronodular Adrenal Hyperplasia	DisGeNet	
+DDC	C0040411	Neoplasm of the tongue	DisGeNet	
+ADRB2	C3662483	Allergic sensitization	DisGeNet	
+ADRA1A	C0007222	Cardiovascular Diseases	DisGeNet	
+ADRB1	C0007222	Cardiovascular Diseases	DisGeNet	
+ADRB2	C0007222	Cardiovascular Diseases	DisGeNet	
+ADRB3	C0007222	Cardiovascular Diseases	DisGeNet	
+ADRB1	C0152101	Hypoplastic left heart syndrome	DisGeNet	
+ADRA1A	C0162283	Nephrogenic diabetes insipidus, autosomal	DisGeNet	
+DDC	C1135161	Disseminated neuroblastoma	DisGeNet	
+ADRB3	C2936179	Obesity, Visceral	DisGeNet	
+ADRB2	C0024305	Non-Hodgkin lymphoma	DisGeNet	
+ADRB3	C0024305	Non-Hodgkin lymphoma	DisGeNet	
+SLC6A2	C0024305	Non-Hodgkin lymphoma	DisGeNet	
+ADRB2	C0333186	Restenosis	DisGeNet	
+ADRB3	C0333186	Restenosis	DisGeNet	
+ADRB1	C0002792	Anaphylactic shock NOS	DisGeNet	
+SLC6A2	C0012739	Disseminated intravascular coagulation	DisGeNet	
+ADRB2	C0150055	Chronic pain	DisGeNet	
+ADRB2	C1522137	Hypertriglyceridemia result	DisGeNet	
+ADRA1A	C0002395	Alzheimer Disease	DisGeNet	
+ADRA2A	C0002395	Alzheimer Disease	DisGeNet	
+ADRB1	C0002395	Alzheimer Disease	DisGeNet	
+ADRB2	C0002395	Alzheimer Disease	DisGeNet	
+ADRB3	C0002395	Alzheimer Disease	DisGeNet	
+ADRA2A	C0242510	Drug usage	DisGeNet	
+ADRB2	C2362324	Pediatric Obesity	DisGeNet	
+ADRA2C	C0009806	Constipation	DisGeNet	
+DDC	C0009806	Constipation	HumPhenOnt	
+ADRB2	C0029928	Ovarian Diseases	DisGeNet	
+ADRB3	C0029928	Ovarian Diseases	DisGeNet	

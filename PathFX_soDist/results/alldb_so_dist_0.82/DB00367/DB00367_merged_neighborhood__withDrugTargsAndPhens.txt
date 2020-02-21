@@ -1,0 +1,185 @@
+node1	node2	edge_score	
+DB00367	ESR1	1.0	
+DB00367	CYP19A1	1.0	
+DB00367	SHBG	1.0	
+DB00367	AR	1.0	
+DB00367	PGR	1.0	
+DB00367	CYP3A4	1.0	
+CYP3A4	rs35599367	0.99
+CYP3A4	rs2242480	0.99
+rs2740574	CYP3A	0.9801
+CYP19A1	rs700518	0.99
+CYP19A1		1.0
+CYP3A4	rs4646437	0.99
+ESR1	rs2207396	0.99
+ESR1	rs11543791	0.99
+AR		1.0
+CYP19A1	rs4646	0.99
+CYP3A4	rs2246709	0.99
+CYP3A	rs12721627	0.970299
+CYP19A1	rs7176005	0.99
+CYP3A4	CYP3A4*1, CYP3A4*4	0.99
+rs4987161	CYP3A	0.9801
+rs12721627	CYP3A	0.9801
+CYP3A4	rs3735451	0.99
+CYP19A1	rs2236722	0.99
+CYP3A4		1.0
+rs12721627	CYP3A4	0.96059601
+CYP19A1	rs1008805	0.99
+CYP3A4	rs4987161	0.99
+CYP3A4	CYP3A4*1, CYP3A4*22	0.99
+CYP3A	rs2740574	0.970299
+CYP19A1	rs1062033	0.99
+ESR1		1.0
+ESR1	rs2813543	0.99
+ESR1	rs4870061	0.99
+CYP19A1	rs4775936	0.99
+ESR1	rs9322335	0.99
+rs4987161	CYP3A4	0.96059601
+CYP3A4	rs2740574	0.99
+ESR1	rs2234693	0.99
+rs2740574	CYP3A4	0.96059601
+CYP3A4	rs28371759	0.99
+CYP3A4	rs4986910	0.99
+CYP3A	rs4987161	0.970299
+ESR1	rs9340799	0.99
+CYP3A4	CYP3A4*1, CYP3A4*20, CYP3A4*8	0.99
+CYP19A1	rs10046	0.99
+CYP19A1	rs749292	0.99
+CYP19A1	rs3759811	0.99
+CYP19A1	rs2289105	0.99
+CYP3A4	rs4646440	0.99
+CYP3A4	rs12721627	0.99
+CYP19A1	rs6493497	0.99
+CYP3A4	CYP3A4*1, CYP3A4*1G	0.99
+CYP3A4	rs56324128	0.99
+Malignant neoplasm of male breast	AR	1.0	
+Malignant neoplasm of male breast	CYP19A1	1.0	
+Malignant neoplasm of male breast	ESR1	1.0	
+Malignant neoplasm of female breast	AR	1.0	
+Malignant neoplasm of female breast	CYP19A1	1.0	
+Malignant neoplasm of female breast	ESR1	1.0	
+Depressive Symptoms	AR	1.0	
+Depressive Symptoms	CYP19A1	1.0	
+Depressive Symptoms	CYP3A4	1.0	
+Depressive Symptoms	ESR1	1.0	
+Female Breast Carcinoma	AR	1.0	
+Female Breast Carcinoma	CYP19A1	1.0	
+Female Breast Carcinoma	ESR1	1.0	
+Carcinoma of Male Breast	AR	1.0	
+Carcinoma of Male Breast	CYP19A1	1.0	
+Carcinoma of Male Breast	ESR1	1.0	
+Breast Fibrocystic Disease	AR	1.0	
+Breast Fibrocystic Disease	CYP19A1	1.0	
+Breast Fibrocystic Disease	ESR1	1.0	
+Disorder of endocrine system	AR	1.0	
+Disorder of endocrine system	CYP19A1	1.0	
+Disorder of endocrine system	ESR1	1.0	
+Mammographic breast density	AR	1.0	
+Mammographic breast density	CYP19A1	1.0	
+Mammographic breast density	ESR1	1.0	
+Female infertility	AR	1.0	
+Female infertility	CYP19A1	1.0	
+Female infertility	ESR1	1.0	
+Uterine neoplasm	AR	1.0	
+Uterine neoplasm	CYP19A1	1.0	
+Uterine neoplasm	ESR1	1.0	
+Recurrent abortion	AR	1.0	
+Recurrent abortion	CYP19A1	1.0	
+Recurrent abortion	ESR1	1.0	
+Pregnancy loss	AR	1.0	
+Pregnancy loss	CYP19A1	1.0	
+Pregnancy loss	ESR1	1.0	
+Bladder neck obstruction	CYP19A1	1.0	
+Bladder neck obstruction	ESR1	1.0	
+Aortic regurgitation	AR	1.0	
+Aortic regurgitation	CYP19A1	1.0	
+Aortic regurgitation	ESR1	1.0	
+Alcohol withdrawal syndrome	AR	1.0	
+Alcohol withdrawal syndrome	CYP19A1	1.0	
+Postmenopausal osteoporosis	AR	1.0	
+Postmenopausal osteoporosis	CYP19A1	1.0	
+Postmenopausal osteoporosis	ESR1	1.0	
+Ovarian Failure, Premature	AR	1.0	
+Ovarian Failure, Premature	CYP19A1	1.0	
+Ovarian Failure, Premature	CYP3A4	1.0	
+Ovarian Failure, Premature	ESR1	1.0	
+Alopecia of scalp	AR	1.0	
+Alopecia of scalp	CYP19A1	1.0	
+Oestrogen deficiency	CYP19A1	1.0	
+Oestrogen deficiency	ESR1	1.0	
+Testicular Germ Cell Tumor	AR	1.0	
+Testicular Germ Cell Tumor	CYP19A1	1.0	
+Testicular Germ Cell Tumor	ESR1	1.0	
+Gynecomastia	AR	1.0	
+Gynecomastia	CYP19A1	1.0	
+Gynecomastia	ESR1	1.0	
+Invasive Lobular Breast Carcinoma	AR	1.0	
+Invasive Lobular Breast Carcinoma	ESR1	1.0	
+Delayed menarche	AR	1.0	
+Delayed menarche	CYP19A1	1.0	
+Delayed menarche	ESR1	1.0	
+Stromal sarcoma	CYP19A1	1.0	
+Stromal sarcoma	ESR1	1.0	
+21-hydroxylase deficiency	AR	1.0	
+21-hydroxylase deficiency	CYP3A4	1.0	
+Abnormal circulating gonadotropin level	AR	1.0	
+Abnormal circulating gonadotropin level	ESR1	1.0	
+Acanthosis nigricans	CYP19A1	1.0	
+Acanthosis nigricans	ESR1	1.0	
+Premature ovarian failure	AR	1.0	
+Premature ovarian failure	CYP19A1	1.0	
+Premature ovarian failure	ESR1	1.0	
+Pathologic fracture	CYP19A1	1.0	
+Pathologic fracture	ESR1	1.0	
+Bone necrosis	CYP3A4	1.0	
+Bone necrosis	ESR1	1.0	
+Adolescent idiopathic scoliosis	AR	1.0	
+Adolescent idiopathic scoliosis	ESR1	1.0	
+Infertility associated with multi-tailed spermatozoa and excessive DNA	AR	1.0	
+Infertility associated with multi-tailed spermatozoa and excessive DNA	CYP19A1	1.0	
+Infertility associated with multi-tailed spermatozoa and excessive DNA	ESR1	1.0	
+Weight Loss Adverse Event	AR	1.0	
+Weight Loss Adverse Event	CYP19A1	1.0	
+Abnormal epiphyseal ossification	CYP19A1	1.0	
+Abnormal epiphyseal ossification	ESR1	1.0	
+Spermatogenic failure 3	AR	1.0	
+Spermatogenic failure 3	CYP19A1	1.0	
+Virilism	AR	1.0	
+Virilism	CYP19A1	1.0	
+Aplasia/hypoplasia of the uterus	AR	1.0	
+Aplasia/hypoplasia of the uterus	ESR1	1.0	
+Endometrial Neoplasms	AR	1.0	
+Endometrial Neoplasms	CYP19A1	1.0	
+Endometrial Neoplasms	CYP3A4	1.0	
+Endometrial Neoplasms	ESR1	1.0	
+Phyllodes tumor, benign	AR	1.0	
+Phyllodes tumor, benign	ESR1	1.0	
+Lehman syndrome	AR	1.0	
+Lehman syndrome	ESR1	1.0	
+Endometrial Hyperplasia	AR	1.0	
+Endometrial Hyperplasia	ESR1	1.0	
+Nerve Sheath Tumors	AR	1.0	
+Nerve Sheath Tumors	ESR1	1.0	
+Penile hypospadias	AR	1.0	
+Penile hypospadias	ESR1	1.0	
+Amenorrhea	AR	1.0	
+Amenorrhea	CYP19A1	1.0	
+Amenorrhea	ESR1	1.0	
+Biliary tract neoplasm	AR	1.0	
+Biliary tract neoplasm	ESR1	1.0	
+Female pseudohermaphroditism	AR	1.0	
+Female pseudohermaphroditism	CYP19A1	1.0	
+Desmoid tumor	AR	1.0	
+Desmoid tumor	ESR1	1.0	
+Carcinoma, Lobular	AR	1.0	
+Carcinoma, Lobular	ESR1	1.0	
+Menopause present (finding)	CYP19A1	1.0	
+Menopause present (finding)	ESR1	1.0	
+Abnormality of the menstrual cycle	AR	1.0	
+Abnormality of the menstrual cycle	CYP19A1	1.0	
+Abnormality of the menstrual cycle	ESR1	1.0	
+Adrenal hyperplasia	AR	1.0	
+Adrenal hyperplasia	CYP3A4	1.0	
+Microsatellite Instability	AR	1.0	
+Microsatellite Instability	ESR1	1.0	

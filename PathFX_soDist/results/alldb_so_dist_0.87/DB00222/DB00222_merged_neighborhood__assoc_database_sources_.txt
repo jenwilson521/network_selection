@@ -1,0 +1,3 @@
+Gene	CUI	Source Databases	
+KCNJ1	C4021656	Abnormality of fatty-acid metabolism	HumPhenOnt	
+KCNJ11	C4021656	Abnormality of fatty-acid metabolism	HumPhenOnt	

@@ -1,0 +1,2 @@
+rank	phenotype	cui	assoc in neigh	assoc in intom	probability	Benjamini-Hochberg	genes	
+15	Neurotoxicity Syndromes	C0235032	3	40	8.064368316462733e-06	2.28658536585e-05	CYP2C9,DPYD,TYMS

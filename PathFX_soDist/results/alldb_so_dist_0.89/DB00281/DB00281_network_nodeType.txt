@@ -1,0 +1,24 @@
+node_name	node_type	
+DB00281	drug	
+CYP2C9	drug_target	
+CYP2C8	drug_target	
+CYP1A2	drug_target	
+SCN5A	drug_target	
+ORM1	drug_target	
+CYP2D6	drug_target	
+CYP2B6	drug_target	
+EGFR	drug_target	
+SCN10A	drug_target	
+SLC22A5	drug_target	
+ABCB1	drug_target	
+CYP2C18	drug_target	
+SCN4A	drug_target	
+CYP3A4	drug_target	
+CYP3A5	drug_target	
+ORM2	drug_target	
+CYP2A6	drug_target	
+Primary malignant neoplasm of liver	phenotype	
+Drug Allergy	phenotype	
+Congenital long QT syndrome	phenotype	
+Pharyngeal Neoplasms	phenotype	
+Tardive Dyskinesia	phenotype	

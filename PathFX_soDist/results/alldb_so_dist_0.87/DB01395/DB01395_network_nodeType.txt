@@ -1,0 +1,16 @@
+node_name	node_type	
+DB01395	drug	
+PTGS2	drug_target	
+NR3C2	drug_target	
+AR	drug_target	
+PGR	drug_target	
+BCHE	drug_target	
+CYP3A4	drug_target	
+Enzyme inhibition disorder	phenotype	
+Squamous Cell Neoplasms	phenotype	
+Acute postoperative pain	phenotype	
+Adverse drug events and drug allergies	phenotype	
+Cognition Disorders	phenotype	
+gliosarcoma	phenotype	
+Heroin Dependence	phenotype	
+Aqueous Humor Disorders	phenotype	

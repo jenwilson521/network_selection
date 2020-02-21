@@ -1,0 +1,6 @@
+node_name	node_type	
+DB06813	drug	
+DHFR	drug_target	
+TYMS	drug_target	
+FPGS	drug_target	
+SLC19A1	drug_target	

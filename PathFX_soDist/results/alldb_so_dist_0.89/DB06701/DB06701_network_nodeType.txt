@@ -1,0 +1,163 @@
+node_name	node_type	
+DB06701	drug	
+SLC6A3	drug_target	
+SLC6A2	drug_target	
+SLC6A4	drug_target	
+Behavior Disorders	phenotype	
+Heroin Dependence	phenotype	
+Methamphetamine abuse	phenotype	
+Anorexia nervosa 1	phenotype	
+Bulimia	phenotype	
+Tourette Syndrome	phenotype	
+Generalized anxiety disorder	phenotype	
+Substance Use Disorders	phenotype	
+Alcohol withdrawal syndrome	phenotype	
+Motor symptoms	phenotype	
+ {Nicotine dependence, protection against}, 188890 (3)	phenotype	
+Antisocial Personality Disorder	phenotype	
+Personality disorder	phenotype	
+Bulimia nervosa 1	phenotype	
+Borderline Personality Disorder	phenotype	
+Antisocial/borderline personality disorder	phenotype	
+Substance abuse problem	phenotype	
+Drug usage	phenotype	
+Manic	phenotype	
+Weight Loss Adverse Event	phenotype	
+Conduct Disorder	phenotype	
+Fibromyalgia	phenotype	
+Prenatal Exposure Delayed Effects	phenotype	
+Anxiety	phenotype	
+Memory Disorders	phenotype	
+Cocaine Dependence	phenotype	
+CNS symptom	phenotype	
+Bronchopulmonary Dysplasia	phenotype	
+As If Personality	phenotype	
+Tardive Dyskinesia	phenotype	
+Bipolar I disorder	phenotype	
+Autism spectrum disorders	phenotype	
+Psychoses, Substance-Induced	phenotype	
+Attention Deficit Disorder	phenotype	
+Drug Dependence	phenotype	
+Osteochondritis dissecans	phenotype	
+NEUROTICISM	phenotype	
+MAJOR AFFECTIVE DISORDER 4	phenotype	
+MAJOR AFFECTIVE DISORDER 5	phenotype	
+MAJOR AFFECTIVE DISORDER 6	phenotype	
+Major affective disorder 7	phenotype	
+MAJOR AFFECTIVE DISORDER 8	phenotype	
+MAJOR AFFECTIVE DISORDER 9	phenotype	
+Orofacial dyskinesia	phenotype	
+Eating disorder	phenotype	
+Migraine with aura	phenotype	
+Ichthyosis bullosa of Siemens	phenotype	
+Substance addiction and disorders	phenotype	
+Panic disorder 1	phenotype	
+Gastrointestinal Diseases	phenotype	
+Amphetamine-Related Disorders	phenotype	
+Obsessive-compulsive disorder	phenotype	
+Mood Disorders	phenotype	
+Alcohol abuse	phenotype	
+Marijuana Abuse	phenotype	
+SUDDEN INFANT DEATH SYNDROME	phenotype	
+Liver Cirrhosis, Alcoholic	phenotype	
+Posttraumatic stress disorder	phenotype	
+CNS disorder	phenotype	
+Nicotine Dependence	phenotype	
+Anxiety Disorders	phenotype	
+Panic disorder syndrome 1 (2)	phenotype	
+Cocaine-Related Disorders	phenotype	
+Depressive Symptoms	phenotype	
+Unipolar Depression	phenotype	
+Lewy Body Disease	phenotype	
+Mental disorders	phenotype	
+Weight Gain Adverse Event	phenotype	
+Atrial septal defect	phenotype	
+Major depressive disorder	phenotype	
+Irritable bowel syndrome with diarrhea	phenotype	
+Substance-Related Disorders	phenotype	
+Attention deficit hyperactivity disorder	phenotype	
+Pigmentary pallidal degeneration	phenotype	
+Slow acetylator due to N-acetyltransferase enzyme variant	phenotype	
+Depressive Disorder	phenotype	
+Dentinogenesis imperfecta	phenotype	
+Recurrent major depressive episodes	phenotype	
+Asthma, Occupational	phenotype	
+Spinocerebellar ataxia 2	phenotype	
+{Unipolar depression, susceptibility to}, 608516 (3)	phenotype	
+Cycloid psychosis	phenotype	
+Periodontal Attachment Loss	phenotype	
+Paranoia	phenotype	
+Delayed gross motor development	phenotype	
+Orofacial cleft	phenotype	
+Oral aphthae	phenotype	
+Headache	phenotype	
+Gingival bleeding	phenotype	
+Puerperal Disorders	phenotype	
+Periodontal Pocket	phenotype	
+Pervasive developmental disorders	phenotype	
+Overweight	phenotype	
+Systemic aspergillosis	phenotype	
+Seasonal Affective Disorder	phenotype	
+Cocaine delirium	phenotype	
+Ataxic	phenotype	
+heavy drinking	phenotype	
+Chronic schizophrenia	phenotype	
+Constipation	phenotype	
+Parkinsonism	phenotype	
+Acute postoperative pain	phenotype	
+Sclerosis	phenotype	
+Psychiatric symptom	phenotype	
+alcohol use disorder	phenotype	
+Pregnancy in Diabetics	phenotype	
+Morphological abnormality of the pyramidal tract	phenotype	
+Alcohol dependence	phenotype	
+Learning Disabilities	phenotype	
+Delusions	phenotype	
+Insomnia	phenotype	
+Disseminated intravascular coagulation	phenotype	
+Chronic pain	phenotype	
+Chronic Fatigue Syndrome	phenotype	
+Heart valve disease	phenotype	
+cardiac event	phenotype	
+Bradykinesia	phenotype	
+Coronary Restenosis	phenotype	
+Abnormal autonomic nervous system physiology	phenotype	
+Dementia familial British	phenotype	
+Nausea	phenotype	
+Cleft palate with cleft lip	phenotype	
+Chromosome Xq28 deletion syndrome	phenotype	
+Bipolar affective disorder	phenotype	
+Dyspepsia	phenotype	
+Autoimmune lymphoproliferative syndrome, type 2	phenotype	
+Adverse drug events and drug allergies	phenotype	
+Psychotic Disorders	phenotype	
+Periodontitis	phenotype	
+Cognition Disorders	phenotype	
+Obsessive-compulsive behavior	phenotype	
+Migraine Disorders	phenotype	
+Stress, Psychological	phenotype	
+Angelman syndrome-like	phenotype	
+Colorectal polyposis	phenotype	
+Occupational Diseases	phenotype	
+Sleep apnea	phenotype	
+Cardiac fibrosis	phenotype	
+Common Migraine	phenotype	
+Multiple Endocrine Neoplasia Type 2a	phenotype	
+Well Differentiated Pancreatic Endocrine Tumor	phenotype	
+Angina pectoris	phenotype	
+Ischemic cardiomyopathy	phenotype	
+Postoperative Complications	phenotype	
+Muscular hypotonia of the trunk	phenotype	
+Granulomatous disease, chronic, autosomal recessive, cytochrome b-negative	phenotype	
+Drug Allergy	phenotype	
+Azorean disease	phenotype	
+Substance Withdrawal Syndrome	phenotype	
+Growth Disorders	phenotype	
+Multiple Endocrine Neoplasia Type 1	phenotype	
+Schizoaffective Disorder	phenotype	
+Respiratory tract infection	phenotype	
+Dementia, Vascular	phenotype	
+Agitation	phenotype	
+Mitral Valve Prolapse	phenotype	
+Candidiasis, familial, 9	phenotype	
+Polyphagia	phenotype	

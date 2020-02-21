@@ -1,0 +1,30 @@
+node1	node2	edge_score	
+DB00798	LRP2	1.0	
+DB00798	DHFR	1.0	
+DB00798	SLC22A6	1.0	
+LRP2		1.0
+DHFR	rs1650723	0.99
+DHFR	rs1643650	0.99
+DHFR	rs408626	0.99
+DHFR		1.0
+DHFR	rs1105525	0.99
+DHFR	rs70991108	0.99
+DHFR	rs442767	0.99
+DHFR	rs1650697	0.99
+DHFR	rs1053129	0.99
+Inborn Errors of Metabolism	DHFR	1.0	
+Inborn Errors of Metabolism	LRP2	1.0	
+Megaloblastic anemia, thiamine-responsive, with diabetes mellitus and sensorineural deafness	DHFR	1.0	
+Hypoplasia of the iris	LRP2	1.0	
+Metabolic Bone Disorder	LRP2	1.0	
+Malaria, Vivax	DHFR	1.0	
+Familial Alzheimer Disease (FAD)	DHFR	1.0	
+Asymptomatic Infections	DHFR	1.0	
+Congenital central hypoventilation	LRP2	1.0	
+Myelosuppression	DHFR	1.0	
+Osteomalacia	LRP2	1.0	
+Folic Acid Deficiency	DHFR	1.0	
+Xeroderma pigmentosum, group A	DHFR	1.0	
+Bicornuate uterus	LRP2	1.0	
+Rickets	LRP2	1.0	
+Dialeptic seizures	DHFR	1.0	

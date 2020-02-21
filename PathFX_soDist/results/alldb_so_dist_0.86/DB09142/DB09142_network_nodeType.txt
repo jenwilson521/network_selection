@@ -1,0 +1,8 @@
+node_name	node_type	
+DB09142	drug	
+SLCO1B3	drug_target	
+Recessive dystrophic epidermolysis bullosa	phenotype	
+Leukemia, Myeloid, Chronic-Phase	phenotype	
+Testicular malignant germ cell tumor	phenotype	
+Hyperbilirubinemia	phenotype	
+Peripheral T-Cell Lymphoma	phenotype	

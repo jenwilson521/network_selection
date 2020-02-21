@@ -1,0 +1,15 @@
+node_name	node_type	
+DB00025	drug	
+F2	drug_target	
+LRP1	drug_target	
+HSPA5	drug_target	
+F9	drug_target	
+CALR	drug_target	
+ASGR2	drug_target	
+LMAN1	drug_target	
+MCFD2	drug_target	
+VWF	drug_target	
+PROC	drug_target	
+F10	drug_target	
+CANX	drug_target	
+PHYH	drug_target	

@@ -1,0 +1,4 @@
+node1	node2	edge_score	
+DB05013	PRKCA	1.0	
+DB05013	PRKCD	1.0	
+

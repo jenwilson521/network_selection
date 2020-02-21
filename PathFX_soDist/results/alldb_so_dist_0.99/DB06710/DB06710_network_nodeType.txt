@@ -1,0 +1,11 @@
+node_name	node_type	
+DB06710	drug	
+ESR1	drug_target	
+CYP2B6	drug_target	
+CYP19A1	drug_target	
+ALB	drug_target	
+SHBG	drug_target	
+AR	drug_target	
+SLCO1A2	drug_target	
+CYP3A4	drug_target	
+SLC22A8	drug_target	

@@ -1,0 +1,92 @@
+Gene	CUI	Source Databases	
+CYP1A2	C0221765	Chronic schizophrenia	DisGeNet	
+CYP2D6	C0221765	Chronic schizophrenia	DisGeNet	
+CYP3A4	C0221765	Chronic schizophrenia	DisGeNet	
+DRD2	C0221765	Chronic schizophrenia	DisGeNet	
+DRD3	C0221765	Chronic schizophrenia	DisGeNet	
+CYP1A2	C0686347	Tardive Dyskinesia	DisGeNet	
+CYP2D6	C0686347	Tardive Dyskinesia	DisGeNet	
+CYP3A4	C0686347	Tardive Dyskinesia	DisGeNet	
+CYP3A5	C0686347	Tardive Dyskinesia	DisGeNet	
+DRD2	C0686347	Tardive Dyskinesia	DisGeNet	
+DRD3	C0686347	Tardive Dyskinesia	DisGeNet	
+ABCB1	C0524662	Opiate Addiction	DisGeNet	
+ANKK1	C0524662	Opiate Addiction	DisGeNet	
+CYP2D6	C0524662	Opiate Addiction	DisGeNet	
+DRD2	C0524662	Opiate Addiction	DisGeNet	
+DRD3	C0524662	Opiate Addiction	DisGeNet	
+ABCB1	C0019337	Heroin Dependence	DisGeNet	
+ANKK1	C0019337	Heroin Dependence	DisGeNet	
+CYP2D6	C0019337	Heroin Dependence	DisGeNet	
+CYP3A4	C0019337	Heroin Dependence	DisGeNet	
+DRD2	C0019337	Heroin Dependence	DisGeNet	
+DRD3	C0019337	Heroin Dependence	DisGeNet	
+CYP1A2	C0152115	Orofacial dyskinesia	DisGeNet	
+CYP2D6	C0152115	Orofacial dyskinesia	DisGeNet	
+CYP3A4	C0152115	Orofacial dyskinesia	DisGeNet	
+CYP3A5	C0152115	Orofacial dyskinesia	DisGeNet	
+DRD2	C0152115	Orofacial dyskinesia	DisGeNet	
+DRD3	C0152115	Orofacial dyskinesia	DisGeNet	
+ABCB1	C0024620	Primary malignant neoplasm of liver	DisGeNet	
+CYP2D6	C0024620	Primary malignant neoplasm of liver	DisGeNet	
+CYP3A4	C0024620	Primary malignant neoplasm of liver	DisGeNet	
+CYP3A5	C0024620	Primary malignant neoplasm of liver	DisGeNet	
+ABCB1	C0013386	Dyskinesia, Drug-Induced	DisGeNet	
+CYP1A2	C0013386	Dyskinesia, Drug-Induced	DisGeNet	
+CYP2D6	C0013386	Dyskinesia, Drug-Induced	DisGeNet	
+DRD2	C0013386	Dyskinesia, Drug-Induced	DisGeNet	
+DRD3	C0013386	Dyskinesia, Drug-Induced	DisGeNet	
+ABCB1	C0344307	Pain insensitivity	DisGeNet	
+CYP2D6	C0344307	Pain insensitivity	DisGeNet	
+CYP3A4	C0344307	Pain insensitivity	DisGeNet	
+CYP3A5	C0344307	Pain insensitivity	DisGeNet	
+DRD2	C0344307	Pain insensitivity	DisGeNet	
+CYP3A4	C0011206	Cocaine delirium	DisGeNet	
+CYP3A5	C0011206	Cocaine delirium	DisGeNet	
+DRD2	C0011206	Cocaine delirium	DisGeNet	
+DRD3	C0011206	Cocaine delirium	DisGeNet	
+ABCB1	C0152020	Gastroparesis	DisGeNet	
+CYP2D6	C0152020	Gastroparesis	DisGeNet	
+DRD2	C0152020	Gastroparesis	DisGeNet	
+KCNH2	C0152020	Gastroparesis	DisGeNet	
+ANKK1	C0023055	Neoplasm of the larynx	DisGeNet	
+CYP1A2	C0023055	Neoplasm of the larynx	DisGeNet	
+CYP2D6	C0023055	Neoplasm of the larynx	DisGeNet	
+CYP2E1	C0023055	Neoplasm of the larynx	DisGeNet	
+CYP3A4	C0023055	Neoplasm of the larynx	DisGeNet	
+DRD2	C0023055	Neoplasm of the larynx	DisGeNet	
+ABCB1	C0085602	Polydipsia	DisGeNet	
+CYP1A2	C0085602	Polydipsia	DisGeNet	
+CYP2D6	C0085602	Polydipsia	DisGeNet	
+DRD2	C0085602	Polydipsia	DisGeNet	
+ABCB1	C0027497	Nausea	DisGeNet	
+CYP1A2	C0027497	Nausea	DisGeNet	
+CYP2D6	C0027497	Nausea	DisGeNet	
+DRD2	C0027497	Nausea	DisGeNet	
+ABCB1	C0600427	Cocaine Dependence	DisGeNet	
+ANKK1	C0600427	Cocaine Dependence	DisGeNet	
+DRD2	C0600427	Cocaine Dependence	DisGeNet	
+DRD3	C0600427	Cocaine Dependence	DisGeNet	
+CYP2E1	C0206720	Squamous Cell Neoplasms	DisGeNet	
+CYP3A4	C0206720	Squamous Cell Neoplasms	DisGeNet	
+CYP3A5	C0206720	Squamous Cell Neoplasms	DisGeNet	
+ANKK1	C0085762	Alcohol abuse	DisGeNet	
+CYP2E1	C0085762	Alcohol abuse	DisGeNet	
+CYP3A4	C0085762	Alcohol abuse	DisGeNet	
+DRD2	C0085762	Alcohol abuse	DisGeNet	
+DRD3	C0085762	Alcohol abuse	DisGeNet	
+ABCB1	C0041755	Adverse drug events and drug allergies	DisGeNet	
+CYP1A2	C0041755	Adverse drug events and drug allergies	DisGeNet	
+CYP2D6	C0041755	Adverse drug events and drug allergies	DisGeNet	
+CYP2E1	C0041755	Adverse drug events and drug allergies	DisGeNet	
+ANKK1	C0003944	As If Personality	DisGeNet	
+CYP2D6	C0003944	As If Personality	DisGeNet	
+CYP2E1	C0003944	As If Personality	DisGeNet	
+DRD2	C0003944	As If Personality	DisGeNet	
+CYP2D6	C1141890	Congenital long QT syndrome	DisGeNet	
+CYP3A4	C1141890	Congenital long QT syndrome	DisGeNet	
+KCNH2	C1141890	Congenital long QT syndrome	DisGeNet	
+ANKK1	C0031347	Pharyngeal Neoplasms	DisGeNet	
+CYP1A2	C0031347	Pharyngeal Neoplasms	DisGeNet	
+CYP3A4	C0031347	Pharyngeal Neoplasms	DisGeNet	
+DRD2	C0031347	Pharyngeal Neoplasms	DisGeNet	

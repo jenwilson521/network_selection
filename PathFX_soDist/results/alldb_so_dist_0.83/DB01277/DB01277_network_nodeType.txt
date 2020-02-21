@@ -1,0 +1,396 @@
+node_name	node_type	
+DB01277	drug	
+IGFBP3	drug_target	
+INSR	drug_target	
+IGF2R	drug_target	
+IGF1R	drug_target	
+IGFALS	drug_target	
+Acidosis	phenotype	
+Acromegaly	phenotype	
+ Adenocarcinoma, ovarian, somatic, 167000 (3)	phenotype	
+Adenomas, multiple colorectal, 608456 (3)	phenotype	
+Alzheimer Disease	phenotype	
+Atherosclerosis	phenotype	
+Malignant tumor of urinary bladder	phenotype	
+Breast-ovarian cancer, familial 1	phenotype	
+Malignant neoplasm of endometrium	phenotype	
+Non-small cell lung carcinoma	phenotype	
+Squamous cell carcinoma	phenotype	
+Colorectal cancer 1	phenotype	
+Colorectal Neoplasms	phenotype	
+Cryptorchidism	phenotype	
+Diabetes Mellitus, Type 1	phenotype	
+Diabetes mellitus type 2	phenotype	
+Diabetic Retinopathy	phenotype	
+Short stature, rhizomelic, with microcephaly, micrognathia, and developmental delay	phenotype	
+Endometriosis	phenotype	
+Failure to thrive	phenotype	
+Fatigue	phenotype	
+Intrauterine growth retardation	phenotype	
+Glioma	phenotype	
+Hyperinsulinemia	phenotype	
+Hypertension	phenotype	
+Hypoglycemia, neonatal, simulating foetopathia diabetica	phenotype	
+Inflammation	phenotype	
+Kidney Diseases	phenotype	
+Liver Diseases	phenotype	
+Neoplasm of the liver	phenotype	
+Chronic obstructive pulmonary disease	phenotype	
+Animal Mammary Neoplasms	phenotype	
+Secondary hypertriglyceridemia	phenotype	
+Obesity	phenotype	
+Abnormality of the pituitary gland	phenotype	
+Prostatic Neoplasms	phenotype	
+Schizophrenia	phenotype	
+Thyroid Diseases	phenotype	
+Uterine Corpus Cancer	phenotype	
+Secondary malignant neoplasm of lung	phenotype	
+Tumor Progression	phenotype	
+Hepatoblastoma	phenotype	
+Congenital diaphragmatic hernia	phenotype	
+Malignant neoplasm of lung	phenotype	
+Glucose intolerance	phenotype	
+Cognitive Dysfunction	phenotype	
+Malignant tumor of prostate	phenotype	
+Endometrial carcinoma	phenotype	
+Overweight	phenotype	
+body mass	phenotype	
+Metabolic Syndrome X	phenotype	
+Carcinogenesis	phenotype	
+Prostate carcinoma	phenotype	
+Ovarian epithelial cancer	phenotype	
+Breast carcinoma	phenotype	
+Lung cancer	phenotype	
+Ovarian Neoplasms	phenotype	
+BREAST-OVARIAN CANCER, FAMILIAL, SUSCEPTIBILITY TO, 4	phenotype	
+Sarcoma, Ewing	phenotype	
+Colorectal cancer	phenotype	
+Coronary Artery Disease	phenotype	
+Hepatocellular carcinoma	phenotype	
+Diabetic ketoacidosis	phenotype	
+Berardinelli-Seip congenital lipodystrophy	phenotype	
+Decreased adipose tissue	phenotype	
+Abnormality of endocrine pancreas physiology	phenotype	
+Femur Head Necrosis	phenotype	
+Isolated somatotropin deficiency	phenotype	
+Fibrous Dysplasia	phenotype	
+Central hypothyroidism	phenotype	
+Isolated growth hormone deficiency type 1B	phenotype	
+Insulin-resistant diabetes mellitus AND acanthosis nigricans	phenotype	
+Recessive dystrophic epidermolysis bullosa	phenotype	
+Generalized hyperpigmentation	phenotype	
+Gastro-esophageal reflux disease with esophagitis	phenotype	
+Corneal neovascularization	phenotype	
+Acanthosis nigricans	phenotype	
+Coarse hair	phenotype	
+Bone necrosis	phenotype	
+Skin Diseases, Genetic	phenotype	
+Muscle damage	phenotype	
+Thickened nuchal skin fold	phenotype	
+Increased size of the clitoris	phenotype	
+Abnormal size of the clitoris	phenotype	
+Atypical teratoid/rhabdoid tumor	phenotype	
+Clitoral hypertrophy	phenotype	
+Accelerated skeletal maturation	phenotype	
+Peptic Esophagitis	phenotype	
+Squamous intraepithelial lesion	phenotype	
+Primary hyperparathyroidism	phenotype	
+Bone pain	phenotype	
+Russell-Silver syndrome	phenotype	
+Ketoacidosis	phenotype	
+Female pseudohermaphroditism	phenotype	
+Dysmorphic features	phenotype	
+EPIDERMODYSPLASIA VERRUCIFORMIS	phenotype	
+Fetal ultrasound soft marker	phenotype	
+Hypermelanotic macule	phenotype	
+Colonic Polyps	phenotype	
+Adenomatous polyp of colon	phenotype	
+Other specified disorders of breast	phenotype	
+Esophagitis	phenotype	
+Osteoarthritis of hip	phenotype	
+Helminthiasis	phenotype	
+Microsatellite Instability	phenotype	
+High, narrow palate	phenotype	
+Breast Fibrocystic Disease	phenotype	
+Hyperpituitarism	phenotype	
+Hypoxia-Ischemia, Brain	phenotype	
+Colorectal polyposis	phenotype	
+Retinopathy of Prematurity	phenotype	
+ Hyperandrogenism, nonclassic type, due to 21-hydroxylase deficiency, 201910 (3)	phenotype	
+Mammographic breast density	phenotype	
+Abnormality of the clitoris	phenotype	
+Early onset of sexual maturation	phenotype	
+Ischemic cardiomyopathy	phenotype	
+Congenital disorder of glycosylation	phenotype	
+Complications of Diabetes Mellitus	phenotype	
+Gingival overgrowth	phenotype	
+Small face	phenotype	
+Abdominal distention	phenotype	
+Migraine with aura	phenotype	
+Premature aging syndrome	phenotype	
+Subcutaneous nodule	phenotype	
+Metaplasia	phenotype	
+Werner syndrome	phenotype	
+Growth Disorders	phenotype	
+Alveolar rhabdomyosarcoma	phenotype	
+Dental malocclusion	phenotype	
+Pterygium	phenotype	
+Narrow palate	phenotype	
+Type 1 diabetic neuropathy	phenotype	
+High-Grade Prostatic Intraepithelial Neoplasia	phenotype	
+Thick lower lip vermilion	phenotype	
+Small for gestational age	phenotype	
+Cataracts, growth hormone deficiency, sensory neuropathy, sensorineural hearing loss, and skeletal dysplasia	phenotype	
+Skin nodule	phenotype	
+Coma	phenotype	
+Cerebral palsy, spastic quadriplegic, 3	phenotype	
+Biliary Atresia	phenotype	
+Wide mouth	phenotype	
+Endotoxemia	phenotype	
+Generalized hirsutism	phenotype	
+Macule	phenotype	
+Prematurely aged appearance	phenotype	
+Gynecomastia	phenotype	
+Rhabdoid Tumor of the Kidney	phenotype	
+Precursor B-Cell Lymphoblastic Leukemia-Lymphoma	phenotype	
+Postnatal growth retardation	phenotype	
+Clear-cell metastatic renal cell carcinoma	phenotype	
+Severe Myopia	phenotype	
+Mandibular prognathia	phenotype	
+Dry skin	phenotype	
+Abnormality of female external genitalia	phenotype	
+Maturity-onset diabetes of the young, type 11	phenotype	
+Hypertrichosis	phenotype	
+Abnormality of pancreas physiology	phenotype	
+Ovarian cyst	phenotype	
+Irregular hyperpigmentation	phenotype	
+Nail dysplasia	phenotype	
+Precocious puberty	phenotype	
+Ependymoma	phenotype	
+Malnutrition	phenotype	
+Thick vermilion border	phenotype	
+Abnormality of dental eruption	phenotype	
+Duchenne muscular dystrophy	phenotype	
+Telangiectases in sun-exposed and nonexposed skin	phenotype	
+Carcinoma, Endometrioid	phenotype	
+Abnormal insulin level	phenotype	
+Abnormal circulating insulin level	phenotype	
+Abnormal nipple morphology	phenotype	
+Abnormality of hair texture	phenotype	
+Macrotia	phenotype	
+Impotence	phenotype	
+Amyloidosis	phenotype	
+Abnormality of the gingiva	phenotype	
+Obesity, severe, 601665 (3)	phenotype	
+Musculoskeletal Diseases	phenotype	
+Transitional cell carcinoma of the bladder	phenotype	
+Lewy Body Disease	phenotype	
+Intraepithelial Neoplasia	phenotype	
+Pregnancy Complications, Hematologic	phenotype	
+Rett syndrome, congenital variant	phenotype	
+Differentiated Thyroid Gland Carcinoma	phenotype	
+Testicular Neoplasms	phenotype	
+Coarse facial features	phenotype	
+Hyperplasia	phenotype	
+Abnormality of adipose tissue	phenotype	
+Barrett Esophagus	phenotype	
+Fetal Diseases	phenotype	
+Congenital Myotonic Dystrophy	phenotype	
+androgen independent prostate cancer	phenotype	
+Hirsutism	phenotype	
+Insulinoma	phenotype	
+Malignant neoplasm of brain and nervous system	phenotype	
+Nonalcoholic Steatohepatitis	phenotype	
+Steinert myotonic dystrophy syndrome	phenotype	
+Abnormality of lower lip	phenotype	
+Adenocarcinoma of prostate	phenotype	
+Lipoatrophy	phenotype	
+46,XY gonadal dysgenesis, partial, with minifascicular neuropathy	phenotype	
+Abnormality of blood glucose concentration	phenotype	
+Abnormality of the chin	phenotype	
+Cachexia	phenotype	
+Proptosis	phenotype	
+Substance-Related Disorders	phenotype	
+Abnormality of the ovary	phenotype	
+Inguinal hernia	phenotype	
+Hyperalgesia	phenotype	
+Hyperpigmentation of the skin	phenotype	
+Keloid	phenotype	
+Abnormality of the umbilicus	phenotype	
+Low-set, posteriorly rotated ears	phenotype	
+Abnormality of the anterior pituitary	phenotype	
+Laryngeal carcinoma	phenotype	
+Umbilical hernia	phenotype	
+Delayed puberty	phenotype	
+Chronic Kidney Insufficiency	phenotype	
+Abnormality of oral mucosa	phenotype	
+Epilepsy, Temporal Lobe	phenotype	
+Tuberous sclerosis syndrome	phenotype	
+Connective Tissue Diseases	phenotype	
+Papilloma	phenotype	
+Death, Sudden, Cardiac	phenotype	
+Abnormality of mouth size	phenotype	
+Proteinuria, low molecular weight, with hypercalciuria and nephrocalcinosis	phenotype	
+Burkitt lymphoma	phenotype	
+Maternal diabetes	phenotype	
+Abnormal hand morphology	phenotype	
+Pulmonary Emphysema	phenotype	
+Abnormality of the pancreas	phenotype	
+Reduced consciousness/confusion	phenotype	
+Restenosis	phenotype	
+Chondrosarcoma	phenotype	
+Ductal Carcinoma	phenotype	
+Disease Progression	phenotype	
+Delayed skeletal maturation	phenotype	
+Ovarian Diseases	phenotype	
+Abnormal breast morphology	phenotype	
+Hypergranular promyelocytic leukemia	phenotype	
+Venous Thromboembolism	phenotype	
+Abnormality of the breast	phenotype	
+Abnormality of the biliary system	phenotype	
+Posteriorly rotated ears	phenotype	
+Cerebral Hemorrhage	phenotype	
+Heterogeneous	phenotype	
+Brachydactyly, type a1, d	phenotype	
+Abnormality of the hypothalamus-pituitary axis	phenotype	
+Sarcoidosis	phenotype	
+Adenoma of large intestine	phenotype	
+Hyperkeratosis	phenotype	
+Spontaneous abortion	phenotype	
+Abnormality of circulating hormone level	phenotype	
+Anaplastic large cell lymphoma, ALK negative	phenotype	
+Narcolepsy	phenotype	
+Malignant mesothelioma	phenotype	
+Ewing's sarcoma	phenotype	
+Abnormality of skeletal maturation	phenotype	
+Acute kidney injury	phenotype	
+Anemia, Sickle Cell	phenotype	
+Depressed nasal bridge	phenotype	
+Choriocarcinoma	phenotype	
+Inflammatory disorder	phenotype	
+Clubfoot	phenotype	
+Hernia of the abdominal wall	phenotype	
+polyps	phenotype	
+Abnormality of acid-base homeostasis	phenotype	
+Rectal Carcinoma	phenotype	
+Gastric Adenocarcinoma	phenotype	
+Abdominal wall defect	phenotype	
+Noninfiltrating Intraductal Carcinoma	phenotype	
+Hyperlipidemia, combined, 1	phenotype	
+Feeding difficulties in infancy	phenotype	
+Abnormality of the nail	phenotype	
+Adenocarcinoma Of Esophagus	phenotype	
+Essential hypertension	phenotype	
+Epidermal thickening	phenotype	
+Muscular dystrophy-dystroglycanopathy (congenital with brain and eye anomalies), type a, 11	phenotype	
+Leiomyoma	phenotype	
+Non-alcoholic Fatty Liver Disease	phenotype	
+Recurrent respiratory infections	phenotype	
+Short digit	phenotype	
+Abnormality of the abdominal wall	phenotype	
+Cholestasis, benign recurrent intrahepatic 1	phenotype	
+Uterine leiomyoma	phenotype	
+Insulin Resistance	phenotype	
+Head and Neck Neoplasms	phenotype	
+Migraine Disorders	phenotype	
+Metastatic melanoma	phenotype	
+Hypoxia	phenotype	
+Thickened skin	phenotype	
+Gastrointestinal stromal tumor	phenotype	
+Hypothyroidism	phenotype	
+Idiopathic Pulmonary Fibrosis	phenotype	
+Chronic kidney disease	phenotype	
+Abnormality of skin pigmentation	phenotype	
+High palate	phenotype	
+Hernia	phenotype	
+Renal neoplasm	phenotype	
+Skeletal muscle atrophy	phenotype	
+Clear cell renal cell carcinoma	phenotype	
+Invasive breast carcinoma	phenotype	
+Preeclampsia/eclampsia 1	phenotype	
+Premature Birth	phenotype	
+Pulmonary Disease, Chronic Obstructive	phenotype	
+Rhabdomyosarcoma alveolar	phenotype	
+Hypertrophic cardiomyopathy	phenotype	
+Abnormality of the neck	phenotype	
+B Acute Lymphoblastic Leukemia with t(9;22)(q34;q11.2); BCR-ABL1	phenotype	
+Urothelial Carcinoma	phenotype	
+Abnormality of the nasal alae	phenotype	
+Pulmonary fibrosis and/or bone marrow failure, telomere-related, 4	phenotype	
+Disorders of Intracellular Cobalamin Metabolism	phenotype	
+Abnormal hair quantity	phenotype	
+Abnormality of female internal genitalia	phenotype	
+Myelodysplastic syndrome	phenotype	
+Malignant neoplasm of kidney	phenotype	
+Low-set ears	phenotype	
+Cancer of the lower GI tract	phenotype	
+Respiratory tract infection	phenotype	
+Abnormality of urine homeostasis	phenotype	
+Malignant Glioma	phenotype	
+Hepatic fibrosis	phenotype	
+Benign Prostatic Hyperplasia	phenotype	
+Abnormality of the pinna	phenotype	
+Abnormal internal genitalia	phenotype	
+Hepatic steatosis	phenotype	
+Acute promyelocytic leukemia	phenotype	
+Abnormal location of ears	phenotype	
+Retinopathy	phenotype	
+Celiac Disease	phenotype	
+Abnormality of skeletal physiology	phenotype	
+Abnormal glucose homeostasis	phenotype	
+C-like syndrome	phenotype	
+Hypertelorism	phenotype	
+Systemic arterial pressure	phenotype	
+Tumor Angiogenesis	phenotype	
+Abnormality of the female genitalia	phenotype	
+Myopathy, scapulohumeroperoneal	phenotype	
+Feeding difficulties	phenotype	
+Precancerous Conditions	phenotype	
+Hyperglycemia	phenotype	
+Non-Neoplastic Disorder	phenotype	
+Triple Negative Breast Neoplasms	phenotype	
+Abnormality of the penis	phenotype	
+Urinary Bladder Neoplasms	phenotype	
+Abnormality of skeletal muscles	phenotype	
+Retinoblastoma	phenotype	
+Abnormality of muscle size	phenotype	
+Polycystic Ovary Syndrome	phenotype	
+Dermatosis NOS	phenotype	
+Acute myocardial ischemia	phenotype	
+Puberty and gonadal disorders	phenotype	
+Abnormality of carbohydrate metabolism/homeostasis	phenotype	
+Combined Hepatocellular Carcinoma and Cholangiocarcinoma	phenotype	
+Infections, recurrent, with encephalopathy, hepatic dysfunction, and cardiovascular malformations	phenotype	
+Localized skin lesion	phenotype	
+Myeloid leukemia	phenotype	
+Malaria	phenotype	
+Medulloblastoma	phenotype	
+Severe combined immunodeficiency due to ADA deficiency	phenotype	
+Xenograft Model	phenotype	
+Non-Hodgkin lymphoma	phenotype	
+Abnormality of the external nose	phenotype	
+Abnormal facial shape	phenotype	
+Abnormality of the mandible	phenotype	
+Pancreatic Ductal Adenocarcinoma	phenotype	
+Constitutional symptom	phenotype	
+Scleroderma	phenotype	
+Abnormality of dental morphology	phenotype	
+Abnormality of globe location	phenotype	
+Esophageal carcinoma	phenotype	
+Abnormal peripheral nervous system morphology	phenotype	
+Abnormal jaw morphology	phenotype	
+Abnormality of the nasal bridge	phenotype	
+Abnormality of the palate	phenotype	
+Abnormality of the lip	phenotype	
+Hepatic cancer metastatic	phenotype	
+Diabetic Nephropathies	phenotype	
+Kidney Failure, Chronic	phenotype	
+Abnormality of the testis	phenotype	
+Small cell lung cancer	phenotype	
+Ischemia	phenotype	
+Decreased head circumference	phenotype	
+Malignant tumor of esophagus	phenotype	
+Abnormality of lung morphology	phenotype	
+Abnormality of the urinary system physiology	phenotype	
+Brain neoplasm	phenotype	
+Astrocytoma	phenotype	

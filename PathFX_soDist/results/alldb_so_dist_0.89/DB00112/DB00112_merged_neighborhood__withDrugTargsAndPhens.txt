@@ -1,0 +1,206 @@
+node1	node2	edge_score	
+DB00112	C1QC	1.0	
+DB00112	FCGR2B	1.0	
+DB00112	FCGR3A	1.0	
+DB00112	FCGR2C	1.0	
+DB00112	C1QA	1.0	
+DB00112	FCGR2A	1.0	
+DB00112	VEGFA	1.0	
+DB00112	FCGR1A	1.0	
+DB00112	C1R	1.0	
+DB00112	FCGR3B	1.0	
+DB00112	C1QB	1.0	
+VEGFA	rs879825	0.99
+VEGFA	rs833069	0.99
+VEGFA	rs144854329	0.99
+FCGR3A		1.0
+FCGR2A		1.0
+VEGFA	rs1570360	0.99
+VEGFA		1.0
+VEGFA	rs6900017	0.99
+VEGFA	rs3025039	0.99
+VEGFA	rs2010963	0.99
+VEGFA	rs25648	0.99
+VEGFA	rs9369421	0.99
+VEGFA	rs3025000	0.99
+VEGFA	rs13207351	0.99
+VEGFA	rs833061	0.99
+VEGFA	rs699947	0.99
+VEGFA	rs35864111	0.99
+VEGFA	rs3025040	0.99
+Pneumonitis	FCGR2A	1.0	
+Pneumonitis	FCGR3A	1.0	
+Pneumonitis	VEGFA	1.0	
+{Pemphigoid, susceptibility to} (2)	FCGR2A	1.0	
+{Pemphigoid, susceptibility to} (2)	FCGR3A	1.0	
+{Pemphigoid, susceptibility to} (2)	VEGFA	1.0	
+Periodontal Attachment Loss	FCGR2A	1.0	
+Periodontal Attachment Loss	FCGR3A	1.0	
+Periodontal Pocket	FCGR2A	1.0	
+Periodontal Pocket	FCGR3A	1.0	
+Anterior myocardial infarction	FCGR3A	1.0	
+Anterior myocardial infarction	VEGFA	1.0	
+Giant cell arteritis	FCGR2A	1.0	
+Giant cell arteritis	FCGR3A	1.0	
+Giant cell arteritis	VEGFA	1.0	
+Gingival Diseases	FCGR2A	1.0	
+Gingival Diseases	FCGR3A	1.0	
+Gingival Diseases	VEGFA	1.0	
+Alveolar Bone Loss	FCGR2A	1.0	
+Alveolar Bone Loss	FCGR3A	1.0	
+Herpesviridae Infections	FCGR3A	1.0	
+Herpesviridae Infections	VEGFA	1.0	
+Idiopathic crescentic glomerulonephritis	FCGR3A	1.0	
+Idiopathic crescentic glomerulonephritis	VEGFA	1.0	
+Diffuse Scleroderma	FCGR2A	1.0	
+Diffuse Scleroderma	FCGR3A	1.0	
+Anti-Glomerular Basement Membrane Disease	FCGR2A	1.0	
+Anti-Glomerular Basement Membrane Disease	FCGR3A	1.0	
+Guillain-Barre syndrome, familial	FCGR2A	1.0	
+Guillain-Barre syndrome, familial	FCGR3A	1.0	
+Nephritis	FCGR2A	1.0	
+Nephritis	FCGR3A	1.0	
+Nephritis	VEGFA	1.0	
+Infection by Cryptococcus neoformans	FCGR2A	1.0	
+Infection by Cryptococcus neoformans	FCGR3A	1.0	
+Meningococcal Infections	FCGR2A	1.0	
+Meningococcal Infections	FCGR3A	1.0	
+Mucocutaneous Lymph Node Syndrome	FCGR2A	1.0	
+Mucocutaneous Lymph Node Syndrome	FCGR3A	1.0	
+Mucocutaneous Lymph Node Syndrome	VEGFA	1.0	
+Arthritis, Psoriatic	FCGR2A	1.0	
+Arthritis, Psoriatic	FCGR3A	1.0	
+Arthritis, Psoriatic	VEGFA	1.0	
+Lupus Nephritis	FCGR2A	1.0	
+Lupus Nephritis	FCGR3A	1.0	
+Lupus Nephritis	VEGFA	1.0	
+Severe Dengue	FCGR2A	1.0	
+Severe Dengue	VEGFA	1.0	
+Granulomatosis with Polyangiitis	FCGR2A	1.0	
+Granulomatosis with Polyangiitis	FCGR3A	1.0	
+Candidiasis, familial, 9	FCGR2A	1.0	
+Candidiasis, familial, 9	FCGR3A	1.0	
+Nephrotic syndrome, type 5, with or without ocular abnormalities	FCGR2A	1.0	
+Nephrotic syndrome, type 5, with or without ocular abnormalities	FCGR3A	1.0	
+Nephrotic syndrome, type 5, with or without ocular abnormalities	VEGFA	1.0	
+Periodontitis, Juvenile	FCGR2A	1.0	
+Periodontitis, Juvenile	FCGR3A	1.0	
+Polyneuropathy, hearing loss, ataxia, retinitis pigmentosa, and cataract	FCGR3A	1.0	
+Polyneuropathy, hearing loss, ataxia, retinitis pigmentosa, and cataract	VEGFA	1.0	
+Urinary tract infection	FCGR3A	1.0	
+Urinary tract infection	VEGFA	1.0	
+Merkel cell carcinoma	FCGR3A	1.0	
+Merkel cell carcinoma	VEGFA	1.0	
+Biliary Atresia	FCGR3A	1.0	
+Biliary Atresia	VEGFA	1.0	
+Interstitial fibrosis	FCGR3A	1.0	
+Interstitial fibrosis	VEGFA	1.0	
+Rheumatic disease of heart valve	FCGR3A	1.0	
+Rheumatic disease of heart valve	VEGFA	1.0	
+Helicobacter Infections	FCGR2A	1.0	
+Helicobacter Infections	VEGFA	1.0	
+Idiopathic thrombocytopenic purpura	FCGR2A	1.0	
+Idiopathic thrombocytopenic purpura	FCGR3A	1.0	
+Graft-versus-host disease, susceptibility to	FCGR2A	1.0	
+Graft-versus-host disease, susceptibility to	FCGR3A	1.0	
+Graft-versus-host disease, susceptibility to	VEGFA	1.0	
+Acute Coronary Syndrome	FCGR2A	1.0	
+Acute Coronary Syndrome	FCGR3A	1.0	
+Acute Coronary Syndrome	VEGFA	1.0	
+Meningitis	FCGR2A	1.0	
+Meningitis	FCGR3A	1.0	
+Periodontitis	FCGR2A	1.0	
+Periodontitis	FCGR3A	1.0	
+Periodontitis	VEGFA	1.0	
+Lymphopenia	FCGR3A	1.0	
+Lymphopenia	VEGFA	1.0	
+Common variable immunodeficiency 2	FCGR2A	1.0	
+Common variable immunodeficiency 2	FCGR3A	1.0	
+Pleural effusion	FCGR3A	1.0	
+Pleural effusion	VEGFA	1.0	
+Rhinitis, Allergic, Seasonal	FCGR2A	1.0	
+Rhinitis, Allergic, Seasonal	VEGFA	1.0	
+Graves Disease	FCGR2A	1.0	
+Graves Disease	FCGR3A	1.0	
+Graves Disease	VEGFA	1.0	
+Leg Ulcer	VEGFA	1.0	
+Isovaleryl-CoA dehydrogenase deficiency	VEGFA	1.0	
+High altitude pulmonary edema	VEGFA	1.0	
+Kashin-Beck Disease	VEGFA	1.0	
+Fibromyxosarcoma	VEGFA	1.0	
+Papillary adenocarcinoma	VEGFA	1.0	
+Placental Insufficiency	VEGFA	1.0	
+Hereditary hemorrhagic telangiectasia type 2	VEGFA	1.0	
+recurrent childhood acute lymphoblastic leukemia	VEGFA	1.0	
+Lymphoma, Follicular	FCGR2A	1.0	
+Lymphoma, Follicular	FCGR3A	1.0	
+Lymphoma, Follicular	VEGFA	1.0	
+Essential thrombocythemia	FCGR2A	1.0	
+Essential thrombocythemia	VEGFA	1.0	
+Esophageal varix	VEGFA	1.0	
+Tuberculosis, Meningeal	VEGFA	1.0	
+Steroid-sensitive nephrotic syndrome	VEGFA	1.0	
+Invasive Skin Melanoma	VEGFA	1.0	
+{Aneurysm, familial abdominal 3} (2)	FCGR2A	1.0	
+{Aneurysm, familial abdominal 3} (2)	VEGFA	1.0	
+Otitis Media with Effusion	VEGFA	1.0	
+Thrombosis of retinal vein	VEGFA	1.0	
+Squamous cell carcinoma of the hypopharynx	VEGFA	1.0	
+Abnormal breathing	VEGFA	1.0	
+Astrocytoma, low grade	VEGFA	1.0	
+Congenital vascular anomaly	VEGFA	1.0	
+Behcet Syndrome	FCGR2A	1.0	
+Behcet Syndrome	FCGR3A	1.0	
+Behcet Syndrome	VEGFA	1.0	
+Thrombosis	FCGR2A	1.0	
+Thrombosis	VEGFA	1.0	
+Malignant neoplasm of brain and nervous system	FCGR2A	1.0	
+Malignant neoplasm of brain and nervous system	FCGR3A	1.0	
+Femur Head Necrosis	VEGFA	1.0	
+Squamous Cell Neoplasms	VEGFA	1.0	
+Proliferative retinopathy	VEGFA	1.0	
+Progressive Neoplastic Disease	FCGR3A	1.0	
+Progressive Neoplastic Disease	VEGFA	1.0	
+Progressive cGVHD	FCGR3A	1.0	
+Progressive cGVHD	VEGFA	1.0	
+Bacterial endocarditis	FCGR2A	1.0	
+T-Cell Prolymphocytic Leukemia	VEGFA	1.0	
+Myxoma	VEGFA	1.0	
+AIDS-Associated Nephropathy	VEGFA	1.0	
+Aortic valve calcification	VEGFA	1.0	
+Peritoneal Fibrosis	VEGFA	1.0	
+Chromophobe Renal Cell Carcinoma	VEGFA	1.0	
+Myeloproliferative disorder, chronic, with eosinophilia	VEGFA	1.0	
+Acquired Immunodeficiency Syndrome	FCGR3A	1.0	
+Acquired Immunodeficiency Syndrome	VEGFA	1.0	
+Albuminuria	FCGR2A	1.0	
+Albuminuria	VEGFA	1.0	
+Gallbladder Diseases	VEGFA	1.0	
+Granuloma	VEGFA	1.0	
+Intermittent claudication	VEGFA	1.0	
+Neoplasm of the thymus	FCGR2A	1.0	
+Angiokeratoma	VEGFA	1.0	
+Puerperal Disorders	FCGR2A	1.0	
+Truncus arteriosus	VEGFA	1.0	
+Vascular malformation, primary intraosseous	VEGFA	1.0	
+Niemann-Pick disease, type C	VEGFA	1.0	
+Arteriovenous hemangioma	VEGFA	1.0	
+Recurrent sinusitis	FCGR3A	1.0	
+Stenosis	VEGFA	1.0	
+TNF receptor-associated periodic fever syndrome (TRAPS)	FCGR3A	1.0	
+Tumor necrosis	FCGR3A	1.0	
+Tumor necrosis	VEGFA	1.0	
+Recessive dystrophic epidermolysis bullosa	VEGFA	1.0	
+Stage IV Ovarian Carcinoma	VEGFA	1.0	
+Generalized osteoarthritis	VEGFA	1.0	
+Prostatitis	VEGFA	1.0	
+Allergic rhinitis	FCGR3A	1.0	
+Allergic rhinitis	VEGFA	1.0	
+Thymoma	FCGR2A	1.0	
+Thymoma	VEGFA	1.0	
+Lymphoma, Large-Cell, Follicular	FCGR2A	1.0	
+Lymphoma, Large-Cell, Follicular	VEGFA	1.0	
+Pericardial effusion	VEGFA	1.0	
+Rheumatic fever / chorea	FCGR2A	1.0	
+Comedone	VEGFA	1.0	
+Sentinel node (disorder)	VEGFA	1.0	

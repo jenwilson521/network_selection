@@ -1,0 +1,14 @@
+node_name	node_type	
+DB08881	drug	
+CYP2C9	drug_target	
+CYP2C8	drug_target	
+CYP1A2	drug_target	
+ORM1	drug_target	
+CYP2D6	drug_target	
+CYP2B6	drug_target	
+ALB	drug_target	
+ABCG2	drug_target	
+BRAF	drug_target	
+CYP3A4	drug_target	
+ABCC1	drug_target	
+Adverse drug events and drug allergies	phenotype	

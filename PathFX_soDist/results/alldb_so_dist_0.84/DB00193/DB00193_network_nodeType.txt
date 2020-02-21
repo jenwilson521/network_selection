@@ -1,0 +1,30 @@
+node_name	node_type	
+DB00193	drug	
+SLC6A2	drug_target	
+CYP2D6	drug_target	
+SLC6A4	drug_target	
+CYP2B6	drug_target	
+CHRM3	drug_target	
+OPRM1	drug_target	
+CHRM1	drug_target	
+GRIN3A	drug_target	
+ABCB1	drug_target	
+OPRD1	drug_target	
+HTR2C	drug_target	
+OPRK1	drug_target	
+CYP3A4	drug_target	
+UGT1A1	drug_target	
+Hyperbilirubinemia	phenotype	
+Hepatitis D Infection	phenotype	
+Heroin Dependence	phenotype	
+Febrile Neutropenia	phenotype	
+Drug Allergy	phenotype	
+Acute postoperative pain	phenotype	
+Cocaine Dependence	phenotype	
+Tardive Dyskinesia	phenotype	
+Opiate Addiction	phenotype	
+Methamphetamine abuse	phenotype	
+Chronic pain	phenotype	
+Orofacial dyskinesia	phenotype	
+Hearing Loss, Partial	phenotype	
+Primary malignant neoplasm of liver	phenotype	

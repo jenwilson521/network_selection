@@ -1,0 +1,13 @@
+node_name	node_type	
+DB01173	drug	
+SLC6A2	drug_target	
+CYP1A2	drug_target	
+CYP2B6	drug_target	
+CYP2E1	drug_target	
+GRIN3A	drug_target	
+GRIN3B	drug_target	
+SCN10A	drug_target	
+GRIN2D	drug_target	
+HRH1	drug_target	
+GRIN1	drug_target	
+CYP3A4	drug_target	

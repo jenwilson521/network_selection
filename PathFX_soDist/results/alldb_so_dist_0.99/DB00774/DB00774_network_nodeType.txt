@@ -1,0 +1,9 @@
+node_name	node_type	
+DB00774	drug	
+CA9	drug_target	
+CA2	drug_target	
+CA1	drug_target	
+KCNMA1	drug_target	
+CA4	drug_target	
+ATP1A1	drug_target	
+CA12	drug_target	

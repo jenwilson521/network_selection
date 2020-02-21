@@ -1,0 +1,4 @@
+node1	node2	edge_score	
+DB00099	ELANE	1.0	
+DB00099	CSF3R	1.0	
+

@@ -1,0 +1,226 @@
+node1	node2	edge_score	
+DB01307	INSR	1.0	
+DB01307	ALB	1.0	
+DB01307	IGF1R	1.0	
+INSR		1.0
+ALB		1.0
+INSR	rs2396185	0.99
+complex:lAo9+jzjVOaRJSWZQvoh0G1mUDc	OR8D2	0.911120279231
+complex:lAo9+jzjVOaRJSWZQvoh0G1mUDc	KRT9	0.911120279231
+ALB	complex:lAo9+jzjVOaRJSWZQvoh0G1mUDc	0.954526206676
+Type 1 diabetic neuropathy	ALB	1.0	
+Type 1 diabetic neuropathy	INSR	1.0	
+Maturity-onset diabetes of the young, type 11	ALB	1.0	
+Maturity-onset diabetes of the young, type 11	INSR	1.0	
+Congenital diaphragmatic hernia	ALB	1.0	
+Congenital diaphragmatic hernia	INSR	1.0	
+Abnormality of adipose tissue	ALB	1.0	
+Abnormality of adipose tissue	INSR	1.0	
+Lipoatrophy	ALB	1.0	
+Lipoatrophy	INSR	1.0	
+Cachexia	ALB	1.0	
+Cachexia	INSR	1.0	
+Chronic Kidney Insufficiency	ALB	1.0	
+Chronic Kidney Insufficiency	INSR	1.0	
+Proteinuria, low molecular weight, with hypercalciuria and nephrocalcinosis	ALB	1.0	
+Proteinuria, low molecular weight, with hypercalciuria and nephrocalcinosis	INSR	1.0	
+Maternal diabetes	ALB	1.0	
+Maternal diabetes	INSR	1.0	
+Hepatoblastoma	ALB	1.0	
+Hepatoblastoma	INSR	1.0	
+Restenosis	ALB	1.0	
+Restenosis	INSR	1.0	
+Diabetic ketoacidosis	INSR	1.0	
+Berardinelli-Seip congenital lipodystrophy	INSR	1.0	
+Malignant neoplasm of adrenal cortex	ALB	1.0	
+Esophageal varix	ALB	1.0	
+Urolithiasis	ALB	1.0	
+Decreased adipose tissue	INSR	1.0	
+Abnormality of endocrine pancreas physiology	INSR	1.0	
+Echinococcosis	ALB	1.0	
+Epidermolysis bullosa simplex, Cockayne-Touraine type	KRT9	1.0	
+Palmar hyperkeratosis	KRT9	1.0	
+Proliferative retinopathy	ALB	1.0	
+Verrucae	KRT9	1.0	
+Isolated somatotropin deficiency	ALB	1.0	
+Hyperkeratosis	INSR	1.0	
+Hyperkeratosis	KRT9	1.0	
+Substance Use Disorders	ALB	1.0	
+Dentatorubral pallidoluysian atrophy	ALB	1.0	
+Angiokeratoma	ALB	1.0	
+Isolated growth hormone deficiency type 1B	ALB	1.0	
+Insulin-resistant diabetes mellitus AND acanthosis nigricans	INSR	1.0	
+Plantar hyperkeratosis	KRT9	1.0	
+Diabetic Retinopathy	ALB	1.0	
+Diabetic Retinopathy	INSR	1.0	
+Pericardial effusion	ALB	1.0	
+Generalized hyperpigmentation	INSR	1.0	
+Mumps	ALB	1.0	
+Rhinitis, Allergic, Perennial	ALB	1.0	
+Endemic Cretinism	ALB	1.0	
+Hemangioblastoma	ALB	1.0	
+Hyperlipidemia, combined, 1	ALB	1.0	
+Hyperlipidemia, combined, 1	INSR	1.0	
+Abnormality of the nail	INSR	1.0	
+Abnormality of the nail	KRT9	1.0	
+Mesangiocapillary glomerulonephritis, type II	ALB	1.0	
+Nephrosclerosis	ALB	1.0	
+Peripheral motor neuropathy	ALB	1.0	
+End Stage Liver Disease	ALB	1.0	
+Abnormal albumin level	ALB	1.0	
+Glucose intolerance	ALB	1.0	
+Glucose intolerance	INSR	1.0	
+Essential hypertension	ALB	1.0	
+Essential hypertension	INSR	1.0	
+Epidermal thickening	INSR	1.0	
+Epidermal thickening	KRT9	1.0	
+Bronchogenic Carcinoma	ALB	1.0	
+Corneal neovascularization	INSR	1.0	
+Acanthosis nigricans	INSR	1.0	
+Coronary artery aneurysm	ALB	1.0	
+Hyperlipoproteinemia	ALB	1.0	
+Hyperlipoproteinemia Type IIa	ALB	1.0	
+Tubulointerstitial nephritis	ALB	1.0	
+Coarse hair	INSR	1.0	
+Single tumor	ALB	1.0	
+Nephrotic Syndrome, Minimal Change	ALB	1.0	
+Skin Diseases, Genetic	KRT9	1.0	
+Thickened skin	INSR	1.0	
+Thickened skin	KRT9	1.0	
+Chronic kidney disease	ALB	1.0	
+Chronic kidney disease	INSR	1.0	
+Varicella zoster	ALB	1.0	
+Drusen	ALB	1.0	
+Thickened nuchal skin fold	INSR	1.0	
+Increased size of the clitoris	INSR	1.0	
+Abnormal size of the clitoris	INSR	1.0	
+Increased antibody level in blood	KRT9	1.0	
+Insulin resistance syndrome	ALB	1.0	
+Atypical teratoid/rhabdoid tumor	INSR	1.0	
+Hyperinsulinemia	ALB	1.0	
+Hyperinsulinemia	INSR	1.0	
+Clitoral hypertrophy	INSR	1.0	
+Nephrosis	ALB	1.0	
+Accelerated skeletal maturation	INSR	1.0	
+Fatigue	ALB	1.0	
+Fatigue	INSR	1.0	
+Guillain-Barre syndrome, familial	ALB	1.0	
+Primary hyperparathyroidism	ALB	1.0	
+Drug Resistant Epilepsy	ALB	1.0	
+Thyroid Diseases	ALB	1.0	
+Thyroid Diseases	INSR	1.0	
+Respiratory Tract Diseases	ALB	1.0	
+Sicca Syndrome	ALB	1.0	
+Hypoalbuminemia	ALB	1.0	
+Ketoacidosis	INSR	1.0	
+Neurologic, endocrine, and pancreatic disease, multisystem, infantile-onset	ALB	1.0	
+Female pseudohermaphroditism	INSR	1.0	
+Abnormality of the plantar skin of foot	KRT9	1.0	
+EPIDERMODYSPLASIA VERRUCIFORMIS	INSR	1.0	
+Fetal ultrasound soft marker	INSR	1.0	
+Hypermelanotic macule	INSR	1.0	
+Congenital hypothyroidism	ALB	1.0	
+Adverse drug events and drug allergies	ALB	1.0	
+Hepatic fibrosis	ALB	1.0	
+Hepatic fibrosis	INSR	1.0	
+Helminthiasis	INSR	1.0	
+High, narrow palate	INSR	1.0	
+Hyperpituitarism	INSR	1.0	
+Hepatic steatosis	ALB	1.0	
+Hepatic steatosis	INSR	1.0	
+Hemolytic uremic syndrome	ALB	1.0	
+Occupational Diseases	ALB	1.0	
+ Hyperandrogenism, nonclassic type, due to 21-hydroxylase deficiency, 201910 (3)	INSR	1.0	
+Microalbuminuria	ALB	1.0	
+Acromegaly	INSR	1.0	
+Chest pain	ALB	1.0	
+Myopathy, scapulohumeroperoneal	ALB	1.0	
+Myopathy, scapulohumeroperoneal	INSR	1.0	
+ {HIV-1 viremia, susceptibility to}, 609423 (3)	ALB	1.0	
+Acute Lung Injury	ALB	1.0	
+Abnormality of the clitoris	INSR	1.0	
+Early onset of sexual maturation	INSR	1.0	
+Hyperglycemia	ALB	1.0	
+Hyperglycemia	INSR	1.0	
+Congenital disorder of glycosylation	INSR	1.0	
+Complications of Diabetes Mellitus	ALB	1.0	
+Gingival overgrowth	INSR	1.0	
+Eczema	ALB	1.0	
+Eczema	KRT9	1.0	
+Small face	INSR	1.0	
+Polycystic Ovary Syndrome	ALB	1.0	
+Polycystic Ovary Syndrome	INSR	1.0	
+Abdominal distention	INSR	1.0	
+Pulmonary edema	ALB	1.0	
+Migraine with aura	INSR	1.0	
+Stevens-Johnson Syndrome	ALB	1.0	
+Subcutaneous nodule	INSR	1.0	
+Lymphohistiocytosis, Hemophagocytic	ALB	1.0	
+IMMUNE SUPPRESSION	ALB	1.0	
+Dementia, Vascular	ALB	1.0	
+Membranous nephropathy, susceptibility to	ALB	1.0	
+DiGeorge sequence	ALB	1.0	
+Liver regeneration disorder	ALB	1.0	
+Diabetic Angiopathies	ALB	1.0	
+Plasmacytoma	ALB	1.0	
+Narrow palate	INSR	1.0	
+Polyneuropathy, hearing loss, ataxia, retinitis pigmentosa, and cataract	ALB	1.0	
+Thick lower lip vermilion	INSR	1.0	
+Small for gestational age	INSR	1.0	
+Skin nodule	INSR	1.0	
+Coma	INSR	1.0	
+body mass	INSR	1.0	
+Hyperlipidemia, familial combined	ALB	1.0	
+Wide mouth	INSR	1.0	
+Generalized hirsutism	INSR	1.0	
+Interstitial fibrosis	ALB	1.0	
+Macule	INSR	1.0	
+Hemochromatosis	ALB	1.0	
+Constitutional symptom	ALB	1.0	
+Constitutional symptom	INSR	1.0	
+Prematurely aged appearance	INSR	1.0	
+Abnormality of metabolism/homeostasis	ALB	1.0	
+Abnormality of metabolism/homeostasis	INSR	1.0	
+Abnormality of metabolism/homeostasis	KRT9	1.0	
+Liver Diseases	ALB	1.0	
+Liver Diseases	INSR	1.0	
+Hyperhidrosis	KRT9	1.0	
+Methamphetamine abuse	ALB	1.0	
+Gynecomastia	INSR	1.0	
+Hereditary factor VIII deficiency disease	ALB	1.0	
+Rhabdoid Tumor of the Kidney	INSR	1.0	
+Precursor B-Cell Lymphoblastic Leukemia-Lymphoma	INSR	1.0	
+Postnatal growth retardation	INSR	1.0	
+Clear-cell metastatic renal cell carcinoma	INSR	1.0	
+Glomerulosclerosis, Focal Segmental	ALB	1.0	
+Mandibular prognathia	INSR	1.0	
+tumor vasculature	ALB	1.0	
+Dry skin	INSR	1.0	
+Abnormality of female external genitalia	INSR	1.0	
+Diabetic Nephropathies	ALB	1.0	
+Diabetic Nephropathies	INSR	1.0	
+Kidney Failure, Chronic	ALB	1.0	
+Kidney Failure, Chronic	INSR	1.0	
+Hypertrichosis	INSR	1.0	
+Abnormality of pancreas physiology	INSR	1.0	
+Ovarian cyst	INSR	1.0	
+Irregular hyperpigmentation	INSR	1.0	
+Metabolic Syndrome X	ALB	1.0	
+Metabolic Syndrome X	INSR	1.0	
+Nail dysplasia	INSR	1.0	
+Abnormality of the pituitary gland	ALB	1.0	
+Abnormality of the pituitary gland	INSR	1.0	
+Precocious puberty	INSR	1.0	
+Focal segmental glomerulosclerosis	ALB	1.0	
+Malnutrition	ALB	1.0	
+Thick vermilion border	INSR	1.0	
+Abnormality of dental eruption	INSR	1.0	
+Duchenne muscular dystrophy	INSR	1.0	
+Erythema	KRT9	1.0	
+Abnormal insulin level	INSR	1.0	
+Abnormal circulating insulin level	INSR	1.0	
+Urticaria	ALB	1.0	
+Abnormal nipple morphology	INSR	1.0	
+Abnormality of hair texture	INSR	1.0	
+Macrotia	INSR	1.0	
+Thrombophilia	ALB	1.0	

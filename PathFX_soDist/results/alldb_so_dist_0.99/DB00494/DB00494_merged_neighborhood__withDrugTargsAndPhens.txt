@@ -1,0 +1,5 @@
+node1	node2	edge_score	
+DB00494	COMT	1.0	
+DB00494	CYP2D6	1.0	
+DB00494	UGT1A9	1.0	
+

@@ -1,0 +1,7 @@
+node_name	node_type	
+DB00035	drug	
+AVPR1B	drug_target	
+PTGS2	drug_target	
+AVPR2	drug_target	
+AVPR1A	drug_target	
+PTGS1	drug_target	

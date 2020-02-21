@@ -1,0 +1,7 @@
+node_name	node_type	
+DB00621	drug	
+CYP2C9	drug_target	
+AR	drug_target	
+Tubulointerstitial nephritis	phenotype	
+Microsatellite Instability	phenotype	
+Neoplasms, Germ Cell and Embryonal	phenotype	

@@ -1,0 +1,12 @@
+Gene	CUI	Source Databases	
+PPARA	C0015923	Fetal Alcohol Syndrome	DisGeNet	
+PPARA	C0856536	Philadelphia chromosome positive	DisGeNet	
+PPARA	C2936179	Obesity, Visceral	DisGeNet	
+PPARA	C0020476	Hyperlipoproteinemia	DisGeNet	
+PPARA	C1522137	Hypertriglyceridemia result	DisGeNet	
+PPARA	C2362324	Pediatric Obesity	DisGeNet	
+PPARA	C3714619	Insulin resistance syndrome	DisGeNet	
+PPARA	C0403529	Anti-Glomerular Basement Membrane Disease	DisGeNet	
+PPARA	C0948480	Coronary Restenosis	DisGeNet	
+PPARA	C1842937	Aural atresia, congenital	DisGeNet	
+PPARA	C0344307	Pain insensitivity	DisGeNet	

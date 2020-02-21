@@ -1,0 +1,203 @@
+Gene	CUI	Source Databases	
+ALB	C0027707	Tubulointerstitial nephritis	DisGeNet	
+SLC12A3	C0027707	Tubulointerstitial nephritis	DisGeNet	
+ALB	C0085580	Essential hypertension	DisGeNet	
+KCNMA1	C0085580	Essential hypertension	DisGeNet	
+SLC12A3	C0085580	Essential hypertension	DisGeNet	
+KCNMA1	C1384514	Primary hyperaldosteronism	DisGeNet	
+SLC12A3	C1384514	Primary hyperaldosteronism	DisGeNet	
+ALB	C0014544	Epilepsy	DisGeNet	
+KCNMA1	C0014544	Epilepsy	DisGeNet	
+SLC12A3	C0014544	Epilepsy	DisGeNet	
+SLC12A3	C0268450	Familial hypokalemia-hypomagnesemia	ClinVar,DisGeNet	
+ALB	C0346402	Malignant neoplasm of adrenal cortex	DisGeNet	
+ALB	C2316810	Stage 5 chronic kidney disease	DisGeNet	
+SLC12A3	C2316810	Stage 5 chronic kidney disease	DisGeNet	
+ALB	C0014867	Esophageal varix	DisGeNet	
+SLC12A3	C0242387	Treacher Collins syndrome	DisGeNet	
+ALB	C0451641	Urolithiasis	DisGeNet	
+ALB	C0152013	Adenocarcinoma of lung	DisGeNet	
+KCNMA1	C0152013	Adenocarcinoma of lung	DisGeNet	
+SLC12A3	C0152013	Adenocarcinoma of lung	DisGeNet	
+ALB	C0013502	Echinococcosis	DisGeNet	
+KRT9	C0079298	Epidermolysis bullosa simplex, Cockayne-Touraine type	DisGeNet	
+KRT9	C0240641	Palmar hyperkeratosis	HumPhenOnt	
+KCNMA1	C0005694	Bladder neck obstruction	DisGeNet	
+ALB	C0339467	Proliferative retinopathy	DisGeNet	
+SLC12A3	C0553730	Chondrocalcinosis	HumPhenOnt	
+KRT9	C0043037	Verrucae	HumPhenOnt	
+ALB	C3714796	Isolated somatotropin deficiency	DisGeNet	
+KCNMA1	C0001126	Renal tubular acidosis, distal, autosomal dominant	DisGeNet	
+ALB	C0038586	Substance Use Disorders	DisGeNet	
+ALB	C0751781	Dentatorubral pallidoluysian atrophy	DisGeNet	
+ALB	C0002985	Angiokeratoma	DisGeNet	
+KCNMA1	C0005944	Metabolic Bone Disorder	DisGeNet	
+ALB	C0013338	Isolated growth hormone deficiency type 1B	DisGeNet	
+KRT9	C1856954	Plantar hyperkeratosis	HumPhenOnt	
+SLC12A3	C3693260	Abnormal urine output	HumPhenOnt	
+ALB	C0011884	Diabetic Retinopathy	DisGeNet	
+SLC12A3	C0011884	Diabetic Retinopathy	DisGeNet	
+ALB	C0031039	Pericardial effusion	DisGeNet	
+SLC12A3	C0546817	Hypervolemia	DisGeNet	
+SLC12A3	C0854912	Germinoma	DisGeNet	
+SLC12A3	C4022657	Abnormal drinking behavior	HumPhenOnt	
+ALB	C0026780	Mumps	DisGeNet	
+ALB	C0035457	Rhinitis, Allergic, Perennial	DisGeNet	
+ALB	C0342200	Endemic Cretinism	DisGeNet	
+SLC12A3	C4023579	Abnormality of renal excretion	HumPhenOnt	
+KCNMA1	C0152096	Complete trisomy 18 syndrome	DisGeNet	
+ALB	C0206734	Hemangioblastoma	DisGeNet	
+SLC12A3	C0175704	Noonan syndrome with multiple lentigines	DisGeNet	
+ALB	C0017662	Mesangiocapillary glomerulonephritis, type II	DisGeNet	
+ALB	C0027719	Nephrosclerosis	DisGeNet	
+ALB	C0235025	Peripheral motor neuropathy	DisGeNet	
+ALB	C0745744	End Stage Liver Disease	DisGeNet	
+SLC12A3	C0002063	Alkalosis	HumPhenOnt	
+SLC12A3	C0032617	Polyuria	HumPhenOnt	
+ALB	C4023036	Abnormal albumin level	HumPhenOnt	
+ALB	C0007121	Bronchogenic Carcinoma	DisGeNet	
+KCNMA1	C4023515	Dialeptic seizures	HumPhenOnt	
+SLC12A3	C0206633	{TSC2 angiomyolipomas, renal, modifier of}, 613254 (3)	DisGeNet	
+ALB	C0010051	Coronary artery aneurysm	DisGeNet	
+ALB	C0020476	Hyperlipoproteinemia	DisGeNet	
+ALB	C0745103	Hyperlipoproteinemia Type IIa	DisGeNet	
+ALB	C1298180	Single tumor	DisGeNet	
+ALB	C1704321	Nephrotic Syndrome, Minimal Change	DisGeNet	
+SLC12A3	C4023575	Abnormality of potassium homeostasis	HumPhenOnt	
+KRT9	C0037277	Skin Diseases, Genetic	DisGeNet	
+ALB	C0278488	Carcinoma breast stage IV	DisGeNet	
+KCNMA1	C0278488	Carcinoma breast stage IV	DisGeNet	
+ALB	C0740380	Varicella zoster	DisGeNet	
+ALB	C1260959	Drusen	DisGeNet	
+SLC12A3	C0020621	Hypokalemia	HumPhenOnt	
+KRT9	C0151669	Increased antibody level in blood	HumPhenOnt	
+ALB	C3714619	Insulin resistance syndrome	DisGeNet	
+SLC12A3	C0085602	Polydipsia	HumPhenOnt	
+ALB	C0027720	Nephrosis	DisGeNet	
+KCNMA1	C4023476	EEG with generalized epileptiform discharges	HumPhenOnt	
+ALB	C0035078	Renal Insufficiency, Chronic	DisGeNet	
+SLC12A3	C0035078	Renal Insufficiency, Chronic	DisGeNet	
+ALB	C0018378	Guillain-Barre syndrome, familial	DisGeNet	
+SLC12A3	C4023434	Abnormality of urine calcium concentration	HumPhenOnt	
+ALB	C0221002	Primary hyperparathyroidism	DisGeNet	
+ALB	C1096063	Drug Resistant Epilepsy	DisGeNet	
+ALB	C0035242	Respiratory Tract Diseases	DisGeNet	
+ALB	C0086981	Sicca Syndrome	DisGeNet	
+ALB	C0239981	Hypoalbuminemia	DisGeNet,HumPhenOnt	
+KCNMA1	C0600327	Toxic Shock Syndrome	DisGeNet	
+ALB	C0030286	Neurologic, endocrine, and pancreatic disease, multisystem, infantile-onset	DisGeNet	
+KRT9	C4020946	Abnormality of the plantar skin of foot	HumPhenOnt	
+SLC12A3	C0751674	Lymphangiomyomatosis	DisGeNet	
+KCNMA1	C0013819	EEG with irregular generalized spike and wave complexes	HumPhenOnt	
+SLC12A3	C4023645	Abnormality of monovalent inorganic cation homeostasis	HumPhenOnt	
+ALB	C0010308	Congenital hypothyroidism	DisGeNet	
+ALB	C0041755	Adverse drug events and drug allergies	DisGeNet	
+SLC12A3	C0431380	Cortical dysplasia, complex, with other brain malformations 3	DisGeNet	
+SLC12A3	C3542024	Aortic valve disease 2	DisGeNet	
+SLC12A3	C0559758	Multisystem disorder	DisGeNet	
+ALB	C0042373	Vascular Diseases	DisGeNet	
+SLC12A3	C0042373	Vascular Diseases	DisGeNet	
+KCNMA1	C0019284	Diaphragmatic hernia	DisGeNet	
+SLC12A3	C0151747	Renal tubular dysfunction	DisGeNet	
+KCNMA1	C1335177	Ovarian Serous Adenocarcinoma	DisGeNet	
+ALB	C0019061	Hemolytic uremic syndrome	DisGeNet	
+SLC12A3	C0149630	Bicuspid aortic valve	DisGeNet	
+ALB	C0028797	Occupational Diseases	DisGeNet	
+ALB	C0730345	Microalbuminuria	DisGeNet	
+ALB	C0008031	Chest pain	DisGeNet	
+KCNMA1	C0014548	Epilepsy, generalized, with febrile seizures plus, type 6 (2)	DisGeNet	
+ALB	C0042749	 {HIV-1 viremia, susceptibility to}, 609423 (3)	DisGeNet	
+ALB	C0242488	Acute Lung Injury	DisGeNet	
+SLC12A3	C0746674	Generalized muscle weakness	HumPhenOnt	
+SLC12A3	C2931876	Hirschsprung disease 1	DisGeNet	
+SLC12A3	C4073150	Abnormal consumption behavior	HumPhenOnt	
+ALB	C0342257	Complications of Diabetes Mellitus	DisGeNet	
+ALB	C0013595	Eczema	DisGeNet	
+KRT9	C0013595	Eczema	HumPhenOnt	
+SLC12A3	C0020438	Hypercalciuria	DisGeNet	
+SLC12A3	C0027709	Nephrocalcinosis	DisGeNet	
+ALB	C0034063	Pulmonary edema	DisGeNet	
+SLC12A3	C0014599	Epithelial hyperplasia of skin	DisGeNet	
+ALB	C0038325	Stevens-Johnson Syndrome	DisGeNet	
+ALB	C0024291	Lymphohistiocytosis, Hemophagocytic	DisGeNet	
+ALB	C0007134	Renal cell carcinoma, nonpapillary	DisGeNet	
+KCNMA1	C0007134	Renal cell carcinoma, nonpapillary	DisGeNet	
+SLC12A3	C0007134	Renal cell carcinoma, nonpapillary	DisGeNet	
+KCNMA1	C0014553	Absence seizures	HumPhenOnt	
+ALB	C0021079	IMMUNE SUPPRESSION	DisGeNet	
+SLC12A3	C0205217	Increased analgesia from kappa-opioid receptor agonist, female-specific	HumPhenOnt	
+SLC12A3	C4025588	Juvenile onset	HumPhenOnt	
+SLC12A3	C0008487	Chordoma	DisGeNet	
+ALB	C0011269	Dementia, Vascular	DisGeNet	
+ALB	C0017665	Membranous nephropathy, susceptibility to	DisGeNet	
+ALB	C0012236	DiGeorge sequence	DisGeNet	
+SLC12A3	C0026821	Muscle cramps	HumPhenOnt	
+ALB	C1318485	Liver regeneration disorder	DisGeNet	
+ALB	C0011875	Diabetic Angiopathies	DisGeNet	
+ALB	C0032131	Plasmacytoma	DisGeNet	
+ALB	C0011882	Type 1 diabetic neuropathy	DisGeNet	
+ALB	C0152025	Polyneuropathy, hearing loss, ataxia, retinitis pigmentosa, and cataract	DisGeNet	
+SLC12A3	C0522224	Paralysis	DisGeNet,HumPhenOnt	
+ALB	C0036572	Seizures, Febrile	DisGeNet	
+KCNMA1	C0036572	Seizures, Febrile	HumPhenOnt	
+SLC12A3	C0036572	Seizures, Febrile	HumPhenOnt	
+ALB	C0020474	Hyperlipidemia, familial combined	DisGeNet	
+KCNMA1	C0494475	Generalized tonic-clonic seizures	HumPhenOnt	
+SLC12A3	C0030554	Paresthesia	HumPhenOnt	
+ALB	C3887486	Interstitial fibrosis	DisGeNet	
+SLC12A3	C4022833	Abnormal urinary electrolyte concentration	HumPhenOnt	
+ALB	C0018995	Hemochromatosis	DisGeNet	
+ALB	C0009812	Constitutional symptom	HumPhenOnt	
+SLC12A3	C0009812	Constitutional symptom	HumPhenOnt	
+ALB	C4021768	Abnormality of metabolism/homeostasis	HumPhenOnt	
+KRT9	C4021768	Abnormality of metabolism/homeostasis	HumPhenOnt	
+SLC12A3	C4021768	Abnormality of metabolism/homeostasis	HumPhenOnt	
+KRT9	C0020458	Hyperhidrosis	HumPhenOnt	
+ALB	C0013146	Methamphetamine abuse	DisGeNet	
+ALB	C0019069	Hereditary factor VIII deficiency disease	DisGeNet	
+KCNMA1	C0023380	Lethargy	DisGeNet	
+SLC12A3	C0221198	NOONAN-LIKE/MULTIPLE GIANT CELL LESION SYNDROME (disorder)	DisGeNet	
+SLC12A3	C0018552	Hamartoma	DisGeNet	
+ALB	C0020538	Hypertension	DisGeNet	
+KCNMA1	C0020538	Hypertension	DisGeNet	
+SLC12A3	C0020538	Hypertension	DisGeNet	
+KCNMA1	C1561955	Fibrinogen Adverse Event	DisGeNet	
+SLC12A3	C4025337	Abnormality of calcium homeostasis	HumPhenOnt	
+KCNMA1	C0008489	Chorea, childhood-onset, with psychomotor retardation	DisGeNet	
+ALB	C0178664	Glomerulosclerosis, Focal Segmental	DisGeNet	
+ALB	C1658953	tumor vasculature	DisGeNet	
+ALB	C0011881	Diabetic Nephropathies	DisGeNet	
+SLC12A3	C0011881	Diabetic Nephropathies	DisGeNet	
+ALB	C0022661	Kidney Failure, Chronic	DisGeNet	
+SLC12A3	C0022661	Kidney Failure, Chronic	DisGeNet	
+ALB	C0342276	Maturity-onset diabetes of the young, type 11	DisGeNet	
+ALB	C0030193	Pain	DisGeNet	
+SLC12A3	C0030193	Pain	HumPhenOnt	
+SLC12A3	C4023648	Abnormality of divalent inorganic cation homeostasis	HumPhenOnt	
+ALB	C0029456	Osteoporosis	HumPhenOnt	
+SLC12A3	C0029456	Osteoporosis	DisGeNet	
+ALB	C0022116	Ischemia	DisGeNet	
+KCNMA1	C0022116	Ischemia	DisGeNet	
+ALB	C0017668	Focal segmental glomerulosclerosis	DisGeNet	
+ALB	C0162429	Malnutrition	DisGeNet	
+KRT9	C0041834	Erythema	HumPhenOnt	
+SLC12A3	C0949664	Tauopathies	DisGeNet	
+ALB	C0042109	Urticaria	DisGeNet	
+ALB	C0398623	Thrombophilia	DisGeNet	
+ALB	C0006118	Brain neoplasm	DisGeNet	
+SLC12A3	C0006118	Brain neoplasm	DisGeNet	
+KCNMA1	C0242350	Impotence	DisGeNet	
+KCNMA1	C0000768	EMG: myopathic abnormalities	DisGeNet	
+SLC12A3	C0000768	EMG: myopathic abnormalities	DisGeNet	
+ALB	C0020649	Hypotension	DisGeNet,HumPhenOnt	
+KRT9	C4021782	Abnormality of the fingernails	HumPhenOnt	
+KCNMA1	C0028756	Obesity, severe, 601665 (3)	DisGeNet	
+ALB	C0235833	Congenital diaphragmatic hernia	DisGeNet	
+ALB	C0034065	Pulmonary Embolism	DisGeNet	
+KCNMA1	C0220650	Metastatic malignant neoplasm to brain	DisGeNet	
+ALB	C0003123	Anorexia	DisGeNet	
+KCNMA1	C0234533	Generalized seizures	HumPhenOnt	
+KRT9	C1855755	Abnormal immunoglobulin level	HumPhenOnt	
+ALB	C0162557	Acute hepatic failure	DisGeNet	
+KRT9	C1849242	Abnormality of B cell physiology	HumPhenOnt	
+KRT9	C4021748	Abnormality of B cells	HumPhenOnt	

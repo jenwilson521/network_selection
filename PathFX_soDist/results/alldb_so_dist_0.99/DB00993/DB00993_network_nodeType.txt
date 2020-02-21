@@ -1,0 +1,10 @@
+node_name	node_type	
+DB00993	drug	
+CYP1A2	drug_target	
+RAC1	drug_target	
+GSTM1	drug_target	
+HPRT1	drug_target	
+TPMT	drug_target	
+GSTA1	drug_target	
+GSTA2	drug_target	
+XDH	drug_target	

@@ -1,0 +1,144 @@
+node1	node2	edge_score	
+DB01088	PDE4C	1.0	
+DB01088	PTGER1	1.0	
+DB01088	PLAT	1.0	
+DB01088	SLCO2B1	1.0	
+DB01088	PDE4A	1.0	
+DB01088	PDE4B	1.0	
+DB01088	PTGIR	1.0	
+DB01088	PDE4D	1.0	
+PDE4B		1.0
+PTGIR		1.0
+PDE4B	complex:lAo9+jzjVOaRJSWZQvoh0G1mUDc	0.904977499353
+complex:lAo9+jzjVOaRJSWZQvoh0G1mUDc	OR8D2	0.863824739585
+SLCO2B1		1.0
+PDE4D		1.0
+complex:lAo9+jzjVOaRJSWZQvoh0G1mUDc	KRT9	0.863824739585
+complex:lAo9+jzjVOaRJSWZQvoh0G1mUDc	ALB	0.863824739585
+Congenital hypothyroidism	ALB	1.0	
+Congenital hypothyroidism	PDE4D	1.0	
+Amphetamine-Related Disorders	PDE4B	1.0	
+Amphetamine-Related Disorders	PDE4D	1.0	
+Vascular Diseases	ALB	1.0	
+Vascular Diseases	PDE4D	1.0	
+Vascular Diseases	PTGIR	1.0	
+Acute myocardial ischemia	ALB	1.0	
+Acute myocardial ischemia	PDE4B	1.0	
+Acute myocardial ischemia	PDE4D	1.0	
+Venous thrombosis	PDE4D	1.0	
+Venous thrombosis	PTGIR	1.0	
+Depressive Disorder	ALB	1.0	
+Depressive Disorder	PDE4B	1.0	
+Depressive Disorder	PDE4D	1.0	
+Hyperphosphatemia	PDE4D	1.0	
+ Acrodysostosis 1, with or without hormone resistance, 101800 (3)	PDE4D	1.0	
+Blue irides	PDE4D	1.0	
+Malignant neoplasm of adrenal cortex	ALB	1.0	
+Esophageal varix	ALB	1.0	
+Urolithiasis	ALB	1.0	
+Echinococcosis	ALB	1.0	
+Epidermolysis bullosa simplex, Cockayne-Touraine type	KRT9	1.0	
+Palmar hyperkeratosis	KRT9	1.0	
+Pseudohypoparathyroidism, Type Ia	PDE4D	1.0	
+Proliferative retinopathy	ALB	1.0	
+Pseudohypoparathyroidism type 1A	PDE4D	1.0	
+Verrucae	KRT9	1.0	
+Isolated somatotropin deficiency	ALB	1.0	
+Substance Use Disorders	ALB	1.0	
+Dentatorubral pallidoluysian atrophy	ALB	1.0	
+Epiphyseal stippling	PDE4D	1.0	
+Angiokeratoma	ALB	1.0	
+Isolated growth hormone deficiency type 1B	ALB	1.0	
+Plantar hyperkeratosis	KRT9	1.0	
+Hypoplasia of the radius	PDE4D	1.0	
+Generalized hypopigmentation of hair	PDE4D	1.0	
+Pericardial effusion	ALB	1.0	
+Open bite	PDE4D	1.0	
+Mumps	ALB	1.0	
+Rhinitis, Allergic, Perennial	ALB	1.0	
+Endemic Cretinism	ALB	1.0	
+Short metatarsal	PDE4D	1.0	
+Hemangioblastoma	ALB	1.0	
+Mesangiocapillary glomerulonephritis, type II	ALB	1.0	
+Nephrosclerosis	ALB	1.0	
+Peripheral motor neuropathy	ALB	1.0	
+End Stage Liver Disease	ALB	1.0	
+Aplasia/Hypoplasia of metatarsal bones	PDE4D	1.0	
+Abnormal albumin level	ALB	1.0	
+Bronchogenic Carcinoma	ALB	1.0	
+Coronary artery aneurysm	ALB	1.0	
+Hyperlipoproteinemia	ALB	1.0	
+Deep vein thrombosis of lower limb	PTGIR	1.0	
+Hyperlipoproteinemia Type IIa	ALB	1.0	
+Tubulointerstitial nephritis	ALB	1.0	
+Deep thrombophlebitis	PTGIR	1.0	
+Single tumor	ALB	1.0	
+Nephrotic Syndrome, Minimal Change	ALB	1.0	
+Abnormal morphology of the radius	PDE4D	1.0	
+Skin Diseases, Genetic	KRT9	1.0	
+Abnormal epiphyseal ossification	PDE4D	1.0	
+Abnormality of the nail	KRT9	1.0	
+Abnormality of the nail	PDE4D	1.0	
+Varicella zoster	ALB	1.0	
+Drusen	ALB	1.0	
+Increased antibody level in blood	KRT9	1.0	
+Insulin resistance syndrome	ALB	1.0	
+Dyskinesia, Drug-Induced	PDE4B	1.0	
+Hypoplasia of the ulna	PDE4D	1.0	
+Abnormal morphology of ulna	PDE4D	1.0	
+Hypocalcemia	PDE4D	1.0	
+Nephrosis	ALB	1.0	
+Accelerated skeletal maturation	PDE4D	1.0	
+Guillain-Barre syndrome, familial	ALB	1.0	
+Abnormality of phosphate homeostasis	PDE4D	1.0	
+Primary hyperparathyroidism	ALB	1.0	
+Drug Resistant Epilepsy	ALB	1.0	
+Cone-shaped epiphyses fused within their metaphyses	PDE4D	1.0	
+Respiratory Tract Diseases	ALB	1.0	
+Sicca Syndrome	ALB	1.0	
+Hypoalbuminemia	ALB	1.0	
+Aplasia/Hypoplasia of the ulna	PDE4D	1.0	
+Abnormality of intracranial pressure	PDE4D	1.0	
+Neurologic, endocrine, and pancreatic disease, multisystem, infantile-onset	ALB	1.0	
+Abnormality of the plantar skin of foot	KRT9	1.0	
+Abnormality of the parathyroid physiology	PDE4D	1.0	
+Inflammatory pain	PDE4D	1.0	
+Increased intracranial pressure	PDE4D	1.0	
+Round face	PDE4D	1.0	
+Adverse drug events and drug allergies	ALB	1.0	
+Open mouth	PDE4D	1.0	
+Tardive Dyskinesia	PDE4B	1.0	
+Abnormality of the parathyroid gland	PDE4D	1.0	
+Hemolytic uremic syndrome	ALB	1.0	
+Proportionate short stature	PDE4D	1.0	
+Forearm undergrowth	PDE4D	1.0	
+Thyroid Diseases	ALB	1.0	
+Thyroid Diseases	PDE4D	1.0	
+NEUROTICISM	PDE4D	1.0	
+Heart Diseases	ALB	1.0	
+Heart Diseases	PTGIR	1.0	
+Occupational Diseases	ALB	1.0	
+Microalbuminuria	ALB	1.0	
+Arteriosclerosis	ALB	1.0	
+Arteriosclerosis	PDE4D	1.0	
+Arteriosclerosis	PTGIR	1.0	
+Chest pain	ALB	1.0	
+Arsenic Poisoning	PDE4B	1.0	
+Narrow femoral neck	PDE4D	1.0	
+Upper limb undergrowth	PDE4D	1.0	
+ {HIV-1 viremia, susceptibility to}, 609423 (3)	ALB	1.0	
+Acute Lung Injury	ALB	1.0	
+Aplasia/Hypoplasia of the radius	PDE4D	1.0	
+ Cerebrovascular disease, occlusive (3)	PDE4D	1.0	
+Orofacial dyskinesia	PDE4B	1.0	
+Complications of Diabetes Mellitus	ALB	1.0	
+Brain Ischemia	ALB	1.0	
+Brain Ischemia	PDE4D	1.0	
+Pulmonary edema	ALB	1.0	
+Brain Infarction	PDE4D	1.0	
+Short toe	PDE4D	1.0	
+Abnormal morphology of forearm bone	PDE4D	1.0	
+Abnormal concentration of calcium in blood	PDE4D	1.0	
+Micromelia	PDE4D	1.0	
+Stevens-Johnson Syndrome	ALB	1.0	
+Abnormal thrombosis	PDE4D	1.0	

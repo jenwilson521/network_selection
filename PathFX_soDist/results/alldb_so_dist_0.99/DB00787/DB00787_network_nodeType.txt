@@ -1,0 +1,9 @@
+node_name	node_type	
+DB00787	drug	
+SLC10A2	drug_target	
+UL30	drug_target	
+SLC22A6	drug_target	
+SLC22A1	drug_target	
+SLC47A2	drug_target	
+SLC47A1	drug_target	
+SLC22A8	drug_target	

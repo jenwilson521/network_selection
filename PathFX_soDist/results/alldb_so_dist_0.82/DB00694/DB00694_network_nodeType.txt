@@ -1,0 +1,22 @@
+node_name	node_type	
+DB00694	drug	
+CYP1A1	drug_target	
+ABCG2	drug_target	
+CYP1B1	drug_target	
+ABCC6	drug_target	
+POR	drug_target	
+ABCB1	drug_target	
+XDH	drug_target	
+ABCB11	drug_target	
+ABCC10	drug_target	
+CYP3A4	drug_target	
+CYP3A5	drug_target	
+TOP2B	drug_target	
+ABCC1	drug_target	
+ABCC2	drug_target	
+TOP2A	drug_target	
+Squamous Cell Neoplasms	phenotype	
+Primary malignant neoplasm of liver	phenotype	
+Pleural Neoplasms	phenotype	
+Intrahepatic cholestasis	phenotype	
+Adverse drug events and drug allergies	phenotype	

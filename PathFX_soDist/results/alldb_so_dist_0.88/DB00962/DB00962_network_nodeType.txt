@@ -1,0 +1,16 @@
+node_name	node_type	
+DB00962	drug	
+TSPO	drug_target	
+AOX1	drug_target	
+CYP3A4	drug_target	
+CYP3A5	drug_target	
+GABRA1	drug_target	
+Primary malignant neoplasm of liver	phenotype	
+Squamous Cell Neoplasms	phenotype	
+Cocaine delirium	phenotype	
+Pain insensitivity	phenotype	
+Neoplasms, Germ Cell and Embryonal	phenotype	
+Tardive Dyskinesia	phenotype	
+ {HIV-1 viremia, susceptibility to}, 609423 (3)	phenotype	
+Orofacial dyskinesia	phenotype	
+Drug Allergy	phenotype	

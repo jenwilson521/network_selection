@@ -1,0 +1,23 @@
+Gene	CUI	Source Databases	
+ABCG2	C0206720	Squamous Cell Neoplasms	DisGeNet	
+CYP3A4	C0206720	Squamous Cell Neoplasms	DisGeNet	
+EGFR	C0206720	Squamous Cell Neoplasms	DisGeNet	
+VEGFA	C0206720	Squamous Cell Neoplasms	DisGeNet	
+ALB	C0031039	Pericardial effusion	DisGeNet	
+EGFR	C0031039	Pericardial effusion	DisGeNet	
+SLC22A2	C0031039	Pericardial effusion	DisGeNet	
+VEGFA	C0031039	Pericardial effusion	DisGeNet	
+ALB	C0206734	Hemangioblastoma	DisGeNet	
+EGFR	C0206734	Hemangioblastoma	DisGeNet	
+VEGFA	C0206734	Hemangioblastoma	DisGeNet	
+ALB	C0006625	Cachexia	DisGeNet	
+EGFR	C0006625	Cachexia	DisGeNet	
+TRAF6	C0006625	Cachexia	DisGeNet	
+UBC	C0006625	Cachexia	DisGeNet	
+VEGFA	C0006625	Cachexia	DisGeNet	
+ABCC1	C0473583	Pseudoxanthoma elasticum	DisGeNet	
+ABCG2	C0473583	Pseudoxanthoma elasticum	DisGeNet	
+VEGFA	C0473583	Pseudoxanthoma elasticum	DisGeNet	
+ABCC1	C0041755	Adverse drug events and drug allergies	DisGeNet	
+ABCG2	C0041755	Adverse drug events and drug allergies	DisGeNet	
+ALB	C0041755	Adverse drug events and drug allergies	DisGeNet	

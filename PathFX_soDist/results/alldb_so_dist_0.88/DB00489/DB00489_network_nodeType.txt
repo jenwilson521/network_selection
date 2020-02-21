@@ -1,0 +1,11 @@
+node_name	node_type	
+DB00489	drug	
+ADRB1	drug_target	
+ADRB2	drug_target	
+CYP2D6	drug_target	
+KCNH2	drug_target	
+Ventricular fibrillation	phenotype	
+Occupational Diseases	phenotype	
+Tachycardia	phenotype	
+Chronic heart failure	phenotype	
+Congenital long QT syndrome	phenotype	

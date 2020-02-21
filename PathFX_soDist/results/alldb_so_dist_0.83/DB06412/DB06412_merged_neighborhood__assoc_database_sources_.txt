@@ -1,0 +1,10 @@
+Gene	CUI	Source Databases	
+CYP2D6	C0024620	Primary malignant neoplasm of liver	DisGeNet	
+CYP3A4	C0024620	Primary malignant neoplasm of liver	DisGeNet	
+CYP3A5	C0024620	Primary malignant neoplasm of liver	DisGeNet	
+ALB	C0027707	Tubulointerstitial nephritis	DisGeNet	
+AR	C0027707	Tubulointerstitial nephritis	DisGeNet	
+CYP2D6	C0027707	Tubulointerstitial nephritis	DisGeNet	
+CYP2D6	C0344307	Pain insensitivity	DisGeNet	
+CYP3A4	C0344307	Pain insensitivity	DisGeNet	
+CYP3A5	C0344307	Pain insensitivity	DisGeNet	

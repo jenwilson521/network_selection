@@ -1,0 +1,298 @@
+Gene	CUI	Source Databases	
+KCNJ11	C0011849	Diabetes Mellitus, Type 1	DisGeNet,HumPhenOnt,PheGenI	
+KCNMA1	C0011849	Diabetes Mellitus, Type 1	DisGeNet	
+SLC12A3	C0011849	Diabetes Mellitus, Type 1	DisGeNet	
+KCNJ11	C0014544	Epilepsy	DisGeNet	
+KCNMA1	C0014544	Epilepsy	DisGeNet	
+SLC12A3	C0014544	Epilepsy	DisGeNet	
+KCNJ11	C0020538	Hypertension	DisGeNet	
+KCNMA1	C0020538	Hypertension	DisGeNet	
+SLC12A3	C0020538	Hypertension	DisGeNet	
+KCNJ11	C0036572	Seizures, Febrile	DisGeNet,HumPhenOnt	
+KCNMA1	C0036572	Seizures, Febrile	HumPhenOnt	
+SLC12A3	C0036572	Seizures, Febrile	HumPhenOnt	
+KCNJ11	C0497552	Abnormality of the nervous system	HumPhenOnt	
+KCNMA1	C0497552	Abnormality of the nervous system	HumPhenOnt	
+SLC12A3	C0497552	Abnormality of the nervous system	HumPhenOnt	
+KCNJ11	C4022811	Abnormality of nervous system physiology	HumPhenOnt	
+KCNMA1	C4022811	Abnormality of nervous system physiology	HumPhenOnt	
+SLC12A3	C4022811	Abnormality of nervous system physiology	HumPhenOnt	
+KCNJ11	C4023476	EEG with generalized epileptiform discharges	HumPhenOnt	
+KCNMA1	C4023476	EEG with generalized epileptiform discharges	HumPhenOnt	
+KCNJ11	C0013819	EEG with irregular generalized spike and wave complexes	HumPhenOnt	
+KCNMA1	C0013819	EEG with irregular generalized spike and wave complexes	HumPhenOnt	
+KCNJ11	C0151747	Renal tubular dysfunction	HumPhenOnt	
+SLC12A3	C0151747	Renal tubular dysfunction	DisGeNet	
+KCNMA1	C1384514	Primary hyperaldosteronism	DisGeNet	
+SLC12A3	C1384514	Primary hyperaldosteronism	DisGeNet	
+KCNJ11	C0014548	Epilepsy, generalized, with febrile seizures plus, type 6 (2)	DisGeNet	
+KCNMA1	C0014548	Epilepsy, generalized, with febrile seizures plus, type 6 (2)	DisGeNet	
+KCNJ11	C0494475	Generalized tonic-clonic seizures	HumPhenOnt	
+KCNMA1	C0494475	Generalized tonic-clonic seizures	HumPhenOnt	
+KCNJ11	C0023380	Lethargy	HumPhenOnt	
+KCNMA1	C0023380	Lethargy	DisGeNet	
+KCNJ11	C0234533	Generalized seizures	HumPhenOnt	
+KCNMA1	C0234533	Generalized seizures	HumPhenOnt	
+KCNJ11	C0042963	Vomiting	HumPhenOnt	
+SLC12A3	C0042963	Vomiting	DisGeNet	
+KCNJ11	C0151611	EEG abnormality	HumPhenOnt	
+KCNMA1	C0151611	EEG abnormality	HumPhenOnt	
+KCNJ11	C4022597	Abnormality of central nervous system electrophysiology	HumPhenOnt	
+KCNMA1	C4022597	Abnormality of central nervous system electrophysiology	HumPhenOnt	
+KCNJ11	C0001118	Abnormality of acid-base homeostasis	HumPhenOnt	
+SLC12A3	C0001118	Abnormality of acid-base homeostasis	HumPhenOnt	
+KCNJ11	C4021781	Abnormal nervous system electrophysiology	HumPhenOnt	
+KCNMA1	C4021781	Abnormal nervous system electrophysiology	HumPhenOnt	
+KCNMA1	C0085580	Essential hypertension	DisGeNet	
+SLC12A3	C0085580	Essential hypertension	DisGeNet	
+KCNJ11	C0011880	Diabetic ketoacidosis	DisGeNet	
+KCNJ11	C0020440	Hypercapnia	DisGeNet	
+SLC12A3	C0268450	Familial hypokalemia-hypomagnesemia	ClinVar,DisGeNet	
+SLC12A3	C0242387	Treacher Collins syndrome	DisGeNet	
+KCNJ11	C1854838	Progressive neurologic deterioration	HumPhenOnt	
+KCNJ11	C4023047	Abnormality of endocrine pancreas physiology	HumPhenOnt	
+KCNJ11	C0011991	Diarrhea 8, secretory sodium, congenital	DisGeNet,HumPhenOnt	
+SLC12A3	C0011991	Diarrhea 8, secretory sodium, congenital	DisGeNet	
+KCNJ11	C1857949	Prominent metopic ridge	HumPhenOnt	
+KCNJ11	C4023038	Abnormality of circulating glucocorticoid level	HumPhenOnt	
+KCNJ11	C4023214	Abnormality of circulating cortisol level	HumPhenOnt	
+KCNJ11	C4023537	Abnormality of blood volume homeostasis	HumPhenOnt	
+KCNMA1	C0005694	Bladder neck obstruction	DisGeNet	
+KCNJ11	C0038238	Steatorrhea	HumPhenOnt	
+SLC12A3	C0553730	Chondrocalcinosis	HumPhenOnt	
+KCNJ11	C0554103	Fat malabsorption	HumPhenOnt	
+KCNMA1	C0001126	Renal tubular acidosis, distal, autosomal dominant	DisGeNet	
+KCNJ11	C4025655	Abnormality of urine homeostasis	HumPhenOnt	
+SLC12A3	C4025655	Abnormality of urine homeostasis	HumPhenOnt	
+KCNMA1	C0005944	Metabolic Bone Disorder	DisGeNet	
+KCNJ11	C0854110	Insulin-resistant diabetes mellitus AND acanthosis nigricans	HumPhenOnt	
+SLC12A3	C3693260	Abnormal urine output	HumPhenOnt	
+KCNJ11	C0546884	Hypovolemia	HumPhenOnt	
+KCNJ11	C4025180	Abnormality of the metopic suture	HumPhenOnt	
+KCNJ11	C0151746	Abnormal renal physiology	HumPhenOnt	
+SLC12A3	C0151746	Abnormal renal physiology	HumPhenOnt	
+SLC12A3	C0546817	Hypervolemia	DisGeNet	
+SLC12A3	C0854912	Germinoma	DisGeNet	
+SLC12A3	C4022657	Abnormal drinking behavior	HumPhenOnt	
+SLC12A3	C4023579	Abnormality of renal excretion	HumPhenOnt	
+KCNMA1	C0152096	Complete trisomy 18 syndrome	DisGeNet	
+KCNJ11	C0158981	Neonatal diabetes mellitus	ClinVar,DisGeNet	
+SLC12A3	C0175704	Noonan syndrome with multiple lentigines	DisGeNet	
+KCNJ11	C4021656	Abnormality of fatty-acid metabolism	HumPhenOnt	
+SLC12A3	C0002063	Alkalosis	HumPhenOnt	
+SLC12A3	C0032617	Polyuria	HumPhenOnt	
+KCNJ11	C4023596	Abnormality of urine glucose concentration	HumPhenOnt	
+KCNJ11	C0017979	Glycosuria	HumPhenOnt	
+KCNMA1	C4023515	Dialeptic seizures	HumPhenOnt	
+SLC12A3	C0206633	{TSC2 angiomyolipomas, renal, modifier of}, 613254 (3)	DisGeNet	
+SLC12A3	C0027707	Tubulointerstitial nephritis	DisGeNet	
+SLC12A3	C4023575	Abnormality of potassium homeostasis	HumPhenOnt	
+KCNJ11	C4025690	Prenatal maternal abnormality	HumPhenOnt	
+SLC12A3	C0020621	Hypokalemia	HumPhenOnt	
+SLC12A3	C0085602	Polydipsia	HumPhenOnt	
+SLC12A3	C4023434	Abnormality of urine calcium concentration	HumPhenOnt	
+KCNJ11	C4025831	Abnormal peripheral nervous system morphology	HumPhenOnt	
+SLC12A3	C4025831	Abnormal peripheral nervous system morphology	HumPhenOnt	
+KCNJ11	C4022036	Abnormality of vitamin metabolism	HumPhenOnt	
+KCNMA1	C0600327	Toxic Shock Syndrome	DisGeNet	
+KCNJ11	C0022638	Ketoacidosis	HumPhenOnt	
+KCNJ11	C0022661	Kidney Failure, Chronic	DisGeNet	
+SLC12A3	C0022661	Kidney Failure, Chronic	DisGeNet	
+SLC12A3	C0751674	Lymphangiomyomatosis	DisGeNet	
+KCNJ11	C4021759	Generalized myoclonic seizures	HumPhenOnt	
+KCNJ11	C4023049	Abnormality of pancreas morphology	HumPhenOnt	
+SLC12A3	C4023645	Abnormality of monovalent inorganic cation homeostasis	HumPhenOnt	
+SLC12A3	C0431380	Cortical dysplasia, complex, with other brain malformations 3	DisGeNet	
+SLC12A3	C3542024	Aortic valve disease 2	DisGeNet	
+SLC12A3	C0559758	Multisystem disorder	DisGeNet	
+KCNJ11	C0022116	Ischemia	DisGeNet	
+KCNMA1	C0022116	Ischemia	DisGeNet	
+KCNJ11	C4023437	Abnormality of the urinary system physiology	HumPhenOnt	
+SLC12A3	C4023437	Abnormality of the urinary system physiology	HumPhenOnt	
+KCNMA1	C0019284	Diaphragmatic hernia	DisGeNet	
+KCNMA1	C1335177	Ovarian Serous Adenocarcinoma	DisGeNet	
+KCNJ11	C1836189	Radial deviation of finger	HumPhenOnt	
+KCNMA1	C0000768	EMG: myopathic abnormalities	DisGeNet	
+SLC12A3	C0000768	EMG: myopathic abnormalities	DisGeNet	
+SLC12A3	C0149630	Bicuspid aortic valve	DisGeNet	
+KCNJ11	C0575803	Radial deviation of the hand	HumPhenOnt	
+KCNJ11	C0730345	Microalbuminuria	HumPhenOnt	
+KCNJ11	C1263857	Peripheral axonal neuropathy	HumPhenOnt	
+SLC12A3	C0746674	Generalized muscle weakness	HumPhenOnt	
+SLC12A3	C2931876	Hirschsprung disease 1	DisGeNet	
+SLC12A3	C4073150	Abnormal consumption behavior	HumPhenOnt	
+KCNJ11	C0030552	Muscle weakness	DisGeNet,HumPhenOnt	
+SLC12A3	C0030552	Muscle weakness	HumPhenOnt	
+KCNJ11	C0030232	Pallor	HumPhenOnt	
+SLC12A3	C0020438	Hypercalciuria	DisGeNet	
+SLC12A3	C0027709	Nephrocalcinosis	DisGeNet	
+KCNJ11	C1853743	Muscular hypotonia of the trunk	HumPhenOnt	
+KCNJ11	C1866195	Downturned corners of mouth	HumPhenOnt	
+KCNJ11	C0031117	Peripheral neuropathy, myopathy, hoarseness, and hearing loss	HumPhenOnt	
+SLC12A3	C0031117	Peripheral neuropathy, myopathy, hoarseness, and hearing loss	HumPhenOnt	
+SLC12A3	C0014599	Epithelial hyperplasia of skin	DisGeNet	
+KCNJ11	C0149940	Sciatic Neuropathy	DisGeNet	
+KCNMA1	C0014553	Absence seizures	HumPhenOnt	
+SLC12A3	C0205217	Increased analgesia from kappa-opioid receptor agonist, female-specific	HumPhenOnt	
+KCNJ11	C0362046	Prediabetes syndrome	DisGeNet	
+SLC12A3	C4025588	Juvenile onset	HumPhenOnt	
+SLC12A3	C0008487	Chordoma	DisGeNet	
+KCNJ11	C0085631	Agitation	HumPhenOnt	
+KCNJ11	C1859523	Contractures of the joints of the lower limbs	HumPhenOnt	
+KCNMA1	C0152013	Adenocarcinoma of lung	DisGeNet	
+SLC12A3	C0152013	Adenocarcinoma of lung	DisGeNet	
+SLC12A3	C0026821	Muscle cramps	HumPhenOnt	
+KCNJ11	C0266292	Congenital anomalies of kidney and urinary tract 1, susceptibility to	HumPhenOnt	
+SLC12A3	C0266292	Congenital anomalies of kidney and urinary tract 1, susceptibility to	HumPhenOnt	
+KCNJ11	C4025830	Peripheral axonal degeneration	HumPhenOnt	
+KCNJ11	C4023641	Abnormality of the upper urinary tract	HumPhenOnt	
+SLC12A3	C4023641	Abnormality of the upper urinary tract	HumPhenOnt	
+KCNJ11	C0024421	Macroglossia	DisGeNet	
+KCNJ11	C0235991	Small for gestational age	HumPhenOnt	
+KCNJ11	C0271561	Cataracts, growth hormone deficiency, sensory neuropathy, sensorineural hearing loss, and skeletal dysplasia	HumPhenOnt	
+SLC12A3	C0522224	Paralysis	DisGeNet,HumPhenOnt	
+KCNJ11	C0009421	Coma	HumPhenOnt	
+KCNJ11	C0037769	Hypsarrhythmia	DisGeNet,HumPhenOnt	
+SLC12A3	C0030554	Paresthesia	HumPhenOnt	
+SLC12A3	C4022833	Abnormal urinary electrolyte concentration	HumPhenOnt	
+KCNJ11	C4025823	Abnormality of the endocrine system	HumPhenOnt	
+SLC12A3	C4025823	Abnormality of the endocrine system	HumPhenOnt	
+KCNJ11	C0235031	Neurologic Symptoms	DisGeNet	
+KCNJ11	C0233514	Behavioral abnormality	HumPhenOnt	
+SLC12A3	C0233514	Behavioral abnormality	HumPhenOnt	
+KCNJ11	C0740651	Abdominal symptom	HumPhenOnt	
+SLC12A3	C0740651	Abdominal symptom	HumPhenOnt	
+KCNJ11	C0001403	Primary adrenal insufficiency	HumPhenOnt	
+KCNJ11	C0006663	Calcinosis	DisGeNet	
+KCNJ11	C0011175	Dehydration	HumPhenOnt	
+KCNJ11	C0205216	Decreased beta-glucocerebrosidase protein and activity	HumPhenOnt	
+KCNJ11	C0240083	Abnormal joint morphology	HumPhenOnt	
+SLC12A3	C0240083	Abnormal joint morphology	HumPhenOnt	
+KCNJ11	C0020458	Hyperhidrosis	HumPhenOnt	
+SLC12A3	C0221198	NOONAN-LIKE/MULTIPLE GIANT CELL LESION SYNDROME (disorder)	DisGeNet	
+SLC12A3	C0018552	Hamartoma	DisGeNet	
+KCNJ11	C0302476	Anterior hypopituitarism	HumPhenOnt	
+KCNJ11	C4025596	Abnormality of connective tissue	HumPhenOnt	
+SLC12A3	C4025596	Abnormality of connective tissue	HumPhenOnt	
+KCNJ11	C0003635	Apraxia	HumPhenOnt	
+KCNMA1	C1561955	Fibrinogen Adverse Event	DisGeNet	
+SLC12A3	C4025337	Abnormality of calcium homeostasis	HumPhenOnt	
+KCNMA1	C0008489	Chorea, childhood-onset, with psychomotor retardation	DisGeNet	
+KCNJ11	C0332878	Congenital contractures of the limbs and face, hypotonia, and developmental delay	HumPhenOnt	
+KCNJ11	C0342276	Maturity-onset diabetes of the young, type 11	DisGeNet,HumPhenOnt	
+KCNJ11	C4023212	Abnormality of adrenal physiology	HumPhenOnt	
+KCNJ11	C0001623	Adrenal insufficiency	HumPhenOnt	
+KCNJ11	C0023976	Acquired long QT syndrome	DisGeNet	
+KCNJ11	C4023048	Abnormality of pancreas physiology	HumPhenOnt	
+SLC12A3	C4023648	Abnormality of divalent inorganic cation homeostasis	HumPhenOnt	
+KCNJ11	C4025717	Abnormality of the small intestine	HumPhenOnt	
+KCNJ11	C0003886	Arthrogryposis multiplex congenita, neurogenic, with myelin defect	HumPhenOnt	
+KCNJ11	C0027051	Myocardial Infarction	DisGeNet	
+KCNMA1	C0027051	Myocardial Infarction	DisGeNet	
+KCNJ11	C0162429	Malnutrition	DisGeNet	
+SLC12A3	C0949664	Tauopathies	DisGeNet	
+KCNJ11	C4073160	Abnormal insulin level	HumPhenOnt	
+KCNJ11	C4073161	Abnormal circulating insulin level	HumPhenOnt	
+KCNMA1	C0242350	Impotence	DisGeNet	
+KCNJ11	C0020635	Hypopituitarism	HumPhenOnt	
+KCNMA1	C0028756	Obesity, severe, 601665 (3)	DisGeNet	
+KCNMA1	C0220650	Metastatic malignant neoplasm to brain	DisGeNet	
+KCNJ11	C4023407	Abnormality of mouth shape	HumPhenOnt	
+KCNJ11	C4293692	Abnormality of digestive system physiology	HumPhenOnt	
+SLC12A3	C4293692	Abnormality of digestive system physiology	HumPhenOnt	
+KCNJ11	C4021821	Abnormality of the urinary system	HumPhenOnt	
+SLC12A3	C4021821	Abnormality of the urinary system	HumPhenOnt	
+KCNJ11	C3827868	Tachycardia	HumPhenOnt	
+KCNJ11	C0020620	Hypohidrosis	HumPhenOnt	
+KCNJ11	C0015929	Fetal Diseases	DisGeNet	
+KCNJ11	C0085298	Sudden cardiac death	DisGeNet	
+KCNJ11	C4023354	Abnormality of central motor function	HumPhenOnt	
+SLC12A3	C4023354	Abnormality of central motor function	HumPhenOnt	
+KCNJ11	C4021794	Abnormality of the adrenal glands	HumPhenOnt	
+KCNMA1	C0346957	Disseminated Malignant Neoplasm	DisGeNet	
+KCNJ11	C0001925	Albuminuria	HumPhenOnt	
+SLC12A3	C3806226	Ectopic calcification	HumPhenOnt	
+KCNJ11	C4023597	Abnormality of blood glucose concentration	HumPhenOnt	
+KCNJ11	C0443147	Autosomal dominant non-syndromic sensorineural deafness type DFNA	HumPhenOnt	
+KCNMA1	C0443147	Autosomal dominant non-syndromic sensorineural deafness type DFNA	HumPhenOnt	
+KCNJ11	C0004153	Atherosclerosis	DisGeNet	
+SLC12A3	C0004153	Atherosclerosis	DisGeNet	
+KCNJ11	C4025650	Abnormality of lipid metabolism	HumPhenOnt	
+SLC12A3	C0019569	Hirschsprung Disease	DisGeNet	
+KCNJ11	C1854114	Short nose	HumPhenOnt	
+KCNJ11	C4023206	Abnormality of the anterior pituitary	HumPhenOnt	
+KCNMA1	C0020503	Secondary hyperparathyroidism	DisGeNet	
+KCNMA1	C0598935	Tumor Initiation	DisGeNet	
+KCNMA1	C0038220	Status epilepticus	DisGeNet	
+SLC12A3	C0151313	Sensory neuropathy	HumPhenOnt	
+SLC12A3	C0000737	Abdominal pain	HumPhenOnt	
+KCNJ11	C4023585	Abnormality of blood circulation	HumPhenOnt	
+SLC12A3	C0041341	Tuberous sclerosis syndrome	DisGeNet	
+KCNJ11	C0234985	Mental deterioration	HumPhenOnt	
+SLC12A3	C4023646	Abnormality of cation homeostasis	HumPhenOnt	
+KCNJ11	C1865014	Long philtrum	HumPhenOnt	
+KCNJ11	C4023412	Abnormality of cranial sutures	HumPhenOnt	
+KCNJ11	C0424605	Developmental delay with short stature, dysmorphic features, and sparse hair	DisGeNet	
+KCNMA1	C0007134	Renal cell carcinoma, nonpapillary	DisGeNet	
+SLC12A3	C0007134	Renal cell carcinoma, nonpapillary	DisGeNet	
+KCNJ11	C0033687	Proteinuria, low molecular weight, with hypercalciuria and nephrocalcinosis	HumPhenOnt	
+KCNJ11	C0085207	Maternal diabetes	DisGeNet,HumPhenOnt	
+KCNJ11	C4025751	Abnormality of the pancreas	HumPhenOnt	
+KCNJ11	C4023182	Abnormality of muscle physiology	HumPhenOnt	
+SLC12A3	C4023182	Abnormality of muscle physiology	HumPhenOnt	
+KCNJ11	C0234428	Reduced consciousness/confusion	HumPhenOnt	
+SLC12A3	C4025654	Abnormality of ion homeostasis	HumPhenOnt	
+KCNMA1	C0010278	Craniosynostoses	DisGeNet	
+KCNMA1	C0155552	Hearing Loss, Mixed Conductive-Sensorineural	DisGeNet	
+KCNJ11	C1969879	Limb joint contracture	HumPhenOnt	
+KCNJ11	C0024523	Malabsorption	HumPhenOnt	
+KCNJ11	C0042063	Abnormality of the genitourinary system	HumPhenOnt	
+SLC12A3	C0042063	Abnormality of the genitourinary system	HumPhenOnt	
+KCNJ11	C0242422	Parkinsonism	DisGeNet	
+SLC12A3	C2316810	Stage 5 chronic kidney disease	DisGeNet	
+KCNJ11	C0029928	Ovarian Diseases	DisGeNet	
+KCNJ11	C0155626	Acute myocardial infarction	DisGeNet	
+KCNJ11	C4021768	Abnormality of metabolism/homeostasis	HumPhenOnt	
+SLC12A3	C4021768	Abnormality of metabolism/homeostasis	HumPhenOnt	
+KCNJ11	C0019409	Heterogeneous	HumPhenOnt	
+KCNJ11	C4025819	Abnormality of the hypothalamus-pituitary axis	HumPhenOnt	
+KCNJ11	C0266015	Abnormality of the digestive system	HumPhenOnt	
+SLC12A3	C0266015	Abnormality of the digestive system	HumPhenOnt	
+KCNJ11	C4020755	Abnormality of fontanelles	HumPhenOnt	
+KCNJ11	C0002395	Alzheimer Disease	DisGeNet	
+KCNMA1	C0002395	Alzheimer Disease	DisGeNet	
+KCNJ11	C0520947	Motor delay	HumPhenOnt	
+KCNJ11	C4025652	Abnormality of circulating hormone level	HumPhenOnt	
+KCNJ11	C0020615	Hypoglycemia, neonatal, simulating foetopathia diabetica	DisGeNet,HumPhenOnt	
+KCNMA1	C0027404	Narcolepsy	DisGeNet	
+SLC12A3	C0011884	Diabetic Retinopathy	DisGeNet	
+KCNJ11	C0022660	Acute kidney injury	DisGeNet	
+KCNJ11	C4021745	Abnormality of the musculature	HumPhenOnt	
+SLC12A3	C4021745	Abnormality of the musculature	HumPhenOnt	
+KCNMA1	C0848558	Hypospadias	DisGeNet,PheGenI	
+KCNJ11	C0265610	Clinodactyly	HumPhenOnt	
+KCNJ11	C0001122	Acidosis	HumPhenOnt	
+KCNJ11	C0410740	Deviation of finger	HumPhenOnt	
+KCNJ11	C0012727	Deviation of the hand or of fingers of the hand	HumPhenOnt	
+KCNJ11	C4022810	Abnormality of nervous system morphology	HumPhenOnt	
+SLC12A3	C4022810	Abnormality of nervous system morphology	HumPhenOnt	
+KCNJ11	C0027498	Nausea and vomiting	HumPhenOnt	
+KCNJ11	C0271650	Glucose intolerance	DisGeNet	
+KCNJ11	C4023165	Abnormality of skeletal morphology	HumPhenOnt	
+SLC12A3	C4023165	Abnormality of skeletal morphology	HumPhenOnt	
+KCNJ11	C1857045	Abnormality of the philtrum	HumPhenOnt	
+KCNJ11	C0024138	Discoid lupus erythematosus	DisGeNet	
+KCNJ11	C4021790	Abnormality of the skeletal system	HumPhenOnt	
+SLC12A3	C4021790	Abnormality of the skeletal system	HumPhenOnt	
+KCNJ11	C1840077	Anteverted nares	HumPhenOnt	
+KCNJ11	C0011860	Diabetes mellitus type 2	ClinVar,DisGeNet	
+SLC12A3	C0011860	Diabetes mellitus type 2	DisGeNet	
+KCNJ11	C0021655	Insulin Resistance	DisGeNet,HumPhenOnt	
+KCNMA1	C0003130	Hypoxia	DisGeNet	
+KCNJ11	C0441748	Autosomal recessive inheritance	HumPhenOnt	
+SLC12A3	C0441748	Autosomal recessive inheritance	HumPhenOnt	
+KCNJ11	C0003811	Arrhythmias, Cardiac	HumPhenOnt	
+KCNJ11	C4021637	Abnormality of the nares	HumPhenOnt	
+KCNMA1	C0278488	Carcinoma breast stage IV	DisGeNet	
+KCNJ11	C2364164	Abnormality of fluid regulation	HumPhenOnt	
+KCNJ11	C0020459	Hyperinsulinemia	DisGeNet,HumPhenOnt	

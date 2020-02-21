@@ -1,0 +1,5 @@
+node1	node2	edge_score	
+DB00724	TLR8	1.0	
+DB00724	CYP3A4	1.0	
+DB00724	TLR7	1.0	
+

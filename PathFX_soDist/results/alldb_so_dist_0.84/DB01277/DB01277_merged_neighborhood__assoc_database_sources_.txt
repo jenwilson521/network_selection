@@ -1,0 +1,452 @@
+Gene	CUI	Source Databases	
+IGFBP3	C0001122	Acidosis	DisGeNet	
+INSR	C0001122	Acidosis	HumPhenOnt	
+IGFBP3	C0001206	Acromegaly	DisGeNet	
+INSR	C0001206	Acromegaly	DisGeNet	
+IGFBP3	C0001418	 Adenocarcinoma, ovarian, somatic, 167000 (3)	DisGeNet	
+INSR	C0001418	 Adenocarcinoma, ovarian, somatic, 167000 (3)	DisGeNet	
+IGFBP3	C0001430	Adenomas, multiple colorectal, 608456 (3)	DisGeNet	
+INSR	C0001430	Adenomas, multiple colorectal, 608456 (3)	DisGeNet	
+IGFBP3	C0002395	Alzheimer Disease	DisGeNet	
+INSR	C0002395	Alzheimer Disease	DisGeNet	
+IGFBP3	C0004153	Atherosclerosis	DisGeNet	
+INSR	C0004153	Atherosclerosis	DisGeNet	
+IGFBP3	C0005684	Malignant tumor of urinary bladder	DisGeNet	
+INSR	C0005684	Malignant tumor of urinary bladder	DisGeNet	
+IGFBP3	C0006142	Breast-ovarian cancer, familial 1	DisGeNet	
+INSR	C0006142	Breast-ovarian cancer, familial 1	DisGeNet	
+IGFBP3	C0007103	Malignant neoplasm of endometrium	DisGeNet	
+INSR	C0007103	Malignant neoplasm of endometrium	DisGeNet	
+IGFBP3	C0007131	Non-small cell lung carcinoma	DisGeNet	
+INSR	C0007131	Non-small cell lung carcinoma	DisGeNet	
+IGFBP3	C0007137	Squamous cell carcinoma	DisGeNet	
+INSR	C0007137	Squamous cell carcinoma	DisGeNet	
+IGFBP3	C0009402	Colorectal cancer 1	DisGeNet	
+INSR	C0009402	Colorectal cancer 1	DisGeNet	
+IGFBP3	C0009404	Colorectal Neoplasms	DisGeNet	
+INSR	C0009404	Colorectal Neoplasms	DisGeNet	
+IGFBP3	C0010417	Cryptorchidism	DisGeNet	
+INSR	C0010417	Cryptorchidism	HumPhenOnt	
+IGFBP3	C0011849	Diabetes Mellitus, Type 1	DisGeNet	
+INSR	C0011849	Diabetes Mellitus, Type 1	DisGeNet,HumPhenOnt	
+IGFBP3	C0011860	Diabetes mellitus type 2	DisGeNet	
+INSR	C0011860	Diabetes mellitus type 2	DisGeNet,HumPhenOnt	
+IGFBP3	C0011884	Diabetic Retinopathy	DisGeNet	
+INSR	C0011884	Diabetic Retinopathy	PheGenI	
+IGFBP3	C0013336	Short stature, rhizomelic, with microcephaly, micrognathia, and developmental delay	DisGeNet	
+INSR	C0013336	Short stature, rhizomelic, with microcephaly, micrognathia, and developmental delay	HumPhenOnt	
+IGFBP3	C0014175	Endometriosis	DisGeNet	
+INSR	C0014175	Endometriosis	DisGeNet	
+IGFBP3	C0015544	Failure to thrive	DisGeNet	
+INSR	C0015544	Failure to thrive	HumPhenOnt	
+IGFBP3	C0015672	Fatigue	DisGeNet	
+INSR	C0015672	Fatigue	HumPhenOnt	
+IGFBP3	C0015934	Intrauterine growth retardation	DisGeNet	
+INSR	C0015934	Intrauterine growth retardation	HumPhenOnt	
+IGFBP3	C0017638	Glioma	DisGeNet	
+INSR	C0017638	Glioma	DisGeNet	
+IGFBP3	C0020459	Hyperinsulinemia	DisGeNet	
+INSR	C0020459	Hyperinsulinemia	DisGeNet,HumPhenOnt	
+IGFBP3	C0020538	Hypertension	DisGeNet	
+INSR	C0020538	Hypertension	DisGeNet	
+IGFBP3	C0020615	Hypoglycemia, neonatal, simulating foetopathia diabetica	DisGeNet	
+INSR	C0020615	Hypoglycemia, neonatal, simulating foetopathia diabetica	DisGeNet,HumPhenOnt	
+IGFBP3	C0021368	Inflammation	DisGeNet	
+INSR	C0021368	Inflammation	DisGeNet	
+IGFBP3	C0022658	Kidney Diseases	DisGeNet	
+INSR	C0022658	Kidney Diseases	DisGeNet	
+IGFBP3	C0023895	Liver Diseases	DisGeNet	
+INSR	C0023895	Liver Diseases	DisGeNet	
+IGFBP3	C0023903	Neoplasm of the liver	DisGeNet	
+INSR	C0023903	Neoplasm of the liver	DisGeNet	
+IGFBP3	C0024117	Chronic obstructive pulmonary disease	DisGeNet	
+INSR	C0024117	Chronic obstructive pulmonary disease	DisGeNet	
+IGFBP3	C0024667	Animal Mammary Neoplasms	DisGeNet	
+INSR	C0024667	Animal Mammary Neoplasms	DisGeNet	
+IGFBP3	C0027627	Secondary hypertriglyceridemia	DisGeNet	
+INSR	C0027627	Secondary hypertriglyceridemia	DisGeNet	
+IGFBP3	C0028754	Obesity	DisGeNet	
+INSR	C0028754	Obesity	DisGeNet	
+IGFBP3	C0032002	Abnormality of the pituitary gland	DisGeNet	
+INSR	C0032002	Abnormality of the pituitary gland	HumPhenOnt	
+IGFBP3	C0033578	Prostatic Neoplasms	DisGeNet	
+INSR	C0033578	Prostatic Neoplasms	DisGeNet	
+IGFBP3	C0036341	Schizophrenia	DisGeNet	
+INSR	C0036341	Schizophrenia	DisGeNet	
+IGFBP3	C0040128	Thyroid Diseases	DisGeNet	
+INSR	C0040128	Thyroid Diseases	HumPhenOnt	
+IGFBP3	C0153574	Uterine Corpus Cancer	DisGeNet	
+INSR	C0153574	Uterine Corpus Cancer	DisGeNet	
+IGFBP3	C0153676	Secondary malignant neoplasm of lung	DisGeNet	
+INSR	C0153676	Secondary malignant neoplasm of lung	DisGeNet	
+IGFBP3	C0178874	Tumor Progression	DisGeNet	
+INSR	C0178874	Tumor Progression	DisGeNet	
+IGFBP3	C0206624	Hepatoblastoma	DisGeNet	
+INSR	C0206624	Hepatoblastoma	DisGeNet	
+IGFBP3	C0235833	Congenital diaphragmatic hernia	DisGeNet	
+INSR	C0235833	Congenital diaphragmatic hernia	DisGeNet	
+IGFBP3	C0242379	Malignant neoplasm of lung	DisGeNet	
+INSR	C0242379	Malignant neoplasm of lung	DisGeNet	
+IGFBP3	C0271650	Glucose intolerance	DisGeNet	
+INSR	C0271650	Glucose intolerance	DisGeNet	
+IGFBP3	C0338656	Cognitive Dysfunction	DisGeNet	
+INSR	C0338656	Cognitive Dysfunction	DisGeNet,HumPhenOnt	
+IGFBP3	C0376358	Malignant tumor of prostate	DisGeNet	
+INSR	C0376358	Malignant tumor of prostate	DisGeNet	
+IGFBP3	C0476089	Endometrial carcinoma	DisGeNet	
+INSR	C0476089	Endometrial carcinoma	DisGeNet	
+IGFBP3	C0497406	Overweight	DisGeNet	
+INSR	C0497406	Overweight	DisGeNet	
+IGFBP3	C0518010	body mass	DisGeNet	
+INSR	C0518010	body mass	DisGeNet	
+IGFBP3	C0524620	Metabolic Syndrome X	DisGeNet	
+INSR	C0524620	Metabolic Syndrome X	DisGeNet	
+IGFBP3	C0596263	Carcinogenesis	DisGeNet	
+INSR	C0596263	Carcinogenesis	DisGeNet	
+IGFBP3	C0600139	Prostate carcinoma	DisGeNet	
+INSR	C0600139	Prostate carcinoma	DisGeNet	
+IGFBP3	C0677886	Ovarian epithelial cancer	DisGeNet	
+INSR	C0677886	Ovarian epithelial cancer	DisGeNet	
+IGFBP3	C0678222	Breast carcinoma	DisGeNet	
+INSR	C0678222	Breast carcinoma	DisGeNet	
+IGFBP3	C0684249	Lung cancer	DisGeNet	
+INSR	C0684249	Lung cancer	DisGeNet	
+IGFBP3	C0919267	Ovarian Neoplasms	DisGeNet	
+INSR	C0919267	Ovarian Neoplasms	DisGeNet	
+IGFBP3	C1140680	BREAST-OVARIAN CANCER, FAMILIAL, SUSCEPTIBILITY TO, 4	DisGeNet	
+INSR	C1140680	BREAST-OVARIAN CANCER, FAMILIAL, SUSCEPTIBILITY TO, 4	DisGeNet	
+IGFBP3	C1261473	Sarcoma, Ewing	DisGeNet	
+INSR	C1261473	Sarcoma, Ewing	DisGeNet	
+IGFBP3	C1527249	Colorectal cancer	DisGeNet	
+INSR	C1527249	Colorectal cancer	DisGeNet	
+IGFBP3	C1956346	Coronary Artery Disease	DisGeNet	
+INSR	C1956346	Coronary Artery Disease	DisGeNet	
+IGFBP3	C2239176	Hepatocellular carcinoma	DisGeNet	
+INSR	C2239176	Hepatocellular carcinoma	DisGeNet	
+INSR	C0011880	Diabetic ketoacidosis	HumPhenOnt	
+INSR	C0221032	Berardinelli-Seip congenital lipodystrophy	DisGeNet	
+INSR	C0543442	Decreased adipose tissue	HumPhenOnt	
+INSR	C4023047	Abnormality of endocrine pancreas physiology	HumPhenOnt	
+IGFBP3	C0015814	Femur Head Necrosis	DisGeNet	
+IGFBP3	C3714796	Isolated somatotropin deficiency	DisGeNet	
+IGFBP3	C0259779	Fibrous Dysplasia	DisGeNet	
+IGFBP3	C0271801	Central hypothyroidism	DisGeNet	
+IGFBP3	C0013338	Isolated growth hormone deficiency type 1B	DisGeNet	
+INSR	C0854110	Insulin-resistant diabetes mellitus AND acanthosis nigricans	ClinVar,DisGeNet,HumPhenOnt	
+IGFBP3	C0079474	Recessive dystrophic epidermolysis bullosa	DisGeNet	
+INSR	C4024878	Generalized hyperpigmentation	HumPhenOnt	
+IGFBP3	C0677659	Gastro-esophageal reflux disease with esophagitis	DisGeNet	
+INSR	C0085109	Corneal neovascularization	DisGeNet	
+INSR	C0000889	Acanthosis nigricans	DisGeNet,HumPhenOnt	
+INSR	C0277959	Coarse hair	HumPhenOnt	
+IGFBP3	C0029445	Bone necrosis	DisGeNet	
+IGFBP3	C0037277	Skin Diseases, Genetic	DisGeNet	
+IGFBP3	C0410158	Muscle damage	DisGeNet	
+INSR	C1836940	Thickened nuchal skin fold	HumPhenOnt	
+INSR	C4280695	Increased size of the clitoris	HumPhenOnt	
+INSR	C4280696	Abnormal size of the clitoris	HumPhenOnt	
+INSR	C1266184	Atypical teratoid/rhabdoid tumor	DisGeNet	
+INSR	C0156394	Clitoral hypertrophy	HumPhenOnt	
+INSR	C0545053	Accelerated skeletal maturation	HumPhenOnt	
+IGFBP3	C0014869	Peptic Esophagitis	DisGeNet	
+IGFBP3	C0333873	Squamous intraepithelial lesion	DisGeNet	
+IGFBP3	C0221002	Primary hyperparathyroidism	DisGeNet	
+IGFBP3	C0151825	Bone pain	DisGeNet	
+IGFBP3	C0175693	Russell-Silver syndrome	DisGeNet	
+INSR	C0022638	Ketoacidosis	DisGeNet,HumPhenOnt	
+INSR	C0238394	Female pseudohermaphroditism	HumPhenOnt	
+IGFBP3	C0432072	Dysmorphic features	DisGeNet	
+INSR	C0014522	EPIDERMODYSPLASIA VERRUCIFORMIS	DisGeNet	
+INSR	C4023366	Fetal ultrasound soft marker	HumPhenOnt	
+INSR	C1842774	Hypermelanotic macule	HumPhenOnt	
+IGFBP3	C0009376	Colonic Polyps	DisGeNet	
+IGFBP3	C0850572	Adenomatous polyp of colon	DisGeNet	
+IGFBP3	C0006145	Other specified disorders of breast	DisGeNet	
+IGFBP3	C0014868	Esophagitis	DisGeNet	
+IGFBP3	C0029410	Osteoarthritis of hip	DisGeNet	
+INSR	C0018889	Helminthiasis	DisGeNet	
+IGFBP3	C0796369	Microsatellite Instability	DisGeNet	
+INSR	C1837404	High, narrow palate	HumPhenOnt	
+IGFBP3	C0016034	Breast Fibrocystic Disease	DisGeNet	
+INSR	C0020506	Hyperpituitarism	HumPhenOnt	
+IGFBP3	C0752308	Hypoxia-Ischemia, Brain	DisGeNet	
+IGFBP3	C0949059	Colorectal polyposis	DisGeNet	
+IGFBP3	C0035344	Retinopathy of Prematurity	DisGeNet	
+INSR	C0206081	 Hyperandrogenism, nonclassic type, due to 21-hydroxylase deficiency, 201910 (3)	DisGeNet	
+IGFBP3	C1268717	Mammographic breast density	DisGeNet	
+INSR	C4025893	Abnormality of the clitoris	HumPhenOnt	
+INSR	C4022392	Early onset of sexual maturation	HumPhenOnt	
+IGFBP3	C0349782	Ischemic cardiomyopathy	DisGeNet	
+INSR	C0282577	Congenital disorder of glycosylation	DisGeNet	
+IGFBP3	C0342257	Complications of Diabetes Mellitus	DisGeNet	
+INSR	C0376480	Gingival overgrowth	HumPhenOnt	
+INSR	C1855538	Small face	HumPhenOnt	
+INSR	C0000731	Abdominal distention	HumPhenOnt	
+INSR	C0154723	Migraine with aura	DisGeNet	
+IGFBP3	C0231341	Premature aging syndrome	DisGeNet	
+INSR	C0151811	Subcutaneous nodule	HumPhenOnt	
+IGFBP3	C0025568	Metaplasia	DisGeNet	
+IGFBP3	C0043119	Werner syndrome	DisGeNet	
+IGFBP3	C0018273	Growth Disorders	DisGeNet	
+IGFBP3	C0206655	Alveolar rhabdomyosarcoma	DisGeNet	
+IGFBP3	C0024636	Dental malocclusion	DisGeNet	
+IGFBP3	C0033999	Pterygium	DisGeNet	
+INSR	C1398312	Narrow palate	HumPhenOnt	
+INSR	C0011882	Type 1 diabetic neuropathy	DisGeNet	
+IGFBP3	C1168327	High-Grade Prostatic Intraepithelial Neoplasia	DisGeNet	
+INSR	C1839739	Thick lower lip vermilion	HumPhenOnt	
+INSR	C0235991	Small for gestational age	HumPhenOnt	
+IGFBP3	C0271561	Cataracts, growth hormone deficiency, sensory neuropathy, sensorineural hearing loss, and skeletal dysplasia	DisGeNet	
+INSR	C0037287	Skin nodule	HumPhenOnt	
+INSR	C0009421	Coma	HumPhenOnt	
+IGFBP3	C0007789	Cerebral palsy, spastic quadriplegic, 3	DisGeNet	
+IGFBP3	C0005411	Biliary Atresia	DisGeNet	
+INSR	C0024433	Wide mouth	HumPhenOnt	
+IGFBP3	C0376618	Endotoxemia	DisGeNet	
+INSR	C1849211	Generalized hirsutism	HumPhenOnt	
+INSR	C0332573	Macule	HumPhenOnt	
+INSR	C1857656	Prematurely aged appearance	HumPhenOnt	
+INSR	C0018418	Gynecomastia	HumPhenOnt	
+INSR	C0854917	Rhabdoid Tumor of the Kidney	DisGeNet	
+INSR	C0023485	Precursor B-Cell Lymphoblastic Leukemia-Lymphoma	DisGeNet	
+INSR	C1859778	Postnatal growth retardation	HumPhenOnt	
+INSR	C2931852	Clear-cell metastatic renal cell carcinoma	DisGeNet	
+IGFBP3	C0271183	Severe Myopia	DisGeNet	
+INSR	C0399526	Mandibular prognathia	HumPhenOnt	
+INSR	C0151908	Dry skin	HumPhenOnt	
+INSR	C4021822	Abnormality of female external genitalia	HumPhenOnt	
+INSR	C0342276	Maturity-onset diabetes of the young, type 11	DisGeNet	
+INSR	C0020555	Hypertrichosis	HumPhenOnt	
+INSR	C4023048	Abnormality of pancreas physiology	HumPhenOnt	
+INSR	C0029927	Ovarian cyst	HumPhenOnt	
+INSR	C1860236	Irregular hyperpigmentation	HumPhenOnt	
+INSR	C3279947	Nail dysplasia	HumPhenOnt	
+INSR	C0034013	Precocious puberty	HumPhenOnt	
+IGFBP3	C0014474	Ependymoma	DisGeNet	
+IGFBP3	C0162429	Malnutrition	DisGeNet	
+INSR	C1836543	Thick vermilion border	HumPhenOnt	
+INSR	C1859363	Abnormality of dental eruption	HumPhenOnt	
+INSR	C0013264	Duchenne muscular dystrophy	DisGeNet	
+IGFBP3	C0039446	Telangiectases in sun-exposed and nonexposed skin	DisGeNet	
+IGFBP3	C0206687	Carcinoma, Endometrioid	DisGeNet	
+INSR	C4073160	Abnormal insulin level	HumPhenOnt	
+INSR	C4073161	Abnormal circulating insulin level	HumPhenOnt	
+INSR	C3839073	Abnormal nipple morphology	HumPhenOnt	
+INSR	C4023722	Abnormality of hair texture	HumPhenOnt	
+INSR	C0152421	Macrotia	HumPhenOnt	
+IGFBP3	C0242350	Impotence	DisGeNet	
+INSR	C0002726	Amyloidosis	DisGeNet	
+INSR	C4021816	Abnormality of the gingiva	HumPhenOnt	
+INSR	C0028756	Obesity, severe, 601665 (3)	DisGeNet	
+IGFBP3	C0026857	Musculoskeletal Diseases	DisGeNet	
+IGFBP3	C0279680	Transitional cell carcinoma of the bladder	DisGeNet	
+INSR	C0752347	Lewy Body Disease	DisGeNet	
+IGFBP3	C0878500	Intraepithelial Neoplasia	DisGeNet	
+IGFBP3	C0032964	Pregnancy Complications, Hematologic	DisGeNet	
+IGFBP3	C0035372	Rett syndrome, congenital variant	DisGeNet	
+IGFBP3	C1337013	Differentiated Thyroid Gland Carcinoma	DisGeNet	
+IGFBP3	C0039590	Testicular Neoplasms	DisGeNet	
+INSR	C1845847	Coarse facial features	HumPhenOnt	
+IGFBP3	C0020507	Hyperplasia	DisGeNet	
+INSR	C4021524	Abnormality of adipose tissue	HumPhenOnt	
+IGFBP3	C0004763	Barrett Esophagus	DisGeNet	
+IGFBP3	C0015929	Fetal Diseases	DisGeNet	
+INSR	C0410226	Congenital Myotonic Dystrophy	DisGeNet	
+IGFBP3	C1654637	androgen independent prostate cancer	DisGeNet	
+INSR	C0019572	Hirsutism	HumPhenOnt	
+INSR	C0021670	Insulinoma	DisGeNet	
+INSR	C0153633	Malignant neoplasm of brain and nervous system	DisGeNet	
+INSR	C3241937	Nonalcoholic Steatohepatitis	DisGeNet	
+INSR	C0027126	Steinert myotonic dystrophy syndrome	DisGeNet	
+INSR	C4025883	Abnormality of lower lip	HumPhenOnt	
+IGFBP3	C0007112	Adenocarcinoma of prostate	DisGeNet	
+INSR	C0023787	Lipoatrophy	DisGeNet,HumPhenOnt	
+IGFBP3	C0041408	46,XY gonadal dysgenesis, partial, with minifascicular neuropathy	DisGeNet	
+INSR	C4023597	Abnormality of blood glucose concentration	HumPhenOnt	
+INSR	C4025864	Abnormality of the chin	HumPhenOnt	
+INSR	C0006625	Cachexia	HumPhenOnt	
+INSR	C0015300	Proptosis	HumPhenOnt	
+INSR	C0236969	Substance-Related Disorders	DisGeNet	
+INSR	C4021818	Abnormality of the ovary	HumPhenOnt	
+INSR	C0019294	Inguinal hernia	HumPhenOnt	
+INSR	C0020429	Hyperalgesia	DisGeNet	
+INSR	C0162834	Hyperpigmentation of the skin	HumPhenOnt	
+IGFBP3	C0022548	Keloid	DisGeNet	
+INSR	C1849338	Abnormality of the umbilicus	HumPhenOnt	
+INSR	C1857486	Low-set, posteriorly rotated ears	HumPhenOnt	
+INSR	C4023206	Abnormality of the anterior pituitary	HumPhenOnt	
+INSR	C0595989	Laryngeal carcinoma	DisGeNet	
+INSR	C0019322	Umbilical hernia	HumPhenOnt	
+INSR	C0034012	Delayed puberty	HumPhenOnt	
+INSR	C0403447	Chronic Kidney Insufficiency	DisGeNet	
+INSR	C4023170	Abnormality of oral mucosa	HumPhenOnt	
+INSR	C0014556	Epilepsy, Temporal Lobe	DisGeNet	
+INSR	C0041341	Tuberous sclerosis syndrome	DisGeNet	
+IGFBP3	C0009782	Connective Tissue Diseases	DisGeNet	
+IGFBP3	C0030354	Papilloma	DisGeNet	
+IGFBP3	C0011065	Death, Sudden, Cardiac	DisGeNet	
+INSR	C4023408	Abnormality of mouth size	HumPhenOnt	
+INSR	C0033687	Proteinuria, low molecular weight, with hypercalciuria and nephrocalcinosis	HumPhenOnt	
+INSR	C0006413	Burkitt lymphoma	DisGeNet	
+INSR	C0085207	Maternal diabetes	DisGeNet	
+INSR	C4025109	Abnormal hand morphology	HumPhenOnt	
+IGFBP3	C0034067	Pulmonary Emphysema	DisGeNet	
+INSR	C4025751	Abnormality of the pancreas	HumPhenOnt	
+INSR	C0234428	Reduced consciousness/confusion	HumPhenOnt	
+INSR	C0333186	Restenosis	DisGeNet	
+IGFBP3	C0008479	Chondrosarcoma	DisGeNet	
+IGFBP3	C1527349	Ductal Carcinoma	DisGeNet	
+IGFBP3	C0242656	Disease Progression	DisGeNet	
+INSR	C0541764	Delayed skeletal maturation	HumPhenOnt	
+INSR	C0029928	Ovarian Diseases	DisGeNet	
+INSR	C0742257	Abnormal breast morphology	HumPhenOnt	
+IGFBP3	C2745900	Hypergranular promyelocytic leukemia	DisGeNet	
+IGFBP3	C1861172	Venous Thromboembolism	PheGenI	
+INSR	C4025829	Abnormality of the breast	HumPhenOnt	
+INSR	C0940767	Abnormality of the biliary system	HumPhenOnt	
+INSR	C0431478	Posteriorly rotated ears	HumPhenOnt	
+IGFBP3	C2937358	Cerebral Hemorrhage	DisGeNet	
+INSR	C0019409	Heterogeneous	HumPhenOnt	
+INSR	C0221357	Brachydactyly, type a1, d	HumPhenOnt	
+INSR	C4025819	Abnormality of the hypothalamus-pituitary axis	HumPhenOnt	
+IGFBP3	C0036202	Sarcoidosis	DisGeNet	
+INSR	C1302401	Adenoma of large intestine	DisGeNet	
+INSR	C0870082	Hyperkeratosis	HumPhenOnt	
+IGFBP3	C0000786	Spontaneous abortion	DisGeNet	
+INSR	C4025652	Abnormality of circulating hormone level	HumPhenOnt	
+INSR	C0206180	Anaplastic large cell lymphoma, ALK negative	DisGeNet	
+IGFBP3	C0027404	Narcolepsy	DisGeNet	
+IGFBP3	C0345967	Malignant mesothelioma	DisGeNet	
+INSR	C0553580	Ewing's sarcoma	DisGeNet	
+INSR	C4025818	Abnormality of skeletal maturation	HumPhenOnt	
+IGFBP3	C0022660	Acute kidney injury	DisGeNet	
+IGFBP3	C0002895	Anemia, Sickle Cell	DisGeNet	
+INSR	C1836542	Depressed nasal bridge	HumPhenOnt	
+INSR	C0008497	Choriocarcinoma	DisGeNet	
+IGFBP3	C1290884	Inflammatory disorder	DisGeNet	
+IGFBP3	C0009081	Clubfoot	DisGeNet	
+INSR	C1442978	Hernia of the abdominal wall	HumPhenOnt	
+IGFBP3	C0032584	polyps	DisGeNet	
+INSR	C0001118	Abnormality of acid-base homeostasis	HumPhenOnt	
+IGFBP3	C0149978	Rectal Carcinoma	DisGeNet	
+IGFBP3	C0278701	Gastric Adenocarcinoma	DisGeNet	
+INSR	C0238577	Abdominal wall defect	HumPhenOnt	
+IGFBP3	C0007124	Noninfiltrating Intraductal Carcinoma	DisGeNet	
+INSR	C0020473	Hyperlipidemia, combined, 1	DisGeNet	
+INSR	C2674608	Feeding difficulties in infancy	HumPhenOnt	
+INSR	C0853087	Abnormality of the nail	HumPhenOnt	
+IGFBP3	C0279628	Adenocarcinoma Of Esophagus	DisGeNet	
+INSR	C0085580	Essential hypertension	DisGeNet	
+INSR	C0494876	Epidermal thickening	HumPhenOnt	
+INSR	C0026850	Muscular dystrophy-dystroglycanopathy (congenital with brain and eye anomalies), type a, 11	DisGeNet	
+IGFBP3	C0023267	Leiomyoma	DisGeNet	
+INSR	C0400966	Non-alcoholic Fatty Liver Disease	DisGeNet	
+INSR	C3806482	Recurrent respiratory infections	HumPhenOnt	
+INSR	C4023124	Short digit	HumPhenOnt	
+INSR	C4021664	Abnormality of the abdominal wall	HumPhenOnt	
+INSR	C0008370	Cholestasis, benign recurrent intrahepatic 1	HumPhenOnt	
+IGFBP3	C0042133	Uterine leiomyoma	DisGeNet	
+INSR	C0021655	Insulin Resistance	DisGeNet,HumPhenOnt	
+IGFBP3	C0018671	Head and Neck Neoplasms	DisGeNet	
+INSR	C0149931	Migraine Disorders	DisGeNet	
+IGFBP3	C0278883	Metastatic melanoma	DisGeNet	
+IGFBP3	C0003130	Hypoxia	DisGeNet	
+INSR	C0241165	Thickened skin	HumPhenOnt	
+IGFBP3	C0238198	Gastrointestinal stromal tumor	DisGeNet	
+INSR	C0020676	Hypothyroidism	DisGeNet	
+IGFBP3	C1800706	Idiopathic Pulmonary Fibrosis	DisGeNet	
+INSR	C1561643	Chronic kidney disease	DisGeNet	
+INSR	C1260926	Abnormality of skin pigmentation	HumPhenOnt	
+INSR	C0240635	High palate	HumPhenOnt	
+INSR	C0019270	Hernia	HumPhenOnt	
+IGFBP3	C0022665	Renal neoplasm	DisGeNet	
+INSR	C0541794	Skeletal muscle atrophy	HumPhenOnt	
+IGFBP3	C0279702	Clear cell renal cell carcinoma	DisGeNet	
+IGFBP3	C0853879	Invasive breast carcinoma	DisGeNet	
+INSR	C0032914	Preeclampsia/eclampsia 1	DisGeNet	
+IGFBP3	C0151526	Premature Birth	DisGeNet	
+INSR	C0024115	Pulmonary Disease, Chronic Obstructive	DisGeNet	
+INSR	C0035412	Rhabdomyosarcoma alveolar	DisGeNet	
+IGFBP3	C0007194	Hypertrophic cardiomyopathy	DisGeNet	
+INSR	C0266623	Abnormality of the neck	HumPhenOnt	
+INSR	C1292769	B Acute Lymphoblastic Leukemia with t(9;22)(q34;q11.2); BCR-ABL1	DisGeNet	
+IGFBP3	C0007138	Urothelial Carcinoma	DisGeNet	
+INSR	C4021804	Abnormality of the nasal alae	HumPhenOnt	
+IGFBP3	C0034069	Pulmonary fibrosis and/or bone marrow failure, telomere-related, 4	DisGeNet	
+INSR	C0025517	Disorders of Intracellular Cobalamin Metabolism	DisGeNet	
+INSR	C4023397	Abnormal hair quantity	HumPhenOnt	
+INSR	C4025900	Abnormality of female internal genitalia	HumPhenOnt	
+IGFBP3	C3463824	Myelodysplastic syndrome	DisGeNet	
+IGFBP3	C0740457	Malignant neoplasm of kidney	DisGeNet	
+INSR	C0239234	Low-set ears	HumPhenOnt	
+INSR	C0006826	Cancer of the lower GI tract	DisGeNet	
+INSR	C0035243	Respiratory tract infection	HumPhenOnt	
+INSR	C4025655	Abnormality of urine homeostasis	HumPhenOnt	
+IGFBP3	C0555198	Malignant Glioma	DisGeNet	
+INSR	C0239946	Hepatic fibrosis	HumPhenOnt	
+IGFBP3	C1704272	Benign Prostatic Hyperplasia	DisGeNet	
+INSR	C0857379	Abnormality of the pinna	HumPhenOnt	
+INSR	C4025824	Abnormal internal genitalia	HumPhenOnt	
+INSR	C0015695	Hepatic steatosis	DisGeNet	
+IGFBP3	C0023487	Acute promyelocytic leukemia	DisGeNet	
+INSR	C4021810	Abnormal location of ears	HumPhenOnt	
+IGFBP3	C0035309	Retinopathy	DisGeNet	
+INSR	C0007570	Celiac Disease	DisGeNet	
+INSR	C4023164	Abnormality of skeletal physiology	HumPhenOnt	
+INSR	C4023598	Abnormal glucose homeostasis	HumPhenOnt	
+INSR	C0039082	C-like syndrome	DisGeNet	
+INSR	C0020534	Hypertelorism	HumPhenOnt	
+INSR	C1272641	Systemic arterial pressure	DisGeNet	
+IGFBP3	C1519670	Tumor Angiogenesis	DisGeNet	
+INSR	C4023820	Abnormality of the female genitalia	HumPhenOnt	
+INSR	C0026848	Myopathy, scapulohumeroperoneal	DisGeNet	
+INSR	C0232466	Feeding difficulties	HumPhenOnt	
+INSR	C0032927	Precancerous Conditions	DisGeNet	
+INSR	C0020456	Hyperglycemia	DisGeNet,HumPhenOnt	
+IGFBP3	C1709246	Non-Neoplastic Disorder	DisGeNet	
+IGFBP3	C3539878	Triple Negative Breast Neoplasms	DisGeNet	
+INSR	C4025896	Abnormality of the penis	HumPhenOnt	
+IGFBP3	C0005695	Urinary Bladder Neoplasms	DisGeNet	
+INSR	C0241052	Abnormality of skeletal muscles	HumPhenOnt	
+IGFBP3	C0035335	Retinoblastoma	DisGeNet	
+INSR	C4022563	Abnormality of muscle size	HumPhenOnt	
+INSR	C0032460	Polycystic Ovary Syndrome	DisGeNet,HumPhenOnt	
+IGFBP3	C0037274	Dermatosis NOS	DisGeNet	
+IGFBP3	C0151744	Acute myocardial ischemia	DisGeNet	
+INSR	C0034011	Puberty and gonadal disorders	HumPhenOnt	
+INSR	C4023599	Abnormality of carbohydrate metabolism/homeostasis	HumPhenOnt	
+IGFBP3	C0221287	Combined Hepatocellular Carcinoma and Cholangiocarcinoma	DisGeNet	
+INSR	C0239998	Infections, recurrent, with encephalopathy, hepatic dysfunction, and cardiovascular malformations	HumPhenOnt	
+INSR	C0850826	Localized skin lesion	HumPhenOnt	
+IGFBP3	C0023470	Myeloid leukemia	DisGeNet	
+IGFBP3	C0024530	Malaria	DisGeNet	
+IGFBP3	C0025149	Medulloblastoma	DisGeNet	
+IGFBP3	C0085110	Severe combined immunodeficiency due to ADA deficiency	DisGeNet	
+IGFBP3	C1520166	Xenograft Model	DisGeNet	
+IGFBP3	C0024305	Non-Hodgkin lymphoma	DisGeNet	
+INSR	C4023638	Abnormality of the external nose	HumPhenOnt	
+INSR	C0424503	Abnormal facial shape	HumPhenOnt	
+INSR	C4025870	Abnormality of the mandible	HumPhenOnt	
+IGFBP3	C1335302	Pancreatic Ductal Adenocarcinoma	DisGeNet	
+INSR	C0009812	Constitutional symptom	HumPhenOnt	
+IGFBP3	C0036421	Scleroderma	DisGeNet	
+INSR	C0040427	Abnormality of dental morphology	HumPhenOnt	
+INSR	C4021946	Abnormality of globe location	HumPhenOnt	
+IGFBP3	C0152018	Esophageal carcinoma	DisGeNet	
+INSR	C4025831	Abnormal peripheral nervous system morphology	HumPhenOnt	
+INSR	C4280767	Abnormal jaw morphology	HumPhenOnt	
+INSR	C4021805	Abnormality of the nasal bridge	HumPhenOnt	
+INSR	C4021815	Abnormality of the palate	HumPhenOnt	
+INSR	C2183966	Abnormality of the lip	HumPhenOnt	
+IGFBP3	C0345904	Hepatic cancer metastatic	DisGeNet	
+INSR	C0011881	Diabetic Nephropathies	DisGeNet	
+INSR	C0022661	Kidney Failure, Chronic	DisGeNet	
+INSR	C0266423	Abnormality of the testis	HumPhenOnt	
+IGFBP3	C0149925	Small cell lung cancer	DisGeNet	
+IGFBP3	C0022116	Ischemia	DisGeNet	
+INSR	C0424688	Decreased head circumference	HumPhenOnt	
+IGFBP3	C0546837	Malignant tumor of esophagus	DisGeNet	
+INSR	C4021760	Abnormality of lung morphology	HumPhenOnt	
+INSR	C4023437	Abnormality of the urinary system physiology	HumPhenOnt	
+IGFBP3	C0006118	Brain neoplasm	DisGeNet	
+IGFBP3	C0004114	Astrocytoma	DisGeNet	

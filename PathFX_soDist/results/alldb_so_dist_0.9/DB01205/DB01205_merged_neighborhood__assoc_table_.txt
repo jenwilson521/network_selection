@@ -1,0 +1,71 @@
+rank	phenotype	cui	assoc in neigh	assoc in intom	probability	Benjamini-Hochberg	genes	
+1	Alcohol dependence	C0001973	1	675	0.0	1.20481927711e-05	GABRA1
+2	Ataxia, combined cerebellar and peripheral, with hearing loss and diabetes mellitus	C0004134	1	740	0.0	2.40963855422e-05	GABRA1
+3	Autism 15	C0004352	1	868	0.0	3.61445783133e-05	GABRA1
+4	Bipolar affective disorder	C0005586	1	817	0.0	4.81927710843e-05	GABRA1
+5	Colon cancer	C0007102	1	1727	0.0	6.02409638554e-05	GABRA1
+6	Colorectal cancer 1	C0009402	1	2543	0.0	7.22891566265e-05	GABRA1
+7	Febrile seizures, familial, 4	C0009952	1	89	0.0	8.43373493976e-05	GABRA1
+8	Methamphetamine abuse	C0013146	1	105	0.0	9.63855421687e-05	GABRA1
+9	Epilepsy	C0014544	1	673	0.0	0.00010843373494	GABRA1
+10	Absence seizures	C0014553	1	81	0.0	0.000120481927711	GABRA1
+12	Glioblastoma	C0017636	1	1645	0.0	0.000144578313253	GABRA1
+13	Hepatic encephalopathy	C0019151	1	35	0.0	0.000156626506024	GABRA1
+14	Liver Cirrhosis, Alcoholic	C0023891	1	103	0.0	0.000168674698795	GABRA1
+15	Abnormality of movement	C0026650	1	1025	0.0	0.000180722891566	GABRA1
+16	Hypotonia, infantile, with psychomotor retardation	C0026827	1	1017	0.0	0.000192771084337	GABRA1
+17	Ovarian cyst	C0029927	1	116	0.0	0.000204819277108	GABRA1
+18	Psychotic Disorders	C0033975	1	328	0.0	0.00021686746988	GABRA1
+19	Schizophrenia	C0036341	1	1947	0.0	0.000228915662651	GABRA1
+20	Seizures, Febrile	C0036572	1	1535	0.0	0.000240963855422	GABRA1
+21	Abnormality of the skin	C0037268	1	1376	0.0	0.000253012048193	GABRA1
+22	Status epilepticus	C0038220	1	185	0.0	0.000265060240964	GABRA1
+23	Tremor, hereditary essential, 5	C0040822	1	349	0.0	0.000277108433735	GABRA1
+24	Encephalopathy, acute, infection-induced, 4, susceptibility to	C0085584	1	262	0.0	0.000289156626506	GABRA1
+25	Alcohol abuse	C0085762	1	95	0.0	0.000301204819277	GABRA1
+26	EEG abnormality	C0151611	1	221	0.0	0.000313253012048	GABRA1
+28	Behavioral abnormality	C0233514	1	890	0.0	0.00033734939759	GABRA1
+29	Action tremor	C0234376	1	66	0.0	0.000349397590361	GABRA1
+30	Generalized seizures	C0234533	1	134	0.0	0.000361445783133	GABRA1
+32	Hypoalbuminemia	C0239981	1	56	0.0	0.000385542168675	GABRA1
+33	Essential tremor	C0270736	1	64	0.0	0.000397590361446	GABRA1
+35	Idiopathic generalized epilepsy	C0270850	1	61	0.0	0.000421686746988	GABRA1
+36	Juvenile myoclonic epilepsy	C0270853	1	44	0.0	0.000433734939759	GABRA1
+37	Cycloid psychosis	C0349204	1	192	0.0	0.00044578313253	GABRA1
+38	Cutaneous photosensitivity	C0349506	1	73	0.0	0.000457831325301	GABRA1
+39	Dystonia Disorders	C0393593	1	130	0.0	0.000469879518072	GABRA1
+40	Involuntary movements	C0427086	1	507	0.0	0.000481927710843	GABRA1
+41	Autosomal dominant non-syndromic sensorineural deafness type DFNA	C0443147	1	1262	0.0	0.000493975903614	GABRA1
+42	Generalized tonic-clonic seizures	C0494475	1	95	0.0	0.000506024096386	GABRA1
+43	Abnormality of the nervous system	C0497552	1	2512	0.0	0.000518072289157	GABRA1
+44	Mood Disorders	C0525045	1	322	0.0	0.000530120481928	GABRA1
+45	Epileptic encephalopathy, early infantile, 29	C0543888	1	94	0.0	0.000542168674699	GABRA1
+46	Global developmental delay, absent or hypoplastic corpus callosum, and dysmorphic facies	C0557874	1	964	0.0	0.00055421686747	GABRA1
+49	Neurodevelopmental abnormality	C0679378	1	1639	0.0	0.000590361445783	GABRA1
+50	Carcinoma of colon	C0699790	1	1856	0.0	0.000602409638554	GABRA1
+51	Severe myoclonic epilepsy in infancy	C0751122	1	30	0.0	0.000614457831325	GABRA1
+52	Focal seizures	C0751495	1	56	0.0	0.000626506024096	GABRA1
+54	Abnormal muscle tone	C0852413	1	1220	0.0	0.000650602409639	GABRA1
+55	Major depressive disorder	C1269683	1	489	0.0	0.00066265060241	GABRA1
+56	Colorectal cancer	C1527249	1	2681	0.0	0.000674698795181	GABRA1
+58	Amyotrophic lateral sclerosis type 1	C1862939	1	171	0.0	0.000698795180723	GABRA1
+59	Abnormality of the cerebellum	C1866129	1	798	0.0	0.000710843373494	GABRA1
+62	Intellectual developmental disorder with dysmorphic facies and ptosis	C3714756	1	1371	0.0	0.000746987951807	GABRA1
+65	Abnormality of brain morphology	C4021085	1	1573	0.0	0.00078313253012	GABRA1
+66	Generalized abnormality of skin	C4021157	1	712	0.0	0.000795180722892	GABRA1
+67	Abnormality of hindbrain morphology	C4021170	1	800	0.0	0.000807228915663	GABRA1
+68	Abnormality of the musculature	C4021745	1	1765	0.0	0.000819277108434	GABRA1
+69	Generalized myoclonic seizures	C4021759	1	58	0.0	0.000831325301205	GABRA1
+70	Morphological abnormality of the central nervous system	C4021765	1	1722	0.0	0.000843373493976	GABRA1
+71	Abnormal nervous system electrophysiology	C4021781	1	303	0.0	0.000855421686747	GABRA1
+72	Abnormality of central nervous system electrophysiology	C4022597	1	232	0.0	0.000867469879518	GABRA1
+73	Neurodevelopmental delay	C4022738	1	1140	0.0	0.000879518072289	GABRA1
+74	Abnormality of nervous system morphology	C4022810	1	1875	0.0	0.00089156626506	GABRA1
+75	Abnormality of nervous system physiology	C4022811	1	2307	0.0	0.000903614457831	GABRA1
+76	Abnormality of muscle physiology	C4023182	1	1477	0.0	0.000915662650602	GABRA1
+77	Abnormality of coordination	C4023353	1	598	0.0	0.000927710843373	GABRA1
+78	Abnormality of central motor function	C4023354	1	1196	0.0	0.000939759036145	GABRA1
+79	Abnormality of the metencephalon	C4023432	1	800	0.0	0.000951807228916	GABRA1
+81	Dialeptic seizures	C4023515	1	41	0.0	0.000975903614458	GABRA1
+82	Abnormality of skin morphology	C4023528	1	1261	0.0	0.000987951807229	GABRA1
+83	Abnormality of the integument	C4025761	1	1665	0.0	0.001	GABRA1

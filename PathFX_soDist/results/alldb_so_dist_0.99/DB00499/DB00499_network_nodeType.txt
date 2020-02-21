@@ -1,0 +1,11 @@
+node_name	node_type	
+DB00499	drug	
+CYP1A1	drug_target	
+CYP1A2	drug_target	
+CYP1B1	drug_target	
+AHR	drug_target	
+NR1I2	drug_target	
+AR	drug_target	
+CYP2C19	drug_target	
+CYP3A4	drug_target	
+CYP3A5	drug_target	

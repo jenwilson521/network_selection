@@ -1,0 +1,5 @@
+node_name	node_type	
+DB06372	drug	
+IL1A	drug_target	
+IL1B	drug_target	
+IL1RN	drug_target	

@@ -1,0 +1,29 @@
+node_name	node_type	
+DB00622	drug	
+CACNA1D	drug_target	
+SLCO1B1	drug_target	
+CYP3A5	drug_target	
+CYP2D6	drug_target	
+CACNB2	drug_target	
+PDE1A	drug_target	
+CACNA1C	drug_target	
+CYP2B6	drug_target	
+ABCB1	drug_target	
+CHRM4	drug_target	
+CHRM3	drug_target	
+CHRM2	drug_target	
+CHRM1	drug_target	
+ABCB11	drug_target	
+CYP3A4	drug_target	
+CACNA2D1	drug_target	
+ADRA1A	drug_target	
+CYP2C8	drug_target	
+ADRA1B	drug_target	
+ADRA1D	drug_target	
+CYP2E1	drug_target	
+CYP2C19	drug_target	
+PDE1B	drug_target	
+Primary malignant neoplasm of liver	phenotype	
+Drug Allergy	phenotype	
+Congenital long QT syndrome	phenotype	
+Acute postoperative pain	phenotype	

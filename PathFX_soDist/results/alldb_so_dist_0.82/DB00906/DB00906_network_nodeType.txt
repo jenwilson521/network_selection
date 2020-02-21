@@ -1,0 +1,18 @@
+node_name	node_type	
+DB00906	drug	
+SLC6A1	drug_target	
+CYP3A4	drug_target	
+UGT1A1	drug_target	
+Hepatitis D Infection	phenotype	
+Hyperbilirubinemia	phenotype	
+Febrile Neutropenia	phenotype	
+Cholelithiasis	phenotype	
+Drug Allergy	phenotype	
+Hearing Loss, Partial	phenotype	
+Anemia, Sickle Cell	phenotype	
+Leukopenia	phenotype	
+Deafness, autosomal recessive 44	phenotype	
+Influenza	phenotype	
+Neutropenia	phenotype	
+Cholecystolithiasis	phenotype	
+Deficiency of glucose-6-phosphate dehydrogenase	phenotype	

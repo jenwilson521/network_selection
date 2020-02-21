@@ -1,0 +1,9 @@
+node_name	node_type	
+DB00738	drug	
+CYP1A1	drug_target	
+CYP4A11	drug_target	
+CYP2D6	drug_target	
+CYP2C8	drug_target	
+TRDMT1	drug_target	
+CYP2C19	drug_target	
+CYP3A5	drug_target	

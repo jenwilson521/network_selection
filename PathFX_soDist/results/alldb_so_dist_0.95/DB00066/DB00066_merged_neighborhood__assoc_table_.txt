@@ -1,0 +1,187 @@
+rank	phenotype	cui	assoc in neigh	assoc in intom	probability	Benjamini-Hochberg	genes	
+1	Abdominal distention	C0000731	1	77	0.0	4.54545454545e-06	FSHR
+2	Abdominal pain	C0000737	1	187	0.0	9.09090909091e-06	FSHR
+3	Recurrent abortion	C0000809	1	79	0.0	1.36363636364e-05	FSHR
+4	Aplasia involving bones of the extremities	C0000846	1	1321	0.0	1.81818181818e-05	FSHR
+5	Neoplasm of the adrenal gland	C0001624	1	111	0.0	2.27272727273e-05	FSHR
+6	Alzheimer Disease	C0002395	1	1699	0.0	2.72727272727e-05	FSHR
+7	Amenorrhea	C0002453	1	151	0.0	3.18181818182e-05	FSHR
+9	Arachnodactyly	C0003706	1	81	0.0	4.09090909091e-05	FSHR
+10	Ascites	C0003962	1	65	0.0	4.54545454545e-05	FSHR
+11	Ataxia, combined cerebellar and peripheral, with hearing loss and diabetes mellitus	C0004134	1	740	0.0	5e-05	FSHR
+12	Azoospermia	C0004509	1	261	0.0	5.45454545455e-05	FSHR
+13	Breast-ovarian cancer, familial 1	C0006142	1	4543	0.0	5.90909090909e-05	FSHR
+14	Candidiasis, familial, 9	C0006840	1	85	0.0	6.36363636364e-05	FSHR
+15	Constitutional symptom	C0009812	1	572	0.0	6.81818181818e-05	FSHR
+16	{Unipolar depression, susceptibility to}, 608516 (3)	C0011570	1	555	0.0	7.27272727273e-05	FSHR
+17	Depressive Disorder	C0011581	1	543	0.0	7.72727272727e-05	FSHR
+18	Gallbladder disease 4	C0012634	1	785	0.0	8.18181818182e-05	FSHR
+19	Short stature, rhizomelic, with microcephaly, micrognathia, and developmental delay	C0013336	1	949	0.0	8.63636363636e-05	FSHR
+20	Hydrops, lactic acidosis, and sideroblastic anemia	C0013604	1	335	0.0	9.09090909091e-05	FSHR
+21	Endometriosis	C0014175	1	727	0.0	9.54545454545e-05	FSHR
+24	granulosa cell tumor	C0018206	1	83	0.0	0.000109090909091	FSHR
+25	Abnormality of the hand	C0018564	1	852	0.0	0.000113636363636	FSHR
+26	Hirsutism	C0019572	1	157	0.0	0.000118181818182	FSHR
+27	Hyperlipidemia, combined, 1	C0020473	1	293	0.0	0.000122727272727	FSHR
+28	Hyperpituitarism	C0020506	1	64	0.0	0.000127272727273	FSHR
+29	Hypertension	C0020538	1	1647	0.0	0.000131818181818	FSHR
+30	Hypothyroidism	C0020676	1	341	0.0	0.000136363636364	FSHR
+31	Infertility associated with multi-tailed spermatozoa and excessive DNA	C0021359	1	128	0.0	0.000140909090909	FSHR
+32	Female infertility	C0021361	1	72	0.0	0.000145454545455	FSHR
+33	Male infertility	C0021364	1	303	0.0	0.00015	FSHR
+34	Hypogonadotropic hypogonadism 7 with or without anosmia	C0022735	1	183	0.0	0.000154545454545	FSHR
+35	Lupus Erythematosus, Systemic	C0024141	1	1467	0.0	0.000159090909091	FSHR
+36	Premature ovarian failure	C0025322	1	123	0.0	0.000163636363636	FSHR
+37	Disorders of Intracellular Cobalamin Metabolism	C0025517	1	394	0.0	0.000168181818182	FSHR
+38	Microcephaly 16, primary, autosomal recessive	C0025958	1	721	0.0	0.000172727272727	FSHR
+39	Nausea	C0027497	1	54	0.0	0.000177272727273	FSHR
+40	Nausea and vomiting	C0027498	1	304	0.0	0.000181818181818	FSHR
+41	Secondary hypertriglyceridemia	C0027627	1	3444	0.0	0.000186363636364	FSHR
+42	Neoplasms, Germ Cell and Embryonal	C0027658	1	64	0.0	0.000190909090909	FSHR
+43	Obesity	C0028754	1	2181	0.0	0.000195454545455	FSHR
+44	Oligospermia	C0028960	1	155	0.0	0.0002	FSHR
+45	Osteopenia	C0029453	1	172	0.0	0.000204545454545	FSHR
+46	Osteoporosis	C0029456	1	642	0.0	0.000209090909091	FSHR
+47	Ovarian cyst	C0029927	1	116	0.0	0.000213636363636	FSHR
+48	Ovarian Diseases	C0029928	1	236	0.0	0.000218181818182	FSHR
+49	Pain	C0030193	1	628	0.0	0.000222727272727	FSHR
+50	Pituitary adenoma	C0032000	1	286	0.0	0.000227272727273	FSHR
+51	Abnormality of the pituitary gland	C0032002	1	645	0.0	0.000231818181818	FSHR
+52	Pleural effusion	C0032227	1	137	0.0	0.000236363636364	FSHR
+53	Polycystic Ovary Syndrome	C0032460	1	477	0.0	0.000240909090909	FSHR
+54	Preeclampsia/eclampsia 1	C0032914	1	371	0.0	0.000245454545455	FSHR
+55	Puberty and gonadal disorders	C0034011	1	488	0.0	0.00025	FSHR
+56	Delayed puberty	C0034012	1	186	0.0	0.000254545454545	FSHR
+57	Pulmonary edema	C0034063	1	77	0.0	0.000259090909091	FSHR
+58	Pulmonary fibrosis and/or bone marrow failure, telomere-related, 4	C0034069	1	392	0.0	0.000263636363636	FSHR
+59	Testicular seminoma	C0036631	1	222	0.0	0.000268181818182	FSHR
+60	Testicular Neoplasms	C0039590	1	139	0.0	0.000272727272727	FSHR
+61	Thyroid Diseases	C0040128	1	376	0.0	0.000277272727273	FSHR
+62	46,XY gonadal dysgenesis, partial, with minifascicular neuropathy	C0041408	1	164	0.0	0.000281818181818	FSHR
+64	Abnormality of the genitourinary system	C0042063	1	1555	0.0	0.000290909090909	FSHR
+65	Ovarian hyperstimulation syndrome	C0085083	1	38	0.0	0.000295454545455	FSHR
+66	Ovarian Failure, Premature	C0085215	1	199	0.0	0.0003	FSHR
+67	Polycystic Kidney, Autosomal Dominant	C0085413	1	158	0.0	0.000304545454545	FSHR
+68	Essential hypertension	C0085580	1	305	0.0	0.000309090909091	FSHR
+71	Migraine Disorders	C0149931	1	333	0.0	0.000322727272727	FSHR
+74	Malignant tumor of testis	C0153594	1	251	0.0	0.000336363636364	FSHR
+75	Migraine with aura	C0154723	1	77	0.0	0.000340909090909	FSHR
+76	Menstrual irregularities	C0156404	1	180	0.0	0.000345454545455	FSHR
+77	Abnormality of the hair	C0157733	1	766	0.0	0.00035	FSHR
+78	Abnormality of the vertebrae	C0158775	1	299	0.0	0.000354545454545	FSHR
+79	Abnormal QRS complex	C0205161	1	1098	0.0	0.000359090909091	FSHR
+80	Increased analgesia from kappa-opioid receptor agonist, female-specific	C0205217	1	81	0.0	0.000363636363636	FSHR
+81	 Hyperandrogenism, nonclassic type, due to 21-hydroxylase deficiency, 201910 (3)	C0206081	1	68	0.0	0.000368181818182	FSHR
+85	Delayed menarche	C0232939	1	109	0.0	0.000386363636364	FSHR
+86	Secondary amenorrhea	C0232940	1	37	0.0	0.000390909090909	FSHR
+87	Abnormality of the skull	C0235942	1	1324	0.0	0.000395454545455	FSHR
+88	Abnormality of limbs	C0239337	1	1290	0.0	0.0004	FSHR
+90	Abnormality of blood and blood-forming tissues	C0241657	1	1335	0.0	0.000409090909091	FSHR
+91	Impotence	C0242350	1	126	0.0	0.000413636363636	FSHR
+92	Abnormality of cardiovascular system electrophysiology	C0243050	1	1568	0.0	0.000418181818182	FSHR
+93	Growth abnormality	C0262361	1	1578	0.0	0.000422727272727	FSHR
+94	Abnormality of the digestive system	C0266015	1	1679	0.0	0.000427272727273	FSHR
+96	Abnormal uterus morphology	C0266383	1	158	0.0	0.000436363636364	FSHR
+97	Abnormality of the ear	C0266589	1	1354	0.0	0.000440909090909	FSHR
+101	Malignant tumor of prostate	C0376358	1	2940	0.0	0.000459090909091	FSHR
+104	Decreased head circumference	C0424688	1	648	0.0	0.000472727272727	FSHR
+107	Autosomal recessive inheritance	C0441748	1	2006	0.0	0.000486363636364	FSHR
+108	Autosomal dominant non-syndromic sensorineural deafness type DFNA	C0443147	1	1262	0.0	0.000490909090909	FSHR
+109	Growth delay	C0456070	1	1102	0.0	0.000495454545455	FSHR
+111	Abnormality of the nervous system	C0497552	1	2512	0.0	0.000504545454545	FSHR
+112	Decreased fertility	C0520927	1	161	0.0	0.000509090909091	FSHR
+113	Abnormal spermatogenesis	C0520933	1	104	0.0	0.000513636363636	FSHR
+114	Metabolic Syndrome X	C0524620	1	638	0.0	0.000518181818182	FSHR
+115	Delayed skeletal maturation	C0541764	1	234	0.0	0.000522727272727	FSHR
+116	Hypovolemia	C0546884	1	33	0.0	0.000527272727273	FSHR
+117	Epithelioma	C0553707	1	280	0.0	0.000531818181818	FSHR
+118	Abnormal serum testosterone level	C0580454	1	41	0.0	0.000536363636364	FSHR
+119	Carcinogenesis	C0596263	1	3723	0.0	0.000540909090909	FSHR
+120	Ovarian epithelial cancer	C0677886	1	2172	0.0	0.000545454545455	FSHR
+121	Hypoplasia of the ovary	C0685840	1	61	0.0	0.00055	FSHR
+124	Subfertility	C0729353	1	32	0.0	0.000563636363636	FSHR
+125	Abdominal symptom	C0740651	1	901	0.0	0.000568181818182	FSHR
+126	Abnormal breast morphology	C0742257	1	238	0.0	0.000572727272727	FSHR
+127	Abnormality of the genital system	C0744356	1	983	0.0	0.000577272727273	FSHR
+128	Ovarian Insufficiency	C0747102	1	43	0.0	0.000581818181818	FSHR
+129	Oestrogen deficiency	C0853662	1	33	0.0	0.000586363636364	FSHR
+130	Abnormality of head or neck	C0854297	1	2021	0.0	0.000590909090909	FSHR
+131	Testicular malignant germ cell tumor	C0855197	1	96	0.0	0.000595454545455	FSHR
+134	Ovarian Neoplasms	C0919267	1	942	0.0	0.000609090909091	FSHR
+136	BREAST-OVARIAN CANCER, FAMILIAL, SUSCEPTIBILITY TO, 4	C1140680	1	1967	0.0	0.000618181818182	FSHR
+137	Sarcoma, Ewing	C1261473	1	829	0.0	0.000622727272727	FSHR
+139	Congenital absence of germinal epithelium of testes	C1384583	1	47	0.0	0.000631818181818	FSHR
+140	Hearing impairment	C1384666	1	1031	0.0	0.000636363636364	FSHR
+143	Sparse hair	C1837770	1	217	0.0	0.00065	FSHR
+144	Slender finger	C1857482	1	84	0.0	0.000654545454545	FSHR
+145	Long fingers	C1858091	1	138	0.0	0.000659090909091	FSHR
+146	Sparse pubic hair	C1858573	1	36	0.0	0.000663636363636	FSHR
+147	Abnormality of the cerebellum	C1866129	1	798	0.0	0.000668181818182	FSHR
+148	Abnormality of fluid regulation	C2364164	1	346	0.0	0.000672727272727	FSHR
+150	Reduced bone mineral density	C2674432	1	339	0.0	0.000681818181818	FSHR
+151	Abnormality of finger	C2674737	1	662	0.0	0.000686363636364	FSHR
+152	Obesity, Visceral	C2936179	1	42	0.0	0.000690909090909	FSHR
+153	Abnormality of digit	C3550704	1	806	0.0	0.000695454545455	FSHR
+154	Abnormality of the respiratory system	C4018871	1	1121	0.0	0.0007	FSHR
+155	Abnormality of abdomen morphology	C4020869	1	505	0.0	0.000704545454545	FSHR
+156	Abnormality of the upper limb	C4020900	1	923	0.0	0.000709090909091	FSHR
+157	Abnormality of forebrain morphology	C4020967	1	1074	0.0	0.000713636363636	FSHR
+158	Abnormality of brain morphology	C4021085	1	1573	0.0	0.000718181818182	FSHR
+159	Abnormal genital system morphology	C4021096	1	892	0.0	0.000722727272727	FSHR
+160	Abnormality of hindbrain morphology	C4021170	1	800	0.0	0.000727272727273	FSHR
+161	Abnormality of bone mineral density	C4021657	1	397	0.0	0.000731818181818	FSHR
+162	Abnormality of lung morphology	C4021760	1	651	0.0	0.000736363636364	FSHR
+163	Abnormality of the cerebrum	C4021762	1	1054	0.0	0.000740909090909	FSHR
+164	Morphological abnormality of the central nervous system	C4021765	1	1722	0.0	0.000745454545455	FSHR
+165	Abnormality of metabolism/homeostasis	C4021768	1	1607	0.0	0.00075	FSHR
+166	Abnormality of the vertebral column	C4021789	1	835	0.0	0.000754545454545	FSHR
+167	Abnormality of the skeletal system	C4021790	1	1961	0.0	0.000759090909091	FSHR
+168	Abnormality of the head	C4021812	1	1995	0.0	0.000763636363636	FSHR
+169	Abnormality of the ovary	C4021818	1	171	0.0	0.000768181818182	FSHR
+170	Abnormality of reproductive system physiology	C4021820	1	407	0.0	0.000772727272727	FSHR
+171	Abnormality of the pubic hair	C4022288	1	36	0.0	0.000777272727273	FSHR
+172	Abnormality of limb bone	C4022456	1	931	0.0	0.000781818181818	FSHR
+173	Abnormal vascular physiology	C4022603	1	101	0.0	0.000786363636364	FSHR
+174	Abnormality of nervous system morphology	C4022810	1	1875	0.0	0.000790909090909	FSHR
+175	Abnormality of nervous system physiology	C4022811	1	2307	0.0	0.000795454545455	FSHR
+176	Abnormal respiratory system morphology	C4022992	1	778	0.0	0.0008	FSHR
+177	Abnormal bone ossification	C4023161	1	471	0.0	0.000804545454545	FSHR
+178	Abnormal appendicular skeleton morphology	C4023163	1	992	0.0	0.000809090909091	FSHR
+179	Abnormality of skeletal physiology	C4023164	1	436	0.0	0.000813636363636	FSHR
+180	Abnormality of skeletal morphology	C4023165	1	1878	0.0	0.000818181818182	FSHR
+181	Abnormality of the anterior pituitary	C4023206	1	181	0.0	0.000822727272727	FSHR
+182	Abnormality of coordination	C4023353	1	598	0.0	0.000827272727273	FSHR
+183	Abnormality of central motor function	C4023354	1	1196	0.0	0.000831818181818	FSHR
+184	Abnormal hair quantity	C4023397	1	395	0.0	0.000836363636364	FSHR
+185	Abnormality of hair density	C4023401	1	224	0.0	0.000840909090909	FSHR
+186	Abnormality of the metencephalon	C4023432	1	800	0.0	0.000845454545455	FSHR
+187	Abnormality of skin adnexa morphology	C4023518	1	942	0.0	0.00085	FSHR
+188	Abnormality of blood volume homeostasis	C4023537	1	28	0.0	0.000854545454545	FSHR
+189	Abnormality of blood circulation	C4023585	1	189	0.0	0.000859090909091	FSHR
+190	Abnormality of cardiovascular system physiology	C4023587	1	700	0.0	0.000863636363636	FSHR
+191	Aplasia/Hypoplasia of the ovary	C4023818	1	61	0.0	0.000868181818182	FSHR
+192	Abnormality of the female genitalia	C4023820	1	449	0.0	0.000872727272727	FSHR
+193	Aplasia/Hypoplasia of the breasts	C4023911	1	53	0.0	0.000877272727273	FSHR
+194	Abnormality of secondary sexual hair	C4024171	1	48	0.0	0.000881818181818	FSHR
+195	Abnormal axial skeleton morphology	C4024586	1	1562	0.0	0.000886363636364	FSHR
+196	Aplasia/hypoplasia of the uterus	C4024640	1	48	0.0	0.000890909090909	FSHR
+198	Aplasia/Hypoplasia of the cerebrum	C4024902	1	792	0.0	0.0009	FSHR
+200	Abnormal bone structure	C4025630	1	530	0.0	0.000909090909091	FSHR
+201	Abnormality of lipid metabolism	C4025650	1	172	0.0	0.000913636363636	FSHR
+202	Abnormality of circulating hormone level	C4025652	1	262	0.0	0.000918181818182	FSHR
+203	Abnormality of the pleura	C4025726	1	54	0.0	0.000922727272727	FSHR
+204	Abnormality of the integument	C4025761	1	1665	0.0	0.000927272727273	FSHR
+205	Abnormality of skeletal maturation	C4025818	1	268	0.0	0.000931818181818	FSHR
+206	Abnormality of the hypothalamus-pituitary axis	C4025819	1	252	0.0	0.000936363636364	FSHR
+207	Abnormality of the endocrine system	C4025823	1	878	0.0	0.000940909090909	FSHR
+208	Abnormal internal genitalia	C4025824	1	426	0.0	0.000945454545455	FSHR
+209	Abnormality of the breast	C4025829	1	242	0.0	0.00095	FSHR
+210	Hearing abnormality	C4025860	1	921	0.0	0.000954545454545	FSHR
+211	Abnormality of skull size	C4025874	1	840	0.0	0.000959090909091	FSHR
+212	Abnormality of the menstrual cycle	C4025888	1	163	0.0	0.000963636363636	FSHR
+213	Abnormality of female internal genitalia	C4025900	1	398	0.0	0.000968181818182	FSHR
+214	Abnormality of body height	C4025901	1	908	0.0	0.000972727272727	FSHR
+216	Abnormal circulating gonadotropin level	C4072886	1	41	0.0	0.000981818181818	FSHR
+217	Abnormal circulating androgen level	C4072892	1	44	0.0	0.000986363636364	FSHR
+218	Abnormality of limb bone morphology	C4082761	1	921	0.0	0.000990909090909	FSHR
+219	Abnormality of digestive system physiology	C4293692	1	1132	0.0	0.000995454545455	FSHR

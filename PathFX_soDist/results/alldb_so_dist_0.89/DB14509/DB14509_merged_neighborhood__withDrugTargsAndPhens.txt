@@ -1,0 +1,40 @@
+node1	node2	edge_score	
+DB14509	GRIA3	1.0	
+DB14509	GSK3B	1.0	
+DB14509	SCNN1G	1.0	
+DB14509	IMPA1	1.0	
+DB14509	IMPA2	1.0	
+DB14509	SCNN1B	1.0	
+DB14509	SCNN1A	1.0	
+GRIA3		1.0
+GRIA3	rs3761555	0.99
+SCNN1B		1.0
+GRIA3	rs3761554	0.99
+GSK3B		1.0
+GRIA3	rs4825476	0.99
+GRIA3	rs502434	0.99
+Weight Gain Adverse Event	GRIA3	1.0	
+Weight Gain Adverse Event	GSK3B	1.0	
+Recurrent major depressive episodes	GSK3B	1.0	
+Hyperkalemia	SCNN1B	1.0	
+Prominent supraorbital ridges	GRIA3	1.0	
+Muscle weakness	GRIA3	1.0	
+Muscle weakness	GSK3B	1.0	
+Muscle weakness	SCNN1B	1.0	
+Abnormality of sodium homeostasis	SCNN1B	1.0	
+Hyponatremia	SCNN1B	1.0	
+Adrenal overactivity	SCNN1B	1.0	
+Parathyroid carcinoma	GSK3B	1.0	
+Alkalosis	SCNN1B	1.0	
+Hyperaldosteronism, familial, type IV	SCNN1B	1.0	
+Abnormality of potassium homeostasis	SCNN1B	1.0	
+Renovascular hypertension	SCNN1B	1.0	
+Hypokalemia	SCNN1B	1.0	
+Dyskinesia, Drug-Induced	GSK3B	1.0	
+Drug Resistant Epilepsy	GRIA3	1.0	
+Obstructive lung disease	SCNN1B	1.0	
+Abnormality of monovalent inorganic cation homeostasis	SCNN1B	1.0	
+Stress, Psychological	GRIA3	1.0	
+Bipolar I disorder	GSK3B	1.0	
+Metabolic acidosis	SCNN1B	1.0	
+Osteochondritis dissecans	GRIA3	1.0	

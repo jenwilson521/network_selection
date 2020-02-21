@@ -1,0 +1,5 @@
+node_name	node_type	
+DB00649	drug	
+SLC22A6	drug_target	
+SLC28A1	drug_target	
+ALB	drug_target	

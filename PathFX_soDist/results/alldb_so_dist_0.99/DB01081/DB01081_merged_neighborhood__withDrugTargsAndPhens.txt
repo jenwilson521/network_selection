@@ -1,0 +1,4 @@
+node1	node2	edge_score	
+DB01081	OPRM1	1.0	
+DB01081	OPRD1	1.0	
+

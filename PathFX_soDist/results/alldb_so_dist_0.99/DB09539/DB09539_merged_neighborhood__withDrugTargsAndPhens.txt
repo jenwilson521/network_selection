@@ -1,0 +1,4 @@
+node1	node2	edge_score	
+DB09539	SOAT1	1.0	
+DB09539	SREBF1	1.0	
+

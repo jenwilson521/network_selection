@@ -1,0 +1,53 @@
+node1	node2	edge_score	
+DB00774	CA9	1.0	
+DB00774	CA2	1.0	
+DB00774	CA1	1.0	
+DB00774	KCNMA1	1.0	
+DB00774	CA4	1.0	
+DB00774	ATP1A1	1.0	
+DB00774	CA12	1.0	
+CA12		1.0
+Astrocytoma	CA12	1.0	
+Breast-ovarian cancer, familial 1	CA12	1.0	
+Renal cell carcinoma, nonpapillary	CA12	1.0	
+Malignant tumor of cervix	CA12	1.0	
+Colorectal Neoplasms	CA12	1.0	
+Verotoxigenic Escherichia coli gastrointestinal tract infection	CA12	1.0	
+Dehydration	CA12	1.0	
+Failure to thrive	CA12	1.0	
+Glaucoma, Angle-Closure	CA12	1.0	
+Heart Failure	CA12	1.0	
+Hyperkalemia	CA12	1.0	
+Hyponatremia	CA12	1.0	
+Animal Mammary Neoplasms	CA12	1.0	
+Secondary hypertriglyceridemia	CA12	1.0	
+Thyroid Neoplasms	CA12	1.0	
+Tuberculosis, Pulmonary	CA12	1.0	
+T-cell lymphoma	CA12	1.0	
+Tumor Progression	CA12	1.0	
+Onset	CA12	1.0	
+Feeding difficulties	CA12	1.0	
+Carcinoma of Male Breast	CA12	1.0	
+Malignant neoplasm of male breast	CA12	1.0	
+Growth abnormality	CA12	1.0	
+Abnormality of the digestive system	CA12	1.0	
+Carcinoma of cervix	CA12	1.0	
+Autosomal recessive inheritance	CA12	1.0	
+Autosomal dominant non-syndromic sensorineural deafness type DFNA	CA12	1.0	
+Breast carcinoma	CA12	1.0	
+Abdominal symptom	CA12	1.0	
+Decreased body weight	CA12	1.0	
+Cancer Cell Growth	CA12	1.0	
+Ductal Carcinoma	CA12	1.0	
+Infantile-onset ascending hereditary spastic paralysis	CA12	1.0	
+T-cell acute lymphoblastic leukemias	CA12	1.0	
+Hepatocellular carcinoma	CA12	1.0	
+Abnormality of fluid regulation	CA12	1.0	
+Abnormality of metabolism/homeostasis	CA12	1.0	
+Abnormality of potassium homeostasis	CA12	1.0	
+Abnormality of sodium homeostasis	CA12	1.0	
+Abnormality of monovalent inorganic cation homeostasis	CA12	1.0	
+Abnormality of cation homeostasis	CA12	1.0	
+Abnormality of body weight	CA12	1.0	
+Abnormality of ion homeostasis	CA12	1.0	
+Abnormality of digestive system physiology	CA12	1.0	

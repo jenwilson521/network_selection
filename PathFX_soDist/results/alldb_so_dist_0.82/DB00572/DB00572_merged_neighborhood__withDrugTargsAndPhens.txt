@@ -1,0 +1,61 @@
+node1	node2	edge_score	
+DB00572	CHRM4	1.0	
+DB00572	GLRA1	1.0	
+DB00572	CHRNB2	1.0	
+DB00572	CHRM3	1.0	
+DB00572	CHRM2	1.0	
+DB00572	CHRM1	1.0	
+DB00572	CHRNA4	1.0	
+DB00572	ABCB11	1.0	
+CHRNB2	rs2072658	0.99
+CHRNB2		1.0
+CHRNA4	rs2236196	0.99
+CHRNA4	rs1044396	0.99
+CHRNA4	rs1044397	0.99
+CHRNB2	rs2072660	0.99
+CHRNB2	rs2072661	0.99
+CHRNA4		1.0
+CHRNA4	rs2229959	0.99
+CHRM2		1.0
+Nicotine Dependence	CHRM2	1.0	
+Nicotine Dependence	CHRNA4	1.0	
+Nicotine Dependence	CHRNB2	1.0	
+Sleep Wake Disorders	CHRNA4	1.0	
+Sleep Wake Disorders	CHRNB2	1.0	
+SUDDEN INFANT DEATH SYNDROME	CHRNA4	1.0	
+SUDDEN INFANT DEATH SYNDROME	CHRNB2	1.0	
+Weight Gain Adverse Event	CHRNA4	1.0	
+Weight Gain Adverse Event	CHRNB2	1.0	
+Depressive Disorder	CHRM2	1.0	
+Depressive Disorder	CHRNA4	1.0	
+Depressive Disorder	CHRNB2	1.0	
+Recurrent major depressive episodes	CHRM2	1.0	
+{Unipolar depression, susceptibility to}, 608516 (3)	CHRM2	1.0	
+{Unipolar depression, susceptibility to}, 608516 (3)	CHRNA4	1.0	
+{Unipolar depression, susceptibility to}, 608516 (3)	CHRNB2	1.0	
+Hypothermia	CHRNB2	1.0	
+Unverricht-Lundborg syndrome	CHRNA4	1.0	
+heavy drinking	CHRNA4	1.0	
+Epilepsy	CHRM2	1.0	
+Epilepsy	CHRNA4	1.0	
+Epilepsy	CHRNB2	1.0	
+Memory impairment	CHRNA4	1.0	
+Memory impairment	CHRNB2	1.0	
+Chronic pain	CHRNA4	1.0	
+Juvenile myoclonic epilepsy	CHRNA4	1.0	
+Mild Mental Retardation	CHRNA4	1.0	
+Hippocampal sclerosis	CHRNB2	1.0	
+Prenatal Exposure Delayed Effects	CHRNA4	1.0	
+Pain insensitivity	CHRNA4	1.0	
+Bradycardia	CHRM2	1.0	
+Epilepsy, focal, with speech disorder and with or without mental retardation	CHRNA4	1.0	
+Nausea	CHRNB2	1.0	
+Focal seizures	CHRNA4	1.0	
+Channelopathies	CHRNA4	1.0	
+Idiopathic generalized epilepsy	CHRNA4	1.0	
+Familial dilated cardiomyopathy	CHRM2	1.0	
+Congenital myasthenic syndrome	CHRNA4	1.0	
+Cognition Disorders	CHRNA4	1.0	
+Drug Dependence	CHRM2	1.0	
+NEUROTICISM	CHRNA4	1.0	
+Epilepsy, generalized, with febrile seizures plus, type 6 (2)	CHRNA4	1.0	

@@ -1,0 +1,25 @@
+node_name	node_type	
+DB06700	drug	
+SLC6A3	drug_target	
+SLC6A2	drug_target	
+CYP3A4	drug_target	
+CYP2D6	drug_target	
+SLC6A4	drug_target	
+Heroin Dependence	phenotype	
+Behavior Disorders	phenotype	
+Tardive Dyskinesia	phenotype	
+Orofacial dyskinesia	phenotype	
+Chronic schizophrenia	phenotype	
+Acute postoperative pain	phenotype	
+Personality disorder	phenotype	
+Prenatal Exposure Delayed Effects	phenotype	
+Methamphetamine abuse	phenotype	
+CNS symptom	phenotype	
+As If Personality	phenotype	
+Depressive Symptoms	phenotype	
+Primary malignant neoplasm of liver	phenotype	
+Slow acetylator due to N-acetyltransferase enzyme variant	phenotype	
+Osteochondritis dissecans	phenotype	
+Bulimia	phenotype	
+Eating disorder	phenotype	
+Generalized anxiety disorder	phenotype	

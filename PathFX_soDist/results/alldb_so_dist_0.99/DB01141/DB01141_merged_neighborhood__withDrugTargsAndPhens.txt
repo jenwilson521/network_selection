@@ -1,0 +1,4 @@
+node1	node2	edge_score	
+DB01141	ARSA	1.0	
+DB01141	COMT	1.0	
+

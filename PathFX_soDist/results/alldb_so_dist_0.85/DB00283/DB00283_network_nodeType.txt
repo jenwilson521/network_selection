@@ -1,0 +1,4 @@
+node_name	node_type	
+DB00283	drug	
+CYP2D6	drug_target	
+HRH1	drug_target	

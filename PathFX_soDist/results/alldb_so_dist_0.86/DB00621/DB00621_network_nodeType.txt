@@ -1,0 +1,4 @@
+node_name	node_type	
+DB00621	drug	
+CYP2C9	drug_target	
+AR	drug_target	

@@ -1,0 +1,5 @@
+node_name	node_type	
+DB00654	drug	
+PTGFR	drug_target	
+SLC22A1	drug_target	
+SLCO2B1	drug_target	

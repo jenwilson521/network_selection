@@ -1,0 +1,33 @@
+node_name	node_type	
+DB01229	drug	
+CYP2C8	drug_target	
+ABCG2	drug_target	
+CYP1B1	drug_target	
+MAP4	drug_target	
+CYP19A1	drug_target	
+SLCO1B3	drug_target	
+TUBB1	drug_target	
+MAP2	drug_target	
+NR1I2	drug_target	
+ABCB11	drug_target	
+ABCC10	drug_target	
+MAPT	drug_target	
+BCL2	drug_target	
+CYP3A4	drug_target	
+CYP3A5	drug_target	
+ABCC1	drug_target	
+ABCC2	drug_target	
+ABCB1	drug_target	
+Neutropenia	phenotype	
+Squamous Cell Neoplasms	phenotype	
+Leukopenia	phenotype	
+Head and Neck Neoplasms	phenotype	
+Drug Allergy	phenotype	
+Leukemia, Myeloid, Chronic-Phase	phenotype	
+Malignant neoplasm of female breast	phenotype	
+Primary malignant neoplasm of liver	phenotype	
+Drug Resistant Epilepsy	phenotype	
+Female Breast Carcinoma	phenotype	
+Primary biliary cirrhosis	phenotype	
+Intrahepatic cholestasis	phenotype	
+Adverse drug events and drug allergies	phenotype	

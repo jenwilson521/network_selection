@@ -1,0 +1,12 @@
+node_name	node_type	
+DB06287	drug	
+ABCB1	drug_target	
+CYP3A5	drug_target	
+MTOR	drug_target	
+CYP3A4	drug_target	
+CYP2D6	drug_target	
+Primary malignant neoplasm of liver	phenotype	
+Pain insensitivity	phenotype	
+Acute postoperative pain	phenotype	
+Drug Allergy	phenotype	
+Neurotoxicity Syndromes	phenotype	

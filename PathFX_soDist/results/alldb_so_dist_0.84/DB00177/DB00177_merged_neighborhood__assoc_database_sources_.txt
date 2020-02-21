@@ -1,0 +1,8 @@
+Gene	CUI	Source Databases	
+ABCC2	C0017178	Gastrointestinal Diseases	DisGeNet	
+AGTR1	C0017178	Gastrointestinal Diseases	DisGeNet	
+CYP2C9	C0017178	Gastrointestinal Diseases	DisGeNet	
+SLCO1B1	C0017178	Gastrointestinal Diseases	DisGeNet	
+ABCC2	C0041755	Adverse drug events and drug allergies	DisGeNet	
+CYP2C9	C0041755	Adverse drug events and drug allergies	DisGeNet	
+SLCO1B1	C0041755	Adverse drug events and drug allergies	DisGeNet	

@@ -1,0 +1,20 @@
+node_name	node_type	
+DB00887	drug	
+PTGS2	drug_target	
+SLC10A1	drug_target	
+SLC22A11	drug_target	
+SLC12A4	drug_target	
+SLC22A6	drug_target	
+SLCO1A2	drug_target	
+SLC12A2	drug_target	
+SLC22A8	drug_target	
+CFTR	drug_target	
+Sarcoidosis, Pulmonary	phenotype	
+Complications of Diabetes Mellitus	phenotype	
+Pulmonary edema	phenotype	
+Intestinal obstruction	phenotype	
+Duodenal Ulcer	phenotype	
+Cholangitis, Sclerosing	phenotype	
+Cholecystolithiasis	phenotype	
+airway disease	phenotype	
+Creutzfeldt-Jakob Syndrome	phenotype	

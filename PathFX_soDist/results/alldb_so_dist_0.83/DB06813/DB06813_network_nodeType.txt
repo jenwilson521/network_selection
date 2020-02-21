@@ -1,0 +1,21 @@
+node_name	node_type	
+DB06813	drug	
+DHFR	drug_target	
+TYMS	drug_target	
+FPGS	drug_target	
+SLC19A1	drug_target	
+Folic Acid Deficiency	phenotype	
+Adverse drug events and drug allergies	phenotype	
+Spina bifida	phenotype	
+Hereditary hyperhomocysteinemia	phenotype	
+Myelosuppression	phenotype	
+Acute GVH disease	phenotype	
+Stomatitis	phenotype	
+Refractory cancer	phenotype	
+Aortic Aneurysm, Abdominal	phenotype	
+Leukemia, Lymphocytic, Acute, L1	phenotype	
+Neural tube defect	phenotype	
+Female infertility	phenotype	
+Drug Allergy	phenotype	
+Gastrointestinal Diseases	phenotype	
+Parasitemia	phenotype	

@@ -1,0 +1,41 @@
+node1	node2	edge_score	
+DB00652	OPRK1	1.0	
+DB00652	OPRM1	1.0	
+DB00652	SIGMAR1	1.0	
+OPRM1		1.0
+OPRM1	rs1799971	0.99
+OPRM1	rs510769	0.99
+OPRM1	rs2075572	0.99
+OPRM1	rs558025	0.99
+OPRM1	rs9384179	0.99
+OPRM1	rs9479757	0.99
+OPRM1	rs2281617	0.99
+OPRM1	rs544093	0.99
+Acute hepatitis	OPRM1	1.0	
+Substance Use Disorders	OPRM1	1.0	
+ {Nicotine dependence, protection against}, 188890 (3)	OPRM1	1.0	
+Hepatic encephalopathy	OPRM1	1.0	
+heavy drinking	OPRM1	1.0	
+Acute postoperative pain	OPRM1	1.0	
+alcohol use disorder	OPRM1	1.0	
+Xeroderma pigmentosum, group A	OPRM1	1.0	
+Opiate Addiction	OPRM1	1.0	
+Low back pain	OPRM1	1.0	
+Hypotension, Orthostatic	OPRM1	1.0	
+Insomnia	OPRM1	1.0	
+Chronic pain	OPRM1	1.0	
+Antisocial/borderline personality disorder	OPRM1	1.0	
+Substance abuse problem	OPRM1	1.0	
+Drug usage	OPRM1	1.0	
+Fibromyalgia	OPRM1	1.0	
+Pain insensitivity	OPRM1	1.0	
+Nausea	OPRM1	1.0	
+Cocaine Dependence	OPRM1	1.0	
+Inflammatory pain	OPRM1	1.0	
+cancer recurrence	OPRM1	1.0	
+Idiopathic generalized epilepsy	OPRM1	1.0	
+Stress, Psychological	OPRM1	1.0	
+Heroin Dependence	OPRM1	1.0	
+Psychoses, Substance-Induced	OPRM1	1.0	
+Drug Dependence	OPRM1	1.0	
+Epilepsy, generalized, with febrile seizures plus, type 6 (2)	OPRM1	1.0	

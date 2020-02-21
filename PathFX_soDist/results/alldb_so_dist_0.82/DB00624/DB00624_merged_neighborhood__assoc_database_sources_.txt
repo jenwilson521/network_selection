@@ -1,0 +1,122 @@
+Gene	CUI	Source Databases	
+AR	C0027658	Neoplasms, Germ Cell and Embryonal	DisGeNet	
+CYP1A1	C0027658	Neoplasms, Germ Cell and Embryonal	DisGeNet	
+CYP2B6	C0027658	Neoplasms, Germ Cell and Embryonal	DisGeNet	
+CYP2C19	C0027658	Neoplasms, Germ Cell and Embryonal	DisGeNet	
+CYP2C9	C0027658	Neoplasms, Germ Cell and Embryonal	DisGeNet	
+CYP3A4	C0027658	Neoplasms, Germ Cell and Embryonal	DisGeNet	
+CYP3A5	C0027658	Neoplasms, Germ Cell and Embryonal	DisGeNet	
+ABCB1	C0086132	Depressive Symptoms	DisGeNet	
+AR	C0086132	Depressive Symptoms	DisGeNet	
+CYP19A1	C0086132	Depressive Symptoms	DisGeNet	
+CYP1A1	C0086132	Depressive Symptoms	DisGeNet	
+CYP1B1	C0086132	Depressive Symptoms	DisGeNet	
+CYP2C19	C0086132	Depressive Symptoms	DisGeNet	
+CYP3A4	C0086132	Depressive Symptoms	DisGeNet	
+ESR1	C0086132	Depressive Symptoms	DisGeNet	
+NR3C2	C0086132	Depressive Symptoms	DisGeNet	
+ABCB1	C0013182	Drug Allergy	DisGeNet	
+CYP2C19	C0013182	Drug Allergy	DisGeNet	
+CYP2C8	C0013182	Drug Allergy	DisGeNet	
+CYP2C9	C0013182	Drug Allergy	DisGeNet	
+CYP3A4	C0013182	Drug Allergy	DisGeNet	
+CYP3A5	C0013182	Drug Allergy	DisGeNet	
+ESR1	C0013182	Drug Allergy	DisGeNet	
+ABCB1	C0235032	Neurotoxicity Syndromes	DisGeNet	
+ABCG2	C0235032	Neurotoxicity Syndromes	DisGeNet	
+CYP2C19	C0235032	Neurotoxicity Syndromes	DisGeNet	
+CYP2C9	C0235032	Neurotoxicity Syndromes	DisGeNet	
+CYP3A5	C0235032	Neurotoxicity Syndromes	DisGeNet	
+ABCB1	C0024620	Primary malignant neoplasm of liver	DisGeNet	
+CYP2C19	C0024620	Primary malignant neoplasm of liver	DisGeNet	
+CYP3A4	C0024620	Primary malignant neoplasm of liver	DisGeNet	
+CYP3A5	C0024620	Primary malignant neoplasm of liver	DisGeNet	
+ABCG2	C0032229	Pleural Neoplasms	DisGeNet	
+CYP1A1	C0032229	Pleural Neoplasms	DisGeNet	
+CYP1B1	C0032229	Pleural Neoplasms	DisGeNet	
+CYP2C19	C0032229	Pleural Neoplasms	DisGeNet	
+ABCG2	C0206720	Squamous Cell Neoplasms	DisGeNet	
+CYP1A1	C0206720	Squamous Cell Neoplasms	DisGeNet	
+CYP3A4	C0206720	Squamous Cell Neoplasms	DisGeNet	
+CYP3A5	C0206720	Squamous Cell Neoplasms	DisGeNet	
+AR	C0235653	Malignant neoplasm of female breast	DisGeNet	
+CYP19A1	C0235653	Malignant neoplasm of female breast	DisGeNet	
+CYP1A1	C0235653	Malignant neoplasm of female breast	DisGeNet	
+CYP1B1	C0235653	Malignant neoplasm of female breast	DisGeNet	
+ESR1	C0235653	Malignant neoplasm of female breast	DisGeNet	
+AR	C0007104	Female Breast Carcinoma	DisGeNet	
+CYP19A1	C0007104	Female Breast Carcinoma	DisGeNet	
+CYP1A1	C0007104	Female Breast Carcinoma	DisGeNet	
+CYP1B1	C0007104	Female Breast Carcinoma	DisGeNet	
+ESR1	C0007104	Female Breast Carcinoma	DisGeNet	
+ABCB1	C0085215	Ovarian Failure, Premature	DisGeNet	
+AR	C0085215	Ovarian Failure, Premature	DisGeNet	
+CYP19A1	C0085215	Ovarian Failure, Premature	DisGeNet	
+CYP2B6	C0085215	Ovarian Failure, Premature	DisGeNet	
+CYP2C19	C0085215	Ovarian Failure, Premature	DisGeNet	
+CYP2C9	C0085215	Ovarian Failure, Premature	DisGeNet	
+CYP3A4	C0085215	Ovarian Failure, Premature	DisGeNet	
+CYP3A5	C0085215	Ovarian Failure, Premature	DisGeNet	
+ESR1	C0085215	Ovarian Failure, Premature	DisGeNet	
+ALB	C0035457	Rhinitis, Allergic, Perennial	DisGeNet	
+CYP1A1	C0035457	Rhinitis, Allergic, Perennial	DisGeNet	
+CYP2C19	C0035457	Rhinitis, Allergic, Perennial	DisGeNet	
+CYP2C9	C0035457	Rhinitis, Allergic, Perennial	DisGeNet	
+ABCB1	C0150312	Menopause present (finding)	DisGeNet	
+CYP19A1	C0150312	Menopause present (finding)	DisGeNet	
+CYP1A1	C0150312	Menopause present (finding)	DisGeNet	
+CYP1B1	C0150312	Menopause present (finding)	DisGeNet	
+ESR1	C0150312	Menopause present (finding)	DisGeNet	
+ABCB1	C0948089	Acute Coronary Syndrome	DisGeNet	
+ALB	C0948089	Acute Coronary Syndrome	DisGeNet	
+CYP1A1	C0948089	Acute Coronary Syndrome	DisGeNet	
+CYP2B6	C0948089	Acute Coronary Syndrome	DisGeNet	
+CYP2C19	C0948089	Acute Coronary Syndrome	DisGeNet	
+CYP2C9	C0948089	Acute Coronary Syndrome	DisGeNet	
+CYP3A4	C0948089	Acute Coronary Syndrome	DisGeNet,PheGenI	
+CYP3A43	C0948089	Acute Coronary Syndrome	PheGenI	
+CYP3A5	C0948089	Acute Coronary Syndrome	DisGeNet	
+ESR1	C0948089	Acute Coronary Syndrome	DisGeNet	
+SLCO1A2	C0948089	Acute Coronary Syndrome	PheGenI	
+ABCG2	C0919532	Genomic Instability	DisGeNet	
+CYP1A1	C0919532	Genomic Instability	DisGeNet	
+CYP1B1	C0919532	Genomic Instability	DisGeNet	
+CYP2C19	C0919532	Genomic Instability	DisGeNet	
+AR	C0855197	Testicular malignant germ cell tumor	DisGeNet	
+CYP1A1	C0855197	Testicular malignant germ cell tumor	DisGeNet	
+CYP2B6	C0855197	Testicular malignant germ cell tumor	DisGeNet	
+CYP3A5	C0855197	Testicular malignant germ cell tumor	DisGeNet	
+ESR1	C0855197	Testicular malignant germ cell tumor	DisGeNet	
+SLC22A3	C0855197	Testicular malignant germ cell tumor	DisGeNet	
+AR	C0016034	Breast Fibrocystic Disease	DisGeNet	
+CYP19A1	C0016034	Breast Fibrocystic Disease	DisGeNet	
+CYP1A1	C0016034	Breast Fibrocystic Disease	DisGeNet	
+CYP1B1	C0016034	Breast Fibrocystic Disease	DisGeNet	
+ESR1	C0016034	Breast Fibrocystic Disease	DisGeNet	
+AR	C1291314	21-hydroxylase deficiency	DisGeNet	
+CYP2B6	C1291314	21-hydroxylase deficiency	DisGeNet	
+CYP2C19	C1291314	21-hydroxylase deficiency	DisGeNet	
+CYP3A4	C1291314	21-hydroxylase deficiency	DisGeNet	
+AR	C0014130	Disorder of endocrine system	DisGeNet	
+CYP19A1	C0014130	Disorder of endocrine system	DisGeNet	
+CYP1B1	C0014130	Disorder of endocrine system	DisGeNet	
+CYP2B6	C0014130	Disorder of endocrine system	DisGeNet	
+ESR1	C0014130	Disorder of endocrine system	DisGeNet	
+AR	C1268717	Mammographic breast density	DisGeNet	
+CYP19A1	C1268717	Mammographic breast density	DisGeNet	
+CYP1A1	C1268717	Mammographic breast density	DisGeNet	
+CYP1B1	C1268717	Mammographic breast density	DisGeNet	
+ESR1	C1268717	Mammographic breast density	DisGeNet	
+ALB	C0027707	Tubulointerstitial nephritis	DisGeNet	
+AR	C0027707	Tubulointerstitial nephritis	DisGeNet	
+CYP2C19	C0027707	Tubulointerstitial nephritis	DisGeNet	
+CYP2C9	C0027707	Tubulointerstitial nephritis	DisGeNet	
+ABCB1	C0029445	Bone necrosis	DisGeNet	
+CYP2C8	C0029445	Bone necrosis	DisGeNet	
+CYP3A4	C0029445	Bone necrosis	DisGeNet	
+ESR1	C0029445	Bone necrosis	DisGeNet	
+AR	C0042138	Uterine neoplasm	DisGeNet	
+CYP19A1	C0042138	Uterine neoplasm	DisGeNet	
+CYP1A1	C0042138	Uterine neoplasm	DisGeNet	
+CYP1B1	C0042138	Uterine neoplasm	DisGeNet	
+ESR1	C0042138	Uterine neoplasm	DisGeNet	

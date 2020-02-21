@@ -1,0 +1,124 @@
+Gene	CUI	Source Databases	
+ABCC2	C0020433	Hyperbilirubinemia	DisGeNet,HumPhenOnt	
+ABCC3	C0020433	Hyperbilirubinemia	DisGeNet	
+UGT1A	C0020433	Hyperbilirubinemia	DisGeNet	
+UGT1A1	C0020433	Hyperbilirubinemia	DisGeNet,HumPhenOnt	
+UGT1A10	C0020433	Hyperbilirubinemia	DisGeNet	
+UGT1A6	C0020433	Hyperbilirubinemia	DisGeNet	
+UGT1A7	C0020433	Hyperbilirubinemia	DisGeNet	
+UGT1A8	C0020433	Hyperbilirubinemia	DisGeNet	
+UGT1A9	C0020433	Hyperbilirubinemia	DisGeNet	
+ABCC2	C0013182	Drug Allergy	DisGeNet	
+CYP2C19	C0013182	Drug Allergy	DisGeNet	
+CYP2C8	C0013182	Drug Allergy	DisGeNet	
+CYP3A4	C0013182	Drug Allergy	DisGeNet	
+UGT1A1	C0013182	Drug Allergy	DisGeNet	
+UGT1A7	C0013182	Drug Allergy	DisGeNet	
+UGT1A8	C0013182	Drug Allergy	DisGeNet	
+UGT1A9	C0013182	Drug Allergy	DisGeNet	
+UGT1A	C0011226	Hepatitis D Infection	DisGeNet	
+UGT1A1	C0011226	Hepatitis D Infection	DisGeNet	
+UGT1A10	C0011226	Hepatitis D Infection	DisGeNet	
+UGT1A6	C0011226	Hepatitis D Infection	DisGeNet	
+UGT1A7	C0011226	Hepatitis D Infection	DisGeNet	
+UGT1A8	C0011226	Hepatitis D Infection	DisGeNet	
+UGT1A9	C0011226	Hepatitis D Infection	DisGeNet	
+ABCC1	C0023530	Leukopenia	DisGeNet	
+ABCC11	C0023530	Leukopenia	DisGeNet	
+ABCC2	C0023530	Leukopenia	DisGeNet	
+ABCC3	C0023530	Leukopenia	DisGeNet	
+ABCC4	C0023530	Leukopenia	DisGeNet	
+CYP2C8	C0023530	Leukopenia	DisGeNet	
+CYP3A4	C0023530	Leukopenia	DisGeNet	
+UGT1A	C0023530	Leukopenia	DisGeNet	
+UGT1A1	C0023530	Leukopenia	DisGeNet	
+UGT1A6	C0023530	Leukopenia	DisGeNet	
+UGT1A7	C0023530	Leukopenia	DisGeNet	
+UGT1A8	C0023530	Leukopenia	DisGeNet	
+UGT1A9	C0023530	Leukopenia	DisGeNet	
+ABCC3	C0008350	Cholelithiasis	DisGeNet	
+SLCO1A2	C0008350	Cholelithiasis	DisGeNet	
+UGT1A	C0008350	Cholelithiasis	DisGeNet	
+UGT1A1	C0008350	Cholelithiasis	DisGeNet,PheGenI	
+UGT1A10	C0008350	Cholelithiasis	PheGenI	
+UGT1A6	C0008350	Cholelithiasis	DisGeNet,PheGenI	
+UGT1A7	C0008350	Cholelithiasis	PheGenI	
+UGT1A8	C0008350	Cholelithiasis	PheGenI	
+UGT1A9	C0008350	Cholelithiasis	PheGenI	
+UGT1A	C0746883	Febrile Neutropenia	DisGeNet	
+UGT1A1	C0746883	Febrile Neutropenia	DisGeNet	
+UGT1A6	C0746883	Febrile Neutropenia	DisGeNet	
+UGT1A7	C0746883	Febrile Neutropenia	DisGeNet	
+ABCC2	C0005398	Extrahepatic cholestasis	DisGeNet	
+ABCC3	C0005398	Extrahepatic cholestasis	DisGeNet	
+SLC22A1	C0005398	Extrahepatic cholestasis	DisGeNet	
+SLC22A2	C0005398	Extrahepatic cholestasis	DisGeNet	
+ABCC2	C0008372	Intrahepatic cholestasis	DisGeNet	
+ABCC3	C0008372	Intrahepatic cholestasis	DisGeNet	
+ABCC4	C0008372	Intrahepatic cholestasis	DisGeNet	
+SLC22A1	C0008372	Intrahepatic cholestasis	DisGeNet	
+SLC22A2	C0008372	Intrahepatic cholestasis	DisGeNet	
+ABCC1	C0041755	Adverse drug events and drug allergies	DisGeNet	
+ABCC2	C0041755	Adverse drug events and drug allergies	DisGeNet	
+ABCC4	C0041755	Adverse drug events and drug allergies	DisGeNet	
+ALB	C0041755	Adverse drug events and drug allergies	DisGeNet	
+UGT1A1	C0041755	Adverse drug events and drug allergies	DisGeNet	
+ABCC1	C0027947	Neutropenia	DisGeNet	
+ABCC2	C0027947	Neutropenia	DisGeNet	
+CYP2C19	C0027947	Neutropenia	DisGeNet	
+CYP2C8	C0027947	Neutropenia	DisGeNet	
+CYP3A4	C0027947	Neutropenia	DisGeNet	
+UGT1A	C0027947	Neutropenia	DisGeNet	
+UGT1A1	C0027947	Neutropenia	DisGeNet	
+UGT1A7	C0027947	Neutropenia	DisGeNet	
+UGT1A9	C0027947	Neutropenia	DisGeNet	
+ABCC5	C0018772	Hearing Loss, Partial	DisGeNet	
+UGT1A1	C0018772	Hearing Loss, Partial	DisGeNet	
+UGT1A10	C0018772	Hearing Loss, Partial	DisGeNet	
+UGT1A6	C0018772	Hearing Loss, Partial	DisGeNet	
+UGT1A7	C0018772	Hearing Loss, Partial	DisGeNet	
+UGT1A8	C0018772	Hearing Loss, Partial	DisGeNet	
+UGT1A9	C0018772	Hearing Loss, Partial	DisGeNet	
+ABCC1	C0008312	Primary biliary cirrhosis	DisGeNet	
+ABCC2	C0008312	Primary biliary cirrhosis	DisGeNet	
+ABCC3	C0008312	Primary biliary cirrhosis	DisGeNet	
+ABCC4	C0008312	Primary biliary cirrhosis	DisGeNet	
+ABCC5	C0008312	Primary biliary cirrhosis	DisGeNet	
+ABCC6	C0008312	Primary biliary cirrhosis	DisGeNet	
+ALB	C0008312	Primary biliary cirrhosis	DisGeNet	
+CYP3A4	C0008312	Primary biliary cirrhosis	DisGeNet	
+SLC22A1	C0008312	Primary biliary cirrhosis	DisGeNet	
+ALB	C0022660	Acute kidney injury	DisGeNet	
+CYP2C19	C0022660	Acute kidney injury	DisGeNet	
+CYP3A4	C0022660	Acute kidney injury	DisGeNet	
+SLC22A1	C0022660	Acute kidney injury	DisGeNet	
+SLC22A12	C0022660	Acute kidney injury	DisGeNet,HumPhenOnt	
+SLC22A2	C0022660	Acute kidney injury	DisGeNet	
+SLC22A8	C0022660	Acute kidney injury	DisGeNet	
+UGT1A1	C0022660	Acute kidney injury	DisGeNet	
+UGT1A9	C0022660	Acute kidney injury	DisGeNet	
+CYP2C19	C0002895	Anemia, Sickle Cell	DisGeNet	
+SLC22A5	C0002895	Anemia, Sickle Cell	DisGeNet	
+UGT1A	C0002895	Anemia, Sickle Cell	DisGeNet	
+UGT1A1	C0002895	Anemia, Sickle Cell	DisGeNet,PheGenI	
+UGT1A10	C0002895	Anemia, Sickle Cell	PheGenI	
+UGT1A6	C0002895	Anemia, Sickle Cell	PheGenI	
+UGT1A7	C0002895	Anemia, Sickle Cell	PheGenI	
+UGT1A8	C0002895	Anemia, Sickle Cell	PheGenI	
+UGT1A9	C0002895	Anemia, Sickle Cell	PheGenI	
+ABCC3	C0947622	Cholecystolithiasis	DisGeNet	
+SLCO1A2	C0947622	Cholecystolithiasis	DisGeNet	
+UGT1A	C0947622	Cholecystolithiasis	DisGeNet	
+UGT1A1	C0947622	Cholecystolithiasis	DisGeNet	
+UGT1A6	C0947622	Cholecystolithiasis	DisGeNet	
+ABCC2	C0812435	Chromosome 11p deletion syndrome	DisGeNet	
+ABCC4	C0812435	Chromosome 11p deletion syndrome	DisGeNet	
+SLC22A8	C0812435	Chromosome 11p deletion syndrome	DisGeNet	
+ABCC1	C1096063	Drug Resistant Epilepsy	DisGeNet	
+ABCC2	C1096063	Drug Resistant Epilepsy	DisGeNet	
+ALB	C1096063	Drug Resistant Epilepsy	DisGeNet	
+CYP2C19	C1096063	Drug Resistant Epilepsy	DisGeNet	
+ABCC1	C0030286	Neurologic, endocrine, and pancreatic disease, multisystem, infantile-onset	DisGeNet	
+ABCC2	C0030286	Neurologic, endocrine, and pancreatic disease, multisystem, infantile-onset	DisGeNet	
+ALB	C0030286	Neurologic, endocrine, and pancreatic disease, multisystem, infantile-onset	DisGeNet	
+UGT1A7	C0030286	Neurologic, endocrine, and pancreatic disease, multisystem, infantile-onset	DisGeNet	

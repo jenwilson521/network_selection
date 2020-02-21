@@ -1,0 +1,16 @@
+node_name	node_type	
+DB00172	drug	
+L3HYPDH	drug_target	
+PPIB	drug_target	
+P4HA2	drug_target	
+P4HA1	drug_target	
+SLC16A10	drug_target	
+P3H1	drug_target	
+PPIH	drug_target	
+PPIG	drug_target	
+PYCR2	drug_target	
+PYCR1	drug_target	
+PPIC	drug_target	
+EPRS	drug_target	
+PPIA	drug_target	
+PPIF	drug_target	

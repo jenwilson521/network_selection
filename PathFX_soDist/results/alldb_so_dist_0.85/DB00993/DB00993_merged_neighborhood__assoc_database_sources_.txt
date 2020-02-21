@@ -1,0 +1,53 @@
+Gene	CUI	Source Databases	
+GSTA1	C0012860	DNA Damage	DisGeNet	
+GSTM1	C0012860	DNA Damage	DisGeNet	
+TPMT	C0012860	DNA Damage	DisGeNet	
+CYP1A2	C0032229	Pleural Neoplasms	DisGeNet	
+GSTM1	C0032229	Pleural Neoplasms	DisGeNet	
+GSTA1	C0040715	Chromosomal translocation	DisGeNet	
+GSTM1	C0040715	Chromosomal translocation	DisGeNet	
+CYP1A2	C0162566	 {Porphyria cutanea tarda, susceptibility to}, 176100 (3)	DisGeNet	
+GSTM1	C0162566	 {Porphyria cutanea tarda, susceptibility to}, 176100 (3)	DisGeNet	
+CYP1A2	C0919532	Genomic Instability	DisGeNet	
+GSTM1	C0919532	Genomic Instability	DisGeNet	
+CYP1A2	C0241910	Hepatitis, Autoimmune	DisGeNet	
+GSTM1	C0241910	Hepatitis, Autoimmune	DisGeNet	
+TPMT	C0241910	Hepatitis, Autoimmune	DisGeNet	
+GSTM1	C0005956	Myelopathy	DisGeNet	
+TPMT	C0005956	Myelopathy	DisGeNet	
+CYP1A2	C0013386	Dyskinesia, Drug-Induced	DisGeNet	
+GSTM1	C0013386	Dyskinesia, Drug-Induced	DisGeNet	
+GSTA1	C0019045	Hemoglobinopathy	DisGeNet	
+GSTM1	C0019045	Hemoglobinopathy	DisGeNet	
+CYP1A2	C0027497	Nausea	DisGeNet	
+GSTM1	C0027497	Nausea	DisGeNet	
+GSTA1	C0008628	Chromosome Xq28 deletion syndrome	DisGeNet	
+GSTM1	C0008628	Chromosome Xq28 deletion syndrome	DisGeNet	
+CYP1A2	C0031347	Pharyngeal Neoplasms	DisGeNet	
+GSTM1	C0031347	Pharyngeal Neoplasms	DisGeNet	
+CYP1A2	C0686347	Tardive Dyskinesia	DisGeNet	
+GSTM1	C0686347	Tardive Dyskinesia	DisGeNet	
+CYP1A2	C0949059	Colorectal polyposis	DisGeNet	
+GSTA1	C0949059	Colorectal polyposis	DisGeNet	
+GSTM1	C0028797	Occupational Diseases	DisGeNet	
+XDH	C0028797	Occupational Diseases	DisGeNet	
+GSTA1	C0860207	Drug-Induced Liver Injury	DisGeNet	
+GSTM1	C0860207	Drug-Induced Liver Injury	DisGeNet	
+TPMT	C0860207	Drug-Induced Liver Injury	DisGeNet	
+CYP1A2	C1268717	Mammographic breast density	DisGeNet	
+GSTM1	C1268717	Mammographic breast density	DisGeNet	
+CYP1A2	C0152115	Orofacial dyskinesia	DisGeNet	
+GSTM1	C0152115	Orofacial dyskinesia	DisGeNet	
+CYP1A2	C0035220	Neonatal respiratory distress	DisGeNet	
+GSTM1	C0035220	Neonatal respiratory distress	DisGeNet	
+GSTM1	C0013182	Drug Allergy	DisGeNet	
+TPMT	C0013182	Drug Allergy	DisGeNet	
+GSTA1	C0008625	Chromosome Aberrations	DisGeNet	
+GSTM1	C0008625	Chromosome Aberrations	DisGeNet	
+GSTA1	C0236733	Amphetamine-Related Disorders	DisGeNet	
+GSTM1	C0236733	Amphetamine-Related Disorders	DisGeNet	
+GSTM1	C2919828	Chronic ulcerative colitis	DisGeNet	
+TPMT	C2919828	Chronic ulcerative colitis	DisGeNet	
+CYP1A2	C1302401	Adenoma of large intestine	DisGeNet	
+GSTA1	C1302401	Adenoma of large intestine	DisGeNet	
+GSTM1	C1302401	Adenoma of large intestine	DisGeNet	

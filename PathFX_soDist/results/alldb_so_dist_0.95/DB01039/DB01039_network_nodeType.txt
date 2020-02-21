@@ -1,0 +1,22 @@
+node_name	node_type	
+DB01039	drug	
+CYP2C9	drug_target	
+CYP2C8	drug_target	
+NR1I2	drug_target	
+ABCB11	drug_target	
+PPARG	drug_target	
+PPARD	drug_target	
+PPARA	drug_target	
+CYP3A4	drug_target	
+UGT1A1	drug_target	
+Hepatitis D Infection	phenotype	
+Drug Allergy	phenotype	
+Hyperbilirubinemia	phenotype	
+Hearing Loss, Partial	phenotype	
+Cholelithiasis	phenotype	
+Febrile Neutropenia	phenotype	
+Leukopenia	phenotype	
+Neutropenia	phenotype	
+Deafness, autosomal recessive 44	phenotype	
+Anemia, Sickle Cell	phenotype	
+Non-alcoholic Fatty Liver Disease	phenotype	

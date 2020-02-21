@@ -1,0 +1,44 @@
+node_name	node_type	
+DB00909	drug	
+AOX1	drug_target	
+UGT1A1	drug_target	
+CACNA1I	drug_target	
+CACNA1G	drug_target	
+SCN2A	drug_target	
+SCN4A	drug_target	
+SCN1B	drug_target	
+SCN4B	drug_target	
+CA14	drug_target	
+CA12	drug_target	
+CA10	drug_target	
+CYP3A4	drug_target	
+CYP3A5	drug_target	
+CA9	drug_target	
+CA8	drug_target	
+CA3	drug_target	
+CA2	drug_target	
+CA1	drug_target	
+CA6	drug_target	
+CA4	drug_target	
+MAOB	drug_target	
+MAOA	drug_target	
+CYP2C19	drug_target	
+SCN1A	drug_target	
+SCN5A	drug_target	
+SCN3A	drug_target	
+Hepatitis D Infection	phenotype	
+Febrile Neutropenia	phenotype	
+Drug Allergy	phenotype	
+Hyperbilirubinemia	phenotype	
+Hearing Loss, Partial	phenotype	
+Cholelithiasis	phenotype	
+Anemia, Sickle Cell	phenotype	
+Drug Resistant Epilepsy	phenotype	
+Primary malignant neoplasm of liver	phenotype	
+Leukopenia	phenotype	
+Severe myoclonic epilepsy in infancy	phenotype	
+Neutropenia	phenotype	
+Deafness, autosomal recessive 44	phenotype	
+Diarrhea 8, secretory sodium, congenital	phenotype	
+Epilepsy, focal, with speech disorder and with or without mental retardation	phenotype	
+Channelopathies	phenotype	

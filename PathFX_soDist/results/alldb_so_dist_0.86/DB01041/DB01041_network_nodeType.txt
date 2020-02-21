@@ -1,0 +1,89 @@
+node_name	node_type	
+DB01041	drug	
+CYP2C9	drug_target	
+PTGS2	drug_target	
+PTGS1	drug_target	
+CYP1A1	drug_target	
+CYP2E1	drug_target	
+TNF	drug_target	
+CYP2C19	drug_target	
+NFKB1	drug_target	
+CYP3A5	drug_target	
+FGFR2	drug_target	
+CRBN	drug_target	
+Stomach Diseases	phenotype	
+Rhinitis, Allergic, Perennial	phenotype	
+Peptic ulcer	phenotype	
+Squamous Cell Neoplasms	phenotype	
+Helicobacter Infections	phenotype	
+Thromboembolism	phenotype	
+Drug Allergy	phenotype	
+Thrombosis	phenotype	
+Neoplasm of the larynx	phenotype	
+Oral Submucous Fibrosis	phenotype	
+Pleural Neoplasms	phenotype	
+Esophagitis	phenotype	
+Neoplasms, Germ Cell and Embryonal	phenotype	
+Gastric ulcer	phenotype	
+Colorectal polyposis	phenotype	
+Drug-Induced Liver Injury	phenotype	
+Bleeding with minor or no trauma	phenotype	
+Peptic Ulcer Hemorrhage	phenotype	
+Helicobacter pylori infection	phenotype	
+Genomic Instability	phenotype	
+Duodenal Ulcer	phenotype	
+End Stage Liver Disease	phenotype	
+Lichen Planus, Oral	phenotype	
+Pancreatitis, Alcoholic	phenotype	
+Chronic liver disease	phenotype	
+Neurotoxicity Syndromes	phenotype	
+Lupus Nephritis	phenotype	
+Acute Coronary Syndrome	phenotype	
+Anaphylactic shock NOS	phenotype	
+Head and Neck Neoplasms	phenotype	
+SUDDEN INFANT DEATH SYNDROME	phenotype	
+Acute Cerebrovascular Accidents	phenotype	
+Neuritis	phenotype	
+Arthritis, Reactive	phenotype	
+Liver Cirrhosis, Alcoholic	phenotype	
+Peptic Esophagitis	phenotype	
+Leukoplakia	phenotype	
+Prenatal Exposure Delayed Effects	phenotype	
+Squamous intraepithelial lesion	phenotype	
+Nausea	phenotype	
+Dyspepsia	phenotype	
+Respiratory Tract Diseases	phenotype	
+Endometriosis of uterus	phenotype	
+Medullary carcinoma	phenotype	
+Chronic atrophic gastritis	phenotype	
+Adverse drug events and drug allergies	phenotype	
+Colonic Polyps	phenotype	
+Idiopathic Inflammatory Myopathies	phenotype	
+Arthritis, Psoriatic	phenotype	
+Breast Fibrocystic Disease	phenotype	
+Pharyngeal Neoplasms	phenotype	
+Neurodegeneration with brain iron accumulation 4	phenotype	
+Reperfusion Injury	phenotype	
+Hypercholesterolemia, autosomal dominant, type B	phenotype	
+Drug Eruptions	phenotype	
+Primary malignant neoplasm of liver	phenotype	
+Latent Tuberculosis	phenotype	
+Occupational Diseases	phenotype	
+Musculoskeletal Diseases	phenotype	
+Pregnancy Complications, Hematologic	phenotype	
+Neoplasms, Multiple Primary	phenotype	
+Tuberculosis, Pulmonary	phenotype	
+Acute Lung Injury	phenotype	
+Malignant neoplasm of pharynx	phenotype	
+Neoplasm of the oral cavity	phenotype	
+Echinococcosis	phenotype	
+Lung Injury	phenotype	
+Early gastric cancer	phenotype	
+Malignant neoplasm of vulva	phenotype	
+Oral leukoplakia	phenotype	
+Postoperative Complications	phenotype	
+Complications of Diabetes Mellitus	phenotype	
+Periodontitis	phenotype	
+Old myocardial infarction	phenotype	
+gastritis h pylori	phenotype	
+Proteinuria Adverse Event	phenotype	

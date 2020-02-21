@@ -1,0 +1,5 @@
+node1	node2	edge_score	
+DB05990	NR1H4	1.0	
+DB05990	CYP1A2	1.0	
+DB05990	BAAT	1.0	
+

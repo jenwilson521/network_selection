@@ -1,0 +1,70 @@
+Gene	CUI	Source Databases	
+CHRNA4	C0270853	Juvenile myoclonic epilepsy	DisGeNet	
+CHRNA7	C0270853	Juvenile myoclonic epilepsy	DisGeNet	
+CHRNA4	C0270850	Idiopathic generalized epilepsy	DisGeNet	
+CHRNA7	C0270850	Idiopathic generalized epilepsy	DisGeNet	
+CHRNA4	C0014548	Epilepsy, generalized, with febrile seizures plus, type 6 (2)	DisGeNet	
+CHRNA7	C0014548	Epilepsy, generalized, with febrile seizures plus, type 6 (2)	DisGeNet	
+CHRNA4	C1836598	Incomplete penetrance	HumPhenOnt	
+CHRNA7	C1836598	Incomplete penetrance	HumPhenOnt	
+CHRNA4	C0038644	SUDDEN INFANT DEATH SYNDROME	DisGeNet	
+CHRNA7	C0038644	SUDDEN INFANT DEATH SYNDROME	DisGeNet	
+CHRNA4	C0028043	Nicotine Dependence	DisGeNet	
+CHRNA7	C0028043	Nicotine Dependence	DisGeNet	
+CHRNA4	C0752347	Lewy Body Disease	DisGeNet	
+CHRNA7	C0752347	Lewy Body Disease	DisGeNet	
+CHRNA4	C1270972	Mild cognitive impairment	DisGeNet	
+CHRNA7	C1270972	Mild cognitive impairment	DisGeNet	
+CHRNA4	C2911647	Weight Gain Adverse Event	DisGeNet	
+CHRNA7	C2911647	Weight Gain Adverse Event	DisGeNet	
+CHRNA4	C0751785	Unverricht-Lundborg syndrome	DisGeNet	
+CHRNA4	C0687132	heavy drinking	DisGeNet	
+CHRNA7	C0031212	Personality disorder	DisGeNet	
+CHRNA4	C0011265	Dementia familial British	DisGeNet	
+CHRNA7	C0011265	Dementia familial British	DisGeNet	
+CHRNA7	C0525041	Neurobehavioral Manifestations	DisGeNet	
+CHRNA7	C0025312	Myelomeningocele	DisGeNet	
+CHRNA4	C0150055	Chronic pain	DisGeNet	
+CHRNA4	C0026106	Mild Mental Retardation	DisGeNet	
+CHRNA7	C0030807	Pemphigus	DisGeNet	
+CHRNA4	C0033054	Prenatal Exposure Delayed Effects	DisGeNet	
+CHRNA4	C0344307	Pain insensitivity	DisGeNet	
+CHRNA4	C0014547	Epilepsy, focal, with speech disorder and with or without mental retardation	DisGeNet	
+CHRNA7	C0008628	Chromosome Xq28 deletion syndrome	DisGeNet	
+CHRNA7	C0025261	Memory Disorders	DisGeNet	
+CHRNA4	C0751495	Focal seizures	HumPhenOnt	
+CHRNA4	C1720983	Channelopathies	DisGeNet	
+CHRNA4	C0751882	Congenital myasthenic syndrome	DisGeNet	
+CHRNA7	C0003944	As If Personality	DisGeNet	
+CHRNA4	C0009241	Cognition Disorders	DisGeNet	
+CHRNA7	C0431447	Synophrys	HumPhenOnt	
+CHRNA7	C0220704	Shprintzen syndrome	DisGeNet	
+CHRNA4	C1837514	Phenotypic variability	HumPhenOnt	
+CHRNA7	C1837514	Phenotypic variability	HumPhenOnt	
+CHRNA7	C0023015	Language impairment	DisGeNet	
+CHRNA4	C1842981	NEUROTICISM	DisGeNet	
+CHRNA4	C0004936	Mental disorders	DisGeNet	
+CHRNA7	C0004936	Mental disorders	DisGeNet	
+CHRNA7	C1851400	Facial hypertrichosis	HumPhenOnt	
+CHRNA4	C0013080	Down Syndrome	DisGeNet	
+CHRNA7	C0013080	Down Syndrome	DisGeNet	
+CHRNA4	C0497327	Dementia	DisGeNet	
+CHRNA7	C0497327	Dementia	DisGeNet	
+CHRNA4	C1862941	Amyotrophic Lateral Sclerosis, Sporadic	DisGeNet	
+CHRNA4	C1269683	Major depressive disorder	DisGeNet	
+CHRNA7	C1269683	Major depressive disorder	DisGeNet	
+CHRNA7	C0038587	Substance Withdrawal Syndrome	DisGeNet	
+CHRNA7	C0036337	Schizoaffective Disorder	DisGeNet	
+CHRNA4	C0043094	Increased body weight	DisGeNet	
+CHRNA7	C0043094	Increased body weight	DisGeNet	
+CHRNA7	C0011269	Dementia, Vascular	DisGeNet	
+CHRNA7	C4025790	Specific learning disability	HumPhenOnt	
+CHRNA4	C1263846	Attention deficit hyperactivity disorder	DisGeNet	
+CHRNA7	C1263846	Attention deficit hyperactivity disorder	DisGeNet,HumPhenOnt	
+CHRNA4	C0009952	Febrile seizures, familial, 4	DisGeNet	
+CHRNA4	C0012860	DNA Damage	DisGeNet	
+CHRNA4	C0851578	Sleep Wake Disorders	DisGeNet	
+CHRNA7	C0024809	Marijuana Abuse	DisGeNet	
+CHRNA4	C0013146	Methamphetamine abuse	DisGeNet	
+CHRNA7	C1855285	Protruding ear	HumPhenOnt	
+CHRNA7	C0032897	Prader-Willi syndrome	DisGeNet	

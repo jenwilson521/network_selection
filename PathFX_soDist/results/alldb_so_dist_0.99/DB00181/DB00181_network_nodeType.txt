@@ -1,0 +1,4 @@
+node_name	node_type	
+DB00181	drug	
+GABBR1	drug_target	
+GABBR2	drug_target	

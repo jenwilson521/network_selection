@@ -1,0 +1,5 @@
+node1	node2	edge_score	
+DB01390	SLC4A4	1.0	
+DB01390	SLC4A7	1.0	
+DB01390	SLC4A8	1.0	
+

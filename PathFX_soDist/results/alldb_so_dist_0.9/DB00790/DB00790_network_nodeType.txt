@@ -1,0 +1,93 @@
+node_name	node_type	
+DB00790	drug	
+SLC15A2	drug_target	
+BCHE	drug_target	
+ACE	drug_target	
+Aural atresia, congenital	phenotype	
+Memory Loss	phenotype	
+Cognition Disorders	phenotype	
+Sleep apnea	phenotype	
+Postoperative Complications	phenotype	
+Hereditary hyperhomocysteinemia	phenotype	
+Hypertriglyceridemia	phenotype	
+Lewy Body Disease	phenotype	
+Mild cognitive impairment	phenotype	
+Tachycardia	phenotype	
+Weight Gain Adverse Event	phenotype	
+Chronic berylliosis	phenotype	
+High altitude pulmonary edema	phenotype	
+Recurrent major depressive episodes	phenotype	
+Aneurysm, Ruptured	phenotype	
+Thrombophilia due to activated protein C resistance	phenotype	
+Esophageal varix	phenotype	
+Steroid-sensitive nephrotic syndrome	phenotype	
+genetic hypertension	phenotype	
+Cardiovascular morbidity	phenotype	
+Adrenal Gland Hyperfunction	phenotype	
+Otosclerosis	phenotype	
+Thrombosis of retinal vein	phenotype	
+Early gastric cancer	phenotype	
+Cystic Fibrosis	phenotype	
+Aortic Diseases	phenotype	
+Recurrent E. coli infections	phenotype	
+Femur Head Necrosis	phenotype	
+Chromosomal translocation	phenotype	
+Old myocardial infarction	phenotype	
+Aortic atherosclerosis	phenotype	
+Proliferative retinopathy	phenotype	
+Acute pyelonephritis	phenotype	
+Proteinuria Adverse Event	phenotype	
+Pancreatic fibrosis	phenotype	
+Aortic valve calcification	phenotype	
+Intermittent claudication	phenotype	
+Puerperal Disorders	phenotype	
+Interstitial lung and liver disease	phenotype	
+Abnormal urine output	phenotype	
+Secondary hyperparathyroidism	phenotype	
+Normal pressure hydrocephalus	phenotype	
+Rhabdomyolysis	phenotype	
+Staphylococcal Infections	phenotype	
+Anterior myocardial infarction	phenotype	
+Enzyme inhibition disorder	phenotype	
+Cushing's syndrome	phenotype	
+Renal hypertension	phenotype	
+Rheumatic fever / chorea	phenotype	
+Seasonal Affective Disorder	phenotype	
+Aortic aneurysm without mention of rupture NOS	phenotype	
+Hypervolemia	phenotype	
+Erythrocytosis	phenotype	
+Steroid-resistant nephrotic syndrome	phenotype	
+Antisocial Personality Disorder	phenotype	
+Rhinitis, Allergic, Perennial	phenotype	
+childhood brain tumor	phenotype	
+Diastrophic dysplasia	phenotype	
+Resistance to activated protein C	phenotype	
+Alport syndrome	phenotype	
+Abnormality of renal excretion	phenotype	
+Churg-Strauss Syndrome	phenotype	
+Peptic Ulcer Hemorrhage	phenotype	
+Chronic schizophrenia	phenotype	
+Sudden death	phenotype	
+Lipoid nephrosis	phenotype	
+Acute postoperative pain	phenotype	
+Diabetic foot ulcer	phenotype	
+Community acquired pneumonia	phenotype	
+Post MI	phenotype	
+Peripheral artery occlusive disease	phenotype	
+Gangrene	phenotype	
+Nephrosclerosis	phenotype	
+Pregnancy associated hypertension	phenotype	
+Coronary Thrombosis	phenotype	
+Cerebroretinal microangiopathy with calcifications and cysts 1	phenotype	
+Cholestasis of pregnancy	phenotype	
+Myasthenia Gravis	phenotype	
+Exfoliation Syndrome	phenotype	
+Neurotoxicity Syndromes	phenotype	
+Granulomatosis	phenotype	
+Arterial Occlusive Diseases	phenotype	
+Arteriovenous fistula	phenotype	
+Low back pain	phenotype	
+Chronic rejection of renal transplant	phenotype	
+Hypotension, Orthostatic	phenotype	
+Unilateral renal agenesis	phenotype	
+Gestational trophoblastic disease	phenotype	

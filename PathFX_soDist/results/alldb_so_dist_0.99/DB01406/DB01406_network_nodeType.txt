@@ -1,0 +1,9 @@
+node_name	node_type	
+DB01406	drug	
+CCL2	drug_target	
+ESR1	drug_target	
+CYP19A1	drug_target	
+SHBG	drug_target	
+AR	drug_target	
+PGR	drug_target	
+CYP3A4	drug_target	

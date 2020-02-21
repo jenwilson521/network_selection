@@ -1,0 +1,9 @@
+node_name	node_type	
+DB09502	drug	
+HK1	drug_target	
+SLC2A5	drug_target	
+SLC2A4	drug_target	
+SLC2A3	drug_target	
+SLC2A2	drug_target	
+SLC2A1	drug_target	
+SLC2A12	drug_target	

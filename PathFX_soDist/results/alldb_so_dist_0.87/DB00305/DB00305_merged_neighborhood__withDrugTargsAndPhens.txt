@@ -1,0 +1,322 @@
+node1	node2	edge_score	
+DB00305	POR	1.0	
+POR		1.0
+Aplasia involving bones of the extremities	POR	1.0	
+Primary adrenal insufficiency	POR	1.0	
+Adenomas, multiple colorectal, 608456 (3)	POR	1.0	
+Adrenal insufficiency	POR	1.0	
+Congenital adrenal hyperplasia	POR	1.0	
+Amenorrhea	POR	1.0	
+Arachnodactyly	POR	1.0	
+Arnold-Chiari malformation	POR	1.0	
+Autism 15	POR	1.0	
+Urinary Bladder Neoplasms	POR	1.0	
+Abnormal systemic blood pressure	POR	1.0	
+Bone Diseases	POR	1.0	
+Breast-ovarian cancer, familial 1	POR	1.0	
+Neoplastic Cell Transformation	POR	1.0	
+Cerebellar malformation	POR	1.0	
+Choanal atresia	POR	1.0	
+Colorectal cancer 1	POR	1.0	
+Craniosynostoses	POR	1.0	
+Cryptorchidism	POR	1.0	
+Diabetes Mellitus, Type 1	POR	1.0	
+Gallbladder disease 4	POR	1.0	
+Short stature, rhizomelic, with microcephaly, micrognathia, and developmental delay	POR	1.0	
+Proptosis	POR	1.0	
+Abnormality of the eye	POR	1.0	
+Abnormality of femur morphology	POR	1.0	
+Abnormality of the foot	POR	1.0	
+Glioma	POR	1.0	
+Abnormality of the hand	POR	1.0	
+Conductive hearing impairment	POR	1.0	
+Heart Defects, Congenital	POR	1.0	
+Ventricular septal defect 2	POR	1.0	
+Atrial septal defect	POR	1.0	
+Hirsutism	POR	1.0	
+Symptomatic human immunodeficiency virus infection	POR	1.0	
+Hydrocephalus	POR	1.0	
+Familial hypercholesterolemia	POR	1.0	
+Hyperlipidemia, combined, 1	POR	1.0	
+Hyperpituitarism	POR	1.0	
+Hypertelorism	POR	1.0	
+Hypertension	POR	1.0	
+Hypotension	POR	1.0	
+Learning Disorders	POR	1.0	
+Lung Neoplasms	POR	1.0	
+Animal Mammary Neoplasms	POR	1.0	
+Microcephaly 16, primary, autosomal recessive	POR	1.0	
+Abnormality of the mouth	POR	1.0	
+Osteoporosis	POR	1.0	
+Ovarian cyst	POR	1.0	
+Abnormality of the pituitary gland	POR	1.0	
+Polycystic Ovary Syndrome	POR	1.0	
+Puberty and gonadal disorders	POR	1.0	
+Delayed puberty	POR	1.0	
+Scoliosis	POR	1.0	
+Abnormality of the skin	POR	1.0	
+Synostosis involving bones of the feet	POR	1.0	
+Abnormality of the genitourinary system	POR	1.0	
+Oligohydramnios	POR	1.0	
+Abnormality of bladder morphology	POR	1.0	
+Abnormal CSF metabolite level	POR	1.0	
+Decreased fertility in females	POR	1.0	
+Decreased fertility in males	POR	1.0	
+Clitoral hypertrophy	POR	1.0	
+Menstrual irregularities	POR	1.0	
+Abnormality of the hair	POR	1.0	
+Joint contracture of the hand	POR	1.0	
+Radioulnar synostosis	POR	1.0	
+Abnormality of the vertebrae	POR	1.0	
+Hyperpigmentation of the skin	POR	1.0	
+Abnormal QRS complex	POR	1.0	
+Decreased beta-glucocerebrosidase protein and activity	POR	1.0	
+Increased analgesia from kappa-opioid receptor agonist, female-specific	POR	1.0	
+Adrenocortical adenoma	POR	1.0	
+gliosarcoma	POR	1.0	
+Horseshoe kidney	POR	1.0	
+Frontal bossing	POR	1.0	
+Brachycephaly	POR	1.0	
+Camptodactyly, tall stature, and hearing loss syndrome	POR	1.0	
+Abnormality of the skull	POR	1.0	
+Small for gestational age	POR	1.0	
+Male pseudohermaphroditism	POR	1.0	
+Low-set ears	POR	1.0	
+Abnormality of limbs	POR	1.0	
+Abnormal joint morphology	POR	1.0	
+Vertical talus, congenital	POR	1.0	
+Tall stature	POR	1.0	
+Decreased testicular size	POR	1.0	
+Abnormality of blood and blood-forming tissues	POR	1.0	
+Malignant neoplasm of lung	POR	1.0	
+Abnormality of cardiovascular system electrophysiology	POR	1.0	
+Growth abnormality	POR	1.0	
+Laryngomalacia	POR	1.0	
+Aortic dilatation	POR	1.0	
+Clinodactyly	POR	1.0	
+Hemivertebrae	POR	1.0	
+Abnormality of the nose	POR	1.0	
+Abnormality of the digestive system	POR	1.0	
+Congenital anomalies of kidney and urinary tract 1, susceptibility to	POR	1.0	
+Ambiguous genitalia	POR	1.0	
+Abnormality of the testis	POR	1.0	
+Hypoplasia of penis	POR	1.0	
+Abnormality of the ear	POR	1.0	
+Abnormality of the amniotic fluid	POR	1.0	
+Flexion contracture	POR	1.0	
+Adrenal hyperplasia	POR	1.0	
+Abnormality of the atrial septum	POR	1.0	
+Dilatation of the ascending aorta	POR	1.0	
+Decreased head circumference	POR	1.0	
+Narrow chest	POR	1.0	
+Scrotal hypoplasia	POR	1.0	
+Carpal synostosis	POR	1.0	
+Vertebral segmentation defect	POR	1.0	
+Autosomal recessive inheritance	POR	1.0	
+Growth delay	POR	1.0	
+Large fontanelles	POR	1.0	
+Abnormality of the nervous system	POR	1.0	
+Chronic active hepatitis	POR	1.0	
+Decreased fertility	POR	1.0	
+Delayed skeletal maturation	POR	1.0	
+Bowing of limbs due to multiple fractures	POR	1.0	
+Accelerated skeletal maturation	POR	1.0	
+Abnormal serum testosterone level	POR	1.0	
+Breast carcinoma	POR	1.0	
+Neurodevelopmental abnormality	POR	1.0	
+Lung cancer	POR	1.0	
+Acne	POR	1.0	
+Abnormal morphology of the great vessels	POR	1.0	
+Abnormality of the genital system	POR	1.0	
+Hypospadias	POR	1.0	
+Urogenital fistula	POR	1.0	
+Abnormality of head or neck	POR	1.0	
+Abnormality of the pinna	POR	1.0	
+Decreased serum testosterone level	POR	1.0	
+Abnormality of the lower limb	POR	1.0	
+Female sexual dysfunction	POR	1.0	
+Squamous cell carcinoma of the head and neck	POR	1.0	
+Abnormality of skin pigmentation	POR	1.0	
+Decreased body weight	POR	1.0	
+Abnormalities of placenta or umbilical cord	POR	1.0	
+Hearing impairment	POR	1.0	
+Colorectal cancer	POR	1.0	
+Abnormality of T cell count	POR	1.0	
+Depressed nasal bridge	POR	1.0	
+Thoracic hypoplasia	POR	1.0	
+Abnormal form of the vertebral bodies	POR	1.0	
+Flexion contracture of digit	POR	1.0	
+Abnormality of the carpal bones	POR	1.0	
+Abnormality of the outer ear	POR	1.0	
+Labial hypoplasia	POR	1.0	
+Hypoplastic male external genitalia	POR	1.0	
+Midface hypoplasia, hearing impairment, elliptocytosis, and nephrocalcinosis	POR	1.0	
+External genital hypoplasia	POR	1.0	
+Bowing of the long bones	POR	1.0	
+Abnormality of the vagina	POR	1.0	
+Abnormality of the philtrum	POR	1.0	
+Slender finger	POR	1.0	
+Malar flattening	POR	1.0	
+Long fingers	POR	1.0	
+Femoral bowing	POR	1.0	
+Abnormality of the middle ear	POR	1.0	
+Abnormality of the tarsal bones	POR	1.0	
+Long philtrum	POR	1.0	
+Abnormality of the cerebellum	POR	1.0	
+Wide anterior fontanel	POR	1.0	
+Limb joint contracture	POR	1.0	
+Abnormality of the lip	POR	1.0	
+Abnormality of facial skeleton	POR	1.0	
+Reduced bone mineral density	POR	1.0	
+Abnormality of finger	POR	1.0	
+Contractures of the joints of the upper limbs	POR	1.0	
+Abnormality of digit	POR	1.0	
+Intellectual developmental disorder with dysmorphic facies and ptosis	POR	1.0	
+Inflammatory abnormality of the skin	POR	1.0	
+Abnormality of the respiratory system	POR	1.0	
+Abnormality of fontanelles	POR	1.0	
+Abnormality of pelvic girdle bone morphology	POR	1.0	
+Abnormality of abdomen morphology	POR	1.0	
+Abnormality of the upper limb	POR	1.0	
+Displacement of the external urethral meatus	POR	1.0	
+Abnormality of forebrain morphology	POR	1.0	
+Abnormal localization of kidney	POR	1.0	
+Abnormality of lower limb joint	POR	1.0	
+Synostosis of carpals/tarsals	POR	1.0	
+Abnormal tendon morphology	POR	1.0	
+Abnormality of brain morphology	POR	1.0	
+Abnormal genital system morphology	POR	1.0	
+Abnormality of long bone morphology	POR	1.0	
+Abnormality of hindbrain morphology	POR	1.0	
+Abnormality of the systemic arterial tree	POR	1.0	
+Abnormality of the elbow	POR	1.0	
+Abnormality of upper limb joint	POR	1.0	
+Absence of secondary sex characteristics	POR	1.0	
+Anomaly of the limb diaphyses	POR	1.0	
+Abnormality of the tracheobronchial system	POR	1.0	
+Abnormality of bone mineral density	POR	1.0	
+Abnormality of the humerus	POR	1.0	
+Abnormality of the wrist	POR	1.0	
+Abnormality of the musculature	POR	1.0	
+Abnormality of the immune system	POR	1.0	
+Abnormality of the cerebrum	POR	1.0	
+Morphological abnormality of the central nervous system	POR	1.0	
+Abnormality of metabolism/homeostasis	POR	1.0	
+Abnormality of the larynx	POR	1.0	
+Abnormal diaphysis morphology	POR	1.0	
+Abnormality of the vertebral column	POR	1.0	
+Abnormality of the skeletal system	POR	1.0	
+Abnormality of the adrenal glands	POR	1.0	
+Abnormality of the thorax	POR	1.0	
+Abnormality of the nasal bridge	POR	1.0	
+Abnormality of the auditory canal	POR	1.0	
+Abnormal location of ears	POR	1.0	
+Abnormality of the midface	POR	1.0	
+Abnormality of the head	POR	1.0	
+Abnormality of the ovary	POR	1.0	
+Abnormality of reproductive system physiology	POR	1.0	
+Abnormality of the urinary system	POR	1.0	
+Abnormality of female external genitalia	POR	1.0	
+Abnormality of the calf	POR	1.0	
+Functional abnormality of the middle ear	POR	1.0	
+Abnormality of globe location	POR	1.0	
+Abnormality of the humeroradial joint	POR	1.0	
+Synostosis of joints	POR	1.0	
+Early onset of sexual maturation	POR	1.0	
+Abnormal morphology of forearm bone	POR	1.0	
+Abnormality of forearm bone	POR	1.0	
+Abnormality of upper limb bone	POR	1.0	
+Abnormality of lower limb bone	POR	1.0	
+Abnormality of limb bone	POR	1.0	
+Abnormal morphology of bones of the lower limbs	POR	1.0	
+Abnormal morphology of bones of the upper limbs	POR	1.0	
+Abnormal female reproductive system physiology	POR	1.0	
+Abnormality of the labia minora	POR	1.0	
+Hypoplastic female external genitalia	POR	1.0	
+Increased inflammatory response	POR	1.0	
+Abnormal inflammatory response	POR	1.0	
+Abnormality of nervous system morphology	POR	1.0	
+Abnormality of nervous system physiology	POR	1.0	
+Abnormality of the globe	POR	1.0	
+Abnormal eye morphology	POR	1.0	
+Abnormality of malar bones	POR	1.0	
+Abnormal respiratory system morphology	POR	1.0	
+Abnormality of circulating glucocorticoid level	POR	1.0	
+Abnormal bone ossification	POR	1.0	
+Abnormal appendicular skeleton morphology	POR	1.0	
+Abnormality of skeletal physiology	POR	1.0	
+Abnormality of skeletal morphology	POR	1.0	
+Abnormality of muscle morphology	POR	1.0	
+Abnormality of the anterior pituitary	POR	1.0	
+Abnormality of adrenal physiology	POR	1.0	
+Abnormality of adrenal morphology	POR	1.0	
+Abnormality of circulating cortisol level	POR	1.0	
+Abnormality of joint mobility	POR	1.0	
+Abnormal hair quantity	POR	1.0	
+Abnormality of cranial sutures	POR	1.0	
+Abnormality of the metencephalon	POR	1.0	
+Abnormal shape of the frontal region	POR	1.0	
+Abnormality of skin adnexa morphology	POR	1.0	
+Abnormality of skin physiology	POR	1.0	
+Abnormality of skin morphology	POR	1.0	
+Abnormality of cardiovascular system physiology	POR	1.0	
+Abnormality of immune system physiology	POR	1.0	
+Abnormality of the lower urinary tract	POR	1.0	
+Abnormality of the upper urinary tract	POR	1.0	
+Abnormality of the curvature of the vertebral column	POR	1.0	
+Abnormality of the zygomatic bone	POR	1.0	
+Aplasia/Hypoplasia of the testes	POR	1.0	
+Abnormality of the male genitalia	POR	1.0	
+Abnormality of the female genitalia	POR	1.0	
+Abnormal axial skeleton morphology	POR	1.0	
+Abnormality of the talus	POR	1.0	
+Generalized hyperpigmentation	POR	1.0	
+Aplasia/Hypoplasia of the cerebrum	POR	1.0	
+Abnormality of cardiac atrium	POR	1.0	
+Abnormal nasal morphology	POR	1.0	
+Abnormality of body weight	POR	1.0	
+Abnormality of connective tissue	POR	1.0	
+Abnormal bone structure	POR	1.0	
+Abnormality of lipid metabolism	POR	1.0	
+Abnormality of circulating hormone level	POR	1.0	
+Abnormality of the ulna	POR	1.0	
+Abnormality of the forearm	POR	1.0	
+Abnormality of the radius	POR	1.0	
+Prenatal maternal abnormality	POR	1.0	
+Abnormality of the calvaria	POR	1.0	
+Abnormality of calvarial morphology	POR	1.0	
+Abnormality of the cerebral ventricles	POR	1.0	
+Abnormality of the bronchi	POR	1.0	
+Abnormality of the upper respiratory tract	POR	1.0	
+Abnormality of the aorta	POR	1.0	
+Abnormality of the integument	POR	1.0	
+Abnormality of the upper arm	POR	1.0	
+Abnormality of skeletal maturation	POR	1.0	
+Abnormality of the hypothalamus-pituitary axis	POR	1.0	
+Abnormality of the endocrine system	POR	1.0	
+Abnormal internal genitalia	POR	1.0	
+Abnormal external genitalia	POR	1.0	
+Abnormality of the urethra	POR	1.0	
+Abnormality of the choanae	POR	1.0	
+Hearing abnormality	POR	1.0	
+Abnormality of the orbital region	POR	1.0	
+Abnormality of the forehead	POR	1.0	
+Abnormality of the face	POR	1.0	
+Abnormality of skull size	POR	1.0	
+Abnormality of the anterior fontanelle	POR	1.0	
+Abnormality of upper lip	POR	1.0	
+Abnormality of the menstrual cycle	POR	1.0	
+Abnormality of the labia	POR	1.0	
+Abnormality of the clitoris	POR	1.0	
+Abnormality of the scrotum	POR	1.0	
+Abnormality of the penis	POR	1.0	
+Abnormality of male external genitalia	POR	1.0	
+Abnormality of female internal genitalia	POR	1.0	
+Abnormality of body height	POR	1.0	
+Abnormality of cardiovascular system morphology	POR	1.0	
+Abnormal circulating androgen level	POR	1.0	
+Abnormality of the testis size	POR	1.0	
+Abnormality of limb bone morphology	POR	1.0	
+Increased size of the clitoris	POR	1.0	
+Abnormal size of the clitoris	POR	1.0	
+Abnormal vascular morphology	POR	1.0	

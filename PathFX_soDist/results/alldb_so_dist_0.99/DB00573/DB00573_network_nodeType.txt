@@ -1,0 +1,7 @@
+node_name	node_type	
+DB00573	drug	
+PTGS2	drug_target	
+PTGS1	drug_target	
+ALB	drug_target	
+PPARG	drug_target	
+PPARA	drug_target	

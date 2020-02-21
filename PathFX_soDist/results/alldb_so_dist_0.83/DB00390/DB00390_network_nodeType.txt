@@ -1,0 +1,9 @@
+node_name	node_type	
+DB00390	drug	
+CYP11A1	drug_target	
+SLCO1A2	drug_target	
+ABCB1	drug_target	
+SLCO1B1	drug_target	
+SLC51A	drug_target	
+ABCB11	drug_target	
+ATP1A1	drug_target	

@@ -1,0 +1,12 @@
+node_name	node_type	
+DB14126	drug	
+NME1	drug_target	
+NME2	drug_target	
+AK2	drug_target	
+AK1	drug_target	
+ALB	drug_target	
+ABCB1	drug_target	
+SLC22A6	drug_target	
+ABCC4	drug_target	
+CYP3A4	drug_target	
+SLC22A8	drug_target	

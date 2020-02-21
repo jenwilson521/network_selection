@@ -1,0 +1,7 @@
+node_name	node_type	
+DB01202	drug	
+SV2A	drug_target	
+CYP3A4	drug_target	
+CACNA1B	drug_target	
+ABCC2	drug_target	
+ABCB1	drug_target	

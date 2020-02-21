@@ -1,0 +1,4 @@
+node_name	node_type	
+DB01250	drug	
+IFNG	drug_target	
+TPMT	drug_target	

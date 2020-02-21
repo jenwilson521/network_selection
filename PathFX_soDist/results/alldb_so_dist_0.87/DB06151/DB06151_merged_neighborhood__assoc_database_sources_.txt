@@ -1,0 +1,14 @@
+Gene	CUI	Source Databases	
+GRIN1	C0032051	Placental Insufficiency	DisGeNet	
+GRIN2B	C0032051	Placental Insufficiency	DisGeNet	
+GRIN1	C0236663	Alcohol withdrawal syndrome	DisGeNet	
+GRIN2B	C0236663	Alcohol withdrawal syndrome	DisGeNet	
+GRIN2B	C0011206	Cocaine delirium	DisGeNet	
+GRIN3A	C0011206	Cocaine delirium	DisGeNet	
+GRIN1	C2911647	Weight Gain Adverse Event	DisGeNet	
+GRIN2B	C2911647	Weight Gain Adverse Event	DisGeNet	
+GRIN3A	C2911647	Weight Gain Adverse Event	DisGeNet	
+GRIN1	C0752308	Hypoxia-Ischemia, Brain	DisGeNet	
+GRIN2B	C0752308	Hypoxia-Ischemia, Brain	DisGeNet	
+GRIN1	C1955869	Malformation of cortical development	DisGeNet	
+GRIN2B	C1955869	Malformation of cortical development	DisGeNet	

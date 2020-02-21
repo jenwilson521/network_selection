@@ -1,0 +1,5 @@
+node_name	node_type	
+DB00847	drug	
+MPO	drug_target	
+NPY2R	drug_target	
+SST	drug_target	

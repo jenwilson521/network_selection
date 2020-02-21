@@ -1,0 +1,925 @@
+node1	node2	edge_score	
+DB00988	SLC6A3	1.0	
+DB00988	SLC6A2	1.0	
+DB00988	SLC6A4	1.0	
+DB00988	MAOB	1.0	
+DB00988	CYP2C19	1.0	
+DB00988	SOD1	1.0	
+DB00988	SLC22A3	1.0	
+DB00988	COMT	1.0	
+DB00988	HTR7	1.0	
+DB00988	POU5F1	1.0	
+DB00988	DBH	1.0	
+DB00988	DRD4	1.0	
+DB00988	DRD5	1.0	
+DB00988	DRD2	1.0	
+DB00988	DRD3	1.0	
+DB00988	DRD1	1.0	
+DB00988	SLC22A5	1.0	
+DB00988	MAOA	1.0	
+DB00988	HTR3B	1.0	
+DB00988	SLC22A1	1.0	
+DB00988	SLC22A2	1.0	
+DB00988	HTR3A	1.0	
+DB00988	SLC18A2	1.0	
+DB00988	HTR1A	1.0	
+CYP2C19	CYP2C19*1, CYP2C19*16, CYP2C19*2	0.99
+CYP2C19	CYP2C19*1, CYP2C19*2, CYP2C19*3, CYP2C19*5, CYP2C19*6, CYP2C19*7, CYP2C19*8	0.99
+DRD2	rs6275	0.99
+DRD1	rs686	0.99
+DRD2	rs1799978	0.99
+HTR3A	rs1150226	0.99
+CYP2C19	rs12248560	0.99
+DRD2	rs2734833	0.99
+CYP2C19	CYP2C19*1, CYP2C19*10, CYP2C19*11, CYP2C19*13, CYP2C19*14, CYP2C19*15, CYP2C19*16, CYP2C19*18, CYP2C19*19, CYP2C19*22, CYP2C19*23, CYP2C19*24, CYP2C19*25, CYP2C19*26, CYP2C19*5, CYP2C19*6, CYP2C19*8, CYP2C19*9	0.99
+DRD2	rs1125394	0.99
+SLC6A4	rs1042173	0.99
+DRD2	rs4436578	0.99
+DRD3	rs963468	0.99
+COMT	rs6269	0.99
+DRD1	rs4532	0.99
+DBH		1.0
+CYP2C19	CYP2C19*1, CYP2C19*2, CYP2C19*3	0.99
+CYP2C19	rs28399504	0.99
+SLC22A5		1.0
+CYP2C19	CYP2C19*1, CYP2C19*2	0.99
+HTR3A		1.0
+DRD3		1.0
+HTR1A	rs10042486	0.99
+CYP2C19	CYP2C19*1, CYP2C19*8, CYP2C19*9	0.99
+DRD2	rs1079597	0.99
+HTR3A	rs1062613	0.99
+DRD1	rs11749035	0.99
+SLC22A1	rs36056065	0.99
+HTR3A	rs2276302	0.99
+COMT	rs9606186	0.99
+DRD3	rs167771	0.99
+SLC22A1	rs628031	0.99
+SLC22A1	rs2282143	0.99
+CYP2C19		1.0
+HTR1A	rs6295	0.99
+DRD2	rs4460839	0.99
+SLC6A4	rs57098334	0.99
+SLC22A1		1.0
+DRD2	rs1799732	0.99
+HTR1A	rs878567	0.99
+DRD3	rs6280	0.99
+DRD2	rs1124493	0.99
+CYP2C19	rs12768009	0.99
+DRD2	rs6277	0.99
+DRD3	rs324023	0.99
+SLC22A3		1.0
+SLC6A2		1.0
+SLC22A1	SLC22A1*1, SLC22A1*2, SLC22A1*3, SLC22A1*4, SLC22A1*5	0.99
+SLC22A1	rs34130495	0.99
+SLC22A1	rs35167514	0.99
+HTR1A		1.0
+HTR1A	rs1364043	0.99
+SLC22A1	rs72552763	0.99
+CYP2C19	CYP2C19*1, CYP2C19*17, CYP2C19*2	0.99
+DRD2	rs2283265	0.99
+DRD2	rs2734842	0.99
+SLC6A4	SLC6A4 HTTLPR long form (L allele), SLC6A4 HTTLPR short form (S allele)	0.99
+COMT	rs13306278	0.99
+HTR3B		1.0
+COMT	rs4680	0.99
+DRD4		1.0
+DRD1	rs11746641	0.99
+DRD2	rs1079598	0.99
+DRD2	rs2734841	0.99
+DRD2	rs12364283	0.99
+SLC22A1	rs622342	0.99
+DRD2		1.0
+DRD1		1.0
+rs13306278	TXNRD2	0.9801
+SLC22A1	rs594709	0.99
+SLC6A2	rs5569	0.99
+COMT	rs4818	0.99
+SLC6A4		1.0
+CYP2C19	rs4986893	0.99
+SLC22A1	rs683369	0.99
+CYP2C19	CYP2C19*1, CYP2C19*10, CYP2C19*11, CYP2C19*13, CYP2C19*14, CYP2C19*15, CYP2C19*16, CYP2C19*18, CYP2C19*19, CYP2C19*22, CYP2C19*23, CYP2C19*24, CYP2C19*25, CYP2C19*26, CYP2C19*28, CYP2C19*9	0.99
+POU5F1		1.0
+CYP2C19	CYP2C19*1, CYP2C19*17, CYP2C19*2, CYP2C19*3	0.99
+CYP2C19	rs3814637	0.99
+COMT	rs4633	0.99
+DRD2	rs6279	0.99
+CYP2C19	CYP2C19*1, CYP2C19*10, CYP2C19*11, CYP2C19*13, CYP2C19*14, CYP2C19*15, CYP2C19*16, CYP2C19*18, CYP2C19*19, CYP2C19*26, CYP2C19*9	0.99
+COMT	rs4646316	0.99
+DRD1	rs265976	0.99
+SLC6A2	rs3785143	0.99
+HTR7		1.0
+DRD1	rs2168631	0.99
+DRD2	rs2440390	0.99
+ANKK1	rs7118900	0.970299
+SLC6A2	rs12708954	0.99
+SLC22A2		1.0
+COMT		1.0
+SLC22A1	rs12208357	0.99
+COMT	rs9332377	0.99
+CYP2C19	CYP2C19*1, CYP2C19*2, CYP2C19*3, CYP2C19*4, CYP2C19*5, CYP2C19*6, CYP2C19*8	0.99
+SLC6A3		1.0
+SLC6A4	rs25531	0.99
+CYP2C19	rs11188072	0.99
+rs1800497	ANKK1	0.9801
+DRD3	rs324026	0.99
+SLC22A1	SLC22A1*1, SLC22A1*2, SLC22A1*3, SLC22A1*4, SLC22A1*5, SLC22A1*6	0.99
+DRD3	rs167770	0.99
+DRD2	rs1076560	0.99
+COMT	rs165599	0.99
+CYP2C19	rs4244285	0.99
+CYP2C19	CYP2C19*1, CYP2C19*17, CYP2C19*2, CYP2C19*3, CYP2C19*4	0.99
+DRD2	rs1800497	0.99
+Anorexia nervosa 1	COMT	1.0	
+Anorexia nervosa 1	DRD2	1.0	
+Anorexia nervosa 1	DRD3	1.0	
+Anorexia nervosa 1	DRD4	1.0	
+Anorexia nervosa 1	HTR3A	1.0	
+Anorexia nervosa 1	HTR3B	1.0	
+Anorexia nervosa 1	HTR7	1.0	
+Anorexia nervosa 1	SLC6A2	1.0	
+Anorexia nervosa 1	SLC6A3	1.0	
+Anorexia nervosa 1	SLC6A4	1.0	
+Methamphetamine abuse	COMT	1.0	
+Methamphetamine abuse	CYP2C19	1.0	
+Methamphetamine abuse	DRD2	1.0	
+Methamphetamine abuse	DRD3	1.0	
+Methamphetamine abuse	DRD4	1.0	
+Methamphetamine abuse	SLC22A3	1.0	
+Methamphetamine abuse	SLC6A2	1.0	
+Methamphetamine abuse	SLC6A3	1.0	
+Methamphetamine abuse	SLC6A4	1.0	
+Psychoses, Substance-Induced	ANKK1	1.0	
+Psychoses, Substance-Induced	COMT	1.0	
+Psychoses, Substance-Induced	DRD1	1.0	
+Psychoses, Substance-Induced	DRD2	1.0	
+Psychoses, Substance-Induced	DRD3	1.0	
+Psychoses, Substance-Induced	DRD4	1.0	
+Psychoses, Substance-Induced	HTR1A	1.0	
+Psychoses, Substance-Induced	SLC6A3	1.0	
+Psychoses, Substance-Induced	SLC6A4	1.0	
+Substance Use Disorders	COMT	1.0	
+Substance Use Disorders	DBH	1.0	
+Substance Use Disorders	DRD2	1.0	
+Substance Use Disorders	DRD3	1.0	
+Substance Use Disorders	DRD4	1.0	
+Substance Use Disorders	HTR1A	1.0	
+Substance Use Disorders	SLC6A3	1.0	
+Substance Use Disorders	SLC6A4	1.0	
+Tourette Syndrome	COMT	1.0	
+Tourette Syndrome	DBH	1.0	
+Tourette Syndrome	DRD1	1.0	
+Tourette Syndrome	DRD2	1.0	
+Tourette Syndrome	DRD3	1.0	
+Tourette Syndrome	DRD4	1.0	
+Tourette Syndrome	HTR1A	1.0	
+Tourette Syndrome	HTR3A	1.0	
+Tourette Syndrome	HTR3B	1.0	
+Tourette Syndrome	SLC6A2	1.0	
+Tourette Syndrome	SLC6A3	1.0	
+Tourette Syndrome	SLC6A4	1.0	
+Bulimia nervosa 1	COMT	1.0	
+Bulimia nervosa 1	DRD2	1.0	
+Bulimia nervosa 1	DRD4	1.0	
+Bulimia nervosa 1	HTR3A	1.0	
+Bulimia nervosa 1	HTR3B	1.0	
+Bulimia nervosa 1	SLC6A3	1.0	
+Bulimia nervosa 1	SLC6A4	1.0	
+Weight Gain Adverse Event	ANKK1	1.0	
+Weight Gain Adverse Event	COMT	1.0	
+Weight Gain Adverse Event	DBH	1.0	
+Weight Gain Adverse Event	DRD1	1.0	
+Weight Gain Adverse Event	DRD2	1.0	
+Weight Gain Adverse Event	DRD3	1.0	
+Weight Gain Adverse Event	DRD4	1.0	
+Weight Gain Adverse Event	HTR1A	1.0	
+Weight Gain Adverse Event	HTR3A	1.0	
+Weight Gain Adverse Event	HTR3B	1.0	
+Weight Gain Adverse Event	HTR7	1.0	
+Weight Gain Adverse Event	SLC6A3	1.0	
+Weight Gain Adverse Event	SLC6A4	1.0	
+Nicotine Dependence	ANKK1	1.0	
+Nicotine Dependence	COMT	1.0	
+Nicotine Dependence	DBH	1.0	
+Nicotine Dependence	DRD1	1.0	
+Nicotine Dependence	DRD2	1.0	
+Nicotine Dependence	DRD3	1.0	
+Nicotine Dependence	DRD4	1.0	
+Nicotine Dependence	HTR3A	1.0	
+Nicotine Dependence	HTR3B	1.0	
+Nicotine Dependence	SLC6A3	1.0	
+Nicotine Dependence	SLC6A4	1.0	
+Heroin Dependence	ANKK1	1.0	
+Heroin Dependence	COMT	1.0	
+Heroin Dependence	DRD1	1.0	
+Heroin Dependence	DRD2	1.0	
+Heroin Dependence	DRD3	1.0	
+Heroin Dependence	DRD4	1.0	
+Heroin Dependence	HTR3A	1.0	
+Heroin Dependence	HTR3B	1.0	
+Heroin Dependence	SLC6A2	1.0	
+Heroin Dependence	SLC6A3	1.0	
+Heroin Dependence	SLC6A4	1.0	
+Bulimia	COMT	1.0	
+Bulimia	DRD2	1.0	
+Bulimia	DRD4	1.0	
+Bulimia	HTR1A	1.0	
+Bulimia	HTR7	1.0	
+Bulimia	SLC6A3	1.0	
+Bulimia	SLC6A4	1.0	
+MAJOR AFFECTIVE DISORDER 4	COMT	1.0	
+MAJOR AFFECTIVE DISORDER 4	DRD1	1.0	
+MAJOR AFFECTIVE DISORDER 4	DRD2	1.0	
+MAJOR AFFECTIVE DISORDER 4	DRD3	1.0	
+MAJOR AFFECTIVE DISORDER 4	DRD4	1.0	
+MAJOR AFFECTIVE DISORDER 4	HTR3A	1.0	
+MAJOR AFFECTIVE DISORDER 4	HTR3B	1.0	
+MAJOR AFFECTIVE DISORDER 4	HTR7	1.0	
+MAJOR AFFECTIVE DISORDER 4	SLC6A3	1.0	
+MAJOR AFFECTIVE DISORDER 4	SLC6A4	1.0	
+MAJOR AFFECTIVE DISORDER 5	COMT	1.0	
+MAJOR AFFECTIVE DISORDER 5	DRD1	1.0	
+MAJOR AFFECTIVE DISORDER 5	DRD2	1.0	
+MAJOR AFFECTIVE DISORDER 5	DRD3	1.0	
+MAJOR AFFECTIVE DISORDER 5	DRD4	1.0	
+MAJOR AFFECTIVE DISORDER 5	HTR3A	1.0	
+MAJOR AFFECTIVE DISORDER 5	HTR3B	1.0	
+MAJOR AFFECTIVE DISORDER 5	HTR7	1.0	
+MAJOR AFFECTIVE DISORDER 5	SLC6A3	1.0	
+MAJOR AFFECTIVE DISORDER 5	SLC6A4	1.0	
+MAJOR AFFECTIVE DISORDER 6	COMT	1.0	
+MAJOR AFFECTIVE DISORDER 6	DRD1	1.0	
+MAJOR AFFECTIVE DISORDER 6	DRD2	1.0	
+MAJOR AFFECTIVE DISORDER 6	DRD3	1.0	
+MAJOR AFFECTIVE DISORDER 6	DRD4	1.0	
+MAJOR AFFECTIVE DISORDER 6	HTR3A	1.0	
+MAJOR AFFECTIVE DISORDER 6	HTR3B	1.0	
+MAJOR AFFECTIVE DISORDER 6	HTR7	1.0	
+MAJOR AFFECTIVE DISORDER 6	SLC6A3	1.0	
+MAJOR AFFECTIVE DISORDER 6	SLC6A4	1.0	
+Major affective disorder 7	COMT	1.0	
+Major affective disorder 7	DRD1	1.0	
+Major affective disorder 7	DRD2	1.0	
+Major affective disorder 7	DRD3	1.0	
+Major affective disorder 7	DRD4	1.0	
+Major affective disorder 7	HTR3A	1.0	
+Major affective disorder 7	HTR3B	1.0	
+Major affective disorder 7	HTR7	1.0	
+Major affective disorder 7	SLC6A3	1.0	
+Major affective disorder 7	SLC6A4	1.0	
+MAJOR AFFECTIVE DISORDER 8	COMT	1.0	
+MAJOR AFFECTIVE DISORDER 8	DRD1	1.0	
+MAJOR AFFECTIVE DISORDER 8	DRD2	1.0	
+MAJOR AFFECTIVE DISORDER 8	DRD3	1.0	
+MAJOR AFFECTIVE DISORDER 8	DRD4	1.0	
+MAJOR AFFECTIVE DISORDER 8	HTR3A	1.0	
+MAJOR AFFECTIVE DISORDER 8	HTR3B	1.0	
+MAJOR AFFECTIVE DISORDER 8	HTR7	1.0	
+MAJOR AFFECTIVE DISORDER 8	SLC6A3	1.0	
+MAJOR AFFECTIVE DISORDER 8	SLC6A4	1.0	
+MAJOR AFFECTIVE DISORDER 9	COMT	1.0	
+MAJOR AFFECTIVE DISORDER 9	DRD1	1.0	
+MAJOR AFFECTIVE DISORDER 9	DRD2	1.0	
+MAJOR AFFECTIVE DISORDER 9	DRD3	1.0	
+MAJOR AFFECTIVE DISORDER 9	DRD4	1.0	
+MAJOR AFFECTIVE DISORDER 9	HTR3A	1.0	
+MAJOR AFFECTIVE DISORDER 9	HTR3B	1.0	
+MAJOR AFFECTIVE DISORDER 9	HTR7	1.0	
+MAJOR AFFECTIVE DISORDER 9	SLC6A3	1.0	
+MAJOR AFFECTIVE DISORDER 9	SLC6A4	1.0	
+Personality disorder	COMT	1.0	
+Personality disorder	DRD2	1.0	
+Personality disorder	DRD3	1.0	
+Personality disorder	DRD4	1.0	
+Personality disorder	HTR1A	1.0	
+Personality disorder	SLC6A2	1.0	
+Personality disorder	SLC6A4	1.0	
+Obsessive-compulsive disorder	COMT	1.0	
+Obsessive-compulsive disorder	CYP2C19	1.0	
+Obsessive-compulsive disorder	DRD2	1.0	
+Obsessive-compulsive disorder	DRD3	1.0	
+Obsessive-compulsive disorder	DRD4	1.0	
+Obsessive-compulsive disorder	HTR3A	1.0	
+Obsessive-compulsive disorder	SLC22A3	1.0	
+Obsessive-compulsive disorder	SLC6A3	1.0	
+Obsessive-compulsive disorder	SLC6A4	1.0	
+Amphetamine-Related Disorders	COMT	1.0	
+Amphetamine-Related Disorders	DRD1	1.0	
+Amphetamine-Related Disorders	DRD2	1.0	
+Amphetamine-Related Disorders	DRD3	1.0	
+Amphetamine-Related Disorders	DRD4	1.0	
+Amphetamine-Related Disorders	HTR3A	1.0	
+Amphetamine-Related Disorders	POU5F1	1.0	
+Amphetamine-Related Disorders	SLC6A3	1.0	
+Amphetamine-Related Disorders	SLC6A4	1.0	
+Substance addiction and disorders	ANKK1	1.0	
+Substance addiction and disorders	DRD1	1.0	
+Substance addiction and disorders	DRD2	1.0	
+Substance addiction and disorders	DRD3	1.0	
+Substance addiction and disorders	DRD4	1.0	
+Substance addiction and disorders	HTR3B	1.0	
+Substance addiction and disorders	SLC22A3	1.0	
+Substance addiction and disorders	SLC6A3	1.0	
+Substance addiction and disorders	SLC6A4	1.0	
+Opiate Addiction	ANKK1	1.0	
+Opiate Addiction	COMT	1.0	
+Opiate Addiction	DRD1	1.0	
+Opiate Addiction	DRD2	1.0	
+Opiate Addiction	DRD3	1.0	
+Opiate Addiction	DRD4	1.0	
+Opiate Addiction	HTR3A	1.0	
+Tardive Dyskinesia	COMT	1.0	
+Tardive Dyskinesia	DBH	1.0	
+Tardive Dyskinesia	DRD1	1.0	
+Tardive Dyskinesia	DRD2	1.0	
+Tardive Dyskinesia	DRD3	1.0	
+Tardive Dyskinesia	DRD4	1.0	
+Tardive Dyskinesia	SLC6A3	1.0	
+Tardive Dyskinesia	SLC6A4	1.0	
+Alcohol abuse	ANKK1	1.0	
+Alcohol abuse	COMT	1.0	
+Alcohol abuse	DRD1	1.0	
+Alcohol abuse	DRD2	1.0	
+Alcohol abuse	DRD3	1.0	
+Alcohol abuse	DRD4	1.0	
+Alcohol abuse	HTR7	1.0	
+Alcohol abuse	SLC6A3	1.0	
+Alcohol abuse	SLC6A4	1.0	
+Orofacial dyskinesia	COMT	1.0	
+Orofacial dyskinesia	DBH	1.0	
+Orofacial dyskinesia	DRD1	1.0	
+Orofacial dyskinesia	DRD2	1.0	
+Orofacial dyskinesia	DRD3	1.0	
+Orofacial dyskinesia	DRD4	1.0	
+Orofacial dyskinesia	SLC6A3	1.0	
+Orofacial dyskinesia	SLC6A4	1.0	
+As If Personality	ANKK1	1.0	
+As If Personality	COMT	1.0	
+As If Personality	DBH	1.0	
+As If Personality	DRD2	1.0	
+As If Personality	DRD4	1.0	
+As If Personality	HTR1A	1.0	
+As If Personality	HTR3A	1.0	
+As If Personality	SLC6A3	1.0	
+As If Personality	SLC6A4	1.0	
+Osteochondritis dissecans	COMT	1.0	
+Osteochondritis dissecans	CYP2C19	1.0	
+Osteochondritis dissecans	DRD2	1.0	
+Osteochondritis dissecans	DRD4	1.0	
+Osteochondritis dissecans	HTR3A	1.0	
+Osteochondritis dissecans	SLC22A3	1.0	
+Osteochondritis dissecans	SLC6A3	1.0	
+Osteochondritis dissecans	SLC6A4	1.0	
+NEUROTICISM	ANKK1	1.0	
+NEUROTICISM	COMT	1.0	
+NEUROTICISM	DBH	1.0	
+NEUROTICISM	DRD2	1.0	
+NEUROTICISM	DRD4	1.0	
+NEUROTICISM	HTR1A	1.0	
+NEUROTICISM	SLC6A3	1.0	
+NEUROTICISM	SLC6A4	1.0	
+Cocaine Dependence	ANKK1	1.0	
+Cocaine Dependence	COMT	1.0	
+Cocaine Dependence	DBH	1.0	
+Cocaine Dependence	DRD1	1.0	
+Cocaine Dependence	DRD2	1.0	
+Cocaine Dependence	DRD3	1.0	
+Cocaine Dependence	SLC6A3	1.0	
+Cocaine Dependence	SLC6A4	1.0	
+Panic disorder syndrome 1 (2)	COMT	1.0	
+Panic disorder syndrome 1 (2)	DRD1	1.0	
+Panic disorder syndrome 1 (2)	DRD2	1.0	
+Panic disorder syndrome 1 (2)	DRD3	1.0	
+Panic disorder syndrome 1 (2)	DRD4	1.0	
+Panic disorder syndrome 1 (2)	HTR1A	1.0	
+Panic disorder syndrome 1 (2)	HTR3A	1.0	
+Panic disorder syndrome 1 (2)	SLC6A2	1.0	
+Panic disorder syndrome 1 (2)	SLC6A4	1.0	
+Mood Disorders	COMT	1.0	
+Mood Disorders	DBH	1.0	
+Mood Disorders	DRD1	1.0	
+Mood Disorders	DRD2	1.0	
+Mood Disorders	DRD3	1.0	
+Mood Disorders	DRD4	1.0	
+Mood Disorders	HTR1A	1.0	
+Mood Disorders	HTR3A	1.0	
+Mood Disorders	HTR3B	1.0	
+Mood Disorders	HTR7	1.0	
+Mood Disorders	SLC6A2	1.0	
+Mood Disorders	SLC6A3	1.0	
+Mood Disorders	SLC6A4	1.0	
+Unipolar Depression	ANKK1	1.0	
+Unipolar Depression	COMT	1.0	
+Unipolar Depression	CYP2C19	1.0	
+Unipolar Depression	DBH	1.0	
+Unipolar Depression	DRD1	1.0	
+Unipolar Depression	DRD2	1.0	
+Unipolar Depression	DRD3	1.0	
+Unipolar Depression	DRD4	1.0	
+Unipolar Depression	HTR1A	1.0	
+Unipolar Depression	HTR3A	1.0	
+Unipolar Depression	HTR3B	1.0	
+Unipolar Depression	SLC6A2	1.0	
+Unipolar Depression	SLC6A3	1.0	
+Unipolar Depression	SLC6A4	1.0	
+Marijuana Abuse	ANKK1	1.0	
+Marijuana Abuse	COMT	1.0	
+Marijuana Abuse	DRD1	1.0	
+Marijuana Abuse	DRD2	1.0	
+Marijuana Abuse	DRD3	1.0	
+Marijuana Abuse	DRD4	1.0	
+Marijuana Abuse	SLC6A3	1.0	
+Marijuana Abuse	SLC6A4	1.0	
+Drug Dependence	ANKK1	1.0	
+Drug Dependence	DRD1	1.0	
+Drug Dependence	DRD2	1.0	
+Drug Dependence	DRD3	1.0	
+Drug Dependence	HTR3B	1.0	
+Drug Dependence	SLC6A3	1.0	
+Drug Dependence	SLC6A4	1.0	
+Antisocial/borderline personality disorder	ANKK1	1.0	
+Antisocial/borderline personality disorder	COMT	1.0	
+Antisocial/borderline personality disorder	DRD2	1.0	
+Antisocial/borderline personality disorder	DRD4	1.0	
+Antisocial/borderline personality disorder	SLC6A3	1.0	
+Antisocial/borderline personality disorder	SLC6A4	1.0	
+Substance abuse problem	COMT	1.0	
+Substance abuse problem	DRD2	1.0	
+Substance abuse problem	DRD3	1.0	
+Substance abuse problem	DRD4	1.0	
+Substance abuse problem	SLC6A3	1.0	
+Substance abuse problem	SLC6A4	1.0	
+Mental disorders	ANKK1	1.0	
+Mental disorders	COMT	1.0	
+Mental disorders	CYP2C19	1.0	
+Mental disorders	DBH	1.0	
+Mental disorders	DRD2	1.0	
+Mental disorders	DRD3	1.0	
+Mental disorders	DRD4	1.0	
+Mental disorders	HTR1A	1.0	
+Mental disorders	HTR3A	1.0	
+Mental disorders	HTR3B	1.0	
+Mental disorders	HTR7	1.0	
+Mental disorders	SLC6A2	1.0	
+Mental disorders	SLC6A3	1.0	
+Mental disorders	SLC6A4	1.0	
+Drug usage	COMT	1.0	
+Drug usage	DRD1	1.0	
+Drug usage	DRD2	1.0	
+Drug usage	DRD4	1.0	
+Drug usage	SLC6A3	1.0	
+Drug usage	SLC6A4	1.0	
+Chronic Fatigue Syndrome	COMT	1.0	
+Chronic Fatigue Syndrome	HTR1A	1.0	
+Chronic Fatigue Syndrome	HTR3A	1.0	
+Chronic Fatigue Syndrome	HTR3B	1.0	
+Chronic Fatigue Syndrome	HTR7	1.0	
+Chronic Fatigue Syndrome	SLC6A4	1.0	
+Eating disorder	COMT	1.0	
+Eating disorder	DRD2	1.0	
+Eating disorder	DRD4	1.0	
+Eating disorder	HTR3A	1.0	
+Eating disorder	HTR3B	1.0	
+Eating disorder	SLC6A3	1.0	
+Eating disorder	SLC6A4	1.0	
+Anxiety Disorders	ANKK1	1.0	
+Anxiety Disorders	COMT	1.0	
+Anxiety Disorders	CYP2C19	1.0	
+Anxiety Disorders	DBH	1.0	
+Anxiety Disorders	DRD2	1.0	
+Anxiety Disorders	DRD3	1.0	
+Anxiety Disorders	DRD4	1.0	
+Anxiety Disorders	HTR1A	1.0	
+Anxiety Disorders	HTR3A	1.0	
+Anxiety Disorders	HTR7	1.0	
+Anxiety Disorders	SLC6A2	1.0	
+Anxiety Disorders	SLC6A3	1.0	
+Anxiety Disorders	SLC6A4	1.0	
+Behavior Disorders	COMT	1.0	
+Behavior Disorders	DRD2	1.0	
+Behavior Disorders	SLC6A2	1.0	
+Behavior Disorders	SLC6A3	1.0	
+Behavior Disorders	SLC6A4	1.0	
+Depressive Disorder	ANKK1	1.0	
+Depressive Disorder	COMT	1.0	
+Depressive Disorder	CYP2C19	1.0	
+Depressive Disorder	DBH	1.0	
+Depressive Disorder	DRD1	1.0	
+Depressive Disorder	DRD2	1.0	
+Depressive Disorder	DRD3	1.0	
+Depressive Disorder	DRD4	1.0	
+Depressive Disorder	HTR1A	1.0	
+Depressive Disorder	HTR3A	1.0	
+Depressive Disorder	HTR3B	1.0	
+Depressive Disorder	HTR7	1.0	
+Depressive Disorder	SLC6A2	1.0	
+Depressive Disorder	SLC6A3	1.0	
+Depressive Disorder	SLC6A4	1.0	
+Substance Withdrawal Syndrome	COMT	1.0	
+Substance Withdrawal Syndrome	DRD1	1.0	
+Substance Withdrawal Syndrome	DRD2	1.0	
+Substance Withdrawal Syndrome	HTR1A	1.0	
+Substance Withdrawal Syndrome	HTR3A	1.0	
+Substance Withdrawal Syndrome	HTR3B	1.0	
+Substance Withdrawal Syndrome	SLC6A4	1.0	
+Migraine Disorders	ANKK1	1.0	
+Migraine Disorders	COMT	1.0	
+Migraine Disorders	DBH	1.0	
+Migraine Disorders	DRD1	1.0	
+Migraine Disorders	DRD2	1.0	
+Migraine Disorders	DRD3	1.0	
+Migraine Disorders	DRD4	1.0	
+Migraine Disorders	HTR1A	1.0	
+Migraine Disorders	HTR3A	1.0	
+Migraine Disorders	HTR7	1.0	
+Migraine Disorders	SLC6A3	1.0	
+Migraine Disorders	SLC6A4	1.0	
+Generalized anxiety disorder	COMT	1.0	
+Generalized anxiety disorder	DRD2	1.0	
+Generalized anxiety disorder	DRD3	1.0	
+Generalized anxiety disorder	SLC6A3	1.0	
+Generalized anxiety disorder	SLC6A4	1.0	
+Depressive Symptoms	COMT	1.0	
+Depressive Symptoms	CYP2C19	1.0	
+Depressive Symptoms	DRD2	1.0	
+Depressive Symptoms	DRD4	1.0	
+Depressive Symptoms	HTR1A	1.0	
+Depressive Symptoms	SLC6A3	1.0	
+Depressive Symptoms	SLC6A4	1.0	
+Depressive Symptoms	TXNRD2	1.0	
+Nausea	COMT	1.0	
+Nausea	CYP2C19	1.0	
+Nausea	DRD2	1.0	
+Nausea	HTR3A	1.0	
+Nausea	HTR3B	1.0	
+Nausea	SLC6A4	1.0	
+Alcohol withdrawal syndrome	COMT	1.0	
+Alcohol withdrawal syndrome	DBH	1.0	
+Alcohol withdrawal syndrome	DRD2	1.0	
+Alcohol withdrawal syndrome	SLC6A3	1.0	
+Alcohol withdrawal syndrome	SLC6A4	1.0	
+Major depressive disorder	ANKK1	1.0	
+Major depressive disorder	COMT	1.0	
+Major depressive disorder	CYP2C19	1.0	
+Major depressive disorder	DBH	1.0	
+Major depressive disorder	DRD1	1.0	
+Major depressive disorder	DRD2	1.0	
+Major depressive disorder	DRD3	1.0	
+Major depressive disorder	DRD4	1.0	
+Major depressive disorder	HTR1A	1.0	
+Major depressive disorder	HTR3A	1.0	
+Major depressive disorder	HTR3B	1.0	
+Major depressive disorder	SLC6A2	1.0	
+Major depressive disorder	SLC6A3	1.0	
+Major depressive disorder	SLC6A4	1.0	
+Memory Disorders	COMT	1.0	
+Memory Disorders	DRD2	1.0	
+Memory Disorders	HTR1A	1.0	
+Memory Disorders	HTR7	1.0	
+Memory Disorders	SLC6A3	1.0	
+Memory Disorders	SLC6A4	1.0	
+CNS symptom	COMT	1.0	
+CNS symptom	DBH	1.0	
+CNS symptom	DRD1	1.0	
+CNS symptom	DRD3	1.0	
+CNS symptom	SLC6A3	1.0	
+CNS symptom	SLC6A4	1.0	
+Antisocial Personality Disorder	ANKK1	1.0	
+Antisocial Personality Disorder	DBH	1.0	
+Antisocial Personality Disorder	DRD2	1.0	
+Antisocial Personality Disorder	SLC6A3	1.0	
+Antisocial Personality Disorder	SLC6A4	1.0	
+heavy drinking	DRD2	1.0	
+heavy drinking	DRD4	1.0	
+heavy drinking	HTR3A	1.0	
+heavy drinking	HTR3B	1.0	
+heavy drinking	SLC6A4	1.0	
+Chronic schizophrenia	COMT	1.0	
+Chronic schizophrenia	DBH	1.0	
+Chronic schizophrenia	DRD2	1.0	
+Chronic schizophrenia	DRD3	1.0	
+Chronic schizophrenia	SLC6A3	1.0	
+Dyskinesia, seizures, and intellectual developmental disorder	ANKK1	1.0	
+Dyskinesia, seizures, and intellectual developmental disorder	COMT	1.0	
+Dyskinesia, seizures, and intellectual developmental disorder	DRD1	1.0	
+Dyskinesia, seizures, and intellectual developmental disorder	DRD2	1.0	
+Dyskinesia, seizures, and intellectual developmental disorder	DRD3	1.0	
+Dyskinesia, seizures, and intellectual developmental disorder	DRD4	1.0	
+Dyskinesia, seizures, and intellectual developmental disorder	SLC6A3	1.0	
+Bipolar I disorder	ANKK1	1.0	
+Bipolar I disorder	COMT	1.0	
+Bipolar I disorder	DRD1	1.0	
+Bipolar I disorder	DRD2	1.0	
+Bipolar I disorder	SLC6A3	1.0	
+Bipolar I disorder	SLC6A4	1.0	
+{Unipolar depression, susceptibility to}, 608516 (3)	ANKK1	1.0	
+{Unipolar depression, susceptibility to}, 608516 (3)	COMT	1.0	
+{Unipolar depression, susceptibility to}, 608516 (3)	CYP2C19	1.0	
+{Unipolar depression, susceptibility to}, 608516 (3)	DBH	1.0	
+{Unipolar depression, susceptibility to}, 608516 (3)	DRD2	1.0	
+{Unipolar depression, susceptibility to}, 608516 (3)	DRD3	1.0	
+{Unipolar depression, susceptibility to}, 608516 (3)	DRD4	1.0	
+{Unipolar depression, susceptibility to}, 608516 (3)	HTR1A	1.0	
+{Unipolar depression, susceptibility to}, 608516 (3)	HTR3A	1.0	
+{Unipolar depression, susceptibility to}, 608516 (3)	HTR3B	1.0	
+{Unipolar depression, susceptibility to}, 608516 (3)	HTR7	1.0	
+{Unipolar depression, susceptibility to}, 608516 (3)	SLC6A2	1.0	
+{Unipolar depression, susceptibility to}, 608516 (3)	SLC6A3	1.0	
+{Unipolar depression, susceptibility to}, 608516 (3)	SLC6A4	1.0	
+Posttraumatic stress disorder	COMT	1.0	
+Posttraumatic stress disorder	DBH	1.0	
+Posttraumatic stress disorder	DRD2	1.0	
+Posttraumatic stress disorder	DRD3	1.0	
+Posttraumatic stress disorder	HTR1A	1.0	
+Posttraumatic stress disorder	SLC6A3	1.0	
+Posttraumatic stress disorder	SLC6A4	1.0	
+Alcohol dependence	ANKK1	1.0	
+Alcohol dependence	COMT	1.0	
+Alcohol dependence	DBH	1.0	
+Alcohol dependence	DRD1	1.0	
+Alcohol dependence	DRD2	1.0	
+Alcohol dependence	DRD3	1.0	
+Alcohol dependence	DRD4	1.0	
+Alcohol dependence	HTR1A	1.0	
+Alcohol dependence	HTR3A	1.0	
+Alcohol dependence	HTR3B	1.0	
+Alcohol dependence	HTR7	1.0	
+Alcohol dependence	SLC22A1	1.0	
+Alcohol dependence	SLC6A2	1.0	
+Alcohol dependence	SLC6A3	1.0	
+Alcohol dependence	SLC6A4	1.0	
+Increased body weight	ANKK1	1.0	
+Increased body weight	COMT	1.0	
+Increased body weight	DBH	1.0	
+Increased body weight	DRD1	1.0	
+Increased body weight	DRD2	1.0	
+Increased body weight	DRD3	1.0	
+Increased body weight	DRD4	1.0	
+Increased body weight	HTR1A	1.0	
+Increased body weight	HTR3A	1.0	
+Increased body weight	HTR3B	1.0	
+Increased body weight	HTR7	1.0	
+Increased body weight	SLC6A3	1.0	
+Increased body weight	SLC6A4	1.0	
+Cocaine-Related Disorders	COMT	1.0	
+Cocaine-Related Disorders	DRD1	1.0	
+Cocaine-Related Disorders	DRD2	1.0	
+Cocaine-Related Disorders	DRD3	1.0	
+Cocaine-Related Disorders	HTR1A	1.0	
+Cocaine-Related Disorders	SLC6A3	1.0	
+Cocaine-Related Disorders	SLC6A4	1.0	
+Conduct Disorder	COMT	1.0	
+Conduct Disorder	DRD2	1.0	
+Conduct Disorder	DRD4	1.0	
+Conduct Disorder	SLC6A3	1.0	
+Conduct Disorder	SLC6A4	1.0	
+Substance-Related Disorders	ANKK1	1.0	
+Substance-Related Disorders	COMT	1.0	
+Substance-Related Disorders	DRD2	1.0	
+Substance-Related Disorders	DRD4	1.0	
+Substance-Related Disorders	HTR1A	1.0	
+Substance-Related Disorders	SLC22A3	1.0	
+Substance-Related Disorders	SLC6A3	1.0	
+Substance-Related Disorders	SLC6A4	1.0	
+Dyskinesia, Drug-Induced	COMT	1.0	
+Dyskinesia, Drug-Induced	DRD1	1.0	
+Dyskinesia, Drug-Induced	DRD2	1.0	
+Dyskinesia, Drug-Induced	DRD3	1.0	
+Dyskinesia, Drug-Induced	HTR1A	1.0	
+Prenatal Exposure Delayed Effects	COMT	1.0	
+Prenatal Exposure Delayed Effects	DRD2	1.0	
+Prenatal Exposure Delayed Effects	DRD4	1.0	
+Prenatal Exposure Delayed Effects	SLC6A3	1.0	
+Prenatal Exposure Delayed Effects	SLC6A4	1.0	
+Dyspepsia	COMT	1.0	
+Dyspepsia	CYP2C19	1.0	
+Dyspepsia	DRD2	1.0	
+Dyspepsia	HTR3A	1.0	
+Dyspepsia	SLC6A4	1.0	
+Cycloid psychosis	COMT	1.0	
+Cycloid psychosis	DRD1	1.0	
+Cycloid psychosis	DRD2	1.0	
+Cycloid psychosis	DRD3	1.0	
+Cycloid psychosis	DRD4	1.0	
+Cycloid psychosis	SLC22A3	1.0	
+Cycloid psychosis	SLC6A3	1.0	
+Cycloid psychosis	SLC6A4	1.0	
+Sleep Wake Disorders	COMT	1.0	
+Sleep Wake Disorders	DRD2	1.0	
+Sleep Wake Disorders	DRD3	1.0	
+Sleep Wake Disorders	DRD4	1.0	
+Sleep Wake Disorders	HTR7	1.0	
+Sleep Wake Disorders	SLC6A4	1.0	
+Psychotic Disorders	COMT	1.0	
+Psychotic Disorders	DBH	1.0	
+Psychotic Disorders	DRD1	1.0	
+Psychotic Disorders	DRD2	1.0	
+Psychotic Disorders	DRD3	1.0	
+Psychotic Disorders	DRD4	1.0	
+Psychotic Disorders	HTR1A	1.0	
+Psychotic Disorders	SLC22A3	1.0	
+Psychotic Disorders	SLC6A3	1.0	
+Psychotic Disorders	SLC6A4	1.0	
+Cognition Disorders	COMT	1.0	
+Cognition Disorders	DRD2	1.0	
+Cognition Disorders	DRD3	1.0	
+Cognition Disorders	HTR7	1.0	
+Cognition Disorders	SLC6A4	1.0	
+Seasonal Affective Disorder	COMT	1.0	
+Seasonal Affective Disorder	DRD4	1.0	
+Seasonal Affective Disorder	HTR1A	1.0	
+Seasonal Affective Disorder	SLC6A4	1.0	
+Psychiatric symptom	COMT	1.0	
+Psychiatric symptom	DRD3	1.0	
+Psychiatric symptom	HTR1A	1.0	
+Psychiatric symptom	SLC6A4	1.0	
+Attention deficit hyperactivity disorder	ANKK1	1.0	
+Attention deficit hyperactivity disorder	COMT	1.0	
+Attention deficit hyperactivity disorder	DBH	1.0	
+Attention deficit hyperactivity disorder	DRD1	1.0	
+Attention deficit hyperactivity disorder	DRD2	1.0	
+Attention deficit hyperactivity disorder	DRD3	1.0	
+Attention deficit hyperactivity disorder	DRD4	1.0	
+Attention deficit hyperactivity disorder	HTR1A	1.0	
+Attention deficit hyperactivity disorder	HTR3B	1.0	
+Attention deficit hyperactivity disorder	SLC6A2	1.0	
+Attention deficit hyperactivity disorder	SLC6A3	1.0	
+Attention deficit hyperactivity disorder	SLC6A4	1.0	
+Common Migraine	COMT	1.0	
+Common Migraine	DRD2	1.0	
+Common Migraine	DRD3	1.0	
+Common Migraine	DRD4	1.0	
+Common Migraine	SLC6A4	1.0	
+Borderline Personality Disorder	COMT	1.0	
+Borderline Personality Disorder	DRD2	1.0	
+Borderline Personality Disorder	DRD4	1.0	
+Borderline Personality Disorder	HTR1A	1.0	
+Borderline Personality Disorder	SLC6A2	1.0	
+Borderline Personality Disorder	SLC6A3	1.0	
+Borderline Personality Disorder	SLC6A4	1.0	
+Delusions	COMT	1.0	
+Delusions	DRD2	1.0	
+Delusions	DRD3	1.0	
+Delusions	SLC6A4	1.0	
+Migraine with aura	COMT	1.0	
+Migraine with aura	DBH	1.0	
+Migraine with aura	DRD2	1.0	
+Migraine with aura	SLC6A3	1.0	
+Migraine with aura	SLC6A4	1.0	
+Panic disorder 1	COMT	1.0	
+Panic disorder 1	DRD4	1.0	
+Panic disorder 1	HTR1A	1.0	
+Panic disorder 1	SLC6A2	1.0	
+Panic disorder 1	SLC6A4	1.0	
+Autism spectrum disorders	COMT	1.0	
+Autism spectrum disorders	DRD1	1.0	
+Autism spectrum disorders	DRD2	1.0	
+Autism spectrum disorders	DRD3	1.0	
+Autism spectrum disorders	DRD4	1.0	
+Autism spectrum disorders	SLC6A2	1.0	
+Autism spectrum disorders	SLC6A3	1.0	
+Autism spectrum disorders	SLC6A4	1.0	
+Schizoaffective Disorder	COMT	1.0	
+Schizoaffective Disorder	DRD2	1.0	
+Schizoaffective Disorder	DRD3	1.0	
+Schizoaffective Disorder	DRD4	1.0	
+Schizoaffective Disorder	SLC6A4	1.0	
+Pregnancy Complications	COMT	1.0	
+Pregnancy Complications	DRD4	1.0	
+Pregnancy Complications	HTR3A	1.0	
+Pregnancy Complications	HTR3B	1.0	
+Pregnancy Complications	SLC22A5	1.0	
+Pregnancy Complications	SLC6A4	1.0	
+Fibromyalgia	COMT	1.0	
+Fibromyalgia	DRD3	1.0	
+Fibromyalgia	SLC6A3	1.0	
+Fibromyalgia	SLC6A4	1.0	
+Bipolar affective disorder	ANKK1	1.0	
+Bipolar affective disorder	COMT	1.0	
+Bipolar affective disorder	DBH	1.0	
+Bipolar affective disorder	DRD1	1.0	
+Bipolar affective disorder	DRD2	1.0	
+Bipolar affective disorder	DRD3	1.0	
+Bipolar affective disorder	DRD4	1.0	
+Bipolar affective disorder	HTR1A	1.0	
+Bipolar affective disorder	HTR3A	1.0	
+Bipolar affective disorder	HTR3B	1.0	
+Bipolar affective disorder	HTR7	1.0	
+Bipolar affective disorder	SLC6A2	1.0	
+Bipolar affective disorder	SLC6A3	1.0	
+Bipolar affective disorder	SLC6A4	1.0	
+Chronic sciatica	COMT	1.0	
+Chronic sciatica	DRD2	1.0	
+Chronic sciatica	HTR1A	1.0	
+Paranoia	COMT	1.0	
+Paranoia	DBH	1.0	
+Paranoia	SLC6A3	1.0	
+Irritable bowel syndrome with diarrhea	COMT	1.0	
+Irritable bowel syndrome with diarrhea	HTR3A	1.0	
+Irritable bowel syndrome with diarrhea	HTR7	1.0	
+Irritable bowel syndrome with diarrhea	SLC22A5	1.0	
+Irritable bowel syndrome with diarrhea	SLC6A2	1.0	
+Irritable bowel syndrome with diarrhea	SLC6A4	1.0	
+Bronchopulmonary Dysplasia	COMT	1.0	
+Bronchopulmonary Dysplasia	DRD2	1.0	
+Bronchopulmonary Dysplasia	DRD4	1.0	
+Bronchopulmonary Dysplasia	HTR1A	1.0	
+Bronchopulmonary Dysplasia	SLC6A2	1.0	
+Bronchopulmonary Dysplasia	SLC6A3	1.0	
+Bronchopulmonary Dysplasia	SLC6A4	1.0	
+Attention Deficit Disorder	DBH	1.0	
+Attention Deficit Disorder	DRD4	1.0	
+Attention Deficit Disorder	SLC6A3	1.0	
+Attention Deficit Disorder	SLC6A4	1.0	
+Disorder of endocrine system	COMT	1.0	
+Disorder of endocrine system	DBH	1.0	
+Disorder of endocrine system	DRD4	1.0	
+Disorder of endocrine system	HTR3A	1.0	
+ {Nicotine dependence, protection against}, 188890 (3)	DRD2	1.0	
+ {Nicotine dependence, protection against}, 188890 (3)	SLC6A3	1.0	
+ {Nicotine dependence, protection against}, 188890 (3)	SLC6A4	1.0	
+Cocaine delirium	DRD2	1.0	
+Cocaine delirium	DRD3	1.0	
+Cocaine delirium	SLC6A3	1.0	
+Ichthyosis bullosa of Siemens	COMT	1.0	
+Ichthyosis bullosa of Siemens	HTR3A	1.0	
+Ichthyosis bullosa of Siemens	SLC6A2	1.0	
+Ichthyosis bullosa of Siemens	SLC6A4	1.0	
+alcohol use disorder	ANKK1	1.0	
+alcohol use disorder	DRD2	1.0	
+alcohol use disorder	SLC6A4	1.0	
+Vomiting	COMT	1.0	
+Vomiting	CYP2C19	1.0	
+Vomiting	HTR3A	1.0	
+Vomiting	HTR3B	1.0	
+Vomiting	SLC22A5	1.0	
+Vomiting	SLC6A4	1.0	
+Anorexia	COMT	1.0	
+Anorexia	DBH	1.0	
+Anorexia	HTR3A	1.0	
+Anorexia	HTR3B	1.0	
+Anorexia	SLC6A4	1.0	
+Low back pain	COMT	1.0	
+Low back pain	DRD2	1.0	
+Low back pain	HTR1A	1.0	
+Headache	COMT	1.0	
+Headache	DRD2	1.0	
+Headache	DRD4	1.0	
+Headache	HTR1A	1.0	
+Headache	SLC6A3	1.0	
+Headache	SLC6A4	1.0	
+Polyphagia	ANKK1	1.0	
+Polyphagia	DRD2	1.0	
+Polyphagia	DRD4	1.0	
+Polyphagia	SLC6A4	1.0	
+Manic	COMT	1.0	
+Manic	SLC6A3	1.0	
+Manic	SLC6A4	1.0	
+Anxiety	COMT	1.0	
+Anxiety	DRD2	1.0	
+Anxiety	HTR1A	1.0	
+Anxiety	SLC6A2	1.0	
+Anxiety	SLC6A3	1.0	
+Anxiety	SLC6A4	1.0	
+cardiac event	CYP2C19	1.0	
+cardiac event	SLC22A5	1.0	
+cardiac event	SLC6A4	1.0	
+Weight Loss Adverse Event	COMT	1.0	
+Weight Loss Adverse Event	SLC6A2	1.0	
+Weight Loss Adverse Event	SLC6A4	1.0	
+Hyperactivity	COMT	1.0	
+Hyperactivity	DRD1	1.0	
+Hyperactivity	DRD2	1.0	
+Hyperactivity	DRD3	1.0	
+Hyperactivity	DRD4	1.0	
+Hyperactivity	SLC6A3	1.0	
+Dyslexia 1	COMT	1.0	
+Dyslexia 1	DRD2	1.0	
+Dyslexia 1	DRD4	1.0	
+Dyslexia 1	SLC6A3	1.0	
+SUDDEN INFANT DEATH SYNDROME	CYP2C19	1.0	
+SUDDEN INFANT DEATH SYNDROME	HTR1A	1.0	
+SUDDEN INFANT DEATH SYNDROME	SLC6A3	1.0	
+SUDDEN INFANT DEATH SYNDROME	SLC6A4	1.0	
+Liver Cirrhosis, Alcoholic	CYP2C19	1.0	
+Liver Cirrhosis, Alcoholic	DRD2	1.0	
+Liver Cirrhosis, Alcoholic	SLC6A3	1.0	
+Liver Cirrhosis, Alcoholic	SLC6A4	1.0	
+Abnormality of extrapyramidal motor function	COMT	1.0	
+Abnormality of extrapyramidal motor function	DRD1	1.0	
+Abnormality of extrapyramidal motor function	DRD2	1.0	
+Abnormality of extrapyramidal motor function	DRD3	1.0	
+Abnormality of extrapyramidal motor function	SLC6A3	1.0	
+Obsessive-compulsive behavior	DRD2	1.0	
+Obsessive-compulsive behavior	HTR1A	1.0	
+Obsessive-compulsive behavior	SLC6A4	1.0	
+Stress, Psychological	COMT	1.0	
+Stress, Psychological	HTR3A	1.0	
+Stress, Psychological	SLC6A4	1.0	
+Disorders of Sex Development	POU5F1	1.0	
+Disorders of Sex Development	SLC22A3	1.0	
+Pharyngeal Neoplasms	ANKK1	1.0	
+Pharyngeal Neoplasms	COMT	1.0	
+Pharyngeal Neoplasms	DRD2	1.0	
+Pleural Neoplasms	COMT	1.0	
+Pleural Neoplasms	CYP2C19	1.0	

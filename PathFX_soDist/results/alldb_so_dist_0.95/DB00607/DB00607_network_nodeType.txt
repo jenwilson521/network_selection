@@ -1,0 +1,14 @@
+node_name	node_type	
+DB00607	drug	
+CYP1A2	drug_target	
+ALB	drug_target	
+SLC22A6	drug_target	
+CYP3A4	drug_target	
+Chronic schizophrenia	phenotype	
+Acute hepatic failure	phenotype	
+Chronic liver disease	phenotype	
+Adverse drug events and drug allergies	phenotype	
+Pharyngeal Neoplasms	phenotype	
+Tardive Dyskinesia	phenotype	
+ {HIV-1 viremia, susceptibility to}, 609423 (3)	phenotype	
+Orofacial dyskinesia	phenotype	

@@ -1,0 +1,4 @@
+node1	node2	edge_score	
+DB01744	TRPM8	1.0	
+DB01744	TRPV1	1.0	
+

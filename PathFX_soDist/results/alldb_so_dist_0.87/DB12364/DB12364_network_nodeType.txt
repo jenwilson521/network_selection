@@ -1,0 +1,19 @@
+node_name	node_type	
+DB12364	drug	
+F10	drug_target	
+ABCB1	drug_target	
+F2	drug_target	
+KCNH2	drug_target	
+Recurrent E. coli infections	phenotype	
+Femur Head Necrosis	phenotype	
+Pyruvate carboxylase deficiency	phenotype	
+Gastroparesis	phenotype	
+Sudden death	phenotype	
+Juvenile myoclonic epilepsy	phenotype	
+Bone necrosis	phenotype	
+cardiac event	phenotype	
+Cytogenetically normal acute myeloid leukemia	phenotype	
+Coronary Restenosis	phenotype	
+Uterine Cancer	phenotype	
+Menopause present (finding)	phenotype	
+Extraosseous Ewings sarcoma-primitive neuroepithelial tumor	phenotype	

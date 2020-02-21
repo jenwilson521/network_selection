@@ -1,0 +1,4 @@
+node1	node2	edge_score	
+DB01143	ALPL	1.0	
+DB01143	ENPP1	1.0	
+

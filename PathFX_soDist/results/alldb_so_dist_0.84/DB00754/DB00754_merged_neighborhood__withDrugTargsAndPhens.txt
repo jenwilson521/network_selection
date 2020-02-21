@@ -1,0 +1,39 @@
+node1	node2	edge_score	
+DB00754	NR1I2	1.0	
+DB00754	SCN5A	1.0	
+DB00754	SERPINA7	1.0	
+SCN5A		1.0
+NR1I2	rs1523130	0.99
+NR1I2	rs10934498	0.99
+NR1I2	rs2472677	0.99
+NR1I2	rs6785049	0.99
+NR1I2	rs3814055	0.99
+NR1I2		1.0
+NR1I2	rs4688040	0.99
+NR1I2	rs2461817	0.99
+NR1I2	rs7643645	0.99
+NR1I2	rs3814058	0.99
+NR1I2	rs2276706	0.99
+NR1I2	rs3732360	0.99
+NR1I2	rs2276707	0.99
+SCN5A	complex:lAo9+jzjVOaRJSWZQvoh0G1mUDc	0.904977499353
+NR1I2	rs3732359	0.99
+Cardiac fibrosis	NR1I2	1.0	
+Cardiac fibrosis	SCN5A	1.0	
+Ichthyosis bullosa of Siemens	NR1I2	1.0	
+Ichthyosis bullosa of Siemens	SCN5A	1.0	
+Romano-Ward syndrome	SCN5A	1.0	
+VENTRICULAR TACHYCARDIA, CATECHOLAMINERGIC POLYMORPHIC, 1 (disorder)	SCN5A	1.0	
+Palpitations	SCN5A	1.0	
+Left ventricular noncompaction	SCN5A	1.0	
+Chronic mucocutaneous candidiasis	NR1I2	1.0	
+Overlap syndrome	SCN5A	1.0	
+Irritable bowel syndrome with diarrhea	NR1I2	1.0	
+Irritable bowel syndrome with diarrhea	SCN5A	1.0	
+46,XY gonadal dysgenesis, partial, with minifascicular neuropathy	NR1I2	1.0	
+46,XY gonadal dysgenesis, partial, with minifascicular neuropathy	SCN5A	1.0	
+Hyperalgesia, Thermal	NR1I2	1.0	
+Cholestatic liver disease	NR1I2	1.0	
+Mechanical Allodynia	NR1I2	1.0	
+Prolonged QT interval	SCN5A	1.0	
+Congenital long QT syndrome	SCN5A	1.0	

@@ -1,0 +1,23 @@
+node_name	node_type	
+DB00745	drug	
+CYP2C9	drug_target	
+SLC6A3	drug_target	
+CYP1A2	drug_target	
+ADRA1B	drug_target	
+CYP2B6	drug_target	
+CYP2C19	drug_target	
+CYP3A4	drug_target	
+CYP3A5	drug_target	
+Neoplasms, Germ Cell and Embryonal	phenotype	
+Tardive Dyskinesia	phenotype	
+Orofacial dyskinesia	phenotype	
+Drug Allergy	phenotype	
+Primary malignant neoplasm of liver	phenotype	
+Cocaine delirium	phenotype	
+Chronic schizophrenia	phenotype	
+Neurotoxicity Syndromes	phenotype	
+21-hydroxylase deficiency	phenotype	
+Lichen Planus, Oral	phenotype	
+Acute Cerebrovascular Accidents	phenotype	
+Thrombosis	phenotype	
+SUDDEN INFANT DEATH SYNDROME	phenotype	

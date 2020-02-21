@@ -1,0 +1,5 @@
+node1	node2	edge_score	
+DB00550	CYP1A1	1.0	
+DB00550	MPO	1.0	
+DB00550	DBH	1.0	
+

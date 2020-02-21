@@ -1,0 +1,14 @@
+node_name	node_type	
+DB00820	drug	
+CYP3A4	drug_target	
+CYP3A5	drug_target	
+PDE5A	drug_target	
+Primary malignant neoplasm of liver	phenotype	
+Squamous Cell Neoplasms	phenotype	
+Cocaine delirium	phenotype	
+Pain insensitivity	phenotype	
+Neoplasms, Germ Cell and Embryonal	phenotype	
+Tardive Dyskinesia	phenotype	
+ {HIV-1 viremia, susceptibility to}, 609423 (3)	phenotype	
+Orofacial dyskinesia	phenotype	
+Drug Allergy	phenotype	

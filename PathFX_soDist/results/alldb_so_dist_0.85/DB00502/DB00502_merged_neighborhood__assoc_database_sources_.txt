@@ -1,0 +1,175 @@
+Gene	CUI	Source Databases	
+ABCB1	C0013182	Drug Allergy	DisGeNet	
+CYP2C19	C0013182	Drug Allergy	DisGeNet	
+CYP2C9	C0013182	Drug Allergy	DisGeNet	
+CYP2D6	C0013182	Drug Allergy	DisGeNet	
+CYP3A4	C0013182	Drug Allergy	DisGeNet	
+CYP3A5	C0013182	Drug Allergy	DisGeNet	
+UGT1A1	C0013182	Drug Allergy	DisGeNet	
+UGT1A7	C0013182	Drug Allergy	DisGeNet	
+UGT1A8	C0013182	Drug Allergy	DisGeNet	
+UGT1A9	C0013182	Drug Allergy	DisGeNet	
+CYP1A2	C0686347	Tardive Dyskinesia	DisGeNet	
+CYP2D6	C0686347	Tardive Dyskinesia	DisGeNet	
+CYP3A4	C0686347	Tardive Dyskinesia	DisGeNet	
+CYP3A5	C0686347	Tardive Dyskinesia	DisGeNet	
+DRD1	C0686347	Tardive Dyskinesia	DisGeNet	
+DRD2	C0686347	Tardive Dyskinesia	DisGeNet	
+DRD3	C0686347	Tardive Dyskinesia	DisGeNet	
+GRIN2B	C0686347	Tardive Dyskinesia	DisGeNet	
+HTR2A	C0686347	Tardive Dyskinesia	DisGeNet	
+CYP1A2	C0152115	Orofacial dyskinesia	DisGeNet	
+CYP2D6	C0152115	Orofacial dyskinesia	DisGeNet	
+CYP3A4	C0152115	Orofacial dyskinesia	DisGeNet	
+CYP3A5	C0152115	Orofacial dyskinesia	DisGeNet	
+DRD1	C0152115	Orofacial dyskinesia	DisGeNet	
+DRD2	C0152115	Orofacial dyskinesia	DisGeNet	
+DRD3	C0152115	Orofacial dyskinesia	DisGeNet	
+GRIN2B	C0152115	Orofacial dyskinesia	DisGeNet	
+HTR2A	C0152115	Orofacial dyskinesia	DisGeNet	
+ABCB1	C0524662	Opiate Addiction	DisGeNet	
+ANKK1	C0524662	Opiate Addiction	DisGeNet	
+CYP2D6	C0524662	Opiate Addiction	DisGeNet	
+DRD1	C0524662	Opiate Addiction	DisGeNet	
+DRD2	C0524662	Opiate Addiction	DisGeNet	
+DRD3	C0524662	Opiate Addiction	DisGeNet	
+GRIN2B	C0524662	Opiate Addiction	DisGeNet	
+ABCB1	C0746883	Febrile Neutropenia	DisGeNet	
+CYP3A5	C0746883	Febrile Neutropenia	DisGeNet	
+UGT1A	C0746883	Febrile Neutropenia	DisGeNet	
+UGT1A1	C0746883	Febrile Neutropenia	DisGeNet	
+UGT1A6	C0746883	Febrile Neutropenia	DisGeNet	
+UGT1A7	C0746883	Febrile Neutropenia	DisGeNet	
+ABCB1	C0019337	Heroin Dependence	DisGeNet	
+ANKK1	C0019337	Heroin Dependence	DisGeNet	
+CYP2D6	C0019337	Heroin Dependence	DisGeNet	
+CYP3A4	C0019337	Heroin Dependence	DisGeNet	
+DRD1	C0019337	Heroin Dependence	DisGeNet	
+DRD2	C0019337	Heroin Dependence	DisGeNet	
+DRD3	C0019337	Heroin Dependence	DisGeNet	
+HTR2A	C0019337	Heroin Dependence	DisGeNet	
+ABCB1	C0013386	Dyskinesia, Drug-Induced	DisGeNet	
+CYP1A2	C0013386	Dyskinesia, Drug-Induced	DisGeNet	
+CYP2D6	C0013386	Dyskinesia, Drug-Induced	DisGeNet	
+DRD1	C0013386	Dyskinesia, Drug-Induced	DisGeNet	
+DRD2	C0013386	Dyskinesia, Drug-Induced	DisGeNet	
+DRD3	C0013386	Dyskinesia, Drug-Induced	DisGeNet	
+HTR2A	C0013386	Dyskinesia, Drug-Induced	DisGeNet	
+CYP1A2	C0221765	Chronic schizophrenia	DisGeNet	
+CYP2D6	C0221765	Chronic schizophrenia	DisGeNet	
+CYP3A4	C0221765	Chronic schizophrenia	DisGeNet	
+DRD2	C0221765	Chronic schizophrenia	DisGeNet	
+DRD3	C0221765	Chronic schizophrenia	DisGeNet	
+HTR2A	C0221765	Chronic schizophrenia	DisGeNet	
+ABCB1	C0027497	Nausea	DisGeNet	
+CYP1A2	C0027497	Nausea	DisGeNet	
+CYP2C19	C0027497	Nausea	DisGeNet	
+CYP2C9	C0027497	Nausea	DisGeNet	
+CYP2D6	C0027497	Nausea	DisGeNet	
+DRD2	C0027497	Nausea	DisGeNet	
+HTR2A	C0027497	Nausea	DisGeNet	
+UGT1A	C0011226	Hepatitis D Infection	DisGeNet	
+UGT1A1	C0011226	Hepatitis D Infection	DisGeNet	
+UGT1A10	C0011226	Hepatitis D Infection	DisGeNet	
+UGT1A6	C0011226	Hepatitis D Infection	DisGeNet	
+UGT1A7	C0011226	Hepatitis D Infection	DisGeNet	
+UGT1A8	C0011226	Hepatitis D Infection	DisGeNet	
+UGT1A9	C0011226	Hepatitis D Infection	DisGeNet	
+ABCB1	C0024620	Primary malignant neoplasm of liver	DisGeNet	
+CYP2C19	C0024620	Primary malignant neoplasm of liver	DisGeNet	
+CYP2D6	C0024620	Primary malignant neoplasm of liver	DisGeNet	
+CYP3A4	C0024620	Primary malignant neoplasm of liver	DisGeNet	
+CYP3A5	C0024620	Primary malignant neoplasm of liver	DisGeNet	
+ABCB1	C0020433	Hyperbilirubinemia	DisGeNet	
+UGT1A	C0020433	Hyperbilirubinemia	DisGeNet	
+UGT1A1	C0020433	Hyperbilirubinemia	DisGeNet,HumPhenOnt	
+UGT1A10	C0020433	Hyperbilirubinemia	DisGeNet	
+UGT1A6	C0020433	Hyperbilirubinemia	DisGeNet	
+UGT1A7	C0020433	Hyperbilirubinemia	DisGeNet	
+UGT1A8	C0020433	Hyperbilirubinemia	DisGeNet	
+UGT1A9	C0020433	Hyperbilirubinemia	DisGeNet	
+CYP3A4	C0011206	Cocaine delirium	DisGeNet	
+CYP3A5	C0011206	Cocaine delirium	DisGeNet	
+DRD2	C0011206	Cocaine delirium	DisGeNet	
+DRD3	C0011206	Cocaine delirium	DisGeNet	
+GRIN2B	C0011206	Cocaine delirium	DisGeNet	
+ABCB1	C0600427	Cocaine Dependence	DisGeNet	
+ANKK1	C0600427	Cocaine Dependence	DisGeNet	
+DRD1	C0600427	Cocaine Dependence	DisGeNet	
+DRD2	C0600427	Cocaine Dependence	DisGeNet	
+DRD3	C0600427	Cocaine Dependence	DisGeNet	
+HTR2A	C0600427	Cocaine Dependence	DisGeNet	
+CYP2D6	C0031212	Personality disorder	DisGeNet	
+DRD2	C0031212	Personality disorder	DisGeNet	
+DRD3	C0031212	Personality disorder	DisGeNet	
+GRIN2B	C0031212	Personality disorder	DisGeNet	
+HTR2A	C0031212	Personality disorder	DisGeNet	
+ABCB1	C0235032	Neurotoxicity Syndromes	DisGeNet	
+CYP2C19	C0235032	Neurotoxicity Syndromes	DisGeNet	
+CYP2C9	C0235032	Neurotoxicity Syndromes	DisGeNet	
+CYP3A5	C0235032	Neurotoxicity Syndromes	DisGeNet	
+DRD2	C0235032	Neurotoxicity Syndromes	DisGeNet	
+ANKK1	C0031347	Pharyngeal Neoplasms	DisGeNet	
+CYP1A1	C0031347	Pharyngeal Neoplasms	DisGeNet	
+CYP1A2	C0031347	Pharyngeal Neoplasms	DisGeNet	
+CYP2C9	C0031347	Pharyngeal Neoplasms	DisGeNet	
+CYP3A4	C0031347	Pharyngeal Neoplasms	DisGeNet	
+DRD2	C0031347	Pharyngeal Neoplasms	DisGeNet	
+ANKK1	C0085762	Alcohol abuse	DisGeNet	
+CYP3A4	C0085762	Alcohol abuse	DisGeNet	
+DRD1	C0085762	Alcohol abuse	DisGeNet	
+DRD2	C0085762	Alcohol abuse	DisGeNet	
+DRD3	C0085762	Alcohol abuse	DisGeNet	
+GRIN2B	C0085762	Alcohol abuse	DisGeNet	
+HTR2A	C0085762	Alcohol abuse	DisGeNet	
+ABCB1	C0344307	Pain insensitivity	DisGeNet	
+CYP2D6	C0344307	Pain insensitivity	DisGeNet	
+CYP3A4	C0344307	Pain insensitivity	DisGeNet	
+CYP3A5	C0344307	Pain insensitivity	DisGeNet	
+DRD2	C0344307	Pain insensitivity	DisGeNet	
+ANKK1	C0023055	Neoplasm of the larynx	DisGeNet	
+CYP1A1	C0023055	Neoplasm of the larynx	DisGeNet	
+CYP1A2	C0023055	Neoplasm of the larynx	DisGeNet	
+CYP2C9	C0023055	Neoplasm of the larynx	DisGeNet	
+CYP2D6	C0023055	Neoplasm of the larynx	DisGeNet	
+CYP3A4	C0023055	Neoplasm of the larynx	DisGeNet	
+DRD2	C0023055	Neoplasm of the larynx	DisGeNet	
+ABCB1	C0036337	Schizoaffective Disorder	DisGeNet	
+CYP2D6	C0036337	Schizoaffective Disorder	DisGeNet	
+DRD2	C0036337	Schizoaffective Disorder	DisGeNet	
+DRD3	C0036337	Schizoaffective Disorder	DisGeNet	
+GRIN2B	C0036337	Schizoaffective Disorder	DisGeNet	
+HTR2A	C0036337	Schizoaffective Disorder	DisGeNet	
+CYP2C19	C0028768	Obsessive-compulsive disorder	DisGeNet	
+CYP2D6	C0028768	Obsessive-compulsive disorder	DisGeNet	
+DRD2	C0028768	Obsessive-compulsive disorder	DisGeNet	
+DRD3	C0028768	Obsessive-compulsive disorder	DisGeNet	
+GRIN2B	C0028768	Obsessive-compulsive disorder	DisGeNet	
+HTR2A	C0028768	Obsessive-compulsive disorder	ClinVar,DisGeNet	
+ABCB1	C0030201	Acute postoperative pain	DisGeNet	
+CYP2D6	C0030201	Acute postoperative pain	DisGeNet	
+CYP3A4	C0030201	Acute postoperative pain	DisGeNet	
+HTR2A	C0030201	Acute postoperative pain	DisGeNet	
+ABCB1	C0041755	Adverse drug events and drug allergies	DisGeNet	
+CYP1A2	C0041755	Adverse drug events and drug allergies	DisGeNet	
+CYP2C9	C0041755	Adverse drug events and drug allergies	DisGeNet	
+CYP2D6	C0041755	Adverse drug events and drug allergies	DisGeNet	
+UGT1A1	C0041755	Adverse drug events and drug allergies	DisGeNet	
+CYP2C19	C0002895	Anemia, Sickle Cell	DisGeNet	
+CYP2C9	C0002895	Anemia, Sickle Cell	DisGeNet	
+CYP2D6	C0002895	Anemia, Sickle Cell	DisGeNet	
+DRD3	C0002895	Anemia, Sickle Cell	DisGeNet	
+UGT1A	C0002895	Anemia, Sickle Cell	DisGeNet	
+UGT1A1	C0002895	Anemia, Sickle Cell	DisGeNet,PheGenI	
+UGT1A10	C0002895	Anemia, Sickle Cell	PheGenI	
+UGT1A6	C0002895	Anemia, Sickle Cell	PheGenI	
+UGT1A7	C0002895	Anemia, Sickle Cell	PheGenI	
+UGT1A8	C0002895	Anemia, Sickle Cell	PheGenI	
+UGT1A9	C0002895	Anemia, Sickle Cell	PheGenI	
+ABCB1	C0086132	Depressive Symptoms	DisGeNet	
+CYP1A1	C0086132	Depressive Symptoms	DisGeNet	
+CYP2C19	C0086132	Depressive Symptoms	DisGeNet	
+CYP2D6	C0086132	Depressive Symptoms	DisGeNet	
+CYP3A4	C0086132	Depressive Symptoms	DisGeNet	
+DRD2	C0086132	Depressive Symptoms	DisGeNet	
+HTR2A	C0086132	Depressive Symptoms	DisGeNet	

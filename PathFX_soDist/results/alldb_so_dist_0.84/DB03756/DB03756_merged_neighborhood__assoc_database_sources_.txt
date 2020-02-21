@@ -1,0 +1,7 @@
+Gene	CUI	Source Databases	
+PPARA	C0948480	Coronary Restenosis	DisGeNet	
+PPARG	C0948480	Coronary Restenosis	DisGeNet	
+RXRA	C0948480	Coronary Restenosis	DisGeNet	
+PPARA	C0242231	Coronary artery stenosis	DisGeNet	
+PPARG	C0242231	Coronary artery stenosis	DisGeNet	
+RXRA	C0242231	Coronary artery stenosis	DisGeNet	

@@ -1,0 +1,109 @@
+Gene	CUI	Source Databases	
+UGT1A	C0011226	Hepatitis D Infection	DisGeNet	
+UGT1A1	C0011226	Hepatitis D Infection	DisGeNet	
+UGT1A10	C0011226	Hepatitis D Infection	DisGeNet	
+UGT1A3	C0011226	Hepatitis D Infection	DisGeNet	
+UGT1A6	C0011226	Hepatitis D Infection	DisGeNet	
+UGT1A7	C0011226	Hepatitis D Infection	DisGeNet	
+UGT1A8	C0011226	Hepatitis D Infection	DisGeNet	
+UGT1A9	C0011226	Hepatitis D Infection	DisGeNet	
+UGT1A	C0020433	Hyperbilirubinemia	DisGeNet	
+UGT1A1	C0020433	Hyperbilirubinemia	DisGeNet,HumPhenOnt	
+UGT1A10	C0020433	Hyperbilirubinemia	DisGeNet	
+UGT1A3	C0020433	Hyperbilirubinemia	DisGeNet	
+UGT1A6	C0020433	Hyperbilirubinemia	DisGeNet	
+UGT1A7	C0020433	Hyperbilirubinemia	DisGeNet	
+UGT1A8	C0020433	Hyperbilirubinemia	DisGeNet	
+UGT1A9	C0020433	Hyperbilirubinemia	DisGeNet	
+ABCG2	C0018772	Hearing Loss, Partial	DisGeNet	
+UGT1A1	C0018772	Hearing Loss, Partial	DisGeNet	
+UGT1A10	C0018772	Hearing Loss, Partial	DisGeNet	
+UGT1A3	C0018772	Hearing Loss, Partial	DisGeNet	
+UGT1A6	C0018772	Hearing Loss, Partial	DisGeNet	
+UGT1A7	C0018772	Hearing Loss, Partial	DisGeNet	
+UGT1A8	C0018772	Hearing Loss, Partial	DisGeNet	
+UGT1A9	C0018772	Hearing Loss, Partial	DisGeNet	
+UGT2B15	C0018772	Hearing Loss, Partial	DisGeNet	
+ABCG2	C0008350	Cholelithiasis	DisGeNet	
+UGT1A	C0008350	Cholelithiasis	DisGeNet	
+UGT1A1	C0008350	Cholelithiasis	DisGeNet,PheGenI	
+UGT1A10	C0008350	Cholelithiasis	PheGenI	
+UGT1A3	C0008350	Cholelithiasis	PheGenI	
+UGT1A6	C0008350	Cholelithiasis	DisGeNet,PheGenI	
+UGT1A7	C0008350	Cholelithiasis	PheGenI	
+UGT1A8	C0008350	Cholelithiasis	PheGenI	
+UGT1A9	C0008350	Cholelithiasis	PheGenI	
+CYP2C9	C0013182	Drug Allergy	DisGeNet	
+CYP3A4	C0013182	Drug Allergy	DisGeNet	
+UGT1A1	C0013182	Drug Allergy	DisGeNet	
+UGT1A7	C0013182	Drug Allergy	DisGeNet	
+UGT1A8	C0013182	Drug Allergy	DisGeNet	
+UGT1A9	C0013182	Drug Allergy	DisGeNet	
+UGT1A	C0746883	Febrile Neutropenia	DisGeNet	
+UGT1A1	C0746883	Febrile Neutropenia	DisGeNet	
+UGT1A6	C0746883	Febrile Neutropenia	DisGeNet	
+UGT1A7	C0746883	Febrile Neutropenia	DisGeNet	
+ABCG2	C0041755	Adverse drug events and drug allergies	DisGeNet	
+ALB	C0041755	Adverse drug events and drug allergies	DisGeNet	
+CYP2C9	C0041755	Adverse drug events and drug allergies	DisGeNet	
+CYP2E1	C0041755	Adverse drug events and drug allergies	DisGeNet	
+UGT1A1	C0041755	Adverse drug events and drug allergies	DisGeNet	
+ABCG2	C0011053	Deafness, autosomal recessive 44	DisGeNet	
+UGT1A1	C0011053	Deafness, autosomal recessive 44	DisGeNet	
+UGT1A10	C0011053	Deafness, autosomal recessive 44	DisGeNet	
+UGT1A3	C0011053	Deafness, autosomal recessive 44	DisGeNet	
+UGT1A6	C0011053	Deafness, autosomal recessive 44	DisGeNet	
+UGT1A7	C0011053	Deafness, autosomal recessive 44	DisGeNet	
+UGT1A8	C0011053	Deafness, autosomal recessive 44	DisGeNet	
+UGT1A9	C0011053	Deafness, autosomal recessive 44	DisGeNet	
+UGT2B15	C0011053	Deafness, autosomal recessive 44	DisGeNet	
+CYP2C9	C0002895	Anemia, Sickle Cell	DisGeNet	
+UGT1A	C0002895	Anemia, Sickle Cell	DisGeNet	
+UGT1A1	C0002895	Anemia, Sickle Cell	DisGeNet,PheGenI	
+UGT1A10	C0002895	Anemia, Sickle Cell	PheGenI	
+UGT1A3	C0002895	Anemia, Sickle Cell	PheGenI	
+UGT1A6	C0002895	Anemia, Sickle Cell	PheGenI	
+UGT1A7	C0002895	Anemia, Sickle Cell	PheGenI	
+UGT1A8	C0002895	Anemia, Sickle Cell	PheGenI	
+UGT1A9	C0002895	Anemia, Sickle Cell	PheGenI	
+ABCG2	C0860207	Drug-Induced Liver Injury	DisGeNet	
+ALB	C0860207	Drug-Induced Liver Injury	DisGeNet	
+CYP2C9	C0860207	Drug-Induced Liver Injury	DisGeNet	
+CYP2E1	C0860207	Drug-Induced Liver Injury	DisGeNet	
+UGT1A1	C0860207	Drug-Induced Liver Injury	DisGeNet	
+UGT1A3	C0860207	Drug-Induced Liver Injury	DisGeNet	
+UGT1A9	C0860207	Drug-Induced Liver Injury	DisGeNet	
+ABCB5	C0345904	Hepatic cancer metastatic	DisGeNet	
+ALB	C0345904	Hepatic cancer metastatic	DisGeNet	
+CYP2C9	C0345904	Hepatic cancer metastatic	DisGeNet	
+CYP2E1	C0345904	Hepatic cancer metastatic	DisGeNet	
+CYP3A4	C0345904	Hepatic cancer metastatic	DisGeNet	
+UGT1A1	C0345904	Hepatic cancer metastatic	DisGeNet	
+UGT1A10	C0345904	Hepatic cancer metastatic	DisGeNet	
+UGT1A3	C0345904	Hepatic cancer metastatic	DisGeNet	
+UGT1A7	C0345904	Hepatic cancer metastatic	DisGeNet	
+UGT1A8	C0345904	Hepatic cancer metastatic	DisGeNet	
+UGT1A9	C0345904	Hepatic cancer metastatic	DisGeNet	
+UGT2B15	C0345904	Hepatic cancer metastatic	DisGeNet	
+ABCG2	C0206720	Squamous Cell Neoplasms	DisGeNet	
+CYP2E1	C0206720	Squamous Cell Neoplasms	DisGeNet	
+CYP3A4	C0206720	Squamous Cell Neoplasms	DisGeNet	
+ABCG2	C0023530	Leukopenia	DisGeNet	
+CYP3A4	C0023530	Leukopenia	DisGeNet	
+UGT1A	C0023530	Leukopenia	DisGeNet	
+UGT1A1	C0023530	Leukopenia	DisGeNet	
+UGT1A6	C0023530	Leukopenia	DisGeNet	
+UGT1A7	C0023530	Leukopenia	DisGeNet	
+UGT1A8	C0023530	Leukopenia	DisGeNet	
+UGT1A9	C0023530	Leukopenia	DisGeNet	
+UGT1A	C1268717	Mammographic breast density	DisGeNet	
+UGT1A1	C1268717	Mammographic breast density	DisGeNet	
+UGT1A3	C1268717	Mammographic breast density	DisGeNet	
+UGT2B15	C1268717	Mammographic breast density	DisGeNet	
+ABCG2	C0027947	Neutropenia	DisGeNet	
+CYP2C9	C0027947	Neutropenia	DisGeNet	
+CYP3A4	C0027947	Neutropenia	DisGeNet	
+UGT1A	C0027947	Neutropenia	DisGeNet	
+UGT1A1	C0027947	Neutropenia	DisGeNet	
+UGT1A7	C0027947	Neutropenia	DisGeNet	
+UGT1A9	C0027947	Neutropenia	DisGeNet	

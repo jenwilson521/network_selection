@@ -1,0 +1,28 @@
+node_name	node_type	
+DB00541	drug	
+ABCG2	drug_target	
+RALBP1	drug_target	
+ABCB1	drug_target	
+TUBB	drug_target	
+SLCO1B1	drug_target	
+SLCO1B3	drug_target	
+ABCC10	drug_target	
+SLC22A3	drug_target	
+ABCB11	drug_target	
+TUBA4A	drug_target	
+CYP3A4	drug_target	
+CYP3A5	drug_target	
+ABCC1	drug_target	
+ABCC2	drug_target	
+ABCC3	drug_target	
+Adverse drug events and drug allergies	phenotype	
+Drug Allergy	phenotype	
+Leukemia, Myeloid, Chronic-Phase	phenotype	
+Primary malignant neoplasm of liver	phenotype	
+Neutropenia	phenotype	
+Cholestasis, benign recurrent intrahepatic 1	phenotype	
+Primary biliary cirrhosis	phenotype	
+Hyperbilirubinemia	phenotype	
+Squamous Cell Neoplasms	phenotype	
+Cocaine delirium	phenotype	
+Leukopenia	phenotype	

@@ -1,0 +1,5 @@
+node1	node2	edge_score	
+DB11118	GLUL	1.0	
+DB11118	CPS1	1.0	
+DB11118	GLS2	1.0	
+

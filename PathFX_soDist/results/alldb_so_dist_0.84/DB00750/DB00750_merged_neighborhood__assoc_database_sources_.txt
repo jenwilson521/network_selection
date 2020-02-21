@@ -1,0 +1,93 @@
+Gene	CUI	Source Databases	
+SCN5A	C0035828	Romano-Ward syndrome	ClinVar,DisGeNet	
+SCN5A	C1631597	VENTRICULAR TACHYCARDIA, CATECHOLAMINERGIC POLYMORPHIC, 1 (disorder)	DisGeNet	
+SCN5A	C0030252	Palpitations	HumPhenOnt	
+SCN5A	C1960469	Left ventricular noncompaction	DisGeNet	
+SCN5A	C0410000	Overlap syndrome	DisGeNet	
+SCN5A	C0151878	Prolonged QT interval	DisGeNet,HumPhenOnt	
+SCN5A	C1141890	Congenital long QT syndrome	DisGeNet	
+SCN5A	C0011071	Sudden death	DisGeNet,HumPhenOnt	
+SCN5A	C0235480	Paroxysmal atrial fibrillation	DisGeNet,HumPhenOnt	
+SCN5A	C4025244	Abnormal atrioventricular conduction	HumPhenOnt	
+SCN5A	C0042514	Ventricular tachycardia, catecholaminergic polymorphic, 2	DisGeNet	
+SCN5A	C0741923	cardiac event	DisGeNet	
+SCN5A	C0004245	Atrioventricular block	DisGeNet,HumPhenOnt	
+SCN5A	C4025755	Primary atrial arrhythmia	HumPhenOnt	
+SCN5A	C0042510	Ventricular fibrillation	DisGeNet,HumPhenOnt	
+SCN5A	C0005859	Bloom syndrome	DisGeNet	
+SCN5A	C0438215	Abnormal cardiac test	HumPhenOnt	
+SCN5A	C0428974	Supraventricular arrhythmia	HumPhenOnt	
+SCN5A	C0428977	Bradycardia	DisGeNet,HumPhenOnt	
+SCN5A	C0008628	Chromosome Xq28 deletion syndrome	DisGeNet	
+SCN5A	C1142166	Brugada Syndrome	ClinVar,DisGeNet,PheGenI	
+SCN5A	C0522055	Abnormal EKG	DisGeNet,HumPhenOnt	
+SCN5A	C1720983	Channelopathies	DisGeNet	
+SCN5A	C0039240	Supraventricular tachycardia	HumPhenOnt	
+SCN5A	C0340427	Familial dilated cardiomyopathy	ClinVar,DisGeNet	
+SCN5A	C0949658	Familial hypertrophic cardiomyopathy 11	DisGeNet	
+SCN5A	C0039070	Syncope	DisGeNet,HumPhenOnt	
+SCN5A	C0085612	Ventricular arrhythmia	HumPhenOnt	
+SCN5A	C0036974	Shock, Septic	DisGeNet	
+SCN5A	C1397307	Cardiac fibrosis	DisGeNet	
+SCN5A	C0338480	Common Migraine	DisGeNet	
+SCN5A	C0349788	Arrhythmogenic right ventricular cardiomyopathy, type 11	DisGeNet	
+SCN5A	C0025268	Multiple Endocrine Neoplasia Type 2a	DisGeNet	
+SCN5A	C0432306	Ichthyosis bullosa of Siemens	DisGeNet	
+SCN5A	C0340279	Ventricular hypertrophy	HumPhenOnt	
+SCN5A	C0018794	Heart block	DisGeNet,HumPhenOnt	
+SCN5A	C0152021	Congenital heart disease	DisGeNet	
+SCN5A	C0038644	SUDDEN INFANT DEATH SYNDROME	ClinVar,DisGeNet	
+SCN5A	C0023976	Acquired long QT syndrome	DisGeNet	
+SCN5A	C4024995	Abnormality of the atrioventricular valves	HumPhenOnt	
+SCN5A	C0232197	Ventricular Fibrillation Adverse Event	DisGeNet	
+SCN5A	C4021524	Abnormality of adipose tissue	HumPhenOnt	
+SCN5A	C0476403	EMG abnormality	HumPhenOnt	
+SCN5A	C3827868	Tachycardia	DisGeNet,HumPhenOnt	
+SCN5A	C0085298	Sudden cardiac death	DisGeNet,HumPhenOnt	
+SCN5A	C0410226	Congenital Myotonic Dystrophy	DisGeNet	
+SCN5A	C0022596	Palmoplantar keratoderma, nonepidermolytic, focal	HumPhenOnt	
+SCN5A	C0027126	Steinert myotonic dystrophy syndrome	DisGeNet	
+SCN5A	C0022104	Irritable bowel syndrome with diarrhea	DisGeNet	
+SCN5A	C0023787	Lipoatrophy	HumPhenOnt	
+SCN5A	C0041408	46,XY gonadal dysgenesis, partial, with minifascicular neuropathy	DisGeNet	
+SCN5A	C0004238	Atrial Fibrillation	DisGeNet,HumPhenOnt	
+SCN5A	C0427515	Abnormality of granulocytes	HumPhenOnt	
+SCN5A	C4022001	Abnormality of the cerebral vasculature	HumPhenOnt	
+SCN5A	C0085648	Synovial Cyst	DisGeNet	
+SCN5A	C1836142	Congenital onset	HumPhenOnt	
+SCN5A	C0000737	Abdominal pain	DisGeNet	
+SCN5A	C4023591	Abnormality of circulating enzyme level	HumPhenOnt	
+SCN5A	C0241005	Elevated serum creatine phosphokinase	HumPhenOnt	
+SCN5A	C4023618	Abnormality of myeloid leukocytes	HumPhenOnt	
+SCN5A	C0013404	Dyspnea	HumPhenOnt	
+SCN5A	C0018790	Cardiac arrest	DisGeNet,HumPhenOnt	
+SCN5A	C1546180	Age of death	HumPhenOnt	
+SCN5A	C4022499	Mortality/Aging	HumPhenOnt	
+SCN5A	C0009806	Constipation	DisGeNet	
+SCN5A	C0155626	Acute myocardial infarction	DisGeNet	
+SCN5A	C0019409	Heterogeneous	HumPhenOnt	
+SCN5A	C0241654	Abnormality of the heart valves	HumPhenOnt	
+SCN5A	C0870082	Hyperkeratosis	HumPhenOnt	
+SCN5A	C0149721	Left ventricular hypertrophy	DisGeNet,HumPhenOnt	
+SCN5A	C4023679	Abnormality of circulating protein level	HumPhenOnt	
+SCN5A	C0018800	Cardiomegaly	DisGeNet	
+SCN5A	C4025752	Abnormality of cardiac ventricle	HumPhenOnt	
+SCN5A	C0494876	Epidermal thickening	HumPhenOnt	
+SCN5A	C0003130	Hypoxia	DisGeNet	
+SCN5A	C0003811	Arrhythmias, Cardiac	DisGeNet,HumPhenOnt	
+SCN5A	C0241165	Thickened skin	HumPhenOnt	
+SCN5A	C0278488	Carcinoma breast stage IV	DisGeNet	
+SCN5A	C4025758	Abnormality of the myocardium	HumPhenOnt	
+SCN5A	C0011991	Diarrhea 8, secretory sodium, congenital	DisGeNet	
+SCN5A	C1292769	B Acute Lymphoblastic Leukemia with t(9;22)(q34;q11.2); BCR-ABL1	DisGeNet	
+SCN5A	C0018799	Heart Diseases	DisGeNet	
+SCN5A	C0152009	Abnormal leukocyte count	HumPhenOnt	
+SCN5A	C4023612	Abnormality of cellular immune system	HumPhenOnt	
+SCN5A	C0007786	Brain Ischemia	DisGeNet	
+SCN5A	C0026848	Myopathy, scapulohumeroperoneal	HumPhenOnt	
+SCN5A	C0007193	Cardiomyopathy, Dilated	ClinVar,DisGeNet,HumPhenOnt	
+SCN5A	C0151744	Acute myocardial ischemia	DisGeNet	
+SCN5A	C0011570	{Unipolar depression, susceptibility to}, 608516 (3)	DisGeNet	
+SCN5A	C4023382	Functional abnormality of the inner ear	HumPhenOnt	
+SCN5A	C4021809	Abnormality of the inner ear	HumPhenOnt	
+SCN5A	C0022116	Ischemia	DisGeNet	

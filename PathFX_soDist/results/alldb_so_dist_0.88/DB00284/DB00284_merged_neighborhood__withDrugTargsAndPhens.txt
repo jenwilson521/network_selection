@@ -1,0 +1,6 @@
+node1	node2	edge_score	
+DB00284	MGAM	1.0	
+DB00284	AMY2A	1.0	
+DB00284	GAA	1.0	
+DB00284	SI	1.0	
+

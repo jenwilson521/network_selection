@@ -1,0 +1,19 @@
+node_name	node_type	
+DB00470	drug	
+CYP2C9	drug_target	
+CYP1A1	drug_target	
+PTGS1	drug_target	
+ABCG2	drug_target	
+ABCB1	drug_target	
+CYP2C19	drug_target	
+CYP2A6	drug_target	
+CYP3A4	drug_target	
+CNR1	drug_target	
+Pleural Neoplasms	phenotype	
+Genomic Instability	phenotype	
+Neurotoxicity Syndromes	phenotype	
+Drug Allergy	phenotype	
+Peptic ulcer	phenotype	
+Primary malignant neoplasm of liver	phenotype	
+Epilepsy, focal, with speech disorder and with or without mental retardation	phenotype	
+Nausea	phenotype	

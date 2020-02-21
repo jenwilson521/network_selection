@@ -1,0 +1,44 @@
+node_name	node_type	
+DB13961	drug	
+PTGS2	drug_target	
+PPARG	drug_target	
+PPARD	drug_target	
+SREBF1	drug_target	
+PPARA	drug_target	
+CYP3A4	drug_target	
+Dyslipidemias	phenotype	
+Bone necrosis	phenotype	
+Overweight	phenotype	
+Steatohepatitis	phenotype	
+gliosarcoma	phenotype	
+Hepatic steatosis	phenotype	
+Hyperlipidemia, combined, 1	phenotype	
+Non-alcoholic Fatty Liver Disease	phenotype	
+Liver regeneration disorder	phenotype	
+Type 1 diabetic neuropathy	phenotype	
+Thyroid associated opthalmopathies	phenotype	
+Femur Head Necrosis	phenotype	
+Squamous Cell Neoplasms	phenotype	
+Anterior myocardial infarction	phenotype	
+Enzyme inhibition disorder	phenotype	
+Hypercholesterolemia, autosomal dominant, type B	phenotype	
+Neoplasm of the rectum	phenotype	
+Acute postoperative pain	phenotype	
+Lipoidosis	phenotype	
+Disorders of Intracellular Cobalamin Metabolism	phenotype	
+Knee osteoarthritis	phenotype	
+Hypertriglyceridemia	phenotype	
+Obesity, Visceral	phenotype	
+Monocytic leukemia	phenotype	
+Hypertriglyceridemia result	phenotype	
+Kidney Failure, Chronic	phenotype	
+Pediatric Obesity	phenotype	
+Obesity, severe, 601665 (3)	phenotype	
+Insulin resistance syndrome	phenotype	
+Metabolic Syndrome X	phenotype	
+Acute hepatic failure	phenotype	
+Coronary Restenosis	phenotype	
+Endometrial Neoplasms	phenotype	
+Acute kidney injury	phenotype	
+Left ventricular hypertrophy	phenotype	
+Pain insensitivity	phenotype	

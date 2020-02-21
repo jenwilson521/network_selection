@@ -1,0 +1,40 @@
+node1	node2	edge_score	
+DB00376	CHRM4	1.0	
+DB00376	CHRM3	1.0	
+DB00376	CHRM2	1.0	
+DB00376	CHRM1	1.0	
+CHRM2		1.0
+Alcohol dependence	CHRM2	1.0	
+Alzheimer Disease	CHRM2	1.0	
+Hypoxia	CHRM2	1.0	
+Asthma	CHRM2	1.0	
+Mental disorders	CHRM2	1.0	
+Bipolar affective disorder	CHRM2	1.0	
+Cardiomyopathy, Dilated	CHRM2	1.0	
+{Unipolar depression, susceptibility to}, 608516 (3)	CHRM2	1.0	
+Depressive Disorder	CHRM2	1.0	
+Diabetes Mellitus, Type 1	CHRM2	1.0	
+Diabetes mellitus type 1	CHRM2	1.0	
+Type 1 diabetic neuropathy	CHRM2	1.0	
+Epilepsy	CHRM2	1.0	
+Heart Diseases	CHRM2	1.0	
+Inflammation	CHRM2	1.0	
+Multiple Sclerosis	CHRM2	1.0	
+Myocardial Infarction	CHRM2	1.0	
+Epiphyseal dysplasia, multiple, with myopia and conductive deafness	CHRM2	1.0	
+Nicotine Dependence	CHRM2	1.0	
+Obesity	CHRM2	1.0	
+Schizophrenia	CHRM2	1.0	
+Substance addiction and disorders	CHRM2	1.0	
+Tobacco Use Disorder	CHRM2	1.0	
+Unipolar Depression	CHRM2	1.0	
+Alcohol abuse	CHRM2	1.0	
+Recurrent major depressive episodes	CHRM2	1.0	
+Acute myocardial infarction	CHRM2	1.0	
+Ventricular Fibrillation Adverse Event	CHRM2	1.0	
+Substance-Related Disorders	CHRM2	1.0	
+Familial dilated cardiomyopathy	CHRM2	1.0	
+Bradycardia	CHRM2	1.0	
+Mood Disorders	CHRM2	1.0	
+Major depressive disorder	CHRM2	1.0	
+Drug Dependence	CHRM2	1.0	

@@ -1,0 +1,4 @@
+node_name	node_type	
+DB00928	drug	
+DNMT1	drug_target	
+CDA	drug_target	

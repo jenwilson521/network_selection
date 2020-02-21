@@ -1,0 +1,7 @@
+node_name	node_type	
+DB00900	drug	
+PNP	drug_target	
+SLC22A6	drug_target	
+ALB	drug_target	
+SLC29A2	drug_target	
+SLC29A1	drug_target	

@@ -1,0 +1,5 @@
+node1	node2	edge_score	
+DB06215	TF	1.0	
+DB06215	FTH1	1.0	
+DB06215	FTL	1.0	
+

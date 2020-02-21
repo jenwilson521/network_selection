@@ -1,0 +1,8 @@
+node_name	node_type	
+DB01185	drug	
+NR3C1	drug_target	
+ESR1	drug_target	
+PRLR	drug_target	
+SHBG	drug_target	
+AR	drug_target	
+HSD11B2	drug_target	

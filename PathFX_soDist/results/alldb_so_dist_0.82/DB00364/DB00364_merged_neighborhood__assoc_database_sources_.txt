@@ -1,0 +1,645 @@
+Gene	CUI	Source Databases	
+EGF	C0001418	 Adenocarcinoma, ovarian, somatic, 167000 (3)	DisGeNet	
+FGF2	C0001418	 Adenocarcinoma, ovarian, somatic, 167000 (3)	DisGeNet	
+EGF	C0001430	Adenomas, multiple colorectal, 608456 (3)	DisGeNet	
+FGF2	C0001430	Adenomas, multiple colorectal, 608456 (3)	DisGeNet	
+EGF	C0002736	Amyotrophic Lateral Sclerosis	DisGeNet	
+FGF2	C0002736	Amyotrophic Lateral Sclerosis	DisGeNet	
+EGF	C0002793	Anaplasia	DisGeNet	
+FGF2	C0002793	Anaplasia	DisGeNet	
+EGF	C0003850	Arteriosclerosis	DisGeNet	
+FGF2	C0003850	Arteriosclerosis	DisGeNet	
+EGF	C0003872	Arthritis, Psoriatic	DisGeNet	
+FGF2	C0003872	Arthritis, Psoriatic	DisGeNet	
+EGF	C0003873	Rheumatoid arthritis	DisGeNet	
+FGF2	C0003873	Rheumatoid arthritis	DisGeNet	
+EGF	C0004096	Asthma	DisGeNet	
+FGF2	C0004096	Asthma	DisGeNet	
+EGF	C0004114	Astrocytoma	DisGeNet	
+FGF2	C0004114	Astrocytoma	DisGeNet	
+EGF	C0004153	Atherosclerosis	DisGeNet	
+FGF2	C0004153	Atherosclerosis	DisGeNet	
+EGF	C0004763	Barrett Esophagus	DisGeNet	
+FGF2	C0004763	Barrett Esophagus	DisGeNet	
+EGF	C0005684	Malignant tumor of urinary bladder	DisGeNet	
+FGF2	C0005684	Malignant tumor of urinary bladder	DisGeNet	
+EGF	C0006118	Brain neoplasm	DisGeNet	
+FGF2	C0006118	Brain neoplasm	DisGeNet	
+EGF	C0006142	Breast-ovarian cancer, familial 1	DisGeNet	
+FGF2	C0006142	Breast-ovarian cancer, familial 1	DisGeNet	
+EGF	C0007102	Colon cancer	DisGeNet	
+FGF2	C0007102	Colon cancer	DisGeNet	
+EGF	C0007103	Malignant neoplasm of endometrium	DisGeNet	
+FGF2	C0007103	Malignant neoplasm of endometrium	DisGeNet	
+EGF	C0007115	Thyroid cancer, nonmedullary, 4	DisGeNet	
+FGF2	C0007115	Thyroid cancer, nonmedullary, 4	DisGeNet	
+EGF	C0007131	Non-small cell lung carcinoma	DisGeNet	
+FGF2	C0007131	Non-small cell lung carcinoma	DisGeNet	
+EGF	C0007134	Renal cell carcinoma, nonpapillary	DisGeNet	
+FGF2	C0007134	Renal cell carcinoma, nonpapillary	DisGeNet	
+EGF	C0007137	Squamous cell carcinoma	DisGeNet	
+FGF2	C0007137	Squamous cell carcinoma	DisGeNet	
+EGF	C0007138	Urothelial Carcinoma	DisGeNet	
+FGF2	C0007138	Urothelial Carcinoma	DisGeNet	
+EGF	C0007847	Malignant tumor of cervix	DisGeNet	
+FGF2	C0007847	Malignant tumor of cervix	DisGeNet	
+EGF	C0008373	Cholesteatoma	DisGeNet	
+FGF2	C0008373	Cholesteatoma	DisGeNet	
+EGF	C0008497	Choriocarcinoma	DisGeNet	
+FGF2	C0008497	Choriocarcinoma	DisGeNet	
+EGF	C0008925	Cleft Palate	DisGeNet	
+FGF2	C0008925	Cleft Palate	DisGeNet	
+EGF	C0009402	Colorectal cancer 1	DisGeNet	
+FGF2	C0009402	Colorectal cancer 1	DisGeNet	
+EGF	C0009404	Colorectal Neoplasms	DisGeNet	
+FGF2	C0009404	Colorectal Neoplasms	DisGeNet	
+EGF	C0010278	Craniosynostoses	DisGeNet	
+FGF2	C0010278	Craniosynostoses	DisGeNet	
+EGF	C0011854	Diabetes mellitus type 1	DisGeNet	
+FGF2	C0011854	Diabetes mellitus type 1	DisGeNet	
+EGF	C0011860	Diabetes mellitus type 2	DisGeNet	
+FGF2	C0011860	Diabetes mellitus type 2	DisGeNet	
+EGF	C0011881	Diabetic Nephropathies	DisGeNet	
+FGF2	C0011881	Diabetic Nephropathies	DisGeNet	
+EGF	C0014175	Endometriosis	DisGeNet	
+FGF2	C0014175	Endometriosis	DisGeNet	
+EGF	C0014859	Esophageal Neoplasms	DisGeNet	
+FGF2	C0014859	Esophageal Neoplasms	DisGeNet	
+EGF	C0015302	Exostoses	DisGeNet	
+FGF2	C0015302	Exostoses	DisGeNet	
+EGF	C0017152	Gastritis	DisGeNet	
+FGF2	C0017152	Gastritis	DisGeNet	
+EGF	C0017636	Glioblastoma	DisGeNet	
+FGF2	C0017636	Glioblastoma	DisGeNet	
+EGF	C0017638	Glioma	DisGeNet	
+FGF2	C0017638	Glioma	DisGeNet	
+EGF	C0018021	Goiter, multinodular 1, with or without sertoli-leydig cell tumors	DisGeNet	
+FGF2	C0018021	Goiter, multinodular 1, with or without sertoli-leydig cell tumors	DisGeNet	
+EGF	C0018671	Head and Neck Neoplasms	DisGeNet	
+FGF2	C0018671	Head and Neck Neoplasms	DisGeNet	
+EGF	C0019348	Herpes Simplex Infections	DisGeNet	
+FGF2	C0019348	Herpes Simplex Infections	DisGeNet	
+EGF	C0020538	Hypertension	DisGeNet	
+FGF2	C0020538	Hypertension	DisGeNet	
+EGF	C0020542	Pulmonary hypertension, neonatal, susceptibility to	DisGeNet	
+FGF2	C0020542	Pulmonary hypertension, neonatal, susceptibility to	DisGeNet	
+EGF	C0021368	Inflammation	DisGeNet	
+FGF2	C0021368	Inflammation	DisGeNet	
+EGF	C0021390	Inflammatory Bowel Diseases	DisGeNet	
+FGF2	C0021390	Inflammatory Bowel Diseases	DisGeNet	
+EGF	C0022116	Ischemia	DisGeNet	
+FGF2	C0022116	Ischemia	DisGeNet	
+EGF	C0022658	Kidney Diseases	DisGeNet	
+FGF2	C0022658	Kidney Diseases	DisGeNet	
+EGF	C0023267	Leiomyoma	DisGeNet	
+FGF2	C0023267	Leiomyoma	DisGeNet	
+EGF	C0023434	Chronic Lymphocytic Leukemia	DisGeNet	
+FGF2	C0023434	Chronic Lymphocytic Leukemia	DisGeNet	
+EGF	C0023449	Acute lymphoid leukemia	DisGeNet	
+FGF2	C0023449	Acute lymphoid leukemia	DisGeNet	
+EGF	C0023467	Acute myeloid leukemia	DisGeNet	
+FGF2	C0023467	Acute myeloid leukemia	DisGeNet	
+EGF	C0023473	Chronic myeloid leukemia	DisGeNet	
+FGF2	C0023473	Chronic myeloid leukemia	DisGeNet	
+EGF	C0023890	Liver Cirrhosis, Biliary	DisGeNet	
+FGF2	C0023890	Liver Cirrhosis, Biliary	DisGeNet	
+EGF	C0023903	Neoplasm of the liver	DisGeNet	
+FGF2	C0023903	Neoplasm of the liver	DisGeNet	
+EGF	C0024117	Chronic obstructive pulmonary disease	DisGeNet	
+FGF2	C0024117	Chronic obstructive pulmonary disease	DisGeNet	
+EGF	C0024299	Lymphoma, Large B-Cell, Diffuse	DisGeNet	
+FGF2	C0024299	Lymphoma, Large B-Cell, Diffuse	DisGeNet	
+EGF	C0024623	{Gastric cancer risk after H. pylori infection}, 137215 (3)	DisGeNet	
+FGF2	C0024623	{Gastric cancer risk after H. pylori infection}, 137215 (3)	DisGeNet	
+EGF	C0024667	Animal Mammary Neoplasms	DisGeNet	
+FGF2	C0024667	Animal Mammary Neoplasms	DisGeNet	
+EGF	C0025202	Melanoma	DisGeNet	
+FGF2	C0025202	Melanoma	DisGeNet	
+EGF	C0025286	Meningioma	DisGeNet	
+FGF2	C0025286	Meningioma	DisGeNet	
+EGF	C0025500	Mesothelioma, malignant	DisGeNet	
+FGF2	C0025500	Mesothelioma, malignant	DisGeNet	
+EGF	C0026764	Multiple Myeloma	DisGeNet	
+FGF2	C0026764	Multiple Myeloma	DisGeNet	
+EGF	C0027627	Secondary hypertriglyceridemia	DisGeNet	
+FGF2	C0027627	Secondary hypertriglyceridemia	DisGeNet	
+EGF	C0027643	Neoplasm Recurrence, Local	DisGeNet	
+FGF2	C0027643	Neoplasm Recurrence, Local	DisGeNet	
+EGF	C0027686	Pathologic Neovascularization	DisGeNet	
+FGF2	C0027686	Pathologic Neovascularization	DisGeNet	
+EGF	C0027962	Melanocytic nevus	DisGeNet	
+FGF2	C0027962	Melanocytic nevus	DisGeNet	
+EGF	C0028754	Obesity	DisGeNet	
+FGF2	C0028754	Obesity	DisGeNet	
+EGF	C0029408	Osteoarthritis	DisGeNet	
+FGF2	C0029408	Osteoarthritis	DisGeNet	
+EGF	C0030297	Pancreatic Neoplasms	DisGeNet	
+FGF2	C0030297	Pancreatic Neoplasms	DisGeNet	
+EGF	C0030567	Parkinson Disease	DisGeNet	
+FGF2	C0030567	Parkinson Disease	DisGeNet	
+EGF	C0032000	Pituitary adenoma	DisGeNet	
+FGF2	C0032000	Pituitary adenoma	DisGeNet	
+EGF	C0032002	Abnormality of the pituitary gland	DisGeNet	
+FGF2	C0032002	Abnormality of the pituitary gland	DisGeNet	
+EGF	C0032019	Pituitary Neoplasms	DisGeNet	
+FGF2	C0032019	Pituitary Neoplasms	DisGeNet	
+EGF	C0032914	Preeclampsia/eclampsia 1	DisGeNet	
+FGF2	C0032914	Preeclampsia/eclampsia 1	DisGeNet	
+EGF	C0032927	Precancerous Conditions	DisGeNet	
+FGF2	C0032927	Precancerous Conditions	DisGeNet	
+EGF	C0033575	Prostatic Diseases	DisGeNet	
+FGF2	C0033575	Prostatic Diseases	DisGeNet	
+EGF	C0033578	Prostatic Neoplasms	DisGeNet	
+FGF2	C0033578	Prostatic Neoplasms	DisGeNet	
+EGF	C0034069	Pulmonary fibrosis and/or bone marrow failure, telomere-related, 4	DisGeNet	
+FGF2	C0034069	Pulmonary fibrosis and/or bone marrow failure, telomere-related, 4	DisGeNet	
+EGF	C0035126	Reperfusion Injury	DisGeNet	
+FGF2	C0035126	Reperfusion Injury	DisGeNet	
+EGF	C0036421	Scleroderma	DisGeNet	
+FGF2	C0036421	Scleroderma	DisGeNet	
+EGF	C0036572	Seizures, Febrile	HumPhenOnt	
+FGF2	C0036572	Seizures, Febrile	DisGeNet	
+EGF	C0038358	Gastric ulcer	DisGeNet	
+FGF2	C0038358	Gastric ulcer	DisGeNet	
+EGF	C0040136	Thyroid Neoplasms	DisGeNet	
+FGF2	C0040136	Thyroid Neoplasms	DisGeNet	
+EGF	C0041696	Unipolar Depression	DisGeNet	
+FGF2	C0041696	Unipolar Depression	DisGeNet	
+EGF	C0042133	Uterine leiomyoma	DisGeNet	
+FGF2	C0042133	Uterine leiomyoma	DisGeNet	
+EGF	C0042769	Virus Diseases	DisGeNet	
+FGF2	C0042769	Virus Diseases	DisGeNet	
+EGF	C0085109	Corneal neovascularization	DisGeNet	
+FGF2	C0085109	Corneal neovascularization	DisGeNet	
+EGF	C0149925	Small cell lung cancer	DisGeNet	
+FGF2	C0149925	Small cell lung cancer	DisGeNet	
+EGF	C0151779	Cutaneous malignant melanoma 3	DisGeNet	
+FGF2	C0151779	Cutaneous malignant melanoma 3	DisGeNet	
+EGF	C0152013	Adenocarcinoma of lung	DisGeNet	
+FGF2	C0152013	Adenocarcinoma of lung	DisGeNet	
+EGF	C0152018	Esophageal carcinoma	DisGeNet	
+FGF2	C0152018	Esophageal carcinoma	DisGeNet	
+EGF	C0152171	Primary pulmonary hypertension	DisGeNet	
+FGF2	C0152171	Primary pulmonary hypertension	DisGeNet	
+EGF	C0153574	Uterine Corpus Cancer	DisGeNet	
+FGF2	C0153574	Uterine Corpus Cancer	DisGeNet	
+EGF	C0153633	Malignant neoplasm of brain and nervous system	DisGeNet	
+FGF2	C0153633	Malignant neoplasm of brain and nervous system	DisGeNet	
+EGF	C0153676	Secondary malignant neoplasm of lung	DisGeNet	
+FGF2	C0153676	Secondary malignant neoplasm of lung	DisGeNet	
+EGF	C0155552	Hearing Loss, Mixed Conductive-Sensorineural	DisGeNet	
+FGF2	C0155552	Hearing Loss, Mixed Conductive-Sensorineural	DisGeNet	
+EGF	C0178874	Tumor Progression	DisGeNet	
+FGF2	C0178874	Tumor Progression	DisGeNet	
+EGF	C0206659	Embryonal Carcinoma	DisGeNet	
+FGF2	C0206659	Embryonal Carcinoma	DisGeNet	
+EGF	C0206682	Thyroid cancer, follicular	DisGeNet	
+FGF2	C0206682	Thyroid cancer, follicular	DisGeNet	
+EGF	C0206686	Adrenocortical carcinoma	DisGeNet	
+FGF2	C0206686	Adrenocortical carcinoma	DisGeNet	
+EGF	C0220633	Intraocular melanoma	DisGeNet	
+FGF2	C0220633	Intraocular melanoma	DisGeNet	
+EGF	C0235974	Pancreatic Carcinoma	DisGeNet	
+FGF2	C0235974	Pancreatic Carcinoma	DisGeNet	
+EGF	C0238463	Papillary thyroid carcinoma	DisGeNet	
+FGF2	C0238463	Papillary thyroid carcinoma	DisGeNet	
+EGF	C0239946	Hepatic fibrosis	DisGeNet	
+FGF2	C0239946	Hepatic fibrosis	DisGeNet	
+EGF	C0242379	Malignant neoplasm of lung	DisGeNet	
+FGF2	C0242379	Malignant neoplasm of lung	DisGeNet	
+EGF	C0242383	Age-related macular degeneration 2	DisGeNet	
+FGF2	C0242383	Age-related macular degeneration 2	DisGeNet	
+EGF	C0242656	Disease Progression	DisGeNet	
+FGF2	C0242656	Disease Progression	DisGeNet	
+EGF	C0278701	Gastric Adenocarcinoma	DisGeNet	
+FGF2	C0278701	Gastric Adenocarcinoma	DisGeNet	
+EGF	C0278996	Cancer of Head and Neck	DisGeNet	
+FGF2	C0278996	Cancer of Head and Neck	DisGeNet	
+EGF	C0279626	Esophageal Squamous Cell Carcinoma	DisGeNet	
+FGF2	C0279626	Esophageal Squamous Cell Carcinoma	DisGeNet	
+EGF	C0279628	Adenocarcinoma Of Esophagus	DisGeNet	
+FGF2	C0279628	Adenocarcinoma Of Esophagus	DisGeNet	
+EGF	C0280100	Solid tumour	DisGeNet	
+FGF2	C0280100	Solid tumour	DisGeNet	
+EGF	C0302592	Carcinoma of cervix	DisGeNet	
+FGF2	C0302592	Carcinoma of cervix	DisGeNet	
+EGF	C0345967	Malignant mesothelioma	DisGeNet	
+FGF2	C0345967	Malignant mesothelioma	DisGeNet	
+EGF	C0346647	Malignant neoplasm of pancreas	DisGeNet	
+FGF2	C0346647	Malignant neoplasm of pancreas	DisGeNet	
+EGF	C0376358	Malignant tumor of prostate	DisGeNet	
+FGF2	C0376358	Malignant tumor of prostate	DisGeNet	
+EGF	C0476089	Endometrial carcinoma	DisGeNet	
+FGF2	C0476089	Endometrial carcinoma	DisGeNet	
+EGF	C0497388	Nevus	DisGeNet	
+FGF2	C0497388	Nevus	DisGeNet	
+EGF	C0521158	Recurrent tumor	DisGeNet	
+FGF2	C0521158	Recurrent tumor	DisGeNet	
+EGF	C0524910	Hepatitis C, Chronic	DisGeNet	
+FGF2	C0524910	Hepatitis C, Chronic	DisGeNet	
+EGF	C0546837	Malignant tumor of esophagus	DisGeNet	
+FGF2	C0546837	Malignant tumor of esophagus	DisGeNet	
+EGF	C0549473	Thyroid carcinoma	DisGeNet	
+FGF2	C0549473	Thyroid carcinoma	DisGeNet	
+EGF	C0555198	Malignant Glioma	DisGeNet	
+FGF2	C0555198	Malignant Glioma	DisGeNet	
+EGF	C0585442	Osteosarcoma	DisGeNet	
+FGF2	C0585442	Osteosarcoma	DisGeNet	
+EGF	C0596263	Carcinogenesis	DisGeNet	
+FGF2	C0596263	Carcinogenesis	DisGeNet	
+EGF	C0600139	Prostate carcinoma	DisGeNet	
+FGF2	C0600139	Prostate carcinoma	DisGeNet	
+EGF	C0677886	Ovarian epithelial cancer	DisGeNet	
+FGF2	C0677886	Ovarian epithelial cancer	DisGeNet	
+EGF	C0678222	Breast carcinoma	DisGeNet	
+FGF2	C0678222	Breast carcinoma	DisGeNet	
+EGF	C0684249	Lung cancer	DisGeNet	
+FGF2	C0684249	Lung cancer	DisGeNet	
+EGF	C0699790	Carcinoma of colon	DisGeNet	
+FGF2	C0699790	Carcinoma of colon	DisGeNet	
+EGF	C0699791	Stomach cancer	DisGeNet	
+FGF2	C0699791	Stomach cancer	DisGeNet	
+EGF	C0699885	Bladder carcinoma	DisGeNet	
+FGF2	C0699885	Bladder carcinoma	DisGeNet	
+EGF	C0700095	Neuroblastoma	DisGeNet	
+FGF2	C0700095	Neuroblastoma	DisGeNet	
+EGF	C0740391	Middle Cerebral Artery Occlusion	DisGeNet	
+FGF2	C0740391	Middle Cerebral Artery Occlusion	DisGeNet	
+EGF	C0740457	Malignant neoplasm of kidney	DisGeNet	
+FGF2	C0740457	Malignant neoplasm of kidney	DisGeNet	
+EGF	C0919267	Ovarian Neoplasms	DisGeNet	
+FGF2	C0919267	Ovarian Neoplasms	DisGeNet	
+EGF	C1140680	BREAST-OVARIAN CANCER, FAMILIAL, SUSCEPTIBILITY TO, 4	DisGeNet	
+FGF2	C1140680	BREAST-OVARIAN CANCER, FAMILIAL, SUSCEPTIBILITY TO, 4	DisGeNet	
+EGF	C1153706	Endometrial adenocarcinoma	DisGeNet	
+FGF2	C1153706	Endometrial adenocarcinoma	DisGeNet	
+EGF	C1168401	Squamous cell carcinoma of the head and neck	DisGeNet	
+FGF2	C1168401	Squamous cell carcinoma of the head and neck	DisGeNet	
+EGF	C1261473	Sarcoma, Ewing	DisGeNet	
+FGF2	C1261473	Sarcoma, Ewing	DisGeNet	
+EGF	C1269683	Major depressive disorder	DisGeNet	
+FGF2	C1269683	Major depressive disorder	DisGeNet	
+EGF	C1456781	Benign melanocytic nevus	DisGeNet	
+FGF2	C1456781	Benign melanocytic nevus	DisGeNet	
+EGF	C1519670	Tumor Angiogenesis	DisGeNet	
+FGF2	C1519670	Tumor Angiogenesis	DisGeNet	
+EGF	C1527249	Colorectal cancer	DisGeNet	
+FGF2	C1527249	Colorectal cancer	DisGeNet	
+EGF	C1704272	Benign Prostatic Hyperplasia	DisGeNet	
+FGF2	C1704272	Benign Prostatic Hyperplasia	DisGeNet	
+EGF	C1800706	Idiopathic Pulmonary Fibrosis	DisGeNet	
+FGF2	C1800706	Idiopathic Pulmonary Fibrosis	DisGeNet	
+EGF	C2239176	Hepatocellular carcinoma	DisGeNet	
+FGF2	C2239176	Hepatocellular carcinoma	DisGeNet	
+EGF	C3203102	Pulmonary arterial hypertension	DisGeNet	
+FGF2	C3203102	Pulmonary arterial hypertension	DisGeNet	
+EGF	C3266877	Secondary malignant neoplasm of pancreas	DisGeNet	
+FGF2	C3266877	Secondary malignant neoplasm of pancreas	DisGeNet	
+EGF	C3539878	Triple Negative Breast Neoplasms	DisGeNet	
+FGF2	C3539878	Triple Negative Breast Neoplasms	DisGeNet	
+EGF	C3665593	Melanocytic nevus of skin	DisGeNet	
+FGF2	C3665593	Melanocytic nevus of skin	DisGeNet	
+EGF	C3887486	Interstitial fibrosis	DisGeNet	
+FGF2	C3887486	Interstitial fibrosis	DisGeNet	
+EGF	C0339508	Hereditary macular dystrophy	DisGeNet	
+EGF	C0346109	Peritoneal Mesothelioma	DisGeNet	
+EGF	C1260954	Morphologically altered structure	DisGeNet	
+FGF2	C1301700	Cardiovascular morbidity	DisGeNet	
+FGF2	C1691228	Cystic Kidney Diseases	DisGeNet	
+FGF2	C0001080	Achondroplasia	DisGeNet	
+EGF	C0001622	Adrenal Gland Hyperfunction	DisGeNet	
+EGF	C0013312	Dupuytren Contracture	DisGeNet	
+EGF	C0025269	Multiple Endocrine Neoplasia Type 2b	DisGeNet	
+FGF2	C0035328	Thrombosis of retinal vein	DisGeNet	
+EGF	C0280321	Squamous cell carcinoma of the hypopharynx	DisGeNet	
+FGF2	C3536984	Familial X-linked hypophosphatemic vitamin D refractory rickets	DisGeNet	
+EGF	C0206720	Squamous Cell Neoplasms	DisGeNet	
+EGF	C0221406	Pituitary dependent hypercortisolism	DisGeNet	
+EGF	C0744310	gastritis h pylori	DisGeNet	
+EGF	C0242666	Protein S deficiency	DisGeNet	
+EGF	C0267952	Pancreatic fibrosis	DisGeNet	
+FGF2	C0021775	Intermittent claudication	DisGeNet	
+FGF2	C0037926	Spinal cord compression	DisGeNet	
+EGF	C0017150	Gastrinoma	DisGeNet	
+EGF	C0162359	Hypohidrotic X-linked ectodermal dysplasia	DisGeNet	
+FGF2	C0334533	Arteriovenous hemangioma	DisGeNet	
+FGF2	C1519176	Pleomorphic adenoma of salivary gland	DisGeNet	
+EGF	C0026703	Mucopolysaccharidosis, MPS-IV-B	DisGeNet	
+EGF	C0079474	Recessive dystrophic epidermolysis bullosa	DisGeNet	
+EGF	C1853195	Prostate Cancer, Hereditary, 7	DisGeNet	
+EGF	C0221228	Comedone	DisGeNet	
+EGF	C0677944	Sentinel node (disorder)	DisGeNet	
+FGF2	C0029442	Osteomalacia	DisGeNet	
+FGF2	C0041582	Peptic Ulcer Hemorrhage	DisGeNet	
+EGF	C0730292	Bull's eye macular dystrophy	DisGeNet	
+EGF	C0175704	Noonan syndrome with multiple lentigines	DisGeNet	
+EGF	C0276623	Chronic viral hepatitis	DisGeNet	
+EGF	C0587248	Costello syndrome	DisGeNet	
+EGF	C3669246	Mammary adenocarcinoma	DisGeNet	
+EGF	C0013581	Ectopia lentis, isolated autosomal recessive	DisGeNet	
+FGF2	C0032969	Pregnancy in Diabetics	DisGeNet	
+EGF	C0280280	Prostate cancer stage C	DisGeNet	
+EGF	C3665419	Intracranial glioma	DisGeNet	
+EGF	C0149939	Obstructive nephropathy	DisGeNet	
+EGF	C0403592	Chronic rejection of renal transplant	DisGeNet	
+EGF	C0751587	CADASIL	DisGeNet	
+EGF	C0007140	Carcinosarcoma	DisGeNet	
+EGF	C0272138	Erythroblastosis	DisGeNet	
+FGF2	C0750979	Primary malignant neoplasm of brain	DisGeNet	
+EGF	C0005818	Platelet-type bleeding disorder 15	DisGeNet	
+EGF	C0263454	Chloracne	DisGeNet	
+EGF	C0600040	Chronic interstitial cystitis	DisGeNet	
+FGF2	C1519666	Tumor-Associated Vasculature	DisGeNet	
+FGF2	C0001849	AIDS Dementia Complex	DisGeNet	
+FGF2	C0027707	Tubulointerstitial nephritis	DisGeNet	
+EGF	C0085548	Autosomal recessive polycystic kidney disease	DisGeNet	
+EGF	C0564408	Manic	DisGeNet	
+EGF	C1257930	Mammary Carcinoma, Human	DisGeNet	
+EGF	C0677055	CARCINOMA OF VULVA	DisGeNet	
+FGF2	C0600518	Choroidal Neovascularization	DisGeNet	
+EGF	C0008533	Hereditary factor IX deficiency disease	DisGeNet	
+EGF	C0016978	Neoplasm of the gallbladder	DisGeNet	
+EGF	C0022679	Cystic kidney	DisGeNet	
+EGF	C0086942	Rous Sarcoma	DisGeNet	
+EGF	C0206669	Hepatocellular adenoma	DisGeNet	
+FGF2	C0751956	Acute Cerebrovascular Accidents	DisGeNet	
+EGF	C1266184	Atypical teratoid/rhabdoid tumor	DisGeNet	
+FGF2	C0033054	Prenatal Exposure Delayed Effects	DisGeNet	
+EGF	C0027830	Neurofibromas	DisGeNet	
+EGF	C0279672	Cervical Adenocarcinoma	DisGeNet	
+EGF	C0007104	Female Breast Carcinoma	DisGeNet	
+FGF2	C0158646	Cleft palate with cleft lip	DisGeNet	
+EGF	C0206727	Nerve Sheath Tumors	DisGeNet	
+FGF2	C1522378	Leukemia, Large Granular Lymphocytic	DisGeNet	
+EGF	C0024796	Marfan syndrome	DisGeNet	
+EGF	C0206695	Carcinoma, Neuroendocrine	DisGeNet	
+FGF2	C0027662	Multiple endocrine neoplasia, type 4	DisGeNet	
+EGF	C0027832	Neurofibromatosis 2	DisGeNet	
+EGF	C0175693	Russell-Silver syndrome	DisGeNet	
+FGF2	C0341858	Endometriosis of uterus	DisGeNet	
+FGF2	C1998028	Photoreceptor degeneration	DisGeNet	
+EGF	C0206693	Medullary carcinoma	DisGeNet	
+EGF	C0238394	Female pseudohermaphroditism	DisGeNet	
+EGF	C0334463	Malignant Fibrous Histiocytoma	DisGeNet	
+EGF	C0751674	Lymphangiomyomatosis	DisGeNet	
+EGF	C0018553	Cowden syndrome 1	DisGeNet	
+FGF2	C0029172	Oral Submucous Fibrosis	DisGeNet	
+EGF	C0079218	Desmoid tumor	DisGeNet	
+EGF	C1457887	CNS symptom	DisGeNet	
+FGF2	C0948216	Ovarian adenocarcinoma	DisGeNet	
+EGF	C3463897	Hydatidiform mole, recurrent, 1, 231090 (3)	DisGeNet	
+EGF	C0018889	Helminthiasis	DisGeNet	
+EGF	C0242852	Vitreoretinopathy, neovascular inflammatory, 193235 (3)	DisGeNet	
+FGF2	C0019284	Diaphragmatic hernia	DisGeNet	
+EGF	C0206726	gliosarcoma	DisGeNet	
+EGF	C0002448	Ameloblastoma	DisGeNet	
+FGF2	C1510885	Angiogenic Switch	DisGeNet	
+FGF2	C0033941	Psychoses, Substance-Induced	DisGeNet	
+FGF2	C0154830	Proliferative diabetic retinopathy	DisGeNet	
+FGF2	C2945695	Limb ischemia	DisGeNet	
+EGF	C0206638	Giant cell tumor of bone	DisGeNet	
+EGF	C0153392	Nasopharyngeal cancer recurrent	DisGeNet	
+FGF2	C0009917	Contractures involving the joints of the feet	DisGeNet	
+EGF	C0334108	Polyposis syndrome, mixed hereditary 1 (4)	DisGeNet	
+EGF	C0008677	Bronchitis, Chronic	DisGeNet	
+FGF2	C0080032	Pleural Effusion, Malignant	DisGeNet	
+EGF	C0001486	Adenovirus Infections	DisGeNet	
+FGF2	C2939461	Myeloid neoplasm with beta-type platelet-derived growth factor receptor gene rearrangement	DisGeNet	
+EGF	C0085695	Chronic gastritis	DisGeNet	
+FGF2	C0751955	Brain Infarction	DisGeNet	
+EGF	C0014599	Epithelial hyperplasia of skin	DisGeNet	
+EGF	C0241158	Scar conditions and fibrosis of skin	DisGeNet	
+EGF	C0013295	Duodenal Ulcer	DisGeNet	
+EGF	C0025568	Metaplasia	DisGeNet	
+FGF2	C1559154	Rash and Dermatitis Adverse Event Associated with Chemoradiation	DisGeNet	
+FGF2	C0025267	Multiple Endocrine Neoplasia Type 1	DisGeNet	
+EGF	C0020217	Hydatidiform mole, recurrent, 2	DisGeNet	
+FGF2	C0008487	Chordoma	DisGeNet	
+EGF	C0011269	Dementia, Vascular	DisGeNet	
+EGF	C0012546	{Diphtheria, susceptibility to} (1)	DisGeNet	
+FGF2	C0017178	Gastrointestinal Diseases	DisGeNet	
+EGF	C0018206	granulosa cell tumor	DisGeNet	
+EGF	C0021846	Intestinal polyp	DisGeNet	
+EGF	C0006840	Candidiasis, familial, 9	DisGeNet	
+EGF	C0008354	Cholera	DisGeNet	
+FGF2	C0017639	Gliosis	DisGeNet	
+EGF	C0033999	Pterygium	DisGeNet	
+EGF	C0334299	Carcinoid tumor no ICD-O subtype	DisGeNet	
+FGF2	C0011875	Diabetic Angiopathies	DisGeNet	
+EGF	C1519689	Tumor Promotion	DisGeNet	
+EGF	C4082937	Necrotizing Enterocolitis	DisGeNet	
+FGF2	C0027859	Vestibular Schwannoma	DisGeNet	
+EGF	C0262655	Recurrent urinary tract infections	DisGeNet	
+EGF	C0151546	Oral Cavity Carcinoma	DisGeNet	
+EGF	C0079588	X-linked ichthyosis with steryl-sulfatase deficiency	DisGeNet	
+FGF2	C0003857	Arteriovenous malformation	DisGeNet	
+EGF	C0206681	Adenocarcinoma, Clear Cell	DisGeNet	
+EGF	C0278601	Inflammatory Breast Carcinoma	DisGeNet	
+FGF2	C0033375	Prolactinoma, familial	DisGeNet	
+EGF	C0005411	Biliary Atresia	DisGeNet	
+FGF2	C0024809	Marijuana Abuse	DisGeNet	
+EGF	C0333983	Hyperplastic Polyp	DisGeNet	
+EGF	C0206664	Teratocarcinoma	DisGeNet	
+FGF2	C0004565	Melanoma, B16	DisGeNet	
+FGF2	C0026987	Myelofibrosis	DisGeNet	
+EGF	C0034885	Neoplasm of the rectum	DisGeNet	
+EGF	C0206701	High grade serous carcinoma	DisGeNet	
+EGF	C0854917	Rhabdoid Tumor of the Kidney	DisGeNet	
+FGF2	C0039538	Teratoma	DisGeNet	
+FGF2	C0271183	Severe Myopia	DisGeNet	
+FGF2	C0398650	Idiopathic thrombocytopenic purpura	DisGeNet	
+EGF	C4023648	Abnormality of divalent inorganic cation homeostasis	HumPhenOnt	
+FGF2	C0007766	Intracranial Aneurysm	DisGeNet	
+EGF	C0029927	Ovarian cyst	DisGeNet	
+EGF	C0858252	Breast adenocarcinoma	DisGeNet	
+FGF2	C0236736	Cocaine-Related Disorders	DisGeNet	
+EGF	C0349566	Squamous cell carcinoma of tongue	DisGeNet	
+EGF	C3277059	Bilateral cataracts (disorder)	DisGeNet	
+EGF	C0014474	Ependymoma	DisGeNet	
+FGF2	C1292753	Primary Effusion Lymphoma	DisGeNet	
+EGF	C0206687	Carcinoma, Endometrioid	DisGeNet	
+FGF2	C0030312	Pancytopenia	DisGeNet	
+FGF2	C0242350	Impotence	DisGeNet	
+EGF	C0020608	Hypodontia	DisGeNet	
+EGF	C0027809	Schwannoma	DisGeNet	
+EGF	C0279680	Transitional cell carcinoma of the bladder	DisGeNet	
+EGF	C0220650	Metastatic malignant neoplasm to brain	DisGeNet	
+EGF	C0751688	 {Aerodigestive tract cancer, squamous cell, alcohol-related, protection against} (3)	DisGeNet	
+FGF2	C1337013	Differentiated Thyroid Gland Carcinoma	DisGeNet	
+FGF2	C0334590	Anaplastic Oligodendroglioma	DisGeNet	
+FGF2	C0032227	Pleural effusion	DisGeNet	
+FGF2	C0334579	Anaplastic astrocytoma	DisGeNet	
+EGF	C0206062	Lung Diseases, Interstitial	DisGeNet	
+EGF	C0027766	Neoplasm of the nervous system	DisGeNet	
+EGF	C0039590	Testicular Neoplasms	DisGeNet	
+EGF	C0035222	Respiratory Distress Syndrome, Adult	DisGeNet	
+FGF2	C0020507	Hyperplasia	DisGeNet	
+FGF2	C0026948	Mycosis Fungoides	DisGeNet	
+EGF	C0007621	Neoplastic Cell Transformation	DisGeNet	
+FGF2	C0026470	Monoclonal Gammopathy of Undetermined Significance	DisGeNet	
+FGF2	C0027746	Neurodegeneration with brain iron accumulation	DisGeNet	
+FGF2	C0022408	Arthropathy	DisGeNet	
+EGF	C0022680	Polycystic kidney disease, autosomal dominant	DisGeNet	
+FGF2	C0040028	Essential thrombocythemia	DisGeNet	
+FGF2	C0677898	invasive cancer	DisGeNet	
+FGF2	C0002940	{Aneurysm, familial abdominal 3} (2)	DisGeNet	
+FGF2	C0085096	Peripheral Arterial Disease	DisGeNet	
+EGF	C0751690	Malignant peripheral nerve sheath tumor with rhabdomyoblastic differentiation	DisGeNet	
+EGF	C0027831	Neurofibromatosis, type 1, 162200 (3)	DisGeNet	
+EGF	C0041956	Ureteral obstruction	DisGeNet	
+EGF	C1334274	Invasive Carcinoma	DisGeNet	
+EGF	C0028960	Oligospermia	DisGeNet	
+EGF	C1654637	androgen independent prostate cancer	DisGeNet	
+FGF2	C0018916	Hemangioma	DisGeNet	
+EGF	C0020295	Hydronephrosis	DisGeNet	
+EGF	C0021670	Insulinoma	DisGeNet	
+EGF	C0008073	Growth retardation, intellectual developmental disorder, hypotonia, and hepatopathy, 617093 (3)	DisGeNet	
+EGF	C0026499	Monosomy	DisGeNet	
+EGF	C0085413	Polycystic Kidney, Autosomal Dominant	DisGeNet	
+FGF2	C1847835	VITILIGO-ASSOCIATED MULTIPLE AUTOIMMUNE DISEASE SUSCEPTIBILITY 1 (finding)	DisGeNet	
+EGF	C0007112	Adenocarcinoma of prostate	DisGeNet	
+EGF	C0007282	Carotid Stenosis	DisGeNet	
+FGF2	C0001175	Acquired Immunodeficiency Syndrome	DisGeNet	
+EGF	C0553723	Squamous cell carcinoma of the skin	DisGeNet	
+EGF	C0024232	Lymphatic Metastasis	DisGeNet	
+EGF	C0027626	Neoplasm Invasiveness	DisGeNet	
+FGF2	C0376544	Hematopoietic Neoplasms	DisGeNet	
+EGF	C0333516	Tumor necrosis	DisGeNet	
+EGF	C0002874	Aplastic anemia	DisGeNet	
+EGF	C0010823	Cytomegalovirus Infections	DisGeNet	
+FGF2	C0022548	Keloid	DisGeNet	
+FGF2	C0027697	Nephritis	DisGeNet	
+FGF2	C0001815	Primary Myelofibrosis	DisGeNet	
+EGF	C0041107	Trisomy	DisGeNet	
+EGF	C0039685	Tetralogy of Fallot	DisGeNet	
+EGF	C0011603	Seborheic dermatitis	DisGeNet	
+EGF	C0020445	Familial hypercholesterolemia	DisGeNet	
+EGF	C0020503	Secondary hyperparathyroidism	DisGeNet	
+EGF	C0598935	Tumor Initiation	DisGeNet	
+EGF	C0007095	Carcinoid tumor	DisGeNet	
+EGF	C0013537	Eclampsia	DisGeNet	
+EGF	C0010709	Cyst	DisGeNet	
+FGF2	C0036220	Kaposi's sarcoma	DisGeNet	
+EGF	C0026847	Spinal muscular atrophy with congenital bone fractures 2	DisGeNet	
+EGF	C1319315	Adenocarcinoma of the large intestine	DisGeNet	
+FGF2	C0016059	Fibrosis	DisGeNet	
+FGF2	C0751396	Well Differentiated Oligodendroglioma	DisGeNet	
+EGF	C0041341	Tuberous sclerosis syndrome	DisGeNet	
+EGF	C4023646	Abnormality of cation homeostasis	HumPhenOnt	
+FGF2	C0085183	Neoplasms, Second Primary	DisGeNet	
+EGF	C0242647	Primary cutaneous marginal zone B-cell lymphoma	DisGeNet	
+FGF2	C0015943	Fetal Membranes, Premature Rupture	DisGeNet	
+FGF2	C0008495	Chorioamnionitis	DisGeNet	
+EGF	C0030354	Papilloma	DisGeNet	
+FGF2	C0010606	Adenoid Cystic Carcinoma	DisGeNet	
+EGF	C0238462	Medullary thyroid carcinoma	DisGeNet	
+FGF2	C0022876	Premature Obstetric Labor	DisGeNet	
+FGF2	C0085207	Maternal diabetes	DisGeNet	
+EGF	C0034067	Pulmonary Emphysema	DisGeNet	
+FGF2	C0206708	Cervical intraepithelial neoplasia (Cervical dysplasia)	DisGeNet	
+EGF	C0086692	Benign neoplasm of other endocrine glands	DisGeNet	
+EGF	C4025654	Abnormality of ion homeostasis	HumPhenOnt	
+FGF2	C0856169	Endothelial dysfunction	DisGeNet	
+EGF	C1762616	Meningioma, benign, no ICD-O subtype	DisGeNet	
+EGF	C0333186	Restenosis	DisGeNet	
+FGF2	C0008479	Chondrosarcoma	DisGeNet	
+EGF	C0936223	Metastatic Prostate Carcinoma	DisGeNet	
+EGF	C0007133	Carcinoma, Papillary	DisGeNet	
+FGF2	C0027430	Nasal polyposis	DisGeNet	
+FGF2	C0151514	Dermal atrophy	DisGeNet	
+EGF	C0338106	Adenocarcinoma of colon	DisGeNet	
+EGF	C0812413	Pleural Mesothelioma	DisGeNet	
+FGF2	C0042900	Vitiligo	DisGeNet	
+FGF2	C0027022	Myeloproliferative Disorders	DisGeNet	
+EGF	C0685938	Malignant gastrointestinal tract tumors	DisGeNet	
+EGF	C0206754	Neuroendocrine neoplasm	DisGeNet	
+FGF2	C0016057	Fibrosarcoma	DisGeNet	
+FGF2	C0004623	Recurrent bacterial infection	DisGeNet	
+FGF2	C1302401	Adenoma of large intestine	DisGeNet	
+EGF	C0017168	Gastroesophageal reflux	DisGeNet	
+EGF	C0031511	Pheochromocytoma	DisGeNet	
+EGF	C0000786	Spontaneous abortion	DisGeNet	
+FGF2	C0027726	Nephrotic syndrome, type 5, with or without ocular abnormalities	DisGeNet	
+FGF2	C0854723	RETINAL DYSTROPHY WITH OR WITHOUT MACULAR STAPHYLOMA	DisGeNet	
+FGF2	C3811653	Experimental Organism Basal Cell Carcinoma	DisGeNet	
+EGF	C0017185	Gastrointestinal Neoplasms	DisGeNet	
+FGF2	C0553580	Ewing's sarcoma	DisGeNet	
+FGF2	C0011884	Diabetic Retinopathy	DisGeNet	
+EGF	C0022660	Acute kidney injury	DisGeNet	
+EGF	C0524909	Hepatitis B, Chronic	DisGeNet	
+FGF2	C0018800	Cardiomegaly	DisGeNet	
+EGF	C0553707	Epithelioma	DisGeNet	
+EGF	C0032584	polyps	DisGeNet	
+EGF	C0149978	Rectal Carcinoma	DisGeNet	
+FGF2	C0035304	Retinal degeneration	DisGeNet	
+FGF2	C0007785	Ischaemic cerebral infarction	DisGeNet	
+EGF	C0850666	Helicobacter pylori infection	DisGeNet	
+EGF	C0011265	Dementia familial British	DisGeNet	
+FGF2	C0020179	Huntington's chorea	DisGeNet	
+EGF	C1516170	Cancer Cell Growth	DisGeNet	
+FGF2	C0525045	Mood Disorders	DisGeNet	
+EGF	C0031099	Periodontitis	DisGeNet	
+FGF2	C0278883	Metastatic melanoma	DisGeNet	
+EGF	C3495559	Juvenile idiopathic arthritis, enthesitis related arthritis	DisGeNet	
+EGF	C0003811	Arrhythmias, Cardiac	DisGeNet	
+FGF2	C0238198	Gastrointestinal stromal tumor	DisGeNet	
+EGF	C0278488	Carcinoma breast stage IV	DisGeNet	
+FGF2	C0008924	Cleft Lip	DisGeNet	
+EGF	C0022665	Renal neoplasm	DisGeNet	
+FGF2	C0027092	Epiphyseal dysplasia, multiple, with myopia and conductive deafness	DisGeNet	
+EGF	C0035078	Renal Insufficiency, Chronic	DisGeNet	
+EGF	C0015230	Exanthema	DisGeNet	
+EGF	C0279702	Clear cell renal cell carcinoma	DisGeNet	
+EGF	C0853879	Invasive breast carcinoma	DisGeNet	
+FGF2	C0151526	Premature Birth	DisGeNet	
+EGF	C0024115	Pulmonary Disease, Chronic Obstructive	DisGeNet	
+EGF	C0238339	Hereditary pancreatitis	DisGeNet	
+EGF	C0035412	Rhabdomyosarcoma alveolar	DisGeNet	
+FGF2	C1292769	B Acute Lymphoblastic Leukemia with t(9;22)(q34;q11.2); BCR-ABL1	DisGeNet	
+FGF2	C0018799	Heart Diseases	DisGeNet	
+FGF2	C0014072	Experimental Autoimmune Encephalomyelitis	DisGeNet	
+EGF	C0206698	Cholangiocarcinoma	DisGeNet	
+FGF2	C0948008	Ischemic stroke	DisGeNet	
+FGF2	C0019829	Hodgkin Disease	DisGeNet	
+FGF2	C0042373	Vascular Diseases	DisGeNet	
+EGF	C0220641	Lip and Oral Cavity Carcinoma	DisGeNet	
+EGF	C0153381	Cancer of mouth	DisGeNet	
+FGF2	C0035309	Retinopathy	DisGeNet	
+EGF	C1621958	Glioblastoma multiforme	DisGeNet	
+EGF	C0007570	Celiac Disease	DisGeNet	
+EGF	C0037286	Neoplasm of the skin	DisGeNet	
+EGF	C0010674	Cystic Fibrosis	DisGeNet	
+FGF2	C0020456	Hyperglycemia	DisGeNet	
+EGF	C1709246	Non-Neoplastic Disorder	DisGeNet	
+FGF2	C0005695	Urinary Bladder Neoplasms	DisGeNet	
+EGF	C1512409	Hepatocarcinogenesis	DisGeNet	
+FGF2	C0035335	Retinoblastoma	DisGeNet	
+EGF	C0013595	Eczema	DisGeNet	
+EGF	C0018817	Atrial septal defect	DisGeNet	
+EGF	C0497327	Dementia	DisGeNet	
+FGF2	C0151744	Acute myocardial ischemia	DisGeNet	
+EGF	C0221287	Combined Hepatocellular Carcinoma and Cholangiocarcinoma	DisGeNet	
+EGF	C0024530	Malaria	DisGeNet	
+FGF2	C0011581	Depressive Disorder	DisGeNet	
+FGF2	C0025149	Medulloblastoma	DisGeNet	
+FGF2	C0085110	Severe combined immunodeficiency due to ADA deficiency	DisGeNet	
+FGF2	C1520166	Xenograft Model	DisGeNet	
+FGF2	C0011570	{Unipolar depression, susceptibility to}, 608516 (3)	DisGeNet	
+FGF2	C0024305	Non-Hodgkin lymphoma	DisGeNet	
+EGF	C0011615	Dermatitis, Atopic	DisGeNet	
+EGF	C1335302	Pancreatic Ductal Adenocarcinoma	DisGeNet	
+EGF	C0021051	Immunodeficiency due to defect in CD3-gamma	DisGeNet	
+EGF	C0023895	Liver Diseases	DisGeNet	
+EGF	C0345904	Hepatic cancer metastatic	DisGeNet	
+EGF	C0022661	Kidney Failure, Chronic	DisGeNet	
+FGF2	C0002871	Anemia	DisGeNet	
+FGF2	C0036439	Scoliosis	DisGeNet	
+FGF2	C0029456	Osteoporosis	DisGeNet	
+EGF	C0017661	IgA nephropathy, susceptibility to, 3	DisGeNet	
+FGF2	C0079731	B-cell lymphoma	DisGeNet	
+FGF2	C0598766	Leukemogenesis	DisGeNet	
+EGF	C2931822	Nasopharyngeal carcinoma, susceptibility to, 3	DisGeNet	
+EGF	C0001973	Alcohol dependence	DisGeNet	
+EGF	C0009319	Colitis, Ulcerative	DisGeNet	
+EGF	C0086543	Cataract, autosomal recessive congenital 5	DisGeNet	
+EGF	C0019196	Hepatitis C	DisGeNet	

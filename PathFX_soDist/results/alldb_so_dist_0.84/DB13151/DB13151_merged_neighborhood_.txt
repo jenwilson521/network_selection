@@ -1,0 +1,5 @@
+F7	complex:lAo9+jzjVOaRJSWZQvoh0G1mUDc	0.904977499353	
+F2		1.0	
+F13A1		1.0	
+F7		1.0	
+F5		1.0	

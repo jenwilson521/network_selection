@@ -1,0 +1,14 @@
+node_name	node_type	
+DB00513	drug	
+PLG	drug_target	
+AOX1	drug_target	
+PLAT	drug_target	
+Deafness, autosomal recessive 44	phenotype	
+Hearing Loss, Partial	phenotype	
+Inflammatory Bowel Diseases	phenotype	
+Disorders of Intracellular Cobalamin Metabolism	phenotype	
+Osteoporosis	phenotype	
+Prostatic Neoplasms	phenotype	
+Tobacco Use Disorder	phenotype	
+Tremor, hereditary essential, 5	phenotype	
+Hearing impairment	phenotype	

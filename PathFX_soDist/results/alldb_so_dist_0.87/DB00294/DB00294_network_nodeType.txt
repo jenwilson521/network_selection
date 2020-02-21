@@ -1,0 +1,17 @@
+node_name	node_type	
+DB00294	drug	
+SHBG	drug_target	
+PGR	drug_target	
+CYP3A4	drug_target	
+ALB	drug_target	
+ESR1	drug_target	
+Malignant neoplasm of adrenal cortex	phenotype	
+Single tumor	phenotype	
+Bone necrosis	phenotype	
+Chronic liver disease	phenotype	
+Primary hyperparathyroidism	phenotype	
+gliosarcoma	phenotype	
+ {HIV-1 viremia, susceptibility to}, 609423 (3)	phenotype	
+Drug Allergy	phenotype	
+Hepatoblastoma	phenotype	
+Dementia, Vascular	phenotype	

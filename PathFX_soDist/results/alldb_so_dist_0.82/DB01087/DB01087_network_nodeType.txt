@@ -1,0 +1,19 @@
+node_name	node_type	
+DB01087	drug	
+CYP1A1	drug_target	
+CYP1A2	drug_target	
+CYP1B1	drug_target	
+CYP2D6	drug_target	
+NQO2	drug_target	
+ABCB1	drug_target	
+KRT7	drug_target	
+CYP3A4	drug_target	
+Chemical Carcinogenesis	phenotype	
+Primary malignant neoplasm of liver	phenotype	
+Pleural Neoplasms	phenotype	
+Neoplasm of the larynx	phenotype	
+Mammographic breast density	phenotype	
+Chronic schizophrenia	phenotype	
+Acute postoperative pain	phenotype	
+Genomic Instability	phenotype	
+Depressive Symptoms	phenotype	

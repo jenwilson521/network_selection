@@ -1,0 +1,273 @@
+Gene	CUI	Source Databases	
+ABCB1	C0013182	Drug Allergy	DisGeNet	
+CYP2C19	C0013182	Drug Allergy	DisGeNet	
+CYP2C8	C0013182	Drug Allergy	DisGeNet	
+CYP2C9	C0013182	Drug Allergy	DisGeNet	
+CYP2D6	C0013182	Drug Allergy	DisGeNet	
+CYP3A4	C0013182	Drug Allergy	DisGeNet	
+CYP3A5	C0013182	Drug Allergy	DisGeNet	
+UGT1A1	C0013182	Drug Allergy	DisGeNet	
+UGT1A7	C0013182	Drug Allergy	DisGeNet	
+UGT1A8	C0013182	Drug Allergy	DisGeNet	
+UGT1A9	C0013182	Drug Allergy	DisGeNet	
+ADRA1A	C0013146	Methamphetamine abuse	DisGeNet	
+ALB	C0013146	Methamphetamine abuse	DisGeNet	
+CYP2B6	C0013146	Methamphetamine abuse	DisGeNet	
+CYP2C19	C0013146	Methamphetamine abuse	DisGeNet	
+CYP2C9	C0013146	Methamphetamine abuse	DisGeNet	
+CYP2D6	C0013146	Methamphetamine abuse	DisGeNet	
+HTR1B	C0013146	Methamphetamine abuse	DisGeNet	
+HTR2A	C0013146	Methamphetamine abuse	DisGeNet	
+HTR2C	C0013146	Methamphetamine abuse	DisGeNet	
+OPRM1	C0013146	Methamphetamine abuse	DisGeNet	
+SLC6A2	C0013146	Methamphetamine abuse	DisGeNet	
+SLC6A4	C0013146	Methamphetamine abuse	DisGeNet	
+HTR1A	C0006370	Bulimia	DisGeNet	
+HTR1B	C0006370	Bulimia	DisGeNet	
+HTR2A	C0006370	Bulimia	DisGeNet	
+HTR2C	C0006370	Bulimia	DisGeNet	
+HTR7	C0006370	Bulimia	DisGeNet	
+NTRK2	C0006370	Bulimia	DisGeNet	
+SLC6A4	C0006370	Bulimia	DisGeNet	
+ABCB1	C0019337	Heroin Dependence	DisGeNet	
+CYP2D6	C0019337	Heroin Dependence	DisGeNet	
+CYP3A4	C0019337	Heroin Dependence	DisGeNet	
+HTR1B	C0019337	Heroin Dependence	DisGeNet	
+HTR2A	C0019337	Heroin Dependence	DisGeNet	
+OPRD1	C0019337	Heroin Dependence	DisGeNet	
+OPRM1	C0019337	Heroin Dependence	DisGeNet	
+SLC6A2	C0019337	Heroin Dependence	DisGeNet	
+SLC6A4	C0019337	Heroin Dependence	DisGeNet	
+ABCB1	C0030201	Acute postoperative pain	DisGeNet	
+ADRA1A	C0030201	Acute postoperative pain	DisGeNet	
+CYP2D6	C0030201	Acute postoperative pain	DisGeNet	
+CYP3A4	C0030201	Acute postoperative pain	DisGeNet	
+HTR2A	C0030201	Acute postoperative pain	DisGeNet	
+OPRM1	C0030201	Acute postoperative pain	DisGeNet	
+SLC6A4	C0030201	Acute postoperative pain	DisGeNet	
+ABCB1	C0027497	Nausea	DisGeNet	
+CYP1A2	C0027497	Nausea	DisGeNet	
+CYP2C19	C0027497	Nausea	DisGeNet	
+CYP2C9	C0027497	Nausea	DisGeNet	
+CYP2D6	C0027497	Nausea	DisGeNet	
+HTR2A	C0027497	Nausea	DisGeNet	
+OPRM1	C0027497	Nausea	DisGeNet	
+SLC6A4	C0027497	Nausea	DisGeNet	
+ABCB1	C0746883	Febrile Neutropenia	DisGeNet	
+CYP3A5	C0746883	Febrile Neutropenia	DisGeNet	
+UGT1A	C0746883	Febrile Neutropenia	DisGeNet	
+UGT1A1	C0746883	Febrile Neutropenia	DisGeNet	
+UGT1A6	C0746883	Febrile Neutropenia	DisGeNet	
+UGT1A7	C0746883	Febrile Neutropenia	DisGeNet	
+ALB	C0038586	Substance Use Disorders	DisGeNet	
+HTR1A	C0038586	Substance Use Disorders	DisGeNet	
+HTR1B	C0038586	Substance Use Disorders	DisGeNet	
+HTR2A	C0038586	Substance Use Disorders	DisGeNet	
+OPRM1	C0038586	Substance Use Disorders	DisGeNet	
+SLC6A4	C0038586	Substance Use Disorders	DisGeNet	
+CYP1A2	C0686347	Tardive Dyskinesia	DisGeNet	
+CYP2B6	C0686347	Tardive Dyskinesia	DisGeNet	
+CYP2D6	C0686347	Tardive Dyskinesia	DisGeNet	
+CYP3A4	C0686347	Tardive Dyskinesia	DisGeNet	
+CYP3A5	C0686347	Tardive Dyskinesia	DisGeNet	
+HTR2A	C0686347	Tardive Dyskinesia	DisGeNet	
+HTR2C	C0686347	Tardive Dyskinesia	DisGeNet	
+SLC6A4	C0686347	Tardive Dyskinesia	DisGeNet	
+ABCB1	C0013386	Dyskinesia, Drug-Induced	DisGeNet	
+ADRA1A	C0013386	Dyskinesia, Drug-Induced	DisGeNet	
+CYP1A2	C0013386	Dyskinesia, Drug-Induced	DisGeNet	
+CYP2D6	C0013386	Dyskinesia, Drug-Induced	DisGeNet	
+HTR1A	C0013386	Dyskinesia, Drug-Induced	DisGeNet	
+HTR2A	C0013386	Dyskinesia, Drug-Induced	DisGeNet	
+HTR2C	C0013386	Dyskinesia, Drug-Induced	DisGeNet	
+ADRA1A	C0221765	Chronic schizophrenia	DisGeNet	
+CYP1A2	C0221765	Chronic schizophrenia	DisGeNet	
+CYP2D6	C0221765	Chronic schizophrenia	DisGeNet	
+CYP3A4	C0221765	Chronic schizophrenia	DisGeNet	
+HTR2A	C0221765	Chronic schizophrenia	DisGeNet	
+HTR2C	C0221765	Chronic schizophrenia	DisGeNet	
+CYP1A2	C0152115	Orofacial dyskinesia	DisGeNet	
+CYP2B6	C0152115	Orofacial dyskinesia	DisGeNet	
+CYP2D6	C0152115	Orofacial dyskinesia	DisGeNet	
+CYP3A4	C0152115	Orofacial dyskinesia	DisGeNet	
+CYP3A5	C0152115	Orofacial dyskinesia	DisGeNet	
+HTR2A	C0152115	Orofacial dyskinesia	DisGeNet	
+HTR2C	C0152115	Orofacial dyskinesia	DisGeNet	
+SLC6A4	C0152115	Orofacial dyskinesia	DisGeNet	
+CYP2D6	C0031212	Personality disorder	DisGeNet	
+HTR1A	C0031212	Personality disorder	DisGeNet	
+HTR1B	C0031212	Personality disorder	DisGeNet	
+HTR2A	C0031212	Personality disorder	DisGeNet	
+SLC6A2	C0031212	Personality disorder	DisGeNet	
+SLC6A4	C0031212	Personality disorder	DisGeNet	
+UGT1A	C0011226	Hepatitis D Infection	DisGeNet	
+UGT1A1	C0011226	Hepatitis D Infection	DisGeNet	
+UGT1A10	C0011226	Hepatitis D Infection	DisGeNet	
+UGT1A6	C0011226	Hepatitis D Infection	DisGeNet	
+UGT1A7	C0011226	Hepatitis D Infection	DisGeNet	
+UGT1A8	C0011226	Hepatitis D Infection	DisGeNet	
+UGT1A9	C0011226	Hepatitis D Infection	DisGeNet	
+ABCB1	C0024620	Primary malignant neoplasm of liver	DisGeNet	
+CYP2C19	C0024620	Primary malignant neoplasm of liver	DisGeNet	
+CYP2D6	C0024620	Primary malignant neoplasm of liver	DisGeNet	
+CYP3A4	C0024620	Primary malignant neoplasm of liver	DisGeNet	
+CYP3A5	C0024620	Primary malignant neoplasm of liver	DisGeNet	
+ABCB1	C0020433	Hyperbilirubinemia	DisGeNet	
+CYP2B6	C0020433	Hyperbilirubinemia	DisGeNet	
+UGT1A	C0020433	Hyperbilirubinemia	DisGeNet	
+UGT1A1	C0020433	Hyperbilirubinemia	DisGeNet,HumPhenOnt	
+UGT1A10	C0020433	Hyperbilirubinemia	DisGeNet	
+UGT1A6	C0020433	Hyperbilirubinemia	DisGeNet	
+UGT1A7	C0020433	Hyperbilirubinemia	DisGeNet	
+UGT1A8	C0020433	Hyperbilirubinemia	DisGeNet	
+UGT1A9	C0020433	Hyperbilirubinemia	DisGeNet	
+ADRA1A	C0024031	Low back pain	DisGeNet	
+ADRA2A	C0024031	Low back pain	DisGeNet	
+CYP2D6	C0024031	Low back pain	DisGeNet	
+HTR1A	C0024031	Low back pain	DisGeNet	
+HTR2A	C0024031	Low back pain	DisGeNet	
+OPRM1	C0024031	Low back pain	DisGeNet	
+ABCB1	C0041755	Adverse drug events and drug allergies	DisGeNet	
+ALB	C0041755	Adverse drug events and drug allergies	DisGeNet	
+CYP1A2	C0041755	Adverse drug events and drug allergies	DisGeNet	
+CYP2C9	C0041755	Adverse drug events and drug allergies	DisGeNet	
+CYP2D6	C0041755	Adverse drug events and drug allergies	DisGeNet	
+SLC6A4	C0041755	Adverse drug events and drug allergies	DisGeNet	
+UGT1A1	C0041755	Adverse drug events and drug allergies	DisGeNet	
+ABCB1	C0003125	Anorexia nervosa 1	DisGeNet	
+HTR1B	C0003125	Anorexia nervosa 1	DisGeNet	
+HTR2A	C0003125	Anorexia nervosa 1	ClinVar,DisGeNet	
+HTR2C	C0003125	Anorexia nervosa 1	DisGeNet	
+HTR7	C0003125	Anorexia nervosa 1	DisGeNet	
+NTRK2	C0003125	Anorexia nervosa 1	DisGeNet	
+OPRD1	C0003125	Anorexia nervosa 1	DisGeNet	
+SLC6A2	C0003125	Anorexia nervosa 1	DisGeNet	
+SLC6A4	C0003125	Anorexia nervosa 1	DisGeNet	
+ABCB1	C0086132	Depressive Symptoms	DisGeNet	
+CYP2C19	C0086132	Depressive Symptoms	DisGeNet	
+CYP2D6	C0086132	Depressive Symptoms	DisGeNet	
+CYP3A4	C0086132	Depressive Symptoms	DisGeNet	
+HTR1A	C0086132	Depressive Symptoms	DisGeNet	
+HTR2A	C0086132	Depressive Symptoms	DisGeNet	
+HTR2C	C0086132	Depressive Symptoms	DisGeNet	
+OPRM1	C0086132	Depressive Symptoms	DisGeNet	
+SLC6A4	C0086132	Depressive Symptoms	DisGeNet	
+ABCB1	C0344307	Pain insensitivity	DisGeNet	
+CYP2D6	C0344307	Pain insensitivity	DisGeNet	
+CYP3A4	C0344307	Pain insensitivity	DisGeNet	
+CYP3A5	C0344307	Pain insensitivity	DisGeNet	
+NTRK1	C0344307	Pain insensitivity	HumPhenOnt	
+OPRM1	C0344307	Pain insensitivity	DisGeNet	
+ABCB1	C2911647	Weight Gain Adverse Event	DisGeNet	
+ADRA2A	C2911647	Weight Gain Adverse Event	DisGeNet	
+HRH4	C2911647	Weight Gain Adverse Event	DisGeNet	
+HTR1A	C2911647	Weight Gain Adverse Event	DisGeNet	
+HTR1B	C2911647	Weight Gain Adverse Event	DisGeNet	
+HTR2A	C2911647	Weight Gain Adverse Event	DisGeNet	
+HTR2C	C2911647	Weight Gain Adverse Event	DisGeNet	
+HTR7	C2911647	Weight Gain Adverse Event	DisGeNet	
+NTRK2	C2911647	Weight Gain Adverse Event	DisGeNet	
+SLC6A4	C2911647	Weight Gain Adverse Event	DisGeNet	
+ABCB1	C0600427	Cocaine Dependence	DisGeNet	
+HTR2A	C0600427	Cocaine Dependence	DisGeNet	
+HTR2C	C0600427	Cocaine Dependence	DisGeNet	
+OPRD1	C0600427	Cocaine Dependence	DisGeNet	
+OPRM1	C0600427	Cocaine Dependence	DisGeNet	
+SLC6A4	C0600427	Cocaine Dependence	DisGeNet	
+ABCB1	C0038587	Substance Withdrawal Syndrome	DisGeNet	
+CYP2D6	C0038587	Substance Withdrawal Syndrome	DisGeNet	
+HTR1A	C0038587	Substance Withdrawal Syndrome	DisGeNet	
+HTR2A	C0038587	Substance Withdrawal Syndrome	DisGeNet	
+HTR2C	C0038587	Substance Withdrawal Syndrome	DisGeNet	
+OPRD1	C0038587	Substance Withdrawal Syndrome	DisGeNet	
+SLC6A4	C0038587	Substance Withdrawal Syndrome	DisGeNet	
+HTR1B	C2267227	Bulimia nervosa 1	DisGeNet	
+HTR2A	C2267227	Bulimia nervosa 1	DisGeNet	
+HTR2C	C2267227	Bulimia nervosa 1	DisGeNet	
+NTRK2	C2267227	Bulimia nervosa 1	DisGeNet	
+SLC6A4	C2267227	Bulimia nervosa 1	DisGeNet	
+ABCB1	C0235032	Neurotoxicity Syndromes	DisGeNet	
+ADRA1B	C0235032	Neurotoxicity Syndromes	DisGeNet	
+CYP2C19	C0235032	Neurotoxicity Syndromes	DisGeNet	
+CYP2C9	C0235032	Neurotoxicity Syndromes	DisGeNet	
+CYP3A5	C0235032	Neurotoxicity Syndromes	DisGeNet	
+ABCB1	C0017178	Gastrointestinal Diseases	DisGeNet	
+ADRA2A	C0017178	Gastrointestinal Diseases	DisGeNet	
+CYP2C9	C0017178	Gastrointestinal Diseases	DisGeNet	
+CYP2D6	C0017178	Gastrointestinal Diseases	DisGeNet	
+SLC6A2	C0017178	Gastrointestinal Diseases	DisGeNet	
+SLC6A4	C0017178	Gastrointestinal Diseases	DisGeNet	
+UGT1A9	C0017178	Gastrointestinal Diseases	DisGeNet	
+ABCB1	C0003469	Anxiety Disorders	DisGeNet	
+ADRA1A	C0003469	Anxiety Disorders	DisGeNet	
+ADRA2A	C0003469	Anxiety Disorders	DisGeNet	
+CYP2B6	C0003469	Anxiety Disorders	DisGeNet	
+CYP2C19	C0003469	Anxiety Disorders	DisGeNet	
+CYP2D6	C0003469	Anxiety Disorders	DisGeNet	
+CYP3A4	C0003469	Anxiety Disorders	DisGeNet	
+HTR1A	C0003469	Anxiety Disorders	DisGeNet	
+HTR1B	C0003469	Anxiety Disorders	DisGeNet	
+HTR2A	C0003469	Anxiety Disorders	DisGeNet	
+HTR2C	C0003469	Anxiety Disorders	DisGeNet	
+HTR7	C0003469	Anxiety Disorders	DisGeNet	
+NTRK2	C0003469	Anxiety Disorders	DisGeNet	
+OPRM1	C0003469	Anxiety Disorders	DisGeNet	
+SLC6A2	C0003469	Anxiety Disorders	DisGeNet	
+SLC6A4	C0003469	Anxiety Disorders	DisGeNet	
+CYP2D6	C0003944	As If Personality	DisGeNet	
+HTR1A	C0003944	As If Personality	DisGeNet	
+HTR1B	C0003944	As If Personality	DisGeNet	
+HTR2A	C0003944	As If Personality	DisGeNet	
+HTR2C	C0003944	As If Personality	DisGeNet	
+SLC6A4	C0003944	As If Personality	DisGeNet	
+ADRA1A	C0036396	Chronic sciatica	DisGeNet	
+ADRA2A	C0036396	Chronic sciatica	DisGeNet	
+HTR1A	C0036396	Chronic sciatica	DisGeNet	
+HTR2A	C0036396	Chronic sciatica	DisGeNet	
+ABCB1	C0150055	Chronic pain	DisGeNet	
+CYP2B6	C0150055	Chronic pain	DisGeNet	
+NTRK2	C0150055	Chronic pain	DisGeNet	
+OPRM1	C0150055	Chronic pain	DisGeNet	
+SLC6A4	C0150055	Chronic pain	DisGeNet	
+ABCB1	C0242510	Drug usage	DisGeNet	
+ADRA2A	C0242510	Drug usage	DisGeNet	
+CYP2C9	C0242510	Drug usage	DisGeNet	
+OPRM1	C0242510	Drug usage	DisGeNet	
+SLC6A4	C0242510	Drug usage	DisGeNet	
+CYP2C19	C0029421	Osteochondritis dissecans	DisGeNet	
+CYP2D6	C0029421	Osteochondritis dissecans	DisGeNet	
+HTR1B	C0029421	Osteochondritis dissecans	DisGeNet	
+HTR2A	C0029421	Osteochondritis dissecans	DisGeNet	
+NTRK2	C0029421	Osteochondritis dissecans	DisGeNet	
+SLC6A4	C0029421	Osteochondritis dissecans	DisGeNet	
+HTR1A	C0015674	Chronic Fatigue Syndrome	DisGeNet	
+HTR2A	C0015674	Chronic Fatigue Syndrome	DisGeNet	
+HTR2C	C0015674	Chronic Fatigue Syndrome	DisGeNet	
+HTR7	C0015674	Chronic Fatigue Syndrome	DisGeNet	
+SLC6A4	C0015674	Chronic Fatigue Syndrome	DisGeNet	
+CYP3A4	C0085762	Alcohol abuse	DisGeNet	
+HTR1B	C0085762	Alcohol abuse	DisGeNet	
+HTR2A	C0085762	Alcohol abuse	DisGeNet	
+HTR2C	C0085762	Alcohol abuse	DisGeNet	
+HTR7	C0085762	Alcohol abuse	DisGeNet	
+OPRM1	C0085762	Alcohol abuse	DisGeNet	
+SLC6A4	C0085762	Alcohol abuse	DisGeNet	
+CYP2D6	C0013473	Eating disorder	DisGeNet	
+HTR2A	C0013473	Eating disorder	DisGeNet	
+HTR2C	C0013473	Eating disorder	DisGeNet	
+NTRK2	C0013473	Eating disorder	DisGeNet	
+OPRD1	C0013473	Eating disorder	DisGeNet	
+SLC6A4	C0013473	Eating disorder	DisGeNet	
+ABCB1	C0520679	Obstructive sleep apnea	DisGeNet	
+ADRA1B	C0520679	Obstructive sleep apnea	DisGeNet	
+ADRA2A	C0520679	Obstructive sleep apnea	DisGeNet	
+CYP2D6	C0520679	Obstructive sleep apnea	DisGeNet	
+HTR1B	C0520679	Obstructive sleep apnea	DisGeNet	
+HTR2A	C0520679	Obstructive sleep apnea	DisGeNet	
+HTR2C	C0520679	Obstructive sleep apnea	DisGeNet	
+NTRK1	C0520679	Obstructive sleep apnea	DisGeNet	
+SLC6A4	C0520679	Obstructive sleep apnea	DisGeNet	
+HTR1A	C0085159	Seasonal Affective Disorder	DisGeNet	
+HTR2A	C0085159	Seasonal Affective Disorder	DisGeNet	
+HTR2C	C0085159	Seasonal Affective Disorder	DisGeNet	
+SLC6A4	C0085159	Seasonal Affective Disorder	DisGeNet	

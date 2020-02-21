@@ -1,0 +1,196 @@
+node1	node2	edge_score	
+DB00434	CHRM3	1.0	
+DB00434	CHRM2	1.0	
+DB00434	CHRM1	1.0	
+DB00434	HTR7	1.0	
+DB00434	HTR2A	1.0	
+DB00434	HTR2C	1.0	
+DB00434	HRH1	1.0	
+DB00434	UGT1A3	1.0	
+HTR2A	rs6314	0.99
+UGT1A3		1.0
+HTR7		1.0
+HTR2A	rs6313	0.99
+HTR2A	rs7997012	0.99
+HTR2A		1.0
+HTR2C	rs2497538	0.99
+HTR2A	rs6311	0.99
+HTR2C	rs6318	0.99
+HTR2C	rs1414334	0.99
+HTR2A	rs9316233	0.99
+HTR2A	rs6305	0.99
+HTR2C	rs518147	0.99
+HTR2C	rs3813929	0.99
+HTR2C		1.0
+CHRM2		1.0
+HTR2C	rs3813928	0.99
+Recurrent major depressive episodes	CHRM2	1.0	
+Recurrent major depressive episodes	HTR2A	1.0	
+Recurrent major depressive episodes	HTR2C	1.0	
+Bulimia	HTR2A	1.0	
+Bulimia	HTR2C	1.0	
+Bulimia	HTR7	1.0	
+Alcohol abuse	CHRM2	1.0	
+Alcohol abuse	HTR2A	1.0	
+Alcohol abuse	HTR2C	1.0	
+Alcohol abuse	HTR7	1.0	
+Chronic Fatigue Syndrome	HTR2A	1.0	
+Chronic Fatigue Syndrome	HTR2C	1.0	
+Chronic Fatigue Syndrome	HTR7	1.0	
+MAJOR AFFECTIVE DISORDER 4	HTR2A	1.0	
+MAJOR AFFECTIVE DISORDER 4	HTR2C	1.0	
+MAJOR AFFECTIVE DISORDER 4	HTR7	1.0	
+MAJOR AFFECTIVE DISORDER 5	HTR2A	1.0	
+MAJOR AFFECTIVE DISORDER 5	HTR2C	1.0	
+MAJOR AFFECTIVE DISORDER 5	HTR7	1.0	
+MAJOR AFFECTIVE DISORDER 6	HTR2A	1.0	
+MAJOR AFFECTIVE DISORDER 6	HTR2C	1.0	
+MAJOR AFFECTIVE DISORDER 6	HTR7	1.0	
+Major affective disorder 7	HTR2A	1.0	
+Major affective disorder 7	HTR2C	1.0	
+Major affective disorder 7	HTR7	1.0	
+MAJOR AFFECTIVE DISORDER 8	HTR2A	1.0	
+MAJOR AFFECTIVE DISORDER 8	HTR2C	1.0	
+MAJOR AFFECTIVE DISORDER 8	HTR7	1.0	
+MAJOR AFFECTIVE DISORDER 9	HTR2A	1.0	
+MAJOR AFFECTIVE DISORDER 9	HTR2C	1.0	
+MAJOR AFFECTIVE DISORDER 9	HTR7	1.0	
+Sleep Wake Disorders	HTR2A	1.0	
+Sleep Wake Disorders	HTR2C	1.0	
+Sleep Wake Disorders	HTR7	1.0	
+Anorexia nervosa 1	HTR2A	1.0	
+Anorexia nervosa 1	HTR2C	1.0	
+Anorexia nervosa 1	HTR7	1.0	
+Puerperal Disorders	HTR2A	1.0	
+Puerperal Disorders	HTR2C	1.0	
+Seasonal Affective Disorder	HTR2A	1.0	
+Seasonal Affective Disorder	HTR2C	1.0	
+Chronic schizophrenia	HTR2A	1.0	
+Chronic schizophrenia	HTR2C	1.0	
+Mood Disorders	CHRM2	1.0	
+Mood Disorders	HTR2A	1.0	
+Mood Disorders	HTR2C	1.0	
+Mood Disorders	HTR7	1.0	
+Bulimia nervosa 1	HTR2A	1.0	
+Bulimia nervosa 1	HTR2C	1.0	
+Weight Gain Adverse Event	HTR2A	1.0	
+Weight Gain Adverse Event	HTR2C	1.0	
+Weight Gain Adverse Event	HTR7	1.0	
+Dyskinesia, Drug-Induced	HTR2A	1.0	
+Dyskinesia, Drug-Induced	HTR2C	1.0	
+Cocaine Dependence	HTR2A	1.0	
+Cocaine Dependence	HTR2C	1.0	
+Abnormality of the basal ganglia	HTR2A	1.0	
+Abnormality of the basal ganglia	HTR2C	1.0	
+CNS symptom	HTR2A	1.0	
+CNS symptom	HTR2C	1.0	
+Mental disorders	CHRM2	1.0	
+Mental disorders	HTR2A	1.0	
+Mental disorders	HTR2C	1.0	
+Mental disorders	HTR7	1.0	
+As If Personality	HTR2A	1.0	
+As If Personality	HTR2C	1.0	
+Tardive Dyskinesia	HTR2A	1.0	
+Tardive Dyskinesia	HTR2C	1.0	
+Bipolar I disorder	HTR2A	1.0	
+Bipolar I disorder	HTR2C	1.0	
+Drug Dependence	CHRM2	1.0	
+Drug Dependence	HTR2C	1.0	
+Orofacial dyskinesia	HTR2A	1.0	
+Orofacial dyskinesia	HTR2C	1.0	
+Eating disorder	HTR2A	1.0	
+Eating disorder	HTR2C	1.0	
+Migraine with aura	HTR2A	1.0	
+Migraine with aura	HTR2C	1.0	
+Substance addiction and disorders	CHRM2	1.0	
+Substance addiction and disorders	HTR2C	1.0	
+Substance Withdrawal Syndrome	HTR2A	1.0	
+Substance Withdrawal Syndrome	HTR2C	1.0	
+Agitation	HTR2A	1.0	
+Agitation	HTR2C	1.0	
+Depressive Disorder	CHRM2	1.0	
+Depressive Disorder	HTR2A	1.0	
+Depressive Disorder	HTR2C	1.0	
+Depressive Disorder	HTR7	1.0	
+{Unipolar depression, susceptibility to}, 608516 (3)	CHRM2	1.0	
+{Unipolar depression, susceptibility to}, 608516 (3)	HTR2A	1.0	
+{Unipolar depression, susceptibility to}, 608516 (3)	HTR2C	1.0	
+{Unipolar depression, susceptibility to}, 608516 (3)	HTR7	1.0	
+body mass	HTR2A	1.0	
+body mass	HTR2C	1.0	
+Dyskinesia, seizures, and intellectual developmental disorder	HTR2A	1.0	
+Dyskinesia, seizures, and intellectual developmental disorder	HTR2C	1.0	
+Methamphetamine abuse	HTR2A	1.0	
+Methamphetamine abuse	HTR2C	1.0	
+Nicotine Dependence	CHRM2	1.0	
+Nicotine Dependence	HTR2A	1.0	
+Migraine Disorders	HTR2A	1.0	
+Migraine Disorders	HTR2C	1.0	
+Migraine Disorders	HTR7	1.0	
+Alcohol dependence	CHRM2	1.0	
+Alcohol dependence	HTR2A	1.0	
+Alcohol dependence	HTR2C	1.0	
+Alcohol dependence	HTR7	1.0	
+Depressive Symptoms	HTR2A	1.0	
+Depressive Symptoms	HTR2C	1.0	
+Tourette Syndrome	HTR2A	1.0	
+Tourette Syndrome	HTR2C	1.0	
+Fatigue	HTR2A	1.0	
+Fatigue	HTR2C	1.0	
+Fatigue	HTR7	1.0	
+Anorexia	HTR2A	1.0	
+Anorexia	HTR2C	1.0	
+Anxiety Disorders	HTR2A	1.0	
+Anxiety Disorders	HTR2C	1.0	
+Anxiety Disorders	HTR7	1.0	
+Chronic sciatica	HTR2A	1.0	
+Unipolar Depression	CHRM2	1.0	
+Unipolar Depression	HTR2A	1.0	
+Unipolar Depression	HTR2C	1.0	
+Bladder neck obstruction	HTR2A	1.0	
+Irritable bowel syndrome with diarrhea	HTR2A	1.0	
+Irritable bowel syndrome with diarrhea	HTR7	1.0	
+Bipolar affective disorder	CHRM2	1.0	
+Bipolar affective disorder	HTR2A	1.0	
+Bipolar affective disorder	HTR2C	1.0	
+Bipolar affective disorder	HTR7	1.0	
+Generalized anxiety disorder	HTR2A	1.0	
+Obstructive sleep apnea	HTR2A	1.0	
+Obstructive sleep apnea	HTR2C	1.0	
+Substance Use Disorders	HTR2A	1.0	
+Distal myopathy Markesbery-Griggs type	HTR2A	1.0	
+Substance-Related Disorders	CHRM2	1.0	
+Substance-Related Disorders	HTR2C	1.0	
+Borderline Personality Disorder	HTR2A	1.0	
+Borderline Personality Disorder	HTR2C	1.0	
+Pervasive developmental disorders	HTR2C	1.0	
+Hyperalgesia	HTR2A	1.0	
+Hyperalgesia	HTR7	1.0	
+ {Nicotine dependence, protection against}, 188890 (3)	HTR2A	1.0	
+Antisocial Personality Disorder	HTR2A	1.0	
+Acute postoperative pain	HTR2A	1.0	
+Psychiatric symptom	HTR2A	1.0	
+Spastic	HTR2A	1.0	
+Epilepsy, Temporal Lobe	HTR2A	1.0	
+Epilepsy, Temporal Lobe	HTR2C	1.0	
+Cycloid psychosis	HTR2A	1.0	
+Cycloid psychosis	HTR2C	1.0	
+Major depressive disorder	CHRM2	1.0	
+Major depressive disorder	HTR2A	1.0	
+Major depressive disorder	HTR2C	1.0	
+Acute disease of cardiovascular system	HTR2A	1.0	
+Personality disorder	HTR2A	1.0	
+Chronic colitis	HTR7	1.0	
+Neurobehavioral Manifestations	HTR2A	1.0	
+Increased body weight	HTR2A	1.0	
+Increased body weight	HTR2C	1.0	
+Increased body weight	HTR7	1.0	
+Delusions	HTR2A	1.0	
+Low back pain	HTR2A	1.0	
+Insomnia	HTR2A	1.0	
+Depression	HTR2A	1.0	
+Depression	HTR2C	1.0	
+Substance abuse problem	HTR2C	1.0	
+Hyperactivity	HTR2A	1.0	
+Hyperactivity	HTR2C	1.0	
+Weight Loss Adverse Event	HTR2C	1.0	

@@ -1,0 +1,35 @@
+Gene	CUI	Source Databases	
+CYP2E1	C0011609	Drug Eruptions	DisGeNet	
+CYP2E1	C1609538	Latent Tuberculosis	DisGeNet	
+CYP2E1	C1827377	Slow acetylator due to N-acetyltransferase enzyme variant	DisGeNet	
+CYP2E1	C0027663	Neoplasms, Multiple Primary	DisGeNet	
+CYP2E1	C0032229	Pleural Neoplasms	DisGeNet	
+CYP2E1	C0153405	Malignant neoplasm of pharynx	DisGeNet	
+CYP2E1	C0206720	Squamous Cell Neoplasms	DisGeNet	
+SLC22A2	C0005398	Extrahepatic cholestasis	DisGeNet	
+CYP2E1	C0860204	Cholestatic liver disease	DisGeNet	
+SLC22A2	C0031039	Pericardial effusion	DisGeNet	
+CYP2E1	C0851887	Adenoviral infections	DisGeNet	
+CYP2E1	C1527405	Erythrocytosis	DisGeNet	
+CYP2E1	C0003431	Antisocial Personality Disorder	DisGeNet	
+CYP2E1	C0919532	Genomic Instability	DisGeNet	
+CYP2E1	C0001956	alcohol use disorder	DisGeNet	
+CYP2E1	C0745744	End Stage Liver Disease	DisGeNet	
+CYP2E1	C0376670	Pancreatitis, Alcoholic	DisGeNet	
+CYP2E1	C2718067	Alcoholic Steatohepatitis	DisGeNet	
+CYP2E1	C0038354	Stomach Diseases	DisGeNet	
+CYP2E1	C0029445	Bone necrosis	DisGeNet	
+CYP2E1	C0035244	Neoplasm of the respiratory system	DisGeNet	
+CYP2E1	C0023531	Leukoplakia	DisGeNet	
+CYP2E1	C0033054	Prenatal Exposure Delayed Effects	DisGeNet	
+CYP2E1	C0333873	Squamous intraepithelial lesion	DisGeNet	
+CYP2E1	C0027540	Necrosis	DisGeNet	
+CYP2E1	C0035242	Respiratory Tract Diseases	DisGeNet	
+SLC22A2	C0008372	Intrahepatic cholestasis	DisGeNet	
+CYP2E1	C0041755	Adverse drug events and drug allergies	DisGeNet	
+CYP2E1	C0002875	Cooley's anemia	DisGeNet	
+CYP2E1	C0003944	As If Personality	DisGeNet	
+CYP2E1	C1332977	Childhood Leukemia	DisGeNet	
+CYP2E1	C4055506	Neurodegeneration with brain iron accumulation 4	DisGeNet	
+CYP2E1	C0028797	Occupational Diseases	DisGeNet	
+SLC22A2	C0740394	Hyperuricemia, pulmonary hypertension, renal failure, and alkalosis	DisGeNet	

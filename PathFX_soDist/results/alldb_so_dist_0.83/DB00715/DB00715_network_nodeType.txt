@@ -1,0 +1,30 @@
+node_name	node_type	
+DB00715	drug	
+CYP2C9	drug_target	
+CYP2C8	drug_target	
+CYP1A2	drug_target	
+SLC6A2	drug_target	
+CYP2D6	drug_target	
+SLC6A4	drug_target	
+CHRM3	drug_target	
+CHRM4	drug_target	
+CYP2B6	drug_target	
+CHRM2	drug_target	
+CHRM1	drug_target	
+ABCB1	drug_target	
+HTR2A	drug_target	
+CYP3A4	drug_target	
+Nausea	phenotype	
+Acute postoperative pain	phenotype	
+Tardive Dyskinesia	phenotype	
+Heroin Dependence	phenotype	
+Orofacial dyskinesia	phenotype	
+Adverse drug events and drug allergies	phenotype	
+Chronic schizophrenia	phenotype	
+Personality disorder	phenotype	
+Methamphetamine abuse	phenotype	
+Drug Allergy	phenotype	
+Primary malignant neoplasm of liver	phenotype	
+Dyskinesia, Drug-Induced	phenotype	
+Recurrent major depressive episodes	phenotype	
+Gastrointestinal Diseases	phenotype	

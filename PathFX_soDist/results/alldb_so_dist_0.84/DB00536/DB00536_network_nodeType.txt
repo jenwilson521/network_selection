@@ -1,0 +1,27 @@
+node_name	node_type	
+DB00536	drug	
+RNASE1	drug_target	
+GAMT	drug_target	
+DLG4	drug_target	
+ALDH2	drug_target	
+SLC22A4	drug_target	
+SLC22A5	drug_target	
+SLC22A1	drug_target	
+SLC22A2	drug_target	
+SLC22A3	drug_target	
+SLC47A2	drug_target	
+SLC47A1	drug_target	
+SLC22A8	drug_target	
+Extrahepatic cholestasis	phenotype	
+Myocarditis	phenotype	
+polyps	phenotype	
+pathologic fistula	phenotype	
+Intrahepatic cholestasis	phenotype	
+Hyperuricemia, pulmonary hypertension, renal failure, and alkalosis	phenotype	
+Duodenal Ulcer	phenotype	
+Growth Disorders	phenotype	
+Chronic ulcerative colitis	phenotype	
+Endotoxemia	phenotype	
+Acute kidney injury	phenotype	
+Fibrinogen Adverse Event	phenotype	
+Diabetic Nephropathies	phenotype	

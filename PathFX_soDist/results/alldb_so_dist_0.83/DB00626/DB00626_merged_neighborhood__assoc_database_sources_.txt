@@ -1,0 +1,71 @@
+Gene	CUI	Source Databases	
+A2M	C0002395	Alzheimer Disease	ClinVar,DisGeNet	
+A2M	C0002726	Amyloidosis	DisGeNet	
+A2M	C0002878	Hemolytic anemia, nonspherocytic, due to glucose phosphate isomerase deficiency	DisGeNet	
+A2M	C0003864	Arthritis, Rheumatoid	DisGeNet	
+A2M	C0003873	Rheumatoid arthritis	DisGeNet	
+A2M	C0004114	Astrocytoma	DisGeNet	
+A2M	C0009375	Neoplasm of the colon	DisGeNet	
+A2M	C0010674	Cystic Fibrosis	DisGeNet	
+A2M	C0011389	Plaque, Atherosclerotic	DisGeNet	
+A2M	C0011570	{Unipolar depression, susceptibility to}, 608516 (3)	DisGeNet	
+A2M	C0011849	Diabetes Mellitus, Type 1	DisGeNet	
+A2M	C0012634	Gallbladder disease 4	DisGeNet	
+A2M	C0014072	Experimental Autoimmune Encephalomyelitis	DisGeNet	
+A2M	C0015814	Femur Head Necrosis	DisGeNet	
+A2M	C0015967	Malignant hyperthermia susceptibility type 5	DisGeNet	
+A2M	C0017665	Membranous nephropathy, susceptibility to	DisGeNet	
+A2M	C0018800	Cardiomegaly	DisGeNet	
+A2M	C0019202	Wilson disease	DisGeNet	
+A2M	C0021368	Inflammation	DisGeNet	
+A2M	C0022578	Keratoconus	DisGeNet	
+A2M	C0022660	Acute kidney injury	DisGeNet	
+A2M	C0023827	Liposarcoma	DisGeNet	
+A2M	C0023890	Liver Cirrhosis, Biliary	DisGeNet	
+A2M	C0023903	Neoplasm of the liver	DisGeNet	
+A2M	C0024115	Pulmonary Disease, Chronic Obstructive	DisGeNet	
+A2M	C0024117	Chronic obstructive pulmonary disease	DisGeNet	
+A2M	C0024121	Lung Neoplasms	DisGeNet	
+A2M	C0025202	Melanoma	DisGeNet	
+A2M	C0026769	Multiple Sclerosis	DisGeNet	
+A2M	C0027051	Myocardial Infarction	DisGeNet	
+A2M	C0027430	Nasal polyposis	DisGeNet	
+A2M	C0027627	Secondary hypertriglyceridemia	DisGeNet	
+A2M	C0027726	Nephrotic syndrome, type 5, with or without ocular abnormalities	DisGeNet	
+A2M	C0029408	Osteoarthritis	DisGeNet	
+A2M	C0030305	Pancreatitis	DisGeNet	
+A2M	C0030567	Parkinson Disease	DisGeNet	
+A2M	C0031154	Peritonitis	DisGeNet	
+A2M	C0033578	Prostatic Neoplasms	DisGeNet	
+A2M	C0034067	Pulmonary Emphysema	DisGeNet	
+A2M	C0036983	 {Septic shock, susceptibility to} (3)	DisGeNet	
+A2M	C0038454	Stroke	DisGeNet	
+A2M	C0040038	Thromboembolism	DisGeNet	
+A2M	C0042024	Urinary incontinence	DisGeNet	
+A2M	C0085220	Cerebral Amyloid Angiopathy	DisGeNet	
+A2M	C0149871	Deep venous thrombosis	DisGeNet	
+A2M	C0151950	Deep thrombophlebitis	DisGeNet	
+A2M	C0206669	Hepatocellular adenoma	DisGeNet	
+A2M	C0221757	Alpha-1-antitrypsin deficiency	DisGeNet	
+A2M	C0239981	Hypoalbuminemia	DisGeNet	
+A2M	C0242383	Age-related macular degeneration 2	DisGeNet	
+A2M	C0243026	Sepsis	DisGeNet	
+A2M	C0333463	Senile plaques	DisGeNet	
+A2M	C0340708	Deep vein thrombosis of lower limb	DisGeNet	
+A2M	C0376358	Malignant tumor of prostate	DisGeNet	
+A2M	C0398623	Thrombophilia	DisGeNet	
+A2M	C0443147	Autosomal dominant non-syndromic sensorineural deafness type DFNA	HumPhenOnt	
+A2M	C0524851	Neurodegenerative Diseases	DisGeNet	
+A2M	C0524910	Hepatitis C, Chronic	DisGeNet	
+A2M	C0600139	Prostate carcinoma	DisGeNet	
+A2M	C0600260	Obstructive lung disease	DisGeNet	
+A2M	C0746102	Chronic lung disease	DisGeNet	
+A2M	C0752347	Lewy Body Disease	DisGeNet	
+A2M	C0853897	Diabetic Cardiomyopathies	DisGeNet	
+A2M	C0948008	Ischemic stroke	DisGeNet	
+A2M	C1704272	Benign Prostatic Hyperplasia	DisGeNet	
+A2M	C1842937	Aural atresia, congenital	DisGeNet	
+A2M	C2239176	Hepatocellular carcinoma	DisGeNet	
+A2M	C3266877	Secondary malignant neoplasm of pancreas	DisGeNet	
+A2M	C3272363	Ischemic Cerebrovascular Accident	DisGeNet	
+A2M	C3501835	alpha-1-Antitrypsin Deficiency, Autosomal Recessive	DisGeNet	

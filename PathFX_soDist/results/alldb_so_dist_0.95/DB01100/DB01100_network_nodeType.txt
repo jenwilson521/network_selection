@@ -1,0 +1,31 @@
+node_name	node_type	
+DB01100	drug	
+CYP1A2	drug_target	
+CYP2D6	drug_target	
+KCNH2	drug_target	
+DRD2	drug_target	
+DRD3	drug_target	
+CYP2E1	drug_target	
+ABCB1	drug_target	
+CYP3A4	drug_target	
+CYP3A5	drug_target	
+Chronic schizophrenia	phenotype	
+Tardive Dyskinesia	phenotype	
+Opiate Addiction	phenotype	
+Heroin Dependence	phenotype	
+Orofacial dyskinesia	phenotype	
+Primary malignant neoplasm of liver	phenotype	
+Dyskinesia, Drug-Induced	phenotype	
+Pain insensitivity	phenotype	
+Cocaine delirium	phenotype	
+Gastroparesis	phenotype	
+Neoplasm of the larynx	phenotype	
+Polydipsia	phenotype	
+Nausea	phenotype	
+Cocaine Dependence	phenotype	
+Squamous Cell Neoplasms	phenotype	
+Alcohol abuse	phenotype	
+Adverse drug events and drug allergies	phenotype	
+As If Personality	phenotype	
+Congenital long QT syndrome	phenotype	
+Pharyngeal Neoplasms	phenotype	

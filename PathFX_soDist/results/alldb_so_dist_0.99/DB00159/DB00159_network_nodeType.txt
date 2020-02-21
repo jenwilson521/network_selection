@@ -1,0 +1,14 @@
+node_name	node_type	
+DB00159	drug	
+PTGS2	drug_target	
+PTGS1	drug_target	
+ACSL3	drug_target	
+ALB	drug_target	
+ACSL4	drug_target	
+PPARG	drug_target	
+PPARD	drug_target	
+PPARA	drug_target	
+FADS1	drug_target	
+FFAR1	drug_target	
+TRPV1	drug_target	
+SLC8A1	drug_target	

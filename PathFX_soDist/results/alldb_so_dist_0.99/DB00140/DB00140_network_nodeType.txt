@@ -1,0 +1,7 @@
+node_name	node_type	
+DB00140	drug	
+MTHFR	drug_target	
+RFK	drug_target	
+SLC22A6	drug_target	
+MAOA	drug_target	
+BLVRB	drug_target	

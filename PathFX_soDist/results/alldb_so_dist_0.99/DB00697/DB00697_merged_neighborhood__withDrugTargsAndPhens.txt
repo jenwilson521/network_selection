@@ -1,0 +1,4 @@
+node1	node2	edge_score	
+DB00697	CYP1A2	1.0	
+DB00697	NISCH	1.0	
+

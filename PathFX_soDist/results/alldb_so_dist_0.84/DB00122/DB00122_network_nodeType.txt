@@ -1,0 +1,37 @@
+node_name	node_type	
+DB00122	drug	
+PCYT1A	drug_target	
+SLC44A1	drug_target	
+SLC44A3	drug_target	
+SLC22A2	drug_target	
+PLD1	drug_target	
+PLD2	drug_target	
+CHDH	drug_target	
+SLC22A3	drug_target	
+SLC22A4	drug_target	
+SLC22A5	drug_target	
+CHRNA7	drug_target	
+BCHE	drug_target	
+SLC22A1	drug_target	
+CHAT	drug_target	
+SLC5A7	drug_target	
+ACHE	drug_target	
+PCYT1B	drug_target	
+CHKA	drug_target	
+CHKB	drug_target	
+Congenital myasthenic syndrome	phenotype	
+Weight Gain Adverse Event	phenotype	
+Growth Disorders	phenotype	
+Dementia, Vascular	phenotype	
+Extrahepatic cholestasis	phenotype	
+Myasthenic syndrome, congenital, 8	phenotype	
+Myocarditis	phenotype	
+Mild cognitive impairment	phenotype	
+Leptospirosis	phenotype	
+Dementia familial British	phenotype	
+pathologic fistula	phenotype	
+Refractory anemia	phenotype	
+Refractory anaemia with excess blasts	phenotype	
+Memory Disorders	phenotype	
+Intrahepatic cholestasis	phenotype	
+Memory Loss	phenotype	

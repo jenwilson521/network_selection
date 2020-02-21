@@ -1,0 +1,13 @@
+node_name	node_type	
+DB01708	drug	
+ESR2	drug_target	
+ESR1	drug_target	
+NR1I3	drug_target	
+NR1I2	drug_target	
+AR	drug_target	
+SULT2B1	drug_target	
+PPARA	drug_target	
+HSD17B1	drug_target	
+CYP3A4	drug_target	
+SIGMAR1	drug_target	
+SULT2A1	drug_target	

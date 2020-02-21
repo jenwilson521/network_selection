@@ -1,0 +1,113 @@
+Gene	CUI	Source Databases	
+PRKCA	C0000768	EMG: myopathic abnormalities	DisGeNet	
+PRKCA	C0001430	Adenomas, multiple colorectal, 608456 (3)	DisGeNet	
+PRKCA	C0001622	Adrenal Gland Hyperfunction	DisGeNet	
+PRKCA	C0001624	Neoplasm of the adrenal gland	DisGeNet	
+PRKCA	C0001627	Congenital adrenal hyperplasia	DisGeNet	
+PRKCA	C0004096	Asthma	DisGeNet	
+PRKCA	C0004114	Astrocytoma	DisGeNet	
+PRKCA	C0004936	Mental disorders	DisGeNet	
+PRKCA	C0005684	Malignant tumor of urinary bladder	DisGeNet	
+PRKCA	C0006142	Breast-ovarian cancer, familial 1	DisGeNet	
+PRKCA	C0007102	Colon cancer	DisGeNet	
+PRKCA	C0007103	Malignant neoplasm of endometrium	DisGeNet	
+PRKCA	C0007114	Skin cancer	DisGeNet	
+PRKCA	C0007117	Basal cell carcinoma	DisGeNet	
+PRKCA	C0007131	Non-small cell lung carcinoma	DisGeNet	
+PRKCA	C0007134	Renal cell carcinoma, nonpapillary	DisGeNet	
+PRKCA	C0007137	Squamous cell carcinoma	DisGeNet	
+PRKCA	C0007786	Brain Ischemia	DisGeNet	
+PRKCA	C0008626	Congenital chromosomal disease	DisGeNet	
+PRKCA	C0009450	Verotoxigenic Escherichia coli gastrointestinal tract infection	DisGeNet	
+PRKCA	C0010414	Infection by Cryptococcus neoformans	DisGeNet	
+PRKCA	C0010481	Cushing's syndrome	DisGeNet	
+PRKCA	C0011849	Diabetes Mellitus, Type 1	DisGeNet	
+PRKCA	C0011881	Diabetic Nephropathies	DisGeNet	
+PRKCA	C0016059	Fibrosis	DisGeNet	
+PRKCA	C0017636	Glioblastoma	DisGeNet	
+PRKCA	C0017638	Glioma	DisGeNet	
+PRKCA	C0017665	Membranous nephropathy, susceptibility to	DisGeNet	
+PRKCA	C0018099	Gout	PheGenI	
+PRKCA	C0018800	Cardiomegaly	DisGeNet	
+PRKCA	C0018801	Heart Failure	DisGeNet	
+PRKCA	C0019693	Symptomatic human immunodeficiency virus infection	DisGeNet	
+PRKCA	C0020179	Huntington's chorea	DisGeNet	
+PRKCA	C0020456	Hyperglycemia	DisGeNet	
+PRKCA	C0020538	Hypertension	DisGeNet	
+PRKCA	C0021841	Intestinal Neoplasms	DisGeNet	
+PRKCA	C0022116	Ischemia	DisGeNet	
+PRKCA	C0023434	Chronic Lymphocytic Leukemia	DisGeNet	
+PRKCA	C0023467	Acute myeloid leukemia	DisGeNet	
+PRKCA	C0023890	Liver Cirrhosis, Biliary	DisGeNet	
+PRKCA	C0023903	Neoplasm of the liver	DisGeNet	
+PRKCA	C0024121	Lung Neoplasms	DisGeNet	
+PRKCA	C0024667	Animal Mammary Neoplasms	DisGeNet	
+PRKCA	C0025202	Melanoma	DisGeNet	
+PRKCA	C0026769	Multiple Sclerosis	DisGeNet	
+PRKCA	C0026848	Myopathy, scapulohumeroperoneal	DisGeNet	
+PRKCA	C0027627	Secondary hypertriglyceridemia	DisGeNet	
+PRKCA	C0027708	Wilms Tumor	DisGeNet	
+PRKCA	C0028754	Obesity	DisGeNet	
+PRKCA	C0030809	Pemphigus Vulgaris	DisGeNet	
+PRKCA	C0032000	Pituitary adenoma	DisGeNet	
+PRKCA	C0032019	Pituitary Neoplasms	DisGeNet	
+PRKCA	C0032617	Polyuria	DisGeNet	
+PRKCA	C0033578	Prostatic Neoplasms	DisGeNet	
+PRKCA	C0035126	Reperfusion Injury	DisGeNet	
+PRKCA	C0036341	Schizophrenia	DisGeNet	
+PRKCA	C0036572	Seizures, Febrile	DisGeNet	
+PRKCA	C0036690	Septicemia	DisGeNet	
+PRKCA	C0038356	Stomach Neoplasms	DisGeNet	
+PRKCA	C0038436	Posttraumatic stress disorder	DisGeNet	
+PRKCA	C0040136	Thyroid Neoplasms	DisGeNet	
+PRKCA	C0040336	Tobacco Use Disorder	DisGeNet	
+PRKCA	C0080178	Spina bifida	DisGeNet	
+PRKCA	C0085166	Bacterial Vaginosis	DisGeNet	
+PRKCA	C0149721	Left ventricular hypertrophy	DisGeNet	
+PRKCA	C0149925	Small cell lung cancer	DisGeNet	
+PRKCA	C0151526	Premature Birth	DisGeNet	
+PRKCA	C0152013	Adenocarcinoma of lung	DisGeNet	
+PRKCA	C0153574	Uterine Corpus Cancer	DisGeNet	
+PRKCA	C0153676	Secondary malignant neoplasm of lung	DisGeNet	
+PRKCA	C0162283	Nephrogenic diabetes insipidus, autosomal	DisGeNet	
+PRKCA	C0162770	Right ventricular hypertrophy	DisGeNet	
+PRKCA	C0178874	Tumor Progression	DisGeNet	
+PRKCA	C0206667	Adrenocortical adenoma	DisGeNet	
+PRKCA	C0220650	Metastatic malignant neoplasm to brain	DisGeNet	
+PRKCA	C0233794	Memory impairment	DisGeNet	
+PRKCA	C0234133	Abnormality of extrapyramidal motor function	DisGeNet	
+PRKCA	C0235974	Pancreatic Carcinoma	DisGeNet	
+PRKCA	C0242379	Malignant neoplasm of lung	DisGeNet	
+PRKCA	C0242596	Neoplasm, Residual	DisGeNet	
+PRKCA	C0243026	Sepsis	DisGeNet	
+PRKCA	C0282607	Vascular neoplasm	DisGeNet	
+PRKCA	C0338106	Adenocarcinoma of colon	DisGeNet	
+PRKCA	C0342492	Adrenal hyperplasia	DisGeNet	
+PRKCA	C0346647	Malignant neoplasm of pancreas	DisGeNet	
+PRKCA	C0376358	Malignant tumor of prostate	DisGeNet	
+PRKCA	C0406810	Carney complex	DisGeNet	
+PRKCA	C0476089	Endometrial carcinoma	DisGeNet	
+PRKCA	C0596263	Carcinogenesis	DisGeNet	
+PRKCA	C0598766	Leukemogenesis	DisGeNet	
+PRKCA	C0598935	Tumor Initiation	DisGeNet	
+PRKCA	C0600139	Prostate carcinoma	DisGeNet	
+PRKCA	C0600452	Hepatopulmonary Syndrome	DisGeNet	
+PRKCA	C0677886	Ovarian epithelial cancer	DisGeNet	
+PRKCA	C0678222	Breast carcinoma	DisGeNet	
+PRKCA	C0684249	Lung cancer	DisGeNet	
+PRKCA	C0699790	Carcinoma of colon	DisGeNet	
+PRKCA	C0699791	Stomach cancer	DisGeNet	
+PRKCA	C0699885	Bladder carcinoma	DisGeNet	
+PRKCA	C0700095	Neuroblastoma	DisGeNet	
+PRKCA	C0740457	Malignant neoplasm of kidney	DisGeNet	
+PRKCA	C0877373	Advanced cancer	DisGeNet	
+PRKCA	C0878544	Cardiomyopathy	DisGeNet	
+PRKCA	C0919267	Ovarian Neoplasms	DisGeNet	
+PRKCA	C1140680	BREAST-OVARIAN CANCER, FAMILIAL, SUSCEPTIBILITY TO, 4	DisGeNet	
+PRKCA	C1378050	Oncocytic Neoplasm	DisGeNet	
+PRKCA	C1512409	Hepatocarcinogenesis	DisGeNet	
+PRKCA	C1519346	Skin Carcinogenesis	DisGeNet	
+PRKCA	C1519689	Tumor Promotion	DisGeNet	
+PRKCA	C1840451	Multicystic renal dysplasia, bilateral	DisGeNet	
+PRKCA	C2239176	Hepatocellular carcinoma	DisGeNet	
+PRKCA	C3539878	Triple Negative Breast Neoplasms	DisGeNet	

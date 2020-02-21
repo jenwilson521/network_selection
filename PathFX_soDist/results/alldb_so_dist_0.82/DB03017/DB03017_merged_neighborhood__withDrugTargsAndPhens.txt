@@ -1,0 +1,155 @@
+node1	node2	edge_score	
+DB03017	VLDLR	1.0	
+DB03017	ADH5	1.0	
+DB03017	GLTP	1.0	
+DB03017	GM2A	1.0	
+DB03017	ALB	1.0	
+DB03017	PLA2G2A	1.0	
+DB03017	PLA2G2D	1.0	
+DB03017	TLR4	1.0	
+DB03017	C8G	1.0	
+DB03017	LY96	1.0	
+DB03017	HNF4A	1.0	
+DB03017	PPARA	1.0	
+DB03017	LTF	1.0	
+HNF4A	rs1884613	0.99
+HNF4A	rs3212198	0.99
+PPARA	rs4253778	0.99
+PPARA	rs149711321	0.99
+TLR4	rs4986790	0.99
+complex:lAo9+jzjVOaRJSWZQvoh0G1mUDc	KRT9	0.911120279231
+TLR4	rs5030728	0.99
+ALB	complex:lAo9+jzjVOaRJSWZQvoh0G1mUDc	0.954526206676
+HNF4A	HNF4ATATTT, HNF4ATGCGC	0.99
+HNF4A	rs3746574	0.99
+PPARA	rs4253728	0.99
+HNF4A		1.0
+PPARA	rs9626730	0.99
+PPARA		1.0
+PPARA	rs4823613	0.99
+HNF4A	rs2273618	0.99
+PPARA	rs135550	0.99
+TLR4		1.0
+HNF4A	rs6130615	0.99
+ALB		1.0
+complex:lAo9+jzjVOaRJSWZQvoh0G1mUDc	OR8D2	0.911120279231
+TLR4	rs1927907	0.99
+TLR4	rs2770150	0.99
+PPARA	rs135543	0.99
+HNF4A	rs2071197	0.99
+Microalbuminuria	ALB	1.0	
+Microalbuminuria	PPARA	1.0	
+Microalbuminuria	TLR4	1.0	
+Hyperlipidemia, familial combined	ALB	1.0	
+Hyperlipidemia, familial combined	HNF4A	1.0	
+Hyperlipidemia, familial combined	PPARA	1.0	
+Hepatoblastoma	ALB	1.0	
+Hepatoblastoma	HNF4A	1.0	
+Hepatoblastoma	PPARA	1.0	
+Hepatoblastoma	TLR4	1.0	
+Maturity-onset diabetes of the young, type 11	ALB	1.0	
+Maturity-onset diabetes of the young, type 11	HNF4A	1.0	
+Maturity-onset diabetes of the young, type 11	PPARA	1.0	
+Acute kidney injury	ALB	1.0	
+Acute kidney injury	HNF4A	1.0	
+Acute kidney injury	PPARA	1.0	
+Acute kidney injury	TLR4	1.0	
+End Stage Liver Disease	ALB	1.0	
+End Stage Liver Disease	TLR4	1.0	
+Acute hepatic failure	ALB	1.0	
+Acute hepatic failure	PPARA	1.0	
+Acute hepatic failure	TLR4	1.0	
+Hyperlipoproteinemia	ALB	1.0	
+Hyperlipoproteinemia	PPARA	1.0	
+Insulin resistance syndrome	ALB	1.0	
+Insulin resistance syndrome	PPARA	1.0	
+Glomerulopathy	ALB	1.0	
+Glomerulopathy	HNF4A	1.0	
+Glomerulopathy	TLR4	1.0	
+Guillain-Barre syndrome, familial	ALB	1.0	
+Guillain-Barre syndrome, familial	TLR4	1.0	
+Lipoatrophy	ALB	1.0	
+Lipoatrophy	PPARA	1.0	
+Lipoatrophy	TLR4	1.0	
+Cachexia	ALB	1.0	
+Cachexia	HNF4A	1.0	
+Cachexia	TLR4	1.0	
+Bleeding disorder, platelet-type, 21	ALB	1.0	
+Bleeding disorder, platelet-type, 21	HNF4A	1.0	
+Bleeding disorder, platelet-type, 21	TLR4	1.0	
+Adverse drug events and drug allergies	ALB	1.0	
+Adverse drug events and drug allergies	PPARA	1.0	
+Hemolytic uremic syndrome	ALB	1.0	
+Hemolytic uremic syndrome	TLR4	1.0	
+Myocardial Reperfusion Injury	ALB	1.0	
+Myocardial Reperfusion Injury	PPARA	1.0	
+Myocardial Reperfusion Injury	TLR4	1.0	
+Acute Lung Injury	ALB	1.0	
+Acute Lung Injury	TLR4	1.0	
+Proteinuria, low molecular weight, with hypercalciuria and nephrocalcinosis	ALB	1.0	
+Proteinuria, low molecular weight, with hypercalciuria and nephrocalcinosis	HNF4A	1.0	
+Proteinuria, low molecular weight, with hypercalciuria and nephrocalcinosis	PPARA	1.0	
+Maternal diabetes	ALB	1.0	
+Maternal diabetes	HNF4A	1.0	
+Maternal diabetes	PPARA	1.0	
+Hypercholesterolemia, autosomal dominant, type B	ALB	1.0	
+Hypercholesterolemia, autosomal dominant, type B	PPARA	1.0	
+Hypercholesterolemia, autosomal dominant, type B	TLR4	1.0	
+Hepatic steatosis	ALB	1.0	
+Hepatic steatosis	HNF4A	1.0	
+Hepatic steatosis	PPARA	1.0	
+Hepatic steatosis	TLR4	1.0	
+Overweight	HNF4A	1.0	
+Overweight	PPARA	1.0	
+Overweight	TLR4	1.0	
+Coronary artery stenosis	PPARA	1.0	
+Coronary artery stenosis	TLR4	1.0	
+Dyslipidemias	HNF4A	1.0	
+Dyslipidemias	PPARA	1.0	
+Dyslipidemias	TLR4	1.0	
+Hyperglycemia	ALB	1.0	
+Hyperglycemia	HNF4A	1.0	
+Hyperglycemia	PPARA	1.0	
+Hyperglycemia	TLR4	1.0	
+Cholecystolithiasis	HNF4A	1.0	
+Cholecystolithiasis	TLR4	1.0	
+Liver regeneration disorder	ALB	1.0	
+Liver regeneration disorder	PPARA	1.0	
+Leishmaniasis, Visceral	PPARA	1.0	
+Leishmaniasis, Visceral	TLR4	1.0	
+Hepatocarcinogenesis	ALB	1.0	
+Hepatocarcinogenesis	HNF4A	1.0	
+Hepatocarcinogenesis	PPARA	1.0	
+Hepatocarcinogenesis	TLR4	1.0	
+Type 1 diabetic neuropathy	ALB	1.0	
+Type 1 diabetic neuropathy	TLR4	1.0	
+Thyroid associated opthalmopathies	PPARA	1.0	
+Thyroid associated opthalmopathies	TLR4	1.0	
+Eczema	ALB	1.0	
+Eczema	KRT9	1.0	
+Eczema	PPARA	1.0	
+Eczema	TLR4	1.0	
+airway disease	PPARA	1.0	
+airway disease	TLR4	1.0	
+Combined Hepatocellular Carcinoma and Cholangiocarcinoma	ALB	1.0	
+Combined Hepatocellular Carcinoma and Cholangiocarcinoma	HNF4A	1.0	
+Combined Hepatocellular Carcinoma and Cholangiocarcinoma	PPARA	1.0	
+Combined Hepatocellular Carcinoma and Cholangiocarcinoma	TLR4	1.0	
+Hemochromatosis	ALB	1.0	
+Hemochromatosis	TLR4	1.0	
+Primary biliary cirrhosis	ALB	1.0	
+Primary biliary cirrhosis	HNF4A	1.0	
+Primary biliary cirrhosis	TLR4	1.0	
+Neuropathy ataxia retinitis pigmentosa syndrome	ALB	1.0	
+Neuropathy ataxia retinitis pigmentosa syndrome	HNF4A	1.0	
+Neuropathy ataxia retinitis pigmentosa syndrome	TLR4	1.0	
+Glomerulonephritis, Membranous	ALB	1.0	
+Glomerulonephritis, Membranous	PPARA	1.0	
+Glomerulonephritis, Membranous	TLR4	1.0	
+Alcoholic Liver Diseases	PPARA	1.0	
+Alcoholic Liver Diseases	TLR4	1.0	
+Hepatitis B, Chronic	ALB	1.0	
+Hepatitis B, Chronic	HNF4A	1.0	
+Hepatitis B, Chronic	TLR4	1.0	
+Hyperhidrosis	HNF4A	1.0	
+Hyperhidrosis	KRT9	1.0	

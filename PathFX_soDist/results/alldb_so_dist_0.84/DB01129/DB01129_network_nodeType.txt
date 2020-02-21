@@ -1,0 +1,21 @@
+node_name	node_type	
+DB01129	drug	
+CYP2C9	drug_target	
+CYP2C8	drug_target	
+CYP1A2	drug_target	
+ATP4A	drug_target	
+CYP2D6	drug_target	
+CYP1A1	drug_target	
+ABCG2	drug_target	
+CYP2C19	drug_target	
+CYP3A4	drug_target	
+Pleural Neoplasms	phenotype	
+Nausea	phenotype	
+Pharyngeal Neoplasms	phenotype	
+Genomic Instability	phenotype	
+Neoplasm of the larynx	phenotype	
+Drug Allergy	phenotype	
+Lichen Planus, Oral	phenotype	
+Primary malignant neoplasm of liver	phenotype	
+Squamous Cell Neoplasms	phenotype	
+Adverse drug events and drug allergies	phenotype	

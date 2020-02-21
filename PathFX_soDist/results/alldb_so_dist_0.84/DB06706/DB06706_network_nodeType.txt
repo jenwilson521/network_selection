@@ -1,0 +1,119 @@
+node_name	node_type	
+DB06706	drug	
+ADRA1A	drug_target	
+SLC18A2	drug_target	
+Acute disease of cardiovascular system	phenotype	
+Albinism, ocular, with sensorineural deafness	phenotype	
+Alzheimer Disease	phenotype	
+Anxiety Disorders	phenotype	
+Rheumatoid arthritis	phenotype	
+Asthma	phenotype	
+Autoimmune disease 1	phenotype	
+Bipolar affective disorder	phenotype	
+Bladder neck obstruction	phenotype	
+Breast-ovarian cancer, familial 1	phenotype	
+Skin cancer	phenotype	
+Cardiovascular Diseases	phenotype	
+Colorectal cancer 1	phenotype	
+Cryptorchidism	phenotype	
+Cytomegalovirus Infections	phenotype	
+Diabetes Mellitus, Type 1	phenotype	
+Diabetes mellitus type 2	phenotype	
+Methamphetamine abuse	phenotype	
+Dyskinesia, Drug-Induced	phenotype	
+Epilepsy	phenotype	
+Fibromyalgia	phenotype	
+Glioblastoma	phenotype	
+Glioma	phenotype	
+Heart Failure	phenotype	
+Congestive heart failure	phenotype	
+Herpes NOS	phenotype	
+Symptomatic human immunodeficiency virus infection	phenotype	
+Hereditary Sensory Autonomic Neuropathy, Type 1	phenotype	
+Hyperalgesia	phenotype	
+Familial hypercholesterolemia	phenotype	
+Hypertension	phenotype	
+Hypotension	phenotype	
+Kidney Failure, Chronic	phenotype	
+Hypogonadotropic hypogonadism 7 with or without anosmia	phenotype	
+Chronic Lymphocytic Leukemia	phenotype	
+Acute Erythroblastic Leukemia	phenotype	
+Acute myeloid leukemia	phenotype	
+Liver Cirrhosis, Biliary	phenotype	
+Low back pain	phenotype	
+Pulmonary Disease, Chronic Obstructive	phenotype	
+Lung Neoplasms	phenotype	
+Melanoma	phenotype	
+Memory Disorders	phenotype	
+Mesothelioma, malignant	phenotype	
+Disorders of Intracellular Cobalamin Metabolism	phenotype	
+Multiple Myeloma	phenotype	
+Steinert myotonic dystrophy syndrome	phenotype	
+Secondary hypertriglyceridemia	phenotype	
+Nephrosclerosis	phenotype	
+Obesity	phenotype	
+Pain	phenotype	
+Acute postoperative pain	phenotype	
+Disorders of parathyroid gland	phenotype	
+Parkinson Disease	phenotype	
+Abnormality of the pituitary gland	phenotype	
+Polycystic Ovary Syndrome	phenotype	
+polyps	phenotype	
+Prostatic Neoplasms	phenotype	
+Pruritus	phenotype	
+Retinitis pigmentosa	phenotype	
+Retinoblastoma	phenotype	
+Kaposi's sarcoma	phenotype	
+Schizoaffective Disorder	phenotype	
+Schizophrenia	phenotype	
+Chronic sciatica	phenotype	
+Tobacco Use Disorder	phenotype	
+Tourette Syndrome	phenotype	
+Urinary incontinence	phenotype	
+Bronchial Hyperreactivity	phenotype	
+Essential hypertension	phenotype	
+Left ventricular hypertrophy	phenotype	
+Acute myocardial ischemia	phenotype	
+Gastroparesis	phenotype	
+Low Tension Glaucoma	phenotype	
+Nephrogenic diabetes insipidus, autosomal	phenotype	
+Hypogonadism with anosmia	phenotype	
+Tumor Progression	phenotype	
+Intraocular melanoma	phenotype	
+ Acrodysostosis 1, with or without hormone resistance, 101800 (3)	phenotype	
+Chronic schizophrenia	phenotype	
+Inflammatory pain	phenotype	
+Taste bitter	phenotype	
+Paroxysmal atrial fibrillation	phenotype	
+Dyslipidemias	phenotype	
+Malignant neoplasm of lung	phenotype	
+Cholestasis of pregnancy	phenotype	
+Hypoparathyroidism - autosomal dominant	phenotype	
+Malignant tumor of prostate	phenotype	
+Pulmonary Cystic Fibrosis	phenotype	
+Congenital Myotonic Dystrophy	phenotype	
+Motor delay	phenotype	
+Recurrent tumor	phenotype	
+Metabolic Syndrome X	phenotype	
+Carcinogenesis	phenotype	
+genetic hypertension	phenotype	
+Leukemogenesis	phenotype	
+Prostate carcinoma	phenotype	
+Ovarian epithelial cancer	phenotype	
+Breast carcinoma	phenotype	
+Lung cancer	phenotype	
+BREAST-OVARIAN CANCER, FAMILIAL, SUSCEPTIBILITY TO, 4	phenotype	
+Congenital long QT syndrome	phenotype	
+Squamous cell carcinoma of the head and neck	phenotype	
+Sarcoma, Ewing	phenotype	
+Attention deficit hyperactivity disorder	phenotype	
+Major depressive disorder	phenotype	
+Systemic arterial pressure	phenotype	
+Primary Effusion Lymphoma	phenotype	
+Differentiated Thyroid Gland Carcinoma	phenotype	
+Cancer Cell Growth	phenotype	
+Colorectal cancer	phenotype	
+Benign Prostatic Hyperplasia	phenotype	
+Pseudohypoparathyroidism, type IB, 603233 (3)	phenotype	
+Coronary Artery Disease	phenotype	
+Hepatocellular carcinoma	phenotype	

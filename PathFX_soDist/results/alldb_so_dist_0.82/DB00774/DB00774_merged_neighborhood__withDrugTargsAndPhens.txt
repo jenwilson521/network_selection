@@ -1,0 +1,132 @@
+node1	node2	edge_score	
+DB00774	CA9	1.0	
+DB00774	CA2	1.0	
+DB00774	CA1	1.0	
+DB00774	KCNMA1	1.0	
+DB00774	CA4	1.0	
+DB00774	ATP1A1	1.0	
+DB00774	CA12	1.0	
+complex:lAo9+jzjVOaRJSWZQvoh0G1mUDc	OR8D2	0.863824739585
+KCNMA1	complex:lAo9+jzjVOaRJSWZQvoh0G1mUDc	0.904977499353
+KCNMA1		1.0
+complex:lAo9+jzjVOaRJSWZQvoh0G1mUDc	KRT9	0.863824739585
+complex:lAo9+jzjVOaRJSWZQvoh0G1mUDc	ALB	0.863824739585
+CA12		1.0
+Malignant neoplasm of adrenal cortex	ALB	1.0	
+Esophageal varix	ALB	1.0	
+Urolithiasis	ALB	1.0	
+Echinococcosis	ALB	1.0	
+Hyperkalemia	CA12	1.0	
+Epidermolysis bullosa simplex, Cockayne-Touraine type	KRT9	1.0	
+Palmar hyperkeratosis	KRT9	1.0	
+Bladder neck obstruction	KCNMA1	1.0	
+Proliferative retinopathy	ALB	1.0	
+Verrucae	KRT9	1.0	
+Isolated somatotropin deficiency	ALB	1.0	
+Abnormality of sodium homeostasis	CA12	1.0	
+Renal tubular acidosis, distal, autosomal dominant	KCNMA1	1.0	
+Hyponatremia	CA12	1.0	
+Substance Use Disorders	ALB	1.0	
+Dentatorubral pallidoluysian atrophy	ALB	1.0	
+Angiokeratoma	ALB	1.0	
+Metabolic Bone Disorder	KCNMA1	1.0	
+Isolated growth hormone deficiency type 1B	ALB	1.0	
+Plantar hyperkeratosis	KRT9	1.0	
+Pericardial effusion	ALB	1.0	
+Mumps	ALB	1.0	
+Rhinitis, Allergic, Perennial	ALB	1.0	
+Endemic Cretinism	ALB	1.0	
+Complete trisomy 18 syndrome	KCNMA1	1.0	
+Hemangioblastoma	ALB	1.0	
+Mesangiocapillary glomerulonephritis, type II	ALB	1.0	
+Nephrosclerosis	ALB	1.0	
+Peripheral motor neuropathy	ALB	1.0	
+End Stage Liver Disease	ALB	1.0	
+Abnormal albumin level	ALB	1.0	
+Essential hypertension	ALB	1.0	
+Essential hypertension	KCNMA1	1.0	
+Bronchogenic Carcinoma	ALB	1.0	
+Dialeptic seizures	KCNMA1	1.0	
+Coronary artery aneurysm	ALB	1.0	
+Hyperlipoproteinemia	ALB	1.0	
+Malignant neoplasm of male breast	CA12	1.0	
+Hyperlipoproteinemia Type IIa	ALB	1.0	
+Tubulointerstitial nephritis	ALB	1.0	
+Single tumor	ALB	1.0	
+Nephrotic Syndrome, Minimal Change	ALB	1.0	
+Abnormality of potassium homeostasis	CA12	1.0	
+Skin Diseases, Genetic	KRT9	1.0	
+Carcinoma breast stage IV	ALB	1.0	
+Carcinoma breast stage IV	KCNMA1	1.0	
+Varicella zoster	ALB	1.0	
+Drusen	ALB	1.0	
+Increased antibody level in blood	KRT9	1.0	
+Insulin resistance syndrome	ALB	1.0	
+Nephrosis	ALB	1.0	
+EEG with generalized epileptiform discharges	KCNMA1	1.0	
+Guillain-Barre syndrome, familial	ALB	1.0	
+Primary hyperparathyroidism	ALB	1.0	
+Drug Resistant Epilepsy	ALB	1.0	
+Carcinoma of Male Breast	CA12	1.0	
+Respiratory Tract Diseases	ALB	1.0	
+Sicca Syndrome	ALB	1.0	
+Hypoalbuminemia	ALB	1.0	
+Toxic Shock Syndrome	KCNMA1	1.0	
+Neurologic, endocrine, and pancreatic disease, multisystem, infantile-onset	ALB	1.0	
+Abnormality of the plantar skin of foot	KRT9	1.0	
+EEG with irregular generalized spike and wave complexes	KCNMA1	1.0	
+Abnormality of monovalent inorganic cation homeostasis	CA12	1.0	
+Congenital hypothyroidism	ALB	1.0	
+Adverse drug events and drug allergies	ALB	1.0	
+Autosomal dominant non-syndromic sensorineural deafness type DFNA	CA12	1.0	
+Autosomal dominant non-syndromic sensorineural deafness type DFNA	KCNMA1	1.0	
+Autosomal dominant non-syndromic sensorineural deafness type DFNA	KRT9	1.0	
+Diaphragmatic hernia	KCNMA1	1.0	
+Ovarian Serous Adenocarcinoma	KCNMA1	1.0	
+Hemolytic uremic syndrome	ALB	1.0	
+Primary hyperaldosteronism	KCNMA1	1.0	
+Occupational Diseases	ALB	1.0	
+Microalbuminuria	ALB	1.0	
+Chest pain	ALB	1.0	
+Epilepsy, generalized, with febrile seizures plus, type 6 (2)	KCNMA1	1.0	
+ {HIV-1 viremia, susceptibility to}, 609423 (3)	ALB	1.0	
+Acute Lung Injury	ALB	1.0	
+Complications of Diabetes Mellitus	ALB	1.0	
+Eczema	ALB	1.0	
+Eczema	KRT9	1.0	
+Pulmonary edema	ALB	1.0	
+Stevens-Johnson Syndrome	ALB	1.0	
+Lymphohistiocytosis, Hemophagocytic	ALB	1.0	
+Renal cell carcinoma, nonpapillary	ALB	1.0	
+Renal cell carcinoma, nonpapillary	CA12	1.0	
+Renal cell carcinoma, nonpapillary	KCNMA1	1.0	
+Absence seizures	KCNMA1	1.0	
+IMMUNE SUPPRESSION	ALB	1.0	
+Dementia, Vascular	ALB	1.0	
+Membranous nephropathy, susceptibility to	ALB	1.0	
+DiGeorge sequence	ALB	1.0	
+Liver regeneration disorder	ALB	1.0	
+Diabetic Angiopathies	ALB	1.0	
+Plasmacytoma	ALB	1.0	
+Type 1 diabetic neuropathy	ALB	1.0	
+Polyneuropathy, hearing loss, ataxia, retinitis pigmentosa, and cataract	ALB	1.0	
+Hyperlipidemia, familial combined	ALB	1.0	
+Generalized tonic-clonic seizures	KCNMA1	1.0	
+Interstitial fibrosis	ALB	1.0	
+Hemochromatosis	ALB	1.0	
+Abnormality of metabolism/homeostasis	ALB	1.0	
+Abnormality of metabolism/homeostasis	CA12	1.0	
+Abnormality of metabolism/homeostasis	KRT9	1.0	
+Dehydration	CA12	1.0	
+Hyperhidrosis	KRT9	1.0	
+Methamphetamine abuse	ALB	1.0	
+Hereditary factor VIII deficiency disease	ALB	1.0	
+Lethargy	KCNMA1	1.0	
+Fibrinogen Adverse Event	KCNMA1	1.0	
+Chorea, childhood-onset, with psychomotor retardation	KCNMA1	1.0	
+Glomerulosclerosis, Focal Segmental	ALB	1.0	
+tumor vasculature	ALB	1.0	
+Maturity-onset diabetes of the young, type 11	ALB	1.0	
+Ischemia	ALB	1.0	
+Ischemia	KCNMA1	1.0	
+Focal segmental glomerulosclerosis	ALB	1.0	

@@ -1,0 +1,24 @@
+node1	node2	edge_score	
+DB00287	PTGFR	1.0	
+PTGFR		1.0
+ Adenocarcinoma, ovarian, somatic, 167000 (3)	PTGFR	1.0	
+Airway Obstruction	PTGFR	1.0	
+Alzheimer Disease	PTGFR	1.0	
+Verotoxigenic Escherichia coli gastrointestinal tract infection	PTGFR	1.0	
+Connective Tissue Diseases	PTGFR	1.0	
+Endometriosis	PTGFR	1.0	
+Fetal Diseases	PTGFR	1.0	
+Glaucoma, Angle-Closure	PTGFR	1.0	
+Glaucoma, Open-Angle	PTGFR	1.0	
+Inflammation	PTGFR	1.0	
+Musculoskeletal Diseases	PTGFR	1.0	
+Ocular Hypertension	PTGFR	1.0	
+Pregnancy Complications, Hematologic	PTGFR	1.0	
+Pulmonary fibrosis and/or bone marrow failure, telomere-related, 4	PTGFR	1.0	
+Dermatosis NOS	PTGFR	1.0	
+Tobacco Use Disorder	PTGFR	1.0	
+Essential hypertension	PTGFR	1.0	
+Premature Birth	PTGFR	1.0	
+Primary open angle glaucoma juvenile onset 1	PTGFR	1.0	
+Intraocular pressure disorder	PTGFR	1.0	
+Idiopathic Pulmonary Fibrosis	PTGFR	1.0	

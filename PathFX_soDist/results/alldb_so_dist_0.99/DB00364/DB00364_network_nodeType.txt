@@ -1,0 +1,4 @@
+node_name	node_type	
+DB00364	drug	
+FGF2	drug_target	
+EGF	drug_target	

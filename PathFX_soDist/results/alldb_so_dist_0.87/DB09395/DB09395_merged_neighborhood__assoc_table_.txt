@@ -1,0 +1,13 @@
+rank	phenotype	cui	assoc in neigh	assoc in intom	probability	Benjamini-Hochberg	genes	
+1	Angina, Unstable	C0002965	1	92	0.0	7.69230769231e-05	ACSS2
+2	Renal cell carcinoma, nonpapillary	C0007134	1	1418	0.0	0.000153846153846	ACSS2
+4	Coronary heart disease 7	C0010054	1	754	0.0	0.000307692307692	ACSS2
+5	Diabetes mellitus type 2	C0011860	1	1972	0.0	0.000384615384615	ACSS2
+6	Symptomatic human immunodeficiency virus infection	C0019693	1	1900	0.0	0.000461538461538	ACSS2
+7	Animal Mammary Neoplasms	C0024667	1	2352	0.0	0.000538461538462	ACSS2
+8	Acute myocardial infarction	C0155626	1	237	0.0	0.000615384615385	ACSS2
+9	Stable angina	C0340288	1	82	0.0	0.000692307692308	ACSS2
+10	Acute Coronary Syndrome	C0948089	1	320	0.0	0.000769230769231	ACSS2
+11	Cancer Cell Growth	C1516170	1	320	0.0	0.000846153846154	ACSS2
+12	Coronary Artery Disease	C1956346	1	1366	0.0	0.000923076923077	ACSS2
+13	Hepatocellular carcinoma	C2239176	1	3108	0.0	0.001	ACSS2

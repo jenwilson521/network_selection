@@ -1,0 +1,177 @@
+Gene	CUI	Source Databases	
+CCL2	C0853662	Oestrogen deficiency	DisGeNet	
+CYP19A1	C0853662	Oestrogen deficiency	DisGeNet	
+ESR1	C0853662	Oestrogen deficiency	DisGeNet	
+AR	C0242787	Malignant neoplasm of male breast	DisGeNet	
+CYP19A1	C0242787	Malignant neoplasm of male breast	DisGeNet	
+ESR1	C0242787	Malignant neoplasm of male breast	DisGeNet	
+AR	C0235653	Malignant neoplasm of female breast	DisGeNet	
+CYP19A1	C0235653	Malignant neoplasm of female breast	DisGeNet	
+ESR1	C0235653	Malignant neoplasm of female breast	DisGeNet	
+AR	C0086132	Depressive Symptoms	DisGeNet	
+CYP19A1	C0086132	Depressive Symptoms	DisGeNet	
+CYP3A4	C0086132	Depressive Symptoms	DisGeNet	
+ESR1	C0086132	Depressive Symptoms	DisGeNet	
+AR	C0007104	Female Breast Carcinoma	DisGeNet	
+CYP19A1	C0007104	Female Breast Carcinoma	DisGeNet	
+ESR1	C0007104	Female Breast Carcinoma	DisGeNet	
+AR	C0238033	Carcinoma of Male Breast	DisGeNet	
+CYP19A1	C0238033	Carcinoma of Male Breast	DisGeNet	
+ESR1	C0238033	Carcinoma of Male Breast	DisGeNet	
+AR	C0016034	Breast Fibrocystic Disease	DisGeNet	
+CYP19A1	C0016034	Breast Fibrocystic Disease	DisGeNet	
+ESR1	C0016034	Breast Fibrocystic Disease	DisGeNet	
+CCL2	C0206726	gliosarcoma	DisGeNet	
+CYP3A4	C0206726	gliosarcoma	DisGeNet	
+ESR1	C0206726	gliosarcoma	DisGeNet	
+AR	C0014130	Disorder of endocrine system	DisGeNet	
+CYP19A1	C0014130	Disorder of endocrine system	DisGeNet	
+ESR1	C0014130	Disorder of endocrine system	DisGeNet	
+AR	C1268717	Mammographic breast density	DisGeNet	
+CYP19A1	C1268717	Mammographic breast density	DisGeNet	
+ESR1	C1268717	Mammographic breast density	DisGeNet	
+AR	C0014170	Endometrial Neoplasms	DisGeNet	
+CCL2	C0014170	Endometrial Neoplasms	DisGeNet	
+CYP19A1	C0014170	Endometrial Neoplasms	DisGeNet,PheGenI	
+CYP3A4	C0014170	Endometrial Neoplasms	DisGeNet	
+ESR1	C0014170	Endometrial Neoplasms	DisGeNet	
+AR	C0021361	Female infertility	DisGeNet	
+CYP19A1	C0021361	Female infertility	DisGeNet,HumPhenOnt	
+ESR1	C0021361	Female infertility	DisGeNet	
+AR	C0042138	Uterine neoplasm	DisGeNet	
+CYP19A1	C0042138	Uterine neoplasm	DisGeNet	
+ESR1	C0042138	Uterine neoplasm	DisGeNet	
+AR	C0036472	Scrub Typhus	DisGeNet	
+CCL2	C0036472	Scrub Typhus	DisGeNet	
+AR	C0000809	Recurrent abortion	DisGeNet	
+CYP19A1	C0000809	Recurrent abortion	DisGeNet	
+ESR1	C0000809	Recurrent abortion	DisGeNet	
+AR	C0156543	Pregnancy loss	DisGeNet	
+CYP19A1	C0156543	Pregnancy loss	DisGeNet	
+ESR1	C0156543	Pregnancy loss	DisGeNet	
+AR	C0879615	Stromal Neoplasm	DisGeNet	
+CCL2	C0879615	Stromal Neoplasm	DisGeNet	
+ESR1	C0879615	Stromal Neoplasm	DisGeNet	
+CYP19A1	C0005694	Bladder neck obstruction	DisGeNet	
+ESR1	C0005694	Bladder neck obstruction	DisGeNet	
+AR	C0003504	Aortic regurgitation	DisGeNet	
+CYP19A1	C0003504	Aortic regurgitation	DisGeNet	
+ESR1	C0003504	Aortic regurgitation	DisGeNet	
+AR	C0236663	Alcohol withdrawal syndrome	DisGeNet	
+CYP19A1	C0236663	Alcohol withdrawal syndrome	DisGeNet	
+AR	C0574769	Alopecia of scalp	DisGeNet	
+CYP19A1	C0574769	Alopecia of scalp	DisGeNet	
+AR	C0029458	Postmenopausal osteoporosis	DisGeNet	
+CYP19A1	C0029458	Postmenopausal osteoporosis	DisGeNet	
+ESR1	C0029458	Postmenopausal osteoporosis	DisGeNet	
+CCL2	C0007286	Carpal tunnel syndrome	DisGeNet	
+ESR1	C0007286	Carpal tunnel syndrome	DisGeNet	
+AR	C1853195	Prostate Cancer, Hereditary, 7	DisGeNet	
+CCL2	C1853195	Prostate Cancer, Hereditary, 7	DisGeNet	
+AR	C0149931	Migraine Disorders	DisGeNet	
+CCL2	C0149931	Migraine Disorders	DisGeNet	
+CYP19A1	C0149931	Migraine Disorders	DisGeNet	
+CYP3A4	C0149931	Migraine Disorders	DisGeNet	
+ESR1	C0149931	Migraine Disorders	ClinVar,DisGeNet	
+AR	C0085215	Ovarian Failure, Premature	DisGeNet	
+CYP19A1	C0085215	Ovarian Failure, Premature	DisGeNet	
+CYP3A4	C0085215	Ovarian Failure, Premature	DisGeNet	
+ESR1	C0085215	Ovarian Failure, Premature	DisGeNet	
+CCL2	C0600452	Hepatopulmonary Syndrome	DisGeNet	
+CYP19A1	C0600452	Hepatopulmonary Syndrome	DisGeNet	
+ESR1	C0600452	Hepatopulmonary Syndrome	DisGeNet	
+CCL2	C0011206	Cocaine delirium	DisGeNet	
+CYP3A4	C0011206	Cocaine delirium	DisGeNet	
+AR	C1336708	Testicular Germ Cell Tumor	DisGeNet	
+CYP19A1	C1336708	Testicular Germ Cell Tumor	DisGeNet	
+ESR1	C1336708	Testicular Germ Cell Tumor	DisGeNet	
+AR	C0279565	Invasive Lobular Breast Carcinoma	DisGeNet	
+ESR1	C0279565	Invasive Lobular Breast Carcinoma	DisGeNet	
+AR	C0085207	Maternal diabetes	DisGeNet	
+CCL2	C0085207	Maternal diabetes	DisGeNet	
+CYP19A1	C0085207	Maternal diabetes	DisGeNet	
+ESR1	C0085207	Maternal diabetes	DisGeNet	
+AR	C0018418	Gynecomastia	DisGeNet,HumPhenOnt	
+CYP19A1	C0018418	Gynecomastia	DisGeNet,HumPhenOnt	
+ESR1	C0018418	Gynecomastia	DisGeNet	
+AR	C0232939	Delayed menarche	DisGeNet,HumPhenOnt	
+CYP19A1	C0232939	Delayed menarche	HumPhenOnt	
+ESR1	C0232939	Delayed menarche	HumPhenOnt	
+CCL2	C0917996	Cerebral aneurysm	DisGeNet	
+ESR1	C0917996	Cerebral aneurysm	DisGeNet	
+CYP19A1	C0206630	Stromal sarcoma	DisGeNet	
+ESR1	C0206630	Stromal sarcoma	DisGeNet	
+AR	C1291314	21-hydroxylase deficiency	DisGeNet	
+CYP3A4	C1291314	21-hydroxylase deficiency	DisGeNet	
+AR	C0031154	Peritonitis	DisGeNet	
+CCL2	C0031154	Peritonitis	DisGeNet	
+ESR1	C0031154	Peritonitis	DisGeNet	
+AR	C4072886	Abnormal circulating gonadotropin level	HumPhenOnt	
+ESR1	C4072886	Abnormal circulating gonadotropin level	HumPhenOnt	
+CYP19A1	C0000889	Acanthosis nigricans	HumPhenOnt	
+ESR1	C0000889	Acanthosis nigricans	HumPhenOnt	
+AR	C0409959	Knee osteoarthritis	DisGeNet	
+CCL2	C0409959	Knee osteoarthritis	DisGeNet	
+ESR1	C0409959	Knee osteoarthritis	DisGeNet	
+CYP19A1	C0016663	Pathologic fracture	DisGeNet	
+ESR1	C0016663	Pathologic fracture	DisGeNet	
+AR	C0027707	Tubulointerstitial nephritis	DisGeNet	
+CCL2	C0027707	Tubulointerstitial nephritis	DisGeNet	
+AR	C0338106	Adenocarcinoma of colon	DisGeNet	
+CCL2	C0338106	Adenocarcinoma of colon	DisGeNet	
+CYP3A4	C0338106	Adenocarcinoma of colon	DisGeNet	
+ESR1	C0338106	Adenocarcinoma of colon	DisGeNet	
+AR	C0025322	Premature ovarian failure	DisGeNet	
+CYP19A1	C0025322	Premature ovarian failure	DisGeNet	
+ESR1	C0025322	Premature ovarian failure	DisGeNet	
+AR	C0241910	Hepatitis, Autoimmune	DisGeNet	
+CCL2	C0241910	Hepatitis, Autoimmune	DisGeNet	
+CYP3A4	C0241910	Hepatitis, Autoimmune	DisGeNet	
+CYP3A4	C0029445	Bone necrosis	DisGeNet	
+ESR1	C0029445	Bone necrosis	DisGeNet	
+AR	C0410702	Adolescent idiopathic scoliosis	DisGeNet	
+ESR1	C0410702	Adolescent idiopathic scoliosis	DisGeNet	
+CCL2	C0013238	Dry Eye Syndromes	DisGeNet	
+ESR1	C0013238	Dry Eye Syndromes	DisGeNet	
+AR	C2911645	Weight Loss Adverse Event	DisGeNet	
+CYP19A1	C2911645	Weight Loss Adverse Event	DisGeNet	
+CYP19A1	C4021246	Abnormal epiphyseal ossification	HumPhenOnt	
+ESR1	C4021246	Abnormal epiphyseal ossification	HumPhenOnt	
+AR	C1847540	Spermatogenic failure 3	DisGeNet	
+CYP19A1	C1847540	Spermatogenic failure 3	DisGeNet	
+AR	C0021359	Infertility associated with multi-tailed spermatozoa and excessive DNA	DisGeNet,HumPhenOnt	
+CYP19A1	C0021359	Infertility associated with multi-tailed spermatozoa and excessive DNA	DisGeNet,HumPhenOnt	
+ESR1	C0021359	Infertility associated with multi-tailed spermatozoa and excessive DNA	DisGeNet	
+AR	C0042755	Virilism	DisGeNet	
+CYP19A1	C0042755	Virilism	DisGeNet	
+AR	C4024640	Aplasia/hypoplasia of the uterus	HumPhenOnt	
+ESR1	C4024640	Aplasia/hypoplasia of the uterus	HumPhenOnt	
+AR	C0162557	Acute hepatic failure	DisGeNet	
+CCL2	C0162557	Acute hepatic failure	DisGeNet	
+CYP3A4	C0162557	Acute hepatic failure	DisGeNet	
+AR	C0010701	Phyllodes tumor, benign	DisGeNet	
+ESR1	C0010701	Phyllodes tumor, benign	DisGeNet	
+AR	C1704272	Benign Prostatic Hyperplasia	DisGeNet	
+CCL2	C1704272	Benign Prostatic Hyperplasia	DisGeNet	
+CYP19A1	C1704272	Benign Prostatic Hyperplasia	DisGeNet	
+CYP3A4	C1704272	Benign Prostatic Hyperplasia	DisGeNet	
+ESR1	C1704272	Benign Prostatic Hyperplasia	DisGeNet	
+CCL2	C0014869	Peptic Esophagitis	DisGeNet	
+ESR1	C0014869	Peptic Esophagitis	DisGeNet	
+AR	C1851710	Lehman syndrome	DisGeNet	
+ESR1	C1851710	Lehman syndrome	DisGeNet	
+AR	C0014173	Endometrial Hyperplasia	DisGeNet	
+ESR1	C0014173	Endometrial Hyperplasia	DisGeNet	
+AR	C0206727	Nerve Sheath Tumors	DisGeNet	
+ESR1	C0206727	Nerve Sheath Tumors	DisGeNet	
+CCL2	C0341439	Chronic liver disease	DisGeNet	
+CYP3A4	C0341439	Chronic liver disease	DisGeNet	
+ESR1	C0341439	Chronic liver disease	DisGeNet	
+AR	C1691215	Penile hypospadias	DisGeNet	
+ESR1	C1691215	Penile hypospadias	DisGeNet	
+AR	C0005426	Biliary tract neoplasm	DisGeNet	
+ESR1	C0005426	Biliary tract neoplasm	DisGeNet	
+AR	C0238394	Female pseudohermaphroditism	HumPhenOnt	
+CYP19A1	C0238394	Female pseudohermaphroditism	DisGeNet,HumPhenOnt	
+CCL2	C0751674	Lymphangiomyomatosis	DisGeNet	
+ESR1	C0751674	Lymphangiomyomatosis	DisGeNet	

@@ -1,0 +1,122 @@
+node_name	node_type	
+DB01088	drug	
+PDE4C	drug_target	
+PTGER1	drug_target	
+PLAT	drug_target	
+SLCO2B1	drug_target	
+PDE4A	drug_target	
+PDE4B	drug_target	
+PTGIR	drug_target	
+PDE4D	drug_target	
+Congenital hypothyroidism	phenotype	
+Amphetamine-Related Disorders	phenotype	
+Vascular Diseases	phenotype	
+Acute myocardial ischemia	phenotype	
+Venous thrombosis	phenotype	
+Depressive Disorder	phenotype	
+Hyperphosphatemia	phenotype	
+ Acrodysostosis 1, with or without hormone resistance, 101800 (3)	phenotype	
+Blue irides	phenotype	
+Malignant neoplasm of adrenal cortex	phenotype	
+Esophageal varix	phenotype	
+Urolithiasis	phenotype	
+Echinococcosis	phenotype	
+Epidermolysis bullosa simplex, Cockayne-Touraine type	phenotype	
+Palmar hyperkeratosis	phenotype	
+Pseudohypoparathyroidism, Type Ia	phenotype	
+Proliferative retinopathy	phenotype	
+Pseudohypoparathyroidism type 1A	phenotype	
+Verrucae	phenotype	
+Isolated somatotropin deficiency	phenotype	
+Substance Use Disorders	phenotype	
+Dentatorubral pallidoluysian atrophy	phenotype	
+Epiphyseal stippling	phenotype	
+Angiokeratoma	phenotype	
+Isolated growth hormone deficiency type 1B	phenotype	
+Plantar hyperkeratosis	phenotype	
+Hypoplasia of the radius	phenotype	
+Generalized hypopigmentation of hair	phenotype	
+Pericardial effusion	phenotype	
+Open bite	phenotype	
+Mumps	phenotype	
+Rhinitis, Allergic, Perennial	phenotype	
+Endemic Cretinism	phenotype	
+Short metatarsal	phenotype	
+Hemangioblastoma	phenotype	
+Mesangiocapillary glomerulonephritis, type II	phenotype	
+Nephrosclerosis	phenotype	
+Peripheral motor neuropathy	phenotype	
+End Stage Liver Disease	phenotype	
+Aplasia/Hypoplasia of metatarsal bones	phenotype	
+Abnormal albumin level	phenotype	
+Bronchogenic Carcinoma	phenotype	
+Coronary artery aneurysm	phenotype	
+Hyperlipoproteinemia	phenotype	
+Deep vein thrombosis of lower limb	phenotype	
+Hyperlipoproteinemia Type IIa	phenotype	
+Tubulointerstitial nephritis	phenotype	
+Deep thrombophlebitis	phenotype	
+Single tumor	phenotype	
+Nephrotic Syndrome, Minimal Change	phenotype	
+Abnormal morphology of the radius	phenotype	
+Skin Diseases, Genetic	phenotype	
+Abnormal epiphyseal ossification	phenotype	
+Abnormality of the nail	phenotype	
+Varicella zoster	phenotype	
+Drusen	phenotype	
+Increased antibody level in blood	phenotype	
+Insulin resistance syndrome	phenotype	
+Dyskinesia, Drug-Induced	phenotype	
+Hypoplasia of the ulna	phenotype	
+Abnormal morphology of ulna	phenotype	
+Hypocalcemia	phenotype	
+Nephrosis	phenotype	
+Accelerated skeletal maturation	phenotype	
+Guillain-Barre syndrome, familial	phenotype	
+Abnormality of phosphate homeostasis	phenotype	
+Primary hyperparathyroidism	phenotype	
+Drug Resistant Epilepsy	phenotype	
+Cone-shaped epiphyses fused within their metaphyses	phenotype	
+Respiratory Tract Diseases	phenotype	
+Sicca Syndrome	phenotype	
+Hypoalbuminemia	phenotype	
+Aplasia/Hypoplasia of the ulna	phenotype	
+Abnormality of intracranial pressure	phenotype	
+Neurologic, endocrine, and pancreatic disease, multisystem, infantile-onset	phenotype	
+Abnormality of the plantar skin of foot	phenotype	
+Abnormality of the parathyroid physiology	phenotype	
+Inflammatory pain	phenotype	
+Increased intracranial pressure	phenotype	
+Round face	phenotype	
+Adverse drug events and drug allergies	phenotype	
+Open mouth	phenotype	
+Tardive Dyskinesia	phenotype	
+Abnormality of the parathyroid gland	phenotype	
+Hemolytic uremic syndrome	phenotype	
+Proportionate short stature	phenotype	
+Forearm undergrowth	phenotype	
+Thyroid Diseases	phenotype	
+NEUROTICISM	phenotype	
+Heart Diseases	phenotype	
+Occupational Diseases	phenotype	
+Microalbuminuria	phenotype	
+Arteriosclerosis	phenotype	
+Chest pain	phenotype	
+Arsenic Poisoning	phenotype	
+Narrow femoral neck	phenotype	
+Upper limb undergrowth	phenotype	
+ {HIV-1 viremia, susceptibility to}, 609423 (3)	phenotype	
+Acute Lung Injury	phenotype	
+Aplasia/Hypoplasia of the radius	phenotype	
+ Cerebrovascular disease, occlusive (3)	phenotype	
+Orofacial dyskinesia	phenotype	
+Complications of Diabetes Mellitus	phenotype	
+Brain Ischemia	phenotype	
+Pulmonary edema	phenotype	
+Brain Infarction	phenotype	
+Short toe	phenotype	
+Abnormal morphology of forearm bone	phenotype	
+Abnormal concentration of calcium in blood	phenotype	
+Micromelia	phenotype	
+Stevens-Johnson Syndrome	phenotype	
+Abnormal thrombosis	phenotype	

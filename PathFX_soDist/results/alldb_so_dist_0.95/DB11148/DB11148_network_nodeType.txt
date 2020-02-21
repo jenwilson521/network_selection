@@ -1,0 +1,121 @@
+node_name	node_type	
+DB11148	drug	
+BCHE	drug_target	
+ALB	drug_target	
+ORM1	drug_target	
+Adverse drug events and drug allergies	phenotype	
+Methamphetamine abuse	phenotype	
+Restenosis	phenotype	
+Plaque, Atherosclerotic	phenotype	
+Malignant neoplasm of adrenal cortex	phenotype	
+Esophageal varix	phenotype	
+Urolithiasis	phenotype	
+Echinococcosis	phenotype	
+Proliferative retinopathy	phenotype	
+Isolated somatotropin deficiency	phenotype	
+Substance Use Disorders	phenotype	
+Dentatorubral pallidoluysian atrophy	phenotype	
+Senile plaques	phenotype	
+Angiokeratoma	phenotype	
+Isolated growth hormone deficiency type 1B	phenotype	
+Enzyme inhibition disorder	phenotype	
+Pericardial effusion	phenotype	
+Mumps	phenotype	
+Rhinitis, Allergic, Perennial	phenotype	
+childhood brain tumor	phenotype	
+Endemic Cretinism	phenotype	
+Churg-Strauss Syndrome	phenotype	
+Hemangioblastoma	phenotype	
+Mesangiocapillary glomerulonephritis, type II	phenotype	
+Nephrosclerosis	phenotype	
+Peripheral motor neuropathy	phenotype	
+End Stage Liver Disease	phenotype	
+Dementia familial British	phenotype	
+Abnormal albumin level	phenotype	
+Neurotoxicity Syndromes	phenotype	
+Bronchogenic Carcinoma	phenotype	
+Gestational trophoblastic disease	phenotype	
+Coronary artery aneurysm	phenotype	
+Hyperlipoproteinemia	phenotype	
+Hyperlipoproteinemia Type IIa	phenotype	
+Tubulointerstitial nephritis	phenotype	
+Single tumor	phenotype	
+Nephrotic Syndrome, Minimal Change	phenotype	
+Varicella zoster	phenotype	
+Drusen	phenotype	
+Malignant hyperthermia susceptibility	phenotype	
+Insulin resistance syndrome	phenotype	
+Cerebral Amyloid Angiopathy	phenotype	
+Leptospirosis	phenotype	
+Nephrosis	phenotype	
+Aural atresia, congenital	phenotype	
+Guillain-Barre syndrome, familial	phenotype	
+Primary hyperparathyroidism	phenotype	
+Drug Resistant Epilepsy	phenotype	
+Refractory anemia	phenotype	
+Refractory anaemia with excess blasts	phenotype	
+Respiratory Tract Diseases	phenotype	
+Sicca Syndrome	phenotype	
+Hypoalbuminemia	phenotype	
+Cocaine Dependence	phenotype	
+Neurologic, endocrine, and pancreatic disease, multisystem, infantile-onset	phenotype	
+Congenital hypothyroidism	phenotype	
+Memory Loss	phenotype	
+Congenital myasthenic syndrome	phenotype	
+Cognition Disorders	phenotype	
+Hydatidiform mole, recurrent, 1, 231090 (3)	phenotype	
+Hemolytic uremic syndrome	phenotype	
+Fasciculations	phenotype	
+Occupational Diseases	phenotype	
+Microalbuminuria	phenotype	
+Sleep apnea	phenotype	
+Chest pain	phenotype	
+ {HIV-1 viremia, susceptibility to}, 609423 (3)	phenotype	
+Acute Lung Injury	phenotype	
+Postoperative Complications	phenotype	
+Congenital disorder of glycosylation	phenotype	
+Complications of Diabetes Mellitus	phenotype	
+Dementia	phenotype	
+Pulmonary edema	phenotype	
+Stevens-Johnson Syndrome	phenotype	
+Lymphohistiocytosis, Hemophagocytic	phenotype	
+IMMUNE SUPPRESSION	phenotype	
+Dementia, Vascular	phenotype	
+Membranous nephropathy, susceptibility to	phenotype	
+DiGeorge sequence	phenotype	
+Liver regeneration disorder	phenotype	
+Diabetic Angiopathies	phenotype	
+Plasmacytoma	phenotype	
+Type 1 diabetic neuropathy	phenotype	
+Polyneuropathy, hearing loss, ataxia, retinitis pigmentosa, and cataract	phenotype	
+Paralysis	phenotype	
+body mass	phenotype	
+Hyperlipidemia, familial combined	phenotype	
+Interstitial fibrosis	phenotype	
+Hemochromatosis	phenotype	
+Spastic syndrome	phenotype	
+Liver Diseases	phenotype	
+Hereditary factor VIII deficiency disease	phenotype	
+Thrombocytosis, benign familial microcytic	phenotype	
+Glomerulosclerosis, Focal Segmental	phenotype	
+tumor vasculature	phenotype	
+Kidney Failure, Chronic	phenotype	
+Maturity-onset diabetes of the young, type 11	phenotype	
+early pregnancy	phenotype	
+Chronic myelomonocytic leukemia	phenotype	
+Hereditary hyperhomocysteinemia	phenotype	
+Cocaine-Related Disorders	phenotype	
+Metabolic Syndrome X	phenotype	
+Hypertriglyceridemia	phenotype	
+Focal segmental glomerulosclerosis	phenotype	
+Malnutrition	phenotype	
+Urticaria	phenotype	
+Thrombophilia	phenotype	
+Adult onset ataxia with oculomotor apraxia	phenotype	
+Hypotension	phenotype	
+Congenital diaphragmatic hernia	phenotype	
+Lewy Body Disease	phenotype	
+Pulmonary Embolism	phenotype	
+Anorexia	phenotype	
+Thyroiditis	phenotype	
+Acute hepatic failure	phenotype	

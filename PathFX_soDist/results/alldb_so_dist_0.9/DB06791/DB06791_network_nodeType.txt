@@ -1,0 +1,5 @@
+node_name	node_type	
+DB06791	drug	
+CYP3A4	drug_target	
+SSTR2	drug_target	
+SSTR5	drug_target	

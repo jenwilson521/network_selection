@@ -1,0 +1,10 @@
+Gene	CUI	Source Databases	
+ABCG2	C0032229	Pleural Neoplasms	DisGeNet	
+CYP1A2	C0032229	Pleural Neoplasms	DisGeNet	
+EGFR	C0032229	Pleural Neoplasms	DisGeNet	
+ABCG2	C0206720	Squamous Cell Neoplasms	DisGeNet	
+CYP3A4	C0206720	Squamous Cell Neoplasms	DisGeNet	
+EGFR	C0206720	Squamous Cell Neoplasms	DisGeNet	
+ABCB1	C0027497	Nausea	DisGeNet	
+ABCG2	C0027497	Nausea	DisGeNet	
+CYP1A2	C0027497	Nausea	DisGeNet	

@@ -1,0 +1,76 @@
+Gene	CUI	Source Databases	
+MTR	C0016412	Folic Acid Deficiency	DisGeNet	
+SLC19A1	C0016412	Folic Acid Deficiency	DisGeNet	
+MTR	C0280803	Primary central nervous system lymphoma	DisGeNet	
+SLC19A1	C0280803	Primary central nervous system lymphoma	DisGeNet	
+MTR	C0041755	Adverse drug events and drug allergies	DisGeNet	
+SLC19A1	C0041755	Adverse drug events and drug allergies	DisGeNet	
+MTR	C1332977	Childhood Leukemia	DisGeNet	
+SLC19A1	C1332977	Childhood Leukemia	DisGeNet	
+MTR	C3495426	Homocysteinemia due to MTHFR deficiency	DisGeNet	
+SLC19A1	C3495426	Homocysteinemia due to MTHFR deficiency	DisGeNet	
+MTR	C0013182	Drug Allergy	DisGeNet	
+SLC19A1	C0013182	Drug Allergy	DisGeNet	
+MTR	C0751606	Adult Acute Lymphocytic Leukemia	DisGeNet	
+SLC19A1	C0751606	Adult Acute Lymphocytic Leukemia	DisGeNet	
+MTR	C0007766	Intracranial Aneurysm	DisGeNet	
+SLC19A1	C0007766	Intracranial Aneurysm	DisGeNet	
+MTR	C0598608	Hereditary hyperhomocysteinemia	DisGeNet	
+SLC19A1	C0598608	Hereditary hyperhomocysteinemia	DisGeNet	
+MTR	C0079745	Lymphoma, Large-Cell, Follicular	DisGeNet	
+SLC19A1	C0079745	Lymphoma, Large-Cell, Follicular	DisGeNet	
+MTR	C0162871	Aortic Aneurysm, Abdominal	DisGeNet	
+SLC19A1	C0162871	Aortic Aneurysm, Abdominal	DisGeNet	
+MTR	C0027794	Neural tube defect	ClinVar,DisGeNet	
+SLC19A1	C0027794	Neural tube defect	DisGeNet	
+MTR	C0035450	Rheumatoid Nodule	DisGeNet	
+MTR	C4021660	Abnormality of sulfur amino acid metabolism	HumPhenOnt	
+MTR	C0032051	Placental Insufficiency	DisGeNet	
+MTR	C0031485	Phenylketonuria	DisGeNet	
+MTR	C0019880	Homocystinuria due to CBS deficiency	DisGeNet,HumPhenOnt	
+MTR	C0002888	Megaloblastic anemia, thiamine-responsive, with diabetes mellitus and sensorineural deafness	HumPhenOnt	
+MTR	C4025653	Abnormality of serum amino acid levels	HumPhenOnt	
+MTR	C0080178	Spina bifida	DisGeNet	
+SLC19A1	C0080178	Spina bifida	DisGeNet	
+MTR	C1302401	Adenoma of large intestine	DisGeNet	
+SLC19A1	C1302401	Adenoma of large intestine	DisGeNet	
+MTR	C0340708	Deep vein thrombosis of lower limb	DisGeNet	
+SLC19A1	C0025312	Myelomeningocele	DisGeNet	
+MTR	C0151950	Deep thrombophlebitis	DisGeNet	
+MTR	C0023530	Leukopenia	DisGeNet	
+SLC19A1	C0023530	Leukopenia	DisGeNet	
+SLC19A1	C0038362	Stomatitis	DisGeNet	
+MTR	C0600518	Choroidal Neovascularization	DisGeNet	
+MTR	C0079772	T-cell lymphoma	DisGeNet	
+SLC19A1	C0079772	T-cell lymphoma	DisGeNet	
+MTR	C0002886	Macrocytic anemia	HumPhenOnt	
+MTR	C0349459	Cervical intraepithelial neoplasia grade 2	DisGeNet	
+MTR	C0162316	Iron deficiency anemia	DisGeNet	
+MTR	C0025284	Meningeal Neoplasms	DisGeNet	
+MTR	C0741916	Cardiac defects	DisGeNet	
+MTR	C0158646	Cleft palate with cleft lip	DisGeNet	
+MTR	C0750974	Brain Tumor, Primary	DisGeNet	
+SLC19A1	C0080174	Spina bifida occulta	DisGeNet	
+MTR	C4022036	Abnormality of vitamin metabolism	HumPhenOnt	
+MTR	C3272363	Ischemic Cerebrovascular Accident	DisGeNet	
+SLC19A1	C3272363	Ischemic Cerebrovascular Accident	DisGeNet	
+MTR	C0008924	Cleft Lip	DisGeNet	
+SLC19A1	C0008924	Cleft Lip	DisGeNet	
+SLC19A1	C0014868	Esophagitis	DisGeNet	
+MTR	C0018816	Ventricular septal defect 2	DisGeNet	
+SLC19A1	C0018816	Ventricular septal defect 2	DisGeNet	
+SLC19A1	C0795690	Omphalocele	DisGeNet	
+MTR	C0033941	Psychoses, Substance-Induced	DisGeNet	
+MTR	C0520966	Incoordination	HumPhenOnt	
+MTR	C0023452	Leukemia, Lymphocytic, Acute, L1	DisGeNet	
+SLC19A1	C0023452	Leukemia, Lymphocytic, Acute, L1	DisGeNet	
+MTR	C0024301	Lymphoma, Follicular	DisGeNet	
+SLC19A1	C0024301	Lymphoma, Follicular	DisGeNet	
+MTR	C0948008	Ischemic stroke	DisGeNet	
+SLC19A1	C0948008	Ischemic stroke	DisGeNet	
+SLC19A1	C0021361	Female infertility	DisGeNet	
+MTR	C0007786	Brain Ischemia	DisGeNet	
+SLC19A1	C0007786	Brain Ischemia	DisGeNet	
+MTR	C0278704	Malignant Childhood Neoplasm	DisGeNet	
+MTR	C0154723	Migraine with aura	DisGeNet	
+SLC19A1	C0751955	Brain Infarction	DisGeNet	

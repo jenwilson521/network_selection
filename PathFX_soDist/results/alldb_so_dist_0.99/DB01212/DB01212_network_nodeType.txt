@@ -1,0 +1,8 @@
+node_name	node_type	
+DB01212	drug	
+ALB	drug_target	
+SLC22A6	drug_target	
+SLC22A11	drug_target	
+GLUL	drug_target	
+SLC15A2	drug_target	
+SLC22A8	drug_target	

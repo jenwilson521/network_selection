@@ -1,0 +1,6 @@
+node1	node2	edge_score	
+DB00952	HTR1D	1.0	
+DB00952	MAOA	1.0	
+DB00952	HTR1A	1.0	
+DB00952	HTR1B	1.0	
+

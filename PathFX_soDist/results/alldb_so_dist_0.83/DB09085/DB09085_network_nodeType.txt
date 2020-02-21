@@ -1,0 +1,9 @@
+node_name	node_type	
+DB09085	drug	
+RYR1	drug_target	
+RYR2	drug_target	
+VENTRICULAR TACHYCARDIA, CATECHOLAMINERGIC POLYMORPHIC, 1 (disorder)	phenotype	
+Rhabdomyolysis	phenotype	
+Central core disease	phenotype	
+Sudden death	phenotype	
+Ventricular tachycardia, catecholaminergic polymorphic, 2	phenotype	

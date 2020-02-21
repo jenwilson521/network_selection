@@ -1,0 +1,23 @@
+node_name	node_type	
+DB01241	drug	
+CYP2C9	drug_target	
+CYP2C8	drug_target	
+CYP1A2	drug_target	
+SLCO1B1	drug_target	
+CYP2C19	drug_target	
+PPARA	drug_target	
+CYP3A4	drug_target	
+UGT1A1	drug_target	
+UGT1A3	drug_target	
+Drug Allergy	phenotype	
+Hepatitis D Infection	phenotype	
+Hyperbilirubinemia	phenotype	
+Cholelithiasis	phenotype	
+Febrile Neutropenia	phenotype	
+Anemia, Sickle Cell	phenotype	
+Adverse drug events and drug allergies	phenotype	
+Hearing Loss, Partial	phenotype	
+Neutropenia	phenotype	
+Mammographic breast density	phenotype	
+Pharyngeal Neoplasms	phenotype	
+Deficiency of glucose-6-phosphate dehydrogenase	phenotype	

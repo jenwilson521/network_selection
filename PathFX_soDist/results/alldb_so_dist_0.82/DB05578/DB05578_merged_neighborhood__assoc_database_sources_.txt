@@ -1,0 +1,69 @@
+Gene	CUI	Source Databases	
+KDR	C0032051	Placental Insufficiency	DisGeNet	
+KDR	C0014867	Esophageal varix	DisGeNet	
+KDR	C0029883	Otitis Media with Effusion	DisGeNet	
+KDR	C0015814	Femur Head Necrosis	DisGeNet	
+KDR	C0078911	AIDS-Associated Nephropathy	DisGeNet	
+KDR	C0220756	Niemann-Pick disease, type C	DisGeNet	
+KDR	C0856536	Philadelphia chromosome positive	DisGeNet	
+KDR	C1402294	Primary Lesion	DisGeNet	
+KDR	C0677944	Sentinel node (disorder)	DisGeNet	
+KDR	C0220656	Malignant ascites	DisGeNet	
+KDR	C0085083	Ovarian hyperstimulation syndrome	DisGeNet	
+KDR	C1636149	Macular corneal dystrophy Type I	DisGeNet	
+KDR	C0000889	Acanthosis nigricans	DisGeNet	
+KDR	C0340708	Deep vein thrombosis of lower limb	DisGeNet	
+KDR	C1519666	Tumor-Associated Vasculature	DisGeNet	
+KDR	C0029445	Bone necrosis	DisGeNet	
+KDR	C0206733	Capillary hemangiomas	DisGeNet,HumPhenOnt	
+KDR	C0342793	Deficiency of malonyl-CoA decarboxylase	DisGeNet	
+KDR	C0206623	Adenosquamous carcinoma	DisGeNet	
+KDR	C0278678	Metastatic Renal Cell Cancer	DisGeNet	
+KDR	C0600518	Choroidal Neovascularization	DisGeNet	
+KDR	C0026654	Moyamoya Disease	DisGeNet	
+KDR	C1306837	Papillary renal cell carcinoma	DisGeNet	
+KDR	C0206695	Carcinoma, Neuroendocrine	DisGeNet	
+KDR	C0020981	Angioimmunoblastic Lymphadenopathy	DisGeNet	
+KDR	C0027659	Neoplasms, Experimental	DisGeNet	
+KDR	C1514422	Primary Glioblastoma	DisGeNet	
+KDR	C0280449	secondary acute myeloid leukemia	DisGeNet	
+KDR	C0279980	Extraosseous Ewings sarcoma-primitive neuroepithelial tumor	DisGeNet	
+KDR	C0154830	Proliferative diabetic retinopathy	DisGeNet	
+KDR	C0752308	Hypoxia-Ischemia, Brain	DisGeNet	
+KDR	C0018923	Hemangiosarcoma	DisGeNet	
+KDR	C0035344	Retinopathy of Prematurity	DisGeNet	
+KDR	C0242488	Acute Lung Injury	DisGeNet	
+KDR	C0041948	Uremia	DisGeNet	
+KDR	C0027686	Pathologic Neovascularization	DisGeNet	
+KDR	C1378511	Undifferentiated leukemia	DisGeNet	
+KDR	C0006114	Cerebral edema	DisGeNet	
+KDR	C1559154	Rash and Dermatitis Adverse Event Associated with Chemoradiation	DisGeNet	
+KDR	C0280141	Acute Undifferentiated Leukemia	DisGeNet	
+KDR	C0018206	granulosa cell tumor	DisGeNet	
+KDR	C0206655	Alveolar rhabdomyosarcoma	DisGeNet	
+KDR	C0033999	Pterygium	DisGeNet	
+KDR	C0334583	Pilocytic Astrocytoma	DisGeNet	
+KDR	C0079588	X-linked ichthyosis with steryl-sulfatase deficiency	DisGeNet	
+KDR	C0024236	Lymphedema, primary, with myelodysplasia	DisGeNet	
+KDR	C0027796	Neuralgia	DisGeNet	
+KDR	C0278601	Inflammatory Breast Carcinoma	DisGeNet	
+KDR	C0024534	Malaria, Cerebral	DisGeNet	
+KDR	C0750952	Biliary Tract Cancer	DisGeNet	
+KDR	C0010692	Cystitis	DisGeNet	
+KDR	C0877373	Advanced cancer	DisGeNet	
+KDR	C0740391	Middle Cerebral Artery Occlusion	DisGeNet	
+KDR	C0026277	Mixed Salivary Gland Tumor	DisGeNet	
+KDR	C0178664	Glomerulosclerosis, Focal Segmental	DisGeNet	
+KDR	C0282607	Vascular neoplasm	HumPhenOnt	
+KDR	C1658953	tumor vasculature	DisGeNet	
+KDR	C0149871	Deep venous thrombosis	DisGeNet	
+KDR	C0747845	early pregnancy	DisGeNet	
+KDR	C0038358	Gastric ulcer	DisGeNet	
+KDR	C0018021	Goiter, multinodular 1, with or without sertoli-leydig cell tumors	DisGeNet	
+KDR	C0042345	Varicose Veins	DisGeNet	
+KDR	C0014474	Ependymoma	DisGeNet	
+KDR	C0086132	Depressive Symptoms	DisGeNet	
+KDR	C0242350	Impotence	DisGeNet	
+KDR	C0220650	Metastatic malignant neoplasm to brain	DisGeNet	
+KDR	C1337013	Differentiated Thyroid Gland Carcinoma	DisGeNet	
+KDR	C0023904	Liver Neoplasms, Experimental	DisGeNet	

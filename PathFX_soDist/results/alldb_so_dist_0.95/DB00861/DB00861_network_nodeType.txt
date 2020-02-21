@@ -1,0 +1,33 @@
+node_name	node_type	
+DB00861	drug	
+PTGS2	drug_target	
+PTGS1	drug_target	
+TTR	drug_target	
+ALB	drug_target	
+SLC22A6	drug_target	
+UGT1A8	drug_target	
+UGT1A9	drug_target	
+Hyperbilirubinemia	phenotype	
+Hepatitis D Infection	phenotype	
+Cholelithiasis	phenotype	
+Hearing Loss, Partial	phenotype	
+Febrile Neutropenia	phenotype	
+Influenza	phenotype	
+Drug Allergy	phenotype	
+Deafness, autosomal recessive 44	phenotype	
+Anemia, Sickle Cell	phenotype	
+Cholecystolithiasis	phenotype	
+Abdominal pain	phenotype	
+Leukopenia	phenotype	
+Adverse drug events and drug allergies	phenotype	
+Echinococcosis	phenotype	
+gastritis h pylori	phenotype	
+Intestinal polyp	phenotype	
+Creutzfeldt-Jakob Disease, Sporadic	phenotype	
+keratoacanthoma	phenotype	
+Pericardial effusion	phenotype	
+Hepatic cancer metastatic	phenotype	
+Rhinitis, Allergic, Perennial	phenotype	
+Deficiency of glucose-6-phosphate dehydrogenase	phenotype	
+Drug-Induced Liver Injury	phenotype	
+Rotavirus Infections	phenotype	

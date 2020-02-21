@@ -1,0 +1,15 @@
+Gene	CUI	Source Databases	
+EPRS	C0003850	Arteriosclerosis	DisGeNet	
+EPRS	C0004153	Atherosclerosis	DisGeNet	
+EPRS	C0007222	Cardiovascular Diseases	DisGeNet	
+EPRS	C0010054	Coronary heart disease 7	DisGeNet	
+EPRS	C0014544	Epilepsy	DisGeNet	
+EPRS	C0018799	Heart Diseases	DisGeNet	
+EPRS	C0022116	Ischemia	DisGeNet	
+EPRS	C0025958	Microcephaly 16, primary, autosomal recessive	DisGeNet	
+EPRS	C0027051	Myocardial Infarction	DisGeNet	
+EPRS	C0036572	Seizures, Febrile	DisGeNet	
+EPRS	C0040336	Tobacco Use Disorder	DisGeNet	
+EPRS	C0151744	Acute myocardial ischemia	DisGeNet	
+EPRS	C0155668	Old myocardial infarction	DisGeNet	
+EPRS	C1956346	Coronary Artery Disease	DisGeNet	

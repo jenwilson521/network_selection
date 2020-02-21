@@ -1,0 +1,21 @@
+node_name	node_type	
+DB00608	drug	
+CYP2C8	drug_target	
+TLR9	drug_target	
+CYP2D6	drug_target	
+CYP1A1	drug_target	
+GSTA2	drug_target	
+ABCB1	drug_target	
+TNF	drug_target	
+CYP3A4	drug_target	
+CYP3A5	drug_target	
+Primary malignant neoplasm of liver	phenotype	
+Drug Allergy	phenotype	
+Pain insensitivity	phenotype	
+Acute postoperative pain	phenotype	
+Femur Head Necrosis	phenotype	
+Squamous Cell Neoplasms	phenotype	
+Chronic leukemia	phenotype	
+Neoplasm of the larynx	phenotype	
+Pharyngeal Neoplasms	phenotype	
+Tardive Dyskinesia	phenotype	

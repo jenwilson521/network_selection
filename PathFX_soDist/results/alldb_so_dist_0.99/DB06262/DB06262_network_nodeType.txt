@@ -1,0 +1,15 @@
+node_name	node_type	
+DB06262	drug	
+ADRA1A	drug_target	
+SLC6A2	drug_target	
+ADRA1B	drug_target	
+ADRA1D	drug_target	
+ADRA2A	drug_target	
+ADRA2B	drug_target	
+ADRA2C	drug_target	
+ADRB1	drug_target	
+ADRB2	drug_target	
+ADRB3	drug_target	
+SLC16A10	drug_target	
+PAH	drug_target	
+DDC	drug_target	

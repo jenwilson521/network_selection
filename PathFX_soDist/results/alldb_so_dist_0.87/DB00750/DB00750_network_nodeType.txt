@@ -1,0 +1,95 @@
+node_name	node_type	
+DB00750	drug	
+SCN5A	drug_target	
+Romano-Ward syndrome	phenotype	
+VENTRICULAR TACHYCARDIA, CATECHOLAMINERGIC POLYMORPHIC, 1 (disorder)	phenotype	
+Palpitations	phenotype	
+Left ventricular noncompaction	phenotype	
+Overlap syndrome	phenotype	
+Prolonged QT interval	phenotype	
+Congenital long QT syndrome	phenotype	
+Sudden death	phenotype	
+Paroxysmal atrial fibrillation	phenotype	
+Abnormal atrioventricular conduction	phenotype	
+Ventricular tachycardia, catecholaminergic polymorphic, 2	phenotype	
+cardiac event	phenotype	
+Atrioventricular block	phenotype	
+Primary atrial arrhythmia	phenotype	
+Ventricular fibrillation	phenotype	
+Bloom syndrome	phenotype	
+Abnormal cardiac test	phenotype	
+Supraventricular arrhythmia	phenotype	
+Bradycardia	phenotype	
+Chromosome Xq28 deletion syndrome	phenotype	
+Brugada Syndrome	phenotype	
+Abnormal EKG	phenotype	
+Channelopathies	phenotype	
+Supraventricular tachycardia	phenotype	
+Familial dilated cardiomyopathy	phenotype	
+Familial hypertrophic cardiomyopathy 11	phenotype	
+Syncope	phenotype	
+Ventricular arrhythmia	phenotype	
+Shock, Septic	phenotype	
+Cardiac fibrosis	phenotype	
+Common Migraine	phenotype	
+Arrhythmogenic right ventricular cardiomyopathy, type 11	phenotype	
+Multiple Endocrine Neoplasia Type 2a	phenotype	
+Ichthyosis bullosa of Siemens	phenotype	
+Ventricular hypertrophy	phenotype	
+Heart block	phenotype	
+Congenital heart disease	phenotype	
+SUDDEN INFANT DEATH SYNDROME	phenotype	
+Acquired long QT syndrome	phenotype	
+Abnormality of the atrioventricular valves	phenotype	
+Ventricular Fibrillation Adverse Event	phenotype	
+Abnormality of adipose tissue	phenotype	
+EMG abnormality	phenotype	
+Tachycardia	phenotype	
+Sudden cardiac death	phenotype	
+Congenital Myotonic Dystrophy	phenotype	
+Palmoplantar keratoderma, nonepidermolytic, focal	phenotype	
+Steinert myotonic dystrophy syndrome	phenotype	
+Irritable bowel syndrome with diarrhea	phenotype	
+Lipoatrophy	phenotype	
+46,XY gonadal dysgenesis, partial, with minifascicular neuropathy	phenotype	
+Atrial Fibrillation	phenotype	
+Abnormality of granulocytes	phenotype	
+Abnormality of the cerebral vasculature	phenotype	
+Synovial Cyst	phenotype	
+Congenital onset	phenotype	
+Abdominal pain	phenotype	
+Abnormality of circulating enzyme level	phenotype	
+Elevated serum creatine phosphokinase	phenotype	
+Abnormality of myeloid leukocytes	phenotype	
+Dyspnea	phenotype	
+Cardiac arrest	phenotype	
+Age of death	phenotype	
+Mortality/Aging	phenotype	
+Constipation	phenotype	
+Acute myocardial infarction	phenotype	
+Heterogeneous	phenotype	
+Abnormality of the heart valves	phenotype	
+Hyperkeratosis	phenotype	
+Left ventricular hypertrophy	phenotype	
+Abnormality of circulating protein level	phenotype	
+Cardiomegaly	phenotype	
+Abnormality of cardiac ventricle	phenotype	
+Epidermal thickening	phenotype	
+Hypoxia	phenotype	
+Arrhythmias, Cardiac	phenotype	
+Thickened skin	phenotype	
+Carcinoma breast stage IV	phenotype	
+Abnormality of the myocardium	phenotype	
+Diarrhea 8, secretory sodium, congenital	phenotype	
+B Acute Lymphoblastic Leukemia with t(9;22)(q34;q11.2); BCR-ABL1	phenotype	
+Heart Diseases	phenotype	
+Abnormal leukocyte count	phenotype	
+Abnormality of cellular immune system	phenotype	
+Brain Ischemia	phenotype	
+Myopathy, scapulohumeroperoneal	phenotype	
+Cardiomyopathy, Dilated	phenotype	
+Acute myocardial ischemia	phenotype	
+{Unipolar depression, susceptibility to}, 608516 (3)	phenotype	
+Functional abnormality of the inner ear	phenotype	
+Abnormality of the inner ear	phenotype	
+Ischemia	phenotype	

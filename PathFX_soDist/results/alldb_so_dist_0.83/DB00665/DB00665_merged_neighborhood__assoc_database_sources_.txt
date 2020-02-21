@@ -1,0 +1,25 @@
+Gene	CUI	Source Databases	
+AR	C0342492	Adrenal hyperplasia	DisGeNet	
+CYP2C19	C0342492	Adrenal hyperplasia	DisGeNet	
+POR	C0342492	Adrenal hyperplasia	HumPhenOnt	
+AR	C0001627	Congenital adrenal hyperplasia	DisGeNet	
+CYP2C19	C0001627	Congenital adrenal hyperplasia	DisGeNet	
+POR	C0001627	Congenital adrenal hyperplasia	DisGeNet,HumPhenOnt	
+AR	C1291314	21-hydroxylase deficiency	DisGeNet	
+CYP2C19	C1291314	21-hydroxylase deficiency	DisGeNet	
+AR	C0027707	Tubulointerstitial nephritis	DisGeNet	
+CYP2C19	C0027707	Tubulointerstitial nephritis	DisGeNet	
+AR	C0238395	Male pseudohermaphroditism	DisGeNet,HumPhenOnt	
+POR	C0238395	Male pseudohermaphroditism	HumPhenOnt	
+AR	C0156394	Clitoral hypertrophy	DisGeNet	
+POR	C0156394	Clitoral hypertrophy	HumPhenOnt	
+AR	C0005426	Biliary tract neoplasm	DisGeNet	
+CYP2C19	C0005426	Biliary tract neoplasm	DisGeNet	
+AR	C0020506	Hyperpituitarism	HumPhenOnt	
+POR	C0020506	Hyperpituitarism	HumPhenOnt	
+AR	C0027658	Neoplasms, Germ Cell and Embryonal	DisGeNet	
+CYP2C19	C0027658	Neoplasms, Germ Cell and Embryonal	DisGeNet	
+CYP2C19	C0270736	Essential tremor	DisGeNet	
+CYP2C8	C0270736	Essential tremor	DisGeNet	
+AR	C0702166	Acne	DisGeNet	
+POR	C0702166	Acne	HumPhenOnt	

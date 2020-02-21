@@ -1,0 +1,122 @@
+Gene	CUI	Source Databases	
+CYP3A4	C0242339	Dyslipidemias	DisGeNet	
+PPARA	C0242339	Dyslipidemias	DisGeNet	
+PPARD	C0242339	Dyslipidemias	DisGeNet	
+PPARG	C0242339	Dyslipidemias	DisGeNet	
+PTGS2	C0242339	Dyslipidemias	DisGeNet	
+SREBF1	C0242339	Dyslipidemias	DisGeNet	
+CYP3A4	C0029445	Bone necrosis	DisGeNet	
+PPARG	C0029445	Bone necrosis	DisGeNet	
+SREBF1	C0029445	Bone necrosis	DisGeNet	
+PPARA	C0497406	Overweight	DisGeNet	
+PPARD	C0497406	Overweight	DisGeNet	
+PPARG	C0497406	Overweight	DisGeNet	
+PTGS2	C0497406	Overweight	DisGeNet	
+SREBF1	C0497406	Overweight	DisGeNet	
+CYP3A4	C2711227	Steatohepatitis	DisGeNet	
+PPARA	C2711227	Steatohepatitis	DisGeNet	
+PPARD	C2711227	Steatohepatitis	DisGeNet	
+PPARG	C2711227	Steatohepatitis	DisGeNet	
+SREBF1	C2711227	Steatohepatitis	DisGeNet	
+CYP3A4	C0206726	gliosarcoma	DisGeNet	
+PPARG	C0206726	gliosarcoma	DisGeNet	
+PTGS2	C0206726	gliosarcoma	DisGeNet	
+CYP3A4	C0015695	Hepatic steatosis	DisGeNet	
+PPARA	C0015695	Hepatic steatosis	DisGeNet	
+PPARD	C0015695	Hepatic steatosis	DisGeNet	
+PPARG	C0015695	Hepatic steatosis	DisGeNet,HumPhenOnt	
+PTGS2	C0015695	Hepatic steatosis	DisGeNet	
+SREBF1	C0015695	Hepatic steatosis	DisGeNet	
+CYP3A4	C0020473	Hyperlipidemia, combined, 1	DisGeNet	
+PPARA	C0020473	Hyperlipidemia, combined, 1	DisGeNet	
+PPARD	C0020473	Hyperlipidemia, combined, 1	DisGeNet	
+PPARG	C0020473	Hyperlipidemia, combined, 1	DisGeNet,HumPhenOnt	
+SREBF1	C0020473	Hyperlipidemia, combined, 1	DisGeNet	
+CYP3A4	C0400966	Non-alcoholic Fatty Liver Disease	DisGeNet	
+PPARA	C0400966	Non-alcoholic Fatty Liver Disease	DisGeNet	
+PPARD	C0400966	Non-alcoholic Fatty Liver Disease	DisGeNet	
+PPARG	C0400966	Non-alcoholic Fatty Liver Disease	DisGeNet	
+SREBF1	C0400966	Non-alcoholic Fatty Liver Disease	DisGeNet	
+PPARA	C1318485	Liver regeneration disorder	DisGeNet	
+PPARD	C1318485	Liver regeneration disorder	DisGeNet	
+PPARG	C1318485	Liver regeneration disorder	DisGeNet	
+PPARG	C0011882	Type 1 diabetic neuropathy	DisGeNet	
+PTGS2	C0011882	Type 1 diabetic neuropathy	DisGeNet	
+SREBF1	C0011882	Type 1 diabetic neuropathy	DisGeNet	
+PPARA	C0339143	Thyroid associated opthalmopathies	DisGeNet	
+PPARG	C0339143	Thyroid associated opthalmopathies	DisGeNet	
+PTGS2	C0339143	Thyroid associated opthalmopathies	DisGeNet	
+CYP3A4	C0015814	Femur Head Necrosis	DisGeNet	
+SREBF1	C0015814	Femur Head Necrosis	DisGeNet	
+CYP3A4	C0206720	Squamous Cell Neoplasms	DisGeNet	
+PTGS2	C0206720	Squamous Cell Neoplasms	DisGeNet	
+PPARG	C0340293	Anterior myocardial infarction	DisGeNet	
+PTGS2	C0340293	Anterior myocardial infarction	DisGeNet	
+CYP3A4	C0877008	Enzyme inhibition disorder	DisGeNet	
+PTGS2	C0877008	Enzyme inhibition disorder	DisGeNet	
+CYP3A4	C0020443	Hypercholesterolemia, autosomal dominant, type B	DisGeNet	
+PPARA	C0020443	Hypercholesterolemia, autosomal dominant, type B	DisGeNet	
+PPARG	C0020443	Hypercholesterolemia, autosomal dominant, type B	DisGeNet	
+SREBF1	C0020443	Hypercholesterolemia, autosomal dominant, type B	DisGeNet	
+PPARD	C0034885	Neoplasm of the rectum	DisGeNet	
+PPARG	C0034885	Neoplasm of the rectum	DisGeNet	
+PTGS2	C0034885	Neoplasm of the rectum	DisGeNet	
+CYP3A4	C0030201	Acute postoperative pain	DisGeNet	
+PTGS2	C0030201	Acute postoperative pain	DisGeNet	
+PPARG	C0023794	Lipoidosis	DisGeNet	
+SREBF1	C0023794	Lipoidosis	DisGeNet	
+CYP3A4	C0025517	Disorders of Intracellular Cobalamin Metabolism	DisGeNet	
+PPARA	C0025517	Disorders of Intracellular Cobalamin Metabolism	DisGeNet	
+PPARD	C0025517	Disorders of Intracellular Cobalamin Metabolism	DisGeNet	
+PPARG	C0025517	Disorders of Intracellular Cobalamin Metabolism	DisGeNet	
+SREBF1	C0025517	Disorders of Intracellular Cobalamin Metabolism	DisGeNet	
+PPARA	C0409959	Knee osteoarthritis	DisGeNet	
+PPARG	C0409959	Knee osteoarthritis	DisGeNet	
+PTGS2	C0409959	Knee osteoarthritis	DisGeNet	
+PPARA	C0020557	Hypertriglyceridemia	DisGeNet	
+PPARG	C0020557	Hypertriglyceridemia	DisGeNet,HumPhenOnt	
+SREBF1	C0020557	Hypertriglyceridemia	DisGeNet	
+PPARA	C2936179	Obesity, Visceral	DisGeNet	
+SREBF1	C2936179	Obesity, Visceral	DisGeNet	
+PPARG	C0598894	Monocytic leukemia	DisGeNet	
+PTGS2	C0598894	Monocytic leukemia	DisGeNet	
+PPARA	C1522137	Hypertriglyceridemia result	DisGeNet	
+PPARG	C1522137	Hypertriglyceridemia result	DisGeNet	
+CYP3A4	C0022661	Kidney Failure, Chronic	DisGeNet	
+PPARA	C0022661	Kidney Failure, Chronic	DisGeNet	
+PPARD	C0022661	Kidney Failure, Chronic	DisGeNet	
+PPARG	C0022661	Kidney Failure, Chronic	DisGeNet	
+PTGS2	C0022661	Kidney Failure, Chronic	DisGeNet	
+SREBF1	C0022661	Kidney Failure, Chronic	DisGeNet	
+PPARA	C2362324	Pediatric Obesity	DisGeNet	
+PPARG	C2362324	Pediatric Obesity	DisGeNet	
+PPARA	C0028756	Obesity, severe, 601665 (3)	DisGeNet	
+PPARD	C0028756	Obesity, severe, 601665 (3)	DisGeNet	
+PPARG	C0028756	Obesity, severe, 601665 (3)	DisGeNet	
+PPARA	C3714619	Insulin resistance syndrome	DisGeNet	
+PPARG	C3714619	Insulin resistance syndrome	DisGeNet	
+CYP3A4	C0524620	Metabolic Syndrome X	DisGeNet	
+PPARA	C0524620	Metabolic Syndrome X	DisGeNet	
+PPARD	C0524620	Metabolic Syndrome X	DisGeNet	
+PPARG	C0524620	Metabolic Syndrome X	DisGeNet	
+PTGS2	C0524620	Metabolic Syndrome X	DisGeNet	
+SREBF1	C0524620	Metabolic Syndrome X	DisGeNet	
+CYP3A4	C0162557	Acute hepatic failure	DisGeNet	
+PPARA	C0162557	Acute hepatic failure	DisGeNet	
+PTGS2	C0162557	Acute hepatic failure	DisGeNet	
+PPARA	C0948480	Coronary Restenosis	DisGeNet	
+PPARG	C0948480	Coronary Restenosis	DisGeNet	
+CYP3A4	C0014170	Endometrial Neoplasms	DisGeNet	
+PPARG	C0014170	Endometrial Neoplasms	DisGeNet	
+PTGS2	C0014170	Endometrial Neoplasms	DisGeNet	
+SREBF1	C0014170	Endometrial Neoplasms	DisGeNet	
+CYP3A4	C0022660	Acute kidney injury	DisGeNet	
+PPARA	C0022660	Acute kidney injury	DisGeNet	
+PPARG	C0022660	Acute kidney injury	DisGeNet	
+PTGS2	C0022660	Acute kidney injury	DisGeNet	
+PPARA	C0149721	Left ventricular hypertrophy	DisGeNet	
+PPARD	C0149721	Left ventricular hypertrophy	DisGeNet	
+PPARG	C0149721	Left ventricular hypertrophy	DisGeNet	
+PTGS2	C0149721	Left ventricular hypertrophy	DisGeNet	
+CYP3A4	C0344307	Pain insensitivity	DisGeNet	
+PPARA	C0344307	Pain insensitivity	DisGeNet	

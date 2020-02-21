@@ -1,0 +1,6 @@
+node_name	node_type	
+DB00631	drug	
+ABCG2	drug_target	
+POLA1	drug_target	
+RRM1	drug_target	
+DCK	drug_target	

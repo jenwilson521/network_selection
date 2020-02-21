@@ -1,0 +1,12 @@
+node_name	node_type	
+DB00359	drug	
+CYP2C9	drug_target	
+CYP2C8	drug_target	
+CYP3A4	drug_target	
+CYP2E1	drug_target	
+Bone necrosis	phenotype	
+Neoplasm of the larynx	phenotype	
+Pharyngeal Neoplasms	phenotype	
+Drug Allergy	phenotype	
+Old myocardial infarction	phenotype	
+Squamous Cell Neoplasms	phenotype	

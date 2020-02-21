@@ -1,0 +1,38 @@
+node_name	node_type	
+DB01395	drug	
+PTGS2	drug_target	
+NR3C2	drug_target	
+AR	drug_target	
+PGR	drug_target	
+BCHE	drug_target	
+CYP3A4	drug_target	
+Enzyme inhibition disorder	phenotype	
+Squamous Cell Neoplasms	phenotype	
+Prostatitis	phenotype	
+Invasive Lobular Breast Carcinoma	phenotype	
+Acute postoperative pain	phenotype	
+Prostate cancer stage C	phenotype	
+Depressive Symptoms	phenotype	
+21-hydroxylase deficiency	phenotype	
+Monocytic leukemia	phenotype	
+Acute hepatic failure	phenotype	
+Poorly differentiated carcinoma	phenotype	
+Endometrial Hyperplasia	phenotype	
+Refractory anemia	phenotype	
+Malignant Fibrous Histiocytoma	phenotype	
+Desmoid tumor	phenotype	
+Carcinoma, Lobular	phenotype	
+Adverse drug events and drug allergies	phenotype	
+Cognition Disorders	phenotype	
+Adrenal hyperplasia	phenotype	
+Breast Fibrocystic Disease	phenotype	
+Neoplasms, Germ Cell and Embryonal	phenotype	
+gliosarcoma	phenotype	
+Heroin Dependence	phenotype	
+Fasciculations	phenotype	
+Aqueous Humor Disorders	phenotype	
+NEUROTICISM	phenotype	
+Anxiety Disorders	phenotype	
+Congenital adrenal hyperplasia	phenotype	
+Postoperative Complications	phenotype	
+Metabolic Syndrome X	phenotype	

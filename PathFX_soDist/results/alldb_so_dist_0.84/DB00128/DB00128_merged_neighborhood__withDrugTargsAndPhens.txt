@@ -1,0 +1,54 @@
+node1	node2	edge_score	
+DB00128	RNASE1	1.0	
+DB00128	ADSS	1.0	
+DB00128	ASPA	1.0	
+DB00128	DARS	1.0	
+DB00128	SLC25A13	1.0	
+DB00128	ASPH	1.0	
+DB00128	ASNS	1.0	
+DB00128	LYZ	1.0	
+DB00128	SLC1A1	1.0	
+DB00128	PAICS	1.0	
+DB00128	DARS2	1.0	
+DB00128	SLC16A10	1.0	
+DB00128	ADSSL1	1.0	
+DB00128	ACY3	1.0	
+DB00128	GOT2	1.0	
+DB00128	ASRGL1	1.0	
+DB00128	GOT1	1.0	
+DB00128	ASS1	1.0	
+DB00128	SLC25A12	1.0	
+DB00128	ACY1	1.0	
+DB00128	CAD	1.0	
+SLC1A1	rs301434	0.99
+SLC1A1	rs301435	0.99
+SLC25A13	complex:lAo9+jzjVOaRJSWZQvoh0G1mUDc	0.904977499353
+SLC1A1		1.0
+ASPH		1.0
+SLC25A13		1.0
+ACY3		1.0
+SLC1A1	rs3087879	0.99
+Abnormality of sulfur amino acid metabolism	SLC25A13	1.0	
+Abnormality of the level of lipoprotein cholesterol	SLC25A13	1.0	
+Prominent nose	ASPH	1.0	
+Ectopia lentis, isolated autosomal recessive	ASPH	1.0	
+Hyperammonemia	SLC25A13	1.0	
+Confusion	SLC25A13	1.0	
+CADASIL	ASPH	1.0	
+Neuroblastic tumors	ASPH	1.0	
+Bile duct cancer resectable	ASPH	1.0	
+Convex nasal ridge	ASPH	1.0	
+Facial dysmorphism, lens dislocation, anterior segment abnormalities, and spontaneous filtering blebs	ASPH	1.0	
+Low Tension Glaucoma	SLC1A1	1.0	
+Wide nose	ASPH	1.0	
+Neurologic, endocrine, and pancreatic disease, multisystem, infantile-onset	SLC25A13	1.0	
+Abnormality of cholesterol metabolism	SLC25A13	1.0	
+Intrahepatic cholestasis	SLC25A13	1.0	
+Cortical dysplasia, complex, with other brain malformations 3	SLC1A1	1.0	
+Cognition Disorders	SLC1A1	1.0	
+Obsessive-compulsive behavior	SLC1A1	1.0	
+Stress, Psychological	SLC1A1	1.0	
+Osteochondritis dissecans	SLC1A1	1.0	
+Malformation of cortical development	SLC1A1	1.0	
+Abnormality of nitrogen compound homeostasis	SLC25A13	1.0	
+Azotemia	SLC25A13	1.0	

@@ -1,0 +1,45 @@
+Gene	CUI	Source Databases	
+ABCB1	C0030201	Acute postoperative pain	DisGeNet	
+CYP3A4	C0030201	Acute postoperative pain	DisGeNet	
+PTGS2	C0030201	Acute postoperative pain	DisGeNet	
+TNF	C0030201	Acute postoperative pain	DisGeNet	
+ABCB1	C0015814	Femur Head Necrosis	DisGeNet	
+CYP3A4	C0015814	Femur Head Necrosis	DisGeNet	
+TNF	C0015814	Femur Head Necrosis	DisGeNet	
+CYP1A2	C0221765	Chronic schizophrenia	DisGeNet	
+CYP3A4	C0221765	Chronic schizophrenia	DisGeNet	
+TNF	C0221765	Chronic schizophrenia	DisGeNet	
+CYP1A2	C0023055	Neoplasm of the larynx	DisGeNet	
+CYP3A4	C0023055	Neoplasm of the larynx	DisGeNet	
+PTGS2	C0023055	Neoplasm of the larynx	DisGeNet	
+TNF	C0023055	Neoplasm of the larynx	DisGeNet	
+ABCB1	C0344307	Pain insensitivity	DisGeNet	
+CYP3A4	C0344307	Pain insensitivity	DisGeNet	
+TNF	C0344307	Pain insensitivity	DisGeNet	
+ABCB1	C0027497	Nausea	DisGeNet	
+CYP1A2	C0027497	Nausea	DisGeNet	
+TNF	C0027497	Nausea	DisGeNet	
+ABCB1	C0334463	Malignant Fibrous Histiocytoma	DisGeNet	
+PTGS2	C0334463	Malignant Fibrous Histiocytoma	DisGeNet	
+TNF	C0334463	Malignant Fibrous Histiocytoma	DisGeNet	
+ABCB1	C0041755	Adverse drug events and drug allergies	DisGeNet	
+CYP1A2	C0041755	Adverse drug events and drug allergies	DisGeNet	
+PTGS2	C0041755	Adverse drug events and drug allergies	DisGeNet	
+CYP1A2	C0031347	Pharyngeal Neoplasms	DisGeNet	
+CYP3A4	C0031347	Pharyngeal Neoplasms	DisGeNet	
+TNF	C0031347	Pharyngeal Neoplasms	DisGeNet	
+CYP1A2	C0686347	Tardive Dyskinesia	DisGeNet	
+CYP3A4	C0686347	Tardive Dyskinesia	DisGeNet	
+TNF	C0686347	Tardive Dyskinesia	DisGeNet	
+CYP1A2	C0949059	Colorectal polyposis	DisGeNet	
+PTGS2	C0949059	Colorectal polyposis	DisGeNet	
+TNF	C0949059	Colorectal polyposis	DisGeNet	
+CYP1A2	C0162557	Acute hepatic failure	DisGeNet	
+CYP3A4	C0162557	Acute hepatic failure	DisGeNet	
+PTGS2	C0162557	Acute hepatic failure	DisGeNet	
+TNF	C0162557	Acute hepatic failure	DisGeNet	
+ABCB1	C0024620	Primary malignant neoplasm of liver	DisGeNet	
+CYP3A4	C0024620	Primary malignant neoplasm of liver	DisGeNet	
+CYP1A2	C0152115	Orofacial dyskinesia	DisGeNet	
+CYP3A4	C0152115	Orofacial dyskinesia	DisGeNet	
+TNF	C0152115	Orofacial dyskinesia	DisGeNet	

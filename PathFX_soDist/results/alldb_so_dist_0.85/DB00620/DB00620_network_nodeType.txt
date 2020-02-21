@@ -1,0 +1,12 @@
+node_name	node_type	
+DB00620	drug	
+PTGS2	drug_target	
+CYP3A4	drug_target	
+BCHE	drug_target	
+NR3C1	drug_target	
+Enzyme inhibition disorder	phenotype	
+Squamous Cell Neoplasms	phenotype	
+Acute postoperative pain	phenotype	
+Adverse drug events and drug allergies	phenotype	
+Cognition Disorders	phenotype	
+gliosarcoma	phenotype	

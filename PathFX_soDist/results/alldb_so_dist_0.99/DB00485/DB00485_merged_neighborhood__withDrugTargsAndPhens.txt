@@ -1,0 +1,4 @@
+node1	node2	edge_score	
+DB00485	SLC15A2	1.0	
+DB00485	CYP3A4	1.0	
+

@@ -1,0 +1,4 @@
+node_name	node_type	
+DB00068	drug	
+IFNAR2	drug_target	
+IFNAR1	drug_target	

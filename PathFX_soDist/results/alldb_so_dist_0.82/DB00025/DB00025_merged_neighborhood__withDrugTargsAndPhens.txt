@@ -1,0 +1,632 @@
+node1	node2	edge_score	
+DB00025	F2	1.0	
+DB00025	LRP1	1.0	
+DB00025	HSPA5	1.0	
+DB00025	F9	1.0	
+DB00025	CALR	1.0	
+DB00025	ASGR2	1.0	
+DB00025	LMAN1	1.0	
+DB00025	MCFD2	1.0	
+DB00025	VWF	1.0	
+DB00025	PROC	1.0	
+DB00025	F10	1.0	
+DB00025	CANX	1.0	
+DB00025	PHYH	1.0	
+F2		1.0
+HSPA5		1.0
+PROC		1.0
+Breast-ovarian cancer, familial 1	F2	1.0	
+Breast-ovarian cancer, familial 1	HSPA5	1.0	
+Breast-ovarian cancer, familial 1	PROC	1.0	
+Renal cell carcinoma, nonpapillary	F2	1.0	
+Renal cell carcinoma, nonpapillary	HSPA5	1.0	
+Renal cell carcinoma, nonpapillary	PROC	1.0	
+Colorectal cancer 1	F2	1.0	
+Colorectal cancer 1	HSPA5	1.0	
+Colorectal cancer 1	PROC	1.0	
+Crohn Disease	F2	1.0	
+Crohn Disease	HSPA5	1.0	
+Crohn Disease	PROC	1.0	
+Diabetes Mellitus, Type 1	F2	1.0	
+Diabetes Mellitus, Type 1	HSPA5	1.0	
+Diabetes Mellitus, Type 1	PROC	1.0	
+Acute type B viral hepatitis	F2	1.0	
+Acute type B viral hepatitis	HSPA5	1.0	
+Acute type B viral hepatitis	PROC	1.0	
+Liver Cirrhosis, Biliary	F2	1.0	
+Liver Cirrhosis, Biliary	HSPA5	1.0	
+Liver Cirrhosis, Biliary	PROC	1.0	
+Neoplasm of the liver	F2	1.0	
+Neoplasm of the liver	HSPA5	1.0	
+Neoplasm of the liver	PROC	1.0	
+{Gastric cancer risk after H. pylori infection}, 137215 (3)	F2	1.0	
+{Gastric cancer risk after H. pylori infection}, 137215 (3)	HSPA5	1.0	
+{Gastric cancer risk after H. pylori infection}, 137215 (3)	PROC	1.0	
+Melanoma	F2	1.0	
+Melanoma	HSPA5	1.0	
+Melanoma	PROC	1.0	
+Secondary hypertriglyceridemia	F2	1.0	
+Secondary hypertriglyceridemia	HSPA5	1.0	
+Secondary hypertriglyceridemia	PROC	1.0	
+Stomach Neoplasms	F2	1.0	
+Stomach Neoplasms	HSPA5	1.0	
+Stomach Neoplasms	PROC	1.0	
+Reduced protein C activity	F2	1.0	
+Reduced protein C activity	HSPA5	1.0	
+Reduced protein C activity	PROC	1.0	
+Hereditary hyperhomocysteinemia	F2	1.0	
+Hereditary hyperhomocysteinemia	HSPA5	1.0	
+Hereditary hyperhomocysteinemia	PROC	1.0	
+Ovarian epithelial cancer	F2	1.0	
+Ovarian epithelial cancer	HSPA5	1.0	
+Ovarian epithelial cancer	PROC	1.0	
+Breast carcinoma	F2	1.0	
+Breast carcinoma	HSPA5	1.0	
+Breast carcinoma	PROC	1.0	
+Stomach cancer	F2	1.0	
+Stomach cancer	HSPA5	1.0	
+Stomach cancer	PROC	1.0	
+Colorectal cancer	F2	1.0	
+Colorectal cancer	HSPA5	1.0	
+Colorectal cancer	PROC	1.0	
+Coronary Artery Disease	F2	1.0	
+Coronary Artery Disease	HSPA5	1.0	
+Coronary Artery Disease	PROC	1.0	
+Hepatocellular carcinoma	F2	1.0	
+Hepatocellular carcinoma	HSPA5	1.0	
+Hepatocellular carcinoma	PROC	1.0	
+Lupus anticoagulant disorder	F2	1.0	
+Lupus anticoagulant disorder	PROC	1.0	
+Thrombophilia due to activated protein C resistance	F2	1.0	
+Thrombophilia due to activated protein C resistance	PROC	1.0	
+Pyruvate carboxylase deficiency	F2	1.0	
+Pyruvate carboxylase deficiency	PROC	1.0	
+Protein S deficiency	F2	1.0	
+Protein S deficiency	PROC	1.0	
+Resistance to activated protein C	F2	1.0	
+Resistance to activated protein C	PROC	1.0	
+Disseminated intravascular coagulation	F2	1.0	
+Disseminated intravascular coagulation	PROC	1.0	
+Deep thrombophlebitis	F2	1.0	
+Deep thrombophlebitis	PROC	1.0	
+Factor V Leiden mutation	F2	1.0	
+Factor V Leiden mutation	PROC	1.0	
+Abnormal thrombosis	F2	1.0	
+Abnormal thrombosis	PROC	1.0	
+Iron Overload	F2	1.0	
+Iron Overload	PROC	1.0	
+Chronic ulcerative colitis	F2	1.0	
+Chronic ulcerative colitis	PROC	1.0	
+Deep venous thrombosis	F2	1.0	
+Deep venous thrombosis	PROC	1.0	
+Abnormality of coagulation	F2	1.0	
+Abnormality of coagulation	PROC	1.0	
+Thromboembolism	F2	1.0	
+Thromboembolism	PROC	1.0	
+Thrombophilia	F2	1.0	
+Thrombophilia	PROC	1.0	
+Pregnancy Complications	F2	1.0	
+Pregnancy Complications	HSPA5	1.0	
+Pulmonary Embolism	F2	1.0	
+Pulmonary Embolism	PROC	1.0	
+Abnormality of the pulmonary vasculature	F2	1.0	
+Abnormality of the pulmonary vasculature	PROC	1.0	
+Venous thrombosis	F2	1.0	
+Venous thrombosis	PROC	1.0	
+Neurodegeneration with brain iron accumulation	F2	1.0	
+Neurodegeneration with brain iron accumulation	HSPA5	1.0	
+Peripheral Arterial Disease	F2	1.0	
+Peripheral Arterial Disease	PROC	1.0	
+Thrombosis	F2	1.0	
+Thrombosis	PROC	1.0	
+Subcutaneous hemorrhage	F2	1.0	
+Subcutaneous hemorrhage	PROC	1.0	
+Internal hemorrhage	F2	1.0	
+Internal hemorrhage	PROC	1.0	
+Bleeding disorder, platelet-type, 21	F2	1.0	
+Bleeding disorder, platelet-type, 21	PROC	1.0	
+Abnormality of blood circulation	F2	1.0	
+Abnormality of blood circulation	PROC	1.0	
+Fetal Membranes, Premature Rupture	F2	1.0	
+Fetal Membranes, Premature Rupture	PROC	1.0	
+Chorioamnionitis	F2	1.0	
+Chorioamnionitis	PROC	1.0	
+Premature Obstetric Labor	F2	1.0	
+Premature Obstetric Labor	PROC	1.0	
+Variable expressivity	F2	1.0	
+Variable expressivity	PROC	1.0	
+Benign neoplasm of other endocrine glands	HSPA5	1.0	
+Benign neoplasm of other endocrine glands	PROC	1.0	
+Hepatoblastoma	F2	1.0	
+Hepatoblastoma	PROC	1.0	
+Adenocarcinoma of colon	HSPA5	1.0	
+Adenocarcinoma of colon	PROC	1.0	
+Venous Thromboembolism	F2	1.0	
+Venous Thromboembolism	PROC	1.0	
+Reperfusion Injury	F2	1.0	
+Reperfusion Injury	HSPA5	1.0	
+Lupus Vulgaris	F2	1.0	
+Lupus Vulgaris	HSPA5	1.0	
+Non-alcoholic Fatty Liver Disease	F2	1.0	
+Non-alcoholic Fatty Liver Disease	HSPA5	1.0	
+Discoid lupus erythematosus	F2	1.0	
+Discoid lupus erythematosus	HSPA5	1.0	
+Abnormal bleeding	F2	1.0	
+Abnormal bleeding	PROC	1.0	
+Recurrent tumor	HSPA5	1.0	
+Recurrent tumor	PROC	1.0	
+Acute Coronary Syndrome	F2	1.0	
+Acute Coronary Syndrome	PROC	1.0	
+Pulmonary hypertension, neonatal, susceptibility to	F2	1.0	
+Pulmonary hypertension, neonatal, susceptibility to	PROC	1.0	
+Hypoxia	F2	1.0	
+Hypoxia	HSPA5	1.0	
+Asbestosis	HSPA5	1.0	
+Leg Ulcer	F2	1.0	
+Spiegler-Brooke syndrome	F2	1.0	
+Vascular skin abnormality	F2	1.0	
+Vascular skin abnormality	PROC	1.0	
+Epidermal cyst	PROC	1.0	
+Acute hepatitis	F2	1.0	
+Malignant neoplasm of adrenal cortex	PROC	1.0	
+Brain Hemorrhage, Traumatic	F2	1.0	
+Abnormality of the vitreous humor	PROC	1.0	
+Preeclampsia/eclampsia 1	F2	1.0	
+Preeclampsia/eclampsia 1	PROC	1.0	
+Seborrheic keratosis	PROC	1.0	
+Premature Birth	F2	1.0	
+Premature Birth	PROC	1.0	
+Hepatitis	F2	1.0	
+Hepatitis	PROC	1.0	
+Homocystinuria due to CBS deficiency	F2	1.0	
+Thrombosis of retinal vein	F2	1.0	
+Fulminant hepatitis	F2	1.0	
+Early gastric cancer	PROC	1.0	
+Septicemia	F2	1.0	
+Septicemia	PROC	1.0	
+Recurrent E. coli infections	F2	1.0	
+Femur Head Necrosis	F2	1.0	
+Old myocardial infarction	F2	1.0	
+Carcinoma, Signet Ring Cell	PROC	1.0	
+Hemorrhagic Fever, Ebola	HSPA5	1.0	
+{Systemic lupus erythematosus, susceptibility to, 8} (2)	F2	1.0	
+{Systemic lupus erythematosus, susceptibility to, 8} (2)	HSPA5	1.0	
+Familial adenomatous polyposis 1	HSPA5	1.0	
+Familial adenomatous polyposis 1	PROC	1.0	
+Cholangiocarcinoma	HSPA5	1.0	
+Cholangiocarcinoma	PROC	1.0	
+Gingival bleeding	F2	1.0	
+Hemiplegia	F2	1.0	
+Antithrombin III deficiency	F2	1.0	
+Gastrinoma	PROC	1.0	
+Hemorrhagic disorder due to intrinsic circulating anticoagulants	F2	1.0	
+Puerperal Disorders	F2	1.0	
+Respiratory Hypersensitivity	HSPA5	1.0	
+Stenosis	F2	1.0	
+Anterior myocardial infarction	F2	1.0	
+Hepatic steatosis	F2	1.0	
+Hepatic steatosis	HSPA5	1.0	
+Paratuberculosis	F2	1.0	
+Venous insufficiency	PROC	1.0	
+Acinar Cell Carcinoma	PROC	1.0	
+Progressive cerebellar degeneration	HSPA5	1.0	
+Adenoviral infections	PROC	1.0	
+Phenotypic variability	F2	1.0	
+Phenotypic variability	PROC	1.0	
+Hepatic encephalopathy	F2	1.0	
+Multiple Organ Failure	PROC	1.0	
+Prolonged bleeding time	F2	1.0	
+Deficiency of glucose-6-phosphate dehydrogenase	F2	1.0	
+Thyroid cancer, nonmedullary, 4	HSPA5	1.0	
+Thyroid cancer, nonmedullary, 4	PROC	1.0	
+Sudden death	F2	1.0	
+Lipoid nephrosis	HSPA5	1.0	
+Odontogenic neoplasm	PROC	1.0	
+SPHEROCYTOSIS, TYPE 1 (disorder)	PROC	1.0	
+Urinary Bladder Neoplasms	HSPA5	1.0	
+Urinary Bladder Neoplasms	PROC	1.0	
+Gangrene	PROC	1.0	
+Ovarian hyperstimulation syndrome	F2	1.0	
+Parathyroid carcinoma	PROC	1.0	
+End Stage Liver Disease	F2	1.0	
+Pregnancy associated hypertension	F2	1.0	
+Hepatocarcinogenesis	HSPA5	1.0	
+Hepatocarcinogenesis	PROC	1.0	
+Purpura, Thrombotic Thrombocytopenic	F2	1.0	
+Juvenile polyposis syndrome	PROC	1.0	
+Gastric Cardia Adenocarcinoma	PROC	1.0	
+Hereditary spherocytosis	PROC	1.0	
+Intestinal Cancer	PROC	1.0	
+Carcinogenicity	PROC	1.0	
+Acute myocardial ischemia	F2	1.0	
+Acute myocardial ischemia	HSPA5	1.0	
+Arterial Occlusive Diseases	F2	1.0	
+Pneumonia, Bacterial	F2	1.0	
+Glanzmann thrombasthenia	F2	1.0	
+Japanese Encephalitis	HSPA5	1.0	
+Thrombotic Microangiopathies	F2	1.0	
+Malignant neoplasm of endometrium	HSPA5	1.0	
+Malignant neoplasm of endometrium	PROC	1.0	
+Uterine Corpus Cancer	HSPA5	1.0	
+Uterine Corpus Cancer	PROC	1.0	
+Platelet-type bleeding disorder 15	F2	1.0	
+Hyperaldosteronism, familial, type IV	PROC	1.0	
+Deep vein thrombosis of lower limb	F2	1.0	
+Juvenile myoclonic epilepsy	F2	1.0	
+Primary Carcinoma	PROC	1.0	
+Bone necrosis	F2	1.0	
+Thromboangiitis Obliterans	F2	1.0	
+Varicose Ulcer	F2	1.0	
+HELLP Syndrome	F2	1.0	
+Herpes Simplex Infections	HSPA5	1.0	
+Herpes Simplex Infections	PROC	1.0	
+Congenital chromosomal disease	HSPA5	1.0	
+Congenital chromosomal disease	PROC	1.0	
+Kidney Calculi	F2	1.0	
+Sickle Cell Trait	F2	1.0	
+Choroidal Neovascularization	F2	1.0	
+Childhood onset	F2	1.0	
+Hereditary factor IX deficiency disease	F2	1.0	
+Xenograft Model	HSPA5	1.0	
+Xenograft Model	PROC	1.0	
+Von Willebrand disease, recessive form	F2	1.0	
+Hemophilia, NOS	F2	1.0	
+Acute Cerebrovascular Accidents	F2	1.0	
+Coronary Restenosis	F2	1.0	
+Nephrosis	F2	1.0	
+Gorlin syndrome	PROC	1.0	
+Endometrial Hyperplasia	PROC	1.0	
+pathologic fistula	HSPA5	1.0	
+Brain Tumor, Primary	PROC	1.0	
+Sepsis	F2	1.0	
+Sepsis	PROC	1.0	
+Sicca Syndrome	PROC	1.0	
+Chronic neutrophilia	PROC	1.0	
+Hematological neoplasm	F2	1.0	
+Hematological neoplasm	HSPA5	1.0	
+Diabetic Nephropathies	HSPA5	1.0	
+Diabetic Nephropathies	PROC	1.0	
+Henoch-Schoenlein Purpura	F2	1.0	
+Abnormal pulmonary vein morphology	PROC	1.0	
+Neoplasm of the parathyroid gland	PROC	1.0	
+Desmoid tumor	PROC	1.0	
+Thin skin	PROC	1.0	
+Small cell lung cancer	HSPA5	1.0	
+Small cell lung cancer	PROC	1.0	
+Metabolic Syndrome X	F2	1.0	
+Metabolic Syndrome X	HSPA5	1.0	
+Cooley's anemia	F2	1.0	
+Colonic Polyps	PROC	1.0	
+Menopause present (finding)	F2	1.0	
+Hantavirus infection in conditions classified elsewhere and of unspecified site	PROC	1.0	
+Adenomatous polyp of colon	PROC	1.0	
+Inflammation	F2	1.0	
+Inflammation	PROC	1.0	
+Ischemia	F2	1.0	
+Ischemia	HSPA5	1.0	
+Other specified disorders of breast	PROC	1.0	
+Epistaxis	F2	1.0	
+Turcot syndrome	PROC	1.0	
+Abnormality of lung morphology	F2	1.0	
+Abnormality of lung morphology	PROC	1.0	
+Persistent infection	HSPA5	1.0	
+Thyroid carcinoma	HSPA5	1.0	
+Thyroid carcinoma	PROC	1.0	
+Bipolar I disorder	HSPA5	1.0	
+Ovarian Serous Adenocarcinoma	PROC	1.0	
+Ameloblastoma	PROC	1.0	
+Hemolytic uremic syndrome	F2	1.0	
+Neuroepithelial neoplasm	PROC	1.0	
+Nasopharyngeal carcinoma, susceptibility to, 3	HSPA5	1.0	
+Nasopharyngeal carcinoma, susceptibility to, 3	PROC	1.0	
+Colorectal polyposis	PROC	1.0	
+Limb ischemia	F2	1.0	
+Purpura	PROC	1.0	
+Shock, Septic	F2	1.0	
+Primary antiphospholipid syndrome	F2	1.0	
+Abnormality of cardiovascular system physiology	F2	1.0	
+Abnormality of cardiovascular system physiology	PROC	1.0	
+Gaucher Disease	F2	1.0	
+Acute Lung Injury	F2	1.0	
+Well Differentiated Pancreatic Endocrine Tumor	PROC	1.0	
+Generalized abnormality of skin	F2	1.0	
+Generalized abnormality of skin	PROC	1.0	
+Female infertility	F2	1.0	
+Uremia	PROC	1.0	
+Adenomatous Polyps	PROC	1.0	
+Angina pectoris	F2	1.0	
+Beckwith-Wiedemann syndrome	PROC	1.0	
+ Cerebrovascular disease, occlusive (3)	F2	1.0	
+Peutz-Jeghers syndrome	PROC	1.0	
+Endometrial carcinoma	HSPA5	1.0	
+Endometrial carcinoma	PROC	1.0	
+Neoplasm of the adrenal cortex	PROC	1.0	
+Bleeding with minor or no trauma	F2	1.0	
+Polyposis syndrome, mixed hereditary 1 (4)	PROC	1.0	
+Homocysteinemia due to MTHFR deficiency	F2	1.0	
+Granulomatosis with Polyangiitis	F2	1.0	
+Postoperative Complications	F2	1.0	
+Complications of Diabetes Mellitus	F2	1.0	
+Undifferentiated leukemia	HSPA5	1.0	
+Pancreatic Neoplasms	HSPA5	1.0	
+Pancreatic Neoplasms	PROC	1.0	
+Migraine with aura	F2	1.0	
+Coronary heart disease 7	F2	1.0	
+Coronary heart disease 7	HSPA5	1.0	
+Protein Deficiency	F2	1.0	
+Recurrent abortion	F2	1.0	
+Cerebral edema	F2	1.0	
+Rash and Dermatitis Adverse Event Associated with Chemoradiation	PROC	1.0	
+Virus Diseases	HSPA5	1.0	
+Virus Diseases	PROC	1.0	
+Polycythemia	F2	1.0	
+Pregnancy loss	F2	1.0	
+Coronary artery stenosis	F2	1.0	
+Acute Undifferentiated Leukemia	HSPA5	1.0	
+Prediabetes syndrome	HSPA5	1.0	
+Hormone refractory prostate cancer	PROC	1.0	
+Abnormal respiratory system morphology	F2	1.0	
+Abnormal respiratory system morphology	PROC	1.0	
+Stromal Neoplasm	PROC	1.0	
+Gallbladder disease 4	F2	1.0	
+Gallbladder disease 4	PROC	1.0	
+Carcinoma, Lewis Lung	F2	1.0	
+Hereditary hemochromatosis	PROC	1.0	
+Intestinal polyp	PROC	1.0	
+Mucinous Adenocarcinoma	PROC	1.0	
+Soft Tissue Neoplasms	PROC	1.0	
+Familial Mediterranean fever	F2	1.0	
+Carcinoid tumor no ICD-O subtype	PROC	1.0	
+Acute lymphoid leukemia	F2	1.0	
+Acute lymphoid leukemia	HSPA5	1.0	
+Leishmaniasis, Visceral	HSPA5	1.0	
+Cerebral autosomal recessive arteriopathy with subcortical infarcts and leukoencephalopathy	F2	1.0	
+High-Grade Prostatic Intraepithelial Neoplasia	PROC	1.0	
+Ulcerative colitis	F2	1.0	
+Ulcerative colitis	PROC	1.0	
+Angina, Unstable	F2	1.0	
+Parathyroid adenoma	PROC	1.0	
+Merkel cell carcinoma	PROC	1.0	
+Bruising susceptibility	F2	1.0	
+Arterial thrombosis	F2	1.0	
+Inflammatory Breast Carcinoma	PROC	1.0	
+Cerebral palsy, spastic quadriplegic, 3	F2	1.0	
+Kartagener syndrome	PROC	1.0	
+Malaria, Cerebral	PROC	1.0	
+Alcohol abuse	F2	1.0	
+Polyglandular autoimmune syndrome, type 1	F2	1.0	
+Multiple tumors	PROC	1.0	
+Endotoxemia	F2	1.0	
+Testicular malignant germ cell tumor	PROC	1.0	
+Peripheral Arterial Diseases	F2	1.0	
+Interstitial fibrosis	HSPA5	1.0	
+Hyperplastic Polyp	PROC	1.0	
+Esophageal Squamous Cell Carcinoma	HSPA5	1.0	
+Esophageal Squamous Cell Carcinoma	PROC	1.0	
+Hemochromatosis	F2	1.0	
+Severe Acute Respiratory Syndrome	F2	1.0	
+Advanced cancer	HSPA5	1.0	
+Myelofibrosis	PROC	1.0	
+Alcoholic Liver Diseases	HSPA5	1.0	
+Adult Acute Lymphocytic Leukemia	PROC	1.0	
+Hereditary factor VIII deficiency disease	F2	1.0	
+Neoplasm of the rectum	PROC	1.0	
+NOONAN-LIKE/MULTIPLE GIANT CELL LESION SYNDROME (disorder)	F2	1.0	
+Rhabdoid Tumor of the Kidney	PROC	1.0	
+Tumor Immunity	PROC	1.0	
+precancerous lesions	PROC	1.0	
+Osteosarcoma	HSPA5	1.0	
+Osteosarcoma	PROC	1.0	
+Glomerulosclerosis, Focal Segmental	HSPA5	1.0	
+Intrahepatic Cholangiocarcinoma	PROC	1.0	
+Adenomas, multiple colorectal, 608456 (3)	HSPA5	1.0	
+Adenomas, multiple colorectal, 608456 (3)	PROC	1.0	
+early pregnancy	F2	1.0	
+Inflammatory Bowel Diseases	F2	1.0	
+Inflammatory Bowel Diseases	PROC	1.0	
+Nephrolithiasis	F2	1.0	
+Mammary Ductal Carcinoma	PROC	1.0	
+Varicose Veins	F2	1.0	
+Hereditary nonpolyposis colorectal cancer type 8	PROC	1.0	
+Myocardial Infarction	F2	1.0	
+Myocardial Infarction	HSPA5	1.0	
+Carcinoma, Endometrioid	PROC	1.0	
+Cardiovascular Diseases	F2	1.0	
+Cardiovascular Diseases	PROC	1.0	
+Spinocerebellar ataxia, autosomal recessive 17	HSPA5	1.0	
+Aplasia/Hypoplasia of the skin	PROC	1.0	
+Infertility associated with multi-tailed spermatozoa and excessive DNA	F2	1.0	
+Abnormality of the gingiva	F2	1.0	
+Ventricular Fibrillation Adverse Event	F2	1.0	
+Psoriasis vulgaris	HSPA5	1.0	
+Musculoskeletal Diseases	F2	1.0	
+Lewy Body Disease	HSPA5	1.0	
+Gastrointestinal hemorrhage	F2	1.0	
+Pregnancy Complications, Hematologic	F2	1.0	
+Metastatic malignant neoplasm to brain	PROC	1.0	
+beta Thalassemia	F2	1.0	
+Anaplastic Oligodendroglioma	PROC	1.0	
+Ectodermal dysplasia 11b, hypohidrotic/hair/tooth type, autosomal recessive	PROC	1.0	
+Myositis	HSPA5	1.0	
+Diabetes mellitus type 1	HSPA5	1.0	
+Diabetes mellitus type 1	PROC	1.0	
+Verotoxigenic Escherichia coli gastrointestinal tract infection	F2	1.0	
+Verotoxigenic Escherichia coli gastrointestinal tract infection	PROC	1.0	
+Adrenoleukodystrophy	HSPA5	1.0	
+Acute GVH disease	PROC	1.0	
+Abnormality of the respiratory system	F2	1.0	
+Abnormality of the respiratory system	PROC	1.0	
+Mammary Tumorigenesis	PROC	1.0	
+Chronic liver disease	F2	1.0	
+Intestinal Neoplasms	PROC	1.0	
+Neoplasm of the central nervous system	PROC	1.0	
+orbit (eye disorders)	F2	1.0	
+Lung Neoplasms	HSPA5	1.0	
+Lung Neoplasms	PROC	1.0	
+Colorectal Neoplasms	HSPA5	1.0	
+Colorectal Neoplasms	PROC	1.0	
+Barrett Esophagus	PROC	1.0	
+Essential thrombocythemia	F2	1.0	
+Fetal Diseases	F2	1.0	
+Sudden cardiac death	F2	1.0	
+Invasive Carcinoma	PROC	1.0	
+Dermatological manifestations of systemic disorders	PROC	1.0	
+Apnea	F2	1.0	
+Adrenocortical carcinoma	PROC	1.0	
+Stroke	F2	1.0	
+Stroke	PROC	1.0	
+Progressive Neoplastic Disease	HSPA5	1.0	
+Progressive cGVHD	HSPA5	1.0	
+Carotid Stenosis	F2	1.0	
+Irritable bowel syndrome with diarrhea	F2	1.0	
+Albuminuria	F2	1.0	
+Abnormality of the menstrual cycle	F2	1.0	
+46,XY gonadal dysgenesis, partial, with minifascicular neuropathy	F2	1.0	
+Abnormality of skin morphology	F2	1.0	
+Abnormality of skin morphology	PROC	1.0	
+Autosomal dominant non-syndromic sensorineural deafness type DFNA	F2	1.0	
+Autosomal dominant non-syndromic sensorineural deafness type DFNA	PROC	1.0	
+Atherosclerosis	F2	1.0	
+Atherosclerosis	PROC	1.0	
+Atrial Fibrillation	F2	1.0	
+Synovial sarcoma	PROC	1.0	
+Primary Myelofibrosis	PROC	1.0	
+Amyotrophy involving the shoulder musculature	HSPA5	1.0	
+Menstrual irregularities	F2	1.0	
+Abnormality of the cerebral vasculature	PROC	1.0	
+Non-Malignant Ascites Adverse Event	F2	1.0	
+Familial hypercholesterolemia	F2	1.0	
+Abnormality of blood and blood-forming tissues	F2	1.0	
+Abnormality of blood and blood-forming tissues	PROC	1.0	
+Carcinoid tumor	PROC	1.0	
+Eclampsia	F2	1.0	
+Congenital onset	F2	1.0	
+Lymphoma, Large B-Cell, Diffuse	HSPA5	1.0	
+Lymphoma, Large B-Cell, Diffuse	PROC	1.0	
+Abnormality of oral mucosa	F2	1.0	
+Aortic Aneurysm, Abdominal	PROC	1.0	
+Abnormality of the skin	F2	1.0	
+Abnormality of the skin	PROC	1.0	
+Well Differentiated Oligodendroglioma	PROC	1.0	
+Polycythemia vera	F2	1.0	
+Tuberous sclerosis syndrome	PROC	1.0	
+Brain Diseases	F2	1.0	
+Connective Tissue Diseases	F2	1.0	
+Chronic hepatitis	F2	1.0	
+Drug-Induced Liver Injury	F2	1.0	
+Death, Sudden, Cardiac	HSPA5	1.0	
+Transient ischemic attack	F2	1.0	
+Intraocular melanoma	PROC	1.0	
+Myasthenia Gravis	HSPA5	1.0	
+Lupus Erythematosus, Systemic	F2	1.0	
+Lupus Erythematosus, Systemic	HSPA5	1.0	
+Hypercholesterolemia, autosomal dominant, type B	F2	1.0	
+Cervical intraepithelial neoplasia (Cervical dysplasia)	PROC	1.0	
+Endothelial dysfunction	PROC	1.0	
+Epstein-Barr Virus Infections	PROC	1.0	
+Restenosis	F2	1.0	
+Intracranial hemorrhage	F2	1.0	
+Steatohepatitis	HSPA5	1.0	
+Liver failure acute infantile	F2	1.0	
+Anaplastic thyroid carcinoma	PROC	1.0	
+Ductal Carcinoma	PROC	1.0	
+Seizures, Febrile	F2	1.0	
+Seizures, Febrile	PROC	1.0	
+Secondary malignant neoplasm of pancreas	HSPA5	1.0	
+Secondary malignant neoplasm of pancreas	PROC	1.0	
+Anaplasia	PROC	1.0	
+Invasive Ductal Breast Carcinoma	HSPA5	1.0	
+Abnormality of cardiovascular system electrophysiology	F2	1.0	
+Abnormality of cardiovascular system electrophysiology	PROC	1.0	
+Lymphoproliferative disorder	F2	1.0	
+Dermal atrophy	HSPA5	1.0	
+Acute myocardial infarction	F2	1.0	
+Malignant neoplasm of pancreas	HSPA5	1.0	
+Malignant neoplasm of pancreas	PROC	1.0	
+Myeloproliferative Disorders	F2	1.0	
+Hypertension	F2	1.0	
+Hypertension	PROC	1.0	
+Malignant tumor of testis	PROC	1.0	
+Malignant gastrointestinal tract tumors	PROC	1.0	
+Germ cell neoplasia	PROC	1.0	
+Neuroendocrine neoplasm	PROC	1.0	
+Thrombocytopenia, platelet dysfunction, hemolysis, and imbalanced globin synthesis	F2	1.0	
+Abnormality of the integument	F2	1.0	
+Abnormality of the integument	PROC	1.0	
+Fibrosarcoma	HSPA5	1.0	
+Adenoma of large intestine	PROC	1.0	
+Microphthalmia syndromic 6	PROC	1.0	
+Pancreatic Carcinoma	HSPA5	1.0	
+Pancreatic Carcinoma	PROC	1.0	
+Spontaneous abortion	F2	1.0	
+Alzheimer Disease	F2	1.0	
+Alzheimer Disease	HSPA5	1.0	
+ Adenocarcinoma, ovarian, somatic, 167000 (3)	HSPA5	1.0	
+ Adenocarcinoma, ovarian, somatic, 167000 (3)	PROC	1.0	
+Encephalopathy, acute, infection-induced, 4, susceptibility to	F2	1.0	
+Cutaneous malignant melanoma 3	PROC	1.0	
+Experimental Organism Basal Cell Carcinoma	PROC	1.0	
+Hypoglycemia, neonatal, simulating foetopathia diabetica	F2	1.0	
+Malignant mesothelioma	PROC	1.0	
+Gastrointestinal Neoplasms	PROC	1.0	
+Subarachnoid hemorrhage	F2	1.0	
+Colon cancer	HSPA5	1.0	
+Colon cancer	PROC	1.0	
+Ankylosing spondylitis	HSPA5	1.0	
+Anemia, Sickle Cell	F2	1.0	
+Hepatitis B, Chronic	F2	1.0	
+Cerebral ischemia	F2	1.0	
+Pancreatitis	PROC	1.0	
+Choriocarcinoma	HSPA5	1.0	
+polyps	PROC	1.0	
+Splenomegaly	F2	1.0	
+Pituitary adenoma	PROC	1.0	
+Rectal Carcinoma	PROC	1.0	
+Gastric Adenocarcinoma	HSPA5	1.0	
+Hyperlipidemia, combined, 1	F2	1.0	
+Ischaemic cerebral infarction	F2	1.0	
+Helicobacter pylori infection	PROC	1.0	
+Squamous cell carcinoma	HSPA5	1.0	
+Squamous cell carcinoma	PROC	1.0	
+Rheumatoid arthritis	F2	1.0	
+Rheumatoid arthritis	PROC	1.0	
+Carcinoma of colon	HSPA5	1.0	
+Carcinoma of colon	PROC	1.0	
+Adenocarcinoma Of Esophagus	PROC	1.0	
+Agenesis of corpus callosum	PROC	1.0	
+Muscular dystrophy-dystroglycanopathy (congenital with brain and eye anomalies), type a, 11	PROC	1.0	
+Leukemia, Lymphocytic, Chronic, B-Cell	HSPA5	1.0	
+Leukemia, Lymphocytic, Chronic, B-Cell	PROC	1.0	
+Graft-versus-host disease, susceptibility to	PROC	1.0	
+Pancreatic adenocarcinoma	PROC	1.0	
+Tumor Progression	HSPA5	1.0	
+Tumor Progression	PROC	1.0	
+Malignant lymphoma, lymphocytic, intermediate differentiation, diffuse	HSPA5	1.0	
+Diabetes mellitus type 2	F2	1.0	
+Diabetes mellitus type 2	HSPA5	1.0	
+Non-small cell lung carcinoma	HSPA5	1.0	
+Non-small cell lung carcinoma	PROC	1.0	
+Migraine Disorders	F2	1.0	
+Metastatic melanoma	HSPA5	1.0	
+Glioma	F2	1.0	
+Glioma	HSPA5	1.0	
+Autosomal recessive inheritance	F2	1.0	
+Autosomal recessive inheritance	PROC	1.0	
+Ischemic Cerebrovascular Accident	F2	1.0	
+Gastrointestinal stromal tumor	PROC	1.0	
+Abnormality of skin pigmentation	PROC	1.0	
+Wilms Tumor	PROC	1.0	
+Pulmonary Disease, Chronic Obstructive	F2	1.0	
+Hereditary pancreatitis	HSPA5	1.0	
+Intrauterine growth retardation	F2	1.0	
+Obesity	F2	1.0	
+Obesity	HSPA5	1.0	
+Anxiety Disorders	PROC	1.0	
+Heart Diseases	F2	1.0	
+Experimental Autoimmune Encephalomyelitis	PROC	1.0	
+Urothelial Carcinoma	HSPA5	1.0	
+Pulmonary fibrosis and/or bone marrow failure, telomere-related, 4	F2	1.0	
+Lung cancer	HSPA5	1.0	
+Lung cancer	PROC	1.0	
+Abnormality of female internal genitalia	F2	1.0	
+Ischemic stroke	F2	1.0	

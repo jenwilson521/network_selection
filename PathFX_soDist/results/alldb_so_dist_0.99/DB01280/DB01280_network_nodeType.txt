@@ -1,0 +1,6 @@
+node_name	node_type	
+DB01280	drug	
+POLA1	drug_target	
+DGUOK	drug_target	
+DCK	drug_target	
+ADA	drug_target	

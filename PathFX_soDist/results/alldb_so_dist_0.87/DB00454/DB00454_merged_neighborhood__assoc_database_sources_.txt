@@ -1,0 +1,99 @@
+Gene	CUI	Source Databases	
+CYP1A2	C0686347	Tardive Dyskinesia	DisGeNet	
+CYP2B6	C0686347	Tardive Dyskinesia	DisGeNet	
+CYP2D6	C0686347	Tardive Dyskinesia	DisGeNet	
+CYP3A4	C0686347	Tardive Dyskinesia	DisGeNet	
+GRIN2B	C0686347	Tardive Dyskinesia	DisGeNet	
+SLC6A3	C0686347	Tardive Dyskinesia	DisGeNet	
+SLC6A4	C0686347	Tardive Dyskinesia	DisGeNet	
+CYP1A2	C0152115	Orofacial dyskinesia	DisGeNet	
+CYP2B6	C0152115	Orofacial dyskinesia	DisGeNet	
+CYP2D6	C0152115	Orofacial dyskinesia	DisGeNet	
+CYP3A4	C0152115	Orofacial dyskinesia	DisGeNet	
+GRIN2B	C0152115	Orofacial dyskinesia	DisGeNet	
+SLC6A3	C0152115	Orofacial dyskinesia	DisGeNet	
+SLC6A4	C0152115	Orofacial dyskinesia	DisGeNet	
+ALB	C0013146	Methamphetamine abuse	DisGeNet	
+CYP2B6	C0013146	Methamphetamine abuse	DisGeNet	
+CYP2C19	C0013146	Methamphetamine abuse	DisGeNet	
+CYP2D6	C0013146	Methamphetamine abuse	DisGeNet	
+OPRM1	C0013146	Methamphetamine abuse	DisGeNet	
+SLC6A2	C0013146	Methamphetamine abuse	DisGeNet	
+SLC6A3	C0013146	Methamphetamine abuse	DisGeNet	
+SLC6A4	C0013146	Methamphetamine abuse	DisGeNet	
+CYP2D6	C0019337	Heroin Dependence	DisGeNet	
+CYP3A4	C0019337	Heroin Dependence	DisGeNet	
+OPRM1	C0019337	Heroin Dependence	DisGeNet	
+SLC6A2	C0019337	Heroin Dependence	DisGeNet	
+SLC6A3	C0019337	Heroin Dependence	DisGeNet	
+SLC6A4	C0019337	Heroin Dependence	DisGeNet	
+CYP1A2	C0027497	Nausea	DisGeNet	
+CYP2C19	C0027497	Nausea	DisGeNet	
+CYP2D6	C0027497	Nausea	DisGeNet	
+OPRM1	C0027497	Nausea	DisGeNet	
+SLC6A4	C0027497	Nausea	DisGeNet	
+ALB	C0038586	Substance Use Disorders	DisGeNet	
+OPRM1	C0038586	Substance Use Disorders	DisGeNet	
+SLC6A3	C0038586	Substance Use Disorders	DisGeNet	
+SLC6A4	C0038586	Substance Use Disorders	DisGeNet	
+GRIN1	C0236663	Alcohol withdrawal syndrome	DisGeNet	
+GRIN2B	C0236663	Alcohol withdrawal syndrome	DisGeNet	
+SLC6A3	C0236663	Alcohol withdrawal syndrome	DisGeNet	
+SLC6A4	C0236663	Alcohol withdrawal syndrome	DisGeNet	
+CYP1A2	C0221765	Chronic schizophrenia	DisGeNet	
+CYP2D6	C0221765	Chronic schizophrenia	DisGeNet	
+CYP3A4	C0221765	Chronic schizophrenia	DisGeNet	
+SLC6A3	C0221765	Chronic schizophrenia	DisGeNet	
+CYP2D6	C0030201	Acute postoperative pain	DisGeNet	
+CYP3A4	C0030201	Acute postoperative pain	DisGeNet	
+OPRM1	C0030201	Acute postoperative pain	DisGeNet	
+SLC6A4	C0030201	Acute postoperative pain	DisGeNet	
+CYP2D6	C0031212	Personality disorder	DisGeNet	
+GRIN2B	C0031212	Personality disorder	DisGeNet	
+SLC6A2	C0031212	Personality disorder	DisGeNet	
+SLC6A4	C0031212	Personality disorder	DisGeNet	
+CYP2C19	C0029421	Osteochondritis dissecans	DisGeNet	
+CYP2D6	C0029421	Osteochondritis dissecans	DisGeNet	
+GRIN2B	C0029421	Osteochondritis dissecans	DisGeNet	
+SLC6A3	C0029421	Osteochondritis dissecans	DisGeNet	
+SLC6A4	C0029421	Osteochondritis dissecans	DisGeNet	
+CYP2C19	C0086132	Depressive Symptoms	DisGeNet	
+CYP2D6	C0086132	Depressive Symptoms	DisGeNet	
+CYP3A4	C0086132	Depressive Symptoms	DisGeNet	
+OPRM1	C0086132	Depressive Symptoms	DisGeNet	
+SLC6A3	C0086132	Depressive Symptoms	DisGeNet	
+SLC6A4	C0086132	Depressive Symptoms	DisGeNet	
+CYP2C19	C0024620	Primary malignant neoplasm of liver	DisGeNet	
+CYP2D6	C0024620	Primary malignant neoplasm of liver	DisGeNet	
+CYP3A4	C0024620	Primary malignant neoplasm of liver	DisGeNet	
+CYP2C19	C0028768	Obsessive-compulsive disorder	DisGeNet	
+CYP2D6	C0028768	Obsessive-compulsive disorder	DisGeNet	
+GRIN2B	C0028768	Obsessive-compulsive disorder	DisGeNet	
+SLC6A3	C0028768	Obsessive-compulsive disorder	DisGeNet	
+SLC6A4	C0028768	Obsessive-compulsive disorder	ClinVar,DisGeNet	
+SLC6A2	C0004930	Behavior Disorders	DisGeNet	
+SLC6A3	C0004930	Behavior Disorders	DisGeNet	
+SLC6A4	C0004930	Behavior Disorders	DisGeNet	
+CYP3A4	C0085762	Alcohol abuse	DisGeNet	
+GRIN2B	C0085762	Alcohol abuse	DisGeNet	
+OPRM1	C0085762	Alcohol abuse	DisGeNet	
+SLC6A3	C0085762	Alcohol abuse	DisGeNet	
+SLC6A4	C0085762	Alcohol abuse	DisGeNet	
+ALB	C0041755	Adverse drug events and drug allergies	DisGeNet	
+CYP1A2	C0041755	Adverse drug events and drug allergies	DisGeNet	
+CYP2D6	C0041755	Adverse drug events and drug allergies	DisGeNet	
+SLC6A4	C0041755	Adverse drug events and drug allergies	DisGeNet	
+CYP1A2	C0023891	Liver Cirrhosis, Alcoholic	DisGeNet	
+CYP2C19	C0023891	Liver Cirrhosis, Alcoholic	DisGeNet	
+GRIN2B	C0023891	Liver Cirrhosis, Alcoholic	DisGeNet	
+SLC6A3	C0023891	Liver Cirrhosis, Alcoholic	DisGeNet	
+SLC6A4	C0023891	Liver Cirrhosis, Alcoholic	DisGeNet	
+CYP2B6	C0877008	Enzyme inhibition disorder	DisGeNet	
+CYP2D6	C0877008	Enzyme inhibition disorder	DisGeNet	
+CYP3A4	C0877008	Enzyme inhibition disorder	DisGeNet	
+OPRM1	C0439857	 {Nicotine dependence, protection against}, 188890 (3)	DisGeNet	
+SLC6A3	C0439857	 {Nicotine dependence, protection against}, 188890 (3)	DisGeNet	
+SLC6A4	C0439857	 {Nicotine dependence, protection against}, 188890 (3)	DisGeNet	
+CYP3A4	C0011206	Cocaine delirium	DisGeNet	
+GRIN2B	C0011206	Cocaine delirium	DisGeNet	
+SLC6A3	C0011206	Cocaine delirium	DisGeNet	

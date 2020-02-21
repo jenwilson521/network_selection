@@ -1,0 +1,9 @@
+Gene	CUI	Source Databases	
+ALB	C0035457	Rhinitis, Allergic, Perennial	DisGeNet	
+CYP2C9	C0035457	Rhinitis, Allergic, Perennial	DisGeNet	
+ALB	C0027707	Tubulointerstitial nephritis	DisGeNet	
+CYP2C9	C0027707	Tubulointerstitial nephritis	DisGeNet	
+ALB	C0041755	Adverse drug events and drug allergies	DisGeNet	
+CYP2C9	C0041755	Adverse drug events and drug allergies	DisGeNet	
+CYP2C9	C0270736	Essential tremor	DisGeNet	
+GABBR1	C0270736	Essential tremor	DisGeNet	

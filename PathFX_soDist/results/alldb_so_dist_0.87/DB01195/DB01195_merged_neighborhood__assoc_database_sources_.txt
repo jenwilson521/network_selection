@@ -1,0 +1,13 @@
+Gene	CUI	Source Databases	
+CYP2D6	C1141890	Congenital long QT syndrome	DisGeNet	
+KCNH2	C1141890	Congenital long QT syndrome	DisGeNet	
+SCN5A	C1141890	Congenital long QT syndrome	DisGeNet	
+KCNH2	C0042510	Ventricular fibrillation	DisGeNet,HumPhenOnt	
+SCN4A	C0042510	Ventricular fibrillation	DisGeNet	
+SCN5A	C0042510	Ventricular fibrillation	DisGeNet,HumPhenOnt	
+CYP2D6	C0428977	Bradycardia	DisGeNet	
+KCNH2	C0428977	Bradycardia	HumPhenOnt	
+SCN5A	C0428977	Bradycardia	DisGeNet,HumPhenOnt	
+KCNH2	C1720983	Channelopathies	DisGeNet	
+SCN4A	C1720983	Channelopathies	DisGeNet	
+SCN5A	C1720983	Channelopathies	DisGeNet	

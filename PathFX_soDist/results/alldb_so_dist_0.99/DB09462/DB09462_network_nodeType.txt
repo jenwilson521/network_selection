@@ -1,0 +1,16 @@
+node_name	node_type	
+DB09462	drug	
+PAPSS1	drug_target	
+TGFBR2	drug_target	
+ISYNA1	drug_target	
+ARF1	drug_target	
+GSTP1	drug_target	
+CYP2E1	drug_target	
+HPGDS	drug_target	
+PPARD	drug_target	
+TRDMT1	drug_target	
+ADH1B	drug_target	
+PAEP	drug_target	
+NAGA	drug_target	
+ITPR1	drug_target	
+ALDH1A1	drug_target	

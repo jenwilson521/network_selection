@@ -1,0 +1,10 @@
+Gene	CUI	Source Databases	
+IMPDH2	C0027947	Neutropenia	DisGeNet	
+SLC28A3	C0027947	Neutropenia	DisGeNet	
+SLC29A1	C0027947	Neutropenia	DisGeNet	
+IMPDH2	C0023530	Leukopenia	DisGeNet	
+SLC28A3	C0023530	Leukopenia	DisGeNet	
+SLC29A1	C0023530	Leukopenia	DisGeNet	
+NT5C2	C0278488	Carcinoma breast stage IV	DisGeNet	
+SLC28A3	C0278488	Carcinoma breast stage IV	DisGeNet	
+SLC29A1	C0278488	Carcinoma breast stage IV	DisGeNet	

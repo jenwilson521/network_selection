@@ -1,0 +1,5 @@
+node1	node2	edge_score	
+DB01086	CES1	1.0	
+DB01086	ABCB1	1.0	
+DB01086	SCN10A	1.0	
+

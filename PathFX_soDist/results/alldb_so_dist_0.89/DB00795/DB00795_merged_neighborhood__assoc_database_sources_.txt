@@ -1,0 +1,61 @@
+Gene	CUI	Source Databases	
+ABCC2	C0376618	Endotoxemia	DisGeNet	
+ALOX5	C0376618	Endotoxemia	DisGeNet	
+PPARG	C0376618	Endotoxemia	DisGeNet	
+PTGS2	C0376618	Endotoxemia	DisGeNet	
+TBXAS1	C0376618	Endotoxemia	DisGeNet	
+ABCC2	C0041755	Adverse drug events and drug allergies	DisGeNet	
+ABCG2	C0041755	Adverse drug events and drug allergies	DisGeNet	
+PTGS2	C0041755	Adverse drug events and drug allergies	DisGeNet	
+SLCO1B1	C0041755	Adverse drug events and drug allergies	DisGeNet	
+ALOX5	C0009376	Colonic Polyps	DisGeNet	
+PPARG	C0009376	Colonic Polyps	DisGeNet	
+PTGS1	C0009376	Colonic Polyps	DisGeNet	
+PTGS2	C0009376	Colonic Polyps	DisGeNet	
+ALOX5	C0949059	Colorectal polyposis	DisGeNet	
+PPARG	C0949059	Colorectal polyposis	DisGeNet	
+PTGS1	C0949059	Colorectal polyposis	DisGeNet	
+PTGS2	C0949059	Colorectal polyposis	DisGeNet	
+ABCG2	C0035126	Reperfusion Injury	DisGeNet	
+ALOX5	C0035126	Reperfusion Injury	DisGeNet	
+PPARG	C0035126	Reperfusion Injury	DisGeNet	
+PTGS1	C0035126	Reperfusion Injury	DisGeNet	
+PTGS2	C0035126	Reperfusion Injury	DisGeNet	
+SLCO1B3	C0035126	Reperfusion Injury	DisGeNet	
+TBXAS1	C0035126	Reperfusion Injury	DisGeNet	
+ABCC2	C0013182	Drug Allergy	DisGeNet	
+PTGS1	C0013182	Drug Allergy	DisGeNet	
+SLCO1B1	C0013182	Drug Allergy	DisGeNet	
+TBXAS1	C0013182	Drug Allergy	DisGeNet	
+ABCC2	C0268318	Cholestasis of pregnancy	DisGeNet	
+ABCG2	C0268318	Cholestasis of pregnancy	DisGeNet	
+PPARG	C0268318	Cholestasis of pregnancy	DisGeNet	
+ABCC2	C1302401	Adenoma of large intestine	DisGeNet	
+ABCG2	C1302401	Adenoma of large intestine	DisGeNet	
+ALOX5	C1302401	Adenoma of large intestine	DisGeNet	
+PPARG	C1302401	Adenoma of large intestine	DisGeNet	
+PTGS1	C1302401	Adenoma of large intestine	DisGeNet	
+PTGS2	C1302401	Adenoma of large intestine	DisGeNet	
+ABCC2	C0020433	Hyperbilirubinemia	DisGeNet,HumPhenOnt	
+SLCO1B1	C0020433	Hyperbilirubinemia	DisGeNet,HumPhenOnt	
+SLCO1B3	C0020433	Hyperbilirubinemia	DisGeNet,HumPhenOnt	
+SLCO2B1	C0020433	Hyperbilirubinemia	DisGeNet	
+ABCC2	C0008312	Primary biliary cirrhosis	DisGeNet	
+ABCG2	C0008312	Primary biliary cirrhosis	DisGeNet	
+PPARG	C0008312	Primary biliary cirrhosis	DisGeNet	
+PTGS2	C0008312	Primary biliary cirrhosis	DisGeNet	
+SLCO1B1	C0008312	Primary biliary cirrhosis	DisGeNet	
+SLCO1B3	C0008312	Primary biliary cirrhosis	DisGeNet	
+PPARG	C0013395	Dyspepsia	DisGeNet	
+PTGS1	C0013395	Dyspepsia	DisGeNet	
+PTGS2	C0013395	Dyspepsia	DisGeNet	
+PPARG	C0030920	Peptic ulcer	DisGeNet	
+PTGS1	C0030920	Peptic ulcer	DisGeNet	
+PTGS2	C0030920	Peptic ulcer	DisGeNet	
+SLCO1B1	C0030920	Peptic ulcer	DisGeNet	
+ALOX5	C0751356	Idiopathic Inflammatory Myopathies	DisGeNet	
+PTGS1	C0751356	Idiopathic Inflammatory Myopathies	DisGeNet	
+PTGS2	C0751356	Idiopathic Inflammatory Myopathies	DisGeNet	
+PPARG	C0206726	gliosarcoma	DisGeNet	
+PTGS1	C0206726	gliosarcoma	DisGeNet	
+PTGS2	C0206726	gliosarcoma	DisGeNet	

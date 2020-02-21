@@ -1,0 +1,110 @@
+node_name	node_type	
+DB01579	drug	
+ADRA1A	drug_target	
+SLC6A2	drug_target	
+ADRA1B	drug_target	
+Methamphetamine abuse	phenotype	
+Hypotension	phenotype	
+Gastroparesis	phenotype	
+Nephrosclerosis	phenotype	
+Essential hypertension	phenotype	
+Tourette Syndrome	phenotype	
+Systemic arterial pressure	phenotype	
+Polycystic Ovary Syndrome	phenotype	
+Attention deficit hyperactivity disorder	phenotype	
+ Acrodysostosis 1, with or without hormone resistance, 101800 (3)	phenotype	
+Slow acetylator due to N-acetyltransferase enzyme variant	phenotype	
+Pseudohypoparathyroidism, type IB, 603233 (3)	phenotype	
+Familial hypercholesterolemia	phenotype	
+Dentinogenesis imperfecta	phenotype	
+Chronic sciatica	phenotype	
+Recurrent major depressive episodes	phenotype	
+Asthma, Occupational	phenotype	
+Malignant neoplasm of adrenal cortex	phenotype	
+Behavior Disorders	phenotype	
+Esophageal varix	phenotype	
+Disorders of parathyroid gland	phenotype	
+Urolithiasis	phenotype	
+genetic hypertension	phenotype	
+Echinococcosis	phenotype	
+Hereditary Sensory Autonomic Neuropathy, Type 1	phenotype	
+Epidermolysis bullosa simplex, Cockayne-Touraine type	phenotype	
+Palmar hyperkeratosis	phenotype	
+Bladder neck obstruction	phenotype	
+Proliferative retinopathy	phenotype	
+Orofacial cleft	phenotype	
+Verrucae	phenotype	
+Taste bitter	phenotype	
+Isolated somatotropin deficiency	phenotype	
+Substance Use Disorders	phenotype	
+Dentatorubral pallidoluysian atrophy	phenotype	
+Angiokeratoma	phenotype	
+Isolated growth hormone deficiency type 1B	phenotype	
+Congenital long QT syndrome	phenotype	
+Plantar hyperkeratosis	phenotype	
+Kidney Failure, Chronic	phenotype	
+Systemic aspergillosis	phenotype	
+Pericardial effusion	phenotype	
+Pulmonary Cystic Fibrosis	phenotype	
+Mumps	phenotype	
+Rhinitis, Allergic, Perennial	phenotype	
+Endemic Cretinism	phenotype	
+Hemangioblastoma	phenotype	
+Chronic schizophrenia	phenotype	
+Hypoparathyroidism - autosomal dominant	phenotype	
+Acute postoperative pain	phenotype	
+Acute disease of cardiovascular system	phenotype	
+Mesangiocapillary glomerulonephritis, type II	phenotype	
+Personality disorder	phenotype	
+Peripheral motor neuropathy	phenotype	
+Paroxysmal atrial fibrillation	phenotype	
+End Stage Liver Disease	phenotype	
+Cholestasis of pregnancy	phenotype	
+Abnormal albumin level	phenotype	
+Neurotoxicity Syndromes	phenotype	
+Bronchogenic Carcinoma	phenotype	
+Low back pain	phenotype	
+Nephrogenic diabetes insipidus, autosomal	phenotype	
+Coronary artery aneurysm	phenotype	
+Hyperlipoproteinemia	phenotype	
+Hyperlipoproteinemia Type IIa	phenotype	
+Disseminated intravascular coagulation	phenotype	
+Tubulointerstitial nephritis	phenotype	
+Single tumor	phenotype	
+Nephrotic Syndrome, Minimal Change	phenotype	
+Skin Diseases, Genetic	phenotype	
+Weight Loss Adverse Event	phenotype	
+Varicella zoster	phenotype	
+Drusen	phenotype	
+Fibromyalgia	phenotype	
+Increased antibody level in blood	phenotype	
+Insulin resistance syndrome	phenotype	
+Dyskinesia, Drug-Induced	phenotype	
+Abnormal autonomic nervous system physiology	phenotype	
+Nephrosis	phenotype	
+Spondylitis, Ankylosing	phenotype	
+Congestive heart failure	phenotype	
+Guillain-Barre syndrome, familial	phenotype	
+Primary hyperparathyroidism	phenotype	
+Drug Resistant Epilepsy	phenotype	
+Heart Failure	phenotype	
+Low Tension Glaucoma	phenotype	
+Cleft palate with cleft lip	phenotype	
+Memory Disorders	phenotype	
+Respiratory Tract Diseases	phenotype	
+Sicca Syndrome	phenotype	
+Hypoalbuminemia	phenotype	
+Neurologic, endocrine, and pancreatic disease, multisystem, infantile-onset	phenotype	
+Abnormality of the plantar skin of foot	phenotype	
+Inflammatory pain	phenotype	
+Cancer Cell Growth	phenotype	
+Mood Disorders	phenotype	
+Congenital hypothyroidism	phenotype	
+Adverse drug events and drug allergies	phenotype	
+Hypertension	phenotype	
+Hypogonadism with anosmia	phenotype	
+Periodontitis	phenotype	
+Carcinoma breast stage IV	phenotype	
+Hemolytic uremic syndrome	phenotype	
+Heroin Dependence	phenotype	
+Colorectal polyposis	phenotype	

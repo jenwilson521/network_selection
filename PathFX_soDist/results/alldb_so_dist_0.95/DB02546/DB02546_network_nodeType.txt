@@ -1,0 +1,112 @@
+node_name	node_type	
+DB02546	drug	
+HDAC1	drug_target	
+HDAC8	drug_target	
+HDAC3	drug_target	
+HDAC2	drug_target	
+HDAC6	drug_target	
+Hypoxia	phenotype	
+Rheumatoid arthritis	phenotype	
+Asthma	phenotype	
+Bipolar affective disorder	phenotype	
+Borderline Personality Disorder	phenotype	
+Breast-ovarian cancer, familial 1	phenotype	
+Bronchopulmonary Dysplasia	phenotype	
+Colon cancer	phenotype	
+Non-small cell lung carcinoma	phenotype	
+Carcinoma, Papillary	phenotype	
+Squamous cell carcinoma	phenotype	
+Malignant tumor of cervix	phenotype	
+Colorectal cancer 1	phenotype	
+Colorectal Neoplasms	phenotype	
+Diabetes Mellitus, Type 1	phenotype	
+Gallbladder disease 4	phenotype	
+Endometrial Neoplasms	phenotype	
+Endometriosis	phenotype	
+Intrauterine growth retardation	phenotype	
+Fibrosarcoma	phenotype	
+Glioma	phenotype	
+Heart Diseases	phenotype	
+Acute type B viral hepatitis	phenotype	
+Symptomatic human immunodeficiency virus infection	phenotype	
+Huntington's chorea	phenotype	
+Pulmonary hypertension, neonatal, susceptibility to	phenotype	
+Ischemia	phenotype	
+Leukemia, Lymphocytic, Chronic, B-Cell	phenotype	
+Chronic Lymphocytic Leukemia	phenotype	
+Acute lymphoid leukemia	phenotype	
+Acute myeloid leukemia	phenotype	
+Myeloid leukemia	phenotype	
+Chronic myeloid leukemia	phenotype	
+Acute promyelocytic leukemia	phenotype	
+Leukoencephalopathy, Progressive Multifocal	phenotype	
+Lupus Erythematosus, Systemic	phenotype	
+{Gastric cancer risk after H. pylori infection}, 137215 (3)	phenotype	
+Animal Mammary Neoplasms	phenotype	
+Medulloblastoma	phenotype	
+Melanoma	phenotype	
+Multiple Myeloma	phenotype	
+Amyotrophy involving the shoulder musculature	phenotype	
+Secondary hypertriglyceridemia	phenotype	
+Melanocytic nevus	phenotype	
+Osteoarthritis	phenotype	
+Neoplasm of the parathyroid gland	phenotype	
+polyps	phenotype	
+Precancerous Conditions	phenotype	
+Prostatic Neoplasms	phenotype	
+Retinoblastoma	phenotype	
+Schizophrenia	phenotype	
+Stomach Neoplasms	phenotype	
+Stroke	phenotype	
+Teratoma	phenotype	
+Tobacco Use Disorder	phenotype	
+Unipolar Depression	phenotype	
+Cutaneous T-cell lymphoma	phenotype	
+Adenocarcinoma of lung	phenotype	
+Malignant tumor of testis	phenotype	
+Right ventricular hypertrophy	phenotype	
+Tumor Progression	phenotype	
+Liposarcoma, Dedifferentiated	phenotype	
+Stromal sarcoma	phenotype	
+Embryonal Carcinoma	phenotype	
+Combined Hepatocellular Carcinoma and Cholangiocarcinoma	phenotype	
+Memory impairment	phenotype	
+Gallbladder Carcinoma	phenotype	
+Pancreatic Carcinoma	phenotype	
+Hereditary pancreatitis	phenotype	
+Malignant neoplasm of lung	phenotype	
+Metastatic melanoma	phenotype	
+Pancreatic adenocarcinoma	phenotype	
+Carcinoma of cervix	phenotype	
+Hepatic cancer metastatic	phenotype	
+Intrahepatic Cholangiocarcinoma	phenotype	
+Malignant neoplasm of pancreas	phenotype	
+Malignant tumor of prostate	phenotype	
+Recurrent tumor	phenotype	
+Hepatitis C, Chronic	phenotype	
+Carcinogenesis	phenotype	
+Prostate carcinoma	phenotype	
+Ovarian epithelial cancer	phenotype	
+Breast carcinoma	phenotype	
+Lung cancer	phenotype	
+Carcinoma of colon	phenotype	
+Stomach cancer	phenotype	
+Neuroblastoma	phenotype	
+Invasive breast carcinoma	phenotype	
+Testicular malignant germ cell tumor	phenotype	
+Metastatic Prostate Carcinoma	phenotype	
+BREAST-OVARIAN CANCER, FAMILIAL, SUSCEPTIBILITY TO, 4	phenotype	
+Squamous cell carcinoma of the head and neck	phenotype	
+Major depressive disorder	phenotype	
+Pancreatic Ductal Adenocarcinoma	phenotype	
+Hepatocarcinogenesis	phenotype	
+Cancer Cell Growth	phenotype	
+Tumor Angiogenesis	phenotype	
+Xenograft Model	phenotype	
+Colorectal cancer	phenotype	
+Amyotrophic lateral sclerosis type 1	phenotype	
+Precursor Cell Lymphoblastic Leukemia-Lymphoma	phenotype	
+Hepatocellular carcinoma	phenotype	
+Allergic rhinitis	phenotype	
+Hypergranular promyelocytic leukemia	phenotype	
+Secondary malignant neoplasm of pancreas	phenotype	

@@ -1,0 +1,17 @@
+Gene	CUI	Source Databases	
+NR1I2	C1397307	Cardiac fibrosis	DisGeNet	
+SCN5A	C1397307	Cardiac fibrosis	DisGeNet	
+ALB	C0034063	Pulmonary edema	DisGeNet	
+NR1I2	C0034063	Pulmonary edema	DisGeNet	
+NR1I2	C0432306	Ichthyosis bullosa of Siemens	DisGeNet	
+SCN5A	C0432306	Ichthyosis bullosa of Siemens	DisGeNet	
+ALB	C1318485	Liver regeneration disorder	DisGeNet	
+NR1I2	C1318485	Liver regeneration disorder	DisGeNet	
+ALB	C0278488	Carcinoma breast stage IV	DisGeNet	
+NR1I2	C0278488	Carcinoma breast stage IV	DisGeNet	
+SCN5A	C0278488	Carcinoma breast stage IV	DisGeNet	
+SCN5A	C0035828	Romano-Ward syndrome	ClinVar,DisGeNet	
+ALB	C4021524	Abnormality of adipose tissue	HumPhenOnt	
+SCN5A	C4021524	Abnormality of adipose tissue	HumPhenOnt	
+ALB	C0346402	Malignant neoplasm of adrenal cortex	DisGeNet	
+SCN5A	C1631597	VENTRICULAR TACHYCARDIA, CATECHOLAMINERGIC POLYMORPHIC, 1 (disorder)	DisGeNet	

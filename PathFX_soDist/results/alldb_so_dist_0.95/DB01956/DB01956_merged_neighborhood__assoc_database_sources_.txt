@@ -1,0 +1,29 @@
+Gene	CUI	Source Databases	
+GRIN2B	C0032051	Placental Insufficiency	DisGeNet	
+GRIN2B	C0795864	Smith-Magenis syndrome	DisGeNet	
+GRIN2B	C0236663	Alcohol withdrawal syndrome	DisGeNet	
+GRIN2B	C0011206	Cocaine delirium	DisGeNet	
+GRIN2B	C0031212	Personality disorder	DisGeNet	
+GRIN2B	C0524662	Opiate Addiction	DisGeNet	
+GRIN2B	C0014547	Epilepsy, focal, with speech disorder and with or without mental retardation	DisGeNet	
+GRIN2B	C0750974	Brain Tumor, Primary	DisGeNet	
+GRIN2B	C0008074	Child Development Disorders, Pervasive	DisGeNet	
+GRIN2B	C0431380	Cortical dysplasia, complex, with other brain malformations 3	DisGeNet	
+GRIN2B	C0002622	Memory Loss	DisGeNet	
+GRIN2B	C1854882	Absent speech	HumPhenOnt	
+GRIN2B	C0686347	Tardive Dyskinesia	DisGeNet	
+GRIN2B	C0752308	Hypoxia-Ischemia, Brain	DisGeNet	
+GRIN2B	C0029421	Osteochondritis dissecans	DisGeNet	
+GRIN2B	C1842981	NEUROTICISM	DisGeNet	
+GRIN2B	C1955869	Malformation of cortical development	DisGeNet	
+GRIN2B	C0152115	Orofacial dyskinesia	DisGeNet	
+GRIN2B	C0036337	Schizoaffective Disorder	DisGeNet	
+GRIN2B	C0028768	Obsessive-compulsive disorder	DisGeNet	
+GRIN2B	C0027796	Neuralgia	DisGeNet	
+GRIN2B	C0037769	Hypsarrhythmia	DisGeNet	
+GRIN2B	C0476254	Dyslexia 1	DisGeNet	
+GRIN2B	C0543888	Epileptic encephalopathy, early infantile, 29	HumPhenOnt	
+GRIN2B	C0085762	Alcohol abuse	DisGeNet	
+GRIN2B	C0023891	Liver Cirrhosis, Alcoholic	DisGeNet	
+GRIN2B	C0003125	Anorexia nervosa 1	DisGeNet	
+GRIN2B	C0020649	Hypotension	DisGeNet	

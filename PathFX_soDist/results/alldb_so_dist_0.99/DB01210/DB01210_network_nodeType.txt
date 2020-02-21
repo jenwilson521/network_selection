@@ -1,0 +1,5 @@
+node_name	node_type	
+DB01210	drug	
+ADRB1	drug_target	
+ADRB2	drug_target	
+CYP2D6	drug_target	

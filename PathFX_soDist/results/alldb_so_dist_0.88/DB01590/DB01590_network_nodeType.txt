@@ -1,0 +1,7 @@
+node_name	node_type	
+DB01590	drug	
+SLCO1B1	drug_target	
+CYP3A4	drug_target	
+MTOR	drug_target	
+SLCO1B3	drug_target	
+SLCO1A2	drug_target	

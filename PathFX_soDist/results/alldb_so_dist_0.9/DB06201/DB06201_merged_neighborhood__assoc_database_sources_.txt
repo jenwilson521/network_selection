@@ -1,0 +1,20 @@
+Gene	CUI	Source Databases	
+CES1	C1609538	Latent Tuberculosis	DisGeNet	
+CYP2E1	C1609538	Latent Tuberculosis	DisGeNet	
+CYP2E1	C0206720	Squamous Cell Neoplasms	DisGeNet	
+CYP3A4	C0206720	Squamous Cell Neoplasms	DisGeNet	
+ALB	C0745744	End Stage Liver Disease	DisGeNet	
+CYP2E1	C0745744	End Stage Liver Disease	DisGeNet	
+CYP2E1	C0029445	Bone necrosis	DisGeNet	
+CYP3A4	C0029445	Bone necrosis	DisGeNet	
+ALB	C0341439	Chronic liver disease	DisGeNet	
+CYP2E1	C0341439	Chronic liver disease	DisGeNet	
+CYP3A4	C0341439	Chronic liver disease	DisGeNet	
+ALB	C0035242	Respiratory Tract Diseases	DisGeNet	
+CYP2E1	C0035242	Respiratory Tract Diseases	DisGeNet	
+ALB	C0041755	Adverse drug events and drug allergies	DisGeNet	
+CYP2E1	C0041755	Adverse drug events and drug allergies	DisGeNet	
+CYP2E1	C0002875	Cooley's anemia	DisGeNet	
+CYP3A4	C0002875	Cooley's anemia	DisGeNet	
+ALB	C0028797	Occupational Diseases	DisGeNet	
+CYP2E1	C0028797	Occupational Diseases	DisGeNet	

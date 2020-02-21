@@ -1,0 +1,123 @@
+Gene	CUI	Source Databases	
+ALB	C0730345	Microalbuminuria	DisGeNet	
+PPARA	C0730345	Microalbuminuria	DisGeNet	
+TLR4	C0730345	Microalbuminuria	DisGeNet	
+ALB	C0206624	Hepatoblastoma	DisGeNet	
+HNF4A	C0206624	Hepatoblastoma	DisGeNet	
+PPARA	C0206624	Hepatoblastoma	DisGeNet	
+TLR4	C0206624	Hepatoblastoma	DisGeNet	
+ALB	C0020474	Hyperlipidemia, familial combined	DisGeNet	
+HNF4A	C0020474	Hyperlipidemia, familial combined	DisGeNet	
+PPARA	C0020474	Hyperlipidemia, familial combined	DisGeNet	
+ALB	C0342276	Maturity-onset diabetes of the young, type 11	DisGeNet	
+HNF4A	C0342276	Maturity-onset diabetes of the young, type 11	ClinVar,DisGeNet,HumPhenOnt	
+PPARA	C0342276	Maturity-onset diabetes of the young, type 11	DisGeNet	
+ALB	C0022660	Acute kidney injury	DisGeNet	
+HNF4A	C0022660	Acute kidney injury	HumPhenOnt	
+PPARA	C0022660	Acute kidney injury	DisGeNet	
+TLR4	C0022660	Acute kidney injury	DisGeNet	
+ALB	C0745744	End Stage Liver Disease	DisGeNet	
+TLR4	C0745744	End Stage Liver Disease	DisGeNet	
+ALB	C0162557	Acute hepatic failure	DisGeNet	
+PPARA	C0162557	Acute hepatic failure	DisGeNet	
+TLR4	C0162557	Acute hepatic failure	DisGeNet	
+ALB	C0020476	Hyperlipoproteinemia	DisGeNet	
+PPARA	C0020476	Hyperlipoproteinemia	DisGeNet	
+ALB	C3714619	Insulin resistance syndrome	DisGeNet	
+PPARA	C3714619	Insulin resistance syndrome	DisGeNet	
+ALB	C0268731	Glomerulopathy	DisGeNet	
+HNF4A	C0268731	Glomerulopathy	HumPhenOnt	
+TLR4	C0268731	Glomerulopathy	HumPhenOnt	
+ALB	C0023787	Lipoatrophy	HumPhenOnt	
+PPARA	C0023787	Lipoatrophy	DisGeNet	
+TLR4	C0023787	Lipoatrophy	DisGeNet	
+ALB	C0018378	Guillain-Barre syndrome, familial	DisGeNet	
+TLR4	C0018378	Guillain-Barre syndrome, familial	DisGeNet	
+ALB	C0006625	Cachexia	DisGeNet	
+HNF4A	C0006625	Cachexia	DisGeNet	
+TLR4	C0006625	Cachexia	DisGeNet	
+ALB	C0005779	Bleeding disorder, platelet-type, 21	DisGeNet	
+HNF4A	C0005779	Bleeding disorder, platelet-type, 21	DisGeNet	
+TLR4	C0005779	Bleeding disorder, platelet-type, 21	DisGeNet	
+ALB	C0041755	Adverse drug events and drug allergies	DisGeNet	
+PPARA	C0041755	Adverse drug events and drug allergies	DisGeNet	
+ALB	C0019061	Hemolytic uremic syndrome	DisGeNet	
+TLR4	C0019061	Hemolytic uremic syndrome	DisGeNet	
+ALB	C0027055	Myocardial Reperfusion Injury	DisGeNet	
+PPARA	C0027055	Myocardial Reperfusion Injury	DisGeNet	
+TLR4	C0027055	Myocardial Reperfusion Injury	DisGeNet	
+ALB	C0242488	Acute Lung Injury	DisGeNet	
+TLR4	C0242488	Acute Lung Injury	DisGeNet	
+ALB	C0033687	Proteinuria, low molecular weight, with hypercalciuria and nephrocalcinosis	DisGeNet	
+HNF4A	C0033687	Proteinuria, low molecular weight, with hypercalciuria and nephrocalcinosis	HumPhenOnt	
+PPARA	C0033687	Proteinuria, low molecular weight, with hypercalciuria and nephrocalcinosis	DisGeNet	
+ALB	C0085207	Maternal diabetes	DisGeNet	
+HNF4A	C0085207	Maternal diabetes	DisGeNet	
+PPARA	C0085207	Maternal diabetes	DisGeNet	
+ALB	C0015695	Hepatic steatosis	DisGeNet	
+HNF4A	C0015695	Hepatic steatosis	HumPhenOnt	
+PPARA	C0015695	Hepatic steatosis	DisGeNet	
+TLR4	C0015695	Hepatic steatosis	DisGeNet	
+ALB	C0020443	Hypercholesterolemia, autosomal dominant, type B	DisGeNet	
+PPARA	C0020443	Hypercholesterolemia, autosomal dominant, type B	DisGeNet	
+TLR4	C0020443	Hypercholesterolemia, autosomal dominant, type B	DisGeNet	
+HNF4A	C0497406	Overweight	DisGeNet	
+PPARA	C0497406	Overweight	DisGeNet	
+TLR4	C0497406	Overweight	DisGeNet	
+HNF4A	C0242339	Dyslipidemias	DisGeNet	
+PPARA	C0242339	Dyslipidemias	DisGeNet	
+TLR4	C0242339	Dyslipidemias	DisGeNet	
+PPARA	C0242231	Coronary artery stenosis	DisGeNet	
+TLR4	C0242231	Coronary artery stenosis	DisGeNet	
+ALB	C0020456	Hyperglycemia	DisGeNet	
+HNF4A	C0020456	Hyperglycemia	DisGeNet	
+PPARA	C0020456	Hyperglycemia	DisGeNet	
+TLR4	C0020456	Hyperglycemia	DisGeNet	
+ALB	C1512409	Hepatocarcinogenesis	DisGeNet	
+HNF4A	C1512409	Hepatocarcinogenesis	DisGeNet	
+PPARA	C1512409	Hepatocarcinogenesis	DisGeNet	
+TLR4	C1512409	Hepatocarcinogenesis	DisGeNet	
+HNF4A	C0947622	Cholecystolithiasis	DisGeNet	
+TLR4	C0947622	Cholecystolithiasis	DisGeNet	
+ALB	C1318485	Liver regeneration disorder	DisGeNet	
+PPARA	C1318485	Liver regeneration disorder	DisGeNet	
+PPARA	C0023290	Leishmaniasis, Visceral	DisGeNet	
+TLR4	C0023290	Leishmaniasis, Visceral	DisGeNet	
+ALB	C0011882	Type 1 diabetic neuropathy	DisGeNet	
+TLR4	C0011882	Type 1 diabetic neuropathy	DisGeNet	
+PPARA	C0339143	Thyroid associated opthalmopathies	DisGeNet	
+TLR4	C0339143	Thyroid associated opthalmopathies	DisGeNet	
+ALB	C0221287	Combined Hepatocellular Carcinoma and Cholangiocarcinoma	DisGeNet	
+HNF4A	C0221287	Combined Hepatocellular Carcinoma and Cholangiocarcinoma	DisGeNet	
+PPARA	C0221287	Combined Hepatocellular Carcinoma and Cholangiocarcinoma	DisGeNet	
+TLR4	C0221287	Combined Hepatocellular Carcinoma and Cholangiocarcinoma	DisGeNet	
+PPARA	C0699949	airway disease	DisGeNet	
+TLR4	C0699949	airway disease	DisGeNet	
+ALB	C0008312	Primary biliary cirrhosis	DisGeNet	
+HNF4A	C0008312	Primary biliary cirrhosis	DisGeNet	
+TLR4	C0008312	Primary biliary cirrhosis	DisGeNet	
+ALB	C0442874	Neuropathy ataxia retinitis pigmentosa syndrome	DisGeNet	
+HNF4A	C0442874	Neuropathy ataxia retinitis pigmentosa syndrome	DisGeNet	
+TLR4	C0442874	Neuropathy ataxia retinitis pigmentosa syndrome	DisGeNet	
+ALB	C0017658	Glomerulonephritis, Membranous	DisGeNet	
+PPARA	C0017658	Glomerulonephritis, Membranous	DisGeNet	
+TLR4	C0017658	Glomerulonephritis, Membranous	DisGeNet	
+ALB	C0018995	Hemochromatosis	DisGeNet	
+TLR4	C0018995	Hemochromatosis	DisGeNet	
+ALB	C0524909	Hepatitis B, Chronic	DisGeNet	
+HNF4A	C0524909	Hepatitis B, Chronic	DisGeNet	
+TLR4	C0524909	Hepatitis B, Chronic	DisGeNet	
+PPARA	C0023896	Alcoholic Liver Diseases	DisGeNet	
+TLR4	C0023896	Alcoholic Liver Diseases	DisGeNet	
+ALB	C0019069	Hereditary factor VIII deficiency disease	DisGeNet	
+HNF4A	C0019069	Hereditary factor VIII deficiency disease	DisGeNet	
+HNF4A	C4023048	Abnormality of pancreas physiology	HumPhenOnt	
+TLR4	C4023048	Abnormality of pancreas physiology	HumPhenOnt	
+HNF4A	C4025889	Abnormality of the glomerulus	HumPhenOnt	
+TLR4	C4025889	Abnormality of the glomerulus	HumPhenOnt	
+ALB	C0271650	Glucose intolerance	DisGeNet	
+HNF4A	C0271650	Glucose intolerance	DisGeNet	
+PPARA	C0271650	Glucose intolerance	DisGeNet	
+ALB	C0035126	Reperfusion Injury	DisGeNet	
+PPARA	C0035126	Reperfusion Injury	DisGeNet	
+TLR4	C0035126	Reperfusion Injury	DisGeNet	

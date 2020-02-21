@@ -1,0 +1,103 @@
+node_name	node_type	
+DB00385	drug	
+TOP2A	drug_target	
+ Adenocarcinoma, ovarian, somatic, 167000 (3)	phenotype	
+Neoplasm of the adrenal cortex	phenotype	
+Ataxia-telangiectasia syndrome	phenotype	
+Malignant tumor of urinary bladder	phenotype	
+Urinary Bladder Neoplasms	phenotype	
+Breast-ovarian cancer, familial 1	phenotype	
+Non-small cell lung carcinoma	phenotype	
+Squamous cell carcinoma	phenotype	
+Uterine Cervical Neoplasms	phenotype	
+Neoplasm of the colon	phenotype	
+Colorectal cancer 1	phenotype	
+Colorectal Neoplasms	phenotype	
+Crohn Disease	phenotype	
+Adenoid Cystic Carcinoma	phenotype	
+Diabetes mellitus type 2	phenotype	
+Neoplasm of the gallbladder	phenotype	
+Glioblastoma	phenotype	
+Glioma	phenotype	
+IgA nephropathy, susceptibility to, 3	phenotype	
+Acute type B viral hepatitis	phenotype	
+Hodgkin Disease	phenotype	
+Leukemia, Lymphocytic, Chronic, B-Cell	phenotype	
+Chronic Lymphocytic Leukemia	phenotype	
+Acute lymphoid leukemia	phenotype	
+Leukemia, Lymphocytic, Acute, L1	phenotype	
+Acute myeloid leukemia	phenotype	
+Liposarcoma	phenotype	
+Lymphoma, Large B-Cell, Diffuse	phenotype	
+{Gastric cancer risk after H. pylori infection}, 137215 (3)	phenotype	
+Animal Mammary Neoplasms	phenotype	
+Melanoma	phenotype	
+Meningioma	phenotype	
+Monosomy	phenotype	
+Mycoplasma Infections	phenotype	
+Secondary hypertriglyceridemia	phenotype	
+Neoplasms	phenotype	
+Wilms Tumor	phenotype	
+Neoplasm of the nervous system	phenotype	
+Neurofibromas	phenotype	
+Pituitary Neoplasms	phenotype	
+Polycystic Ovary Syndrome	phenotype	
+Prostatic Neoplasms	phenotype	
+Salivary gland neoplasm	phenotype	
+Stomach Neoplasms	phenotype	
+Tuberculosis	phenotype	
+Abnormality of the genitourinary system	phenotype	
+Germinal Center B-Cell-Like Diffuse Large B-Cell Lymphoma	phenotype	
+Acute leukemia	phenotype	
+Benign neoplasm of other endocrine glands	phenotype	
+Small cell lung cancer	phenotype	
+Cutaneous malignant melanoma 3	phenotype	
+Agenesis of corpus callosum	phenotype	
+Lichen Planus, Oral	phenotype	
+Adrenocortical carcinoma	phenotype	
+Neuroepithelial neoplasm	phenotype	
+Nerve Sheath Tumors	phenotype	
+Pancreatic Carcinoma	phenotype	
+Malignant neoplasm of lung	phenotype	
+Disease Progression	phenotype	
+Carcinoma breast stage IV	phenotype	
+Breast cancer recurrent	phenotype	
+Gastric Adenocarcinoma	phenotype	
+Laryngeal Squamous Cell Carcinoma	phenotype	
+Pancreatic adenocarcinoma	phenotype	
+High-Grade Squamous Intraepithelial Lesions	phenotype	
+Malignant lymphoma, lymphocytic, intermediate differentiation, diffuse	phenotype	
+Chronic liver disease	phenotype	
+Malignant neoplasm of pancreas	phenotype	
+Malignant tumor of prostate	phenotype	
+Hematological neoplasm	phenotype	
+Abnormality of the nervous system	phenotype	
+Carcinogenesis	phenotype	
+Prostate carcinoma	phenotype	
+Ovarian epithelial cancer	phenotype	
+Breast carcinoma	phenotype	
+Lung cancer	phenotype	
+Stomach cancer	phenotype	
+Bladder carcinoma	phenotype	
+Neuroblastoma	phenotype	
+Poorly differentiated carcinoma	phenotype	
+Malignant peripheral nerve sheath tumor with rhabdomyoblastic differentiation	phenotype	
+Invasive breast carcinoma	phenotype	
+Advanced cancer	phenotype	
+Ovarian Neoplasms	phenotype	
+Invasive Ductal Breast Carcinoma	phenotype	
+BREAST-OVARIAN CANCER, FAMILIAL, SUSCEPTIBILITY TO, 4	phenotype	
+Colorectal cancer	phenotype	
+Benign Prostatic Hyperplasia	phenotype	
+Glucocorticoid resistance, generalized	phenotype	
+Precursor Cell Lymphoblastic Leukemia-Lymphoma	phenotype	
+Hepatocellular carcinoma	phenotype	
+Nasopharyngeal carcinoma, susceptibility to, 3	phenotype	
+Early-Stage Breast Carcinoma	phenotype	
+Neoplasm of the thymus	phenotype	
+Abnormality of metabolism/homeostasis	phenotype	
+Abnormality of the urinary system	phenotype	
+Abnormality of nervous system morphology	phenotype	
+Neoplasm by anatomical site	phenotype	
+Abnormality of the urinary system physiology	phenotype	
+Abnormality of urine homeostasis	phenotype	

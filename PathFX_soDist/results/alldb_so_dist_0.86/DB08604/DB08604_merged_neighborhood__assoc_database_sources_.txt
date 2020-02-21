@@ -1,0 +1,14 @@
+Gene	CUI	Source Databases	
+NR1I2	C0860204	Cholestatic liver disease	DisGeNet	
+NR1I3	C0860204	Cholestatic liver disease	DisGeNet	
+NR1I2	C0268318	Cholestasis of pregnancy	DisGeNet	
+PPARG	C0268318	Cholestasis of pregnancy	DisGeNet	
+NR1I2	C0001144	Acne Vulgaris	DisGeNet	
+PPARG	C0001144	Acne Vulgaris	DisGeNet	
+NR1I2	C0008372	Intrahepatic cholestasis	DisGeNet	
+NR1I3	C0008372	Intrahepatic cholestasis	DisGeNet	
+NR1I2	C0154251	Disorders of lipoid metabolism	DisGeNet	
+NR1I3	C0154251	Disorders of lipoid metabolism	DisGeNet	
+NR1I2	C0860207	Drug-Induced Liver Injury	DisGeNet	
+NR1I3	C0860207	Drug-Induced Liver Injury	DisGeNet	
+PPARG	C0860207	Drug-Induced Liver Injury	DisGeNet	

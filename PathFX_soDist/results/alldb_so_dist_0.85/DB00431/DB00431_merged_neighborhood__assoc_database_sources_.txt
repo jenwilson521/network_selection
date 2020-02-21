@@ -1,0 +1,19 @@
+Gene	CUI	Source Databases	
+ESR1	C0268318	Cholestasis of pregnancy	DisGeNet	
+NR1I2	C0268318	Cholestasis of pregnancy	DisGeNet	
+ESR1	C0235653	Malignant neoplasm of female breast	DisGeNet	
+NR1I2	C0235653	Malignant neoplasm of female breast	DisGeNet	
+ESR1	C0007104	Female Breast Carcinoma	DisGeNet	
+NR1I2	C0007104	Female Breast Carcinoma	DisGeNet	
+ESR1	C0021361	Female infertility	DisGeNet	
+NR1I2	C0021361	Female infertility	DisGeNet	
+ESR1	C0702166	Acne	HumPhenOnt	
+NR1I2	C0702166	Acne	DisGeNet	
+ESR1	C1519689	Tumor Promotion	DisGeNet	
+NR1I2	C1519689	Tumor Promotion	DisGeNet	
+ESR1	C0151942	Arterial thrombosis	DisGeNet	
+NR1I2	C0151942	Arterial thrombosis	DisGeNet	
+ESR1	C0029458	Postmenopausal osteoporosis	DisGeNet	
+NR1I2	C0029458	Postmenopausal osteoporosis	DisGeNet	
+ESR1	C0600452	Hepatopulmonary Syndrome	DisGeNet	
+NR1I2	C0600452	Hepatopulmonary Syndrome	DisGeNet	

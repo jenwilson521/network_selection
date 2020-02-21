@@ -1,0 +1,84 @@
+node_name	node_type	
+DB08815	drug	
+DRD2	drug_target	
+ADRA2A	drug_target	
+ADRA2C	drug_target	
+HTR7	drug_target	
+HTR2A	drug_target	
+CYP3A4	drug_target	
+HTR1A	drug_target	
+Chronic sciatica	phenotype	
+Acute disease of cardiovascular system	phenotype	
+Low back pain	phenotype	
+Bulimia	phenotype	
+Psychoses, Substance-Induced	phenotype	
+Weight Gain Adverse Event	phenotype	
+Alcohol abuse	phenotype	
+As If Personality	phenotype	
+Heroin Dependence	phenotype	
+Substance Use Disorders	phenotype	
+Antisocial Personality Disorder	phenotype	
+Chronic schizophrenia	phenotype	
+Personality disorder	phenotype	
+Anxiety Disorders	phenotype	
+Marijuana Abuse	phenotype	
+Chronic Fatigue Syndrome	phenotype	
+Dyskinesia, Drug-Induced	phenotype	
+Panic disorder syndrome 1 (2)	phenotype	
+Memory Disorders	phenotype	
+Cocaine Dependence	phenotype	
+Mood Disorders	phenotype	
+Depressive Symptoms	phenotype	
+Migraine Disorders	phenotype	
+Tourette Syndrome	phenotype	
+Pharyngeal Neoplasms	phenotype	
+Tardive Dyskinesia	phenotype	
+Bipolar I disorder	phenotype	
+NEUROTICISM	phenotype	
+MAJOR AFFECTIVE DISORDER 4	phenotype	
+MAJOR AFFECTIVE DISORDER 5	phenotype	
+MAJOR AFFECTIVE DISORDER 6	phenotype	
+Major affective disorder 7	phenotype	
+MAJOR AFFECTIVE DISORDER 8	phenotype	
+MAJOR AFFECTIVE DISORDER 9	phenotype	
+Orofacial dyskinesia	phenotype	
+Behavior Disorders	phenotype	
+Depressive Disorder	phenotype	
+Substance Withdrawal Syndrome	phenotype	
+Irritable bowel syndrome with diarrhea	phenotype	
+{Unipolar depression, susceptibility to}, 608516 (3)	phenotype	
+Unipolar Depression	phenotype	
+Generalized anxiety disorder	phenotype	
+Polyphagia	phenotype	
+Hyperalgesia	phenotype	
+Seasonal Affective Disorder	phenotype	
+ {Nicotine dependence, protection against}, 188890 (3)	phenotype	
+Mental disorders	phenotype	
+Neuralgia	phenotype	
+Sleep Wake Disorders	phenotype	
+Cocaine delirium	phenotype	
+Dyskinesia, seizures, and intellectual developmental disorder	phenotype	
+Acute postoperative pain	phenotype	
+Psychiatric symptom	phenotype	
+alcohol use disorder	phenotype	
+Neurobehavioral Manifestations	phenotype	
+Bulimia nervosa 1	phenotype	
+Neoplasm of the larynx	phenotype	
+Opiate Addiction	phenotype	
+Learning Disabilities	phenotype	
+Anorexia nervosa 1	phenotype	
+Delusions	phenotype	
+Insomnia	phenotype	
+Major depressive disorder	phenotype	
+Nicotine Dependence	phenotype	
+Antisocial/borderline personality disorder	phenotype	
+Overweight	phenotype	
+Increased body weight	phenotype	
+Drug usage	phenotype	
+Alcohol dependence	phenotype	
+Cocaine-Related Disorders	phenotype	
+Learning Disorders	phenotype	
+Polydipsia	phenotype	
+Attention deficit hyperactivity disorder	phenotype	
+Pain insensitivity	phenotype	
+Bradycardia	phenotype	

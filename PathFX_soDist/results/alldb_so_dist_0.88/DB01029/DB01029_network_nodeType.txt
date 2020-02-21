@@ -1,0 +1,14 @@
+node_name	node_type	
+DB01029	drug	
+CYP2C9	drug_target	
+CYP2C8	drug_target	
+PTGS1	drug_target	
+JUN	drug_target	
+CYP3A4	drug_target	
+AGTR1	drug_target	
+UGT1A3	drug_target	
+Old myocardial infarction	phenotype	
+Drug Allergy	phenotype	
+Peptic Ulcer Hemorrhage	phenotype	
+Peptic ulcer	phenotype	
+Pharyngeal Neoplasms	phenotype	

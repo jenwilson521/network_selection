@@ -1,0 +1,30 @@
+node_name	node_type	
+DB00181	drug	
+GABBR1	drug_target	
+GABBR2	drug_target	
+Sclerosis	phenotype	
+Juvenile myoclonic epilepsy	phenotype	
+Hippocampal sclerosis	phenotype	
+Idiopathic generalized epilepsy	phenotype	
+Essential tremor	phenotype	
+Osteochondritis dissecans	phenotype	
+Sleep apnea	phenotype	
+Eating disorder	phenotype	
+Absence seizures	phenotype	
+Nasopharyngeal Neoplasms	phenotype	
+Obsessive-compulsive disorder	phenotype	
+Neuralgia	phenotype	
+Dyslexia 1	phenotype	
+Nicotine Dependence	phenotype	
+Cocaine-Related Disorders	phenotype	
+Obstructive sleep apnea	phenotype	
+Encephalitis	phenotype	
+Epilepsy, Temporal Lobe	phenotype	
+Hyperactivity	phenotype	
+Memory impairment	phenotype	
+Gastroesophageal reflux	phenotype	
+Narcolepsy	phenotype	
+Tremor, hereditary essential, 5	phenotype	
+Unipolar Depression	phenotype	
+Mental disorders	phenotype	
+Major depressive disorder	phenotype	

@@ -1,0 +1,25 @@
+node_name	node_type	
+DB06774	drug	
+PTGS2	drug_target	
+CYP1A2	drug_target	
+DBH	drug_target	
+PHB2	drug_target	
+MPO	drug_target	
+MAOA	drug_target	
+CYP2E1	drug_target	
+GLUL	drug_target	
+BCHE	drug_target	
+CYP3A4	drug_target	
+TRPV1	drug_target	
+Adverse drug events and drug allergies	phenotype	
+Squamous Cell Neoplasms	phenotype	
+Enzyme inhibition disorder	phenotype	
+Chronic schizophrenia	phenotype	
+Neoplasm of the larynx	phenotype	
+Tardive Dyskinesia	phenotype	
+Chronic liver disease	phenotype	
+Orofacial dyskinesia	phenotype	
+Pleural Neoplasms	phenotype	
+Antisocial Personality Disorder	phenotype	
+Acute postoperative pain	phenotype	
+Genomic Instability	phenotype	

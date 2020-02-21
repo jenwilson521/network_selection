@@ -1,0 +1,80 @@
+Gene	CUI	Source Databases	
+C5	C0002171	Alopecia Areata	DisGeNet	
+C5	C0003864	Arthritis, Rheumatoid	DisGeNet	
+C5	C0003873	Rheumatoid arthritis	DisGeNet	
+C5	C0004096	Asthma	DisGeNet	
+C5	C0004153	Atherosclerosis	DisGeNet	
+C5	C0004364	Autoimmune disease 1	DisGeNet	
+C5	C0006114	Cerebral edema	DisGeNet	
+C5	C0006142	Breast-ovarian cancer, familial 1	DisGeNet	
+C5	C0006274	Bronchiolitis, Viral	DisGeNet	
+C5	C0007682	CNS disorder	DisGeNet	
+C5	C0007684	CNS infection	HumPhenOnt	
+C5	C0007786	Brain Ischemia	DisGeNet	
+C5	C0008149	Chlamydia Infections	DisGeNet	
+C5	C0009319	Colitis, Ulcerative	DisGeNet	
+C5	C0011065	Death, Sudden, Cardiac	DisGeNet	
+C5	C0011854	Diabetes mellitus type 1	DisGeNet	
+C5	C0011860	Diabetes mellitus type 2	DisGeNet	
+C5	C0011991	Diarrhea 8, secretory sodium, congenital	HumPhenOnt	
+C5	C0013595	Eczema	HumPhenOnt	
+C5	C0014072	Experimental Autoimmune Encephalomyelitis	DisGeNet	
+C5	C0014175	Endometriosis	DisGeNet	
+C5	C0014743	Erythema nodosum	DisGeNet	
+C5	C0016059	Fibrosis	DisGeNet	
+C5	C0016412	Folic Acid Deficiency	DisGeNet	
+C5	C0017661	IgA nephropathy, susceptibility to, 3	DisGeNet	
+C5	C0020523	Immediate hypersensitivity	DisGeNet	
+C5	C0021051	Immunodeficiency due to defect in CD3-gamma	DisGeNet	
+C5	C0021359	Infertility associated with multi-tailed spermatozoa and excessive DNA	DisGeNet	
+C5	C0021368	Inflammation	DisGeNet	
+C5	C0022116	Ischemia	DisGeNet	
+C5	C0023890	Liver Cirrhosis, Biliary	DisGeNet	
+C5	C0024141	Lupus Erythematosus, Systemic	DisGeNet	
+C5	C0024143	Lupus Nephritis	DisGeNet	
+C5	C0024305	Non-Hodgkin lymphoma	DisGeNet	
+C5	C0025295	Meningitis, Pneumococcal	DisGeNet	
+C5	C0027055	Myocardial Reperfusion Injury	DisGeNet	
+C5	C0027947	Neutropenia	DisGeNet	
+C5	C0031154	Peritonitis	DisGeNet	
+C5	C0035126	Reperfusion Injury	DisGeNet	
+C5	C0035222	Respiratory Distress Syndrome, Adult	DisGeNet	
+C5	C0035235	Respiratory Syncytial Virus Infections	DisGeNet	
+C5	C0036202	Sarcoidosis	DisGeNet	
+C5	C0036508	Seborrheic dermatitis	HumPhenOnt	
+C5	C0036690	Septicemia	DisGeNet	
+C5	C0037268	Abnormality of the skin	HumPhenOnt	
+C5	C0038454	Stroke	DisGeNet	
+C5	C0040592	Trachoma	DisGeNet	
+C5	C0042769	Virus Diseases	DisGeNet	
+C5	C0085129	Bronchial Hyperreactivity	DisGeNet	
+C5	C0151650	Renal fibrosis	DisGeNet	
+C5	C0239998	Infections, recurrent, with encephalopathy, hepatic dysfunction, and cardiovascular malformations	HumPhenOnt	
+C5	C0242383	Age-related macular degeneration 2	DisGeNet	
+C5	C0243026	Sepsis	DisGeNet	
+C5	C0266015	Abnormality of the digestive system	HumPhenOnt	
+C5	C0441748	Autosomal recessive inheritance	HumPhenOnt	
+C5	C0497552	Abnormality of the nervous system	HumPhenOnt	
+C5	C0524910	Hepatitis C, Chronic	DisGeNet	
+C5	C0678222	Breast carcinoma	DisGeNet	
+C5	C0701807	Acute anterior uveitis	DisGeNet	
+C5	C0740651	Abdominal symptom	HumPhenOnt	
+C5	C1260959	Drusen	DisGeNet	
+C5	C1861172	Venous Thromboembolism	DisGeNet	
+C5	C1956346	Coronary Artery Disease	DisGeNet	
+C5	C2239176	Hepatocellular carcinoma	DisGeNet	
+C5	C2717961	Thrombotic Microangiopathies	DisGeNet	
+C5	C2745963	Kashin-Beck Disease	DisGeNet	
+C5	C3150510	Abnormality of humoral immunity	HumPhenOnt	
+C5	C3495559	Juvenile idiopathic arthritis, enthesitis related arthritis	DisGeNet	
+C5	C3662483	Allergic sensitization	DisGeNet	
+C5	C3875321	Inflammatory abnormality of the skin	HumPhenOnt	
+C5	C4021753	Abnormality of the immune system	HumPhenOnt	
+C5	C4021765	Morphological abnormality of the central nervous system	HumPhenOnt	
+C5	C4022803	Increased inflammatory response	HumPhenOnt	
+C5	C4022805	Abnormal inflammatory response	HumPhenOnt	
+C5	C4022810	Abnormality of nervous system morphology	HumPhenOnt	
+C5	C4023527	Abnormality of skin physiology	HumPhenOnt	
+C5	C4023616	Abnormality of immune system physiology	HumPhenOnt	
+C5	C4025761	Abnormality of the integument	HumPhenOnt	
+C5	C4293692	Abnormality of digestive system physiology	HumPhenOnt	

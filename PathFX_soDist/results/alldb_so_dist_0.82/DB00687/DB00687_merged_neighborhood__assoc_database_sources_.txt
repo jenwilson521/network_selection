@@ -1,0 +1,20 @@
+Gene	CUI	Source Databases	
+AR	C0086132	Depressive Symptoms	DisGeNet	
+CYP3A4	C0086132	Depressive Symptoms	DisGeNet	
+NR3C2	C0086132	Depressive Symptoms	DisGeNet	
+AR	C1291314	21-hydroxylase deficiency	DisGeNet	
+CYP3A4	C1291314	21-hydroxylase deficiency	DisGeNet	
+AR	C0342492	Adrenal hyperplasia	DisGeNet	
+CYP3A4	C0342492	Adrenal hyperplasia	DisGeNet	
+AR	C0027658	Neoplasms, Germ Cell and Embryonal	DisGeNet	
+CYP3A4	C0027658	Neoplasms, Germ Cell and Embryonal	DisGeNet	
+CYP3A4	C0019337	Heroin Dependence	DisGeNet	
+NR3C2	C0019337	Heroin Dependence	DisGeNet	
+AR	C1842981	NEUROTICISM	DisGeNet	
+NR3C2	C1842981	NEUROTICISM	DisGeNet	
+AR	C0001627	Congenital adrenal hyperplasia	DisGeNet	
+NR3C2	C0001627	Congenital adrenal hyperplasia	DisGeNet	
+AR	C0205217	Increased analgesia from kappa-opioid receptor agonist, female-specific	HumPhenOnt	
+NR3C2	C0205217	Increased analgesia from kappa-opioid receptor agonist, female-specific	HumPhenOnt	
+AR	C0241910	Hepatitis, Autoimmune	DisGeNet	
+CYP3A4	C0241910	Hepatitis, Autoimmune	DisGeNet	

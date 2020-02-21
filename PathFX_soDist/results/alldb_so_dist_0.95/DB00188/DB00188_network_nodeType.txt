@@ -1,0 +1,12 @@
+node_name	node_type	
+DB00188	drug	
+CYP2C9	drug_target	
+CYP1A2	drug_target	
+CYP2D6	drug_target	
+CYP2C19	drug_target	
+PSMB5	drug_target	
+CYP3A4	drug_target	
+PSMB1	drug_target	
+Primary malignant neoplasm of liver	phenotype	
+Nausea	phenotype	
+Chronic schizophrenia	phenotype	

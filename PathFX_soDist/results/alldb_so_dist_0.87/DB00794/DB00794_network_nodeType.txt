@@ -1,0 +1,33 @@
+node_name	node_type	
+DB00794	drug	
+CYP2C9	drug_target	
+CYP2C8	drug_target	
+CYP1A2	drug_target	
+GRIA2	drug_target	
+GRIK2	drug_target	
+CYP2B6	drug_target	
+CHRNA4	drug_target	
+CHRNA7	drug_target	
+CYP2C19	drug_target	
+GABRA4	drug_target	
+CYP3A4	drug_target	
+GABRA6	drug_target	
+GABRA1	drug_target	
+UGT1A1	drug_target	
+GABRA3	drug_target	
+GABRA2	drug_target	
+Drug Allergy	phenotype	
+Hepatitis D Infection	phenotype	
+Hyperbilirubinemia	phenotype	
+Febrile Neutropenia	phenotype	
+Anemia, Sickle Cell	phenotype	
+Cholelithiasis	phenotype	
+Leukopenia	phenotype	
+SUDDEN INFANT DEATH SYNDROME	phenotype	
+Idiopathic generalized epilepsy	phenotype	
+Neutropenia	phenotype	
+Hearing Loss, Partial	phenotype	
+Neoplasms, Germ Cell and Embryonal	phenotype	
+Pharyngeal Neoplasms	phenotype	
+Essential tremor	phenotype	
+Methamphetamine abuse	phenotype	

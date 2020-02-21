@@ -1,0 +1,3 @@
+node1	node2	edge_score	
+DB06720	GBA	1.0	
+

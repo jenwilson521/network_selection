@@ -1,0 +1,8 @@
+node_name	node_type	
+DB00347	drug	
+CYP2C9	drug_target	
+CYP2C8	drug_target	
+CYP2E1	drug_target	
+CACNA1G	drug_target	
+CYP2C19	drug_target	
+CYP3A4	drug_target	

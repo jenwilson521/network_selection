@@ -1,0 +1,142 @@
+node_name	node_type	
+DB00852	drug	
+SLC6A3	drug_target	
+SLC6A2	drug_target	
+CYP2D6	drug_target	
+SLC6A4	drug_target	
+ADRA1A	drug_target	
+ADRA2A	drug_target	
+ADRB1	drug_target	
+MAOA	drug_target	
+TNF	drug_target	
+IL2	drug_target	
+NFATC1	drug_target	
+ADRB2	drug_target	
+Acute postoperative pain	phenotype	
+Weight Loss Adverse Event	phenotype	
+Fibromyalgia	phenotype	
+Prenatal Exposure Delayed Effects	phenotype	
+Low Tension Glaucoma	phenotype	
+Behavior Disorders	phenotype	
+Oral aphthae	phenotype	
+Meningococcal Infections	phenotype	
+Methamphetamine abuse	phenotype	
+Obstructive sleep apnea	phenotype	
+Occupational Diseases	phenotype	
+Chronic schizophrenia	phenotype	
+Personality disorder	phenotype	
+Depressive Symptoms	phenotype	
+Postoperative Complications	phenotype	
+Tourette Syndrome	phenotype	
+Musculoskeletal Diseases	phenotype	
+Pregnancy Complications, Hematologic	phenotype	
+Gastrointestinal Diseases	phenotype	
+Chronic heart failure	phenotype	
+Chronic Fatigue Syndrome	phenotype	
+Fetal Diseases	phenotype	
+Memory Disorders	phenotype	
+Bacteremia, susceptibility to, 2	phenotype	
+Mood Disorders	phenotype	
+Periodontal Attachment Loss	phenotype	
+Malignant neoplasm of vulva	phenotype	
+Stress, Psychological	phenotype	
+Hyperalgesia	phenotype	
+Tardive Dyskinesia	phenotype	
+Heroin Dependence	phenotype	
+Osteochondritis dissecans	phenotype	
+Respiratory Hypersensitivity	phenotype	
+Periodontal Pocket	phenotype	
+Connective Tissue Diseases	phenotype	
+Orofacial dyskinesia	phenotype	
+Systemic aspergillosis	phenotype	
+ {Nicotine dependence, protection against}, 188890 (3)	phenotype	
+Complications of Diabetes Mellitus	phenotype	
+Ichthyosis bullosa of Siemens	phenotype	
+Anxiety Disorders	phenotype	
+Major depressive disorder	phenotype	
+Drug Allergy	phenotype	
+Nephrosclerosis	phenotype	
+Lichen Planus, Oral	phenotype	
+Obsessive-compulsive disorder	phenotype	
+Low back pain	phenotype	
+Tachycardia	phenotype	
+Attention deficit hyperactivity disorder	phenotype	
+Weight Gain Adverse Event	phenotype	
+Thyroid associated opthalmopathies	phenotype	
+Varicose Ulcer	phenotype	
+Drug usage	phenotype	
+CARCINOMA OF VULVA	phenotype	
+Cerebral palsy, spastic quadriplegic, 3	phenotype	
+Irritable bowel syndrome with diarrhea	phenotype	
+{Unipolar depression, susceptibility to}, 608516 (3)	phenotype	
+Anterior uveitis	phenotype	
+Coronary Restenosis	phenotype	
+Pemphigus	phenotype	
+Liver Cirrhosis, Alcoholic	phenotype	
+Pain insensitivity	phenotype	
+Posttraumatic stress disorder	phenotype	
+Anorexia nervosa 1	phenotype	
+Zoonotic form of cutaneous leishmaniasis	phenotype	
+Nausea	phenotype	
+Vasculitis	phenotype	
+Glaucoma, Open-Angle	phenotype	
+CNS disorder	phenotype	
+Left ventricular hypertrophy	phenotype	
+Premature Birth	phenotype	
+ {Septic shock, susceptibility to} (3)	phenotype	
+Gastric ulcer	phenotype	
+Sarcoidosis, Pulmonary	phenotype	
+CNS symptom	phenotype	
+As If Personality	phenotype	
+Vitreoretinopathy, neovascular inflammatory, 193235 (3)	phenotype	
+Trachoma	phenotype	
+Bipolar I disorder	phenotype	
+Attention Deficit Disorder	phenotype	
+Unipolar Depression	phenotype	
+Rheumatoid Nodule	phenotype	
+Chronic berylliosis	phenotype	
+Slow acetylator due to N-acetyltransferase enzyme variant	phenotype	
+Hypotension	phenotype	
+Essential hypertension	phenotype	
+Obesity, severe, 601665 (3)	phenotype	
+Pregnancy Complications	phenotype	
+Achalasia	phenotype	
+Chronic sciatica	phenotype	
+Asthma, Occupational	phenotype	
+Bronchiolitis	phenotype	
+Common Migraine	phenotype	
+Acute Lung Injury	phenotype	
+Ventricular Dysfunction, Right	phenotype	
+{Atopy, susceptibility to}, 147050 (3)	phenotype	
+Bulimia	phenotype	
+Steroid-sensitive nephrotic syndrome	phenotype	
+Overweight	phenotype	
+Depressive Disorder	phenotype	
+Ischemic cardiomyopathy	phenotype	
+Bovine Anaplasmosis	phenotype	
+Typhoid Fever	phenotype	
+Fulminant hepatitis	phenotype	
+Acute Coronary Syndrome	phenotype	
+Eating disorder	phenotype	
+Pulmonary edema	phenotype	
+Migraine with aura	phenotype	
+Spondylarthropathies	phenotype	
+Familial cold-induced inflammatory syndrome 1, 120100 (3)	phenotype	
+Generalized anxiety disorder	phenotype	
+Gastric Mucosa-Associated Lymphoid Tissue Lymphoma	phenotype	
+Periodontitis	phenotype	
+Migraine Disorders	phenotype	
+Malaria, Falciparum	phenotype	
+Intermittent claudication	phenotype	
+Substance Use Disorders	phenotype	
+Alcohol withdrawal syndrome	phenotype	
+Neoplasm of the thymus	phenotype	
+Duodenal Ulcer	phenotype	
+Bronchopulmonary Dysplasia	phenotype	
+Acute myocardial infarction	phenotype	
+Schizoaffective Disorder	phenotype	
+Coronary artery stenosis	phenotype	
+Opportunistic Infections	phenotype	
+Puerperal Disorders	phenotype	
+Congenital long QT syndrome	phenotype	
+Respiration Disorders	phenotype	

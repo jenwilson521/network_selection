@@ -1,0 +1,6 @@
+node1	node2	edge_score	
+DB01428	PGR	1.0	
+DB01428	AR	1.0	
+DB01428	ESR2	1.0	
+DB01428	ESR1	1.0	
+

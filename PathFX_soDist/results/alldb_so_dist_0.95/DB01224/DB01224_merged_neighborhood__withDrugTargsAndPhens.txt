@@ -1,0 +1,888 @@
+node1	node2	edge_score	
+DB01224	CYP2D6	1.0	
+DB01224	ADRA2A	1.0	
+DB01224	ADRA2B	1.0	
+DB01224	ADRA2C	1.0	
+DB01224	ABCB1	1.0	
+DB01224	HTR2A	1.0	
+DB01224	HTR2C	1.0	
+DB01224	HRH1	1.0	
+DB01224	CHRM4	1.0	
+DB01224	CHRM3	1.0	
+DB01224	CHRM2	1.0	
+DB01224	CHRM1	1.0	
+DB01224	HTR6	1.0	
+DB01224	HTR7	1.0	
+DB01224	CYP3A4	1.0	
+DB01224	CYP3A5	1.0	
+DB01224	ADRA1A	1.0	
+DB01224	ADRA1B	1.0	
+DB01224	ADRA1D	1.0	
+DB01224	DRD4	1.0	
+DB01224	DRD5	1.0	
+DB01224	DRD2	1.0	
+DB01224	DRD3	1.0	
+DB01224	DRD1	1.0	
+DB01224	CYP2C19	1.0	
+DB01224	HTR3A	1.0	
+DB01224	HTR1D	1.0	
+DB01224	HTR1E	1.0	
+DB01224	HTR1A	1.0	
+DB01224	HTR1B	1.0	
+CYP2D6	rs3892097	0.99
+CYP2D6	CYP2D6*1, CYP2D6*10, CYP2D6*3, CYP2D6*4, CYP2D6*41, CYP2D6*5, CYP2D6*6	0.99
+CYP2D6	CYP2D6*1, CYP2D6*1xN, CYP2D6*2, CYP2D6*2xN, CYP2D6*3, CYP2D6*4, CYP2D6*5	0.99
+CYP2C19	CYP2C19*1, CYP2C19*2, CYP2C19*3, CYP2C19*5, CYP2C19*6, CYP2C19*7, CYP2C19*8	0.99
+rs2740574	CYP3A	0.9801
+DRD2	rs6275	0.99
+ABCB1	rs10280101	0.99
+DRD1	rs686	0.99
+HTR2A	rs9316233	0.99
+ABCB1	rs4148740	0.99
+HTR3A	rs1150226	0.99
+HTR3A	rs2276302	0.99
+CYP2D6	rs777560972	0.99
+CYP2C19	CYP2C19*1, CYP2C19*16, CYP2C19*2	0.99
+DRD2	rs1125394	0.99
+CYP2D6	CYP2D6*1, CYP2D6*3, CYP2D6*4	0.99
+HTR2C	rs518147	0.99
+CYP2D6	rs76088846	0.99
+ABCB1		1.0
+CHRM2		1.0
+DRD2	rs4436578	0.99
+CYP2D6	CYP2D6*1, CYP2D6*1xN	0.99
+CYP3A4	rs3735451	0.99
+HTR2A	rs7997012	0.99
+ABCB1	ABCB1*1, ABCB1*2(PMID:11503014)	0.99
+DRD3	rs963468	0.99
+CYP2D6	CYP2D6*1, CYP2D6*100, CYP2D6*101, CYP2D6*13, CYP2D6*2, CYP2D6*31, CYP2D6*4, CYP2D6*5, CYP2D6*69	0.99
+CYP3A4		1.0
+CYP2D6	CYP2D6*1, CYP2D6*3, CYP2D6*36, CYP2D6*4, CYP2D6*40, CYP2D6*42, CYP2D6*4xN, CYP2D6*56	0.99
+CYP2C19	CYP2C19*1, CYP2C19*2, CYP2C19*3	0.99
+ABCB1	rs72552784	0.99
+CYP2C19	rs28399504	0.99
+CYP2D6	CYP2D6*1, CYP2D6*47, CYP2D6*49, CYP2D6*50, CYP2D6*51, CYP2D6*54, CYP2D6*55, CYP2D6*57, CYP2D6*72, CYP2D6*89, CYP2D6*92, CYP2D6*93, CYP2D6*96	0.99
+CYP2D6	CYP2D6*1, CYP2D6*10, CYP2D6*14, CYP2D6*1xN, CYP2D6*3, CYP2D6*4, CYP2D6*5, CYP2D6*6	0.99
+CYP2C19	CYP2C19*1, CYP2C19*2	0.99
+CYP3A5	CYP3A5*1A, CYP3A5*3A, CYP3A5*6, CYP3A5*7	0.99
+HTR3A		1.0
+rs2740574	CYP3A4	0.96059601
+DRD3		1.0
+ABCB1	rs4148738	0.99
+CYP3A4	rs4646440	0.99
+ABCB1	rs1128503	0.99
+HTR1A	rs10042486	0.99
+ABCB1	rs2032582	0.99
+CYP2D6	rs367543000	0.99
+DRD2	rs1799978	0.99
+CYP2C19	CYP2C19*1, CYP2C19*8, CYP2C19*9	0.99
+DRD2	rs1079597	0.99
+HTR3A	rs1062613	0.99
+CYP2D6	rs5030655	0.99
+CYP3A5	rs776746	0.99
+DRD1	rs11749035	0.99
+HTR1B	rs6296	0.99
+CYP3A4	rs35599367	0.99
+HTR2A	rs6314	0.99
+CYP2C19	rs12248560	0.99
+DRD3	rs167771	0.99
+ABCB1	rs4148737	0.99
+CYP3A5	rs10264272	0.99
+ABCB1	rs3213619	0.99
+CYP2C19		1.0
+CYP2D6	CYP2D6*1, CYP2D6*10, CYP2D6*17, CYP2D6*1xN, CYP2D6*2, CYP2D6*2xN, CYP2D6*3, CYP2D6*4, CYP2D6*40, CYP2D6*41, CYP2D6*5, CYP2D6*6	0.99
+HTR1B		1.0
+CYP2C19	CYP2C19*1, CYP2C19*10, CYP2C19*11, CYP2C19*13, CYP2C19*14, CYP2C19*15, CYP2C19*16, CYP2C19*18, CYP2C19*19, CYP2C19*22, CYP2C19*23, CYP2C19*24, CYP2C19*25, CYP2C19*26, CYP2C19*5, CYP2C19*6, CYP2C19*8, CYP2C19*9	0.99
+CYP2D6	rs28371706	0.99
+ABCB1	ABCB1*2(PMID:11503014)	0.99
+HTR1A	rs6295	0.99
+DRD2	rs4460839	0.99
+CYP3A4	CYP3A4*1, CYP3A4*4	0.99
+DRD2	rs1799732	0.99
+HTR1A	rs878567	0.99
+HTR1B	rs130058	0.99
+HTR2A	rs6313	0.99
+CYP2C19	rs3814637	0.99
+HTR2C	rs3813928	0.99
+CYP3A4	rs4987161	0.99
+ABCB1	rs7787082	0.99
+CYP2D6	CYP2D6*1, CYP2D6*11, CYP2D6*12, CYP2D6*4, CYP2D6*41, CYP2D6*5, CYP2D6*59, CYP2D6*62, CYP2D6*7, CYP2D6*8	0.99
+CYP3A5		1.0
+CYP2D6	CYP2D6*20, CYP2D6*4	0.99
+CYP3A4	rs12721627	0.99
+DRD2	rs1124493	0.99
+CYP3A5	rs41303343	0.99
+CYP2C19	rs12768009	0.99
+DRD2	rs6277	0.99
+CYP2D6	rs745746329	0.99
+DRD3	rs324023	0.99
+rs4987161	CYP3A4	0.96059601
+CYP2D6	CYP2D6*1, CYP2D6*10, CYP2D6*2, CYP2D6*4, CYP2D6*41, CYP2D6*5, CYP2D6*6	0.99
+CYP2D6	CYP2D6*1, CYP2D6*10, CYP2D6*3, CYP2D6*4	0.99
+DRD2	rs2734841	0.99
+ABCB1	rs4728709	0.99
+CYP2D6	rs138417770	0.99
+ABCB1	rs10248420	0.99
+CYP2D6		1.0
+HTR1A		1.0
+CYP2D6	CYP2D6*1, CYP2D6*4, CYP2D6*5	0.99
+HTR1A	rs1364043	0.99
+ABCB1	rs10267099	0.99
+CYP2C19	CYP2C19*1, CYP2C19*17, CYP2C19*2	0.99
+CYP2D6	CYP2D6*1, CYP2D6*15, CYP2D6*4	0.99
+ABCB1	rs2229109	0.99
+CYP2D6	CYP2D6*1, CYP2D6*10, CYP2D6*14, CYP2D6*21, CYP2D6*36, CYP2D6*4, CYP2D6*5	0.99
+CYP2D6	CYP2D6*1, CYP2D6*10, CYP2D6*17, CYP2D6*2, CYP2D6*3, CYP2D6*4, CYP2D6*5	0.99
+CYP2D6	CYP2D6*1, CYP2D6*10, CYP2D6*14, CYP2D6*2, CYP2D6*3, CYP2D6*4, CYP2D6*41, CYP2D6*4xN, CYP2D6*5, CYP2D6*6	0.99
+CYP3A4	CYP3A4*1, CYP3A4*1G	0.99
+ABCB1	rs11983225	0.99
+CYP3A4	rs2242480	0.99
+CYP3A4	rs56324128	0.99
+DRD2	rs2734842	0.99
+ABCB1	rs2032583	0.99
+CYP2D6	CYP2D6*1, CYP2D6*5, CYP2D6*8	0.99
+ABCB1	rs3842	0.99
+CYP3A4	rs4646437	0.99
+CYP3A5	rs17161788	0.99
+DRD4		1.0
+DRD1	rs11746641	0.99
+HTR2C	rs3813929	0.99
+ABCB1	rs1922242	0.99
+CYP3A4	rs2246709	0.99
+CYP2D6	rs750996195	0.99
+ADRA1A		1.0
+CYP2C19	CYP2C19*1, CYP2C19*10, CYP2C19*11, CYP2C19*13, CYP2C19*14, CYP2C19*15, CYP2C19*16, CYP2C19*18, CYP2C19*19, CYP2C19*22, CYP2C19*23, CYP2C19*24, CYP2C19*25, CYP2C19*26, CYP2C19*28, CYP2C19*9	0.99
+ABCB1	rs12720067	0.99
+DRD2	rs1079598	0.99
+CYP2D6	CYP2D6*1, CYP2D6*38, CYP2D6*4, CYP2D6*5, CYP2D6*9	0.99
+rs12721627	CYP3A4	0.96059601
+HTR2A	rs6305	0.99
+CYP3A4	CYP3A4*1, CYP3A4*22	0.99
+HTR2C	rs6318	0.99
+DRD2	rs12364283	0.99
+CYP2D6	rs1080985	0.99
+DRD2		1.0
+DRD2	rs2734833	0.99
+DRD1		1.0
+DRD1	rs4532	0.99
+CYP2D6	CYP2D6*1, CYP2D6*10, CYP2D6*18, CYP2D6*2, CYP2D6*21, CYP2D6*44, CYP2D6*5	0.99
+HTR2A		1.0
+CYP3A4	CYP3A4*1, CYP3A4*20, CYP3A4*8	0.99
+CYP2D6	CYP2D6*1, CYP2D6*1xN, CYP2D6*2xN, CYP2D6*3, CYP2D6*4, CYP2D6*5, CYP2D6*6	0.99
+CYP3A4	rs2740574	0.99
+CYP2D6	CYP2D6*1, CYP2D6*10, CYP2D6*17, CYP2D6*1xN, CYP2D6*2, CYP2D6*2xN, CYP2D6*3, CYP2D6*4, CYP2D6*41, CYP2D6*5	0.99
+CYP3A4	rs28371759	0.99
+CYP2D6	CYP2D6*1, CYP2D6*10, CYP2D6*5	0.99
+CYP3A	rs4987161	0.970299
+ABCB1	rs9282564	0.99
+CYP2C19	rs4986893	0.99
+CYP2D6	CYP2D6*1, CYP2D6*1xN, CYP2D6*3, CYP2D6*4, CYP2D6*5, CYP2D6*6	0.99
+CYP3A5	CYP3A5*1A, CYP3A5*3A	0.99
+CYP2D6	rs28360521	0.99
+CYP2D6	rs1065852	0.99
+CYP2C19	CYP2C19*1, CYP2C19*17, CYP2C19*2, CYP2C19*3	0.99
+HTR2A	rs6311	0.99
+ABCB1	rs2235067	0.99
+HTR2C	rs1414334	0.99
+CYP2D6	CYP2D6*10, CYP2D6*14, CYP2D6*3, CYP2D6*4, CYP2D6*5, CYP2D6*6, CYP2D6*7	0.99
+CYP2D6	CYP2D6*1, CYP2D6*10, CYP2D6*2, CYP2D6*3, CYP2D6*4, CYP2D6*5	0.99
+ABCB1	rs1045642	0.99
+DRD3	rs6280	0.99
+CYP2D6	CYP2D6*1, CYP2D6*10	0.99
+HTR2C		1.0
+DRD2	rs2283265	0.99
+CYP2D6	CYP2D6*1, CYP2D6*4	0.99
+CYP2D6	CYP2D6*1, CYP2D6*1xN, CYP2D6*3, CYP2D6*4, CYP2D6*41, CYP2D6*5, CYP2D6*6	0.99
+CYP2D6	CYP2D6*1, CYP2D6*10, CYP2D6*1xN, CYP2D6*2, CYP2D6*2xN, CYP2D6*3, CYP2D6*4, CYP2D6*41, CYP2D6*5, CYP2D6*6	0.99
+CYP2D6	CYP2D6*1, CYP2D6*10, CYP2D6*17, CYP2D6*29, CYP2D6*3, CYP2D6*31, CYP2D6*35, CYP2D6*4, CYP2D6*41, CYP2D6*5, CYP2D6*6, CYP2D6*9	0.99
+ABCB1	rs10276036	0.99
+DRD2	rs6279	0.99
+CYP2D6	CYP2D6*1, CYP2D6*29	0.99
+CYP2C19	CYP2C19*1, CYP2C19*10, CYP2C19*11, CYP2C19*13, CYP2C19*14, CYP2C19*15, CYP2C19*16, CYP2C19*18, CYP2C19*19, CYP2C19*26, CYP2C19*9	0.99
+ADRA2A		1.0
+ABCB1	rs3789243	0.99
+DRD1	rs265976	0.99
+CYP3A	rs12721627	0.970299
+CYP2D6	CYP2D6*1, CYP2D6*10, CYP2D6*2, CYP2D6*3, CYP2D6*4, CYP2D6*41, CYP2D6*5, CYP2D6*6	0.99
+ABCB1	rs2235047	0.99
+rs4987161	CYP3A	0.9801
+rs12721627	CYP3A	0.9801
+HTR7		1.0
+DRD1	rs2168631	0.99
+DRD2	rs2440390	0.99
+ANKK1	rs7118900	0.970299
+CYP2D6	rs567606867	0.99
+CYP2D6	CYP2D6*1, CYP2D6*2xN, CYP2D6*3, CYP2D6*4, CYP2D6*5, CYP2D6*6	0.99
+HTR1B	rs11568817	0.99
+CYP3A	rs2740574	0.970299
+CYP2C19	CYP2C19*1, CYP2C19*2, CYP2C19*3, CYP2C19*4, CYP2C19*5, CYP2C19*6, CYP2C19*8	0.99
+ABCB1	rs4148739	0.99
+ABCB1	rs28401781	0.99
+ADRA2C		1.0
+ABCB1	rs2235015	0.99
+CYP2D6	CYP2D6*1, CYP2D6*10, CYP2D6*3, CYP2D6*4, CYP2D6*5, CYP2D6*6	0.99
+HTR2C	rs2497538	0.99
+CYP2D6	CYP2D6*1, CYP2D6*1xN, CYP2D6*2, CYP2D6*2xN, CYP2D6*3, CYP2D6*4, CYP2D6*5, CYP2D6*6	0.99
+ABCB1	rs17160359	0.99
+CYP2D6	CYP2D6*10, CYP2D6*2	0.99
+CYP2D6	CYP2D6*1, CYP2D6*10, CYP2D6*2, CYP2D6*4, CYP2D6*5	0.99
+CYP3A4	rs4986910	0.99
+CYP2C19	rs11188072	0.99
+rs1800497	ANKK1	0.9801
+DRD3	rs324026	0.99
+CYP2D6	rs371793722	0.99
+DRD3	rs167770	0.99
+DRD2	rs1076560	0.99
+CYP2C19	rs4244285	0.99
+CYP2D6	CYP2D6*1, CYP2D6*10, CYP2D6*1xN, CYP2D6*2, CYP2D6*2xN, CYP2D6*3, CYP2D6*4, CYP2D6*5, CYP2D6*6	0.99
+CYP2D6	CYP2D6*1, CYP2D6*3, CYP2D6*4, CYP2D6*5	0.99
+CYP2C19	CYP2C19*1, CYP2C19*17, CYP2C19*2, CYP2C19*3, CYP2C19*4	0.99
+ABCB1	rs2235040	0.99
+DRD2	rs1800497	0.99
+ADRA2A	rs1800545	0.99
+Heroin Dependence	ABCB1	1.0	
+Heroin Dependence	ANKK1	1.0	
+Heroin Dependence	CYP2D6	1.0	
+Heroin Dependence	CYP3A4	1.0	
+Heroin Dependence	DRD1	1.0	
+Heroin Dependence	DRD2	1.0	
+Heroin Dependence	DRD3	1.0	
+Heroin Dependence	DRD4	1.0	
+Heroin Dependence	HTR1B	1.0	
+Heroin Dependence	HTR2A	1.0	
+Heroin Dependence	HTR3A	1.0	
+Dyskinesia, Drug-Induced	ABCB1	1.0	
+Dyskinesia, Drug-Induced	ADRA1A	1.0	
+Dyskinesia, Drug-Induced	CYP2D6	1.0	
+Dyskinesia, Drug-Induced	DRD1	1.0	
+Dyskinesia, Drug-Induced	DRD2	1.0	
+Dyskinesia, Drug-Induced	DRD3	1.0	
+Dyskinesia, Drug-Induced	HTR1A	1.0	
+Dyskinesia, Drug-Induced	HTR2A	1.0	
+Dyskinesia, Drug-Induced	HTR2C	1.0	
+Weight Gain Adverse Event	ABCB1	1.0	
+Weight Gain Adverse Event	ADRA2A	1.0	
+Weight Gain Adverse Event	ANKK1	1.0	
+Weight Gain Adverse Event	DRD1	1.0	
+Weight Gain Adverse Event	DRD2	1.0	
+Weight Gain Adverse Event	DRD3	1.0	
+Weight Gain Adverse Event	DRD4	1.0	
+Weight Gain Adverse Event	HTR1A	1.0	
+Weight Gain Adverse Event	HTR1B	1.0	
+Weight Gain Adverse Event	HTR2A	1.0	
+Weight Gain Adverse Event	HTR2C	1.0	
+Weight Gain Adverse Event	HTR3A	1.0	
+Weight Gain Adverse Event	HTR7	1.0	
+Alcohol abuse	ANKK1	1.0	
+Alcohol abuse	CHRM2	1.0	
+Alcohol abuse	CYP3A4	1.0	
+Alcohol abuse	DRD1	1.0	
+Alcohol abuse	DRD2	1.0	
+Alcohol abuse	DRD3	1.0	
+Alcohol abuse	DRD4	1.0	
+Alcohol abuse	HTR1B	1.0	
+Alcohol abuse	HTR2A	1.0	
+Alcohol abuse	HTR2C	1.0	
+Alcohol abuse	HTR7	1.0	
+Bulimia	DRD2	1.0	
+Bulimia	DRD4	1.0	
+Bulimia	HTR1A	1.0	
+Bulimia	HTR1B	1.0	
+Bulimia	HTR2A	1.0	
+Bulimia	HTR2C	1.0	
+Bulimia	HTR7	1.0	
+Opiate Addiction	ABCB1	1.0	
+Opiate Addiction	ANKK1	1.0	
+Opiate Addiction	CYP2D6	1.0	
+Opiate Addiction	DRD1	1.0	
+Opiate Addiction	DRD2	1.0	
+Opiate Addiction	DRD3	1.0	
+Opiate Addiction	DRD4	1.0	
+Opiate Addiction	HTR3A	1.0	
+As If Personality	ANKK1	1.0	
+As If Personality	CYP2D6	1.0	
+As If Personality	DRD2	1.0	
+As If Personality	DRD4	1.0	
+As If Personality	HTR1A	1.0	
+As If Personality	HTR1B	1.0	
+As If Personality	HTR2A	1.0	
+As If Personality	HTR2C	1.0	
+As If Personality	HTR3A	1.0	
+Tardive Dyskinesia	CYP2D6	1.0	
+Tardive Dyskinesia	CYP3A4	1.0	
+Tardive Dyskinesia	CYP3A5	1.0	
+Tardive Dyskinesia	DRD1	1.0	
+Tardive Dyskinesia	DRD2	1.0	
+Tardive Dyskinesia	DRD3	1.0	
+Tardive Dyskinesia	DRD4	1.0	
+Tardive Dyskinesia	HTR2A	1.0	
+Tardive Dyskinesia	HTR2C	1.0	
+Orofacial dyskinesia	CYP2D6	1.0	
+Orofacial dyskinesia	CYP3A4	1.0	
+Orofacial dyskinesia	CYP3A5	1.0	
+Orofacial dyskinesia	DRD1	1.0	
+Orofacial dyskinesia	DRD2	1.0	
+Orofacial dyskinesia	DRD3	1.0	
+Orofacial dyskinesia	DRD4	1.0	
+Orofacial dyskinesia	HTR2A	1.0	
+Orofacial dyskinesia	HTR2C	1.0	
+Chronic schizophrenia	ADRA1A	1.0	
+Chronic schizophrenia	CYP2D6	1.0	
+Chronic schizophrenia	CYP3A4	1.0	
+Chronic schizophrenia	DRD2	1.0	
+Chronic schizophrenia	DRD3	1.0	
+Chronic schizophrenia	HTR2A	1.0	
+Chronic schizophrenia	HTR2C	1.0	
+Personality disorder	CYP2D6	1.0	
+Personality disorder	DRD2	1.0	
+Personality disorder	DRD3	1.0	
+Personality disorder	DRD4	1.0	
+Personality disorder	HTR1A	1.0	
+Personality disorder	HTR1B	1.0	
+Personality disorder	HTR2A	1.0	
+Chronic sciatica	ADRA1A	1.0	
+Chronic sciatica	ADRA2A	1.0	
+Chronic sciatica	ADRA2C	1.0	
+Chronic sciatica	DRD2	1.0	
+Chronic sciatica	HTR1A	1.0	
+Chronic sciatica	HTR2A	1.0	
+Low back pain	ADRA1A	1.0	
+Low back pain	ADRA2A	1.0	
+Low back pain	ADRA2C	1.0	
+Low back pain	CYP2D6	1.0	
+Low back pain	DRD2	1.0	
+Low back pain	HTR1A	1.0	
+Low back pain	HTR2A	1.0	
+Psychoses, Substance-Induced	ADRA2C	1.0	
+Psychoses, Substance-Induced	ANKK1	1.0	
+Psychoses, Substance-Induced	DRD1	1.0	
+Psychoses, Substance-Induced	DRD2	1.0	
+Psychoses, Substance-Induced	DRD3	1.0	
+Psychoses, Substance-Induced	DRD4	1.0	
+Psychoses, Substance-Induced	HTR1A	1.0	
+Psychoses, Substance-Induced	HTR2A	1.0	
+Substance Use Disorders	DRD2	1.0	
+Substance Use Disorders	DRD3	1.0	
+Substance Use Disorders	DRD4	1.0	
+Substance Use Disorders	HTR1A	1.0	
+Substance Use Disorders	HTR1B	1.0	
+Substance Use Disorders	HTR2A	1.0	
+MAJOR AFFECTIVE DISORDER 4	DRD1	1.0	
+MAJOR AFFECTIVE DISORDER 4	DRD2	1.0	
+MAJOR AFFECTIVE DISORDER 4	DRD3	1.0	
+MAJOR AFFECTIVE DISORDER 4	DRD4	1.0	
+MAJOR AFFECTIVE DISORDER 4	HTR2A	1.0	
+MAJOR AFFECTIVE DISORDER 4	HTR2C	1.0	
+MAJOR AFFECTIVE DISORDER 4	HTR3A	1.0	
+MAJOR AFFECTIVE DISORDER 4	HTR7	1.0	
+MAJOR AFFECTIVE DISORDER 5	DRD1	1.0	
+MAJOR AFFECTIVE DISORDER 5	DRD2	1.0	
+MAJOR AFFECTIVE DISORDER 5	DRD3	1.0	
+MAJOR AFFECTIVE DISORDER 5	DRD4	1.0	
+MAJOR AFFECTIVE DISORDER 5	HTR2A	1.0	
+MAJOR AFFECTIVE DISORDER 5	HTR2C	1.0	
+MAJOR AFFECTIVE DISORDER 5	HTR3A	1.0	
+MAJOR AFFECTIVE DISORDER 5	HTR7	1.0	
+MAJOR AFFECTIVE DISORDER 6	DRD1	1.0	
+MAJOR AFFECTIVE DISORDER 6	DRD2	1.0	
+MAJOR AFFECTIVE DISORDER 6	DRD3	1.0	
+MAJOR AFFECTIVE DISORDER 6	DRD4	1.0	
+MAJOR AFFECTIVE DISORDER 6	HTR2A	1.0	
+MAJOR AFFECTIVE DISORDER 6	HTR2C	1.0	
+MAJOR AFFECTIVE DISORDER 6	HTR3A	1.0	
+MAJOR AFFECTIVE DISORDER 6	HTR7	1.0	
+Major affective disorder 7	DRD1	1.0	
+Major affective disorder 7	DRD2	1.0	
+Major affective disorder 7	DRD3	1.0	
+Major affective disorder 7	DRD4	1.0	
+Major affective disorder 7	HTR2A	1.0	
+Major affective disorder 7	HTR2C	1.0	
+Major affective disorder 7	HTR3A	1.0	
+Major affective disorder 7	HTR7	1.0	
+MAJOR AFFECTIVE DISORDER 8	DRD1	1.0	
+MAJOR AFFECTIVE DISORDER 8	DRD2	1.0	
+MAJOR AFFECTIVE DISORDER 8	DRD3	1.0	
+MAJOR AFFECTIVE DISORDER 8	DRD4	1.0	
+MAJOR AFFECTIVE DISORDER 8	HTR2A	1.0	
+MAJOR AFFECTIVE DISORDER 8	HTR2C	1.0	
+MAJOR AFFECTIVE DISORDER 8	HTR3A	1.0	
+MAJOR AFFECTIVE DISORDER 8	HTR7	1.0	
+MAJOR AFFECTIVE DISORDER 9	DRD1	1.0	
+MAJOR AFFECTIVE DISORDER 9	DRD2	1.0	
+MAJOR AFFECTIVE DISORDER 9	DRD3	1.0	
+MAJOR AFFECTIVE DISORDER 9	DRD4	1.0	
+MAJOR AFFECTIVE DISORDER 9	HTR2A	1.0	
+MAJOR AFFECTIVE DISORDER 9	HTR2C	1.0	
+MAJOR AFFECTIVE DISORDER 9	HTR3A	1.0	
+MAJOR AFFECTIVE DISORDER 9	HTR7	1.0	
+Dyskinesia, seizures, and intellectual developmental disorder	ANKK1	1.0	
+Dyskinesia, seizures, and intellectual developmental disorder	CYP2D6	1.0	
+Dyskinesia, seizures, and intellectual developmental disorder	DRD1	1.0	
+Dyskinesia, seizures, and intellectual developmental disorder	DRD2	1.0	
+Dyskinesia, seizures, and intellectual developmental disorder	DRD3	1.0	
+Dyskinesia, seizures, and intellectual developmental disorder	DRD4	1.0	
+Dyskinesia, seizures, and intellectual developmental disorder	HTR1B	1.0	
+Dyskinesia, seizures, and intellectual developmental disorder	HTR2A	1.0	
+Dyskinesia, seizures, and intellectual developmental disorder	HTR2C	1.0	
+Tourette Syndrome	ADRA1A	1.0	
+Tourette Syndrome	ADRA2A	1.0	
+Tourette Syndrome	DRD1	1.0	
+Tourette Syndrome	DRD2	1.0	
+Tourette Syndrome	DRD3	1.0	
+Tourette Syndrome	DRD4	1.0	
+Tourette Syndrome	HTR1A	1.0	
+Tourette Syndrome	HTR2A	1.0	
+Tourette Syndrome	HTR2C	1.0	
+Tourette Syndrome	HTR3A	1.0	
+Methamphetamine abuse	ADRA1A	1.0	
+Methamphetamine abuse	CYP2C19	1.0	
+Methamphetamine abuse	CYP2D6	1.0	
+Methamphetamine abuse	DRD2	1.0	
+Methamphetamine abuse	DRD3	1.0	
+Methamphetamine abuse	DRD4	1.0	
+Methamphetamine abuse	HTR1B	1.0	
+Methamphetamine abuse	HTR2A	1.0	
+Methamphetamine abuse	HTR2C	1.0	
+Cocaine Dependence	ABCB1	1.0	
+Cocaine Dependence	ANKK1	1.0	
+Cocaine Dependence	DRD1	1.0	
+Cocaine Dependence	DRD2	1.0	
+Cocaine Dependence	DRD3	1.0	
+Cocaine Dependence	HTR2A	1.0	
+Cocaine Dependence	HTR2C	1.0	
+Substance addiction and disorders	ANKK1	1.0	
+Substance addiction and disorders	CHRM2	1.0	
+Substance addiction and disorders	DRD1	1.0	
+Substance addiction and disorders	DRD2	1.0	
+Substance addiction and disorders	DRD3	1.0	
+Substance addiction and disorders	DRD4	1.0	
+Substance addiction and disorders	HTR1B	1.0	
+Substance addiction and disorders	HTR2C	1.0	
+Substance Withdrawal Syndrome	ABCB1	1.0	
+Substance Withdrawal Syndrome	CYP2D6	1.0	
+Substance Withdrawal Syndrome	DRD1	1.0	
+Substance Withdrawal Syndrome	DRD2	1.0	
+Substance Withdrawal Syndrome	HTR1A	1.0	
+Substance Withdrawal Syndrome	HTR2A	1.0	
+Substance Withdrawal Syndrome	HTR2C	1.0	
+Substance Withdrawal Syndrome	HTR3A	1.0	
+Anorexia nervosa 1	ABCB1	1.0	
+Anorexia nervosa 1	DRD2	1.0	
+Anorexia nervosa 1	DRD3	1.0	
+Anorexia nervosa 1	DRD4	1.0	
+Anorexia nervosa 1	HTR1B	1.0	
+Anorexia nervosa 1	HTR2A	1.0	
+Anorexia nervosa 1	HTR2C	1.0	
+Anorexia nervosa 1	HTR3A	1.0	
+Anorexia nervosa 1	HTR7	1.0	
+Acute disease of cardiovascular system	ADRA1A	1.0	
+Acute disease of cardiovascular system	ADRA2A	1.0	
+Acute disease of cardiovascular system	ADRA2C	1.0	
+Acute disease of cardiovascular system	DRD2	1.0	
+Acute disease of cardiovascular system	HTR1A	1.0	
+Acute disease of cardiovascular system	HTR2A	1.0	
+Schizoaffective Disorder	ABCB1	1.0	
+Schizoaffective Disorder	ADRA1A	1.0	
+Schizoaffective Disorder	CYP2D6	1.0	
+Schizoaffective Disorder	DRD2	1.0	
+Schizoaffective Disorder	DRD3	1.0	
+Schizoaffective Disorder	DRD4	1.0	
+Schizoaffective Disorder	HTR1B	1.0	
+Schizoaffective Disorder	HTR2A	1.0	
+Anxiety Disorders	ABCB1	1.0	
+Anxiety Disorders	ADRA1A	1.0	
+Anxiety Disorders	ADRA2A	1.0	
+Anxiety Disorders	ANKK1	1.0	
+Anxiety Disorders	CYP2C19	1.0	
+Anxiety Disorders	CYP2D6	1.0	
+Anxiety Disorders	CYP3A4	1.0	
+Anxiety Disorders	DRD2	1.0	
+Anxiety Disorders	DRD3	1.0	
+Anxiety Disorders	DRD4	1.0	
+Anxiety Disorders	HTR1A	1.0	
+Anxiety Disorders	HTR1B	1.0	
+Anxiety Disorders	HTR2A	1.0	
+Anxiety Disorders	HTR2C	1.0	
+Anxiety Disorders	HTR3A	1.0	
+Anxiety Disorders	HTR7	1.0	
+Bulimia nervosa 1	DRD2	1.0	
+Bulimia nervosa 1	DRD4	1.0	
+Bulimia nervosa 1	HTR1B	1.0	
+Bulimia nervosa 1	HTR2A	1.0	
+Bulimia nervosa 1	HTR2C	1.0	
+Bulimia nervosa 1	HTR3A	1.0	
+Obsessive-compulsive disorder	CYP2C19	1.0	
+Obsessive-compulsive disorder	CYP2D6	1.0	
+Obsessive-compulsive disorder	DRD2	1.0	
+Obsessive-compulsive disorder	DRD3	1.0	
+Obsessive-compulsive disorder	DRD4	1.0	
+Obsessive-compulsive disorder	HTR1B	1.0	
+Obsessive-compulsive disorder	HTR2A	1.0	
+Obsessive-compulsive disorder	HTR3A	1.0	
+Panic disorder syndrome 1 (2)	ADRA2A	1.0	
+Panic disorder syndrome 1 (2)	DRD1	1.0	
+Panic disorder syndrome 1 (2)	DRD2	1.0	
+Panic disorder syndrome 1 (2)	DRD3	1.0	
+Panic disorder syndrome 1 (2)	DRD4	1.0	
+Panic disorder syndrome 1 (2)	HTR1A	1.0	
+Panic disorder syndrome 1 (2)	HTR1B	1.0	
+Panic disorder syndrome 1 (2)	HTR2A	1.0	
+Panic disorder syndrome 1 (2)	HTR3A	1.0	
+Primary malignant neoplasm of liver	ABCB1	1.0	
+Primary malignant neoplasm of liver	CYP2C19	1.0	
+Primary malignant neoplasm of liver	CYP2D6	1.0	
+Primary malignant neoplasm of liver	CYP3A4	1.0	
+Primary malignant neoplasm of liver	CYP3A5	1.0	
+Unipolar Depression	ABCB1	1.0	
+Unipolar Depression	ADRA2A	1.0	
+Unipolar Depression	ADRA2C	1.0	
+Unipolar Depression	ANKK1	1.0	
+Unipolar Depression	CHRM2	1.0	
+Unipolar Depression	CYP2C19	1.0	
+Unipolar Depression	CYP2D6	1.0	
+Unipolar Depression	DRD1	1.0	
+Unipolar Depression	DRD2	1.0	
+Unipolar Depression	DRD3	1.0	
+Unipolar Depression	DRD4	1.0	
+Unipolar Depression	HTR1A	1.0	
+Unipolar Depression	HTR1B	1.0	
+Unipolar Depression	HTR2A	1.0	
+Unipolar Depression	HTR2C	1.0	
+Unipolar Depression	HTR3A	1.0	
+Drug Dependence	ANKK1	1.0	
+Drug Dependence	CHRM2	1.0	
+Drug Dependence	DRD1	1.0	
+Drug Dependence	DRD2	1.0	
+Drug Dependence	DRD3	1.0	
+Drug Dependence	HTR1B	1.0	
+Drug Dependence	HTR2C	1.0	
+Depressive Symptoms	ABCB1	1.0	
+Depressive Symptoms	CYP2C19	1.0	
+Depressive Symptoms	CYP2D6	1.0	
+Depressive Symptoms	CYP3A4	1.0	
+Depressive Symptoms	DRD2	1.0	
+Depressive Symptoms	DRD4	1.0	
+Depressive Symptoms	HTR1A	1.0	
+Depressive Symptoms	HTR2A	1.0	
+Depressive Symptoms	HTR2C	1.0	
+Osteochondritis dissecans	CYP2C19	1.0	
+Osteochondritis dissecans	CYP2D6	1.0	
+Osteochondritis dissecans	DRD2	1.0	
+Osteochondritis dissecans	DRD4	1.0	
+Osteochondritis dissecans	HTR1B	1.0	
+Osteochondritis dissecans	HTR2A	1.0	
+Osteochondritis dissecans	HTR3A	1.0	
+Mood Disorders	ADRA2A	1.0	
+Mood Disorders	ADRA2C	1.0	
+Mood Disorders	CHRM2	1.0	
+Mood Disorders	CYP2D6	1.0	
+Mood Disorders	DRD1	1.0	
+Mood Disorders	DRD2	1.0	
+Mood Disorders	DRD3	1.0	
+Mood Disorders	DRD4	1.0	
+Mood Disorders	HTR1A	1.0	
+Mood Disorders	HTR1B	1.0	
+Mood Disorders	HTR2A	1.0	
+Mood Disorders	HTR2C	1.0	
+Mood Disorders	HTR3A	1.0	
+Mood Disorders	HTR7	1.0	
+Marijuana Abuse	ABCB1	1.0	
+Marijuana Abuse	ADRA2C	1.0	
+Marijuana Abuse	ANKK1	1.0	
+Marijuana Abuse	DRD1	1.0	
+Marijuana Abuse	DRD2	1.0	
+Marijuana Abuse	DRD3	1.0	
+Marijuana Abuse	DRD4	1.0	
+Marijuana Abuse	HTR2A	1.0	
+Major depressive disorder	ABCB1	1.0	
+Major depressive disorder	ADRA1A	1.0	
+Major depressive disorder	ADRA2A	1.0	
+Major depressive disorder	ADRA2C	1.0	
+Major depressive disorder	ANKK1	1.0	
+Major depressive disorder	CHRM2	1.0	
+Major depressive disorder	CYP2C19	1.0	
+Major depressive disorder	CYP2D6	1.0	
+Major depressive disorder	DRD1	1.0	
+Major depressive disorder	DRD2	1.0	
+Major depressive disorder	DRD3	1.0	
+Major depressive disorder	DRD4	1.0	
+Major depressive disorder	HTR1A	1.0	
+Major depressive disorder	HTR1B	1.0	
+Major depressive disorder	HTR2A	1.0	
+Major depressive disorder	HTR2C	1.0	
+Major depressive disorder	HTR3A	1.0	
+Nausea	ABCB1	1.0	
+Nausea	CYP2C19	1.0	
+Nausea	CYP2D6	1.0	
+Nausea	DRD2	1.0	
+Nausea	HTR2A	1.0	
+Nausea	HTR3A	1.0	
+Nicotine Dependence	ANKK1	1.0	
+Nicotine Dependence	CHRM2	1.0	
+Nicotine Dependence	DRD1	1.0	
+Nicotine Dependence	DRD2	1.0	
+Nicotine Dependence	DRD3	1.0	
+Nicotine Dependence	DRD4	1.0	
+Nicotine Dependence	HTR2A	1.0	
+Nicotine Dependence	HTR3A	1.0	
+Amphetamine-Related Disorders	CYP2D6	1.0	
+Amphetamine-Related Disorders	DRD1	1.0	
+Amphetamine-Related Disorders	DRD2	1.0	
+Amphetamine-Related Disorders	DRD3	1.0	
+Amphetamine-Related Disorders	DRD4	1.0	
+Amphetamine-Related Disorders	HTR1B	1.0	
+Amphetamine-Related Disorders	HTR3A	1.0	
+Acute postoperative pain	ABCB1	1.0	
+Acute postoperative pain	ADRA1A	1.0	
+Acute postoperative pain	CYP2D6	1.0	
+Acute postoperative pain	CYP3A4	1.0	
+Acute postoperative pain	HTR2A	1.0	
+Depressive Disorder	ABCB1	1.0	
+Depressive Disorder	ADRA2A	1.0	
+Depressive Disorder	ADRA2C	1.0	
+Depressive Disorder	ANKK1	1.0	
+Depressive Disorder	CHRM2	1.0	
+Depressive Disorder	CYP2C19	1.0	
+Depressive Disorder	CYP2D6	1.0	
+Depressive Disorder	DRD1	1.0	
+Depressive Disorder	DRD2	1.0	
+Depressive Disorder	DRD3	1.0	
+Depressive Disorder	DRD4	1.0	
+Depressive Disorder	HTR1A	1.0	
+Depressive Disorder	HTR1B	1.0	
+Depressive Disorder	HTR2A	1.0	
+Depressive Disorder	HTR2C	1.0	
+Depressive Disorder	HTR3A	1.0	
+Depressive Disorder	HTR7	1.0	
+Migraine Disorders	ANKK1	1.0	
+Migraine Disorders	CYP2D6	1.0	
+Migraine Disorders	CYP3A4	1.0	
+Migraine Disorders	DRD1	1.0	
+Migraine Disorders	DRD2	1.0	
+Migraine Disorders	DRD3	1.0	
+Migraine Disorders	DRD4	1.0	
+Migraine Disorders	HTR1A	1.0	
+Migraine Disorders	HTR1B	1.0	
+Migraine Disorders	HTR2A	1.0	
+Migraine Disorders	HTR2C	1.0	
+Migraine Disorders	HTR3A	1.0	
+Migraine Disorders	HTR7	1.0	
+Mental disorders	ABCB1	1.0	
+Mental disorders	ADRA2C	1.0	
+Mental disorders	ANKK1	1.0	
+Mental disorders	CHRM2	1.0	
+Mental disorders	CYP2C19	1.0	
+Mental disorders	CYP2D6	1.0	
+Mental disorders	DRD2	1.0	
+Mental disorders	DRD3	1.0	
+Mental disorders	DRD4	1.0	
+Mental disorders	HTR1A	1.0	
+Mental disorders	HTR1B	1.0	
+Mental disorders	HTR2A	1.0	
+Mental disorders	HTR2C	1.0	
+Mental disorders	HTR3A	1.0	
+Mental disorders	HTR7	1.0	
+Substance abuse problem	DRD2	1.0	
+Substance abuse problem	DRD3	1.0	
+Substance abuse problem	DRD4	1.0	
+Substance abuse problem	HTR1B	1.0	
+Substance abuse problem	HTR2C	1.0	
+Drug usage	ABCB1	1.0	
+Drug usage	ADRA2A	1.0	
+Drug usage	DRD1	1.0	
+Drug usage	DRD2	1.0	
+Drug usage	DRD4	1.0	
+Chronic Fatigue Syndrome	HTR1A	1.0	
+Chronic Fatigue Syndrome	HTR2A	1.0	
+Chronic Fatigue Syndrome	HTR2C	1.0	
+Chronic Fatigue Syndrome	HTR3A	1.0	
+Chronic Fatigue Syndrome	HTR7	1.0	
+Eating disorder	CYP2D6	1.0	
+Eating disorder	DRD2	1.0	
+Eating disorder	DRD4	1.0	
+Eating disorder	HTR2A	1.0	
+Eating disorder	HTR2C	1.0	
+Eating disorder	HTR3A	1.0	
+Pain insensitivity	ABCB1	1.0	
+Pain insensitivity	CYP2D6	1.0	
+Pain insensitivity	CYP3A4	1.0	
+Pain insensitivity	CYP3A5	1.0	
+Pain insensitivity	DRD2	1.0	
+{Unipolar depression, susceptibility to}, 608516 (3)	ABCB1	1.0	
+{Unipolar depression, susceptibility to}, 608516 (3)	ADRA2A	1.0	
+{Unipolar depression, susceptibility to}, 608516 (3)	ADRA2C	1.0	
+{Unipolar depression, susceptibility to}, 608516 (3)	ANKK1	1.0	
+{Unipolar depression, susceptibility to}, 608516 (3)	CHRM2	1.0	
+{Unipolar depression, susceptibility to}, 608516 (3)	CYP2C19	1.0	
+{Unipolar depression, susceptibility to}, 608516 (3)	CYP2D6	1.0	
+{Unipolar depression, susceptibility to}, 608516 (3)	DRD2	1.0	
+{Unipolar depression, susceptibility to}, 608516 (3)	DRD3	1.0	
+{Unipolar depression, susceptibility to}, 608516 (3)	DRD4	1.0	
+{Unipolar depression, susceptibility to}, 608516 (3)	HTR1A	1.0	
+{Unipolar depression, susceptibility to}, 608516 (3)	HTR1B	1.0	
+{Unipolar depression, susceptibility to}, 608516 (3)	HTR2A	1.0	
+{Unipolar depression, susceptibility to}, 608516 (3)	HTR2C	1.0	
+{Unipolar depression, susceptibility to}, 608516 (3)	HTR3A	1.0	
+{Unipolar depression, susceptibility to}, 608516 (3)	HTR7	1.0	
+Seasonal Affective Disorder	DRD4	1.0	
+Seasonal Affective Disorder	HTR1A	1.0	
+Seasonal Affective Disorder	HTR2A	1.0	
+Seasonal Affective Disorder	HTR2C	1.0	
+Abnormality of the basal ganglia	CYP2D6	1.0	
+Abnormality of the basal ganglia	DRD2	1.0	
+Abnormality of the basal ganglia	DRD3	1.0	
+Abnormality of the basal ganglia	HTR2A	1.0	
+Abnormality of the basal ganglia	HTR2C	1.0	
+Antisocial Personality Disorder	ANKK1	1.0	
+Antisocial Personality Disorder	DRD2	1.0	
+Antisocial Personality Disorder	HTR1B	1.0	
+Antisocial Personality Disorder	HTR2A	1.0	
+Cocaine delirium	CYP3A4	1.0	
+Cocaine delirium	CYP3A5	1.0	
+Cocaine delirium	DRD2	1.0	
+Cocaine delirium	DRD3	1.0	
+CNS symptom	CYP2D6	1.0	
+CNS symptom	DRD1	1.0	
+CNS symptom	DRD3	1.0	
+CNS symptom	HTR2A	1.0	
+CNS symptom	HTR2C	1.0	
+Gastroparesis	ABCB1	1.0	
+Gastroparesis	ADRA1A	1.0	
+Gastroparesis	CYP2D6	1.0	
+Gastroparesis	DRD2	1.0	
+Sleep Wake Disorders	DRD2	1.0	
+Sleep Wake Disorders	DRD3	1.0	
+Sleep Wake Disorders	DRD4	1.0	
+Sleep Wake Disorders	HTR2A	1.0	
+Sleep Wake Disorders	HTR2C	1.0	
+Sleep Wake Disorders	HTR7	1.0	
+Bipolar I disorder	ANKK1	1.0	
+Bipolar I disorder	DRD1	1.0	
+Bipolar I disorder	DRD2	1.0	
+Bipolar I disorder	HTR2A	1.0	
+Bipolar I disorder	HTR2C	1.0	
+Neurotoxicity Syndromes	ABCB1	1.0	
+Neurotoxicity Syndromes	CYP2C19	1.0	
+Neurotoxicity Syndromes	CYP3A5	1.0	
+Neurotoxicity Syndromes	DRD2	1.0	
+Increased body weight	ABCB1	1.0	
+Increased body weight	ADRA2A	1.0	
+Increased body weight	ANKK1	1.0	
+Increased body weight	CYP2D6	1.0	
+Increased body weight	DRD1	1.0	
+Increased body weight	DRD2	1.0	
+Increased body weight	DRD3	1.0	
+Increased body weight	DRD4	1.0	
+Increased body weight	HTR1A	1.0	
+Increased body weight	HTR1B	1.0	
+Increased body weight	HTR2A	1.0	
+Increased body weight	HTR2C	1.0	
+Increased body weight	HTR3A	1.0	
+Increased body weight	HTR7	1.0	
+Antisocial/borderline personality disorder	ANKK1	1.0	
+Antisocial/borderline personality disorder	DRD2	1.0	
+Antisocial/borderline personality disorder	DRD4	1.0	
+Antisocial/borderline personality disorder	HTR1B	1.0	
+Cycloid psychosis	ABCB1	1.0	
+Cycloid psychosis	CYP2D6	1.0	
+Cycloid psychosis	DRD1	1.0	
+Cycloid psychosis	DRD2	1.0	
+Cycloid psychosis	DRD3	1.0	
+Cycloid psychosis	DRD4	1.0	
+Cycloid psychosis	HTR2A	1.0	
+Cycloid psychosis	HTR2C	1.0	
+Drug Allergy	ABCB1	1.0	
+Drug Allergy	CYP2C19	1.0	
+Drug Allergy	CYP2D6	1.0	
+Drug Allergy	CYP3A4	1.0	
+Drug Allergy	CYP3A5	1.0	
+Polydipsia	ABCB1	1.0	
+Polydipsia	ADRA2A	1.0	
+Polydipsia	CYP2D6	1.0	
+Polydipsia	DRD2	1.0	
+Cocaine-Related Disorders	DRD1	1.0	
+Cocaine-Related Disorders	DRD2	1.0	
+Cocaine-Related Disorders	DRD3	1.0	
+Cocaine-Related Disorders	HTR1A	1.0	
+Cocaine-Related Disorders	HTR1B	1.0	
+Cocaine-Related Disorders	HTR2A	1.0	
+Recurrent major depressive episodes	CHRM2	1.0	
+Recurrent major depressive episodes	HTR2A	1.0	
+Recurrent major depressive episodes	HTR2C	1.0	
+Irritable bowel syndrome with diarrhea	ABCB1	1.0	
+Irritable bowel syndrome with diarrhea	ADRA2A	1.0	
+Irritable bowel syndrome with diarrhea	ADRA2C	1.0	
+Irritable bowel syndrome with diarrhea	HTR1B	1.0	
+Irritable bowel syndrome with diarrhea	HTR2A	1.0	
+Irritable bowel syndrome with diarrhea	HTR3A	1.0	
+Irritable bowel syndrome with diarrhea	HTR7	1.0	
+Agitation	CYP2D6	1.0	
+Agitation	DRD3	1.0	
+Agitation	DRD4	1.0	
+Agitation	HTR2A	1.0	
+Agitation	HTR2C	1.0	
+Bradycardia	CHRM2	1.0	
+Bradycardia	CYP2D6	1.0	
+Bradycardia	DRD2	1.0	
+Bradycardia	HTR1A	1.0	
+Obstructive sleep apnea	ABCB1	1.0	
+Obstructive sleep apnea	ADRA2A	1.0	
+Obstructive sleep apnea	CYP2D6	1.0	
+Obstructive sleep apnea	HTR1B	1.0	
+Obstructive sleep apnea	HTR2A	1.0	
+Obstructive sleep apnea	HTR2C	1.0	
+Obstructive sleep apnea	HTR3A	1.0	
+Substance-Related Disorders	ANKK1	1.0	
+Substance-Related Disorders	CHRM2	1.0	
+Substance-Related Disorders	CYP2D6	1.0	
+Substance-Related Disorders	DRD2	1.0	
+Substance-Related Disorders	DRD4	1.0	
+Substance-Related Disorders	HTR1A	1.0	
+Substance-Related Disorders	HTR2C	1.0	
+Dyspepsia	CYP2C19	1.0	
+Dyspepsia	DRD2	1.0	
+Dyspepsia	HTR2A	1.0	
+Dyspepsia	HTR3A	1.0	
+Memory Disorders	ADRA1A	1.0	
+Memory Disorders	DRD2	1.0	
+Memory Disorders	HTR1A	1.0	
+Memory Disorders	HTR7	1.0	
+Generalized anxiety disorder	DRD2	1.0	
+Generalized anxiety disorder	DRD3	1.0	
+Generalized anxiety disorder	HTR2A	1.0	
+Psychotic Disorders	ABCB1	1.0	
+Psychotic Disorders	CYP2D6	1.0	
+Psychotic Disorders	DRD1	1.0	
+Psychotic Disorders	DRD2	1.0	
+Psychotic Disorders	DRD3	1.0	
+Psychotic Disorders	DRD4	1.0	
+Psychotic Disorders	HTR1A	1.0	
+Psychotic Disorders	HTR1B	1.0	
+Psychotic Disorders	HTR2A	1.0	
+Psychotic Disorders	HTR2C	1.0	
+Neuralgia	ADRA2A	1.0	
+Neuralgia	ADRA2C	1.0	
+Neuralgia	DRD1	1.0	
+Neuralgia	DRD2	1.0	
+Neuralgia	HTR2C	1.0	
+body mass	ADRA2A	1.0	
+body mass	DRD4	1.0	
+body mass	HTR1B	1.0	
+body mass	HTR2A	1.0	
+body mass	HTR2C	1.0	
+Congenital long QT syndrome	ADRA1A	1.0	
+Congenital long QT syndrome	CYP2D6	1.0	
+Congenital long QT syndrome	CYP3A4	1.0	
+Attention deficit hyperactivity disorder	ADRA1A	1.0	
+Attention deficit hyperactivity disorder	ADRA2A	1.0	
+Attention deficit hyperactivity disorder	ADRA2C	1.0	
+Attention deficit hyperactivity disorder	ANKK1	1.0	
+Attention deficit hyperactivity disorder	CYP2D6	1.0	
+Attention deficit hyperactivity disorder	DRD1	1.0	
+Attention deficit hyperactivity disorder	DRD2	1.0	
+Attention deficit hyperactivity disorder	DRD3	1.0	
+Attention deficit hyperactivity disorder	DRD4	1.0	
+Attention deficit hyperactivity disorder	HTR1A	1.0	
+Attention deficit hyperactivity disorder	HTR1B	1.0	
+Attention deficit hyperactivity disorder	HTR2A	1.0	
+Attention deficit hyperactivity disorder	HTR2C	1.0	

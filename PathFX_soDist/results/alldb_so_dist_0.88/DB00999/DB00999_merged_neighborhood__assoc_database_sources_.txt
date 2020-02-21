@@ -1,0 +1,102 @@
+Gene	CUI	Source Databases	
+KCNMA1	C1384514	Primary hyperaldosteronism	DisGeNet	
+SLC12A3	C1384514	Primary hyperaldosteronism	DisGeNet	
+KCNMA1	C0085580	Essential hypertension	DisGeNet	
+SLC12A3	C0085580	Essential hypertension	DisGeNet	
+SLC12A3	C0268450	Familial hypokalemia-hypomagnesemia	ClinVar,DisGeNet	
+SLC12A3	C0242387	Treacher Collins syndrome	DisGeNet	
+KCNMA1	C0005694	Bladder neck obstruction	DisGeNet	
+SLC12A3	C0553730	Chondrocalcinosis	HumPhenOnt	
+KCNMA1	C0001126	Renal tubular acidosis, distal, autosomal dominant	DisGeNet	
+KCNMA1	C0005944	Metabolic Bone Disorder	DisGeNet	
+SLC12A3	C3693260	Abnormal urine output	HumPhenOnt	
+SLC12A3	C0546817	Hypervolemia	DisGeNet	
+SLC12A3	C0854912	Germinoma	DisGeNet	
+SLC12A3	C4022657	Abnormal drinking behavior	HumPhenOnt	
+SLC12A3	C4023579	Abnormality of renal excretion	HumPhenOnt	
+KCNMA1	C0152096	Complete trisomy 18 syndrome	DisGeNet	
+SLC12A3	C0175704	Noonan syndrome with multiple lentigines	DisGeNet	
+SLC12A3	C0002063	Alkalosis	HumPhenOnt	
+SLC12A3	C0032617	Polyuria	HumPhenOnt	
+KCNMA1	C4023515	Dialeptic seizures	HumPhenOnt	
+SLC12A3	C0206633	{TSC2 angiomyolipomas, renal, modifier of}, 613254 (3)	DisGeNet	
+SLC12A3	C0027707	Tubulointerstitial nephritis	DisGeNet	
+SLC12A3	C4023575	Abnormality of potassium homeostasis	HumPhenOnt	
+SLC12A3	C0020621	Hypokalemia	HumPhenOnt	
+SLC12A3	C0085602	Polydipsia	HumPhenOnt	
+KCNMA1	C4023476	EEG with generalized epileptiform discharges	HumPhenOnt	
+SLC12A3	C4023434	Abnormality of urine calcium concentration	HumPhenOnt	
+KCNMA1	C0600327	Toxic Shock Syndrome	DisGeNet	
+SLC12A3	C0751674	Lymphangiomyomatosis	DisGeNet	
+KCNMA1	C0013819	EEG with irregular generalized spike and wave complexes	HumPhenOnt	
+SLC12A3	C4023645	Abnormality of monovalent inorganic cation homeostasis	HumPhenOnt	
+SLC12A3	C0431380	Cortical dysplasia, complex, with other brain malformations 3	DisGeNet	
+SLC12A3	C3542024	Aortic valve disease 2	DisGeNet	
+SLC12A3	C0559758	Multisystem disorder	DisGeNet	
+KCNMA1	C0019284	Diaphragmatic hernia	DisGeNet	
+SLC12A3	C0151747	Renal tubular dysfunction	DisGeNet	
+KCNMA1	C1335177	Ovarian Serous Adenocarcinoma	DisGeNet	
+KCNMA1	C0014544	Epilepsy	DisGeNet	
+SLC12A3	C0014544	Epilepsy	DisGeNet	
+KCNMA1	C0000768	EMG: myopathic abnormalities	DisGeNet	
+SLC12A3	C0000768	EMG: myopathic abnormalities	DisGeNet	
+SLC12A3	C0149630	Bicuspid aortic valve	DisGeNet	
+KCNMA1	C0014548	Epilepsy, generalized, with febrile seizures plus, type 6 (2)	DisGeNet	
+SLC12A3	C0746674	Generalized muscle weakness	HumPhenOnt	
+SLC12A3	C2931876	Hirschsprung disease 1	DisGeNet	
+SLC12A3	C4073150	Abnormal consumption behavior	HumPhenOnt	
+SLC12A3	C0020438	Hypercalciuria	DisGeNet	
+SLC12A3	C0027709	Nephrocalcinosis	DisGeNet	
+SLC12A3	C0014599	Epithelial hyperplasia of skin	DisGeNet	
+KCNMA1	C0014553	Absence seizures	HumPhenOnt	
+SLC12A3	C0205217	Increased analgesia from kappa-opioid receptor agonist, female-specific	HumPhenOnt	
+SLC12A3	C4025588	Juvenile onset	HumPhenOnt	
+SLC12A3	C0008487	Chordoma	DisGeNet	
+KCNMA1	C0152013	Adenocarcinoma of lung	DisGeNet	
+SLC12A3	C0152013	Adenocarcinoma of lung	DisGeNet	
+SLC12A3	C0026821	Muscle cramps	HumPhenOnt	
+SLC12A3	C0522224	Paralysis	DisGeNet,HumPhenOnt	
+KCNMA1	C0494475	Generalized tonic-clonic seizures	HumPhenOnt	
+SLC12A3	C0030554	Paresthesia	HumPhenOnt	
+SLC12A3	C4022833	Abnormal urinary electrolyte concentration	HumPhenOnt	
+KCNMA1	C0023380	Lethargy	DisGeNet	
+SLC12A3	C0221198	NOONAN-LIKE/MULTIPLE GIANT CELL LESION SYNDROME (disorder)	DisGeNet	
+SLC12A3	C0018552	Hamartoma	DisGeNet	
+KCNMA1	C1561955	Fibrinogen Adverse Event	DisGeNet	
+SLC12A3	C4025337	Abnormality of calcium homeostasis	HumPhenOnt	
+KCNMA1	C0008489	Chorea, childhood-onset, with psychomotor retardation	DisGeNet	
+SLC12A3	C4023648	Abnormality of divalent inorganic cation homeostasis	HumPhenOnt	
+SLC12A3	C0949664	Tauopathies	DisGeNet	
+KCNMA1	C0242350	Impotence	DisGeNet	
+KCNMA1	C0028756	Obesity, severe, 601665 (3)	DisGeNet	
+KCNMA1	C0220650	Metastatic malignant neoplasm to brain	DisGeNet	
+KCNMA1	C0234533	Generalized seizures	HumPhenOnt	
+KCNMA1	C0346957	Disseminated Malignant Neoplasm	DisGeNet	
+SLC12A3	C3806226	Ectopic calcification	HumPhenOnt	
+SLC12A3	C0019569	Hirschsprung Disease	DisGeNet	
+KCNMA1	C0020503	Secondary hyperparathyroidism	DisGeNet	
+KCNMA1	C0598935	Tumor Initiation	DisGeNet	
+KCNMA1	C0038220	Status epilepticus	DisGeNet	
+SLC12A3	C0151313	Sensory neuropathy	HumPhenOnt	
+SLC12A3	C0000737	Abdominal pain	HumPhenOnt	
+SLC12A3	C0041341	Tuberous sclerosis syndrome	DisGeNet	
+SLC12A3	C4023646	Abnormality of cation homeostasis	HumPhenOnt	
+SLC12A3	C0042963	Vomiting	DisGeNet	
+KCNMA1	C0007134	Renal cell carcinoma, nonpapillary	DisGeNet	
+SLC12A3	C0007134	Renal cell carcinoma, nonpapillary	DisGeNet	
+SLC12A3	C4025654	Abnormality of ion homeostasis	HumPhenOnt	
+KCNMA1	C0010278	Craniosynostoses	DisGeNet	
+KCNMA1	C0151611	EEG abnormality	HumPhenOnt	
+KCNMA1	C0155552	Hearing Loss, Mixed Conductive-Sensorineural	DisGeNet	
+KCNMA1	C0036572	Seizures, Febrile	HumPhenOnt	
+SLC12A3	C0036572	Seizures, Febrile	HumPhenOnt	
+KCNMA1	C4022597	Abnormality of central nervous system electrophysiology	HumPhenOnt	
+SLC12A3	C2316810	Stage 5 chronic kidney disease	DisGeNet	
+KCNMA1	C0020538	Hypertension	DisGeNet	
+SLC12A3	C0020538	Hypertension	DisGeNet	
+KCNMA1	C0027404	Narcolepsy	DisGeNet	
+SLC12A3	C0011884	Diabetic Retinopathy	DisGeNet	
+KCNMA1	C0848558	Hypospadias	DisGeNet,PheGenI	
+SLC12A3	C0001118	Abnormality of acid-base homeostasis	HumPhenOnt	
+KCNMA1	C4021781	Abnormal nervous system electrophysiology	HumPhenOnt	
+KCNMA1	C0003130	Hypoxia	DisGeNet	

@@ -1,0 +1,101 @@
+node_name	node_type	
+DB01367	drug	
+MAOB	drug_target	
+CYP1A2	drug_target	
+BCL2	drug_target	
+Lichen Planus, Oral	phenotype	
+Liver Cirrhosis, Alcoholic	phenotype	
+Transitional cell carcinoma of the bladder	phenotype	
+Acute hepatic failure	phenotype	
+Liver Neoplasms, Experimental	phenotype	
+Testicular Neoplasms	phenotype	
+Chronic liver disease	phenotype	
+Hypercapnia	phenotype	
+Polyglandular Type I Autoimmune Syndrome	phenotype	
+Oculopharyngeal muscular dystrophy	phenotype	
+Cutaneous lymphoma	phenotype	
+Pleural Neoplasms	phenotype	
+Plasmablastic lymphoma	phenotype	
+Lymphoid hyperplasia	phenotype	
+Malignant neoplasm of adrenal cortex	phenotype	
+Oropharynx (excludes nasopharynx)	phenotype	
+Cervical dysplasia	phenotype	
+Cryoglobulinemia	phenotype	
+Seborrheic keratosis	phenotype	
+Gallbladder adenocarcinoma	phenotype	
+Fowlpox	phenotype	
+Lung Injury	phenotype	
+Chromosomal translocation	phenotype	
+Carcinoma, Signet Ring Cell	phenotype	
+Squamous Cell Neoplasms	phenotype	
+gastritis h pylori	phenotype	
+Generalized anxiety disorder	phenotype	
+Gastric Mucosa-Associated Lymphoid Tissue Lymphoma	phenotype	
+Squamous cell carcinoma of lung	phenotype	
+Monocytosis	phenotype	
+Chronic leukemia	phenotype	
+ {Porphyria cutanea tarda, susceptibility to}, 176100 (3)	phenotype	
+Medullary thyroid carcinoma	phenotype	
+Normal pressure hydrocephalus	phenotype	
+Circumscribed scleroderma	phenotype	
+Superinfection	phenotype	
+Uterine leiomyosarcoma	phenotype	
+Follicular neoplasm	phenotype	
+Complete hydatidiform mole	phenotype	
+Aggressive Non-Hodgkin Lymphoma	phenotype	
+Cervix Diseases	phenotype	
+Fatal infectious mononucleosis	phenotype	
+Lichen planus pemphigoides	phenotype	
+Meningitis, Pneumococcal	phenotype	
+Malignant neoplasm of oropharynx	phenotype	
+Comedone	phenotype	
+Prostate cancer recurrent	phenotype	
+Hypervolemia	phenotype	
+Dermatitis Herpetiformis	phenotype	
+Paranoid Schizophrenia	phenotype	
+Complete trisomy 18 syndrome	phenotype	
+Chronic schizophrenia	phenotype	
+AIDS related complex	phenotype	
+Condylomata Acuminata	phenotype	
+Folic Acid Deficiency	phenotype	
+Odontogenic neoplasm	phenotype	
+Genomic Instability	phenotype	
+Mediastinal (Thymic) Large B-Cell Lymphoma	phenotype	
+Lymphoma, AIDS-Related	phenotype	
+Lymphosarcoma	phenotype	
+Diffuse Astrocytoma	phenotype	
+Prolymphocytic Leukemia	phenotype	
+Prostatic Diseases	phenotype	
+Small Lymphocytic Lymphoma	phenotype	
+Arteriovenous fistula	phenotype	
+Bronchogenic Carcinoma	phenotype	
+Rabies (disorder)	phenotype	
+Neoplasm of the tongue	phenotype	
+Dermal atrophy	phenotype	
+Mixed cryoglobulinemia	phenotype	
+Chemical Carcinogenesis	phenotype	
+Gestational trophoblastic disease	phenotype	
+Thrombotic Microangiopathies	phenotype	
+Precursor cell lymphoblastic lymphoma	phenotype	
+Primary central nervous system lymphoma	phenotype	
+Cervical intraepithelial neoplasia grade 1	phenotype	
+Primary Carcinoma	phenotype	
+Fuchs' Endothelial Dystrophy	phenotype	
+Reticulosarcoma	phenotype	
+Thromboangiitis Obliterans	phenotype	
+Varicose Ulcer	phenotype	
+Learning Disorders	phenotype	
+Li-Fraumeni syndrome	phenotype	
+Trisomy 12	phenotype	
+Adenoma of large intestine	phenotype	
+Neck Neoplasms	phenotype	
+Dyskinesia, Drug-Induced	phenotype	
+Neoplasm of the gallbladder	phenotype	
+Pleuritis	phenotype	
+Polydipsia	phenotype	
+Ganglioneuroblastoma	phenotype	
+Cervical intraepithelial neoplasia grade 2	phenotype	
+Splenic Marginal Zone B-Cell Lymphoma	phenotype	
+Atypical teratoid/rhabdoid tumor	phenotype	
+Severe congenital neutropenia	phenotype	
+Endometrial Neoplasms	phenotype	

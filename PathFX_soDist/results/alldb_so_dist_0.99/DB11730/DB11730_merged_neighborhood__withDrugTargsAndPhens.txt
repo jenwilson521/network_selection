@@ -1,0 +1,5 @@
+node1	node2	edge_score	
+DB11730	CYP3A4	1.0	
+DB11730	CDK4	1.0	
+DB11730	CDK6	1.0	
+

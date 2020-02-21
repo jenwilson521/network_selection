@@ -1,0 +1,105 @@
+node1	node2	edge_score	
+DB01179	TUBA4A	1.0	
+DB01179	TUBB	1.0	
+DB01179	TOP2A	1.0	
+TOP2A		1.0
+ Adenocarcinoma, ovarian, somatic, 167000 (3)	TOP2A	1.0	
+Neoplasm of the adrenal cortex	TOP2A	1.0	
+Ataxia-telangiectasia syndrome	TOP2A	1.0	
+Malignant tumor of urinary bladder	TOP2A	1.0	
+Urinary Bladder Neoplasms	TOP2A	1.0	
+Breast-ovarian cancer, familial 1	TOP2A	1.0	
+Non-small cell lung carcinoma	TOP2A	1.0	
+Squamous cell carcinoma	TOP2A	1.0	
+Uterine Cervical Neoplasms	TOP2A	1.0	
+Neoplasm of the colon	TOP2A	1.0	
+Colorectal cancer 1	TOP2A	1.0	
+Colorectal Neoplasms	TOP2A	1.0	
+Crohn Disease	TOP2A	1.0	
+Adenoid Cystic Carcinoma	TOP2A	1.0	
+Diabetes mellitus type 2	TOP2A	1.0	
+Neoplasm of the gallbladder	TOP2A	1.0	
+Glioblastoma	TOP2A	1.0	
+Glioma	TOP2A	1.0	
+IgA nephropathy, susceptibility to, 3	TOP2A	1.0	
+Acute type B viral hepatitis	TOP2A	1.0	
+Hodgkin Disease	TOP2A	1.0	
+Leukemia, Lymphocytic, Chronic, B-Cell	TOP2A	1.0	
+Chronic Lymphocytic Leukemia	TOP2A	1.0	
+Acute lymphoid leukemia	TOP2A	1.0	
+Leukemia, Lymphocytic, Acute, L1	TOP2A	1.0	
+Acute myeloid leukemia	TOP2A	1.0	
+Liposarcoma	TOP2A	1.0	
+Lymphoma, Large B-Cell, Diffuse	TOP2A	1.0	
+{Gastric cancer risk after H. pylori infection}, 137215 (3)	TOP2A	1.0	
+Animal Mammary Neoplasms	TOP2A	1.0	
+Melanoma	TOP2A	1.0	
+Meningioma	TOP2A	1.0	
+Monosomy	TOP2A	1.0	
+Mycoplasma Infections	TOP2A	1.0	
+Secondary hypertriglyceridemia	TOP2A	1.0	
+Neoplasms	TOP2A	1.0	
+Wilms Tumor	TOP2A	1.0	
+Neoplasm of the nervous system	TOP2A	1.0	
+Neurofibromas	TOP2A	1.0	
+Pituitary Neoplasms	TOP2A	1.0	
+Polycystic Ovary Syndrome	TOP2A	1.0	
+Prostatic Neoplasms	TOP2A	1.0	
+Salivary gland neoplasm	TOP2A	1.0	
+Stomach Neoplasms	TOP2A	1.0	
+Tuberculosis	TOP2A	1.0	
+Abnormality of the genitourinary system	TOP2A	1.0	
+Germinal Center B-Cell-Like Diffuse Large B-Cell Lymphoma	TOP2A	1.0	
+Acute leukemia	TOP2A	1.0	
+Benign neoplasm of other endocrine glands	TOP2A	1.0	
+Small cell lung cancer	TOP2A	1.0	
+Cutaneous malignant melanoma 3	TOP2A	1.0	
+Agenesis of corpus callosum	TOP2A	1.0	
+Lichen Planus, Oral	TOP2A	1.0	
+Adrenocortical carcinoma	TOP2A	1.0	
+Neuroepithelial neoplasm	TOP2A	1.0	
+Nerve Sheath Tumors	TOP2A	1.0	
+Pancreatic Carcinoma	TOP2A	1.0	
+Malignant neoplasm of lung	TOP2A	1.0	
+Disease Progression	TOP2A	1.0	
+Carcinoma breast stage IV	TOP2A	1.0	
+Breast cancer recurrent	TOP2A	1.0	
+Gastric Adenocarcinoma	TOP2A	1.0	
+Laryngeal Squamous Cell Carcinoma	TOP2A	1.0	
+Pancreatic adenocarcinoma	TOP2A	1.0	
+High-Grade Squamous Intraepithelial Lesions	TOP2A	1.0	
+Malignant lymphoma, lymphocytic, intermediate differentiation, diffuse	TOP2A	1.0	
+Chronic liver disease	TOP2A	1.0	
+Malignant neoplasm of pancreas	TOP2A	1.0	
+Malignant tumor of prostate	TOP2A	1.0	
+Hematological neoplasm	TOP2A	1.0	
+Abnormality of the nervous system	TOP2A	1.0	
+Carcinogenesis	TOP2A	1.0	
+Prostate carcinoma	TOP2A	1.0	
+Ovarian epithelial cancer	TOP2A	1.0	
+Breast carcinoma	TOP2A	1.0	
+Lung cancer	TOP2A	1.0	
+Stomach cancer	TOP2A	1.0	
+Bladder carcinoma	TOP2A	1.0	
+Neuroblastoma	TOP2A	1.0	
+Poorly differentiated carcinoma	TOP2A	1.0	
+Malignant peripheral nerve sheath tumor with rhabdomyoblastic differentiation	TOP2A	1.0	
+Invasive breast carcinoma	TOP2A	1.0	
+Advanced cancer	TOP2A	1.0	
+Ovarian Neoplasms	TOP2A	1.0	
+Invasive Ductal Breast Carcinoma	TOP2A	1.0	
+BREAST-OVARIAN CANCER, FAMILIAL, SUSCEPTIBILITY TO, 4	TOP2A	1.0	
+Colorectal cancer	TOP2A	1.0	
+Benign Prostatic Hyperplasia	TOP2A	1.0	
+Glucocorticoid resistance, generalized	TOP2A	1.0	
+Precursor Cell Lymphoblastic Leukemia-Lymphoma	TOP2A	1.0	
+Hepatocellular carcinoma	TOP2A	1.0	
+Nasopharyngeal carcinoma, susceptibility to, 3	TOP2A	1.0	
+Early-Stage Breast Carcinoma	TOP2A	1.0	
+Neoplasm of the thymus	TOP2A	1.0	
+Abnormality of metabolism/homeostasis	TOP2A	1.0	
+Abnormality of the urinary system	TOP2A	1.0	
+Abnormality of nervous system morphology	TOP2A	1.0	
+Neoplasm by anatomical site	TOP2A	1.0	
+Abnormality of the urinary system physiology	TOP2A	1.0	
+Abnormality of urine homeostasis	TOP2A	1.0	

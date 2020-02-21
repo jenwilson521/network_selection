@@ -1,0 +1,6 @@
+rank	phenotype	cui	assoc in neigh	assoc in intom	probability	Benjamini-Hochberg	genes	
+29	Primary malignant neoplasm of liver	C0024620	2	25	1.1019710325022025e-05	4.90693739425e-05	CYP2C19,CYP3A4
+42	Rhinitis, Allergic, Perennial	C0035457	2	35	3.098029828974003e-05	7.10659898477e-05	ALB,CYP2C19
+43	End Stage Liver Disease	C0745744	2	38	3.978618236000209e-05	7.2758037225e-05	ALB,CYP2C19
+46	21-hydroxylase deficiency	C1291314	2	40	4.648360978798394e-05	7.7834179357e-05	CYP2C19,CYP3A4
+50	Tubulointerstitial nephritis	C0027707	2	44	6.200917650101001e-05	8.46023688663e-05	ALB,CYP2C19

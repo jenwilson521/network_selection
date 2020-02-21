@@ -1,0 +1,20 @@
+Gene	CUI	Source Databases	
+NR1I2	C1397307	Cardiac fibrosis	DisGeNet	
+SCN5A	C1397307	Cardiac fibrosis	DisGeNet	
+NR1I2	C0432306	Ichthyosis bullosa of Siemens	DisGeNet	
+SCN5A	C0432306	Ichthyosis bullosa of Siemens	DisGeNet	
+SCN5A	C0035828	Romano-Ward syndrome	ClinVar,DisGeNet	
+SCN5A	C1631597	VENTRICULAR TACHYCARDIA, CATECHOLAMINERGIC POLYMORPHIC, 1 (disorder)	DisGeNet	
+SCN5A	C0030252	Palpitations	HumPhenOnt	
+SCN5A	C1960469	Left ventricular noncompaction	DisGeNet	
+NR1I2	C0006845	Chronic mucocutaneous candidiasis	DisGeNet	
+SCN5A	C0410000	Overlap syndrome	DisGeNet	
+NR1I2	C0022104	Irritable bowel syndrome with diarrhea	DisGeNet	
+SCN5A	C0022104	Irritable bowel syndrome with diarrhea	DisGeNet	
+NR1I2	C0041408	46,XY gonadal dysgenesis, partial, with minifascicular neuropathy	DisGeNet	
+SCN5A	C0041408	46,XY gonadal dysgenesis, partial, with minifascicular neuropathy	DisGeNet	
+NR1I2	C0751214	Hyperalgesia, Thermal	DisGeNet	
+NR1I2	C0860204	Cholestatic liver disease	DisGeNet	
+NR1I2	C2936719	Mechanical Allodynia	DisGeNet	
+SCN5A	C0151878	Prolonged QT interval	DisGeNet,HumPhenOnt	
+SCN5A	C1141890	Congenital long QT syndrome	DisGeNet	

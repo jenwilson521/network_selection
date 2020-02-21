@@ -1,0 +1,5 @@
+node_name	node_type	
+DB00290	drug	
+BLMH	drug_target	
+LIG1	drug_target	
+LIG3	drug_target	

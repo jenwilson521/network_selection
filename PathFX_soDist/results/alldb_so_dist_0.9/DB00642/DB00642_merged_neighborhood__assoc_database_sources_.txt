@@ -1,0 +1,11 @@
+Gene	CUI	Source Databases	
+ATIC	C0041755	Adverse drug events and drug allergies	DisGeNet	
+DHFR	C0041755	Adverse drug events and drug allergies	DisGeNet	
+TYMS	C0041755	Adverse drug events and drug allergies	DisGeNet	
+DCK	C0677936	Refractory cancer	DisGeNet	
+DHFR	C0677936	Refractory cancer	DisGeNet	
+TYMS	C0677936	Refractory cancer	DisGeNet	
+DHFR	C0854467	Myelosuppression	DisGeNet	
+TYMS	C0854467	Myelosuppression	DisGeNet	
+DHFR	C0016412	Folic Acid Deficiency	DisGeNet	
+TYMS	C0016412	Folic Acid Deficiency	DisGeNet	

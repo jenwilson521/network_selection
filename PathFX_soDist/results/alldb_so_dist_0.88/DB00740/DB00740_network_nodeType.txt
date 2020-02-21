@@ -1,0 +1,19 @@
+node_name	node_type	
+DB00740	drug	
+CYP1A1	drug_target	
+CYP1A2	drug_target	
+SCN5A	drug_target	
+ABCG2	drug_target	
+SLC7A11	drug_target	
+Pleural Neoplasms	phenotype	
+Genomic Instability	phenotype	
+Lung Injury	phenotype	
+Squamous Cell Neoplasms	phenotype	
+Liver Cirrhosis, Alcoholic	phenotype	
+Chemical Carcinogenesis	phenotype	
+Nausea	phenotype	
+Intrahepatic cholestasis	phenotype	
+Adverse drug events and drug allergies	phenotype	
+Colonic Polyps	phenotype	
+Pharyngeal Neoplasms	phenotype	
+Colorectal polyposis	phenotype	

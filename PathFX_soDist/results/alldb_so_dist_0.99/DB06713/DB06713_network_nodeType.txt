@@ -1,0 +1,6 @@
+node_name	node_type	
+DB06713	drug	
+PGR	drug_target	
+CYP3A4	drug_target	
+AR	drug_target	
+ALB	drug_target	

@@ -1,0 +1,128 @@
+Gene	CUI	Source Databases	
+ALB	C0010308	Congenital hypothyroidism	DisGeNet	
+PDE4D	C0010308	Congenital hypothyroidism	HumPhenOnt	
+PDE4B	C0236733	Amphetamine-Related Disorders	DisGeNet	
+PDE4D	C0236733	Amphetamine-Related Disorders	DisGeNet	
+ALB	C0042373	Vascular Diseases	DisGeNet	
+PDE4D	C0042373	Vascular Diseases	DisGeNet	
+PTGIR	C0042373	Vascular Diseases	DisGeNet	
+ALB	C0151744	Acute myocardial ischemia	DisGeNet	
+PDE4B	C0151744	Acute myocardial ischemia	DisGeNet	
+PDE4D	C0151744	Acute myocardial ischemia	DisGeNet	
+PDE4D	C0042487	Venous thrombosis	HumPhenOnt	
+PTGIR	C0042487	Venous thrombosis	DisGeNet	
+ALB	C0011581	Depressive Disorder	DisGeNet	
+PDE4B	C0011581	Depressive Disorder	DisGeNet	
+PDE4D	C0011581	Depressive Disorder	DisGeNet	
+PDE4D	C0085681	Hyperphosphatemia	HumPhenOnt	
+PDE4D	C0220659	 Acrodysostosis 1, with or without hormone resistance, 101800 (3)	DisGeNet	
+PDE4D	C0578626	Blue irides	HumPhenOnt	
+ALB	C0346402	Malignant neoplasm of adrenal cortex	DisGeNet	
+ALB	C0014867	Esophageal varix	DisGeNet	
+ALB	C0451641	Urolithiasis	DisGeNet	
+ALB	C0013502	Echinococcosis	DisGeNet	
+KRT9	C0079298	Epidermolysis bullosa simplex, Cockayne-Touraine type	DisGeNet	
+KRT9	C0240641	Palmar hyperkeratosis	HumPhenOnt	
+PDE4D	C3494506	Pseudohypoparathyroidism, Type Ia	DisGeNet	
+ALB	C0339467	Proliferative retinopathy	DisGeNet	
+PDE4D	C0033806	Pseudohypoparathyroidism type 1A	DisGeNet,HumPhenOnt	
+KRT9	C0043037	Verrucae	HumPhenOnt	
+ALB	C3714796	Isolated somatotropin deficiency	DisGeNet	
+ALB	C0038586	Substance Use Disorders	DisGeNet	
+ALB	C0751781	Dentatorubral pallidoluysian atrophy	DisGeNet	
+PDE4D	C1859126	Epiphyseal stippling	HumPhenOnt	
+ALB	C0002985	Angiokeratoma	DisGeNet	
+ALB	C0013338	Isolated growth hormone deficiency type 1B	DisGeNet	
+KRT9	C1856954	Plantar hyperkeratosis	HumPhenOnt	
+PDE4D	C0685381	Hypoplasia of the radius	HumPhenOnt	
+PDE4D	C4023400	Generalized hypopigmentation of hair	HumPhenOnt	
+ALB	C0031039	Pericardial effusion	DisGeNet	
+PDE4D	C0266061	Open bite	HumPhenOnt	
+ALB	C0026780	Mumps	DisGeNet	
+ALB	C0035457	Rhinitis, Allergic, Perennial	DisGeNet	
+ALB	C0342200	Endemic Cretinism	DisGeNet	
+PDE4D	C1849020	Short metatarsal	HumPhenOnt	
+ALB	C0206734	Hemangioblastoma	DisGeNet	
+ALB	C0017662	Mesangiocapillary glomerulonephritis, type II	DisGeNet	
+ALB	C0027719	Nephrosclerosis	DisGeNet	
+ALB	C0235025	Peripheral motor neuropathy	DisGeNet	
+ALB	C0745744	End Stage Liver Disease	DisGeNet	
+PDE4D	C1860182	Aplasia/Hypoplasia of metatarsal bones	HumPhenOnt	
+ALB	C4023036	Abnormal albumin level	HumPhenOnt	
+ALB	C0007121	Bronchogenic Carcinoma	DisGeNet	
+ALB	C0010051	Coronary artery aneurysm	DisGeNet	
+ALB	C0020476	Hyperlipoproteinemia	DisGeNet	
+PTGIR	C0340708	Deep vein thrombosis of lower limb	DisGeNet	
+ALB	C0745103	Hyperlipoproteinemia Type IIa	DisGeNet	
+ALB	C0027707	Tubulointerstitial nephritis	DisGeNet	
+PTGIR	C0151950	Deep thrombophlebitis	DisGeNet	
+ALB	C1298180	Single tumor	DisGeNet	
+ALB	C1704321	Nephrotic Syndrome, Minimal Change	DisGeNet	
+PDE4D	C4022401	Abnormal morphology of the radius	HumPhenOnt	
+KRT9	C0037277	Skin Diseases, Genetic	DisGeNet	
+PDE4D	C4021246	Abnormal epiphyseal ossification	HumPhenOnt	
+KRT9	C0853087	Abnormality of the nail	HumPhenOnt	
+PDE4D	C0853087	Abnormality of the nail	HumPhenOnt	
+ALB	C0740380	Varicella zoster	DisGeNet	
+ALB	C1260959	Drusen	DisGeNet	
+KRT9	C0151669	Increased antibody level in blood	HumPhenOnt	
+ALB	C3714619	Insulin resistance syndrome	DisGeNet	
+PDE4B	C0013386	Dyskinesia, Drug-Induced	DisGeNet	
+PDE4D	C1860614	Hypoplasia of the ulna	HumPhenOnt	
+PDE4D	C4022453	Abnormal morphology of ulna	HumPhenOnt	
+PDE4D	C0020598	Hypocalcemia	HumPhenOnt	
+ALB	C0027720	Nephrosis	DisGeNet	
+PDE4D	C0545053	Accelerated skeletal maturation	HumPhenOnt	
+ALB	C0018378	Guillain-Barre syndrome, familial	DisGeNet	
+PDE4D	C4022032	Abnormality of phosphate homeostasis	HumPhenOnt	
+ALB	C0221002	Primary hyperparathyroidism	DisGeNet	
+ALB	C1096063	Drug Resistant Epilepsy	DisGeNet	
+PDE4D	C1865037	Cone-shaped epiphyses fused within their metaphyses	HumPhenOnt	
+ALB	C0035242	Respiratory Tract Diseases	DisGeNet	
+ALB	C0086981	Sicca Syndrome	DisGeNet	
+ALB	C0239981	Hypoalbuminemia	DisGeNet,HumPhenOnt	
+PDE4D	C1865571	Aplasia/Hypoplasia of the ulna	HumPhenOnt	
+PDE4D	C4022809	Abnormality of intracranial pressure	HumPhenOnt	
+ALB	C0030286	Neurologic, endocrine, and pancreatic disease, multisystem, infantile-onset	DisGeNet	
+KRT9	C4020946	Abnormality of the plantar skin of foot	HumPhenOnt	
+PDE4D	C4023198	Abnormality of the parathyroid physiology	HumPhenOnt	
+PDE4D	C0234251	Inflammatory pain	DisGeNet	
+PDE4D	C0151740	Increased intracranial pressure	HumPhenOnt	
+PDE4D	C0239479	Round face	HumPhenOnt	
+ALB	C0041755	Adverse drug events and drug allergies	DisGeNet	
+PDE4D	C0240379	Open mouth	HumPhenOnt	
+PDE4B	C0686347	Tardive Dyskinesia	DisGeNet	
+PDE4D	C4025822	Abnormality of the parathyroid gland	HumPhenOnt	
+ALB	C0019061	Hemolytic uremic syndrome	DisGeNet	
+PDE4D	C0205351	Proportionate short stature	HumPhenOnt	
+PDE4D	C1855299	Forearm undergrowth	HumPhenOnt	
+ALB	C0040128	Thyroid Diseases	DisGeNet	
+PDE4D	C0040128	Thyroid Diseases	DisGeNet,HumPhenOnt	
+PDE4D	C1842981	NEUROTICISM	DisGeNet	
+ALB	C0018799	Heart Diseases	DisGeNet	
+PTGIR	C0018799	Heart Diseases	DisGeNet	
+ALB	C0028797	Occupational Diseases	DisGeNet	
+ALB	C0730345	Microalbuminuria	DisGeNet	
+ALB	C0003850	Arteriosclerosis	DisGeNet	
+PDE4D	C0003850	Arteriosclerosis	DisGeNet	
+PTGIR	C0003850	Arteriosclerosis	DisGeNet	
+ALB	C0008031	Chest pain	DisGeNet	
+PDE4B	C0311375	Arsenic Poisoning	DisGeNet	
+PDE4D	C0332463	Narrow femoral neck	HumPhenOnt	
+PDE4D	C1837406	Upper limb undergrowth	HumPhenOnt	
+ALB	C0042749	 {HIV-1 viremia, susceptibility to}, 609423 (3)	DisGeNet	
+ALB	C0242488	Acute Lung Injury	DisGeNet	
+PDE4D	C2749463	Aplasia/Hypoplasia of the radius	HumPhenOnt	
+PDE4D	C0007820	 Cerebrovascular disease, occlusive (3)	DisGeNet	
+PDE4B	C0152115	Orofacial dyskinesia	DisGeNet	
+ALB	C0342257	Complications of Diabetes Mellitus	DisGeNet	
+ALB	C0007786	Brain Ischemia	DisGeNet	
+PDE4D	C0007786	Brain Ischemia	DisGeNet	
+ALB	C0034063	Pulmonary edema	DisGeNet	
+PDE4D	C0751955	Brain Infarction	DisGeNet	
+PDE4D	C1836195	Short toe	HumPhenOnt	
+PDE4D	C4022451	Abnormal morphology of forearm bone	HumPhenOnt	
+PDE4D	C0004268	Abnormal concentration of calcium in blood	HumPhenOnt	
+PDE4D	C0025995	Micromelia	HumPhenOnt	
+ALB	C0038325	Stevens-Johnson Syndrome	DisGeNet	
+PDE4D	C4025731	Abnormal thrombosis	HumPhenOnt	

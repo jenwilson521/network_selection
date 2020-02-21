@@ -1,0 +1,19 @@
+Gene	CUI	Source Databases	
+ABCB1	C0029445	Bone necrosis	DisGeNet	
+CYP3A4	C0029445	Bone necrosis	DisGeNet	
+ESR1	C0029445	Bone necrosis	DisGeNet	
+ABCB1	C0086132	Depressive Symptoms	DisGeNet	
+CYP1A1	C0086132	Depressive Symptoms	DisGeNet	
+CYP3A4	C0086132	Depressive Symptoms	DisGeNet	
+ESR1	C0086132	Depressive Symptoms	DisGeNet	
+ABCB1	C0150312	Menopause present (finding)	DisGeNet	
+CYP1A1	C0150312	Menopause present (finding)	DisGeNet	
+ESR1	C0150312	Menopause present (finding)	DisGeNet	
+ABCB1	C0007621	Neoplastic Cell Transformation	DisGeNet	
+CYP1A1	C0007621	Neoplastic Cell Transformation	DisGeNet	
+CYP3A4	C0007621	Neoplastic Cell Transformation	DisGeNet	
+ESR1	C0007621	Neoplastic Cell Transformation	DisGeNet	
+ABCB1	C0024620	Primary malignant neoplasm of liver	DisGeNet	
+CYP3A4	C0024620	Primary malignant neoplasm of liver	DisGeNet	
+ABCB1	C0346402	Malignant neoplasm of adrenal cortex	DisGeNet	
+ESR1	C0346402	Malignant neoplasm of adrenal cortex	DisGeNet	

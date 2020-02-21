@@ -1,0 +1,14 @@
+node_name	node_type	
+DB00242	drug	
+ABCG2	drug_target	
+DCK	drug_target	
+PNP	drug_target	
+POLA1	drug_target	
+POLE	drug_target	
+POLE4	drug_target	
+RRM2B	drug_target	
+RRM2	drug_target	
+RRM1	drug_target	
+SLC28A3	drug_target	
+POLE3	drug_target	
+POLE2	drug_target	

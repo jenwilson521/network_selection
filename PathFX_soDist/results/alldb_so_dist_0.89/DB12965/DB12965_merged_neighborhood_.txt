@@ -1,0 +1,3 @@
+ALB	complex:lAo9+jzjVOaRJSWZQvoh0G1mUDc	0.954526206676	
+A2M		1.0	
+ALB		1.0	

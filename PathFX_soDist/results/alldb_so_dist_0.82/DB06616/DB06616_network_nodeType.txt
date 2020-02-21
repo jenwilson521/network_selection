@@ -1,0 +1,16 @@
+node_name	node_type	
+DB06616	drug	
+CYP2C8	drug_target	
+SRC	drug_target	
+MAP3K2	drug_target	
+CAMK2G	drug_target	
+CDK2	drug_target	
+MAP2K2	drug_target	
+MAP2K1	drug_target	
+ABL1	drug_target	
+HCK	drug_target	
+CYP3A4	drug_target	
+LYN	drug_target	
+BCR	drug_target	
+ABCB1	drug_target	
+Bone necrosis	phenotype	

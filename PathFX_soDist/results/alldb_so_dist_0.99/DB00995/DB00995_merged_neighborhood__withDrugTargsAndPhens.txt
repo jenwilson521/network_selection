@@ -1,0 +1,5 @@
+node1	node2	edge_score	
+DB00995	IKBKB	1.0	
+DB00995	PRDX5	1.0	
+DB00995	ALB	1.0	
+

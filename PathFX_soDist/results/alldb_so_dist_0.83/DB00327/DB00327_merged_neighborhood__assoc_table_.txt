@@ -1,0 +1,4 @@
+rank	phenotype	cui	assoc in neigh	assoc in intom	probability	Benjamini-Hochberg	genes	
+9	Acute postoperative pain	C0030201	3	37	6.50349780395576e-06	1.31578947368e-05	CYP3A4,OPRM1,UGT2B7
+20	Pain insensitivity	C0344307	3	52	2.568255052293189e-05	2.92397660819e-05	CYP3A4,OPRM1,UGT2B7
+21	Nausea	C0027497	3	54	2.9852699666044202e-05	3.0701754386e-05	CYP2C9,OPRM1,UGT2B7

@@ -1,0 +1,4 @@
+node1	node2	edge_score	
+DB09241	NOS1	1.0	
+DB09241	GUCY1A2	1.0	
+

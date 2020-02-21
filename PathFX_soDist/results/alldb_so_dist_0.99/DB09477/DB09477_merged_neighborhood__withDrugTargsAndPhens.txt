@@ -1,0 +1,4 @@
+node1	node2	edge_score	
+DB09477	BDKRB1	1.0	
+DB09477	ACE	1.0	
+

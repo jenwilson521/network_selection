@@ -1,0 +1,66 @@
+Gene	CUI	Source Databases	
+ADRB1	C0020473	Hyperlipidemia, combined, 1	DisGeNet	
+ADRB2	C0020473	Hyperlipidemia, combined, 1	DisGeNet	
+ADRB3	C0020473	Hyperlipidemia, combined, 1	DisGeNet	
+CYP2C8	C0020473	Hyperlipidemia, combined, 1	DisGeNet	
+CYP3A4	C0020473	Hyperlipidemia, combined, 1	DisGeNet	
+CYP3A5	C0020473	Hyperlipidemia, combined, 1	DisGeNet	
+ADRB1	C0152136	Low Tension Glaucoma	DisGeNet	
+ADRB2	C0152136	Low Tension Glaucoma	DisGeNet	
+ADRB3	C0152136	Low Tension Glaucoma	DisGeNet	
+CYP2C8	C0013182	Drug Allergy	DisGeNet	
+CYP3A4	C0013182	Drug Allergy	DisGeNet	
+CYP3A5	C0013182	Drug Allergy	DisGeNet	
+CYP3A4	C0024620	Primary malignant neoplasm of liver	DisGeNet	
+CYP3A5	C0024620	Primary malignant neoplasm of liver	DisGeNet	
+ADRB1	C0948089	Acute Coronary Syndrome	DisGeNet	
+ADRB2	C0948089	Acute Coronary Syndrome	DisGeNet	
+ADRB3	C0948089	Acute Coronary Syndrome	DisGeNet	
+CYP3A4	C0948089	Acute Coronary Syndrome	DisGeNet,PheGenI	
+CYP3A5	C0948089	Acute Coronary Syndrome	DisGeNet	
+CYP3A4	C0206720	Squamous Cell Neoplasms	DisGeNet	
+CYP3A5	C0206720	Squamous Cell Neoplasms	DisGeNet	
+ADRB1	C0518010	body mass	DisGeNet	
+ADRB2	C0518010	body mass	DisGeNet	
+ADRB3	C0518010	body mass	DisGeNet	
+CYP3A4	C0011206	Cocaine delirium	DisGeNet	
+CYP3A5	C0011206	Cocaine delirium	DisGeNet	
+ADRB2	C0030201	Acute postoperative pain	DisGeNet	
+CYP3A4	C0030201	Acute postoperative pain	DisGeNet	
+ADRB1	C0027719	Nephrosclerosis	DisGeNet	
+ADRB2	C0027719	Nephrosclerosis	DisGeNet	
+ADRB2	C0040038	Thromboembolism	DisGeNet	
+CYP3A4	C0040038	Thromboembolism	DisGeNet	
+CYP3A5	C0040038	Thromboembolism	DisGeNet	
+ADRB2	C0000889	Acanthosis nigricans	DisGeNet	
+ADRB3	C0000889	Acanthosis nigricans	DisGeNet	
+ADRB2	C0600040	Chronic interstitial cystitis	DisGeNet	
+ADRB3	C0600040	Chronic interstitial cystitis	DisGeNet	
+ADRB1	C0022661	Kidney Failure, Chronic	DisGeNet	
+ADRB2	C0022661	Kidney Failure, Chronic	DisGeNet	
+ADRB3	C0022661	Kidney Failure, Chronic	DisGeNet	
+CYP2C8	C0022661	Kidney Failure, Chronic	DisGeNet	
+CYP3A4	C0022661	Kidney Failure, Chronic	DisGeNet	
+CYP3A5	C0022661	Kidney Failure, Chronic	DisGeNet	
+CYP2C8	C0029445	Bone necrosis	DisGeNet	
+CYP3A4	C0029445	Bone necrosis	DisGeNet	
+ADRB1	C0206733	Capillary hemangiomas	DisGeNet	
+ADRB2	C0206733	Capillary hemangiomas	DisGeNet	
+ADRB1	C0042514	Ventricular tachycardia, catecholaminergic polymorphic, 2	DisGeNet	
+ADRB2	C0042514	Ventricular tachycardia, catecholaminergic polymorphic, 2	DisGeNet	
+ADRB2	C2911645	Weight Loss Adverse Event	DisGeNet	
+ADRB3	C2911645	Weight Loss Adverse Event	DisGeNet	
+ADRB1	C0028756	Obesity, severe, 601665 (3)	DisGeNet	
+ADRB2	C0028756	Obesity, severe, 601665 (3)	DisGeNet	
+ADRB3	C0028756	Obesity, severe, 601665 (3)	DisGeNet	
+ADRB2	C0016053	Fibromyalgia	DisGeNet	
+ADRB3	C0016053	Fibromyalgia	DisGeNet	
+ADRB1	C0042510	Ventricular fibrillation	DisGeNet	
+ADRB2	C0042510	Ventricular fibrillation	DisGeNet	
+CYP2C8	C0042065	Genitourinary neoplasm	DisGeNet	
+CYP3A4	C0042065	Genitourinary neoplasm	DisGeNet	
+CYP3A5	C0042065	Genitourinary neoplasm	DisGeNet	
+CYP3A4	C0344307	Pain insensitivity	DisGeNet	
+CYP3A5	C0344307	Pain insensitivity	DisGeNet	
+ADRB2	C1841972	Glucocorticoid resistance, generalized	DisGeNet	
+CYP3A5	C1841972	Glucocorticoid resistance, generalized	DisGeNet	

@@ -1,0 +1,19 @@
+node_name	node_type	
+DB00924	drug	
+CYP3A4	drug_target	
+HTR2A	drug_target	
+CYP1A2	drug_target	
+CYP2D6	drug_target	
+UGT1A1	drug_target	
+Hepatitis D Infection	phenotype	
+Hyperbilirubinemia	phenotype	
+Drug Allergy	phenotype	
+Febrile Neutropenia	phenotype	
+Chronic schizophrenia	phenotype	
+Cholelithiasis	phenotype	
+Anemia, Sickle Cell	phenotype	
+Hearing Loss, Partial	phenotype	
+Tardive Dyskinesia	phenotype	
+Mammographic breast density	phenotype	
+Orofacial dyskinesia	phenotype	
+Acute postoperative pain	phenotype	

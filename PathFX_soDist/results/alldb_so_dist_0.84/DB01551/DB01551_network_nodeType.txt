@@ -1,0 +1,5 @@
+node_name	node_type	
+DB01551	drug	
+CYP3A4	drug_target	
+CYP2D6	drug_target	
+Primary malignant neoplasm of liver	phenotype	

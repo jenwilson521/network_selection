@@ -1,0 +1,38 @@
+node1	node2	edge_score	
+DB01044	CYP1A2	1.0	
+DB01044	ALB	1.0	
+CYP1A2	rs4646427	0.99
+CYP1A2	rs2069514	0.99
+CYP1A2	rs72547516	0.99
+ALB		1.0
+CYP1A2	rs2069526	0.99
+ALB	complex:lAo9+jzjVOaRJSWZQvoh0G1mUDc	0.954526206676
+complex:lAo9+jzjVOaRJSWZQvoh0G1mUDc	OR8D2	0.911120279231
+CYP1A2		1.0
+CYP1A2	rs762551	0.99
+complex:lAo9+jzjVOaRJSWZQvoh0G1mUDc	KRT9	0.911120279231
+CYP1A2	rs72547517	0.99
+CYP1A2	CYP1A2*1A, CYP1A2*1F	0.99
+CYP1A2	rs2470890	0.99
+CYP1A2	rs4646425	0.99
+CYP1A2	rs2472304	0.99
+Adverse drug events and drug allergies	ALB	1.0	
+Adverse drug events and drug allergies	CYP1A2	1.0	
+Acute hepatic failure	ALB	1.0	
+Acute hepatic failure	CYP1A2	1.0	
+Chronic liver disease	ALB	1.0	
+Chronic liver disease	CYP1A2	1.0	
+Polyglandular Type I Autoimmune Syndrome	CYP1A2	1.0	
+Pleural Neoplasms	CYP1A2	1.0	
+Malignant neoplasm of adrenal cortex	ALB	1.0	
+Esophageal varix	ALB	1.0	
+Urolithiasis	ALB	1.0	
+Echinococcosis	ALB	1.0	
+Epidermolysis bullosa simplex, Cockayne-Touraine type	KRT9	1.0	
+Palmar hyperkeratosis	KRT9	1.0	
+Lung Injury	CYP1A2	1.0	
+Proliferative retinopathy	ALB	1.0	
+Verrucae	KRT9	1.0	
+Isolated somatotropin deficiency	ALB	1.0	
+Substance Use Disorders	ALB	1.0	
+Dentatorubral pallidoluysian atrophy	ALB	1.0	

@@ -1,0 +1,4 @@
+rank	phenotype	cui	assoc in neigh	assoc in intom	probability	Benjamini-Hochberg	genes	
+5	Squamous Cell Neoplasms	C0206720	2	29	2.375311523916679e-06	1.1961722488e-05	CYP1A1,CYP3A4
+16	Neoplasms, Germ Cell and Embryonal	C0027658	2	64	2.6528612969589638e-05	3.82775119617e-05	CYP1A1,CYP3A4
+17	Pharyngeal Neoplasms	C0031347	2	64	2.6528612969589638e-05	4.06698564593e-05	CYP1A1,CYP3A4

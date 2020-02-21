@@ -1,0 +1,18 @@
+Gene	CUI	Source Databases	
+ANKK1	C0019337	Heroin Dependence	DisGeNet	
+CYP2D6	C0019337	Heroin Dependence	DisGeNet	
+CYP3A4	C0019337	Heroin Dependence	DisGeNet	
+DRD2	C0019337	Heroin Dependence	DisGeNet	
+CYP2D6	C0221765	Chronic schizophrenia	DisGeNet	
+CYP3A4	C0221765	Chronic schizophrenia	DisGeNet	
+DRD2	C0221765	Chronic schizophrenia	DisGeNet	
+ANKK1	C0524662	Opiate Addiction	DisGeNet	
+CYP2D6	C0524662	Opiate Addiction	DisGeNet	
+DRD2	C0524662	Opiate Addiction	DisGeNet	
+CYP2D6	C0344307	Pain insensitivity	DisGeNet	
+CYP3A4	C0344307	Pain insensitivity	DisGeNet	
+DRD2	C0344307	Pain insensitivity	DisGeNet	
+ANKK1	C0023055	Neoplasm of the larynx	DisGeNet	
+CYP2D6	C0023055	Neoplasm of the larynx	DisGeNet	
+CYP3A4	C0023055	Neoplasm of the larynx	DisGeNet	
+DRD2	C0023055	Neoplasm of the larynx	DisGeNet	

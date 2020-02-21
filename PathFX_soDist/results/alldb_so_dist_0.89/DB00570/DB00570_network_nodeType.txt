@@ -1,0 +1,19 @@
+node_name	node_type	
+DB00570	drug	
+TUBG1	drug_target	
+ABCC6	drug_target	
+CYP2D6	drug_target	
+TUBA1A	drug_target	
+JUN	drug_target	
+TUBB	drug_target	
+SLCO1B1	drug_target	
+ABCB1	drug_target	
+TUBE1	drug_target	
+ABCB11	drug_target	
+TUBD1	drug_target	
+CYP3A4	drug_target	
+ABCC1	drug_target	
+ABCC2	drug_target	
+Adverse drug events and drug allergies	phenotype	
+Drug Allergy	phenotype	
+Primary malignant neoplasm of liver	phenotype	

@@ -1,0 +1,4 @@
+node1	node2	edge_score	
+DB00928	DNMT1	1.0	
+DB00928	CDA	1.0	
+

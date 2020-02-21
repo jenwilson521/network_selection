@@ -1,0 +1,68 @@
+Gene	CUI	Source Databases	
+ABCC4	C0041755	Adverse drug events and drug allergies	DisGeNet	
+ABCG2	C0041755	Adverse drug events and drug allergies	DisGeNet	
+ALB	C0041755	Adverse drug events and drug allergies	DisGeNet	
+CYP1A2	C0041755	Adverse drug events and drug allergies	DisGeNet	
+CYP2C9	C0041755	Adverse drug events and drug allergies	DisGeNet	
+MTHFR	C0041755	Adverse drug events and drug allergies	DisGeNet	
+TYMS	C0041755	Adverse drug events and drug allergies	DisGeNet	
+CYP1A2	C0031347	Pharyngeal Neoplasms	DisGeNet	
+CYP2A6	C0031347	Pharyngeal Neoplasms	DisGeNet	
+CYP2C8	C0031347	Pharyngeal Neoplasms	DisGeNet	
+CYP2C9	C0031347	Pharyngeal Neoplasms	DisGeNet	
+MTHFR	C0031347	Pharyngeal Neoplasms	DisGeNet	
+TYMS	C0031347	Pharyngeal Neoplasms	DisGeNet	
+ABCG2	C0235032	Neurotoxicity Syndromes	DisGeNet	
+CYP2C9	C0235032	Neurotoxicity Syndromes	DisGeNet	
+DPYD	C0235032	Neurotoxicity Syndromes	DisGeNet	
+MTHFR	C0235032	Neurotoxicity Syndromes	DisGeNet	
+TYMS	C0235032	Neurotoxicity Syndromes	DisGeNet	
+ABCG2	C0032229	Pleural Neoplasms	DisGeNet	
+CYP1A2	C0032229	Pleural Neoplasms	DisGeNet	
+CYP2A6	C0032229	Pleural Neoplasms	DisGeNet	
+MTHFR	C0032229	Pleural Neoplasms	DisGeNet	
+ABCG2	C0854467	Myelosuppression	DisGeNet	
+DPYD	C0854467	Myelosuppression	DisGeNet	
+MTHFR	C0854467	Myelosuppression	DisGeNet	
+TYMS	C0854467	Myelosuppression	DisGeNet	
+ABCG2	C0919532	Genomic Instability	DisGeNet	
+CYP1A2	C0919532	Genomic Instability	DisGeNet	
+CYP2A6	C0919532	Genomic Instability	DisGeNet	
+MTHFR	C0919532	Genomic Instability	DisGeNet	
+CYP2A6	C0278498	Malignant neoplasm of stomach stage IV	DisGeNet	
+TYMP	C0278498	Malignant neoplasm of stomach stage IV	DisGeNet	
+TYMS	C0278498	Malignant neoplasm of stomach stage IV	DisGeNet	
+UMPS	C0278498	Malignant neoplasm of stomach stage IV	DisGeNet	
+CYP1A2	C0023055	Neoplasm of the larynx	DisGeNet	
+CYP2A6	C0023055	Neoplasm of the larynx	DisGeNet	
+CYP2C8	C0023055	Neoplasm of the larynx	DisGeNet	
+CYP2C9	C0023055	Neoplasm of the larynx	DisGeNet	
+MTHFR	C0023055	Neoplasm of the larynx	DisGeNet	
+TYMS	C0023055	Neoplasm of the larynx	DisGeNet	
+CYP1A2	C0026640	Neoplasm of the oral cavity	DisGeNet	
+CYP2A6	C0026640	Neoplasm of the oral cavity	DisGeNet	
+CYP2C8	C0026640	Neoplasm of the oral cavity	DisGeNet	
+CYP2C9	C0026640	Neoplasm of the oral cavity	DisGeNet	
+MTHFR	C0026640	Neoplasm of the oral cavity	DisGeNet	
+TYMP	C0026640	Neoplasm of the oral cavity	DisGeNet	
+TYMS	C0026640	Neoplasm of the oral cavity	DisGeNet	
+UMPS	C0026640	Neoplasm of the oral cavity	DisGeNet	
+ABCG2	C0027497	Nausea	DisGeNet	
+CYP1A2	C0027497	Nausea	DisGeNet	
+CYP2C9	C0027497	Nausea	DisGeNet	
+MTHFR	C0027497	Nausea	DisGeNet	
+ABCC3	C0023530	Leukopenia	DisGeNet	
+ABCC4	C0023530	Leukopenia	DisGeNet	
+ABCG2	C0023530	Leukopenia	DisGeNet	
+CYP2C8	C0023530	Leukopenia	DisGeNet	
+DPYD	C0023530	Leukopenia	DisGeNet	
+MTHFR	C0023530	Leukopenia	DisGeNet	
+SLC29A1	C0023530	Leukopenia	DisGeNet	
+TYMS	C0023530	Leukopenia	DisGeNet	
+UMPS	C0023530	Leukopenia	DisGeNet	
+CYP2C8	C0155668	Old myocardial infarction	DisGeNet	
+CYP2C9	C0155668	Old myocardial infarction	DisGeNet	
+MTHFR	C0155668	Old myocardial infarction	DisGeNet	
+DPYD	C1322286	Thymic Carcinoma	DisGeNet	
+TYMS	C1322286	Thymic Carcinoma	DisGeNet	
+UMPS	C1322286	Thymic Carcinoma	DisGeNet	

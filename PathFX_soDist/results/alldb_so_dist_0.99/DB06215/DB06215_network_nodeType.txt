@@ -1,0 +1,5 @@
+node_name	node_type	
+DB06215	drug	
+TF	drug_target	
+FTH1	drug_target	
+FTL	drug_target	

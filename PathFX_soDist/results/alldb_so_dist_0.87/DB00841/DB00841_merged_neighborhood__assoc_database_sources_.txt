@@ -1,0 +1,198 @@
+Gene	CUI	Source Databases	
+ADRB1	C0017612	Glaucoma, Open-Angle	DisGeNet	
+ADRB2	C0017612	Glaucoma, Open-Angle	DisGeNet	
+ESR1	C0017612	Glaucoma, Open-Angle	DisGeNet	
+TXNRD2	C0017612	Glaucoma, Open-Angle	PheGenI	
+ADRB2	C0086132	Depressive Symptoms	DisGeNet	
+COMT	C0086132	Depressive Symptoms	DisGeNet	
+ESR1	C0086132	Depressive Symptoms	DisGeNet	
+TXNRD2	C0086132	Depressive Symptoms	DisGeNet	
+ADRB1	C0038443	Stress, Psychological	DisGeNet	
+ADRB2	C0038443	Stress, Psychological	DisGeNet	
+COMT	C0038443	Stress, Psychological	DisGeNet	
+ADRB1	C0028797	Occupational Diseases	DisGeNet	
+ADRB2	C0028797	Occupational Diseases	DisGeNet	
+COMT	C0028797	Occupational Diseases	DisGeNet	
+COMT	C1268717	Mammographic breast density	DisGeNet	
+ESR1	C1268717	Mammographic breast density	DisGeNet	
+TXNRD2	C1268717	Mammographic breast density	DisGeNet	
+ADRB1	C0518010	body mass	DisGeNet	
+ADRB2	C0518010	body mass	DisGeNet	
+ESR1	C0518010	body mass	DisGeNet	
+ADRB2	C0851578	Sleep Wake Disorders	DisGeNet	
+COMT	C0851578	Sleep Wake Disorders	DisGeNet	
+ESR1	C0851578	Sleep Wake Disorders	DisGeNet	
+COMT	C0007286	Carpal tunnel syndrome	DisGeNet	
+ESR1	C0007286	Carpal tunnel syndrome	DisGeNet	
+ADRB1	C0038525	Subarachnoid hemorrhage	DisGeNet	
+ADRB2	C0038525	Subarachnoid hemorrhage	DisGeNet	
+COMT	C0038525	Subarachnoid hemorrhage	DisGeNet	
+ESR1	C0038525	Subarachnoid hemorrhage	DisGeNet	
+ADRB2	C0030201	Acute postoperative pain	DisGeNet	
+COMT	C0030201	Acute postoperative pain	DisGeNet	
+ADRB1	C0027719	Nephrosclerosis	DisGeNet	
+ADRB2	C0027719	Nephrosclerosis	DisGeNet	
+ADRB1	C0031212	Personality disorder	DisGeNet	
+COMT	C0031212	Personality disorder	DisGeNet	
+ADRB2	C1802398	Chromosome 5, trisomy 5q	DisGeNet	
+TXNRD2	C1802398	Chromosome 5, trisomy 5q	DisGeNet	
+COMT	C2267227	Bulimia nervosa 1	DisGeNet	
+ESR1	C2267227	Bulimia nervosa 1	DisGeNet	
+ADRB1	C0028756	Obesity, severe, 601665 (3)	DisGeNet	
+ADRB2	C0028756	Obesity, severe, 601665 (3)	DisGeNet	
+ESR1	C0028756	Obesity, severe, 601665 (3)	DisGeNet	
+ADRB2	C0000889	Acanthosis nigricans	DisGeNet	
+ESR1	C0000889	Acanthosis nigricans	HumPhenOnt	
+ADRB1	C0002792	Anaphylactic shock NOS	DisGeNet	
+ESR1	C0002792	Anaphylactic shock NOS	DisGeNet	
+ADRB2	C0020550	Hyperthyroidism	DisGeNet	
+COMT	C0020550	Hyperthyroidism	HumPhenOnt	
+TXNRD2	C0020550	Hyperthyroidism	DisGeNet	
+ADRB2	C0150055	Chronic pain	DisGeNet	
+COMT	C0150055	Chronic pain	DisGeNet	
+COMT	C0740858	Substance abuse problem	DisGeNet	
+ESR1	C0740858	Substance abuse problem	DisGeNet	
+ADRB2	C0042487	Venous thrombosis	DisGeNet	
+COMT	C0042487	Venous thrombosis	DisGeNet	
+ESR1	C0042487	Venous thrombosis	DisGeNet	
+ADRB1	C0206733	Capillary hemangiomas	DisGeNet	
+ADRB2	C0206733	Capillary hemangiomas	DisGeNet	
+ADRB1	C0042514	Ventricular tachycardia, catecholaminergic polymorphic, 2	DisGeNet	
+ADRB2	C0042514	Ventricular tachycardia, catecholaminergic polymorphic, 2	DisGeNet	
+ADRB2	C2911645	Weight Loss Adverse Event	DisGeNet	
+COMT	C2911645	Weight Loss Adverse Event	DisGeNet	
+ADRB1	C0948089	Acute Coronary Syndrome	DisGeNet	
+ADRB2	C0948089	Acute Coronary Syndrome	DisGeNet	
+COMT	C0948089	Acute Coronary Syndrome	DisGeNet	
+ESR1	C0948089	Acute Coronary Syndrome	DisGeNet	
+ADRB1	C0525045	Mood Disorders	DisGeNet	
+ADRB2	C0525045	Mood Disorders	DisGeNet	
+COMT	C0525045	Mood Disorders	DisGeNet	
+ESR1	C0525045	Mood Disorders	DisGeNet	
+ADRB2	C0016053	Fibromyalgia	DisGeNet	
+COMT	C0016053	Fibromyalgia	DisGeNet	
+ADRB1	C0085298	Sudden cardiac death	DisGeNet	
+ADRB2	C0085298	Sudden cardiac death	DisGeNet	
+ESR1	C0085298	Sudden cardiac death	DisGeNet	
+ADRB1	C0042510	Ventricular fibrillation	DisGeNet	
+ADRB2	C0042510	Ventricular fibrillation	DisGeNet	
+COMT	C0235653	Malignant neoplasm of female breast	DisGeNet	
+ESR1	C0235653	Malignant neoplasm of female breast	DisGeNet	
+COMT	C1847835	VITILIGO-ASSOCIATED MULTIPLE AUTOIMMUNE DISEASE SUSCEPTIBILITY 1 (finding)	DisGeNet	
+ESR1	C1847835	VITILIGO-ASSOCIATED MULTIPLE AUTOIMMUNE DISEASE SUSCEPTIBILITY 1 (finding)	DisGeNet	
+TXNRD2	C1847835	VITILIGO-ASSOCIATED MULTIPLE AUTOIMMUNE DISEASE SUSCEPTIBILITY 1 (finding)	DisGeNet	
+ADRB2	C0033054	Prenatal Exposure Delayed Effects	DisGeNet	
+COMT	C0033054	Prenatal Exposure Delayed Effects	DisGeNet	
+COMT	C0007104	Female Breast Carcinoma	DisGeNet	
+ESR1	C0007104	Female Breast Carcinoma	DisGeNet	
+COMT	C0014173	Endometrial Hyperplasia	DisGeNet	
+ESR1	C0014173	Endometrial Hyperplasia	DisGeNet	
+ADRB1	C0152136	Low Tension Glaucoma	DisGeNet	
+ADRB2	C0152136	Low Tension Glaucoma	DisGeNet	
+ADRB2	C0085129	Bronchial Hyperreactivity	DisGeNet	
+COMT	C0085129	Bronchial Hyperreactivity	DisGeNet	
+ESR1	C0085129	Bronchial Hyperreactivity	DisGeNet	
+COMT	C0341858	Endometriosis of uterus	DisGeNet	
+ESR1	C0341858	Endometriosis of uterus	DisGeNet	
+COMT	C0206693	Medullary carcinoma	DisGeNet	
+ESR1	C0206693	Medullary carcinoma	DisGeNet	
+ADRB1	C0004238	Atrial Fibrillation	DisGeNet	
+ADRB2	C0004238	Atrial Fibrillation	DisGeNet	
+ESR1	C0004238	Atrial Fibrillation	DisGeNet	
+ADRB1	C0020445	Familial hypercholesterolemia	DisGeNet	
+ADRB2	C0020445	Familial hypercholesterolemia	DisGeNet	
+ESR1	C0020445	Familial hypercholesterolemia	DisGeNet	
+COMT	C0150312	Menopause present (finding)	DisGeNet	
+ESR1	C0150312	Menopause present (finding)	DisGeNet	
+COMT	C0009241	Cognition Disorders	DisGeNet	
+ESR1	C0009241	Cognition Disorders	DisGeNet	
+ADRB1	C0025303	Meningococcal Infections	DisGeNet	
+ADRB2	C0025303	Meningococcal Infections	DisGeNet	
+COMT	C0029410	Osteoarthritis of hip	DisGeNet	
+ESR1	C0029410	Osteoarthritis of hip	DisGeNet	
+COMT	C0016034	Breast Fibrocystic Disease	DisGeNet	
+ESR1	C0016034	Breast Fibrocystic Disease	DisGeNet	
+COMT	C0033941	Psychoses, Substance-Induced	DisGeNet	
+ESR1	C0033941	Psychoses, Substance-Induced	DisGeNet	
+ADRB1	C0027055	Myocardial Reperfusion Injury	DisGeNet	
+ADRB2	C0027055	Myocardial Reperfusion Injury	DisGeNet	
+ESR1	C0027055	Myocardial Reperfusion Injury	DisGeNet	
+COMT	C0029421	Osteochondritis dissecans	DisGeNet	
+ESR1	C0029421	Osteochondritis dissecans	DisGeNet	
+COMT	C1842981	NEUROTICISM	DisGeNet	
+ESR1	C1842981	NEUROTICISM	DisGeNet	
+COMT	C0014130	Disorder of endocrine system	DisGeNet	
+ESR1	C0014130	Disorder of endocrine system	DisGeNet	
+COMT	C0036974	Shock, Septic	DisGeNet	
+ESR1	C0036974	Shock, Septic	DisGeNet	
+ADRB1	C0242973	Ventricular Dysfunction, Right	DisGeNet	
+ADRB2	C0242973	Ventricular Dysfunction, Right	DisGeNet	
+ADRB2	C0021361	Female infertility	DisGeNet	
+ESR1	C0021361	Female infertility	DisGeNet	
+ADRB1	C0349782	Ischemic cardiomyopathy	DisGeNet	
+ESR1	C0349782	Ischemic cardiomyopathy	DisGeNet	
+COMT	C0013473	Eating disorder	DisGeNet	
+ESR1	C0013473	Eating disorder	DisGeNet	
+COMT	C0702166	Acne	HumPhenOnt	
+ESR1	C0702166	Acne	HumPhenOnt	
+COMT	C0278704	Malignant Childhood Neoplasm	DisGeNet	
+ESR1	C0278704	Malignant Childhood Neoplasm	DisGeNet	
+COMT	C0042138	Uterine neoplasm	DisGeNet	
+ESR1	C0042138	Uterine neoplasm	DisGeNet	
+COMT	C0154723	Migraine with aura	DisGeNet	
+ESR1	C0154723	Migraine with aura	DisGeNet	
+COMT	C0025568	Metaplasia	DisGeNet	
+ESR1	C0025568	Metaplasia	DisGeNet	
+ADRB2	C0242231	Coronary artery stenosis	DisGeNet	
+ESR1	C0242231	Coronary artery stenosis	DisGeNet	
+ADRB1	C0035204	Respiration Disorders	DisGeNet	
+ADRB2	C0035204	Respiration Disorders	DisGeNet	
+ADRB1	C0007193	Cardiomyopathy, Dilated	DisGeNet	
+ADRB2	C0007193	Cardiomyopathy, Dilated	DisGeNet	
+ESR1	C0007193	Cardiomyopathy, Dilated	DisGeNet	
+TXNRD2	C0007193	Cardiomyopathy, Dilated	DisGeNet,HumPhenOnt	
+ADRB1	C0264716	Chronic heart failure	DisGeNet	
+ADRB2	C0264716	Chronic heart failure	DisGeNet	
+ADRB1	C0017601	Glaucoma, Angle-Closure	DisGeNet	
+ADRB2	C0017601	Glaucoma, Angle-Closure	DisGeNet	
+COMT	C0017601	Glaucoma, Angle-Closure	HumPhenOnt	
+TXNRD2	C0017601	Glaucoma, Angle-Closure	DisGeNet	
+COMT	C0028768	Obsessive-compulsive disorder	DisGeNet	
+ESR1	C0028768	Obsessive-compulsive disorder	DisGeNet	
+ADRB2	C0029928	Ovarian Diseases	DisGeNet	
+COMT	C0029928	Ovarian Diseases	DisGeNet	
+ESR1	C0029928	Ovarian Diseases	DisGeNet	
+COMT	C0042900	Vitiligo	DisGeNet	
+ESR1	C0042900	Vitiligo	DisGeNet	
+TXNRD2	C0042900	Vitiligo	DisGeNet	
+COMT	C0085762	Alcohol abuse	DisGeNet	
+ESR1	C0085762	Alcohol abuse	DisGeNet	
+COMT	C1336708	Testicular Germ Cell Tumor	DisGeNet	
+ESR1	C1336708	Testicular Germ Cell Tumor	DisGeNet	
+ADRB1	C0149721	Left ventricular hypertrophy	DisGeNet	
+ADRB2	C0149721	Left ventricular hypertrophy	DisGeNet	
+ESR1	C0149721	Left ventricular hypertrophy	DisGeNet	
+COMT	C0003125	Anorexia nervosa 1	DisGeNet	
+ESR1	C0003125	Anorexia nervosa 1	DisGeNet	
+ADRB1	C0020473	Hyperlipidemia, combined, 1	DisGeNet	
+ADRB2	C0020473	Hyperlipidemia, combined, 1	DisGeNet	
+ESR1	C0020473	Hyperlipidemia, combined, 1	DisGeNet	
+ADRB1	C0023976	Acquired long QT syndrome	DisGeNet	
+ADRB2	C0023976	Acquired long QT syndrome	DisGeNet	
+ADRB2	C0020523	Immediate hypersensitivity	DisGeNet	
+ESR1	C0020523	Immediate hypersensitivity	DisGeNet	
+ADRB2	C0040038	Thromboembolism	DisGeNet	
+ESR1	C0040038	Thromboembolism	DisGeNet	
+ADRB2	C0271650	Glucose intolerance	DisGeNet	
+COMT	C0271650	Glucose intolerance	DisGeNet	
+ESR1	C0271650	Glucose intolerance	HumPhenOnt	
+ADRB1	C0035126	Reperfusion Injury	DisGeNet	
+ADRB2	C0035126	Reperfusion Injury	DisGeNet	
+TXNRD2	C0035126	Reperfusion Injury	DisGeNet	
+COMT	C0042345	Varicose Veins	HumPhenOnt	
+ESR1	C0042345	Varicose Veins	DisGeNet	
+ADRB1	C0038356	Stomach Neoplasms	DisGeNet	
+ADRB2	C0038356	Stomach Neoplasms	DisGeNet	
+COMT	C0038356	Stomach Neoplasms	DisGeNet	
+ESR1	C0038356	Stomach Neoplasms	DisGeNet	
+TXNRD2	C0038356	Stomach Neoplasms	DisGeNet	

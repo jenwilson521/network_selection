@@ -1,0 +1,11 @@
+node_name	node_type	
+DB01992	drug	
+DBI	drug_target	
+CRAT	drug_target	
+KAT2B	drug_target	
+KAT2A	drug_target	
+KAT5	drug_target	
+ACAT2	drug_target	
+HMGCR	drug_target	
+CS	drug_target	
+Isovaleryl-CoA dehydrogenase deficiency	phenotype	

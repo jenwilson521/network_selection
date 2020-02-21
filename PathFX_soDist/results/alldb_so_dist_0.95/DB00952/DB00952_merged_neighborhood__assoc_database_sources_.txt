@@ -1,0 +1,74 @@
+Gene	CUI	Source Databases	
+HTR1A	C0006370	Bulimia	DisGeNet	
+HTR1B	C0006370	Bulimia	DisGeNet	
+HTR1A	C0038586	Substance Use Disorders	DisGeNet	
+HTR1B	C0038586	Substance Use Disorders	DisGeNet	
+HTR1A	C0031212	Personality disorder	DisGeNet	
+HTR1B	C0031212	Personality disorder	DisGeNet	
+HTR1A	C0003944	As If Personality	DisGeNet	
+HTR1B	C0003944	As If Personality	DisGeNet	
+HTR1A	C1868649	Panic disorder 1	DisGeNet	
+HTR1B	C1868649	Panic disorder 1	DisGeNet	
+HTR1A	C0030319	Panic disorder syndrome 1 (2)	DisGeNet	
+HTR1B	C0030319	Panic disorder syndrome 1 (2)	DisGeNet	
+HTR1A	C0236736	Cocaine-Related Disorders	DisGeNet	
+HTR1B	C0236736	Cocaine-Related Disorders	DisGeNet	
+HTR1A	C2911647	Weight Gain Adverse Event	DisGeNet	
+HTR1B	C2911647	Weight Gain Adverse Event	DisGeNet	
+HTR1A	C0006012	Borderline Personality Disorder	DisGeNet	
+HTR1B	C0006012	Borderline Personality Disorder	DisGeNet	
+HTR1A	C0036396	Chronic sciatica	DisGeNet	
+HTR1A	C0014556	Epilepsy, Temporal Lobe	DisGeNet	
+HTR1B	C0014556	Epilepsy, Temporal Lobe	DisGeNet	
+HTR1A	C0018681	Headache	DisGeNet,HumPhenOnt	
+HTR1B	C0018681	Headache	DisGeNet	
+HTR1A	C0003467	Anxiety	DisGeNet	
+HTR1B	C0003467	Anxiety	DisGeNet	
+HTR1A	C0085159	Seasonal Affective Disorder	DisGeNet	
+HTR1B	C0003431	Antisocial Personality Disorder	DisGeNet	
+HTR1A	C0036349	Paranoid Schizophrenia	DisGeNet	
+HTR1A	C0233401	Psychiatric symptom	DisGeNet	
+HTR1A	C0549629	Abnormal delivery	HumPhenOnt	
+HTR1A	C0001314	Acute disease of cardiovascular system	DisGeNet	
+HTR1B	C2267227	Bulimia nervosa 1	DisGeNet	
+HTR1A	C0024031	Low back pain	DisGeNet	
+HTR1B	C0233523	Antisocial/borderline personality disorder	DisGeNet	
+HTR1B	C0740858	Substance abuse problem	DisGeNet	
+HTR1A	C0015674	Chronic Fatigue Syndrome	DisGeNet	
+HTR1B	C0018824	Heart valve disease	DisGeNet	
+HTR1A	C0023186	Learning Disorders	DisGeNet	
+HTR1B	C0149654	Conduct Disorder	DisGeNet	
+HTR1A	C0013386	Dyskinesia, Drug-Induced	DisGeNet	
+HTR1B	C0020492	Hyperostosis	DisGeNet	
+HTR1A	C0428977	Bradycardia	DisGeNet	
+HTR1B	C0005941	Bone Diseases, Developmental	DisGeNet	
+HTR1A	C0525045	Mood Disorders	DisGeNet	
+HTR1B	C0525045	Mood Disorders	DisGeNet	
+HTR1A	C0025261	Memory Disorders	DisGeNet	
+HTR1A	C0033975	Psychotic Disorders	DisGeNet	
+HTR1B	C0033975	Psychotic Disorders	DisGeNet	
+HTR1A	C0149931	Migraine Disorders	DisGeNet,HumPhenOnt	
+HTR1B	C0149931	Migraine Disorders	DisGeNet	
+HTR1A	C0014868	Esophagitis	DisGeNet	
+HTR1A	C0600104	Obsessive-compulsive behavior	DisGeNet	
+HTR1B	C0019337	Heroin Dependence	DisGeNet	
+HTR1A	C0033941	Psychoses, Substance-Induced	DisGeNet	
+HTR1B	C1510472	Drug Dependence	DisGeNet	
+HTR1B	C0029421	Osteochondritis dissecans	DisGeNet	
+HTR1A	C1842981	NEUROTICISM	DisGeNet	
+HTR1A	C0003469	Anxiety Disorders	DisGeNet	
+HTR1B	C0003469	Anxiety Disorders	DisGeNet	
+HTR1B	C0432306	Ichthyosis bullosa of Siemens	DisGeNet	
+HTR1A	C0041696	Unipolar Depression	DisGeNet	
+HTR1B	C0041696	Unipolar Depression	DisGeNet	
+HTR1A	C0000809	Recurrent abortion	HumPhenOnt	
+HTR1A	C0025568	Metaplasia	DisGeNet	
+HTR1B	C0038580	Substance addiction and disorders	DisGeNet	
+HTR1A	C0038587	Substance Withdrawal Syndrome	DisGeNet	
+HTR1B	C0036337	Schizoaffective Disorder	DisGeNet	
+HTR1B	C0236733	Amphetamine-Related Disorders	DisGeNet	
+HTR1B	C0028768	Obsessive-compulsive disorder	DisGeNet	
+HTR1A	C0004936	Mental disorders	DisGeNet	
+HTR1B	C0004936	Mental disorders	DisGeNet	
+HTR1B	C0518010	body mass	DisGeNet	
+HTR1B	C0085762	Alcohol abuse	DisGeNet	

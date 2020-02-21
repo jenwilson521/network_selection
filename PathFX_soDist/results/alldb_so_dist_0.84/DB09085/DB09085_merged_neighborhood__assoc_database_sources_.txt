@@ -1,0 +1,13 @@
+Gene	CUI	Source Databases	
+RYR1	C1631597	VENTRICULAR TACHYCARDIA, CATECHOLAMINERGIC POLYMORPHIC, 1 (disorder)	DisGeNet	
+RYR2	C1631597	VENTRICULAR TACHYCARDIA, CATECHOLAMINERGIC POLYMORPHIC, 1 (disorder)	DisGeNet	
+RYR1	C0035410	Rhabdomyolysis	DisGeNet,HumPhenOnt	
+RYR2	C0035410	Rhabdomyolysis	DisGeNet	
+RYR1	C0751951	Central core disease	ClinVar,DisGeNet	
+RYR2	C0751951	Central core disease	DisGeNet	
+RYR1	C0011071	Sudden death	DisGeNet	
+RYR2	C0011071	Sudden death	DisGeNet,HumPhenOnt	
+RYR1	C0042514	Ventricular tachycardia, catecholaminergic polymorphic, 2	DisGeNet	
+RYR2	C0042514	Ventricular tachycardia, catecholaminergic polymorphic, 2	ClinVar,DisGeNet,HumPhenOnt	
+RYR1	C0024591	Malignant hyperthermia susceptibility	ClinVar,DisGeNet,HumPhenOnt	
+RYR2	C0024591	Malignant hyperthermia susceptibility	DisGeNet	

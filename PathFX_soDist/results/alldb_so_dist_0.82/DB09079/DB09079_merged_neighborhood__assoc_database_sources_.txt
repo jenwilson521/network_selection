@@ -1,0 +1,22 @@
+Gene	CUI	Source Databases	
+ABCB1	C0280449	secondary acute myeloid leukemia	DisGeNet	
+FLT3	C0280449	secondary acute myeloid leukemia	DisGeNet	
+FLT4	C0280449	secondary acute myeloid leukemia	DisGeNet	
+KDR	C0280449	secondary acute myeloid leukemia	DisGeNet	
+ABCB1	C0015814	Femur Head Necrosis	DisGeNet	
+CYP3A4	C0015814	Femur Head Necrosis	DisGeNet	
+KDR	C0015814	Femur Head Necrosis	DisGeNet	
+ABCB1	C0029445	Bone necrosis	DisGeNet	
+CYP3A4	C0029445	Bone necrosis	DisGeNet	
+KDR	C0029445	Bone necrosis	DisGeNet	
+ABCB1	C0279980	Extraosseous Ewings sarcoma-primitive neuroepithelial tumor	DisGeNet	
+FLT3	C0279980	Extraosseous Ewings sarcoma-primitive neuroepithelial tumor	DisGeNet	
+KDR	C0279980	Extraosseous Ewings sarcoma-primitive neuroepithelial tumor	DisGeNet	
+ABCB1	C0024620	Primary malignant neoplasm of liver	DisGeNet	
+CYP3A4	C0024620	Primary malignant neoplasm of liver	DisGeNet	
+ABCB1	C0027686	Pathologic Neovascularization	DisGeNet	
+FLT3	C0027686	Pathologic Neovascularization	DisGeNet	
+KDR	C0027686	Pathologic Neovascularization	DisGeNet	
+ABCB1	C1378511	Undifferentiated leukemia	DisGeNet	
+FLT3	C1378511	Undifferentiated leukemia	DisGeNet	
+KDR	C1378511	Undifferentiated leukemia	DisGeNet	

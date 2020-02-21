@@ -1,0 +1,5 @@
+Gene	CUI	Source Databases	
+NR1I3	C0282528	Peroxisome biogenesis disorder 6A	DisGeNet	
+NR1I3	C0860204	Cholestatic liver disease	DisGeNet	
+NR1I3	C0854467	Myelosuppression	DisGeNet	
+NR1I3	C0342345	Hypoparathyroidism - autosomal dominant	DisGeNet	

@@ -1,0 +1,5 @@
+Gene	CUI	Source Databases	
+ABCB1	C0020433	Hyperbilirubinemia	DisGeNet	
+SLCO1B1	C0020433	Hyperbilirubinemia	DisGeNet,HumPhenOnt	
+SLCO1B3	C0020433	Hyperbilirubinemia	DisGeNet,HumPhenOnt	
+SLCO2B1	C0020433	Hyperbilirubinemia	DisGeNet	

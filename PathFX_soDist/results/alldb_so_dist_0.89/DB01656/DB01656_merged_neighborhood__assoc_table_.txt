@@ -1,0 +1,5 @@
+rank	phenotype	cui	assoc in neigh	assoc in intom	probability	Benjamini-Hochberg	genes	
+18	Tardive Dyskinesia	C0686347	2	64	1.971269745904003e-05	3.75e-05	CYP3A4,PDE4B
+19	Orofacial dyskinesia	C0152115	2	73	2.9287351225537606e-05	3.95833333333e-05	CYP3A4,PDE4B
+30	Amphetamine-Related Disorders	C0236733	2	84	4.4607697813336955e-05	6.25e-05	PDE4B,PDE4D
+31	Cataracts, growth hormone deficiency, sensory neuropathy, sensorineural hearing loss, and skeletal dysplasia	C0271561	2	91	5.666351730371222e-05	6.45833333333e-05	CYP3A4,PDE4D

@@ -1,0 +1,16 @@
+node_name	node_type	
+DB00582	drug	
+CYP2C9	drug_target	
+FMO3	drug_target	
+PTGS1	drug_target	
+FMO1	drug_target	
+CYP2B6	drug_target	
+CYP2C19	drug_target	
+CYP3A4	drug_target	
+CYP3A5	drug_target	
+Neoplasms, Germ Cell and Embryonal	phenotype	
+Drug Allergy	phenotype	
+Primary malignant neoplasm of liver	phenotype	
+Neurotoxicity Syndromes	phenotype	
+21-hydroxylase deficiency	phenotype	
+Stomach Diseases	phenotype	

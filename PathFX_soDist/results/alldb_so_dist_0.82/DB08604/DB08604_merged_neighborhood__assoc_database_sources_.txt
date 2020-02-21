@@ -1,0 +1,95 @@
+Gene	CUI	Source Databases	
+AR	C0001144	Acne Vulgaris	DisGeNet	
+NR1I2	C0001144	Acne Vulgaris	DisGeNet	
+PPARG	C0001144	Acne Vulgaris	DisGeNet	
+AR	C0702166	Acne	DisGeNet	
+NR1I2	C0702166	Acne	DisGeNet	
+PPARG	C0702166	Acne	DisGeNet	
+AR	C4021779	Abnormality of the calf musculature	HumPhenOnt	
+PPARG	C4021779	Abnormality of the calf musculature	HumPhenOnt	
+AR	C0029458	Postmenopausal osteoporosis	DisGeNet	
+NR1I2	C0029458	Postmenopausal osteoporosis	DisGeNet	
+PPARG	C0029458	Postmenopausal osteoporosis	DisGeNet	
+NR1I2	C0860204	Cholestatic liver disease	DisGeNet	
+NR1I3	C0860204	Cholestatic liver disease	DisGeNet	
+AR	C0752353	Atrophy, Muscular, Spinobulbar	DisGeNet	
+PPARG	C0752353	Atrophy, Muscular, Spinobulbar	DisGeNet	
+NR1I2	C0268318	Cholestasis of pregnancy	DisGeNet	
+PPARG	C0268318	Cholestasis of pregnancy	DisGeNet	
+AR	C1839259	Bulbo-Spinal Atrophy, X-Linked	DisGeNet	
+PPARG	C1839259	Bulbo-Spinal Atrophy, X-Linked	DisGeNet	
+AR	C0598894	Monocytic leukemia	DisGeNet	
+PPARG	C0598894	Monocytic leukemia	DisGeNet	
+AR	C2911645	Weight Loss Adverse Event	DisGeNet	
+PPARG	C2911645	Weight Loss Adverse Event	DisGeNet	
+AR	C0741899	Poorly differentiated carcinoma	DisGeNet	
+NR1I2	C0741899	Poorly differentiated carcinoma	DisGeNet	
+AR	C1654637	androgen independent prostate cancer	DisGeNet	
+NR1I2	C1654637	androgen independent prostate cancer	DisGeNet	
+PPARG	C1654637	androgen independent prostate cancer	DisGeNet	
+AR	C0235653	Malignant neoplasm of female breast	DisGeNet	
+NR1I2	C0235653	Malignant neoplasm of female breast	DisGeNet	
+AR	C0033054	Prenatal Exposure Delayed Effects	DisGeNet	
+PPARG	C0033054	Prenatal Exposure Delayed Effects	DisGeNet	
+AR	C0007104	Female Breast Carcinoma	DisGeNet	
+NR1I2	C0007104	Female Breast Carcinoma	DisGeNet	
+AR	C0005426	Biliary tract neoplasm	DisGeNet	
+PPARG	C0005426	Biliary tract neoplasm	DisGeNet	
+AR	C3665444	Chronic neutrophilia	DisGeNet	
+PPARG	C3665444	Chronic neutrophilia	DisGeNet	
+NR1I2	C0008372	Intrahepatic cholestasis	DisGeNet	
+NR1I3	C0008372	Intrahepatic cholestasis	DisGeNet	
+AR	C0598935	Tumor Initiation	DisGeNet	
+NR1I2	C0598935	Tumor Initiation	DisGeNet	
+NR1I3	C0598935	Tumor Initiation	DisGeNet	
+AR	C0796369	Microsatellite Instability	DisGeNet	
+PPARG	C0796369	Microsatellite Instability	DisGeNet	
+AR	C0020506	Hyperpituitarism	HumPhenOnt	
+PPARG	C0020506	Hyperpituitarism	HumPhenOnt	
+NR1I2	C0154251	Disorders of lipoid metabolism	DisGeNet	
+NR1I3	C0154251	Disorders of lipoid metabolism	DisGeNet	
+AR	C0206081	 Hyperandrogenism, nonclassic type, due to 21-hydroxylase deficiency, 201910 (3)	DisGeNet	
+PPARG	C0206081	 Hyperandrogenism, nonclassic type, due to 21-hydroxylase deficiency, 201910 (3)	DisGeNet	
+NR1I2	C0860207	Drug-Induced Liver Injury	DisGeNet	
+NR1I3	C0860207	Drug-Induced Liver Injury	DisGeNet	
+PPARG	C0860207	Drug-Induced Liver Injury	DisGeNet	
+AR	C1268717	Mammographic breast density	DisGeNet	
+PPARG	C1268717	Mammographic breast density	DisGeNet	
+AR	C0021361	Female infertility	DisGeNet	
+NR1I2	C0021361	Female infertility	DisGeNet	
+AR	C4025784	Abnormality of the musculature of the lower limbs	HumPhenOnt	
+PPARG	C4025784	Abnormality of the musculature of the lower limbs	HumPhenOnt	
+AR	C0042138	Uterine neoplasm	DisGeNet	
+PPARG	C0042138	Uterine neoplasm	DisGeNet	
+AR	C0018203	Granulomatous disease, chronic, autosomal recessive, cytochrome b-negative	DisGeNet	
+PPARG	C0018203	Granulomatous disease, chronic, autosomal recessive, cytochrome b-negative	DisGeNet	
+NR1I2	C0333186	Restenosis	DisGeNet	
+NR1I3	C0333186	Restenosis	DisGeNet	
+PPARG	C0333186	Restenosis	DisGeNet	
+NR1I2	C0241158	Scar conditions and fibrosis of skin	DisGeNet	
+PPARG	C0241158	Scar conditions and fibrosis of skin	DisGeNet	
+AR	C1318544	M5b Acute differentiated monocytic leukemia	DisGeNet	
+PPARG	C1318544	M5b Acute differentiated monocytic leukemia	DisGeNet	
+AR	C0242339	Dyslipidemias	DisGeNet	
+NR1I2	C0242339	Dyslipidemias	DisGeNet	
+PPARG	C0242339	Dyslipidemias	DisGeNet	
+AR	C0947622	Cholecystolithiasis	DisGeNet	
+PPARG	C0947622	Cholecystolithiasis	DisGeNet	
+NR1I2	C1318485	Liver regeneration disorder	DisGeNet	
+PPARG	C1318485	Liver regeneration disorder	DisGeNet	
+NR1I2	C1519689	Tumor Promotion	DisGeNet	
+NR1I3	C1519689	Tumor Promotion	DisGeNet	
+AR	C0338106	Adenocarcinoma of colon	DisGeNet	
+NR1I2	C0338106	Adenocarcinoma of colon	DisGeNet	
+PPARG	C0338106	Adenocarcinoma of colon	DisGeNet	
+AR	C1512409	Hepatocarcinogenesis	DisGeNet	
+NR1I2	C1512409	Hepatocarcinogenesis	DisGeNet	
+NR1I3	C1512409	Hepatocarcinogenesis	DisGeNet	
+PPARG	C1512409	Hepatocarcinogenesis	DisGeNet	
+AR	C0518010	body mass	DisGeNet	
+PPARG	C0518010	body mass	DisGeNet	
+NR1I2	C0600452	Hepatopulmonary Syndrome	DisGeNet	
+PPARG	C0600452	Hepatopulmonary Syndrome	DisGeNet	
+AR	C0014170	Endometrial Neoplasms	DisGeNet	
+NR1I2	C0014170	Endometrial Neoplasms	DisGeNet	
+PPARG	C0014170	Endometrial Neoplasms	DisGeNet	

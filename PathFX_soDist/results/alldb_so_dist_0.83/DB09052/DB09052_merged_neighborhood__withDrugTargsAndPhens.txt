@@ -1,0 +1,4 @@
+node1	node2	edge_score	
+DB09052	CD3D	1.0	
+DB09052	CD19	1.0	
+

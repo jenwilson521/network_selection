@@ -1,0 +1,15 @@
+node_name	node_type	
+DB06290	drug	
+CYP1A2	drug_target	
+ALB	drug_target	
+SLC10A1	drug_target	
+SLCO1B1	drug_target	
+SLCO1B3	drug_target	
+SLCO2B1	drug_target	
+ABCB11	drug_target	
+ABCG2	drug_target	
+CYP3A4	drug_target	
+ABCC2	drug_target	
+ABCB1	drug_target	
+Adverse drug events and drug allergies	phenotype	
+Hyperbilirubinemia	phenotype	

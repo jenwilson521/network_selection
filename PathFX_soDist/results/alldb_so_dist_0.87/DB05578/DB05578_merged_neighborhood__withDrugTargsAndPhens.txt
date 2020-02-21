@@ -1,0 +1,75 @@
+node1	node2	edge_score	
+DB05578	KDR	1.0	
+KDR	rs2239702	0.99
+KDR	rs34231037	0.99
+KDR	rs2071559	0.99
+KDR		1.0
+KDR	rs1870377	0.99
+Placental Insufficiency	KDR	1.0	
+Esophageal varix	KDR	1.0	
+Otitis Media with Effusion	KDR	1.0	
+Femur Head Necrosis	KDR	1.0	
+AIDS-Associated Nephropathy	KDR	1.0	
+Niemann-Pick disease, type C	KDR	1.0	
+Philadelphia chromosome positive	KDR	1.0	
+Primary Lesion	KDR	1.0	
+Sentinel node (disorder)	KDR	1.0	
+Malignant ascites	KDR	1.0	
+Ovarian hyperstimulation syndrome	KDR	1.0	
+Macular corneal dystrophy Type I	KDR	1.0	
+Acanthosis nigricans	KDR	1.0	
+Deep vein thrombosis of lower limb	KDR	1.0	
+Tumor-Associated Vasculature	KDR	1.0	
+Bone necrosis	KDR	1.0	
+Capillary hemangiomas	KDR	1.0	
+Deficiency of malonyl-CoA decarboxylase	KDR	1.0	
+Adenosquamous carcinoma	KDR	1.0	
+Metastatic Renal Cell Cancer	KDR	1.0	
+Choroidal Neovascularization	KDR	1.0	
+Moyamoya Disease	KDR	1.0	
+Papillary renal cell carcinoma	KDR	1.0	
+Carcinoma, Neuroendocrine	KDR	1.0	
+Angioimmunoblastic Lymphadenopathy	KDR	1.0	
+Neoplasms, Experimental	KDR	1.0	
+Primary Glioblastoma	KDR	1.0	
+secondary acute myeloid leukemia	KDR	1.0	
+Extraosseous Ewings sarcoma-primitive neuroepithelial tumor	KDR	1.0	
+Proliferative diabetic retinopathy	KDR	1.0	
+Hypoxia-Ischemia, Brain	KDR	1.0	
+Hemangiosarcoma	KDR	1.0	
+Retinopathy of Prematurity	KDR	1.0	
+Acute Lung Injury	KDR	1.0	
+Uremia	KDR	1.0	
+Pathologic Neovascularization	KDR	1.0	
+Undifferentiated leukemia	KDR	1.0	
+Cerebral edema	KDR	1.0	
+Rash and Dermatitis Adverse Event Associated with Chemoradiation	KDR	1.0	
+Acute Undifferentiated Leukemia	KDR	1.0	
+granulosa cell tumor	KDR	1.0	
+Alveolar rhabdomyosarcoma	KDR	1.0	
+Pterygium	KDR	1.0	
+Pilocytic Astrocytoma	KDR	1.0	
+X-linked ichthyosis with steryl-sulfatase deficiency	KDR	1.0	
+Lymphedema, primary, with myelodysplasia	KDR	1.0	
+Neuralgia	KDR	1.0	
+Inflammatory Breast Carcinoma	KDR	1.0	
+Malaria, Cerebral	KDR	1.0	
+Biliary Tract Cancer	KDR	1.0	
+Cystitis	KDR	1.0	
+Advanced cancer	KDR	1.0	
+Middle Cerebral Artery Occlusion	KDR	1.0	
+Mixed Salivary Gland Tumor	KDR	1.0	
+Glomerulosclerosis, Focal Segmental	KDR	1.0	
+Vascular neoplasm	KDR	1.0	
+tumor vasculature	KDR	1.0	
+Deep venous thrombosis	KDR	1.0	
+early pregnancy	KDR	1.0	
+Gastric ulcer	KDR	1.0	
+Goiter, multinodular 1, with or without sertoli-leydig cell tumors	KDR	1.0	
+Varicose Veins	KDR	1.0	
+Ependymoma	KDR	1.0	
+Depressive Symptoms	KDR	1.0	
+Impotence	KDR	1.0	
+Metastatic malignant neoplasm to brain	KDR	1.0	
+Differentiated Thyroid Gland Carcinoma	KDR	1.0	
+Liver Neoplasms, Experimental	KDR	1.0	

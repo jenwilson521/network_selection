@@ -1,0 +1,157 @@
+node1	node2	edge_score	
+DB00550	CYP1A1	1.0	
+DB00550	MPO	1.0	
+DB00550	DBH	1.0	
+CYP1A1	rs1048943	0.99
+CYP1A1		1.0
+CYP1A1	rs2472297	0.99
+CYP1A1	rs2606345	0.99
+DBH		1.0
+Drug Eruptions	CYP1A1	1.0	
+Neoplasms, Multiple Primary	CYP1A1	1.0	
+Pleural Neoplasms	CYP1A1	1.0	
+Malignant neoplasm of pharynx	CYP1A1	1.0	
+Echinococcosis	CYP1A1	1.0	
+Multiple Endocrine Neoplasia Type 2b	DBH	1.0	
+Lung Injury	CYP1A1	1.0	
+Paranoia	DBH	1.0	
+Hypothermia	DBH	1.0	
+Squamous Cell Neoplasms	CYP1A1	1.0	
+Substance Use Disorders	DBH	1.0	
+Alcohol withdrawal syndrome	DBH	1.0	
+Adenocarcinoma in Situ	CYP1A1	1.0	
+Congenital central hypoventilation	DBH	1.0	
+Parkinson disease, late-onset	DBH	1.0	
+Antisocial Personality Disorder	DBH	1.0	
+Rhinitis, Allergic, Perennial	CYP1A1	1.0	
+Endometriosis of ovary	CYP1A1	1.0	
+childhood brain tumor	CYP1A1	1.0	
+Chronic schizophrenia	DBH	1.0	
+Genomic Instability	CYP1A1	1.0	
+Xeroderma pigmentosum, group A	CYP1A1	1.0	
+Pancreatitis, Alcoholic	CYP1A1	1.0	
+Learning Disabilities	DBH	1.0	
+Carcinogenicity	CYP1A1	1.0	
+Bronchogenic Carcinoma	CYP1A1	1.0	
+Hypotension, Orthostatic	DBH	1.0	
+Angiofibromas	CYP1A1	1.0	
+Chemical Carcinogenesis	CYP1A1	1.0	
+Chloracne	CYP1A1	1.0	
+Hyperoxia	CYP1A1	1.0	
+Li-Fraumeni syndrome	CYP1A1	1.0	
+Bile duct cancer resectable	CYP1A1	1.0	
+Neoplasm of the gallbladder	CYP1A1	1.0	
+Papillomavirus Infections	CYP1A1	1.0	
+Prostate cancer, familial	CYP1A1	1.0	
+Arthritis, Reactive	CYP1A1	1.0	
+Iron deficiency anemia	CYP1A1	1.0	
+Abnormal autonomic nervous system physiology	DBH	1.0	
+Malignant neoplasm of female breast	CYP1A1	1.0	
+Leukoplakia	CYP1A1	1.0	
+Prenatal Exposure Delayed Effects	CYP1A1	1.0	
+Gorlin syndrome	CYP1A1	1.0	
+Female Breast Carcinoma	CYP1A1	1.0	
+Endometrial Hyperplasia	CYP1A1	1.0	
+Respiratory Tract Diseases	CYP1A1	1.0	
+Endometriosis of uterus	CYP1A1	1.0	
+Cocaine Dependence	DBH	1.0	
+Penile hypospadias	CYP1A1	1.0	
+Human papilloma virus infection	CYP1A1	1.0	
+Oral Submucous Fibrosis	CYP1A1	1.0	
+Intrahepatic cholestasis	CYP1A1	1.0	
+CNS symptom	DBH	1.0	
+Colonic Polyps	CYP1A1	1.0	
+Menopause present (finding)	CYP1A1	1.0	
+Infiltrating Cervical Carcinoma	CYP1A1	1.0	
+As If Personality	DBH	1.0	
+Childhood Leukemia	CYP1A1	1.0	
+Microsatellite Instability	CYP1A1	1.0	
+Breast Fibrocystic Disease	CYP1A1	1.0	
+Neoplasms, Germ Cell and Embryonal	CYP1A1	1.0	
+Pharyngeal Neoplasms	CYP1A1	1.0	
+Tardive Dyskinesia	DBH	1.0	
+Thyroid Nodule	CYP1A1	1.0	
+Attention Deficit Disorder	DBH	1.0	
+Fibroadenoma of the breast	CYP1A1	1.0	
+Colorectal polyposis	CYP1A1	1.0	
+Neurodegeneration with brain iron accumulation 4	CYP1A1	1.0	
+NEUROTICISM	DBH	1.0	
+Disorder of endocrine system	DBH	1.0	
+Occupational Diseases	CYP1A1	1.0	
+Bronchitis	CYP1A1	1.0	
+Mammographic breast density	CYP1A1	1.0	
+Acute Lung Injury	CYP1A1	1.0	
+Orofacial dyskinesia	DBH	1.0	
+Oral leukoplakia	CYP1A1	1.0	
+Uterine neoplasm	CYP1A1	1.0	
+Migraine with aura	DBH	1.0	
+Recurrent abortion	CYP1A1	1.0	
+Chromosome Aberrations	CYP1A1	1.0	
+Mitral Valve Prolapse	DBH	1.0	
+Mucinous Adenocarcinoma	CYP1A1	1.0	
+Pterygium	CYP1A1	1.0	
+Wheezing	CYP1A1	1.0	
+Cholecystolithiasis	CYP1A1	1.0	
+Tumor Promotion	CYP1A1	1.0	
+Contact Dermatitis	CYP1A1	1.0	
+Oral Cavity Carcinoma	CYP1A1	1.0	
+Adult Acute Myeloblastic Leukemia	CYP1A1	1.0	
+Thyroid associated opthalmopathies	CYP1A1	1.0	
+DNA Damage	CYP1A1	1.0	
+Adenocarcinoma, Clear Cell	CYP1A1	1.0	
+Postmenopausal osteoporosis	CYP1A1	1.0	
+Skin carcinoma	CYP1A1	1.0	
+Testicular malignant germ cell tumor	CYP1A1	1.0	
+SUDDEN INFANT DEATH SYNDROME	CYP1A1	1.0	
+Liver Cirrhosis, Alcoholic	CYP1A1	1.0	
+Testicular Germ Cell Tumor	CYP1A1	1.0	
+High grade serous carcinoma	CYP1A1	1.0	
+Hamartoma	CYP1A1	1.0	
+Neoplasm of the larynx	CYP1A1	1.0	
+Posttraumatic stress disorder	DBH	1.0	
+Carcinoma, Small Cell	CYP1A1	1.0	
+Dermatitis, Allergic Contact	CYP1A1	1.0	
+Alcohol dependence	CYP1A1	1.0	
+Alcohol dependence	DBH	1.0	
+Portal hypertension, noncirrhotic	DBH	1.0	
+Nicotine Dependence	DBH	1.0	
+Breast adenocarcinoma	CYP1A1	1.0	
+Thromboembolism	CYP1A1	1.0	
+Hereditary nonpolyposis colorectal cancer type 8	CYP1A1	1.0	
+Precocious puberty	CYP1A1	1.0	
+Depressive Symptoms	CYP1A1	1.0	
+Premature ovarian failure	DBH	1.0	
+Peptic ulcer	CYP1A1	1.0	
+Carcinoma, Endometrioid	CYP1A1	1.0	
+Abnormal male reproductive system physiology	DBH	1.0	
+Hypotension	DBH	1.0	
+Dystonia Disorders	DBH	1.0	
+Tourette Syndrome	DBH	1.0	
+Peripheral neuropathy, myopathy, hoarseness, and hearing loss	CYP1A1	1.0	
+Peripheral neuropathy, myopathy, hoarseness, and hearing loss	DBH	1.0	
+Musculoskeletal Diseases	CYP1A1	1.0	
+Pregnancy Complications	CYP1A1	1.0	
+Transitional cell carcinoma of the bladder	CYP1A1	1.0	
+Lewy Body Disease	DBH	1.0	
+Malignant neoplasm of larynx	CYP1A1	1.0	
+Pregnancy Complications, Hematologic	CYP1A1	1.0	
+Anorexia	DBH	1.0	
+Laryngeal Squamous Cell Carcinoma	CYP1A1	1.0	
+Basal cell carcinoma	CYP1A1	1.0	
+Liver Neoplasms, Experimental	CYP1A1	1.0	
+Testicular Neoplasms	CYP1A1	1.0	
+Parkinson Disease	CYP1A1	1.0	
+Parkinson Disease	DBH	1.0	
+Mild cognitive impairment	DBH	1.0	
+Neoplastic Cell Transformation	CYP1A1	1.0	
+Chronic liver disease	CYP1A1	1.0	
+Coronary Disease	CYP1A1	1.0	
+orbit (eye disorders)	CYP1A1	1.0	
+Abnormality of the autonomic nervous system	DBH	1.0	
+Abnormality of the peripheral nervous system	DBH	1.0	
+Barrett Esophagus	CYP1A1	1.0	
+Fetal Diseases	CYP1A1	1.0	
+Peripheral Arterial Disease	CYP1A1	1.0	
+Weight Gain Adverse Event	DBH	1.0	
+Hydronephrosis	CYP1A1	1.0	
+Malignant neoplasm of brain and nervous system	CYP1A1	1.0	

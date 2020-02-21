@@ -1,0 +1,12 @@
+node1	node2	edge_score	
+DB03793	RAB9A	1.0	
+DB03793	SLC16A1	1.0	
+DB03793	PRDX5	1.0	
+DB03793	DAO	1.0	
+DB03793	SLCO2B1	1.0	
+DB03793	SLC22A8	1.0	
+SLCO2B1		1.0
+SLC22A8		1.0
+Chromosome 11p deletion syndrome	SLC22A8	1.0	
+Hyperbilirubinemia	SLCO2B1	1.0	
+Acute kidney injury	SLC22A8	1.0	

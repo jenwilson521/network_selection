@@ -1,0 +1,15 @@
+node_name	node_type	
+DB01592	drug	
+EGLN1	drug_target	
+CP	drug_target	
+TFRC	drug_target	
+HDAC8	drug_target	
+AHSP	drug_target	
+HBA2	drug_target	
+FXN	drug_target	
+FEN1	drug_target	
+POLB	drug_target	
+NEIL2	drug_target	
+TF	drug_target	
+NEIL1	drug_target	
+FTH1	drug_target	

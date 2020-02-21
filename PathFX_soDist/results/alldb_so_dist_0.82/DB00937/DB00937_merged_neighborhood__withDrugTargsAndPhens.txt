@@ -1,0 +1,172 @@
+node1	node2	edge_score	
+DB00937	SLC6A3	1.0	
+DB00937	SLC6A2	1.0	
+SLC6A2	rs5569	0.99
+SLC6A2	rs12708954	0.99
+SLC6A2		1.0
+SLC6A3		1.0
+SLC6A2	rs3785143	0.99
+Behavior Disorders	SLC6A2	1.0	
+Behavior Disorders	SLC6A3	1.0	
+Heroin Dependence	SLC6A2	1.0	
+Heroin Dependence	SLC6A3	1.0	
+Methamphetamine abuse	SLC6A2	1.0	
+Methamphetamine abuse	SLC6A3	1.0	
+Anorexia nervosa 1	SLC6A2	1.0	
+Anorexia nervosa 1	SLC6A3	1.0	
+Tourette Syndrome	SLC6A2	1.0	
+Tourette Syndrome	SLC6A3	1.0	
+Lewy Body Disease	SLC6A2	1.0	
+Lewy Body Disease	SLC6A3	1.0	
+Borderline Personality Disorder	SLC6A2	1.0	
+Borderline Personality Disorder	SLC6A3	1.0	
+Anxiety	SLC6A2	1.0	
+Anxiety	SLC6A3	1.0	
+Bronchopulmonary Dysplasia	SLC6A2	1.0	
+Bronchopulmonary Dysplasia	SLC6A3	1.0	
+Pigmentary pallidal degeneration	SLC6A3	1.0	
+Slow acetylator due to N-acetyltransferase enzyme variant	SLC6A2	1.0	
+Autism spectrum disorders	SLC6A2	1.0	
+Autism spectrum disorders	SLC6A3	1.0	
+Dentinogenesis imperfecta	SLC6A2	1.0	
+Recurrent major depressive episodes	SLC6A2	1.0	
+Asthma, Occupational	SLC6A2	1.0	
+Spinocerebellar ataxia 2	SLC6A3	1.0	
+Bulimia	SLC6A3	1.0	
+Paranoia	SLC6A3	1.0	
+Delayed gross motor development	SLC6A3	1.0	
+Orofacial cleft	SLC6A2	1.0	
+Generalized anxiety disorder	SLC6A3	1.0	
+Substance Use Disorders	SLC6A3	1.0	
+Alcohol withdrawal syndrome	SLC6A3	1.0	
+Motor symptoms	SLC6A3	1.0	
+Systemic aspergillosis	SLC6A2	1.0	
+ {Nicotine dependence, protection against}, 188890 (3)	SLC6A3	1.0	
+Antisocial Personality Disorder	SLC6A3	1.0	
+Cocaine delirium	SLC6A3	1.0	
+Ataxic	SLC6A3	1.0	
+Chronic schizophrenia	SLC6A3	1.0	
+Mood Disorders	SLC6A2	1.0	
+Mood Disorders	SLC6A3	1.0	
+Personality disorder	SLC6A2	1.0	
+Morphological abnormality of the pyramidal tract	SLC6A3	1.0	
+Bulimia nervosa 1	SLC6A3	1.0	
+Disseminated intravascular coagulation	SLC6A2	1.0	
+Antisocial/borderline personality disorder	SLC6A3	1.0	
+Substance abuse problem	SLC6A3	1.0	
+Drug usage	SLC6A3	1.0	
+Manic	SLC6A3	1.0	
+Weight Loss Adverse Event	SLC6A2	1.0	
+Conduct Disorder	SLC6A3	1.0	
+Bradykinesia	SLC6A3	1.0	
+Fibromyalgia	SLC6A3	1.0	
+Anxiety Disorders	SLC6A2	1.0	
+Anxiety Disorders	SLC6A3	1.0	
+Abnormal autonomic nervous system physiology	SLC6A2	1.0	
+Prenatal Exposure Delayed Effects	SLC6A3	1.0	
+Respiratory tract infection	SLC6A2	1.0	
+Respiratory tract infection	SLC6A3	1.0	
+Unipolar Depression	SLC6A2	1.0	
+Unipolar Depression	SLC6A3	1.0	
+Cleft palate with cleft lip	SLC6A2	1.0	
+Memory Disorders	SLC6A3	1.0	
+Cocaine Dependence	SLC6A3	1.0	
+Autoimmune lymphoproliferative syndrome, type 2	SLC6A3	1.0	
+Mental disorders	SLC6A2	1.0	
+Mental disorders	SLC6A3	1.0	
+CNS symptom	SLC6A3	1.0	
+As If Personality	SLC6A3	1.0	
+Tardive Dyskinesia	SLC6A3	1.0	
+Bipolar I disorder	SLC6A3	1.0	
+Angelman syndrome-like	SLC6A3	1.0	
+Psychoses, Substance-Induced	SLC6A3	1.0	
+Attention Deficit Disorder	SLC6A3	1.0	
+Colorectal polyposis	SLC6A2	1.0	
+Drug Dependence	SLC6A3	1.0	
+Atrial septal defect	SLC6A2	1.0	
+Atrial septal defect	SLC6A3	1.0	
+Osteochondritis dissecans	SLC6A3	1.0	
+NEUROTICISM	SLC6A3	1.0	
+Major depressive disorder	SLC6A2	1.0	
+Major depressive disorder	SLC6A3	1.0	
+Multiple Endocrine Neoplasia Type 2a	SLC6A2	1.0	
+Well Differentiated Pancreatic Endocrine Tumor	SLC6A2	1.0	
+MAJOR AFFECTIVE DISORDER 4	SLC6A3	1.0	
+MAJOR AFFECTIVE DISORDER 5	SLC6A3	1.0	
+MAJOR AFFECTIVE DISORDER 6	SLC6A3	1.0	
+Major affective disorder 7	SLC6A3	1.0	
+MAJOR AFFECTIVE DISORDER 8	SLC6A3	1.0	
+MAJOR AFFECTIVE DISORDER 9	SLC6A3	1.0	
+Orofacial dyskinesia	SLC6A3	1.0	
+Eating disorder	SLC6A3	1.0	
+Muscular hypotonia of the trunk	SLC6A3	1.0	
+Migraine with aura	SLC6A3	1.0	
+Ichthyosis bullosa of Siemens	SLC6A2	1.0	
+Attention deficit hyperactivity disorder	SLC6A2	1.0	
+Attention deficit hyperactivity disorder	SLC6A3	1.0	
+Granulomatous disease, chronic, autosomal recessive, cytochrome b-negative	SLC6A2	1.0	
+Drug Allergy	SLC6A3	1.0	
+Azorean disease	SLC6A3	1.0	
+Substance addiction and disorders	SLC6A3	1.0	
+Panic disorder 1	SLC6A2	1.0	
+Depressive Disorder	SLC6A2	1.0	
+Depressive Disorder	SLC6A3	1.0	
+Growth Disorders	SLC6A3	1.0	
+Multiple Endocrine Neoplasia Type 1	SLC6A2	1.0	
+Gastrointestinal Diseases	SLC6A2	1.0	
+{Unipolar depression, susceptibility to}, 608516 (3)	SLC6A2	1.0	
+{Unipolar depression, susceptibility to}, 608516 (3)	SLC6A3	1.0	
+Non-Hodgkin lymphoma	SLC6A2	1.0	
+Non-Hodgkin lymphoma	SLC6A3	1.0	
+Mitral Valve Prolapse	SLC6A2	1.0	
+Amphetamine-Related Disorders	SLC6A3	1.0	
+Candidiasis, familial, 9	SLC6A2	1.0	
+Obsessive-compulsive disorder	SLC6A3	1.0	
+Arterial thrombosis	SLC6A2	1.0	
+Dyslexia 1	SLC6A3	1.0	
+Cerebral palsy, spastic quadriplegic, 3	SLC6A2	1.0	
+Alcohol abuse	SLC6A3	1.0	
+Marijuana Abuse	SLC6A3	1.0	
+Dyskinesia, seizures, and intellectual developmental disorder	SLC6A3	1.0	
+Methicillin resistant Staphylococcus aureus	SLC6A2	1.0	
+Shy-Drager syndrome	SLC6A3	1.0	
+Hyperplastic Polyp	SLC6A2	1.0	
+Rigidity	SLC6A3	1.0	
+SUDDEN INFANT DEATH SYNDROME	SLC6A3	1.0	
+Liver Cirrhosis, Alcoholic	SLC6A3	1.0	
+Bacteremia, susceptibility to, 2	SLC6A2	1.0	
+Posttraumatic stress disorder	SLC6A3	1.0	
+Chorea, childhood-onset, with psychomotor retardation	SLC6A3	1.0	
+Alcohol dependence	SLC6A2	1.0	
+Alcohol dependence	SLC6A3	1.0	
+Von Hippel-Lindau syndrome	SLC6A2	1.0	
+CNS disorder	SLC6A3	1.0	
+Nicotine Dependence	SLC6A3	1.0	
+early pregnancy	SLC6A2	1.0	
+Panic disorder syndrome 1 (2)	SLC6A2	1.0	
+Cocaine-Related Disorders	SLC6A3	1.0	
+Depressive Symptoms	SLC6A3	1.0	
+Impotence	SLC6A3	1.0	
+ {Aerodigestive tract cancer, squamous cell, alcohol-related, protection against} (3)	SLC6A2	1.0	
+Neurodegeneration with brain iron accumulation	SLC6A3	1.0	
+Abnormality of the autonomic nervous system	SLC6A2	1.0	
+Abnormality of the peripheral nervous system	SLC6A2	1.0	
+Bipolar affective disorder	SLC6A2	1.0	
+Bipolar affective disorder	SLC6A3	1.0	
+Tachycardia	SLC6A2	1.0	
+Weight Gain Adverse Event	SLC6A3	1.0	
+Neurofibromatosis, type 1, 162200 (3)	SLC6A2	1.0	
+Hemolytic anemia, nonspherocytic, due to glucose phosphate isomerase deficiency	SLC6A3	1.0	
+Irritable bowel syndrome with diarrhea	SLC6A2	1.0	
+Substance-Related Disorders	SLC6A3	1.0	
+Amyotrophic lateral sclerosis type 1	SLC6A3	1.0	
+Abnormality of extrapyramidal motor function	SLC6A3	1.0	
+Dengue Fever	SLC6A2	1.0	
+Secondary hyperparathyroidism	SLC6A2	1.0	
+Carcinoid tumor	SLC6A2	1.0	
+Vasculitis	SLC6A2	1.0	
+Hypersensitivity	SLC6A3	1.0	
+Adenocarcinoma of the large intestine	SLC6A2	1.0	
+Progressive	SLC6A3	1.0	
+Cycloid psychosis	SLC6A3	1.0	
+Developmental delay with short stature, dysmorphic features, and sparse hair	SLC6A2	1.0	

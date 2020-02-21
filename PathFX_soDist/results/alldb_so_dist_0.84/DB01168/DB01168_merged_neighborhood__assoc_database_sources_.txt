@@ -1,0 +1,205 @@
+Gene	CUI	Source Databases	
+CYP1B1	C0004096	Asthma	DisGeNet	
+XDH	C0004096	Asthma	DisGeNet	
+CYP1B1	C0004352	Autism 15	DisGeNet	
+XDH	C0004352	Autism 15	DisGeNet	
+CYP1B1	C0006142	Breast-ovarian cancer, familial 1	DisGeNet	
+XDH	C0006142	Breast-ovarian cancer, familial 1	DisGeNet	
+CYP1B1	C0007137	Squamous cell carcinoma	DisGeNet	
+XDH	C0007137	Squamous cell carcinoma	DisGeNet	
+CYP1B1	C0007222	Cardiovascular Diseases	DisGeNet	
+XDH	C0007222	Cardiovascular Diseases	DisGeNet	
+CYP1B1	C0009402	Colorectal cancer 1	DisGeNet	
+XDH	C0009402	Colorectal cancer 1	DisGeNet	
+CYP1B1	C0011053	Deafness, autosomal recessive 44	DisGeNet	
+XDH	C0011053	Deafness, autosomal recessive 44	DisGeNet	
+CYP1B1	C0014859	Esophageal Neoplasms	DisGeNet	
+XDH	C0014859	Esophageal Neoplasms	DisGeNet	
+CYP1B1	C0018772	Hearing Loss, Partial	DisGeNet	
+XDH	C0018772	Hearing Loss, Partial	DisGeNet	
+CYP1B1	C0020538	Hypertension	DisGeNet	
+XDH	C0020538	Hypertension	DisGeNet	
+CYP1B1	C0024117	Chronic obstructive pulmonary disease	DisGeNet	
+XDH	C0024117	Chronic obstructive pulmonary disease	DisGeNet	
+CYP1B1	C0024623	{Gastric cancer risk after H. pylori infection}, 137215 (3)	DisGeNet	
+XDH	C0024623	{Gastric cancer risk after H. pylori infection}, 137215 (3)	DisGeNet	
+CYP1B1	C0024667	Animal Mammary Neoplasms	DisGeNet	
+XDH	C0024667	Animal Mammary Neoplasms	DisGeNet	
+CYP1B1	C0025286	Meningioma	DisGeNet	
+XDH	C0025286	Meningioma	DisGeNet	
+CYP1B1	C0027627	Secondary hypertriglyceridemia	DisGeNet	
+XDH	C0027627	Secondary hypertriglyceridemia	DisGeNet	
+CYP1B1	C0038356	Stomach Neoplasms	DisGeNet	
+XDH	C0038356	Stomach Neoplasms	DisGeNet	
+CYP1B1	C0152013	Adenocarcinoma of lung	DisGeNet	
+XDH	C0152013	Adenocarcinoma of lung	DisGeNet	
+CYP1B1	C0242379	Malignant neoplasm of lung	DisGeNet	
+XDH	C0242379	Malignant neoplasm of lung	DisGeNet	
+CYP1B1	C0441748	Autosomal recessive inheritance	HumPhenOnt	
+XDH	C0441748	Autosomal recessive inheritance	HumPhenOnt	
+CYP1B1	C0677886	Ovarian epithelial cancer	DisGeNet	
+XDH	C0677886	Ovarian epithelial cancer	DisGeNet	
+CYP1B1	C0678222	Breast carcinoma	DisGeNet	
+XDH	C0678222	Breast carcinoma	DisGeNet	
+CYP1B1	C0684249	Lung cancer	DisGeNet	
+XDH	C0684249	Lung cancer	DisGeNet	
+CYP1B1	C0699791	Stomach cancer	DisGeNet	
+XDH	C0699791	Stomach cancer	DisGeNet	
+CYP1B1	C1140680	BREAST-OVARIAN CANCER, FAMILIAL, SUSCEPTIBILITY TO, 4	DisGeNet	
+XDH	C1140680	BREAST-OVARIAN CANCER, FAMILIAL, SUSCEPTIBILITY TO, 4	DisGeNet	
+CYP1B1	C1384666	Hearing impairment	DisGeNet	
+XDH	C1384666	Hearing impairment	DisGeNet	
+CYP1B1	C1520166	Xenograft Model	DisGeNet	
+XDH	C1520166	Xenograft Model	DisGeNet	
+CYP1B1	C1527249	Colorectal cancer	DisGeNet	
+XDH	C1527249	Colorectal cancer	DisGeNet	
+CYP1B1	C1762616	Meningioma, benign, no ICD-O subtype	DisGeNet	
+XDH	C1762616	Meningioma, benign, no ICD-O subtype	DisGeNet	
+CYP1B1	C1961102	Precursor Cell Lymphoblastic Leukemia-Lymphoma	DisGeNet	
+XDH	C1961102	Precursor Cell Lymphoblastic Leukemia-Lymphoma	DisGeNet	
+CYP1B1	C2239176	Hepatocellular carcinoma	DisGeNet	
+XDH	C2239176	Hepatocellular carcinoma	DisGeNet	
+CYP1B1	C1827377	Slow acetylator due to N-acetyltransferase enzyme variant	DisGeNet	
+CYP1B1	C0017606	Primary angle-closure glaucoma	DisGeNet	
+CYP1B1	C0032229	Pleural Neoplasms	DisGeNet	
+CYP1B1	C0266525	Anterior segment dysgenesis	DisGeNet,HumPhenOnt	
+XDH	C1833683	Calcium oxalate urolithiasis	DisGeNet	
+XDH	C4025346	Abnormality of purine metabolism	HumPhenOnt	
+CYP1B1	C0812437	Oculodentodigital dysplasia	DisGeNet	
+CYP1B1	C0278688	Stage IV Ovarian Carcinoma	DisGeNet	
+CYP1B1	C0020302	Buphthalmos	DisGeNet,HumPhenOnt	
+CYP1B1	C0919532	Genomic Instability	DisGeNet	
+CYP1B1	C3152182	Abnormality of the anterior chamber	HumPhenOnt	
+XDH	C4023643	Abnormality of nucleobase metabolism	HumPhenOnt	
+CYP1B1	C0858970	Carcinogenicity	DisGeNet	
+CYP1B1	C0085109	Corneal neovascularization	HumPhenOnt	
+CYP1B1	C0596321	Chemical Carcinogenesis	DisGeNet	
+CYP1B1	C0028840	Ocular Hypertension	DisGeNet	
+CYP1B1	C0003076	Aniridia 1	DisGeNet	
+XDH	C0022650	Kidney Calculi	DisGeNet	
+CYP1B1	C0085390	Li-Fraumeni syndrome	DisGeNet	
+CYP1B1	C0206669	Hepatocellular adenoma	DisGeNet	
+CYP1B1	C2931456	Prostate cancer, familial	DisGeNet	
+XDH	C0034186	Pyelonephritis	HumPhenOnt	
+CYP1B1	C0235653	Malignant neoplasm of female breast	DisGeNet	
+XDH	C0025284	Meningeal Neoplasms	DisGeNet	
+CYP1B1	C0007104	Female Breast Carcinoma	DisGeNet	
+CYP1B1	C0152136	Low Tension Glaucoma	DisGeNet	
+CYP1B1	C0341858	Endometriosis of uterus	DisGeNet	
+XDH	C0853897	Diabetic Cardiomyopathies	DisGeNet	
+CYP1B1	C0008372	Intrahepatic cholestasis	DisGeNet	
+CYP1B1	C0150312	Menopause present (finding)	DisGeNet	
+CYP1B1	C0016034	Breast Fibrocystic Disease	DisGeNet	
+CYP1B1	C0220704	Shprintzen syndrome	DisGeNet	
+CYP1B1	C0595936	Aqueous Humor Disorders	DisGeNet	
+CYP1B1	C0014130	Disorder of endocrine system	DisGeNet	
+XDH	C0028797	Occupational Diseases	DisGeNet	
+XDH	C0740394	Hyperuricemia, pulmonary hypertension, renal failure, and alkalosis	DisGeNet	
+CYP1B1	C1268717	Mammographic breast density	DisGeNet	
+CYP1B1	C0023532	Oral leukoplakia	DisGeNet	
+CYP1B1	C0042138	Uterine neoplasm	DisGeNet	
+CYP1B1	C0156543	Pregnancy loss	DisGeNet	
+XDH	C0740392	Infarction, Middle Cerebral Artery	DisGeNet	
+CYP1B1	C0012236	DiGeorge sequence	DisGeNet	
+CYP1B1	C0011616	Contact Dermatitis	DisGeNet	
+CYP1B1	C0012860	DNA Damage	DisGeNet	
+CYP1B1	C0029458	Postmenopausal osteoporosis	DisGeNet	
+CYP1B1	C0085762	Alcohol abuse	DisGeNet	
+XDH	C0600452	Hepatopulmonary Syndrome	DisGeNet	
+CYP1B1	C0595921	Intraocular pressure disorder	DisGeNet	
+CYP1B1	C1336708	Testicular Germ Cell Tumor	DisGeNet	
+CYP1B1	C0023055	Neoplasm of the larynx	DisGeNet	
+CYP1B1	C0017612	Glaucoma, Open-Angle	DisGeNet	
+XDH	C0392525	Nephrolithiasis	DisGeNet,HumPhenOnt	
+CYP1B1	C0034013	Precocious puberty	DisGeNet	
+CYP1B1	C0086132	Depressive Symptoms	DisGeNet	
+XDH	C1868864	Dilatation of the renal pelvis	HumPhenOnt	
+XDH	C4023633	Abnormality of the renal pelvis	HumPhenOnt	
+CYP1B1	C0032962	Pregnancy Complications	DisGeNet	
+CYP1B1	C0878500	Intraepithelial Neoplasia	DisGeNet	
+CYP1B1	C0007107	Malignant neoplasm of larynx	DisGeNet	
+XDH	C0034065	Pulmonary Embolism	DisGeNet	
+CYP1B1	C0751688	 {Aerodigestive tract cancer, squamous cell, alcohol-related, protection against} (3)	DisGeNet	
+XDH	C1527336	Sjogren's Syndrome	DisGeNet	
+CYP1B1	C1512981	Mammary Tumorigenesis	DisGeNet	
+XDH	C0027746	Neurodegeneration with brain iron accumulation	DisGeNet	
+XDH	C0020295	Hydronephrosis	HumPhenOnt	
+CYP1B1	C0153633	Malignant neoplasm of brain and nervous system	DisGeNet	
+CYP1B1	C0153452	Malignant neoplasm of gallbladder	DisGeNet	
+CYP1B1	C0339573	Primary open angle glaucoma juvenile onset 1	DisGeNet	
+XDH	C0027697	Nephritis	HumPhenOnt	
+CYP1B1	C0598935	Tumor Initiation	DisGeNet	
+CYP1B1	C0010038	Corneal opacity	HumPhenOnt	
+CYP1B1	C0595989	Laryngeal carcinoma	DisGeNet	
+XDH	C0403447	Chronic Kidney Insufficiency	DisGeNet	
+XDH	C0007273	Carotid Artery Diseases	DisGeNet	
+CYP1B1	C0235782	Gallbladder Carcinoma	DisGeNet	
+XDH	C0024668	Mammary Neoplasms, Experimental	DisGeNet	
+CYP1B1	C0034067	Pulmonary Emphysema	DisGeNet	
+XDH	C0856169	Endothelial dysfunction	DisGeNet	
+CYP1B1	C0936223	Metastatic Prostate Carcinoma	DisGeNet	
+CYP1B1	C0026640	Neoplasm of the oral cavity	DisGeNet	
+CYP1B1	C0152171	Primary pulmonary hypertension	DisGeNet	
+CYP1B1	C1134719	Invasive Ductal Breast Carcinoma	DisGeNet	
+CYP1B1	C0019409	Heterogeneous	HumPhenOnt	
+CYP1B1	C0153594	Malignant tumor of testis	DisGeNet	
+XDH	C0040034	Thrombocytopenia, platelet dysfunction, hemolysis, and imbalanced globin synthesis	DisGeNet	
+CYP1B1	C0026010	Microphthalmia syndromic 6	DisGeNet	
+CYP1B1	C0000786	Spontaneous abortion	DisGeNet	
+CYP1B1	C0014170	Endometrial Neoplasms	DisGeNet	
+XDH	C0022660	Acute kidney injury	DisGeNet	
+XDH	C0030305	Pancreatitis	DisGeNet	
+CYP1B1	C0008497	Choriocarcinoma	DisGeNet	
+CYP1B1	C0018800	Cardiomegaly	DisGeNet	
+XDH	C0035126	Reperfusion Injury	DisGeNet	
+CYP1B1	C3203102	Pulmonary arterial hypertension	DisGeNet	
+CYP1B1	C0023267	Leiomyoma	DisGeNet	
+CYP1B1	C0042133	Uterine leiomyoma	DisGeNet	
+CYP1B1	C0018671	Head and Neck Neoplasms	DisGeNet	
+XDH	C0003130	Hypoxia	DisGeNet	
+CYP1B1	C0238198	Gastrointestinal stromal tumor	DisGeNet	
+XDH	C1561643	Chronic kidney disease	DisGeNet	
+CYP1B1	C0022665	Renal neoplasm	DisGeNet	
+CYP1B1	C0853879	Invasive breast carcinoma	DisGeNet	
+CYP1B1	C0024115	Pulmonary Disease, Chronic Obstructive	DisGeNet	
+CYP1B1	C0238339	Hereditary pancreatitis	DisGeNet	
+CYP1B1	C0025500	Mesothelioma, malignant	DisGeNet	
+XDH	C0018799	Heart Diseases	DisGeNet	
+CYP1B1	C0024301	Lymphoma, Follicular	DisGeNet	
+CYP1B1	C0025517	Disorders of Intracellular Cobalamin Metabolism	DisGeNet	
+CYP1B1	C3463824	Myelodysplastic syndrome	DisGeNet	
+CYP1B1	C0740457	Malignant neoplasm of kidney	DisGeNet	
+CYP1B1	C0042373	Vascular Diseases	DisGeNet	
+CYP1B1	C1704272	Benign Prostatic Hyperplasia	DisGeNet	
+XDH	C0151746	Abnormal renal physiology	HumPhenOnt	
+CYP1B1	C0278996	Cancer of Head and Neck	DisGeNet	
+CYP1B1	C0035309	Retinopathy	DisGeNet	
+XDH	C0026848	Myopathy, scapulohumeroperoneal	HumPhenOnt	
+CYP1B1	C0032927	Precancerous Conditions	DisGeNet	
+CYP1B1	C0017601	Glaucoma, Angle-Closure	ClinVar,DisGeNet,HumPhenOnt	
+CYP1B1	C1855670	Abnormality of the cornea	HumPhenOnt	
+CYP1B1	C0005695	Urinary Bladder Neoplasms	DisGeNet	
+CYP1B1	C0018817	Atrial septal defect	DisGeNet	
+XDH	C1269683	Major depressive disorder	DisGeNet	
+CYP1B1	C0007103	Malignant neoplasm of endometrium	DisGeNet	
+CYP1B1	C0153574	Uterine Corpus Cancer	DisGeNet	
+CYP1B1	C0008626	Congenital chromosomal disease	DisGeNet	
+CYP1B1	C1845274	Abnormal conjugate eye movement	HumPhenOnt	
+CYP1B1	C0038379	Strabismus	HumPhenOnt	
+CYP1B1	C0024305	Non-Hodgkin lymphoma	DisGeNet	
+CYP1B1	C1335302	Pancreatic Ductal Adenocarcinoma	DisGeNet	
+CYP1B1	C0079744	Germinal Center B-Cell-Like Diffuse Large B-Cell Lymphoma	DisGeNet	
+XDH	C4022803	Increased inflammatory response	HumPhenOnt	
+XDH	C4022805	Abnormal inflammatory response	HumPhenOnt	
+CYP1B1	C0152018	Esophageal carcinoma	DisGeNet	
+XDH	C0243026	Sepsis	DisGeNet	
+CYP1B1	C0345904	Hepatic cancer metastatic	DisGeNet	
+XDH	C0011881	Diabetic Nephropathies	DisGeNet	
+CYP1B1	C4022855	Abnormal involuntary eye movements	HumPhenOnt	
+CYP1B1	C0028738	Nystagmus	HumPhenOnt	
+CYP1B1	C0029456	Osteoporosis	DisGeNet	
+XDH	C0022116	Ischemia	DisGeNet	
+CYP1B1	C0546837	Malignant tumor of esophagus	DisGeNet	
+CYP1B1	C0079731	B-cell lymphoma	DisGeNet	
+XDH	C4023437	Abnormality of the urinary system physiology	HumPhenOnt	
+XDH	C0006118	Brain neoplasm	DisGeNet	

@@ -1,0 +1,10 @@
+Gene	CUI	Source Databases	
+ABCB1	C1504404	Hippocampal sclerosis	DisGeNet	
+ABCC1	C1504404	Hippocampal sclerosis	DisGeNet	
+ABCG2	C1504404	Hippocampal sclerosis	DisGeNet	
+ABCC1	C0473583	Pseudoxanthoma elasticum	DisGeNet	
+ABCC6	C0473583	Pseudoxanthoma elasticum	ClinVar,DisGeNet	
+ABCG2	C0473583	Pseudoxanthoma elasticum	DisGeNet	
+ABCB1	C0041755	Adverse drug events and drug allergies	DisGeNet	
+ABCC1	C0041755	Adverse drug events and drug allergies	DisGeNet	
+ABCG2	C0041755	Adverse drug events and drug allergies	DisGeNet	

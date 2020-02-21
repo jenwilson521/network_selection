@@ -1,0 +1,6 @@
+node_name	node_type	
+DB08911	drug	
+CYP2C8	drug_target	
+CYP3A4	drug_target	
+MAP2K1	drug_target	
+MAP2K2	drug_target	

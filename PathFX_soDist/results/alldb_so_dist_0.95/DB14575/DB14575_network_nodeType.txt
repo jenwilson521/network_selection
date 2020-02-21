@@ -1,0 +1,18 @@
+node_name	node_type	
+DB14575	drug	
+CYP3A4	drug_target	
+CYP2C19	drug_target	
+UGT1A1	drug_target	
+P2RX4	drug_target	
+Hepatitis D Infection	phenotype	
+Hyperbilirubinemia	phenotype	
+Drug Allergy	phenotype	
+Febrile Neutropenia	phenotype	
+Cholelithiasis	phenotype	
+Anemia, Sickle Cell	phenotype	
+Hearing Loss, Partial	phenotype	
+Leukopenia	phenotype	
+Neutropenia	phenotype	
+Deafness, autosomal recessive 44	phenotype	
+Primary malignant neoplasm of liver	phenotype	
+Influenza	phenotype	

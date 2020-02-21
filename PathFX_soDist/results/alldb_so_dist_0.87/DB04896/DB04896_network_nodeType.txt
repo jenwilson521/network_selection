@@ -1,0 +1,18 @@
+node_name	node_type	
+DB04896	drug	
+SLC6A2	drug_target	
+CYP3A4	drug_target	
+SLC6A4	drug_target	
+Heroin Dependence	phenotype	
+Behavior Disorders	phenotype	
+Acute postoperative pain	phenotype	
+Personality disorder	phenotype	
+Weight Loss Adverse Event	phenotype	
+Tardive Dyskinesia	phenotype	
+Orofacial dyskinesia	phenotype	
+Ichthyosis bullosa of Siemens	phenotype	
+Panic disorder 1	phenotype	
+Gastrointestinal Diseases	phenotype	
+Alcohol abuse	phenotype	
+Methamphetamine abuse	phenotype	
+Anorexia nervosa 1	phenotype	

@@ -1,0 +1,262 @@
+node1	node2	edge_score	
+DB05679	IL12B	1.0	
+IL12B		1.0
+Spontaneous abortion	IL12B	1.0	
+Acquired Immunodeficiency Syndrome	IL12B	1.0	
+ Adenocarcinoma, ovarian, somatic, 167000 (3)	IL12B	1.0	
+AIDS Dementia Complex	IL12B	1.0	
+Alcohol dependence	IL12B	1.0	
+Anemia	IL12B	1.0	
+Anorexia	IL12B	1.0	
+Arteriosclerosis	IL12B	1.0	
+Arthralgia	IL12B	1.0	
+Arthritis, Rheumatoid	IL12B	1.0	
+Arthritis, Psoriatic	IL12B	1.0	
+Rheumatoid arthritis	IL12B	1.0	
+Asthma	IL12B	1.0	
+Atherosclerosis	IL12B	1.0	
+Autoimmune disease 1	IL12B	1.0	
+Barrett Esophagus	IL12B	1.0	
+Behcet Syndrome	IL12B	1.0	
+Malignant tumor of urinary bladder	IL12B	1.0	
+Abnormal systemic blood pressure	IL12B	1.0	
+Brain neoplasm	IL12B	1.0	
+Breast-ovarian cancer, familial 1	IL12B	1.0	
+Bronchiolitis, Viral	IL12B	1.0	
+Malignant neoplasm of larynx	IL12B	1.0	
+Squamous cell carcinoma	IL12B	1.0	
+Hypertrophic cardiomyopathy	IL12B	1.0	
+Celiac Disease	IL12B	1.0	
+Malignant tumor of cervix	IL12B	1.0	
+Chagas Cardiomyopathy	IL12B	1.0	
+Chest pain	IL12B	1.0	
+Chorioamnionitis	IL12B	1.0	
+Ulcerative colitis	IL12B	1.0	
+Colorectal cancer 1	IL12B	1.0	
+Verotoxigenic Escherichia coli gastrointestinal tract infection	IL12B	1.0	
+Constitutional symptom	IL12B	1.0	
+Crohn Disease	IL12B	1.0	
+Cytomegalovirus Infections	IL12B	1.0	
+Dementia familial British	IL12B	1.0	
+Dengue Fever	IL12B	1.0	
+Dermatitis, Atopic	IL12B	1.0	
+Diabetes mellitus type 1	IL12B	1.0	
+Diabetes mellitus type 2	IL12B	1.0	
+Dilatation	IL12B	1.0	
+Eczema	IL12B	1.0	
+Experimental Autoimmune Encephalomyelitis	IL12B	1.0	
+Equine Infectious Anemia	IL12B	1.0	
+Esophageal Neoplasms	IL12B	1.0	
+Peptic Esophagitis	IL12B	1.0	
+Abnormality of the eye	IL12B	1.0	
+Fatigue	IL12B	1.0	
+Fetal Membranes, Premature Rupture	IL12B	1.0	
+Malignant hyperthermia susceptibility type 5	IL12B	1.0	
+Gangrene	IL12B	1.0	
+Glioma	IL12B	1.0	
+Graves Disease	IL12B	1.0	
+Guillain-Barre syndrome, familial	IL12B	1.0	
+Headache	IL12B	1.0	
+Heart Defects, Congenital	IL12B	1.0	
+Hemoptysis	IL12B	1.0	
+Severe Dengue	IL12B	1.0	
+Hepatitis	IL12B	1.0	
+Acute type B viral hepatitis	IL12B	1.0	
+Hepatitis C	IL12B	1.0	
+Herpesviridae Infections	IL12B	1.0	
+Symptomatic human immunodeficiency virus infection	IL12B	1.0	
+Hodgkin Disease	IL12B	1.0	
+Huntington's chorea	IL12B	1.0	
+Hyperglycemia	IL12B	1.0	
+Hyperhidrosis	IL12B	1.0	
+Immediate hypersensitivity	IL12B	1.0	
+Hypertension	IL12B	1.0	
+Hypohidrosis	IL12B	1.0	
+Hypothermia	IL12B	1.0	
+Immunodeficiency due to defect in CD3-gamma	IL12B	1.0	
+Immune dysfunction with T-cell inactivation due to calcium entry defect 1	IL12B	1.0	
+Inflammation	IL12B	1.0	
+Inflammatory Bowel Diseases	IL12B	1.0	
+Abnormality of the intestine	IL12B	1.0	
+Keratitis	IL12B	1.0	
+Kidney Diseases	IL12B	1.0	
+Premature Obstetric Labor	IL12B	1.0	
+Leprosy	IL12B	1.0	
+Leprosy, Lepromatous	IL12B	1.0	
+Leptospirosis	IL12B	1.0	
+Liver Cirrhosis, Alcoholic	IL12B	1.0	
+Biliary cirrhosis	IL12B	1.0	
+Neoplasm of the liver	IL12B	1.0	
+Pulmonary Disease, Chronic Obstructive	IL12B	1.0	
+Chronic obstructive pulmonary disease	IL12B	1.0	
+Lupus Erythematosus, Cutaneous	IL12B	1.0	
+Lupus Erythematosus, Systemic	IL12B	1.0	
+Lupus Nephritis	IL12B	1.0	
+Lymphatic Metastasis	IL12B	1.0	
+Lymphoma, Large B-Cell, Diffuse	IL12B	1.0	
+Lymphoma, Follicular	IL12B	1.0	
+Non-Hodgkin lymphoma	IL12B	1.0	
+Malaria	IL12B	1.0	
+Malaria, Cerebral	IL12B	1.0	
+Malaria, Falciparum	IL12B	1.0	
+Measles	IL12B	1.0	
+Melanoma	IL12B	1.0	
+Mixed Connective Tissue Disease	IL12B	1.0	
+Mucocutaneous Lymph Node Syndrome	IL12B	1.0	
+Multiple Myeloma	IL12B	1.0	
+Multiple Sclerosis	IL12B	1.0	
+Myasthenia Gravis	IL12B	1.0	
+Mycobacterium Infections	IL12B	1.0	
+Myocardial Infarction	IL12B	1.0	
+Secondary hypertriglyceridemia	IL12B	1.0	
+Neoplasms, Experimental	IL12B	1.0	
+Nephrotic syndrome, type 5, with or without ocular abnormalities	IL12B	1.0	
+Neuritis	IL12B	1.0	
+Pain	IL12B	1.0	
+Muscle weakness	IL12B	1.0	
+Pemphigus	IL12B	1.0	
+Periodontitis, Juvenile	IL12B	1.0	
+Postoperative Complications	IL12B	1.0	
+Preeclampsia/eclampsia 1	IL12B	1.0	
+Psoriasis	IL12B	1.0	
+Pulmonary fibrosis and/or bone marrow failure, telomere-related, 4	IL12B	1.0	
+Rectal fistula	IL12B	1.0	
+Respiratory Syncytial Virus Infections	IL12B	1.0	
+Abnormality of the retina	IL12B	1.0	
+Retinopathy	IL12B	1.0	
+Rubella	IL12B	1.0	
+Salmonella infections	IL12B	1.0	
+Sarcoidosis	IL12B	1.0	
+Schizophrenia	IL12B	1.0	
+Seizures, Febrile	IL12B	1.0	
+Silicosis	IL12B	1.0	
+Abnormality of the skin	IL12B	1.0	
+Skin nodule	IL12B	1.0	
+Skin ulcer	IL12B	1.0	
+Neurological speech impairment	IL12B	1.0	
+Ankylosing spondylitis	IL12B	1.0	
+Stomach Neoplasms	IL12B	1.0	
+Arterial stenosis	IL12B	1.0	
+Subacute Sclerosing Panencephalitis	IL12B	1.0	
+C-like syndrome	IL12B	1.0	
+Takayasu Arteritis	IL12B	1.0	
+Thymoma	IL12B	1.0	
+Chronic Chagas' disease	IL12B	1.0	
+Tuberculosis	IL12B	1.0	
+Tuberculosis, Pulmonary	IL12B	1.0	
+Uveomeningoencephalitic Syndrome	IL12B	1.0	
+Vasculitis	IL12B	1.0	
+Virus Diseases	IL12B	1.0	
+Germinal Center B-Cell-Like Diffuse Large B-Cell Lymphoma	IL12B	1.0	
+Lymphoma, Large-Cell, Follicular	IL12B	1.0	
+Bronchial Hyperreactivity	IL12B	1.0	
+Amaurosis fugax	IL12B	1.0	
+Migraine Disorders	IL12B	1.0	
+Premature Birth	IL12B	1.0	
+Subcutaneous nodule	IL12B	1.0	
+Esophageal carcinoma	IL12B	1.0	
+Allergic asthma	IL12B	1.0	
+Abnormality of the coronary arteries	IL12B	1.0	
+Autoimmune thyroid disease 3	IL12B	1.0	
+Abnormal QRS complex	IL12B	1.0	
+Osteolysis	IL12B	1.0	
+Myalgia	IL12B	1.0	
+Reduced consciousness/confusion	IL12B	1.0	
+Abnormal joint morphology	IL12B	1.0	
+Abnormality of the heart valves	IL12B	1.0	
+Abnormality of blood and blood-forming tissues	IL12B	1.0	
+Malignant neoplasm of lung	IL12B	1.0	
+Parasitemia	IL12B	1.0	
+Sepsis	IL12B	1.0	
+Abnormality of cardiovascular system electrophysiology	IL12B	1.0	
+Growth abnormality	IL12B	1.0	
+Psoriasis vulgaris	IL12B	1.0	
+Childhood asthma	IL12B	1.0	
+Aortic dilatation	IL12B	1.0	
+Abnormality of the digestive system	IL12B	1.0	
+Chronic Periodontitis	IL12B	1.0	
+Cervical Squamous Cell Carcinoma	IL12B	1.0	
+Carcinoma of cervix	IL12B	1.0	
+Malignant lymphoma, lymphocytic, intermediate differentiation, diffuse	IL12B	1.0	
+Thyroid associated opthalmopathies	IL12B	1.0	
+Dilatation of the ascending aorta	IL12B	1.0	
+Familial cancer of breast	IL12B	1.0	
+Malignant neoplasm of vulva	IL12B	1.0	
+Abnormality of erythrocytes	IL12B	1.0	
+Steroid-sensitive nephrotic syndrome	IL12B	1.0	
+{Systemic lupus erythematosus, susceptibility to, 8} (2)	IL12B	1.0	
+Dermatitis and eczema	IL12B	1.0	
+hiv-infection/aids	IL12B	1.0	
+Dementia	IL12B	1.0	
+Abnormality of the nervous system	IL12B	1.0	
+Hepatitis C, Chronic	IL12B	1.0	
+Malignant tumor of esophagus	IL12B	1.0	
+Laryngeal carcinoma	IL12B	1.0	
+CARCINOMA OF VULVA	IL12B	1.0	
+Gastro-esophageal reflux disease with esophagitis	IL12B	1.0	
+Skin carcinoma	IL12B	1.0	
+Abdominal symptom	IL12B	1.0	
+Abnormal morphology of the great vessels	IL12B	1.0	
+Localized skin lesion	IL12B	1.0	
+Cardiomyopathy	IL12B	1.0	
+Cerebral ischemia	IL12B	1.0	
+Decreased body weight	IL12B	1.0	
+Pleomorphic adenoma of salivary gland	IL12B	1.0	
+Colorectal cancer	IL12B	1.0	
+Chromosome 5, trisomy 5q	IL12B	1.0	
+Abnormality of temperature regulation	IL12B	1.0	
+Abnormal pattern of respiration	IL12B	1.0	
+Coronary Artery Disease	IL12B	1.0	
+Precursor Cell Lymphoblastic Leukemia-Lymphoma	IL12B	1.0	
+Hepatocellular carcinoma	IL12B	1.0	
+Allergic rhinitis	IL12B	1.0	
+Abnormality of the aortic valve	IL12B	1.0	
+Pulmonary arterial hypertension	IL12B	1.0	
+Myelodysplastic syndrome	IL12B	1.0	
+Elevated pulmonary artery pressure	IL12B	1.0	
+Abnormality of the respiratory system	IL12B	1.0	
+Inflammatory abnormality of the eye	IL12B	1.0	
+Abnormality of brain morphology	IL12B	1.0	
+Abnormality of the systemic arterial tree	IL12B	1.0	
+Abnormality of cerebral artery	IL12B	1.0	
+Abnormality of the endocardium	IL12B	1.0	
+Abnormality of the musculature	IL12B	1.0	
+Abnormality of the immune system	IL12B	1.0	
+Abnormality of lung morphology	IL12B	1.0	
+Morphological abnormality of the central nervous system	IL12B	1.0	
+Abnormality of metabolism/homeostasis	IL12B	1.0	
+Abnormality of the skeletal system	IL12B	1.0	
+Abnormality of the thorax	IL12B	1.0	
+Abnormality of the cerebral vasculature	IL12B	1.0	
+Abnormal vascular physiology	IL12B	1.0	
+Functional abnormality of the gastrointestinal tract	IL12B	1.0	
+Increased inflammatory response	IL12B	1.0	
+Abnormal inflammatory response	IL12B	1.0	
+Abnormality of nervous system morphology	IL12B	1.0	
+Abnormality of nervous system physiology	IL12B	1.0	
+Abnormality of the globe	IL12B	1.0	
+Abnormal eye physiology	IL12B	1.0	
+Abnormal eye morphology	IL12B	1.0	
+Abnormal respiratory system morphology	IL12B	1.0	
+Abnormality of skeletal morphology	IL12B	1.0	
+Abnormality of muscle physiology	IL12B	1.0	
+Abnormality of higher mental function	IL12B	1.0	
+Abnormality of skin adnexa morphology	IL12B	1.0	
+Abnormality of skin morphology	IL12B	1.0	
+Abnormality of cardiovascular system physiology	IL12B	1.0	
+Abnormality of the gastrointestinal tract	IL12B	1.0	
+Abnormality of immune system physiology	IL12B	1.0	
+Abnormal axial skeleton morphology	IL12B	1.0	
+Abnormalities of the peripheral arteries	IL12B	1.0	
+Abnormality of the posterior segment of the globe	IL12B	1.0	
+Abnormality of body weight	IL12B	1.0	
+Functional respiratory abnormality	IL12B	1.0	
+Abnormality of the aorta	IL12B	1.0	
+Abnormality of the myocardium	IL12B	1.0	
+Abnormality of the integument	IL12B	1.0	
+Abnormality of the fundus	IL12B	1.0	
+Abnormality of vision	IL12B	1.0	
+Abnormality of cardiovascular system morphology	IL12B	1.0	
+Abnormality of pulmonary circulation	IL12B	1.0	
+Abnormality of digestive system physiology	IL12B	1.0	
+Abnormal vascular morphology	IL12B	1.0	

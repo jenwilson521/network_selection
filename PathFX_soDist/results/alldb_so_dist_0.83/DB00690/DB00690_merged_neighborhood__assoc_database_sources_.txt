@@ -1,0 +1,8 @@
+Gene	CUI	Source Databases	
+ABCB1	C0029445	Bone necrosis	DisGeNet	
+CYP2E1	C0029445	Bone necrosis	DisGeNet	
+CYP3A4	C0029445	Bone necrosis	DisGeNet	
+CYP2E1	C0085762	Alcohol abuse	DisGeNet	
+CYP3A4	C0085762	Alcohol abuse	DisGeNet	
+GABRA1	C0085762	Alcohol abuse	DisGeNet	
+GABRA6	C0085762	Alcohol abuse	DisGeNet	

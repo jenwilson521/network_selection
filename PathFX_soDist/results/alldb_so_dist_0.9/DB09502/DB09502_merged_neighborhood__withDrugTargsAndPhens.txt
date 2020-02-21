@@ -1,0 +1,113 @@
+node1	node2	edge_score	
+DB09502	HK1	1.0	
+DB09502	SLC2A5	1.0	
+DB09502	SLC2A4	1.0	
+DB09502	SLC2A3	1.0	
+DB09502	SLC2A2	1.0	
+DB09502	SLC2A1	1.0	
+DB09502	SLC2A12	1.0	
+SLC2A2		1.0
+Abdominal distention	SLC2A2	1.0	
+Abnormality of acid-base homeostasis	SLC2A2	1.0	
+Acidosis	SLC2A2	1.0	
+Atherosclerosis	SLC2A2	1.0	
+Breast-ovarian cancer, familial 1	SLC2A2	1.0	
+Colon cancer	SLC2A2	1.0	
+Squamous cell carcinoma	SLC2A2	1.0	
+Cardiovascular Diseases	SLC2A2	1.0	
+Delusions	SLC2A2	1.0	
+Diabetes Mellitus, Type 1	SLC2A2	1.0	
+Diabetes mellitus type 1	SLC2A2	1.0	
+Diabetes mellitus type 2	SLC2A2	1.0	
+Diabetic Nephropathies	SLC2A2	1.0	
+Failure to thrive	SLC2A2	1.0	
+Hepatic steatosis	SLC2A2	1.0	
+Glycogen storage disease	SLC2A2	1.0	
+Glycosuria	SLC2A2	1.0	
+Hepatomegaly	SLC2A2	1.0	
+Hyperglycemia	SLC2A2	1.0	
+Secondary hyperparathyroidism	SLC2A2	1.0	
+Hypoglycemia, neonatal, simulating foetopathia diabetica	SLC2A2	1.0	
+Hypokalemia	SLC2A2	1.0	
+Insulinoma	SLC2A2	1.0	
+Abnormality of the intestine	SLC2A2	1.0	
+Kidney Diseases	SLC2A2	1.0	
+Malabsorption	SLC2A2	1.0	
+Animal Mammary Neoplasms	SLC2A2	1.0	
+Obesity	SLC2A2	1.0	
+Osteomalacia	SLC2A2	1.0	
+Pituitary adenoma	SLC2A2	1.0	
+Abnormality of the pituitary gland	SLC2A2	1.0	
+Pituitary Neoplasms	SLC2A2	1.0	
+Abnormality of the skin	SLC2A2	1.0	
+Abnormality of the genitourinary system	SLC2A2	1.0	
+Virus Diseases	SLC2A2	1.0	
+B-cell lymphoma	SLC2A2	1.0	
+Hypophosphatemia	SLC2A2	1.0	
+Squamous cell carcinoma of lung	SLC2A2	1.0	
+Abnormal renal physiology	SLC2A2	1.0	
+Renal tubular dysfunction	SLC2A2	1.0	
+Elevated alkaline phosphatase	SLC2A2	1.0	
+Neonatal diabetes mellitus	SLC2A2	1.0	
+Berardinelli-Seip congenital lipodystrophy	SLC2A2	1.0	
+Aminoaciduria	SLC2A2	1.0	
+Azotemia	SLC2A2	1.0	
+Growth abnormality	SLC2A2	1.0	
+Abnormality of the digestive system	SLC2A2	1.0	
+Congenital anomalies of kidney and urinary tract 1, susceptibility to	SLC2A2	1.0	
+Hyperphosphaturia	SLC2A2	1.0	
+Glomerulopathy	SLC2A2	1.0	
+Glucose intolerance	SLC2A2	1.0	
+3-Methylglutaconic aciduria	SLC2A2	1.0	
+Autosomal recessive inheritance	SLC2A2	1.0	
+Abnormality of the nervous system	SLC2A2	1.0	
+Decreased adipose tissue	SLC2A2	1.0	
+Global developmental delay, absent or hypoplastic corpus callosum, and dysmorphic facies	SLC2A2	1.0	
+Breast carcinoma	SLC2A2	1.0	
+Neurodevelopmental abnormality	SLC2A2	1.0	
+Carcinoma of colon	SLC2A2	1.0	
+Abdominal symptom	SLC2A2	1.0	
+Decreased body weight	SLC2A2	1.0	
+Abnormality of amino acid metabolism	SLC2A2	1.0	
+Well Differentiated Pancreatic Endocrine Tumor	SLC2A2	1.0	
+Hepatocellular carcinoma	SLC2A2	1.0	
+Reduced bone mineral density	SLC2A2	1.0	
+Morphological abnormality of the gastrointestinal tract	SLC2A2	1.0	
+Generalized abnormality of skin	SLC2A2	1.0	
+Abnormality of adipose tissue	SLC2A2	1.0	
+Abnormality of bone mineral density	SLC2A2	1.0	
+Abnormality of metabolism/homeostasis	SLC2A2	1.0	
+Abnormality of the skeletal system	SLC2A2	1.0	
+Abnormality of the urinary system	SLC2A2	1.0	
+Abnormality of phosphate homeostasis	SLC2A2	1.0	
+Neurodevelopmental delay	SLC2A2	1.0	
+Abnormality of nervous system physiology	SLC2A2	1.0	
+Abnormal urine phosphate concentration	SLC2A2	1.0	
+Abnormal urinary electrolyte concentration	SLC2A2	1.0	
+Abnormal enzyme/coenzyme activity	SLC2A2	1.0	
+Abnormal bone ossification	SLC2A2	1.0	
+Abnormality of skeletal morphology	SLC2A2	1.0	
+Abnormality of the urinary system physiology	SLC2A2	1.0	
+Abnormality of skin morphology	SLC2A2	1.0	
+Abnormality of potassium homeostasis	SLC2A2	1.0	
+Abnormality of the gastrointestinal tract	SLC2A2	1.0	
+Abnormality of urine glucose concentration	SLC2A2	1.0	
+Abnormal glucose homeostasis	SLC2A2	1.0	
+Abnormality of carbohydrate metabolism/homeostasis	SLC2A2	1.0	
+Abnormality of the upper urinary tract	SLC2A2	1.0	
+Abnormality of nucleobase metabolism	SLC2A2	1.0	
+Abnormality of monovalent inorganic cation homeostasis	SLC2A2	1.0	
+Abnormality of cation homeostasis	SLC2A2	1.0	
+Abnormality of alkaline phosphatase activity	SLC2A2	1.0	
+Abnormality of nitrogen compound homeostasis	SLC2A2	1.0	
+Abnormality of carboxylic acid metabolism	SLC2A2	1.0	
+Abnormality of purine metabolism	SLC2A2	1.0	
+Abnormality of body weight	SLC2A2	1.0	
+Abnormality of connective tissue	SLC2A2	1.0	
+Abnormal bone structure	SLC2A2	1.0	
+Abnormality of ion homeostasis	SLC2A2	1.0	
+Abnormality of urine homeostasis	SLC2A2	1.0	
+Abnormality of the integument	SLC2A2	1.0	
+Abnormality of subcutaneous fat tissue	SLC2A2	1.0	
+Abnormality of digestive system morphology	SLC2A2	1.0	
+Abnormality of digestive system physiology	SLC2A2	1.0	

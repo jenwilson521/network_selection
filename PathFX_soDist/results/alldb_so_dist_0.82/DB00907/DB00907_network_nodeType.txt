@@ -1,0 +1,36 @@
+node_name	node_type	
+DB00907	drug	
+SLC6A3	drug_target	
+CYP2C8	drug_target	
+SCN5A	drug_target	
+SLC6A2	drug_target	
+CYP2D6	drug_target	
+SLC6A4	drug_target	
+CHRM2	drug_target	
+CHRM1	drug_target	
+CES1	drug_target	
+BCHE	drug_target	
+SCN10A	drug_target	
+SLC22A2	drug_target	
+CYP3A4	drug_target	
+CYP3A5	drug_target	
+SIGMAR1	drug_target	
+Tardive Dyskinesia	phenotype	
+Heroin Dependence	phenotype	
+Methamphetamine abuse	phenotype	
+Orofacial dyskinesia	phenotype	
+Drug Allergy	phenotype	
+Primary malignant neoplasm of liver	phenotype	
+Behavior Disorders	phenotype	
+Adverse drug events and drug allergies	phenotype	
+Substance Use Disorders	phenotype	
+Congenital long QT syndrome	phenotype	
+Enzyme inhibition disorder	phenotype	
+Cocaine delirium	phenotype	
+Chronic schizophrenia	phenotype	
+Acute postoperative pain	phenotype	
+Postoperative Complications	phenotype	
+Personality disorder	phenotype	
+Alcohol abuse	phenotype	
+Prenatal Exposure Delayed Effects	phenotype	
+Pain insensitivity	phenotype	

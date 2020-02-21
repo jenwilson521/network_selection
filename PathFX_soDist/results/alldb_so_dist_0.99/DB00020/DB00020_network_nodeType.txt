@@ -1,0 +1,7 @@
+node_name	node_type	
+DB00020	drug	
+CSF2RB	drug_target	
+SDC2	drug_target	
+CSF2RA	drug_target	
+IL3RA	drug_target	
+PRG2	drug_target	

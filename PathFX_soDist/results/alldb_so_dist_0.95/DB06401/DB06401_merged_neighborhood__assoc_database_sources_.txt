@@ -1,0 +1,107 @@
+Gene	CUI	Source Databases	
+ESR1	C0008350	Cholelithiasis	DisGeNet	
+ESR2	C0008350	Cholelithiasis	DisGeNet	
+UGT1A	C0008350	Cholelithiasis	DisGeNet	
+UGT1A1	C0008350	Cholelithiasis	DisGeNet,PheGenI	
+UGT1A10	C0008350	Cholelithiasis	PheGenI	
+UGT1A6	C0008350	Cholelithiasis	DisGeNet,PheGenI	
+UGT1A7	C0008350	Cholelithiasis	PheGenI	
+UGT1A8	C0008350	Cholelithiasis	PheGenI	
+UGT1A9	C0008350	Cholelithiasis	PheGenI	
+UGT1A	C0020433	Hyperbilirubinemia	DisGeNet	
+UGT1A1	C0020433	Hyperbilirubinemia	DisGeNet,HumPhenOnt	
+UGT1A10	C0020433	Hyperbilirubinemia	DisGeNet	
+UGT1A6	C0020433	Hyperbilirubinemia	DisGeNet	
+UGT1A7	C0020433	Hyperbilirubinemia	DisGeNet	
+UGT1A8	C0020433	Hyperbilirubinemia	DisGeNet	
+UGT1A9	C0020433	Hyperbilirubinemia	DisGeNet	
+UGT1A	C0011226	Hepatitis D Infection	DisGeNet	
+UGT1A1	C0011226	Hepatitis D Infection	DisGeNet	
+UGT1A10	C0011226	Hepatitis D Infection	DisGeNet	
+UGT1A6	C0011226	Hepatitis D Infection	DisGeNet	
+UGT1A7	C0011226	Hepatitis D Infection	DisGeNet	
+UGT1A8	C0011226	Hepatitis D Infection	DisGeNet	
+UGT1A9	C0011226	Hepatitis D Infection	DisGeNet	
+UGT1A	C0746883	Febrile Neutropenia	DisGeNet	
+UGT1A1	C0746883	Febrile Neutropenia	DisGeNet	
+UGT1A6	C0746883	Febrile Neutropenia	DisGeNet	
+UGT1A7	C0746883	Febrile Neutropenia	DisGeNet	
+ESR1	C0013182	Drug Allergy	DisGeNet	
+UGT1A1	C0013182	Drug Allergy	DisGeNet	
+UGT1A7	C0013182	Drug Allergy	DisGeNet	
+UGT1A8	C0013182	Drug Allergy	DisGeNet	
+UGT1A9	C0013182	Drug Allergy	DisGeNet	
+UGT1A1	C0018772	Hearing Loss, Partial	DisGeNet	
+UGT1A10	C0018772	Hearing Loss, Partial	DisGeNet	
+UGT1A6	C0018772	Hearing Loss, Partial	DisGeNet	
+UGT1A7	C0018772	Hearing Loss, Partial	DisGeNet	
+UGT1A8	C0018772	Hearing Loss, Partial	DisGeNet	
+UGT1A9	C0018772	Hearing Loss, Partial	DisGeNet	
+ESR1	C0947622	Cholecystolithiasis	DisGeNet	
+ESR2	C0947622	Cholecystolithiasis	DisGeNet	
+UGT1A	C0947622	Cholecystolithiasis	DisGeNet	
+UGT1A1	C0947622	Cholecystolithiasis	DisGeNet	
+UGT1A6	C0947622	Cholecystolithiasis	DisGeNet	
+UGT1A	C0002895	Anemia, Sickle Cell	DisGeNet	
+UGT1A1	C0002895	Anemia, Sickle Cell	DisGeNet,PheGenI	
+UGT1A10	C0002895	Anemia, Sickle Cell	PheGenI	
+UGT1A6	C0002895	Anemia, Sickle Cell	PheGenI	
+UGT1A7	C0002895	Anemia, Sickle Cell	PheGenI	
+UGT1A8	C0002895	Anemia, Sickle Cell	PheGenI	
+UGT1A9	C0002895	Anemia, Sickle Cell	PheGenI	
+ESR1	C1268717	Mammographic breast density	DisGeNet	
+ESR2	C1268717	Mammographic breast density	DisGeNet	
+UGT1A	C1268717	Mammographic breast density	DisGeNet	
+UGT1A1	C1268717	Mammographic breast density	DisGeNet	
+UGT1A1	C0011053	Deafness, autosomal recessive 44	DisGeNet	
+UGT1A10	C0011053	Deafness, autosomal recessive 44	DisGeNet	
+UGT1A6	C0011053	Deafness, autosomal recessive 44	DisGeNet	
+UGT1A7	C0011053	Deafness, autosomal recessive 44	DisGeNet	
+UGT1A8	C0011053	Deafness, autosomal recessive 44	DisGeNet	
+UGT1A9	C0011053	Deafness, autosomal recessive 44	DisGeNet	
+ESR1	C0000737	Abdominal pain	HumPhenOnt	
+UGT1A	C0000737	Abdominal pain	DisGeNet	
+UGT1A1	C0000737	Abdominal pain	DisGeNet	
+UGT1A6	C0000737	Abdominal pain	DisGeNet	
+UGT1A7	C0000737	Abdominal pain	DisGeNet	
+UGT1A	C0023530	Leukopenia	DisGeNet	
+UGT1A1	C0023530	Leukopenia	DisGeNet	
+UGT1A6	C0023530	Leukopenia	DisGeNet	
+UGT1A7	C0023530	Leukopenia	DisGeNet	
+UGT1A8	C0023530	Leukopenia	DisGeNet	
+UGT1A9	C0023530	Leukopenia	DisGeNet	
+UGT1A	C0021400	Influenza	DisGeNet	
+UGT1A1	C0021400	Influenza	DisGeNet	
+UGT1A10	C0021400	Influenza	DisGeNet	
+UGT1A6	C0021400	Influenza	DisGeNet	
+UGT1A7	C0021400	Influenza	DisGeNet	
+UGT1A8	C0021400	Influenza	DisGeNet	
+UGT1A9	C0021400	Influenza	DisGeNet	
+ESR1	C0796369	Microsatellite Instability	DisGeNet	
+ESR2	C0796369	Microsatellite Instability	DisGeNet	
+UGT1A6	C0796369	Microsatellite Instability	DisGeNet	
+ESR1	C0029458	Postmenopausal osteoporosis	DisGeNet	
+ESR2	C0029458	Postmenopausal osteoporosis	DisGeNet	
+UGT1A1	C0029458	Postmenopausal osteoporosis	DisGeNet	
+ESR1	C0409957	Osteoarthritis of distal interphalangeal joint	DisGeNet	
+ESR2	C0409957	Osteoarthritis of distal interphalangeal joint	DisGeNet	
+UGT1A	C2939465	Deficiency of glucose-6-phosphate dehydrogenase	DisGeNet	
+UGT1A1	C2939465	Deficiency of glucose-6-phosphate dehydrogenase	DisGeNet	
+ESR1	C0263746	Osteoarthritis of the hand	DisGeNet	
+ESR2	C0263746	Osteoarthritis of the hand	DisGeNet	
+ESR1	C2267227	Bulimia nervosa 1	DisGeNet	
+ESR2	C2267227	Bulimia nervosa 1	DisGeNet	
+ESR1	C0007642	Cellulitis	DisGeNet	
+ESR2	C0007642	Cellulitis	DisGeNet	
+ESR1	C0042344	Varicose Ulcer	DisGeNet	
+ESR2	C0042344	Varicose Ulcer	DisGeNet	
+ESR1	C0410702	Adolescent idiopathic scoliosis	DisGeNet	
+ESR2	C0410702	Adolescent idiopathic scoliosis	DisGeNet	
+ESR1	C0740277	Bile duct cancer resectable	DisGeNet	
+ESR2	C0740277	Bile duct cancer resectable	DisGeNet	
+UGT1A	C0027947	Neutropenia	DisGeNet	
+UGT1A1	C0027947	Neutropenia	DisGeNet	
+UGT1A7	C0027947	Neutropenia	DisGeNet	
+UGT1A9	C0027947	Neutropenia	DisGeNet	
+ESR1	C0010701	Phyllodes tumor, benign	DisGeNet	
+ESR2	C0010701	Phyllodes tumor, benign	DisGeNet	

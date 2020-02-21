@@ -1,0 +1,4 @@
+Gene	CUI	Source Databases	
+ABCB1	C0030201	Acute postoperative pain	DisGeNet	
+ADRB2	C0030201	Acute postoperative pain	DisGeNet	
+CYP2D6	C0030201	Acute postoperative pain	DisGeNet	

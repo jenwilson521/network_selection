@@ -1,0 +1,106 @@
+node1	node2	edge_score	
+DB06215	TF	1.0	
+DB06215	FTH1	1.0	
+DB06215	FTL	1.0	
+TF		1.0
+Spontaneous abortion	TF	1.0	
+Acute-Phase Reaction	TF	1.0	
+Alcohol dependence	TF	1.0	
+Alzheimer Disease	TF	1.0	
+Bovine Anaplasmosis	TF	1.0	
+Anemia	TF	1.0	
+Hypoxia	TF	1.0	
+Arthritis, Rheumatoid	TF	1.0	
+Rheumatoid arthritis	TF	1.0	
+Asthma	TF	1.0	
+Autism 15	TF	1.0	
+Recurrent bacterial infection	TF	1.0	
+Brain neoplasm	TF	1.0	
+Breast-ovarian cancer, familial 1	TF	1.0	
+Non-small cell lung carcinoma	TF	1.0	
+Cardiovascular Diseases	TF	1.0	
+Carotid Artery Diseases	TF	1.0	
+Brain Ischemia	TF	1.0	
+Cystic Fibrosis	TF	1.0	
+Plaque, Atherosclerotic	TF	1.0	
+{Unipolar depression, susceptibility to}, 608516 (3)	TF	1.0	
+Diabetes Mellitus, Type 1	TF	1.0	
+Diabetes mellitus type 2	TF	1.0	
+Diabetic Nephropathies	TF	1.0	
+Echinococcosis	TF	1.0	
+Hepatic steatosis	TF	1.0	
+Femur Head Necrosis	TF	1.0	
+Glioblastoma	TF	1.0	
+Congestive heart failure	TF	1.0	
+Hemochromatosis	TF	1.0	
+Hepatitis	TF	1.0	
+Hypothyroidism	TF	1.0	
+Inflammation	TF	1.0	
+Inflammatory Bowel Diseases	TF	1.0	
+Insulin Resistance	TF	1.0	
+Ischemia	TF	1.0	
+Leukemia, Lymphocytic, Chronic, B-Cell	TF	1.0	
+Acute promyelocytic leukemia	TF	1.0	
+Liver Cirrhosis, Biliary	TF	1.0	
+Liver Cirrhosis, Alcoholic	TF	1.0	
+Neoplasm of the liver	TF	1.0	
+Acquired long QT syndrome	TF	1.0	
+Chronic obstructive pulmonary disease	TF	1.0	
+Lung Neoplasms	TF	1.0	
+Animal Mammary Neoplasms	TF	1.0	
+Mammary Neoplasms, Experimental	TF	1.0	
+Melanoma	TF	1.0	
+Myocardial Infarction	TF	1.0	
+Neoplasm Invasiveness	TF	1.0	
+Secondary hypertriglyceridemia	TF	1.0	
+Nephrotic syndrome, type 5, with or without ocular abnormalities	TF	1.0	
+Obesity	TF	1.0	
+Bone necrosis	TF	1.0	
+Pancreatitis	TF	1.0	
+Paratuberculosis	TF	1.0	
+Parkinson Disease	TF	1.0	
+Restless Legs Syndrome	TF	1.0	
+Schizophrenia	TF	1.0	
+Stroke	TF	1.0	
+Thyroid Diseases	TF	1.0	
+Thyroid Neoplasms	TF	1.0	
+Tobacco Use Disorder	TF	1.0	
+Tuberculosis	TF	1.0	
+Intracranial hemorrhage	TF	1.0	
+Adenocarcinoma of lung	TF	1.0	
+Iron deficiency anemia	TF	1.0	
+Pancreatic Carcinoma	TF	1.0	
+Infections, recurrent, with encephalopathy, hepatic dysfunction, and cardiovascular malformations	TF	1.0	
+Abnormal joint morphology	TF	1.0	
+Abnormality of blood and blood-forming tissues	TF	1.0	
+Age-related macular degeneration 2	TF	1.0	
+Abnormality of cardiovascular system electrophysiology	TF	1.0	
+Abnormality of the digestive system	TF	1.0	
+Iron Overload	TF	1.0	
+Senile plaques	TF	1.0	
+Malignant neoplasm of pancreas	TF	1.0	
+Malignant tumor of prostate	TF	1.0	
+Abnormality of erythrocytes	TF	1.0	
+Hereditary hemochromatosis	TF	1.0	
+Autosomal recessive inheritance	TF	1.0	
+Neurodegenerative Diseases	TF	1.0	
+Prostate carcinoma	TF	1.0	
+Anemia of inadequate production	TF	1.0	
+Breast carcinoma	TF	1.0	
+Abnormality of thyroid physiology	TF	1.0	
+Drug-Induced Liver Injury	TF	1.0	
+Chronic graft-versus-host disease	TF	1.0	
+Glioblastoma multiforme	TF	1.0	
+Hepatocellular carcinoma	TF	1.0	
+Hypergranular promyelocytic leukemia	TF	1.0	
+Abnormality of the immune system	TF	1.0	
+Abnormality of the abdominal organs	TF	1.0	
+Abnormality of metabolism/homeostasis	TF	1.0	
+Abnormality of the liver	TF	1.0	
+Abnormality of the skeletal system	TF	1.0	
+Abnormality of skeletal morphology	TF	1.0	
+Abnormality of cardiovascular system physiology	TF	1.0	
+Abnormality of immune system physiology	TF	1.0	
+Abnormality of circulating protein level	TF	1.0	
+Abnormality of the pancreas	TF	1.0	
+Abnormality of the endocrine system	TF	1.0	

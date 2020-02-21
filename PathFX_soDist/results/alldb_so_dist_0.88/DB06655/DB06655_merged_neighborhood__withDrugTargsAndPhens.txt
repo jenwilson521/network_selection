@@ -1,0 +1,161 @@
+node1	node2	edge_score	
+DB06655	MME	1.0	
+DB06655	DPP4	1.0	
+DB06655	ALB	1.0	
+DB06655	GLP1R	1.0	
+MME		1.0
+GLP1R	rs2268639	0.99
+ALB		1.0
+GLP1R		1.0
+GLP1R	rs10305420	0.99
+ALB	complex:lAo9+jzjVOaRJSWZQvoh0G1mUDc	0.954526206676
+GLP1R	rs6923761	0.99
+Hemangioblastoma	ALB	1.0	
+Hemangioblastoma	MME	1.0	
+Drusen	ALB	1.0	
+Drusen	MME	1.0	
+Diabetic Retinopathy	ALB	1.0	
+Diabetic Retinopathy	GLP1R	1.0	
+Diabetic Retinopathy	MME	1.0	
+Membranous nephropathy, susceptibility to	ALB	1.0	
+Membranous nephropathy, susceptibility to	MME	1.0	
+Diabetic Angiopathies	ALB	1.0	
+Diabetic Angiopathies	GLP1R	1.0	
+Type 1 diabetic neuropathy	ALB	1.0	
+Type 1 diabetic neuropathy	MME	1.0	
+Maturity-onset diabetes of the young, type 11	ALB	1.0	
+Maturity-onset diabetes of the young, type 11	GLP1R	1.0	
+Anorexia	ALB	1.0	
+Anorexia	GLP1R	1.0	
+Diabetic Nephropathies	ALB	1.0	
+Diabetic Nephropathies	GLP1R	1.0	
+Diabetic Nephropathies	MME	1.0	
+Chronic Kidney Insufficiency	ALB	1.0	
+Chronic Kidney Insufficiency	GLP1R	1.0	
+Metabolic Syndrome X	ALB	1.0	
+Metabolic Syndrome X	GLP1R	1.0	
+Metabolic Syndrome X	MME	1.0	
+Post-transplant lymphoproliferative disorder	MME	1.0	
+Inclusion body myopathy 2	MME	1.0	
+Plasmablastic lymphoma	MME	1.0	
+Malignant neoplasm of adrenal cortex	ALB	1.0	
+Esophageal varix	ALB	1.0	
+Urolithiasis	ALB	1.0	
+Echinococcosis	ALB	1.0	
+Lung Injury	MME	1.0	
+Cryopyrin-Associated Periodic Syndromes	MME	1.0	
+Plaque, Atherosclerotic	ALB	1.0	
+Plaque, Atherosclerotic	MME	1.0	
+Proliferative retinopathy	ALB	1.0	
+Isolated somatotropin deficiency	ALB	1.0	
+Substance Use Disorders	ALB	1.0	
+Dentatorubral pallidoluysian atrophy	ALB	1.0	
+Angiokeratoma	ALB	1.0	
+Isolated growth hormone deficiency type 1B	ALB	1.0	
+Gastroenteritis	MME	1.0	
+Pericardial effusion	ALB	1.0	
+Senile plaques	ALB	1.0	
+Senile plaques	MME	1.0	
+Mumps	ALB	1.0	
+Rhinitis, Allergic, Perennial	ALB	1.0	
+Endemic Cretinism	ALB	1.0	
+Peptic Ulcer Hemorrhage	MME	1.0	
+Mesangiocapillary glomerulonephritis, type II	ALB	1.0	
+Nephrosclerosis	ALB	1.0	
+Peripheral motor neuropathy	ALB	1.0	
+End Stage Liver Disease	ALB	1.0	
+Common acute lymphoblastic leukemia	MME	1.0	
+Abnormal albumin level	ALB	1.0	
+Stromal sarcoma	MME	1.0	
+Small Lymphocytic Lymphoma	MME	1.0	
+Arteriovenous fistula	GLP1R	1.0	
+Bronchogenic Carcinoma	ALB	1.0	
+Carcinosarcoma	MME	1.0	
+Coronary artery aneurysm	ALB	1.0	
+Hyperlipoproteinemia	ALB	1.0	
+Hyperlipoproteinemia Type IIa	ALB	1.0	
+Dementia familial British	ALB	1.0	
+Dementia familial British	MME	1.0	
+Tubulointerstitial nephritis	ALB	1.0	
+Single tumor	ALB	1.0	
+Nephrotic Syndrome, Minimal Change	ALB	1.0	
+Muscle degeneration	MME	1.0	
+Varicella zoster	ALB	1.0	
+Insulin resistance syndrome	ALB	1.0	
+Splenic Marginal Zone B-Cell Lymphoma	MME	1.0	
+Cerebral Amyloid Angiopathy	MME	1.0	
+Nephrosis	ALB	1.0	
+Aural atresia, congenital	MME	1.0	
+Chronic kidney disease	ALB	1.0	
+Chronic kidney disease	GLP1R	1.0	
+Guillain-Barre syndrome, familial	ALB	1.0	
+Primary hyperparathyroidism	ALB	1.0	
+Drug Resistant Epilepsy	ALB	1.0	
+Cardiovascular Diseases	ALB	1.0	
+Cardiovascular Diseases	GLP1R	1.0	
+Cardiovascular Diseases	MME	1.0	
+Refractory anemia	MME	1.0	
+Refractory anaemia with excess blasts	MME	1.0	
+Obstructive lung disease	GLP1R	1.0	
+Respiratory Tract Diseases	ALB	1.0	
+Sicca Syndrome	ALB	1.0	
+Hypoalbuminemia	ALB	1.0	
+Aicardi Goutieres syndrome 1	MME	1.0	
+Neurologic, endocrine, and pancreatic disease, multisystem, infantile-onset	ALB	1.0	
+Angioimmunoblastic Lymphadenopathy	MME	1.0	
+Hereditary pancreatitis	ALB	1.0	
+Hereditary pancreatitis	GLP1R	1.0	
+Congenital hypothyroidism	ALB	1.0	
+Adverse drug events and drug allergies	ALB	1.0	
+Aortic valve disease 2	MME	1.0	
+Hormone receptor positive tumor	MME	1.0	
+Childhood Leukemia	MME	1.0	
+Diabetes mellitus type 1	ALB	1.0	
+Diabetes mellitus type 1	GLP1R	1.0	
+Diabetes mellitus type 1	MME	1.0	
+Lymphoma, Follicular	ALB	1.0	
+Lymphoma, Follicular	MME	1.0	
+Hemolytic uremic syndrome	ALB	1.0	
+Cholangiocarcinoma	ALB	1.0	
+Cholangiocarcinoma	MME	1.0	
+Occupational Diseases	ALB	1.0	
+Microalbuminuria	ALB	1.0	
+Lymphocytosis	MME	1.0	
+Chest pain	ALB	1.0	
+ {HIV-1 viremia, susceptibility to}, 609423 (3)	ALB	1.0	
+Acute Lung Injury	ALB	1.0	
+Hepatic steatosis	ALB	1.0	
+Hepatic steatosis	GLP1R	1.0	
+Complications of Diabetes Mellitus	ALB	1.0	
+Pulmonary edema	ALB	1.0	
+Stevens-Johnson Syndrome	ALB	1.0	
+pediatric acute myeloblastic leukemia	MME	1.0	
+Lymphohistiocytosis, Hemophagocytic	ALB	1.0	
+Hyperglycemia	ALB	1.0	
+Hyperglycemia	GLP1R	1.0	
+Non-Neoplastic Disorder	ALB	1.0	
+Non-Neoplastic Disorder	MME	1.0	
+IMMUNE SUPPRESSION	ALB	1.0	
+Atherosclerosis	ALB	1.0	
+Atherosclerosis	GLP1R	1.0	
+Atherosclerosis	MME	1.0	
+Stromal Neoplasm	MME	1.0	
+Dementia, Vascular	ALB	1.0	
+Dementia	ALB	1.0	
+Dementia	MME	1.0	
+Cholera	GLP1R	1.0	
+Cough	MME	1.0	
+DiGeorge sequence	ALB	1.0	
+Liver regeneration disorder	ALB	1.0	
+Plasmacytoma	ALB	1.0	
+Polyneuropathy, hearing loss, ataxia, retinitis pigmentosa, and cataract	ALB	1.0	
+Hyperlipidemia, familial combined	ALB	1.0	
+Interstitial fibrosis	ALB	1.0	
+Hemochromatosis	ALB	1.0	
+Leukemia, B-Cell	MME	1.0	
+Severe combined immunodeficiency due to ADA deficiency	ALB	1.0	
+Severe combined immunodeficiency due to ADA deficiency	MME	1.0	
+Adult Acute Lymphocytic Leukemia	MME	1.0	
+Methamphetamine abuse	ALB	1.0	
+Hereditary factor VIII deficiency disease	ALB	1.0	
+Precursor B-Cell Lymphoblastic Leukemia-Lymphoma	MME	1.0	

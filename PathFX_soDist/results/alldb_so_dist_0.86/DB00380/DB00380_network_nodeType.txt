@@ -1,0 +1,4 @@
+node_name	node_type	
+DB00380	drug	
+TOP2B	drug_target	
+TOP2A	drug_target	

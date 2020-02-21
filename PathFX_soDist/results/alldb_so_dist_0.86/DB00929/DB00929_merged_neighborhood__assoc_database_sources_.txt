@@ -1,0 +1,137 @@
+Gene	CUI	Source Databases	
+PTGER2	C0001418	 Adenocarcinoma, ovarian, somatic, 167000 (3)	DisGeNet	
+PTGER3	C0001418	 Adenocarcinoma, ovarian, somatic, 167000 (3)	DisGeNet	
+PTGER4	C0001418	 Adenocarcinoma, ovarian, somatic, 167000 (3)	DisGeNet	
+PTGER2	C0002395	Alzheimer Disease	DisGeNet	
+PTGER3	C0002395	Alzheimer Disease	DisGeNet	
+PTGER4	C0002395	Alzheimer Disease	DisGeNet	
+PTGER2	C0004096	Asthma	DisGeNet	
+PTGER3	C0004096	Asthma	DisGeNet	
+PTGER4	C0004096	Asthma	DisGeNet	
+PTGER2	C0008495	Chorioamnionitis	DisGeNet	
+PTGER3	C0008495	Chorioamnionitis	DisGeNet	
+PTGER4	C0008495	Chorioamnionitis	DisGeNet	
+PTGER2	C0009450	Verotoxigenic Escherichia coli gastrointestinal tract infection	DisGeNet	
+PTGER3	C0009450	Verotoxigenic Escherichia coli gastrointestinal tract infection	DisGeNet	
+PTGER4	C0009450	Verotoxigenic Escherichia coli gastrointestinal tract infection	DisGeNet	
+PTGER2	C0015943	Fetal Membranes, Premature Rupture	DisGeNet	
+PTGER3	C0015943	Fetal Membranes, Premature Rupture	DisGeNet	
+PTGER4	C0015943	Fetal Membranes, Premature Rupture	DisGeNet	
+PTGER2	C0021368	Inflammation	DisGeNet	
+PTGER3	C0021368	Inflammation	DisGeNet	
+PTGER4	C0021368	Inflammation	DisGeNet	
+PTGER2	C0022876	Premature Obstetric Labor	DisGeNet	
+PTGER3	C0022876	Premature Obstetric Labor	DisGeNet	
+PTGER4	C0022876	Premature Obstetric Labor	DisGeNet	
+PTGER2	C0024623	{Gastric cancer risk after H. pylori infection}, 137215 (3)	DisGeNet	
+PTGER3	C0024623	{Gastric cancer risk after H. pylori infection}, 137215 (3)	DisGeNet	
+PTGER4	C0024623	{Gastric cancer risk after H. pylori infection}, 137215 (3)	DisGeNet	
+PTGER2	C0032914	Preeclampsia/eclampsia 1	DisGeNet	
+PTGER3	C0032914	Preeclampsia/eclampsia 1	DisGeNet	
+PTGER4	C0032914	Preeclampsia/eclampsia 1	DisGeNet	
+PTGER2	C0151526	Premature Birth	DisGeNet	
+PTGER3	C0151526	Premature Birth	DisGeNet	
+PTGER4	C0151526	Premature Birth	DisGeNet	
+PTGER2	C0376358	Malignant tumor of prostate	DisGeNet	
+PTGER3	C0376358	Malignant tumor of prostate	DisGeNet	
+PTGER4	C0376358	Malignant tumor of prostate	DisGeNet	
+PTGER2	C0600139	Prostate carcinoma	DisGeNet	
+PTGER3	C0600139	Prostate carcinoma	DisGeNet	
+PTGER4	C0600139	Prostate carcinoma	DisGeNet	
+PTGER2	C0699791	Stomach cancer	DisGeNet	
+PTGER3	C0699791	Stomach cancer	DisGeNet	
+PTGER4	C0699791	Stomach cancer	DisGeNet	
+PTGER2	C0002985	Angiokeratoma	DisGeNet	
+PTGER4	C0002985	Angiokeratoma	DisGeNet	
+PTGER2	C0026857	Musculoskeletal Diseases	DisGeNet	
+PTGER3	C0026857	Musculoskeletal Diseases	DisGeNet	
+PTGER2	C0032964	Pregnancy Complications, Hematologic	DisGeNet	
+PTGER3	C0032964	Pregnancy Complications, Hematologic	DisGeNet	
+PTGER2	C0015929	Fetal Diseases	DisGeNet	
+PTGER3	C0015929	Fetal Diseases	DisGeNet	
+PTGER3	C0020429	Hyperalgesia	DisGeNet	
+PTGER4	C0020429	Hyperalgesia	DisGeNet	
+PTGER2	C0009782	Connective Tissue Diseases	DisGeNet	
+PTGER3	C0009782	Connective Tissue Diseases	DisGeNet	
+PTGER2	C0149978	Rectal Carcinoma	DisGeNet	
+PTGER4	C0149978	Rectal Carcinoma	DisGeNet	
+PTGER2	C0279628	Adenocarcinoma Of Esophagus	DisGeNet	
+PTGER4	C0279628	Adenocarcinoma Of Esophagus	DisGeNet	
+PTGER2	C3272363	Ischemic Cerebrovascular Accident	DisGeNet	
+PTGER4	C3272363	Ischemic Cerebrovascular Accident	DisGeNet	
+PTGER4	C1568272	Tendinopathy	DisGeNet	
+PTGER2	C0948008	Ischemic stroke	DisGeNet	
+PTGER4	C0948008	Ischemic stroke	DisGeNet	
+PTGER2	C0037274	Dermatosis NOS	DisGeNet	
+PTGER3	C0037274	Dermatosis NOS	DisGeNet	
+PTGER2	C0085109	Corneal neovascularization	DisGeNet	
+PTGER4	C0263454	Chloracne	DisGeNet	
+PTGER2	C0019348	Herpes Simplex Infections	DisGeNet	
+PTGER4	C0019348	Herpes Simplex Infections	DisGeNet	
+PTGER3	C0020545	Renovascular hypertension	DisGeNet	
+PTGER4	C0038012	Spondylitis, Ankylosing	PheGenI	
+PTGER4	C0014743	Erythema nodosum	DisGeNet	
+PTGER4	C0234251	Inflammatory pain	DisGeNet	
+PTGER4	C0595936	Aqueous Humor Disorders	DisGeNet	
+PTGER2	C0014175	Endometriosis	DisGeNet	
+PTGER4	C0014175	Endometriosis	DisGeNet	
+PTGER3	C0038325	Stevens-Johnson Syndrome	DisGeNet	
+PTGER3	C0013182	Drug Allergy	DisGeNet	
+PTGER3	C0038587	Substance Withdrawal Syndrome	DisGeNet	
+PTGER4	C0018273	Growth Disorders	DisGeNet	
+PTGER3	C0243038	Carcinoma, Lewis Lung	DisGeNet	
+PTGER3	C0017665	Membranous nephropathy, susceptibility to	DisGeNet	
+PTGER3	C0010200	Cough	DisGeNet	
+PTGER4	C0029458	Postmenopausal osteoporosis	DisGeNet	
+PTGER4	C0376618	Endotoxemia	DisGeNet	
+PTGER4	C0010692	Cystitis	DisGeNet	
+PTGER4	C0595921	Intraocular pressure disorder	DisGeNet	
+PTGER4	C1153706	Endometrial adenocarcinoma	DisGeNet	
+PTGER2	C0029408	Osteoarthritis	DisGeNet	
+PTGER4	C0029408	Osteoarthritis	DisGeNet	
+PTGER2	C1519346	Skin Carcinogenesis	DisGeNet	
+PTGER2	C0001430	Adenomas, multiple colorectal, 608456 (3)	DisGeNet	
+PTGER4	C0001430	Adenomas, multiple colorectal, 608456 (3)	DisGeNet	
+PTGER4	C0029927	Ovarian cyst	DisGeNet	
+PTGER3	C0030920	Peptic ulcer	DisGeNet	
+PTGER2	C0021359	Infertility associated with multi-tailed spermatozoa and excessive DNA	DisGeNet	
+PTGER4	C0020649	Hypotension	DisGeNet	
+PTGER2	C0024121	Lung Neoplasms	DisGeNet	
+PTGER4	C0024121	Lung Neoplasms	DisGeNet	
+PTGER2	C0022680	Polycystic kidney disease, autosomal dominant	DisGeNet	
+PTGER2	C0009404	Colorectal Neoplasms	DisGeNet	
+PTGER4	C0009404	Colorectal Neoplasms	DisGeNet	
+PTGER4	C0677898	invasive cancer	DisGeNet	
+PTGER3	C0040053	Thrombosis	DisGeNet	
+PTGER2	C0085413	Polycystic Kidney, Autosomal Dominant	DisGeNet	
+PTGER3	C0520679	Obstructive sleep apnea	DisGeNet	
+PTGER3	C0004153	Atherosclerosis	DisGeNet	
+PTGER4	C0004153	Atherosclerosis	DisGeNet	
+PTGER4	C0085129	Bronchial Hyperreactivity	DisGeNet	
+PTGER2	C0022548	Keloid	DisGeNet	
+PTGER2	C0010709	Cyst	DisGeNet	
+PTGER4	C0020517	Hypersensitivity	PheGenI	
+PTGER2	C1956346	Coronary Artery Disease	DisGeNet	
+PTGER4	C1956346	Coronary Artery Disease	DisGeNet	
+PTGER4	C0013274	Patent ductus arteriosus	DisGeNet	
+PTGER3	C0027055	Myocardial Reperfusion Injury	DisGeNet	
+PTGER4	C0007787	Transient ischemic attack	DisGeNet	
+PTGER2	C0333186	Restenosis	DisGeNet	
+PTGER4	C0003486	Aortic aneurysm, familial thoracic 11, susceptibility to	DisGeNet	
+PTGER2	C0033578	Prostatic Neoplasms	DisGeNet	
+PTGER4	C0033578	Prostatic Neoplasms	DisGeNet	
+PTGER2	C0700095	Neuroblastoma	DisGeNet	
+PTGER4	C0700095	Neuroblastoma	DisGeNet	
+PTGER3	C0007102	Colon cancer	DisGeNet	
+PTGER4	C0007102	Colon cancer	DisGeNet	
+PTGER4	C0038013	Ankylosing spondylitis	DisGeNet	
+PTGER4	C0022660	Acute kidney injury	DisGeNet	
+PTGER3	C0032584	polyps	DisGeNet	
+PTGER2	C0003873	Rheumatoid arthritis	DisGeNet	
+PTGER4	C0003873	Rheumatoid arthritis	DisGeNet	
+PTGER3	C0699790	Carcinoma of colon	DisGeNet	
+PTGER4	C0699790	Carcinoma of colon	DisGeNet	
+PTGER2	C0948089	Acute Coronary Syndrome	DisGeNet	
+PTGER2	C0007131	Non-small cell lung carcinoma	DisGeNet	
+PTGER4	C0007131	Non-small cell lung carcinoma	DisGeNet	
+PTGER3	C0013604	Hydrops, lactic acidosis, and sideroblastic anemia	DisGeNet	

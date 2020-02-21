@@ -1,0 +1,34 @@
+node_name	node_type	
+DB12267	drug	
+ERBB2	drug_target	
+CYP2C8	drug_target	
+IGF1R	drug_target	
+ALK	drug_target	
+ERBB4	drug_target	
+EGFR	drug_target	
+ABCG2	drug_target	
+FLT3	drug_target	
+MET	drug_target	
+INSR	drug_target	
+SLC22A1	drug_target	
+ABCB5	drug_target	
+ABL1	drug_target	
+SLC47A2	drug_target	
+CYP3A4	drug_target	
+SLC47A1	drug_target	
+Squamous Cell Neoplasms	phenotype	
+Prostate cancer recurrent	phenotype	
+Sentinel node (disorder)	phenotype	
+Rhabdoid Tumor of the Kidney	phenotype	
+Carcinoma, Neuroendocrine	phenotype	
+Pharyngeal Neoplasms	phenotype	
+Refractory cancer	phenotype	
+Papillary adenocarcinoma	phenotype	
+Pleural Neoplasms	phenotype	
+Estrogen resistance	phenotype	
+Pathologic Neovascularization	phenotype	
+Gallbladder adenocarcinoma	phenotype	
+Breast cancer recurrent	phenotype	
+Thymic Carcinoma	phenotype	
+Malignant neoplasm of brain and nervous system	phenotype	
+Lichen Planus, Oral	phenotype	

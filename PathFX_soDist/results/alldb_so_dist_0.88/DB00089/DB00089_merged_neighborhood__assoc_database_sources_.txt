@@ -1,0 +1,66 @@
+Gene	CUI	Source Databases	
+FOLH1	C0001418	 Adenocarcinoma, ovarian, somatic, 167000 (3)	DisGeNet	
+FOLH1	C0003469	Anxiety Disorders	DisGeNet	
+FOLH1	C0004114	Astrocytoma	DisGeNet	
+FOLH1	C0006142	Breast-ovarian cancer, familial 1	DisGeNet	
+FOLH1	C0007112	Adenocarcinoma of prostate	DisGeNet	
+FOLH1	C0007131	Non-small cell lung carcinoma	DisGeNet	
+FOLH1	C0007134	Renal cell carcinoma, nonpapillary	DisGeNet	
+FOLH1	C0007222	Cardiovascular Diseases	DisGeNet	
+FOLH1	C0007786	Brain Ischemia	DisGeNet	
+FOLH1	C0008625	Chromosome Aberrations	DisGeNet	
+FOLH1	C0008924	Cleft Lip	DisGeNet	
+FOLH1	C0008925	Cleft Palate	DisGeNet	
+FOLH1	C0009402	Colorectal cancer 1	DisGeNet	
+FOLH1	C0009404	Colorectal Neoplasms	DisGeNet	
+FOLH1	C0011570	{Unipolar depression, susceptibility to}, 608516 (3)	DisGeNet	
+FOLH1	C0011581	Depressive Disorder	DisGeNet	
+FOLH1	C0012860	DNA Damage	DisGeNet	
+FOLH1	C0016412	Folic Acid Deficiency	DisGeNet	
+FOLH1	C0017636	Glioblastoma	DisGeNet	
+FOLH1	C0019340	Herpes NOS	DisGeNet	
+FOLH1	C0020538	Hypertension	DisGeNet	
+FOLH1	C0022661	Kidney Failure, Chronic	DisGeNet	
+FOLH1	C0023449	Acute lymphoid leukemia	DisGeNet	
+FOLH1	C0024117	Chronic obstructive pulmonary disease	DisGeNet	
+FOLH1	C0024623	{Gastric cancer risk after H. pylori infection}, 137215 (3)	DisGeNet	
+FOLH1	C0025007	Measles	DisGeNet	
+FOLH1	C0026764	Multiple Myeloma	DisGeNet	
+FOLH1	C0027051	Myocardial Infarction	DisGeNet	
+FOLH1	C0027627	Secondary hypertriglyceridemia	DisGeNet	
+FOLH1	C0027794	Neural tube defect	DisGeNet	
+FOLH1	C0031485	Phenylketonuria	DisGeNet	
+FOLH1	C0033578	Prostatic Neoplasms	DisGeNet	
+FOLH1	C0035335	Retinoblastoma	DisGeNet	
+FOLH1	C0036341	Schizophrenia	DisGeNet	
+FOLH1	C0038160	Staphylococcal Infections	DisGeNet	
+FOLH1	C0038454	Stroke	DisGeNet	
+FOLH1	C0039614	Tetanus	DisGeNet	
+FOLH1	C0040336	Tobacco Use Disorder	DisGeNet	
+FOLH1	C0042769	Virus Diseases	DisGeNet	
+FOLH1	C0080178	Spina bifida	DisGeNet	
+FOLH1	C0086132	Depressive Symptoms	DisGeNet	
+FOLH1	C0149925	Small cell lung cancer	DisGeNet	
+FOLH1	C0162871	Aortic Aneurysm, Abdominal	DisGeNet	
+FOLH1	C0178874	Tumor Progression	DisGeNet	
+FOLH1	C0238339	Hereditary pancreatitis	DisGeNet	
+FOLH1	C0242379	Malignant neoplasm of lung	DisGeNet	
+FOLH1	C0278838	Prostate cancer recurrent	DisGeNet	
+FOLH1	C0280100	Solid tumour	DisGeNet	
+FOLH1	C0376358	Malignant tumor of prostate	DisGeNet	
+FOLH1	C0596263	Carcinogenesis	DisGeNet	
+FOLH1	C0598608	Hereditary hyperhomocysteinemia	DisGeNet	
+FOLH1	C0600139	Prostate carcinoma	DisGeNet	
+FOLH1	C0678222	Breast carcinoma	DisGeNet	
+FOLH1	C0684249	Lung cancer	DisGeNet	
+FOLH1	C0740457	Malignant neoplasm of kidney	DisGeNet	
+FOLH1	C0936223	Metastatic Prostate Carcinoma	DisGeNet	
+FOLH1	C1328504	Hormone refractory prostate cancer	DisGeNet	
+FOLH1	C1519176	Pleomorphic adenoma of salivary gland	DisGeNet	
+FOLH1	C1519666	Tumor-Associated Vasculature	DisGeNet	
+FOLH1	C1527249	Colorectal cancer	DisGeNet	
+FOLH1	C1704272	Benign Prostatic Hyperplasia	DisGeNet	
+FOLH1	C1956346	Coronary Artery Disease	DisGeNet	
+FOLH1	C1961102	Precursor Cell Lymphoblastic Leukemia-Lymphoma	DisGeNet	
+FOLH1	C3266877	Secondary malignant neoplasm of pancreas	DisGeNet	
+FOLH1	C3495426	Homocysteinemia due to MTHFR deficiency	DisGeNet	

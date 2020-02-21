@@ -1,0 +1,36 @@
+Gene	CUI	Source Databases	
+ADRA1A	C1141890	Congenital long QT syndrome	DisGeNet	
+CACNA1C	C1141890	Congenital long QT syndrome	DisGeNet	
+CYP2D6	C1141890	Congenital long QT syndrome	DisGeNet	
+CYP3A4	C1141890	Congenital long QT syndrome	DisGeNet	
+KCNH2	C1141890	Congenital long QT syndrome	DisGeNet	
+ABCB1	C0152020	Gastroparesis	DisGeNet	
+ADRA1A	C0152020	Gastroparesis	DisGeNet	
+ADRA1B	C0152020	Gastroparesis	DisGeNet	
+CYP2D6	C0152020	Gastroparesis	DisGeNet	
+KCNH2	C0152020	Gastroparesis	DisGeNet	
+ABCB1	C0030201	Acute postoperative pain	DisGeNet	
+ADRA1A	C0030201	Acute postoperative pain	DisGeNet	
+CYP2D6	C0030201	Acute postoperative pain	DisGeNet	
+CYP3A4	C0030201	Acute postoperative pain	DisGeNet	
+ADRA1A	C0024031	Low back pain	DisGeNet	
+ADRA2A	C0024031	Low back pain	DisGeNet	
+ADRA2C	C0024031	Low back pain	DisGeNet	
+CYP2D6	C0024031	Low back pain	DisGeNet	
+ABCB1	C0024620	Primary malignant neoplasm of liver	DisGeNet	
+CYP2D6	C0024620	Primary malignant neoplasm of liver	DisGeNet	
+CYP3A4	C0024620	Primary malignant neoplasm of liver	DisGeNet	
+ADRA1A	C0152136	Low Tension Glaucoma	DisGeNet	
+ADRA2A	C0152136	Low Tension Glaucoma	DisGeNet	
+ADRA2C	C0152136	Low Tension Glaucoma	DisGeNet	
+ADRB1	C0152136	Low Tension Glaucoma	DisGeNet	
+ADRA1A	C0036396	Chronic sciatica	DisGeNet	
+ADRA2A	C0036396	Chronic sciatica	DisGeNet	
+ADRA2C	C0036396	Chronic sciatica	DisGeNet	
+CACNA1C	C1720983	Channelopathies	DisGeNet	
+CACNA1S	C1720983	Channelopathies	DisGeNet	
+KCNH2	C1720983	Channelopathies	DisGeNet	
+SCN1A	C1720983	Channelopathies	DisGeNet	
+CACNA1C	C0151878	Prolonged QT interval	HumPhenOnt	
+CACNA1S	C0151878	Prolonged QT interval	HumPhenOnt	
+KCNH2	C0151878	Prolonged QT interval	DisGeNet,HumPhenOnt	

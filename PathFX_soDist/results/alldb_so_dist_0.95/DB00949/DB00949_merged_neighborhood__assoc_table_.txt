@@ -1,0 +1,4 @@
+rank	phenotype	cui	assoc in neigh	assoc in intom	probability	Benjamini-Hochberg	genes	
+10	Cocaine delirium	C0011206	3	35	5.181561762213072e-06	1.76366843034e-05	CYP3A4,GRIN2B,GRIN3A
+25	Stomach Diseases	C0038354	3	44	1.3136749959397065e-05	4.40917107584e-05	CYP2C19,CYP2C9,CYP2E1
+27	Epilepsy, focal, with speech disorder and with or without mental retardation	C0014547	3	54	2.9852699666044202e-05	4.7619047619e-05	CYP2C19,CYP2C9,GRIN2B

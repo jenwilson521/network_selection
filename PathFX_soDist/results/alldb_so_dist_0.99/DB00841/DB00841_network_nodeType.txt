@@ -1,0 +1,6 @@
+node_name	node_type	
+DB00841	drug	
+ADRB1	drug_target	
+ADRB2	drug_target	
+COMT	drug_target	
+ESR1	drug_target	

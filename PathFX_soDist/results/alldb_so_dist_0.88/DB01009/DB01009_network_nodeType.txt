@@ -1,0 +1,28 @@
+node_name	node_type	
+DB01009	drug	
+CYP2C9	drug_target	
+PTGS2	drug_target	
+PTGS1	drug_target	
+CYP2C8	drug_target	
+ALB	drug_target	
+CXCR1	drug_target	
+SLC22A11	drug_target	
+SLC22A6	drug_target	
+SLCO1A2	drug_target	
+ABCC4	drug_target	
+SLC22A8	drug_target	
+UGT1A1	drug_target	
+Hepatitis D Infection	phenotype	
+Drug Allergy	phenotype	
+Cholelithiasis	phenotype	
+Hyperbilirubinemia	phenotype	
+Febrile Neutropenia	phenotype	
+Adverse drug events and drug allergies	phenotype	
+Hearing Loss, Partial	phenotype	
+Influenza	phenotype	
+Cholecystolithiasis	phenotype	
+Anemia, Sickle Cell	phenotype	
+Leukopenia	phenotype	
+Rhinitis, Allergic, Perennial	phenotype	
+Peptic ulcer	phenotype	
+Deafness, autosomal recessive 44	phenotype	

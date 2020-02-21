@@ -1,0 +1,168 @@
+node1	node2	edge_score	
+DB00648	ESR1	1.0	
+DB00648	SERPINA7	1.0	
+DB00648	SHBG	1.0	
+DB00648	AR	1.0	
+DB00648	PGR	1.0	
+DB00648	CYP3A4	1.0	
+DB00648	FDX1	1.0	
+CYP3A4	rs35599367	0.99
+CYP3A4	rs2242480	0.99
+rs2740574	CYP3A	0.9801
+CYP3A4	rs4646437	0.99
+ESR1	rs2207396	0.99
+ESR1	rs11543791	0.99
+AR		1.0
+CYP3A4	rs2246709	0.99
+CYP3A	rs12721627	0.970299
+ESR1	rs4870061	0.99
+CYP3A4	CYP3A4*1, CYP3A4*4	0.99
+rs4987161	CYP3A	0.9801
+rs12721627	CYP3A	0.9801
+CYP3A4	rs3735451	0.99
+CYP3A4		1.0
+rs12721627	CYP3A4	0.96059601
+CYP3A4	rs4987161	0.99
+CYP3A4	CYP3A4*1, CYP3A4*22	0.99
+CYP3A	rs2740574	0.970299
+ESR1		1.0
+ESR1	rs2813543	0.99
+ESR1	rs9322335	0.99
+rs4987161	CYP3A4	0.96059601
+CYP3A4	rs2740574	0.99
+ESR1	rs2234693	0.99
+rs2740574	CYP3A4	0.96059601
+CYP3A4	rs28371759	0.99
+CYP3A4	rs4986910	0.99
+CYP3A	rs4987161	0.970299
+ESR1	rs9340799	0.99
+CYP3A4	CYP3A4*1, CYP3A4*20, CYP3A4*8	0.99
+CYP3A4	rs4646440	0.99
+CYP3A4	rs12721627	0.99
+CYP3A4	CYP3A4*1, CYP3A4*1G	0.99
+CYP3A4	rs56324128	0.99
+Invasive Lobular Breast Carcinoma	AR	1.0	
+Invasive Lobular Breast Carcinoma	ESR1	1.0	
+Depressive Symptoms	AR	1.0	
+Depressive Symptoms	CYP3A4	1.0	
+Depressive Symptoms	ESR1	1.0	
+21-hydroxylase deficiency	AR	1.0	
+21-hydroxylase deficiency	CYP3A4	1.0	
+Abnormal circulating gonadotropin level	AR	1.0	
+Abnormal circulating gonadotropin level	ESR1	1.0	
+Malignant neoplasm of male breast	AR	1.0	
+Malignant neoplasm of male breast	ESR1	1.0	
+Bone necrosis	CYP3A4	1.0	
+Bone necrosis	ESR1	1.0	
+Adolescent idiopathic scoliosis	AR	1.0	
+Adolescent idiopathic scoliosis	ESR1	1.0	
+Aplasia/hypoplasia of the uterus	AR	1.0	
+Aplasia/hypoplasia of the uterus	ESR1	1.0	
+Phyllodes tumor, benign	AR	1.0	
+Phyllodes tumor, benign	ESR1	1.0	
+Malignant neoplasm of female breast	AR	1.0	
+Malignant neoplasm of female breast	ESR1	1.0	
+Lehman syndrome	AR	1.0	
+Lehman syndrome	ESR1	1.0	
+Female Breast Carcinoma	AR	1.0	
+Female Breast Carcinoma	ESR1	1.0	
+Endometrial Hyperplasia	AR	1.0	
+Endometrial Hyperplasia	ESR1	1.0	
+Nerve Sheath Tumors	AR	1.0	
+Nerve Sheath Tumors	ESR1	1.0	
+Carcinoma of Male Breast	AR	1.0	
+Carcinoma of Male Breast	ESR1	1.0	
+Penile hypospadias	AR	1.0	
+Penile hypospadias	ESR1	1.0	
+Biliary tract neoplasm	AR	1.0	
+Biliary tract neoplasm	ESR1	1.0	
+Desmoid tumor	AR	1.0	
+Desmoid tumor	ESR1	1.0	
+Carcinoma, Lobular	AR	1.0	
+Carcinoma, Lobular	ESR1	1.0	
+Adrenal hyperplasia	AR	1.0	
+Adrenal hyperplasia	CYP3A4	1.0	
+Microsatellite Instability	AR	1.0	
+Microsatellite Instability	ESR1	1.0	
+Breast Fibrocystic Disease	AR	1.0	
+Breast Fibrocystic Disease	ESR1	1.0	
+Hyperpituitarism	AR	1.0	
+Hyperpituitarism	ESR1	1.0	
+Neoplasms, Germ Cell and Embryonal	AR	1.0	
+Neoplasms, Germ Cell and Embryonal	CYP3A4	1.0	
+gliosarcoma	CYP3A4	1.0	
+gliosarcoma	ESR1	1.0	
+Fibroadenoma of the breast	AR	1.0	
+Fibroadenoma of the breast	ESR1	1.0	
+NEUROTICISM	AR	1.0	
+NEUROTICISM	ESR1	1.0	
+Disorder of endocrine system	AR	1.0	
+Disorder of endocrine system	ESR1	1.0	
+Mammographic breast density	AR	1.0	
+Mammographic breast density	ESR1	1.0	
+Ovarian Failure, Premature	AR	1.0	
+Ovarian Failure, Premature	CYP3A4	1.0	
+Ovarian Failure, Premature	ESR1	1.0	
+Female infertility	AR	1.0	
+Female infertility	ESR1	1.0	
+Acne	AR	1.0	
+Acne	ESR1	1.0	
+Uterine neoplasm	AR	1.0	
+Uterine neoplasm	ESR1	1.0	
+Granulomatous disease, chronic, autosomal recessive, cytochrome b-negative	AR	1.0	
+Granulomatous disease, chronic, autosomal recessive, cytochrome b-negative	ESR1	1.0	
+Degenerative disease of the spinal cord	AR	1.0	
+Degenerative disease of the spinal cord	ESR1	1.0	
+Recurrent abortion	AR	1.0	
+Recurrent abortion	ESR1	1.0	
+Drug Allergy	CYP3A4	1.0	
+Drug Allergy	ESR1	1.0	
+Pregnancy loss	AR	1.0	
+Pregnancy loss	ESR1	1.0	
+Increased analgesia from kappa-opioid receptor agonist, female-specific	AR	1.0	
+Increased analgesia from kappa-opioid receptor agonist, female-specific	ESR1	1.0	
+Hormone refractory prostate cancer	AR	1.0	
+Hormone refractory prostate cancer	ESR1	1.0	
+Stromal Neoplasm	AR	1.0	
+Stromal Neoplasm	ESR1	1.0	
+Chordoma	AR	1.0	
+Chordoma	ESR1	1.0	
+Dyslipidemias	AR	1.0	
+Dyslipidemias	CYP3A4	1.0	
+Dyslipidemias	ESR1	1.0	
+Cholecystolithiasis	AR	1.0	
+Cholecystolithiasis	ESR1	1.0	
+Adenocarcinoma of colon	AR	1.0	
+Adenocarcinoma of colon	CYP3A4	1.0	
+Adenocarcinoma of colon	ESR1	1.0	
+Aortic regurgitation	AR	1.0	
+Aortic regurgitation	ESR1	1.0	
+body mass	AR	1.0	
+body mass	ESR1	1.0	
+Postmenopausal osteoporosis	AR	1.0	
+Postmenopausal osteoporosis	ESR1	1.0	
+Alcohol abuse	CYP3A4	1.0	
+Alcohol abuse	ESR1	1.0	
+Malignant tumor of testis	AR	1.0	
+Malignant tumor of testis	CYP3A4	1.0	
+Malignant tumor of testis	ESR1	1.0	
+Testicular malignant germ cell tumor	AR	1.0	
+Testicular malignant germ cell tumor	ESR1	1.0	
+Biliary Tract Cancer	AR	1.0	
+Biliary Tract Cancer	ESR1	1.0	
+Advanced cancer	CYP3A4	1.0	
+Advanced cancer	ESR1	1.0	
+Azoospermia	AR	1.0	
+Azoospermia	CYP3A4	1.0	
+Azoospermia	ESR1	1.0	
+Endometrial adenocarcinoma	AR	1.0	
+Endometrial adenocarcinoma	ESR1	1.0	
+Testicular Germ Cell Tumor	AR	1.0	
+Testicular Germ Cell Tumor	ESR1	1.0	
+Endometrial Neoplasms	AR	1.0	
+Endometrial Neoplasms	CYP3A4	1.0	
+Endometrial Neoplasms	ESR1	1.0	
+Gynecomastia	AR	1.0	
+Gynecomastia	ESR1	1.0	
+High grade serous carcinoma	AR	1.0	
+High grade serous carcinoma	ESR1	1.0	

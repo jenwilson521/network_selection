@@ -1,0 +1,4 @@
+node1	node2	edge_score	
+DB11166	F2	1.0	
+DB11166	F10	1.0	
+

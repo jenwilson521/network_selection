@@ -1,0 +1,211 @@
+Gene	CUI	Source Databases	
+APP	C0003130	Hypoxia	DisGeNet	
+XDH	C0003130	Hypoxia	DisGeNet	
+APP	C0003850	Arteriosclerosis	DisGeNet	
+XDH	C0003850	Arteriosclerosis	DisGeNet	
+APP	C0004096	Asthma	DisGeNet	
+XDH	C0004096	Asthma	DisGeNet	
+APP	C0004153	Atherosclerosis	DisGeNet	
+XDH	C0004153	Atherosclerosis	DisGeNet	
+APP	C0004352	Autism 15	DisGeNet	
+XDH	C0004352	Autism 15	DisGeNet	
+APP	C0006142	Breast-ovarian cancer, familial 1	DisGeNet	
+XDH	C0006142	Breast-ovarian cancer, familial 1	DisGeNet	
+APP	C0007222	Cardiovascular Diseases	DisGeNet	
+XDH	C0007222	Cardiovascular Diseases	DisGeNet	
+APP	C0009450	Verotoxigenic Escherichia coli gastrointestinal tract infection	DisGeNet	
+XDH	C0009450	Verotoxigenic Escherichia coli gastrointestinal tract infection	DisGeNet	
+APP	C0020538	Hypertension	DisGeNet	
+XDH	C0020538	Hypertension	DisGeNet	
+APP	C0022116	Ischemia	DisGeNet	
+XDH	C0022116	Ischemia	DisGeNet	
+APP	C0024623	{Gastric cancer risk after H. pylori infection}, 137215 (3)	DisGeNet	
+XDH	C0024623	{Gastric cancer risk after H. pylori infection}, 137215 (3)	DisGeNet	
+APP	C0026848	Myopathy, scapulohumeroperoneal	DisGeNet	
+XDH	C0026848	Myopathy, scapulohumeroperoneal	HumPhenOnt	
+APP	C0027627	Secondary hypertriglyceridemia	DisGeNet	
+XDH	C0027627	Secondary hypertriglyceridemia	DisGeNet	
+APP	C0027746	Neurodegeneration with brain iron accumulation	DisGeNet	
+XDH	C0027746	Neurodegeneration with brain iron accumulation	DisGeNet	
+APP	C0243026	Sepsis	DisGeNet	
+XDH	C0243026	Sepsis	DisGeNet	
+APP	C0678222	Breast carcinoma	DisGeNet	
+XDH	C0678222	Breast carcinoma	DisGeNet	
+APP	C0699791	Stomach cancer	DisGeNet	
+XDH	C0699791	Stomach cancer	DisGeNet	
+APP	C1269683	Major depressive disorder	DisGeNet	
+XDH	C1269683	Major depressive disorder	DisGeNet	
+APP	C2239176	Hepatocellular carcinoma	DisGeNet	
+XDH	C2239176	Hepatocellular carcinoma	DisGeNet	
+APP	C4021768	Abnormality of metabolism/homeostasis	HumPhenOnt	
+XDH	C4021768	Abnormality of metabolism/homeostasis	HumPhenOnt	
+APP	C1832200	Peroxisome biogenesis disorders	DisGeNet	
+APP	C0031485	Phenylketonuria	DisGeNet	
+XDH	C1833683	Calcium oxalate urolithiasis	DisGeNet	
+XDH	C4025346	Abnormality of purine metabolism	HumPhenOnt	
+APP	C0220756	Niemann-Pick disease, type C	DisGeNet	
+APP	C0276496	Familial Alzheimer Disease (FAD)	DisGeNet	
+APP	C0020258	Normal pressure hydrocephalus	DisGeNet	
+APP	C0262404	Progressive cerebellar degeneration	DisGeNet	
+APP	C0037928	Chronic myelopathy	DisGeNet	
+APP	C0525041	Neurobehavioral Manifestations	DisGeNet	
+XDH	C4023643	Abnormality of nucleobase metabolism	HumPhenOnt	
+APP	C0032064	Plague	DisGeNet	
+APP	C0086439	Decreased activity of 3-hydroxyacyl-CoA dehydrogenase	DisGeNet	
+APP	C4022012	Death in early adulthood	HumPhenOnt	
+XDH	C0022650	Kidney Calculi	DisGeNet	
+APP	C0023186	Learning Disorders	DisGeNet	
+APP	C0149654	Conduct Disorder	DisGeNet	
+APP	C0026654	Moyamoya Disease	DisGeNet	
+APP	C0029401	Osteitis Deformans	DisGeNet	
+XDH	C0034186	Pyelonephritis	HumPhenOnt	
+APP	C0085220	Cerebral Amyloid Angiopathy	DisGeNet,HumPhenOnt	
+APP	C0162316	Iron deficiency anemia	DisGeNet	
+APP	C1842937	Aural atresia, congenital	DisGeNet	
+XDH	C0025284	Meningeal Neoplasms	DisGeNet	
+APP	C0025261	Memory Disorders	DisGeNet	
+APP	C0027540	Necrosis	DisGeNet	
+XDH	C0853897	Diabetic Cardiomyopathies	DisGeNet	
+APP	C0152031	Joint swelling	DisGeNet	
+APP	C0018553	Cowden syndrome 1	DisGeNet	
+APP	C1291316	2,4-Dienoyl-CoA reductase deficiency	DisGeNet	
+APP	C0002622	Memory Loss	DisGeNet	
+APP	C0009241	Cognition Disorders	DisGeNet	
+APP	C0041671	Attention Deficit Disorder	DisGeNet	
+XDH	C0028797	Occupational Diseases	DisGeNet	
+APP	C0238190	Inclusion Body Myositis (disorder)	DisGeNet	
+XDH	C0740394	Hyperuricemia, pulmonary hypertension, renal failure, and alkalosis	DisGeNet	
+APP	C0037773	Complicated hereditary spastic paraplegia	DisGeNet	
+APP	C0494463	Alzheimer Disease, Late Onset	DisGeNet	
+APP	C0231341	Premature aging syndrome	DisGeNet	
+APP	C0039614	Tetanus	DisGeNet	
+APP	C0011269	Dementia, Vascular	DisGeNet	
+XDH	C0740392	Infarction, Middle Cerebral Artery	DisGeNet	
+APP	C1318485	Liver regeneration disorder	DisGeNet	
+APP	C0009952	Febrile seizures, familial, 4	HumPhenOnt	
+APP	C0522224	Paralysis	DisGeNet	
+APP	C0009421	Coma	HumPhenOnt	
+APP	C0162534	Prion Diseases	DisGeNet	
+APP	C0085409	Polyglandular autoimmune syndrome, type 1	DisGeNet	
+APP	C0030554	Paresthesia	HumPhenOnt	
+APP	C0270685	Cerebral calcification	HumPhenOnt	
+XDH	C0600452	Hepatopulmonary Syndrome	DisGeNet	
+APP	C4021520	Abnormality of cerebral artery	HumPhenOnt	
+APP	C0004610	Bacteremia, susceptibility to, 2	DisGeNet	
+APP	C0236642	Frontotemporal dementia, ubiquitin-positive	DisGeNet	
+APP	C0751072	 Frontotemporal lobar degeneration, TARDBP-related, 612069 (3)	DisGeNet	
+APP	C0016667	Fragile X syndrome	DisGeNet	
+APP	C0162872	Aortic Aneurysm, Thoracic	DisGeNet	
+XDH	C0392525	Nephrolithiasis	DisGeNet,HumPhenOnt	
+APP	C0241910	Hepatitis, Autoimmune	DisGeNet	
+APP	C0002726	Amyloidosis	DisGeNet,HumPhenOnt	
+APP	C0393593	Dystonia Disorders	DisGeNet	
+XDH	C1868864	Dilatation of the renal pelvis	HumPhenOnt	
+XDH	C4023633	Abnormality of the renal pelvis	HumPhenOnt	
+APP	C0017563	Gingival Diseases	DisGeNet	
+APP	C0752347	Lewy Body Disease	DisGeNet	
+XDH	C0034065	Pulmonary Embolism	DisGeNet	
+APP	C4025247	Abnormalities of the peripheral arteries	HumPhenOnt	
+APP	C0085084	Motor Neuron Disease	DisGeNet	
+XDH	C1527336	Sjogren's Syndrome	DisGeNet	
+APP	C0020550	Hyperthyroidism	DisGeNet	
+APP	C1270972	Mild cognitive impairment	DisGeNet	
+APP	C0038449	Arterial stenosis	HumPhenOnt	
+APP	C0027066	Myoclonus, intractable, neonatal	HumPhenOnt	
+APP	C0338451	Frontotemporal dementia	DisGeNet	
+APP	C3827868	Tachycardia	DisGeNet	
+XDH	C0018772	Hearing Loss, Partial	DisGeNet	
+APP	C0002940	{Aneurysm, familial abdominal 3} (2)	DisGeNet	
+APP	C0020580	Sensory impairment	HumPhenOnt	
+XDH	C0020295	Hydronephrosis	HumPhenOnt	
+APP	C0677932	Progressive Neoplastic Disease	DisGeNet	
+APP	C3539781	Progressive cGVHD	DisGeNet	
+APP	C3806226	Ectopic calcification	HumPhenOnt	
+APP	C0014038	Encephalitis	DisGeNet	
+APP	C1862939	Amyotrophic lateral sclerosis type 1	DisGeNet	
+APP	C0333285	Internal hemorrhage	HumPhenOnt	
+APP	C0234133	Abnormality of extrapyramidal motor function	HumPhenOnt	
+XDH	C0027697	Nephritis	HumPhenOnt	
+APP	C0041107	Trisomy	DisGeNet	
+APP	C4022001	Abnormality of the cerebral vasculature	HumPhenOnt	
+APP	C0266929	Chronic Periodontitis	DisGeNet	
+APP	C0151313	Sensory neuropathy	HumPhenOnt	
+XDH	C0403447	Chronic Kidney Insufficiency	DisGeNet	
+APP	C0278026	3-Methylglutaconic aciduria	DisGeNet	
+APP	C4023585	Abnormality of blood circulation	HumPhenOnt	
+XDH	C0007273	Carotid Artery Diseases	DisGeNet	
+APP	C0162871	Aortic Aneurysm, Abdominal	DisGeNet	
+APP	C0041341	Tuberous sclerosis syndrome	DisGeNet	
+APP	C0234985	Mental deterioration	HumPhenOnt	
+APP	C0349204	Cycloid psychosis	DisGeNet	
+APP	C0006111	Brain Diseases	DisGeNet	
+APP	C4025722	Abnormality of the spinal cord	HumPhenOnt	
+APP	C0011168	Dysphagia	HumPhenOnt	
+APP	C0011065	Death, Sudden, Cardiac	DisGeNet	
+APP	C0018681	Headache	DisGeNet,HumPhenOnt	
+XDH	C0024668	Mammary Neoplasms, Experimental	DisGeNet	
+APP	C0234428	Reduced consciousness/confusion	HumPhenOnt	
+XDH	C0856169	Endothelial dysfunction	DisGeNet	
+XDH	C1762616	Meningioma, benign, no ICD-O subtype	DisGeNet	
+APP	C0151699	Intracranial hemorrhage	HumPhenOnt	
+APP	C1546180	Age of death	HumPhenOnt	
+APP	C4022499	Mortality/Aging	HumPhenOnt	
+APP	C0011389	Plaque, Atherosclerotic	DisGeNet	
+APP	C0003486	Aortic aneurysm, familial thoracic 11, susceptibility to	DisGeNet	
+APP	C0242422	Parkinsonism	HumPhenOnt	
+APP	C0029928	Ovarian Diseases	DisGeNet	
+APP	C2937358	Cerebral Hemorrhage	DisGeNet,HumPhenOnt	
+APP	C0019409	Heterogeneous	HumPhenOnt	
+APP	C0015625	Fanconi anemia	DisGeNet	
+APP	C0205851	Germ cell neoplasia	DisGeNet	
+XDH	C0040034	Thrombocytopenia, platelet dysfunction, hemolysis, and imbalanced globin synthesis	DisGeNet	
+APP	C0233794	Memory impairment	DisGeNet,HumPhenOnt	
+XDH	C0011053	Deafness, autosomal recessive 44	DisGeNet	
+APP	C0333463	Senile plaques	DisGeNet	
+APP	C0004509	Azoospermia	DisGeNet	
+APP	C0008312	Primary biliary cirrhosis	DisGeNet	
+XDH	C0022660	Acute kidney injury	DisGeNet	
+APP	C0917798	Cerebral ischemia	HumPhenOnt	
+XDH	C0030305	Pancreatitis	DisGeNet	
+APP	C0032584	polyps	DisGeNet	
+APP	C4021205	Abnormality of the systemic arterial tree	HumPhenOnt	
+APP	C0011265	Dementia familial British	DisGeNet	
+APP	C0021364	Male infertility	DisGeNet	
+APP	C0271650	Glucose intolerance	DisGeNet	
+XDH	C0035126	Reperfusion Injury	DisGeNet	
+APP	C0013421	Dystonia 2, torsion, autosomal recessive	DisGeNet	
+APP	C1458140	Abnormal bleeding	HumPhenOnt	
+APP	C0033975	Psychotic Disorders	DisGeNet	
+APP	C0149931	Migraine Disorders	HumPhenOnt	
+APP	C0020676	Hypothyroidism	DisGeNet	
+APP	C0278488	Carcinoma breast stage IV	DisGeNet	
+XDH	C1561643	Chronic kidney disease	DisGeNet	
+APP	C0035078	Renal Insufficiency, Chronic	DisGeNet	
+APP	C0015672	Fatigue	DisGeNet	
+APP	C0003469	Anxiety Disorders	DisGeNet	
+XDH	C0018799	Heart Diseases	DisGeNet	
+APP	C0036690	Septicemia	DisGeNet	
+APP	C0266126	Abnormality of esophagus morphology	HumPhenOnt	
+APP	C0235946	Brain atrophy	DisGeNet	
+APP	C0041696	Unipolar Depression	DisGeNet	
+APP	C4293699	Abnormal vascular morphology	HumPhenOnt	
+APP	C0042373	Vascular Diseases	DisGeNet	
+APP	C0242383	Age-related macular degeneration 2	DisGeNet	
+XDH	C0151746	Abnormal renal physiology	HumPhenOnt	
+XDH	C0025286	Meningioma	DisGeNet	
+APP	C0027765	Other disorders of the nervous system	DisGeNet	
+APP	C4022755	Functional abnormality of the gastrointestinal tract	HumPhenOnt	
+APP	C0013080	Down Syndrome	DisGeNet	
+APP	C0497327	Dementia	DisGeNet,HumPhenOnt	
+APP	C0575081	Gait disturbance	HumPhenOnt	
+APP	C0043094	Increased body weight	DisGeNet	
+APP	C0427086	Involuntary movements	HumPhenOnt	
+APP	C1263846	Attention deficit hyperactivity disorder	DisGeNet	
+APP	C0019348	Herpes Simplex Infections	DisGeNet	
+XDH	C1520166	Xenograft Model	DisGeNet	
+XDH	C4022803	Increased inflammatory response	HumPhenOnt	
+XDH	C4022805	Abnormal inflammatory response	HumPhenOnt	
+APP	C4025831	Abnormal peripheral nervous system morphology	HumPhenOnt	
+XDH	C0011881	Diabetic Nephropathies	DisGeNet	
+APP	C0524620	Metabolic Syndrome X	DisGeNet	
+APP	C0021368	Inflammation	DisGeNet	

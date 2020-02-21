@@ -1,0 +1,9 @@
+Gene	CUI	Source Databases	
+P2RY12	C2936719	Mechanical Allodynia	DisGeNet	
+P2RY12	C0855740	Abnormal platelet function	HumPhenOnt	
+P2RY12	C0005818	Platelet-type bleeding disorder 15	ClinVar	
+P2RY12	C0151950	Deep thrombophlebitis	DisGeNet	
+P2RY12	C0948480	Coronary Restenosis	DisGeNet	
+P2RY12	C0234251	Inflammatory pain	DisGeNet	
+P2RY12	C0242994	Hantavirus infection in conditions classified elsewhere and of unspecified site	DisGeNet	
+P2RY12	C0014591	Epistaxis	HumPhenOnt	

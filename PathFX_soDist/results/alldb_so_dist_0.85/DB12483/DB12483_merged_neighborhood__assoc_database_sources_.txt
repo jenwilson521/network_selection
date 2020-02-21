@@ -1,0 +1,25 @@
+Gene	CUI	Source Databases	
+ABCB1	C0024620	Primary malignant neoplasm of liver	DisGeNet	
+CYP3A4	C0024620	Primary malignant neoplasm of liver	DisGeNet	
+CYP3A5	C0024620	Primary malignant neoplasm of liver	DisGeNet	
+ABCG2	C0206720	Squamous Cell Neoplasms	DisGeNet	
+CYP3A4	C0206720	Squamous Cell Neoplasms	DisGeNet	
+CYP3A5	C0206720	Squamous Cell Neoplasms	DisGeNet	
+ABCG2	C0011206	Cocaine delirium	DisGeNet	
+CYP3A4	C0011206	Cocaine delirium	DisGeNet	
+CYP3A5	C0011206	Cocaine delirium	DisGeNet	
+ABCB1	C0023474	Leukemia, Myeloid, Chronic-Phase	DisGeNet	
+ABCG2	C0023474	Leukemia, Myeloid, Chronic-Phase	DisGeNet	
+CYP3A5	C0023474	Leukemia, Myeloid, Chronic-Phase	DisGeNet	
+PIK3CA	C0023474	Leukemia, Myeloid, Chronic-Phase	DisGeNet	
+ABCB1	C0042065	Genitourinary neoplasm	DisGeNet	
+ABCG2	C0042065	Genitourinary neoplasm	DisGeNet	
+CYP3A4	C0042065	Genitourinary neoplasm	DisGeNet	
+CYP3A5	C0042065	Genitourinary neoplasm	DisGeNet	
+PIK3CA	C0042065	Genitourinary neoplasm	ClinVar,HumPhenOnt	
+ABCB1	C0235032	Neurotoxicity Syndromes	DisGeNet	
+ABCG2	C0235032	Neurotoxicity Syndromes	DisGeNet	
+CYP3A5	C0235032	Neurotoxicity Syndromes	DisGeNet	
+ABCB1	C0280220	Ovarian epithelial cancer stage III	DisGeNet	
+ABCG2	C0280220	Ovarian epithelial cancer stage III	DisGeNet	
+PIK3CA	C0280220	Ovarian epithelial cancer stage III	DisGeNet	

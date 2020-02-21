@@ -1,0 +1,308 @@
+node1	node2	edge_score	
+DB01017	CASP3	1.0	
+DB01017	CASP1	1.0	
+DB01017	ALOX5	1.0	
+DB01017	CYCS	1.0	
+DB01017	SLC22A11	1.0	
+DB01017	SLC22A6	1.0	
+DB01017	VEGFA	1.0	
+DB01017	MMP9	1.0	
+DB01017	IL1B	1.0	
+DB01017	SLC22A8	1.0	
+VEGFA	rs6900017	0.99
+VEGFA	rs3025000	0.99
+VEGFA	rs144854329	0.99
+SLC22A11		1.0
+VEGFA	rs3025039	0.99
+VEGFA	rs13207351	0.99
+VEGFA	rs9369421	0.99
+VEGFA	rs35864111	0.99
+IL1B	rs1143634	0.99
+VEGFA	rs833069	0.99
+IL1B	rs4849127	0.99
+IL1B	rs4848306	0.99
+VEGFA	rs833061	0.99
+VEGFA	rs879825	0.99
+VEGFA	rs25648	0.99
+IL1B		1.0
+VEGFA	rs699947	0.99
+SLC22A8		1.0
+IL1B	rs1143627	0.99
+VEGFA	rs3025040	0.99
+IL1B	rs16944	0.99
+IL1B	rs1143623	0.99
+VEGFA	rs1570360	0.99
+VEGFA		1.0
+VEGFA	rs2010963	0.99
+IL1B	rs12621220	0.99
+ALOX5		1.0
+Pulmonary edema	ALOX5	1.0	
+Pulmonary edema	IL1B	1.0	
+Pulmonary edema	VEGFA	1.0	
+Multiple Sclerosis, Relapsing-Remitting	ALOX5	1.0	
+Multiple Sclerosis, Relapsing-Remitting	IL1B	1.0	
+Multiple Sclerosis, Relapsing-Remitting	VEGFA	1.0	
+Leg Ulcer	IL1B	1.0	
+Leg Ulcer	VEGFA	1.0	
+Papillary adenocarcinoma	IL1B	1.0	
+Papillary adenocarcinoma	VEGFA	1.0	
+Tuberculosis, Meningeal	ALOX5	1.0	
+Tuberculosis, Meningeal	VEGFA	1.0	
+Otitis Media with Effusion	IL1B	1.0	
+Otitis Media with Effusion	VEGFA	1.0	
+Thrombosis of retinal vein	IL1B	1.0	
+Thrombosis of retinal vein	VEGFA	1.0	
+Polymyositis	ALOX5	1.0	
+Polymyositis	IL1B	1.0	
+Polymyositis	VEGFA	1.0	
+Angiokeratoma	IL1B	1.0	
+Angiokeratoma	VEGFA	1.0	
+Arteriovenous hemangioma	IL1B	1.0	
+Arteriovenous hemangioma	VEGFA	1.0	
+Generalized osteoarthritis	IL1B	1.0	
+Generalized osteoarthritis	VEGFA	1.0	
+Portal hypertension, noncirrhotic	ALOX5	1.0	
+Portal hypertension, noncirrhotic	IL1B	1.0	
+Portal hypertension, noncirrhotic	VEGFA	1.0	
+Dermatomyositis	ALOX5	1.0	
+Dermatomyositis	IL1B	1.0	
+Dermatomyositis	VEGFA	1.0	
+Multiple Organ Failure	ALOX5	1.0	
+Multiple Organ Failure	IL1B	1.0	
+Simple pneumoconiosis	IL1B	1.0	
+Simple pneumoconiosis	VEGFA	1.0	
+Urticaria	ALOX5	1.0	
+Urticaria	IL1B	1.0	
+Urticaria	VEGFA	1.0	
+Acute kidney injury	ALOX5	1.0	
+Acute kidney injury	IL1B	1.0	
+Acute kidney injury	SLC22A8	1.0	
+Acute kidney injury	VEGFA	1.0	
+Corneal pannus	IL1B	1.0	
+Corneal pannus	VEGFA	1.0	
+Amyloidosis	ALOX5	1.0	
+Amyloidosis	IL1B	1.0	
+Amyloidosis	VEGFA	1.0	
+Idiopathic crescentic glomerulonephritis	IL1B	1.0	
+Idiopathic crescentic glomerulonephritis	VEGFA	1.0	
+Cholesteatoma	IL1B	1.0	
+Cholesteatoma	VEGFA	1.0	
+Ectopic Pregnancy	IL1B	1.0	
+Ectopic Pregnancy	VEGFA	1.0	
+Pleural effusion	ALOX5	1.0	
+Pleural effusion	IL1B	1.0	
+Pleural effusion	VEGFA	1.0	
+Rhinitis, Allergic, Seasonal	ALOX5	1.0	
+Rhinitis, Allergic, Seasonal	IL1B	1.0	
+Rhinitis, Allergic, Seasonal	VEGFA	1.0	
+Testicular Neoplasms	ALOX5	1.0	
+Testicular Neoplasms	IL1B	1.0	
+Testicular Neoplasms	VEGFA	1.0	
+Fabry disease	IL1B	1.0	
+Fabry disease	VEGFA	1.0	
+Thromboangiitis Obliterans	IL1B	1.0	
+Thromboangiitis Obliterans	VEGFA	1.0	
+Hyperoxia	ALOX5	1.0	
+Hyperoxia	IL1B	1.0	
+Learning Disorders	IL1B	1.0	
+Learning Disorders	VEGFA	1.0	
+Choroidal Neovascularization	IL1B	1.0	
+Choroidal Neovascularization	VEGFA	1.0	
+Pleuritis	ALOX5	1.0	
+Pleuritis	IL1B	1.0	
+Cervical intraepithelial neoplasia grade 2	IL1B	1.0	
+Cervical intraepithelial neoplasia grade 2	VEGFA	1.0	
+{Aneurysm, familial abdominal 3} (2)	ALOX5	1.0	
+{Aneurysm, familial abdominal 3} (2)	IL1B	1.0	
+{Aneurysm, familial abdominal 3} (2)	VEGFA	1.0	
+Memory Disorders	IL1B	1.0	
+Memory Disorders	VEGFA	1.0	
+Obstructive sleep apnea	ALOX5	1.0	
+Obstructive sleep apnea	IL1B	1.0	
+Obstructive sleep apnea	VEGFA	1.0	
+Biliary tract neoplasm	IL1B	1.0	
+Biliary tract neoplasm	VEGFA	1.0	
+Neoplasms, Experimental	IL1B	1.0	
+Neoplasms, Experimental	VEGFA	1.0	
+Henoch-Schoenlein Purpura	IL1B	1.0	
+Henoch-Schoenlein Purpura	VEGFA	1.0	
+ {Septic shock, susceptibility to} (3)	IL1B	1.0	
+ {Septic shock, susceptibility to} (3)	VEGFA	1.0	
+Sarcoidosis, Pulmonary	IL1B	1.0	
+Sarcoidosis, Pulmonary	VEGFA	1.0	
+Aortic valve disease 2	ALOX5	1.0	
+Aortic valve disease 2	VEGFA	1.0	
+Idiopathic Inflammatory Myopathies	ALOX5	1.0	
+Idiopathic Inflammatory Myopathies	IL1B	1.0	
+Renal Insufficiency, Chronic	ALOX5	1.0	
+Renal Insufficiency, Chronic	IL1B	1.0	
+Renal Insufficiency, Chronic	SLC22A11	1.0	
+Renal Insufficiency, Chronic	VEGFA	1.0	
+Hypoxia-Ischemia, Brain	IL1B	1.0	
+Hypoxia-Ischemia, Brain	VEGFA	1.0	
+Limb ischemia	IL1B	1.0	
+Limb ischemia	VEGFA	1.0	
+Aortic Aneurysm, Abdominal	ALOX5	1.0	
+Aortic Aneurysm, Abdominal	IL1B	1.0	
+Aortic Aneurysm, Abdominal	VEGFA	1.0	
+Retinopathy of Prematurity	IL1B	1.0	
+Retinopathy of Prematurity	VEGFA	1.0	
+Myocardial Reperfusion Injury	ALOX5	1.0	
+Myocardial Reperfusion Injury	IL1B	1.0	
+Myocardial Reperfusion Injury	VEGFA	1.0	
+Retroviridae Infections	IL1B	1.0	
+Retroviridae Infections	VEGFA	1.0	
+ {HIV-1 viremia, susceptibility to}, 609423 (3)	IL1B	1.0	
+ {HIV-1 viremia, susceptibility to}, 609423 (3)	VEGFA	1.0	
+Acute Lung Injury	IL1B	1.0	
+Acute Lung Injury	VEGFA	1.0	
+{Pemphigoid, susceptibility to} (2)	IL1B	1.0	
+{Pemphigoid, susceptibility to} (2)	VEGFA	1.0	
+Uremia	IL1B	1.0	
+Uremia	VEGFA	1.0	
+Adenomatous Polyps	ALOX5	1.0	
+Adenomatous Polyps	VEGFA	1.0	
+Severe Dengue	IL1B	1.0	
+Severe Dengue	VEGFA	1.0	
+Pathologic Neovascularization	IL1B	1.0	
+Pathologic Neovascularization	VEGFA	1.0	
+Bronchitis, Chronic	ALOX5	1.0	
+Bronchitis, Chronic	VEGFA	1.0	
+Endometrioma	IL1B	1.0	
+Endometrioma	VEGFA	1.0	
+Complications of Diabetes Mellitus	IL1B	1.0	
+Complications of Diabetes Mellitus	VEGFA	1.0	
+Uterine neoplasm	IL1B	1.0	
+Uterine neoplasm	VEGFA	1.0	
+Brain Infarction	IL1B	1.0	
+Brain Infarction	VEGFA	1.0	
+Neonatal respiratory distress	IL1B	1.0	
+Neonatal respiratory distress	VEGFA	1.0	
+Degenerative disease of the spinal cord	IL1B	1.0	
+Degenerative disease of the spinal cord	VEGFA	1.0	
+Recurrent abortion	IL1B	1.0	
+Recurrent abortion	VEGFA	1.0	
+Cerebral edema	IL1B	1.0	
+Cerebral edema	VEGFA	1.0	
+Duodenal Ulcer	IL1B	1.0	
+Duodenal Ulcer	VEGFA	1.0	
+Metaplasia	IL1B	1.0	
+Metaplasia	VEGFA	1.0	
+M5b Acute differentiated monocytic leukemia	IL1B	1.0	
+M5b Acute differentiated monocytic leukemia	VEGFA	1.0	
+Pregnancy loss	IL1B	1.0	
+Pregnancy loss	VEGFA	1.0	
+Coronary artery stenosis	IL1B	1.0	
+Coronary artery stenosis	VEGFA	1.0	
+Blast Phase	ALOX5	1.0	
+Blast Phase	IL1B	1.0	
+Blast Phase	VEGFA	1.0	
+Stromal Neoplasm	IL1B	1.0	
+Stromal Neoplasm	VEGFA	1.0	
+Dementia, Vascular	IL1B	1.0	
+Dementia, Vascular	VEGFA	1.0	
+Adult type dermatomyositis	ALOX5	1.0	
+Adult type dermatomyositis	IL1B	1.0	
+Carcinoma, Lewis Lung	IL1B	1.0	
+Carcinoma, Lewis Lung	VEGFA	1.0	
+Infarction, Middle Cerebral Artery	ALOX5	1.0	
+Infarction, Middle Cerebral Artery	IL1B	1.0	
+Membranous nephropathy, susceptibility to	IL1B	1.0	
+Membranous nephropathy, susceptibility to	VEGFA	1.0	
+Nasopharyngeal Neoplasms	IL1B	1.0	
+Nasopharyngeal Neoplasms	VEGFA	1.0	
+Aortic aneurysm, familial thoracic 11, susceptibility to	ALOX5	1.0	
+Aortic aneurysm, familial thoracic 11, susceptibility to	IL1B	1.0	
+Aortic aneurysm, familial thoracic 11, susceptibility to	VEGFA	1.0	
+Pterygium	IL1B	1.0	
+Pterygium	VEGFA	1.0	
+Familial Mediterranean fever	IL1B	1.0	
+Familial Mediterranean fever	VEGFA	1.0	
+Stage 5 chronic kidney disease	ALOX5	1.0	
+Stage 5 chronic kidney disease	IL1B	1.0	
+Stage 5 chronic kidney disease	VEGFA	1.0	
+Tumor Promotion	IL1B	1.0	
+Tumor Promotion	VEGFA	1.0	
+Necrotizing Enterocolitis	IL1B	1.0	
+Necrotizing Enterocolitis	VEGFA	1.0	
+Vestibular Schwannoma	IL1B	1.0	
+Vestibular Schwannoma	VEGFA	1.0	
+Contact Dermatitis	IL1B	1.0	
+Contact Dermatitis	VEGFA	1.0	
+Type 1 diabetic neuropathy	IL1B	1.0	
+Type 1 diabetic neuropathy	VEGFA	1.0	
+Periodontitis, Juvenile	ALOX5	1.0	
+Periodontitis, Juvenile	IL1B	1.0	
+Urinary tract infection	IL1B	1.0	
+Urinary tract infection	VEGFA	1.0	
+Chronic graft-versus-host disease	IL1B	1.0	
+Chronic graft-versus-host disease	VEGFA	1.0	
+Cerebral Hemorrhage	ALOX5	1.0	
+Cerebral Hemorrhage	IL1B	1.0	
+Cerebral Hemorrhage	VEGFA	1.0	
+Arteriovenous malformation	IL1B	1.0	
+Arteriovenous malformation	VEGFA	1.0	
+airway disease	IL1B	1.0	
+airway disease	VEGFA	1.0	
+Malaria, Cerebral	IL1B	1.0	
+Malaria, Cerebral	VEGFA	1.0	
+Postmenopausal osteoporosis	IL1B	1.0	
+Postmenopausal osteoporosis	VEGFA	1.0	
+Endotoxemia	ALOX5	1.0	
+Endotoxemia	IL1B	1.0	
+Keratitis	IL1B	1.0	
+Keratitis	VEGFA	1.0	
+Adenoma of large intestine	ALOX5	1.0	
+Adenoma of large intestine	IL1B	1.0	
+Adenoma of large intestine	VEGFA	1.0	
+SUDDEN INFANT DEATH SYNDROME	IL1B	1.0	
+SUDDEN INFANT DEATH SYNDROME	VEGFA	1.0	
+Cystitis	IL1B	1.0	
+Cystitis	VEGFA	1.0	
+Nephrotic syndrome, type 5, with or without ocular abnormalities	ALOX5	1.0	
+Nephrotic syndrome, type 5, with or without ocular abnormalities	IL1B	1.0	
+Nephrotic syndrome, type 5, with or without ocular abnormalities	VEGFA	1.0	
+Glomerulonephritis, Membranous	ALOX5	1.0	
+Glomerulonephritis, Membranous	IL1B	1.0	
+Glomerulonephritis, Membranous	VEGFA	1.0	
+Childhood asthma	ALOX5	1.0	
+Childhood asthma	VEGFA	1.0	
+Middle Cerebral Artery Occlusion	IL1B	1.0	
+Middle Cerebral Artery Occlusion	VEGFA	1.0	
+Rheumatic disease of heart valve	IL1B	1.0	
+Rheumatic disease of heart valve	VEGFA	1.0	
+Helicobacter Infections	IL1B	1.0	
+Helicobacter Infections	VEGFA	1.0	
+Inflammatory disorder	ALOX5	1.0	
+Inflammatory disorder	IL1B	1.0	
+Inflammatory disorder	VEGFA	1.0	
+Synovitis	IL1B	1.0	
+Synovitis	VEGFA	1.0	
+Dermatitis, Allergic Contact	IL1B	1.0	
+Dermatitis, Allergic Contact	VEGFA	1.0	
+Carotid Atherosclerosis	ALOX5	1.0	
+Carotid Atherosclerosis	VEGFA	1.0	
+Rectal Carcinoma	ALOX5	1.0	
+Rectal Carcinoma	IL1B	1.0	
+Rectal Carcinoma	VEGFA	1.0	
+Sinusitis	ALOX5	1.0	
+Sinusitis	IL1B	1.0	
+early pregnancy	IL1B	1.0	
+early pregnancy	VEGFA	1.0	
+Intracranial Aneurysm	IL1B	1.0	
+Intracranial Aneurysm	VEGFA	1.0	
+Chronic atrophic gastritis	IL1B	1.0	
+Chronic atrophic gastritis	VEGFA	1.0	
+Gout	IL1B	1.0	
+Gout	SLC22A11	1.0	
+Gastric ulcer	IL1B	1.0	
+Gastric ulcer	VEGFA	1.0	
+Aortic Aneurysm, Thoracic	IL1B	1.0	
+Aortic Aneurysm, Thoracic	VEGFA	1.0	
+Immediate hypersensitivity	ALOX5	1.0	
+Immediate hypersensitivity	IL1B	1.0	
+Hyperlipidemia, combined, 1	ALOX5	1.0	
+Hyperlipidemia, combined, 1	IL1B	1.0	
+Hyperlipidemia, combined, 1	VEGFA	1.0	
+Knee osteoarthritis	IL1B	1.0	
+Knee osteoarthritis	VEGFA	1.0	

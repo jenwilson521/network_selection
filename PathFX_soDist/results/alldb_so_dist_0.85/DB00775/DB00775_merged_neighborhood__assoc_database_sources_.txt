@@ -1,0 +1,239 @@
+Gene	CUI	Source Databases	
+ITGB3	C0000786	Spontaneous abortion	DisGeNet	
+ITGB3	C0000809	Recurrent abortion	DisGeNet	
+ITGB3	C0001418	 Adenocarcinoma, ovarian, somatic, 167000 (3)	DisGeNet	
+ITGB3	C0001925	Albuminuria	DisGeNet	
+ITGB3	C0002736	Amyotrophic Lateral Sclerosis	DisGeNet	
+ITGB3	C0002871	Anemia	HumPhenOnt	
+ITGB3	C0002874	Aplastic anemia	DisGeNet	
+ITGB3	C0002895	Anemia, Sickle Cell	DisGeNet	
+ITGB3	C0002962	Angina pectoris	DisGeNet	
+ITGB3	C0002965	Angina, Unstable	DisGeNet	
+ITGB3	C0003130	Hypoxia	DisGeNet	
+ITGB3	C0003838	Arterial Occlusive Diseases	DisGeNet	
+ITGB3	C0003850	Arteriosclerosis	DisGeNet	
+ITGB3	C0003864	Arthritis, Rheumatoid	DisGeNet	
+ITGB3	C0003873	Rheumatoid arthritis	DisGeNet	
+ITGB3	C0004096	Asthma	DisGeNet	
+ITGB3	C0004153	Atherosclerosis	DisGeNet	
+ITGB3	C0004238	Atrial Fibrillation	DisGeNet	
+ITGB3	C0004352	Autism 15	DisGeNet	
+ITGB3	C0004626	Pneumonia, Bacterial	DisGeNet	
+ITGB3	C0004936	Mental disorders	DisGeNet	
+ITGB3	C0004943	Behcet Syndrome	DisGeNet	
+ITGB3	C0005283	beta Thalassemia	DisGeNet	
+ITGB3	C0005818	Platelet-type bleeding disorder 15	ClinVar,DisGeNet	
+ITGB3	C0006142	Breast-ovarian cancer, familial 1	DisGeNet	
+ITGB3	C0007131	Non-small cell lung carcinoma	DisGeNet	
+ITGB3	C0007137	Squamous cell carcinoma	DisGeNet	
+ITGB3	C0007222	Cardiovascular Diseases	DisGeNet	
+ITGB3	C0007273	Carotid Artery Diseases	DisGeNet	
+ITGB3	C0007282	Carotid Stenosis	DisGeNet	
+ITGB3	C0007766	Intracranial Aneurysm	DisGeNet	
+ITGB3	C0007786	Brain Ischemia	DisGeNet	
+ITGB3	C0007787	Transient ischemic attack	DisGeNet	
+ITGB3	C0007789	Cerebral palsy, spastic quadriplegic, 3	DisGeNet	
+ITGB3	C0007820	 Cerebrovascular disease, occlusive (3)	DisGeNet	
+ITGB3	C0008074	Child Development Disorders, Pervasive	DisGeNet	
+ITGB3	C0008479	Chondrosarcoma	DisGeNet	
+ITGB3	C0008495	Chorioamnionitis	DisGeNet	
+ITGB3	C0008924	Cleft Lip	DisGeNet	
+ITGB3	C0009402	Colorectal cancer 1	DisGeNet	
+ITGB3	C0009404	Colorectal Neoplasms	DisGeNet	
+ITGB3	C0009450	Verotoxigenic Escherichia coli gastrointestinal tract infection	DisGeNet	
+ITGB3	C0009676	Confusion	DisGeNet	
+ITGB3	C0009938	Bruising susceptibility	HumPhenOnt	
+ITGB3	C0010054	Coronary heart disease 7	DisGeNet	
+ITGB3	C0010072	Coronary Thrombosis	DisGeNet	
+ITGB3	C0010346	Crohn Disease	DisGeNet	
+ITGB3	C0011849	Diabetes Mellitus, Type 1	DisGeNet	
+ITGB3	C0011854	Diabetes mellitus type 1	DisGeNet	
+ITGB3	C0011860	Diabetes mellitus type 2	DisGeNet	
+ITGB3	C0011881	Diabetic Nephropathies	DisGeNet	
+ITGB3	C0011884	Diabetic Retinopathy	DisGeNet	
+ITGB3	C0014121	Bacterial endocarditis	DisGeNet	
+ITGB3	C0014175	Endometriosis	DisGeNet	
+ITGB3	C0014591	Epistaxis	DisGeNet,HumPhenOnt	
+ITGB3	C0015943	Fetal Membranes, Premature Rupture	DisGeNet	
+ITGB3	C0015967	Malignant hyperthermia susceptibility type 5	DisGeNet	
+ITGB3	C0017181	Gastrointestinal hemorrhage	DisGeNet,HumPhenOnt	
+ITGB3	C0017565	Gingival bleeding	HumPhenOnt	
+ITGB3	C0017638	Glioma	DisGeNet	
+ITGB3	C0017639	Gliosis	DisGeNet	
+ITGB3	C0017658	Glomerulonephritis, Membranous	DisGeNet	
+ITGB3	C0018784	Sensorineural hearing impairment	DisGeNet	
+ITGB3	C0018799	Heart Diseases	DisGeNet	
+ITGB3	C0018817	Atrial septal defect	DisGeNet	
+ITGB3	C0019061	Hemolytic uremic syndrome	DisGeNet	
+ITGB3	C0019080	Bleeding with minor or no trauma	DisGeNet	
+ITGB3	C0019087	Hemorrhagic disorder due to intrinsic circulating anticoagulants	DisGeNet	
+ITGB3	C0019100	Severe Dengue	DisGeNet	
+ITGB3	C0019101	Hemorrhagic Fever with Renal Syndrome	DisGeNet	
+ITGB3	C0019196	Hepatitis C	DisGeNet	
+ITGB3	C0019693	Symptomatic human immunodeficiency virus infection	DisGeNet	
+ITGB3	C0019829	Hodgkin Disease	DisGeNet	
+ITGB3	C0020445	Familial hypercholesterolemia	DisGeNet	
+ITGB3	C0020473	Hyperlipidemia, combined, 1	DisGeNet	
+ITGB3	C0020517	Hypersensitivity	DisGeNet	
+ITGB3	C0020538	Hypertension	DisGeNet	
+ITGB3	C0021361	Female infertility	DisGeNet	
+ITGB3	C0021368	Inflammation	DisGeNet	
+ITGB3	C0021390	Inflammatory Bowel Diseases	DisGeNet	
+ITGB3	C0021775	Intermittent claudication	DisGeNet	
+ITGB3	C0022658	Kidney Diseases	DisGeNet	
+ITGB3	C0022661	Kidney Failure, Chronic	DisGeNet	
+ITGB3	C0022876	Premature Obstetric Labor	DisGeNet	
+ITGB3	C0023418	Leukemia, Lymphocytic, Chronic, B-Cell	DisGeNet	
+ITGB3	C0023473	Chronic myeloid leukemia	DisGeNet	
+ITGB3	C0024121	Lung Neoplasms	DisGeNet	
+ITGB3	C0024141	Lupus Erythematosus, Systemic	DisGeNet	
+ITGB3	C0024305	Non-Hodgkin lymphoma	DisGeNet	
+ITGB3	C0024314	Lymphoproliferative disorder	DisGeNet	
+ITGB3	C0024667	Animal Mammary Neoplasms	DisGeNet	
+ITGB3	C0024668	Mammary Neoplasms, Experimental	DisGeNet	
+ITGB3	C0025202	Melanoma	DisGeNet	
+ITGB3	C0026269	Mitral stenosis	DisGeNet	
+ITGB3	C0026633	Abnormality of the mouth	HumPhenOnt	
+ITGB3	C0026640	Neoplasm of the oral cavity	DisGeNet	
+ITGB3	C0026764	Multiple Myeloma	DisGeNet	
+ITGB3	C0027051	Myocardial Infarction	ClinVar,DisGeNet	
+ITGB3	C0027627	Secondary hypertriglyceridemia	DisGeNet	
+ITGB3	C0028754	Obesity	DisGeNet	
+ITGB3	C0029134	Optic neuritis	DisGeNet	
+ITGB3	C0030805	{Pemphigoid, susceptibility to} (2)	DisGeNet	
+ITGB3	C0030920	Peptic ulcer	DisGeNet	
+ITGB3	C0031117	Peripheral neuropathy, myopathy, hoarseness, and hearing loss	DisGeNet	
+ITGB3	C0032460	Polycystic Ovary Syndrome	DisGeNet	
+ITGB3	C0032914	Preeclampsia/eclampsia 1	DisGeNet	
+ITGB3	C0032964	Pregnancy Complications, Hematologic	DisGeNet	
+ITGB3	C0033578	Prostatic Neoplasms	DisGeNet	
+ITGB3	C0034011	Puberty and gonadal disorders	HumPhenOnt	
+ITGB3	C0034150	Purpura	DisGeNet,HumPhenOnt	
+ITGB3	C0035126	Reperfusion Injury	DisGeNet	
+ITGB3	C0035328	Thrombosis of retinal vein	DisGeNet	
+ITGB3	C0036220	Kaposi's sarcoma	DisGeNet	
+ITGB3	C0036341	Schizophrenia	DisGeNet	
+ITGB3	C0036421	Scleroderma	DisGeNet	
+ITGB3	C0037268	Abnormality of the skin	HumPhenOnt	
+ITGB3	C0038454	Stroke	DisGeNet	
+ITGB3	C0038525	Subarachnoid hemorrhage	DisGeNet	
+ITGB3	C0039263	Takayasu Arteritis	DisGeNet	
+ITGB3	C0039483	Giant cell arteritis	DisGeNet	
+ITGB3	C0040015	Glanzmann thrombasthenia	ClinVar,DisGeNet	
+ITGB3	C0040028	Essential thrombocythemia	DisGeNet	
+ITGB3	C0040034	Thrombocytopenia, platelet dysfunction, hemolysis, and imbalanced globin synthesis	DisGeNet,HumPhenOnt	
+ITGB3	C0040038	Thromboembolism	DisGeNet	
+ITGB3	C0040053	Thrombosis	DisGeNet	
+ITGB3	C0040336	Tobacco Use Disorder	DisGeNet	
+ITGB3	C0042063	Abnormality of the genitourinary system	HumPhenOnt	
+ITGB3	C0042345	Varicose Veins	DisGeNet	
+ITGB3	C0042373	Vascular Diseases	DisGeNet	
+ITGB3	C0042755	Virilism	DisGeNet	
+ITGB3	C0042974	Von Willebrand disease, recessive form	DisGeNet	
+ITGB3	C0043194	Wiskott-Aldrich syndrome, 301000 (3)	DisGeNet	
+ITGB3	C0079487	Helicobacter Infections	DisGeNet	
+ITGB3	C0079731	B-cell lymphoma	DisGeNet	
+ITGB3	C0079745	Lymphoma, Large-Cell, Follicular	DisGeNet	
+ITGB3	C0085096	Peripheral Arterial Disease	DisGeNet	
+ITGB3	C0085110	Severe combined immunodeficiency due to ADA deficiency	DisGeNet	
+ITGB3	C0085278	Primary antiphospholipid syndrome	DisGeNet	
+ITGB3	C0085298	Sudden cardiac death	DisGeNet	
+ITGB3	C0149871	Deep venous thrombosis	DisGeNet	
+ITGB3	C0149931	Migraine Disorders	DisGeNet	
+ITGB3	C0151526	Premature Birth	DisGeNet	
+ITGB3	C0151699	Intracranial hemorrhage	HumPhenOnt	
+ITGB3	C0151744	Acute myocardial ischemia	DisGeNet	
+ITGB3	C0151854	Abnormality of thrombocytes	HumPhenOnt	
+ITGB3	C0151950	Deep thrombophlebitis	DisGeNet	
+ITGB3	C0152013	Adenocarcinoma of lung	DisGeNet	
+ITGB3	C0155626	Acute myocardial infarction	DisGeNet	
+ITGB3	C0155668	Old myocardial infarction	DisGeNet	
+ITGB3	C0155733	Aortic atherosclerosis	DisGeNet	
+ITGB3	C0156404	Menstrual irregularities	HumPhenOnt	
+ITGB3	C0156543	Pregnancy loss	DisGeNet	
+ITGB3	C0162819	Vascular skin abnormality	HumPhenOnt	
+ITGB3	C0162869	Aneurysm, Ruptured	DisGeNet	
+ITGB3	C0232197	Ventricular Fibrillation Adverse Event	DisGeNet	
+ITGB3	C0241657	Abnormality of blood and blood-forming tissues	HumPhenOnt	
+ITGB3	C0242231	Coronary artery stenosis	DisGeNet	
+ITGB3	C0242339	Dyslipidemias	DisGeNet	
+ITGB3	C0242379	Malignant neoplasm of lung	DisGeNet	
+ITGB3	C0242383	Age-related macular degeneration 2	DisGeNet	
+ITGB3	C0242584	Autoimmune thrombocytopenia	DisGeNet	
+ITGB3	C0243050	Abnormality of cardiovascular system electrophysiology	HumPhenOnt	
+ITGB3	C0265736	Abnormality of the nose	HumPhenOnt	
+ITGB3	C0266015	Abnormality of the digestive system	HumPhenOnt	
+ITGB3	C0280141	Acute Undifferentiated Leukemia	DisGeNet	
+ITGB3	C0333186	Restenosis	DisGeNet	
+ITGB3	C0333285	Internal hemorrhage	HumPhenOnt	
+ITGB3	C0338656	Cognitive Dysfunction	DisGeNet	
+ITGB3	C0342257	Complications of Diabetes Mellitus	DisGeNet	
+ITGB3	C0376358	Malignant tumor of prostate	DisGeNet	
+ITGB3	C0376618	Endotoxemia	DisGeNet	
+ITGB3	C0391870	Abnormality of erythrocytes	HumPhenOnt	
+ITGB3	C0398623	Thrombophilia	DisGeNet	
+ITGB3	C0398650	Idiopathic thrombocytopenic purpura	DisGeNet	
+ITGB3	C0439590	Prolonged bleeding time	HumPhenOnt	
+ITGB3	C0441748	Autosomal recessive inheritance	HumPhenOnt	
+ITGB3	C0443147	Autosomal dominant non-syndromic sensorineural deafness type DFNA	HumPhenOnt	
+ITGB3	C0497552	Abnormality of the nervous system	HumPhenOnt	
+ITGB3	C0553692	Brain Hemorrhage, Traumatic	DisGeNet	
+ITGB3	C0580317	Abnormal platelet count	HumPhenOnt	
+ITGB3	C0585442	Osteosarcoma	DisGeNet	
+ITGB3	C0596263	Carcinogenesis	DisGeNet	
+ITGB3	C0598608	Hereditary hyperhomocysteinemia	DisGeNet	
+ITGB3	C0598766	Leukemogenesis	DisGeNet	
+ITGB3	C0598935	Tumor Initiation	DisGeNet	
+ITGB3	C0677886	Ovarian epithelial cancer	DisGeNet	
+ITGB3	C0678222	Breast carcinoma	DisGeNet	
+ITGB3	C0684249	Lung cancer	DisGeNet	
+ITGB3	C0740457	Malignant neoplasm of kidney	DisGeNet	
+ITGB3	C0741923	cardiac event	DisGeNet	
+ITGB3	C0744356	Abnormality of the genital system	HumPhenOnt	
+ITGB3	C0836924	Thrombocytosis, benign familial microcytic	DisGeNet	
+ITGB3	C0854107	Subcutaneous hemorrhage	HumPhenOnt	
+ITGB3	C0854297	Abnormality of head or neck	HumPhenOnt	
+ITGB3	C0855740	Abnormal platelet function	HumPhenOnt	
+ITGB3	C0872054	latent infection	DisGeNet	
+ITGB3	C0919267	Ovarian Neoplasms	DisGeNet	
+ITGB3	C0948008	Ischemic stroke	DisGeNet	
+ITGB3	C0948089	Acute Coronary Syndrome	DisGeNet	
+ITGB3	C1140680	BREAST-OVARIAN CANCER, FAMILIAL, SUSCEPTIBILITY TO, 4	DisGeNet	
+ITGB3	C1272641	Systemic arterial pressure	DisGeNet	
+ITGB3	C1378511	Undifferentiated leukemia	DisGeNet	
+ITGB3	C1458140	Abnormal bleeding	HumPhenOnt	
+ITGB3	C1510586	Autism spectrum disorders	DisGeNet	
+ITGB3	C1527249	Colorectal cancer	DisGeNet	
+ITGB3	C1561955	Fibrinogen Adverse Event	DisGeNet	
+ITGB3	C1857941	Spiegler-Brooke syndrome	DisGeNet	
+ITGB3	C1861172	Venous Thromboembolism	DisGeNet	
+ITGB3	C1956346	Coronary Artery Disease	DisGeNet	
+ITGB3	C2937358	Cerebral Hemorrhage	DisGeNet	
+ITGB3	C3266877	Secondary malignant neoplasm of pancreas	DisGeNet	
+ITGB3	C3272363	Ischemic Cerebrovascular Accident	DisGeNet	
+ITGB3	C3463824	Myelodysplastic syndrome	DisGeNet	
+ITGB3	C3539878	Triple Negative Breast Neoplasms	DisGeNet	
+ITGB3	C3539909	Allergic disposition	DisGeNet	
+ITGB3	C4021085	Abnormality of brain morphology	HumPhenOnt	
+ITGB3	C4021096	Abnormal genital system morphology	HumPhenOnt	
+ITGB3	C4021157	Generalized abnormality of skin	HumPhenOnt	
+ITGB3	C4021765	Morphological abnormality of the central nervous system	HumPhenOnt	
+ITGB3	C4021812	Abnormality of the head	HumPhenOnt	
+ITGB3	C4021816	Abnormality of the gingiva	HumPhenOnt	
+ITGB3	C4022001	Abnormality of the cerebral vasculature	HumPhenOnt	
+ITGB3	C4022755	Functional abnormality of the gastrointestinal tract	HumPhenOnt	
+ITGB3	C4022810	Abnormality of nervous system morphology	HumPhenOnt	
+ITGB3	C4023170	Abnormality of oral mucosa	HumPhenOnt	
+ITGB3	C4023528	Abnormality of skin morphology	HumPhenOnt	
+ITGB3	C4023585	Abnormality of blood circulation	HumPhenOnt	
+ITGB3	C4023587	Abnormality of cardiovascular system physiology	HumPhenOnt	
+ITGB3	C4023588	Abnormality of the gastrointestinal tract	HumPhenOnt	
+ITGB3	C4023820	Abnormality of the female genitalia	HumPhenOnt	
+ITGB3	C4025761	Abnormality of the integument	HumPhenOnt	
+ITGB3	C4025823	Abnormality of the endocrine system	HumPhenOnt	
+ITGB3	C4025824	Abnormal internal genitalia	HumPhenOnt	
+ITGB3	C4025871	Abnormality of the face	HumPhenOnt	
+ITGB3	C4025887	Abnormality of the oral cavity	HumPhenOnt	
+ITGB3	C4025888	Abnormality of the menstrual cycle	HumPhenOnt	
+ITGB3	C4025900	Abnormality of female internal genitalia	HumPhenOnt	
+ITGB3	C4293692	Abnormality of digestive system physiology	HumPhenOnt	

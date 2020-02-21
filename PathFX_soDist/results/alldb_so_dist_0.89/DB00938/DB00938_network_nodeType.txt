@@ -1,0 +1,32 @@
+node_name	node_type	
+DB00938	drug	
+CYP2C8	drug_target	
+ADRB1	drug_target	
+ADRB2	drug_target	
+ADRB3	drug_target	
+CYP3A4	drug_target	
+CYP3A5	drug_target	
+Hyperlipidemia, combined, 1	phenotype	
+Low Tension Glaucoma	phenotype	
+Drug Allergy	phenotype	
+Primary malignant neoplasm of liver	phenotype	
+Acute Coronary Syndrome	phenotype	
+Squamous Cell Neoplasms	phenotype	
+body mass	phenotype	
+Cocaine delirium	phenotype	
+Acute postoperative pain	phenotype	
+Nephrosclerosis	phenotype	
+Thromboembolism	phenotype	
+Acanthosis nigricans	phenotype	
+Chronic interstitial cystitis	phenotype	
+Kidney Failure, Chronic	phenotype	
+Bone necrosis	phenotype	
+Capillary hemangiomas	phenotype	
+Ventricular tachycardia, catecholaminergic polymorphic, 2	phenotype	
+Weight Loss Adverse Event	phenotype	
+Obesity, severe, 601665 (3)	phenotype	
+Fibromyalgia	phenotype	
+Ventricular fibrillation	phenotype	
+Genitourinary neoplasm	phenotype	
+Pain insensitivity	phenotype	
+Glucocorticoid resistance, generalized	phenotype	

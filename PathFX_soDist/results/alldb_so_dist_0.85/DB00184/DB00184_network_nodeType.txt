@@ -1,0 +1,37 @@
+node_name	node_type	
+DB00184	drug	
+CHAT	drug_target	
+CYP2D6	drug_target	
+MAOB	drug_target	
+CHRNB2	drug_target	
+CYP2B6	drug_target	
+CHRNB4	drug_target	
+CYP1A1	drug_target	
+CHRNA4	drug_target	
+CHRNA5	drug_target	
+CHRNA7	drug_target	
+CYP2A6	drug_target	
+CHRNA2	drug_target	
+CHRNA3	drug_target	
+CYP3A4	drug_target	
+CHRNA9	drug_target	
+CYP2C9	drug_target	
+CYP2C8	drug_target	
+CYP1A2	drug_target	
+CYP19A1	drug_target	
+CYP2E1	drug_target	
+SLC22A4	drug_target	
+SLC22A5	drug_target	
+MAOA	drug_target	
+CYP2C19	drug_target	
+SLC22A1	drug_target	
+SLC22A2	drug_target	
+SLC22A3	drug_target	
+Nicotine Dependence	phenotype	
+Pleural Neoplasms	phenotype	
+SUDDEN INFANT DEATH SYNDROME	phenotype	
+Neoplasm of the larynx	phenotype	
+Genomic Instability	phenotype	
+Pharyngeal Neoplasms	phenotype	
+Nausea	phenotype	
+Substance Withdrawal Syndrome	phenotype	

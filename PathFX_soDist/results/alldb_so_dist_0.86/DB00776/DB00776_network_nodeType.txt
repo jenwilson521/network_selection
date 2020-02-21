@@ -1,0 +1,21 @@
+node_name	node_type	
+DB00776	drug	
+SCN5A	drug_target	
+ALB	drug_target	
+ABCB1	drug_target	
+CYP2C19	drug_target	
+CYP3A4	drug_target	
+CYP3A5	drug_target	
+UGT1A1	drug_target	
+Febrile Neutropenia	phenotype	
+Drug Allergy	phenotype	
+Hepatitis D Infection	phenotype	
+Hyperbilirubinemia	phenotype	
+Primary malignant neoplasm of liver	phenotype	
+Cholelithiasis	phenotype	
+Leukopenia	phenotype	
+Neutropenia	phenotype	
+Anemia, Sickle Cell	phenotype	
+Hearing Loss, Partial	phenotype	
+Diarrhea 8, secretory sodium, congenital	phenotype	
+Neurotoxicity Syndromes	phenotype	

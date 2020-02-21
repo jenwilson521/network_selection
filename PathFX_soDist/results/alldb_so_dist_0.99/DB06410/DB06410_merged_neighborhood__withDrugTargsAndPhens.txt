@@ -1,0 +1,4 @@
+node1	node2	edge_score	
+DB06410	CYP27A1	1.0	
+DB06410	VDR	1.0	
+

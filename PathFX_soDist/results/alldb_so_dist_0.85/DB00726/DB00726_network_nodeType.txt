@@ -1,0 +1,103 @@
+node_name	node_type	
+DB00726	drug	
+CYP2C9	drug_target	
+SLC6A3	drug_target	
+ADRA1B	drug_target	
+CYP2D6	drug_target	
+SLC6A2	drug_target	
+ADRA1A	drug_target	
+SLC6A4	drug_target	
+DRD2	drug_target	
+ADRA2A	drug_target	
+ADRA2B	drug_target	
+ABCB1	drug_target	
+CYP2C19	drug_target	
+HTR2C	drug_target	
+HRH1	drug_target	
+HTR1D	drug_target	
+HTR2A	drug_target	
+CYP3A4	drug_target	
+HTR1A	drug_target	
+HTR3A	drug_target	
+Heroin Dependence	phenotype	
+As If Personality	phenotype	
+Chronic schizophrenia	phenotype	
+Nausea	phenotype	
+Methamphetamine abuse	phenotype	
+Bulimia	phenotype	
+Dyskinesia, Drug-Induced	phenotype	
+Depressive Symptoms	phenotype	
+Tourette Syndrome	phenotype	
+Acute postoperative pain	phenotype	
+Cocaine Dependence	phenotype	
+Substance Withdrawal Syndrome	phenotype	
+Personality disorder	phenotype	
+Bulimia nervosa 1	phenotype	
+Low back pain	phenotype	
+Chronic sciatica	phenotype	
+Tardive Dyskinesia	phenotype	
+Weight Gain Adverse Event	phenotype	
+Behavior Disorders	phenotype	
+Drug usage	phenotype	
+Osteochondritis dissecans	phenotype	
+Orofacial dyskinesia	phenotype	
+Substance Use Disorders	phenotype	
+Eating disorder	phenotype	
+Anxiety Disorders	phenotype	
+Anorexia nervosa 1	phenotype	
+Antisocial Personality Disorder	phenotype	
+Gastroparesis	phenotype	
+Obsessive-compulsive disorder	phenotype	
+Acute disease of cardiovascular system	phenotype	
+Neurotoxicity Syndromes	phenotype	
+Opiate Addiction	phenotype	
+Bipolar I disorder	phenotype	
+Psychoses, Substance-Induced	phenotype	
+Alcohol abuse	phenotype	
+Primary malignant neoplasm of liver	phenotype	
+Chronic Fatigue Syndrome	phenotype	
+MAJOR AFFECTIVE DISORDER 4	phenotype	
+MAJOR AFFECTIVE DISORDER 5	phenotype	
+MAJOR AFFECTIVE DISORDER 6	phenotype	
+Major affective disorder 7	phenotype	
+MAJOR AFFECTIVE DISORDER 8	phenotype	
+MAJOR AFFECTIVE DISORDER 9	phenotype	
+Unipolar Depression	phenotype	
+Generalized anxiety disorder	phenotype	
+Drug Allergy	phenotype	
+Schizoaffective Disorder	phenotype	
+Major depressive disorder	phenotype	
+Panic disorder syndrome 1 (2)	phenotype	
+Gastrointestinal Diseases	phenotype	
+Dyspepsia	phenotype	
+Memory Disorders	phenotype	
+Seasonal Affective Disorder	phenotype	
+ {Nicotine dependence, protection against}, 188890 (3)	phenotype	
+CNS symptom	phenotype	
+Obstructive sleep apnea	phenotype	
+Marijuana Abuse	phenotype	
+Dyskinesia, seizures, and intellectual developmental disorder	phenotype	
+Drug Dependence	phenotype	
+NEUROTICISM	phenotype	
+SUDDEN INFANT DEATH SYNDROME	phenotype	
+Mood Disorders	phenotype	
+Antisocial/borderline personality disorder	phenotype	
+Substance abuse problem	phenotype	
+Weight Loss Adverse Event	phenotype	
+Migraine with aura	phenotype	
+Ichthyosis bullosa of Siemens	phenotype	
+Fibromyalgia	phenotype	
+Nicotine Dependence	phenotype	
+Polydipsia	phenotype	
+Recurrent major depressive episodes	phenotype	
+Substance addiction and disorders	phenotype	
+Prenatal Exposure Delayed Effects	phenotype	
+Pain insensitivity	phenotype	
+Amphetamine-Related Disorders	phenotype	
+Depressive Disorder	phenotype	
+{Unipolar depression, susceptibility to}, 608516 (3)	phenotype	
+Substance-Related Disorders	phenotype	
+Borderline Personality Disorder	phenotype	
+Alcohol withdrawal syndrome	phenotype	
+Mental disorders	phenotype	
+Abnormality of the basal ganglia	phenotype	

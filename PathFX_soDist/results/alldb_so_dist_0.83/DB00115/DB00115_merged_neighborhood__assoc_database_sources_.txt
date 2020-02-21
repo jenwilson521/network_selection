@@ -1,0 +1,320 @@
+Gene	CUI	Source Databases	
+ABCC1	C0041755	Adverse drug events and drug allergies	DisGeNet	
+MTHFR	C0041755	Adverse drug events and drug allergies	DisGeNet	
+MTR	C0041755	Adverse drug events and drug allergies	DisGeNet	
+MTRR	C0041755	Adverse drug events and drug allergies	DisGeNet	
+MTHFR	C4021660	Abnormality of sulfur amino acid metabolism	HumPhenOnt	
+MTR	C4021660	Abnormality of sulfur amino acid metabolism	HumPhenOnt	
+MTRR	C4021660	Abnormality of sulfur amino acid metabolism	HumPhenOnt	
+MTHFR	C0031485	Phenylketonuria	DisGeNet	
+MTR	C0031485	Phenylketonuria	DisGeNet	
+MTRR	C0031485	Phenylketonuria	DisGeNet	
+MTHFR	C0019880	Homocystinuria due to CBS deficiency	DisGeNet,HumPhenOnt	
+MTR	C0019880	Homocystinuria due to CBS deficiency	DisGeNet,HumPhenOnt	
+MTRR	C0019880	Homocystinuria due to CBS deficiency	ClinVar,DisGeNet,HumPhenOnt	
+MTHFR	C0002888	Megaloblastic anemia, thiamine-responsive, with diabetes mellitus and sensorineural deafness	DisGeNet	
+MTR	C0002888	Megaloblastic anemia, thiamine-responsive, with diabetes mellitus and sensorineural deafness	HumPhenOnt	
+MTRR	C0002888	Megaloblastic anemia, thiamine-responsive, with diabetes mellitus and sensorineural deafness	DisGeNet,HumPhenOnt	
+MTHFR	C0016412	Folic Acid Deficiency	DisGeNet	
+MTR	C0016412	Folic Acid Deficiency	DisGeNet	
+MTRR	C0016412	Folic Acid Deficiency	DisGeNet	
+MTHFR	C0340708	Deep vein thrombosis of lower limb	DisGeNet	
+MTR	C0340708	Deep vein thrombosis of lower limb	DisGeNet	
+MTRR	C0340708	Deep vein thrombosis of lower limb	DisGeNet	
+MTHFR	C0151950	Deep thrombophlebitis	DisGeNet	
+MTR	C0151950	Deep thrombophlebitis	DisGeNet	
+MTRR	C0151950	Deep thrombophlebitis	DisGeNet	
+MTHFR	C0600518	Choroidal Neovascularization	DisGeNet	
+MTR	C0600518	Choroidal Neovascularization	DisGeNet	
+MTRR	C0600518	Choroidal Neovascularization	DisGeNet	
+MTHFR	C0162316	Iron deficiency anemia	DisGeNet	
+MTR	C0162316	Iron deficiency anemia	DisGeNet	
+MTRR	C0162316	Iron deficiency anemia	DisGeNet	
+MTHFR	C0025284	Meningeal Neoplasms	DisGeNet	
+MTR	C0025284	Meningeal Neoplasms	DisGeNet	
+MTRR	C0025284	Meningeal Neoplasms	DisGeNet	
+MTHFR	C0741916	Cardiac defects	DisGeNet	
+MTR	C0741916	Cardiac defects	DisGeNet	
+MTRR	C0741916	Cardiac defects	DisGeNet	
+MTHFR	C0750974	Brain Tumor, Primary	DisGeNet	
+MTR	C0750974	Brain Tumor, Primary	DisGeNet	
+MTRR	C0750974	Brain Tumor, Primary	DisGeNet	
+MTHFR	C1332977	Childhood Leukemia	DisGeNet	
+MTR	C1332977	Childhood Leukemia	DisGeNet	
+MTRR	C1332977	Childhood Leukemia	DisGeNet	
+LRP2	C0795690	Omphalocele	HumPhenOnt	
+MTHFR	C0795690	Omphalocele	DisGeNet	
+MTRR	C0795690	Omphalocele	DisGeNet	
+MTHFR	C0033941	Psychoses, Substance-Induced	DisGeNet	
+MTR	C0033941	Psychoses, Substance-Induced	DisGeNet	
+MTRR	C0033941	Psychoses, Substance-Induced	DisGeNet	
+MTHFR	C3495426	Homocysteinemia due to MTHFR deficiency	ClinVar,DisGeNet	
+MTR	C3495426	Homocysteinemia due to MTHFR deficiency	DisGeNet	
+MTRR	C3495426	Homocysteinemia due to MTHFR deficiency	DisGeNet	
+MTHFR	C0154723	Migraine with aura	DisGeNet	
+MTR	C0154723	Migraine with aura	DisGeNet	
+MTRR	C0154723	Migraine with aura	DisGeNet	
+MTHFR	C0013182	Drug Allergy	DisGeNet	
+MTR	C0013182	Drug Allergy	DisGeNet	
+MTRR	C0013182	Drug Allergy	DisGeNet	
+MTHFR	C0011303	Demyelinating Diseases	DisGeNet	
+MTR	C0011303	Demyelinating Diseases	DisGeNet	
+MTRR	C0011303	Demyelinating Diseases	DisGeNet	
+MTHFR	C0152021	Congenital heart disease	DisGeNet	
+MTR	C0152021	Congenital heart disease	DisGeNet	
+MTRR	C0152021	Congenital heart disease	DisGeNet	
+MTHFR	C0024809	Marijuana Abuse	DisGeNet	
+MTR	C0024809	Marijuana Abuse	DisGeNet	
+MTRR	C0024809	Marijuana Abuse	DisGeNet	
+MTR	C0032051	Placental Insufficiency	DisGeNet	
+MTRR	C0032051	Placental Insufficiency	DisGeNet	
+MTHFR	C0751606	Adult Acute Lymphocytic Leukemia	DisGeNet	
+MTR	C0751606	Adult Acute Lymphocytic Leukemia	DisGeNet	
+MTRR	C0751606	Adult Acute Lymphocytic Leukemia	DisGeNet	
+MTHFR	C0149871	Deep venous thrombosis	DisGeNet	
+MTR	C0149871	Deep venous thrombosis	DisGeNet	
+MTRR	C0149871	Deep venous thrombosis	DisGeNet	
+MTHFR	C0598608	Hereditary hyperhomocysteinemia	DisGeNet	
+MTR	C0598608	Hereditary hyperhomocysteinemia	DisGeNet	
+MTRR	C0598608	Hereditary hyperhomocysteinemia	DisGeNet	
+MTHFR	C0268138	Xeroderma Pigmentosum, Complementation Group D	DisGeNet	
+MTRR	C0268138	Xeroderma Pigmentosum, Complementation Group D	DisGeNet	
+MTR	C4025653	Abnormality of serum amino acid levels	HumPhenOnt	
+MTRR	C4025653	Abnormality of serum amino acid levels	HumPhenOnt	
+MTHFR	C0040038	Thromboembolism	DisGeNet	
+MTR	C0040038	Thromboembolism	DisGeNet	
+MTRR	C0040038	Thromboembolism	DisGeNet	
+MTHFR	C0238621	Aminoaciduria	HumPhenOnt	
+MTR	C0238621	Aminoaciduria	HumPhenOnt	
+MTRR	C0238621	Aminoaciduria	HumPhenOnt	
+ABCC1	C0079772	T-cell lymphoma	DisGeNet	
+MTHFR	C0079772	T-cell lymphoma	DisGeNet	
+MTR	C0079772	T-cell lymphoma	DisGeNet	
+MTRR	C0079772	T-cell lymphoma	DisGeNet	
+MTHFR	C0162309	Adrenoleukodystrophy	DisGeNet	
+MTR	C0162309	Adrenoleukodystrophy	DisGeNet	
+MTRR	C0162309	Adrenoleukodystrophy	DisGeNet	
+MTHFR	C0042487	Venous thrombosis	DisGeNet	
+MTR	C0042487	Venous thrombosis	DisGeNet	
+MTRR	C0042487	Venous thrombosis	DisGeNet	
+MTHFR	C0280803	Primary central nervous system lymphoma	DisGeNet	
+MTR	C0280803	Primary central nervous system lymphoma	DisGeNet	
+ABCC1	C0018671	Head and Neck Neoplasms	DisGeNet	
+MTHFR	C0018671	Head and Neck Neoplasms	DisGeNet	
+MTR	C0018671	Head and Neck Neoplasms	DisGeNet	
+MTRR	C0018671	Head and Neck Neoplasms	DisGeNet	
+MTHFR	C0028960	Oligospermia	DisGeNet	
+MTR	C0028960	Oligospermia	DisGeNet	
+MTRR	C0028960	Oligospermia	DisGeNet	
+MTR	C0002886	Macrocytic anemia	HumPhenOnt	
+MTRR	C0002886	Macrocytic anemia	HumPhenOnt	
+LRP2	C0456909	Blindness	HumPhenOnt	
+MTHFR	C0456909	Blindness	DisGeNet	
+MTR	C0456909	Blindness	HumPhenOnt	
+MTRR	C0456909	Blindness	HumPhenOnt	
+MTHFR	C0349459	Cervical intraepithelial neoplasia grade 2	DisGeNet	
+MTR	C0349459	Cervical intraepithelial neoplasia grade 2	DisGeNet	
+LRP2	C0018816	Ventricular septal defect 2	HumPhenOnt	
+MTHFR	C0018816	Ventricular septal defect 2	DisGeNet	
+MTR	C0018816	Ventricular septal defect 2	DisGeNet	
+MTRR	C0018816	Ventricular septal defect 2	DisGeNet	
+MTHFR	C1328440	Abnormality of amino acid metabolism	HumPhenOnt	
+MTR	C1328440	Abnormality of amino acid metabolism	HumPhenOnt	
+MTRR	C1328440	Abnormality of amino acid metabolism	HumPhenOnt	
+ABCC1	C0010823	Cytomegalovirus Infections	DisGeNet	
+LRP2	C0010823	Cytomegalovirus Infections	DisGeNet	
+MTHFR	C0010823	Cytomegalovirus Infections	DisGeNet	
+MTHFR	C0158646	Cleft palate with cleft lip	DisGeNet	
+MTR	C0158646	Cleft palate with cleft lip	DisGeNet	
+MTHFR	C0079745	Lymphoma, Large-Cell, Follicular	DisGeNet	
+MTR	C0079745	Lymphoma, Large-Cell, Follicular	DisGeNet	
+MTRR	C0079745	Lymphoma, Large-Cell, Follicular	DisGeNet	
+MTR	C4022036	Abnormality of vitamin metabolism	HumPhenOnt	
+MTRR	C4022036	Abnormality of vitamin metabolism	HumPhenOnt	
+ABCC1	C0023452	Leukemia, Lymphocytic, Acute, L1	DisGeNet	
+MTHFR	C0023452	Leukemia, Lymphocytic, Acute, L1	DisGeNet	
+MTR	C0023452	Leukemia, Lymphocytic, Acute, L1	DisGeNet	
+MTRR	C0023452	Leukemia, Lymphocytic, Acute, L1	DisGeNet	
+MTHFR	C0278026	3-Methylglutaconic aciduria	HumPhenOnt	
+MTR	C0278026	3-Methylglutaconic aciduria	HumPhenOnt	
+MTRR	C0278026	3-Methylglutaconic aciduria	HumPhenOnt	
+MTHFR	C0162871	Aortic Aneurysm, Abdominal	DisGeNet	
+MTR	C0162871	Aortic Aneurysm, Abdominal	DisGeNet	
+MTRR	C0162871	Aortic Aneurysm, Abdominal	DisGeNet	
+LRP2	C4025655	Abnormality of urine homeostasis	HumPhenOnt	
+MTHFR	C4025655	Abnormality of urine homeostasis	HumPhenOnt	
+MTR	C4025655	Abnormality of urine homeostasis	HumPhenOnt	
+MTRR	C4025655	Abnormality of urine homeostasis	HumPhenOnt	
+MTHFR	C0027794	Neural tube defect	ClinVar,DisGeNet	
+MTR	C0027794	Neural tube defect	ClinVar,DisGeNet	
+MTRR	C0027794	Neural tube defect	ClinVar,DisGeNet	
+MTHFR	C4025344	Abnormality of carboxylic acid metabolism	HumPhenOnt	
+MTR	C4025344	Abnormality of carboxylic acid metabolism	HumPhenOnt	
+MTRR	C4025344	Abnormality of carboxylic acid metabolism	HumPhenOnt	
+MTHFR	C0520966	Incoordination	HumPhenOnt	
+MTR	C0520966	Incoordination	HumPhenOnt	
+MTHFR	C0206708	Cervical intraepithelial neoplasia (Cervical dysplasia)	DisGeNet	
+MTR	C0206708	Cervical intraepithelial neoplasia (Cervical dysplasia)	DisGeNet	
+MTRR	C0206708	Cervical intraepithelial neoplasia (Cervical dysplasia)	DisGeNet	
+ABCC1	C0206677	Adenomatous Polyps	DisGeNet	
+MTHFR	C0206677	Adenomatous Polyps	DisGeNet	
+MTHFR	C0007820	 Cerebrovascular disease, occlusive (3)	DisGeNet	
+MTRR	C0007820	 Cerebrovascular disease, occlusive (3)	DisGeNet	
+ABCC1	C0278704	Malignant Childhood Neoplasm	DisGeNet	
+MTR	C0278704	Malignant Childhood Neoplasm	DisGeNet	
+MTHFR	C0080178	Spina bifida	DisGeNet	
+MTR	C0080178	Spina bifida	DisGeNet	
+MTRR	C0080178	Spina bifida	DisGeNet	
+MTHFR	C0008625	Chromosome Aberrations	DisGeNet	
+MTR	C0008625	Chromosome Aberrations	DisGeNet	
+MTHFR	C0242231	Coronary artery stenosis	DisGeNet	
+MTR	C0242231	Coronary artery stenosis	DisGeNet	
+MTHFR	C0017178	Gastrointestinal Diseases	DisGeNet	
+MTR	C0017178	Gastrointestinal Diseases	DisGeNet	
+ABCC1	C0221287	Combined Hepatocellular Carcinoma and Cholangiocarcinoma	DisGeNet	
+MTHFR	C0221287	Combined Hepatocellular Carcinoma and Cholangiocarcinoma	DisGeNet	
+MTR	C0221287	Combined Hepatocellular Carcinoma and Cholangiocarcinoma	DisGeNet	
+MTRR	C0221287	Combined Hepatocellular Carcinoma and Cholangiocarcinoma	DisGeNet	
+LRP2	C0017665	Membranous nephropathy, susceptibility to	DisGeNet	
+MTHFR	C0017665	Membranous nephropathy, susceptibility to	DisGeNet	
+ABCC1	C0027947	Neutropenia	DisGeNet	
+MTHFR	C0027947	Neutropenia	DisGeNet	
+MTR	C0027947	Neutropenia	DisGeNet	
+MTHFR	C1302401	Adenoma of large intestine	DisGeNet	
+MTR	C1302401	Adenoma of large intestine	DisGeNet	
+MTRR	C1302401	Adenoma of large intestine	DisGeNet	
+MTHFR	C0005967	Bone neoplasms	DisGeNet	
+MTR	C0005967	Bone neoplasms	DisGeNet	
+MTHFR	C0012860	DNA Damage	DisGeNet	
+MTR	C0012860	DNA Damage	DisGeNet	
+MTHFR	C0004509	Azoospermia	DisGeNet	
+MTR	C0004509	Azoospermia	DisGeNet	
+MTRR	C0004509	Azoospermia	DisGeNet	
+ABCC1	C0262587	Parathyroid adenoma	DisGeNet	
+LRP2	C0262587	Parathyroid adenoma	DisGeNet	
+MTHFR	C0518010	body mass	DisGeNet	
+MTR	C0518010	body mass	DisGeNet	
+ABCC1	C0023891	Liver Cirrhosis, Alcoholic	DisGeNet	
+MTHFR	C0023891	Liver Cirrhosis, Alcoholic	DisGeNet	
+MTHFR	C0221198	NOONAN-LIKE/MULTIPLE GIANT CELL LESION SYNDROME (disorder)	DisGeNet	
+MTR	C0221198	NOONAN-LIKE/MULTIPLE GIANT CELL LESION SYNDROME (disorder)	DisGeNet	
+LRP2	C0020473	Hyperlipidemia, combined, 1	DisGeNet	
+MTHFR	C0020473	Hyperlipidemia, combined, 1	DisGeNet	
+MTR	C0020473	Hyperlipidemia, combined, 1	DisGeNet	
+LRP2	C0003125	Anorexia nervosa 1	DisGeNet	
+MTR	C0003125	Anorexia nervosa 1	DisGeNet	
+MTR	C0678199	Anemia of inadequate production	HumPhenOnt	
+MTRR	C0678199	Anemia of inadequate production	HumPhenOnt	
+ABCC1	C0023530	Leukopenia	DisGeNet	
+MTHFR	C0023530	Leukopenia	DisGeNet	
+MTR	C0023530	Leukopenia	DisGeNet	
+MTHFR	C0021364	Male infertility	DisGeNet	
+MTR	C0021364	Male infertility	DisGeNet	
+MTRR	C0021364	Male infertility	DisGeNet	
+MTHFR	C0007766	Intracranial Aneurysm	DisGeNet	
+MTR	C0007766	Intracranial Aneurysm	DisGeNet	
+ABCC1	C0345904	Hepatic cancer metastatic	DisGeNet	
+MTHFR	C0345904	Hepatic cancer metastatic	DisGeNet	
+MTR	C0345904	Hepatic cancer metastatic	DisGeNet	
+MTRR	C0345904	Hepatic cancer metastatic	DisGeNet	
+MTHFR	C0270612	Leukoencephalopathy with Brainstem and Spinal Cord Involvement and Lactate Elevation	DisGeNet	
+MTR	C0270612	Leukoencephalopathy with Brainstem and Spinal Cord Involvement and Lactate Elevation	DisGeNet	
+MTHFR	C0020179	Huntington's chorea	DisGeNet	
+MTR	C0020179	Huntington's chorea	DisGeNet	
+MTRR	C0020179	Huntington's chorea	DisGeNet	
+MTHFR	C0162429	Malnutrition	DisGeNet	
+MTR	C0162429	Malnutrition	DisGeNet	
+ABCC1	C0149925	Small cell lung cancer	DisGeNet	
+MTHFR	C0149925	Small cell lung cancer	DisGeNet	
+MTR	C0149925	Small cell lung cancer	DisGeNet	
+MTRR	C0149925	Small cell lung cancer	DisGeNet	
+MTHFR	C0149931	Migraine Disorders	DisGeNet	
+MTR	C0149931	Migraine Disorders	DisGeNet	
+MTRR	C0149931	Migraine Disorders	DisGeNet	
+MTHFR	C3272363	Ischemic Cerebrovascular Accident	DisGeNet	
+MTR	C3272363	Ischemic Cerebrovascular Accident	DisGeNet	
+MTRR	C3272363	Ischemic Cerebrovascular Accident	DisGeNet	
+ABCC1	C0546837	Malignant tumor of esophagus	DisGeNet	
+MTHFR	C0546837	Malignant tumor of esophagus	DisGeNet	
+MTR	C0546837	Malignant tumor of esophagus	DisGeNet	
+MTRR	C0546837	Malignant tumor of esophagus	DisGeNet	
+ABCC1	C0238198	Gastrointestinal stromal tumor	DisGeNet	
+MTHFR	C0238198	Gastrointestinal stromal tumor	DisGeNet	
+MTRR	C0238198	Gastrointestinal stromal tumor	DisGeNet	
+MTHFR	C0039483	Giant cell arteritis	DisGeNet	
+MTRR	C0039483	Giant cell arteritis	DisGeNet	
+LRP2	C4023437	Abnormality of the urinary system physiology	HumPhenOnt	
+MTHFR	C4023437	Abnormality of the urinary system physiology	HumPhenOnt	
+MTR	C4023437	Abnormality of the urinary system physiology	HumPhenOnt	
+MTRR	C4023437	Abnormality of the urinary system physiology	HumPhenOnt	
+MTHFR	C0008924	Cleft Lip	DisGeNet	
+MTR	C0008924	Cleft Lip	DisGeNet	
+MTRR	C0008924	Cleft Lip	DisGeNet	
+MTHFR	C0032962	Pregnancy Complications	DisGeNet	
+MTRR	C0032962	Pregnancy Complications	DisGeNet	
+ABCC1	C0006118	Brain neoplasm	DisGeNet	
+MTHFR	C0006118	Brain neoplasm	DisGeNet	
+MTR	C0006118	Brain neoplasm	DisGeNet	
+MTRR	C0006118	Brain neoplasm	DisGeNet	
+ABCC1	C0014544	Epilepsy	DisGeNet	
+MTHFR	C0014544	Epilepsy	DisGeNet	
+MTR	C0014544	Epilepsy	DisGeNet	
+MTRR	C0014544	Epilepsy	DisGeNet	
+LRP2	C0018784	Sensorineural hearing impairment	DisGeNet,HumPhenOnt	
+MTHFR	C0018784	Sensorineural hearing impairment	DisGeNet	
+MTR	C0018784	Sensorineural hearing impairment	DisGeNet	
+MTRR	C0018784	Sensorineural hearing impairment	DisGeNet	
+LRP2	C0000768	EMG: myopathic abnormalities	DisGeNet	
+MTHFR	C0000768	EMG: myopathic abnormalities	DisGeNet	
+MTR	C0000768	EMG: myopathic abnormalities	DisGeNet	
+MTRR	C0000768	EMG: myopathic abnormalities	DisGeNet	
+MTHFR	C0002949	Arterial dissection	DisGeNet	
+MTHFR	C0011609	Drug Eruptions	DisGeNet	
+MTHFR	C0024620	Primary malignant neoplasm of liver	DisGeNet	
+MTR	C0035450	Rheumatoid Nodule	DisGeNet	
+MTHFR	C1270972	Mild cognitive impairment	DisGeNet	
+MTR	C1270972	Mild cognitive impairment	DisGeNet	
+MTHFR	C0017606	Primary angle-closure glaucoma	DisGeNet	
+MTHFR	C0032229	Pleural Neoplasms	DisGeNet	
+MTHFR	C0034372	Tetraplegia	DisGeNet	
+MTHFR	C0154409	Recurrent major depressive episodes	DisGeNet	
+MTHFR	C0162869	Aneurysm, Ruptured	DisGeNet	
+ABCC1	C0278519	recurrent childhood acute lymphoblastic leukemia	DisGeNet	
+MTHFR	C0311370	Lupus anticoagulant disorder	DisGeNet	
+MTHFR	C1861171	Thrombophilia due to activated protein C resistance	DisGeNet	
+MTHFR	C0018939	Hematological Disease	DisGeNet	
+MTR	C0018939	Hematological Disease	DisGeNet	
+MTHFR	C0032914	Preeclampsia/eclampsia 1	DisGeNet	
+MTR	C0032914	Preeclampsia/eclampsia 1	DisGeNet	
+MTRR	C0032914	Preeclampsia/eclampsia 1	DisGeNet	
+MTHFR	C0007621	Neoplastic Cell Transformation	DisGeNet	
+MTR	C0007621	Neoplastic Cell Transformation	DisGeNet	
+MTHFR	C0085136	Neoplasm of the central nervous system	DisGeNet	
+MTR	C0085136	Neoplasm of the central nervous system	DisGeNet	
+MTHFR	C0007868	Cervical dysplasia	DisGeNet	
+MTHFR	C0015934	Intrauterine growth retardation	DisGeNet	
+MTR	C0015934	Intrauterine growth retardation	DisGeNet	
+MTRR	C0015934	Intrauterine growth retardation	DisGeNet	
+ABCC1	C0020538	Hypertension	DisGeNet	
+CLCN6	C0020538	Hypertension	DisGeNet	
+LRP2	C0020538	Hypertension	DisGeNet	
+MTHFR	C0020538	Hypertension	DisGeNet,PheGenI	
+MTR	C0020538	Hypertension	DisGeNet	
+MTRR	C0020538	Hypertension	DisGeNet	
+MTHFR	C0035328	Thrombosis of retinal vein	DisGeNet	
+MTHFR	C0040156	Thyrotoxicosis	DisGeNet	
+CLCN6	C0018772	Hearing Loss, Partial	DisGeNet	
+MTHFR	C0018772	Hearing Loss, Partial	DisGeNet	
+MTHFR	C0014836	Recurrent E. coli infections	DisGeNet	
+MTHFR	C0015814	Femur Head Necrosis	DisGeNet	
+MTHFR	C0155668	Old myocardial infarction	DisGeNet	
+MTHFR	C0339467	Proliferative retinopathy	DisGeNet	
+MTHFR	C1962972	Proteinuria Adverse Event	DisGeNet	
+MTHFR	C0024301	Lymphoma, Follicular	DisGeNet	
+MTR	C0024301	Lymphoma, Follicular	DisGeNet	
+MTRR	C0024301	Lymphoma, Follicular	DisGeNet	
+MTHFR	C0025517	Disorders of Intracellular Cobalamin Metabolism	DisGeNet	
+MTR	C0025517	Disorders of Intracellular Cobalamin Metabolism	ClinVar,DisGeNet	
+MTRR	C0025517	Disorders of Intracellular Cobalamin Metabolism	ClinVar,DisGeNet	
+MTHFR	C0242666	Protein S deficiency	DisGeNet	
+LRP2	C0344539	Hypoplasia of the iris	HumPhenOnt	

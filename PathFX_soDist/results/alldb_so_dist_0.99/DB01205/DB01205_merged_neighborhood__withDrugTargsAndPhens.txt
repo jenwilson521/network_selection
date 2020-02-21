@@ -1,0 +1,4 @@
+node1	node2	edge_score	
+DB01205	GABRG2	1.0	
+DB01205	GABRA1	1.0	
+

@@ -1,0 +1,32 @@
+node_name	node_type	
+DB00564	drug	
+CYP2C9	drug_target	
+CYP2C8	drug_target	
+CYP1A2	drug_target	
+SCN5A	drug_target	
+RALBP1	drug_target	
+UGT2B7	drug_target	
+CHRNB2	drug_target	
+CYP2B6	drug_target	
+CHRNA4	drug_target	
+NR1I2	drug_target	
+ABCB1	drug_target	
+CYP2C19	drug_target	
+SERPINA7	drug_target	
+CYP3A4	drug_target	
+CYP3A5	drug_target	
+UGT1A1	drug_target	
+ABCC2	drug_target	
+Drug Allergy	phenotype	
+Hyperbilirubinemia	phenotype	
+Febrile Neutropenia	phenotype	
+Hepatitis D Infection	phenotype	
+Leukopenia	phenotype	
+Nausea	phenotype	
+Neutropenia	phenotype	
+Adverse drug events and drug allergies	phenotype	
+Primary malignant neoplasm of liver	phenotype	
+Drug-Induced Liver Injury	phenotype	
+Diarrhea 8, secretory sodium, congenital	phenotype	
+Pain insensitivity	phenotype	
+Epilepsy, focal, with speech disorder and with or without mental retardation	phenotype	

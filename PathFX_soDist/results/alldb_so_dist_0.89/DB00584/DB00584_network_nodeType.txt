@@ -1,0 +1,22 @@
+node_name	node_type	
+DB00584	drug	
+ACE	drug_target	
+ALB	drug_target	
+ABCB1	drug_target	
+SLC22A6	drug_target	
+SLCO1A2	drug_target	
+CYP3A4	drug_target	
+SLC22A8	drug_target	
+Femur Head Necrosis	phenotype	
+Acute postoperative pain	phenotype	
+Nephrotic Syndrome, Minimal Change	phenotype	
+Bone necrosis	phenotype	
+Primary malignant neoplasm of liver	phenotype	
+Malignant neoplasm of adrenal cortex	phenotype	
+Esophageal varix	phenotype	
+Steroid-sensitive nephrotic syndrome	phenotype	
+Drug Allergy	phenotype	
+Recurrent E. coli infections	phenotype	
+Chromosomal translocation	phenotype	
+Proliferative retinopathy	phenotype	
+Acute kidney injury	phenotype	

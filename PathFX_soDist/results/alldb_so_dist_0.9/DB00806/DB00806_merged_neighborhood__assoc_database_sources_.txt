@@ -1,0 +1,14 @@
+Gene	CUI	Source Databases	
+ADORA1	C0041755	Adverse drug events and drug allergies	DisGeNet	
+ADORA2A	C0041755	Adverse drug events and drug allergies	DisGeNet	
+CYP1A2	C0041755	Adverse drug events and drug allergies	DisGeNet	
+ADORA2A	C0686347	Tardive Dyskinesia	DisGeNet	
+CYP1A2	C0686347	Tardive Dyskinesia	DisGeNet	
+PDE4B	C0686347	Tardive Dyskinesia	DisGeNet	
+ADORA2A	C0152115	Orofacial dyskinesia	DisGeNet	
+CYP1A2	C0152115	Orofacial dyskinesia	DisGeNet	
+PDE4B	C0152115	Orofacial dyskinesia	DisGeNet	
+CYP1A2	C0013386	Dyskinesia, Drug-Induced	DisGeNet	
+PDE4B	C0013386	Dyskinesia, Drug-Induced	DisGeNet	
+ADORA1	C0242973	Ventricular Dysfunction, Right	DisGeNet	
+ADORA2A	C0242973	Ventricular Dysfunction, Right	DisGeNet	

@@ -1,0 +1,3 @@
+node_name	node_type	
+DB00552	drug	
+ADA	drug_target	

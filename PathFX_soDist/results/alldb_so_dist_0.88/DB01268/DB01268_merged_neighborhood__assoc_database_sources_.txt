@@ -1,0 +1,46 @@
+Gene	CUI	Source Databases	
+ABCB1	C0027686	Pathologic Neovascularization	DisGeNet	
+ABCG2	C0027686	Pathologic Neovascularization	DisGeNet	
+CYP3A5	C0027686	Pathologic Neovascularization	DisGeNet	
+FLT3	C0027686	Pathologic Neovascularization	DisGeNet	
+KDR	C0027686	Pathologic Neovascularization	DisGeNet	
+ABCB1	C0024620	Primary malignant neoplasm of liver	DisGeNet	
+CYP3A4	C0024620	Primary malignant neoplasm of liver	DisGeNet	
+CYP3A5	C0024620	Primary malignant neoplasm of liver	DisGeNet	
+ABCB1	C0041755	Adverse drug events and drug allergies	DisGeNet	
+ABCC2	C0041755	Adverse drug events and drug allergies	DisGeNet	
+ABCC4	C0041755	Adverse drug events and drug allergies	DisGeNet	
+ABCG2	C0041755	Adverse drug events and drug allergies	DisGeNet	
+ABCB1	C0015814	Femur Head Necrosis	DisGeNet	
+CYP3A4	C0015814	Femur Head Necrosis	DisGeNet	
+KDR	C0015814	Femur Head Necrosis	DisGeNet	
+ABCG2	C0206720	Squamous Cell Neoplasms	DisGeNet	
+CYP3A4	C0206720	Squamous Cell Neoplasms	DisGeNet	
+CYP3A5	C0206720	Squamous Cell Neoplasms	DisGeNet	
+ABCB1	C0280449	secondary acute myeloid leukemia	DisGeNet	
+FLT3	C0280449	secondary acute myeloid leukemia	DisGeNet	
+FLT4	C0280449	secondary acute myeloid leukemia	DisGeNet	
+KDR	C0280449	secondary acute myeloid leukemia	DisGeNet	
+ABCG2	C0011206	Cocaine delirium	DisGeNet	
+CYP3A4	C0011206	Cocaine delirium	DisGeNet	
+CYP3A5	C0011206	Cocaine delirium	DisGeNet	
+ABCB1	C0854467	Myelosuppression	DisGeNet	
+ABCG2	C0854467	Myelosuppression	DisGeNet	
+FLT3	C0854467	Myelosuppression	DisGeNet	
+ABCB1	C0013182	Drug Allergy	DisGeNet	
+ABCC2	C0013182	Drug Allergy	DisGeNet	
+CYP3A4	C0013182	Drug Allergy	DisGeNet	
+CYP3A5	C0013182	Drug Allergy	DisGeNet	
+ABCB1	C0023474	Leukemia, Myeloid, Chronic-Phase	DisGeNet	
+ABCC2	C0023474	Leukemia, Myeloid, Chronic-Phase	DisGeNet	
+ABCG2	C0023474	Leukemia, Myeloid, Chronic-Phase	DisGeNet	
+CYP3A5	C0023474	Leukemia, Myeloid, Chronic-Phase	DisGeNet	
+ABCB1	C0235032	Neurotoxicity Syndromes	DisGeNet	
+ABCG2	C0235032	Neurotoxicity Syndromes	DisGeNet	
+CYP3A5	C0235032	Neurotoxicity Syndromes	DisGeNet	
+ABCB1	C0280220	Ovarian epithelial cancer stage III	DisGeNet	
+ABCC2	C0280220	Ovarian epithelial cancer stage III	DisGeNet	
+ABCG2	C0280220	Ovarian epithelial cancer stage III	DisGeNet	
+ABCB1	C0029445	Bone necrosis	DisGeNet	
+CYP3A4	C0029445	Bone necrosis	DisGeNet	
+KDR	C0029445	Bone necrosis	DisGeNet	

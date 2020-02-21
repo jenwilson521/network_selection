@@ -1,0 +1,70 @@
+Gene	CUI	Source Databases	
+CYP1A2	C0013386	Dyskinesia, Drug-Induced	DisGeNet	
+CYP2D6	C0013386	Dyskinesia, Drug-Induced	DisGeNet	
+DRD1	C0013386	Dyskinesia, Drug-Induced	DisGeNet	
+DRD2	C0013386	Dyskinesia, Drug-Induced	DisGeNet	
+HTR2A	C0013386	Dyskinesia, Drug-Induced	DisGeNet	
+CYP1A2	C0686347	Tardive Dyskinesia	DisGeNet	
+CYP2D6	C0686347	Tardive Dyskinesia	DisGeNet	
+DRD1	C0686347	Tardive Dyskinesia	DisGeNet	
+DRD2	C0686347	Tardive Dyskinesia	DisGeNet	
+HTR2A	C0686347	Tardive Dyskinesia	DisGeNet	
+ANKK1	C0019337	Heroin Dependence	DisGeNet	
+CYP2D6	C0019337	Heroin Dependence	DisGeNet	
+DRD1	C0019337	Heroin Dependence	DisGeNet	
+DRD2	C0019337	Heroin Dependence	DisGeNet	
+HTR2A	C0019337	Heroin Dependence	DisGeNet	
+CYP1A2	C0221765	Chronic schizophrenia	DisGeNet	
+CYP2D6	C0221765	Chronic schizophrenia	DisGeNet	
+DRD2	C0221765	Chronic schizophrenia	DisGeNet	
+HTR2A	C0221765	Chronic schizophrenia	DisGeNet	
+ANKK1	C0524662	Opiate Addiction	DisGeNet	
+CYP2D6	C0524662	Opiate Addiction	DisGeNet	
+DRD1	C0524662	Opiate Addiction	DisGeNet	
+DRD2	C0524662	Opiate Addiction	DisGeNet	
+CYP1A2	C0152115	Orofacial dyskinesia	DisGeNet	
+CYP2D6	C0152115	Orofacial dyskinesia	DisGeNet	
+DRD1	C0152115	Orofacial dyskinesia	DisGeNet	
+DRD2	C0152115	Orofacial dyskinesia	DisGeNet	
+HTR2A	C0152115	Orofacial dyskinesia	DisGeNet	
+CYP1A2	C0027497	Nausea	DisGeNet	
+CYP2D6	C0027497	Nausea	DisGeNet	
+DRD2	C0027497	Nausea	DisGeNet	
+HTR2A	C0027497	Nausea	DisGeNet	
+ANKK1	C0600427	Cocaine Dependence	DisGeNet	
+DRD1	C0600427	Cocaine Dependence	DisGeNet	
+DRD2	C0600427	Cocaine Dependence	DisGeNet	
+HTR2A	C0600427	Cocaine Dependence	DisGeNet	
+ANKK1	C0013384	Dyskinesia, seizures, and intellectual developmental disorder	DisGeNet	
+CYP2D6	C0013384	Dyskinesia, seizures, and intellectual developmental disorder	DisGeNet	
+DRD1	C0013384	Dyskinesia, seizures, and intellectual developmental disorder	DisGeNet	
+DRD2	C0013384	Dyskinesia, seizures, and intellectual developmental disorder	DisGeNet	
+HTR2A	C0013384	Dyskinesia, seizures, and intellectual developmental disorder	DisGeNet	
+ANKK1	C0003944	As If Personality	DisGeNet	
+CYP2D6	C0003944	As If Personality	DisGeNet	
+DRD2	C0003944	As If Personality	DisGeNet	
+HTR2A	C0003944	As If Personality	DisGeNet	
+ALB	C0038586	Substance Use Disorders	DisGeNet	
+DRD2	C0038586	Substance Use Disorders	DisGeNet	
+HTR2A	C0038586	Substance Use Disorders	DisGeNet	
+ANKK1	C0853193	Bipolar I disorder	DisGeNet	
+DRD1	C0853193	Bipolar I disorder	DisGeNet	
+DRD2	C0853193	Bipolar I disorder	DisGeNet	
+HTR2A	C0853193	Bipolar I disorder	DisGeNet	
+ANKK1	C0033941	Psychoses, Substance-Induced	DisGeNet	
+DRD1	C0033941	Psychoses, Substance-Induced	DisGeNet	
+DRD2	C0033941	Psychoses, Substance-Induced	DisGeNet	
+HTR2A	C0033941	Psychoses, Substance-Induced	DisGeNet	
+ANKK1	C0003431	Antisocial Personality Disorder	DisGeNet	
+DRD2	C0003431	Antisocial Personality Disorder	DisGeNet	
+HTR2A	C0003431	Antisocial Personality Disorder	DisGeNet	
+CYP2D6	C0031212	Personality disorder	DisGeNet	
+DRD2	C0031212	Personality disorder	DisGeNet	
+HTR2A	C0031212	Personality disorder	DisGeNet	
+CYP2D6	C0038587	Substance Withdrawal Syndrome	DisGeNet	
+DRD1	C0038587	Substance Withdrawal Syndrome	DisGeNet	
+DRD2	C0038587	Substance Withdrawal Syndrome	DisGeNet	
+HTR2A	C0038587	Substance Withdrawal Syndrome	DisGeNet	
+CYP2D6	C0024031	Low back pain	DisGeNet	
+DRD2	C0024031	Low back pain	DisGeNet	
+HTR2A	C0024031	Low back pain	DisGeNet	

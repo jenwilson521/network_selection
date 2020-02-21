@@ -1,0 +1,3 @@
+Gene	CUI	Source Databases	
+CHRM2	C0085762	Alcohol abuse	DisGeNet	
+CYP3A4	C0085762	Alcohol abuse	DisGeNet	

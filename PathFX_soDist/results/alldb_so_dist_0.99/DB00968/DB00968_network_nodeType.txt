@@ -1,0 +1,5 @@
+node_name	node_type	
+DB00968	drug	
+DDC	drug_target	
+COMT	drug_target	
+ADRA2A	drug_target	

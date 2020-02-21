@@ -1,0 +1,23 @@
+Gene	CUI	Source Databases	
+SLC7A5	C0031485	Phenylketonuria	DisGeNet	
+SLC7A5	C0079748	Precursor cell lymphoblastic lymphoma	DisGeNet	
+SLC1A1	C0279702	Clear cell renal cell carcinoma	DisGeNet	
+SLC7A5	C0279702	Clear cell renal cell carcinoma	DisGeNet	
+SLC7A5	C0740277	Bile duct cancer resectable	DisGeNet	
+SLC1A1	C0152136	Low Tension Glaucoma	DisGeNet	
+SLC1A1	C0431380	Cortical dysplasia, complex, with other brain malformations 3	DisGeNet	
+SLC1A1	C0009241	Cognition Disorders	DisGeNet	
+SLC1A1	C0600104	Obsessive-compulsive behavior	DisGeNet	
+SLC1A1	C0038443	Stress, Psychological	DisGeNet	
+SLC1A1	C0029421	Osteochondritis dissecans	DisGeNet	
+SLC1A1	C1955869	Malformation of cortical development	DisGeNet	
+SLC1A1	C0028768	Obsessive-compulsive disorder	DisGeNet	
+SLC7A5	C0007120	Alveolar cell carcinoma	DisGeNet	
+SLC7A5	C0205734	Latent autoimmune diabetes mellitus in adult	DisGeNet	
+SLC1A1	C0037019	Shy-Drager syndrome	DisGeNet	
+SLC1A1	C0595921	Intraocular pressure disorder	DisGeNet	
+SLC7A5	C2931852	Clear-cell metastatic renal cell carcinoma	DisGeNet	
+SLC7A5	C0345905	Intrahepatic Cholangiocarcinoma	DisGeNet	
+SLC7A5	C0162820	Dermatitis, Allergic Contact	DisGeNet	
+SLC1A1	C0334590	Anaplastic Oligodendroglioma	DisGeNet	
+SLC7A5	C0020507	Hyperplasia	DisGeNet	

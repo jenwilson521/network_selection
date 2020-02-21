@@ -1,0 +1,106 @@
+node_name	node_type	
+DB06215	drug	
+TF	drug_target	
+FTH1	drug_target	
+FTL	drug_target	
+Spontaneous abortion	phenotype	
+Acute-Phase Reaction	phenotype	
+Alcohol dependence	phenotype	
+Alzheimer Disease	phenotype	
+Bovine Anaplasmosis	phenotype	
+Anemia	phenotype	
+Hypoxia	phenotype	
+Arthritis, Rheumatoid	phenotype	
+Rheumatoid arthritis	phenotype	
+Asthma	phenotype	
+Autism 15	phenotype	
+Recurrent bacterial infection	phenotype	
+Brain neoplasm	phenotype	
+Breast-ovarian cancer, familial 1	phenotype	
+Non-small cell lung carcinoma	phenotype	
+Cardiovascular Diseases	phenotype	
+Carotid Artery Diseases	phenotype	
+Brain Ischemia	phenotype	
+Cystic Fibrosis	phenotype	
+Plaque, Atherosclerotic	phenotype	
+{Unipolar depression, susceptibility to}, 608516 (3)	phenotype	
+Diabetes Mellitus, Type 1	phenotype	
+Diabetes mellitus type 2	phenotype	
+Diabetic Nephropathies	phenotype	
+Echinococcosis	phenotype	
+Hepatic steatosis	phenotype	
+Femur Head Necrosis	phenotype	
+Glioblastoma	phenotype	
+Congestive heart failure	phenotype	
+Hemochromatosis	phenotype	
+Hepatitis	phenotype	
+Hypothyroidism	phenotype	
+Inflammation	phenotype	
+Inflammatory Bowel Diseases	phenotype	
+Insulin Resistance	phenotype	
+Ischemia	phenotype	
+Leukemia, Lymphocytic, Chronic, B-Cell	phenotype	
+Acute promyelocytic leukemia	phenotype	
+Liver Cirrhosis, Biliary	phenotype	
+Liver Cirrhosis, Alcoholic	phenotype	
+Neoplasm of the liver	phenotype	
+Acquired long QT syndrome	phenotype	
+Chronic obstructive pulmonary disease	phenotype	
+Lung Neoplasms	phenotype	
+Animal Mammary Neoplasms	phenotype	
+Mammary Neoplasms, Experimental	phenotype	
+Melanoma	phenotype	
+Myocardial Infarction	phenotype	
+Neoplasm Invasiveness	phenotype	
+Secondary hypertriglyceridemia	phenotype	
+Nephrotic syndrome, type 5, with or without ocular abnormalities	phenotype	
+Obesity	phenotype	
+Bone necrosis	phenotype	
+Pancreatitis	phenotype	
+Paratuberculosis	phenotype	
+Parkinson Disease	phenotype	
+Restless Legs Syndrome	phenotype	
+Schizophrenia	phenotype	
+Stroke	phenotype	
+Thyroid Diseases	phenotype	
+Thyroid Neoplasms	phenotype	
+Tobacco Use Disorder	phenotype	
+Tuberculosis	phenotype	
+Intracranial hemorrhage	phenotype	
+Adenocarcinoma of lung	phenotype	
+Iron deficiency anemia	phenotype	
+Pancreatic Carcinoma	phenotype	
+Infections, recurrent, with encephalopathy, hepatic dysfunction, and cardiovascular malformations	phenotype	
+Abnormal joint morphology	phenotype	
+Abnormality of blood and blood-forming tissues	phenotype	
+Age-related macular degeneration 2	phenotype	
+Abnormality of cardiovascular system electrophysiology	phenotype	
+Abnormality of the digestive system	phenotype	
+Iron Overload	phenotype	
+Senile plaques	phenotype	
+Malignant neoplasm of pancreas	phenotype	
+Malignant tumor of prostate	phenotype	
+Abnormality of erythrocytes	phenotype	
+Hereditary hemochromatosis	phenotype	
+Autosomal recessive inheritance	phenotype	
+Neurodegenerative Diseases	phenotype	
+Prostate carcinoma	phenotype	
+Anemia of inadequate production	phenotype	
+Breast carcinoma	phenotype	
+Abnormality of thyroid physiology	phenotype	
+Drug-Induced Liver Injury	phenotype	
+Chronic graft-versus-host disease	phenotype	
+Glioblastoma multiforme	phenotype	
+Hepatocellular carcinoma	phenotype	
+Hypergranular promyelocytic leukemia	phenotype	
+Abnormality of the immune system	phenotype	
+Abnormality of the abdominal organs	phenotype	
+Abnormality of metabolism/homeostasis	phenotype	
+Abnormality of the liver	phenotype	
+Abnormality of the skeletal system	phenotype	
+Abnormality of skeletal morphology	phenotype	
+Abnormality of cardiovascular system physiology	phenotype	
+Abnormality of immune system physiology	phenotype	
+Abnormality of circulating protein level	phenotype	
+Abnormality of the pancreas	phenotype	
+Abnormality of the endocrine system	phenotype	

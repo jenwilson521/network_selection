@@ -1,0 +1,16 @@
+node_name	node_type	
+DB04920	drug	
+CYP2C9	drug_target	
+CYP2D6	drug_target	
+CACNA1C	drug_target	
+CACNA1D	drug_target	
+CYP2E1	drug_target	
+CYP2C19	drug_target	
+CACNA1F	drug_target	
+BCHE	drug_target	
+CYP3A4	drug_target	
+CACNA1S	drug_target	
+Primary malignant neoplasm of liver	phenotype	
+Adverse drug events and drug allergies	phenotype	
+Congenital long QT syndrome	phenotype	
+Enzyme inhibition disorder	phenotype	

@@ -1,0 +1,3 @@
+node1	node2	edge_score	
+DB11132	MARCO	1.0	
+

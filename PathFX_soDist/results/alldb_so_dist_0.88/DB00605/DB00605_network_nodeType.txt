@@ -1,0 +1,154 @@
+node_name	node_type	
+DB00605	drug	
+PTGS2	drug_target	
+PTGS1	drug_target	
+AKR1B10	drug_target	
+CYP1A1	drug_target	
+ALB	drug_target	
+SLC22A6	drug_target	
+MAPK3	drug_target	
+PPARD	drug_target	
+AKR1B1	drug_target	
+Echinococcosis	phenotype	
+Rhinitis, Allergic, Perennial	phenotype	
+Bronchogenic Carcinoma	phenotype	
+Colonic Polyps	phenotype	
+Colorectal polyposis	phenotype	
+Acute Lung Injury	phenotype	
+Hamartoma	phenotype	
+Squamous Cell Neoplasms	phenotype	
+gastritis h pylori	phenotype	
+Adenoma of large intestine	phenotype	
+Creutzfeldt-Jakob Disease, Sporadic	phenotype	
+keratoacanthoma	phenotype	
+Pericardial effusion	phenotype	
+Peptic ulcer	phenotype	
+Rectal Carcinoma	phenotype	
+Xeroderma pigmentosum, group A	phenotype	
+Musculoskeletal Diseases	phenotype	
+Pregnancy Complications, Hematologic	phenotype	
+Rotavirus Infections	phenotype	
+Reperfusion Injury	phenotype	
+Chemical Carcinogenesis	phenotype	
+Chronic liver disease	phenotype	
+Acute Coronary Syndrome	phenotype	
+Anaphylactic shock NOS	phenotype	
+Stomach Diseases	phenotype	
+Fetal Diseases	phenotype	
+Drusen	phenotype	
+Renovascular hypertension	phenotype	
+Bile duct cancer resectable	phenotype	
+Kidney Failure, Chronic	phenotype	
+Neuritis	phenotype	
+Arthritis, Reactive	phenotype	
+Leukoplakia	phenotype	
+Cervical Adenocarcinoma	phenotype	
+Primary open angle glaucoma juvenile onset 1	phenotype	
+Endometrial Hyperplasia	phenotype	
+Dyspepsia	phenotype	
+Respiratory Tract Diseases	phenotype	
+Endometriosis of uterus	phenotype	
+Medullary carcinoma	phenotype	
+Experimental Autoimmune Encephalomyelitis	phenotype	
+Oral Submucous Fibrosis	phenotype	
+Hypersensitivity	phenotype	
+Adverse drug events and drug allergies	phenotype	
+Fibrosis	phenotype	
+Esophagitis	phenotype	
+Idiopathic Inflammatory Myopathies	phenotype	
+Cytochrome-c oxidase deficiency	phenotype	
+Chorioamnionitis	phenotype	
+Connective Tissue Diseases	phenotype	
+Myocardial Reperfusion Injury	phenotype	
+Breast Fibrocystic Disease	phenotype	
+gliosarcoma	phenotype	
+Thyroid Nodule	phenotype	
+Arthritis, Psoriatic	phenotype	
+Occupational Diseases	phenotype	
+Coronary heart disease 7	phenotype	
+Peutz-Jeghers syndrome	phenotype	
+Oral leukoplakia	phenotype	
+Complications of Diabetes Mellitus	phenotype	
+Pulmonary edema	phenotype	
+Duodenal Ulcer	phenotype	
+IMMUNE SUPPRESSION	phenotype	
+Dermatosis NOS	phenotype	
+Adult type dermatomyositis	phenotype	
+Intestinal polyp	phenotype	
+Cholecystolithiasis	phenotype	
+Liver regeneration disorder	phenotype	
+Tumor Promotion	phenotype	
+Type 1 diabetic neuropathy	phenotype	
+Oral Cavity Carcinoma	phenotype	
+Thyroid associated opthalmopathies	phenotype	
+Urinary tract infection	phenotype	
+Adenocarcinoma, Clear Cell	phenotype	
+Experimental Organism Basal Cell Carcinoma	phenotype	
+Creutzfeldt-Jakob Syndrome	phenotype	
+Skin carcinoma	phenotype	
+Testicular malignant germ cell tumor	phenotype	
+Hepatitis B, Chronic	phenotype	
+Hyperplastic Polyp	phenotype	
+Pancreatitis	phenotype	
+Polymyositis	phenotype	
+Intraocular pressure disorder	phenotype	
+Endometrial adenocarcinoma	phenotype	
+polyps	phenotype	
+Neoplasm of the rectum	phenotype	
+High grade serous carcinoma	phenotype	
+Neoplasm of the larynx	phenotype	
+Hyperlipidemia, combined, 1	phenotype	
+Helicobacter pylori infection	phenotype	
+Helicobacter Infections	phenotype	
+Liver Diseases	phenotype	
+Dermatomyositis	phenotype	
+Ovarian cyst	phenotype	
+Gastric ulcer	phenotype	
+Breast adenocarcinoma	phenotype	
+Adenomas, multiple colorectal, 608456 (3)	phenotype	
+Thromboembolism	phenotype	
+Hereditary nonpolyposis colorectal cancer type 8	phenotype	
+Precocious puberty	phenotype	
+Discoid lupus erythematosus	phenotype	
+Diabetic Nephropathies	phenotype	
+Urticaria	phenotype	
+Periodontitis	phenotype	
+Head and Neck Neoplasms	phenotype	
+Metabolic Syndrome X	phenotype	
+Cardiovascular Diseases	phenotype	
+Ischemic Cerebrovascular Accident	phenotype	
+Idiopathic Pulmonary Fibrosis	phenotype	
+Inflammation	phenotype	
+Transitional cell carcinoma of the bladder	phenotype	
+Malignant neoplasm of larynx	phenotype	
+Laryngeal Squamous Cell Carcinoma	phenotype	
+Acute hepatic failure	phenotype	
+Drug Eruptions	phenotype	
+Flushing	phenotype	
+Basal cell carcinoma	phenotype	
+Myositis	phenotype	
+Arteriosclerosis	phenotype	
+Acute-Phase Reaction	phenotype	
+Neoplasms, Multiple Primary	phenotype	
+Pleural Neoplasms	phenotype	
+Malignant neoplasm of adrenal cortex	phenotype	
+Lyme Disease	phenotype	
+Esophageal varix	phenotype	
+Malignant neoplasm of pharynx	phenotype	
+Urolithiasis	phenotype	
+Cardiovascular morbidity	phenotype	
+Preeclampsia/eclampsia 1	phenotype	
+Lung Injury	phenotype	
+Squamous cell carcinoma of the hypopharynx	phenotype	
+Early gastric cancer	phenotype	
+Malignant neoplasm of vulva	phenotype	
+Arthropathy	phenotype	
+Polycystic kidney disease, autosomal dominant	phenotype	
+Verotoxigenic Escherichia coli gastrointestinal tract infection	phenotype	
+Premature Birth	phenotype	
+Hepatitis	phenotype	
+Pulmonary Disease, Chronic Obstructive	phenotype	
+Bladder neck obstruction	phenotype	
+Aortic atherosclerosis	phenotype	
+Proliferative retinopathy	phenotype	
+Barrett Esophagus	phenotype	

@@ -1,0 +1,68 @@
+node_name	node_type	
+DB00648	drug	
+ESR1	drug_target	
+SERPINA7	drug_target	
+SHBG	drug_target	
+AR	drug_target	
+PGR	drug_target	
+CYP3A4	drug_target	
+FDX1	drug_target	
+Invasive Lobular Breast Carcinoma	phenotype	
+Depressive Symptoms	phenotype	
+21-hydroxylase deficiency	phenotype	
+Abnormal circulating gonadotropin level	phenotype	
+Malignant neoplasm of male breast	phenotype	
+Bone necrosis	phenotype	
+Adolescent idiopathic scoliosis	phenotype	
+Aplasia/hypoplasia of the uterus	phenotype	
+Phyllodes tumor, benign	phenotype	
+Malignant neoplasm of female breast	phenotype	
+Lehman syndrome	phenotype	
+Female Breast Carcinoma	phenotype	
+Endometrial Hyperplasia	phenotype	
+Nerve Sheath Tumors	phenotype	
+Carcinoma of Male Breast	phenotype	
+Penile hypospadias	phenotype	
+Biliary tract neoplasm	phenotype	
+Desmoid tumor	phenotype	
+Carcinoma, Lobular	phenotype	
+Adrenal hyperplasia	phenotype	
+Microsatellite Instability	phenotype	
+Breast Fibrocystic Disease	phenotype	
+Hyperpituitarism	phenotype	
+Neoplasms, Germ Cell and Embryonal	phenotype	
+gliosarcoma	phenotype	
+Fibroadenoma of the breast	phenotype	
+NEUROTICISM	phenotype	
+Disorder of endocrine system	phenotype	
+Mammographic breast density	phenotype	
+Ovarian Failure, Premature	phenotype	
+Female infertility	phenotype	
+Acne	phenotype	
+Uterine neoplasm	phenotype	
+Granulomatous disease, chronic, autosomal recessive, cytochrome b-negative	phenotype	
+Degenerative disease of the spinal cord	phenotype	
+Recurrent abortion	phenotype	
+Drug Allergy	phenotype	
+Pregnancy loss	phenotype	
+Increased analgesia from kappa-opioid receptor agonist, female-specific	phenotype	
+Hormone refractory prostate cancer	phenotype	
+Stromal Neoplasm	phenotype	
+Chordoma	phenotype	
+Dyslipidemias	phenotype	
+Cholecystolithiasis	phenotype	
+Adenocarcinoma of colon	phenotype	
+Aortic regurgitation	phenotype	
+body mass	phenotype	
+Postmenopausal osteoporosis	phenotype	
+Alcohol abuse	phenotype	
+Malignant tumor of testis	phenotype	
+Testicular malignant germ cell tumor	phenotype	
+Biliary Tract Cancer	phenotype	
+Advanced cancer	phenotype	
+Azoospermia	phenotype	
+Endometrial adenocarcinoma	phenotype	
+Testicular Germ Cell Tumor	phenotype	
+Endometrial Neoplasms	phenotype	
+Gynecomastia	phenotype	
+High grade serous carcinoma	phenotype	

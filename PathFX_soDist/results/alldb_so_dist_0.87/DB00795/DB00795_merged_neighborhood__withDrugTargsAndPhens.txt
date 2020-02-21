@@ -1,0 +1,147 @@
+node1	node2	edge_score	
+DB00795	PTGS2	1.0	
+DB00795	ABCG2	1.0	
+DB00795	TBXAS1	1.0	
+DB00795	ACAT1	1.0	
+DB00795	ALOX5	1.0	
+DB00795	PTGS1	1.0	
+DB00795	SLC7A11	1.0	
+DB00795	IKBKB	1.0	
+DB00795	PPARG	1.0	
+DB00795	SLCO1B3	1.0	
+DB00795	CHUK	1.0	
+DB00795	PLA2G1B	1.0	
+DB00795	SLCO2B1	1.0	
+DB00795	SLCO1B1	1.0	
+DB00795	ABCC2	1.0	
+DB00795	SLC46A1	1.0	
+PTGS2	rs12042763	0.99
+SLCO1B3		1.0
+ABCG2	rs17731538	0.99
+SLCO1B1	rs11045872	0.99
+ABCC2		1.0
+SLCO1B1	rs2900478	0.99
+ABCG2		1.0
+ABCC2	rs113646094	0.99
+SLCO1B1	SLCO1B1*15, SLCO1B1*1A, SLCO1B1*1B	0.99
+SLCO1B1	SLCO1B1*15, SLCO1B1*1B	0.99
+ABCC2	rs4148386	0.99
+ABCG2	rs4148157	0.99
+SLCO1B1	SLCO1B1*12, SLCO1B1*13, SLCO1B1*1A	0.99
+SLCO1B1	SLCO1B1*1, SLCO1B1*2	0.99
+SLCO1B1	rs2291075	0.99
+ABCG2	rs72552713	0.99
+SLCO1B1	rs113681054	0.99
+SLCO1B1	rs4363657	0.99
+ABCG2	rs58818712	0.99
+SLCO1B1	SLCO1B1*15, SLCO1B1*1A, SLCO1B1*1B, SLCO1B1*5	0.99
+ABCG2	rs7699188	0.99
+PTGS2	rs4648287	0.99
+PPARG		1.0
+PTGS1	rs10306135	0.99
+SLCO1B1	rs4149081	0.99
+ABCG2	rs41282401	0.99
+ABCG2	rs12505410	0.99
+PTGS2	rs20417	0.99
+ABCG2	rs1061018	0.99
+PTGS1	rs1330344	0.99
+SLCO1B1	rs11045879	0.99
+SLCO1B1	rs11045819	0.99
+ABCC2	rs8187707	0.99
+SLCO1B1	rs4149056	0.99
+ABCG2	rs2231135	0.99
+ABCC2	rs2273697	0.99
+SLCO1B1	rs2291073	0.99
+ABCG2	rs13120400	0.99
+ABCC2	rs3740065	0.99
+ABCC2	rs7917432	0.99
+SLCO1B1	rs2306283	0.99
+ABCG2	rs45605536	0.99
+SLCO1B1		1.0
+SLCO1B1	rs4149036	0.99
+SLCO1B1	SLCO1B1*15, SLCO1B1*18, SLCO1B1*1A, SLCO1B1*1B, SLCO1B1*5, SLCO1B1*9	0.99
+ALOX5		1.0
+ABCC2	rs12762549	0.99
+SLCO1B3	rs7311358	0.99
+PTGS2		1.0
+SLCO1B1	rs4149015	0.99
+PTGS1	rs10306114	0.99
+ABCG2	rs2231142	0.99
+SLCO1B3	rs11045585	0.99
+SLCO1B1	rs4149032	0.99
+ABCG2	rs2199939	0.99
+SLCO2B1		1.0
+SLCO1B1	SLCO1B1*14, SLCO1B1*1A	0.99
+ABCC2	ABCC2 H12, ABCC2 H2	0.99
+PTGS2	rs5275	0.99
+ABCC2	rs3740066	0.99
+ABCG2	rs2725252	0.99
+PTGS1		1.0
+ABCG2	rs3114020	0.99
+SLCO1B1	rs11045821	0.99
+TBXAS1		1.0
+SLCO1B3	rs4149117	0.99
+ABCC2	rs717620	0.99
+ABCG2	rs2231137	0.99
+ABCC2	rs17222723	0.99
+ABCC2	rs8187710	0.99
+Endotoxemia	ABCC2	1.0	
+Endotoxemia	ALOX5	1.0	
+Endotoxemia	PPARG	1.0	
+Endotoxemia	PTGS2	1.0	
+Endotoxemia	TBXAS1	1.0	
+Adverse drug events and drug allergies	ABCC2	1.0	
+Adverse drug events and drug allergies	ABCG2	1.0	
+Adverse drug events and drug allergies	PTGS2	1.0	
+Adverse drug events and drug allergies	SLCO1B1	1.0	
+Colonic Polyps	ALOX5	1.0	
+Colonic Polyps	PPARG	1.0	
+Colonic Polyps	PTGS1	1.0	
+Colonic Polyps	PTGS2	1.0	
+Colorectal polyposis	ALOX5	1.0	
+Colorectal polyposis	PPARG	1.0	
+Colorectal polyposis	PTGS1	1.0	
+Colorectal polyposis	PTGS2	1.0	
+Reperfusion Injury	ABCG2	1.0	
+Reperfusion Injury	ALOX5	1.0	
+Reperfusion Injury	PPARG	1.0	
+Reperfusion Injury	PTGS1	1.0	
+Reperfusion Injury	PTGS2	1.0	
+Reperfusion Injury	SLCO1B3	1.0	
+Reperfusion Injury	TBXAS1	1.0	
+Drug Allergy	ABCC2	1.0	
+Drug Allergy	PTGS1	1.0	
+Drug Allergy	SLCO1B1	1.0	
+Drug Allergy	TBXAS1	1.0	
+Cholestasis of pregnancy	ABCC2	1.0	
+Cholestasis of pregnancy	ABCG2	1.0	
+Cholestasis of pregnancy	PPARG	1.0	
+Adenoma of large intestine	ABCC2	1.0	
+Adenoma of large intestine	ABCG2	1.0	
+Adenoma of large intestine	ALOX5	1.0	
+Adenoma of large intestine	PPARG	1.0	
+Adenoma of large intestine	PTGS1	1.0	
+Adenoma of large intestine	PTGS2	1.0	
+Hyperbilirubinemia	ABCC2	1.0	
+Hyperbilirubinemia	SLCO1B1	1.0	
+Hyperbilirubinemia	SLCO1B3	1.0	
+Hyperbilirubinemia	SLCO2B1	1.0	
+Primary biliary cirrhosis	ABCC2	1.0	
+Primary biliary cirrhosis	ABCG2	1.0	
+Primary biliary cirrhosis	PPARG	1.0	
+Primary biliary cirrhosis	PTGS2	1.0	
+Primary biliary cirrhosis	SLCO1B1	1.0	
+Primary biliary cirrhosis	SLCO1B3	1.0	
+Dyspepsia	PPARG	1.0	
+Dyspepsia	PTGS1	1.0	
+Dyspepsia	PTGS2	1.0	
+Peptic ulcer	PPARG	1.0	
+Peptic ulcer	PTGS1	1.0	
+Peptic ulcer	PTGS2	1.0	
+Peptic ulcer	SLCO1B1	1.0	
+Idiopathic Inflammatory Myopathies	ALOX5	1.0	
+Idiopathic Inflammatory Myopathies	PTGS1	1.0	
+Idiopathic Inflammatory Myopathies	PTGS2	1.0	
+gliosarcoma	PPARG	1.0	
+gliosarcoma	PTGS1	1.0	
+gliosarcoma	PTGS2	1.0	

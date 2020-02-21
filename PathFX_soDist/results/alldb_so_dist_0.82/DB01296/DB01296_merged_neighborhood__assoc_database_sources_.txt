@@ -1,0 +1,734 @@
+Gene	CUI	Source Databases	
+CYP2C19	C0038354	Stomach Diseases	DisGeNet	
+CYP2E1	C0038354	Stomach Diseases	DisGeNet	
+IFNG	C0038354	Stomach Diseases	DisGeNet	
+LTA	C0038354	Stomach Diseases	DisGeNet	
+TNF	C0038354	Stomach Diseases	DisGeNet	
+CYP2E1	C1609538	Latent Tuberculosis	DisGeNet	
+IFNG	C1609538	Latent Tuberculosis	DisGeNet	
+TNF	C1609538	Latent Tuberculosis	DisGeNet	
+CYP2C19	C0342257	Complications of Diabetes Mellitus	DisGeNet	
+IFNG	C0342257	Complications of Diabetes Mellitus	DisGeNet	
+LTA	C0342257	Complications of Diabetes Mellitus	DisGeNet	
+TNF	C0342257	Complications of Diabetes Mellitus	DisGeNet	
+IFNG	C0038363	Oral aphthae	DisGeNet	
+LTA	C0038363	Oral aphthae	DisGeNet	
+TNF	C0038363	Oral aphthae	DisGeNet	
+CYP2C19	C0013182	Drug Allergy	DisGeNet	
+IFNG	C0013182	Drug Allergy	DisGeNet	
+LTA	C0013182	Drug Allergy	DisGeNet	
+TNF	C0013182	Drug Allergy	DisGeNet	
+CYP2C19	C0206139	Lichen Planus, Oral	DisGeNet	
+IFNG	C0206139	Lichen Planus, Oral	DisGeNet	
+LTA	C0206139	Lichen Planus, Oral	DisGeNet	
+TNF	C0206139	Lichen Planus, Oral	DisGeNet	
+IFNG	C0004030	Systemic aspergillosis	DisGeNet	
+LTA	C0004030	Systemic aspergillosis	DisGeNet	
+TNF	C0004030	Systemic aspergillosis	DisGeNet	
+CYP2C19	C0745744	End Stage Liver Disease	DisGeNet	
+CYP2E1	C0745744	End Stage Liver Disease	DisGeNet	
+TNF	C0745744	End Stage Liver Disease	DisGeNet	
+CYP2C19	C0023891	Liver Cirrhosis, Alcoholic	DisGeNet	
+CYP2E1	C0023891	Liver Cirrhosis, Alcoholic	DisGeNet	
+IFNG	C0023891	Liver Cirrhosis, Alcoholic	DisGeNet	
+TNF	C0023891	Liver Cirrhosis, Alcoholic	DisGeNet	
+LST1	C0042344	Varicose Ulcer	DisGeNet	
+LTA	C0042344	Varicose Ulcer	DisGeNet	
+TNF	C0042344	Varicose Ulcer	DisGeNet	
+CYP2C19	C0079487	Helicobacter Infections	DisGeNet	
+CYP2E1	C0079487	Helicobacter Infections	DisGeNet	
+LTA	C0079487	Helicobacter Infections	DisGeNet	
+TNF	C0079487	Helicobacter Infections	DisGeNet	
+IFNG	C0015674	Chronic Fatigue Syndrome	DisGeNet	
+LTA	C0015674	Chronic Fatigue Syndrome	DisGeNet	
+TNF	C0015674	Chronic Fatigue Syndrome	DisGeNet	
+CYP2C19	C0017154	Chronic atrophic gastritis	DisGeNet	
+CYP2E1	C0017154	Chronic atrophic gastritis	DisGeNet	
+LTA	C0017154	Chronic atrophic gastritis	DisGeNet	
+TNF	C0017154	Chronic atrophic gastritis	DisGeNet	
+CYP2C19	C0041327	Tuberculosis, Pulmonary	DisGeNet	
+CYP2E1	C0041327	Tuberculosis, Pulmonary	DisGeNet	
+IFNG	C0041327	Tuberculosis, Pulmonary	DisGeNet	
+LTA	C0041327	Tuberculosis, Pulmonary	DisGeNet	
+TNF	C0041327	Tuberculosis, Pulmonary	DisGeNet	
+CYP2C19	C0948480	Coronary Restenosis	DisGeNet	
+LTA	C0948480	Coronary Restenosis	DisGeNet	
+TNF	C0948480	Coronary Restenosis	DisGeNet	
+IFNG	C0032269	Pneumococcal Infections	DisGeNet	
+LTA	C0032269	Pneumococcal Infections	DisGeNet	
+TNF	C0032269	Pneumococcal Infections	DisGeNet	
+IFNG	C0030807	Pemphigus	DisGeNet	
+LTA	C0030807	Pemphigus	DisGeNet	
+TNF	C0030807	Pemphigus	DisGeNet	
+IFNG	C0007930	Chagas Cardiomyopathy	DisGeNet	
+LTA	C0007930	Chagas Cardiomyopathy	DisGeNet	
+TNF	C0007930	Chagas Cardiomyopathy	DisGeNet	
+CYP2C19	C0030920	Peptic ulcer	DisGeNet	
+CYP2E1	C0030920	Peptic ulcer	DisGeNet	
+IFNG	C0030920	Peptic ulcer	DisGeNet	
+TNF	C0030920	Peptic ulcer	DisGeNet	
+IFNG	C0023283	Zoonotic form of cutaneous leishmaniasis	DisGeNet	
+LTA	C0023283	Zoonotic form of cutaneous leishmaniasis	DisGeNet	
+TNF	C0023283	Zoonotic form of cutaneous leishmaniasis	DisGeNet	
+CYP2C19	C0027497	Nausea	DisGeNet	
+IFNG	C0027497	Nausea	DisGeNet	
+TNF	C0027497	Nausea	DisGeNet	
+IFNG	C0014743	Erythema nodosum	DisGeNet	
+LTA	C0014743	Erythema nodosum	DisGeNet	
+TNF	C0014743	Erythema nodosum	DisGeNet	
+CYP2C19	C0017152	Gastritis	DisGeNet	
+CYP2E1	C0017152	Gastritis	DisGeNet	
+IFNG	C0017152	Gastritis	DisGeNet	
+LTA	C0017152	Gastritis	DisGeNet	
+TNF	C0017152	Gastritis	DisGeNet	
+CYP2E1	C0027540	Necrosis	DisGeNet	
+IFNG	C0027540	Necrosis	DisGeNet	
+TNF	C0027540	Necrosis	DisGeNet	
+CYP2E1	C0035242	Respiratory Tract Diseases	DisGeNet	
+IFNG	C0035242	Respiratory Tract Diseases	DisGeNet	
+TNF	C0035242	Respiratory Tract Diseases	DisGeNet	
+CYP2E1	C0032962	Pregnancy Complications	DisGeNet	
+IFNG	C0032962	Pregnancy Complications	DisGeNet	
+LTA	C0032962	Pregnancy Complications	DisGeNet	
+TNF	C0032962	Pregnancy Complications	DisGeNet	
+IFNG	C0029172	Oral Submucous Fibrosis	DisGeNet	
+LTA	C0029172	Oral Submucous Fibrosis	DisGeNet	
+TNF	C0029172	Oral Submucous Fibrosis	DisGeNet	
+IFNG	C0013371	Shigella Infections	DisGeNet	
+LTB	C0013371	Shigella Infections	DisGeNet	
+TNF	C0013371	Shigella Infections	DisGeNet	
+IFNG	C0036205	Sarcoidosis, Pulmonary	DisGeNet	
+LTA	C0036205	Sarcoidosis, Pulmonary	DisGeNet	
+TNF	C0036205	Sarcoidosis, Pulmonary	DisGeNet	
+LST1	C0025303	Meningococcal Infections	DisGeNet	
+LTA	C0025303	Meningococcal Infections	DisGeNet	
+TNF	C0025303	Meningococcal Infections	DisGeNet	
+LST1	C0242852	Vitreoretinopathy, neovascular inflammatory, 193235 (3)	DisGeNet	
+LTA	C0242852	Vitreoretinopathy, neovascular inflammatory, 193235 (3)	DisGeNet	
+TNF	C0242852	Vitreoretinopathy, neovascular inflammatory, 193235 (3)	DisGeNet	
+CYP2C19	C0341439	Chronic liver disease	DisGeNet	
+CYP2E1	C0341439	Chronic liver disease	DisGeNet	
+IFNG	C0341439	Chronic liver disease	DisGeNet	
+TNF	C0341439	Chronic liver disease	DisGeNet	
+IFNG	C0040592	Trachoma	DisGeNet	
+LTA	C0040592	Trachoma	DisGeNet	
+TNF	C0040592	Trachoma	DisGeNet	
+IFNG	C0024535	Malaria, Falciparum	DisGeNet	
+LTA	C0024535	Malaria, Falciparum	DisGeNet	
+LTB	C0024535	Malaria, Falciparum	DisGeNet	
+TNF	C0024535	Malaria, Falciparum	DisGeNet	
+CYP2E1	C4055506	Neurodegeneration with brain iron accumulation 4	DisGeNet	
+IFNG	C4055506	Neurodegeneration with brain iron accumulation 4	DisGeNet	
+TNF	C4055506	Neurodegeneration with brain iron accumulation 4	DisGeNet	
+IFNG	C0006271	Bronchiolitis	DisGeNet	
+LTA	C0006271	Bronchiolitis	DisGeNet	
+TNF	C0006271	Bronchiolitis	DisGeNet	
+IFNG	C0017574	Gingivitis	DisGeNet	
+LTA	C0017574	Gingivitis	DisGeNet	
+TNF	C0017574	Gingivitis	DisGeNet	
+CYP2E1	C0035369	Retroviridae Infections	DisGeNet	
+IFNG	C0035369	Retroviridae Infections	DisGeNet	
+TNF	C0035369	Retroviridae Infections	DisGeNet	
+IFNG	C0392707	{Atopy, susceptibility to}, 147050 (3)	DisGeNet	
+LTA	C0392707	{Atopy, susceptibility to}, 147050 (3)	DisGeNet	
+TNF	C0392707	{Atopy, susceptibility to}, 147050 (3)	DisGeNet	
+IFNG	C0042721	Viral hepatitis	DisGeNet	
+LTA	C0042721	Viral hepatitis	DisGeNet	
+TNF	C0042721	Viral hepatitis	DisGeNet	
+IFNG	C0032787	Postoperative Complications	DisGeNet	
+LTA	C0032787	Postoperative Complications	DisGeNet	
+TNF	C0032787	Postoperative Complications	DisGeNet	
+IFNG	C0949691	Spondylarthropathies	DisGeNet	
+LTA	C0949691	Spondylarthropathies	DisGeNet	
+TNF	C0949691	Spondylarthropathies	DisGeNet	
+CYP2E1	C0007873	Uterine Cervical Neoplasms	DisGeNet	
+IFNG	C0007873	Uterine Cervical Neoplasms	DisGeNet	
+LTA	C0007873	Uterine Cervical Neoplasms	DisGeNet	
+TNF	C0007873	Uterine Cervical Neoplasms	DisGeNet	
+CYP2C19	C0013295	Duodenal Ulcer	DisGeNet	
+LTA	C0013295	Duodenal Ulcer	DisGeNet	
+TNF	C0013295	Duodenal Ulcer	DisGeNet	
+IFNG	C0156543	Pregnancy loss	DisGeNet	
+LTA	C0156543	Pregnancy loss	DisGeNet	
+TNF	C0156543	Pregnancy loss	DisGeNet	
+CYP2C19	C0242231	Coronary artery stenosis	DisGeNet	
+LTA	C0242231	Coronary artery stenosis	DisGeNet	
+TNF	C0242231	Coronary artery stenosis	DisGeNet	
+CYP2E1	C0011609	Drug Eruptions	DisGeNet	
+IFNG	C0011609	Drug Eruptions	DisGeNet	
+IFNG	C0035450	Rheumatoid Nodule	DisGeNet	
+TNF	C0035450	Rheumatoid Nodule	DisGeNet	
+IFNG	C0041326	Pleural Tuberculosis	DisGeNet	
+TNF	C0041326	Pleural Tuberculosis	DisGeNet	
+CYP2C19	C0340288	Stable angina	DisGeNet	
+IFNG	C0340288	Stable angina	DisGeNet	
+TNF	C0340288	Stable angina	DisGeNet	
+IFNG	C0008149	Chlamydia Infections	DisGeNet	
+LTA	C0008149	Chlamydia Infections	DisGeNet	
+TNF	C0008149	Chlamydia Infections	DisGeNet	
+CYP2E1	C0027439	Nasopharyngeal Neoplasms	DisGeNet	
+IFNG	C0027439	Nasopharyngeal Neoplasms	DisGeNet	
+TNF	C0027439	Nasopharyngeal Neoplasms	DisGeNet	
+LTA	C0014848	Achalasia	DisGeNet	
+TNF	C0014848	Achalasia	DisGeNet	
+CYP2C19	C0032229	Pleural Neoplasms	DisGeNet	
+CYP2E1	C0032229	Pleural Neoplasms	DisGeNet	
+IFNG	C0042384	Vasculitis	DisGeNet	
+LTA	C0042384	Vasculitis	DisGeNet	
+LTB	C0042384	Vasculitis	DisGeNet	
+TNF	C0042384	Vasculitis	DisGeNet	
+IFNG	C0010403	Cryoglobulinemia	DisGeNet	
+TNF	C0010403	Cryoglobulinemia	DisGeNet	
+IFNG	C0034362	Q Fever	DisGeNet	
+TNF	C0034362	Q Fever	DisGeNet	
+IFNG	C0041318	Tuberculosis, Meningeal	DisGeNet	
+TNF	C0041318	Tuberculosis, Meningeal	DisGeNet	
+IFNG	C0403396	Steroid-sensitive nephrotic syndrome	DisGeNet	
+TNF	C0403396	Steroid-sensitive nephrotic syndrome	DisGeNet	
+IFNG	C1318485	Liver regeneration disorder	DisGeNet	
+LTB	C1318485	Liver regeneration disorder	DisGeNet	
+TNF	C1318485	Liver regeneration disorder	DisGeNet	
+CYP2C19	C0031099	Periodontitis	DisGeNet	
+CYP2E1	C0031099	Periodontitis	DisGeNet	
+IFNG	C0031099	Periodontitis	DisGeNet	
+LTA	C0031099	Periodontitis	DisGeNet	
+TNF	C0031099	Periodontitis	DisGeNet	
+IFNG	C0242723	Parasitemia	DisGeNet	
+LTA	C0242723	Parasitemia	DisGeNet	
+TNF	C0242723	Parasitemia	DisGeNet	
+IFNG	C0002797	Bovine Anaplasmosis	DisGeNet	
+TNF	C0002797	Bovine Anaplasmosis	DisGeNet	
+LTA	C0041466	Typhoid Fever	DisGeNet	
+TNF	C0041466	Typhoid Fever	DisGeNet	
+LTA	C0302809	Fulminant hepatitis	DisGeNet	
+TNF	C0302809	Fulminant hepatitis	DisGeNet	
+IFNG	C2316212	Cryopyrin-Associated Periodic Syndromes	DisGeNet	
+TNF	C2316212	Cryopyrin-Associated Periodic Syndromes	DisGeNet	
+IFNG	C0339143	Thyroid associated opthalmopathies	DisGeNet	
+LTA	C0339143	Thyroid associated opthalmopathies	DisGeNet	
+TNF	C0339143	Thyroid associated opthalmopathies	DisGeNet	
+CYP2C19	C0002965	Angina, Unstable	DisGeNet	
+IFNG	C0002965	Angina, Unstable	DisGeNet	
+TNF	C0002965	Angina, Unstable	DisGeNet	
+IFNG	C0867389	Chronic graft-versus-host disease	DisGeNet	
+LTB	C0867389	Chronic graft-versus-host disease	DisGeNet	
+TNF	C0867389	Chronic graft-versus-host disease	DisGeNet	
+CYP2C19	C0860207	Drug-Induced Liver Injury	DisGeNet	
+CYP2E1	C0860207	Drug-Induced Liver Injury	DisGeNet	
+IFNG	C0860207	Drug-Induced Liver Injury	DisGeNet	
+TNF	C0860207	Drug-Induced Liver Injury	DisGeNet	
+IFNG	C0699949	airway disease	DisGeNet	
+LTB	C0699949	airway disease	DisGeNet	
+TNF	C0699949	airway disease	DisGeNet	
+IFNG	C0009443	Familial cold-induced inflammatory syndrome 1, 120100 (3)	DisGeNet	
+TNF	C0009443	Familial cold-induced inflammatory syndrome 1, 120100 (3)	DisGeNet	
+CYP2C19	C0031350	Pharyngitis	DisGeNet	
+TNF	C0031350	Pharyngitis	DisGeNet	
+IFNG	C1851585	Myeloproliferative disorder, chronic, with eosinophilia	DisGeNet	
+TNF	C1851585	Myeloproliferative disorder, chronic, with eosinophilia	DisGeNet	
+IFNG	C0024534	Malaria, Cerebral	DisGeNet	
+LTA	C0024534	Malaria, Cerebral	DisGeNet	
+TNF	C0024534	Malaria, Cerebral	DisGeNet	
+CYP2C19	C0003872	Arthritis, Psoriatic	DisGeNet	
+IFNG	C0003872	Arthritis, Psoriatic	DisGeNet	
+LTA	C0003872	Arthritis, Psoriatic	ClinVar,DisGeNet	
+TNF	C0003872	Arthritis, Psoriatic	DisGeNet	
+IFNG	C0018188	Granuloma	DisGeNet	
+TNF	C0018188	Granuloma	DisGeNet	
+IFNG	C0032965	Pregnancy Complications, Infectious	DisGeNet	
+TNF	C0032965	Pregnancy Complications, Infectious	DisGeNet	
+LTA	C3714644	Neoplasm of the thymus	DisGeNet	
+TNF	C3714644	Neoplasm of the thymus	DisGeNet	
+IFNG	C0024537	Malaria, Vivax	DisGeNet	
+TNF	C0024537	Malaria, Vivax	DisGeNet	
+IFNG	C0206061	Interstitial lung and liver disease	DisGeNet	
+TNF	C0206061	Interstitial lung and liver disease	DisGeNet	
+IFNG	C1519176	Pleomorphic adenoma of salivary gland	DisGeNet	
+TNF	C1519176	Pleomorphic adenoma of salivary gland	DisGeNet	
+CYP2E1	C0023343	Leprosy	DisGeNet	
+IFNG	C0023343	Leprosy	DisGeNet	
+LTA	C0023343	Leprosy	ClinVar,DisGeNet	
+TNF	C0023343	Leprosy	DisGeNet	
+IFNG	C0031094	Periodontal Pocket	DisGeNet	
+TNF	C0031094	Periodontal Pocket	DisGeNet	
+IFNG	C0038160	Staphylococcal Infections	DisGeNet	
+TNF	C0038160	Staphylococcal Infections	DisGeNet	
+IFNG	C0275522	Asymptomatic Infections	DisGeNet	
+TNF	C0275522	Asymptomatic Infections	DisGeNet	
+IFNG	C0853662	Oestrogen deficiency	DisGeNet	
+TNF	C0853662	Oestrogen deficiency	DisGeNet	
+IFNG	C0002390	Extrinsic allergic alveolitis	DisGeNet	
+TNF	C0002390	Extrinsic allergic alveolitis	DisGeNet	
+IFNG	C0021345	Fatal infectious mononucleosis	DisGeNet	
+TNF	C0021345	Fatal infectious mononucleosis	DisGeNet	
+IFNG	C0023646	Lichen planus pemphigoides	DisGeNet	
+TNF	C0023646	Lichen planus pemphigoides	DisGeNet	
+CYP2E1	C0851887	Adenoviral infections	DisGeNet	
+TNF	C0851887	Adenoviral infections	DisGeNet	
+IFNG	C0221198	NOONAN-LIKE/MULTIPLE GIANT CELL LESION SYNDROME (disorder)	DisGeNet	
+LTA	C0221198	NOONAN-LIKE/MULTIPLE GIANT CELL LESION SYNDROME (disorder)	DisGeNet	
+TNF	C0221198	NOONAN-LIKE/MULTIPLE GIANT CELL LESION SYNDROME (disorder)	DisGeNet	
+CYP2C19	C0333186	Restenosis	DisGeNet	
+IFNG	C0333186	Restenosis	DisGeNet	
+LTA	C0333186	Restenosis	DisGeNet	
+TNF	C0333186	Restenosis	DisGeNet	
+IFNG	C0011608	Dermatitis Herpetiformis	DisGeNet	
+TNF	C0011608	Dermatitis Herpetiformis	DisGeNet	
+IFNG	C0014661	Equine Infectious Anemia	DisGeNet	
+TNF	C0014661	Equine Infectious Anemia	DisGeNet	
+LTA	C0019151	Hepatic encephalopathy	DisGeNet	
+TNF	C0019151	Hepatic encephalopathy	DisGeNet	
+IFNG	C0026766	Multiple Organ Failure	DisGeNet	
+TNF	C0026766	Multiple Organ Failure	DisGeNet	
+CYP2C19	C0035457	Rhinitis, Allergic, Perennial	DisGeNet	
+TNF	C0035457	Rhinitis, Allergic, Perennial	DisGeNet	
+IFNG	C0036349	Paranoid Schizophrenia	DisGeNet	
+TNF	C0036349	Paranoid Schizophrenia	DisGeNet	
+IFNG	C0042961	Volvulus	DisGeNet	
+TNF	C0042961	Volvulus	DisGeNet	
+CYP2E1	C0151526	Premature Birth	DisGeNet	
+IFNG	C0151526	Premature Birth	DisGeNet	
+LST1	C0151526	Premature Birth	DisGeNet	
+LTA	C0151526	Premature Birth	DisGeNet	
+TNF	C0151526	Premature Birth	DisGeNet	
+IFNG	C0032533	Polymyalgia Rheumatica	DisGeNet	
+TNF	C0032533	Polymyalgia Rheumatica	DisGeNet	
+LTA	C0041582	Peptic Ulcer Hemorrhage	DisGeNet	
+TNF	C0041582	Peptic Ulcer Hemorrhage	DisGeNet	
+IFNG	C2939465	Deficiency of glucose-6-phosphate dehydrogenase	DisGeNet	
+TNF	C2939465	Deficiency of glucose-6-phosphate dehydrogenase	DisGeNet	
+IFNG	C0023443	Hairy Cell Leukemia	DisGeNet	
+LTA	C0023443	Hairy Cell Leukemia	DisGeNet	
+TNF	C0023443	Hairy Cell Leukemia	DisGeNet	
+IFNG	C0002382	Alveolar Bone Loss	DisGeNet	
+TNF	C0002382	Alveolar Bone Loss	DisGeNet	
+IFNG	C0009663	Condylomata Acuminata	DisGeNet	
+TNF	C0009663	Condylomata Acuminata	DisGeNet	
+IFNG	C0036117	Salmonella infections	DisGeNet	
+TNF	C0036117	Salmonella infections	DisGeNet	
+IFNG	C0037354	Smallpox	DisGeNet	
+TNF	C0037354	Smallpox	DisGeNet	
+LTA	C0694549	Community acquired pneumonia	DisGeNet	
+TNF	C0694549	Community acquired pneumonia	DisGeNet	
+CYP2C19	C0919532	Genomic Instability	DisGeNet	
+CYP2E1	C0919532	Genomic Instability	DisGeNet	
+LST1	C0035305	Retinal detachment	DisGeNet	
+LTA	C0035305	Retinal detachment	DisGeNet	
+TNF	C0035305	Retinal detachment	DisGeNet	
+IFNG	C0398650	Idiopathic thrombocytopenic purpura	DisGeNet	
+LTA	C0398650	Idiopathic thrombocytopenic purpura	DisGeNet	
+TNF	C0398650	Idiopathic thrombocytopenic purpura	DisGeNet	
+IFNG	C0019372	Herpesviridae Infections	DisGeNet	
+TNF	C0019372	Herpesviridae Infections	DisGeNet	
+IFNG	C0037928	Chronic myelopathy	DisGeNet	
+TNF	C0037928	Chronic myelopathy	DisGeNet	
+IFNG	C0031154	Peritonitis	DisGeNet	
+LTB	C0031154	Peritonitis	DisGeNet	
+TNF	C0031154	Peritonitis	DisGeNet	
+IFNG	C0014518	Toxic Epidermal Necrolysis	DisGeNet	
+TNF	C0014518	Toxic Epidermal Necrolysis	DisGeNet	
+CYP2E1	C0376670	Pancreatitis, Alcoholic	DisGeNet	
+TNF	C0376670	Pancreatitis, Alcoholic	DisGeNet	
+LTA	C1333762	Gastric Cardia Adenocarcinoma	DisGeNet	
+TNF	C1333762	Gastric Cardia Adenocarcinoma	DisGeNet	
+IFNG	C3665419	Intracranial glioma	DisGeNet	
+TNF	C3665419	Intracranial glioma	DisGeNet	
+CYP2C19	C0155626	Acute myocardial infarction	DisGeNet	
+IFNG	C0155626	Acute myocardial infarction	DisGeNet	
+LTA	C0155626	Acute myocardial infarction	DisGeNet	
+TNF	C0155626	Acute myocardial infarction	DisGeNet	
+CYP2C19	C0038358	Gastric ulcer	DisGeNet	
+LTA	C0038358	Gastric ulcer	DisGeNet	
+TNF	C0038358	Gastric ulcer	DisGeNet	
+IFNG	C0020523	Immediate hypersensitivity	DisGeNet	
+LTA	C0020523	Immediate hypersensitivity	DisGeNet	
+TNF	C0020523	Immediate hypersensitivity	DisGeNet	
+IFNG	C0149939	Obstructive nephropathy	DisGeNet	
+TNF	C0149939	Obstructive nephropathy	DisGeNet	
+CYP2E1	C2718067	Alcoholic Steatohepatitis	DisGeNet	
+TNF	C2718067	Alcoholic Steatohepatitis	DisGeNet	
+IFNG	C0403416	Idiopathic crescentic glomerulonephritis	DisGeNet	
+TNF	C0403416	Idiopathic crescentic glomerulonephritis	DisGeNet	
+CYP2E1	C0019829	Hodgkin Disease	DisGeNet	
+IFNG	C0019829	Hodgkin Disease	DisGeNet	
+LTA	C0019829	Hodgkin Disease	DisGeNet	
+LTB	C0019829	Hodgkin Disease	DisGeNet	
+TNF	C0019829	Hodgkin Disease	DisGeNet	
+IFNG	C0151332	Active tuberculosis	DisGeNet	
+TNF	C0151332	Active tuberculosis	DisGeNet	
+IFNG	C0543697	Mixed cryoglobulinemia	DisGeNet	
+TNF	C0543697	Mixed cryoglobulinemia	DisGeNet	
+CYP2E1	C0241910	Hepatitis, Autoimmune	DisGeNet	
+IFNG	C0241910	Hepatitis, Autoimmune	DisGeNet	
+TNF	C0241910	Hepatitis, Autoimmune	DisGeNet	
+LTA	C0162565	Acute intermittent porphyria	DisGeNet	
+TNF	C0162565	Acute intermittent porphyria	DisGeNet	
+LTA	C0162739	HELLP Syndrome	DisGeNet	
+TNF	C0162739	HELLP Syndrome	DisGeNet	
+IFNG	C0009447	Common variable immunodeficiency 2	DisGeNet	
+LTA	C0009447	Common variable immunodeficiency 2	DisGeNet	
+TNF	C0009447	Common variable immunodeficiency 2	DisGeNet	
+IFNG	C0005956	Myelopathy	DisGeNet	
+TNF	C0005956	Myelopathy	DisGeNet	
+IFNG	C0026857	Musculoskeletal Diseases	DisGeNet	
+LST1	C0026857	Musculoskeletal Diseases	DisGeNet	
+TNF	C0026857	Musculoskeletal Diseases	DisGeNet	
+IFNG	C0032964	Pregnancy Complications, Hematologic	DisGeNet	
+LST1	C0032964	Pregnancy Complications, Hematologic	DisGeNet	
+TNF	C0032964	Pregnancy Complications, Hematologic	DisGeNet	
+IFNG	C0006309	Brucellosis	DisGeNet	
+TNF	C0006309	Brucellosis	DisGeNet	
+IFNG	C0162557	Acute hepatic failure	DisGeNet	
+LTA	C0162557	Acute hepatic failure	DisGeNet	
+TNF	C0162557	Acute hepatic failure	DisGeNet	
+LTA	C0042165	Anterior uveitis	DisGeNet	
+TNF	C0042165	Anterior uveitis	DisGeNet	
+CYP2C19	C0524909	Hepatitis B, Chronic	DisGeNet	
+IFNG	C0524909	Hepatitis B, Chronic	DisGeNet	
+LTA	C0524909	Hepatitis B, Chronic	DisGeNet	
+TNF	C0524909	Hepatitis B, Chronic	DisGeNet	
+IFNG	C0032231	Pleuritis	DisGeNet	
+TNF	C0032231	Pleuritis	DisGeNet	
+CYP2C19	C0751956	Acute Cerebrovascular Accidents	DisGeNet	
+TNF	C0751956	Acute Cerebrovascular Accidents	DisGeNet	
+IFNG	C0950124	Papillomavirus Infections	DisGeNet	
+TNF	C0950124	Papillomavirus Infections	DisGeNet	
+IFNG	C0206062	Lung Diseases, Interstitial	DisGeNet	
+LTA	C0206062	Lung Diseases, Interstitial	DisGeNet	
+TNF	C0206062	Lung Diseases, Interstitial	DisGeNet	
+CYP2E1	C0162309	Adrenoleukodystrophy	DisGeNet	
+IFNG	C0162309	Adrenoleukodystrophy	DisGeNet	
+TNF	C0162309	Adrenoleukodystrophy	DisGeNet	
+IFNG	C0856825	Acute GVH disease	DisGeNet	
+LTA	C0856825	Acute GVH disease	DisGeNet	
+TNF	C0856825	Acute GVH disease	DisGeNet	
+IFNG	C0027813	Neuritis	DisGeNet	
+TNF	C0027813	Neuritis	DisGeNet	
+IFNG	C0035920	Rubella	DisGeNet	
+TNF	C0035920	Rubella	DisGeNet	
+IFNG	C0085435	Arthritis, Reactive	DisGeNet	
+TNF	C0085435	Arthritis, Reactive	DisGeNet	
+IFNG	C0085786	Idiopathic fibrosing alveolitis, chronic form	DisGeNet	
+TNF	C0085786	Idiopathic fibrosing alveolitis, chronic form	DisGeNet	
+CYP2E1	C0030305	Pancreatitis	DisGeNet	
+IFNG	C0030305	Pancreatitis	DisGeNet	
+LTA	C0030305	Pancreatitis	DisGeNet	
+TNF	C0030305	Pancreatitis	DisGeNet	
+IFNG	C0023364	Leptospirosis	DisGeNet	
+TNF	C0023364	Leptospirosis	DisGeNet	
+IFNG	C0037116	Silicosis	DisGeNet	
+TNF	C0037116	Silicosis	DisGeNet	
+CYP2C19	C0005695	Urinary Bladder Neoplasms	DisGeNet	
+CYP2E1	C0005695	Urinary Bladder Neoplasms	DisGeNet	
+IFNG	C0005695	Urinary Bladder Neoplasms	DisGeNet	
+LTA	C0005695	Urinary Bladder Neoplasms	DisGeNet	
+TNF	C0005695	Urinary Bladder Neoplasms	DisGeNet	
+CYP2C19	C0014869	Peptic Esophagitis	DisGeNet	
+TNF	C0014869	Peptic Esophagitis	DisGeNet	
+CYP2E1	C0033054	Prenatal Exposure Delayed Effects	DisGeNet	
+TNF	C0033054	Prenatal Exposure Delayed Effects	DisGeNet	
+CYP2E1	C0333873	Squamous intraepithelial lesion	DisGeNet	
+TNF	C0333873	Squamous intraepithelial lesion	DisGeNet	
+CYP2E1	C0032285	Pneumonia	DisGeNet	
+IFNG	C0032285	Pneumonia	DisGeNet	
+LTA	C0032285	Pneumonia	DisGeNet	
+LTB	C0032285	Pneumonia	DisGeNet	
+TNF	C0032285	Pneumonia	DisGeNet	
+IFNG	C0276275	Disease due to Parvoviridae	DisGeNet	
+TNF	C0276275	Disease due to Parvoviridae	DisGeNet	
+IFNG	C0015929	Fetal Diseases	DisGeNet	
+LST1	C0015929	Fetal Diseases	DisGeNet	
+TNF	C0015929	Fetal Diseases	DisGeNet	
+CYP2C19	C0085096	Peripheral Arterial Disease	DisGeNet	
+LTA	C0085096	Peripheral Arterial Disease	DisGeNet	
+TNF	C0085096	Peripheral Arterial Disease	DisGeNet	
+CYP2C19	C0850666	Helicobacter pylori infection	DisGeNet	
+CYP2E1	C0850666	Helicobacter pylori infection	DisGeNet	
+IFNG	C0850666	Helicobacter pylori infection	DisGeNet	
+TNF	C0850666	Helicobacter pylori infection	DisGeNet	
+IFNG	C0042164	Uveitis	DisGeNet	
+LTA	C0042164	Uveitis	DisGeNet	
+TNF	C0042164	Uveitis	DisGeNet	
+CYP2C19	C0005426	Biliary tract neoplasm	DisGeNet	
+TNF	C0005426	Biliary tract neoplasm	DisGeNet	
+IFNG	C0023281	Leishmaniasis	DisGeNet	
+TNF	C0023281	Leishmaniasis	DisGeNet	
+IFNG	C3665444	Chronic neutrophilia	DisGeNet	
+TNF	C3665444	Chronic neutrophilia	DisGeNet	
+IFNG	C0025007	Measles	DisGeNet	
+LTA	C0025007	Measles	DisGeNet	
+TNF	C0025007	Measles	DisGeNet	
+IFNG	C0027659	Neoplasms, Experimental	DisGeNet	
+TNF	C0027659	Neoplasms, Experimental	DisGeNet	
+CYP2E1	C3241937	Nonalcoholic Steatohepatitis	DisGeNet	
+IFNG	C3241937	Nonalcoholic Steatohepatitis	DisGeNet	
+TNF	C3241937	Nonalcoholic Steatohepatitis	DisGeNet	
+LTA	C0036983	 {Septic shock, susceptibility to} (3)	DisGeNet	
+TNF	C0036983	 {Septic shock, susceptibility to} (3)	DisGeNet	
+IFNG	C1847835	VITILIGO-ASSOCIATED MULTIPLE AUTOIMMUNE DISEASE SUSCEPTIBILITY 1 (finding)	DisGeNet	
+LTA	C1847835	VITILIGO-ASSOCIATED MULTIPLE AUTOIMMUNE DISEASE SUSCEPTIBILITY 1 (finding)	DisGeNet	
+TNF	C1847835	VITILIGO-ASSOCIATED MULTIPLE AUTOIMMUNE DISEASE SUSCEPTIBILITY 1 (finding)	DisGeNet	
+IFNG	C0029134	Optic neuritis	DisGeNet	
+TNF	C0029134	Optic neuritis	DisGeNet	
+CYP2E1	C0002875	Cooley's anemia	DisGeNet	
+IFNG	C0002875	Cooley's anemia	DisGeNet	
+IFNG	C0006272	Bronchiolitis Obliterans	DisGeNet	
+TNF	C0006272	Bronchiolitis Obliterans	DisGeNet	
+IFNG	C0242994	Hantavirus infection in conditions classified elsewhere and of unspecified site	DisGeNet	
+TNF	C0242994	Hantavirus infection in conditions classified elsewhere and of unspecified site	DisGeNet	
+CYP2C19	C0400966	Non-alcoholic Fatty Liver Disease	DisGeNet	
+CYP2E1	C0400966	Non-alcoholic Fatty Liver Disease	DisGeNet	
+IFNG	C0400966	Non-alcoholic Fatty Liver Disease	DisGeNet	
+TNF	C0400966	Non-alcoholic Fatty Liver Disease	DisGeNet	
+CYP2C19	C0014868	Esophagitis	DisGeNet	
+TNF	C0014868	Esophagitis	DisGeNet	
+IFNG	C0751356	Idiopathic Inflammatory Myopathies	DisGeNet	
+TNF	C0751356	Idiopathic Inflammatory Myopathies	DisGeNet	
+CYP2E1	C1332977	Childhood Leukemia	DisGeNet	
+IFNG	C1332977	Childhood Leukemia	DisGeNet	
+CYP2C19	C0948089	Acute Coronary Syndrome	DisGeNet	
+IFNG	C0948089	Acute Coronary Syndrome	DisGeNet	
+LTA	C0948089	Acute Coronary Syndrome	DisGeNet	
+TNF	C0948089	Acute Coronary Syndrome	DisGeNet	
+IFNG	C0018889	Helminthiasis	DisGeNet	
+TNF	C0018889	Helminthiasis	DisGeNet	
+IFNG	C1264606	Persistent infection	DisGeNet	
+TNF	C1264606	Persistent infection	DisGeNet	
+IFNG	C0024232	Lymphatic Metastasis	DisGeNet	
+LTA	C0024232	Lymphatic Metastasis	DisGeNet	
+TNF	C0024232	Lymphatic Metastasis	DisGeNet	
+IFNG	C0085129	Bronchial Hyperreactivity	DisGeNet	
+LTA	C0085129	Bronchial Hyperreactivity	DisGeNet	
+TNF	C0085129	Bronchial Hyperreactivity	DisGeNet	
+IFNG	C0006625	Cachexia	DisGeNet	
+LTA	C0006625	Cachexia	DisGeNet	
+TNF	C0006625	Cachexia	DisGeNet	
+CYP2E1	C0002874	Aplastic anemia	DisGeNet	
+IFNG	C0002874	Aplastic anemia	ClinVar,DisGeNet	
+TNF	C0002874	Aplastic anemia	DisGeNet	
+IFNG	C0595936	Aqueous Humor Disorders	DisGeNet	
+TNF	C0595936	Aqueous Humor Disorders	DisGeNet	
+LTA	C0752308	Hypoxia-Ischemia, Brain	DisGeNet	
+TNF	C0752308	Hypoxia-Ischemia, Brain	DisGeNet	
+CYP2C19	C0029421	Osteochondritis dissecans	DisGeNet	
+TNF	C0029421	Osteochondritis dissecans	DisGeNet	
+IFNG	C0040100	Thymoma	DisGeNet	
+LTA	C0040100	Thymoma	DisGeNet	
+TNF	C0040100	Thymoma	DisGeNet	
+IFNG	C0041234	Chronic Chagas' disease	DisGeNet	
+LTA	C0041234	Chronic Chagas' disease	DisGeNet	
+TNF	C0041234	Chronic Chagas' disease	DisGeNet	
+IFNG	C0079745	Lymphoma, Large-Cell, Follicular	DisGeNet	
+LTA	C0079745	Lymphoma, Large-Cell, Follicular	DisGeNet	
+TNF	C0079745	Lymphoma, Large-Cell, Follicular	DisGeNet	
+IFNG	C0019621	Histiocytosis, Langerhans-Cell	DisGeNet	
+TNF	C0019621	Histiocytosis, Langerhans-Cell	DisGeNet	
+CYP2E1	C0028797	Occupational Diseases	DisGeNet	
+TNF	C0028797	Occupational Diseases	DisGeNet	
+IFNG	C0036323	Hepatosplenic schistosomiasis	DisGeNet	
+LTA	C0036323	Hepatosplenic schistosomiasis	DisGeNet	
+IFNG	C0949690	{Spondyloarthropathy, susceptibility to, 1}, 106300 (3)	DisGeNet	
+TNF	C0949690	{Spondyloarthropathy, susceptibility to, 1}, 106300 (3)	DisGeNet	
+IFNG	C0024530	Malaria	DisGeNet	
+LST1	C0024530	Malaria	DisGeNet	
+LTA	C0024530	Malaria	DisGeNet	
+LTB	C0024530	Malaria	DisGeNet	
+TNF	C0024530	Malaria	DisGeNet	
+IFNG	C0011311	Dengue Fever	DisGeNet	
+LTA	C0011311	Dengue Fever	DisGeNet	
+TNF	C0011311	Dengue Fever	DisGeNet	
+IFNG	C0024282	Lymphocytosis	DisGeNet	
+TNF	C0024282	Lymphocytosis	DisGeNet	
+IFNG	C0036974	Shock, Septic	DisGeNet	
+TNF	C0036974	Shock, Septic	DisGeNet	
+LTA	C1535939	Pneumocystis jiroveci pneumonia	DisGeNet	
+TNF	C1535939	Pneumocystis jiroveci pneumonia	DisGeNet	
+IFNG	C0037284	Skin lesion	DisGeNet	
+TNF	C0037284	Skin lesion	DisGeNet	
+LTA	C0338480	Common Migraine	DisGeNet	
+TNF	C0338480	Common Migraine	DisGeNet	
+IFNG	C0266929	Chronic Periodontitis	DisGeNet	
+LTA	C0266929	Chronic Periodontitis	DisGeNet	
+TNF	C0266929	Chronic Periodontitis	DisGeNet	
+IFNG	C0042749	 {HIV-1 viremia, susceptibility to}, 609423 (3)	DisGeNet	
+TNF	C0042749	 {HIV-1 viremia, susceptibility to}, 609423 (3)	DisGeNet	
+IFNG	C0242488	Acute Lung Injury	DisGeNet	
+TNF	C0242488	Acute Lung Injury	DisGeNet	
+IFNG	C0036220	Kaposi's sarcoma	DisGeNet	
+LTA	C0036220	Kaposi's sarcoma	DisGeNet	
+TNF	C0036220	Kaposi's sarcoma	DisGeNet	
+CYP2C19	C0011570	{Unipolar depression, susceptibility to}, 608516 (3)	DisGeNet	
+CYP2E1	C0011570	{Unipolar depression, susceptibility to}, 608516 (3)	DisGeNet	
+IFNG	C0011570	{Unipolar depression, susceptibility to}, 608516 (3)	DisGeNet	
+LTA	C0011570	{Unipolar depression, susceptibility to}, 608516 (3)	DisGeNet	
+TNF	C0011570	{Unipolar depression, susceptibility to}, 608516 (3)	DisGeNet	
+IFNG	C0021361	Female infertility	DisGeNet	
+TNF	C0021361	Female infertility	DisGeNet	
+IFNG	C0002962	Angina pectoris	DisGeNet	
+TNF	C0002962	Angina pectoris	DisGeNet	
+IFNG	C0019100	Severe Dengue	DisGeNet	
+TNF	C0019100	Severe Dengue	DisGeNet	
+IFNG	C0872054	latent infection	DisGeNet	
+TNF	C0872054	latent infection	DisGeNet	
+CYP2C19	C0019080	Bleeding with minor or no trauma	DisGeNet	
+TNF	C0019080	Bleeding with minor or no trauma	DisGeNet	
+IFNG	C0027686	Pathologic Neovascularization	DisGeNet	
+TNF	C0027686	Pathologic Neovascularization	DisGeNet	
+IFNG	C0030809	Pemphigus Vulgaris	DisGeNet	
+TNF	C0030809	Pemphigus Vulgaris	DisGeNet	
+IFNG	C3495801	Granulomatosis with Polyangiitis	DisGeNet	
+TNF	C3495801	Granulomatosis with Polyangiitis	DisGeNet	
+IFNG	C3714757	Juvenile rheumatoid arthritis	DisGeNet	
+LTA	C3714757	Juvenile rheumatoid arthritis	DisGeNet	
+TNF	C3714757	Juvenile rheumatoid arthritis	DisGeNet	
+CYP2E1	C0016059	Fibrosis	DisGeNet	
+IFNG	C0016059	Fibrosis	DisGeNet	
+TNF	C0016059	Fibrosis	DisGeNet	
+LTB	C0008677	Bronchitis, Chronic	DisGeNet	
+TNF	C0008677	Bronchitis, Chronic	DisGeNet	
+IFNG	C0024790	Paroxysmal nocturnal hemoglobinuria	DisGeNet	
+TNF	C0024790	Paroxysmal nocturnal hemoglobinuria	DisGeNet	
+IFNG	C0080032	Pleural Effusion, Malignant	DisGeNet	
+TNF	C0080032	Pleural Effusion, Malignant	DisGeNet	
+IFNG	C0221204	Osteolysis	DisGeNet	
+TNF	C0221204	Osteolysis	DisGeNet	
+IFNG	C0006111	Brain Diseases	DisGeNet	
+LTA	C0006111	Brain Diseases	DisGeNet	
+TNF	C0006111	Brain Diseases	DisGeNet	
+CYP2C19	C0042963	Vomiting	DisGeNet	
+CYP2E1	C0042963	Vomiting	DisGeNet	
+IFNG	C0042963	Vomiting	DisGeNet	
+CYP2C19	C0036421	Scleroderma	DisGeNet	
+CYP2E1	C0036421	Scleroderma	DisGeNet	
+IFNG	C0036421	Scleroderma	DisGeNet	
+LTA	C0036421	Scleroderma	DisGeNet	
+TNF	C0036421	Scleroderma	DisGeNet	
+IFNG	C0009782	Connective Tissue Diseases	DisGeNet	
+LST1	C0009782	Connective Tissue Diseases	DisGeNet	
+TNF	C0009782	Connective Tissue Diseases	DisGeNet	
+CYP2E1	C0014599	Epithelial hyperplasia of skin	DisGeNet	
+TNF	C0014599	Epithelial hyperplasia of skin	DisGeNet	
+IFNG	C0018203	Granulomatous disease, chronic, autosomal recessive, cytochrome b-negative	DisGeNet	
+TNF	C0018203	Granulomatous disease, chronic, autosomal recessive, cytochrome b-negative	DisGeNet	
+LTA	C0000809	Recurrent abortion	DisGeNet	
+TNF	C0000809	Recurrent abortion	DisGeNet	
+IFNG	C0002171	Alopecia Areata	DisGeNet	
+TNF	C0002171	Alopecia Areata	DisGeNet	
+IFNG	C0241158	Scar conditions and fibrosis of skin	DisGeNet	
+TNF	C0241158	Scar conditions and fibrosis of skin	DisGeNet	
+CYP2E1	C0032914	Preeclampsia/eclampsia 1	DisGeNet	
+IFNG	C0032914	Preeclampsia/eclampsia 1	DisGeNet	
+LTA	C0032914	Preeclampsia/eclampsia 1	DisGeNet	
+TNF	C0032914	Preeclampsia/eclampsia 1	DisGeNet	
+IFNG	C0155877	Allergic asthma	DisGeNet	
+LTA	C0155877	Allergic asthma	DisGeNet	
+TNF	C0155877	Allergic asthma	DisGeNet	
+CYP2C19	C0023895	Liver Diseases	DisGeNet	
+CYP2E1	C0023895	Liver Diseases	DisGeNet	
+IFNG	C0023895	Liver Diseases	DisGeNet	
+LTA	C0023895	Liver Diseases	DisGeNet	
+TNF	C0023895	Liver Diseases	DisGeNet	
+IFNG	C0026691	Mucocutaneous Lymph Node Syndrome	DisGeNet	
+LTA	C0026691	Mucocutaneous Lymph Node Syndrome	DisGeNet	
+TNF	C0026691	Mucocutaneous Lymph Node Syndrome	DisGeNet	
+IFNG	C0024291	Lymphohistiocytosis, Hemophagocytic	DisGeNet	
+TNF	C0024291	Lymphohistiocytosis, Hemophagocytic	DisGeNet	
+CYP2E1	C0025568	Metaplasia	DisGeNet	
+TNF	C0025568	Metaplasia	DisGeNet	
+IFNG	C0021079	IMMUNE SUPPRESSION	DisGeNet	
+TNF	C0021079	IMMUNE SUPPRESSION	DisGeNet	
+IFNG	C0362046	Prediabetes syndrome	DisGeNet	
+TNF	C0362046	Prediabetes syndrome	DisGeNet	
+CYP2C19	C0019159	Hepatitis	DisGeNet	
+CYP2E1	C0019159	Hepatitis	DisGeNet	
+IFNG	C0019159	Hepatitis	DisGeNet	
+TNF	C0019159	Hepatitis	DisGeNet	
+CYP2E1	C0238339	Hereditary pancreatitis	DisGeNet	
+IFNG	C0238339	Hereditary pancreatitis	DisGeNet	
+LTA	C0238339	Hereditary pancreatitis	DisGeNet	
+TNF	C0238339	Hereditary pancreatitis	DisGeNet	
+IFNG	C0011303	Demyelinating Diseases	DisGeNet	
+TNF	C0011303	Demyelinating Diseases	DisGeNet	
+CYP2E1	C0333875	High-Grade Squamous Intraepithelial Lesions	DisGeNet	
+TNF	C0333875	High-Grade Squamous Intraepithelial Lesions	DisGeNet	
+CYP2C19	C0025500	Mesothelioma, malignant	DisGeNet	
+CYP2E1	C0025500	Mesothelioma, malignant	DisGeNet	
+IFNG	C0025500	Mesothelioma, malignant	DisGeNet	
+TNF	C0025500	Mesothelioma, malignant	DisGeNet	
+CYP2E1	C0243026	Sepsis	DisGeNet	
+IFNG	C0243026	Sepsis	DisGeNet	
+LST1	C0243026	Sepsis	DisGeNet	
+LTA	C0243026	Sepsis	DisGeNet	
+TNF	C0243026	Sepsis	DisGeNet	
+IFNG	C0026896	Myasthenia Gravis	DisGeNet	
+LTA	C0026896	Myasthenia Gravis	DisGeNet	
+TNF	C0026896	Myasthenia Gravis	DisGeNet	
+IFNG	C0017665	Membranous nephropathy, susceptibility to	DisGeNet	
+TNF	C0017665	Membranous nephropathy, susceptibility to	DisGeNet	
+LTA	C0264716	Chronic heart failure	DisGeNet	
+TNF	C0264716	Chronic heart failure	DisGeNet	
+IFNG	C0085207	Maternal diabetes	DisGeNet	
+LTA	C0085207	Maternal diabetes	DisGeNet	
+TNF	C0085207	Maternal diabetes	DisGeNet	
+CYP2C19	C0024117	Chronic obstructive pulmonary disease	DisGeNet	
+CYP2E1	C0024117	Chronic obstructive pulmonary disease	DisGeNet	
+IFNG	C0024117	Chronic obstructive pulmonary disease	DisGeNet	
+LTA	C0024117	Chronic obstructive pulmonary disease	DisGeNet	
+LTB	C0024117	Chronic obstructive pulmonary disease	DisGeNet	
+TNF	C0024117	Chronic obstructive pulmonary disease	DisGeNet	
+IFNG	C0006274	Bronchiolitis, Viral	DisGeNet	
+LTA	C0006274	Bronchiolitis, Viral	DisGeNet	
+TNF	C0006274	Bronchiolitis, Viral	DisGeNet	
+IFNG	C0034067	Pulmonary Emphysema	DisGeNet	
+LTB	C0034067	Pulmonary Emphysema	DisGeNet	
+TNF	C0034067	Pulmonary Emphysema	DisGeNet	
+CYP2C19	C0028768	Obsessive-compulsive disorder	DisGeNet	
+TNF	C0028768	Obsessive-compulsive disorder	DisGeNet	
+CYP2E1	C0206708	Cervical intraepithelial neoplasia (Cervical dysplasia)	DisGeNet	
+IFNG	C0206708	Cervical intraepithelial neoplasia (Cervical dysplasia)	DisGeNet	
+TNF	C0206708	Cervical intraepithelial neoplasia (Cervical dysplasia)	DisGeNet	
+IFNG	C0037579	Soft Tissue Neoplasms	DisGeNet	
+TNF	C0037579	Soft Tissue Neoplasms	DisGeNet	
+IFNG	C0043144	Wheezing	DisGeNet	
+TNF	C0043144	Wheezing	DisGeNet	
+IFNG	C0238790	bone destruction	DisGeNet	
+TNF	C0238790	bone destruction	DisGeNet	
+IFNG	C0520463	Chronic active hepatitis	DisGeNet	
+TNF	C0520463	Chronic active hepatitis	DisGeNet	
+LTA	C1719672	Severe Sepsis	DisGeNet	
+TNF	C1719672	Severe Sepsis	DisGeNet	
+LTA	C0019340	Herpes NOS	DisGeNet	
+TNF	C0019340	Herpes NOS	DisGeNet	
+IFNG	C0023290	Leishmaniasis, Visceral	DisGeNet	
+TNF	C0023290	Leishmaniasis, Visceral	DisGeNet	
+IFNG	C0149516	Chronic sinusitis	DisGeNet	
+TNF	C0149516	Chronic sinusitis	DisGeNet	
+IFNG	C0011616	Contact Dermatitis	DisGeNet	
+TNF	C0011616	Contact Dermatitis	DisGeNet	
+IFNG	C0031106	Periodontitis, Juvenile	DisGeNet	
+TNF	C0031106	Periodontitis, Juvenile	DisGeNet	
+IFNG	C0205734	Latent autoimmune diabetes mellitus in adult	DisGeNet	
+TNF	C0205734	Latent autoimmune diabetes mellitus in adult	DisGeNet	
+IFNG	C3469521	FANCONI ANEMIA, COMPLEMENTATION GROUP A (disorder)	DisGeNet	
+LTA	C3469521	FANCONI ANEMIA, COMPLEMENTATION GROUP A (disorder)	DisGeNet	
+TNF	C3469521	FANCONI ANEMIA, COMPLEMENTATION GROUP A (disorder)	DisGeNet	
+CYP2C19	C0004943	Behcet Syndrome	DisGeNet	
+IFNG	C0004943	Behcet Syndrome	DisGeNet	
+LTA	C0004943	Behcet Syndrome	DisGeNet,PheGenI	
+TNF	C0004943	Behcet Syndrome	DisGeNet	
+LTA	C0042029	Urinary tract infection	DisGeNet	
+TNF	C0042029	Urinary tract infection	DisGeNet	
+IFNG	C0011389	Plaque, Atherosclerotic	DisGeNet	
+LTA	C0011389	Plaque, Atherosclerotic	DisGeNet	
+TNF	C0011389	Plaque, Atherosclerotic	DisGeNet	
+CYP2C19	C0024143	Lupus Nephritis	DisGeNet	
+IFNG	C0024143	Lupus Nephritis	DisGeNet	
+TNF	C0024143	Lupus Nephritis	DisGeNet	
+CYP2E1	C0026640	Neoplasm of the oral cavity	DisGeNet	
+LTA	C0026640	Neoplasm of the oral cavity	DisGeNet	
+TNF	C0026640	Neoplasm of the oral cavity	DisGeNet	
+IFNG	C0015967	Malignant hyperthermia susceptibility type 5	DisGeNet	
+LTA	C0015967	Malignant hyperthermia susceptibility type 5	DisGeNet	
+TNF	C0015967	Malignant hyperthermia susceptibility type 5	DisGeNet	
+LTA	C2919828	Chronic ulcerative colitis	DisGeNet	
+TNF	C2919828	Chronic ulcerative colitis	DisGeNet	

@@ -1,0 +1,7 @@
+Gene	CUI	Source Databases	
+SLC22A1	C0005398	Extrahepatic cholestasis	DisGeNet	
+SLC22A2	C0005398	Extrahepatic cholestasis	DisGeNet	
+SLC22A1	C0008372	Intrahepatic cholestasis	DisGeNet	
+SLC22A2	C0008372	Intrahepatic cholestasis	DisGeNet	
+SLC22A1	C0376618	Endotoxemia	DisGeNet	
+SLC22A2	C0376618	Endotoxemia	DisGeNet	

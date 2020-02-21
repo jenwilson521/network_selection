@@ -1,0 +1,183 @@
+node1	node2	edge_score	
+DB08916	ERBB2	1.0	
+DB08916	ABCB1	1.0	
+DB08916	EGFR	1.0	
+DB08916	ABCG2	1.0	
+DB08916	ERBB4	1.0	
+ABCB1	rs4148740	0.99
+ABCB1	rs2032583	0.99
+ABCB1	rs4148737	0.99
+ABCB1	rs10280101	0.99
+ABCB1	rs3213619	0.99
+ABCB1	rs3842	0.99
+ABCB1	rs12720067	0.99
+ABCB1	rs10276036	0.99
+ABCB1	rs11983225	0.99
+ABCG2	rs72552713	0.99
+ABCB1	rs1922242	0.99
+ABCB1	rs3789243	0.99
+ABCB1		1.0
+ABCG2	rs58818712	0.99
+ABCB1	ABCB1*2(PMID:11503014)	0.99
+ABCG2	rs17731538	0.99
+EGFR	rs712830	0.99
+ABCG2	rs1061018	0.99
+ABCB1	ABCB1*1, ABCB1*2(PMID:11503014)	0.99
+ABCG2	rs41282401	0.99
+EGFR	rs121434568	0.99
+ABCG2	rs12505410	0.99
+EGFR	rs2227983	0.99
+ABCG2	rs13120400	0.99
+ABCB1	rs10267099	0.99
+ABCB1	rs7787082	0.99
+ABCG2	rs2231135	0.99
+ABCB1	rs4148738	0.99
+ABCB1	rs4148739	0.99
+ABCB1	rs72552784	0.99
+ABCB1	rs28401781	0.99
+ABCB1	rs2235047	0.99
+ABCG2	rs2199939	0.99
+ABCB1	rs17160359	0.99
+EGFR	rs712829	0.99
+ABCB1	rs2235015	0.99
+EGFR	rs121434569	0.99
+ABCG2		1.0
+ABCG2	rs45605536	0.99
+ABCB1	rs2229109	0.99
+ABCG2	rs4148157	0.99
+EGFR	rs11568315	0.99
+ABCG2	rs2231142	0.99
+ERBB2		1.0
+EGFR	rs2293347	0.99
+ABCB1	rs1128503	0.99
+EGFR		1.0
+ABCB1	rs10248420	0.99
+ABCB1	rs2032582	0.99
+ABCB1	rs4728709	0.99
+ABCG2	rs2725252	0.99
+ABCG2	rs7699188	0.99
+ABCG2	rs3114020	0.99
+ABCB1	rs2235067	0.99
+ABCB1	rs9282564	0.99
+ABCB1	rs1045642	0.99
+ABCG2	rs2231137	0.99
+ABCB1	rs2235040	0.99
+Prostate cancer recurrent	ABCG2	1.0	
+Prostate cancer recurrent	EGFR	1.0	
+Prostate cancer recurrent	ERBB2	1.0	
+Ovarian epithelial cancer stage III	ABCB1	1.0	
+Ovarian epithelial cancer stage III	ABCG2	1.0	
+Ovarian epithelial cancer stage III	ERBB2	1.0	
+Uterine Cancer	ABCB1	1.0	
+Uterine Cancer	EGFR	1.0	
+Uterine Cancer	ERBB2	1.0	
+Breast adenocarcinoma	ABCB1	1.0	
+Breast adenocarcinoma	ABCG2	1.0	
+Breast adenocarcinoma	EGFR	1.0	
+Breast adenocarcinoma	ERBB2	1.0	
+Carcinoma, Neuroendocrine	ABCG2	1.0	
+Carcinoma, Neuroendocrine	EGFR	1.0	
+Carcinoma, Neuroendocrine	ERBB2	1.0	
+Ependymoma	ABCB1	1.0	
+Ependymoma	ABCG2	1.0	
+Ependymoma	EGFR	1.0	
+Ependymoma	ERBB2	1.0	
+Intraosseous mucoepidermoid carcinoma	ABCB1	1.0	
+Intraosseous mucoepidermoid carcinoma	EGFR	1.0	
+Intraosseous mucoepidermoid carcinoma	ERBB2	1.0	
+Refractory cancer	ABCB1	1.0	
+Refractory cancer	EGFR	1.0	
+Refractory cancer	ERBB2	1.0	
+Early-Stage Breast Carcinoma	ABCB1	1.0	
+Early-Stage Breast Carcinoma	EGFR	1.0	
+Early-Stage Breast Carcinoma	ERBB2	1.0	
+Papillary adenocarcinoma	EGFR	1.0	
+Papillary adenocarcinoma	ERBB2	1.0	
+Pleural Neoplasms	ABCG2	1.0	
+Pleural Neoplasms	EGFR	1.0	
+Estrogen resistance	EGFR	1.0	
+Estrogen resistance	ERBB2	1.0	
+androgen independent prostate cancer	ABCB1	1.0	
+androgen independent prostate cancer	ABCG2	1.0	
+androgen independent prostate cancer	EGFR	1.0	
+androgen independent prostate cancer	ERBB2	1.0	
+Gallbladder adenocarcinoma	ABCG2	1.0	
+Gallbladder adenocarcinoma	ERBB2	1.0	
+Malignant neoplasm of brain and nervous system	ABCB1	1.0	
+Malignant neoplasm of brain and nervous system	ABCG2	1.0	
+Malignant neoplasm of brain and nervous system	EGFR	1.0	
+Malignant neoplasm of brain and nervous system	ERBB2	1.0	
+Breast cancer recurrent	EGFR	1.0	
+Breast cancer recurrent	ERBB2	1.0	
+Pyruvate carboxylase deficiency	ABCB1	1.0	
+Pyruvate carboxylase deficiency	EGFR	1.0	
+Squamous Cell Neoplasms	ABCG2	1.0	
+Squamous Cell Neoplasms	EGFR	1.0	
+Lichen Planus, Oral	ABCG2	1.0	
+Lichen Planus, Oral	EGFR	1.0	
+Lichen Planus, Oral	ERBB2	1.0	
+Nasopharyngeal Neoplasms	ABCB1	1.0	
+Nasopharyngeal Neoplasms	EGFR	1.0	
+Nasopharyngeal Neoplasms	ERBB2	1.0	
+Thymic Carcinoma	EGFR	1.0	
+Thymic Carcinoma	ERBB2	1.0	
+Alveolar cell carcinoma	ABCB1	1.0	
+Alveolar cell carcinoma	EGFR	1.0	
+Alveolar cell carcinoma	ERBB2	1.0	
+Gastrinoma	EGFR	1.0	
+Gastrinoma	ERBB2	1.0	
+High-Grade Prostatic Intraepithelial Neoplasia	ABCB1	1.0	
+High-Grade Prostatic Intraepithelial Neoplasia	EGFR	1.0	
+High-Grade Prostatic Intraepithelial Neoplasia	ERBB2	1.0	
+Stage IV Ovarian Carcinoma	EGFR	1.0	
+Stage IV Ovarian Carcinoma	ERBB2	1.0	
+Complete hydatidiform mole	EGFR	1.0	
+Complete hydatidiform mole	ERBB2	1.0	
+Primary Lesion	EGFR	1.0	
+Primary Lesion	ERBB2	1.0	
+Pericardial effusion	EGFR	1.0	
+Pericardial effusion	ERBB2	1.0	
+Comedone	EGFR	1.0	
+Comedone	ERBB2	1.0	
+Sentinel node (disorder)	EGFR	1.0	
+Sentinel node (disorder)	ERBB2	1.0	
+Myelosuppression	ABCB1	1.0	
+Myelosuppression	ABCG2	1.0	
+Metastatic Carcinoma	EGFR	1.0	
+Metastatic Carcinoma	ERBB2	1.0	
+Advanced cancer	ABCB1	1.0	
+Advanced cancer	EGFR	1.0	
+Advanced cancer	ERBB2	1.0	
+Malignant neoplasm of stomach stage IV	EGFR	1.0	
+Malignant neoplasm of stomach stage IV	ERBB2	1.0	
+Adult Acute Lymphocytic Leukemia	ABCB1	1.0	
+Adult Acute Lymphocytic Leukemia	ABCG2	1.0	
+Adult Acute Lymphocytic Leukemia	ERBB2	1.0	
+Neurofibromatoses	EGFR	1.0	
+Neurofibromatoses	ERBB2	1.0	
+Neurotoxicity Syndromes	ABCB1	1.0	
+Neurotoxicity Syndromes	ABCG2	1.0	
+CNS metastases	EGFR	1.0	
+CNS metastases	ERBB2	1.0	
+Carcinosarcoma	EGFR	1.0	
+Carcinosarcoma	ERBB2	1.0	
+Erythroblastosis	EGFR	1.0	
+Erythroblastosis	ERBB2	1.0	
+Primary malignant neoplasm of brain	EGFR	1.0	
+Primary malignant neoplasm of brain	ERBB2	1.0	
+Gestational trophoblastic disease	EGFR	1.0	
+Gestational trophoblastic disease	ERBB2	1.0	
+Malignant neoplasm of male breast	EGFR	1.0	
+Malignant neoplasm of male breast	ERBB2	1.0	
+Juvenile myoclonic epilepsy	ABCB1	1.0	
+Juvenile myoclonic epilepsy	ABCG2	1.0	
+Single tumor	EGFR	1.0	
+Single tumor	ERBB2	1.0	
+Primary Carcinoma	EGFR	1.0	
+Primary Carcinoma	ERBB2	1.0	
+Oropharyngeal disorders	EGFR	1.0	
+Oropharyngeal disorders	ERBB2	1.0	
+Mammary Carcinoma, Human	EGFR	1.0	
+Mammary Carcinoma, Human	ERBB2	1.0	
+Hippocampal sclerosis	ABCB1	1.0	
+Hippocampal sclerosis	ABCG2	1.0	

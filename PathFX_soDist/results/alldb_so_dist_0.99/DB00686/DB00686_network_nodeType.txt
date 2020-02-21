@@ -1,0 +1,5 @@
+node_name	node_type	
+DB00686	drug	
+FGF4	drug_target	
+FGF2	drug_target	
+FGF1	drug_target	

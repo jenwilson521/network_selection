@@ -1,0 +1,165 @@
+node1	node2	edge_score	
+DB05316	HTR2A	1.0	
+DB05316	DRD2	1.0	
+HTR2A	rs6314	0.99
+DRD2	rs2283265	0.99
+DRD2	rs2734842	0.99
+DRD2	rs6275	0.99
+DRD2	rs1799978	0.99
+DRD2	rs6279	0.99
+DRD2	rs2734833	0.99
+DRD2	rs1125394	0.99
+DRD2	rs4460839	0.99
+DRD2	rs4436578	0.99
+DRD2	rs1799732	0.99
+HTR2A	rs6313	0.99
+HTR2A	rs7997012	0.99
+DRD2	rs2440390	0.99
+ANKK1	rs7118900	0.970299
+DRD2	rs1079598	0.99
+DRD2	rs12364283	0.99
+DRD2		1.0
+DRD2	rs1124493	0.99
+HTR2A		1.0
+DRD2	rs6277	0.99
+HTR2A	rs9316233	0.99
+DRD2	rs2734841	0.99
+rs1800497	ANKK1	0.9801
+DRD2	rs1800497	0.99
+DRD2	rs1076560	0.99
+HTR2A	rs6311	0.99
+DRD2	rs1079597	0.99
+HTR2A	rs6305	0.99
+Antisocial Personality Disorder	ANKK1	1.0	
+Antisocial Personality Disorder	DRD2	1.0	
+Antisocial Personality Disorder	HTR2A	1.0	
+Cocaine Dependence	ANKK1	1.0	
+Cocaine Dependence	DRD2	1.0	
+Cocaine Dependence	HTR2A	1.0	
+As If Personality	ANKK1	1.0	
+As If Personality	DRD2	1.0	
+As If Personality	HTR2A	1.0	
+Bipolar I disorder	ANKK1	1.0	
+Bipolar I disorder	DRD2	1.0	
+Bipolar I disorder	HTR2A	1.0	
+Heroin Dependence	ANKK1	1.0	
+Heroin Dependence	DRD2	1.0	
+Heroin Dependence	HTR2A	1.0	
+Psychoses, Substance-Induced	ANKK1	1.0	
+Psychoses, Substance-Induced	DRD2	1.0	
+Psychoses, Substance-Induced	HTR2A	1.0	
+Polyphagia	ANKK1	1.0	
+Polyphagia	DRD2	1.0	
+Polyphagia	HTR2A	1.0	
+Chronic sciatica	DRD2	1.0	
+Chronic sciatica	HTR2A	1.0	
+Bulimia	DRD2	1.0	
+Bulimia	HTR2A	1.0	
+Alcohol abuse	ANKK1	1.0	
+Alcohol abuse	DRD2	1.0	
+Alcohol abuse	HTR2A	1.0	
+Marijuana Abuse	ANKK1	1.0	
+Marijuana Abuse	DRD2	1.0	
+Marijuana Abuse	HTR2A	1.0	
+Dyskinesia, seizures, and intellectual developmental disorder	ANKK1	1.0	
+Dyskinesia, seizures, and intellectual developmental disorder	DRD2	1.0	
+Dyskinesia, seizures, and intellectual developmental disorder	HTR2A	1.0	
+Generalized anxiety disorder	DRD2	1.0	
+Generalized anxiety disorder	HTR2A	1.0	
+Substance Use Disorders	DRD2	1.0	
+Substance Use Disorders	HTR2A	1.0	
+ {Nicotine dependence, protection against}, 188890 (3)	DRD2	1.0	
+ {Nicotine dependence, protection against}, 188890 (3)	HTR2A	1.0	
+Nicotine Dependence	ANKK1	1.0	
+Nicotine Dependence	DRD2	1.0	
+Nicotine Dependence	HTR2A	1.0	
+Chronic schizophrenia	DRD2	1.0	
+Chronic schizophrenia	HTR2A	1.0	
+Acute disease of cardiovascular system	DRD2	1.0	
+Acute disease of cardiovascular system	HTR2A	1.0	
+alcohol use disorder	ANKK1	1.0	
+alcohol use disorder	DRD2	1.0	
+Personality disorder	DRD2	1.0	
+Personality disorder	HTR2A	1.0	
+Neurobehavioral Manifestations	DRD2	1.0	
+Neurobehavioral Manifestations	HTR2A	1.0	
+Bulimia nervosa 1	DRD2	1.0	
+Bulimia nervosa 1	HTR2A	1.0	
+Opiate Addiction	ANKK1	1.0	
+Opiate Addiction	DRD2	1.0	
+Delusions	DRD2	1.0	
+Delusions	HTR2A	1.0	
+Low back pain	DRD2	1.0	
+Low back pain	HTR2A	1.0	
+Insomnia	DRD2	1.0	
+Insomnia	HTR2A	1.0	
+Antisocial/borderline personality disorder	ANKK1	1.0	
+Antisocial/borderline personality disorder	DRD2	1.0	
+Dyskinesia, Drug-Induced	DRD2	1.0	
+Dyskinesia, Drug-Induced	HTR2A	1.0	
+Weight Gain Adverse Event	ANKK1	1.0	
+Weight Gain Adverse Event	DRD2	1.0	
+Weight Gain Adverse Event	HTR2A	1.0	
+Nausea	DRD2	1.0	
+Nausea	HTR2A	1.0	
+Dyspepsia	DRD2	1.0	
+Dyspepsia	HTR2A	1.0	
+Abnormality of the basal ganglia	DRD2	1.0	
+Abnormality of the basal ganglia	HTR2A	1.0	
+Pharyngeal Neoplasms	ANKK1	1.0	
+Pharyngeal Neoplasms	DRD2	1.0	
+Tardive Dyskinesia	DRD2	1.0	
+Tardive Dyskinesia	HTR2A	1.0	
+Drug Dependence	ANKK1	1.0	
+Drug Dependence	DRD2	1.0	
+Language impairment	ANKK1	1.0	
+Language impairment	DRD2	1.0	
+Osteochondritis dissecans	DRD2	1.0	
+Osteochondritis dissecans	HTR2A	1.0	
+NEUROTICISM	ANKK1	1.0	
+NEUROTICISM	DRD2	1.0	
+Common Migraine	DRD2	1.0	
+Common Migraine	HTR2A	1.0	
+MAJOR AFFECTIVE DISORDER 4	DRD2	1.0	
+MAJOR AFFECTIVE DISORDER 4	HTR2A	1.0	
+MAJOR AFFECTIVE DISORDER 5	DRD2	1.0	
+MAJOR AFFECTIVE DISORDER 5	HTR2A	1.0	
+MAJOR AFFECTIVE DISORDER 6	DRD2	1.0	
+MAJOR AFFECTIVE DISORDER 6	HTR2A	1.0	
+Major affective disorder 7	DRD2	1.0	
+Major affective disorder 7	HTR2A	1.0	
+MAJOR AFFECTIVE DISORDER 8	DRD2	1.0	
+MAJOR AFFECTIVE DISORDER 8	HTR2A	1.0	
+MAJOR AFFECTIVE DISORDER 9	DRD2	1.0	
+MAJOR AFFECTIVE DISORDER 9	HTR2A	1.0	
+Orofacial dyskinesia	DRD2	1.0	
+Orofacial dyskinesia	HTR2A	1.0	
+Eating disorder	DRD2	1.0	
+Eating disorder	HTR2A	1.0	
+Migraine with aura	DRD2	1.0	
+Migraine with aura	HTR2A	1.0	
+Substance addiction and disorders	ANKK1	1.0	
+Substance addiction and disorders	DRD2	1.0	
+Substance Withdrawal Syndrome	DRD2	1.0	
+Substance Withdrawal Syndrome	HTR2A	1.0	
+Schizoaffective Disorder	DRD2	1.0	
+Schizoaffective Disorder	HTR2A	1.0	
+Overweight	ANKK1	1.0	
+Overweight	DRD2	1.0	
+Overweight	HTR2A	1.0	
+Obsessive-compulsive disorder	DRD2	1.0	
+Obsessive-compulsive disorder	HTR2A	1.0	
+Sleep Wake Disorders	DRD2	1.0	
+Sleep Wake Disorders	HTR2A	1.0	
+Methamphetamine abuse	DRD2	1.0	
+Methamphetamine abuse	HTR2A	1.0	
+Neoplasm of the larynx	ANKK1	1.0	
+Neoplasm of the larynx	DRD2	1.0	
+Anorexia nervosa 1	DRD2	1.0	
+Anorexia nervosa 1	HTR2A	1.0	
+CNS disorder	DRD2	1.0	
+CNS disorder	HTR2A	1.0	
+Panic disorder syndrome 1 (2)	DRD2	1.0	
+Panic disorder syndrome 1 (2)	HTR2A	1.0	
+Cocaine-Related Disorders	DRD2	1.0	
+Cocaine-Related Disorders	HTR2A	1.0	

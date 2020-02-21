@@ -1,0 +1,183 @@
+Gene	CUI	Source Databases	
+ABCB1	C0013182	Drug Allergy	DisGeNet	
+CYP2D6	C0013182	Drug Allergy	DisGeNet	
+CYP3A4	C0013182	Drug Allergy	DisGeNet	
+GSTP1	C0013182	Drug Allergy	DisGeNet	
+NAT2	C0013182	Drug Allergy	DisGeNet	
+PTGS1	C0013182	Drug Allergy	DisGeNet	
+UGT1A1	C0013182	Drug Allergy	DisGeNet	
+UGT1A7	C0013182	Drug Allergy	DisGeNet	
+UGT1A8	C0013182	Drug Allergy	DisGeNet	
+UGT1A9	C0013182	Drug Allergy	DisGeNet	
+UGT1A	C0011226	Hepatitis D Infection	DisGeNet	
+UGT1A1	C0011226	Hepatitis D Infection	DisGeNet	
+UGT1A10	C0011226	Hepatitis D Infection	DisGeNet	
+UGT1A6	C0011226	Hepatitis D Infection	DisGeNet	
+UGT1A7	C0011226	Hepatitis D Infection	DisGeNet	
+UGT1A8	C0011226	Hepatitis D Infection	DisGeNet	
+UGT1A9	C0011226	Hepatitis D Infection	DisGeNet	
+CYP1A2	C0023055	Neoplasm of the larynx	DisGeNet	
+CYP2A6	C0023055	Neoplasm of the larynx	DisGeNet	
+CYP2D6	C0023055	Neoplasm of the larynx	DisGeNet	
+CYP2E1	C0023055	Neoplasm of the larynx	DisGeNet	
+CYP3A4	C0023055	Neoplasm of the larynx	DisGeNet	
+GSTP1	C0023055	Neoplasm of the larynx	DisGeNet	
+NAT2	C0023055	Neoplasm of the larynx	DisGeNet	
+PTGS2	C0023055	Neoplasm of the larynx	DisGeNet	
+SULT1A1	C0023055	Neoplasm of the larynx	DisGeNet	
+ABCB1	C0041755	Adverse drug events and drug allergies	DisGeNet	
+CYP1A2	C0041755	Adverse drug events and drug allergies	DisGeNet	
+CYP2D6	C0041755	Adverse drug events and drug allergies	DisGeNet	
+CYP2E1	C0041755	Adverse drug events and drug allergies	DisGeNet	
+NAT2	C0041755	Adverse drug events and drug allergies	DisGeNet	
+PTGS2	C0041755	Adverse drug events and drug allergies	DisGeNet	
+UGT1A1	C0041755	Adverse drug events and drug allergies	DisGeNet	
+CYP2D6	C1827377	Slow acetylator due to N-acetyltransferase enzyme variant	DisGeNet	
+CYP2E1	C1827377	Slow acetylator due to N-acetyltransferase enzyme variant	DisGeNet	
+GSTP1	C1827377	Slow acetylator due to N-acetyltransferase enzyme variant	DisGeNet	
+NAT2	C1827377	Slow acetylator due to N-acetyltransferase enzyme variant	ClinVar,DisGeNet	
+SULT1A1	C1827377	Slow acetylator due to N-acetyltransferase enzyme variant	DisGeNet	
+GSTP1	C0018772	Hearing Loss, Partial	DisGeNet	
+NAT2	C0018772	Hearing Loss, Partial	DisGeNet	
+PTGS2	C0018772	Hearing Loss, Partial	DisGeNet	
+UGT1A1	C0018772	Hearing Loss, Partial	DisGeNet	
+UGT1A10	C0018772	Hearing Loss, Partial	DisGeNet	
+UGT1A6	C0018772	Hearing Loss, Partial	DisGeNet	
+UGT1A7	C0018772	Hearing Loss, Partial	DisGeNet	
+UGT1A8	C0018772	Hearing Loss, Partial	DisGeNet	
+UGT1A9	C0018772	Hearing Loss, Partial	DisGeNet	
+UGT2B15	C0018772	Hearing Loss, Partial	DisGeNet	
+ABCB1	C0746883	Febrile Neutropenia	DisGeNet	
+UGT1A	C0746883	Febrile Neutropenia	DisGeNet	
+UGT1A1	C0746883	Febrile Neutropenia	DisGeNet	
+UGT1A6	C0746883	Febrile Neutropenia	DisGeNet	
+UGT1A7	C0746883	Febrile Neutropenia	DisGeNet	
+ABCB1	C0020433	Hyperbilirubinemia	DisGeNet	
+UGT1A	C0020433	Hyperbilirubinemia	DisGeNet	
+UGT1A1	C0020433	Hyperbilirubinemia	DisGeNet,HumPhenOnt	
+UGT1A10	C0020433	Hyperbilirubinemia	DisGeNet	
+UGT1A6	C0020433	Hyperbilirubinemia	DisGeNet	
+UGT1A7	C0020433	Hyperbilirubinemia	DisGeNet	
+UGT1A8	C0020433	Hyperbilirubinemia	DisGeNet	
+UGT1A9	C0020433	Hyperbilirubinemia	DisGeNet	
+CYP1A2	C0031347	Pharyngeal Neoplasms	DisGeNet	
+CYP2A6	C0031347	Pharyngeal Neoplasms	DisGeNet	
+CYP3A4	C0031347	Pharyngeal Neoplasms	DisGeNet	
+GSTP1	C0031347	Pharyngeal Neoplasms	DisGeNet	
+NAT2	C0031347	Pharyngeal Neoplasms	DisGeNet	
+SULT1A1	C0031347	Pharyngeal Neoplasms	DisGeNet	
+CYP1A2	C1268717	Mammographic breast density	DisGeNet	
+CYP2D6	C1268717	Mammographic breast density	DisGeNet	
+SULT1A1	C1268717	Mammographic breast density	DisGeNet	
+UGT1A	C1268717	Mammographic breast density	DisGeNet	
+UGT1A1	C1268717	Mammographic breast density	DisGeNet	
+UGT2B15	C1268717	Mammographic breast density	DisGeNet	
+NAT2	C0008350	Cholelithiasis	DisGeNet	
+PTGS2	C0008350	Cholelithiasis	DisGeNet	
+UGT1A	C0008350	Cholelithiasis	DisGeNet	
+UGT1A1	C0008350	Cholelithiasis	DisGeNet,PheGenI	
+UGT1A10	C0008350	Cholelithiasis	PheGenI	
+UGT1A6	C0008350	Cholelithiasis	DisGeNet,PheGenI	
+UGT1A7	C0008350	Cholelithiasis	PheGenI	
+UGT1A8	C0008350	Cholelithiasis	PheGenI	
+UGT1A9	C0008350	Cholelithiasis	PheGenI	
+CYP1A2	C0032229	Pleural Neoplasms	DisGeNet	
+CYP2A6	C0032229	Pleural Neoplasms	DisGeNet	
+CYP2E1	C0032229	Pleural Neoplasms	DisGeNet	
+NAT2	C0032229	Pleural Neoplasms	DisGeNet	
+ABCB1	C1302401	Adenoma of large intestine	DisGeNet	
+CYP1A2	C1302401	Adenoma of large intestine	DisGeNet	
+CYP2D6	C1302401	Adenoma of large intestine	DisGeNet	
+CYP2E1	C1302401	Adenoma of large intestine	DisGeNet	
+GSTP1	C1302401	Adenoma of large intestine	DisGeNet	
+NAT2	C1302401	Adenoma of large intestine	DisGeNet	
+PTGS1	C1302401	Adenoma of large intestine	DisGeNet	
+PTGS2	C1302401	Adenoma of large intestine	DisGeNet	
+SULT1A1	C1302401	Adenoma of large intestine	DisGeNet	
+UGT1A1	C1302401	Adenoma of large intestine	DisGeNet	
+UGT1A6	C1302401	Adenoma of large intestine	DisGeNet	
+CYP2E1	C0206720	Squamous Cell Neoplasms	DisGeNet	
+CYP3A4	C0206720	Squamous Cell Neoplasms	DisGeNet	
+GSTP1	C0206720	Squamous Cell Neoplasms	DisGeNet	
+PTGS2	C0206720	Squamous Cell Neoplasms	DisGeNet	
+ABCB1	C0018671	Head and Neck Neoplasms	DisGeNet	
+CYP1A2	C0018671	Head and Neck Neoplasms	DisGeNet	
+CYP2A6	C0018671	Head and Neck Neoplasms	DisGeNet	
+CYP2D6	C0018671	Head and Neck Neoplasms	DisGeNet	
+CYP2E1	C0018671	Head and Neck Neoplasms	DisGeNet	
+CYP3A4	C0018671	Head and Neck Neoplasms	DisGeNet	
+GSTP1	C0018671	Head and Neck Neoplasms	DisGeNet	
+NAT2	C0018671	Head and Neck Neoplasms	DisGeNet	
+PTGS1	C0018671	Head and Neck Neoplasms	DisGeNet	
+PTGS2	C0018671	Head and Neck Neoplasms	DisGeNet	
+SULT1A1	C0018671	Head and Neck Neoplasms	DisGeNet	
+UGT1A7	C0018671	Head and Neck Neoplasms	DisGeNet	
+ABCB1	C0860207	Drug-Induced Liver Injury	DisGeNet	
+CYP2A6	C0860207	Drug-Induced Liver Injury	DisGeNet	
+CYP2D6	C0860207	Drug-Induced Liver Injury	DisGeNet	
+CYP2E1	C0860207	Drug-Induced Liver Injury	DisGeNet	
+GSTP1	C0860207	Drug-Induced Liver Injury	DisGeNet	
+NAT2	C0860207	Drug-Induced Liver Injury	DisGeNet	
+PTGS2	C0860207	Drug-Induced Liver Injury	DisGeNet	
+UGT1A1	C0860207	Drug-Induced Liver Injury	DisGeNet	
+UGT1A9	C0860207	Drug-Induced Liver Injury	DisGeNet	
+CYP1A2	C0009376	Colonic Polyps	DisGeNet	
+NAT2	C0009376	Colonic Polyps	DisGeNet	
+PTGS1	C0009376	Colonic Polyps	DisGeNet	
+PTGS2	C0009376	Colonic Polyps	DisGeNet	
+SULT1A1	C0009376	Colonic Polyps	DisGeNet	
+ABCB1	C0030201	Acute postoperative pain	DisGeNet	
+CYP2D6	C0030201	Acute postoperative pain	DisGeNet	
+CYP3A4	C0030201	Acute postoperative pain	DisGeNet	
+PTGS2	C0030201	Acute postoperative pain	DisGeNet	
+CYP1A2	C0919532	Genomic Instability	DisGeNet	
+CYP2A6	C0919532	Genomic Instability	DisGeNet	
+CYP2E1	C0919532	Genomic Instability	DisGeNet	
+NAT2	C0919532	Genomic Instability	DisGeNet	
+GSTP1	C0011053	Deafness, autosomal recessive 44	DisGeNet	
+NAT2	C0011053	Deafness, autosomal recessive 44	DisGeNet	
+PTGS2	C0011053	Deafness, autosomal recessive 44	DisGeNet	
+UGT1A1	C0011053	Deafness, autosomal recessive 44	DisGeNet	
+UGT1A10	C0011053	Deafness, autosomal recessive 44	DisGeNet	
+UGT1A6	C0011053	Deafness, autosomal recessive 44	DisGeNet	
+UGT1A7	C0011053	Deafness, autosomal recessive 44	DisGeNet	
+UGT1A8	C0011053	Deafness, autosomal recessive 44	DisGeNet	
+UGT1A9	C0011053	Deafness, autosomal recessive 44	DisGeNet	
+UGT2B15	C0011053	Deafness, autosomal recessive 44	DisGeNet	
+ABCB1	C0376670	Pancreatitis, Alcoholic	DisGeNet	
+CYP2E1	C0376670	Pancreatitis, Alcoholic	DisGeNet	
+GSTP1	C0376670	Pancreatitis, Alcoholic	DisGeNet	
+UGT1A7	C0376670	Pancreatitis, Alcoholic	DisGeNet	
+CYP2D6	C0007107	Malignant neoplasm of larynx	DisGeNet	
+CYP2E1	C0007107	Malignant neoplasm of larynx	DisGeNet	
+GSTP1	C0007107	Malignant neoplasm of larynx	DisGeNet	
+NAT2	C0007107	Malignant neoplasm of larynx	DisGeNet	
+PTGS2	C0007107	Malignant neoplasm of larynx	DisGeNet	
+UGT1A1	C0007107	Malignant neoplasm of larynx	DisGeNet	
+UGT1A7	C0007107	Malignant neoplasm of larynx	DisGeNet	
+CYP1A2	C0026640	Neoplasm of the oral cavity	DisGeNet	
+CYP2A6	C0026640	Neoplasm of the oral cavity	DisGeNet	
+CYP2D6	C0026640	Neoplasm of the oral cavity	DisGeNet	
+CYP2E1	C0026640	Neoplasm of the oral cavity	DisGeNet	
+CYP3A4	C0026640	Neoplasm of the oral cavity	DisGeNet	
+GSTP1	C0026640	Neoplasm of the oral cavity	DisGeNet	
+NAT2	C0026640	Neoplasm of the oral cavity	DisGeNet	
+PTGS2	C0026640	Neoplasm of the oral cavity	DisGeNet	
+SULT1A1	C0026640	Neoplasm of the oral cavity	DisGeNet	
+CYP1A2	C0341439	Chronic liver disease	DisGeNet	
+CYP2A6	C0341439	Chronic liver disease	DisGeNet	
+CYP2E1	C0341439	Chronic liver disease	DisGeNet	
+CYP3A4	C0341439	Chronic liver disease	DisGeNet	
+NAT2	C0341439	Chronic liver disease	DisGeNet	
+PTGS2	C0341439	Chronic liver disease	DisGeNet	
+UGT1A7	C0341439	Chronic liver disease	DisGeNet	
+CYP2E1	C0038354	Stomach Diseases	DisGeNet	
+GSTP1	C0038354	Stomach Diseases	DisGeNet	
+PTGS1	C0038354	Stomach Diseases	DisGeNet	
+PTGS2	C0038354	Stomach Diseases	DisGeNet	
+CYP2A6	C0262584	Carcinoma, Small Cell	DisGeNet	
+CYP2D6	C0262584	Carcinoma, Small Cell	DisGeNet	
+CYP2E1	C0262584	Carcinoma, Small Cell	DisGeNet	
+GSTP1	C0262584	Carcinoma, Small Cell	DisGeNet	
+NAT2	C0262584	Carcinoma, Small Cell	DisGeNet	
+UGT1A1	C0262584	Carcinoma, Small Cell	DisGeNet	

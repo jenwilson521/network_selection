@@ -1,0 +1,5 @@
+node_name	node_type	
+DB01276	drug	
+DPP4	drug_target	
+ALB	drug_target	
+GLP1R	drug_target	

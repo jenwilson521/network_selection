@@ -1,0 +1,396 @@
+node1	node2	edge_score	
+DB00605	PTGS2	1.0	
+DB00605	PTGS1	1.0	
+DB00605	AKR1B10	1.0	
+DB00605	CYP1A1	1.0	
+DB00605	ALB	1.0	
+DB00605	SLC22A6	1.0	
+DB00605	MAPK3	1.0	
+DB00605	PPARD	1.0	
+DB00605	AKR1B1	1.0	
+PTGS2	rs12042763	0.99
+PTGS1	rs10306114	0.99
+CYP1A1	rs2472297	0.99
+CYP1A1	rs2606345	0.99
+PPARD		1.0
+CYP1A1	rs1048943	0.99
+PTGS2	rs5275	0.99
+PTGS2	rs4648287	0.99
+PPARD	rs1883322	0.99
+PTGS1	rs10306135	0.99
+PPARD	rs6922548	0.99
+PTGS1		1.0
+PPARD	rs7769719	0.99
+PTGS2	rs20417	0.99
+ALB		1.0
+PTGS1	rs1330344	0.99
+PPARD	rs2016520	0.99
+PTGS2		1.0
+PPARD	rs3734254	0.99
+CYP1A1		1.0
+Echinococcosis	ALB	1.0	
+Echinococcosis	CYP1A1	1.0	
+Echinococcosis	PTGS1	1.0	
+Rhinitis, Allergic, Perennial	ALB	1.0	
+Rhinitis, Allergic, Perennial	CYP1A1	1.0	
+Rhinitis, Allergic, Perennial	PTGS2	1.0	
+Bronchogenic Carcinoma	ALB	1.0	
+Bronchogenic Carcinoma	CYP1A1	1.0	
+Bronchogenic Carcinoma	PTGS2	1.0	
+Colonic Polyps	CYP1A1	1.0	
+Colonic Polyps	PTGS1	1.0	
+Colonic Polyps	PTGS2	1.0	
+Colorectal polyposis	CYP1A1	1.0	
+Colorectal polyposis	PTGS1	1.0	
+Colorectal polyposis	PTGS2	1.0	
+Acute Lung Injury	ALB	1.0	
+Acute Lung Injury	CYP1A1	1.0	
+Acute Lung Injury	PTGS2	1.0	
+Hamartoma	CYP1A1	1.0	
+Hamartoma	PTGS1	1.0	
+Hamartoma	PTGS2	1.0	
+Squamous Cell Neoplasms	CYP1A1	1.0	
+Squamous Cell Neoplasms	PTGS2	1.0	
+gastritis h pylori	PTGS1	1.0	
+gastritis h pylori	PTGS2	1.0	
+Adenoma of large intestine	CYP1A1	1.0	
+Adenoma of large intestine	PPARD	1.0	
+Adenoma of large intestine	PTGS1	1.0	
+Adenoma of large intestine	PTGS2	1.0	
+Creutzfeldt-Jakob Disease, Sporadic	PTGS1	1.0	
+Creutzfeldt-Jakob Disease, Sporadic	PTGS2	1.0	
+keratoacanthoma	PTGS1	1.0	
+keratoacanthoma	PTGS2	1.0	
+Pericardial effusion	ALB	1.0	
+Pericardial effusion	PTGS2	1.0	
+Peptic ulcer	CYP1A1	1.0	
+Peptic ulcer	PTGS1	1.0	
+Peptic ulcer	PTGS2	1.0	
+Rectal Carcinoma	CYP1A1	1.0	
+Rectal Carcinoma	PPARD	1.0	
+Rectal Carcinoma	PTGS1	1.0	
+Rectal Carcinoma	PTGS2	1.0	
+Musculoskeletal Diseases	CYP1A1	1.0	
+Musculoskeletal Diseases	PTGS1	1.0	
+Musculoskeletal Diseases	PTGS2	1.0	
+Pregnancy Complications, Hematologic	CYP1A1	1.0	
+Pregnancy Complications, Hematologic	PTGS1	1.0	
+Pregnancy Complications, Hematologic	PTGS2	1.0	
+Xeroderma pigmentosum, group A	CYP1A1	1.0	
+Xeroderma pigmentosum, group A	PTGS2	1.0	
+Reperfusion Injury	ALB	1.0	
+Reperfusion Injury	CYP1A1	1.0	
+Reperfusion Injury	PTGS1	1.0	
+Reperfusion Injury	PTGS2	1.0	
+Rotavirus Infections	PTGS1	1.0	
+Rotavirus Infections	PTGS2	1.0	
+Acute Coronary Syndrome	ALB	1.0	
+Acute Coronary Syndrome	CYP1A1	1.0	
+Acute Coronary Syndrome	PTGS1	1.0	
+Acute Coronary Syndrome	PTGS2	1.0	
+Chemical Carcinogenesis	CYP1A1	1.0	
+Chemical Carcinogenesis	PTGS2	1.0	
+Chronic liver disease	ALB	1.0	
+Chronic liver disease	CYP1A1	1.0	
+Chronic liver disease	PTGS2	1.0	
+Anaphylactic shock NOS	PTGS1	1.0	
+Anaphylactic shock NOS	PTGS2	1.0	
+Stomach Diseases	PTGS1	1.0	
+Stomach Diseases	PTGS2	1.0	
+Fetal Diseases	CYP1A1	1.0	
+Fetal Diseases	PTGS1	1.0	
+Fetal Diseases	PTGS2	1.0	
+Drusen	ALB	1.0	
+Drusen	PTGS2	1.0	
+Kidney Failure, Chronic	ALB	1.0	
+Kidney Failure, Chronic	CYP1A1	1.0	
+Kidney Failure, Chronic	PPARD	1.0	
+Kidney Failure, Chronic	PTGS1	1.0	
+Kidney Failure, Chronic	PTGS2	1.0	
+Renovascular hypertension	PTGS1	1.0	
+Renovascular hypertension	PTGS2	1.0	
+Bile duct cancer resectable	CYP1A1	1.0	
+Bile duct cancer resectable	PTGS2	1.0	
+Neuritis	PTGS1	1.0	
+Neuritis	PTGS2	1.0	
+Arthritis, Reactive	CYP1A1	1.0	
+Arthritis, Reactive	PTGS2	1.0	
+Leukoplakia	CYP1A1	1.0	
+Leukoplakia	PTGS2	1.0	
+Primary open angle glaucoma juvenile onset 1	CYP1A1	1.0	
+Primary open angle glaucoma juvenile onset 1	PTGS1	1.0	
+Primary open angle glaucoma juvenile onset 1	PTGS2	1.0	
+Cervical Adenocarcinoma	PTGS1	1.0	
+Cervical Adenocarcinoma	PTGS2	1.0	
+Endometrial Hyperplasia	CYP1A1	1.0	
+Endometrial Hyperplasia	PTGS2	1.0	
+Dyspepsia	PTGS1	1.0	
+Dyspepsia	PTGS2	1.0	
+Respiratory Tract Diseases	ALB	1.0	
+Respiratory Tract Diseases	CYP1A1	1.0	
+Endometriosis of uterus	CYP1A1	1.0	
+Endometriosis of uterus	PTGS2	1.0	
+Experimental Autoimmune Encephalomyelitis	ALB	1.0	
+Experimental Autoimmune Encephalomyelitis	PPARD	1.0	
+Experimental Autoimmune Encephalomyelitis	PTGS1	1.0	
+Experimental Autoimmune Encephalomyelitis	PTGS2	1.0	
+Medullary carcinoma	PTGS1	1.0	
+Medullary carcinoma	PTGS2	1.0	
+Hypersensitivity	ALB	1.0	
+Hypersensitivity	CYP1A1	1.0	
+Hypersensitivity	PTGS2	1.0	
+Oral Submucous Fibrosis	CYP1A1	1.0	
+Oral Submucous Fibrosis	PTGS2	1.0	
+Adverse drug events and drug allergies	ALB	1.0	
+Adverse drug events and drug allergies	PTGS2	1.0	
+Fibrosis	ALB	1.0	
+Fibrosis	CYP1A1	1.0	
+Fibrosis	PTGS2	1.0	
+Esophagitis	PTGS1	1.0	
+Esophagitis	PTGS2	1.0	
+Idiopathic Inflammatory Myopathies	PTGS1	1.0	
+Idiopathic Inflammatory Myopathies	PTGS2	1.0	
+Chorioamnionitis	CYP1A1	1.0	
+Chorioamnionitis	PTGS1	1.0	
+Chorioamnionitis	PTGS2	1.0	
+Connective Tissue Diseases	CYP1A1	1.0	
+Connective Tissue Diseases	PTGS1	1.0	
+Connective Tissue Diseases	PTGS2	1.0	
+Myocardial Reperfusion Injury	ALB	1.0	
+Myocardial Reperfusion Injury	PPARD	1.0	
+Myocardial Reperfusion Injury	PTGS2	1.0	
+Cytochrome-c oxidase deficiency	PTGS1	1.0	
+Cytochrome-c oxidase deficiency	PTGS2	1.0	
+Breast Fibrocystic Disease	CYP1A1	1.0	
+Breast Fibrocystic Disease	PTGS2	1.0	
+gliosarcoma	PTGS1	1.0	
+gliosarcoma	PTGS2	1.0	
+Thyroid Nodule	CYP1A1	1.0	
+Thyroid Nodule	PTGS2	1.0	
+Arthritis, Psoriatic	CYP1A1	1.0	
+Arthritis, Psoriatic	PTGS1	1.0	
+Arthritis, Psoriatic	PTGS2	1.0	
+Occupational Diseases	ALB	1.0	
+Occupational Diseases	CYP1A1	1.0	
+Coronary heart disease 7	ALB	1.0	
+Coronary heart disease 7	CYP1A1	1.0	
+Coronary heart disease 7	PPARD	1.0	
+Coronary heart disease 7	PTGS1	1.0	
+Coronary heart disease 7	PTGS2	1.0	
+Peutz-Jeghers syndrome	PTGS1	1.0	
+Peutz-Jeghers syndrome	PTGS2	1.0	
+Oral leukoplakia	CYP1A1	1.0	
+Oral leukoplakia	PTGS2	1.0	
+Complications of Diabetes Mellitus	ALB	1.0	
+Complications of Diabetes Mellitus	PTGS2	1.0	
+Pulmonary edema	ALB	1.0	
+Pulmonary edema	PTGS2	1.0	
+Dermatosis NOS	CYP1A1	1.0	
+Dermatosis NOS	PPARD	1.0	
+Dermatosis NOS	PTGS1	1.0	
+Dermatosis NOS	PTGS2	1.0	
+Duodenal Ulcer	PTGS1	1.0	
+Duodenal Ulcer	PTGS2	1.0	
+IMMUNE SUPPRESSION	ALB	1.0	
+IMMUNE SUPPRESSION	PTGS2	1.0	
+Adult type dermatomyositis	PTGS1	1.0	
+Adult type dermatomyositis	PTGS2	1.0	
+Intestinal polyp	PTGS1	1.0	
+Intestinal polyp	PTGS2	1.0	
+Cholecystolithiasis	CYP1A1	1.0	
+Cholecystolithiasis	PTGS2	1.0	
+Liver regeneration disorder	ALB	1.0	
+Liver regeneration disorder	PPARD	1.0	
+Tumor Promotion	CYP1A1	1.0	
+Tumor Promotion	PTGS2	1.0	
+Type 1 diabetic neuropathy	ALB	1.0	
+Type 1 diabetic neuropathy	PTGS2	1.0	
+Oral Cavity Carcinoma	CYP1A1	1.0	
+Oral Cavity Carcinoma	PTGS2	1.0	
+Thyroid associated opthalmopathies	CYP1A1	1.0	
+Thyroid associated opthalmopathies	PTGS2	1.0	
+Urinary tract infection	PTGS1	1.0	
+Urinary tract infection	PTGS2	1.0	
+Experimental Organism Basal Cell Carcinoma	CYP1A1	1.0	
+Experimental Organism Basal Cell Carcinoma	PTGS1	1.0	
+Experimental Organism Basal Cell Carcinoma	PTGS2	1.0	
+Adenocarcinoma, Clear Cell	CYP1A1	1.0	
+Adenocarcinoma, Clear Cell	PTGS2	1.0	
+Creutzfeldt-Jakob Syndrome	PTGS1	1.0	
+Creutzfeldt-Jakob Syndrome	PTGS2	1.0	
+Skin carcinoma	CYP1A1	1.0	
+Skin carcinoma	PTGS2	1.0	
+Testicular malignant germ cell tumor	CYP1A1	1.0	
+Testicular malignant germ cell tumor	PTGS2	1.0	
+Hepatitis B, Chronic	ALB	1.0	
+Hepatitis B, Chronic	CYP1A1	1.0	
+Hepatitis B, Chronic	PTGS2	1.0	
+Hyperplastic Polyp	PTGS1	1.0	
+Hyperplastic Polyp	PTGS2	1.0	
+Pancreatitis	ALB	1.0	
+Pancreatitis	CYP1A1	1.0	
+Pancreatitis	PTGS2	1.0	
+polyps	PPARD	1.0	
+polyps	PTGS1	1.0	
+polyps	PTGS2	1.0	
+Polymyositis	PTGS1	1.0	
+Polymyositis	PTGS2	1.0	
+Intraocular pressure disorder	PTGS1	1.0	
+Intraocular pressure disorder	PTGS2	1.0	
+Endometrial adenocarcinoma	PPARD	1.0	
+Endometrial adenocarcinoma	PTGS2	1.0	
+Neoplasm of the rectum	PPARD	1.0	
+Neoplasm of the rectum	PTGS2	1.0	
+High grade serous carcinoma	CYP1A1	1.0	
+High grade serous carcinoma	PTGS2	1.0	
+Hyperlipidemia, combined, 1	ALB	1.0	
+Hyperlipidemia, combined, 1	PPARD	1.0	
+Hyperlipidemia, combined, 1	PTGS1	1.0	
+Neoplasm of the larynx	CYP1A1	1.0	
+Neoplasm of the larynx	PTGS2	1.0	
+Helicobacter pylori infection	CYP1A1	1.0	
+Helicobacter pylori infection	PTGS1	1.0	
+Helicobacter pylori infection	PTGS2	1.0	
+Liver Diseases	ALB	1.0	
+Liver Diseases	CYP1A1	1.0	
+Liver Diseases	PPARD	1.0	
+Liver Diseases	PTGS2	1.0	
+Helicobacter Infections	PTGS1	1.0	
+Helicobacter Infections	PTGS2	1.0	
+Adenomas, multiple colorectal, 608456 (3)	ALB	1.0	
+Adenomas, multiple colorectal, 608456 (3)	CYP1A1	1.0	
+Adenomas, multiple colorectal, 608456 (3)	PPARD	1.0	
+Adenomas, multiple colorectal, 608456 (3)	PTGS1	1.0	
+Adenomas, multiple colorectal, 608456 (3)	PTGS2	1.0	
+Dermatomyositis	PTGS1	1.0	
+Dermatomyositis	PTGS2	1.0	
+Ovarian cyst	PTGS1	1.0	
+Ovarian cyst	PTGS2	1.0	
+Gastric ulcer	PTGS1	1.0	
+Gastric ulcer	PTGS2	1.0	
+Breast adenocarcinoma	CYP1A1	1.0	
+Breast adenocarcinoma	PTGS2	1.0	
+Diabetic Nephropathies	ALB	1.0	
+Diabetic Nephropathies	PPARD	1.0	
+Diabetic Nephropathies	PTGS1	1.0	
+Diabetic Nephropathies	PTGS2	1.0	
+Thromboembolism	CYP1A1	1.0	
+Thromboembolism	PTGS2	1.0	
+Discoid lupus erythematosus	PTGS1	1.0	
+Discoid lupus erythematosus	PTGS2	1.0	
+Discoid lupus erythematosus	rs2472297	1.0	
+Hereditary nonpolyposis colorectal cancer type 8	CYP1A1	1.0	
+Hereditary nonpolyposis colorectal cancer type 8	PTGS2	1.0	
+Precocious puberty	CYP1A1	1.0	
+Precocious puberty	PTGS2	1.0	
+Cardiovascular Diseases	ALB	1.0	
+Cardiovascular Diseases	CYP1A1	1.0	
+Cardiovascular Diseases	PPARD	1.0	
+Cardiovascular Diseases	PTGS1	1.0	
+Cardiovascular Diseases	PTGS2	1.0	
+Urticaria	ALB	1.0	
+Urticaria	PTGS2	1.0	
+Periodontitis	ALB	1.0	
+Periodontitis	CYP1A1	1.0	
+Periodontitis	PTGS2	1.0	
+Metabolic Syndrome X	ALB	1.0	
+Metabolic Syndrome X	PPARD	1.0	
+Metabolic Syndrome X	PTGS1	1.0	
+Metabolic Syndrome X	PTGS2	1.0	
+Head and Neck Neoplasms	CYP1A1	1.0	
+Head and Neck Neoplasms	PTGS1	1.0	
+Head and Neck Neoplasms	PTGS2	1.0	
+Inflammation	CYP1A1	1.0	
+Inflammation	PPARD	1.0	
+Inflammation	PTGS1	1.0	
+Inflammation	PTGS2	1.0	
+Ischemic Cerebrovascular Accident	PPARD	1.0	
+Ischemic Cerebrovascular Accident	PTGS1	1.0	
+Ischemic Cerebrovascular Accident	PTGS2	1.0	
+Idiopathic Pulmonary Fibrosis	ALB	1.0	
+Idiopathic Pulmonary Fibrosis	PTGS1	1.0	
+Idiopathic Pulmonary Fibrosis	PTGS2	1.0	
+Arteriosclerosis	ALB	1.0	
+Arteriosclerosis	CYP1A1	1.0	
+Arteriosclerosis	PPARD	1.0	
+Arteriosclerosis	PTGS1	1.0	
+Arteriosclerosis	PTGS2	1.0	
+Transitional cell carcinoma of the bladder	CYP1A1	1.0	
+Transitional cell carcinoma of the bladder	PTGS2	1.0	
+Malignant neoplasm of larynx	CYP1A1	1.0	
+Malignant neoplasm of larynx	PTGS2	1.0	
+Laryngeal Squamous Cell Carcinoma	CYP1A1	1.0	
+Laryngeal Squamous Cell Carcinoma	PTGS2	1.0	
+Acute hepatic failure	ALB	1.0	
+Acute hepatic failure	PTGS2	1.0	
+Basal cell carcinoma	CYP1A1	1.0	
+Basal cell carcinoma	PTGS2	1.0	
+Myositis	PTGS1	1.0	
+Myositis	PTGS2	1.0	
+Drug Eruptions	CYP1A1	1.0	
+Flushing	PTGS1	1.0	
+Lyme Disease	PTGS1	1.0	
+Lyme Disease	PTGS2	1.0	
+Verotoxigenic Escherichia coli gastrointestinal tract infection	ALB	1.0	
+Verotoxigenic Escherichia coli gastrointestinal tract infection	CYP1A1	1.0	
+Verotoxigenic Escherichia coli gastrointestinal tract infection	PPARD	1.0	
+Verotoxigenic Escherichia coli gastrointestinal tract infection	PTGS1	1.0	
+Verotoxigenic Escherichia coli gastrointestinal tract infection	PTGS2	1.0	
+Acute-Phase Reaction	PPARD	1.0	
+Neoplasms, Multiple Primary	CYP1A1	1.0	
+Pleural Neoplasms	CYP1A1	1.0	
+Malignant neoplasm of adrenal cortex	ALB	1.0	
+Preeclampsia/eclampsia 1	CYP1A1	1.0	
+Preeclampsia/eclampsia 1	PTGS1	1.0	
+Preeclampsia/eclampsia 1	PTGS2	1.0	
+Esophageal varix	ALB	1.0	
+Malignant neoplasm of pharynx	CYP1A1	1.0	
+Urolithiasis	ALB	1.0	
+Cardiovascular morbidity	PTGS1	1.0	
+Premature Birth	CYP1A1	1.0	
+Premature Birth	PTGS1	1.0	
+Premature Birth	PTGS2	1.0	
+Hepatitis	ALB	1.0	
+Hepatitis	PTGS1	1.0	
+Hepatitis	PTGS2	1.0	
+Pulmonary Disease, Chronic Obstructive	CYP1A1	1.0	
+Pulmonary Disease, Chronic Obstructive	PTGS1	1.0	
+Pulmonary Disease, Chronic Obstructive	PTGS2	1.0	
+Arthropathy	PTGS1	1.0	
+Arthropathy	PTGS2	1.0	
+Polycystic kidney disease, autosomal dominant	PTGS1	1.0	
+Polycystic kidney disease, autosomal dominant	PTGS2	1.0	
+Lung Injury	CYP1A1	1.0	
+Squamous cell carcinoma of the hypopharynx	PTGS2	1.0	
+Early gastric cancer	PTGS2	1.0	
+Malignant neoplasm of vulva	PTGS2	1.0	
+Barrett Esophagus	CYP1A1	1.0	
+Barrett Esophagus	PTGS2	1.0	
+Bladder neck obstruction	PTGS2	1.0	
+Aortic atherosclerosis	PTGS2	1.0	
+Proliferative retinopathy	ALB	1.0	
+Lymphoma, Follicular	ALB	1.0	
+Lymphoma, Follicular	CYP1A1	1.0	
+Lymphoma, Follicular	PTGS2	1.0	
+Ureteral obstruction	PTGS1	1.0	
+Ureteral obstruction	PTGS2	1.0	
+Familial adenomatous polyposis 1	PPARD	1.0	
+Familial adenomatous polyposis 1	PTGS1	1.0	
+Familial adenomatous polyposis 1	PTGS2	1.0	
+Aortic valve calcification	PTGS2	1.0	
+Thymic Carcinoma	PTGS2	1.0	
+Isolated somatotropin deficiency	ALB	1.0	
+Hydronephrosis	CYP1A1	1.0	
+Hydronephrosis	PTGS2	1.0	
+Thrombosis	PTGS1	1.0	
+Thrombosis	PTGS2	1.0	
+Malignant neoplasm of brain and nervous system	CYP1A1	1.0	
+Malignant neoplasm of brain and nervous system	PTGS2	1.0	
+Cholangiocarcinoma	ALB	1.0	
+Cholangiocarcinoma	PPARD	1.0	
+Cholangiocarcinoma	PTGS2	1.0	
+Ischemic stroke	PPARD	1.0	
+Ischemic stroke	PTGS1	1.0	
+Ischemic stroke	PTGS2	1.0	
+Substance Use Disorders	ALB	1.0	
+Dentatorubral pallidoluysian atrophy	ALB	1.0	

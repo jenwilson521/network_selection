@@ -1,0 +1,171 @@
+node_name	node_type	
+DB06262	drug	
+ADRA1A	drug_target	
+SLC6A2	drug_target	
+ADRA1B	drug_target	
+ADRA1D	drug_target	
+ADRA2A	drug_target	
+ADRA2B	drug_target	
+ADRA2C	drug_target	
+ADRB1	drug_target	
+ADRB2	drug_target	
+ADRB3	drug_target	
+SLC16A10	drug_target	
+PAH	drug_target	
+DDC	drug_target	
+Low Tension Glaucoma	phenotype	
+Mood Disorders	phenotype	
+Weight Loss Adverse Event	phenotype	
+Systemic arterial pressure	phenotype	
+Attention deficit hyperactivity disorder	phenotype	
+Chronic sciatica	phenotype	
+body mass	phenotype	
+Acute disease of cardiovascular system	phenotype	
+Nephrosclerosis	phenotype	
+Major depressive disorder	phenotype	
+Low back pain	phenotype	
+Obesity, severe, 601665 (3)	phenotype	
+Fibromyalgia	phenotype	
+Tachycardia	phenotype	
+Weight Gain Adverse Event	phenotype	
+Obstructive sleep apnea	phenotype	
+Hyperalgesia	phenotype	
+Familial hypercholesterolemia	phenotype	
+Anxiety Disorders	phenotype	
+Unipolar Depression	phenotype	
+Congestive heart failure	phenotype	
+Heart Failure	phenotype	
+Left ventricular hypertrophy	phenotype	
+Liver Cirrhosis, Biliary	phenotype	
+Behavior Disorders	phenotype	
+Portal hypertension, noncirrhotic	phenotype	
+Acquired long QT syndrome	phenotype	
+Essential hypertension	phenotype	
+Hypotension	phenotype	
+Acute Coronary Syndrome	phenotype	
+Tourette Syndrome	phenotype	
+Kidney Failure, Chronic	phenotype	
+Metabolic Syndrome X	phenotype	
+Acute postoperative pain	phenotype	
+Personality disorder	phenotype	
+Learning Disabilities	phenotype	
+Hypertension	phenotype	
+Acanthosis nigricans	phenotype	
+Hemangioma	phenotype	
+Chronic interstitial cystitis	phenotype	
+Irritable bowel syndrome with diarrhea	phenotype	
+Blood pressure finding	phenotype	
+Capillary hemangiomas	phenotype	
+Ventricular tachycardia, catecholaminergic polymorphic, 2	phenotype	
+Atrial Fibrillation	phenotype	
+Dyskinesia, Drug-Induced	phenotype	
+Ventricular fibrillation	phenotype	
+Fibrosis	phenotype	
+Cardiomyopathy, Dilated	phenotype	
+Meningococcal Infections	phenotype	
+Stress, Psychological	phenotype	
+Overweight	phenotype	
+Acute myocardial ischemia	phenotype	
+Occupational Diseases	phenotype	
+Increased body weight	phenotype	
+Dyslipidemias	phenotype	
+Ventricular Dysfunction, Right	phenotype	
+Female infertility	phenotype	
+Ichthyosis bullosa of Siemens	phenotype	
+Depressive Disorder	phenotype	
+{Unipolar depression, susceptibility to}, 608516 (3)	phenotype	
+Respiration Disorders	phenotype	
+Gastrointestinal Diseases	phenotype	
+Chronic heart failure	phenotype	
+Neuralgia	phenotype	
+Cerebral palsy, spastic quadriplegic, 3	phenotype	
+Sleep Wake Disorders	phenotype	
+Hyperlipidemia, combined, 1	phenotype	
+Pain	phenotype	
+Bacteremia, susceptibility to, 2	phenotype	
+Methamphetamine abuse	phenotype	
+Anorexia nervosa 1	phenotype	
+Alcohol dependence	phenotype	
+Glaucoma, Open-Angle	phenotype	
+Panic disorder syndrome 1 (2)	phenotype	
+Coronary heart disease 7	phenotype	
+Pulmonary Embolism	phenotype	
+Abdominal obesity	phenotype	
+Schizophrenia	phenotype	
+Disorders of Intracellular Cobalamin Metabolism	phenotype	
+Venous thrombosis	phenotype	
+Diabetes mellitus type 2	phenotype	
+Bipolar affective disorder	phenotype	
+Coronary Artery Disease	phenotype	
+ Acrodysostosis 1, with or without hormone resistance, 101800 (3)	phenotype	
+Berardinelli-Seip congenital lipodystrophy	phenotype	
+High altitude pulmonary edema	phenotype	
+Slow acetylator due to N-acetyltransferase enzyme variant	phenotype	
+Pseudohypoparathyroidism, type IB, 603233 (3)	phenotype	
+Sudden cardiac death	phenotype	
+Dentinogenesis imperfecta	phenotype	
+Signs and Symptoms, Respiratory	phenotype	
+Recurrent major depressive episodes	phenotype	
+Asthma, Occupational	phenotype	
+Disorders of parathyroid gland	phenotype	
+genetic hypertension	phenotype	
+Mental disorders	phenotype	
+Albuminuria	phenotype	
+Hereditary Sensory Autonomic Neuropathy, Type 1	phenotype	
+Bladder neck obstruction	phenotype	
+Hypothermia	phenotype	
+Proliferative retinopathy	phenotype	
+Cholesterol gallstones	phenotype	
+Orofacial cleft	phenotype	
+Bronchial Hyperreactivity	phenotype	
+Cholelithiasis	phenotype	
+Glaucoma, Angle-Closure	phenotype	
+Borderline Personality Disorder	phenotype	
+Taste bitter	phenotype	
+Obesity	phenotype	
+Intermittent claudication	phenotype	
+Polycystic Ovary Syndrome	phenotype	
+Hemorrhagic disorder due to intrinsic circulating anticoagulants	phenotype	
+Respiratory Hypersensitivity	phenotype	
+Vascular malformation, primary intraosseous	phenotype	
+Congenital long QT syndrome	phenotype	
+Carcinoid tumor	phenotype	
+Systemic aspergillosis	phenotype	
+Renal hypertension	phenotype	
+Excessive salivation	phenotype	
+Pulmonary Cystic Fibrosis	phenotype	
+Hypervolemia	phenotype	
+Adenocarcinoma of the large intestine	phenotype	
+Paranoid Schizophrenia	phenotype	
+heavy drinking	phenotype	
+Chorioamnionitis	phenotype	
+Myocardial Reperfusion Injury	phenotype	
+Buphthalmos	phenotype	
+Gastroparesis	phenotype	
+Chronic schizophrenia	phenotype	
+Hypoparathyroidism - autosomal dominant	phenotype	
+Paroxysmal atrial fibrillation	phenotype	
+Pregnancy associated hypertension	phenotype	
+Chromosome 5, trisomy 5q	phenotype	
+Cholestasis of pregnancy	phenotype	
+Allergic disposition	phenotype	
+Meningitis, Bacterial	phenotype	
+Acth-Independent Macronodular Adrenal Hyperplasia	phenotype	
+Neoplasm of the tongue	phenotype	
+Allergic sensitization	phenotype	
+Cardiovascular Diseases	phenotype	
+Hypoplastic left heart syndrome	phenotype	
+Nephrogenic diabetes insipidus, autosomal	phenotype	
+Disseminated neuroblastoma	phenotype	
+Obesity, Visceral	phenotype	
+Non-Hodgkin lymphoma	phenotype	
+Restenosis	phenotype	
+Anaphylactic shock NOS	phenotype	
+Disseminated intravascular coagulation	phenotype	
+Chronic pain	phenotype	
+Hypertriglyceridemia result	phenotype	
+Alzheimer Disease	phenotype	
+Drug usage	phenotype	
+Pediatric Obesity	phenotype	
+Constipation	phenotype	
+Ovarian Diseases	phenotype	

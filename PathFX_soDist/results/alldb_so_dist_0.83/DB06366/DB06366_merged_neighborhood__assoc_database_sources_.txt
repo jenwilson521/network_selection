@@ -1,0 +1,438 @@
+Gene	CUI	Source Databases	
+ERBB2	C0000768	EMG: myopathic abnormalities	DisGeNet	
+ERBB2	C0001126	Renal tubular acidosis, distal, autosomal dominant	DisGeNet	
+ERBB2	C0001339	Acute pancreatitis	DisGeNet	
+ERBB2	C0001418	 Adenocarcinoma, ovarian, somatic, 167000 (3)	DisGeNet	
+ERBB2	C0001420	Papillary adenocarcinoma	DisGeNet	
+ERBB2	C0001430	Adenomas, multiple colorectal, 608456 (3)	DisGeNet	
+ERBB2	C0002793	Anaplasia	DisGeNet	
+ERBB2	C0002871	Anemia	DisGeNet	
+ERBB2	C0003130	Hypoxia	DisGeNet	
+ERBB2	C0003175	Anthrax disease	DisGeNet	
+ERBB2	C0003504	Aortic regurgitation	DisGeNet	
+ERBB2	C0003873	Rheumatoid arthritis	DisGeNet	
+ERBB2	C0004114	Astrocytoma	DisGeNet,HumPhenOnt	
+ERBB2	C0004565	Melanoma, B16	DisGeNet	
+ERBB2	C0004763	Barrett Esophagus	DisGeNet	
+ERBB2	C0005684	Malignant tumor of urinary bladder	DisGeNet	
+ERBB2	C0005695	Urinary Bladder Neoplasms	DisGeNet	
+ERBB2	C0005940	Bone Diseases	DisGeNet	
+ERBB2	C0005967	Bone neoplasms	DisGeNet	
+ERBB2	C0006118	Brain neoplasm	DisGeNet	
+ERBB2	C0006142	Breast-ovarian cancer, familial 1	DisGeNet	
+ERBB2	C0006145	Other specified disorders of breast	DisGeNet	
+ERBB2	C0006826	Cancer of the lower GI tract	DisGeNet	
+ERBB2	C0007095	Carcinoid tumor	DisGeNet	
+ERBB2	C0007102	Colon cancer	DisGeNet	
+ERBB2	C0007103	Malignant neoplasm of endometrium	DisGeNet	
+ERBB2	C0007104	Female Breast Carcinoma	DisGeNet	
+ERBB2	C0007107	Malignant neoplasm of larynx	DisGeNet	
+ERBB2	C0007112	Adenocarcinoma of prostate	DisGeNet	
+ERBB2	C0007114	Skin cancer	DisGeNet	
+ERBB2	C0007115	Thyroid cancer, nonmedullary, 4	DisGeNet	
+ERBB2	C0007120	Alveolar cell carcinoma	DisGeNet,HumPhenOnt	
+ERBB2	C0007124	Noninfiltrating Intraductal Carcinoma	DisGeNet	
+ERBB2	C0007129	Merkel cell carcinoma	DisGeNet	
+ERBB2	C0007130	Mucinous Adenocarcinoma	DisGeNet	
+ERBB2	C0007131	Non-small cell lung carcinoma	DisGeNet	
+ERBB2	C0007133	Carcinoma, Papillary	DisGeNet	
+ERBB2	C0007134	Renal cell carcinoma, nonpapillary	DisGeNet	
+ERBB2	C0007137	Squamous cell carcinoma	DisGeNet	
+ERBB2	C0007138	Urothelial Carcinoma	DisGeNet	
+ERBB2	C0007140	Carcinosarcoma	DisGeNet	
+ERBB2	C0007193	Cardiomyopathy, Dilated	DisGeNet	
+ERBB2	C0007570	Celiac Disease	DisGeNet	
+ERBB2	C0007621	Neoplastic Cell Transformation	DisGeNet	
+ERBB2	C0007682	CNS disorder	DisGeNet	
+ERBB2	C0007847	Malignant tumor of cervix	DisGeNet	
+ERBB2	C0007959	Charcot-Marie-Tooth disease, type 2N	DisGeNet	
+ERBB2	C0008354	Cholera	DisGeNet	
+ERBB2	C0008497	Choriocarcinoma	DisGeNet	
+ERBB2	C0008626	Congenital chromosomal disease	DisGeNet	
+ERBB2	C0008671	Chromosome 8, trisomy	DisGeNet	
+ERBB2	C0008924	Cleft Lip	DisGeNet	
+ERBB2	C0008925	Cleft Palate	DisGeNet	
+ERBB2	C0009375	Neoplasm of the colon	DisGeNet	
+ERBB2	C0009402	Colorectal cancer 1	DisGeNet	
+ERBB2	C0009404	Colorectal Neoplasms	DisGeNet	
+ERBB2	C0009450	Verotoxigenic Escherichia coli gastrointestinal tract infection	DisGeNet	
+ERBB2	C0010606	Adenoid Cystic Carcinoma	DisGeNet	
+ERBB2	C0010692	Cystitis	DisGeNet	
+ERBB2	C0010701	Phyllodes tumor, benign	DisGeNet	
+ERBB2	C0011065	Death, Sudden, Cardiac	DisGeNet	
+ERBB2	C0011848	Diabetes insipidus	DisGeNet	
+ERBB2	C0011991	Diarrhea 8, secretory sodium, congenital	DisGeNet	
+ERBB2	C0013274	Patent ductus arteriosus	DisGeNet	
+ERBB2	C0013575	Ectodermal dysplasia 11b, hypohidrotic/hair/tooth type, autosomal recessive	DisGeNet	
+ERBB2	C0014132	Neoplasm of the endocrine system	DisGeNet	
+ERBB2	C0014170	Endometrial Neoplasms	DisGeNet	
+ERBB2	C0014175	Endometriosis	DisGeNet	
+ERBB2	C0014474	Ependymoma	HumPhenOnt	
+ERBB2	C0014522	EPIDERMODYSPLASIA VERRUCIFORMIS	DisGeNet	
+ERBB2	C0014859	Esophageal Neoplasms	DisGeNet	
+ERBB2	C0015230	Exanthema	DisGeNet	
+ERBB2	C0016034	Breast Fibrocystic Disease	DisGeNet	
+ERBB2	C0016057	Fibrosarcoma	DisGeNet	
+ERBB2	C0016978	Neoplasm of the gallbladder	DisGeNet	
+ERBB2	C0017150	Gastrinoma	DisGeNet	
+ERBB2	C0017185	Gastrointestinal Neoplasms	DisGeNet,HumPhenOnt	
+ERBB2	C0017636	Glioblastoma	DisGeNet,HumPhenOnt	
+ERBB2	C0017638	Glioma	ClinVar,DisGeNet,HumPhenOnt	
+ERBB2	C0017658	Glomerulonephritis, Membranous	DisGeNet	
+ERBB2	C0018206	granulosa cell tumor	DisGeNet	
+ERBB2	C0018418	Gynecomastia	DisGeNet	
+ERBB2	C0018671	Head and Neck Neoplasms	DisGeNet	
+ERBB2	C0018799	Heart Diseases	DisGeNet	
+ERBB2	C0018801	Heart Failure	DisGeNet	
+ERBB2	C0018802	Congestive heart failure	DisGeNet	
+ERBB2	C0019159	Hepatitis	DisGeNet	
+ERBB2	C0019163	Acute type B viral hepatitis	DisGeNet	
+ERBB2	C0019348	Herpes Simplex Infections	DisGeNet	
+ERBB2	C0019829	Hodgkin Disease	DisGeNet	
+ERBB2	C0020217	Hydatidiform mole, recurrent, 2	DisGeNet	
+ERBB2	C0020459	Hyperinsulinemia	DisGeNet	
+ERBB2	C0021051	Immunodeficiency due to defect in CD3-gamma	DisGeNet	
+ERBB2	C0021367	Mammary Ductal Carcinoma	DisGeNet	
+ERBB2	C0021841	Intestinal Neoplasms	DisGeNet	
+ERBB2	C0022521	Kartagener syndrome	DisGeNet	
+ERBB2	C0022665	Renal neoplasm	DisGeNet	
+ERBB2	C0022680	Polycystic kidney disease, autosomal dominant	DisGeNet	
+ERBB2	C0023055	Neoplasm of the larynx	DisGeNet	
+ERBB2	C0023267	Leiomyoma	DisGeNet	
+ERBB2	C0023343	Leprosy	DisGeNet	
+ERBB2	C0023418	Leukemia, Lymphocytic, Chronic, B-Cell	DisGeNet	
+ERBB2	C0023434	Chronic Lymphocytic Leukemia	DisGeNet	
+ERBB2	C0023440	Acute Erythroblastic Leukemia	DisGeNet	
+ERBB2	C0023449	Acute lymphoid leukemia	DisGeNet	
+ERBB2	C0023473	Chronic myeloid leukemia	DisGeNet	
+ERBB2	C0023487	Acute promyelocytic leukemia	DisGeNet	
+ERBB2	C0023890	Liver Cirrhosis, Biliary	DisGeNet	
+ERBB2	C0023903	Neoplasm of the liver	DisGeNet	
+ERBB2	C0024117	Chronic obstructive pulmonary disease	DisGeNet	
+ERBB2	C0024121	Lung Neoplasms	ClinVar,DisGeNet,HumPhenOnt	
+ERBB2	C0024131	Lupus Vulgaris	DisGeNet	
+ERBB2	C0024138	Discoid lupus erythematosus	DisGeNet	
+ERBB2	C0024141	Lupus Erythematosus, Systemic	DisGeNet	
+ERBB2	C0024143	Lupus Nephritis	DisGeNet	
+ERBB2	C0024232	Lymphatic Metastasis	DisGeNet	
+ERBB2	C0024299	Lymphoma, Large B-Cell, Diffuse	DisGeNet	
+ERBB2	C0024305	Non-Hodgkin lymphoma	DisGeNet	
+ERBB2	C0024314	Lymphoproliferative disorder	DisGeNet	
+ERBB2	C0024623	{Gastric cancer risk after H. pylori infection}, 137215 (3)	DisGeNet	
+ERBB2	C0024667	Animal Mammary Neoplasms	DisGeNet	
+ERBB2	C0024668	Mammary Neoplasms, Experimental	DisGeNet	
+ERBB2	C0025007	Measles	DisGeNet	
+ERBB2	C0025149	Medulloblastoma	DisGeNet	
+ERBB2	C0025202	Melanoma	DisGeNet	
+ERBB2	C0025286	Meningioma	DisGeNet	
+ERBB2	C0026277	Mixed Salivary Gland Tumor	DisGeNet	
+ERBB2	C0026499	Monosomy	DisGeNet	
+ERBB2	C0026640	Neoplasm of the oral cavity	DisGeNet	
+ERBB2	C0026764	Multiple Myeloma	DisGeNet	
+ERBB2	C0027439	Nasopharyngeal Neoplasms	DisGeNet	
+ERBB2	C0027533	Neck Neoplasms	DisGeNet	
+ERBB2	C0027627	Secondary hypertriglyceridemia	DisGeNet	
+ERBB2	C0027643	Neoplasm Recurrence, Local	DisGeNet	
+ERBB2	C0027651	Neoplasms	DisGeNet,HumPhenOnt	
+ERBB2	C0027659	Neoplasms, Experimental	DisGeNet	
+ERBB2	C0027665	Nervous tissue neoplasm	HumPhenOnt	
+ERBB2	C0027708	Wilms Tumor	DisGeNet	
+ERBB2	C0027766	Neoplasm of the nervous system	DisGeNet,HumPhenOnt	
+ERBB2	C0027809	Schwannoma	DisGeNet	
+ERBB2	C0027831	Neurofibromatosis, type 1, 162200 (3)	DisGeNet	
+ERBB2	C0027859	Vestibular Schwannoma	DisGeNet	
+ERBB2	C0027962	Melanocytic nevus	DisGeNet	
+ERBB2	C0028259	Nodule	DisGeNet	
+ERBB2	C0028754	Obesity	DisGeNet	
+ERBB2	C0029927	Ovarian cyst	DisGeNet	
+ERBB2	C0030193	Pain	DisGeNet	
+ERBB2	C0030297	Pancreatic Neoplasms	DisGeNet	
+ERBB2	C0030354	Papilloma	DisGeNet	
+ERBB2	C0030421	Paragangliomas 1	DisGeNet	
+ERBB2	C0031039	Pericardial effusion	DisGeNet	
+ERBB2	C0031117	Peripheral neuropathy, myopathy, hoarseness, and hearing loss	DisGeNet	
+ERBB2	C0031347	Pharyngeal Neoplasms	DisGeNet	
+ERBB2	C0031511	Pheochromocytoma	DisGeNet	
+ERBB2	C0032002	Abnormality of the pituitary gland	DisGeNet	
+ERBB2	C0032019	Pituitary Neoplasms	DisGeNet	
+ERBB2	C0032273	Simple pneumoconiosis	DisGeNet	
+ERBB2	C0032584	polyps	DisGeNet	
+ERBB2	C0032927	Precancerous Conditions	DisGeNet	
+ERBB2	C0033375	Prolactinoma, familial	DisGeNet	
+ERBB2	C0033578	Prostatic Neoplasms	DisGeNet	
+ERBB2	C0034069	Pulmonary fibrosis and/or bone marrow failure, telomere-related, 4	DisGeNet	
+ERBB2	C0035244	Neoplasm of the respiratory system	HumPhenOnt	
+ERBB2	C0035335	Retinoblastoma	DisGeNet	
+ERBB2	C0035412	Rhabdomyosarcoma alveolar	DisGeNet	
+ERBB2	C0036095	Salivary gland neoplasm	DisGeNet	
+ERBB2	C0036323	Hepatosplenic schistosomiasis	DisGeNet	
+ERBB2	C0036421	Scleroderma	DisGeNet	
+ERBB2	C0036920	Sezary Syndrome	DisGeNet	
+ERBB2	C0037286	Neoplasm of the skin	DisGeNet	
+ERBB2	C0037579	Soft Tissue Neoplasms	DisGeNet	
+ERBB2	C0038356	Stomach Neoplasms	ClinVar,DisGeNet,HumPhenOnt	
+ERBB2	C0039101	Synovial sarcoma	DisGeNet	
+ERBB2	C0040136	Thyroid Neoplasms	DisGeNet	
+ERBB2	C0040147	Thyroiditis	DisGeNet	
+ERBB2	C0040411	Neoplasm of the tongue	DisGeNet	
+ERBB2	C0040427	Abnormality of dental morphology	DisGeNet	
+ERBB2	C0041107	Trisomy	DisGeNet	
+ERBB2	C0041671	Attention Deficit Disorder	DisGeNet	
+ERBB2	C0079588	X-linked ichthyosis with steryl-sulfatase deficiency	DisGeNet	
+ERBB2	C0079731	B-cell lymphoma	DisGeNet	
+ERBB2	C0080032	Pleural Effusion, Malignant	DisGeNet	
+ERBB2	C0085110	Severe combined immunodeficiency due to ADA deficiency	DisGeNet	
+ERBB2	C0085136	Neoplasm of the central nervous system	DisGeNet,HumPhenOnt	
+ERBB2	C0085390	Li-Fraumeni syndrome	DisGeNet	
+ERBB2	C0085413	Polycystic Kidney, Autosomal Dominant	DisGeNet	
+ERBB2	C0086692	Benign neoplasm of other endocrine glands	DisGeNet	
+ERBB2	C0149782	Squamous cell carcinoma of lung	DisGeNet	
+ERBB2	C0149925	Small cell lung cancer	DisGeNet	
+ERBB2	C0149978	Rectal Carcinoma	DisGeNet	
+ERBB2	C0151468	Thyroid adenoma	DisGeNet	
+ERBB2	C0151514	Dermal atrophy	DisGeNet	
+ERBB2	C0151546	Oral Cavity Carcinoma	DisGeNet	
+ERBB2	C0151744	Acute myocardial ischemia	DisGeNet	
+ERBB2	C0151779	Cutaneous malignant melanoma 3	DisGeNet	
+ERBB2	C0152013	Adenocarcinoma of lung	DisGeNet	
+ERBB2	C0152018	Esophageal carcinoma	DisGeNet	
+ERBB2	C0153381	Cancer of mouth	DisGeNet	
+ERBB2	C0153452	Malignant neoplasm of gallbladder	DisGeNet	
+ERBB2	C0153567	Uterine Cancer	DisGeNet	
+ERBB2	C0153574	Uterine Corpus Cancer	DisGeNet	
+ERBB2	C0153594	Malignant tumor of testis	DisGeNet	
+ERBB2	C0153633	Malignant neoplasm of brain and nervous system	DisGeNet	
+ERBB2	C0153676	Secondary malignant neoplasm of lung	DisGeNet	
+ERBB2	C0162678	Neurofibromatoses	DisGeNet	
+ERBB2	C0162872	Aortic Aneurysm, Thoracic	DisGeNet	
+ERBB2	C0175754	Agenesis of corpus callosum	DisGeNet	
+ERBB2	C0178421	Fibroadenoma of the breast	DisGeNet	
+ERBB2	C0178874	Tumor Progression	DisGeNet	
+ERBB2	C0205647	Follicular adenoma	DisGeNet	
+ERBB2	C0205851	Germ cell neoplasia	DisGeNet	
+ERBB2	C0206093	Neuroectodermal neoplasm	HumPhenOnt	
+ERBB2	C0206139	Lichen Planus, Oral	DisGeNet	
+ERBB2	C0206655	Alveolar rhabdomyosarcoma	DisGeNet	
+ERBB2	C0206656	Embryonal rhabdomyosarcoma	DisGeNet	
+ERBB2	C0206677	Adenomatous Polyps	DisGeNet	
+ERBB2	C0206681	Adenocarcinoma, Clear Cell	DisGeNet	
+ERBB2	C0206687	Carcinoma, Endometrioid	DisGeNet	
+ERBB2	C0206692	Carcinoma, Lobular	DisGeNet	
+ERBB2	C0206693	Medullary carcinoma	DisGeNet	
+ERBB2	C0206694	Intraosseous mucoepidermoid carcinoma	DisGeNet	
+ERBB2	C0206695	Carcinoma, Neuroendocrine	DisGeNet	
+ERBB2	C0206696	Carcinoma, Signet Ring Cell	DisGeNet	
+ERBB2	C0206698	Cholangiocarcinoma	DisGeNet	
+ERBB2	C0206701	High grade serous carcinoma	DisGeNet	
+ERBB2	C0206704	Carcinoma, Large Cell	DisGeNet	
+ERBB2	C0206708	Cervical intraepithelial neoplasia (Cervical dysplasia)	DisGeNet	
+ERBB2	C0206715	Neuroepithelial neoplasm	HumPhenOnt	
+ERBB2	C0206727	Nerve Sheath Tumors	DisGeNet	
+ERBB2	C0206754	Neuroendocrine neoplasm	DisGeNet	
+ERBB2	C0220603	childhood brain tumor	DisGeNet	
+ERBB2	C0220641	Lip and Oral Cavity Carcinoma	DisGeNet	
+ERBB2	C0220650	Metastatic malignant neoplasm to brain	DisGeNet	
+ERBB2	C0220656	Malignant ascites	DisGeNet	
+ERBB2	C0221228	Comedone	DisGeNet	
+ERBB2	C0235653	Malignant neoplasm of female breast	DisGeNet	
+ERBB2	C0235782	Gallbladder Carcinoma	DisGeNet	
+ERBB2	C0235974	Pancreatic Carcinoma	DisGeNet	
+ERBB2	C0238033	Carcinoma of Male Breast	DisGeNet	
+ERBB2	C0238198	Gastrointestinal stromal tumor	DisGeNet	
+ERBB2	C0238339	Hereditary pancreatitis	DisGeNet	
+ERBB2	C0238461	Anaplastic thyroid carcinoma	DisGeNet	
+ERBB2	C0238462	Medullary thyroid carcinoma	DisGeNet	
+ERBB2	C0238463	Papillary thyroid carcinoma	DisGeNet	
+ERBB2	C0242379	Malignant neoplasm of lung	DisGeNet	
+ERBB2	C0242596	Neoplasm, Residual	DisGeNet	
+ERBB2	C0242656	Disease Progression	DisGeNet	
+ERBB2	C0242787	Malignant neoplasm of male breast	DisGeNet	
+ERBB2	C0262584	Carcinoma, Small Cell	DisGeNet	
+ERBB2	C0264716	Chronic heart failure	DisGeNet	
+ERBB2	C0266015	Abnormality of the digestive system	HumPhenOnt	
+ERBB2	C0266999	Vesicular Stomatitis	DisGeNet	
+ERBB2	C0269102	Endometrioma	DisGeNet	
+ERBB2	C0272138	Erythroblastosis	DisGeNet	
+ERBB2	C0278488	Carcinoma breast stage IV	DisGeNet	
+ERBB2	C0278493	Breast cancer recurrent	DisGeNet	
+ERBB2	C0278498	Malignant neoplasm of stomach stage IV	DisGeNet	
+ERBB2	C0278510	Medulloblastoma, Childhood	DisGeNet	
+ERBB2	C0278601	Inflammatory Breast Carcinoma	DisGeNet	
+ERBB2	C0278688	Stage IV Ovarian Carcinoma	DisGeNet	
+ERBB2	C0278701	Gastric Adenocarcinoma	DisGeNet	
+ERBB2	C0278704	Malignant Childhood Neoplasm	DisGeNet	
+ERBB2	C0278838	Prostate cancer recurrent	DisGeNet	
+ERBB2	C0278883	Metastatic melanoma	DisGeNet	
+ERBB2	C0278996	Cancer of Head and Neck	DisGeNet	
+ERBB2	C0279130	CNS metastases	DisGeNet	
+ERBB2	C0279563	Lobular carcinoma in situ of breast	DisGeNet	
+ERBB2	C0279565	Invasive Lobular Breast Carcinoma	DisGeNet	
+ERBB2	C0279626	Esophageal Squamous Cell Carcinoma	DisGeNet	
+ERBB2	C0279628	Adenocarcinoma Of Esophagus	DisGeNet	
+ERBB2	C0279651	Gallbladder adenocarcinoma	DisGeNet	
+ERBB2	C0279671	Cervical Squamous Cell Carcinoma	DisGeNet	
+ERBB2	C0279672	Cervical Adenocarcinoma	DisGeNet	
+ERBB2	C0279680	Transitional cell carcinoma of the bladder	DisGeNet	
+ERBB2	C0280100	Solid tumour	DisGeNet	
+ERBB2	C0280217	stage, non-small cell lung cancer	DisGeNet	
+ERBB2	C0280220	Ovarian epithelial cancer stage III	DisGeNet	
+ERBB2	C0280313	Oropharyngeal squamous cell carcinoma	DisGeNet	
+ERBB2	C0280324	Laryngeal Squamous Cell Carcinoma	DisGeNet	
+ERBB2	C0280631	Uterine leiomyosarcoma	DisGeNet	
+ERBB2	C0281361	Pancreatic adenocarcinoma	DisGeNet	
+ERBB2	C0282612	Prostatic Intraepithelial Neoplasias	DisGeNet	
+ERBB2	C0302592	Carcinoma of cervix	DisGeNet	
+ERBB2	C0333516	Tumor necrosis	DisGeNet	
+ERBB2	C0333875	High-Grade Squamous Intraepithelial Lesions	DisGeNet	
+ERBB2	C0334121	Inflammatory Myofibroblastic Tumor	DisGeNet	
+ERBB2	C0334299	Carcinoid tumor no ICD-O subtype	DisGeNet	
+ERBB2	C0334583	Pilocytic Astrocytoma	DisGeNet	
+ERBB2	C0339527	Leber congenital amaurosis	DisGeNet	
+ERBB2	C0343641	Human papilloma virus infection	DisGeNet	
+ERBB2	C0345905	Intrahepatic Cholangiocarcinoma	DisGeNet	
+ERBB2	C0346153	Familial cancer of breast	DisGeNet	
+ERBB2	C0346627	Intestinal Cancer	DisGeNet	
+ERBB2	C0346647	Malignant neoplasm of pancreas	DisGeNet	
+ERBB2	C0346957	Disseminated Malignant Neoplasm	DisGeNet	
+ERBB2	C0348374	Malignant neoplasm of the central nervous system	HumPhenOnt	
+ERBB2	C0349782	Ischemic cardiomyopathy	DisGeNet	
+ERBB2	C0376358	Malignant tumor of prostate	DisGeNet	
+ERBB2	C0376545	Hematological neoplasm	DisGeNet	
+ERBB2	C0409974	{Systemic lupus erythematosus, susceptibility to, 8} (2)	DisGeNet	
+ERBB2	C0441748	Autosomal recessive inheritance	HumPhenOnt	
+ERBB2	C0443147	Autosomal dominant non-syndromic sensorineural deafness type DFNA	HumPhenOnt	
+ERBB2	C0476089	Endometrial carcinoma	DisGeNet	
+ERBB2	C0497299	Meningitis	DisGeNet	
+ERBB2	C0497388	Nevus	DisGeNet	
+ERBB2	C0497406	Overweight	DisGeNet	
+ERBB2	C0497552	Abnormality of the nervous system	HumPhenOnt	
+ERBB2	C0520463	Chronic active hepatitis	DisGeNet	
+ERBB2	C0521158	Recurrent tumor	DisGeNet	
+ERBB2	C0524851	Neurodegenerative Diseases	DisGeNet	
+ERBB2	C0544886	Somatic mutation	HumPhenOnt	
+ERBB2	C0546837	Malignant tumor of esophagus	DisGeNet	
+ERBB2	C0549473	Thyroid carcinoma	DisGeNet	
+ERBB2	C0553694	Oropharyngeal disorders	DisGeNet	
+ERBB2	C0553707	Epithelioma	DisGeNet	
+ERBB2	C0553723	Squamous cell carcinoma of the skin	DisGeNet	
+ERBB2	C0555198	Malignant Glioma	DisGeNet	
+ERBB2	C0585442	Osteosarcoma	DisGeNet	
+ERBB2	C0595989	Laryngeal carcinoma	DisGeNet	
+ERBB2	C0596263	Carcinogenesis	DisGeNet	
+ERBB2	C0598608	Hereditary hyperhomocysteinemia	DisGeNet	
+ERBB2	C0598935	Tumor Initiation	DisGeNet	
+ERBB2	C0600139	Prostate carcinoma	DisGeNet	
+ERBB2	C0677607	Hashimoto thyroiditis	DisGeNet	
+ERBB2	C0677886	Ovarian epithelial cancer	DisGeNet	
+ERBB2	C0677898	invasive cancer	DisGeNet	
+ERBB2	C0677932	Progressive Neoplastic Disease	DisGeNet	
+ERBB2	C0677936	Refractory cancer	DisGeNet	
+ERBB2	C0677944	Sentinel node (disorder)	DisGeNet	
+ERBB2	C0678213	Complete hydatidiform mole	DisGeNet	
+ERBB2	C0678222	Breast carcinoma	DisGeNet	
+ERBB2	C0684249	Lung cancer	ClinVar,DisGeNet	
+ERBB2	C0685938	Malignant gastrointestinal tract tumors	DisGeNet	
+ERBB2	C0699790	Carcinoma of colon	DisGeNet	
+ERBB2	C0699791	Stomach cancer	DisGeNet,HumPhenOnt	
+ERBB2	C0699885	Bladder carcinoma	DisGeNet	
+ERBB2	C0700095	Neuroblastoma	DisGeNet	
+ERBB2	C0740457	Malignant neoplasm of kidney	DisGeNet	
+ERBB2	C0750952	Biliary Tract Cancer	DisGeNet	
+ERBB2	C0750979	Primary malignant neoplasm of brain	DisGeNet	
+ERBB2	C0751606	Adult Acute Lymphocytic Leukemia	DisGeNet	
+ERBB2	C0751690	Malignant peripheral nerve sheath tumor with rhabdomyoblastic differentiation	DisGeNet	
+ERBB2	C0795864	Smith-Magenis syndrome	DisGeNet	
+ERBB2	C0848332	Spots on skin	DisGeNet	
+ERBB2	C0850666	Helicobacter pylori infection	DisGeNet	
+ERBB2	C0853879	Invasive breast carcinoma	DisGeNet	
+ERBB2	C0853897	Diabetic Cardiomyopathies	DisGeNet	
+ERBB2	C0854917	Rhabdoid Tumor of the Kidney	DisGeNet	
+ERBB2	C0855197	Testicular malignant germ cell tumor	DisGeNet	
+ERBB2	C0858252	Breast adenocarcinoma	DisGeNet	
+ERBB2	C0877373	Advanced cancer	DisGeNet	
+ERBB2	C0878500	Intraepithelial Neoplasia	DisGeNet	
+ERBB2	C0878544	Cardiomyopathy	DisGeNet	
+ERBB2	C0919267	Ovarian Neoplasms	DisGeNet	
+ERBB2	C0920420	cancer recurrence	DisGeNet	
+ERBB2	C0936223	Metastatic Prostate Carcinoma	DisGeNet	
+ERBB2	C0940937	precancerous lesions	DisGeNet	
+ERBB2	C0948216	Ovarian adenocarcinoma	DisGeNet	
+ERBB2	C0950124	Papillomavirus Infections	DisGeNet	
+ERBB2	C1134719	Invasive Ductal Breast Carcinoma	DisGeNet	
+ERBB2	C1135868	Gestational trophoblastic disease	DisGeNet	
+ERBB2	C1140680	BREAST-OVARIAN CANCER, FAMILIAL, SUSCEPTIBILITY TO, 4	DisGeNet	
+ERBB2	C1153706	Endometrial adenocarcinoma	DisGeNet	
+ERBB2	C1168327	High-Grade Prostatic Intraepithelial Neoplasia	DisGeNet	
+ERBB2	C1168401	Squamous cell carcinoma of the head and neck	DisGeNet	
+ERBB2	C1257930	Mammary Carcinoma, Human	DisGeNet	
+ERBB2	C1261473	Sarcoma, Ewing	DisGeNet	
+ERBB2	C1263846	Attention deficit hyperactivity disorder	DisGeNet	
+ERBB2	C1298180	Single tumor	DisGeNet	
+ERBB2	C1302773	Low Grade Squamous Intraepithelial Neoplasia	DisGeNet	
+ERBB2	C1319315	Adenocarcinoma of the large intestine	DisGeNet	
+ERBB2	C1322286	Thymic Carcinoma	DisGeNet	
+ERBB2	C1328504	Hormone refractory prostate cancer	DisGeNet	
+ERBB2	C1332347	Inappropriate ADH Syndrome	DisGeNet	
+ERBB2	C1333600	Familial colorectal cancer	DisGeNet	
+ERBB2	C1333990	Hereditary nonpolyposis colorectal cancer type 8	DisGeNet	
+ERBB2	C1334177	Infiltrating Cervical Carcinoma	DisGeNet	
+ERBB2	C1334274	Invasive Carcinoma	DisGeNet	
+ERBB2	C1335302	Pancreatic Ductal Adenocarcinoma	DisGeNet	
+ERBB2	C1335475	Primary Carcinoma	DisGeNet	
+ERBB2	C1336076	Sporadic Breast Carcinoma	DisGeNet	
+ERBB2	C1337013	Differentiated Thyroid Gland Carcinoma	DisGeNet	
+ERBB2	C1384494	Metastatic Carcinoma	DisGeNet	
+ERBB2	C1402294	Primary Lesion	DisGeNet	
+ERBB2	C1446409	Hormone receptor positive tumor	DisGeNet	
+ERBB2	C1449563	Dilated cardiomyopathy 1A	DisGeNet	
+ERBB2	C1456781	Benign melanocytic nevus	DisGeNet	
+ERBB2	C1457887	CNS symptom	DisGeNet	
+ERBB2	C1510885	Angiogenic Switch	DisGeNet	
+ERBB2	C1511291	Breast Cancer Model	DisGeNet	
+ERBB2	C1511789	Desmoplastic spindle and epithelioid cell melanocytic nevus of skin	DisGeNet	
+ERBB2	C1512409	Hepatocarcinogenesis	DisGeNet	
+ERBB2	C1512981	Mammary Tumorigenesis	DisGeNet	
+ERBB2	C1516170	Cancer Cell Growth	DisGeNet	
+ERBB2	C1519176	Pleomorphic adenoma of salivary gland	DisGeNet	
+ERBB2	C1519346	Skin Carcinogenesis	DisGeNet	
+ERBB2	C1519670	Tumor Angiogenesis	DisGeNet	
+ERBB2	C1519680	Tumor Immunity	DisGeNet	
+ERBB2	C1520166	Xenograft Model	DisGeNet	
+ERBB2	C1527249	Colorectal cancer	DisGeNet	
+ERBB2	C1527349	Ductal Carcinoma	DisGeNet	
+ERBB2	C1559154	Rash and Dermatitis Adverse Event Associated with Chemoradiation	DisGeNet	
+ERBB2	C1559271	Non-Malignant Ascites Adverse Event	DisGeNet	
+ERBB2	C1569637	Adenocarcinoma, Endometrioid	DisGeNet	
+ERBB2	C1621958	Glioblastoma multiforme	DisGeNet,HumPhenOnt	
+ERBB2	C1654637	androgen independent prostate cancer	DisGeNet	
+ERBB2	C1704272	Benign Prostatic Hyperplasia	DisGeNet	
+ERBB2	C1709246	Non-Neoplastic Disorder	DisGeNet	
+ERBB2	C1762616	Meningioma, benign, no ICD-O subtype	DisGeNet	
+ERBB2	C1840451	Multicystic renal dysplasia, bilateral	DisGeNet	
+ERBB2	C1860985	 Gastric cancer, somatic, 137215 (3)	DisGeNet	
+ERBB2	C1961102	Precursor Cell Lymphoblastic Leukemia-Lymphoma	DisGeNet	
+ERBB2	C2239176	Hepatocellular carcinoma	DisGeNet	
+ERBB2	C2931822	Nasopharyngeal carcinoma, susceptibility to, 3	DisGeNet	
+ERBB2	C2931852	Clear-cell metastatic renal cell carcinoma	DisGeNet	
+ERBB2	C2986665	Early-Stage Breast Carcinoma	DisGeNet	
+ERBB2	C3266877	Secondary malignant neoplasm of pancreas	DisGeNet	
+ERBB2	C3463897	Hydatidiform mole, recurrent, 1, 231090 (3)	DisGeNet	
+ERBB2	C3495426	Homocysteinemia due to MTHFR deficiency	DisGeNet	
+ERBB2	C3539781	Progressive cGVHD	DisGeNet	
+ERBB2	C3539878	Triple Negative Breast Neoplasms	DisGeNet	
+ERBB2	C3669246	Mammary adenocarcinoma	DisGeNet	
+ERBB2	C3809250	Estrogen resistance	DisGeNet	
+ERBB2	C4018871	Abnormality of the respiratory system	HumPhenOnt	
+ERBB2	C4021073	Morphological abnormality of the gastrointestinal tract	HumPhenOnt	
+ERBB2	C4021631	Abnormality of the tracheobronchial system	HumPhenOnt	
+ERBB2	C4021760	Abnormality of lung morphology	HumPhenOnt	
+ERBB2	C4021765	Morphological abnormality of the central nervous system	HumPhenOnt	
+ERBB2	C4021993	Abnormality of the glial cells	HumPhenOnt	
+ERBB2	C4022810	Abnormality of nervous system morphology	HumPhenOnt	
+ERBB2	C4022992	Abnormal respiratory system morphology	HumPhenOnt	
+ERBB2	C4023185	Neoplasm by anatomical site	HumPhenOnt	
+ERBB2	C4023186	Neoplasm by histology	HumPhenOnt	
+ERBB2	C4023588	Abnormality of the gastrointestinal tract	HumPhenOnt	
+ERBB2	C4025699	Abnormality of the stomach	HumPhenOnt	
+ERBB2	C4025727	Abnormality of the upper respiratory tract	HumPhenOnt	
+ERBB2	C4293691	Abnormality of digestive system morphology	HumPhenOnt	

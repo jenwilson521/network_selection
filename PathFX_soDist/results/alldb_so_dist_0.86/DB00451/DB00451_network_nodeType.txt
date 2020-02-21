@@ -1,0 +1,33 @@
+node_name	node_type	
+DB00451	drug	
+CYP2C8	drug_target	
+ITGB3	drug_target	
+SLC7A5	drug_target	
+SERPINA7	drug_target	
+TTR	drug_target	
+SLC16A2	drug_target	
+ALB	drug_target	
+SLCO1B3	drug_target	
+ITGAV	drug_target	
+THRA	drug_target	
+SLCO1B1	drug_target	
+ABCB1	drug_target	
+THRB	drug_target	
+SLCO1A2	drug_target	
+SLCO2B1	drug_target	
+SLCO4A1	drug_target	
+UGT1A1	drug_target	
+SLCO1C1	drug_target	
+Hyperbilirubinemia	phenotype	
+Hepatitis D Infection	phenotype	
+Cholelithiasis	phenotype	
+Febrile Neutropenia	phenotype	
+Drug Allergy	phenotype	
+Cholecystolithiasis	phenotype	
+Leukopenia	phenotype	
+Neutropenia	phenotype	
+Anemia, Sickle Cell	phenotype	
+Hearing Loss, Partial	phenotype	
+Adverse drug events and drug allergies	phenotype	
+Deficiency of glucose-6-phosphate dehydrogenase	phenotype	
+Peptic ulcer	phenotype	

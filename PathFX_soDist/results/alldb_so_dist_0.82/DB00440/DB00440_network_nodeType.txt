@@ -1,0 +1,14 @@
+node_name	node_type	
+DB00440	drug	
+CYP2C9	drug_target	
+CYP2C8	drug_target	
+DHFR	drug_target	
+TYMS	drug_target	
+ABCB1	drug_target	
+SLC22A2	drug_target	
+CYP3A4	drug_target	
+Drug Allergy	phenotype	
+Bone necrosis	phenotype	
+Adverse drug events and drug allergies	phenotype	
+Pharyngeal Neoplasms	phenotype	
+Myelosuppression	phenotype	

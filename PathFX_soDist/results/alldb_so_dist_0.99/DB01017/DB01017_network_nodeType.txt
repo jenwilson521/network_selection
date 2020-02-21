@@ -1,0 +1,12 @@
+node_name	node_type	
+DB01017	drug	
+CASP3	drug_target	
+CASP1	drug_target	
+ALOX5	drug_target	
+CYCS	drug_target	
+SLC22A11	drug_target	
+SLC22A6	drug_target	
+VEGFA	drug_target	
+MMP9	drug_target	
+IL1B	drug_target	
+SLC22A8	drug_target	

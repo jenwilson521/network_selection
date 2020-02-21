@@ -1,0 +1,65 @@
+Gene	CUI	Source Databases	
+CHRNA4	C0038644	SUDDEN INFANT DEATH SYNDROME	DisGeNet	
+CHRNA7	C0038644	SUDDEN INFANT DEATH SYNDROME	DisGeNet	
+CHRNB2	C0038644	SUDDEN INFANT DEATH SYNDROME	DisGeNet	
+CHRNA4	C0028043	Nicotine Dependence	DisGeNet	
+CHRNA7	C0028043	Nicotine Dependence	DisGeNet	
+CHRNB2	C0028043	Nicotine Dependence	DisGeNet	
+CHRNA4	C2911647	Weight Gain Adverse Event	DisGeNet	
+CHRNA7	C2911647	Weight Gain Adverse Event	DisGeNet	
+CHRNB2	C2911647	Weight Gain Adverse Event	DisGeNet	
+CHRNA4	C0270853	Juvenile myoclonic epilepsy	DisGeNet	
+CHRNA7	C0270853	Juvenile myoclonic epilepsy	DisGeNet	
+CHRNA4	C0270850	Idiopathic generalized epilepsy	DisGeNet	
+CHRNA7	C0270850	Idiopathic generalized epilepsy	DisGeNet	
+CHRNA4	C0014548	Epilepsy, generalized, with febrile seizures plus, type 6 (2)	DisGeNet	
+CHRNA7	C0014548	Epilepsy, generalized, with febrile seizures plus, type 6 (2)	DisGeNet	
+CHRNA7	C0038587	Substance Withdrawal Syndrome	DisGeNet	
+CHRNB2	C0038587	Substance Withdrawal Syndrome	DisGeNet	
+CHRNA4	C1836598	Incomplete penetrance	HumPhenOnt	
+CHRNA7	C1836598	Incomplete penetrance	HumPhenOnt	
+CHRNA4	C0851578	Sleep Wake Disorders	DisGeNet	
+CHRNB2	C0851578	Sleep Wake Disorders	DisGeNet	
+CHRNA4	C0752347	Lewy Body Disease	DisGeNet	
+CHRNA7	C0752347	Lewy Body Disease	DisGeNet	
+CHRNA4	C1270972	Mild cognitive impairment	DisGeNet	
+CHRNA7	C1270972	Mild cognitive impairment	DisGeNet	
+CHRNA7	C0027746	Neurodegeneration with brain iron accumulation	DisGeNet	
+CHRNB2	C0027746	Neurodegeneration with brain iron accumulation	DisGeNet	
+CHRNA4	C0013080	Down Syndrome	DisGeNet	
+CHRNA7	C0013080	Down Syndrome	DisGeNet	
+CHRNB2	C0013080	Down Syndrome	DisGeNet	
+CHRNA4	C0497327	Dementia	DisGeNet	
+CHRNA7	C0497327	Dementia	DisGeNet	
+CHRNB2	C0497327	Dementia	DisGeNet	
+CHRNA4	C0043094	Increased body weight	DisGeNet	
+CHRNA7	C0043094	Increased body weight	DisGeNet	
+CHRNB2	C0043094	Increased body weight	DisGeNet	
+CHRNA4	C1263846	Attention deficit hyperactivity disorder	DisGeNet	
+CHRNA7	C1263846	Attention deficit hyperactivity disorder	DisGeNet,HumPhenOnt	
+CHRNB2	C1263846	Attention deficit hyperactivity disorder	DisGeNet	
+CHRNB2	C0020672	Hypothermia	DisGeNet	
+CHRNA4	C0751785	Unverricht-Lundborg syndrome	DisGeNet	
+CHRNA4	C0687132	heavy drinking	DisGeNet	
+CHRNA7	C0031212	Personality disorder	DisGeNet	
+CHRNA4	C0014544	Epilepsy	DisGeNet	
+CHRNA7	C0014544	Epilepsy	DisGeNet	
+CHRNB2	C0014544	Epilepsy	DisGeNet	
+CHRNA7	C0525041	Neurobehavioral Manifestations	DisGeNet	
+CHRNA4	C0233794	Memory impairment	DisGeNet	
+CHRNB2	C0233794	Memory impairment	DisGeNet	
+CHRNA7	C0025312	Myelomeningocele	DisGeNet	
+CHRNA4	C0150055	Chronic pain	DisGeNet	
+CHRNA4	C0026106	Mild Mental Retardation	DisGeNet	
+CHRNB2	C1504404	Hippocampal sclerosis	DisGeNet	
+CHRNA7	C0030807	Pemphigus	DisGeNet	
+CHRNA4	C0033054	Prenatal Exposure Delayed Effects	DisGeNet	
+CHRNA4	C0344307	Pain insensitivity	DisGeNet	
+CHRNA4	C0011265	Dementia familial British	DisGeNet	
+CHRNA7	C0011265	Dementia familial British	DisGeNet	
+CHRNA4	C0014547	Epilepsy, focal, with speech disorder and with or without mental retardation	DisGeNet	
+CHRNB2	C0027497	Nausea	DisGeNet	
+CHRNA7	C0008628	Chromosome Xq28 deletion syndrome	DisGeNet	
+CHRNA7	C0025261	Memory Disorders	DisGeNet	
+CHRNA4	C0751495	Focal seizures	HumPhenOnt	
+CHRNA4	C1720983	Channelopathies	DisGeNet	

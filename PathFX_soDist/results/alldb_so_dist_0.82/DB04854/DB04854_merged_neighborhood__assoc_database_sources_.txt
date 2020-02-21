@@ -1,0 +1,91 @@
+Gene	CUI	Source Databases	
+XDH	C0003130	Hypoxia	DisGeNet	
+XDH	C0003850	Arteriosclerosis	DisGeNet	
+XDH	C0004096	Asthma	DisGeNet	
+XDH	C0004153	Atherosclerosis	DisGeNet	
+XDH	C0004352	Autism 15	DisGeNet	
+XDH	C0006118	Brain neoplasm	DisGeNet	
+XDH	C0006142	Breast-ovarian cancer, familial 1	DisGeNet	
+XDH	C0007102	Colon cancer	DisGeNet	
+XDH	C0007137	Squamous cell carcinoma	DisGeNet	
+XDH	C0007222	Cardiovascular Diseases	DisGeNet	
+XDH	C0007273	Carotid Artery Diseases	DisGeNet	
+XDH	C0009402	Colorectal cancer 1	DisGeNet	
+XDH	C0009450	Verotoxigenic Escherichia coli gastrointestinal tract infection	DisGeNet	
+XDH	C0011053	Deafness, autosomal recessive 44	DisGeNet	
+XDH	C0011881	Diabetic Nephropathies	DisGeNet	
+XDH	C0014859	Esophageal Neoplasms	DisGeNet	
+XDH	C0018772	Hearing Loss, Partial	DisGeNet	
+XDH	C0018799	Heart Diseases	DisGeNet	
+XDH	C0018801	Heart Failure	DisGeNet	
+XDH	C0018802	Congestive heart failure	DisGeNet	
+XDH	C0020295	Hydronephrosis	HumPhenOnt	
+XDH	C0020538	Hypertension	DisGeNet	
+XDH	C0021390	Inflammatory Bowel Diseases	DisGeNet	
+XDH	C0022116	Ischemia	DisGeNet	
+XDH	C0022650	Kidney Calculi	DisGeNet	
+XDH	C0022658	Kidney Diseases	DisGeNet	
+XDH	C0022660	Acute kidney injury	DisGeNet	
+XDH	C0023890	Liver Cirrhosis, Biliary	DisGeNet	
+XDH	C0024117	Chronic obstructive pulmonary disease	DisGeNet	
+XDH	C0024623	{Gastric cancer risk after H. pylori infection}, 137215 (3)	DisGeNet	
+XDH	C0024667	Animal Mammary Neoplasms	DisGeNet	
+XDH	C0024668	Mammary Neoplasms, Experimental	DisGeNet	
+XDH	C0025284	Meningeal Neoplasms	DisGeNet	
+XDH	C0025286	Meningioma	DisGeNet	
+XDH	C0026848	Myopathy, scapulohumeroperoneal	HumPhenOnt	
+XDH	C0027627	Secondary hypertriglyceridemia	DisGeNet	
+XDH	C0027697	Nephritis	HumPhenOnt	
+XDH	C0027746	Neurodegeneration with brain iron accumulation	DisGeNet	
+XDH	C0028797	Occupational Diseases	DisGeNet	
+XDH	C0030305	Pancreatitis	DisGeNet	
+XDH	C0034065	Pulmonary Embolism	DisGeNet	
+XDH	C0034186	Pyelonephritis	HumPhenOnt	
+XDH	C0035126	Reperfusion Injury	DisGeNet	
+XDH	C0038356	Stomach Neoplasms	DisGeNet	
+XDH	C0040034	Thrombocytopenia, platelet dysfunction, hemolysis, and imbalanced globin synthesis	DisGeNet	
+XDH	C0042063	Abnormality of the genitourinary system	HumPhenOnt	
+XDH	C0151746	Abnormal renal physiology	HumPhenOnt	
+XDH	C0152013	Adenocarcinoma of lung	DisGeNet	
+XDH	C0242379	Malignant neoplasm of lung	DisGeNet	
+XDH	C0243026	Sepsis	DisGeNet	
+XDH	C0266292	Congenital anomalies of kidney and urinary tract 1, susceptibility to	HumPhenOnt	
+XDH	C0392525	Nephrolithiasis	DisGeNet,HumPhenOnt	
+XDH	C0403447	Chronic Kidney Insufficiency	DisGeNet	
+XDH	C0441748	Autosomal recessive inheritance	HumPhenOnt	
+XDH	C0600452	Hepatopulmonary Syndrome	DisGeNet	
+XDH	C0677886	Ovarian epithelial cancer	DisGeNet	
+XDH	C0678222	Breast carcinoma	DisGeNet	
+XDH	C0684249	Lung cancer	DisGeNet	
+XDH	C0699790	Carcinoma of colon	DisGeNet	
+XDH	C0699791	Stomach cancer	DisGeNet	
+XDH	C0740392	Infarction, Middle Cerebral Artery	DisGeNet	
+XDH	C0740394	Hyperuricemia, pulmonary hypertension, renal failure, and alkalosis	DisGeNet	
+XDH	C0853897	Diabetic Cardiomyopathies	DisGeNet	
+XDH	C0856169	Endothelial dysfunction	DisGeNet	
+XDH	C0878544	Cardiomyopathy	DisGeNet	
+XDH	C1140680	BREAST-OVARIAN CANCER, FAMILIAL, SUSCEPTIBILITY TO, 4	DisGeNet	
+XDH	C1269683	Major depressive disorder	DisGeNet	
+XDH	C1384666	Hearing impairment	DisGeNet	
+XDH	C1520166	Xenograft Model	DisGeNet	
+XDH	C1527249	Colorectal cancer	DisGeNet	
+XDH	C1527336	Sjogren's Syndrome	DisGeNet	
+XDH	C1561643	Chronic kidney disease	DisGeNet	
+XDH	C1762616	Meningioma, benign, no ICD-O subtype	DisGeNet	
+XDH	C1833683	Calcium oxalate urolithiasis	DisGeNet	
+XDH	C1868864	Dilatation of the renal pelvis	HumPhenOnt	
+XDH	C1961102	Precursor Cell Lymphoblastic Leukemia-Lymphoma	DisGeNet	
+XDH	C2239176	Hepatocellular carcinoma	DisGeNet	
+XDH	C4021745	Abnormality of the musculature	HumPhenOnt	
+XDH	C4021753	Abnormality of the immune system	HumPhenOnt	
+XDH	C4021768	Abnormality of metabolism/homeostasis	HumPhenOnt	
+XDH	C4021821	Abnormality of the urinary system	HumPhenOnt	
+XDH	C4022803	Increased inflammatory response	HumPhenOnt	
+XDH	C4022805	Abnormal inflammatory response	HumPhenOnt	
+XDH	C4023181	Abnormality of muscle morphology	HumPhenOnt	
+XDH	C4023437	Abnormality of the urinary system physiology	HumPhenOnt	
+XDH	C4023616	Abnormality of immune system physiology	HumPhenOnt	
+XDH	C4023633	Abnormality of the renal pelvis	HumPhenOnt	
+XDH	C4023641	Abnormality of the upper urinary tract	HumPhenOnt	
+XDH	C4023643	Abnormality of nucleobase metabolism	HumPhenOnt	
+XDH	C4025346	Abnormality of purine metabolism	HumPhenOnt	

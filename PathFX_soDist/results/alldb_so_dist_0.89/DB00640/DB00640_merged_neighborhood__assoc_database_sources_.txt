@@ -1,0 +1,15 @@
+Gene	CUI	Source Databases	
+ADORA1	C0041755	Adverse drug events and drug allergies	DisGeNet	
+ADORA2A	C0041755	Adverse drug events and drug allergies	DisGeNet	
+ADORA1	C0242973	Ventricular Dysfunction, Right	DisGeNet	
+ADORA2A	C0242973	Ventricular Dysfunction, Right	DisGeNet	
+ADORA1	C0013182	Drug Allergy	DisGeNet	
+ADORA2A	C0013182	Drug Allergy	DisGeNet	
+ADORA1	C0038587	Substance Withdrawal Syndrome	DisGeNet	
+ADORA2A	C0038587	Substance Withdrawal Syndrome	DisGeNet	
+ADORA1	C0851578	Sleep Wake Disorders	DisGeNet	
+ADORA2A	C0851578	Sleep Wake Disorders	DisGeNet	
+ADORA1	C0030319	Panic disorder syndrome 1 (2)	DisGeNet	
+ADORA2A	C0030319	Panic disorder syndrome 1 (2)	DisGeNet	
+ADORA1	C0020649	Hypotension	DisGeNet	
+ADORA2A	C0020649	Hypotension	DisGeNet	

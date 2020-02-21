@@ -1,0 +1,4 @@
+node1	node2	edge_score	
+DB05889	CD22	1.0	
+DB05889	ABCB1	1.0	
+

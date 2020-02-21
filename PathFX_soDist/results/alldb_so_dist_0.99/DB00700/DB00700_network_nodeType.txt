@@ -1,0 +1,6 @@
+node_name	node_type	
+DB00700	drug	
+NR3C2	drug_target	
+CYP3A4	drug_target	
+CYP3A5	drug_target	
+CYP11B2	drug_target	

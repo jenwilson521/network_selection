@@ -1,0 +1,80 @@
+node1	node2	edge_score	
+DB09539	SOAT1	1.0	
+DB09539	SREBF1	1.0	
+SREBF1		1.0
+Alzheimer Disease	SREBF1	1.0	
+Hypoxia	SREBF1	1.0	
+Aortic regurgitation	SREBF1	1.0	
+Aortic valve stenosis	SREBF1	1.0	
+Arteriosclerosis	SREBF1	1.0	
+Atherosclerosis	SREBF1	1.0	
+Breast-ovarian cancer, familial 1	SREBF1	1.0	
+Malignant neoplasm of endometrium	SREBF1	1.0	
+Noninfiltrating Intraductal Carcinoma	SREBF1	1.0	
+Colorectal cancer 1	SREBF1	1.0	
+Coronary heart disease 7	SREBF1	1.0	
+Dementia familial British	SREBF1	1.0	
+Diabetes Mellitus, Type 1	SREBF1	1.0	
+Diabetes mellitus type 1	SREBF1	1.0	
+Diabetes mellitus type 2	SREBF1	1.0	
+Diabetic Nephropathies	SREBF1	1.0	
+Type 1 diabetic neuropathy	SREBF1	1.0	
+Endometrial Neoplasms	SREBF1	1.0	
+Hepatic steatosis	SREBF1	1.0	
+Femur Head Necrosis	SREBF1	1.0	
+Intrauterine growth retardation	SREBF1	1.0	
+Glioblastoma	SREBF1	1.0	
+Acute type B viral hepatitis	SREBF1	1.0	
+Hepatitis C	SREBF1	1.0	
+Hepatomegaly	SREBF1	1.0	
+Symptomatic human immunodeficiency virus infection	SREBF1	1.0	
+Hypercholesterolemia, autosomal dominant, type B	SREBF1	1.0	
+Hyperglycemia	SREBF1	1.0	
+Hyperinsulinemia	SREBF1	1.0	
+Hyperlipidemia, combined, 1	SREBF1	1.0	
+Hypertension	SREBF1	1.0	
+Hypertriglyceridemia	SREBF1	1.0	
+Hypoglycemia, neonatal, simulating foetopathia diabetica	SREBF1	1.0	
+Insulin Resistance	SREBF1	1.0	
+Ketoacidosis	SREBF1	1.0	
+Kidney Diseases	SREBF1	1.0	
+Kidney Failure, Chronic	SREBF1	1.0	
+Lipoatrophy	SREBF1	1.0	
+Lipoidosis	SREBF1	1.0	
+Liposarcoma	SREBF1	1.0	
+Neoplasm of the liver	SREBF1	1.0	
+Animal Mammary Neoplasms	SREBF1	1.0	
+Disorders of Intracellular Cobalamin Metabolism	SREBF1	1.0	
+Obesity	SREBF1	1.0	
+Bone necrosis	SREBF1	1.0	
+Parkinson Disease	SREBF1	1.0	
+Hutchinson-Gilford syndrome	SREBF1	1.0	
+Prostatic Neoplasms	SREBF1	1.0	
+Renal Insufficiency, Chronic	SREBF1	1.0	
+Schizophrenia	SREBF1	1.0	
+Increased body weight	SREBF1	1.0	
+B-cell lymphoma	SREBF1	1.0	
+Uterine Corpus Cancer	SREBF1	1.0	
+Tumor Progression	SREBF1	1.0	
+Hepatocellular adenoma	SREBF1	1.0	
+Pancreatic Carcinoma	SREBF1	1.0	
+Hepatic fibrosis	SREBF1	1.0	
+Dyslipidemias	SREBF1	1.0	
+Malignant neoplasm of pancreas	SREBF1	1.0	
+Malignant tumor of prostate	SREBF1	1.0	
+Non-alcoholic Fatty Liver Disease	SREBF1	1.0	
+Emery-Dreifuss muscular dystrophy 1, X-linked	SREBF1	1.0	
+Endometrial carcinoma	SREBF1	1.0	
+Dementia	SREBF1	1.0	
+Overweight	SREBF1	1.0	
+Metabolic Syndrome X	SREBF1	1.0	
+Carcinogenesis	SREBF1	1.0	
+Prostate carcinoma	SREBF1	1.0	
+Breast carcinoma	SREBF1	1.0	
+Colorectal cancer	SREBF1	1.0	
+Trichothiodystrophy Syndromes	SREBF1	1.0	
+Coronary Artery Disease	SREBF1	1.0	
+Hepatocellular carcinoma	SREBF1	1.0	
+Steatohepatitis	SREBF1	1.0	
+Weight Gain Adverse Event	SREBF1	1.0	
+Obesity, Visceral	SREBF1	1.0	

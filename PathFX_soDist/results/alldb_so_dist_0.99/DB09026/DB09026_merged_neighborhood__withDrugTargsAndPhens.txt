@@ -1,0 +1,4 @@
+node1	node2	edge_score	
+DB09026	CYP3A4	1.0	
+DB09026	REN	1.0	
+

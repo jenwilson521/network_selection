@@ -1,0 +1,21 @@
+node_name	node_type	
+DB00379	drug	
+CYP1A2	drug_target	
+CYP2D6	drug_target	
+CYP2B6	drug_target	
+CYP2E1	drug_target	
+AHR	drug_target	
+CYP3A4	drug_target	
+SCN5A	drug_target	
+Adverse drug events and drug allergies	phenotype	
+Squamous Cell Neoplasms	phenotype	
+Neoplasm of the larynx	phenotype	
+Tardive Dyskinesia	phenotype	
+Congenital long QT syndrome	phenotype	
+Enzyme inhibition disorder	phenotype	
+Occupational Diseases	phenotype	
+Chronic schizophrenia	phenotype	
+Orofacial dyskinesia	phenotype	
+Hepatitis, Autoimmune	phenotype	
+End Stage Liver Disease	phenotype	
+Chemical Carcinogenesis	phenotype	

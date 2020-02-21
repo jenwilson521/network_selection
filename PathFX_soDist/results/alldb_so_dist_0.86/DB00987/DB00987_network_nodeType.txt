@@ -1,0 +1,11 @@
+node_name	node_type	
+DB00987	drug	
+SLC22A1	drug_target	
+CDA	drug_target	
+DCTD	drug_target	
+NT5E	drug_target	
+POLB	drug_target	
+SLC29A1	drug_target	
+CYP3A4	drug_target	
+ABCC10	drug_target	
+DCK	drug_target	

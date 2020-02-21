@@ -1,0 +1,281 @@
+Gene	CUI	Source Databases	
+PARP1	C0001418	 Adenocarcinoma, ovarian, somatic, 167000 (3)	DisGeNet	
+PARP1	C0001430	Adenomas, multiple colorectal, 608456 (3)	DisGeNet	
+PARP1	C0002170	Alopecia	DisGeNet	
+PARP1	C0002395	Alzheimer Disease	DisGeNet	
+PARP1	C0002736	Amyotrophic Lateral Sclerosis	DisGeNet	
+PARP1	C0002871	Anemia	DisGeNet	
+PARP1	C0002965	Angina, Unstable	DisGeNet	
+PARP1	C0003175	Anthrax disease	DisGeNet	
+PARP1	C0003864	Arthritis, Rheumatoid	DisGeNet	
+PARP1	C0003873	Rheumatoid arthritis	DisGeNet	
+PARP1	C0004096	Asthma	DisGeNet	
+PARP1	C0004135	Ataxia-telangiectasia syndrome	DisGeNet	
+PARP1	C0004153	Atherosclerosis	DisGeNet	
+PARP1	C0004364	Autoimmune disease 1	DisGeNet	
+PARP1	C0005684	Malignant tumor of urinary bladder	DisGeNet	
+PARP1	C0005859	Bloom syndrome	DisGeNet	
+PARP1	C0005967	Bone neoplasms	DisGeNet	
+PARP1	C0006118	Brain neoplasm	DisGeNet	
+PARP1	C0006142	Breast-ovarian cancer, familial 1	DisGeNet	
+PARP1	C0006413	Burkitt lymphoma	DisGeNet	
+PARP1	C0006826	Cancer of the lower GI tract	DisGeNet	
+PARP1	C0007102	Colon cancer	DisGeNet	
+PARP1	C0007103	Malignant neoplasm of endometrium	DisGeNet	
+PARP1	C0007115	Thyroid cancer, nonmedullary, 4	DisGeNet	
+PARP1	C0007117	Basal cell carcinoma	DisGeNet	
+PARP1	C0007124	Noninfiltrating Intraductal Carcinoma	DisGeNet	
+PARP1	C0007129	Merkel cell carcinoma	DisGeNet	
+PARP1	C0007131	Non-small cell lung carcinoma	DisGeNet	
+PARP1	C0007134	Renal cell carcinoma, nonpapillary	DisGeNet	
+PARP1	C0007137	Squamous cell carcinoma	DisGeNet	
+PARP1	C0007138	Urothelial Carcinoma	DisGeNet	
+PARP1	C0007682	CNS disorder	DisGeNet	
+PARP1	C0007785	Ischaemic cerebral infarction	DisGeNet	
+PARP1	C0007786	Brain Ischemia	DisGeNet	
+PARP1	C0007787	Transient ischemic attack	DisGeNet	
+PARP1	C0007847	Malignant tumor of cervix	DisGeNet	
+PARP1	C0008479	Chondrosarcoma	DisGeNet	
+PARP1	C0008626	Congenital chromosomal disease	DisGeNet	
+PARP1	C0009319	Colitis, Ulcerative	DisGeNet	
+PARP1	C0009375	Neoplasm of the colon	DisGeNet	
+PARP1	C0009402	Colorectal cancer 1	DisGeNet	
+PARP1	C0009404	Colorectal Neoplasms	DisGeNet	
+PARP1	C0009450	Verotoxigenic Escherichia coli gastrointestinal tract infection	DisGeNet	
+PARP1	C0010054	Coronary heart disease 7	DisGeNet	
+PARP1	C0011265	Dementia familial British	DisGeNet	
+PARP1	C0011389	Plaque, Atherosclerotic	DisGeNet	
+PARP1	C0011603	Seborheic dermatitis	DisGeNet	
+PARP1	C0011849	Diabetes Mellitus, Type 1	DisGeNet	
+PARP1	C0011854	Diabetes mellitus type 1	DisGeNet	
+PARP1	C0011860	Diabetes mellitus type 2	DisGeNet	
+PARP1	C0011881	Diabetic Nephropathies	DisGeNet	
+PARP1	C0011882	Type 1 diabetic neuropathy	DisGeNet	
+PARP1	C0012860	DNA Damage	DisGeNet	
+PARP1	C0013080	Down Syndrome	DisGeNet	
+PARP1	C0013264	Duchenne muscular dystrophy	DisGeNet	
+PARP1	C0014038	Encephalitis	DisGeNet	
+PARP1	C0014457	Eosinophilia	DisGeNet	
+PARP1	C0014859	Esophageal Neoplasms	DisGeNet	
+PARP1	C0015625	Fanconi anemia	DisGeNet	
+PARP1	C0017636	Glioblastoma	DisGeNet	
+PARP1	C0017638	Glioma	DisGeNet	
+PARP1	C0017658	Glomerulonephritis, Membranous	DisGeNet	
+PARP1	C0018133	Graft-versus-host disease, susceptibility to	DisGeNet	
+PARP1	C0018800	Cardiomegaly	DisGeNet	
+PARP1	C0018801	Heart Failure	DisGeNet	
+PARP1	C0018802	Congestive heart failure	DisGeNet	
+PARP1	C0018889	Helminthiasis	DisGeNet	
+PARP1	C0019159	Hepatitis	DisGeNet	
+PARP1	C0019163	Acute type B viral hepatitis	DisGeNet	
+PARP1	C0019196	Hepatitis C	DisGeNet	
+PARP1	C0019348	Herpes Simplex Infections	DisGeNet	
+PARP1	C0019693	Symptomatic human immunodeficiency virus infection	DisGeNet	
+PARP1	C0020456	Hyperglycemia	DisGeNet	
+PARP1	C0020538	Hypertension	DisGeNet	
+PARP1	C0021053	Immune dysfunction with T-cell inactivation due to calcium entry defect 1	DisGeNet	
+PARP1	C0021364	Male infertility	DisGeNet	
+PARP1	C0021368	Inflammation	DisGeNet	
+PARP1	C0022116	Ischemia	DisGeNet	
+PARP1	C0022578	Keratoconus	DisGeNet	
+PARP1	C0022658	Kidney Diseases	DisGeNet	
+PARP1	C0022660	Acute kidney injury	DisGeNet	
+PARP1	C0022821	Kyphosis	DisGeNet	
+PARP1	C0023267	Leiomyoma	DisGeNet	
+PARP1	C0023269	Leiomyosarcoma	DisGeNet	
+PARP1	C0023418	Leukemia, Lymphocytic, Chronic, B-Cell	DisGeNet	
+PARP1	C0023434	Chronic Lymphocytic Leukemia	DisGeNet	
+PARP1	C0023448	Lymphoid leukemia	DisGeNet	
+PARP1	C0023449	Acute lymphoid leukemia	DisGeNet	
+PARP1	C0023452	Leukemia, Lymphocytic, Acute, L1	DisGeNet	
+PARP1	C0023467	Acute myeloid leukemia	DisGeNet	
+PARP1	C0023470	Myeloid leukemia	DisGeNet	
+PARP1	C0023473	Chronic myeloid leukemia	DisGeNet	
+PARP1	C0023493	Adult T-Cell Lymphoma/Leukemia	DisGeNet	
+PARP1	C0023530	Leukopenia	DisGeNet	
+PARP1	C0023903	Neoplasm of the liver	DisGeNet	
+PARP1	C0024117	Chronic obstructive pulmonary disease	DisGeNet	
+PARP1	C0024121	Lung Neoplasms	DisGeNet	
+PARP1	C0024131	Lupus Vulgaris	DisGeNet	
+PARP1	C0024138	Discoid lupus erythematosus	DisGeNet	
+PARP1	C0024141	Lupus Erythematosus, Systemic	DisGeNet	
+PARP1	C0024232	Lymphatic Metastasis	DisGeNet	
+PARP1	C0024299	Lymphoma, Large B-Cell, Diffuse	DisGeNet	
+PARP1	C0024305	Non-Hodgkin lymphoma	DisGeNet	
+PARP1	C0024623	{Gastric cancer risk after H. pylori infection}, 137215 (3)	DisGeNet	
+PARP1	C0024667	Animal Mammary Neoplasms	DisGeNet	
+PARP1	C0024668	Mammary Neoplasms, Experimental	DisGeNet	
+PARP1	C0024899	Mastocytosis	DisGeNet	
+PARP1	C0025202	Melanoma	DisGeNet	
+PARP1	C0025284	Meningeal Neoplasms	DisGeNet	
+PARP1	C0025286	Meningioma	DisGeNet	
+PARP1	C0025303	Meningococcal Infections	DisGeNet	
+PARP1	C0025517	Disorders of Intracellular Cobalamin Metabolism	DisGeNet	
+PARP1	C0026764	Multiple Myeloma	DisGeNet	
+PARP1	C0026769	Multiple Sclerosis	DisGeNet	
+PARP1	C0026850	Muscular dystrophy-dystroglycanopathy (congenital with brain and eye anomalies), type a, 11	DisGeNet	
+PARP1	C0027051	Myocardial Infarction	DisGeNet	
+PARP1	C0027627	Secondary hypertriglyceridemia	DisGeNet	
+PARP1	C0027658	Neoplasms, Germ Cell and Embryonal	DisGeNet	
+PARP1	C0027666	Neoplasms, Radiation-Induced	DisGeNet	
+PARP1	C0027697	Nephritis	DisGeNet	
+PARP1	C0027765	Other disorders of the nervous system	DisGeNet	
+PARP1	C0027859	Vestibular Schwannoma	DisGeNet	
+PARP1	C0027947	Neutropenia	DisGeNet	
+PARP1	C0027962	Melanocytic nevus	DisGeNet	
+PARP1	C0028754	Obesity	DisGeNet	
+PARP1	C0028960	Oligospermia	DisGeNet	
+PARP1	C0029408	Osteoarthritis	DisGeNet	
+PARP1	C0029882	Otitis media	DisGeNet	
+PARP1	C0030567	Parkinson Disease	DisGeNet	
+PARP1	C0031117	Peripheral neuropathy, myopathy, hoarseness, and hearing loss	DisGeNet	
+PARP1	C0032131	Plasmacytoma	DisGeNet	
+PARP1	C0032285	Pneumonia	DisGeNet	
+PARP1	C0032580	Familial adenomatous polyposis 1	DisGeNet	
+PARP1	C0032584	polyps	DisGeNet	
+PARP1	C0032927	Precancerous Conditions	DisGeNet	
+PARP1	C0033578	Prostatic Neoplasms	DisGeNet	
+PARP1	C0035126	Reperfusion Injury	DisGeNet	
+PARP1	C0035304	Retinal degeneration	DisGeNet	
+PARP1	C0035412	Rhabdomyosarcoma alveolar	DisGeNet	
+PARP1	C0036690	Septicemia	DisGeNet	
+PARP1	C0037286	Neoplasm of the skin	DisGeNet	
+PARP1	C0038325	Stevens-Johnson Syndrome	DisGeNet	
+PARP1	C0038356	Stomach Neoplasms	DisGeNet	
+PARP1	C0038454	Stroke	DisGeNet	
+PARP1	C0040136	Thyroid Neoplasms	DisGeNet	
+PARP1	C0041234	Chronic Chagas' disease	DisGeNet	
+PARP1	C0042111	Urticaria Pigmentosa	DisGeNet	
+PARP1	C0042842	Vitamin A deficiency	DisGeNet	
+PARP1	C0042900	Vitiligo	DisGeNet	
+PARP1	C0043119	Werner syndrome	DisGeNet	
+PARP1	C0079487	Helicobacter Infections	DisGeNet	
+PARP1	C0079588	X-linked ichthyosis with steryl-sulfatase deficiency	DisGeNet	
+PARP1	C0079731	B-cell lymphoma	DisGeNet	
+PARP1	C0085110	Severe combined immunodeficiency due to ADA deficiency	DisGeNet	
+PARP1	C0085136	Neoplasm of the central nervous system	DisGeNet	
+PARP1	C0085278	Primary antiphospholipid syndrome	DisGeNet	
+PARP1	C0085409	Polyglandular autoimmune syndrome, type 1	DisGeNet	
+PARP1	C0085437	Meningitis, Bacterial	DisGeNet	
+PARP1	C0085648	Synovial Cyst	DisGeNet	
+PARP1	C0149925	Small cell lung cancer	DisGeNet	
+PARP1	C0149978	Rectal Carcinoma	DisGeNet	
+PARP1	C0151744	Acute myocardial ischemia	DisGeNet	
+PARP1	C0151779	Cutaneous malignant melanoma 3	DisGeNet	
+PARP1	C0152018	Esophageal carcinoma	DisGeNet	
+PARP1	C0152171	Primary pulmonary hypertension	DisGeNet	
+PARP1	C0153452	Malignant neoplasm of gallbladder	DisGeNet	
+PARP1	C0153574	Uterine Corpus Cancer	DisGeNet	
+PARP1	C0155626	Acute myocardial infarction	DisGeNet	
+PARP1	C0155765	Cerebroretinal microangiopathy with calcifications and cysts 1	DisGeNet	
+PARP1	C0178874	Tumor Progression	DisGeNet	
+PARP1	C0205851	Germ cell neoplasia	DisGeNet	
+PARP1	C0206019	HIV encephalitis	DisGeNet	
+PARP1	C0206659	Embryonal Carcinoma	DisGeNet	
+PARP1	C0206664	Teratocarcinoma	DisGeNet	
+PARP1	C0206701	High grade serous carcinoma	DisGeNet	
+PARP1	C0221228	Comedone	DisGeNet	
+PARP1	C0221287	Combined Hepatocellular Carcinoma and Cholangiocarcinoma	DisGeNet	
+PARP1	C0233794	Memory impairment	DisGeNet	
+PARP1	C0235782	Gallbladder Carcinoma	DisGeNet	
+PARP1	C0235974	Pancreatic Carcinoma	DisGeNet	
+PARP1	C0242379	Malignant neoplasm of lung	DisGeNet	
+PARP1	C0242383	Age-related macular degeneration 2	DisGeNet	
+PARP1	C0242422	Parkinsonism	DisGeNet	
+PARP1	C0243026	Sepsis	DisGeNet	
+PARP1	C0264490	Acute respiratory failure	DisGeNet	
+PARP1	C0275524	Coinfection	DisGeNet	
+PARP1	C0278488	Carcinoma breast stage IV	DisGeNet	
+PARP1	C0278883	Metastatic melanoma	DisGeNet	
+PARP1	C0278996	Cancer of Head and Neck	DisGeNet	
+PARP1	C0279626	Esophageal Squamous Cell Carcinoma	DisGeNet	
+PARP1	C0279628	Adenocarcinoma Of Esophagus	DisGeNet	
+PARP1	C0280100	Solid tumour	DisGeNet	
+PARP1	C0280220	Ovarian epithelial cancer stage III	DisGeNet	
+PARP1	C0280449	secondary acute myeloid leukemia	DisGeNet	
+PARP1	C0281361	Pancreatic adenocarcinoma	DisGeNet	
+PARP1	C0302592	Carcinoma of cervix	DisGeNet	
+PARP1	C0311213	Dermatitis verrucosa	DisGeNet	
+PARP1	C0333516	Tumor necrosis	DisGeNet	
+PARP1	C0334583	Pilocytic Astrocytoma	DisGeNet	
+PARP1	C0334634	Malignant lymphoma, lymphocytic, intermediate differentiation, diffuse	DisGeNet	
+PARP1	C0345904	Hepatic cancer metastatic	DisGeNet	
+PARP1	C0345967	Malignant mesothelioma	DisGeNet	
+PARP1	C0346153	Familial cancer of breast	DisGeNet	
+PARP1	C0346647	Malignant neoplasm of pancreas	DisGeNet	
+PARP1	C0376358	Malignant tumor of prostate	DisGeNet	
+PARP1	C0398791	Nijmegen Breakage Syndrome	DisGeNet	
+PARP1	C0403447	Chronic Kidney Insufficiency	DisGeNet	
+PARP1	C0409974	{Systemic lupus erythematosus, susceptibility to, 8} (2)	DisGeNet	
+PARP1	C0476089	Endometrial carcinoma	DisGeNet	
+PARP1	C0476254	Dyslexia 1	DisGeNet	
+PARP1	C0497299	Meningitis	DisGeNet	
+PARP1	C0497327	Dementia	DisGeNet	
+PARP1	C0497388	Nevus	DisGeNet	
+PARP1	C0521158	Recurrent tumor	DisGeNet	
+PARP1	C0546837	Malignant tumor of esophagus	DisGeNet	
+PARP1	C0549473	Thyroid carcinoma	DisGeNet	
+PARP1	C0553580	Ewing's sarcoma	DisGeNet	
+PARP1	C0555198	Malignant Glioma	DisGeNet	
+PARP1	C0585442	Osteosarcoma	DisGeNet	
+PARP1	C0596263	Carcinogenesis	DisGeNet	
+PARP1	C0600139	Prostate carcinoma	DisGeNet	
+PARP1	C0677776	Hereditary breast and ovarian cancer syndrome	DisGeNet	
+PARP1	C0677886	Ovarian epithelial cancer	DisGeNet	
+PARP1	C0678222	Breast carcinoma	DisGeNet	
+PARP1	C0684249	Lung cancer	DisGeNet	
+PARP1	C0699790	Carcinoma of colon	DisGeNet	
+PARP1	C0699791	Stomach cancer	DisGeNet	
+PARP1	C0699885	Bladder carcinoma	DisGeNet	
+PARP1	C0700095	Neuroblastoma	DisGeNet	
+PARP1	C0751651	Mitochondrial diseases	DisGeNet	
+PARP1	C0751674	Lymphangiomyomatosis	DisGeNet	
+PARP1	C0850572	Adenomatous polyp of colon	DisGeNet	
+PARP1	C0850666	Helicobacter pylori infection	DisGeNet	
+PARP1	C0853879	Invasive breast carcinoma	DisGeNet	
+PARP1	C0867389	Chronic graft-versus-host disease	DisGeNet	
+PARP1	C0877008	Enzyme inhibition disorder	DisGeNet	
+PARP1	C0878544	Cardiomyopathy	DisGeNet	
+PARP1	C0917798	Cerebral ischemia	DisGeNet	
+PARP1	C0919267	Ovarian Neoplasms	DisGeNet	
+PARP1	C0920646	Renal ischaemia	DisGeNet	
+PARP1	C0936223	Metastatic Prostate Carcinoma	DisGeNet	
+PARP1	C0940937	precancerous lesions	DisGeNet	
+PARP1	C1096184	West Nile viral infection	DisGeNet	
+PARP1	C1136085	Monoclonal Gammapathies	DisGeNet	
+PARP1	C1140680	BREAST-OVARIAN CANCER, FAMILIAL, SUSCEPTIBILITY TO, 4	DisGeNet	
+PARP1	C1168401	Squamous cell carcinoma of the head and neck	DisGeNet	
+PARP1	C1257915	Intestinal polyposis	DisGeNet	
+PARP1	C1261473	Sarcoma, Ewing	DisGeNet	
+PARP1	C1292769	B Acute Lymphoblastic Leukemia with t(9;22)(q34;q11.2); BCR-ABL1	DisGeNet	
+PARP1	C1302401	Adenoma of large intestine	DisGeNet	
+PARP1	C1306759	Eosinophilic disorder	DisGeNet	
+PARP1	C1328504	Hormone refractory prostate cancer	DisGeNet	
+PARP1	C1332225	Aggressive Non-Hodgkin Lymphoma	DisGeNet	
+PARP1	C1333600	Familial colorectal cancer	DisGeNet	
+PARP1	C1335302	Pancreatic Ductal Adenocarcinoma	DisGeNet	
+PARP1	C1336076	Sporadic Breast Carcinoma	DisGeNet	
+PARP1	C1337013	Differentiated Thyroid Gland Carcinoma	DisGeNet	
+PARP1	C1456781	Benign melanocytic nevus	DisGeNet	
+PARP1	C1512981	Mammary Tumorigenesis	DisGeNet	
+PARP1	C1519346	Skin Carcinogenesis	DisGeNet	
+PARP1	C1519670	Tumor Angiogenesis	DisGeNet	
+PARP1	C1520166	Xenograft Model	DisGeNet	
+PARP1	C1527249	Colorectal cancer	DisGeNet	
+PARP1	C1559154	Rash and Dermatitis Adverse Event Associated with Chemoradiation	DisGeNet	
+PARP1	C1565489	Renal insufficiency	DisGeNet	
+PARP1	C1621958	Glioblastoma multiforme	DisGeNet	
+PARP1	C1636667	Disorder characterized by eosinophilia	DisGeNet	
+PARP1	C1847835	VITILIGO-ASSOCIATED MULTIPLE AUTOIMMUNE DISEASE SUSCEPTIBILITY 1 (finding)	DisGeNet	
+PARP1	C1961099	T-cell acute lymphoblastic leukemias	DisGeNet	
+PARP1	C1961102	Precursor Cell Lymphoblastic Leukemia-Lymphoma	DisGeNet	
+PARP1	C1998028	Photoreceptor degeneration	DisGeNet	
+PARP1	C2239176	Hepatocellular carcinoma	DisGeNet	
+PARP1	C2931822	Nasopharyngeal carcinoma, susceptibility to, 3	DisGeNet	
+PARP1	C2986665	Early-Stage Breast Carcinoma	DisGeNet	
+PARP1	C3203102	Pulmonary arterial hypertension	DisGeNet	
+PARP1	C3463824	Myelodysplastic syndrome	DisGeNet	
+PARP1	C3469521	FANCONI ANEMIA, COMPLEMENTATION GROUP A (disorder)	DisGeNet	
+PARP1	C3539878	Triple Negative Breast Neoplasms	DisGeNet	
+PARP1	C3714756	Intellectual developmental disorder with dysmorphic facies and ptosis	DisGeNet	
+PARP1	C4082937	Necrotizing Enterocolitis	DisGeNet	

@@ -1,0 +1,49 @@
+node1	node2	edge_score	
+DB00292	CYP11B2	1.0	
+DB00292	CYP19A1	1.0	
+DB00292	GABRA1	1.0	
+DB00292	SLC2A1	1.0	
+DB00292	ADRA2B	1.0	
+CYP19A1	rs7176005	0.99
+CYP19A1	rs1062033	0.99
+CYP19A1	rs10046	0.99
+CYP19A1	rs749292	0.99
+CYP19A1	rs700518	0.99
+CYP19A1	rs3759811	0.99
+CYP19A1	rs4775936	0.99
+CYP19A1		1.0
+CYP19A1	rs6493497	0.99
+CYP11B2		1.0
+CYP19A1	rs2289105	0.99
+GABRA1		1.0
+CYP19A1	rs2236722	0.99
+CYP19A1	rs1008805	0.99
+CYP19A1	rs4646	0.99
+Prenatal maternal abnormality	CYP11B2	1.0	
+Prenatal maternal abnormality	CYP19A1	1.0	
+Disorder of endocrine system	CYP11B2	1.0	
+Disorder of endocrine system	CYP19A1	1.0	
+Neoplasm of the adrenal cortex	CYP11B2	1.0	
+Neoplasm of the adrenal cortex	CYP19A1	1.0	
+Adrenocortical adenoma	CYP11B2	1.0	
+Adrenocortical adenoma	CYP19A1	1.0	
+Nodule	CYP11B2	1.0	
+Nodule	CYP19A1	1.0	
+Ovarian cyst	CYP19A1	1.0	
+Ovarian cyst	GABRA1	1.0	
+Decreased fertility in females	CYP19A1	1.0	
+High altitude pulmonary edema	CYP11B2	1.0	
+Placental Insufficiency	CYP19A1	1.0	
+Adrenocortical carcinoma	CYP11B2	1.0	
+Adrenocortical carcinoma	CYP19A1	1.0	
+Adrenal Gland Hyperfunction	CYP11B2	1.0	
+Hyperkalemia	CYP11B2	1.0	
+Bladder neck obstruction	CYP19A1	1.0	
+Tinnitus	CYP11B2	1.0	
+Severe myoclonic epilepsy in infancy	GABRA1	1.0	
+Abnormality of sodium homeostasis	CYP11B2	1.0	
+Hyponatremia	CYP11B2	1.0	
+Alcohol withdrawal syndrome	CYP19A1	1.0	
+Adrenal overactivity	CYP11B2	1.0	
+Alopecia of scalp	CYP19A1	1.0	
+Oestrogen deficiency	CYP19A1	1.0	

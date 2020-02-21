@@ -1,0 +1,7 @@
+Gene	CUI	Source Databases	
+ADRB1	C0028797	Occupational Diseases	DisGeNet	
+ADRB2	C0028797	Occupational Diseases	DisGeNet	
+CYP2D6	C0028797	Occupational Diseases	DisGeNet	
+ADRB1	C0264716	Chronic heart failure	DisGeNet	
+ADRB2	C0264716	Chronic heart failure	DisGeNet	
+CYP2D6	C0264716	Chronic heart failure	DisGeNet	

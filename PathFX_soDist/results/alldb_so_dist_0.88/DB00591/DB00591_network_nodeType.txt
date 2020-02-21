@@ -1,0 +1,9 @@
+node_name	node_type	
+DB00591	drug	
+ANXA1	drug_target	
+ANXA3	drug_target	
+ANXA2	drug_target	
+ANXA5	drug_target	
+ANXA4	drug_target	
+NR3C1	drug_target	
+CYP3A4	drug_target	

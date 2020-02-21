@@ -1,0 +1,292 @@
+node1	node2	edge_score	
+DB00893	TF	1.0	
+DB00893	FTH1	1.0	
+DB00893	FTL	1.0	
+DB00893	HBA2	1.0	
+DB00893	HBB	1.0	
+TF		1.0
+HBB		1.0
+Anemia	HBB	1.0	
+Anemia	TF	1.0	
+Breast-ovarian cancer, familial 1	HBB	1.0	
+Breast-ovarian cancer, familial 1	TF	1.0	
+Cystic Fibrosis	HBB	1.0	
+Cystic Fibrosis	TF	1.0	
+Diabetes Mellitus, Type 1	HBB	1.0	
+Diabetes Mellitus, Type 1	TF	1.0	
+Echinococcosis	HBB	1.0	
+Echinococcosis	TF	1.0	
+Hemochromatosis	HBB	1.0	
+Hemochromatosis	TF	1.0	
+Hypothyroidism	HBB	1.0	
+Hypothyroidism	TF	1.0	
+Inflammation	HBB	1.0	
+Inflammation	TF	1.0	
+Liver Cirrhosis, Biliary	HBB	1.0	
+Liver Cirrhosis, Biliary	TF	1.0	
+Neoplasm of the liver	HBB	1.0	
+Neoplasm of the liver	TF	1.0	
+Secondary hypertriglyceridemia	HBB	1.0	
+Secondary hypertriglyceridemia	TF	1.0	
+Stroke	HBB	1.0	
+Stroke	TF	1.0	
+Thyroid Diseases	HBB	1.0	
+Thyroid Diseases	TF	1.0	
+Thyroid Neoplasms	HBB	1.0	
+Thyroid Neoplasms	TF	1.0	
+Intracranial hemorrhage	HBB	1.0	
+Intracranial hemorrhage	TF	1.0	
+Iron deficiency anemia	HBB	1.0	
+Iron deficiency anemia	TF	1.0	
+Infections, recurrent, with encephalopathy, hepatic dysfunction, and cardiovascular malformations	HBB	1.0	
+Infections, recurrent, with encephalopathy, hepatic dysfunction, and cardiovascular malformations	TF	1.0	
+Abnormal joint morphology	HBB	1.0	
+Abnormal joint morphology	TF	1.0	
+Abnormality of blood and blood-forming tissues	HBB	1.0	
+Abnormality of blood and blood-forming tissues	TF	1.0	
+Abnormality of cardiovascular system electrophysiology	HBB	1.0	
+Abnormality of cardiovascular system electrophysiology	TF	1.0	
+Abnormality of the digestive system	HBB	1.0	
+Abnormality of the digestive system	TF	1.0	
+Iron Overload	HBB	1.0	
+Iron Overload	TF	1.0	
+Abnormality of erythrocytes	HBB	1.0	
+Abnormality of erythrocytes	TF	1.0	
+Autosomal recessive inheritance	HBB	1.0	
+Autosomal recessive inheritance	TF	1.0	
+Anemia of inadequate production	HBB	1.0	
+Anemia of inadequate production	TF	1.0	
+Breast carcinoma	HBB	1.0	
+Breast carcinoma	TF	1.0	
+Abnormality of thyroid physiology	HBB	1.0	
+Abnormality of thyroid physiology	TF	1.0	
+Abnormality of the immune system	HBB	1.0	
+Abnormality of the immune system	TF	1.0	
+Abnormality of the abdominal organs	HBB	1.0	
+Abnormality of the abdominal organs	TF	1.0	
+Abnormality of metabolism/homeostasis	HBB	1.0	
+Abnormality of metabolism/homeostasis	TF	1.0	
+Abnormality of the liver	HBB	1.0	
+Abnormality of the liver	TF	1.0	
+Abnormality of the skeletal system	HBB	1.0	
+Abnormality of the skeletal system	TF	1.0	
+Abnormality of skeletal morphology	HBB	1.0	
+Abnormality of skeletal morphology	TF	1.0	
+Abnormality of cardiovascular system physiology	HBB	1.0	
+Abnormality of cardiovascular system physiology	TF	1.0	
+Abnormality of immune system physiology	HBB	1.0	
+Abnormality of immune system physiology	TF	1.0	
+Abnormality of the endocrine system	HBB	1.0	
+Abnormality of the endocrine system	TF	1.0	
+Acute-Phase Reaction	TF	1.0	
+Reticulocytosis	HBB	1.0	
+Hereditary persistence of fetal hemoglobin thalassemia	HBB	1.0	
+Phenylketonuria	HBB	1.0	
+Bovine Anaplasmosis	TF	1.0	
+Femur Head Necrosis	TF	1.0	
+Pregnancy Complications, Infectious	HBB	1.0	
+Abnormality of transition element cation homeostasis	HBB	1.0	
+Paratuberculosis	TF	1.0	
+Erythrocytosis	HBB	1.0	
+Abnormality of reticulocytes	HBB	1.0	
+Cyanosis	HBB	1.0	
+Anemia, severe	HBB	1.0	
+Deficiency of glucose-6-phosphate dehydrogenase	HBB	1.0	
+Microcytic anemia	HBB	1.0	
+Erectile abnormalities	HBB	1.0	
+Chloracne	HBB	1.0	
+Bone necrosis	TF	1.0	
+Aseptic necrosis	HBB	1.0	
+Sickle Cell Trait	HBB	1.0	
+Restless Legs Syndrome	TF	1.0	
+Hemoglobinopathy	HBB	1.0	
+Aural atresia, congenital	HBB	1.0	
+Abnormal gallbladder morphology	HBB	1.0	
+Abnormality of the parathyroid physiology	HBB	1.0	
+Cooley's anemia	HBB	1.0	
+Leukocytosis	HBB	1.0	
+Hydrops fetalis, nonimmune, and/or atrial septal defect, susceptibility to	HBB	1.0	
+Trachoma	HBB	1.0	
+Abnormality of the parathyroid gland	HBB	1.0	
+Abnormality of the gallbladder	HBB	1.0	
+Hypoparathyroidism	HBB	1.0	
+Abnormal urine cytology	HBB	1.0	
+Chest pain	HBB	1.0	
+Abnormality of color vision	HBB	1.0	
+Cone dysfunction syndrome	HBB	1.0	
+Abnormal enzyme/coenzyme activity	HBB	1.0	
+Abnormality of nitrogen compound homeostasis	HBB	1.0	
+Osteomyelitis, sterile multifocal, with periostitis and pustulosis	HBB	1.0	
+Pallor	HBB	1.0	
+Azotemia	HBB	1.0	
+Hematuria	HBB	1.0	
+Abnormal thrombosis	HBB	1.0	
+Polycythemia	HBB	1.0	
+Abnormal neutrophil count	HBB	1.0	
+Hereditary hemochromatosis	TF	1.0	
+Alpha thalassemia-mental retardation syndrome	HBB	1.0	
+Genu valgum	HBB	1.0	
+Anemia due to reduced life span of red cells	HBB	1.0	
+Herpes NOS	HBB	1.0	
+Parasitemia	HBB	1.0	
+Chronic graft-versus-host disease	TF	1.0	
+Elevated pulmonary artery pressure	HBB	1.0	
+Abnormality of pulmonary circulation	HBB	1.0	
+Malaria, Cerebral	HBB	1.0	
+Paresthesia	HBB	1.0	
+Hyperbilirubinemia	HBB	1.0	
+Teratocarcinoma	HBB	1.0	
+Abnormal vascular physiology	HBB	1.0	
+Liver Cirrhosis, Alcoholic	TF	1.0	
+Thrombocytosis, benign familial microcytic	HBB	1.0	
+Abnormality of adrenal physiology	HBB	1.0	
+Adrenal insufficiency	HBB	1.0	
+Acquired long QT syndrome	TF	1.0	
+Aortic Aneurysm, Thoracic	HBB	1.0	
+Malnutrition	HBB	1.0	
+Skin ulcer	HBB	1.0	
+Bowing of limbs due to multiple fractures	HBB	1.0	
+Elevated hepatic transaminases	HBB	1.0	
+Pregnancy Complications, Hematologic	HBB	1.0	
+beta Thalassemia	HBB	1.0	
+Rhinitis, Allergic, Seasonal	HBB	1.0	
+Jaundice	HBB	1.0	
+Venous thrombosis	HBB	1.0	
+Hematological Disease	HBB	1.0	
+Upslanted palpebral fissure	HBB	1.0	
+Malaria, Falciparum	HBB	1.0	
+Arthralgia	HBB	1.0	
+Fetal Diseases	HBB	1.0	
+Abnormality of the calf	HBB	1.0	
+Hemolytic anemia, nonspherocytic, due to glucose phosphate isomerase deficiency	HBB	1.0	
+Thalassemia	HBB	1.0	
+Dermatological manifestations of systemic disorders	HBB	1.0	
+Apnea	HBB	1.0	
+Glomerulopathy	HBB	1.0	
+Abnormality of the adrenal glands	HBB	1.0	
+Albuminuria	HBB	1.0	
+Neoplasm Invasiveness	TF	1.0	
+Abnormality of malar bones	HBB	1.0	
+Bowing of the long bones	HBB	1.0	
+Cholelithiasis	HBB	1.0	
+Borderline Personality Disorder	HBB	1.0	
+Anomaly of the limb diaphyses	HBB	1.0	
+Night blindness, congenital stationary, type 1g	HBB	1.0	
+Abnormal fear/anxiety-related behavior	HBB	1.0	
+Abnormality of granulocytes	HBB	1.0	
+Sensory neuropathy	HBB	1.0	
+Delayed puberty	HBB	1.0	
+Abnormality of the zygomatic bone	HBB	1.0	
+Carotid Artery Diseases	TF	1.0	
+Polycythemia vera	HBB	1.0	
+Abnormal diaphysis morphology	HBB	1.0	
+Abnormality of cation homeostasis	HBB	1.0	
+Abnormality of the knee	HBB	1.0	
+Acute Erythroblastic Leukemia	HBB	1.0	
+Abnormality of myeloid leukocytes	HBB	1.0	
+Spots on skin	HBB	1.0	
+Drug-Induced Liver Injury	TF	1.0	
+Skeletal dysplasia	HBB	1.0	
+Mammary Neoplasms, Experimental	TF	1.0	
+Dyspnea	HBB	1.0	
+Abnormal platelet count	HBB	1.0	
+Depression	HBB	1.0	
+Abnormality of the pancreas	TF	1.0	
+Anxiety	HBB	1.0	
+Abnormality of ion homeostasis	HBB	1.0	
+Cardiac arrest	HBB	1.0	
+Anaplastic thyroid carcinoma	HBB	1.0	
+Malabsorption	HBB	1.0	
+Plaque, Atherosclerotic	TF	1.0	
+Malignant hyperthermia susceptibility type 5	HBB	1.0	
+Dyslipidemias	HBB	1.0	
+Disease Progression	HBB	1.0	
+Abnormality of temperature regulation	HBB	1.0	
+Bronchopulmonary Dysplasia	HBB	1.0	
+Gastritis	HBB	1.0	
+Hypergranular promyelocytic leukemia	TF	1.0	
+Mycoses	HBB	1.0	
+Abnormality of thrombocytes	HBB	1.0	
+Abnormality of the biliary system	HBB	1.0	
+Abnormality of the hypothalamus-pituitary axis	HBB	1.0	
+Recurrent bacterial infection	TF	1.0	
+Neutropenia	HBB	1.0	
+Senile plaques	TF	1.0	
+Spontaneous abortion	TF	1.0	
+Nephrotic syndrome, type 5, with or without ocular abnormalities	TF	1.0	
+Experimental Organism Basal Cell Carcinoma	HBB	1.0	
+Gastrointestinal Neoplasms	HBB	1.0	
+Anemia, Sickle Cell	HBB	1.0	
+Depressed nasal bridge	HBB	1.0	
+Abnormality of circulating protein level	TF	1.0	
+Pancreatitis	TF	1.0	
+Cardiomegaly	HBB	1.0	
+Splenomegaly	HBB	1.0	
+Pulmonary arterial hypertension	HBB	1.0	
+Abnormality of the midface	HBB	1.0	
+Cholestasis, benign recurrent intrahepatic 1	HBB	1.0	
+Insulin Resistance	TF	1.0	
+Hypoxia	TF	1.0	
+Abnormality of lower limb joint	HBB	1.0	
+Arrhythmias, Cardiac	HBB	1.0	
+Reduced bone mineral density	HBB	1.0	
+Abnormality of the spleen	HBB	1.0	
+Slanting of the palpebral fissure	HBB	1.0	
+Abnormality of the myocardium	HBB	1.0	
+Exanthema	HBB	1.0	
+Hepatitis	TF	1.0	
+Hepatomegaly	HBB	1.0	
+Abnormality of bone mineral density	HBB	1.0	
+Abnormal leukocyte count	HBB	1.0	
+Abnormality of cellular immune system	HBB	1.0	
+Abnormality of urine homeostasis	HBB	1.0	
+Brain Ischemia	TF	1.0	
+Hepatic fibrosis	HBB	1.0	
+Respiratory failure	HBB	1.0	
+Age-related macular degeneration 2	TF	1.0	
+Abnormality of the lymphatic system	HBB	1.0	
+Hepatic steatosis	TF	1.0	
+Abnormal renal physiology	HBB	1.0	
+Abnormality of the palpebral fissures	HBB	1.0	
+Abnormal emotion/affect behavior	HBB	1.0	
+Acute promyelocytic leukemia	TF	1.0	
+Retinopathy	HBB	1.0	
+Glioblastoma multiforme	TF	1.0	
+Abnormality of skeletal physiology	HBB	1.0	
+Abnormal glucose homeostasis	HBB	1.0	
+Abnormality of long bone morphology	HBB	1.0	
+Feeding difficulties	HBB	1.0	
+Hepatitis C, Chronic	HBB	1.0	
+Visceromegaly	HBB	1.0	
+Abnormality of the penis	HBB	1.0	
+Abnormal bone ossification	HBB	1.0	
+Acute myocardial ischemia	HBB	1.0	
+Puberty and gonadal disorders	HBB	1.0	
+Abnormality of carbohydrate metabolism/homeostasis	HBB	1.0	
+Abnormality of the thorax	HBB	1.0	
+Abnormality of abdomen morphology	HBB	1.0	
+Visual impairment	HBB	1.0	
+Herpes Simplex Infections	HBB	1.0	
+Localized skin lesion	HBB	1.0	
+Abnormal bone structure	HBB	1.0	
+Malaria	HBB	1.0	
+Abnormality of the lens	HBB	1.0	
+{Unipolar depression, susceptibility to}, 608516 (3)	TF	1.0	
+Immunodeficiency due to defect in CD3-gamma	HBB	1.0	
+Constitutional symptom	HBB	1.0	
+Neoplasm by anatomical site	HBB	1.0	
+Abnormality of dental morphology	HBB	1.0	
+Increased inflammatory response	HBB	1.0	
+Abnormal inflammatory response	HBB	1.0	
+Abnormality of the intestine	HBB	1.0	
+Abnormal peripheral nervous system morphology	HBB	1.0	
+Abnormality of the retina	HBB	1.0	
+Abnormality of the nasal bridge	HBB	1.0	
+Sepsis	HBB	1.0	
+Diabetic Nephropathies	TF	1.0	
+Pain	HBB	1.0	
+Osteoporosis	HBB	1.0	
+Neoplasms	HBB	1.0	
+Ischemia	TF	1.0	
+Tuberculosis	TF	1.0	
+Abnormality of the urinary system physiology	HBB	1.0	

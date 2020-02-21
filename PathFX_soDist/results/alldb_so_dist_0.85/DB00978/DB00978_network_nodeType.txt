@@ -1,0 +1,7 @@
+node_name	node_type	
+DB00978	drug	
+SLC22A5	drug_target	
+CYP1A2	drug_target	
+ABCC2	drug_target	
+TOP2A	drug_target	
+Adverse drug events and drug allergies	phenotype	

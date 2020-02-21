@@ -1,0 +1,38 @@
+node_name	node_type	
+DB00624	drug	
+CYP3A43	drug_target	
+SHBG	drug_target	
+SLC10A1	drug_target	
+CYP11A1	drug_target	
+CYP1B1	drug_target	
+CYP2B6	drug_target	
+ABCB1	drug_target	
+NR3C2	drug_target	
+CYP1A1	drug_target	
+AR	drug_target	
+SLCO1A2	drug_target	
+CYP3A4	drug_target	
+CYP3A5	drug_target	
+CYP2C9	drug_target	
+CYP2C8	drug_target	
+ABCG2	drug_target	
+ESR1	drug_target	
+CYP19A1	drug_target	
+ALB	drug_target	
+SLC22A4	drug_target	
+MAOA	drug_target	
+CYP2C19	drug_target	
+SLC22A3	drug_target	
+SLC22A8	drug_target	
+Drug Allergy	phenotype	
+Depressive Symptoms	phenotype	
+Neurotoxicity Syndromes	phenotype	
+Neoplasms, Germ Cell and Embryonal	phenotype	
+Primary malignant neoplasm of liver	phenotype	
+Pleural Neoplasms	phenotype	
+Squamous Cell Neoplasms	phenotype	
+Rhinitis, Allergic, Perennial	phenotype	
+Menopause present (finding)	phenotype	
+Acute Coronary Syndrome	phenotype	
+Genomic Instability	phenotype	
+Bone necrosis	phenotype	

@@ -1,0 +1,20 @@
+node_name	node_type	
+DB00367	drug	
+ESR1	drug_target	
+CYP19A1	drug_target	
+SHBG	drug_target	
+AR	drug_target	
+PGR	drug_target	
+CYP3A4	drug_target	
+Bladder neck obstruction	phenotype	
+Oestrogen deficiency	phenotype	
+Stromal sarcoma	phenotype	
+Acanthosis nigricans	phenotype	
+Depressive Symptoms	phenotype	
+Malignant neoplasm of male breast	phenotype	
+Pathologic fracture	phenotype	
+Bone necrosis	phenotype	
+Abnormal epiphyseal ossification	phenotype	
+Malignant neoplasm of female breast	phenotype	
+Female Breast Carcinoma	phenotype	
+Carcinoma of Male Breast	phenotype	

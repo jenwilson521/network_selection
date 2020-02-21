@@ -1,0 +1,76 @@
+node_name	node_type	
+DB00191	drug	
+SLC6A3	drug_target	
+SLC6A2	drug_target	
+SLC6A4	drug_target	
+MAOB	drug_target	
+MAOA	drug_target	
+NPY	drug_target	
+CYP3A4	drug_target	
+Heroin Dependence	phenotype	
+Behavior Disorders	phenotype	
+Tardive Dyskinesia	phenotype	
+Orofacial dyskinesia	phenotype	
+Bulimia	phenotype	
+Alcohol abuse	phenotype	
+Generalized anxiety disorder	phenotype	
+Substance Use Disorders	phenotype	
+Alcohol withdrawal syndrome	phenotype	
+Methamphetamine abuse	phenotype	
+Anorexia nervosa 1	phenotype	
+Motor symptoms	phenotype	
+ {Nicotine dependence, protection against}, 188890 (3)	phenotype	
+Antisocial Personality Disorder	phenotype	
+Cocaine delirium	phenotype	
+Chronic schizophrenia	phenotype	
+Acute postoperative pain	phenotype	
+Personality disorder	phenotype	
+Depressive Symptoms	phenotype	
+Bulimia nervosa 1	phenotype	
+Tourette Syndrome	phenotype	
+Antisocial/borderline personality disorder	phenotype	
+Substance abuse problem	phenotype	
+Drug usage	phenotype	
+Manic	phenotype	
+Weight Loss Adverse Event	phenotype	
+Conduct Disorder	phenotype	
+Fibromyalgia	phenotype	
+Prenatal Exposure Delayed Effects	phenotype	
+Memory Disorders	phenotype	
+Cocaine Dependence	phenotype	
+Borderline Personality Disorder	phenotype	
+CNS symptom	phenotype	
+As If Personality	phenotype	
+Bipolar I disorder	phenotype	
+Psychoses, Substance-Induced	phenotype	
+Attention Deficit Disorder	phenotype	
+Drug Dependence	phenotype	
+Osteochondritis dissecans	phenotype	
+NEUROTICISM	phenotype	
+Anxiety Disorders	phenotype	
+MAJOR AFFECTIVE DISORDER 4	phenotype	
+MAJOR AFFECTIVE DISORDER 5	phenotype	
+MAJOR AFFECTIVE DISORDER 6	phenotype	
+Major affective disorder 7	phenotype	
+MAJOR AFFECTIVE DISORDER 8	phenotype	
+MAJOR AFFECTIVE DISORDER 9	phenotype	
+Eating disorder	phenotype	
+Migraine with aura	phenotype	
+Ichthyosis bullosa of Siemens	phenotype	
+Drug Allergy	phenotype	
+Anxiety	phenotype	
+Substance addiction and disorders	phenotype	
+Panic disorder 1	phenotype	
+Gastrointestinal Diseases	phenotype	
+Amphetamine-Related Disorders	phenotype	
+Obsessive-compulsive disorder	phenotype	
+Bronchopulmonary Dysplasia	phenotype	
+Autism spectrum disorders	phenotype	
+Marijuana Abuse	phenotype	
+SUDDEN INFANT DEATH SYNDROME	phenotype	
+Liver Cirrhosis, Alcoholic	phenotype	
+Posttraumatic stress disorder	phenotype	
+CNS disorder	phenotype	
+Nicotine Dependence	phenotype	
+Panic disorder syndrome 1 (2)	phenotype	
+Cocaine-Related Disorders	phenotype	

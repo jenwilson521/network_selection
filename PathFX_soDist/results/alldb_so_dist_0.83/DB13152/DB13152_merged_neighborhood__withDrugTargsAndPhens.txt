@@ -1,0 +1,377 @@
+node1	node2	edge_score	
+DB13152	F2	1.0	
+DB13152	LRP1	1.0	
+DB13152	F7	1.0	
+DB13152	F8	1.0	
+DB13152	GGCX	1.0	
+DB13152	F10	1.0	
+DB13152	F11	1.0	
+GGCX	rs2592551	0.99
+F7		1.0
+GGCX		1.0
+GGCX	rs12714145	0.99
+complex:lAo9+jzjVOaRJSWZQvoh0G1mUDc	OR8D2	0.863824739585
+F2		1.0
+GGCX	rs699664	0.99
+F7	complex:lAo9+jzjVOaRJSWZQvoh0G1mUDc	0.904977499353
+complex:lAo9+jzjVOaRJSWZQvoh0G1mUDc	KRT9	0.863824739585
+complex:lAo9+jzjVOaRJSWZQvoh0G1mUDc	ALB	0.863824739585
+GGCX	rs11676382	0.99
+Bleeding disorder, platelet-type, 21	ALB	1.0	
+Bleeding disorder, platelet-type, 21	F2	1.0	
+Bleeding disorder, platelet-type, 21	F7	1.0	
+Bleeding disorder, platelet-type, 21	GGCX	1.0	
+Epistaxis	F2	1.0	
+Epistaxis	F7	1.0	
+Epistaxis	GGCX	1.0	
+Complications of Diabetes Mellitus	ALB	1.0	
+Complications of Diabetes Mellitus	F2	1.0	
+Complications of Diabetes Mellitus	F7	1.0	
+Hereditary factor VIII deficiency disease	ALB	1.0	
+Hereditary factor VIII deficiency disease	F2	1.0	
+Hereditary factor VIII deficiency disease	F7	1.0	
+Abnormality of coagulation	F2	1.0	
+Abnormality of coagulation	F7	1.0	
+Abnormality of coagulation	GGCX	1.0	
+Brain Hemorrhage, Traumatic	F2	1.0	
+Brain Hemorrhage, Traumatic	F7	1.0	
+Thrombophilia	ALB	1.0	
+Thrombophilia	F2	1.0	
+Thrombophilia	F7	1.0	
+Hemorrhagic disorder due to intrinsic circulating anticoagulants	F2	1.0	
+Hemorrhagic disorder due to intrinsic circulating anticoagulants	F7	1.0	
+Venous thrombosis	F2	1.0	
+Venous thrombosis	F7	1.0	
+Venous thrombosis	GGCX	1.0	
+Chronic liver disease	ALB	1.0	
+Chronic liver disease	F2	1.0	
+Chronic liver disease	F7	1.0	
+Thrombosis	F2	1.0	
+Thrombosis	F7	1.0	
+Thrombosis	GGCX	1.0	
+End Stage Liver Disease	ALB	1.0	
+End Stage Liver Disease	F2	1.0	
+Internal hemorrhage	F2	1.0	
+Internal hemorrhage	F7	1.0	
+Internal hemorrhage	GGCX	1.0	
+Deep vein thrombosis of lower limb	F2	1.0	
+Deep vein thrombosis of lower limb	F7	1.0	
+Disseminated intravascular coagulation	F2	1.0	
+Disseminated intravascular coagulation	F7	1.0	
+Choroidal Neovascularization	F2	1.0	
+Choroidal Neovascularization	F7	1.0	
+Abnormality of blood circulation	F2	1.0	
+Abnormality of blood circulation	F7	1.0	
+Abnormality of blood circulation	GGCX	1.0	
+Hereditary factor IX deficiency disease	F2	1.0	
+Hereditary factor IX deficiency disease	F7	1.0	
+Von Willebrand disease, recessive form	F2	1.0	
+Von Willebrand disease, recessive form	F7	1.0	
+Hemophilia, NOS	F2	1.0	
+Hemophilia, NOS	F7	1.0	
+Acute Cerebrovascular Accidents	F2	1.0	
+Acute Cerebrovascular Accidents	F7	1.0	
+Coronary Restenosis	F2	1.0	
+Coronary Restenosis	F7	1.0	
+Nephrosis	ALB	1.0	
+Nephrosis	F2	1.0	
+Factor V Leiden mutation	F2	1.0	
+Factor V Leiden mutation	F7	1.0	
+Restenosis	ALB	1.0	
+Restenosis	F2	1.0	
+Restenosis	F7	1.0	
+Hemolytic uremic syndrome	ALB	1.0	
+Hemolytic uremic syndrome	F2	1.0	
+Acute Lung Injury	ALB	1.0	
+Acute Lung Injury	F2	1.0	
+ Cerebrovascular disease, occlusive (3)	F2	1.0	
+ Cerebrovascular disease, occlusive (3)	F7	1.0	
+Bleeding with minor or no trauma	F2	1.0	
+Bleeding with minor or no trauma	F7	1.0	
+Homocysteinemia due to MTHFR deficiency	F2	1.0	
+Homocysteinemia due to MTHFR deficiency	F7	1.0	
+Postoperative Complications	F2	1.0	
+Postoperative Complications	F7	1.0	
+Pregnancy loss	F2	1.0	
+Pregnancy loss	F7	1.0	
+Coronary artery stenosis	F2	1.0	
+Coronary artery stenosis	F7	1.0	
+Hyperlipidemia, combined, 1	ALB	1.0	
+Hyperlipidemia, combined, 1	F2	1.0	
+Hyperlipidemia, combined, 1	F7	1.0	
+Diabetic Angiopathies	ALB	1.0	
+Diabetic Angiopathies	F7	1.0	
+Abnormality of cardiovascular system physiology	ALB	1.0	
+Abnormality of cardiovascular system physiology	F2	1.0	
+Abnormality of cardiovascular system physiology	F7	1.0	
+Abnormality of cardiovascular system physiology	GGCX	1.0	
+Abnormal bleeding	F2	1.0	
+Abnormal bleeding	F7	1.0	
+Abnormal bleeding	GGCX	1.0	
+Bruising susceptibility	F2	1.0	
+Bruising susceptibility	GGCX	1.0	
+Arterial thrombosis	F2	1.0	
+Arterial thrombosis	F7	1.0	
+Acute Coronary Syndrome	ALB	1.0	
+Acute Coronary Syndrome	F2	1.0	
+Acute Coronary Syndrome	F7	1.0	
+Cerebral palsy, spastic quadriplegic, 3	F2	1.0	
+Cerebral palsy, spastic quadriplegic, 3	F7	1.0	
+Peripheral Arterial Diseases	F2	1.0	
+Peripheral Arterial Diseases	F7	1.0	
+Hemochromatosis	ALB	1.0	
+Hemochromatosis	F2	1.0	
+Vascular skin abnormality	F2	1.0	
+Vascular skin abnormality	GGCX	1.0	
+Vascular skin abnormality	KRT9	1.0	
+Deep venous thrombosis	F2	1.0	
+Deep venous thrombosis	F7	1.0	
+Hereditary hyperhomocysteinemia	F2	1.0	
+Hereditary hyperhomocysteinemia	F7	1.0	
+Hepatitis	ALB	1.0	
+Hepatitis	F2	1.0	
+Hepatitis	F7	1.0	
+Thromboembolism	F2	1.0	
+Thromboembolism	F7	1.0	
+Vascular Diseases	ALB	1.0	
+Vascular Diseases	F2	1.0	
+Vascular Diseases	F7	1.0	
+Ventricular Fibrillation Adverse Event	F2	1.0	
+Ventricular Fibrillation Adverse Event	F7	1.0	
+Musculoskeletal Diseases	F2	1.0	
+Musculoskeletal Diseases	F7	1.0	
+Brain Ischemia	ALB	1.0	
+Brain Ischemia	F2	1.0	
+Brain Ischemia	F7	1.0	
+Abnormality of cardiovascular system electrophysiology	ALB	1.0	
+Abnormality of cardiovascular system electrophysiology	F2	1.0	
+Abnormality of cardiovascular system electrophysiology	F7	1.0	
+Abnormality of cardiovascular system electrophysiology	GGCX	1.0	
+Abnormality of cardiovascular system electrophysiology	KRT9	1.0	
+Pregnancy Complications, Hematologic	F2	1.0	
+Pregnancy Complications, Hematologic	F7	1.0	
+Pulmonary Embolism	ALB	1.0	
+Pulmonary Embolism	F2	1.0	
+Essential thrombocythemia	F2	1.0	
+Essential thrombocythemia	F7	1.0	
+Fetal Diseases	F2	1.0	
+Fetal Diseases	F7	1.0	
+Peripheral Arterial Disease	F2	1.0	
+Peripheral Arterial Disease	F7	1.0	
+Dermatosis NOS	F2	1.0	
+Dermatosis NOS	F7	1.0	
+Dermatosis NOS	KRT9	1.0	
+Carotid Stenosis	F2	1.0	
+Carotid Stenosis	F7	1.0	
+Acute myocardial ischemia	ALB	1.0	
+Acute myocardial ischemia	F2	1.0	
+Acute myocardial ischemia	F7	1.0	
+Albuminuria	ALB	1.0	
+Albuminuria	F2	1.0	
+Abnormality of the menstrual cycle	F2	1.0	
+Abnormality of the menstrual cycle	F7	1.0	
+Subcutaneous hemorrhage	F2	1.0	
+Subcutaneous hemorrhage	GGCX	1.0	
+Leg Ulcer	F2	1.0	
+Spiegler-Brooke syndrome	F2	1.0	
+Arteriosclerosis	ALB	1.0	
+Arteriosclerosis	F2	1.0	
+Arteriosclerosis	F7	1.0	
+Arteriosclerosis	GGCX	1.0	
+Atrial Fibrillation	F2	1.0	
+Atrial Fibrillation	F7	1.0	
+Acute hepatitis	F2	1.0	
+Lupus anticoagulant disorder	F2	1.0	
+Malignant neoplasm of adrenal cortex	ALB	1.0	
+Thrombophilia due to activated protein C resistance	F2	1.0	
+Menstrual irregularities	F2	1.0	
+Menstrual irregularities	F7	1.0	
+Non-Malignant Ascites Adverse Event	ALB	1.0	
+Non-Malignant Ascites Adverse Event	F2	1.0	
+Esophageal varix	ALB	1.0	
+Urolithiasis	ALB	1.0	
+Familial hypercholesterolemia	ALB	1.0	
+Familial hypercholesterolemia	F2	1.0	
+Echinococcosis	ALB	1.0	
+Homocystinuria due to CBS deficiency	F2	1.0	
+Thrombosis of retinal vein	F2	1.0	
+Epidermolysis bullosa simplex, Cockayne-Touraine type	KRT9	1.0	
+Palmar hyperkeratosis	KRT9	1.0	
+Fulminant hepatitis	F2	1.0	
+Recurrent E. coli infections	F2	1.0	
+Femur Head Necrosis	F2	1.0	
+Pyruvate carboxylase deficiency	F2	1.0	
+Old myocardial infarction	F2	1.0	
+Proliferative retinopathy	ALB	1.0	
+Brain Diseases	ALB	1.0	
+Brain Diseases	F2	1.0	
+Fetal Membranes, Premature Rupture	F2	1.0	
+Fetal Membranes, Premature Rupture	F7	1.0	
+Verrucae	KRT9	1.0	
+Protein S deficiency	F2	1.0	
+Isolated somatotropin deficiency	ALB	1.0	
+Chorioamnionitis	F2	1.0	
+Chorioamnionitis	F7	1.0	
+Connective Tissue Diseases	F2	1.0	
+Connective Tissue Diseases	F7	1.0	
+Chronic hepatitis	ALB	1.0	
+Chronic hepatitis	F2	1.0	
+Drug-Induced Liver Injury	ALB	1.0	
+Drug-Induced Liver Injury	F2	1.0	
+Gingival bleeding	F2	1.0	
+Hemiplegia	F2	1.0	
+Substance Use Disorders	ALB	1.0	
+Antithrombin III deficiency	F2	1.0	
+Dentatorubral pallidoluysian atrophy	ALB	1.0	
+Epiphyseal stippling	GGCX	1.0	
+Premature Obstetric Labor	F2	1.0	
+Premature Obstetric Labor	F7	1.0	
+Angiokeratoma	ALB	1.0	
+Isolated growth hormone deficiency type 1B	ALB	1.0	
+Puerperal Disorders	F2	1.0	
+Reduced protein C activity	F2	1.0	
+Stenosis	F2	1.0	
+Plantar hyperkeratosis	KRT9	1.0	
+Attenuation of retinal blood vessels	GGCX	1.0	
+Variable expressivity	F2	1.0	
+Variable expressivity	F7	1.0	
+Anterior myocardial infarction	F2	1.0	
+Liver Diseases	ALB	1.0	
+Liver Diseases	F2	1.0	
+Liver Diseases	F7	1.0	
+Hypercholesterolemia, autosomal dominant, type B	ALB	1.0	
+Hypercholesterolemia, autosomal dominant, type B	F2	1.0	
+Paratuberculosis	F2	1.0	
+Pericardial effusion	ALB	1.0	
+Hepatic encephalopathy	F2	1.0	
+Mumps	ALB	1.0	
+Rhinitis, Allergic, Perennial	ALB	1.0	
+Endemic Cretinism	ALB	1.0	
+Resistance to activated protein C	F2	1.0	
+Hepatoblastoma	ALB	1.0	
+Hepatoblastoma	F2	1.0	
+Hemangioblastoma	ALB	1.0	
+Prolonged bleeding time	F2	1.0	
+Deficiency of glucose-6-phosphate dehydrogenase	F2	1.0	
+Intracranial hemorrhage	F2	1.0	
+Intracranial hemorrhage	F7	1.0	
+Kidney Failure, Chronic	ALB	1.0	
+Kidney Failure, Chronic	F2	1.0	
+Kidney Failure, Chronic	F7	1.0	
+Stroke	ALB	1.0	
+Stroke	F2	1.0	
+Stroke	F7	1.0	
+Stroke	GGCX	1.0	
+Sudden death	F2	1.0	
+Mesangiocapillary glomerulonephritis, type II	ALB	1.0	
+Nephrosclerosis	ALB	1.0	
+Ovarian hyperstimulation syndrome	F2	1.0	
+Peripheral motor neuropathy	ALB	1.0	
+Pregnancy associated hypertension	F2	1.0	
+Purpura, Thrombotic Thrombocytopenic	F2	1.0	
+Abnormal albumin level	ALB	1.0	
+Atherosclerosis	ALB	1.0	
+Atherosclerosis	F2	1.0	
+Atherosclerosis	F7	1.0	
+Atherosclerosis	GGCX	1.0	
+Ischemia	ALB	1.0	
+Ischemia	F2	1.0	
+Ischemia	F7	1.0	
+Acute myocardial infarction	F2	1.0	
+Acute myocardial infarction	F7	1.0	
+Venous Thromboembolism	F2	1.0	
+Venous Thromboembolism	F7	1.0	
+Arterial Occlusive Diseases	F2	1.0	
+Pneumonia, Bacterial	F2	1.0	
+Bronchogenic Carcinoma	ALB	1.0	
+Glanzmann thrombasthenia	F2	1.0	
+Thrombotic Microangiopathies	F2	1.0	
+Obesity, Visceral	F7	1.0	
+Platelet-type bleeding disorder 15	F2	1.0	
+Coronary artery aneurysm	ALB	1.0	
+Hyperlipoproteinemia	ALB	1.0	
+Hyperlipoproteinemia Type IIa	ALB	1.0	
+Tumor-Associated Vasculature	F7	1.0	
+Thrombocytopenia, platelet dysfunction, hemolysis, and imbalanced globin synthesis	ALB	1.0	
+Thrombocytopenia, platelet dysfunction, hemolysis, and imbalanced globin synthesis	F2	1.0	
+Tubulointerstitial nephritis	ALB	1.0	
+Deep thrombophlebitis	F2	1.0	
+Juvenile myoclonic epilepsy	F2	1.0	
+Single tumor	ALB	1.0	
+Nephrotic Syndrome, Minimal Change	ALB	1.0	
+Abnormality of blood and blood-forming tissues	F2	1.0	
+Abnormality of blood and blood-forming tissues	F7	1.0	
+Abnormality of blood and blood-forming tissues	GGCX	1.0	
+Abnormality of blood and blood-forming tissues	KRT9	1.0	
+Bone necrosis	F2	1.0	
+Thromboangiitis Obliterans	F2	1.0	
+Varicose Ulcer	F2	1.0	
+HELLP Syndrome	F2	1.0	
+Redundant skin	GGCX	1.0	
+Skin Diseases, Genetic	KRT9	1.0	
+Abnormal epiphyseal ossification	GGCX	1.0	
+Encephalopathy, acute, infection-induced, 4, susceptibility to	ALB	1.0	
+Encephalopathy, acute, infection-induced, 4, susceptibility to	F2	1.0	
+Coronary Artery Disease	ALB	1.0	
+Coronary Artery Disease	F2	1.0	
+Coronary Artery Disease	F7	1.0	
+Coronary Artery Disease	GGCX	1.0	
+Kidney Calculi	F2	1.0	
+Sickle Cell Trait	F2	1.0	
+Varicella zoster	ALB	1.0	
+Drusen	ALB	1.0	
+Childhood onset	F2	1.0	
+Generalized abnormality of skin	F2	1.0	
+Generalized abnormality of skin	GGCX	1.0	
+Generalized abnormality of skin	KRT9	1.0	
+Increased antibody level in blood	KRT9	1.0	
+Insulin resistance syndrome	ALB	1.0	
+Anemia, Sickle Cell	F2	1.0	
+Anemia, Sickle Cell	F7	1.0	
+Hepatitis B, Chronic	ALB	1.0	
+Hepatitis B, Chronic	F2	1.0	
+Iron deficiency anemia	F7	1.0	
+Pseudoxanthoma elasticum	GGCX	1.0	
+Guillain-Barre syndrome, familial	ALB	1.0	
+Primary hyperparathyroidism	ALB	1.0	
+Drug Resistant Epilepsy	ALB	1.0	
+Coronary heart disease 7	ALB	1.0	
+Coronary heart disease 7	F2	1.0	
+Coronary heart disease 7	F7	1.0	
+Kidney Diseases	ALB	1.0	
+Kidney Diseases	F2	1.0	
+Kidney Diseases	F7	1.0	
+Ischaemic cerebral infarction	F2	1.0	
+Ischaemic cerebral infarction	F7	1.0	
+Respiratory Tract Diseases	ALB	1.0	
+Sicca Syndrome	ALB	1.0	
+Hypoalbuminemia	ALB	1.0	
+Neurologic, endocrine, and pancreatic disease, multisystem, infantile-onset	ALB	1.0	
+Abnormality of the plantar skin of foot	KRT9	1.0	
+Gallbladder disease 4	ALB	1.0	
+Gallbladder disease 4	F2	1.0	
+Gallbladder disease 4	KRT9	1.0	
+Reperfusion Injury	ALB	1.0	
+Reperfusion Injury	F2	1.0	
+Henoch-Schoenlein Purpura	F2	1.0	
+Congenital hypothyroidism	ALB	1.0	
+Adverse drug events and drug allergies	ALB	1.0	
+Cooley's anemia	F2	1.0	
+Menopause present (finding)	F2	1.0	
+Papule	GGCX	1.0	
+Migraine Disorders	F2	1.0	
+Migraine Disorders	F7	1.0	
+Limb ischemia	F2	1.0	
+Hypoxia	F2	1.0	
+Hypoxia	F7	1.0	
+Ischemic Cerebrovascular Accident	F2	1.0	
+Ischemic Cerebrovascular Accident	F7	1.0	
+Occupational Diseases	ALB	1.0	
+Microalbuminuria	ALB	1.0	
+Shock, Septic	F2	1.0	
+Primary antiphospholipid syndrome	F2	1.0	
+Chest pain	ALB	1.0	
+Gaucher Disease	F2	1.0	
+ {HIV-1 viremia, susceptibility to}, 609423 (3)	ALB	1.0	
+Female infertility	F2	1.0	
+Angina pectoris	F2	1.0	

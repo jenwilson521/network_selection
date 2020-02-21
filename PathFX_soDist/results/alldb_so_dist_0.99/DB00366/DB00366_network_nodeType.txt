@@ -1,0 +1,5 @@
+node_name	node_type	
+DB00366	drug	
+NR1I3	drug_target	
+CHRM1	drug_target	
+HRH1	drug_target	

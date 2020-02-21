@@ -1,0 +1,719 @@
+node1	node2	edge_score	
+DB00065	TNF	1.0	
+TNF		1.0
+TNF	rs1799964	0.99
+TNF	rs361525	0.99
+TNF	rs1800629	0.99
+TNF	rs1799724	0.99
+Arterial dissection	TNF	1.0	
+Rheumatoid Nodule	TNF	1.0	
+Seborrheic dermatitis	TNF	1.0	
+Pleural Tuberculosis	TNF	1.0	
+Chronic berylliosis	TNF	1.0	
+Isovaleryl-CoA dehydrogenase deficiency	TNF	1.0	
+Post-transplant lymphoproliferative disorder	TNF	1.0	
+Latent Tuberculosis	TNF	1.0	
+Kashin-Beck Disease	TNF	1.0	
+Acute-Phase Reaction	TNF	1.0	
+Anemia of chronic disease	TNF	1.0	
+Achalasia	TNF	1.0	
+Hemorrhagic Fever with Renal Syndrome	TNF	1.0	
+Pseudomonas Infections	TNF	1.0	
+Tetraplegia	TNF	1.0	
+Oral ulcer	TNF	1.0	
+Aneurysm, Ruptured	TNF	1.0	
+Asthma, Occupational	TNF	1.0	
+Neonatal Systemic lupus erythematosus	TNF	1.0	
+Leprosy, Paucibacillary	TNF	1.0	
+Cryoglobulinemia	TNF	1.0	
+Q Fever	TNF	1.0	
+Tuberculosis, Meningeal	TNF	1.0	
+HIV encephalitis	TNF	1.0	
+Philadelphia chromosome positive chronic myelogenous leukemia	TNF	1.0	
+Steroid-sensitive nephrotic syndrome	TNF	1.0	
+Bovine Anaplasmosis	TNF	1.0	
+Mixed Connective Tissue Disease	TNF	1.0	
+Otitis Media with Effusion	TNF	1.0	
+Otosclerosis	TNF	1.0	
+Thrombosis of retinal vein	TNF	1.0	
+Typhoid Fever	TNF	1.0	
+Periodontal Attachment Loss	TNF	1.0	
+Lung Injury	TNF	1.0	
+Fulminant hepatitis	TNF	1.0	
+Early gastric cancer	TNF	1.0	
+Malignant neoplasm of vulva	TNF	1.0	
+Cryopyrin-Associated Periodic Syndromes	TNF	1.0	
+Aortic Diseases	TNF	1.0	
+Femur Head Necrosis	TNF	1.0	
+Hypothermia	TNF	1.0	
+Chromosomal translocation	TNF	1.0	
+African Trypanosomiasis	TNF	1.0	
+Old myocardial infarction	TNF	1.0	
+Hemorrhagic Fever, Ebola	TNF	1.0	
+Proteinuria Adverse Event	TNF	1.0	
+alpha-1-Antitrypsin Deficiency, Autosomal Recessive	TNF	1.0	
+Familial cold-induced inflammatory syndrome 1, 120100 (3)	TNF	1.0	
+Bacterial endocarditis	TNF	1.0	
+Pharyngitis	TNF	1.0	
+Oral aphthae	TNF	1.0	
+Aortic valve calcification	TNF	1.0	
+Avellino corneal dystrophy	TNF	1.0	
+Gastric Mucosa-Associated Lymphoid Tissue Lymphoma	TNF	1.0	
+Myeloproliferative disorder, chronic, with eosinophilia	TNF	1.0	
+Granuloma	TNF	1.0	
+Hemiplegia	TNF	1.0	
+Intermittent claudication	TNF	1.0	
+Myasthenic syndrome, congenital, 8	TNF	1.0	
+Pregnancy Complications, Infectious	TNF	1.0	
+Spinal cord compression	TNF	1.0	
+Herpes simplex encephalitis, susceptibility to, 7	TNF	1.0	
+HYPER-IgM IMMUNODEFICIENCY, X-LINKED, WITH ECTODERMAL DYSPLASIA, HYPOHIDROTIC	TNF	1.0	
+Chronic leukemia	TNF	1.0	
+Neoplasm of the thymus	TNF	1.0	
+Angiokeratoma	TNF	1.0	
+Gastroenteritis	TNF	1.0	
+Malaria, Vivax	TNF	1.0	
+Opportunistic Infections	TNF	1.0	
+Puerperal Disorders	TNF	1.0	
+Respiratory Hypersensitivity	TNF	1.0	
+Hypohidrotic X-linked ectodermal dysplasia	TNF	1.0	
+Interstitial lung and liver disease	TNF	1.0	
+{?Amyloidosis, secondary, susceptibility to} (1)	TNF	1.0	
+Arteriovenous hemangioma	TNF	1.0	
+Pleomorphic adenoma of salivary gland	TNF	1.0	
+TNF receptor-associated periodic fever syndrome (TRAPS)	TNF	1.0	
+Pericarditis	TNF	1.0	
+Periodontal Pocket	TNF	1.0	
+Rhabdomyolysis	TNF	1.0	
+Circumscribed scleroderma	TNF	1.0	
+Staphylococcal Infections	TNF	1.0	
+Asymptomatic Infections	TNF	1.0	
+Anterior myocardial infarction	TNF	1.0	
+Prostatitis	TNF	1.0	
+Oestrogen deficiency	TNF	1.0	
+Mucinous Neoplasm	TNF	1.0	
+Extrinsic allergic alveolitis	TNF	1.0	
+Systemic aspergillosis	TNF	1.0	
+Encephalomyelitis	TNF	1.0	
+Renal hypertension	TNF	1.0	
+Fatal infectious mononucleosis	TNF	1.0	
+Lichen planus pemphigoides	TNF	1.0	
+Meningitis, Pneumococcal	TNF	1.0	
+Paratuberculosis	TNF	1.0	
+Rheumatic fever / chorea	TNF	1.0	
+Juvenile dermatomyositis	TNF	1.0	
+ {Nicotine dependence, protection against}, 188890 (3)	TNF	1.0	
+Hypervolemia	TNF	1.0	
+Adenoviral infections	TNF	1.0	
+Cocaine delirium	TNF	1.0	
+Dermatitis Herpetiformis	TNF	1.0	
+Endocarditis	TNF	1.0	
+Equine Infectious Anemia	TNF	1.0	
+Hepatic encephalopathy	TNF	1.0	
+Ileitis	TNF	1.0	
+Lupus Erythematosus, Cutaneous	TNF	1.0	
+Multiple Organ Failure	TNF	1.0	
+Mumps	TNF	1.0	
+Rhinitis, Allergic, Perennial	TNF	1.0	
+Paranoid Schizophrenia	TNF	1.0	
+Volvulus	TNF	1.0	
+Osteoarthritis of distal interphalangeal joint	TNF	1.0	
+HTLV-I Infections	TNF	1.0	
+Polymyalgia Rheumatica	TNF	1.0	
+Peptic Ulcer Hemorrhage	TNF	1.0	
+Malignant ascites	TNF	1.0	
+Chronic schizophrenia	TNF	1.0	
+Microscopic Polyarteritis	TNF	1.0	
+Deficiency of glucose-6-phosphate dehydrogenase	TNF	1.0	
+AIDS related complex	TNF	1.0	
+Alveolar Bone Loss	TNF	1.0	
+Condylomata Acuminata	TNF	1.0	
+Acute postoperative pain	TNF	1.0	
+Salmonella infections	TNF	1.0	
+Smallpox	TNF	1.0	
+Diabetic foot ulcer	TNF	1.0	
+Osteoarthritis of the hand	TNF	1.0	
+Dermatitis and eczema	TNF	1.0	
+Community acquired pneumonia	TNF	1.0	
+Mammary adenocarcinoma	TNF	1.0	
+Herpesviridae Infections	TNF	1.0	
+Simple pneumoconiosis	TNF	1.0	
+Chronic myelopathy	TNF	1.0	
+Polyarticular arthritis	TNF	1.0	
+End Stage Liver Disease	TNF	1.0	
+Pregnancy associated hypertension	TNF	1.0	
+Aggressive periodontitis, generalized	TNF	1.0	
+Toxic Epidermal Necrolysis	TNF	1.0	
+Cholestasis of pregnancy	TNF	1.0	
+Pancreatitis, Alcoholic	TNF	1.0	
+Cerebral aneurysm	TNF	1.0	
+Gastric Cardia Adenocarcinoma	TNF	1.0	
+Intracranial glioma	TNF	1.0	
+Agammaglobulinemia 8, autosomal dominant	TNF	1.0	
+Obstructive nephropathy	TNF	1.0	
+Corneal pannus	TNF	1.0	
+Exfoliation Syndrome	TNF	1.0	
+Granulomatosis	TNF	1.0	
+Neuropathogenesis	TNF	1.0	
+Alcoholic Steatohepatitis	TNF	1.0	
+Acne Vulgaris	TNF	1.0	
+Arteriovenous fistula	TNF	1.0	
+CNS metastases	TNF	1.0	
+Idiopathic crescentic glomerulonephritis	TNF	1.0	
+Macular corneal dystrophy Type I	TNF	1.0	
+Allergic sensitization	TNF	1.0	
+Japanese Encephalitis	TNF	1.0	
+Leprosy, Lepromatous	TNF	1.0	
+Active tuberculosis	TNF	1.0	
+Mixed cryoglobulinemia	TNF	1.0	
+Acute anterior uveitis	TNF	1.0	
+Gestational trophoblastic disease	TNF	1.0	
+Anaphylactic shock NOS	TNF	1.0	
+Cholesteatoma	TNF	1.0	
+Coronary artery aneurysm	TNF	1.0	
+Rectal fistula	TNF	1.0	
+Tumor-Associated Vasculature	TNF	1.0	
+AIDS Dementia Complex	TNF	1.0	
+Disseminated intravascular coagulation	TNF	1.0	
+Ocular Hypertension	TNF	1.0	
+Stomach Diseases	TNF	1.0	
+Excessive daytime sleepiness	TNF	1.0	
+Fabry disease	TNF	1.0	
+Noise-induced hearing loss	TNF	1.0	
+Varicose Ulcer	TNF	1.0	
+Acute intermittent porphyria	TNF	1.0	
+HELLP Syndrome	TNF	1.0	
+Hyperoxia	TNF	1.0	
+Deficiency of malonyl-CoA decarboxylase	TNF	1.0	
+Oropharyngeal disorders	TNF	1.0	
+Hippocampal sclerosis	TNF	1.0	
+Myelopathy	TNF	1.0	
+Chronic Fatigue Syndrome	TNF	1.0	
+Heart valve disease	TNF	1.0	
+Takayasu Arteritis	TNF	1.0	
+CARCINOMA OF VULVA	TNF	1.0	
+Photoparoxysmal response 1 (2)	TNF	1.0	
+Weight Loss Adverse Event	TNF	1.0	
+Agranulocytosis	TNF	1.0	
+Brucellosis	TNF	1.0	
+Stomatitis	TNF	1.0	
+Streptococcal Infections	TNF	1.0	
+Bacterial Vaginosis	TNF	1.0	
+Hereditary factor IX deficiency disease	TNF	1.0	
+Fibromyalgia	TNF	1.0	
+Anterior uveitis	TNF	1.0	
+Insulin resistance syndrome	TNF	1.0	
+Neoplasm of the gallbladder	TNF	1.0	
+Osteopetrosis autosomal recessive 4	TNF	1.0	
+Pleuritis	TNF	1.0	
+IgA deficiency	TNF	1.0	
+Anti-Glomerular Basement Membrane Disease	TNF	1.0	
+Hemophilia, NOS	TNF	1.0	
+Acute Cerebrovascular Accidents	TNF	1.0	
+Coronary Restenosis	TNF	1.0	
+Papillomavirus Infections	TNF	1.0	
+Lymphocytic infiltration	TNF	1.0	
+Neuritis	TNF	1.0	
+Pneumococcal Infections	TNF	1.0	
+Other rheumatic heart disease	TNF	1.0	
+Rubella	TNF	1.0	
+Arthritis, Reactive	TNF	1.0	
+Idiopathic fibrosing alveolitis, chronic form	TNF	1.0	
+Iron deficiency anemia	TNF	1.0	
+hiv-infection/aids	TNF	1.0	
+Vascular lesions	TNF	1.0	
+Leptospirosis	TNF	1.0	
+Nephrosis	TNF	1.0	
+Pemphigus	TNF	1.0	
+Silicosis	TNF	1.0	
+Spondylitis, Ankylosing	TNF	1.0	
+Idiopathic Membranous Glomerulonephritis	TNF	1.0	
+Acute respiratory failure	TNF	1.0	
+Chagas Cardiomyopathy	TNF	1.0	
+Peptic Esophagitis	TNF	1.0	
+Guillain-Barre syndrome, familial	TNF	1.0	
+Prenatal Exposure Delayed Effects	TNF	1.0	
+Squamous intraepithelial lesion	TNF	1.0	
+Pain insensitivity	TNF	1.0	
+Hemoptysis	TNF	1.0	
+pathologic fistula	TNF	1.0	
+Hepatitis, Alcoholic	TNF	1.0	
+Zoonotic form of cutaneous leishmaniasis	TNF	1.0	
+Nausea	TNF	1.0	
+Low Tension Glaucoma	TNF	1.0	
+Disease due to Parvoviridae	TNF	1.0	
+Low Grade Squamous Intraepithelial Neoplasia	TNF	1.0	
+Refractory anemia	TNF	1.0	
+Erythema nodosum	TNF	1.0	
+Infectious Otitis Media	TNF	1.0	
+Memory Disorders	TNF	1.0	
+Necrosis	TNF	1.0	
+Respiratory Tract Diseases	TNF	1.0	
+Sicca Syndrome	TNF	1.0	
+Hypoalbuminemia	TNF	1.0	
+Endometriosis of uterus	TNF	1.0	
+Toxic Shock Syndrome	TNF	1.0	
+Aicardi Goutieres syndrome 1	TNF	1.0	
+Diabetic Cardiomyopathies	TNF	1.0	
+Biliary tract neoplasm	TNF	1.0	
+Leishmaniasis	TNF	1.0	
+Medullary carcinoma	TNF	1.0	
+Malignant Fibrous Histiocytoma	TNF	1.0	
+Chronic neutrophilia	TNF	1.0	
+Angioimmunoblastic Lymphadenopathy	TNF	1.0	
+Neoplasms, Experimental	TNF	1.0	
+Henoch-Schoenlein Purpura	TNF	1.0	
+Oropharyngeal squamous cell carcinoma	TNF	1.0	
+Oral Submucous Fibrosis	TNF	1.0	
+ {Septic shock, susceptibility to} (3)	TNF	1.0	
+Desmoid tumor	TNF	1.0	
+Congenital hypothyroidism	TNF	1.0	
+Shigella Infections	TNF	1.0	
+Wilson disease	TNF	1.0	
+Optic neuritis	TNF	1.0	
+Sarcoidosis, Pulmonary	TNF	1.0	
+Aortic valve disease 2	TNF	1.0	
+Bronchiolitis Obliterans	TNF	1.0	
+Iron deficiency	TNF	1.0	
+Hantavirus infection in conditions classified elsewhere and of unspecified site	TNF	1.0	
+Infiltrating Cervical Carcinoma	TNF	1.0	
+Hormone receptor positive tumor	TNF	1.0	
+Esophagitis	TNF	1.0	
+Meningococcal Infections	TNF	1.0	
+Idiopathic Inflammatory Myopathies	TNF	1.0	
+Primary infection NOS	TNF	1.0	
+Helminthiasis	TNF	1.0	
+Stress, Psychological	TNF	1.0	
+Vitreoretinopathy, neovascular inflammatory, 193235 (3)	TNF	1.0	
+Systemic Inflammatory Response Syndrome	TNF	1.0	
+Diamond-Blackfan anemia	TNF	1.0	
+Persistent infection	TNF	1.0	
+Breast Fibrocystic Disease	TNF	1.0	
+Diaphragmatic hernia	TNF	1.0	
+Pharyngeal Neoplasms	TNF	1.0	
+Trachoma	TNF	1.0	
+Uremia syndrome	TNF	1.0	
+Tardive Dyskinesia	TNF	1.0	
+Chronic lung disease	TNF	1.0	
+Bipolar I disorder	TNF	1.0	
+Hemolytic uremic syndrome	TNF	1.0	
+Disorders of lipoid metabolism	TNF	1.0	
+Atypical nevus	TNF	1.0	
+Alpha-1-antitrypsin deficiency	TNF	1.0	
+Proliferative diabetic retinopathy	TNF	1.0	
+Aqueous Humor Disorders	TNF	1.0	
+Hypoxia-Ischemia, Brain	TNF	1.0	
+Colorectal polyposis	TNF	1.0	
+Neurodegeneration with brain iron accumulation 4	TNF	1.0	
+Osteochondritis dissecans	TNF	1.0	
+Bardet-Biedl syndrome	TNF	1.0	
+Histiocytosis, Langerhans-Cell	TNF	1.0	
+Hyperparathyroidism 4	TNF	1.0	
+Occupational Diseases	TNF	1.0	
+Retinopathy of Prematurity	TNF	1.0	
+ Hyperandrogenism, nonclassic type, due to 21-hydroxylase deficiency, 201910 (3)	TNF	1.0	
+Carcinoma, Large Cell	TNF	1.0	
+{Spondyloarthropathy, susceptibility to, 1}, 106300 (3)	TNF	1.0	
+Lymphocytosis	TNF	1.0	
+Shock, Septic	TNF	1.0	
+Sleep apnea	TNF	1.0	
+Primary antiphospholipid syndrome	TNF	1.0	
+Giant cell tumor of bone	TNF	1.0	
+Hyperuricemia, pulmonary hypertension, renal failure, and alkalosis	TNF	1.0	
+Cardiac fibrosis	TNF	1.0	
+Pneumocystis jiroveci pneumonia	TNF	1.0	
+Bronchiolitis	TNF	1.0	
+Skin lesion	TNF	1.0	
+Arsenic Poisoning	TNF	1.0	
+Common Migraine	TNF	1.0	
+Gaucher Disease	TNF	1.0	
+Gingivitis	TNF	1.0	
+Retroviridae Infections	TNF	1.0	
+ {HIV-1 viremia, susceptibility to}, 609423 (3)	TNF	1.0	
+Acute Lung Injury	TNF	1.0	
+Ventricular Dysfunction, Right	TNF	1.0	
+{Atopy, susceptibility to}, 147050 (3)	TNF	1.0	
+Female infertility	TNF	1.0	
+{Pemphigoid, susceptibility to} (2)	TNF	1.0	
+Uremia	TNF	1.0	
+Angina pectoris	TNF	1.0	
+ Cerebrovascular disease, occlusive (3)	TNF	1.0	
+Severe Dengue	TNF	1.0	
+Viral hepatitis	TNF	1.0	
+Orofacial dyskinesia	TNF	1.0	
+Ischemic cardiomyopathy	TNF	1.0	
+latent infection	TNF	1.0	
+Bleeding with minor or no trauma	TNF	1.0	
+Pathologic Neovascularization	TNF	1.0	
+Pemphigus Vulgaris	TNF	1.0	
+Homocysteinemia due to MTHFR deficiency	TNF	1.0	
+Granulomatosis with Polyangiitis	TNF	1.0	
+Bronchitis, Chronic	TNF	1.0	
+Acute monocytic leukemia	TNF	1.0	
+Paroxysmal nocturnal hemoglobinuria	TNF	1.0	
+Postoperative Complications	TNF	1.0	
+Pleural Effusion, Malignant	TNF	1.0	
+Endometrioma	TNF	1.0	
+Complications of Diabetes Mellitus	TNF	1.0	
+Acne	TNF	1.0	
+Osteolysis	TNF	1.0	
+Malignant Childhood Neoplasm	TNF	1.0	
+Undifferentiated leukemia	TNF	1.0	
+Pulmonary edema	TNF	1.0	
+Uterine neoplasm	TNF	1.0	
+Chronic gastritis	TNF	1.0	
+Migraine with aura	TNF	1.0	
+Ichthyosis bullosa of Siemens	TNF	1.0	
+Alzheimer Disease, Late Onset	TNF	1.0	
+Brain Infarction	TNF	1.0	
+Spondylarthropathies	TNF	1.0	
+Epithelial hyperplasia of skin	TNF	1.0	
+Granulomatous disease, chronic, autosomal recessive, cytochrome b-negative	TNF	1.0	
+Neonatal respiratory distress	TNF	1.0	
+Sciatic Neuropathy	TNF	1.0	
+Amyotrophic Lateral Sclerosis, Sporadic	TNF	1.0	
+Recurrent abortion	TNF	1.0	
+Alopecia Areata	TNF	1.0	
+Drug Allergy	TNF	1.0	
+Mycoplasma Infections	TNF	1.0	
+Myopathy, mitochondrial progressive, with congenital cataract, hearing loss, and developmental delay	TNF	1.0	
+Scar conditions and fibrosis of skin	TNF	1.0	
+Cerebral edema	TNF	1.0	
+Duodenal Ulcer	TNF	1.0	
+Lymphohistiocytosis, Hemophagocytic	TNF	1.0	
+Metaplasia	TNF	1.0	
+M5b Acute differentiated monocytic leukemia	TNF	1.0	
+Rash and Dermatitis Adverse Event Associated with Chemoradiation	TNF	1.0	
+IMMUNE SUPPRESSION	TNF	1.0	
+Pregnancy loss	TNF	1.0	
+Coronary artery stenosis	TNF	1.0	
+Acute Undifferentiated Leukemia	TNF	1.0	
+Prediabetes syndrome	TNF	1.0	
+Hormone refractory prostate cancer	TNF	1.0	
+Respiration Disorders	TNF	1.0	
+Stable angina	TNF	1.0	
+Chlamydia Infections	TNF	1.0	
+Dementia, Vascular	TNF	1.0	
+Demyelinating Diseases	TNF	1.0	
+{Diphtheria, susceptibility to} (1)	TNF	1.0	
+Gastrointestinal Diseases	TNF	1.0	
+Lichen Planus, Oral	TNF	1.0	
+Adult type dermatomyositis	TNF	1.0	
+Iron Overload	TNF	1.0	
+High-Grade Squamous Intraepithelial Lesions	TNF	1.0	
+Hereditary hemochromatosis	TNF	1.0	
+CNS infection	TNF	1.0	
+Membranous nephropathy, susceptibility to	TNF	1.0	
+Heart block	TNF	1.0	
+Nasopharyngeal Neoplasms	TNF	1.0	
+Chronic heart failure	TNF	1.0	
+Candidiasis, familial, 9	TNF	1.0	
+Cholangitis, Sclerosing	TNF	1.0	
+Obsessive-compulsive disorder	TNF	1.0	
+Pterygium	TNF	1.0	
+Soft Tissue Neoplasms	TNF	1.0	
+Wheezing	TNF	1.0	
+Intervertebral disc degeneration	TNF	1.0	
+bone destruction	TNF	1.0	
+Chronic active hepatitis	TNF	1.0	
+Cholecystolithiasis	TNF	1.0	
+Severe Sepsis	TNF	1.0	
+Herpes NOS	TNF	1.0	
+Familial Mediterranean fever	TNF	1.0	
+Liver regeneration disorder	TNF	1.0	
+Diabetic Angiopathies	TNF	1.0	
+Mitral regurgitation	TNF	1.0	
+Pilocytic Astrocytoma	TNF	1.0	
+Multiple Sclerosis, Relapsing-Remitting	TNF	1.0	
+Tumor Promotion	TNF	1.0	
+Necrotizing Enterocolitis	TNF	1.0	
+Febrile seizures, familial, 4	TNF	1.0	
+Leishmaniasis, Visceral	TNF	1.0	
+Plasmacytoma	TNF	1.0	
+Chronic sinusitis	TNF	1.0	
+Parasitemia	TNF	1.0	
+Conjunctivitis	TNF	1.0	
+Contact Dermatitis	TNF	1.0	
+Type 1 diabetic neuropathy	TNF	1.0	
+Periodontitis, Juvenile	TNF	1.0	
+Oral Cavity Carcinoma	TNF	1.0	
+Latent autoimmune diabetes mellitus in adult	TNF	1.0	
+Thyroid associated opthalmopathies	TNF	1.0	
+Actinic keratosis	TNF	1.0	
+Angina, Unstable	TNF	1.0	
+Urinary tract infection	TNF	1.0	
+X-linked ichthyosis with steryl-sulfatase deficiency	TNF	1.0	
+Chronic graft-versus-host disease	TNF	1.0	
+Arteriovenous malformation	TNF	1.0	
+Neuralgia	TNF	1.0	
+airway disease	TNF	1.0	
+Chronic ulcerative colitis	TNF	1.0	
+Cerebral palsy, spastic quadriplegic, 3	TNF	1.0	
+Hyperlipidemia, familial combined	TNF	1.0	
+Malaria, Cerebral	TNF	1.0	
+Postmenopausal osteoporosis	TNF	1.0	
+Alcohol abuse	TNF	1.0	
+Skin carcinoma	TNF	1.0	
+Sleep Wake Disorders	TNF	1.0	
+Biliary Atresia	TNF	1.0	
+Waldenstrom macroglobulinemia	TNF	1.0	
+Polyglandular autoimmune syndrome, type 1	TNF	1.0	
+Endotoxemia	TNF	1.0	
+Peripheral Arterial Diseases	TNF	1.0	
+Keratitis	TNF	1.0	
+Vesicular Stomatitis	TNF	1.0	
+Interstitial fibrosis	TNF	1.0	
+Shy-Drager syndrome	TNF	1.0	
+Hemochromatosis	TNF	1.0	
+Hyperbilirubinemia	TNF	1.0	
+SUDDEN INFANT DEATH SYNDROME	TNF	1.0	
+Hepatopulmonary Syndrome	TNF	1.0	
+Severe Acute Respiratory Syndrome	TNF	1.0	
+Cystitis	TNF	1.0	
+Advanced cancer	TNF	1.0	
+Leukemia, B-Cell	TNF	1.0	
+Leukoencephalopathy, Progressive Multifocal	TNF	1.0	
+Melanoma, B16	TNF	1.0	
+Polymyositis	TNF	1.0	
+Acute pancreatitis	TNF	1.0	
+Calcinosis	TNF	1.0	
+Liver Cirrhosis, Alcoholic	TNF	1.0	
+Alcoholic Liver Diseases	TNF	1.0	
+Mycobacterium Infections	TNF	1.0	
+Endometrial adenocarcinoma	TNF	1.0	
+Testicular Germ Cell Tumor	TNF	1.0	
+Bacteremia, susceptibility to, 2	TNF	1.0	
+Methamphetamine abuse	TNF	1.0	
+Hereditary factor VIII deficiency disease	TNF	1.0	
+Neoplasm of the rectum	TNF	1.0	
+NOONAN-LIKE/MULTIPLE GIANT CELL LESION SYNDROME (disorder)	TNF	1.0	
+Childhood asthma	TNF	1.0	
+Rhabdoid Tumor of the Kidney	TNF	1.0	
+Tumor Immunity	TNF	1.0	
+Neoplasm of the larynx	TNF	1.0	
+Posttraumatic stress disorder	TNF	1.0	
+precancerous lesions	TNF	1.0	
+Anorexia nervosa 1	TNF	1.0	
+Middle Cerebral Artery Occlusion	TNF	1.0	
+Rheumatic disease of heart valve	TNF	1.0	
+ Frontotemporal lobar degeneration, TARDBP-related, 612069 (3)	TNF	1.0	
+Chorea, childhood-onset, with psychomotor retardation	TNF	1.0	
+Glomerulosclerosis, Focal Segmental	TNF	1.0	
+Primary sclerosing cholangitis	TNF	1.0	
+tumor vasculature	TNF	1.0	
+Hairy Cell Leukemia	TNF	1.0	
+Helicobacter Infections	TNF	1.0	
+Skin Carcinogenesis	TNF	1.0	
+Retinal detachment	TNF	1.0	
+Synovitis	TNF	1.0	
+Dry skin	TNF	1.0	
+Dermatitis, Allergic Contact	TNF	1.0	
+Idiopathic thrombocytopenic purpura	TNF	1.0	
+Glaucoma, Open-Angle	TNF	1.0	
+Portal hypertension, noncirrhotic	TNF	1.0	
+Myocarditis	TNF	1.0	
+CNS disorder	TNF	1.0	
+Hay fever	TNF	1.0	
+Hypercalcemia, infantile, 2	TNF	1.0	
+Sinusitis	TNF	1.0	
+Autoimmune thyroid disease 3	TNF	1.0	
+early pregnancy	TNF	1.0	
+Multicystic renal dysplasia, bilateral	TNF	1.0	
+Dermatomyositis	TNF	1.0	
+Chronic myelomonocytic leukemia	TNF	1.0	
+Peritonitis	TNF	1.0	
+Intracranial Aneurysm	TNF	1.0	
+Chronic atrophic gastritis	TNF	1.0	
+Gout	TNF	1.0	
+Gastric ulcer	TNF	1.0	
+Aortic Aneurysm, Thoracic	TNF	1.0	
+Juvenile myelomonocytic leukemia	TNF	1.0	
+Meningitis	TNF	1.0	
+Hereditary hyperhomocysteinemia	TNF	1.0	
+Breast adenocarcinoma	TNF	1.0	
+Bronchiectasis	TNF	1.0	
+Immediate hypersensitivity	TNF	1.0	
+Thromboembolism	TNF	1.0	
+Knee osteoarthritis	TNF	1.0	
+Vascular inflammations	TNF	1.0	
+Precocious puberty	TNF	1.0	
+Squamous cell carcinoma of tongue	TNF	1.0	
+Focal segmental glomerulosclerosis	TNF	1.0	
+Primary Effusion Lymphoma	TNF	1.0	
+Peripheral T-Cell Lymphoma	TNF	1.0	
+Depressive Symptoms	TNF	1.0	
+Malnutrition	TNF	1.0	
+Myalgia	TNF	1.0	
+Duchenne muscular dystrophy	TNF	1.0	
+Peptic ulcer	TNF	1.0	
+Erythema	TNF	1.0	
+Hepatitis, Autoimmune	TNF	1.0	
+Pancytopenia	TNF	1.0	
+Urticaria	TNF	1.0	
+Thrombophilia	TNF	1.0	
+Skin ulcer	TNF	1.0	
+Classical Hodgkin's Lymphoma	TNF	1.0	
+Vesicoureteral reflux	TNF	1.0	
+Amyloidosis	TNF	1.0	
+Hypotension	TNF	1.0	
+Giant cell arteritis	TNF	1.0	
+Common variable immunodeficiency 2	TNF	1.0	
+Obesity, severe, 601665 (3)	TNF	1.0	
+Tourette Syndrome	TNF	1.0	
+Psoriasis vulgaris	TNF	1.0	
+Gingival Diseases	TNF	1.0	
+Musculoskeletal Diseases	TNF	1.0	
+Pregnancy Complications	TNF	1.0	
+Biliary cirrhosis	TNF	1.0	
+Pregnancy Complications, Hematologic	TNF	1.0	
+Pulmonary Embolism	TNF	1.0	
+Metastatic malignant neoplasm to brain	TNF	1.0	
+Anorexia	TNF	1.0	
+Thyroiditis	TNF	1.0	
+Laryngeal Squamous Cell Carcinoma	TNF	1.0	
+Abdominal obesity	TNF	1.0	
+Superficial ulcer	TNF	1.0	
+beta Thalassemia	TNF	1.0	
+Acute hepatic failure	TNF	1.0	
+Anaplastic Oligodendroglioma	TNF	1.0	
+Basal cell carcinoma	TNF	1.0	
+Myositis	TNF	1.0	
+Pleural effusion	TNF	1.0	
+Sjogren's Syndrome	TNF	1.0	
+Rhinitis, Allergic, Seasonal	TNF	1.0	
+Lung Diseases, Interstitial	TNF	1.0	
+Adrenoleukodystrophy	TNF	1.0	
+Lyme Disease	TNF	1.0	
+Acute GVH disease	TNF	1.0	
+Aortic valve stenosis	TNF	1.0	
+Mild cognitive impairment	TNF	1.0	
+Disorder characterized by eosinophilia	TNF	1.0	
+Respiratory Distress Syndrome, Adult	TNF	1.0	
+Hashimoto thyroiditis	TNF	1.0	
+Hyperplasia	TNF	1.0	
+Mycosis Fungoides	TNF	1.0	
+Eosinophilic disorder	TNF	1.0	
+Monoclonal Gammopathy of Undetermined Significance	TNF	1.0	
+Neurodegeneration with brain iron accumulation	TNF	1.0	
+Coinfection	TNF	1.0	
+Chronic liver disease	TNF	1.0	
+orbit (eye disorders)	TNF	1.0	
+Arthropathy	TNF	1.0	
+Malaria, Falciparum	TNF	1.0	
+Sporadic Breast Carcinoma	TNF	1.0	
+Tachycardia	TNF	1.0	
+Hearing Loss, Partial	TNF	1.0	
+invasive cancer	TNF	1.0	
+{Aneurysm, familial abdominal 3} (2)	TNF	1.0	
+Fetal Diseases	TNF	1.0	
+Sezary Syndrome	TNF	1.0	
+Peripheral Arterial Disease	TNF	1.0	
+Malignant peripheral nerve sheath tumor with rhabdomyoblastic differentiation	TNF	1.0	
+Weight Gain Adverse Event	TNF	1.0	
+Congenital Myotonic Dystrophy	TNF	1.0	
+Thalassemia	TNF	1.0	
+Ureteral obstruction	TNF	1.0	
+Uveitis	TNF	1.0	
+Invasive Carcinoma	TNF	1.0	
+Measles	TNF	1.0	
+Oligospermia	TNF	1.0	
+androgen independent prostate cancer	TNF	1.0	
+Hirsutism	TNF	1.0	
+Thrombosis	TNF	1.0	
+Primitive neuroectodermal tumor	TNF	1.0	
+Polycystic Kidney, Autosomal Dominant	TNF	1.0	
+Nonalcoholic Steatohepatitis	TNF	1.0	
+Steinert myotonic dystrophy syndrome	TNF	1.0	
+VITILIGO-ASSOCIATED MULTIPLE AUTOIMMUNE DISEASE SUSCEPTIBILITY 1 (finding)	TNF	1.0	
+Progressive Neoplastic Disease	TNF	1.0	
+Progressive cGVHD	TNF	1.0	
+Irritable bowel syndrome with diarrhea	TNF	1.0	
+Disseminated Malignant Neoplasm	TNF	1.0	
+Acquired Immunodeficiency Syndrome	TNF	1.0	
+Albuminuria	TNF	1.0	
+Lipoatrophy	TNF	1.0	
+46,XY gonadal dysgenesis, partial, with minifascicular neuropathy	TNF	1.0	
+Myeloproliferative disorder (2)	TNF	1.0	
+Obstructive sleep apnea	TNF	1.0	
+Encephalitis	TNF	1.0	
+Lymphatic Metastasis	TNF	1.0	
+Neoplasm Invasiveness	TNF	1.0	
+Malignant neoplasm of gallbladder	TNF	1.0	
+Bone Diseases	TNF	1.0	
+Renal fibrosis	TNF	1.0	
+Bronchial Hyperreactivity	TNF	1.0	
+Tumor necrosis	TNF	1.0	
+Cachexia	TNF	1.0	
+Uterine Cervical Neoplasms	TNF	1.0	
+Cholelithiasis	TNF	1.0	
+Substance-Related Disorders	TNF	1.0	
+Amyotrophic lateral sclerosis type 1	TNF	1.0	
+Aplastic anemia	TNF	1.0	
+Borderline Personality Disorder	TNF	1.0	
+Primary open angle glaucoma juvenile onset 1	TNF	1.0	
+Cytomegalovirus Infections	TNF	1.0	
+Dissecting aneurysm of the thoracic aorta	TNF	1.0	
+Allergic rhinitis	TNF	1.0	
+Lactic acidosis	TNF	1.0	
+Eosinophilia	TNF	1.0	
+Atrial Fibrillation	TNF	1.0	
+Thymoma	TNF	1.0	
+Chronic Chagas' disease	TNF	1.0	
+Lymphoma, Large-Cell, Follicular	TNF	1.0	
+Hyperalgesia	TNF	1.0	
+Abnormality of extrapyramidal motor function	TNF	1.0	
+Nephritis	TNF	1.0	
+Synovial sarcoma	TNF	1.0	
+Dengue Fever	TNF	1.0	
+Amyotrophy involving the shoulder musculature	TNF	1.0	
+Seborheic dermatitis	TNF	1.0	
+Embryonal Carcinoma	TNF	1.0	
+Non-Malignant Ascites Adverse Event	TNF	1.0	
+Familial hypercholesterolemia	TNF	1.0	
+Chronic Periodontitis	TNF	1.0	
+Tumor Initiation	TNF	1.0	
+Eclampsia	TNF	1.0	
+Vasculitis	TNF	1.0	
+Cyst	TNF	1.0	
+Kaposi's sarcoma	TNF	1.0	
+Laryngeal carcinoma	TNF	1.0	
+Status epilepticus	TNF	1.0	
+Sensory neuropathy	TNF	1.0	
+Hypersensitivity	TNF	1.0	
+Delayed puberty	TNF	1.0	
+Chronic Kidney Insufficiency	TNF	1.0	
+Adenocarcinoma of the large intestine	TNF	1.0	
+Carotid Artery Diseases	TNF	1.0	
+Aortic Aneurysm, Abdominal	TNF	1.0	
+Juvenile rheumatoid arthritis	TNF	1.0	
+Charcot-Marie-Tooth disease, type 2N	TNF	1.0	
+Fibrosis	TNF	1.0	
+Well Differentiated Oligodendroglioma	TNF	1.0	
+Dilated cardiomyopathy 1A	TNF	1.0	
+Epilepsy, Temporal Lobe	TNF	1.0	
+Tuberous sclerosis syndrome	TNF	1.0	
+Squamous cell carcinoma of lung	TNF	1.0	
+Gallbladder Carcinoma	TNF	1.0	
+Neoplasms, Second Primary	TNF	1.0	
+Primary cutaneous marginal zone B-cell lymphoma	TNF	1.0	
+Brain Diseases	TNF	1.0	
+Fetal Membranes, Premature Rupture	TNF	1.0	
+Chorioamnionitis	TNF	1.0	
+Acute Erythroblastic Leukemia	TNF	1.0	
+Connective Tissue Diseases	TNF	1.0	
+Myocardial Reperfusion Injury	TNF	1.0	
+Chronic hepatitis	TNF	1.0	
+Immune dysfunction with T-cell inactivation due to calcium entry defect 1	TNF	1.0	
+Drug-Induced Liver Injury	TNF	1.0	
+Ovarian Failure, Premature	TNF	1.0	
+Allergic asthma	TNF	1.0	
+Mucocutaneous Lymph Node Syndrome	TNF	1.0	
+Death, Sudden, Cardiac	TNF	1.0	
+Premature Obstetric Labor	TNF	1.0	
+Arthritis, Psoriatic	TNF	1.0	
+Headache	TNF	1.0	
+Renal cyst	TNF	1.0	
+Transient ischemic attack	TNF	1.0	
+Intraocular melanoma	TNF	1.0	
+Mitochondrial diseases	TNF	1.0	
+Neoplasm, Residual	TNF	1.0	

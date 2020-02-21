@@ -1,0 +1,12 @@
+node_name	node_type	
+DB00331	drug	
+PRKAB1	drug_target	
+GPD1	drug_target	
+SLC22A1	drug_target	
+SLC22A2	drug_target	
+SLC22A3	drug_target	
+SLC47A2	drug_target	
+SLC47A1	drug_target	
+Extrahepatic cholestasis	phenotype	
+Intrahepatic cholestasis	phenotype	
+Endotoxemia	phenotype	

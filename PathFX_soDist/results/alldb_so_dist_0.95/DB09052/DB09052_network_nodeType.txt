@@ -1,0 +1,4 @@
+node_name	node_type	
+DB09052	drug	
+CD3D	drug_target	
+CD19	drug_target	

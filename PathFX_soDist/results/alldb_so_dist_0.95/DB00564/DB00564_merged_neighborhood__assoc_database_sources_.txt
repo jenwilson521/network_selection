@@ -1,0 +1,118 @@
+Gene	CUI	Source Databases	
+ABCB1	C0013182	Drug Allergy	DisGeNet	
+ABCC2	C0013182	Drug Allergy	DisGeNet	
+CYP2C19	C0013182	Drug Allergy	DisGeNet	
+CYP2C8	C0013182	Drug Allergy	DisGeNet	
+CYP2C9	C0013182	Drug Allergy	DisGeNet	
+CYP3A4	C0013182	Drug Allergy	DisGeNet	
+CYP3A5	C0013182	Drug Allergy	DisGeNet	
+UGT1A1	C0013182	Drug Allergy	DisGeNet	
+UGT1A7	C0013182	Drug Allergy	DisGeNet	
+UGT1A8	C0013182	Drug Allergy	DisGeNet	
+UGT1A9	C0013182	Drug Allergy	DisGeNet	
+UGT2B7	C0013182	Drug Allergy	DisGeNet	
+ABCB1	C0020433	Hyperbilirubinemia	DisGeNet	
+ABCC2	C0020433	Hyperbilirubinemia	DisGeNet,HumPhenOnt	
+CYP2B6	C0020433	Hyperbilirubinemia	DisGeNet	
+UGT1A	C0020433	Hyperbilirubinemia	DisGeNet	
+UGT1A1	C0020433	Hyperbilirubinemia	DisGeNet,HumPhenOnt	
+UGT1A10	C0020433	Hyperbilirubinemia	DisGeNet	
+UGT1A6	C0020433	Hyperbilirubinemia	DisGeNet	
+UGT1A7	C0020433	Hyperbilirubinemia	DisGeNet	
+UGT1A8	C0020433	Hyperbilirubinemia	DisGeNet	
+UGT1A9	C0020433	Hyperbilirubinemia	DisGeNet	
+ABCB1	C0746883	Febrile Neutropenia	DisGeNet	
+CYP3A5	C0746883	Febrile Neutropenia	DisGeNet	
+UGT1A	C0746883	Febrile Neutropenia	DisGeNet	
+UGT1A1	C0746883	Febrile Neutropenia	DisGeNet	
+UGT1A6	C0746883	Febrile Neutropenia	DisGeNet	
+UGT1A7	C0746883	Febrile Neutropenia	DisGeNet	
+UGT1A	C0011226	Hepatitis D Infection	DisGeNet	
+UGT1A1	C0011226	Hepatitis D Infection	DisGeNet	
+UGT1A10	C0011226	Hepatitis D Infection	DisGeNet	
+UGT1A6	C0011226	Hepatitis D Infection	DisGeNet	
+UGT1A7	C0011226	Hepatitis D Infection	DisGeNet	
+UGT1A8	C0011226	Hepatitis D Infection	DisGeNet	
+UGT1A9	C0011226	Hepatitis D Infection	DisGeNet	
+ABCB1	C0023530	Leukopenia	DisGeNet	
+ABCC2	C0023530	Leukopenia	DisGeNet	
+CYP2B6	C0023530	Leukopenia	DisGeNet	
+CYP2C8	C0023530	Leukopenia	DisGeNet	
+CYP3A4	C0023530	Leukopenia	DisGeNet	
+CYP3A5	C0023530	Leukopenia	DisGeNet	
+NR1I2	C0023530	Leukopenia	DisGeNet	
+UGT1A	C0023530	Leukopenia	DisGeNet	
+UGT1A1	C0023530	Leukopenia	DisGeNet	
+UGT1A6	C0023530	Leukopenia	DisGeNet	
+UGT1A7	C0023530	Leukopenia	DisGeNet	
+UGT1A8	C0023530	Leukopenia	DisGeNet	
+UGT1A9	C0023530	Leukopenia	DisGeNet	
+UGT2B7	C0023530	Leukopenia	DisGeNet	
+ABCB1	C0027497	Nausea	DisGeNet	
+CHRNB2	C0027497	Nausea	DisGeNet	
+CYP1A2	C0027497	Nausea	DisGeNet	
+CYP2C19	C0027497	Nausea	DisGeNet	
+CYP2C9	C0027497	Nausea	DisGeNet	
+UGT2B7	C0027497	Nausea	DisGeNet	
+ABCB1	C0027947	Neutropenia	DisGeNet	
+ABCC2	C0027947	Neutropenia	DisGeNet	
+CYP2C19	C0027947	Neutropenia	DisGeNet	
+CYP2C8	C0027947	Neutropenia	DisGeNet	
+CYP2C9	C0027947	Neutropenia	DisGeNet	
+CYP3A4	C0027947	Neutropenia	DisGeNet	
+CYP3A5	C0027947	Neutropenia	DisGeNet	
+NR1I2	C0027947	Neutropenia	DisGeNet	
+UGT1A	C0027947	Neutropenia	DisGeNet	
+UGT1A1	C0027947	Neutropenia	DisGeNet	
+UGT1A7	C0027947	Neutropenia	DisGeNet	
+UGT1A9	C0027947	Neutropenia	DisGeNet	
+ABCB1	C0024620	Primary malignant neoplasm of liver	DisGeNet	
+CYP2C19	C0024620	Primary malignant neoplasm of liver	DisGeNet	
+CYP3A4	C0024620	Primary malignant neoplasm of liver	DisGeNet	
+CYP3A5	C0024620	Primary malignant neoplasm of liver	DisGeNet	
+ABCB1	C0344307	Pain insensitivity	DisGeNet	
+CHRNA4	C0344307	Pain insensitivity	DisGeNet	
+CYP3A4	C0344307	Pain insensitivity	DisGeNet	
+CYP3A5	C0344307	Pain insensitivity	DisGeNet	
+UGT2B7	C0344307	Pain insensitivity	DisGeNet	
+ABCB1	C0014547	Epilepsy, focal, with speech disorder and with or without mental retardation	DisGeNet	
+ABCC2	C0014547	Epilepsy, focal, with speech disorder and with or without mental retardation	DisGeNet	
+CHRNA4	C0014547	Epilepsy, focal, with speech disorder and with or without mental retardation	DisGeNet	
+CYP2C19	C0014547	Epilepsy, focal, with speech disorder and with or without mental retardation	DisGeNet	
+CYP2C9	C0014547	Epilepsy, focal, with speech disorder and with or without mental retardation	DisGeNet	
+ABCB1	C0011991	Diarrhea 8, secretory sodium, congenital	DisGeNet	
+ABCC2	C0011991	Diarrhea 8, secretory sodium, congenital	DisGeNet	
+CYP1A2	C0011991	Diarrhea 8, secretory sodium, congenital	DisGeNet	
+CYP2C19	C0011991	Diarrhea 8, secretory sodium, congenital	DisGeNet	
+CYP2C9	C0011991	Diarrhea 8, secretory sodium, congenital	DisGeNet	
+CYP3A4	C0011991	Diarrhea 8, secretory sodium, congenital	DisGeNet	
+CYP3A5	C0011991	Diarrhea 8, secretory sodium, congenital	DisGeNet	
+NR1I2	C0011991	Diarrhea 8, secretory sodium, congenital	DisGeNet	
+UGT1A1	C0011991	Diarrhea 8, secretory sodium, congenital	DisGeNet	
+UGT1A7	C0011991	Diarrhea 8, secretory sodium, congenital	DisGeNet	
+UGT1A8	C0011991	Diarrhea 8, secretory sodium, congenital	DisGeNet	
+UGT1A9	C0011991	Diarrhea 8, secretory sodium, congenital	DisGeNet	
+UGT2B7	C0011991	Diarrhea 8, secretory sodium, congenital	DisGeNet	
+ABCB1	C0860207	Drug-Induced Liver Injury	DisGeNet	
+ABCC2	C0860207	Drug-Induced Liver Injury	DisGeNet	
+CYP2B6	C0860207	Drug-Induced Liver Injury	DisGeNet	
+CYP2C19	C0860207	Drug-Induced Liver Injury	DisGeNet	
+CYP2C9	C0860207	Drug-Induced Liver Injury	DisGeNet	
+CYP3A5	C0860207	Drug-Induced Liver Injury	DisGeNet	
+NR1I2	C0860207	Drug-Induced Liver Injury	DisGeNet	
+UGT1A1	C0860207	Drug-Induced Liver Injury	DisGeNet	
+UGT1A9	C0860207	Drug-Induced Liver Injury	DisGeNet	
+ABCB1	C0041755	Adverse drug events and drug allergies	DisGeNet	
+ABCC2	C0041755	Adverse drug events and drug allergies	DisGeNet	
+CYP1A2	C0041755	Adverse drug events and drug allergies	DisGeNet	
+CYP2C9	C0041755	Adverse drug events and drug allergies	DisGeNet	
+UGT1A1	C0041755	Adverse drug events and drug allergies	DisGeNet	
+CYP2B6	C0027658	Neoplasms, Germ Cell and Embryonal	DisGeNet	
+CYP2C19	C0027658	Neoplasms, Germ Cell and Embryonal	DisGeNet	
+CYP2C9	C0027658	Neoplasms, Germ Cell and Embryonal	DisGeNet	
+CYP3A4	C0027658	Neoplasms, Germ Cell and Embryonal	DisGeNet	
+CYP3A5	C0027658	Neoplasms, Germ Cell and Embryonal	DisGeNet	
+ABCB1	C0235032	Neurotoxicity Syndromes	DisGeNet	
+CYP2C19	C0235032	Neurotoxicity Syndromes	DisGeNet	
+CYP2C9	C0235032	Neurotoxicity Syndromes	DisGeNet	
+CYP3A5	C0235032	Neurotoxicity Syndromes	DisGeNet	

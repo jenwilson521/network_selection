@@ -1,0 +1,25 @@
+node_name	node_type	
+DB09389	drug	
+CYP3A4	drug_target	
+CYP19A1	drug_target	
+PGR	drug_target	
+AR	drug_target	
+Alcohol withdrawal syndrome	phenotype	
+Alopecia of scalp	phenotype	
+Depressive Symptoms	phenotype	
+21-hydroxylase deficiency	phenotype	
+Malignant neoplasm of male breast	phenotype	
+Weight Loss Adverse Event	phenotype	
+Spermatogenic failure 3	phenotype	
+Virilism	phenotype	
+Malignant neoplasm of female breast	phenotype	
+Female Breast Carcinoma	phenotype	
+Carcinoma of Male Breast	phenotype	
+Female pseudohermaphroditism	phenotype	
+Adrenal hyperplasia	phenotype	
+Breast Fibrocystic Disease	phenotype	
+Neoplasms, Germ Cell and Embryonal	phenotype	
+Disorder of endocrine system	phenotype	
+ Hyperandrogenism, nonclassic type, due to 21-hydroxylase deficiency, 201910 (3)	phenotype	
+Mammographic breast density	phenotype	
+Female infertility	phenotype	

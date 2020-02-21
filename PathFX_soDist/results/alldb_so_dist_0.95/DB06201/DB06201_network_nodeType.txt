@@ -1,0 +1,18 @@
+node_name	node_type	
+DB06201	drug	
+CES1	drug_target	
+GRM5	drug_target	
+CYP3A4	drug_target	
+ALB	drug_target	
+CYP2E1	drug_target	
+Latent Tuberculosis	phenotype	
+Squamous Cell Neoplasms	phenotype	
+End Stage Liver Disease	phenotype	
+Bone necrosis	phenotype	
+Chronic liver disease	phenotype	
+Respiratory Tract Diseases	phenotype	
+Adverse drug events and drug allergies	phenotype	
+Cooley's anemia	phenotype	
+Occupational Diseases	phenotype	
+ {HIV-1 viremia, susceptibility to}, 609423 (3)	phenotype	
+Drug-Induced Liver Injury	phenotype	

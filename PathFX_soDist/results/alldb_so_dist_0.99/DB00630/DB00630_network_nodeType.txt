@@ -1,0 +1,7 @@
+node_name	node_type	
+DB00630	drug	
+FDPS	drug_target	
+PTPRE	drug_target	
+PTPRS	drug_target	
+ATP6V1A	drug_target	
+PTPN4	drug_target	

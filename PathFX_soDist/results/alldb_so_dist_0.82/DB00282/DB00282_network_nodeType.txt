@@ -1,0 +1,30 @@
+node_name	node_type	
+DB00282	drug	
+FDPS	drug_target	
+Alzheimer Disease	phenotype	
+Colon cancer	phenotype	
+Squamous cell carcinoma	phenotype	
+Neoplasm of the colon	phenotype	
+Colorectal cancer 1	phenotype	
+Heart Failure	phenotype	
+Congestive heart failure	phenotype	
+Heart valve disease	phenotype	
+Neoplasms	phenotype	
+Obesity	phenotype	
+Osteoporosis	phenotype	
+Pruritus	phenotype	
+Abnormality of the skin	phenotype	
+Neoplasm of the skin	phenotype	
+Pancreatic Carcinoma	phenotype	
+Thickened skin	phenotype	
+Malignant neoplasm of pancreas	phenotype	
+Epidermal thickening	phenotype	
+Neurodegenerative Diseases	phenotype	
+Osteosarcoma	phenotype	
+Carcinoma of colon	phenotype	
+Enzyme inhibition disorder	phenotype	
+Colorectal cancer	phenotype	
+Neoplasm by anatomical site	phenotype	
+Abnormality of skin physiology	phenotype	
+Abnormality of skin morphology	phenotype	
+Abnormality of the integument	phenotype	

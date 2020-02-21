@@ -1,0 +1,4 @@
+node1	node2	edge_score	
+DB01250	IFNG	1.0	
+DB01250	TPMT	1.0	
+

@@ -1,0 +1,13 @@
+node_name	node_type	
+DB00446	drug	
+CYP2C8	drug_target	
+CD55	drug_target	
+SLC22A6	drug_target	
+CYP2C19	drug_target	
+CYP3A4	drug_target	
+CYP3A5	drug_target	
+Primary malignant neoplasm of liver	phenotype	
+Drug Allergy	phenotype	
+Neoplasms, Germ Cell and Embryonal	phenotype	
+Squamous Cell Neoplasms	phenotype	
+Cocaine delirium	phenotype	

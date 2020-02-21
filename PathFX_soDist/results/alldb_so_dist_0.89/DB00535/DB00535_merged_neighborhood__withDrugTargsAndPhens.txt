@@ -1,0 +1,76 @@
+node1	node2	edge_score	
+DB00535	SLC15A2	1.0	
+DB00535	MPO	1.0	
+DB00535	SLC22A6	1.0	
+DB00535	SLC22A8	1.0	
+DB00535	SLC22A5	1.0	
+SLC22A5		1.0
+SLC15A2		1.0
+SLC22A8		1.0
+Leg Ulcer	SLC22A5	1.0	
+Chromosome 11p deletion syndrome	SLC22A8	1.0	
+Acute encephalopathy	SLC22A5	1.0	
+Neck muscle weakness	SLC22A5	1.0	
+Congenital long QT syndrome	SLC22A5	1.0	
+Malignant ascites	SLC22A5	1.0	
+Lipoidosis	SLC22A5	1.0	
+Abnormality of fatty-acid metabolism	SLC22A5	1.0	
+Hyperammonemia	SLC22A5	1.0	
+Confusion	SLC22A5	1.0	
+Excessive daytime sleepiness	SLC22A5	1.0	
+cardiac event	SLC22A5	1.0	
+Abnormality of the endocardium	SLC22A5	1.0	
+Sickle Cell Trait	SLC22A5	1.0	
+Hemoglobinopathy	SLC22A5	1.0	
+Bloom syndrome	SLC22A5	1.0	
+pathologic fistula	SLC22A5	1.0	
+Abnormality of the musculature of the neck	SLC22A5	1.0	
+Syncope	SLC22A5	1.0	
+Incoordination	SLC22A5	1.0	
+Abnormality of nitrogen compound homeostasis	SLC22A5	1.0	
+Azotemia	SLC22A5	1.0	
+Ehlers-Danlos syndrome, type vii, autosomal recessive	SLC22A5	1.0	
+Peripheral neuropathy, myopathy, hoarseness, and hearing loss	SLC22A5	1.0	
+Peripheral neuropathy, myopathy, hoarseness, and hearing loss	SLC22A8	1.0	
+Growth Disorders	SLC22A5	1.0	
+Storage in hepatocytes	SLC22A5	1.0	
+Thyroid associated opthalmopathies	SLC22A5	1.0	
+Lipid accumulation in hepatocytes	SLC22A5	1.0	
+Abnormality of mitochondrial metabolism	SLC22A5	1.0	
+Coma	SLC22A5	1.0	
+Chronic ulcerative colitis	SLC22A5	1.0	
+Kartagener syndrome	SLC22A5	1.0	
+Generalized tonic-clonic seizures	SLC22A5	1.0	
+Abnormality of the mitochondrion	SLC22A5	1.0	
+Lethargy	SLC22A5	1.0	
+Fibrinogen Adverse Event	SLC22A5	1.0	
+Myocarditis	SLC22A5	1.0	
+Acquired long QT syndrome	SLC22A5	1.0	
+Elevated hepatic transaminases	SLC22A5	1.0	
+Pregnancy Complications	SLC22A5	1.0	
+Abnormality of muscle fibers	SLC22A5	1.0	
+Generalized seizures	SLC22A5	1.0	
+beta Thalassemia	SLC22A5	1.0	
+orbit (eye disorders)	SLC22A5	1.0	
+Hearing Loss, Partial	SLC15A2	1.0	
+Irritable bowel syndrome with diarrhea	SLC22A5	1.0	
+Abnormality of blood glucose concentration	SLC22A5	1.0	
+Tumor necrosis	SLC22A5	1.0	
+Abnormality of lipid metabolism	SLC22A5	1.0	
+Secondary hyperparathyroidism	SLC15A2	1.0	
+Vomiting	SLC22A5	1.0	
+Arthritis, Psoriatic	SLC22A5	1.0	
+Skeletal dysplasia	SLC22A5	1.0	
+Bronchiolitis, Viral	SLC22A5	1.0	
+Sleep disturbance	SLC22A5	1.0	
+Reduced consciousness/confusion	SLC22A5	1.0	
+Cardiac arrest	SLC22A5	1.0	
+Deafness, autosomal recessive 44	SLC15A2	1.0	
+Encephalopathy, acute, infection-induced, 4, susceptibility to	SLC22A5	1.0	
+Hypoglycemia, neonatal, simulating foetopathia diabetica	SLC22A5	1.0	
+Acute kidney injury	SLC22A8	1.0	
+Anemia, Sickle Cell	SLC22A5	1.0	
+Left ventricular hypertrophy	SLC22A5	1.0	
+Cardiomegaly	SLC22A5	1.0	
+Respiratory Syncytial Virus Infections	SLC22A5	1.0	
+Nausea and vomiting	SLC22A5	1.0	

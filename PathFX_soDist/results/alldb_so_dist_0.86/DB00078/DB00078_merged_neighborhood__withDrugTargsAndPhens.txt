@@ -1,0 +1,310 @@
+node1	node2	edge_score	
+DB00078	C1QC	1.0	
+DB00078	FCGR2B	1.0	
+DB00078	FCGR3A	1.0	
+DB00078	FCGR2C	1.0	
+DB00078	C1QA	1.0	
+DB00078	FCGR2A	1.0	
+DB00078	FCGR1A	1.0	
+DB00078	C1S	1.0	
+DB00078	C1R	1.0	
+DB00078	FCGR3B	1.0	
+DB00078	MS4A1	1.0	
+DB00078	C1QB	1.0	
+FCGR2A		1.0
+FCGR3A		1.0
+Alveolar Bone Loss	FCGR2A	1.0	
+Alveolar Bone Loss	FCGR3A	1.0	
+Arthritis, Rheumatoid	FCGR2A	1.0	
+Arthritis, Rheumatoid	FCGR3A	1.0	
+Arthritis, Psoriatic	FCGR2A	1.0	
+Arthritis, Psoriatic	FCGR3A	1.0	
+Rheumatoid arthritis	FCGR2A	1.0	
+Rheumatoid arthritis	FCGR3A	1.0	
+Asthma	FCGR2A	1.0	
+Asthma	FCGR3A	1.0	
+Atherosclerosis	FCGR2A	1.0	
+Atherosclerosis	FCGR3A	1.0	
+Autoimmune disease 1	FCGR2A	1.0	
+Autoimmune disease 1	FCGR3A	1.0	
+Behcet Syndrome	FCGR2A	1.0	
+Behcet Syndrome	FCGR3A	1.0	
+Breast-ovarian cancer, familial 1	FCGR2A	1.0	
+Breast-ovarian cancer, familial 1	FCGR3A	1.0	
+Candidiasis, familial, 9	FCGR2A	1.0	
+Candidiasis, familial, 9	FCGR3A	1.0	
+Cardiovascular Diseases	FCGR2A	1.0	
+Cardiovascular Diseases	FCGR3A	1.0	
+Celiac Disease	FCGR2A	1.0	
+Celiac Disease	FCGR3A	1.0	
+Ulcerative colitis	FCGR2A	1.0	
+Ulcerative colitis	FCGR3A	1.0	
+Colorectal cancer 1	FCGR2A	1.0	
+Colorectal cancer 1	FCGR3A	1.0	
+Colorectal Neoplasms	FCGR2A	1.0	
+Colorectal Neoplasms	FCGR3A	1.0	
+Common variable immunodeficiency 2	FCGR2A	1.0	
+Common variable immunodeficiency 2	FCGR3A	1.0	
+Verotoxigenic Escherichia coli gastrointestinal tract infection	FCGR2A	1.0	
+Verotoxigenic Escherichia coli gastrointestinal tract infection	FCGR3A	1.0	
+Coronary heart disease 7	FCGR2A	1.0	
+Coronary heart disease 7	FCGR3A	1.0	
+Crohn Disease	FCGR2A	1.0	
+Crohn Disease	FCGR3A	1.0	
+Infection by Cryptococcus neoformans	FCGR2A	1.0	
+Infection by Cryptococcus neoformans	FCGR3A	1.0	
+Cystic Fibrosis	FCGR2A	1.0	
+Cystic Fibrosis	FCGR3A	1.0	
+Diabetes mellitus type 1	FCGR2A	1.0	
+Diabetes mellitus type 1	FCGR3A	1.0	
+Gingival Diseases	FCGR2A	1.0	
+Gingival Diseases	FCGR3A	1.0	
+IgA nephropathy, susceptibility to, 3	FCGR2A	1.0	
+IgA nephropathy, susceptibility to, 3	FCGR3A	1.0	
+Graft-versus-host disease, susceptibility to	FCGR2A	1.0	
+Graft-versus-host disease, susceptibility to	FCGR3A	1.0	
+Graves Disease	FCGR2A	1.0	
+Graves Disease	FCGR3A	1.0	
+Guillain-Barre syndrome, familial	FCGR2A	1.0	
+Guillain-Barre syndrome, familial	FCGR3A	1.0	
+Symptomatic human immunodeficiency virus infection	FCGR2A	1.0	
+Symptomatic human immunodeficiency virus infection	FCGR3A	1.0	
+Inflammation	FCGR2A	1.0	
+Inflammation	FCGR3A	1.0	
+Inflammatory Bowel Diseases	FCGR2A	1.0	
+Inflammatory Bowel Diseases	FCGR3A	1.0	
+Kidney Diseases	FCGR2A	1.0	
+Kidney Diseases	FCGR3A	1.0	
+Chronic Lymphocytic Leukemia	FCGR2A	1.0	
+Chronic Lymphocytic Leukemia	FCGR3A	1.0	
+Acute myeloid leukemia	FCGR2A	1.0	
+Acute myeloid leukemia	FCGR3A	1.0	
+Lupus Vulgaris	FCGR2A	1.0	
+Lupus Vulgaris	FCGR3A	1.0	
+Discoid lupus erythematosus	FCGR2A	1.0	
+Discoid lupus erythematosus	FCGR3A	1.0	
+Lupus Erythematosus, Systemic	FCGR2A	1.0	
+Lupus Erythematosus, Systemic	FCGR3A	1.0	
+Lupus Nephritis	FCGR2A	1.0	
+Lupus Nephritis	FCGR3A	1.0	
+Lymphoma, Large B-Cell, Diffuse	FCGR2A	1.0	
+Lymphoma, Large B-Cell, Diffuse	FCGR3A	1.0	
+Lymphoma, Follicular	FCGR2A	1.0	
+Lymphoma, Follicular	FCGR3A	1.0	
+Non-Hodgkin lymphoma	FCGR2A	1.0	
+Non-Hodgkin lymphoma	FCGR3A	1.0	
+Malaria	FCGR2A	1.0	
+Malaria	FCGR3A	1.0	
+{Gastric cancer risk after H. pylori infection}, 137215 (3)	FCGR2A	1.0	
+{Gastric cancer risk after H. pylori infection}, 137215 (3)	FCGR3A	1.0	
+Animal Mammary Neoplasms	FCGR2A	1.0	
+Animal Mammary Neoplasms	FCGR3A	1.0	
+Meningococcal Infections	FCGR2A	1.0	
+Meningococcal Infections	FCGR3A	1.0	
+Mucocutaneous Lymph Node Syndrome	FCGR2A	1.0	
+Mucocutaneous Lymph Node Syndrome	FCGR3A	1.0	
+Multiple Myeloma	FCGR2A	1.0	
+Multiple Myeloma	FCGR3A	1.0	
+Multiple Sclerosis	FCGR2A	1.0	
+Multiple Sclerosis	FCGR3A	1.0	
+Myasthenia Gravis	FCGR2A	1.0	
+Myasthenia Gravis	FCGR3A	1.0	
+Nephritis	FCGR2A	1.0	
+Nephritis	FCGR3A	1.0	
+Nephrotic syndrome, type 5, with or without ocular abnormalities	FCGR2A	1.0	
+Nephrotic syndrome, type 5, with or without ocular abnormalities	FCGR3A	1.0	
+Neutropenia	FCGR2A	1.0	
+Neutropenia	FCGR3A	1.0	
+Otitis media	FCGR2A	1.0	
+Otitis media	FCGR3A	1.0	
+{Pemphigoid, susceptibility to} (2)	FCGR2A	1.0	
+{Pemphigoid, susceptibility to} (2)	FCGR3A	1.0	
+Periodontal Pocket	FCGR2A	1.0	
+Periodontal Pocket	FCGR3A	1.0	
+Periodontitis	FCGR2A	1.0	
+Periodontitis	FCGR3A	1.0	
+Periodontitis, Juvenile	FCGR2A	1.0	
+Periodontitis, Juvenile	FCGR3A	1.0	
+Pneumonia	FCGR2A	1.0	
+Pneumonia	FCGR3A	1.0	
+Respiratory tract infection	FCGR2A	1.0	
+Respiratory tract infection	FCGR3A	1.0	
+Seizures, Febrile	FCGR2A	1.0	
+Seizures, Febrile	FCGR3A	1.0	
+Giant cell arteritis	FCGR2A	1.0	
+Giant cell arteritis	FCGR3A	1.0	
+Thrombocytopenia, platelet dysfunction, hemolysis, and imbalanced globin synthesis	FCGR2A	1.0	
+Thrombocytopenia, platelet dysfunction, hemolysis, and imbalanced globin synthesis	FCGR3A	1.0	
+Tuberculosis, Pulmonary	FCGR2A	1.0	
+Tuberculosis, Pulmonary	FCGR3A	1.0	
+B-cell lymphoma	FCGR2A	1.0	
+B-cell lymphoma	FCGR3A	1.0	
+Germinal Center B-Cell-Like Diffuse Large B-Cell Lymphoma	FCGR2A	1.0	
+Germinal Center B-Cell-Like Diffuse Large B-Cell Lymphoma	FCGR3A	1.0	
+Malignant neoplasm of brain and nervous system	FCGR2A	1.0	
+Malignant neoplasm of brain and nervous system	FCGR3A	1.0	
+Periodontal Attachment Loss	FCGR2A	1.0	
+Periodontal Attachment Loss	FCGR3A	1.0	
+Sepsis	FCGR2A	1.0	
+Sepsis	FCGR3A	1.0	
+Chronic Periodontitis	FCGR2A	1.0	
+Chronic Periodontitis	FCGR3A	1.0	
+Malignant tumor of prostate	FCGR2A	1.0	
+Malignant tumor of prostate	FCGR3A	1.0	
+Idiopathic thrombocytopenic purpura	FCGR2A	1.0	
+Idiopathic thrombocytopenic purpura	FCGR3A	1.0	
+Anti-Glomerular Basement Membrane Disease	FCGR2A	1.0	
+Anti-Glomerular Basement Membrane Disease	FCGR3A	1.0	
+{Systemic lupus erythematosus, susceptibility to, 8} (2)	FCGR2A	1.0	
+{Systemic lupus erythematosus, susceptibility to, 8} (2)	FCGR3A	1.0	
+Meningitis	FCGR2A	1.0	
+Meningitis	FCGR3A	1.0	
+Prostate carcinoma	FCGR2A	1.0	
+Prostate carcinoma	FCGR3A	1.0	
+Breast carcinoma	FCGR2A	1.0	
+Breast carcinoma	FCGR3A	1.0	
+Neuroblastoma	FCGR2A	1.0	
+Neuroblastoma	FCGR3A	1.0	
+Acute Coronary Syndrome	FCGR2A	1.0	
+Acute Coronary Syndrome	FCGR3A	1.0	
+Diffuse Scleroderma	FCGR2A	1.0	
+Diffuse Scleroderma	FCGR3A	1.0	
+Colorectal cancer	FCGR2A	1.0	
+Colorectal cancer	FCGR3A	1.0	
+Coronary Artery Disease	FCGR2A	1.0	
+Coronary Artery Disease	FCGR3A	1.0	
+Granulomatosis with Polyangiitis	FCGR2A	1.0	
+Granulomatosis with Polyangiitis	FCGR3A	1.0	
+Pneumonitis	FCGR2A	1.0	
+Pneumonitis	FCGR3A	1.0	
+Bacterial endocarditis	FCGR2A	1.0	
+Neoplasm of the thymus	FCGR2A	1.0	
+Puerperal Disorders	FCGR2A	1.0	
+Recurrent sinusitis	FCGR3A	1.0	
+TNF receptor-associated periodic fever syndrome (TRAPS)	FCGR3A	1.0	
+Anterior myocardial infarction	FCGR3A	1.0	
+Rheumatic fever / chorea	FCGR2A	1.0	
+Endocarditis	FCGR2A	1.0	
+Microscopic Polyarteritis	FCGR2A	1.0	
+Autoimmune hemolytic anemia	FCGR3A	1.0	
+Community acquired pneumonia	FCGR2A	1.0	
+Herpesviridae Infections	FCGR3A	1.0	
+Alveolar proteinosis	FCGR2A	1.0	
+Pneumonia, Bacterial	FCGR2A	1.0	
+Neuromyelitis Optica	FCGR3A	1.0	
+Idiopathic crescentic glomerulonephritis	FCGR3A	1.0	
+Anaphylactic shock NOS	FCGR2A	1.0	
+Takayasu Arteritis	FCGR2A	1.0	
+Brucellosis	FCGR2A	1.0	
+Sickle Cell Trait	FCGR2A	1.0	
+Streptococcal Infections	FCGR2A	1.0	
+Varicella zoster	FCGR3A	1.0	
+Pneumococcal Infections	FCGR2A	1.0	
+Leukemia, Large Granular Lymphocytic	FCGR3A	1.0	
+EPIDERMODYSPLASIA VERRUCIFORMIS	FCGR3A	1.0	
+X-linked agammaglobulinemia	FCGR3A	1.0	
+Recurrent infections of the middle ear	FCGR3A	1.0	
+Cooley's anemia	FCGR2A	1.0	
+{Spondyloarthropathy, susceptibility to, 1}, 106300 (3)	FCGR2A	1.0	
+Lymphocytosis	FCGR3A	1.0	
+Shock, Septic	FCGR2A	1.0	
+Primary antiphospholipid syndrome	FCGR2A	1.0	
+Severe Dengue	FCGR2A	1.0	
+Paroxysmal nocturnal hemoglobinuria	FCGR3A	1.0	
+Spondylarthropathies	FCGR3A	1.0	
+Lichen Planus, Oral	FCGR2A	1.0	
+Abnormality of the paranasal sinuses	FCGR3A	1.0	
+Recurrent upper respiratory tract infections	FCGR3A	1.0	
+Parasitemia	FCGR2A	1.0	
+Polyneuropathy, hearing loss, ataxia, retinitis pigmentosa, and cataract	FCGR3A	1.0	
+Urinary tract infection	FCGR3A	1.0	
+Merkel cell carcinoma	FCGR3A	1.0	
+Biliary Atresia	FCGR3A	1.0	
+Waldenstrom macroglobulinemia	FCGR3A	1.0	
+Vesicular Stomatitis	FCGR3A	1.0	
+Interstitial fibrosis	FCGR3A	1.0	
+Severe Acute Respiratory Syndrome	FCGR2A	1.0	
+Abnormality of the nasopharynx	FCGR3A	1.0	
+Hereditary factor VIII deficiency disease	FCGR2A	1.0	
+Rheumatic disease of heart valve	FCGR3A	1.0	
+Helicobacter Infections	FCGR2A	1.0	
+Sinusitis	FCGR3A	1.0	
+Lymphopenia	FCGR3A	1.0	
+Hepatitis, Autoimmune	FCGR2A	1.0	
+Abnormality of the pharynx	FCGR3A	1.0	
+Acute hepatic failure	FCGR3A	1.0	
+Myositis	FCGR3A	1.0	
+Pleural effusion	FCGR3A	1.0	
+Sjogren's Syndrome	FCGR2A	1.0	
+Rhinitis, Allergic, Seasonal	FCGR2A	1.0	
+Coinfection	FCGR3A	1.0	
+Malaria, Falciparum	FCGR2A	1.0	
+Essential thrombocythemia	FCGR2A	1.0	
+{Aneurysm, familial abdominal 3} (2)	FCGR2A	1.0	
+Hemolytic anemia, nonspherocytic, due to glucose phosphate isomerase deficiency	FCGR2A	1.0	
+Thrombosis	FCGR2A	1.0	
+Progressive Neoplastic Disease	FCGR3A	1.0	
+Progressive cGVHD	FCGR3A	1.0	
+Acquired Immunodeficiency Syndrome	FCGR3A	1.0	
+Albuminuria	FCGR2A	1.0	
+Encephalitis	FCGR3A	1.0	
+Tumor necrosis	FCGR3A	1.0	
+Allergic rhinitis	FCGR3A	1.0	
+Thymoma	FCGR2A	1.0	
+Lymphoma, Large-Cell, Follicular	FCGR2A	1.0	
+Primary Myelofibrosis	FCGR2A	1.0	
+Dengue Fever	FCGR2A	1.0	
+Vasculitis	FCGR2A	1.0	
+Kaposi's sarcoma	FCGR3A	1.0	
+Spinal muscular atrophy with congenital bone fractures 2	FCGR2A	1.0	
+Carotid Artery Diseases	FCGR2A	1.0	
+Juvenile rheumatoid arthritis	FCGR3A	1.0	
+Chronic hepatitis	FCGR3A	1.0	
+Allergic disposition	FCGR2A	1.0	
+Plaque, Atherosclerotic	FCGR2A	1.0	
+Lymphoproliferative disorder	FCGR3A	1.0	
+Ovarian Diseases	FCGR2A	1.0	
+Gastritis	FCGR3A	1.0	
+Acute myocardial infarction	FCGR3A	1.0	
+Mitral stenosis	FCGR3A	1.0	
+Mycoses	FCGR2A	1.0	
+Lymphoid leukemia	FCGR3A	1.0	
+Recurrent bacterial infection	FCGR2A	1.0	
+Sarcoidosis	FCGR3A	1.0	
+Glomerulonephritis, Membranous	FCGR3A	1.0	
+Anemia, Sickle Cell	FCGR2A	1.0	
+Neoplasm Recurrence, Local	FCGR2A	1.0	
+Inflammatory disorder	FCGR3A	1.0	
+Leukopenia	FCGR3A	1.0	
+Glucose intolerance	FCGR3A	1.0	
+Recurrent respiratory infections	FCGR3A	1.0	
+Abnormality of the middle ear	FCGR3A	1.0	
+Head and Neck Neoplasms	FCGR3A	1.0	
+Juvenile idiopathic arthritis, enthesitis related arthritis	FCGR3A	1.0	
+Ischemic Cerebrovascular Accident	FCGR2A	1.0	
+Idiopathic Pulmonary Fibrosis	FCGR2A	1.0	
+Carcinoma breast stage IV	FCGR3A	1.0	
+Leukemia, T-cell acute lymphoblastoid (2)	FCGR3A	1.0	
+Renal Insufficiency, Chronic	FCGR3A	1.0	
+Septicemia	FCGR3A	1.0	
+Urothelial Carcinoma	FCGR2A	1.0	
+Ischemic stroke	FCGR2A	1.0	
+Hodgkin Disease	FCGR3A	1.0	
+Brain Ischemia	FCGR2A	1.0	
+Papillary thyroid carcinoma	FCGR3A	1.0	
+Hepatitis C, Chronic	FCGR3A	1.0	
+Dermatosis NOS	FCGR2A	1.0	
+Infections, recurrent, with encephalopathy, hepatic dysfunction, and cardiovascular malformations	FCGR3A	1.0	
+Herpes Simplex Infections	FCGR3A	1.0	
+Severe combined immunodeficiency due to ADA deficiency	FCGR3A	1.0	
+Immunodeficiency due to defect in CD3-gamma	FCGR3A	1.0	
+Scleroderma	FCGR3A	1.0	
+Increased inflammatory response	FCGR3A	1.0	
+Abnormal inflammatory response	FCGR3A	1.0	
+Hematological neoplasm	FCGR2A	1.0	
+Kidney Failure, Chronic	FCGR3A	1.0	
+Anemia	FCGR2A	1.0	
+Abnormality of lung morphology	FCGR3A	1.0	
+Tuberculosis	FCGR3A	1.0	
+Leukemogenesis	FCGR2A	1.0	
+Colitis, Ulcerative	FCGR2A	1.0	

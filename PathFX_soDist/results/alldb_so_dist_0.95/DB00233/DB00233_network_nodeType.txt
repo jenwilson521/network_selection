@@ -1,0 +1,323 @@
+node_name	node_type	
+DB00233	drug	
+PTGS2	drug_target	
+ALOX5	drug_target	
+CHUK	drug_target	
+MPO	drug_target	
+Pleuritis	phenotype	
+Colonic Polyps	phenotype	
+Idiopathic Inflammatory Myopathies	phenotype	
+Colorectal polyposis	phenotype	
+Adenomatous Polyps	phenotype	
+Pulmonary edema	phenotype	
+Adult type dermatomyositis	phenotype	
+Periodontitis, Juvenile	phenotype	
+Endotoxemia	phenotype	
+Polymyositis	phenotype	
+Precursor B-Cell Lymphoblastic Leukemia-Lymphoma	phenotype	
+Portal hypertension, noncirrhotic	phenotype	
+Dermatomyositis	phenotype	
+Urticaria	phenotype	
+Myositis	phenotype	
+{Aneurysm, familial abdominal 3} (2)	phenotype	
+Hyperalgesia	phenotype	
+Carotid Artery Diseases	phenotype	
+Aortic Aneurysm, Abdominal	phenotype	
+Myocardial Reperfusion Injury	phenotype	
+Bronchiolitis, Viral	phenotype	
+Drug Eruptions	phenotype	
+Aortic aneurysm, familial thoracic 11, susceptibility to	phenotype	
+Tuberculosis, Meningeal	phenotype	
+Squamous cell carcinoma of the hypopharynx	phenotype	
+Early gastric cancer	phenotype	
+Malignant neoplasm of vulva	phenotype	
+Cerebral Hemorrhage	phenotype	
+Bladder neck obstruction	phenotype	
+Aortic atherosclerosis	phenotype	
+Squamous Cell Neoplasms	phenotype	
+gastritis h pylori	phenotype	
+Malignant gastrointestinal tract tumors	phenotype	
+Aortic valve calcification	phenotype	
+Thymic Carcinoma	phenotype	
+Adenoma of large intestine	phenotype	
+Creutzfeldt-Jakob Disease, Sporadic	phenotype	
+Nephrotic syndrome, type 5, with or without ocular abnormalities	phenotype	
+Acute kidney injury	phenotype	
+Anterior myocardial infarction	phenotype	
+Prostatitis	phenotype	
+Enzyme inhibition disorder	phenotype	
+Mucinous Neoplasm	phenotype	
+keratoacanthoma	phenotype	
+Pericardial effusion	phenotype	
+Streptococcal pneumonia	phenotype	
+Aortic aneurysm without mention of rupture NOS	phenotype	
+Inflammatory disorder	phenotype	
+Multiple Organ Failure	phenotype	
+Rhinitis, Allergic, Perennial	phenotype	
+Osteoarthritis of distal interphalangeal joint	phenotype	
+polyps	phenotype	
+Rectal Carcinoma	phenotype	
+Invasive Lobular Breast Carcinoma	phenotype	
+Sudden death	phenotype	
+Acute postoperative pain	phenotype	
+Salmonella infections	phenotype	
+Sclerosis	phenotype	
+Osteoarthritis of the hand	phenotype	
+Simple pneumoconiosis	phenotype	
+Ovarian hyperstimulation syndrome	phenotype	
+Xeroderma pigmentosum, group A	phenotype	
+Respiratory Syncytial Virus Infections	phenotype	
+Purpura, Thrombotic Thrombocytopenic	phenotype	
+Rotavirus Infections	phenotype	
+Prostate cancer stage C	phenotype	
+Diffuse Astrocytoma	phenotype	
+Juvenile polyposis syndrome	phenotype	
+Gastro-esophageal reflux disease with esophagitis	phenotype	
+Cerebral aneurysm	phenotype	
+Gastric Cardia Adenocarcinoma	phenotype	
+Reperfusion Injury	phenotype	
+Netherton syndrome	phenotype	
+Intestinal Cancer	phenotype	
+Neuropathogenesis	phenotype	
+Bronchogenic Carcinoma	phenotype	
+Neoplasm of the tongue	phenotype	
+Displacement of intervertebral disc	phenotype	
+Chemical Carcinogenesis	phenotype	
+Huntington's chorea	phenotype	
+Pancreatic adenocarcinoma	phenotype	
+Acute Coronary Syndrome	phenotype	
+Cancer Cell Growth	phenotype	
+Anaphylactic shock NOS	phenotype	
+Dryness of eye	phenotype	
+AIDS Dementia Complex	phenotype	
+Stomach Diseases	phenotype	
+Monocytic leukemia	phenotype	
+Pulmonary hypertension, neonatal, susceptibility to	phenotype	
+Thromboangiitis Obliterans	phenotype	
+Drug usage	phenotype	
+Hyperoxia	phenotype	
+Ischemic Cerebrovascular Accident	phenotype	
+Dry Eye Syndromes	phenotype	
+Chronic Fatigue Syndrome	phenotype	
+CARCINOMA OF VULVA	phenotype	
+Drusen	phenotype	
+Renovascular hypertension	phenotype	
+Pelvic inflammatory disease	phenotype	
+Bile duct cancer resectable	phenotype	
+Poorly differentiated carcinoma	phenotype	
+Friedreich's ataxia	phenotype	
+Neuritis	phenotype	
+Arthritis, Reactive	phenotype	
+Idiopathic fibrosing alveolitis, chronic form	phenotype	
+Hematocrit level	phenotype	
+Bloom syndrome	phenotype	
+Uterine Cancer	phenotype	
+Aural atresia, congenital	phenotype	
+Renal neoplasm	phenotype	
+Peptic Esophagitis	phenotype	
+Leukoplakia	phenotype	
+Squamous intraepithelial lesion	phenotype	
+Cervical Adenocarcinoma	phenotype	
+Oncocytic Neoplasm	phenotype	
+Endometrial Hyperplasia	phenotype	
+B Acute Lymphoblastic Leukemia with t(9;22)(q34;q11.2); BCR-ABL1	phenotype	
+Dyspepsia	phenotype	
+Endometriosis of uterus	phenotype	
+Aicardi Goutieres syndrome 1	phenotype	
+Septicemia	phenotype	
+Experimental Autoimmune Encephalomyelitis	phenotype	
+Medullary carcinoma	phenotype	
+Malignant Fibrous Histiocytoma	phenotype	
+Glucocorticoid resistance, generalized	phenotype	
+Inflammatory pain	phenotype	
+Oropharyngeal squamous cell carcinoma	phenotype	
+Lymphangiomyomatosis	phenotype	
+Oral Submucous Fibrosis	phenotype	
+Desmoid tumor	phenotype	
+Carcinoma, Lobular	phenotype	
+Adenocarcinoma, Endometrioid	phenotype	
+Ischemic stroke	phenotype	
+Shigella Infections	phenotype	
+Sarcoidosis, Pulmonary	phenotype	
+Adverse drug events and drug allergies	phenotype	
+Aortic valve disease 2	phenotype	
+Hodgkin Disease	phenotype	
+Xerostomia	phenotype	
+Malignant neoplasm of the central nervous system	phenotype	
+Adenomatous polyp of colon	phenotype	
+Ovarian adenocarcinoma	phenotype	
+Pancreatic intraepithelial neoplasia	phenotype	
+Vascular Diseases	phenotype	
+Cognition Disorders	phenotype	
+Esophagitis	phenotype	
+Turcot syndrome	phenotype	
+Brain Ischemia	phenotype	
+Hepatic fibrosis	phenotype	
+Cytochrome-c oxidase deficiency	phenotype	
+Lip and Oral Cavity Carcinoma	phenotype	
+Cancer of mouth	phenotype	
+Benign Prostatic Hyperplasia	phenotype	
+Breast Fibrocystic Disease	phenotype	
+gliosarcoma	phenotype	
+Ovarian Serous Adenocarcinoma	phenotype	
+Early-Stage Breast Carcinoma	phenotype	
+Thyroid Nodule	phenotype	
+Angiogenic Switch	phenotype	
+Acute promyelocytic leukemia	phenotype	
+Aqueous Humor Disorders	phenotype	
+Retinopathy	phenotype	
+aggressive cancer	phenotype	
+Malformation of cortical development	phenotype	
+Malignant neoplasm of colon stage IV	phenotype	
+Papillary thyroid carcinoma	phenotype	
+Acute Lung Injury	phenotype	
+ Cerebrovascular disease, occlusive (3)	phenotype	
+Peutz-Jeghers syndrome	phenotype	
+latent infection	phenotype	
+Urinary Bladder Neoplasms	phenotype	
+Polyposis syndrome, mixed hereditary 1 (4)	phenotype	
+Breast Cancer Model	phenotype	
+Pneumonia	phenotype	
+Bronchitis, Chronic	phenotype	
+Oral leukoplakia	phenotype	
+Postoperative Complications	phenotype	
+Endometrioma	phenotype	
+Complications of Diabetes Mellitus	phenotype	
+Nephrocalcinosis	phenotype	
+Chronic gastritis	phenotype	
+Spondylarthropathies	phenotype	
+Intestinal obstruction	phenotype	
+Salivary gland neoplasm	phenotype	
+Duodenal Ulcer	phenotype	
+Metaplasia	phenotype	
+M5b Acute differentiated monocytic leukemia	phenotype	
+Rash and Dermatitis Adverse Event Associated with Chemoradiation	phenotype	
+IMMUNE SUPPRESSION	phenotype	
+Stromal Neoplasm	phenotype	
+Undifferentiated carcinoma	phenotype	
+Lichen Planus, Oral	phenotype	
+Carcinoma, Lewis Lung	phenotype	
+Infarction, Middle Cerebral Artery	phenotype	
+Intestinal polyp	phenotype	
+Nasopharyngeal Neoplasms	phenotype	
+Cholangitis, Sclerosing	phenotype	
+Intervertebral disc degeneration	phenotype	
+bone destruction	phenotype	
+Cholecystolithiasis	phenotype	
+Herpes NOS	phenotype	
+Multiple Sclerosis, Relapsing-Remitting	phenotype	
+Tumor Promotion	phenotype	
+Vestibular Schwannoma	phenotype	
+Oligohydramnios	phenotype	
+Thyroid adenoma	phenotype	
+Type 1 diabetic neuropathy	phenotype	
+Oral Cavity Carcinoma	phenotype	
+Thyroid associated opthalmopathies	phenotype	
+High-Grade Prostatic Intraepithelial Neoplasia	phenotype	
+Bone neoplasms	phenotype	
+Actinic keratosis	phenotype	
+Urinary tract infection	phenotype	
+Prion Diseases	phenotype	
+Follicular adenoma	phenotype	
+Adenocarcinoma, Clear Cell	phenotype	
+airway disease	phenotype	
+Xenograft Model	phenotype	
+Cerebral palsy, spastic quadriplegic, 3	phenotype	
+Creutzfeldt-Jakob Syndrome	phenotype	
+Skin carcinoma	phenotype	
+Oxyphilic Adenoma	phenotype	
+Marijuana Abuse	phenotype	
+Multiple tumors	phenotype	
+Testicular malignant germ cell tumor	phenotype	
+Biliary Tract Cancer	phenotype	
+Hyperplastic Polyp	phenotype	
+Cystitis	phenotype	
+Scleroderma	phenotype	
+Melanoma, B16	phenotype	
+Intraocular pressure disorder	phenotype	
+Acute pancreatitis	phenotype	
+Endometrial adenocarcinoma	phenotype	
+Bacteremia, susceptibility to, 2	phenotype	
+Neoplasm of the rectum	phenotype	
+High grade serous carcinoma	phenotype	
+Childhood asthma	phenotype	
+Rhabdoid Tumor of the Kidney	phenotype	
+Hamartoma	phenotype	
+Neoplasm of the larynx	phenotype	
+precancerous lesions	phenotype	
+Middle Cerebral Artery Occlusion	phenotype	
+Sepsis	phenotype	
+Rheumatic disease of heart valve	phenotype	
+Mixed Salivary Gland Tumor	phenotype	
+Primary sclerosing cholangitis	phenotype	
+Helicobacter Infections	phenotype	
+Skin Carcinogenesis	phenotype	
+Neoplasm of the adrenal gland	phenotype	
+Carotid Atherosclerosis	phenotype	
+Kidney Failure, Chronic	phenotype	
+Glaucoma, Open-Angle	phenotype	
+Von Hippel-Lindau syndrome	phenotype	
+Sinusitis	phenotype	
+Pain	phenotype	
+Peritonitis	phenotype	
+Chronic atrophic gastritis	phenotype	
+Nodule	phenotype	
+Ovarian cyst	phenotype	
+Gastric ulcer	phenotype	
+Breast adenocarcinoma	phenotype	
+Immediate hypersensitivity	phenotype	
+Thromboembolism	phenotype	
+Knee osteoarthritis	phenotype	
+Vascular inflammations	phenotype	
+Hereditary nonpolyposis colorectal cancer type 8	phenotype	
+Inflammation	phenotype	
+Ischemia	phenotype	
+Precocious puberty	phenotype	
+Squamous cell carcinoma of tongue	phenotype	
+Ependymoma	phenotype	
+Primary Effusion Lymphoma	phenotype	
+Tuberculosis	phenotype	
+Peptic ulcer	phenotype	
+Erythema	phenotype	
+Tauopathies	phenotype	
+Astrocytoma	phenotype	
+Infertility associated with multi-tailed spermatozoa and excessive DNA	phenotype	
+Colitis, Ulcerative	phenotype	
+Amyloidosis	phenotype	
+Giant cell arteritis	phenotype	
+Esophageal Neoplasms	phenotype	
+Gingival Diseases	phenotype	
+Musculoskeletal Diseases	phenotype	
+Transitional cell carcinoma of the bladder	phenotype	
+Lewy Body Disease	phenotype	
+Intraepithelial Neoplasia	phenotype	
+Malignant neoplasm of larynx	phenotype	
+Pregnancy Complications, Hematologic	phenotype	
+Metastatic malignant neoplasm to brain	phenotype	
+Laryngeal Squamous Cell Carcinoma	phenotype	
+ {Aerodigestive tract cancer, squamous cell, alcohol-related, protection against} (3)	phenotype	
+Acute hepatic failure	phenotype	
+Anaplastic Oligodendroglioma	phenotype	
+Basal cell carcinoma	phenotype	
+Leiomyosarcoma	phenotype	
+Neurodegenerative Diseases	phenotype	
+Pleural effusion	phenotype	
+Rhinitis, Allergic, Seasonal	phenotype	
+Lung Diseases, Interstitial	phenotype	
+Testicular Neoplasms	phenotype	
+Lyme Disease	phenotype	
+Aortic valve stenosis	phenotype	
+Mammary Tumorigenesis	phenotype	
+Disorder characterized by eosinophilia	phenotype	
+Arterial stenosis	phenotype	
+Prostatic Intraepithelial Neoplasias	phenotype	
+Hashimoto thyroiditis	phenotype	
+Hyperplasia	phenotype	
+Mycosis Fungoides	phenotype	
+Eosinophilic disorder	phenotype	
+Chronic liver disease	phenotype	
+Intestinal Neoplasms	phenotype	
+Neoplasm of the central nervous system	phenotype	
+Arthropathy	phenotype	
+Polycystic kidney disease, autosomal dominant	phenotype	
+Malaria, Falciparum	phenotype	

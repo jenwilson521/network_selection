@@ -1,0 +1,4 @@
+Gene	CUI	Source Databases	
+CYP2B6	C0206726	gliosarcoma	DisGeNet	
+CYP3A4	C0206726	gliosarcoma	DisGeNet	
+ESR1	C0206726	gliosarcoma	DisGeNet	

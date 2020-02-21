@@ -1,0 +1,88 @@
+node_name	node_type	
+DB00968	drug	
+DDC	drug_target	
+COMT	drug_target	
+ADRA2A	drug_target	
+Chronic sciatica	phenotype	
+Behavior Disorders	phenotype	
+Paranoid Schizophrenia	phenotype	
+Weight Gain Adverse Event	phenotype	
+Low back pain	phenotype	
+Drug usage	phenotype	
+Weight Loss Adverse Event	phenotype	
+Dyskinesia, Drug-Induced	phenotype	
+Polydipsia	phenotype	
+As If Personality	phenotype	
+Common Migraine	phenotype	
+Mammographic breast density	phenotype	
+MAJOR AFFECTIVE DISORDER 4	phenotype	
+MAJOR AFFECTIVE DISORDER 5	phenotype	
+MAJOR AFFECTIVE DISORDER 6	phenotype	
+Major affective disorder 7	phenotype	
+MAJOR AFFECTIVE DISORDER 8	phenotype	
+MAJOR AFFECTIVE DISORDER 9	phenotype	
+Migraine with aura	phenotype	
+Ichthyosis bullosa of Siemens	phenotype	
+Gastrointestinal Diseases	phenotype	
+Neuralgia	phenotype	
+Dyslexia 1	phenotype	
+Mood Disorders	phenotype	
+Nicotine Dependence	phenotype	
+Panic disorder syndrome 1 (2)	phenotype	
+Depressive Symptoms	phenotype	
+Hypotension	phenotype	
+Tourette Syndrome	phenotype	
+Anxiety Disorders	phenotype	
+Hyperthyroidism	phenotype	
+Flushing	phenotype	
+Seborrheic dermatitis	phenotype	
+WFS1-Related Disorders	phenotype	
+Arrhinencephaly	phenotype	
+Kashin-Beck Disease	phenotype	
+Thyroid hormone receptor defect	phenotype	
+VITILIGO-ASSOCIATED MULTIPLE AUTOIMMUNE DISEASE SUSCEPTIBILITY 1 (finding)	phenotype	
+Pleural Neoplasms	phenotype	
+Hypoplasia of the thymus	phenotype	
+Narcolepsy-Cataplexy Syndrome	phenotype	
+Irritable bowel syndrome with diarrhea	phenotype	
+Bulimia	phenotype	
+Oxycephaly	phenotype	
+Aplasia/Hypoplasia of the thymus	phenotype	
+Bowel incontinence	phenotype	
+Abnormal lung lobation	phenotype	
+Paranoia	phenotype	
+Cholelithiasis	phenotype	
+Borderline Personality Disorder	phenotype	
+Hypothermia	phenotype	
+Hyperalgesia	phenotype	
+Generalized anxiety disorder	phenotype	
+Substance Use Disorders	phenotype	
+Apathy	phenotype	
+Alcohol withdrawal syndrome	phenotype	
+Overfolded helix	phenotype	
+Distal myopathy Markesbery-Griggs type	phenotype	
+Hemorrhagic disorder due to intrinsic circulating anticoagulants	phenotype	
+Truncus arteriosus	phenotype	
+Abnormal large intestine physiology	phenotype	
+Increased body weight	phenotype	
+Carpal tunnel syndrome	phenotype	
+Patellar dislocation	phenotype	
+Excessive salivation	phenotype	
+Venous insufficiency	phenotype	
+Seasonal Affective Disorder	phenotype	
+childhood brain tumor	phenotype	
+Aplasia/Hypoplasia of the earlobes	phenotype	
+Abnormally folded helix	phenotype	
+Attention deficit hyperactivity disorder	phenotype	
+Chronic schizophrenia	phenotype	
+Multiple renal cysts	phenotype	
+Acute postoperative pain	phenotype	
+Psychiatric symptom	phenotype	
+Genomic Instability	phenotype	
+Dysphasia	phenotype	
+Retinal vascular tortuosity	phenotype	
+Acute disease of cardiovascular system	phenotype	
+Personality disorder	phenotype	
+Chromosome 5, trisomy 5q	phenotype	
+Laryngomalacia	phenotype	
+Bulimia nervosa 1	phenotype	

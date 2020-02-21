@@ -1,0 +1,50 @@
+node1	node2	edge_score	
+DB00431	ESR1	1.0	
+DB00431	GLRA2	1.0	
+DB00431	GLRA1	1.0	
+DB00431	GLRB	1.0	
+DB00431	NR1I2	1.0	
+DB00431	PGR	1.0	
+DB00431	GABRR1	1.0	
+DB00431	GABRB1	1.0	
+DB00431	GABRB3	1.0	
+ESR1	rs2207396	0.99
+ESR1	rs11543791	0.99
+ESR1	rs4870061	0.99
+NR1I2	rs10934498	0.99
+NR1I2	rs6785049	0.99
+NR1I2	rs4688040	0.99
+NR1I2	rs1523130	0.99
+NR1I2	rs7643645	0.99
+NR1I2	rs3814058	0.99
+NR1I2	rs3732360	0.99
+ESR1	rs2813543	0.99
+ESR1		1.0
+NR1I2		1.0
+ESR1	rs9322335	0.99
+NR1I2	rs2276707	0.99
+NR1I2	rs3814055	0.99
+ESR1	rs9340799	0.99
+NR1I2	rs2472677	0.99
+NR1I2	rs2461817	0.99
+NR1I2	rs2276706	0.99
+ESR1	rs2234693	0.99
+NR1I2	rs3732359	0.99
+Cholestasis of pregnancy	ESR1	1.0	
+Cholestasis of pregnancy	NR1I2	1.0	
+Malignant neoplasm of female breast	ESR1	1.0	
+Malignant neoplasm of female breast	NR1I2	1.0	
+Female Breast Carcinoma	ESR1	1.0	
+Female Breast Carcinoma	NR1I2	1.0	
+Female infertility	ESR1	1.0	
+Female infertility	NR1I2	1.0	
+Acne	ESR1	1.0	
+Acne	NR1I2	1.0	
+Tumor Promotion	ESR1	1.0	
+Tumor Promotion	NR1I2	1.0	
+Arterial thrombosis	ESR1	1.0	
+Arterial thrombosis	NR1I2	1.0	
+Postmenopausal osteoporosis	ESR1	1.0	
+Postmenopausal osteoporosis	NR1I2	1.0	
+Hepatopulmonary Syndrome	ESR1	1.0	
+Hepatopulmonary Syndrome	NR1I2	1.0	

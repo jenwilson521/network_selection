@@ -1,0 +1,24 @@
+Gene	CUI	Source Databases	
+FCER1A	C0002792	Anaphylactic shock NOS	DisGeNet	
+FCER1A	C0004096	Asthma	DisGeNet	
+FCER1A	C0006142	Breast-ovarian cancer, familial 1	DisGeNet	
+FCER1A	C0006274	Bronchiolitis, Viral	DisGeNet	
+FCER1A	C0007222	Cardiovascular Diseases	DisGeNet	
+FCER1A	C0011609	Drug Eruptions	DisGeNet	
+FCER1A	C0011615	Dermatitis, Atopic	DisGeNet	
+FCER1A	C0013182	Drug Allergy	DisGeNet	
+FCER1A	C0013595	Eczema	DisGeNet	
+FCER1A	C0017638	Glioma	DisGeNet	
+FCER1A	C0021390	Inflammatory Bowel Diseases	DisGeNet	
+FCER1A	C0023418	Leukemia, Lymphocytic, Chronic, B-Cell	DisGeNet	
+FCER1A	C0031099	Periodontitis	DisGeNet	
+FCER1A	C0035235	Respiratory Syncytial Virus Infections	DisGeNet	
+FCER1A	C0035455	Rhinitis, Allergic, Seasonal	DisGeNet	
+FCER1A	C0042109	Urticaria	DisGeNet	
+FCER1A	C0162871	Aortic Aneurysm, Abdominal	DisGeNet	
+FCER1A	C0678222	Breast carcinoma	DisGeNet	
+FCER1A	C1956346	Coronary Artery Disease	DisGeNet	
+FCER1A	C2607914	Allergic rhinitis	DisGeNet	
+FCER1A	C3495801	Granulomatosis with Polyangiitis	DisGeNet	
+FCER1A	C3539909	Allergic disposition	DisGeNet	
+FCER1A	C3662483	Allergic sensitization	DisGeNet	

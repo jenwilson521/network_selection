@@ -1,0 +1,87 @@
+node1	node2	edge_score	
+DB00952	HTR1D	1.0	
+DB00952	MAOA	1.0	
+DB00952	HTR1A	1.0	
+DB00952	HTR1B	1.0	
+HTR1B		1.0
+HTR1A	rs10042486	0.99
+HTR1A	rs878567	0.99
+HTR1B	rs130058	0.99
+HTR1A		1.0
+HTR1A	rs1364043	0.99
+HTR1B	rs11568817	0.99
+HTR1A	rs6295	0.99
+HTR1B	rs6296	0.99
+Bulimia	HTR1A	1.0	
+Bulimia	HTR1B	1.0	
+Substance Use Disorders	HTR1A	1.0	
+Substance Use Disorders	HTR1B	1.0	
+Personality disorder	HTR1A	1.0	
+Personality disorder	HTR1B	1.0	
+As If Personality	HTR1A	1.0	
+As If Personality	HTR1B	1.0	
+Panic disorder 1	HTR1A	1.0	
+Panic disorder 1	HTR1B	1.0	
+Panic disorder syndrome 1 (2)	HTR1A	1.0	
+Panic disorder syndrome 1 (2)	HTR1B	1.0	
+Cocaine-Related Disorders	HTR1A	1.0	
+Cocaine-Related Disorders	HTR1B	1.0	
+Weight Gain Adverse Event	HTR1A	1.0	
+Weight Gain Adverse Event	HTR1B	1.0	
+Borderline Personality Disorder	HTR1A	1.0	
+Borderline Personality Disorder	HTR1B	1.0	
+Chronic sciatica	HTR1A	1.0	
+Epilepsy, Temporal Lobe	HTR1A	1.0	
+Epilepsy, Temporal Lobe	HTR1B	1.0	
+Headache	HTR1A	1.0	
+Headache	HTR1B	1.0	
+Anxiety	HTR1A	1.0	
+Anxiety	HTR1B	1.0	
+Seasonal Affective Disorder	HTR1A	1.0	
+Antisocial Personality Disorder	HTR1B	1.0	
+Paranoid Schizophrenia	HTR1A	1.0	
+Psychiatric symptom	HTR1A	1.0	
+Abnormal delivery	HTR1A	1.0	
+Acute disease of cardiovascular system	HTR1A	1.0	
+Bulimia nervosa 1	HTR1B	1.0	
+Low back pain	HTR1A	1.0	
+Antisocial/borderline personality disorder	HTR1B	1.0	
+Substance abuse problem	HTR1B	1.0	
+Chronic Fatigue Syndrome	HTR1A	1.0	
+Heart valve disease	HTR1B	1.0	
+Learning Disorders	HTR1A	1.0	
+Conduct Disorder	HTR1B	1.0	
+Dyskinesia, Drug-Induced	HTR1A	1.0	
+Hyperostosis	HTR1B	1.0	
+Bradycardia	HTR1A	1.0	
+Bone Diseases, Developmental	HTR1B	1.0	
+Mood Disorders	HTR1A	1.0	
+Mood Disorders	HTR1B	1.0	
+Memory Disorders	HTR1A	1.0	
+Psychotic Disorders	HTR1A	1.0	
+Psychotic Disorders	HTR1B	1.0	
+Migraine Disorders	HTR1A	1.0	
+Migraine Disorders	HTR1B	1.0	
+Esophagitis	HTR1A	1.0	
+Obsessive-compulsive behavior	HTR1A	1.0	
+Heroin Dependence	HTR1B	1.0	
+Psychoses, Substance-Induced	HTR1A	1.0	
+Drug Dependence	HTR1B	1.0	
+Osteochondritis dissecans	HTR1B	1.0	
+NEUROTICISM	HTR1A	1.0	
+Anxiety Disorders	HTR1A	1.0	
+Anxiety Disorders	HTR1B	1.0	
+Ichthyosis bullosa of Siemens	HTR1B	1.0	
+Unipolar Depression	HTR1A	1.0	
+Unipolar Depression	HTR1B	1.0	
+Recurrent abortion	HTR1A	1.0	
+Metaplasia	HTR1A	1.0	
+Substance addiction and disorders	HTR1B	1.0	
+Substance Withdrawal Syndrome	HTR1A	1.0	
+Schizoaffective Disorder	HTR1B	1.0	
+Amphetamine-Related Disorders	HTR1B	1.0	
+Obsessive-compulsive disorder	HTR1B	1.0	
+Mental disorders	HTR1A	1.0	
+Mental disorders	HTR1B	1.0	
+body mass	HTR1B	1.0	
+Alcohol abuse	HTR1B	1.0	

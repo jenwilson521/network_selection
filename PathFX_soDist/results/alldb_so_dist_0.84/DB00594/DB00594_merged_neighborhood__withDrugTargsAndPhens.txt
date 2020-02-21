@@ -1,0 +1,83 @@
+node1	node2	edge_score	
+DB00594	AOC1	1.0	
+DB00594	SCNN1G	1.0	
+DB00594	SCNN1A	1.0	
+DB00594	ASIC1	1.0	
+DB00594	PLAU	1.0	
+DB00594	ASIC2	1.0	
+DB00594	SLC22A4	1.0	
+DB00594	SCNN1D	1.0	
+DB00594	SCNN1B	1.0	
+DB00594	SLC22A2	1.0	
+DB00594	SLC9A1	1.0	
+SLC22A4		1.0
+ASIC2		1.0
+SLC22A2		1.0
+SCNN1B		1.0
+Hyperkalemia	SCNN1B	1.0	
+Extrahepatic cholestasis	SLC22A2	1.0	
+Abnormality of sodium homeostasis	SCNN1B	1.0	
+Hyponatremia	SCNN1B	1.0	
+Adrenal overactivity	SCNN1B	1.0	
+Paratuberculosis	SLC22A4	1.0	
+Pericardial effusion	SLC22A2	1.0	
+Renal insufficiency	SCNN1B	1.0	
+Renal insufficiency	SLC22A2	1.0	
+Enterovirus Infections	SLC22A4	1.0	
+Alkalosis	SCNN1B	1.0	
+Hyperaldosteronism, familial, type IV	SCNN1B	1.0	
+Abnormality of potassium homeostasis	SCNN1B	1.0	
+Hypertension	SCNN1B	1.0	
+Hypertension	SLC22A2	1.0	
+Hypertension	SLC22A4	1.0	
+Renovascular hypertension	SCNN1B	1.0	
+Hypokalemia	SCNN1B	1.0	
+pathologic fistula	SLC22A4	1.0	
+Obstructive lung disease	SCNN1B	1.0	
+Henoch-Schoenlein Purpura	ASIC2	1.0	
+Abnormality of monovalent inorganic cation homeostasis	SCNN1B	1.0	
+Intrahepatic cholestasis	SLC22A2	1.0	
+Metabolic acidosis	SCNN1B	1.0	
+Hyperuricemia, pulmonary hypertension, renal failure, and alkalosis	SLC22A2	1.0	
+Bronchitis	SCNN1B	1.0	
+Bronchitis, Chronic	SCNN1B	1.0	
+Panic disorder 1	ASIC2	1.0	
+Growth Disorders	SLC22A4	1.0	
+Abnormality of the bronchi	SCNN1B	1.0	
+Recurrent upper respiratory tract infections	SCNN1B	1.0	
+Creatinine finding	SLC22A2	1.0	
+Chronic ulcerative colitis	SLC22A4	1.0	
+Endotoxemia	SLC22A2	1.0	
+Abnormal urinary electrolyte concentration	SCNN1B	1.0	
+Abnormality of cerebral artery	SCNN1B	1.0	
+Primary adrenal insufficiency	SCNN1B	1.0	
+Abnormality of the nasopharynx	SCNN1B	1.0	
+Dehydration	SCNN1B	1.0	
+Decreased beta-glucocerebrosidase protein and activity	SCNN1B	1.0	
+Fibrinogen Adverse Event	SLC22A4	1.0	
+Kidney Diseases	SCNN1B	1.0	
+Kidney Diseases	SLC22A2	1.0	
+Myocarditis	SLC22A4	1.0	
+Abnormality of adrenal physiology	SCNN1B	1.0	
+Adrenal insufficiency	SCNN1B	1.0	
+Autoimmune thyroid disease 3	SLC22A4	1.0	
+Panic disorder syndrome 1 (2)	ASIC2	1.0	
+Gout	ASIC2	1.0	
+Bronchiectasis	SCNN1B	1.0	
+Primary Effusion Lymphoma	SLC22A2	1.0	
+Classical Hodgkin's Lymphoma	SLC22A2	1.0	
+Ulcerative colitis	SCNN1B	1.0	
+Ulcerative colitis	SLC22A4	1.0	
+Hypotension	SCNN1B	1.0	
+Abnormality of the pharynx	SCNN1B	1.0	
+Abnormalities of the peripheral arteries	SCNN1B	1.0	
+Arterial stenosis	SCNN1B	1.0	
+Hashimoto thyroiditis	SLC22A4	1.0	
+Coronary Disease	ASIC2	1.0	
+Abnormality of the adrenal glands	SCNN1B	1.0	
+Abnormality of the cerebral vasculature	SCNN1B	1.0	
+Secondary hyperparathyroidism	SCNN1B	1.0	
+Diabetes mellitus type 1	SLC22A2	1.0	
+Diabetes mellitus type 1	SLC22A4	1.0	
+Abnormality of cation homeostasis	SCNN1B	1.0	
+Vomiting	SCNN1B	1.0	

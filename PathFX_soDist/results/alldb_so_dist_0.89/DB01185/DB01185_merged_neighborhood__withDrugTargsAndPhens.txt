@@ -1,0 +1,149 @@
+node1	node2	edge_score	
+DB01185	NR3C1	1.0	
+DB01185	ESR1	1.0	
+DB01185	PRLR	1.0	
+DB01185	SHBG	1.0	
+DB01185	AR	1.0	
+DB01185	HSD11B2	1.0	
+ESR1	rs9340799	0.99
+ESR1	rs4870061	0.99
+ESR1		1.0
+ESR1	rs9322335	0.99
+ESR1	rs2813543	0.99
+ESR1	rs2207396	0.99
+ESR1	rs11543791	0.99
+ESR1	rs2234693	0.99
+Malignant neoplasm of adrenal cortex	ESR1	1.0	
+Estrogen resistance	ESR1	1.0	
+Cervical dysplasia	ESR1	1.0	
+Breast cancer recurrent	ESR1	1.0	
+Bladder neck obstruction	ESR1	1.0	
+Cholesterol gallstones	ESR1	1.0	
+Herpes zoster disease	ESR1	1.0	
+Metabolic Bone Disorder	ESR1	1.0	
+Hypoplasia of the uterus	ESR1	1.0	
+Carpal tunnel syndrome	ESR1	1.0	
+Generalized osteoarthritis	ESR1	1.0	
+Oestrogen deficiency	ESR1	1.0	
+Cervix Diseases	ESR1	1.0	
+Comedone	ESR1	1.0	
+Triploidy syndrome	ESR1	1.0	
+Endometriosis of ovary	ESR1	1.0	
+Osteoarthritis of distal interphalangeal joint	ESR1	1.0	
+Polymyalgia Rheumatica	ESR1	1.0	
+Invasive Lobular Breast Carcinoma	ESR1	1.0	
+Alveolar Bone Loss	ESR1	1.0	
+Condylomata Acuminata	ESR1	1.0	
+Sudden death	ESR1	1.0	
+Osteoarthritis of the hand	ESR1	1.0	
+Mammary adenocarcinoma	ESR1	1.0	
+Pregnancy associated hypertension	ESR1	1.0	
+Coronary Thrombosis	ESR1	1.0	
+Breast hypoplasia	ESR1	1.0	
+Cholestasis of pregnancy	ESR1	1.0	
+Gastro-esophageal reflux disease with esophagitis	ESR1	1.0	
+Cerebral aneurysm	ESR1	1.0	
+Bulimia nervosa 1	ESR1	1.0	
+Stromal sarcoma	ESR1	1.0	
+Abnormal circulating gonadotropin level	ESR1	1.0	
+Acanthosis nigricans	ESR1	1.0	
+Angiofibromas	ESR1	1.0	
+Absence of secondary sex characteristics	ESR1	1.0	
+Anaphylactic shock NOS	ESR1	1.0	
+Cellulitis	ESR1	1.0	
+Malignant neoplasm of male breast	ESR1	1.0	
+Pathologic fracture	ESR1	1.0	
+Substance abuse problem	ESR1	1.0	
+Single tumor	ESR1	1.0	
+Yolk Sac Tumor	ESR1	1.0	
+Bone necrosis	ESR1	1.0	
+Varicose Ulcer	ESR1	1.0	
+Adolescent idiopathic scoliosis	ESR1	1.0	
+Mammary Carcinoma, Human	ESR1	1.0	
+Dry Eye Syndromes	ESR1	1.0	
+Abnormal epiphyseal ossification	ESR1	1.0	
+Li-Fraumeni syndrome	ESR1	1.0	
+Bile duct cancer resectable	ESR1	1.0	
+Aplasia/hypoplasia of the uterus	ESR1	1.0	
+Pleuritis	ESR1	1.0	
+Coronary Restenosis	ESR1	1.0	
+Papillomavirus Infections	ESR1	1.0	
+Lymphocytic infiltration	ESR1	1.0	
+Phyllodes tumor, benign	ESR1	1.0	
+Malignant neoplasm of female breast	ESR1	1.0	
+Peptic Esophagitis	ESR1	1.0	
+Lehman syndrome	ESR1	1.0	
+Elevated alkaline phosphatase	ESR1	1.0	
+Primary hyperparathyroidism	ESR1	1.0	
+Aplasia/Hypoplasia of the breasts	ESR1	1.0	
+Bone Diseases, Developmental	ESR1	1.0	
+Female Breast Carcinoma	ESR1	1.0	
+Endometrial Hyperplasia	ESR1	1.0	
+Nerve Sheath Tumors	ESR1	1.0	
+Carcinoma of Male Breast	ESR1	1.0	
+Endometriosis of uterus	ESR1	1.0	
+Toxic Shock Syndrome	ESR1	1.0	
+Penile hypospadias	ESR1	1.0	
+Abnormality of alkaline phosphatase activity	ESR1	1.0	
+Biliary tract neoplasm	ESR1	1.0	
+Medullary carcinoma	ESR1	1.0	
+EPIDERMODYSPLASIA VERRUCIFORMIS	ESR1	1.0	
+Lymphocytic Choriomeningitis	ESR1	1.0	
+Lymphangiomyomatosis	ESR1	1.0	
+Neoplasm of the parathyroid gland	ESR1	1.0	
+Desmoid tumor	ESR1	1.0	
+Carcinoma, Lobular	ESR1	1.0	
+cancer recurrence	ESR1	1.0	
+Adenocarcinoma, Endometrioid	ESR1	1.0	
+Aortic valve disease 2	ESR1	1.0	
+Menopause present (finding)	ESR1	1.0	
+Other specified disorders of breast	ESR1	1.0	
+Cognition Disorders	ESR1	1.0	
+Osteoarthritis of hip	ESR1	1.0	
+Obsessive-compulsive behavior	ESR1	1.0	
+Microsatellite Instability	ESR1	1.0	
+Breast Fibrocystic Disease	ESR1	1.0	
+Hyperpituitarism	ESR1	1.0	
+gliosarcoma	ESR1	1.0	
+Refractory cancer	ESR1	1.0	
+Early-Stage Breast Carcinoma	ESR1	1.0	
+Psychoses, Substance-Induced	ESR1	1.0	
+Fibroadenoma of the breast	ESR1	1.0	
+Osteochondritis dissecans	ESR1	1.0	
+NEUROTICISM	ESR1	1.0	
+Disorder of endocrine system	ESR1	1.0	
+Retinopathy of Prematurity	ESR1	1.0	
+Neoplasms, Intracranial	ESR1	1.0	
+Shock, Septic	ESR1	1.0	
+Mammographic breast density	ESR1	1.0	
+Gingivitis	ESR1	1.0	
+Female infertility	ESR1	1.0	
+Ischemic cardiomyopathy	ESR1	1.0	
+Abnormal enzyme/coenzyme activity	ESR1	1.0	
+Breast Cancer Model	ESR1	1.0	
+Eating disorder	ESR1	1.0	
+Endometrioma	ESR1	1.0	
+Acne	ESR1	1.0	
+Malignant Childhood Neoplasm	ESR1	1.0	
+Uterine neoplasm	ESR1	1.0	
+Migraine with aura	ESR1	1.0	
+Epithelial hyperplasia of skin	ESR1	1.0	
+Granulomatous disease, chronic, autosomal recessive, cytochrome b-negative	ESR1	1.0	
+Degenerative disease of the spinal cord	ESR1	1.0	
+Recurrent abortion	ESR1	1.0	
+Drug Allergy	ESR1	1.0	
+Metaplasia	ESR1	1.0	
+Absence seizures	ESR1	1.0	
+Pregnancy loss	ESR1	1.0	
+Increased analgesia from kappa-opioid receptor agonist, female-specific	ESR1	1.0	
+Coronary artery stenosis	ESR1	1.0	
+Hormone refractory prostate cancer	ESR1	1.0	
+Stromal Neoplasm	ESR1	1.0	
+Chordoma	ESR1	1.0	
+Dementia, Vascular	ESR1	1.0	
+granulosa cell tumor	ESR1	1.0	
+Obsessive-compulsive disorder	ESR1	1.0	
+Mucinous Adenocarcinoma	ESR1	1.0	
+Cholera	ESR1	1.0	
+Chronic active hepatitis	ESR1	1.0	
+Cholecystolithiasis	ESR1	1.0	

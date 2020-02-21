@@ -1,0 +1,7 @@
+Gene	CUI	Source Databases	
+AR	C0027707	Tubulointerstitial nephritis	DisGeNet	
+CYP2C9	C0027707	Tubulointerstitial nephritis	DisGeNet	
+AR	C0796369	Microsatellite Instability	DisGeNet	
+CYP2C9	C0796369	Microsatellite Instability	DisGeNet	
+AR	C0027658	Neoplasms, Germ Cell and Embryonal	DisGeNet	
+CYP2C9	C0027658	Neoplasms, Germ Cell and Embryonal	DisGeNet	

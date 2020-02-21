@@ -1,0 +1,58 @@
+node_name	node_type	
+DB01142	drug	
+SLC6A2	drug_target	
+SLC6A4	drug_target	
+CYP2D6	drug_target	
+HRH4	drug_target	
+ABCB1	drug_target	
+HTR2A	drug_target	
+HTR2C	drug_target	
+HTR2B	drug_target	
+ADRA1A	drug_target	
+CHRM4	drug_target	
+CHRM3	drug_target	
+CHRM2	drug_target	
+CHRM1	drug_target	
+HTR6	drug_target	
+HRH1	drug_target	
+CYP3A4	drug_target	
+ORM1	drug_target	
+CYP2C9	drug_target	
+CYP1A2	drug_target	
+ADRA1B	drug_target	
+ADRA1D	drug_target	
+KCNH2	drug_target	
+ALB	drug_target	
+CYP2C19	drug_target	
+HTR1A	drug_target	
+Dyskinesia, Drug-Induced	phenotype	
+Nausea	phenotype	
+Chronic schizophrenia	phenotype	
+Methamphetamine abuse	phenotype	
+Acute postoperative pain	phenotype	
+Adverse drug events and drug allergies	phenotype	
+Personality disorder	phenotype	
+Depressive Symptoms	phenotype	
+Tardive Dyskinesia	phenotype	
+Heroin Dependence	phenotype	
+Primary malignant neoplasm of liver	phenotype	
+Recurrent major depressive episodes	phenotype	
+Orofacial dyskinesia	phenotype	
+Bulimia	phenotype	
+Substance Withdrawal Syndrome	phenotype	
+Substance Use Disorders	phenotype	
+Congenital long QT syndrome	phenotype	
+Seasonal Affective Disorder	phenotype	
+Gastroparesis	phenotype	
+As If Personality	phenotype	
+SUDDEN INFANT DEATH SYNDROME	phenotype	
+Low back pain	phenotype	
+Tubulointerstitial nephritis	phenotype	
+Chronic Fatigue Syndrome	phenotype	
+cardiac event	phenotype	
+Drug Allergy	phenotype	
+Schizoaffective Disorder	phenotype	
+Chronic sciatica	phenotype	
+Gastrointestinal Diseases	phenotype	
+Bradycardia	phenotype	
+Cocaine Dependence	phenotype	

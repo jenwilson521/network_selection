@@ -1,0 +1,102 @@
+Gene	CUI	Source Databases	
+TF	C0000786	Spontaneous abortion	DisGeNet	
+TF	C0001349	Acute-Phase Reaction	DisGeNet	
+TF	C0001973	Alcohol dependence	DisGeNet	
+TF	C0002395	Alzheimer Disease	DisGeNet	
+TF	C0002797	Bovine Anaplasmosis	DisGeNet	
+TF	C0002871	Anemia	DisGeNet,HumPhenOnt,PheGenI	
+TF	C0003130	Hypoxia	DisGeNet	
+TF	C0003864	Arthritis, Rheumatoid	HumPhenOnt	
+TF	C0003873	Rheumatoid arthritis	DisGeNet	
+TF	C0004096	Asthma	DisGeNet	
+TF	C0004352	Autism 15	DisGeNet	
+TF	C0004623	Recurrent bacterial infection	DisGeNet	
+TF	C0006118	Brain neoplasm	DisGeNet	
+TF	C0006142	Breast-ovarian cancer, familial 1	DisGeNet	
+TF	C0007131	Non-small cell lung carcinoma	DisGeNet	
+TF	C0007222	Cardiovascular Diseases	DisGeNet	
+TF	C0007273	Carotid Artery Diseases	DisGeNet	
+TF	C0007786	Brain Ischemia	DisGeNet	
+TF	C0010674	Cystic Fibrosis	DisGeNet	
+TF	C0011389	Plaque, Atherosclerotic	DisGeNet	
+TF	C0011570	{Unipolar depression, susceptibility to}, 608516 (3)	DisGeNet	
+TF	C0011849	Diabetes Mellitus, Type 1	DisGeNet	
+TF	C0011860	Diabetes mellitus type 2	DisGeNet	
+TF	C0011881	Diabetic Nephropathies	DisGeNet	
+TF	C0013502	Echinococcosis	DisGeNet	
+TF	C0015695	Hepatic steatosis	DisGeNet	
+TF	C0015814	Femur Head Necrosis	DisGeNet	
+TF	C0017636	Glioblastoma	DisGeNet	
+TF	C0018802	Congestive heart failure	HumPhenOnt	
+TF	C0018995	Hemochromatosis	DisGeNet,PheGenI	
+TF	C0019159	Hepatitis	DisGeNet	
+TF	C0020676	Hypothyroidism	HumPhenOnt	
+TF	C0021368	Inflammation	DisGeNet	
+TF	C0021390	Inflammatory Bowel Diseases	DisGeNet	
+TF	C0021655	Insulin Resistance	DisGeNet	
+TF	C0022116	Ischemia	DisGeNet	
+TF	C0023418	Leukemia, Lymphocytic, Chronic, B-Cell	DisGeNet	
+TF	C0023487	Acute promyelocytic leukemia	DisGeNet	
+TF	C0023890	Liver Cirrhosis, Biliary	DisGeNet	
+TF	C0023891	Liver Cirrhosis, Alcoholic	DisGeNet	
+TF	C0023903	Neoplasm of the liver	DisGeNet	
+TF	C0023976	Acquired long QT syndrome	DisGeNet	
+TF	C0024117	Chronic obstructive pulmonary disease	DisGeNet	
+TF	C0024121	Lung Neoplasms	DisGeNet	
+TF	C0024667	Animal Mammary Neoplasms	DisGeNet	
+TF	C0024668	Mammary Neoplasms, Experimental	DisGeNet	
+TF	C0025202	Melanoma	DisGeNet	
+TF	C0027051	Myocardial Infarction	DisGeNet	
+TF	C0027626	Neoplasm Invasiveness	DisGeNet	
+TF	C0027627	Secondary hypertriglyceridemia	DisGeNet	
+TF	C0027726	Nephrotic syndrome, type 5, with or without ocular abnormalities	DisGeNet	
+TF	C0028754	Obesity	DisGeNet	
+TF	C0029445	Bone necrosis	DisGeNet	
+TF	C0030305	Pancreatitis	DisGeNet	
+TF	C0030524	Paratuberculosis	DisGeNet	
+TF	C0030567	Parkinson Disease	DisGeNet	
+TF	C0035258	Restless Legs Syndrome	DisGeNet	
+TF	C0036341	Schizophrenia	DisGeNet	
+TF	C0038454	Stroke	DisGeNet	
+TF	C0040128	Thyroid Diseases	HumPhenOnt	
+TF	C0040136	Thyroid Neoplasms	DisGeNet	
+TF	C0040336	Tobacco Use Disorder	DisGeNet	
+TF	C0041296	Tuberculosis	DisGeNet	
+TF	C0151699	Intracranial hemorrhage	DisGeNet	
+TF	C0152013	Adenocarcinoma of lung	DisGeNet	
+TF	C0162316	Iron deficiency anemia	DisGeNet	
+TF	C0235974	Pancreatic Carcinoma	DisGeNet	
+TF	C0239998	Infections, recurrent, with encephalopathy, hepatic dysfunction, and cardiovascular malformations	HumPhenOnt	
+TF	C0240083	Abnormal joint morphology	HumPhenOnt	
+TF	C0241657	Abnormality of blood and blood-forming tissues	HumPhenOnt	
+TF	C0242383	Age-related macular degeneration 2	DisGeNet	
+TF	C0243050	Abnormality of cardiovascular system electrophysiology	HumPhenOnt	
+TF	C0266015	Abnormality of the digestive system	HumPhenOnt	
+TF	C0282193	Iron Overload	DisGeNet	
+TF	C0333463	Senile plaques	DisGeNet	
+TF	C0346647	Malignant neoplasm of pancreas	DisGeNet	
+TF	C0376358	Malignant tumor of prostate	DisGeNet	
+TF	C0391870	Abnormality of erythrocytes	HumPhenOnt	
+TF	C0392514	Hereditary hemochromatosis	DisGeNet	
+TF	C0441748	Autosomal recessive inheritance	HumPhenOnt	
+TF	C0524851	Neurodegenerative Diseases	DisGeNet	
+TF	C0600139	Prostate carcinoma	DisGeNet	
+TF	C0678199	Anemia of inadequate production	HumPhenOnt	
+TF	C0678222	Breast carcinoma	DisGeNet	
+TF	C0857576	Abnormality of thyroid physiology	HumPhenOnt	
+TF	C0860207	Drug-Induced Liver Injury	DisGeNet	
+TF	C0867389	Chronic graft-versus-host disease	DisGeNet	
+TF	C1621958	Glioblastoma multiforme	DisGeNet	
+TF	C2239176	Hepatocellular carcinoma	DisGeNet	
+TF	C2745900	Hypergranular promyelocytic leukemia	DisGeNet	
+TF	C4021753	Abnormality of the immune system	HumPhenOnt	
+TF	C4021764	Abnormality of the abdominal organs	HumPhenOnt	
+TF	C4021768	Abnormality of metabolism/homeostasis	HumPhenOnt	
+TF	C4021780	Abnormality of the liver	HumPhenOnt	
+TF	C4021790	Abnormality of the skeletal system	HumPhenOnt	
+TF	C4023165	Abnormality of skeletal morphology	HumPhenOnt	
+TF	C4023587	Abnormality of cardiovascular system physiology	HumPhenOnt	
+TF	C4023616	Abnormality of immune system physiology	HumPhenOnt	
+TF	C4023679	Abnormality of circulating protein level	HumPhenOnt	
+TF	C4025751	Abnormality of the pancreas	HumPhenOnt	
+TF	C4025823	Abnormality of the endocrine system	HumPhenOnt	

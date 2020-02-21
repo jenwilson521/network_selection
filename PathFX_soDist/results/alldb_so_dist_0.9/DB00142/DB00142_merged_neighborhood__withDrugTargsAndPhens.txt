@@ -1,0 +1,219 @@
+node1	node2	edge_score	
+DB00142	GGCX	1.0	
+DB00142	EARS2	1.0	
+DB00142	GRIA2	1.0	
+DB00142	GRIA3	1.0	
+DB00142	GRIA1	1.0	
+DB00142	NADSYN1	1.0	
+DB00142	GRIA4	1.0	
+DB00142	GLUD2	1.0	
+DB00142	GLUL	1.0	
+DB00142	SLC25A18	1.0	
+DB00142	SLC1A2	1.0	
+DB00142	GLS	1.0	
+DB00142	OPLAH	1.0	
+DB00142	GAD2	1.0	
+DB00142	TAT	1.0	
+DB00142	ENPEP	1.0	
+DB00142	GCLM	1.0	
+DB00142	ALDH18A1	1.0	
+DB00142	GRIK5	1.0	
+DB00142	AASS	1.0	
+DB00142	GCLC	1.0	
+DB00142	GAD1	1.0	
+DB00142	GRIN3A	1.0	
+DB00142	GRIN3B	1.0	
+DB00142	GRM8	1.0	
+DB00142	SLC16A10	1.0	
+DB00142	GOT2	1.0	
+DB00142	EPRS	1.0	
+DB00142	GRM7	1.0	
+DB00142	GRM1	1.0	
+DB00142	GATB	1.0	
+DB00142	FOLH1	1.0	
+DB00142	DNPEP	1.0	
+DB00142	GRID1	1.0	
+DB00142	GRID2	1.0	
+DB00142	SLC7A11	1.0	
+DB00142	BCAT2	1.0	
+DB00142	BCAT1	1.0	
+DB00142	SLC25A22	1.0	
+DB00142	GRM4	1.0	
+DB00142	FPGS	1.0	
+DB00142	GPT	1.0	
+DB00142	GRIN1	1.0	
+DB00142	GMPS	1.0	
+DB00142	GOT1	1.0	
+DB00142	GRIN2B	1.0	
+DB00142	GPT2	1.0	
+DB00142	SLC16A1	1.0	
+DB00142	GRIK1	1.0	
+DB00142	GRIK2	1.0	
+DB00142	GRIK3	1.0	
+DB00142	GRIK4	1.0	
+DB00142	ASNS	1.0	
+DB00142	GLUD1	1.0	
+DB00142	PSAT1	1.0	
+DB00142	GRIN2C	1.0	
+DB00142	FTCD	1.0	
+DB00142	PFAS	1.0	
+DB00142	GRIN2D	1.0	
+DB00142	GRIN2A	1.0	
+DB00142	SLC1A6	1.0	
+DB00142	SLC1A7	1.0	
+DB00142	SLC1A1	1.0	
+DB00142	GLS2	1.0	
+DB00142	SLC1A3	1.0	
+GRM7		1.0
+GRIN2B	rs1072388	0.99
+GRIK1		1.0
+GRIA3	rs3761555	0.99
+GRIN2B	rs2058878	0.99
+GGCX		1.0
+GRIA3	rs502434	0.99
+GCLC		1.0
+GRIA3		1.0
+GRID2		1.0
+SLC1A1	rs301435	0.99
+GRIN3A		1.0
+SLC1A1	rs3087879	0.99
+GRIN2B	rs1019385	0.99
+GRIN2B		1.0
+GRIK4		1.0
+GGCX	rs12714145	0.99
+GRIA1		1.0
+GRIN2B	rs1806201	0.99
+GGCX	rs11676382	0.99
+FOLH1		1.0
+GRIA3	rs4825476	0.99
+GGCX	rs2592551	0.99
+SLC1A1	rs301434	0.99
+GRIA3	rs3761554	0.99
+GRIN1		1.0
+SLC1A1		1.0
+FPGS		1.0
+GGCX	rs699664	0.99
+Weight Gain Adverse Event	GRIA1	1.0	
+Weight Gain Adverse Event	GRIA3	1.0	
+Weight Gain Adverse Event	GRIN1	1.0	
+Weight Gain Adverse Event	GRIN2B	1.0	
+Weight Gain Adverse Event	GRIN3A	1.0	
+Weight Gain Adverse Event	GRM7	1.0	
+Weight Gain Adverse Event	SLC1A1	1.0	
+Epilepsy, Temporal Lobe	GRIA1	1.0	
+Epilepsy, Temporal Lobe	GRIA3	1.0	
+Epilepsy, Temporal Lobe	GRIK1	1.0	
+Epilepsy, Temporal Lobe	GRIN1	1.0	
+Epilepsy, Temporal Lobe	GRIN2B	1.0	
+Epilepsy, Temporal Lobe	SLC1A1	1.0	
+Bipolar affective disorder	GRIA1	1.0	
+Bipolar affective disorder	GRIA3	1.0	
+Bipolar affective disorder	GRIK1	1.0	
+Bipolar affective disorder	GRIK4	1.0	
+Bipolar affective disorder	GRIN1	1.0	
+Bipolar affective disorder	GRIN2B	1.0	
+Bipolar affective disorder	GRIN3A	1.0	
+Bipolar affective disorder	GRM7	1.0	
+Bipolar affective disorder	SLC1A1	1.0	
+Increased body weight	GRIA1	1.0	
+Increased body weight	GRIA3	1.0	
+Increased body weight	GRIN1	1.0	
+Increased body weight	GRIN2B	1.0	
+Increased body weight	GRIN3A	1.0	
+Increased body weight	GRM7	1.0	
+Increased body weight	SLC1A1	1.0	
+Mental disorders	GCLC	1.0	
+Mental disorders	GRIA1	1.0	
+Mental disorders	GRIK4	1.0	
+Mental disorders	GRIN2B	1.0	
+Mental disorders	GRM7	1.0	
+Mental disorders	SLC1A1	1.0	
+Schizophrenia	FOLH1	1.0	
+Schizophrenia	GCLC	1.0	
+Schizophrenia	GRIA1	1.0	
+Schizophrenia	GRIA3	1.0	
+Schizophrenia	GRIK1	1.0	
+Schizophrenia	GRIK4	1.0	
+Schizophrenia	GRIN1	1.0	
+Schizophrenia	GRIN2B	1.0	
+Schizophrenia	GRIN3A	1.0	
+Schizophrenia	GRM7	1.0	
+Schizophrenia	SLC1A1	1.0	
+Osteochondritis dissecans	GRIA3	1.0	
+Osteochondritis dissecans	GRIN2B	1.0	
+Osteochondritis dissecans	SLC1A1	1.0	
+Malformation of cortical development	GRIN1	1.0	
+Malformation of cortical development	GRIN2B	1.0	
+Malformation of cortical development	SLC1A1	1.0	
+Obsessive-compulsive disorder	GRIA3	1.0	
+Obsessive-compulsive disorder	GRIN2B	1.0	
+Obsessive-compulsive disorder	SLC1A1	1.0	
+Placental Insufficiency	GRIN1	1.0	
+Placental Insufficiency	GRIN2B	1.0	
+Alcohol withdrawal syndrome	GRIN1	1.0	
+Alcohol withdrawal syndrome	GRIN2B	1.0	
+Unipolar Depression	GRIA1	1.0	
+Unipolar Depression	GRIK1	1.0	
+Unipolar Depression	GRIN2B	1.0	
+Unipolar Depression	GRM7	1.0	
+Unipolar Depression	SLC1A1	1.0	
+Cocaine delirium	GRIN2B	1.0	
+Cocaine delirium	GRIN3A	1.0	
+Autism spectrum disorders	GRIK4	1.0	
+Autism spectrum disorders	GRIN2B	1.0	
+Autism spectrum disorders	GRM7	1.0	
+Autism spectrum disorders	SLC1A1	1.0	
+Epilepsy	GRIA1	1.0	
+Epilepsy	GRIA3	1.0	
+Epilepsy	GRIK1	1.0	
+Epilepsy	GRIN1	1.0	
+Epilepsy	GRIN2B	1.0	
+Epilepsy	SLC1A1	1.0	
+Folic Acid Deficiency	FOLH1	1.0	
+Folic Acid Deficiency	FPGS	1.0	
+Spastic	GRIA1	1.0	
+Spastic	GRM7	1.0	
+Major depressive disorder	GRIA1	1.0	
+Major depressive disorder	GRIK1	1.0	
+Major depressive disorder	GRIN2B	1.0	
+Major depressive disorder	GRM7	1.0	
+Major depressive disorder	SLC1A1	1.0	
+Drug Resistant Epilepsy	GRIA3	1.0	
+Drug Resistant Epilepsy	GRIN1	1.0	
+Huntington's chorea	GRIK1	1.0	
+Huntington's chorea	GRIN1	1.0	
+Huntington's chorea	GRIN2B	1.0	
+Huntington's chorea	GRIN3A	1.0	
+Psychotic Disorders	GRIA1	1.0	
+Psychotic Disorders	GRIK4	1.0	
+Psychotic Disorders	GRIN1	1.0	
+Psychotic Disorders	GRIN2B	1.0	
+{Unipolar depression, susceptibility to}, 608516 (3)	FOLH1	1.0	
+{Unipolar depression, susceptibility to}, 608516 (3)	GRIA1	1.0	
+{Unipolar depression, susceptibility to}, 608516 (3)	GRIA3	1.0	
+{Unipolar depression, susceptibility to}, 608516 (3)	GRIN2B	1.0	
+{Unipolar depression, susceptibility to}, 608516 (3)	GRM7	1.0	
+Cortical dysplasia, complex, with other brain malformations 3	GRIN2B	1.0	
+Cortical dysplasia, complex, with other brain malformations 3	SLC1A1	1.0	
+Stress, Psychological	GRIA3	1.0	
+Stress, Psychological	SLC1A1	1.0	
+Autism 15	GRIA1	1.0	
+Autism 15	GRIA3	1.0	
+Autism 15	GRIK4	1.0	
+Autism 15	GRIN2B	1.0	
+Autism 15	GRM7	1.0	
+Autism 15	SLC1A1	1.0	
+Hypoxia-Ischemia, Brain	GRIN1	1.0	
+Hypoxia-Ischemia, Brain	GRIN2B	1.0	
+Status epilepticus	GRIA1	1.0	
+Status epilepticus	GRIK1	1.0	
+Status epilepticus	GRIN2B	1.0	
+Substance Withdrawal Syndrome	GRIA1	1.0	
+Substance Withdrawal Syndrome	GRM7	1.0	
+Chromosome Aberrations	FOLH1	1.0	
+Chromosome Aberrations	FPGS	1.0	
+Alcohol dependence	GRIK1	1.0	
+Alcohol dependence	GRIK4	1.0	
+Alcohol dependence	GRIN1	1.0	
+Alcohol dependence	GRIN2B	1.0	
+Alcohol dependence	GRM7	1.0	

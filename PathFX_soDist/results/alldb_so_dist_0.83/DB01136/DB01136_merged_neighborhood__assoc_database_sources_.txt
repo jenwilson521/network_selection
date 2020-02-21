@@ -1,0 +1,181 @@
+Gene	CUI	Source Databases	
+ABCB1	C0013182	Drug Allergy	DisGeNet	
+CYP2C9	C0013182	Drug Allergy	DisGeNet	
+CYP2D6	C0013182	Drug Allergy	DisGeNet	
+CYP3A4	C0013182	Drug Allergy	DisGeNet	
+PTGS1	C0013182	Drug Allergy	DisGeNet	
+UGT1A1	C0013182	Drug Allergy	DisGeNet	
+UGT1A7	C0013182	Drug Allergy	DisGeNet	
+UGT1A8	C0013182	Drug Allergy	DisGeNet	
+UGT1A9	C0013182	Drug Allergy	DisGeNet	
+UGT1A	C0011226	Hepatitis D Infection	DisGeNet	
+UGT1A1	C0011226	Hepatitis D Infection	DisGeNet	
+UGT1A10	C0011226	Hepatitis D Infection	DisGeNet	
+UGT1A6	C0011226	Hepatitis D Infection	DisGeNet	
+UGT1A7	C0011226	Hepatitis D Infection	DisGeNet	
+UGT1A8	C0011226	Hepatitis D Infection	DisGeNet	
+UGT1A9	C0011226	Hepatitis D Infection	DisGeNet	
+ADRA1A	C0027719	Nephrosclerosis	DisGeNet	
+ADRB1	C0027719	Nephrosclerosis	DisGeNet	
+ADRB2	C0027719	Nephrosclerosis	DisGeNet	
+ALB	C0027719	Nephrosclerosis	DisGeNet	
+HIF1A	C0027719	Nephrosclerosis	DisGeNet	
+VEGFA	C0027719	Nephrosclerosis	DisGeNet	
+ABCB1	C0041755	Adverse drug events and drug allergies	DisGeNet	
+ALB	C0041755	Adverse drug events and drug allergies	DisGeNet	
+CYP1A2	C0041755	Adverse drug events and drug allergies	DisGeNet	
+CYP2C9	C0041755	Adverse drug events and drug allergies	DisGeNet	
+CYP2D6	C0041755	Adverse drug events and drug allergies	DisGeNet	
+CYP2E1	C0041755	Adverse drug events and drug allergies	DisGeNet	
+UGT1A1	C0041755	Adverse drug events and drug allergies	DisGeNet	
+ABCB1	C0746883	Febrile Neutropenia	DisGeNet	
+UGT1A	C0746883	Febrile Neutropenia	DisGeNet	
+UGT1A1	C0746883	Febrile Neutropenia	DisGeNet	
+UGT1A6	C0746883	Febrile Neutropenia	DisGeNet	
+UGT1A7	C0746883	Febrile Neutropenia	DisGeNet	
+ADRB1	C0028797	Occupational Diseases	DisGeNet	
+ADRB2	C0028797	Occupational Diseases	DisGeNet	
+ALB	C0028797	Occupational Diseases	DisGeNet	
+CYP1A1	C0028797	Occupational Diseases	DisGeNet	
+CYP2D6	C0028797	Occupational Diseases	DisGeNet	
+CYP2E1	C0028797	Occupational Diseases	DisGeNet	
+XDH	C0028797	Occupational Diseases	DisGeNet	
+ADRB2	C0002895	Anemia, Sickle Cell	DisGeNet	
+CYP2C9	C0002895	Anemia, Sickle Cell	DisGeNet	
+CYP2D6	C0002895	Anemia, Sickle Cell	DisGeNet	
+HIF1A	C0002895	Anemia, Sickle Cell	DisGeNet	
+SELE	C0002895	Anemia, Sickle Cell	DisGeNet	
+UGT1A	C0002895	Anemia, Sickle Cell	DisGeNet	
+UGT1A1	C0002895	Anemia, Sickle Cell	DisGeNet,PheGenI	
+UGT1A10	C0002895	Anemia, Sickle Cell	PheGenI	
+UGT1A6	C0002895	Anemia, Sickle Cell	PheGenI	
+UGT1A7	C0002895	Anemia, Sickle Cell	PheGenI	
+UGT1A8	C0002895	Anemia, Sickle Cell	PheGenI	
+UGT1A9	C0002895	Anemia, Sickle Cell	PheGenI	
+VEGFA	C0002895	Anemia, Sickle Cell	DisGeNet	
+ABCB1	C0020433	Hyperbilirubinemia	DisGeNet	
+UGT1A	C0020433	Hyperbilirubinemia	DisGeNet	
+UGT1A1	C0020433	Hyperbilirubinemia	DisGeNet,HumPhenOnt	
+UGT1A10	C0020433	Hyperbilirubinemia	DisGeNet	
+UGT1A6	C0020433	Hyperbilirubinemia	DisGeNet	
+UGT1A7	C0020433	Hyperbilirubinemia	DisGeNet	
+UGT1A8	C0020433	Hyperbilirubinemia	DisGeNet	
+UGT1A9	C0020433	Hyperbilirubinemia	DisGeNet	
+ABCB1	C0152020	Gastroparesis	DisGeNet	
+ADRA1A	C0152020	Gastroparesis	DisGeNet	
+ADRA1B	C0152020	Gastroparesis	DisGeNet	
+CYP2D6	C0152020	Gastroparesis	DisGeNet	
+KCNH2	C0152020	Gastroparesis	DisGeNet	
+ABCB1	C0030201	Acute postoperative pain	DisGeNet	
+ADRA1A	C0030201	Acute postoperative pain	DisGeNet	
+ADRB2	C0030201	Acute postoperative pain	DisGeNet	
+CYP2D6	C0030201	Acute postoperative pain	DisGeNet	
+CYP3A4	C0030201	Acute postoperative pain	DisGeNet	
+ABCB1	C0022660	Acute kidney injury	DisGeNet	
+ADRB2	C0022660	Acute kidney injury	DisGeNet	
+ALB	C0022660	Acute kidney injury	DisGeNet	
+CYP2C9	C0022660	Acute kidney injury	DisGeNet	
+CYP2D6	C0022660	Acute kidney injury	DisGeNet	
+CYP3A4	C0022660	Acute kidney injury	DisGeNet	
+HIF1A	C0022660	Acute kidney injury	DisGeNet	
+SELE	C0022660	Acute kidney injury	DisGeNet	
+UGT1A1	C0022660	Acute kidney injury	DisGeNet	
+UGT1A9	C0022660	Acute kidney injury	DisGeNet	
+VEGFA	C0022660	Acute kidney injury	DisGeNet	
+XDH	C0022660	Acute kidney injury	DisGeNet	
+CYP1A1	C1268717	Mammographic breast density	DisGeNet	
+CYP1A2	C1268717	Mammographic breast density	DisGeNet	
+CYP2D6	C1268717	Mammographic breast density	DisGeNet	
+UGT1A	C1268717	Mammographic breast density	DisGeNet	
+UGT1A1	C1268717	Mammographic breast density	DisGeNet	
+VEGFA	C1268717	Mammographic breast density	DisGeNet	
+ABCB1	C0520679	Obstructive sleep apnea	DisGeNet	
+ADRA1B	C0520679	Obstructive sleep apnea	DisGeNet	
+ADRA2A	C0520679	Obstructive sleep apnea	DisGeNet	
+ADRB1	C0520679	Obstructive sleep apnea	DisGeNet	
+ADRB2	C0520679	Obstructive sleep apnea	DisGeNet	
+CYP2D6	C0520679	Obstructive sleep apnea	DisGeNet	
+HIF1A	C0520679	Obstructive sleep apnea	DisGeNet	
+PTGS1	C0520679	Obstructive sleep apnea	DisGeNet	
+VEGFA	C0520679	Obstructive sleep apnea	DisGeNet	
+ADRA2A	C0008350	Cholelithiasis	DisGeNet	
+CYP1A1	C0008350	Cholelithiasis	DisGeNet	
+UGT1A	C0008350	Cholelithiasis	DisGeNet	
+UGT1A1	C0008350	Cholelithiasis	DisGeNet,PheGenI	
+UGT1A10	C0008350	Cholelithiasis	PheGenI	
+UGT1A6	C0008350	Cholelithiasis	DisGeNet,PheGenI	
+UGT1A7	C0008350	Cholelithiasis	PheGenI	
+UGT1A8	C0008350	Cholelithiasis	PheGenI	
+UGT1A9	C0008350	Cholelithiasis	PheGenI	
+CYP1A1	C0206720	Squamous Cell Neoplasms	DisGeNet	
+CYP2E1	C0206720	Squamous Cell Neoplasms	DisGeNet	
+CYP3A4	C0206720	Squamous Cell Neoplasms	DisGeNet	
+VEGFA	C0206720	Squamous Cell Neoplasms	DisGeNet	
+ABCB1	C0020443	Hypercholesterolemia, autosomal dominant, type B	DisGeNet	
+ADRB2	C0020443	Hypercholesterolemia, autosomal dominant, type B	DisGeNet	
+ALB	C0020443	Hypercholesterolemia, autosomal dominant, type B	DisGeNet	
+CYP1A1	C0020443	Hypercholesterolemia, autosomal dominant, type B	DisGeNet	
+CYP2C9	C0020443	Hypercholesterolemia, autosomal dominant, type B	DisGeNet	
+CYP2D6	C0020443	Hypercholesterolemia, autosomal dominant, type B	DisGeNet	
+CYP3A4	C0020443	Hypercholesterolemia, autosomal dominant, type B	DisGeNet	
+SELE	C0020443	Hypercholesterolemia, autosomal dominant, type B	DisGeNet	
+UGT1A1	C0020443	Hypercholesterolemia, autosomal dominant, type B	DisGeNet	
+VEGFA	C0020443	Hypercholesterolemia, autosomal dominant, type B	DisGeNet	
+ABCB1	C1302401	Adenoma of large intestine	DisGeNet	
+CYP1A1	C1302401	Adenoma of large intestine	DisGeNet	
+CYP1A2	C1302401	Adenoma of large intestine	DisGeNet	
+CYP2C9	C1302401	Adenoma of large intestine	DisGeNet	
+CYP2D6	C1302401	Adenoma of large intestine	DisGeNet	
+CYP2E1	C1302401	Adenoma of large intestine	DisGeNet	
+HIF1A	C1302401	Adenoma of large intestine	DisGeNet	
+PTGS1	C1302401	Adenoma of large intestine	DisGeNet	
+UGT1A1	C1302401	Adenoma of large intestine	DisGeNet	
+UGT1A6	C1302401	Adenoma of large intestine	DisGeNet	
+VEGFA	C1302401	Adenoma of large intestine	DisGeNet	
+CYP1A1	C0023055	Neoplasm of the larynx	DisGeNet	
+CYP1A2	C0023055	Neoplasm of the larynx	DisGeNet	
+CYP2C9	C0023055	Neoplasm of the larynx	DisGeNet	
+CYP2D6	C0023055	Neoplasm of the larynx	DisGeNet	
+CYP2E1	C0023055	Neoplasm of the larynx	DisGeNet	
+CYP3A4	C0023055	Neoplasm of the larynx	DisGeNet	
+VEGFA	C0023055	Neoplasm of the larynx	DisGeNet	
+ADRB2	C0021775	Intermittent claudication	DisGeNet	
+HIF1A	C0021775	Intermittent claudication	DisGeNet	
+UGT1A1	C0021775	Intermittent claudication	DisGeNet	
+VEGFA	C0021775	Intermittent claudication	DisGeNet	
+ADRA1A	C1141890	Congenital long QT syndrome	DisGeNet	
+CYP2D6	C1141890	Congenital long QT syndrome	DisGeNet	
+CYP3A4	C1141890	Congenital long QT syndrome	DisGeNet	
+KCNH2	C1141890	Congenital long QT syndrome	DisGeNet	
+ADRA1A	C0152136	Low Tension Glaucoma	DisGeNet	
+ADRA2A	C0152136	Low Tension Glaucoma	DisGeNet	
+ADRA2C	C0152136	Low Tension Glaucoma	DisGeNet	
+ADRB1	C0152136	Low Tension Glaucoma	DisGeNet	
+ADRB2	C0152136	Low Tension Glaucoma	DisGeNet	
+ABCB1	C0948089	Acute Coronary Syndrome	DisGeNet	
+ADRA2A	C0948089	Acute Coronary Syndrome	DisGeNet	
+ADRB1	C0948089	Acute Coronary Syndrome	DisGeNet	
+ADRB2	C0948089	Acute Coronary Syndrome	DisGeNet	
+ALB	C0948089	Acute Coronary Syndrome	DisGeNet	
+CYP1A1	C0948089	Acute Coronary Syndrome	DisGeNet	
+CYP1A2	C0948089	Acute Coronary Syndrome	DisGeNet	
+CYP2C9	C0948089	Acute Coronary Syndrome	DisGeNet	
+CYP3A4	C0948089	Acute Coronary Syndrome	DisGeNet,PheGenI	
+PTGS1	C0948089	Acute Coronary Syndrome	DisGeNet	
+SELE	C0948089	Acute Coronary Syndrome	DisGeNet	
+VEGFA	C0948089	Acute Coronary Syndrome	DisGeNet	
+ADRA1A	C0221765	Chronic schizophrenia	DisGeNet	
+CYP1A2	C0221765	Chronic schizophrenia	DisGeNet	
+CYP2D6	C0221765	Chronic schizophrenia	DisGeNet	
+CYP3A4	C0221765	Chronic schizophrenia	DisGeNet	
+ABCB1	C0030920	Peptic ulcer	DisGeNet	
+CYP1A1	C0030920	Peptic ulcer	DisGeNet	
+CYP2C9	C0030920	Peptic ulcer	DisGeNet	
+CYP2E1	C0030920	Peptic ulcer	DisGeNet	
+PTGS1	C0030920	Peptic ulcer	DisGeNet	
+UGT1A6	C0030920	Peptic ulcer	DisGeNet	
+VEGFA	C0030920	Peptic ulcer	DisGeNet	
+ABCB1	C0376670	Pancreatitis, Alcoholic	DisGeNet	
+CYP1A1	C0376670	Pancreatitis, Alcoholic	DisGeNet	
+CYP2E1	C0376670	Pancreatitis, Alcoholic	DisGeNet	
+UGT1A7	C0376670	Pancreatitis, Alcoholic	DisGeNet	

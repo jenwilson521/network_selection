@@ -1,0 +1,4 @@
+rank	phenotype	cui	assoc in neigh	assoc in intom	probability	Benjamini-Hochberg	genes	
+18	Drug Resistant Epilepsy	C1096063	3	53	7.031711998339851e-06	2.2113022113e-05	ABCB1,ALB,GRIA3
+19	Adverse drug events and drug allergies	C0041755	3	60	1.1569281032741685e-05	2.33415233415e-05	ABCB1,ABCC4,ALB
+32	Malignant neoplasm of adrenal cortex	C0346402	2	26	2.9743423649031264e-05	3.9312039312e-05	ABCB1,ALB

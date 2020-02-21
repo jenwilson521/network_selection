@@ -1,0 +1,34 @@
+Gene	CUI	Source Databases	
+ESR1	C1519689	Tumor Promotion	DisGeNet	
+ESR2	C1519689	Tumor Promotion	DisGeNet	
+NR1I2	C1519689	Tumor Promotion	DisGeNet	
+NR1I3	C1519689	Tumor Promotion	DisGeNet	
+ESR1	C0600452	Hepatopulmonary Syndrome	DisGeNet	
+ESR2	C0600452	Hepatopulmonary Syndrome	DisGeNet	
+NR1I2	C0600452	Hepatopulmonary Syndrome	DisGeNet	
+PPARA	C0600452	Hepatopulmonary Syndrome	DisGeNet	
+ESR2	C0008372	Intrahepatic cholestasis	DisGeNet	
+NR1I2	C0008372	Intrahepatic cholestasis	DisGeNet	
+NR1I3	C0008372	Intrahepatic cholestasis	DisGeNet	
+NR1I2	C0154251	Disorders of lipoid metabolism	DisGeNet	
+NR1I3	C0154251	Disorders of lipoid metabolism	DisGeNet	
+PPARA	C0154251	Disorders of lipoid metabolism	DisGeNet	
+ESR1	C0021361	Female infertility	DisGeNet	
+ESR2	C0021361	Female infertility	DisGeNet	
+NR1I2	C0021361	Female infertility	DisGeNet	
+ESR1	C0242231	Coronary artery stenosis	DisGeNet	
+ESR2	C0242231	Coronary artery stenosis	DisGeNet	
+PPARA	C0242231	Coronary artery stenosis	DisGeNet	
+NR1I2	C0860204	Cholestatic liver disease	DisGeNet	
+NR1I3	C0860204	Cholestatic liver disease	DisGeNet	
+CYP3A4	C0014170	Endometrial Neoplasms	DisGeNet	
+ESR1	C0014170	Endometrial Neoplasms	DisGeNet	
+ESR2	C0014170	Endometrial Neoplasms	DisGeNet	
+NR1I2	C0014170	Endometrial Neoplasms	DisGeNet	
+SULT2B1	C0014170	Endometrial Neoplasms	DisGeNet	
+CYP3A4	C0025517	Disorders of Intracellular Cobalamin Metabolism	DisGeNet	
+ESR1	C0025517	Disorders of Intracellular Cobalamin Metabolism	DisGeNet	
+ESR2	C0025517	Disorders of Intracellular Cobalamin Metabolism	DisGeNet	
+NR1I2	C0025517	Disorders of Intracellular Cobalamin Metabolism	DisGeNet	
+NR1I3	C0025517	Disorders of Intracellular Cobalamin Metabolism	DisGeNet	
+PPARA	C0025517	Disorders of Intracellular Cobalamin Metabolism	DisGeNet	

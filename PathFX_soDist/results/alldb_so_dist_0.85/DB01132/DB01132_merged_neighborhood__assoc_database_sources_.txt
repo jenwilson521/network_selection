@@ -1,0 +1,19 @@
+Gene	CUI	Source Databases	
+CYP2C8	C0013182	Drug Allergy	DisGeNet	
+CYP2C9	C0013182	Drug Allergy	DisGeNet	
+CYP3A4	C0013182	Drug Allergy	DisGeNet	
+PTGS1	C0013182	Drug Allergy	DisGeNet	
+SLCO1B1	C0013182	Drug Allergy	DisGeNet	
+CYP2C8	C0020473	Hyperlipidemia, combined, 1	DisGeNet	
+CYP2C9	C0020473	Hyperlipidemia, combined, 1	DisGeNet	
+CYP3A4	C0020473	Hyperlipidemia, combined, 1	DisGeNet	
+PPARA	C0020473	Hyperlipidemia, combined, 1	DisGeNet	
+PPARD	C0020473	Hyperlipidemia, combined, 1	DisGeNet	
+PPARG	C0020473	Hyperlipidemia, combined, 1	DisGeNet,HumPhenOnt	
+PTGS1	C0020473	Hyperlipidemia, combined, 1	DisGeNet	
+SLCO1B1	C0020473	Hyperlipidemia, combined, 1	DisGeNet	
+CYP2C8	C0030920	Peptic ulcer	DisGeNet	
+CYP2C9	C0030920	Peptic ulcer	DisGeNet	
+PPARG	C0030920	Peptic ulcer	DisGeNet	
+PTGS1	C0030920	Peptic ulcer	DisGeNet	
+SLCO1B1	C0030920	Peptic ulcer	DisGeNet	

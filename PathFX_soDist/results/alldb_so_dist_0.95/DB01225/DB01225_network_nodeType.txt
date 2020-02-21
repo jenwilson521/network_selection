@@ -1,0 +1,5 @@
+node_name	node_type	
+DB01225	drug	
+MPO	drug_target	
+F10	drug_target	
+SERPINC1	drug_target	

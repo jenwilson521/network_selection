@@ -1,0 +1,4 @@
+node_name	node_type	
+DB00043	drug	
+MS4A2	drug_target	
+FCER1A	drug_target	

@@ -1,0 +1,40 @@
+Gene	CUI	Source Databases	
+AR	C0236663	Alcohol withdrawal syndrome	DisGeNet	
+CYP19A1	C0236663	Alcohol withdrawal syndrome	DisGeNet	
+AR	C0574769	Alopecia of scalp	DisGeNet	
+CYP19A1	C0574769	Alopecia of scalp	DisGeNet	
+AR	C0086132	Depressive Symptoms	DisGeNet	
+CYP19A1	C0086132	Depressive Symptoms	DisGeNet	
+CYP3A4	C0086132	Depressive Symptoms	DisGeNet	
+AR	C1291314	21-hydroxylase deficiency	DisGeNet	
+CYP3A4	C1291314	21-hydroxylase deficiency	DisGeNet	
+AR	C0242787	Malignant neoplasm of male breast	DisGeNet	
+CYP19A1	C0242787	Malignant neoplasm of male breast	DisGeNet	
+AR	C2911645	Weight Loss Adverse Event	DisGeNet	
+CYP19A1	C2911645	Weight Loss Adverse Event	DisGeNet	
+AR	C1847540	Spermatogenic failure 3	DisGeNet	
+CYP19A1	C1847540	Spermatogenic failure 3	DisGeNet	
+AR	C0042755	Virilism	DisGeNet	
+CYP19A1	C0042755	Virilism	DisGeNet	
+AR	C0235653	Malignant neoplasm of female breast	DisGeNet	
+CYP19A1	C0235653	Malignant neoplasm of female breast	DisGeNet	
+AR	C0007104	Female Breast Carcinoma	DisGeNet	
+CYP19A1	C0007104	Female Breast Carcinoma	DisGeNet	
+AR	C0238033	Carcinoma of Male Breast	DisGeNet	
+CYP19A1	C0238033	Carcinoma of Male Breast	DisGeNet	
+AR	C0238394	Female pseudohermaphroditism	HumPhenOnt	
+CYP19A1	C0238394	Female pseudohermaphroditism	DisGeNet,HumPhenOnt	
+AR	C0342492	Adrenal hyperplasia	DisGeNet	
+CYP3A4	C0342492	Adrenal hyperplasia	DisGeNet	
+AR	C0016034	Breast Fibrocystic Disease	DisGeNet	
+CYP19A1	C0016034	Breast Fibrocystic Disease	DisGeNet	
+AR	C0027658	Neoplasms, Germ Cell and Embryonal	DisGeNet	
+CYP3A4	C0027658	Neoplasms, Germ Cell and Embryonal	DisGeNet	
+AR	C0014130	Disorder of endocrine system	DisGeNet	
+CYP19A1	C0014130	Disorder of endocrine system	DisGeNet	
+AR	C0206081	 Hyperandrogenism, nonclassic type, due to 21-hydroxylase deficiency, 201910 (3)	DisGeNet	
+CYP19A1	C0206081	 Hyperandrogenism, nonclassic type, due to 21-hydroxylase deficiency, 201910 (3)	DisGeNet	
+AR	C1268717	Mammographic breast density	DisGeNet	
+CYP19A1	C1268717	Mammographic breast density	DisGeNet	
+AR	C0021361	Female infertility	DisGeNet	
+CYP19A1	C0021361	Female infertility	DisGeNet,HumPhenOnt	

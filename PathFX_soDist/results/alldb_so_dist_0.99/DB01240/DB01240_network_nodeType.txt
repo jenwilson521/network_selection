@@ -1,0 +1,5 @@
+node_name	node_type	
+DB01240	drug	
+PTGIS	drug_target	
+P2RY12	drug_target	
+PTGIR	drug_target	

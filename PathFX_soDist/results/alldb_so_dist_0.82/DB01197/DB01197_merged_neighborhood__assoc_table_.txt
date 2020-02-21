@@ -1,0 +1,4 @@
+rank	phenotype	cui	assoc in neigh	assoc in intom	probability	Benjamini-Hochberg	genes	
+51	Acute postoperative pain	C0030201	3	37	1.8640789479884567e-05	3.75552282769e-05	ABCB1,ACE,CYP2D6
+56	Tubulointerstitial nephritis	C0027707	3	44	3.744518768644678e-05	4.12371134021e-05	ACE,ALB,CYP2D6
+57	Nephrotic Syndrome, Minimal Change	C1704321	3	44	3.744518768644678e-05	4.19734904271e-05	ABCB1,ACE,ALB

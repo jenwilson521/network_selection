@@ -1,0 +1,22 @@
+node1	node2	edge_score	
+DB06196	BDKRB2	1.0	
+DB06196	ANPEP	1.0	
+BDKRB2		1.0
+BDKRB2	rs8016905	0.99
+BDKRB2	rs1799722	0.99
+BDKRB2	rs8012552	0.99
+Hyperaldosteronism, familial, type IV	BDKRB2	1.0	
+Weight Loss Adverse Event	BDKRB2	1.0	
+Pleuritis	BDKRB2	1.0	
+Hemolytic uremic syndrome	BDKRB2	1.0	
+Bleeding with minor or no trauma	BDKRB2	1.0	
+Sciatic Neuropathy	BDKRB2	1.0	
+Panic disorder 1	BDKRB2	1.0	
+Obsessive-compulsive disorder	BDKRB2	1.0	
+Cough	BDKRB2	1.0	
+Portal hypertension, noncirrhotic	BDKRB2	1.0	
+Panic disorder syndrome 1 (2)	BDKRB2	1.0	
+Gout	BDKRB2	1.0	
+Gastric ulcer	BDKRB2	1.0	
+Hypotension	BDKRB2	1.0	
+Thrombosis	BDKRB2	1.0	

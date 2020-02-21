@@ -1,0 +1,151 @@
+Gene	CUI	Source Databases	
+CYP3A4	C0019337	Heroin Dependence	DisGeNet	
+SLC6A2	C0019337	Heroin Dependence	DisGeNet	
+SLC6A3	C0019337	Heroin Dependence	DisGeNet	
+SLC6A4	C0019337	Heroin Dependence	DisGeNet	
+SLC6A2	C0004930	Behavior Disorders	DisGeNet	
+SLC6A3	C0004930	Behavior Disorders	DisGeNet	
+SLC6A4	C0004930	Behavior Disorders	DisGeNet	
+CYP3A4	C0686347	Tardive Dyskinesia	DisGeNet	
+SLC6A3	C0686347	Tardive Dyskinesia	DisGeNet	
+SLC6A4	C0686347	Tardive Dyskinesia	DisGeNet	
+CYP3A4	C0152115	Orofacial dyskinesia	DisGeNet	
+SLC6A3	C0152115	Orofacial dyskinesia	DisGeNet	
+SLC6A4	C0152115	Orofacial dyskinesia	DisGeNet	
+SLC6A3	C0006370	Bulimia	DisGeNet	
+SLC6A4	C0006370	Bulimia	DisGeNet	
+CYP3A4	C0085762	Alcohol abuse	DisGeNet	
+SLC6A3	C0085762	Alcohol abuse	DisGeNet	
+SLC6A4	C0085762	Alcohol abuse	DisGeNet	
+SLC6A3	C0270549	Generalized anxiety disorder	DisGeNet	
+SLC6A4	C0270549	Generalized anxiety disorder	DisGeNet	
+SLC6A3	C0038586	Substance Use Disorders	DisGeNet	
+SLC6A4	C0038586	Substance Use Disorders	DisGeNet	
+SLC6A3	C0236663	Alcohol withdrawal syndrome	DisGeNet	
+SLC6A4	C0236663	Alcohol withdrawal syndrome	DisGeNet	
+SLC6A2	C0013146	Methamphetamine abuse	DisGeNet	
+SLC6A3	C0013146	Methamphetamine abuse	DisGeNet	
+SLC6A4	C0013146	Methamphetamine abuse	DisGeNet	
+SLC6A2	C0003125	Anorexia nervosa 1	DisGeNet	
+SLC6A3	C0003125	Anorexia nervosa 1	DisGeNet	
+SLC6A4	C0003125	Anorexia nervosa 1	DisGeNet	
+SLC6A3	C0426980	Motor symptoms	DisGeNet	
+SLC6A4	C0426980	Motor symptoms	DisGeNet	
+SLC6A3	C0439857	 {Nicotine dependence, protection against}, 188890 (3)	DisGeNet	
+SLC6A4	C0439857	 {Nicotine dependence, protection against}, 188890 (3)	DisGeNet	
+SLC6A3	C0003431	Antisocial Personality Disorder	DisGeNet	
+SLC6A4	C0003431	Antisocial Personality Disorder	DisGeNet	
+CYP3A4	C0011206	Cocaine delirium	DisGeNet	
+SLC6A3	C0011206	Cocaine delirium	DisGeNet	
+CYP3A4	C0221765	Chronic schizophrenia	DisGeNet	
+SLC6A3	C0221765	Chronic schizophrenia	DisGeNet	
+CYP3A4	C0030201	Acute postoperative pain	DisGeNet	
+SLC6A4	C0030201	Acute postoperative pain	DisGeNet	
+SLC6A2	C0031212	Personality disorder	DisGeNet	
+SLC6A4	C0031212	Personality disorder	DisGeNet	
+CYP3A4	C0086132	Depressive Symptoms	DisGeNet	
+SLC6A3	C0086132	Depressive Symptoms	DisGeNet	
+SLC6A4	C0086132	Depressive Symptoms	DisGeNet	
+SLC6A3	C2267227	Bulimia nervosa 1	DisGeNet	
+SLC6A4	C2267227	Bulimia nervosa 1	DisGeNet	
+SLC6A2	C0040517	Tourette Syndrome	DisGeNet	
+SLC6A3	C0040517	Tourette Syndrome	DisGeNet	
+SLC6A4	C0040517	Tourette Syndrome	DisGeNet	
+SLC6A3	C0233523	Antisocial/borderline personality disorder	DisGeNet	
+SLC6A4	C0233523	Antisocial/borderline personality disorder	DisGeNet	
+SLC6A3	C0740858	Substance abuse problem	DisGeNet	
+SLC6A4	C0740858	Substance abuse problem	DisGeNet	
+SLC6A3	C0242510	Drug usage	DisGeNet	
+SLC6A4	C0242510	Drug usage	DisGeNet	
+SLC6A3	C0564408	Manic	DisGeNet	
+SLC6A4	C0564408	Manic	DisGeNet	
+SLC6A2	C2911645	Weight Loss Adverse Event	DisGeNet	
+SLC6A4	C2911645	Weight Loss Adverse Event	DisGeNet	
+SLC6A3	C0149654	Conduct Disorder	DisGeNet	
+SLC6A4	C0149654	Conduct Disorder	DisGeNet	
+SLC6A3	C0016053	Fibromyalgia	DisGeNet	
+SLC6A4	C0016053	Fibromyalgia	DisGeNet	
+SLC6A3	C0033054	Prenatal Exposure Delayed Effects	DisGeNet	
+SLC6A4	C0033054	Prenatal Exposure Delayed Effects	DisGeNet	
+SLC6A3	C0025261	Memory Disorders	DisGeNet	
+SLC6A4	C0025261	Memory Disorders	DisGeNet	
+SLC6A3	C0600427	Cocaine Dependence	DisGeNet	
+SLC6A4	C0600427	Cocaine Dependence	DisGeNet	
+SLC6A2	C0006012	Borderline Personality Disorder	DisGeNet	
+SLC6A3	C0006012	Borderline Personality Disorder	DisGeNet	
+SLC6A4	C0006012	Borderline Personality Disorder	DisGeNet	
+SLC6A3	C1457887	CNS symptom	DisGeNet	
+SLC6A4	C1457887	CNS symptom	DisGeNet	
+SLC6A3	C0003944	As If Personality	DisGeNet	
+SLC6A4	C0003944	As If Personality	DisGeNet	
+SLC6A3	C0853193	Bipolar I disorder	DisGeNet	
+SLC6A4	C0853193	Bipolar I disorder	DisGeNet	
+SLC6A3	C0033941	Psychoses, Substance-Induced	DisGeNet	
+SLC6A4	C0033941	Psychoses, Substance-Induced	DisGeNet	
+SLC6A3	C0041671	Attention Deficit Disorder	DisGeNet	
+SLC6A4	C0041671	Attention Deficit Disorder	DisGeNet	
+SLC6A3	C1510472	Drug Dependence	DisGeNet	
+SLC6A4	C1510472	Drug Dependence	DisGeNet	
+SLC6A3	C0029421	Osteochondritis dissecans	DisGeNet	
+SLC6A4	C0029421	Osteochondritis dissecans	DisGeNet	
+SLC6A3	C1842981	NEUROTICISM	DisGeNet	
+SLC6A4	C1842981	NEUROTICISM	DisGeNet	
+CYP3A4	C0003469	Anxiety Disorders	DisGeNet	
+SLC6A2	C0003469	Anxiety Disorders	DisGeNet	
+SLC6A3	C0003469	Anxiety Disorders	DisGeNet	
+SLC6A4	C0003469	Anxiety Disorders	DisGeNet	
+SLC6A3	C1970943	MAJOR AFFECTIVE DISORDER 4	DisGeNet	
+SLC6A4	C1970943	MAJOR AFFECTIVE DISORDER 4	DisGeNet	
+SLC6A3	C1970944	MAJOR AFFECTIVE DISORDER 5	DisGeNet	
+SLC6A4	C1970944	MAJOR AFFECTIVE DISORDER 5	DisGeNet	
+SLC6A3	C1970945	MAJOR AFFECTIVE DISORDER 6	DisGeNet	
+SLC6A4	C1970945	MAJOR AFFECTIVE DISORDER 6	DisGeNet	
+SLC6A3	C2700438	Major affective disorder 7	DisGeNet	
+SLC6A4	C2700438	Major affective disorder 7	DisGeNet	
+SLC6A3	C2700439	MAJOR AFFECTIVE DISORDER 8	DisGeNet	
+SLC6A4	C2700439	MAJOR AFFECTIVE DISORDER 8	DisGeNet	
+SLC6A3	C2700440	MAJOR AFFECTIVE DISORDER 9	DisGeNet	
+SLC6A4	C2700440	MAJOR AFFECTIVE DISORDER 9	DisGeNet	
+SLC6A3	C0013473	Eating disorder	DisGeNet	
+SLC6A4	C0013473	Eating disorder	DisGeNet	
+SLC6A3	C0154723	Migraine with aura	DisGeNet	
+SLC6A4	C0154723	Migraine with aura	DisGeNet	
+SLC6A2	C0432306	Ichthyosis bullosa of Siemens	DisGeNet	
+SLC6A4	C0432306	Ichthyosis bullosa of Siemens	DisGeNet	
+CYP3A4	C0013182	Drug Allergy	DisGeNet	
+SLC6A3	C0013182	Drug Allergy	DisGeNet	
+SLC6A2	C0003467	Anxiety	DisGeNet	
+SLC6A3	C0003467	Anxiety	DisGeNet	
+SLC6A4	C0003467	Anxiety	ClinVar,DisGeNet	
+SLC6A3	C0038580	Substance addiction and disorders	DisGeNet	
+SLC6A4	C0038580	Substance addiction and disorders	DisGeNet	
+SLC6A2	C1868649	Panic disorder 1	DisGeNet	
+SLC6A4	C1868649	Panic disorder 1	DisGeNet	
+SLC6A2	C0017178	Gastrointestinal Diseases	DisGeNet	
+SLC6A4	C0017178	Gastrointestinal Diseases	DisGeNet	
+SLC6A3	C0236733	Amphetamine-Related Disorders	DisGeNet	
+SLC6A4	C0236733	Amphetamine-Related Disorders	DisGeNet	
+SLC6A3	C0028768	Obsessive-compulsive disorder	DisGeNet	
+SLC6A4	C0028768	Obsessive-compulsive disorder	ClinVar,DisGeNet	
+SLC6A2	C0006287	Bronchopulmonary Dysplasia	DisGeNet	
+SLC6A3	C0006287	Bronchopulmonary Dysplasia	DisGeNet	
+SLC6A4	C0006287	Bronchopulmonary Dysplasia	DisGeNet	
+SLC6A2	C1510586	Autism spectrum disorders	DisGeNet	
+SLC6A3	C1510586	Autism spectrum disorders	DisGeNet	
+SLC6A4	C1510586	Autism spectrum disorders	DisGeNet	
+SLC6A3	C0024809	Marijuana Abuse	DisGeNet	
+SLC6A4	C0024809	Marijuana Abuse	DisGeNet	
+SLC6A3	C0038644	SUDDEN INFANT DEATH SYNDROME	DisGeNet	
+SLC6A4	C0038644	SUDDEN INFANT DEATH SYNDROME	DisGeNet	
+SLC6A3	C0023891	Liver Cirrhosis, Alcoholic	DisGeNet	
+SLC6A4	C0023891	Liver Cirrhosis, Alcoholic	DisGeNet	
+SLC6A3	C0038436	Posttraumatic stress disorder	DisGeNet	
+SLC6A4	C0038436	Posttraumatic stress disorder	DisGeNet	
+SLC6A3	C0007682	CNS disorder	DisGeNet	
+SLC6A4	C0007682	CNS disorder	DisGeNet	
+SLC6A3	C0028043	Nicotine Dependence	DisGeNet	
+SLC6A4	C0028043	Nicotine Dependence	DisGeNet	
+SLC6A2	C0030319	Panic disorder syndrome 1 (2)	DisGeNet	
+SLC6A4	C0030319	Panic disorder syndrome 1 (2)	DisGeNet	
+SLC6A3	C0236736	Cocaine-Related Disorders	DisGeNet	
+SLC6A4	C0236736	Cocaine-Related Disorders	DisGeNet	

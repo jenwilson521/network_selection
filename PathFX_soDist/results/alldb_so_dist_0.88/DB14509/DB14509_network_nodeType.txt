@@ -1,0 +1,31 @@
+node_name	node_type	
+DB14509	drug	
+GRIA3	drug_target	
+GSK3B	drug_target	
+SCNN1G	drug_target	
+IMPA1	drug_target	
+IMPA2	drug_target	
+SCNN1B	drug_target	
+SCNN1A	drug_target	
+Weight Gain Adverse Event	phenotype	
+Recurrent major depressive episodes	phenotype	
+Hyperkalemia	phenotype	
+Prominent supraorbital ridges	phenotype	
+Muscle weakness	phenotype	
+Abnormality of sodium homeostasis	phenotype	
+Hyponatremia	phenotype	
+Adrenal overactivity	phenotype	
+Parathyroid carcinoma	phenotype	
+Alkalosis	phenotype	
+Hyperaldosteronism, familial, type IV	phenotype	
+Abnormality of potassium homeostasis	phenotype	
+Renovascular hypertension	phenotype	
+Hypokalemia	phenotype	
+Dyskinesia, Drug-Induced	phenotype	
+Drug Resistant Epilepsy	phenotype	
+Obstructive lung disease	phenotype	
+Abnormality of monovalent inorganic cation homeostasis	phenotype	
+Stress, Psychological	phenotype	
+Bipolar I disorder	phenotype	
+Metabolic acidosis	phenotype	
+Osteochondritis dissecans	phenotype	

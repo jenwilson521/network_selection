@@ -1,0 +1,298 @@
+node1	node2	edge_score	
+DB01119	KCNJ11	1.0	
+DB01119	SLC12A3	1.0	
+DB01119	CA2	1.0	
+DB01119	CA1	1.0	
+DB01119	KCNMA1	1.0	
+DB01119	GLUL	1.0	
+DB01119	ATP1A1	1.0	
+KCNJ11		1.0
+SLC12A3		1.0
+Abnormality of acid-base homeostasis	KCNJ11	1.0	
+Abnormality of acid-base homeostasis	SLC12A3	1.0	
+Atherosclerosis	KCNJ11	1.0	
+Atherosclerosis	SLC12A3	1.0	
+Diabetes Mellitus, Type 1	KCNJ11	1.0	
+Diabetes Mellitus, Type 1	SLC12A3	1.0	
+Diabetes mellitus type 2	KCNJ11	1.0	
+Diabetes mellitus type 2	SLC12A3	1.0	
+Diarrhea 8, secretory sodium, congenital	KCNJ11	1.0	
+Diarrhea 8, secretory sodium, congenital	SLC12A3	1.0	
+Epilepsy	KCNJ11	1.0	
+Epilepsy	SLC12A3	1.0	
+Hypertension	KCNJ11	1.0	
+Hypertension	SLC12A3	1.0	
+Kidney Failure, Chronic	KCNJ11	1.0	
+Kidney Failure, Chronic	SLC12A3	1.0	
+Muscle weakness	KCNJ11	1.0	
+Muscle weakness	SLC12A3	1.0	
+Peripheral neuropathy, myopathy, hoarseness, and hearing loss	KCNJ11	1.0	
+Peripheral neuropathy, myopathy, hoarseness, and hearing loss	SLC12A3	1.0	
+Seizures, Febrile	KCNJ11	1.0	
+Seizures, Febrile	SLC12A3	1.0	
+Abnormality of the genitourinary system	KCNJ11	1.0	
+Abnormality of the genitourinary system	SLC12A3	1.0	
+Vomiting	KCNJ11	1.0	
+Vomiting	SLC12A3	1.0	
+Abnormal renal physiology	KCNJ11	1.0	
+Abnormal renal physiology	SLC12A3	1.0	
+Renal tubular dysfunction	KCNJ11	1.0	
+Renal tubular dysfunction	SLC12A3	1.0	
+Behavioral abnormality	KCNJ11	1.0	
+Behavioral abnormality	SLC12A3	1.0	
+Abnormal joint morphology	KCNJ11	1.0	
+Abnormal joint morphology	SLC12A3	1.0	
+Abnormality of the digestive system	KCNJ11	1.0	
+Abnormality of the digestive system	SLC12A3	1.0	
+Congenital anomalies of kidney and urinary tract 1, susceptibility to	KCNJ11	1.0	
+Congenital anomalies of kidney and urinary tract 1, susceptibility to	SLC12A3	1.0	
+Autosomal recessive inheritance	KCNJ11	1.0	
+Autosomal recessive inheritance	SLC12A3	1.0	
+Abnormality of the nervous system	KCNJ11	1.0	
+Abnormality of the nervous system	SLC12A3	1.0	
+Abdominal symptom	KCNJ11	1.0	
+Abdominal symptom	SLC12A3	1.0	
+Abnormality of the musculature	KCNJ11	1.0	
+Abnormality of the musculature	SLC12A3	1.0	
+Abnormality of metabolism/homeostasis	KCNJ11	1.0	
+Abnormality of metabolism/homeostasis	SLC12A3	1.0	
+Abnormality of the skeletal system	KCNJ11	1.0	
+Abnormality of the skeletal system	SLC12A3	1.0	
+Abnormality of the urinary system	KCNJ11	1.0	
+Abnormality of the urinary system	SLC12A3	1.0	
+Abnormality of nervous system morphology	KCNJ11	1.0	
+Abnormality of nervous system morphology	SLC12A3	1.0	
+Abnormality of nervous system physiology	KCNJ11	1.0	
+Abnormality of nervous system physiology	SLC12A3	1.0	
+Abnormality of skeletal morphology	KCNJ11	1.0	
+Abnormality of skeletal morphology	SLC12A3	1.0	
+Abnormality of muscle physiology	KCNJ11	1.0	
+Abnormality of muscle physiology	SLC12A3	1.0	
+Abnormality of central motor function	KCNJ11	1.0	
+Abnormality of central motor function	SLC12A3	1.0	
+Abnormality of the urinary system physiology	KCNJ11	1.0	
+Abnormality of the urinary system physiology	SLC12A3	1.0	
+Abnormality of the upper urinary tract	KCNJ11	1.0	
+Abnormality of the upper urinary tract	SLC12A3	1.0	
+Abnormality of connective tissue	KCNJ11	1.0	
+Abnormality of connective tissue	SLC12A3	1.0	
+Abnormality of urine homeostasis	KCNJ11	1.0	
+Abnormality of urine homeostasis	SLC12A3	1.0	
+Abnormality of the endocrine system	KCNJ11	1.0	
+Abnormality of the endocrine system	SLC12A3	1.0	
+Abnormal peripheral nervous system morphology	KCNJ11	1.0	
+Abnormal peripheral nervous system morphology	SLC12A3	1.0	
+Abnormality of digestive system physiology	KCNJ11	1.0	
+Abnormality of digestive system physiology	SLC12A3	1.0	
+Diabetic ketoacidosis	KCNJ11	1.0	
+Hypercapnia	KCNJ11	1.0	
+Familial hypokalemia-hypomagnesemia	SLC12A3	1.0	
+Treacher Collins syndrome	SLC12A3	1.0	
+Progressive neurologic deterioration	KCNJ11	1.0	
+Abnormality of endocrine pancreas physiology	KCNJ11	1.0	
+Prominent metopic ridge	KCNJ11	1.0	
+Abnormality of circulating glucocorticoid level	KCNJ11	1.0	
+Abnormality of circulating cortisol level	KCNJ11	1.0	
+Abnormality of blood volume homeostasis	KCNJ11	1.0	
+Steatorrhea	KCNJ11	1.0	
+Chondrocalcinosis	SLC12A3	1.0	
+Fat malabsorption	KCNJ11	1.0	
+Insulin-resistant diabetes mellitus AND acanthosis nigricans	KCNJ11	1.0	
+Abnormal urine output	SLC12A3	1.0	
+Hypovolemia	KCNJ11	1.0	
+Abnormality of the metopic suture	KCNJ11	1.0	
+Hypervolemia	SLC12A3	1.0	
+Germinoma	SLC12A3	1.0	
+Abnormal drinking behavior	SLC12A3	1.0	
+Abnormality of renal excretion	SLC12A3	1.0	
+Neonatal diabetes mellitus	KCNJ11	1.0	
+Noonan syndrome with multiple lentigines	SLC12A3	1.0	
+Abnormality of fatty-acid metabolism	KCNJ11	1.0	
+Alkalosis	SLC12A3	1.0	
+Polyuria	SLC12A3	1.0	
+Abnormality of urine glucose concentration	KCNJ11	1.0	
+Glycosuria	KCNJ11	1.0	
+{TSC2 angiomyolipomas, renal, modifier of}, 613254 (3)	SLC12A3	1.0	
+Tubulointerstitial nephritis	SLC12A3	1.0	
+Abnormality of potassium homeostasis	SLC12A3	1.0	
+Prenatal maternal abnormality	KCNJ11	1.0	
+Hypokalemia	SLC12A3	1.0	
+Polydipsia	SLC12A3	1.0	
+EEG with generalized epileptiform discharges	KCNJ11	1.0	
+Abnormality of urine calcium concentration	SLC12A3	1.0	
+Abnormality of vitamin metabolism	KCNJ11	1.0	
+Ketoacidosis	KCNJ11	1.0	
+Lymphangiomyomatosis	SLC12A3	1.0	
+Generalized myoclonic seizures	KCNJ11	1.0	
+EEG with irregular generalized spike and wave complexes	KCNJ11	1.0	
+Abnormality of pancreas morphology	KCNJ11	1.0	
+Abnormality of monovalent inorganic cation homeostasis	SLC12A3	1.0	
+Cortical dysplasia, complex, with other brain malformations 3	SLC12A3	1.0	
+Aortic valve disease 2	SLC12A3	1.0	
+Multisystem disorder	SLC12A3	1.0	
+Radial deviation of finger	KCNJ11	1.0	
+Primary hyperaldosteronism	SLC12A3	1.0	
+Bicuspid aortic valve	SLC12A3	1.0	
+Radial deviation of the hand	KCNJ11	1.0	
+Microalbuminuria	KCNJ11	1.0	
+Peripheral axonal neuropathy	KCNJ11	1.0	
+Epilepsy, generalized, with febrile seizures plus, type 6 (2)	KCNJ11	1.0	
+Generalized muscle weakness	SLC12A3	1.0	
+Hirschsprung disease 1	SLC12A3	1.0	
+Abnormal consumption behavior	SLC12A3	1.0	
+Pallor	KCNJ11	1.0	
+Hypercalciuria	SLC12A3	1.0	
+Nephrocalcinosis	SLC12A3	1.0	
+Muscular hypotonia of the trunk	KCNJ11	1.0	
+Downturned corners of mouth	KCNJ11	1.0	
+Epithelial hyperplasia of skin	SLC12A3	1.0	
+Sciatic Neuropathy	KCNJ11	1.0	
+Increased analgesia from kappa-opioid receptor agonist, female-specific	SLC12A3	1.0	
+Prediabetes syndrome	KCNJ11	1.0	
+Juvenile onset	SLC12A3	1.0	
+Chordoma	SLC12A3	1.0	
+Agitation	KCNJ11	1.0	
+Contractures of the joints of the lower limbs	KCNJ11	1.0	
+Muscle cramps	SLC12A3	1.0	
+Peripheral axonal degeneration	KCNJ11	1.0	
+Macroglossia	KCNJ11	1.0	
+Small for gestational age	KCNJ11	1.0	
+Cataracts, growth hormone deficiency, sensory neuropathy, sensorineural hearing loss, and skeletal dysplasia	KCNJ11	1.0	
+Paralysis	SLC12A3	1.0	
+Coma	KCNJ11	1.0	
+Hypsarrhythmia	KCNJ11	1.0	
+Generalized tonic-clonic seizures	KCNJ11	1.0	
+Paresthesia	SLC12A3	1.0	
+Abnormal urinary electrolyte concentration	SLC12A3	1.0	
+Neurologic Symptoms	KCNJ11	1.0	
+Primary adrenal insufficiency	KCNJ11	1.0	
+Calcinosis	KCNJ11	1.0	
+Dehydration	KCNJ11	1.0	
+Decreased beta-glucocerebrosidase protein and activity	KCNJ11	1.0	
+Hyperhidrosis	KCNJ11	1.0	
+Lethargy	KCNJ11	1.0	
+NOONAN-LIKE/MULTIPLE GIANT CELL LESION SYNDROME (disorder)	SLC12A3	1.0	
+Hamartoma	SLC12A3	1.0	
+Anterior hypopituitarism	KCNJ11	1.0	
+Apraxia	KCNJ11	1.0	
+Abnormality of calcium homeostasis	SLC12A3	1.0	
+Congenital contractures of the limbs and face, hypotonia, and developmental delay	KCNJ11	1.0	
+Maturity-onset diabetes of the young, type 11	KCNJ11	1.0	
+Abnormality of adrenal physiology	KCNJ11	1.0	
+Adrenal insufficiency	KCNJ11	1.0	
+Acquired long QT syndrome	KCNJ11	1.0	
+Abnormality of pancreas physiology	KCNJ11	1.0	
+Abnormality of divalent inorganic cation homeostasis	SLC12A3	1.0	
+Abnormality of the small intestine	KCNJ11	1.0	
+Arthrogryposis multiplex congenita, neurogenic, with myelin defect	KCNJ11	1.0	
+Malnutrition	KCNJ11	1.0	
+Tauopathies	SLC12A3	1.0	
+Abnormal insulin level	KCNJ11	1.0	
+Abnormal circulating insulin level	KCNJ11	1.0	
+Hypopituitarism	KCNJ11	1.0	
+Generalized seizures	KCNJ11	1.0	
+Abnormality of mouth shape	KCNJ11	1.0	
+Tachycardia	KCNJ11	1.0	
+Hypohidrosis	KCNJ11	1.0	
+Fetal Diseases	KCNJ11	1.0	
+Sudden cardiac death	KCNJ11	1.0	
+Abnormality of the adrenal glands	KCNJ11	1.0	
+Albuminuria	KCNJ11	1.0	
+Ectopic calcification	SLC12A3	1.0	
+Abnormality of blood glucose concentration	KCNJ11	1.0	
+Abnormality of lipid metabolism	KCNJ11	1.0	
+Hirschsprung Disease	SLC12A3	1.0	
+Short nose	KCNJ11	1.0	
+Abnormality of the anterior pituitary	KCNJ11	1.0	
+Sensory neuropathy	SLC12A3	1.0	
+Abdominal pain	SLC12A3	1.0	
+Abnormality of blood circulation	KCNJ11	1.0	
+Tuberous sclerosis syndrome	SLC12A3	1.0	
+Mental deterioration	KCNJ11	1.0	
+Abnormality of cation homeostasis	SLC12A3	1.0	
+Long philtrum	KCNJ11	1.0	
+Abnormality of cranial sutures	KCNJ11	1.0	
+Developmental delay with short stature, dysmorphic features, and sparse hair	KCNJ11	1.0	
+Proteinuria, low molecular weight, with hypercalciuria and nephrocalcinosis	KCNJ11	1.0	
+Maternal diabetes	KCNJ11	1.0	
+Abnormality of the pancreas	KCNJ11	1.0	
+Reduced consciousness/confusion	KCNJ11	1.0	
+Abnormality of ion homeostasis	SLC12A3	1.0	
+EEG abnormality	KCNJ11	1.0	
+Limb joint contracture	KCNJ11	1.0	
+Malabsorption	KCNJ11	1.0	
+Abnormality of central nervous system electrophysiology	KCNJ11	1.0	
+Parkinsonism	KCNJ11	1.0	
+Stage 5 chronic kidney disease	SLC12A3	1.0	
+Ovarian Diseases	KCNJ11	1.0	
+Acute myocardial infarction	KCNJ11	1.0	
+Heterogeneous	KCNJ11	1.0	
+Abnormality of the hypothalamus-pituitary axis	KCNJ11	1.0	
+Abnormality of fontanelles	KCNJ11	1.0	
+Motor delay	KCNJ11	1.0	
+Abnormality of circulating hormone level	KCNJ11	1.0	
+Hypoglycemia, neonatal, simulating foetopathia diabetica	KCNJ11	1.0	
+Diabetic Retinopathy	SLC12A3	1.0	
+Acute kidney injury	KCNJ11	1.0	
+Clinodactyly	KCNJ11	1.0	
+Acidosis	KCNJ11	1.0	
+Deviation of finger	KCNJ11	1.0	
+Deviation of the hand or of fingers of the hand	KCNJ11	1.0	
+Abnormal nervous system electrophysiology	KCNJ11	1.0	
+Nausea and vomiting	KCNJ11	1.0	
+Glucose intolerance	KCNJ11	1.0	
+Essential hypertension	SLC12A3	1.0	
+Abnormality of the philtrum	KCNJ11	1.0	
+Discoid lupus erythematosus	KCNJ11	1.0	
+Anteverted nares	KCNJ11	1.0	
+Insulin Resistance	KCNJ11	1.0	
+Arrhythmias, Cardiac	KCNJ11	1.0	
+Abnormality of the nares	KCNJ11	1.0	
+Abnormality of fluid regulation	KCNJ11	1.0	
+Hyperinsulinemia	KCNJ11	1.0	
+Renal Insufficiency, Chronic	SLC12A3	1.0	
+Abnormality of erythrocytes	KCNJ11	1.0	
+Intrauterine growth retardation	KCNJ11	1.0	
+Anxiety Disorders	KCNJ11	1.0	
+Heart Diseases	KCNJ11	1.0	
+Abnormality of the nasal alae	KCNJ11	1.0	
+Disorders of Intracellular Cobalamin Metabolism	SLC12A3	1.0	
+Hepatomegaly	KCNJ11	1.0	
+Malignant neoplasm of kidney	SLC12A3	1.0	
+Vascular Diseases	SLC12A3	1.0	
+Abnormality of the pinna	KCNJ11	1.0	
+Ptosis, hereditary congenital 1	KCNJ11	1.0	
+Retinopathy	KCNJ11	1.0	
+Celiac Disease	KCNJ11	1.0	
+Flexion contracture	KCNJ11	1.0	
+Abnormal glucose homeostasis	KCNJ11	1.0	
+Abnormal tendon morphology	KCNJ11	1.0	
+Hyperglycemia	KCNJ11	1.0	
+Visceromegaly	KCNJ11	1.0	
+Abnormality of upper lip	KCNJ11	1.0	
+Polycystic Ovary Syndrome	KCNJ11	1.0	
+Acute myocardial ischemia	KCNJ11	1.0	
+Abnormality of carbohydrate metabolism/homeostasis	KCNJ11	1.0	
+Increased body weight	KCNJ11	1.0	
+Abnormality of abdomen morphology	KCNJ11	1.0	
+Acute leukemia	SLC12A3	1.0	
+Medulloblastoma	SLC12A3	1.0	
+Abnormality of the forehead	KCNJ11	1.0	
+Abnormality of the external nose	KCNJ11	1.0	
+Constitutional symptom	SLC12A3	1.0	
+Abnormal nasal morphology	KCNJ11	1.0	
+Abnormality of the intestine	KCNJ11	1.0	
+Abnormality of coordination	KCNJ11	1.0	
+Abnormality of the retina	KCNJ11	1.0	
+Abnormality of the lip	KCNJ11	1.0	
+Diabetic Nephropathies	SLC12A3	1.0	
+Failure to thrive	KCNJ11	1.0	
+Pain	SLC12A3	1.0	
+Abnormality of the calvaria	KCNJ11	1.0	
+Small cell lung cancer	SLC12A3	1.0	
+Metabolic Syndrome X	KCNJ11	1.0	
+Osteoporosis	SLC12A3	1.0	
+Abnormality of the pituitary gland	KCNJ11	1.0	
+Ischemia	KCNJ11	1.0	
+Decreased head circumference	KCNJ11	1.0	
+Abnormality of finger	KCNJ11	1.0	

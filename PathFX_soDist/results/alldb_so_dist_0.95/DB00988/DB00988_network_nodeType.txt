@@ -1,0 +1,138 @@
+node_name	node_type	
+DB00988	drug	
+SLC6A3	drug_target	
+SLC6A2	drug_target	
+SLC6A4	drug_target	
+MAOB	drug_target	
+CYP2C19	drug_target	
+SOD1	drug_target	
+SLC22A3	drug_target	
+COMT	drug_target	
+HTR7	drug_target	
+POU5F1	drug_target	
+DBH	drug_target	
+DRD4	drug_target	
+DRD5	drug_target	
+DRD2	drug_target	
+DRD3	drug_target	
+DRD1	drug_target	
+SLC22A5	drug_target	
+MAOA	drug_target	
+HTR3B	drug_target	
+SLC22A1	drug_target	
+SLC22A2	drug_target	
+HTR3A	drug_target	
+SLC18A2	drug_target	
+HTR1A	drug_target	
+Anorexia nervosa 1	phenotype	
+Methamphetamine abuse	phenotype	
+Psychoses, Substance-Induced	phenotype	
+Substance Use Disorders	phenotype	
+Tourette Syndrome	phenotype	
+Bulimia nervosa 1	phenotype	
+Weight Gain Adverse Event	phenotype	
+Nicotine Dependence	phenotype	
+Heroin Dependence	phenotype	
+Bulimia	phenotype	
+MAJOR AFFECTIVE DISORDER 4	phenotype	
+MAJOR AFFECTIVE DISORDER 5	phenotype	
+MAJOR AFFECTIVE DISORDER 6	phenotype	
+Major affective disorder 7	phenotype	
+MAJOR AFFECTIVE DISORDER 8	phenotype	
+MAJOR AFFECTIVE DISORDER 9	phenotype	
+Personality disorder	phenotype	
+Obsessive-compulsive disorder	phenotype	
+Amphetamine-Related Disorders	phenotype	
+Substance addiction and disorders	phenotype	
+Opiate Addiction	phenotype	
+Tardive Dyskinesia	phenotype	
+Alcohol abuse	phenotype	
+Orofacial dyskinesia	phenotype	
+As If Personality	phenotype	
+Osteochondritis dissecans	phenotype	
+NEUROTICISM	phenotype	
+Cocaine Dependence	phenotype	
+Panic disorder syndrome 1 (2)	phenotype	
+Mood Disorders	phenotype	
+Unipolar Depression	phenotype	
+Marijuana Abuse	phenotype	
+Drug Dependence	phenotype	
+Antisocial/borderline personality disorder	phenotype	
+Substance abuse problem	phenotype	
+Mental disorders	phenotype	
+Drug usage	phenotype	
+Chronic Fatigue Syndrome	phenotype	
+Eating disorder	phenotype	
+Anxiety Disorders	phenotype	
+Behavior Disorders	phenotype	
+Depressive Disorder	phenotype	
+Substance Withdrawal Syndrome	phenotype	
+Migraine Disorders	phenotype	
+Generalized anxiety disorder	phenotype	
+Depressive Symptoms	phenotype	
+Nausea	phenotype	
+Alcohol withdrawal syndrome	phenotype	
+Major depressive disorder	phenotype	
+Memory Disorders	phenotype	
+CNS symptom	phenotype	
+Antisocial Personality Disorder	phenotype	
+heavy drinking	phenotype	
+Chronic schizophrenia	phenotype	
+Dyskinesia, seizures, and intellectual developmental disorder	phenotype	
+Bipolar I disorder	phenotype	
+{Unipolar depression, susceptibility to}, 608516 (3)	phenotype	
+Posttraumatic stress disorder	phenotype	
+Alcohol dependence	phenotype	
+Increased body weight	phenotype	
+Cocaine-Related Disorders	phenotype	
+Conduct Disorder	phenotype	
+Substance-Related Disorders	phenotype	
+Dyskinesia, Drug-Induced	phenotype	
+Prenatal Exposure Delayed Effects	phenotype	
+Dyspepsia	phenotype	
+Cycloid psychosis	phenotype	
+Sleep Wake Disorders	phenotype	
+Psychotic Disorders	phenotype	
+Cognition Disorders	phenotype	
+Seasonal Affective Disorder	phenotype	
+Psychiatric symptom	phenotype	
+Attention deficit hyperactivity disorder	phenotype	
+Common Migraine	phenotype	
+Borderline Personality Disorder	phenotype	
+Delusions	phenotype	
+Migraine with aura	phenotype	
+Panic disorder 1	phenotype	
+Autism spectrum disorders	phenotype	
+Schizoaffective Disorder	phenotype	
+Pregnancy Complications	phenotype	
+Fibromyalgia	phenotype	
+Bipolar affective disorder	phenotype	
+Chronic sciatica	phenotype	
+Paranoia	phenotype	
+Irritable bowel syndrome with diarrhea	phenotype	
+Bronchopulmonary Dysplasia	phenotype	
+Attention Deficit Disorder	phenotype	
+Disorder of endocrine system	phenotype	
+ {Nicotine dependence, protection against}, 188890 (3)	phenotype	
+Cocaine delirium	phenotype	
+Ichthyosis bullosa of Siemens	phenotype	
+alcohol use disorder	phenotype	
+Vomiting	phenotype	
+Anorexia	phenotype	
+Low back pain	phenotype	
+Headache	phenotype	
+Polyphagia	phenotype	
+Manic	phenotype	
+Anxiety	phenotype	
+cardiac event	phenotype	
+Weight Loss Adverse Event	phenotype	
+Hyperactivity	phenotype	
+Dyslexia 1	phenotype	
+SUDDEN INFANT DEATH SYNDROME	phenotype	
+Liver Cirrhosis, Alcoholic	phenotype	
+Abnormality of extrapyramidal motor function	phenotype	
+Obsessive-compulsive behavior	phenotype	
+Stress, Psychological	phenotype	
+Disorders of Sex Development	phenotype	
+Pharyngeal Neoplasms	phenotype	
+Pleural Neoplasms	phenotype	

@@ -1,0 +1,40 @@
+node_name	node_type	
+DB00290	drug	
+BLMH	drug_target	
+LIG1	drug_target	
+LIG3	drug_target	
+Arrhythmias, Cardiac	phenotype	
+Ataxia, combined cerebellar and peripheral, with hearing loss and diabetes mellitus	phenotype	
+Ataxia-telangiectasia syndrome	phenotype	
+Malignant tumor of urinary bladder	phenotype	
+Breast-ovarian cancer, familial 1	phenotype	
+Colorectal Neoplasms	phenotype	
+Esophageal Neoplasms	phenotype	
+Graft-versus-host disease, susceptibility to	phenotype	
+Head and Neck Neoplasms	phenotype	
+Neoplasm of the larynx	phenotype	
+Leukemia, Lymphocytic, Chronic, B-Cell	phenotype	
+Leukemia, Lymphocytic, Acute, L1	phenotype	
+Chronic myeloid leukemia	phenotype	
+Chronic obstructive pulmonary disease	phenotype	
+Non-Hodgkin lymphoma	phenotype	
+Neoplasm of the oral cavity	phenotype	
+Multiple Sclerosis	phenotype	
+Pancreatic Neoplasms	phenotype	
+Pharyngeal Neoplasms	phenotype	
+Reperfusion Injury	phenotype	
+Tobacco Use Disorder	phenotype	
+Sudden cardiac death	phenotype	
+Pancreatic Carcinoma	phenotype	
+Malignant neoplasm of lung	phenotype	
+Esophageal Squamous Cell Carcinoma	phenotype	
+Malignant neoplasm of pancreas	phenotype	
+Hematological neoplasm	phenotype	
+Malignant tumor of esophagus	phenotype	
+Ovarian epithelial cancer	phenotype	
+Breast carcinoma	phenotype	
+Bladder carcinoma	phenotype	
+Neuroblastoma	phenotype	
+B Acute Lymphoblastic Leukemia with t(9;22)(q34;q11.2); BCR-ABL1	phenotype	
+Adenoma of large intestine	phenotype	
+Colorectal cancer	phenotype	

@@ -1,0 +1,15 @@
+node_name	node_type	
+DB06213	drug	
+ADORA2A	drug_target	
+Facial cleft	phenotype	
+Abnormality of oral frenula	phenotype	
+Anal stenosis	phenotype	
+Orofacial cleft	phenotype	
+Renal interstitial fibrosis	phenotype	
+Bifid uvula	phenotype	
+Preauricular pit	phenotype	
+Periauricular skin pits	phenotype	
+Abnormality of the septum pellucidum	phenotype	
+Obstructive nephropathy	phenotype	
+Acne Vulgaris	phenotype	
+Insomnia	phenotype	

@@ -1,0 +1,61 @@
+node_name	node_type	
+DB00952	drug	
+HTR1D	drug_target	
+MAOA	drug_target	
+HTR1A	drug_target	
+HTR1B	drug_target	
+Bulimia	phenotype	
+Substance Use Disorders	phenotype	
+Personality disorder	phenotype	
+As If Personality	phenotype	
+Panic disorder 1	phenotype	
+Panic disorder syndrome 1 (2)	phenotype	
+Cocaine-Related Disorders	phenotype	
+Weight Gain Adverse Event	phenotype	
+Borderline Personality Disorder	phenotype	
+Chronic sciatica	phenotype	
+Epilepsy, Temporal Lobe	phenotype	
+Headache	phenotype	
+Anxiety	phenotype	
+Seasonal Affective Disorder	phenotype	
+Antisocial Personality Disorder	phenotype	
+Paranoid Schizophrenia	phenotype	
+Psychiatric symptom	phenotype	
+Abnormal delivery	phenotype	
+Acute disease of cardiovascular system	phenotype	
+Bulimia nervosa 1	phenotype	
+Low back pain	phenotype	
+Antisocial/borderline personality disorder	phenotype	
+Substance abuse problem	phenotype	
+Chronic Fatigue Syndrome	phenotype	
+Heart valve disease	phenotype	
+Learning Disorders	phenotype	
+Conduct Disorder	phenotype	
+Dyskinesia, Drug-Induced	phenotype	
+Hyperostosis	phenotype	
+Bradycardia	phenotype	
+Bone Diseases, Developmental	phenotype	
+Mood Disorders	phenotype	
+Memory Disorders	phenotype	
+Psychotic Disorders	phenotype	
+Migraine Disorders	phenotype	
+Esophagitis	phenotype	
+Obsessive-compulsive behavior	phenotype	
+Heroin Dependence	phenotype	
+Psychoses, Substance-Induced	phenotype	
+Drug Dependence	phenotype	
+Osteochondritis dissecans	phenotype	
+NEUROTICISM	phenotype	
+Anxiety Disorders	phenotype	
+Ichthyosis bullosa of Siemens	phenotype	
+Unipolar Depression	phenotype	
+Recurrent abortion	phenotype	
+Metaplasia	phenotype	
+Substance addiction and disorders	phenotype	
+Substance Withdrawal Syndrome	phenotype	
+Schizoaffective Disorder	phenotype	
+Amphetamine-Related Disorders	phenotype	
+Obsessive-compulsive disorder	phenotype	
+Mental disorders	phenotype	
+body mass	phenotype	
+Alcohol abuse	phenotype	

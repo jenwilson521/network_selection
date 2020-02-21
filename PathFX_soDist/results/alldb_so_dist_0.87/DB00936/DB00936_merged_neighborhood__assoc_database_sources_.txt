@@ -1,0 +1,45 @@
+Gene	CUI	Source Databases	
+ALB	C0035457	Rhinitis, Allergic, Perennial	DisGeNet	
+CYP2C9	C0035457	Rhinitis, Allergic, Perennial	DisGeNet	
+PTGS2	C0035457	Rhinitis, Allergic, Perennial	DisGeNet	
+CYP2C9	C0038354	Stomach Diseases	DisGeNet	
+PTGS1	C0038354	Stomach Diseases	DisGeNet	
+PTGS2	C0038354	Stomach Diseases	DisGeNet	
+ALB	C0041755	Adverse drug events and drug allergies	DisGeNet	
+CYP2C9	C0041755	Adverse drug events and drug allergies	DisGeNet	
+PTGS2	C0041755	Adverse drug events and drug allergies	DisGeNet	
+ALB	C0013502	Echinococcosis	DisGeNet	
+PTGS1	C0013502	Echinococcosis	DisGeNet	
+PTGS1	C0744310	gastritis h pylori	DisGeNet	
+PTGS2	C0744310	gastritis h pylori	DisGeNet	
+PTGS1	C1852467	Creutzfeldt-Jakob Disease, Sporadic	DisGeNet	
+PTGS2	C1852467	Creutzfeldt-Jakob Disease, Sporadic	DisGeNet	
+PTGS1	C0022572	keratoacanthoma	DisGeNet	
+PTGS2	C0022572	keratoacanthoma	DisGeNet	
+ALB	C0031039	Pericardial effusion	DisGeNet	
+PTGS2	C0031039	Pericardial effusion	DisGeNet	
+CYP2C9	C0041582	Peptic Ulcer Hemorrhage	DisGeNet	
+PTGS1	C0041582	Peptic Ulcer Hemorrhage	DisGeNet	
+CYP2C9	C0079487	Helicobacter Infections	DisGeNet	
+PTGS1	C0079487	Helicobacter Infections	DisGeNet	
+PTGS2	C0079487	Helicobacter Infections	DisGeNet	
+PTGS1	C0035869	Rotavirus Infections	DisGeNet	
+PTGS2	C0035869	Rotavirus Infections	DisGeNet	
+CYP2C9	C0038358	Gastric ulcer	DisGeNet	
+PTGS1	C0038358	Gastric ulcer	DisGeNet	
+PTGS2	C0038358	Gastric ulcer	DisGeNet	
+ALB	C0007121	Bronchogenic Carcinoma	DisGeNet	
+PTGS2	C0007121	Bronchogenic Carcinoma	DisGeNet	
+PTGS1	C0002792	Anaphylactic shock NOS	DisGeNet	
+PTGS2	C0002792	Anaphylactic shock NOS	DisGeNet	
+ALB	C0027707	Tubulointerstitial nephritis	DisGeNet	
+CYP2C9	C0027707	Tubulointerstitial nephritis	DisGeNet	
+CYP2C9	C0030920	Peptic ulcer	DisGeNet	
+PTGS1	C0030920	Peptic ulcer	DisGeNet	
+PTGS2	C0030920	Peptic ulcer	DisGeNet	
+CYP2C9	C0242510	Drug usage	DisGeNet	
+PTGS2	C0242510	Drug usage	DisGeNet	
+ALB	C1260959	Drusen	DisGeNet	
+PTGS2	C1260959	Drusen	DisGeNet	
+PTGS1	C0020545	Renovascular hypertension	DisGeNet	
+PTGS2	C0020545	Renovascular hypertension	DisGeNet	

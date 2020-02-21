@@ -1,0 +1,36 @@
+node_name	node_type	
+DB00388	drug	
+ADRA1A	drug_target	
+CYP1A2	drug_target	
+ADRA1B	drug_target	
+MAOA	drug_target	
+ADRA1D	drug_target	
+Chronic schizophrenia	phenotype	
+Dyskinesia, Drug-Induced	phenotype	
+Pruritus	phenotype	
+Polyglandular Type I Autoimmune Syndrome	phenotype	
+ Acrodysostosis 1, with or without hormone resistance, 101800 (3)	phenotype	
+Pseudohypoparathyroidism, type IB, 603233 (3)	phenotype	
+Pleural Neoplasms	phenotype	
+Chronic sciatica	phenotype	
+Disorders of parathyroid gland	phenotype	
+genetic hypertension	phenotype	
+Hereditary Sensory Autonomic Neuropathy, Type 1	phenotype	
+Lung Injury	phenotype	
+Bladder neck obstruction	phenotype	
+Taste bitter	phenotype	
+ {Porphyria cutanea tarda, susceptibility to}, 176100 (3)	phenotype	
+Congenital long QT syndrome	phenotype	
+Pulmonary Cystic Fibrosis	phenotype	
+Paranoid Schizophrenia	phenotype	
+Gastroparesis	phenotype	
+Hypoparathyroidism - autosomal dominant	phenotype	
+Acute postoperative pain	phenotype	
+Genomic Instability	phenotype	
+Acute disease of cardiovascular system	phenotype	
+Nephrosclerosis	phenotype	
+Paroxysmal atrial fibrillation	phenotype	
+Cholestasis of pregnancy	phenotype	
+Low back pain	phenotype	
+Nephrogenic diabetes insipidus, autosomal	phenotype	
+Chemical Carcinogenesis	phenotype	

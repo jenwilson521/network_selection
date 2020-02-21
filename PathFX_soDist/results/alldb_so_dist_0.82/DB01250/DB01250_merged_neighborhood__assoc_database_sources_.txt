@@ -1,0 +1,138 @@
+Gene	CUI	Source Databases	
+IFNG	C0005956	Myelopathy	DisGeNet	
+TPMT	C0005956	Myelopathy	DisGeNet	
+IFNG	C0949690	{Spondyloarthropathy, susceptibility to, 1}, 106300 (3)	DisGeNet	
+TPMT	C0949690	{Spondyloarthropathy, susceptibility to, 1}, 106300 (3)	DisGeNet	
+IFNG	C0042721	Viral hepatitis	DisGeNet	
+TPMT	C0042721	Viral hepatitis	DisGeNet	
+IFNG	C0013182	Drug Allergy	DisGeNet	
+TPMT	C0013182	Drug Allergy	DisGeNet	
+IFNG	C0035435	Rheumatic disease of heart valve	DisGeNet	
+TPMT	C0035435	Rheumatic disease of heart valve	DisGeNet	
+IFNG	C0241910	Hepatitis, Autoimmune	DisGeNet	
+TPMT	C0241910	Hepatitis, Autoimmune	DisGeNet	
+IFNG	C0018939	Hematological Disease	DisGeNet	
+TPMT	C0018939	Hematological Disease	DisGeNet	
+IFNG	C0011609	Drug Eruptions	DisGeNet	
+IFNG	C0035450	Rheumatoid Nodule	DisGeNet	
+IFNG	C0036472	Scrub Typhus	DisGeNet	
+IFNG	C0041326	Pleural Tuberculosis	DisGeNet	
+IFNG	C1276146	Cutaneous lymphoma	DisGeNet	
+IFNG	C1609538	Latent Tuberculosis	DisGeNet	
+IFNG	C0267797	Acute hepatitis	DisGeNet	
+IFNG	C0333997	Lymphoid hyperplasia	DisGeNet	
+IFNG	C0010403	Cryoglobulinemia	DisGeNet	
+IFNG	C0034362	Q Fever	DisGeNet	
+IFNG	C0041318	Tuberculosis, Meningeal	DisGeNet	
+IFNG	C0403396	Steroid-sensitive nephrotic syndrome	DisGeNet	
+TPMT	C0746883	Febrile Neutropenia	DisGeNet	
+IFNG	C0876991	Hemophagocytosis	DisGeNet	
+IFNG	C0002797	Bovine Anaplasmosis	DisGeNet	
+IFNG	C0006845	Chronic mucocutaneous candidiasis	DisGeNet	
+IFNG	C0016629	Fowlpox	DisGeNet	
+IFNG	C2316212	Cryopyrin-Associated Periodic Syndromes	DisGeNet	
+IFNG	C0000833	Abscess	DisGeNet	
+IFNG	C0025229	Melioidosis, susceptibility to	DisGeNet	
+IFNG	C0009443	Familial cold-induced inflammatory syndrome 1, 120100 (3)	DisGeNet	
+IFNG	C0038363	Oral aphthae	DisGeNet	
+IFNG	C1851585	Myeloproliferative disorder, chronic, with eosinophilia	DisGeNet	
+IFNG	C0017565	Gingival bleeding	DisGeNet	
+IFNG	C0018188	Granuloma	DisGeNet	
+IFNG	C0020625	Hyponatremia	DisGeNet	
+IFNG	C0032965	Pregnancy Complications, Infectious	DisGeNet	
+IFNG	C0558356	Malignant melanoma of eye	DisGeNet	
+IFNG	C0024537	Malaria, Vivax	DisGeNet	
+IFNG	C0206061	Interstitial lung and liver disease	DisGeNet	
+IFNG	C1519176	Pleomorphic adenoma of salivary gland	DisGeNet	
+IFNG	C0860207	Drug-Induced Liver Injury	DisGeNet	
+TPMT	C0860207	Drug-Induced Liver Injury	DisGeNet	
+IFNG	C0008311	Cholangitis	DisGeNet	
+IFNG	C0024205	Lymphadenitis	DisGeNet	
+IFNG	C0031094	Periodontal Pocket	DisGeNet	
+IFNG	C0038160	Staphylococcal Infections	DisGeNet	
+IFNG	C0275522	Asymptomatic Infections	DisGeNet	
+IFNG	C0853662	Oestrogen deficiency	DisGeNet	
+IFNG	C0002390	Extrinsic allergic alveolitis	DisGeNet	
+IFNG	C0004030	Systemic aspergillosis	DisGeNet	
+IFNG	C0021345	Fatal infectious mononucleosis	DisGeNet	
+IFNG	C0023646	Lichen planus pemphigoides	DisGeNet	
+IFNG	C3266102	Steroid-resistant nephrotic syndrome	DisGeNet	
+IFNG	C0011608	Dermatitis Herpetiformis	DisGeNet	
+IFNG	C0014378	Enterovirus Infections	DisGeNet	
+IFNG	C0014661	Equine Infectious Anemia	DisGeNet	
+IFNG	C0026766	Multiple Organ Failure	DisGeNet	
+IFNG	C0036349	Paranoid Schizophrenia	DisGeNet	
+IFNG	C0042961	Volvulus	DisGeNet	
+TPMT	C0206157	Nemaline myopathy	DisGeNet	
+TPMT	C0854467	Myelosuppression	DisGeNet	
+IFNG	C0032533	Polymyalgia Rheumatica	DisGeNet	
+IFNG	C2939465	Deficiency of glucose-6-phosphate dehydrogenase	DisGeNet	
+IFNG	C0002382	Alveolar Bone Loss	DisGeNet	
+IFNG	C0009663	Condylomata Acuminata	DisGeNet	
+IFNG	C0036117	Salmonella infections	DisGeNet	
+IFNG	C0037354	Smallpox	DisGeNet	
+IFNG	C0019372	Herpesviridae Infections	DisGeNet	
+IFNG	C0037928	Chronic myelopathy	DisGeNet	
+IFNG	C0494261	Combined immunodeficiency, X-linked	DisGeNet	
+IFNG	C0014518	Toxic Epidermal Necrolysis	DisGeNet	
+IFNG	C3665419	Intracranial glioma	DisGeNet	
+IFNG	C0149939	Obstructive nephropathy	DisGeNet	
+IFNG	C0403416	Idiopathic crescentic glomerulonephritis	DisGeNet	
+IFNG	C0403592	Chronic rejection of renal transplant	DisGeNet	
+IFNG	C0024314	Lymphoproliferative disorder	DisGeNet	
+TPMT	C0024314	Lymphoproliferative disorder	DisGeNet	
+IFNG	C0151332	Active tuberculosis	DisGeNet	
+IFNG	C0206633	{TSC2 angiomyolipomas, renal, modifier of}, 613254 (3)	DisGeNet	
+IFNG	C0543697	Mixed cryoglobulinemia	DisGeNet	
+IFNG	C0038354	Stomach Diseases	DisGeNet	
+IFNG	C0038522	Subacute Sclerosing Panencephalitis	DisGeNet	
+IFNG	C0153014	Non-arthropod borne lymphocytic choriomeningitis	DisGeNet	
+IFNG	C0349458	Cervical intraepithelial neoplasia grade 1	DisGeNet	
+IFNG	C0024302	Reticulosarcoma	DisGeNet	
+IFNG	C0040021	Thromboangiitis Obliterans	DisGeNet	
+IFNG	C1306214	Pituitary corticotropic cell adenoma	DisGeNet	
+IFNG	C1838681	Rapidly progressive	DisGeNet	
+IFNG	C0023448	Lymphoid leukemia	DisGeNet	
+TPMT	C0023448	Lymphoid leukemia	DisGeNet	
+IFNG	C0015674	Chronic Fatigue Syndrome	DisGeNet	
+IFNG	C0027947	Neutropenia	DisGeNet	
+TPMT	C0027947	Neutropenia	DisGeNet	
+TPMT	C0001824	Agranulocytosis	DisGeNet	
+IFNG	C0006309	Brucellosis	DisGeNet	
+IFNG	C0040558	Toxoplasmosis	DisGeNet	
+IFNG	C0242172	Pelvic inflammatory disease	DisGeNet	
+IFNG	C0008312	Primary biliary cirrhosis	DisGeNet	
+TPMT	C0008312	Primary biliary cirrhosis	DisGeNet	
+IFNG	C0016719	Friedreich's ataxia	DisGeNet	
+IFNG	C0032231	Pleuritis	DisGeNet	
+IFNG	C0349459	Cervical intraepithelial neoplasia grade 2	DisGeNet	
+IFNG	C0950124	Papillomavirus Infections	DisGeNet	
+IFNG	C0027813	Neuritis	DisGeNet	
+IFNG	C0032269	Pneumococcal Infections	DisGeNet	
+IFNG	C0035920	Rubella	DisGeNet	
+IFNG	C0085435	Arthritis, Reactive	DisGeNet	
+IFNG	C0085786	Idiopathic fibrosing alveolitis, chronic form	DisGeNet	
+IFNG	C0023364	Leptospirosis	DisGeNet	
+IFNG	C0030807	Pemphigus	DisGeNet	
+IFNG	C0037116	Silicosis	DisGeNet	
+IFNG	C0007930	Chagas Cardiomyopathy	DisGeNet	
+IFNG	C1851710	Lehman syndrome	DisGeNet	
+IFNG	C0549463	Lymphoproliferative syndrome, X-linked, 1, 308240 (3)	DisGeNet	
+IFNG	C0023283	Zoonotic form of cutaneous leishmaniasis	DisGeNet	
+IFNG	C0027497	Nausea	DisGeNet	
+IFNG	C0158646	Cleft palate with cleft lip	DisGeNet	
+IFNG	C0276275	Disease due to Parvoviridae	DisGeNet	
+IFNG	C0011226	Hepatitis D Infection	DisGeNet	
+IFNG	C0014743	Erythema nodosum	DisGeNet	
+IFNG	C3714636	Pneumonitis	DisGeNet	
+IFNG	C0027540	Necrosis	DisGeNet	
+IFNG	C0035242	Respiratory Tract Diseases	DisGeNet	
+IFNG	C0023281	Leishmaniasis	DisGeNet	
+IFNG	C0152031	Joint swelling	DisGeNet	
+IFNG	C3665444	Chronic neutrophilia	DisGeNet	
+IFNG	C0014522	EPIDERMODYSPLASIA VERRUCIFORMIS	DisGeNet	
+IFNG	C0024266	Lymphocytic Choriomeningitis	DisGeNet	
+IFNG	C0027659	Neoplasms, Experimental	DisGeNet	
+IFNG	C0030481	Tropical Spastic Paraparesis	DisGeNet	
+IFNG	C0018553	Cowden syndrome 1	DisGeNet	
+IFNG	C0029172	Oral Submucous Fibrosis	DisGeNet	

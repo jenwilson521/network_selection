@@ -1,0 +1,238 @@
+node1	node2	edge_score	
+DB08910	PTGS2	1.0	
+DB08910	CYP1A2	1.0	
+DB08910	ABCB1	1.0	
+DB08910	TNF	1.0	
+DB08910	CYP3A4	1.0	
+DB08910	CRBN	1.0	
+PTGS2	rs12042763	0.99
+CYP3A4	rs35599367	0.99
+ABCB1	rs1922242	0.99
+CYP3A4	rs2242480	0.99
+TNF	rs1800629	0.99
+ABCB1	rs2032583	0.99
+rs2740574	CYP3A	0.9801
+ABCB1	rs10280101	0.99
+ABCB1	rs3213619	0.99
+ABCB1	rs3842	0.99
+TNF	rs1799724	0.99
+CYP3A4	rs4646437	0.99
+rs1800629	LTA	0.9801
+CYP1A2	rs72547517	0.99
+TNF		1.0
+CYP1A2	rs2470890	0.99
+CYP1A2	rs4646425	0.99
+LTA	rs3093726	0.970299
+ABCB1	ABCB1*2(PMID:11503014)	0.99
+PTGS2		1.0
+CYP3A4	rs2246709	0.99
+CYP3A	rs12721627	0.970299
+CYP1A2	rs72547516	0.99
+CYP3A4	CYP3A4*1, CYP3A4*4	0.99
+CYP1A2	rs2069514	0.99
+rs4987161	CYP3A	0.9801
+rs12721627	CYP3A	0.9801
+ABCB1	rs11983225	0.99
+CYP3A4	rs3735451	0.99
+TNF	rs1799964	0.99
+ABCB1	rs12720067	0.99
+ABCB1	ABCB1*1, ABCB1*2(PMID:11503014)	0.99
+ABCB1	rs4148740	0.99
+ABCB1	rs4148738	0.99
+PTGS2	rs20417	0.99
+CYP1A2	CYP1A2*1A, CYP1A2*1F	0.99
+CYP3A4		1.0
+rs12721627	CYP3A4	0.96059601
+ABCB1	rs10267099	0.99
+CYP3A4	rs4987161	0.99
+ABCB1	rs7787082	0.99
+CYP3A4	CYP3A4*1, CYP3A4*22	0.99
+rs3093726	LST1	0.96059601
+CYP3A	rs2740574	0.970299
+ABCB1	rs4148739	0.99
+ABCB1	rs72552784	0.99
+ABCB1	rs28401781	0.99
+ABCB1	rs2235047	0.99
+ABCB1		1.0
+CYP1A2	rs2069526	0.99
+TNF	rs361525	0.99
+ABCB1	rs2235015	0.99
+ABCB1	rs4148737	0.99
+CYP1A2		1.0
+ABCB1	rs2229109	0.99
+rs4987161	CYP3A4	0.96059601
+CYP3A4	rs2740574	0.99
+ABCB1	rs1045642	0.99
+rs2740574	CYP3A4	0.96059601
+ABCB1	rs17160359	0.99
+CYP3A4	rs28371759	0.99
+CYP3A4	rs4986910	0.99
+ABCB1	rs9282564	0.99
+CYP3A	rs4987161	0.970299
+CYP3A4	CYP3A4*1, CYP3A4*20, CYP3A4*8	0.99
+ABCB1	rs3789243	0.99
+ABCB1	rs1128503	0.99
+ABCB1	rs10276036	0.99
+PTGS2	rs5275	0.99
+ABCB1	rs10248420	0.99
+ABCB1	rs2032582	0.99
+ABCB1	rs4728709	0.99
+CYP1A2	rs4646427	0.99
+CYP1A2	rs2472304	0.99
+rs3093726	LTB	0.96059601
+ABCB1	rs2235067	0.99
+CYP3A4	rs4646440	0.99
+CYP3A4	rs12721627	0.99
+PTGS2	rs4648287	0.99
+CYP1A2	rs762551	0.99
+CYP3A4	CYP3A4*1, CYP3A4*1G	0.99
+ABCB1	rs2235040	0.99
+CYP3A4	rs56324128	0.99
+Acute postoperative pain	ABCB1	1.0	
+Acute postoperative pain	CYP3A4	1.0	
+Acute postoperative pain	PTGS2	1.0	
+Acute postoperative pain	TNF	1.0	
+Femur Head Necrosis	ABCB1	1.0	
+Femur Head Necrosis	CYP3A4	1.0	
+Femur Head Necrosis	TNF	1.0	
+Postoperative Complications	ABCB1	1.0	
+Postoperative Complications	LTA	1.0	
+Postoperative Complications	PTGS2	1.0	
+Postoperative Complications	TNF	1.0	
+Acute hepatic failure	CYP1A2	1.0	
+Acute hepatic failure	CYP3A4	1.0	
+Acute hepatic failure	LTA	1.0	
+Acute hepatic failure	PTGS2	1.0	
+Acute hepatic failure	TNF	1.0	
+Chronic schizophrenia	CYP1A2	1.0	
+Chronic schizophrenia	CYP3A4	1.0	
+Chronic schizophrenia	TNF	1.0	
+Drug Allergy	ABCB1	1.0	
+Drug Allergy	CYP3A4	1.0	
+Drug Allergy	LTA	1.0	
+Drug Allergy	TNF	1.0	
+Lichen Planus, Oral	CYP1A2	1.0	
+Lichen Planus, Oral	LTA	1.0	
+Lichen Planus, Oral	PTGS2	1.0	
+Lichen Planus, Oral	TNF	1.0	
+Gastric Cardia Adenocarcinoma	LTA	1.0	
+Gastric Cardia Adenocarcinoma	PTGS2	1.0	
+Gastric Cardia Adenocarcinoma	TNF	1.0	
+Malaria, Falciparum	ABCB1	1.0	
+Malaria, Falciparum	LTA	1.0	
+Malaria, Falciparum	LTB	1.0	
+Malaria, Falciparum	PTGS2	1.0	
+Malaria, Falciparum	TNF	1.0	
+Stomach Diseases	LTA	1.0	
+Stomach Diseases	PTGS2	1.0	
+Stomach Diseases	TNF	1.0	
+Varicose Ulcer	LST1	1.0	
+Varicose Ulcer	LTA	1.0	
+Varicose Ulcer	TNF	1.0	
+Chronic Fatigue Syndrome	LTA	1.0	
+Chronic Fatigue Syndrome	PTGS2	1.0	
+Chronic Fatigue Syndrome	TNF	1.0	
+Coronary Restenosis	ABCB1	1.0	
+Coronary Restenosis	LTA	1.0	
+Coronary Restenosis	TNF	1.0	
+Neoplasm of the larynx	CYP1A2	1.0	
+Neoplasm of the larynx	CYP3A4	1.0	
+Neoplasm of the larynx	PTGS2	1.0	
+Neoplasm of the larynx	TNF	1.0	
+Endometrial Neoplasms	ABCB1	1.0	
+Endometrial Neoplasms	CYP1A2	1.0	
+Endometrial Neoplasms	CYP3A4	1.0	
+Endometrial Neoplasms	LTA	1.0	
+Endometrial Neoplasms	PTGS2	1.0	
+Endometrial Neoplasms	TNF	1.0	
+Pain insensitivity	ABCB1	1.0	
+Pain insensitivity	CYP3A4	1.0	
+Pain insensitivity	TNF	1.0	
+Helicobacter Infections	ABCB1	1.0	
+Helicobacter Infections	LTA	1.0	
+Helicobacter Infections	PTGS2	1.0	
+Helicobacter Infections	TNF	1.0	
+Nausea	ABCB1	1.0	
+Nausea	CYP1A2	1.0	
+Nausea	TNF	1.0	
+Malignant Fibrous Histiocytoma	ABCB1	1.0	
+Malignant Fibrous Histiocytoma	PTGS2	1.0	
+Malignant Fibrous Histiocytoma	TNF	1.0	
+Oral Submucous Fibrosis	LTA	1.0	
+Oral Submucous Fibrosis	PTGS2	1.0	
+Oral Submucous Fibrosis	TNF	1.0	
+Shigella Infections	LTB	1.0	
+Shigella Infections	PTGS2	1.0	
+Shigella Infections	TNF	1.0	
+Sarcoidosis, Pulmonary	LTA	1.0	
+Sarcoidosis, Pulmonary	PTGS2	1.0	
+Sarcoidosis, Pulmonary	TNF	1.0	
+Adverse drug events and drug allergies	ABCB1	1.0	
+Adverse drug events and drug allergies	CYP1A2	1.0	
+Adverse drug events and drug allergies	PTGS2	1.0	
+Peripheral T-Cell Lymphoma	ABCB1	1.0	
+Peripheral T-Cell Lymphoma	CYP3A4	1.0	
+Peripheral T-Cell Lymphoma	LTA	1.0	
+Peripheral T-Cell Lymphoma	TNF	1.0	
+Meningococcal Infections	LST1	1.0	
+Meningococcal Infections	LTA	1.0	
+Meningococcal Infections	TNF	1.0	
+Vitreoretinopathy, neovascular inflammatory, 193235 (3)	LST1	1.0	
+Vitreoretinopathy, neovascular inflammatory, 193235 (3)	LTA	1.0	
+Vitreoretinopathy, neovascular inflammatory, 193235 (3)	TNF	1.0	
+Pharyngeal Neoplasms	CYP1A2	1.0	
+Pharyngeal Neoplasms	CYP3A4	1.0	
+Pharyngeal Neoplasms	TNF	1.0	
+Tardive Dyskinesia	CYP1A2	1.0	
+Tardive Dyskinesia	CYP3A4	1.0	
+Tardive Dyskinesia	TNF	1.0	
+Colorectal polyposis	CYP1A2	1.0	
+Colorectal polyposis	PTGS2	1.0	
+Colorectal polyposis	TNF	1.0	
+Acute Coronary Syndrome	ABCB1	1.0	
+Acute Coronary Syndrome	CYP1A2	1.0	
+Acute Coronary Syndrome	CYP3A4	1.0	
+Acute Coronary Syndrome	LTA	1.0	
+Acute Coronary Syndrome	PTGS2	1.0	
+Acute Coronary Syndrome	TNF	1.0	
+Primary malignant neoplasm of liver	ABCB1	1.0	
+Primary malignant neoplasm of liver	CYP3A4	1.0	
+Achalasia	LTA	1.0	
+Achalasia	TNF	1.0	
+Neoplasm of the oral cavity	CYP1A2	1.0	
+Neoplasm of the oral cavity	CYP3A4	1.0	
+Neoplasm of the oral cavity	LTA	1.0	
+Neoplasm of the oral cavity	PTGS2	1.0	
+Neoplasm of the oral cavity	TNF	1.0	
+Dyslipidemias	ABCB1	1.0	
+Dyslipidemias	CYP3A4	1.0	
+Dyslipidemias	LTA	1.0	
+Dyslipidemias	PTGS2	1.0	
+Dyslipidemias	TNF	1.0	
+Viral hepatitis	ABCB1	1.0	
+Viral hepatitis	LTA	1.0	
+Viral hepatitis	TNF	1.0	
+Orofacial dyskinesia	CYP1A2	1.0	
+Orofacial dyskinesia	CYP3A4	1.0	
+Orofacial dyskinesia	TNF	1.0	
+Philadelphia chromosome positive chronic myelogenous leukemia	ABCB1	1.0	
+Philadelphia chromosome positive chronic myelogenous leukemia	TNF	1.0	
+Steroid-sensitive nephrotic syndrome	ABCB1	1.0	
+Steroid-sensitive nephrotic syndrome	TNF	1.0	
+Chronic liver disease	CYP1A2	1.0	
+Chronic liver disease	CYP3A4	1.0	
+Chronic liver disease	PTGS2	1.0	
+Chronic liver disease	TNF	1.0	
+Complications of Diabetes Mellitus	LTA	1.0	
+Complications of Diabetes Mellitus	PTGS2	1.0	
+Complications of Diabetes Mellitus	TNF	1.0	
+Typhoid Fever	LTA	1.0	
+Typhoid Fever	TNF	1.0	
+Lung Injury	CYP1A2	1.0	
+Lung Injury	TNF	1.0	
+Fulminant hepatitis	LTA	1.0	
+Fulminant hepatitis	TNF	1.0	
+Early gastric cancer	PTGS2	1.0	
+Early gastric cancer	TNF	1.0	
+Malignant neoplasm of vulva	PTGS2	1.0	
+Malignant neoplasm of vulva	TNF	1.0	

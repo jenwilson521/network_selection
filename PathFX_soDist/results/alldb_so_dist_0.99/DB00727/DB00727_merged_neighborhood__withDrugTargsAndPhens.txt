@@ -1,0 +1,4 @@
+node1	node2	edge_score	
+DB00727	NPR1	1.0	
+DB00727	ALDH2	1.0	
+

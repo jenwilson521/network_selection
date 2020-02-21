@@ -1,0 +1,45 @@
+node_name	node_type	
+DB00316	drug	
+PTGS2	drug_target	
+PTGS1	drug_target	
+FAAH	drug_target	
+CYP2D6	drug_target	
+NAT2	drug_target	
+SULT1A1	drug_target	
+CYP1A2	drug_target	
+CYP2E1	drug_target	
+UGT2B15	drug_target	
+ABCB1	drug_target	
+CYP2A6	drug_target	
+GSTP1	drug_target	
+CYP3A4	drug_target	
+TRPV1	drug_target	
+UGT1A1	drug_target	
+UGT1A6	drug_target	
+UGT1A9	drug_target	
+Drug Allergy	phenotype	
+Hepatitis D Infection	phenotype	
+Neoplasm of the larynx	phenotype	
+Adverse drug events and drug allergies	phenotype	
+Slow acetylator due to N-acetyltransferase enzyme variant	phenotype	
+Hearing Loss, Partial	phenotype	
+Febrile Neutropenia	phenotype	
+Hyperbilirubinemia	phenotype	
+Pharyngeal Neoplasms	phenotype	
+Mammographic breast density	phenotype	
+Cholelithiasis	phenotype	
+Pleural Neoplasms	phenotype	
+Adenoma of large intestine	phenotype	
+Squamous Cell Neoplasms	phenotype	
+Head and Neck Neoplasms	phenotype	
+Drug-Induced Liver Injury	phenotype	
+Colonic Polyps	phenotype	
+Acute postoperative pain	phenotype	
+Genomic Instability	phenotype	
+Deafness, autosomal recessive 44	phenotype	
+Pancreatitis, Alcoholic	phenotype	
+Malignant neoplasm of larynx	phenotype	
+Neoplasm of the oral cavity	phenotype	
+Chronic liver disease	phenotype	
+Stomach Diseases	phenotype	
+Carcinoma, Small Cell	phenotype	

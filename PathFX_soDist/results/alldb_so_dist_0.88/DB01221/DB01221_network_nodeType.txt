@@ -1,0 +1,30 @@
+node_name	node_type	
+DB01221	drug	
+CYP2C9	drug_target	
+CYP2C8	drug_target	
+PTGS1	drug_target	
+SLC6A2	drug_target	
+NOS1	drug_target	
+DRD2	drug_target	
+CYP2B6	drug_target	
+GRIN3A	drug_target	
+OPRM1	drug_target	
+BCHE	drug_target	
+OPRD1	drug_target	
+HTR3A	drug_target	
+OPRK1	drug_target	
+CYP3A4	drug_target	
+TACR1	drug_target	
+Heroin Dependence	phenotype	
+Opiate Addiction	phenotype	
+Cocaine Dependence	phenotype	
+Pharyngeal Neoplasms	phenotype	
+Methamphetamine abuse	phenotype	
+Nicotine Dependence	phenotype	
+Nausea	phenotype	
+Neoplasm of the larynx	phenotype	
+Drug Dependence	phenotype	
+Enzyme inhibition disorder	phenotype	
+Cocaine delirium	phenotype	
+heavy drinking	phenotype	
+alcohol use disorder	phenotype	

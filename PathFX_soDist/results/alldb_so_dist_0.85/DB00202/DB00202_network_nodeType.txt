@@ -1,0 +1,46 @@
+node_name	node_type	
+DB00202	drug	
+CHRM3	drug_target	
+BCHE	drug_target	
+CHRM2	drug_target	
+CHRM1	drug_target	
+Recurrent major depressive episodes	phenotype	
+Enzyme inhibition disorder	phenotype	
+childhood brain tumor	phenotype	
+Churg-Strauss Syndrome	phenotype	
+Neurotoxicity Syndromes	phenotype	
+Gestational trophoblastic disease	phenotype	
+Malignant hyperthermia susceptibility	phenotype	
+Cerebral Amyloid Angiopathy	phenotype	
+Leptospirosis	phenotype	
+Aural atresia, congenital	phenotype	
+Bradycardia	phenotype	
+Refractory anemia	phenotype	
+Refractory anaemia with excess blasts	phenotype	
+Cocaine Dependence	phenotype	
+Adverse drug events and drug allergies	phenotype	
+Memory Loss	phenotype	
+Familial dilated cardiomyopathy	phenotype	
+Congenital myasthenic syndrome	phenotype	
+Cognition Disorders	phenotype	
+Hydatidiform mole, recurrent, 1, 231090 (3)	phenotype	
+Fasciculations	phenotype	
+Drug Dependence	phenotype	
+Sleep apnea	phenotype	
+Postoperative Complications	phenotype	
+Congenital disorder of glycosylation	phenotype	
+Substance addiction and disorders	phenotype	
+Type 1 diabetic neuropathy	phenotype	
+Paralysis	phenotype	
+body mass	phenotype	
+Alcohol abuse	phenotype	
+Spastic syndrome	phenotype	
+Methamphetamine abuse	phenotype	
+Thrombocytosis, benign familial microcytic	phenotype	
+Nicotine Dependence	phenotype	
+early pregnancy	phenotype	
+Chronic myelomonocytic leukemia	phenotype	
+Hereditary hyperhomocysteinemia	phenotype	
+Cocaine-Related Disorders	phenotype	
+Hypertriglyceridemia	phenotype	
+Adult onset ataxia with oculomotor apraxia	phenotype	

@@ -1,0 +1,215 @@
+node1	node2	edge_score	
+DB00746	APP	1.0	
+DB00746	XDH	1.0	
+APP		1.0
+XDH		1.0
+Hypoxia	APP	1.0	
+Hypoxia	XDH	1.0	
+Arteriosclerosis	APP	1.0	
+Arteriosclerosis	XDH	1.0	
+Asthma	APP	1.0	
+Asthma	XDH	1.0	
+Atherosclerosis	APP	1.0	
+Atherosclerosis	XDH	1.0	
+Autism 15	APP	1.0	
+Autism 15	XDH	1.0	
+Breast-ovarian cancer, familial 1	APP	1.0	
+Breast-ovarian cancer, familial 1	XDH	1.0	
+Cardiovascular Diseases	APP	1.0	
+Cardiovascular Diseases	XDH	1.0	
+Verotoxigenic Escherichia coli gastrointestinal tract infection	APP	1.0	
+Verotoxigenic Escherichia coli gastrointestinal tract infection	XDH	1.0	
+Hypertension	APP	1.0	
+Hypertension	XDH	1.0	
+Ischemia	APP	1.0	
+Ischemia	XDH	1.0	
+{Gastric cancer risk after H. pylori infection}, 137215 (3)	APP	1.0	
+{Gastric cancer risk after H. pylori infection}, 137215 (3)	XDH	1.0	
+Myopathy, scapulohumeroperoneal	APP	1.0	
+Myopathy, scapulohumeroperoneal	XDH	1.0	
+Secondary hypertriglyceridemia	APP	1.0	
+Secondary hypertriglyceridemia	XDH	1.0	
+Neurodegeneration with brain iron accumulation	APP	1.0	
+Neurodegeneration with brain iron accumulation	XDH	1.0	
+Sepsis	APP	1.0	
+Sepsis	XDH	1.0	
+Breast carcinoma	APP	1.0	
+Breast carcinoma	XDH	1.0	
+Stomach cancer	APP	1.0	
+Stomach cancer	XDH	1.0	
+Major depressive disorder	APP	1.0	
+Major depressive disorder	XDH	1.0	
+Hepatocellular carcinoma	APP	1.0	
+Hepatocellular carcinoma	XDH	1.0	
+Abnormality of metabolism/homeostasis	APP	1.0	
+Abnormality of metabolism/homeostasis	XDH	1.0	
+Peroxisome biogenesis disorders	APP	1.0	
+Phenylketonuria	APP	1.0	
+Calcium oxalate urolithiasis	XDH	1.0	
+Abnormality of purine metabolism	XDH	1.0	
+Niemann-Pick disease, type C	APP	1.0	
+Familial Alzheimer Disease (FAD)	APP	1.0	
+Normal pressure hydrocephalus	APP	1.0	
+Progressive cerebellar degeneration	APP	1.0	
+Chronic myelopathy	APP	1.0	
+Neurobehavioral Manifestations	APP	1.0	
+Abnormality of nucleobase metabolism	XDH	1.0	
+Plague	APP	1.0	
+Decreased activity of 3-hydroxyacyl-CoA dehydrogenase	APP	1.0	
+Death in early adulthood	APP	1.0	
+Kidney Calculi	XDH	1.0	
+Learning Disorders	APP	1.0	
+Conduct Disorder	APP	1.0	
+Moyamoya Disease	APP	1.0	
+Osteitis Deformans	APP	1.0	
+Pyelonephritis	XDH	1.0	
+Cerebral Amyloid Angiopathy	APP	1.0	
+Iron deficiency anemia	APP	1.0	
+Aural atresia, congenital	APP	1.0	
+Meningeal Neoplasms	XDH	1.0	
+Memory Disorders	APP	1.0	
+Necrosis	APP	1.0	
+Diabetic Cardiomyopathies	XDH	1.0	
+Joint swelling	APP	1.0	
+Cowden syndrome 1	APP	1.0	
+2,4-Dienoyl-CoA reductase deficiency	APP	1.0	
+Memory Loss	APP	1.0	
+Cognition Disorders	APP	1.0	
+Attention Deficit Disorder	APP	1.0	
+Occupational Diseases	XDH	1.0	
+Inclusion Body Myositis (disorder)	APP	1.0	
+Hyperuricemia, pulmonary hypertension, renal failure, and alkalosis	XDH	1.0	
+Complicated hereditary spastic paraplegia	APP	1.0	
+Alzheimer Disease, Late Onset	APP	1.0	
+Premature aging syndrome	APP	1.0	
+Tetanus	APP	1.0	
+Dementia, Vascular	APP	1.0	
+Infarction, Middle Cerebral Artery	XDH	1.0	
+Liver regeneration disorder	APP	1.0	
+Febrile seizures, familial, 4	APP	1.0	
+Paralysis	APP	1.0	
+Coma	APP	1.0	
+Prion Diseases	APP	1.0	
+Polyglandular autoimmune syndrome, type 1	APP	1.0	
+Paresthesia	APP	1.0	
+Cerebral calcification	APP	1.0	
+Hepatopulmonary Syndrome	XDH	1.0	
+Abnormality of cerebral artery	APP	1.0	
+Bacteremia, susceptibility to, 2	APP	1.0	
+Frontotemporal dementia, ubiquitin-positive	APP	1.0	
+ Frontotemporal lobar degeneration, TARDBP-related, 612069 (3)	APP	1.0	
+Fragile X syndrome	APP	1.0	
+Aortic Aneurysm, Thoracic	APP	1.0	
+Nephrolithiasis	XDH	1.0	
+Hepatitis, Autoimmune	APP	1.0	
+Amyloidosis	APP	1.0	
+Dystonia Disorders	APP	1.0	
+Dilatation of the renal pelvis	XDH	1.0	
+Abnormality of the renal pelvis	XDH	1.0	
+Gingival Diseases	APP	1.0	
+Lewy Body Disease	APP	1.0	
+Pulmonary Embolism	XDH	1.0	
+Abnormalities of the peripheral arteries	APP	1.0	
+Motor Neuron Disease	APP	1.0	
+Sjogren's Syndrome	XDH	1.0	
+Hyperthyroidism	APP	1.0	
+Mild cognitive impairment	APP	1.0	
+Arterial stenosis	APP	1.0	
+Myoclonus, intractable, neonatal	APP	1.0	
+Frontotemporal dementia	APP	1.0	
+Tachycardia	APP	1.0	
+Hearing Loss, Partial	XDH	1.0	
+{Aneurysm, familial abdominal 3} (2)	APP	1.0	
+Sensory impairment	APP	1.0	
+Hydronephrosis	XDH	1.0	
+Progressive Neoplastic Disease	APP	1.0	
+Progressive cGVHD	APP	1.0	
+Ectopic calcification	APP	1.0	
+Encephalitis	APP	1.0	
+Amyotrophic lateral sclerosis type 1	APP	1.0	
+Internal hemorrhage	APP	1.0	
+Abnormality of extrapyramidal motor function	APP	1.0	
+Nephritis	XDH	1.0	
+Trisomy	APP	1.0	
+Abnormality of the cerebral vasculature	APP	1.0	
+Chronic Periodontitis	APP	1.0	
+Sensory neuropathy	APP	1.0	
+Chronic Kidney Insufficiency	XDH	1.0	
+3-Methylglutaconic aciduria	APP	1.0	
+Abnormality of blood circulation	APP	1.0	
+Carotid Artery Diseases	XDH	1.0	
+Aortic Aneurysm, Abdominal	APP	1.0	
+Tuberous sclerosis syndrome	APP	1.0	
+Mental deterioration	APP	1.0	
+Cycloid psychosis	APP	1.0	
+Brain Diseases	APP	1.0	
+Abnormality of the spinal cord	APP	1.0	
+Dysphagia	APP	1.0	
+Death, Sudden, Cardiac	APP	1.0	
+Headache	APP	1.0	
+Mammary Neoplasms, Experimental	XDH	1.0	
+Reduced consciousness/confusion	APP	1.0	
+Endothelial dysfunction	XDH	1.0	
+Meningioma, benign, no ICD-O subtype	XDH	1.0	
+Intracranial hemorrhage	APP	1.0	
+Age of death	APP	1.0	
+Mortality/Aging	APP	1.0	
+Plaque, Atherosclerotic	APP	1.0	
+Aortic aneurysm, familial thoracic 11, susceptibility to	APP	1.0	
+Parkinsonism	APP	1.0	
+Ovarian Diseases	APP	1.0	
+Cerebral Hemorrhage	APP	1.0	
+Heterogeneous	APP	1.0	
+Fanconi anemia	APP	1.0	
+Germ cell neoplasia	APP	1.0	
+Thrombocytopenia, platelet dysfunction, hemolysis, and imbalanced globin synthesis	XDH	1.0	
+Memory impairment	APP	1.0	
+Deafness, autosomal recessive 44	XDH	1.0	
+Senile plaques	APP	1.0	
+Azoospermia	APP	1.0	
+Primary biliary cirrhosis	APP	1.0	
+Acute kidney injury	XDH	1.0	
+Cerebral ischemia	APP	1.0	
+Pancreatitis	XDH	1.0	
+polyps	APP	1.0	
+Abnormality of the systemic arterial tree	APP	1.0	
+Dementia familial British	APP	1.0	
+Male infertility	APP	1.0	
+Glucose intolerance	APP	1.0	
+Reperfusion Injury	XDH	1.0	
+Dystonia 2, torsion, autosomal recessive	APP	1.0	
+Abnormal bleeding	APP	1.0	
+Psychotic Disorders	APP	1.0	
+Migraine Disorders	APP	1.0	
+Hypothyroidism	APP	1.0	
+Carcinoma breast stage IV	APP	1.0	
+Chronic kidney disease	XDH	1.0	
+Renal Insufficiency, Chronic	APP	1.0	
+Fatigue	APP	1.0	
+Anxiety Disorders	APP	1.0	
+Heart Diseases	XDH	1.0	
+Septicemia	APP	1.0	
+Abnormality of esophagus morphology	APP	1.0	
+Brain atrophy	APP	1.0	
+Unipolar Depression	APP	1.0	
+Abnormal vascular morphology	APP	1.0	
+Vascular Diseases	APP	1.0	
+Age-related macular degeneration 2	APP	1.0	
+Abnormal renal physiology	XDH	1.0	
+Meningioma	XDH	1.0	
+Other disorders of the nervous system	APP	1.0	
+Functional abnormality of the gastrointestinal tract	APP	1.0	
+Down Syndrome	APP	1.0	
+Dementia	APP	1.0	
+Gait disturbance	APP	1.0	
+Increased body weight	APP	1.0	
+Involuntary movements	APP	1.0	
+Attention deficit hyperactivity disorder	APP	1.0	
+Herpes Simplex Infections	APP	1.0	
+Xenograft Model	XDH	1.0	
+Increased inflammatory response	XDH	1.0	
+Abnormal inflammatory response	XDH	1.0	
+Abnormal peripheral nervous system morphology	APP	1.0	
+Diabetic Nephropathies	XDH	1.0	
+Metabolic Syndrome X	APP	1.0	
+Inflammation	APP	1.0	

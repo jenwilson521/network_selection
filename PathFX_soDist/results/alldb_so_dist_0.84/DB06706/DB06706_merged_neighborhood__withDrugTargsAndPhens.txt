@@ -1,0 +1,119 @@
+node1	node2	edge_score	
+DB06706	ADRA1A	1.0	
+DB06706	SLC18A2	1.0	
+ADRA1A		1.0
+Acute disease of cardiovascular system	ADRA1A	1.0	
+Albinism, ocular, with sensorineural deafness	ADRA1A	1.0	
+Alzheimer Disease	ADRA1A	1.0	
+Anxiety Disorders	ADRA1A	1.0	
+Rheumatoid arthritis	ADRA1A	1.0	
+Asthma	ADRA1A	1.0	
+Autoimmune disease 1	ADRA1A	1.0	
+Bipolar affective disorder	ADRA1A	1.0	
+Bladder neck obstruction	ADRA1A	1.0	
+Breast-ovarian cancer, familial 1	ADRA1A	1.0	
+Skin cancer	ADRA1A	1.0	
+Cardiovascular Diseases	ADRA1A	1.0	
+Colorectal cancer 1	ADRA1A	1.0	
+Cryptorchidism	ADRA1A	1.0	
+Cytomegalovirus Infections	ADRA1A	1.0	
+Diabetes Mellitus, Type 1	ADRA1A	1.0	
+Diabetes mellitus type 2	ADRA1A	1.0	
+Methamphetamine abuse	ADRA1A	1.0	
+Dyskinesia, Drug-Induced	ADRA1A	1.0	
+Epilepsy	ADRA1A	1.0	
+Fibromyalgia	ADRA1A	1.0	
+Glioblastoma	ADRA1A	1.0	
+Glioma	ADRA1A	1.0	
+Heart Failure	ADRA1A	1.0	
+Congestive heart failure	ADRA1A	1.0	
+Herpes NOS	ADRA1A	1.0	
+Symptomatic human immunodeficiency virus infection	ADRA1A	1.0	
+Hereditary Sensory Autonomic Neuropathy, Type 1	ADRA1A	1.0	
+Hyperalgesia	ADRA1A	1.0	
+Familial hypercholesterolemia	ADRA1A	1.0	
+Hypertension	ADRA1A	1.0	
+Hypotension	ADRA1A	1.0	
+Kidney Failure, Chronic	ADRA1A	1.0	
+Hypogonadotropic hypogonadism 7 with or without anosmia	ADRA1A	1.0	
+Chronic Lymphocytic Leukemia	ADRA1A	1.0	
+Acute Erythroblastic Leukemia	ADRA1A	1.0	
+Acute myeloid leukemia	ADRA1A	1.0	
+Liver Cirrhosis, Biliary	ADRA1A	1.0	
+Low back pain	ADRA1A	1.0	
+Pulmonary Disease, Chronic Obstructive	ADRA1A	1.0	
+Lung Neoplasms	ADRA1A	1.0	
+Melanoma	ADRA1A	1.0	
+Memory Disorders	ADRA1A	1.0	
+Mesothelioma, malignant	ADRA1A	1.0	
+Disorders of Intracellular Cobalamin Metabolism	ADRA1A	1.0	
+Multiple Myeloma	ADRA1A	1.0	
+Steinert myotonic dystrophy syndrome	ADRA1A	1.0	
+Secondary hypertriglyceridemia	ADRA1A	1.0	
+Nephrosclerosis	ADRA1A	1.0	
+Obesity	ADRA1A	1.0	
+Pain	ADRA1A	1.0	
+Acute postoperative pain	ADRA1A	1.0	
+Disorders of parathyroid gland	ADRA1A	1.0	
+Parkinson Disease	ADRA1A	1.0	
+Abnormality of the pituitary gland	ADRA1A	1.0	
+Polycystic Ovary Syndrome	ADRA1A	1.0	
+polyps	ADRA1A	1.0	
+Prostatic Neoplasms	ADRA1A	1.0	
+Pruritus	ADRA1A	1.0	
+Retinitis pigmentosa	ADRA1A	1.0	
+Retinoblastoma	ADRA1A	1.0	
+Kaposi's sarcoma	ADRA1A	1.0	
+Schizoaffective Disorder	ADRA1A	1.0	
+Schizophrenia	ADRA1A	1.0	
+Chronic sciatica	ADRA1A	1.0	
+Tobacco Use Disorder	ADRA1A	1.0	
+Tourette Syndrome	ADRA1A	1.0	
+Urinary incontinence	ADRA1A	1.0	
+Bronchial Hyperreactivity	ADRA1A	1.0	
+Essential hypertension	ADRA1A	1.0	
+Left ventricular hypertrophy	ADRA1A	1.0	
+Acute myocardial ischemia	ADRA1A	1.0	
+Gastroparesis	ADRA1A	1.0	
+Low Tension Glaucoma	ADRA1A	1.0	
+Nephrogenic diabetes insipidus, autosomal	ADRA1A	1.0	
+Hypogonadism with anosmia	ADRA1A	1.0	
+Tumor Progression	ADRA1A	1.0	
+Intraocular melanoma	ADRA1A	1.0	
+ Acrodysostosis 1, with or without hormone resistance, 101800 (3)	ADRA1A	1.0	
+Chronic schizophrenia	ADRA1A	1.0	
+Inflammatory pain	ADRA1A	1.0	
+Taste bitter	ADRA1A	1.0	
+Paroxysmal atrial fibrillation	ADRA1A	1.0	
+Dyslipidemias	ADRA1A	1.0	
+Malignant neoplasm of lung	ADRA1A	1.0	
+Cholestasis of pregnancy	ADRA1A	1.0	
+Hypoparathyroidism - autosomal dominant	ADRA1A	1.0	
+Malignant tumor of prostate	ADRA1A	1.0	
+Pulmonary Cystic Fibrosis	ADRA1A	1.0	
+Congenital Myotonic Dystrophy	ADRA1A	1.0	
+Motor delay	ADRA1A	1.0	
+Recurrent tumor	ADRA1A	1.0	
+Metabolic Syndrome X	ADRA1A	1.0	
+Carcinogenesis	ADRA1A	1.0	
+genetic hypertension	ADRA1A	1.0	
+Leukemogenesis	ADRA1A	1.0	
+Prostate carcinoma	ADRA1A	1.0	
+Ovarian epithelial cancer	ADRA1A	1.0	
+Breast carcinoma	ADRA1A	1.0	
+Lung cancer	ADRA1A	1.0	
+BREAST-OVARIAN CANCER, FAMILIAL, SUSCEPTIBILITY TO, 4	ADRA1A	1.0	
+Congenital long QT syndrome	ADRA1A	1.0	
+Squamous cell carcinoma of the head and neck	ADRA1A	1.0	
+Sarcoma, Ewing	ADRA1A	1.0	
+Attention deficit hyperactivity disorder	ADRA1A	1.0	
+Major depressive disorder	ADRA1A	1.0	
+Systemic arterial pressure	ADRA1A	1.0	
+Primary Effusion Lymphoma	ADRA1A	1.0	
+Differentiated Thyroid Gland Carcinoma	ADRA1A	1.0	
+Cancer Cell Growth	ADRA1A	1.0	
+Colorectal cancer	ADRA1A	1.0	
+Benign Prostatic Hyperplasia	ADRA1A	1.0	
+Pseudohypoparathyroidism, type IB, 603233 (3)	ADRA1A	1.0	
+Coronary Artery Disease	ADRA1A	1.0	
+Hepatocellular carcinoma	ADRA1A	1.0	

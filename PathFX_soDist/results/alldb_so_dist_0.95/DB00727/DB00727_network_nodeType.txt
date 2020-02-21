@@ -1,0 +1,196 @@
+node_name	node_type	
+DB00727	drug	
+NPR1	drug_target	
+ALDH2	drug_target	
+Acute pancreatitis	phenotype	
+ Adenocarcinoma, ovarian, somatic, 167000 (3)	phenotype	
+Adenomas, multiple colorectal, 608456 (3)	phenotype	
+Airway Obstruction	phenotype	
+alcohol use disorder	phenotype	
+Alcohol dependence	phenotype	
+Alzheimer Disease	phenotype	
+Macrocytic anemia	phenotype	
+Angina pectoris	phenotype	
+Antisocial Personality Disorder	phenotype	
+Anxiety Disorders	phenotype	
+Arteriosclerosis	phenotype	
+As If Personality	phenotype	
+Asthma	phenotype	
+Atherosclerosis	phenotype	
+Autism 15	phenotype	
+Mental disorders	phenotype	
+Bipolar affective disorder	phenotype	
+Malignant tumor of urinary bladder	phenotype	
+Breast-ovarian cancer, familial 1	phenotype	
+Cancer of the lower GI tract	phenotype	
+Female Breast Carcinoma	phenotype	
+Squamous cell carcinoma	phenotype	
+Urothelial Carcinoma	phenotype	
+Cardiomyopathy, Dilated	phenotype	
+Cardiovascular Diseases	phenotype	
+Intracranial Aneurysm	phenotype	
+Ischaemic cerebral infarction	phenotype	
+Neoplasm of the colon	phenotype	
+Colonic Polyps	phenotype	
+Colorectal cancer 1	phenotype	
+Colorectal Neoplasms	phenotype	
+Coronary heart disease 7	phenotype	
+Coronary Disease	phenotype	
+Cyanosis	phenotype	
+Dehydration	phenotype	
+Dementia familial British	phenotype	
+{Unipolar depression, susceptibility to}, 608516 (3)	phenotype	
+Depressive Disorder	phenotype	
+Diabetes Mellitus, Type 1	phenotype	
+Diabetes mellitus type 1	phenotype	
+Diabetes mellitus type 2	phenotype	
+Diabetic Nephropathies	phenotype	
+Diabetic Retinopathy	phenotype	
+DNA Damage	phenotype	
+Drug Allergy	phenotype	
+Duodenal Ulcer	phenotype	
+Ectodermal dysplasia 11b, hypohidrotic/hair/tooth type, autosomal recessive	phenotype	
+Epilepsy	phenotype	
+Esophageal Neoplasms	phenotype	
+Fanconi anemia	phenotype	
+Hepatic steatosis	phenotype	
+Flushing	phenotype	
+Chronic atrophic gastritis	phenotype	
+Gastrointestinal Neoplasms	phenotype	
+Gingival Diseases	phenotype	
+Head and Neck Neoplasms	phenotype	
+Heart Defects, Congenital	phenotype	
+Heart Diseases	phenotype	
+Heart Failure	phenotype	
+Congestive heart failure	phenotype	
+Heroin Dependence	phenotype	
+Hyperglycemia	phenotype	
+Hyperinsulinemia	phenotype	
+Hypersensitivity	phenotype	
+Hypertension	phenotype	
+Male infertility	phenotype	
+Ischemia	phenotype	
+Kidney Failure, Chronic	phenotype	
+Neoplasm of the larynx	phenotype	
+Liver Cirrhosis, Biliary	phenotype	
+Liver Cirrhosis, Alcoholic	phenotype	
+Liver Diseases	phenotype	
+Alcoholic Liver Diseases	phenotype	
+Neoplasm of the liver	phenotype	
+Chronic obstructive pulmonary disease	phenotype	
+Lung Neoplasms	phenotype	
+{Gastric cancer risk after H. pylori infection}, 137215 (3)	phenotype	
+Mesothelioma, malignant	phenotype	
+Metaplasia	phenotype	
+Neoplasm of the oral cavity	phenotype	
+Amyotrophy involving the shoulder musculature	phenotype	
+Myocardial Infarction	phenotype	
+Myocardial Reperfusion Injury	phenotype	
+Nausea	phenotype	
+Neoplasm Invasiveness	phenotype	
+Secondary hypertriglyceridemia	phenotype	
+Nicotine Dependence	phenotype	
+Obesity	phenotype	
+Occupational Diseases	phenotype	
+Bone necrosis	phenotype	
+Osteoporosis	phenotype	
+Pancreatic Neoplasms	phenotype	
+Pancreatitis	phenotype	
+Pancytopenia	phenotype	
+Parkinson Disease	phenotype	
+Peptic ulcer	phenotype	
+Periodontal Pocket	phenotype	
+Periodontitis	phenotype	
+Pharyngeal Neoplasms	phenotype	
+Pleural Neoplasms	phenotype	
+polyps	phenotype	
+Precancerous Conditions	phenotype	
+Psychotic Disorders	phenotype	
+Neoplasm of the rectum	phenotype	
+Retinopathy	phenotype	
+Retinopathy of Prematurity	phenotype	
+Schizophrenia	phenotype	
+Abnormality of the skin	phenotype	
+Stomach Diseases	phenotype	
+Stomach Neoplasms	phenotype	
+Stroke	phenotype	
+Substance Withdrawal Syndrome	phenotype	
+Tetralogy of Fallot	phenotype	
+Erythema	phenotype	
+Vascular Diseases	phenotype	
+Viral hepatitis	phenotype	
+Helicobacter Infections	phenotype	
+Neoplasms, Second Primary	phenotype	
+Essential hypertension	phenotype	
+Photophobia	phenotype	
+Alcohol abuse	phenotype	
+Conduct Disorder	phenotype	
+Rectal Carcinoma	phenotype	
+Premature Birth	phenotype	
+Oral Cavity Carcinoma	phenotype	
+Acute myocardial ischemia	phenotype	
+Esophageal carcinoma	phenotype	
+Congenital heart disease	phenotype	
+Polyneuropathy, hearing loss, ataxia, retinitis pigmentosa, and cataract	phenotype	
+Cancer of mouth	phenotype	
+Malignant neoplasm of pharynx	phenotype	
+Acute myocardial infarction	phenotype	
+Adenomatous Polyps	phenotype	
+Squamous Cell Neoplasms	phenotype	
+Antisocial/borderline personality disorder	phenotype	
+Malignant neoplasm of female breast	phenotype	
+Pancreatic Carcinoma	phenotype	
+Hereditary pancreatitis	phenotype	
+Hepatic fibrosis	phenotype	
+Dyslipidemias	phenotype	
+Malignant neoplasm of lung	phenotype	
+Ventricular Dysfunction, Right	phenotype	
+Glucose intolerance	phenotype	
+Cancer of Head and Neck	phenotype	
+Esophageal Squamous Cell Carcinoma	phenotype	
+Cognitive Dysfunction	phenotype	
+Proliferative retinopathy	phenotype	
+Chronic liver disease	phenotype	
+Complications of Diabetes Mellitus	phenotype	
+Hepatic cancer metastatic	phenotype	
+Malignant neoplasm of pancreas	phenotype	
+Malignant tumor of prostate	phenotype	
+Pancreatitis, Alcoholic	phenotype	
+Neuropathy ataxia retinitis pigmentosa syndrome	phenotype	
+Dementia	phenotype	
+Metabolic Syndrome X	phenotype	
+Malignant tumor of esophagus	phenotype	
+Carotid Atherosclerosis	phenotype	
+Carcinogenesis	phenotype	
+Breast carcinoma	phenotype	
+Lung cancer	phenotype	
+Malignant gastrointestinal tract tumors	phenotype	
+heavy drinking	phenotype	
+Stomach cancer	phenotype	
+Hyperuricemia, pulmonary hypertension, renal failure, and alkalosis	phenotype	
+Cardiac defects	phenotype	
+Mitochondrial diseases	phenotype	
+Helicobacter pylori infection	phenotype	
+Bipolar I disorder	phenotype	
+Drug-Induced Liver Injury	phenotype	
+Cardiomyopathy	phenotype	
+Cerebral ischemia	phenotype	
+Genomic Instability	phenotype	
+Acute Coronary Syndrome	phenotype	
+Colorectal polyposis	phenotype	
+Squamous cell carcinoma of the head and neck	phenotype	
+Systemic arterial pressure	phenotype	
+Adenoma of large intestine	phenotype	
+Primary Carcinoma	phenotype	
+Hepatocarcinogenesis	phenotype	
+Colorectal cancer	phenotype	
+Coronary Artery Disease	phenotype	
+Hepatocellular carcinoma	phenotype	
+Steatohepatitis	phenotype	
+FANCONI ANEMIA, COMPLEMENTATION GROUP A (disorder)	phenotype	
+Generalized abnormality of skin	phenotype	
+Abnormality of metabolism/homeostasis	phenotype	
+Abnormality of skin morphology	phenotype	
+Abnormality of the integument	phenotype	
+Dermatological manifestations of systemic disorders	phenotype	
+Necrotizing Enterocolitis	phenotype	

@@ -1,0 +1,28 @@
+Gene	CUI	Source Databases	
+FDPS	C0002395	Alzheimer Disease	DisGeNet	
+FDPS	C0007102	Colon cancer	DisGeNet	
+FDPS	C0007137	Squamous cell carcinoma	HumPhenOnt	
+FDPS	C0009375	Neoplasm of the colon	DisGeNet	
+FDPS	C0009402	Colorectal cancer 1	DisGeNet	
+FDPS	C0018801	Heart Failure	DisGeNet	
+FDPS	C0018802	Congestive heart failure	DisGeNet	
+FDPS	C0018824	Heart valve disease	DisGeNet	
+FDPS	C0027651	Neoplasms	HumPhenOnt	
+FDPS	C0028754	Obesity	DisGeNet	
+FDPS	C0029456	Osteoporosis	DisGeNet	
+FDPS	C0033774	Pruritus	HumPhenOnt	
+FDPS	C0037268	Abnormality of the skin	HumPhenOnt	
+FDPS	C0037286	Neoplasm of the skin	HumPhenOnt	
+FDPS	C0235974	Pancreatic Carcinoma	DisGeNet	
+FDPS	C0241165	Thickened skin	HumPhenOnt	
+FDPS	C0346647	Malignant neoplasm of pancreas	DisGeNet	
+FDPS	C0494876	Epidermal thickening	HumPhenOnt	
+FDPS	C0524851	Neurodegenerative Diseases	DisGeNet	
+FDPS	C0585442	Osteosarcoma	DisGeNet	
+FDPS	C0699790	Carcinoma of colon	DisGeNet	
+FDPS	C0877008	Enzyme inhibition disorder	DisGeNet	
+FDPS	C1527249	Colorectal cancer	DisGeNet	
+FDPS	C4023185	Neoplasm by anatomical site	HumPhenOnt	
+FDPS	C4023527	Abnormality of skin physiology	HumPhenOnt	
+FDPS	C4023528	Abnormality of skin morphology	HumPhenOnt	
+FDPS	C4025761	Abnormality of the integument	HumPhenOnt	

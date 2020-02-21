@@ -1,0 +1,14 @@
+node_name	node_type	
+DB01182	drug	
+CYP2C8	drug_target	
+CYP1A2	drug_target	
+CYP2D6	drug_target	
+KCNH2	drug_target	
+ADRB2	drug_target	
+ADRB1	drug_target	
+ABCB1	drug_target	
+CYP3A4	drug_target	
+SCN5A	drug_target	
+Acute postoperative pain	phenotype	
+Primary malignant neoplasm of liver	phenotype	
+Congenital long QT syndrome	phenotype	

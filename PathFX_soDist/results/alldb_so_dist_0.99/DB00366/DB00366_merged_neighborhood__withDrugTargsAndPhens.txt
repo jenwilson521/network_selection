@@ -1,0 +1,5 @@
+node1	node2	edge_score	
+DB00366	NR1I3	1.0	
+DB00366	CHRM1	1.0	
+DB00366	HRH1	1.0	
+

@@ -1,0 +1,6 @@
+node_name	node_type	
+DB01278	drug	
+CALCR	drug_target	
+RAMP1	drug_target	
+RAMP3	drug_target	
+RAMP2	drug_target	

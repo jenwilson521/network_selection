@@ -1,0 +1,129 @@
+node_name	node_type	
+DB01250	drug	
+IFNG	drug_target	
+TPMT	drug_target	
+Myelopathy	phenotype	
+{Spondyloarthropathy, susceptibility to, 1}, 106300 (3)	phenotype	
+Viral hepatitis	phenotype	
+Drug Allergy	phenotype	
+Rheumatic disease of heart valve	phenotype	
+Hepatitis, Autoimmune	phenotype	
+Hematological Disease	phenotype	
+Drug Eruptions	phenotype	
+Rheumatoid Nodule	phenotype	
+Scrub Typhus	phenotype	
+Pleural Tuberculosis	phenotype	
+Cutaneous lymphoma	phenotype	
+Latent Tuberculosis	phenotype	
+Acute hepatitis	phenotype	
+Lymphoid hyperplasia	phenotype	
+Cryoglobulinemia	phenotype	
+Q Fever	phenotype	
+Tuberculosis, Meningeal	phenotype	
+Steroid-sensitive nephrotic syndrome	phenotype	
+Febrile Neutropenia	phenotype	
+Hemophagocytosis	phenotype	
+Bovine Anaplasmosis	phenotype	
+Chronic mucocutaneous candidiasis	phenotype	
+Fowlpox	phenotype	
+Cryopyrin-Associated Periodic Syndromes	phenotype	
+Abscess	phenotype	
+Melioidosis, susceptibility to	phenotype	
+Familial cold-induced inflammatory syndrome 1, 120100 (3)	phenotype	
+Oral aphthae	phenotype	
+Myeloproliferative disorder, chronic, with eosinophilia	phenotype	
+Gingival bleeding	phenotype	
+Granuloma	phenotype	
+Hyponatremia	phenotype	
+Pregnancy Complications, Infectious	phenotype	
+Malignant melanoma of eye	phenotype	
+Malaria, Vivax	phenotype	
+Interstitial lung and liver disease	phenotype	
+Pleomorphic adenoma of salivary gland	phenotype	
+Drug-Induced Liver Injury	phenotype	
+Cholangitis	phenotype	
+Lymphadenitis	phenotype	
+Periodontal Pocket	phenotype	
+Staphylococcal Infections	phenotype	
+Asymptomatic Infections	phenotype	
+Oestrogen deficiency	phenotype	
+Extrinsic allergic alveolitis	phenotype	
+Systemic aspergillosis	phenotype	
+Fatal infectious mononucleosis	phenotype	
+Lichen planus pemphigoides	phenotype	
+Steroid-resistant nephrotic syndrome	phenotype	
+Dermatitis Herpetiformis	phenotype	
+Enterovirus Infections	phenotype	
+Equine Infectious Anemia	phenotype	
+Multiple Organ Failure	phenotype	
+Paranoid Schizophrenia	phenotype	
+Volvulus	phenotype	
+Nemaline myopathy	phenotype	
+Myelosuppression	phenotype	
+Polymyalgia Rheumatica	phenotype	
+Deficiency of glucose-6-phosphate dehydrogenase	phenotype	
+Alveolar Bone Loss	phenotype	
+Condylomata Acuminata	phenotype	
+Salmonella infections	phenotype	
+Smallpox	phenotype	
+Herpesviridae Infections	phenotype	
+Chronic myelopathy	phenotype	
+Combined immunodeficiency, X-linked	phenotype	
+Toxic Epidermal Necrolysis	phenotype	
+Intracranial glioma	phenotype	
+Obstructive nephropathy	phenotype	
+Idiopathic crescentic glomerulonephritis	phenotype	
+Chronic rejection of renal transplant	phenotype	
+Lymphoproliferative disorder	phenotype	
+Active tuberculosis	phenotype	
+{TSC2 angiomyolipomas, renal, modifier of}, 613254 (3)	phenotype	
+Mixed cryoglobulinemia	phenotype	
+Stomach Diseases	phenotype	
+Subacute Sclerosing Panencephalitis	phenotype	
+Non-arthropod borne lymphocytic choriomeningitis	phenotype	
+Cervical intraepithelial neoplasia grade 1	phenotype	
+Reticulosarcoma	phenotype	
+Thromboangiitis Obliterans	phenotype	
+Pituitary corticotropic cell adenoma	phenotype	
+Rapidly progressive	phenotype	
+Lymphoid leukemia	phenotype	
+Chronic Fatigue Syndrome	phenotype	
+Neutropenia	phenotype	
+Agranulocytosis	phenotype	
+Brucellosis	phenotype	
+Toxoplasmosis	phenotype	
+Pelvic inflammatory disease	phenotype	
+Primary biliary cirrhosis	phenotype	
+Friedreich's ataxia	phenotype	
+Pleuritis	phenotype	
+Cervical intraepithelial neoplasia grade 2	phenotype	
+Papillomavirus Infections	phenotype	
+Neuritis	phenotype	
+Pneumococcal Infections	phenotype	
+Rubella	phenotype	
+Arthritis, Reactive	phenotype	
+Idiopathic fibrosing alveolitis, chronic form	phenotype	
+Leptospirosis	phenotype	
+Pemphigus	phenotype	
+Silicosis	phenotype	
+Chagas Cardiomyopathy	phenotype	
+Lehman syndrome	phenotype	
+Lymphoproliferative syndrome, X-linked, 1, 308240 (3)	phenotype	
+Zoonotic form of cutaneous leishmaniasis	phenotype	
+Nausea	phenotype	
+Cleft palate with cleft lip	phenotype	
+Disease due to Parvoviridae	phenotype	
+Hepatitis D Infection	phenotype	
+Erythema nodosum	phenotype	
+Pneumonitis	phenotype	
+Necrosis	phenotype	
+Respiratory Tract Diseases	phenotype	
+Leishmaniasis	phenotype	
+Joint swelling	phenotype	
+Chronic neutrophilia	phenotype	
+EPIDERMODYSPLASIA VERRUCIFORMIS	phenotype	
+Lymphocytic Choriomeningitis	phenotype	
+Neoplasms, Experimental	phenotype	
+Tropical Spastic Paraparesis	phenotype	
+Cowden syndrome 1	phenotype	
+Oral Submucous Fibrosis	phenotype	

@@ -1,0 +1,46 @@
+node_name	node_type	
+DB00878	drug	
+HNMT	drug_target	
+Alcohol dependence	phenotype	
+Asthma	phenotype	
+Breast-ovarian cancer, familial 1	phenotype	
+Bronchiolitis, Viral	phenotype	
+Ulcerative colitis	phenotype	
+Deafness, autosomal recessive 44	phenotype	
+Dermatitis, Atopic	phenotype	
+Diabetes mellitus type 2	phenotype	
+Drug Allergy	phenotype	
+Duodenal Ulcer	phenotype	
+Hearing Loss, Partial	phenotype	
+Immediate hypersensitivity	phenotype	
+Mental retardation 63, X-linked	phenotype	
+Abnormality of movement	phenotype	
+Multiple Sclerosis	phenotype	
+Parkinson Disease	phenotype	
+Precancerous Conditions	phenotype	
+Respiratory Syncytial Virus Infections	phenotype	
+Rhinitis, Allergic, Seasonal	phenotype	
+Schizophrenia	phenotype	
+Tobacco Use Disorder	phenotype	
+Tremor, hereditary essential, 5	phenotype	
+Urticaria	phenotype	
+Increased body weight	phenotype	
+Bronchial Hyperreactivity	phenotype	
+Migraine Disorders	phenotype	
+Pancreatic Carcinoma	phenotype	
+Delayed speech and language development	phenotype	
+Essential tremor	phenotype	
+Malignant neoplasm of pancreas	phenotype	
+Autosomal recessive inheritance	phenotype	
+Abnormality of the nervous system	phenotype	
+Global developmental delay, absent or hypoplastic corpus callosum, and dysmorphic facies	phenotype	
+Breast carcinoma	phenotype	
+Neurodevelopmental abnormality	phenotype	
+Brain Infarction	phenotype	
+Hearing impairment	phenotype	
+Colorectal cancer	phenotype	
+Allergic rhinitis	phenotype	
+Weight Gain Adverse Event	phenotype	
+Intellectual developmental disorder with dysmorphic facies and ptosis	phenotype	
+Neurodevelopmental delay	phenotype	
+Abnormality of nervous system physiology	phenotype	

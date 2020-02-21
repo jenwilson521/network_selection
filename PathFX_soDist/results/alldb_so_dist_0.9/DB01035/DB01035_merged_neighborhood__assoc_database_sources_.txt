@@ -1,0 +1,16 @@
+Gene	CUI	Source Databases	
+CYP2D6	C1141890	Congenital long QT syndrome	DisGeNet	
+KCNH2	C1141890	Congenital long QT syndrome	DisGeNet	
+SCN5A	C1141890	Congenital long QT syndrome	DisGeNet	
+SLC22A5	C1141890	Congenital long QT syndrome	DisGeNet	
+KCNH2	C0741923	cardiac event	DisGeNet	
+SCN5A	C0741923	cardiac event	DisGeNet	
+SLC22A5	C0741923	cardiac event	DisGeNet	
+CYP2D6	C0428977	Bradycardia	DisGeNet	
+KCNH2	C0428977	Bradycardia	HumPhenOnt	
+SCN5A	C0428977	Bradycardia	DisGeNet,HumPhenOnt	
+KCNH2	C0039070	Syncope	DisGeNet,HumPhenOnt	
+SCN5A	C0039070	Syncope	DisGeNet,HumPhenOnt	
+SLC22A5	C0039070	Syncope	DisGeNet	
+KCNH2	C0035828	Romano-Ward syndrome	ClinVar,DisGeNet	
+SCN5A	C0035828	Romano-Ward syndrome	ClinVar,DisGeNet	

@@ -1,0 +1,17 @@
+node_name	node_type	
+DB00404	drug	
+CYP2C9	drug_target	
+GABRA6	drug_target	
+GABRA1	drug_target	
+ALB	drug_target	
+GABRA4	drug_target	
+CYP3A4	drug_target	
+CYP3A5	drug_target	
+TSPO	drug_target	
+GABRA3	drug_target	
+GABRA2	drug_target	
+Neoplasms, Germ Cell and Embryonal	phenotype	
+ {HIV-1 viremia, susceptibility to}, 609423 (3)	phenotype	
+Primary malignant neoplasm of liver	phenotype	
+Drug Allergy	phenotype	
+Squamous Cell Neoplasms	phenotype	

@@ -1,0 +1,145 @@
+node_name	node_type	
+DB00937	drug	
+SLC6A3	drug_target	
+SLC6A2	drug_target	
+Behavior Disorders	phenotype	
+Heroin Dependence	phenotype	
+Methamphetamine abuse	phenotype	
+Anorexia nervosa 1	phenotype	
+Tourette Syndrome	phenotype	
+Lewy Body Disease	phenotype	
+Borderline Personality Disorder	phenotype	
+Anxiety	phenotype	
+Bronchopulmonary Dysplasia	phenotype	
+Pigmentary pallidal degeneration	phenotype	
+Slow acetylator due to N-acetyltransferase enzyme variant	phenotype	
+Autism spectrum disorders	phenotype	
+Dentinogenesis imperfecta	phenotype	
+Recurrent major depressive episodes	phenotype	
+Asthma, Occupational	phenotype	
+Spinocerebellar ataxia 2	phenotype	
+Bulimia	phenotype	
+Paranoia	phenotype	
+Delayed gross motor development	phenotype	
+Orofacial cleft	phenotype	
+Generalized anxiety disorder	phenotype	
+Substance Use Disorders	phenotype	
+Alcohol withdrawal syndrome	phenotype	
+Motor symptoms	phenotype	
+Systemic aspergillosis	phenotype	
+ {Nicotine dependence, protection against}, 188890 (3)	phenotype	
+Antisocial Personality Disorder	phenotype	
+Cocaine delirium	phenotype	
+Ataxic	phenotype	
+Chronic schizophrenia	phenotype	
+Mood Disorders	phenotype	
+Personality disorder	phenotype	
+Morphological abnormality of the pyramidal tract	phenotype	
+Bulimia nervosa 1	phenotype	
+Disseminated intravascular coagulation	phenotype	
+Antisocial/borderline personality disorder	phenotype	
+Substance abuse problem	phenotype	
+Drug usage	phenotype	
+Manic	phenotype	
+Weight Loss Adverse Event	phenotype	
+Conduct Disorder	phenotype	
+Bradykinesia	phenotype	
+Fibromyalgia	phenotype	
+Anxiety Disorders	phenotype	
+Abnormal autonomic nervous system physiology	phenotype	
+Prenatal Exposure Delayed Effects	phenotype	
+Respiratory tract infection	phenotype	
+Unipolar Depression	phenotype	
+Cleft palate with cleft lip	phenotype	
+Memory Disorders	phenotype	
+Cocaine Dependence	phenotype	
+Autoimmune lymphoproliferative syndrome, type 2	phenotype	
+Mental disorders	phenotype	
+CNS symptom	phenotype	
+As If Personality	phenotype	
+Tardive Dyskinesia	phenotype	
+Bipolar I disorder	phenotype	
+Angelman syndrome-like	phenotype	
+Psychoses, Substance-Induced	phenotype	
+Attention Deficit Disorder	phenotype	
+Colorectal polyposis	phenotype	
+Drug Dependence	phenotype	
+Atrial septal defect	phenotype	
+Osteochondritis dissecans	phenotype	
+NEUROTICISM	phenotype	
+Major depressive disorder	phenotype	
+Multiple Endocrine Neoplasia Type 2a	phenotype	
+Well Differentiated Pancreatic Endocrine Tumor	phenotype	
+MAJOR AFFECTIVE DISORDER 4	phenotype	
+MAJOR AFFECTIVE DISORDER 5	phenotype	
+MAJOR AFFECTIVE DISORDER 6	phenotype	
+Major affective disorder 7	phenotype	
+MAJOR AFFECTIVE DISORDER 8	phenotype	
+MAJOR AFFECTIVE DISORDER 9	phenotype	
+Orofacial dyskinesia	phenotype	
+Eating disorder	phenotype	
+Muscular hypotonia of the trunk	phenotype	
+Migraine with aura	phenotype	
+Ichthyosis bullosa of Siemens	phenotype	
+Attention deficit hyperactivity disorder	phenotype	
+Granulomatous disease, chronic, autosomal recessive, cytochrome b-negative	phenotype	
+Drug Allergy	phenotype	
+Azorean disease	phenotype	
+Substance addiction and disorders	phenotype	
+Panic disorder 1	phenotype	
+Depressive Disorder	phenotype	
+Growth Disorders	phenotype	
+Multiple Endocrine Neoplasia Type 1	phenotype	
+Gastrointestinal Diseases	phenotype	
+{Unipolar depression, susceptibility to}, 608516 (3)	phenotype	
+Non-Hodgkin lymphoma	phenotype	
+Mitral Valve Prolapse	phenotype	
+Amphetamine-Related Disorders	phenotype	
+Candidiasis, familial, 9	phenotype	
+Obsessive-compulsive disorder	phenotype	
+Arterial thrombosis	phenotype	
+Dyslexia 1	phenotype	
+Cerebral palsy, spastic quadriplegic, 3	phenotype	
+Alcohol abuse	phenotype	
+Marijuana Abuse	phenotype	
+Dyskinesia, seizures, and intellectual developmental disorder	phenotype	
+Methicillin resistant Staphylococcus aureus	phenotype	
+Shy-Drager syndrome	phenotype	
+Hyperplastic Polyp	phenotype	
+Rigidity	phenotype	
+SUDDEN INFANT DEATH SYNDROME	phenotype	
+Liver Cirrhosis, Alcoholic	phenotype	
+Bacteremia, susceptibility to, 2	phenotype	
+Posttraumatic stress disorder	phenotype	
+Chorea, childhood-onset, with psychomotor retardation	phenotype	
+Alcohol dependence	phenotype	
+Von Hippel-Lindau syndrome	phenotype	
+CNS disorder	phenotype	
+Nicotine Dependence	phenotype	
+early pregnancy	phenotype	
+Panic disorder syndrome 1 (2)	phenotype	
+Cocaine-Related Disorders	phenotype	
+Depressive Symptoms	phenotype	
+Impotence	phenotype	
+ {Aerodigestive tract cancer, squamous cell, alcohol-related, protection against} (3)	phenotype	
+Neurodegeneration with brain iron accumulation	phenotype	
+Abnormality of the autonomic nervous system	phenotype	
+Abnormality of the peripheral nervous system	phenotype	
+Bipolar affective disorder	phenotype	
+Tachycardia	phenotype	
+Weight Gain Adverse Event	phenotype	
+Neurofibromatosis, type 1, 162200 (3)	phenotype	
+Hemolytic anemia, nonspherocytic, due to glucose phosphate isomerase deficiency	phenotype	
+Irritable bowel syndrome with diarrhea	phenotype	
+Substance-Related Disorders	phenotype	
+Amyotrophic lateral sclerosis type 1	phenotype	
+Abnormality of extrapyramidal motor function	phenotype	
+Dengue Fever	phenotype	
+Secondary hyperparathyroidism	phenotype	
+Carcinoid tumor	phenotype	
+Vasculitis	phenotype	
+Hypersensitivity	phenotype	
+Adenocarcinoma of the large intestine	phenotype	
+Progressive	phenotype	
+Cycloid psychosis	phenotype	
+Developmental delay with short stature, dysmorphic features, and sparse hair	phenotype	

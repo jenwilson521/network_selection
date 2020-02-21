@@ -1,0 +1,27 @@
+node1	node2	edge_score	
+DB00043	MS4A2	1.0	
+DB00043	FCER1A	1.0	
+FCER1A		1.0
+Anaphylactic shock NOS	FCER1A	1.0	
+Asthma	FCER1A	1.0	
+Breast-ovarian cancer, familial 1	FCER1A	1.0	
+Bronchiolitis, Viral	FCER1A	1.0	
+Cardiovascular Diseases	FCER1A	1.0	
+Drug Eruptions	FCER1A	1.0	
+Dermatitis, Atopic	FCER1A	1.0	
+Drug Allergy	FCER1A	1.0	
+Eczema	FCER1A	1.0	
+Glioma	FCER1A	1.0	
+Inflammatory Bowel Diseases	FCER1A	1.0	
+Leukemia, Lymphocytic, Chronic, B-Cell	FCER1A	1.0	
+Periodontitis	FCER1A	1.0	
+Respiratory Syncytial Virus Infections	FCER1A	1.0	
+Rhinitis, Allergic, Seasonal	FCER1A	1.0	
+Urticaria	FCER1A	1.0	
+Aortic Aneurysm, Abdominal	FCER1A	1.0	
+Breast carcinoma	FCER1A	1.0	
+Coronary Artery Disease	FCER1A	1.0	
+Allergic rhinitis	FCER1A	1.0	
+Granulomatosis with Polyangiitis	FCER1A	1.0	
+Allergic disposition	FCER1A	1.0	
+Allergic sensitization	FCER1A	1.0	

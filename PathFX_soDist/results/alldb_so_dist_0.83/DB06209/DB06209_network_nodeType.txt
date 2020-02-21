@@ -1,0 +1,13 @@
+node_name	node_type	
+DB06209	drug	
+CYP2C9	drug_target	
+CYP2B6	drug_target	
+ALB	drug_target	
+P2RY12	drug_target	
+CYP2C19	drug_target	
+CYP3A4	drug_target	
+Neoplasms, Germ Cell and Embryonal	phenotype	
+Rhinitis, Allergic, Perennial	phenotype	
+End Stage Liver Disease	phenotype	
+21-hydroxylase deficiency	phenotype	
+Tubulointerstitial nephritis	phenotype	

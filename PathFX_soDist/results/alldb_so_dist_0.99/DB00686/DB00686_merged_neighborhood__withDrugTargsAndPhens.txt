@@ -1,0 +1,5 @@
+node1	node2	edge_score	
+DB00686	FGF4	1.0	
+DB00686	FGF2	1.0	
+DB00686	FGF1	1.0	
+

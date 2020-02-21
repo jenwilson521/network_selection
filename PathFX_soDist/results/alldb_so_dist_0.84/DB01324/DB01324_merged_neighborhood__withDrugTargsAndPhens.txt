@@ -1,0 +1,124 @@
+node1	node2	edge_score	
+DB01324	SLC12A3	1.0	
+SLC12A3		1.0
+Abdominal pain	SLC12A3	1.0	
+EMG: myopathic abnormalities	SLC12A3	1.0	
+Abnormality of acid-base homeostasis	SLC12A3	1.0	
+Alkalosis	SLC12A3	1.0	
+Arteriosclerosis	SLC12A3	1.0	
+Atherosclerosis	SLC12A3	1.0	
+Brain neoplasm	SLC12A3	1.0	
+Breast-ovarian cancer, familial 1	SLC12A3	1.0	
+Non-small cell lung carcinoma	SLC12A3	1.0	
+Renal cell carcinoma, nonpapillary	SLC12A3	1.0	
+Squamous cell carcinoma	SLC12A3	1.0	
+Chordoma	SLC12A3	1.0	
+Constitutional symptom	SLC12A3	1.0	
+Diabetes Mellitus, Type 1	SLC12A3	1.0	
+Diabetes mellitus type 2	SLC12A3	1.0	
+Diabetic Nephropathies	SLC12A3	1.0	
+Diabetic Retinopathy	SLC12A3	1.0	
+Diarrhea 8, secretory sodium, congenital	SLC12A3	1.0	
+Epilepsy	SLC12A3	1.0	
+Epithelial hyperplasia of skin	SLC12A3	1.0	
+Glioblastoma	SLC12A3	1.0	
+Hamartoma	SLC12A3	1.0	
+Hirschsprung Disease	SLC12A3	1.0	
+Hypercalciuria	SLC12A3	1.0	
+Hypertension	SLC12A3	1.0	
+Hypokalemia	SLC12A3	1.0	
+Kidney Diseases	SLC12A3	1.0	
+Kidney Failure, Chronic	SLC12A3	1.0	
+Acute myeloid leukemia	SLC12A3	1.0	
+Liver Cirrhosis, Biliary	SLC12A3	1.0	
+Medulloblastoma	SLC12A3	1.0	
+Melanoma	SLC12A3	1.0	
+Disorders of Intracellular Cobalamin Metabolism	SLC12A3	1.0	
+Muscle cramps	SLC12A3	1.0	
+Tubulointerstitial nephritis	SLC12A3	1.0	
+Nephrocalcinosis	SLC12A3	1.0	
+Osteoporosis	SLC12A3	1.0	
+Pain	SLC12A3	1.0	
+Muscle weakness	SLC12A3	1.0	
+Paresthesia	SLC12A3	1.0	
+Peripheral neuropathy, myopathy, hoarseness, and hearing loss	SLC12A3	1.0	
+Polyuria	SLC12A3	1.0	
+Renal Insufficiency, Chronic	SLC12A3	1.0	
+Seizures, Febrile	SLC12A3	1.0	
+Tobacco Use Disorder	SLC12A3	1.0	
+Tuberous sclerosis syndrome	SLC12A3	1.0	
+Abnormality of the genitourinary system	SLC12A3	1.0	
+Vascular Diseases	SLC12A3	1.0	
+Vomiting	SLC12A3	1.0	
+Essential hypertension	SLC12A3	1.0	
+Polydipsia	SLC12A3	1.0	
+Acute leukemia	SLC12A3	1.0	
+Bicuspid aortic valve	SLC12A3	1.0	
+Small cell lung cancer	SLC12A3	1.0	
+Sensory neuropathy	SLC12A3	1.0	
+Abnormal renal physiology	SLC12A3	1.0	
+Renal tubular dysfunction	SLC12A3	1.0	
+Adenocarcinoma of lung	SLC12A3	1.0	
+Noonan syndrome with multiple lentigines	SLC12A3	1.0	
+Increased analgesia from kappa-opioid receptor agonist, female-specific	SLC12A3	1.0	
+Onset	SLC12A3	1.0	
+{TSC2 angiomyolipomas, renal, modifier of}, 613254 (3)	SLC12A3	1.0	
+NOONAN-LIKE/MULTIPLE GIANT CELL LESION SYNDROME (disorder)	SLC12A3	1.0	
+Behavioral abnormality	SLC12A3	1.0	
+Abnormal joint morphology	SLC12A3	1.0	
+Malignant neoplasm of lung	SLC12A3	1.0	
+Treacher Collins syndrome	SLC12A3	1.0	
+Abnormality of the digestive system	SLC12A3	1.0	
+Congenital anomalies of kidney and urinary tract 1, susceptibility to	SLC12A3	1.0	
+Familial hypokalemia-hypomagnesemia	SLC12A3	1.0	
+Cortical dysplasia, complex, with other brain malformations 3	SLC12A3	1.0	
+Autosomal recessive inheritance	SLC12A3	1.0	
+Abnormality of the nervous system	SLC12A3	1.0	
+Paralysis	SLC12A3	1.0	
+Hypervolemia	SLC12A3	1.0	
+Chondrocalcinosis	SLC12A3	1.0	
+Multisystem disorder	SLC12A3	1.0	
+Breast carcinoma	SLC12A3	1.0	
+Lung cancer	SLC12A3	1.0	
+Malignant neoplasm of kidney	SLC12A3	1.0	
+Abdominal symptom	SLC12A3	1.0	
+Generalized muscle weakness	SLC12A3	1.0	
+Lymphangiomyomatosis	SLC12A3	1.0	
+Germinoma	SLC12A3	1.0	
+Tauopathies	SLC12A3	1.0	
+Sarcoma, Ewing	SLC12A3	1.0	
+Primary hyperaldosteronism	SLC12A3	1.0	
+Precursor Cell Lymphoblastic Leukemia-Lymphoma	SLC12A3	1.0	
+Stage 5 chronic kidney disease	SLC12A3	1.0	
+Hirschsprung disease 1	SLC12A3	1.0	
+Aortic valve disease 2	SLC12A3	1.0	
+Abnormal urine output	SLC12A3	1.0	
+Ectopic calcification	SLC12A3	1.0	
+Abnormality of the musculature	SLC12A3	1.0	
+Abnormality of metabolism/homeostasis	SLC12A3	1.0	
+Abnormality of the skeletal system	SLC12A3	1.0	
+Abnormality of the urinary system	SLC12A3	1.0	
+Abnormal drinking behavior	SLC12A3	1.0	
+Abnormality of nervous system morphology	SLC12A3	1.0	
+Abnormality of nervous system physiology	SLC12A3	1.0	
+Abnormal urinary electrolyte concentration	SLC12A3	1.0	
+Abnormality of skeletal morphology	SLC12A3	1.0	
+Abnormality of muscle physiology	SLC12A3	1.0	
+Abnormality of central motor function	SLC12A3	1.0	
+Abnormality of urine calcium concentration	SLC12A3	1.0	
+Abnormality of the urinary system physiology	SLC12A3	1.0	
+Abnormality of potassium homeostasis	SLC12A3	1.0	
+Abnormality of renal excretion	SLC12A3	1.0	
+Abnormality of the upper urinary tract	SLC12A3	1.0	
+Abnormality of monovalent inorganic cation homeostasis	SLC12A3	1.0	
+Abnormality of cation homeostasis	SLC12A3	1.0	
+Abnormality of divalent inorganic cation homeostasis	SLC12A3	1.0	
+Abnormality of calcium homeostasis	SLC12A3	1.0	
+Juvenile onset	SLC12A3	1.0	
+Abnormality of connective tissue	SLC12A3	1.0	
+Abnormality of ion homeostasis	SLC12A3	1.0	
+Abnormality of urine homeostasis	SLC12A3	1.0	
+Abnormality of the endocrine system	SLC12A3	1.0	
+Abnormal peripheral nervous system morphology	SLC12A3	1.0	
+Abnormal consumption behavior	SLC12A3	1.0	
+Abnormality of digestive system physiology	SLC12A3	1.0	

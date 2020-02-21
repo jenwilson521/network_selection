@@ -1,0 +1,54 @@
+node_name	node_type	
+DB00774	drug	
+CA9	drug_target	
+CA2	drug_target	
+CA1	drug_target	
+KCNMA1	drug_target	
+CA4	drug_target	
+ATP1A1	drug_target	
+CA12	drug_target	
+Hyperkalemia	phenotype	
+Bladder neck obstruction	phenotype	
+Abnormality of sodium homeostasis	phenotype	
+Renal tubular acidosis, distal, autosomal dominant	phenotype	
+Hyponatremia	phenotype	
+Metabolic Bone Disorder	phenotype	
+Complete trisomy 18 syndrome	phenotype	
+Dialeptic seizures	phenotype	
+Malignant neoplasm of male breast	phenotype	
+Abnormality of potassium homeostasis	phenotype	
+EEG with generalized epileptiform discharges	phenotype	
+Carcinoma of Male Breast	phenotype	
+Toxic Shock Syndrome	phenotype	
+EEG with irregular generalized spike and wave complexes	phenotype	
+Abnormality of monovalent inorganic cation homeostasis	phenotype	
+Diaphragmatic hernia	phenotype	
+Ovarian Serous Adenocarcinoma	phenotype	
+Primary hyperaldosteronism	phenotype	
+Epilepsy, generalized, with febrile seizures plus, type 6 (2)	phenotype	
+Absence seizures	phenotype	
+Generalized tonic-clonic seizures	phenotype	
+Dehydration	phenotype	
+Lethargy	phenotype	
+Fibrinogen Adverse Event	phenotype	
+Chorea, childhood-onset, with psychomotor retardation	phenotype	
+Impotence	phenotype	
+Obesity, severe, 601665 (3)	phenotype	
+Metastatic malignant neoplasm to brain	phenotype	
+Generalized seizures	phenotype	
+Disseminated Malignant Neoplasm	phenotype	
+Autosomal dominant non-syndromic sensorineural deafness type DFNA	phenotype	
+Secondary hyperparathyroidism	phenotype	
+Tumor Initiation	phenotype	
+Status epilepticus	phenotype	
+Abnormality of cation homeostasis	phenotype	
+Renal cell carcinoma, nonpapillary	phenotype	
+Abnormality of ion homeostasis	phenotype	
+Tuberculosis, Pulmonary	phenotype	
+Craniosynostoses	phenotype	
+EEG abnormality	phenotype	
+Hearing Loss, Mixed Conductive-Sensorineural	phenotype	
+Ductal Carcinoma	phenotype	
+Abnormality of central nervous system electrophysiology	phenotype	
+Narcolepsy	phenotype	
+Hypospadias	phenotype	

@@ -1,0 +1,4 @@
+node1	node2	edge_score	
+DB00879	ALB	1.0	
+DB00879	DCK	1.0	
+

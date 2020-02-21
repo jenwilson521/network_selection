@@ -1,0 +1,24 @@
+node_name	node_type	
+DB00287	drug	
+PTGFR	drug_target	
+ Adenocarcinoma, ovarian, somatic, 167000 (3)	phenotype	
+Airway Obstruction	phenotype	
+Alzheimer Disease	phenotype	
+Verotoxigenic Escherichia coli gastrointestinal tract infection	phenotype	
+Connective Tissue Diseases	phenotype	
+Endometriosis	phenotype	
+Fetal Diseases	phenotype	
+Glaucoma, Angle-Closure	phenotype	
+Glaucoma, Open-Angle	phenotype	
+Inflammation	phenotype	
+Musculoskeletal Diseases	phenotype	
+Ocular Hypertension	phenotype	
+Pregnancy Complications, Hematologic	phenotype	
+Pulmonary fibrosis and/or bone marrow failure, telomere-related, 4	phenotype	
+Dermatosis NOS	phenotype	
+Tobacco Use Disorder	phenotype	
+Essential hypertension	phenotype	
+Premature Birth	phenotype	
+Primary open angle glaucoma juvenile onset 1	phenotype	
+Intraocular pressure disorder	phenotype	
+Idiopathic Pulmonary Fibrosis	phenotype	

@@ -1,0 +1,5 @@
+node1	node2	edge_score	
+DB00529	SLC16A1	1.0	
+DB00529	SLC22A6	1.0	
+DB00529	UL30	1.0	
+

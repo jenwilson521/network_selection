@@ -1,0 +1,26 @@
+Gene	CUI	Source Databases	
+GRIA3	C2911647	Weight Gain Adverse Event	DisGeNet	
+GSK3B	C2911647	Weight Gain Adverse Event	DisGeNet	
+GSK3B	C0154409	Recurrent major depressive episodes	DisGeNet	
+SCNN1B	C0020461	Hyperkalemia	HumPhenOnt	
+GRIA3	C1842060	Prominent supraorbital ridges	HumPhenOnt	
+GRIA3	C0030552	Muscle weakness	HumPhenOnt	
+GSK3B	C0030552	Muscle weakness	DisGeNet	
+SCNN1B	C0030552	Muscle weakness	HumPhenOnt	
+SCNN1B	C4023644	Abnormality of sodium homeostasis	HumPhenOnt	
+SCNN1B	C0020625	Hyponatremia	HumPhenOnt	
+SCNN1B	C4025685	Adrenal overactivity	HumPhenOnt	
+GSK3B	C0687150	Parathyroid carcinoma	DisGeNet	
+SCNN1B	C0002063	Alkalosis	HumPhenOnt	
+SCNN1B	C0020428	Hyperaldosteronism, familial, type IV	HumPhenOnt	
+SCNN1B	C4023575	Abnormality of potassium homeostasis	HumPhenOnt	
+SCNN1B	C0020545	Renovascular hypertension	DisGeNet	
+SCNN1B	C0020621	Hypokalemia	HumPhenOnt	
+GSK3B	C0013386	Dyskinesia, Drug-Induced	DisGeNet	
+GRIA3	C1096063	Drug Resistant Epilepsy	DisGeNet	
+SCNN1B	C0600260	Obstructive lung disease	DisGeNet	
+SCNN1B	C4023645	Abnormality of monovalent inorganic cation homeostasis	HumPhenOnt	
+GRIA3	C0038443	Stress, Psychological	DisGeNet	
+GSK3B	C0853193	Bipolar I disorder	DisGeNet	
+SCNN1B	C0220981	Metabolic acidosis	HumPhenOnt	
+GRIA3	C0029421	Osteochondritis dissecans	DisGeNet	

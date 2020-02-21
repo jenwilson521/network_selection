@@ -1,0 +1,36 @@
+node_name	node_type	
+DB01956	drug	
+SLC6A6	drug_target	
+GLRA2	drug_target	
+GLRA1	drug_target	
+BAAT	drug_target	
+GRIN2B	drug_target	
+GABBR1	drug_target	
+Placental Insufficiency	phenotype	
+Smith-Magenis syndrome	phenotype	
+Alcohol withdrawal syndrome	phenotype	
+Cocaine delirium	phenotype	
+Personality disorder	phenotype	
+Opiate Addiction	phenotype	
+Epilepsy, focal, with speech disorder and with or without mental retardation	phenotype	
+Brain Tumor, Primary	phenotype	
+Child Development Disorders, Pervasive	phenotype	
+Cortical dysplasia, complex, with other brain malformations 3	phenotype	
+Memory Loss	phenotype	
+Absent speech	phenotype	
+Tardive Dyskinesia	phenotype	
+Hypoxia-Ischemia, Brain	phenotype	
+Osteochondritis dissecans	phenotype	
+NEUROTICISM	phenotype	
+Malformation of cortical development	phenotype	
+Orofacial dyskinesia	phenotype	
+Schizoaffective Disorder	phenotype	
+Obsessive-compulsive disorder	phenotype	
+Neuralgia	phenotype	
+Hypsarrhythmia	phenotype	
+Dyslexia 1	phenotype	
+Epileptic encephalopathy, early infantile, 29	phenotype	
+Alcohol abuse	phenotype	
+Liver Cirrhosis, Alcoholic	phenotype	
+Anorexia nervosa 1	phenotype	
+Hypotension	phenotype	

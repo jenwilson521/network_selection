@@ -1,0 +1,12 @@
+node_name	node_type	
+DB00753	drug	
+GRIA1	drug_target	
+CYP2B6	drug_target	
+GLRA1	drug_target	
+CHRNB2	drug_target	
+ALB	drug_target	
+CYP2E1	drug_target	
+CHRNA4	drug_target	
+ATP2C1	drug_target	
+GABRA1	drug_target	
+KCNA1	drug_target	

@@ -1,0 +1,14 @@
+Gene	CUI	Source Databases	
+CYP3A4	C0019337	Heroin Dependence	DisGeNet	
+OPRD1	C0019337	Heroin Dependence	DisGeNet	
+OPRM1	C0019337	Heroin Dependence	DisGeNet	
+CYP3A4	C0030201	Acute postoperative pain	DisGeNet	
+OPRM1	C0030201	Acute postoperative pain	DisGeNet	
+OPRD1	C0524662	Opiate Addiction	DisGeNet	
+OPRM1	C0524662	Opiate Addiction	DisGeNet	
+OPRD1	C0020651	Hypotension, Orthostatic	DisGeNet	
+OPRM1	C0020651	Hypotension, Orthostatic	DisGeNet	
+CYP3A4	C0344307	Pain insensitivity	DisGeNet	
+OPRM1	C0344307	Pain insensitivity	DisGeNet	
+OPRD1	C0600427	Cocaine Dependence	DisGeNet	
+OPRM1	C0600427	Cocaine Dependence	DisGeNet	

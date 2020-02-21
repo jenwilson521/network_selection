@@ -1,0 +1,173 @@
+node1	node2	edge_score	
+DB00935	ADRA1A	1.0	
+DB00935	ADRA1B	1.0	
+DB00935	ADRA1D	1.0	
+DB00935	ADRA2A	1.0	
+DB00935	ADRA2B	1.0	
+DB00935	ADRA2C	1.0	
+ADRA1B		1.0
+ADRA1A		1.0
+ADRA2C		1.0
+ADRA2A		1.0
+ADRA2A	rs1800545	0.99
+Acute disease of cardiovascular system	ADRA1A	1.0	
+Acute disease of cardiovascular system	ADRA2A	1.0	
+Acute disease of cardiovascular system	ADRA2C	1.0	
+Chronic sciatica	ADRA1A	1.0	
+Chronic sciatica	ADRA2A	1.0	
+Chronic sciatica	ADRA2C	1.0	
+Low back pain	ADRA1A	1.0	
+Low back pain	ADRA2A	1.0	
+Low back pain	ADRA2C	1.0	
+Low Tension Glaucoma	ADRA1A	1.0	
+Low Tension Glaucoma	ADRA2A	1.0	
+Low Tension Glaucoma	ADRA2C	1.0	
+Systemic arterial pressure	ADRA1A	1.0	
+Systemic arterial pressure	ADRA1B	1.0	
+Systemic arterial pressure	ADRA2A	1.0	
+Systemic arterial pressure	ADRA2C	1.0	
+Hypotension	ADRA1A	1.0	
+Hypotension	ADRA1B	1.0	
+Hypotension	ADRA2A	1.0	
+Attention deficit hyperactivity disorder	ADRA1A	1.0	
+Attention deficit hyperactivity disorder	ADRA1B	1.0	
+Attention deficit hyperactivity disorder	ADRA2A	1.0	
+Attention deficit hyperactivity disorder	ADRA2C	1.0	
+Hyperalgesia	ADRA1A	1.0	
+Hyperalgesia	ADRA2A	1.0	
+Hyperalgesia	ADRA2C	1.0	
+Gastroparesis	ADRA1A	1.0	
+Gastroparesis	ADRA1B	1.0	
+Learning Disabilities	ADRA2A	1.0	
+Learning Disabilities	ADRA2C	1.0	
+Cardiomegaly	ADRA1B	1.0	
+Cardiomegaly	ADRA2A	1.0	
+Cardiomegaly	ADRA2C	1.0	
+Mood Disorders	ADRA1B	1.0	
+Mood Disorders	ADRA2A	1.0	
+Mood Disorders	ADRA2C	1.0	
+Neuralgia	ADRA2A	1.0	
+Neuralgia	ADRA2C	1.0	
+Major depressive disorder	ADRA1A	1.0	
+Major depressive disorder	ADRA2A	1.0	
+Major depressive disorder	ADRA2C	1.0	
+Hypertension	ADRA1A	1.0	
+Hypertension	ADRA1B	1.0	
+Hypertension	ADRA2A	1.0	
+Hypertension	ADRA2C	1.0	
+Tourette Syndrome	ADRA1A	1.0	
+Tourette Syndrome	ADRA2A	1.0	
+Pain	ADRA1A	1.0	
+Pain	ADRA2A	1.0	
+Pain	ADRA2C	1.0	
+Irritable bowel syndrome with diarrhea	ADRA2A	1.0	
+Irritable bowel syndrome with diarrhea	ADRA2C	1.0	
+Obstructive sleep apnea	ADRA1B	1.0	
+Obstructive sleep apnea	ADRA2A	1.0	
+Fibrosis	ADRA2A	1.0	
+Fibrosis	ADRA2C	1.0	
+ Acrodysostosis 1, with or without hormone resistance, 101800 (3)	ADRA1A	1.0	
+Pseudohypoparathyroidism, type IB, 603233 (3)	ADRA1A	1.0	
+Behavior Disorders	ADRA2A	1.0	
+Disorders of parathyroid gland	ADRA1A	1.0	
+genetic hypertension	ADRA1A	1.0	
+Hereditary Sensory Autonomic Neuropathy, Type 1	ADRA1A	1.0	
+Bladder neck obstruction	ADRA1A	1.0	
+Taste bitter	ADRA1A	1.0	
+Hemorrhagic disorder due to intrinsic circulating anticoagulants	ADRA2A	1.0	
+Congenital long QT syndrome	ADRA1A	1.0	
+Excessive salivation	ADRA2A	1.0	
+Pulmonary Cystic Fibrosis	ADRA1A	1.0	
+Essential hypertension	ADRA1A	1.0	
+Essential hypertension	ADRA1B	1.0	
+Chronic schizophrenia	ADRA1A	1.0	
+Hypoparathyroidism - autosomal dominant	ADRA1A	1.0	
+Acute postoperative pain	ADRA1A	1.0	
+Nephrosclerosis	ADRA1A	1.0	
+Paroxysmal atrial fibrillation	ADRA1A	1.0	
+Cholestasis of pregnancy	ADRA1A	1.0	
+Neurotoxicity Syndromes	ADRA1B	1.0	
+Acth-Independent Macronodular Adrenal Hyperplasia	ADRA2A	1.0	
+Nephrogenic diabetes insipidus, autosomal	ADRA1A	1.0	
+Drug usage	ADRA2A	1.0	
+Weight Loss Adverse Event	ADRA2A	1.0	
+Fibromyalgia	ADRA1A	1.0	
+Anxiety Disorders	ADRA1A	1.0	
+Anxiety Disorders	ADRA2A	1.0	
+Blood pressure finding	ADRA1B	1.0	
+Blood pressure finding	ADRA2A	1.0	
+Dyskinesia, Drug-Induced	ADRA1A	1.0	
+Polydipsia	ADRA2A	1.0	
+Spondylitis, Ankylosing	ADRA1B	1.0	
+Unipolar Depression	ADRA2A	1.0	
+Unipolar Depression	ADRA2C	1.0	
+Memory Disorders	ADRA1A	1.0	
+Inflammatory pain	ADRA1A	1.0	
+Hypogonadism with anosmia	ADRA1A	1.0	
+Psychoses, Substance-Induced	ADRA2C	1.0	
+Attention Deficit Disorder	ADRA2A	1.0	
+Polycystic Ovary Syndrome	ADRA1A	1.0	
+Polycystic Ovary Syndrome	ADRA1B	1.0	
+Urinary incontinence	ADRA1A	1.0	
+Acute Lung Injury	ADRA2A	1.0	
+Ichthyosis bullosa of Siemens	ADRA2A	1.0	
+Depressive Disorder	ADRA2A	1.0	
+Depressive Disorder	ADRA2C	1.0	
+Schizoaffective Disorder	ADRA1A	1.0	
+Gastrointestinal Diseases	ADRA2A	1.0	
+{Unipolar depression, susceptibility to}, 608516 (3)	ADRA2A	1.0	
+{Unipolar depression, susceptibility to}, 608516 (3)	ADRA2C	1.0	
+Herpes NOS	ADRA1A	1.0	
+Albinism, ocular, with sensorineural deafness	ADRA1A	1.0	
+Dyslexia 1	ADRA2A	1.0	
+body mass	ADRA2A	1.0	
+Marijuana Abuse	ADRA2C	1.0	
+Endotoxemia	ADRA2A	1.0	
+Kidney Failure, Chronic	ADRA1A	1.0	
+Kidney Failure, Chronic	ADRA1B	1.0	
+Metabolic Syndrome X	ADRA1A	1.0	
+Metabolic Syndrome X	ADRA2A	1.0	
+Methamphetamine abuse	ADRA1A	1.0	
+Schizophrenia	ADRA1A	1.0	
+Schizophrenia	ADRA2A	1.0	
+Schizophrenia	ADRA2C	1.0	
+Epilepsy	ADRA1A	1.0	
+Epilepsy	ADRA2A	1.0	
+Diabetes mellitus type 2	ADRA1A	1.0	
+Diabetes mellitus type 2	ADRA2A	1.0	
+Diabetes mellitus type 2	ADRA2C	1.0	
+Alcohol dependence	ADRA2A	1.0	
+Alcohol dependence	ADRA2C	1.0	
+Acquired long QT syndrome	ADRA2C	1.0	
+Panic disorder syndrome 1 (2)	ADRA2A	1.0	
+Primary Effusion Lymphoma	ADRA1A	1.0	
+Diabetes Mellitus, Type 1	ADRA1A	1.0	
+Diabetes Mellitus, Type 1	ADRA1B	1.0	
+Diabetes Mellitus, Type 1	ADRA2A	1.0	
+Obesity, severe, 601665 (3)	ADRA2A	1.0	
+Differentiated Thyroid Gland Carcinoma	ADRA1A	1.0	
+Obesity	ADRA1A	1.0	
+Obesity	ADRA1B	1.0	
+Obesity	ADRA2A	1.0	
+Pruritus	ADRA1A	1.0	
+Congestive heart failure	ADRA1A	1.0	
+Congestive heart failure	ADRA2C	1.0	
+Parkinson Disease	ADRA1A	1.0	
+Parkinson Disease	ADRA2A	1.0	
+Neurodegeneration with brain iron accumulation	ADRA1B	1.0	
+Heart Failure	ADRA1A	1.0	
+Heart Failure	ADRA2C	1.0	
+Tachycardia	ADRA2C	1.0	
+Weight Gain Adverse Event	ADRA2A	1.0	
+Congenital Myotonic Dystrophy	ADRA1A	1.0	
+Insulinoma	ADRA2A	1.0	
+Steinert myotonic dystrophy syndrome	ADRA1A	1.0	
+Malignant neoplasm of gallbladder	ADRA2A	1.0	
+Bronchial Hyperreactivity	ADRA1A	1.0	
+Cholelithiasis	ADRA2A	1.0	
+Cytomegalovirus Infections	ADRA1A	1.0	
+Liver Cirrhosis, Biliary	ADRA1A	1.0	
+Liver Cirrhosis, Biliary	ADRA2A	1.0	
+Familial hypercholesterolemia	ADRA1A	1.0	
+Hypogonadotropic hypogonadism 7 with or without anosmia	ADRA1A	1.0	
+Kaposi's sarcoma	ADRA1A	1.0	

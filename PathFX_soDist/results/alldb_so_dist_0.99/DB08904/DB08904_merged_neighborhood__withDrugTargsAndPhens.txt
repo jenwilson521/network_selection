@@ -1,0 +1,4 @@
+node1	node2	edge_score	
+DB08904	TNF	1.0	
+DB08904	AKR1A1	1.0	
+

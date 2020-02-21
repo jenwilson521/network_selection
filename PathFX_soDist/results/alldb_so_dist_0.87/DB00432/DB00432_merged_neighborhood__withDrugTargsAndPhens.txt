@@ -1,0 +1,73 @@
+node1	node2	edge_score	
+DB00432	SLC28A1	1.0	
+DB00432	ALB	1.0	
+DB00432	TYMP	1.0	
+DB00432	TYMS	1.0	
+DB00432	SLC22A6	1.0	
+DB00432	SLC29A2	1.0	
+DB00432	SLC29A1	1.0	
+DB00432	TK1	1.0	
+TYMP		1.0
+SLC29A1	rs747199	0.99
+ALB		1.0
+SLC29A1	rs9394992	0.99
+TYMS		1.0
+SLC28A1	rs2290271	0.99
+SLC28A1	rs2242046	0.99
+TYMS	rs2847153	0.99
+TYMS	rs34489327	0.99
+SLC28A1		1.0
+TYMS	rs183205964	0.99
+SLC29A1	rs760370	0.99
+TYMS	rs45445694	0.99
+SLC28A1	rs2305364	0.99
+TYMS	rs2853539	0.99
+rs34489327	ENOSF1	0.9801
+ALB	complex:lAo9+jzjVOaRJSWZQvoh0G1mUDc	0.954526206676
+TYMS	rs151264360	0.99
+SLC29A1		1.0
+rs45445694	C18orf56	0.9801
+Lipoatrophy	ALB	1.0	
+Lipoatrophy	SLC28A1	1.0	
+Lipoatrophy	SLC29A1	1.0	
+Lipoatrophy	TYMS	1.0	
+Malignant neoplasm of stomach stage IV	TYMP	1.0	
+Malignant neoplasm of stomach stage IV	TYMS	1.0	
+Fatigue	ALB	1.0	
+Fatigue	SLC28A1	1.0	
+Fatigue	SLC29A1	1.0	
+Fatigue	TYMS	1.0	
+Adverse drug events and drug allergies	ALB	1.0	
+Adverse drug events and drug allergies	TYMS	1.0	
+Brain Ischemia	ALB	1.0	
+Brain Ischemia	ENOSF1	1.0	
+Brain Ischemia	SLC29A1	1.0	
+Brain Ischemia	TYMS	1.0	
+Refractory cancer	TYMP	1.0	
+Refractory cancer	TYMS	1.0	
+Complications of Diabetes Mellitus	ALB	1.0	
+Complications of Diabetes Mellitus	TYMP	1.0	
+Adenocarcinoma of colon	ALB	1.0	
+Adenocarcinoma of colon	TYMP	1.0	
+Adenocarcinoma of colon	TYMS	1.0	
+Neutropenia	SLC28A1	1.0	
+Neutropenia	SLC29A1	1.0	
+Neutropenia	TYMS	1.0	
+Endometrial Neoplasms	ENOSF1	1.0	
+Endometrial Neoplasms	TYMP	1.0	
+Endometrial Neoplasms	TYMS	1.0	
+Sleep Wake Disorders	SLC28A1	1.0	
+Sleep Wake Disorders	SLC29A1	1.0	
+Pancreatitis	ALB	1.0	
+Pancreatitis	TYMP	1.0	
+Pancreatitis	TYMS	1.0	
+Leukopenia	SLC28A1	1.0	
+Leukopenia	SLC29A1	1.0	
+Leukopenia	TYMS	1.0	
+Hereditary hyperhomocysteinemia	ENOSF1	1.0	
+Hereditary hyperhomocysteinemia	TYMS	1.0	
+Graft-versus-host disease, susceptibility to	ALB	1.0	
+Graft-versus-host disease, susceptibility to	TYMP	1.0	
+Graft-versus-host disease, susceptibility to	TYMS	1.0	
+Malnutrition	ALB	1.0	
+Malnutrition	TYMP	1.0	

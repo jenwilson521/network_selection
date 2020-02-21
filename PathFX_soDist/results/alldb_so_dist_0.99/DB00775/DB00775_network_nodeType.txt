@@ -1,0 +1,4 @@
+node_name	node_type	
+DB00775	drug	
+ITGA2B	drug_target	
+ITGB3	drug_target	

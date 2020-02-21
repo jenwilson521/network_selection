@@ -1,0 +1,5 @@
+node1	node2	edge_score	
+DB00521	ADRB1	1.0	
+DB00521	ADRB2	1.0	
+DB00521	CYP2D6	1.0	
+

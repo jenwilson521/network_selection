@@ -1,0 +1,4 @@
+ITGB3		1.0	
+FCGR2B		1.0	
+FCGR2A		1.0	
+FCGR3A		1.0	

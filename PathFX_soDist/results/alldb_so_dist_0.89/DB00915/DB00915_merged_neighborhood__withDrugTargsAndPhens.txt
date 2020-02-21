@@ -1,0 +1,132 @@
+node1	node2	edge_score	
+DB00915	CHRNA4	1.0	
+DB00915	DRD2	1.0	
+DB00915	GRIN3A	1.0	
+DB00915	MAOB	1.0	
+DB00915	CHRNA7	1.0	
+DB00915	SLC22A1	1.0	
+DB00915	SLC22A2	1.0	
+DB00915	CHRNA3	1.0	
+DB00915	DDC	1.0	
+DRD2	rs1800497	0.99
+CHRNA4	rs2236196	0.99
+DRD2	rs2283265	0.99
+DRD2	rs2734842	0.99
+SLC22A1	rs628031	0.99
+DRD2	rs6275	0.99
+SLC22A1	rs2282143	0.99
+CHRNA3	rs578776	0.99
+DRD2	rs1799978	0.99
+DRD2	rs6279	0.99
+DRD2	rs2734833	0.99
+DRD2	rs1125394	0.99
+DRD2	rs4460839	0.99
+DRD2	rs4436578	0.99
+CHRNA4	rs1044397	0.99
+CHRNA3	rs1051730	0.99
+CHRNA3	rs7170068	0.99
+DRD2	rs2440390	0.99
+ANKK1	rs7118900	0.970299
+DRD2	rs1079598	0.99
+SLC22A1	SLC22A1*1, SLC22A1*2, SLC22A1*3, SLC22A1*4, SLC22A1*5	0.99
+CHRNA3		1.0
+SLC22A2		1.0
+SLC22A1	rs12208357	0.99
+SLC22A1	rs622342	0.99
+CHRNA4	rs1044396	0.99
+DRD2		1.0
+DRD2	rs1124493	0.99
+DRD2	rs1076560	0.99
+DRD2	rs6277	0.99
+SLC22A1	rs594709	0.99
+CHRNA4	rs2229959	0.99
+CHRNA7		1.0
+DDC		1.0
+CHRNA3	rs3743078	0.99
+DRD2	rs2734841	0.99
+rs1800497	ANKK1	0.9801
+SLC22A1		1.0
+SLC22A1	rs34130495	0.99
+SLC22A1	SLC22A1*1, SLC22A1*2, SLC22A1*3, SLC22A1*4, SLC22A1*5, SLC22A1*6	0.99
+DRD2	rs1799732	0.99
+SLC22A1	rs683369	0.99
+SLC22A1	rs35167514	0.99
+GRIN3A		1.0
+SLC22A1	rs72552763	0.99
+DRD2	rs1079597	0.99
+DRD2	rs12364283	0.99
+CHRNA4		1.0
+SLC22A1	rs36056065	0.99
+Nicotine Dependence	ANKK1	1.0	
+Nicotine Dependence	CHRNA3	1.0	
+Nicotine Dependence	CHRNA4	1.0	
+Nicotine Dependence	CHRNA7	1.0	
+Nicotine Dependence	DDC	1.0	
+Nicotine Dependence	DRD2	1.0	
+Nicotine Dependence	GRIN3A	1.0	
+Weight Gain Adverse Event	ANKK1	1.0	
+Weight Gain Adverse Event	CHRNA3	1.0	
+Weight Gain Adverse Event	CHRNA4	1.0	
+Weight Gain Adverse Event	CHRNA7	1.0	
+Weight Gain Adverse Event	DDC	1.0	
+Weight Gain Adverse Event	DRD2	1.0	
+Weight Gain Adverse Event	GRIN3A	1.0	
+As If Personality	ANKK1	1.0	
+As If Personality	CHRNA7	1.0	
+As If Personality	DDC	1.0	
+As If Personality	DRD2	1.0	
+Opiate Addiction	ANKK1	1.0	
+Opiate Addiction	CHRNA3	1.0	
+Opiate Addiction	DRD2	1.0	
+Marijuana Abuse	ANKK1	1.0	
+Marijuana Abuse	CHRNA3	1.0	
+Marijuana Abuse	CHRNA7	1.0	
+Marijuana Abuse	DRD2	1.0	
+Cocaine Dependence	ANKK1	1.0	
+Cocaine Dependence	CHRNA3	1.0	
+Cocaine Dependence	DRD2	1.0	
+Increased body weight	ANKK1	1.0	
+Increased body weight	CHRNA3	1.0	
+Increased body weight	CHRNA4	1.0	
+Increased body weight	CHRNA7	1.0	
+Increased body weight	DDC	1.0	
+Increased body weight	DRD2	1.0	
+Increased body weight	GRIN3A	1.0	
+Language impairment	ANKK1	1.0	
+Language impairment	CHRNA7	1.0	
+Language impairment	DRD2	1.0	
+NEUROTICISM	ANKK1	1.0	
+NEUROTICISM	CHRNA4	1.0	
+NEUROTICISM	DRD2	1.0	
+Substance Withdrawal Syndrome	CHRNA3	1.0	
+Substance Withdrawal Syndrome	CHRNA7	1.0	
+Substance Withdrawal Syndrome	DRD2	1.0	
+Incomplete penetrance	CHRNA4	1.0	
+Incomplete penetrance	CHRNA7	1.0	
+Incomplete penetrance	DRD2	1.0	
+Extrahepatic cholestasis	SLC22A1	1.0	
+Extrahepatic cholestasis	SLC22A2	1.0	
+Retrocollis	DRD2	1.0	
+Retrocollis	rs1051730	1.0	
+Antisocial Personality Disorder	ANKK1	1.0	
+Antisocial Personality Disorder	DRD2	1.0	
+Cocaine delirium	DRD2	1.0	
+Cocaine delirium	GRIN3A	1.0	
+heavy drinking	CHRNA4	1.0	
+heavy drinking	DRD2	1.0	
+alcohol use disorder	ANKK1	1.0	
+alcohol use disorder	DRD2	1.0	
+Personality disorder	CHRNA7	1.0	
+Personality disorder	DRD2	1.0	
+Neurobehavioral Manifestations	CHRNA7	1.0	
+Neurobehavioral Manifestations	DRD2	1.0	
+Attention deficit hyperactivity disorder	ANKK1	1.0	
+Attention deficit hyperactivity disorder	CHRNA3	1.0	
+Attention deficit hyperactivity disorder	CHRNA4	1.0	
+Attention deficit hyperactivity disorder	CHRNA7	1.0	
+Attention deficit hyperactivity disorder	DDC	1.0	
+Attention deficit hyperactivity disorder	DRD2	1.0	
+Antisocial/borderline personality disorder	ANKK1	1.0	
+Antisocial/borderline personality disorder	DRD2	1.0	
+Juvenile myoclonic epilepsy	CHRNA4	1.0	
+Juvenile myoclonic epilepsy	CHRNA7	1.0	

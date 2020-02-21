@@ -1,0 +1,19 @@
+node_name	node_type	
+DB00356	drug	
+CYP1A1	drug_target	
+CYP1A2	drug_target	
+CYP2D6	drug_target	
+KCNMA1	drug_target	
+CYP2E1	drug_target	
+CYP2A6	drug_target	
+CYP3A4	drug_target	
+Pleural Neoplasms	phenotype	
+Neoplasm of the larynx	phenotype	
+Genomic Instability	phenotype	
+Chronic liver disease	phenotype	
+Adverse drug events and drug allergies	phenotype	
+Squamous Cell Neoplasms	phenotype	
+Pharyngeal Neoplasms	phenotype	
+Occupational Diseases	phenotype	
+Chronic schizophrenia	phenotype	
+Bronchogenic Carcinoma	phenotype	

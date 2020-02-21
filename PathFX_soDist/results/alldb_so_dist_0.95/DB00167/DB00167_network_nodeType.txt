@@ -1,0 +1,8 @@
+node_name	node_type	
+DB00167	drug	
+IARS2	drug_target	
+IARS	drug_target	
+BCAT2	drug_target	
+BCAT1	drug_target	
+SLC16A10	drug_target	
+ACADSB	drug_target	

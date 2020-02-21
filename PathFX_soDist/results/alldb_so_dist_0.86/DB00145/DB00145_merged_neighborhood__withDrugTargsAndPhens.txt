@@ -1,0 +1,114 @@
+node1	node2	edge_score	
+DB00145	GSS	1.0	
+DB00145	GNMT	1.0	
+DB00145	SLC6A5	1.0	
+DB00145	AGXT	1.0	
+DB00145	SLC6A9	1.0	
+DB00145	AGXT2	1.0	
+DB00145	GATM	1.0	
+DB00145	GLDC	1.0	
+DB00145	SHMT2	1.0	
+DB00145	ALAS1	1.0	
+DB00145	ALAS2	1.0	
+DB00145	GRIN3B	1.0	
+DB00145	SLC16A10	1.0	
+DB00145	GLRB	1.0	
+DB00145	GCAT	1.0	
+DB00145	GARS	1.0	
+DB00145	SHMT1	1.0	
+DB00145	PIPOX	1.0	
+DB00145	GLRA2	1.0	
+DB00145	GLRA1	1.0	
+DB00145	BAAT	1.0	
+DB00145	GRIN2C	1.0	
+DB00145	GRIN2A	1.0	
+DB00145	GLYAT	1.0	
+DB00145	GCSH	1.0	
+GLDC		1.0
+GATM		1.0
+SHMT1		1.0
+SLC6A5		1.0
+GNMT		1.0
+Abnormality of amino acid metabolism	GATM	1.0	
+Abnormality of amino acid metabolism	GLDC	1.0	
+Abnormality of amino acid metabolism	GNMT	1.0	
+Abnormality of carboxylic acid metabolism	GATM	1.0	
+Abnormality of carboxylic acid metabolism	GLDC	1.0	
+Abnormality of carboxylic acid metabolism	GNMT	1.0	
+Hereditary hyperhomocysteinemia	GNMT	1.0	
+Hereditary hyperhomocysteinemia	SHMT1	1.0	
+Autosomal recessive inheritance	GATM	1.0	
+Autosomal recessive inheritance	GLDC	1.0	
+Autosomal recessive inheritance	GNMT	1.0	
+Autosomal recessive inheritance	SLC6A5	1.0	
+3-Methylglutaconic aciduria	GATM	1.0	
+3-Methylglutaconic aciduria	GLDC	1.0	
+Autism 15	GATM	1.0	
+Autism 15	GLDC	1.0	
+Autism 15	SHMT1	1.0	
+Spina bifida	GNMT	1.0	
+Spina bifida	SHMT1	1.0	
+Abnormality of sulfur amino acid metabolism	GNMT	1.0	
+Dentinogenesis imperfecta	SLC6A5	1.0	
+Muscle stiffness	SLC6A5	1.0	
+Gowers sign	GATM	1.0	
+Abnormality of serum amino acid levels	GLDC	1.0	
+Prostate Cancer, Hereditary, 7	GATM	1.0	
+Infantile-onset ascending hereditary spastic paralysis	GATM	1.0	
+Infantile-onset ascending hereditary spastic paralysis	SLC6A5	1.0	
+Folic Acid Deficiency	SHMT1	1.0	
+Gastric Cardia Adenocarcinoma	SHMT1	1.0	
+Learning Disabilities	GLDC	1.0	
+Alcoholic Steatohepatitis	SHMT1	1.0	
+Cleft Lip	GNMT	1.0	
+Cleft Lip	SHMT1	1.0	
+Conduct Disorder	GLDC	1.0	
+Choreoathetosis	GLDC	1.0	
+Cardiac defects	SHMT1	1.0	
+Abnormality of urine homeostasis	GATM	1.0	
+Abnormality of urine homeostasis	GLDC	1.0	
+Abnormality of vitamin metabolism	GLDC	1.0	
+Necrosis	GATM	1.0	
+Organic aciduria	GATM	1.0	
+Adverse drug events and drug allergies	SHMT1	1.0	
+Abnormality of muscle physiology	GATM	1.0	
+Abnormality of muscle physiology	GLDC	1.0	
+Abnormality of muscle physiology	SLC6A5	1.0	
+Atypical nevus	GNMT	1.0	
+Abnormality of metabolism/homeostasis	GATM	1.0	
+Abnormality of metabolism/homeostasis	GLDC	1.0	
+Abnormality of metabolism/homeostasis	GNMT	1.0	
+Drug Allergy	SHMT1	1.0	
+Gastrointestinal Diseases	SHMT1	1.0	
+Agitation	GLDC	1.0	
+Cleft Palate	GNMT	1.0	
+Cleft Palate	SHMT1	1.0	
+Abnormality of the musculature	GATM	1.0	
+Abnormality of the musculature	GLDC	1.0	
+Abnormality of the musculature	SLC6A5	1.0	
+Bone neoplasms	SHMT1	1.0	
+Neuralgia	SLC6A5	1.0	
+Irritability	GLDC	1.0	
+Adult Acute Lymphocytic Leukemia	SHMT1	1.0	
+Lethargy	GLDC	1.0	
+Neoplasm of the rectum	SHMT1	1.0	
+Malignant tumor of esophagus	SHMT1	1.0	
+Malignant tumor of esophagus	SLC6A5	1.0	
+Abnormality of the urinary system physiology	GATM	1.0	
+Abnormality of the urinary system physiology	GLDC	1.0	
+Schizophrenia	GNMT	1.0	
+Schizophrenia	SHMT1	1.0	
+Schizophrenia	SLC6A5	1.0	
+Aggressive behavior	GLDC	1.0	
+Proximal muscle weakness	GATM	1.0	
+Aminoaciduria	GLDC	1.0	
+Onset	GATM	1.0	
+Onset	SLC6A5	1.0	
+Functional respiratory abnormality	GLDC	1.0	
+Functional respiratory abnormality	SLC6A5	1.0	
+Death in infancy	GLDC	1.0	
+Giant cell arteritis	SHMT1	1.0	
+Elevated hepatic transaminases	GNMT	1.0	
+Kidney Diseases	GATM	1.0	
+Kidney Diseases	SHMT1	1.0	
+Hematological Disease	SHMT1	1.0	

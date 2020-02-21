@@ -1,0 +1,4 @@
+node_name	node_type	
+DB01143	drug	
+ALPL	drug_target	
+ENPP1	drug_target	

@@ -1,0 +1,24 @@
+node_name	node_type	
+DB00784	drug	
+CYP2C9	drug_target	
+PTGS2	drug_target	
+PTGS1	drug_target	
+CYP2C8	drug_target	
+ALB	drug_target	
+UGT1A9	drug_target	
+Hepatitis D Infection	phenotype	
+Drug Allergy	phenotype	
+Hyperbilirubinemia	phenotype	
+Cholelithiasis	phenotype	
+Febrile Neutropenia	phenotype	
+Hearing Loss, Partial	phenotype	
+Anemia, Sickle Cell	phenotype	
+Influenza	phenotype	
+Adverse drug events and drug allergies	phenotype	
+Deafness, autosomal recessive 44	phenotype	
+Peptic ulcer	phenotype	
+Rhinitis, Allergic, Perennial	phenotype	
+Leukopenia	phenotype	
+Cholecystolithiasis	phenotype	
+Stomach Diseases	phenotype	
+Neutropenia	phenotype	

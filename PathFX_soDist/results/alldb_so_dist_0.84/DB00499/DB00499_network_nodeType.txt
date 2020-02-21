@@ -1,0 +1,43 @@
+node_name	node_type	
+DB00499	drug	
+CYP1A1	drug_target	
+CYP1A2	drug_target	
+CYP1B1	drug_target	
+AHR	drug_target	
+NR1I2	drug_target	
+AR	drug_target	
+CYP2C19	drug_target	
+CYP3A4	drug_target	
+CYP3A5	drug_target	
+Pleural Neoplasms	phenotype	
+Squamous Cell Neoplasms	phenotype	
+Neoplasms, Germ Cell and Embryonal	phenotype	
+Genomic Instability	phenotype	
+Malignant neoplasm of female breast	phenotype	
+Female Breast Carcinoma	phenotype	
+Neoplasm of the larynx	phenotype	
+Primary malignant neoplasm of liver	phenotype	
+Head and Neck Neoplasms	phenotype	
+Lung Injury	phenotype	
+Depressive Symptoms	phenotype	
+Mammographic breast density	phenotype	
+Carcinogenicity	phenotype	
+21-hydroxylase deficiency	phenotype	
+Chemical Carcinogenesis	phenotype	
+Postmenopausal osteoporosis	phenotype	
+Malignant tumor of testis	phenotype	
+Prostate cancer, familial	phenotype	
+Testicular Germ Cell Tumor	phenotype	
+Endometrial Neoplasms	phenotype	
+Tumor Initiation	phenotype	
+Mesothelioma, malignant	phenotype	
+Thromboembolism	phenotype	
+Intrahepatic cholestasis	phenotype	
+Ovarian Failure, Premature	phenotype	
+Adrenal hyperplasia	phenotype	
+Breast Fibrocystic Disease	phenotype	
+Pharyngeal Neoplasms	phenotype	
+Tardive Dyskinesia	phenotype	
+Colorectal polyposis	phenotype	
+Benign Prostatic Hyperplasia	phenotype	
+Testicular Neoplasms	phenotype	

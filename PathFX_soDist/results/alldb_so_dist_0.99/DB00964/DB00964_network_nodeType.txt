@@ -1,0 +1,5 @@
+node_name	node_type	
+DB00964	drug	
+ADRA1A	drug_target	
+ADRA2A	drug_target	
+ADRA2B	drug_target	

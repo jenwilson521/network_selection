@@ -1,0 +1,6 @@
+rank	phenotype	cui	assoc in neigh	assoc in intom	probability	Benjamini-Hochberg	genes	
+2	Lung Injury	C0273115	2	28	3.067149262347968e-07	9.75609756098e-06	CYP1A2,GSR
+23	Polyglandular Type I Autoimmune Syndrome	C0085859	1	25	6.774529818465158e-05	0.000112195121951	CYP1A2
+24	Pleural Neoplasms	C0032229	1	26	7.337046293298677e-05	0.000117073170732	CYP1A2
+25	Calcium oxalate urolithiasis	C1833683	1	27	7.921821348377822e-05	0.000121951219512	GSR
+26	 {Porphyria cutanea tarda, susceptibility to}, 176100 (3)	C0162566	1	32	0.00011178890543117603	0.000126829268293	CYP1A2

@@ -1,0 +1,43 @@
+node_name	node_type	
+DB00657	drug	
+CHRNA4	drug_target	
+CHRNB2	drug_target	
+CHRNA7	drug_target	
+CHRNA2	drug_target	
+SUDDEN INFANT DEATH SYNDROME	phenotype	
+Nicotine Dependence	phenotype	
+Weight Gain Adverse Event	phenotype	
+Juvenile myoclonic epilepsy	phenotype	
+Idiopathic generalized epilepsy	phenotype	
+Epilepsy, generalized, with febrile seizures plus, type 6 (2)	phenotype	
+Substance Withdrawal Syndrome	phenotype	
+Incomplete penetrance	phenotype	
+Sleep Wake Disorders	phenotype	
+Lewy Body Disease	phenotype	
+Mild cognitive impairment	phenotype	
+Neurodegeneration with brain iron accumulation	phenotype	
+Down Syndrome	phenotype	
+Dementia	phenotype	
+Increased body weight	phenotype	
+Attention deficit hyperactivity disorder	phenotype	
+Hypothermia	phenotype	
+Unverricht-Lundborg syndrome	phenotype	
+heavy drinking	phenotype	
+Personality disorder	phenotype	
+Epilepsy	phenotype	
+Neurobehavioral Manifestations	phenotype	
+Memory impairment	phenotype	
+Myelomeningocele	phenotype	
+Chronic pain	phenotype	
+Mild Mental Retardation	phenotype	
+Hippocampal sclerosis	phenotype	
+Pemphigus	phenotype	
+Prenatal Exposure Delayed Effects	phenotype	
+Pain insensitivity	phenotype	
+Dementia familial British	phenotype	
+Epilepsy, focal, with speech disorder and with or without mental retardation	phenotype	
+Nausea	phenotype	
+Chromosome Xq28 deletion syndrome	phenotype	
+Memory Disorders	phenotype	
+Focal seizures	phenotype	
+Channelopathies	phenotype	

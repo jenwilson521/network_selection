@@ -1,0 +1,55 @@
+node_name	node_type	
+DB00128	drug	
+RNASE1	drug_target	
+ADSS	drug_target	
+ASPA	drug_target	
+DARS	drug_target	
+SLC25A13	drug_target	
+ASPH	drug_target	
+ASNS	drug_target	
+LYZ	drug_target	
+SLC1A1	drug_target	
+PAICS	drug_target	
+DARS2	drug_target	
+SLC16A10	drug_target	
+ADSSL1	drug_target	
+ACY3	drug_target	
+GOT2	drug_target	
+ASRGL1	drug_target	
+GOT1	drug_target	
+ASS1	drug_target	
+SLC25A12	drug_target	
+ACY1	drug_target	
+CAD	drug_target	
+Abnormality of sulfur amino acid metabolism	phenotype	
+Abnormality of the level of lipoprotein cholesterol	phenotype	
+Prominent nose	phenotype	
+Ectopia lentis, isolated autosomal recessive	phenotype	
+Hyperammonemia	phenotype	
+Confusion	phenotype	
+CADASIL	phenotype	
+Neuroblastic tumors	phenotype	
+Bile duct cancer resectable	phenotype	
+Convex nasal ridge	phenotype	
+Facial dysmorphism, lens dislocation, anterior segment abnormalities, and spontaneous filtering blebs	phenotype	
+Low Tension Glaucoma	phenotype	
+Wide nose	phenotype	
+Neurologic, endocrine, and pancreatic disease, multisystem, infantile-onset	phenotype	
+Abnormality of cholesterol metabolism	phenotype	
+Intrahepatic cholestasis	phenotype	
+Cortical dysplasia, complex, with other brain malformations 3	phenotype	
+Cognition Disorders	phenotype	
+Obsessive-compulsive behavior	phenotype	
+Stress, Psychological	phenotype	
+Osteochondritis dissecans	phenotype	
+Malformation of cortical development	phenotype	
+Abnormality of nitrogen compound homeostasis	phenotype	
+Azotemia	phenotype	
+Cerebral edema	phenotype	
+Dental malocclusion	phenotype	
+Obsessive-compulsive disorder	phenotype	
+Alveolar cell carcinoma	phenotype	
+Storage in hepatocytes	phenotype	
+Creatinine finding	phenotype	
+Lipid accumulation in hepatocytes	phenotype	
+Coma	phenotype	

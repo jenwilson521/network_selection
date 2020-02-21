@@ -1,0 +1,2 @@
+rank	phenotype	cui	assoc in neigh	assoc in intom	probability	Benjamini-Hochberg	genes	
+31	 {HIV-1 viremia, susceptibility to}, 609423 (3)	C0042749	2	71	2.694210113518558e-05	7.45192307692e-05	ALB,CYP3A4

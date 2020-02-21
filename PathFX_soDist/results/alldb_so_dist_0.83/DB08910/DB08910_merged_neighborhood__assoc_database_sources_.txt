@@ -1,0 +1,172 @@
+Gene	CUI	Source Databases	
+ABCB1	C0030201	Acute postoperative pain	DisGeNet	
+CYP3A4	C0030201	Acute postoperative pain	DisGeNet	
+PTGS2	C0030201	Acute postoperative pain	DisGeNet	
+TNF	C0030201	Acute postoperative pain	DisGeNet	
+ABCB1	C0015814	Femur Head Necrosis	DisGeNet	
+CYP3A4	C0015814	Femur Head Necrosis	DisGeNet	
+TNF	C0015814	Femur Head Necrosis	DisGeNet	
+ABCB1	C0032787	Postoperative Complications	DisGeNet	
+LTA	C0032787	Postoperative Complications	DisGeNet	
+PTGS2	C0032787	Postoperative Complications	DisGeNet	
+TNF	C0032787	Postoperative Complications	DisGeNet	
+CYP1A2	C0162557	Acute hepatic failure	DisGeNet	
+CYP3A4	C0162557	Acute hepatic failure	DisGeNet	
+LTA	C0162557	Acute hepatic failure	DisGeNet	
+PTGS2	C0162557	Acute hepatic failure	DisGeNet	
+TNF	C0162557	Acute hepatic failure	DisGeNet	
+ABCB1	C0013182	Drug Allergy	DisGeNet	
+CYP3A4	C0013182	Drug Allergy	DisGeNet	
+LTA	C0013182	Drug Allergy	DisGeNet	
+TNF	C0013182	Drug Allergy	DisGeNet	
+CYP1A2	C0221765	Chronic schizophrenia	DisGeNet	
+CYP3A4	C0221765	Chronic schizophrenia	DisGeNet	
+TNF	C0221765	Chronic schizophrenia	DisGeNet	
+CYP1A2	C0206139	Lichen Planus, Oral	DisGeNet	
+LTA	C0206139	Lichen Planus, Oral	DisGeNet	
+PTGS2	C0206139	Lichen Planus, Oral	DisGeNet	
+TNF	C0206139	Lichen Planus, Oral	DisGeNet	
+LTA	C1333762	Gastric Cardia Adenocarcinoma	DisGeNet	
+PTGS2	C1333762	Gastric Cardia Adenocarcinoma	DisGeNet	
+TNF	C1333762	Gastric Cardia Adenocarcinoma	DisGeNet	
+LTA	C0038354	Stomach Diseases	DisGeNet	
+PTGS2	C0038354	Stomach Diseases	DisGeNet	
+TNF	C0038354	Stomach Diseases	DisGeNet	
+LTA	C0015674	Chronic Fatigue Syndrome	DisGeNet	
+PTGS2	C0015674	Chronic Fatigue Syndrome	DisGeNet	
+TNF	C0015674	Chronic Fatigue Syndrome	DisGeNet	
+ABCB1	C0948480	Coronary Restenosis	DisGeNet	
+LTA	C0948480	Coronary Restenosis	DisGeNet	
+TNF	C0948480	Coronary Restenosis	DisGeNet	
+ABCB1	C0014170	Endometrial Neoplasms	DisGeNet	
+CYP1A2	C0014170	Endometrial Neoplasms	DisGeNet	
+CYP3A4	C0014170	Endometrial Neoplasms	DisGeNet	
+LTA	C0014170	Endometrial Neoplasms	DisGeNet	
+PTGS2	C0014170	Endometrial Neoplasms	DisGeNet	
+TNF	C0014170	Endometrial Neoplasms	DisGeNet	
+CYP1A2	C0023055	Neoplasm of the larynx	DisGeNet	
+CYP3A4	C0023055	Neoplasm of the larynx	DisGeNet	
+PTGS2	C0023055	Neoplasm of the larynx	DisGeNet	
+TNF	C0023055	Neoplasm of the larynx	DisGeNet	
+ABCB1	C0344307	Pain insensitivity	DisGeNet	
+CYP3A4	C0344307	Pain insensitivity	DisGeNet	
+TNF	C0344307	Pain insensitivity	DisGeNet	
+ABCB1	C0079487	Helicobacter Infections	DisGeNet	
+LTA	C0079487	Helicobacter Infections	DisGeNet	
+PTGS2	C0079487	Helicobacter Infections	DisGeNet	
+TNF	C0079487	Helicobacter Infections	DisGeNet	
+ABCB1	C0027497	Nausea	DisGeNet	
+CYP1A2	C0027497	Nausea	DisGeNet	
+TNF	C0027497	Nausea	DisGeNet	
+ABCB1	C0334463	Malignant Fibrous Histiocytoma	DisGeNet	
+PTGS2	C0334463	Malignant Fibrous Histiocytoma	DisGeNet	
+TNF	C0334463	Malignant Fibrous Histiocytoma	DisGeNet	
+LTA	C0029172	Oral Submucous Fibrosis	DisGeNet	
+PTGS2	C0029172	Oral Submucous Fibrosis	DisGeNet	
+TNF	C0029172	Oral Submucous Fibrosis	DisGeNet	
+LTA	C0036205	Sarcoidosis, Pulmonary	DisGeNet	
+PTGS2	C0036205	Sarcoidosis, Pulmonary	DisGeNet	
+TNF	C0036205	Sarcoidosis, Pulmonary	DisGeNet	
+ABCB1	C0041755	Adverse drug events and drug allergies	DisGeNet	
+CYP1A2	C0041755	Adverse drug events and drug allergies	DisGeNet	
+PTGS2	C0041755	Adverse drug events and drug allergies	DisGeNet	
+ABCB1	C0079774	Peripheral T-Cell Lymphoma	DisGeNet	
+CYP3A4	C0079774	Peripheral T-Cell Lymphoma	DisGeNet	
+LTA	C0079774	Peripheral T-Cell Lymphoma	DisGeNet	
+TNF	C0079774	Peripheral T-Cell Lymphoma	DisGeNet	
+CYP1A2	C0031347	Pharyngeal Neoplasms	DisGeNet	
+CYP3A4	C0031347	Pharyngeal Neoplasms	DisGeNet	
+TNF	C0031347	Pharyngeal Neoplasms	DisGeNet	
+CYP1A2	C0686347	Tardive Dyskinesia	DisGeNet	
+CYP3A4	C0686347	Tardive Dyskinesia	DisGeNet	
+TNF	C0686347	Tardive Dyskinesia	DisGeNet	
+CYP1A2	C0949059	Colorectal polyposis	DisGeNet	
+PTGS2	C0949059	Colorectal polyposis	DisGeNet	
+TNF	C0949059	Colorectal polyposis	DisGeNet	
+ABCB1	C0948089	Acute Coronary Syndrome	DisGeNet	
+CYP1A2	C0948089	Acute Coronary Syndrome	DisGeNet	
+CYP3A4	C0948089	Acute Coronary Syndrome	DisGeNet,PheGenI	
+LTA	C0948089	Acute Coronary Syndrome	DisGeNet	
+PTGS2	C0948089	Acute Coronary Syndrome	DisGeNet	
+TNF	C0948089	Acute Coronary Syndrome	DisGeNet	
+ABCB1	C0024620	Primary malignant neoplasm of liver	DisGeNet	
+CYP3A4	C0024620	Primary malignant neoplasm of liver	DisGeNet	
+CYP1A2	C0026640	Neoplasm of the oral cavity	DisGeNet	
+CYP3A4	C0026640	Neoplasm of the oral cavity	DisGeNet	
+LTA	C0026640	Neoplasm of the oral cavity	DisGeNet	
+PTGS2	C0026640	Neoplasm of the oral cavity	DisGeNet	
+TNF	C0026640	Neoplasm of the oral cavity	DisGeNet	
+ABCB1	C0242339	Dyslipidemias	DisGeNet	
+CYP3A4	C0242339	Dyslipidemias	DisGeNet	
+LTA	C0242339	Dyslipidemias	DisGeNet	
+PTGS2	C0242339	Dyslipidemias	DisGeNet	
+TNF	C0242339	Dyslipidemias	DisGeNet	
+LTA	C0014848	Achalasia	DisGeNet	
+TNF	C0014848	Achalasia	DisGeNet	
+ABCB1	C0042721	Viral hepatitis	DisGeNet	
+LTA	C0042721	Viral hepatitis	DisGeNet	
+TNF	C0042721	Viral hepatitis	DisGeNet	
+CYP1A2	C0152115	Orofacial dyskinesia	DisGeNet	
+CYP3A4	C0152115	Orofacial dyskinesia	DisGeNet	
+TNF	C0152115	Orofacial dyskinesia	DisGeNet	
+ABCB1	C0279543	Philadelphia chromosome positive chronic myelogenous leukemia	DisGeNet	
+TNF	C0279543	Philadelphia chromosome positive chronic myelogenous leukemia	DisGeNet	
+ABCB1	C0403396	Steroid-sensitive nephrotic syndrome	DisGeNet	
+TNF	C0403396	Steroid-sensitive nephrotic syndrome	DisGeNet	
+CYP1A2	C0341439	Chronic liver disease	DisGeNet	
+CYP3A4	C0341439	Chronic liver disease	DisGeNet	
+PTGS2	C0341439	Chronic liver disease	DisGeNet	
+TNF	C0341439	Chronic liver disease	DisGeNet	
+LTA	C0342257	Complications of Diabetes Mellitus	DisGeNet	
+PTGS2	C0342257	Complications of Diabetes Mellitus	DisGeNet	
+TNF	C0342257	Complications of Diabetes Mellitus	DisGeNet	
+LTA	C0041466	Typhoid Fever	DisGeNet	
+TNF	C0041466	Typhoid Fever	DisGeNet	
+CYP1A2	C0273115	Lung Injury	DisGeNet	
+TNF	C0273115	Lung Injury	DisGeNet	
+LTA	C0302809	Fulminant hepatitis	DisGeNet	
+TNF	C0302809	Fulminant hepatitis	DisGeNet	
+PTGS2	C0349530	Early gastric cancer	DisGeNet	
+TNF	C0349530	Early gastric cancer	DisGeNet	
+PTGS2	C0375071	Malignant neoplasm of vulva	DisGeNet	
+TNF	C0375071	Malignant neoplasm of vulva	DisGeNet	
+ABCB1	C0024535	Malaria, Falciparum	DisGeNet	
+LTA	C0024535	Malaria, Falciparum	DisGeNet	
+PTGS2	C0024535	Malaria, Falciparum	DisGeNet	
+TNF	C0024535	Malaria, Falciparum	DisGeNet	
+ABCB1	C0085695	Chronic gastritis	DisGeNet	
+PTGS2	C0085695	Chronic gastritis	DisGeNet	
+TNF	C0085695	Chronic gastritis	DisGeNet	
+LTA	C0949691	Spondylarthropathies	DisGeNet	
+PTGS2	C0949691	Spondylarthropathies	DisGeNet	
+TNF	C0949691	Spondylarthropathies	DisGeNet	
+ABCB1	C0040715	Chromosomal translocation	DisGeNet	
+TNF	C0040715	Chromosomal translocation	DisGeNet	
+CYP3A4	C0206720	Squamous Cell Neoplasms	DisGeNet	
+PTGS2	C0206720	Squamous Cell Neoplasms	DisGeNet	
+ABCB1	C0035220	Neonatal respiratory distress	DisGeNet	
+CYP1A2	C0035220	Neonatal respiratory distress	DisGeNet	
+TNF	C0035220	Neonatal respiratory distress	DisGeNet	
+LTA	C0013295	Duodenal Ulcer	DisGeNet	
+PTGS2	C0013295	Duodenal Ulcer	DisGeNet	
+TNF	C0013295	Duodenal Ulcer	DisGeNet	
+ABCB1	C1318544	M5b Acute differentiated monocytic leukemia	DisGeNet	
+PTGS2	C1318544	M5b Acute differentiated monocytic leukemia	DisGeNet	
+TNF	C1318544	M5b Acute differentiated monocytic leukemia	DisGeNet	
+LTA	C0038363	Oral aphthae	DisGeNet	
+TNF	C0038363	Oral aphthae	DisGeNet	
+PTGS2	C0428791	Aortic valve calcification	DisGeNet	
+TNF	C0428791	Aortic valve calcification	DisGeNet	
+CYP1A2	C0153594	Malignant tumor of testis	DisGeNet	
+CYP3A4	C0153594	Malignant tumor of testis	DisGeNet	
+LTA	C0153594	Malignant tumor of testis	DisGeNet	
+PTGS2	C0153594	Malignant tumor of testis	DisGeNet	
+TNF	C0153594	Malignant tumor of testis	DisGeNet	
+ABCB1	C1279296	Chronic leukemia	DisGeNet	
+TNF	C1279296	Chronic leukemia	DisGeNet	
+LTA	C3714644	Neoplasm of the thymus	DisGeNet	
+TNF	C3714644	Neoplasm of the thymus	DisGeNet	
+ABCB1	C0040053	Thrombosis	DisGeNet	
+CYP1A2	C0040053	Thrombosis	DisGeNet	
+PTGS2	C0040053	Thrombosis	DisGeNet	
+TNF	C0040053	Thrombosis	DisGeNet	

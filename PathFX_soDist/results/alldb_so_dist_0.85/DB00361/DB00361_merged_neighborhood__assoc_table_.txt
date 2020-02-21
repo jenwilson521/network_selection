@@ -1,0 +1,3 @@
+rank	phenotype	cui	assoc in neigh	assoc in intom	probability	Benjamini-Hochberg	genes	
+13	Primary malignant neoplasm of liver	C0024620	3	25	4.164092209490988e-06	1.90336749634e-05	ABCB1,CYP2D6,CYP3A4
+28	Acute postoperative pain	C0030201	3	37	2.087586328813895e-05	4.09956076135e-05	ABCB1,CYP2D6,CYP3A4

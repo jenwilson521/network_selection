@@ -1,0 +1,339 @@
+Gene	CUI	Source Databases	
+FCGR2A	C0003864	Arthritis, Rheumatoid	DisGeNet	
+FCGR2B	C0003864	Arthritis, Rheumatoid	DisGeNet	
+FCGR3A	C0003864	Arthritis, Rheumatoid	DisGeNet	
+FCGR2A	C0003873	Rheumatoid arthritis	DisGeNet	
+FCGR2B	C0003873	Rheumatoid arthritis	DisGeNet	
+FCGR3A	C0003873	Rheumatoid arthritis	DisGeNet	
+FCGR2A	C0004096	Asthma	DisGeNet	
+FCGR2B	C0004096	Asthma	DisGeNet	
+FCGR3A	C0004096	Asthma	DisGeNet	
+FCGR2A	C0004364	Autoimmune disease 1	DisGeNet	
+FCGR2B	C0004364	Autoimmune disease 1	DisGeNet	
+FCGR3A	C0004364	Autoimmune disease 1	DisGeNet	
+FCGR2A	C0006142	Breast-ovarian cancer, familial 1	DisGeNet	
+FCGR2B	C0006142	Breast-ovarian cancer, familial 1	DisGeNet	
+FCGR3A	C0006142	Breast-ovarian cancer, familial 1	DisGeNet	
+FCGR2A	C0009447	Common variable immunodeficiency 2	DisGeNet	
+FCGR2B	C0009447	Common variable immunodeficiency 2	DisGeNet	
+FCGR3A	C0009447	Common variable immunodeficiency 2	DisGeNet	
+FCGR2A	C0010054	Coronary heart disease 7	DisGeNet	
+FCGR2B	C0010054	Coronary heart disease 7	DisGeNet	
+FCGR3A	C0010054	Coronary heart disease 7	DisGeNet	
+FCGR2A	C0017661	IgA nephropathy, susceptibility to, 3	DisGeNet	
+FCGR2B	C0017661	IgA nephropathy, susceptibility to, 3	DisGeNet	
+FCGR3A	C0017661	IgA nephropathy, susceptibility to, 3	DisGeNet	
+FCGR2A	C0019693	Symptomatic human immunodeficiency virus infection	DisGeNet	
+FCGR2B	C0019693	Symptomatic human immunodeficiency virus infection	DisGeNet	
+FCGR3A	C0019693	Symptomatic human immunodeficiency virus infection	DisGeNet	
+FCGR2A	C0022658	Kidney Diseases	DisGeNet	
+FCGR2B	C0022658	Kidney Diseases	DisGeNet	
+FCGR3A	C0022658	Kidney Diseases	DisGeNet	
+FCGR2A	C0023434	Chronic Lymphocytic Leukemia	DisGeNet	
+FCGR2B	C0023434	Chronic Lymphocytic Leukemia	DisGeNet	
+FCGR3A	C0023434	Chronic Lymphocytic Leukemia	DisGeNet	
+FCGR2A	C0023467	Acute myeloid leukemia	DisGeNet	
+FCGR2B	C0023467	Acute myeloid leukemia	DisGeNet	
+FCGR3A	C0023467	Acute myeloid leukemia	DisGeNet	
+FCGR2A	C0024131	Lupus Vulgaris	DisGeNet	
+FCGR2B	C0024131	Lupus Vulgaris	DisGeNet	
+FCGR3A	C0024131	Lupus Vulgaris	DisGeNet	
+FCGR2A	C0024138	Discoid lupus erythematosus	DisGeNet	
+FCGR2B	C0024138	Discoid lupus erythematosus	DisGeNet	
+FCGR3A	C0024138	Discoid lupus erythematosus	DisGeNet	
+FCGR2A	C0024141	Lupus Erythematosus, Systemic	ClinVar,DisGeNet,PheGenI	
+FCGR2B	C0024141	Lupus Erythematosus, Systemic	ClinVar,DisGeNet	
+FCGR3A	C0024141	Lupus Erythematosus, Systemic	DisGeNet	
+FCGR2A	C0024143	Lupus Nephritis	DisGeNet	
+FCGR2B	C0024143	Lupus Nephritis	DisGeNet	
+FCGR3A	C0024143	Lupus Nephritis	DisGeNet	
+FCGR2A	C0024299	Lymphoma, Large B-Cell, Diffuse	DisGeNet	
+FCGR2B	C0024299	Lymphoma, Large B-Cell, Diffuse	DisGeNet	
+FCGR3A	C0024299	Lymphoma, Large B-Cell, Diffuse	DisGeNet	
+FCGR2A	C0024301	Lymphoma, Follicular	DisGeNet	
+FCGR2B	C0024301	Lymphoma, Follicular	DisGeNet	
+FCGR3A	C0024301	Lymphoma, Follicular	DisGeNet	
+FCGR2A	C0024530	Malaria	DisGeNet	
+FCGR2B	C0024530	Malaria	DisGeNet	
+FCGR3A	C0024530	Malaria	DisGeNet	
+FCGR2A	C0025303	Meningococcal Infections	DisGeNet	
+FCGR2B	C0025303	Meningococcal Infections	DisGeNet	
+FCGR3A	C0025303	Meningococcal Infections	DisGeNet	
+FCGR2A	C0026691	Mucocutaneous Lymph Node Syndrome	DisGeNet,PheGenI	
+FCGR2B	C0026691	Mucocutaneous Lymph Node Syndrome	DisGeNet	
+FCGR3A	C0026691	Mucocutaneous Lymph Node Syndrome	DisGeNet	
+FCGR2A	C0026764	Multiple Myeloma	DisGeNet	
+FCGR2B	C0026764	Multiple Myeloma	DisGeNet	
+FCGR3A	C0026764	Multiple Myeloma	DisGeNet	
+FCGR2A	C0027726	Nephrotic syndrome, type 5, with or without ocular abnormalities	DisGeNet	
+FCGR2B	C0027726	Nephrotic syndrome, type 5, with or without ocular abnormalities	DisGeNet	
+FCGR3A	C0027726	Nephrotic syndrome, type 5, with or without ocular abnormalities	DisGeNet	
+FCGR2A	C0027947	Neutropenia	DisGeNet	
+FCGR2B	C0027947	Neutropenia	DisGeNet	
+FCGR3A	C0027947	Neutropenia	DisGeNet	
+FCGR2A	C0030805	{Pemphigoid, susceptibility to} (2)	DisGeNet	
+FCGR2B	C0030805	{Pemphigoid, susceptibility to} (2)	DisGeNet	
+FCGR3A	C0030805	{Pemphigoid, susceptibility to} (2)	DisGeNet	
+FCGR2A	C0031099	Periodontitis	DisGeNet	
+FCGR2B	C0031099	Periodontitis	DisGeNet	
+FCGR3A	C0031099	Periodontitis	DisGeNet	
+FCGR2A	C0035243	Respiratory tract infection	DisGeNet	
+FCGR2B	C0035243	Respiratory tract infection	DisGeNet	
+FCGR3A	C0035243	Respiratory tract infection	DisGeNet,HumPhenOnt	
+FCGR2A	C0039483	Giant cell arteritis	DisGeNet	
+FCGR2B	C0039483	Giant cell arteritis	DisGeNet	
+FCGR3A	C0039483	Giant cell arteritis	DisGeNet	
+FCGR2A	C0079731	B-cell lymphoma	DisGeNet	
+FCGR2B	C0079731	B-cell lymphoma	DisGeNet	
+FCGR3A	C0079731	B-cell lymphoma	DisGeNet	
+FCGR2A	C0266929	Chronic Periodontitis	DisGeNet	
+FCGR2B	C0266929	Chronic Periodontitis	DisGeNet	
+FCGR3A	C0266929	Chronic Periodontitis	DisGeNet	
+FCGR2A	C0376358	Malignant tumor of prostate	DisGeNet	
+FCGR2B	C0376358	Malignant tumor of prostate	DisGeNet	
+FCGR3A	C0376358	Malignant tumor of prostate	DisGeNet	
+FCGR2A	C0398650	Idiopathic thrombocytopenic purpura	DisGeNet	
+FCGR2B	C0398650	Idiopathic thrombocytopenic purpura	DisGeNet	
+FCGR3A	C0398650	Idiopathic thrombocytopenic purpura	DisGeNet	
+FCGR2A	C0403529	Anti-Glomerular Basement Membrane Disease	DisGeNet	
+FCGR2B	C0403529	Anti-Glomerular Basement Membrane Disease	DisGeNet	
+FCGR3A	C0403529	Anti-Glomerular Basement Membrane Disease	DisGeNet	
+FCGR2A	C0409974	{Systemic lupus erythematosus, susceptibility to, 8} (2)	DisGeNet	
+FCGR2B	C0409974	{Systemic lupus erythematosus, susceptibility to, 8} (2)	DisGeNet	
+FCGR3A	C0409974	{Systemic lupus erythematosus, susceptibility to, 8} (2)	DisGeNet	
+FCGR2A	C0600139	Prostate carcinoma	DisGeNet	
+FCGR2B	C0600139	Prostate carcinoma	DisGeNet	
+FCGR3A	C0600139	Prostate carcinoma	DisGeNet	
+FCGR2A	C1527249	Colorectal cancer	DisGeNet	
+FCGR2B	C1527249	Colorectal cancer	DisGeNet	
+FCGR3A	C1527249	Colorectal cancer	DisGeNet	
+FCGR2A	C1956346	Coronary Artery Disease	DisGeNet	
+FCGR2B	C1956346	Coronary Artery Disease	DisGeNet	
+FCGR3A	C1956346	Coronary Artery Disease	DisGeNet	
+FCGR2A	C0206114	Periodontal Attachment Loss	DisGeNet	
+FCGR3A	C0206114	Periodontal Attachment Loss	DisGeNet	
+FCGR2A	C0031094	Periodontal Pocket	DisGeNet	
+FCGR3A	C0031094	Periodontal Pocket	DisGeNet	
+FCGR2A	C0002382	Alveolar Bone Loss	DisGeNet	
+FCGR3A	C0002382	Alveolar Bone Loss	DisGeNet	
+FCGR2A	C0034050	Alveolar proteinosis	DisGeNet	
+FCGR2B	C0034050	Alveolar proteinosis	DisGeNet	
+FCGR2A	C1258104	Diffuse Scleroderma	DisGeNet	
+FCGR3A	C1258104	Diffuse Scleroderma	DisGeNet	
+FCGR2A	C0037054	Sickle Cell Trait	DisGeNet	
+FCGR2B	C0037054	Sickle Cell Trait	DisGeNet	
+FCGR2A	C0032269	Pneumococcal Infections	DisGeNet	
+FCGR2B	C0032269	Pneumococcal Infections	DisGeNet	
+FCGR2A	C0018378	Guillain-Barre syndrome, familial	DisGeNet	
+FCGR3A	C0018378	Guillain-Barre syndrome, familial	DisGeNet	
+FCGR2A	C3714636	Pneumonitis	DisGeNet	
+FCGR3A	C3714636	Pneumonitis	DisGeNet	
+FCGR2A	C0010414	Infection by Cryptococcus neoformans	DisGeNet	
+FCGR3A	C0010414	Infection by Cryptococcus neoformans	DisGeNet	
+FCGR2A	C0949690	{Spondyloarthropathy, susceptibility to, 1}, 106300 (3)	DisGeNet	
+FCGR2B	C0949690	{Spondyloarthropathy, susceptibility to, 1}, 106300 (3)	DisGeNet	
+FCGR2A	C0019100	Severe Dengue	DisGeNet	
+FCGR2B	C0019100	Severe Dengue	DisGeNet	
+FCGR2A	C3495801	Granulomatosis with Polyangiitis	DisGeNet	
+FCGR3A	C3495801	Granulomatosis with Polyangiitis	DisGeNet	
+FCGR2A	C0206139	Lichen Planus, Oral	DisGeNet	
+FCGR2B	C0206139	Lichen Planus, Oral	DisGeNet	
+FCGR2A	C0006840	Candidiasis, familial, 9	DisGeNet	
+FCGR3A	C0006840	Candidiasis, familial, 9	DisGeNet	
+FCGR2A	C0242723	Parasitemia	DisGeNet	
+FCGR2B	C0242723	Parasitemia	DisGeNet	
+FCGR2A	C0031106	Periodontitis, Juvenile	DisGeNet	
+FCGR3A	C0031106	Periodontitis, Juvenile	DisGeNet	
+FCGR2A	C0497299	Meningitis	DisGeNet	
+FCGR3A	C0497299	Meningitis	DisGeNet	
+FCGR2A	C0241910	Hepatitis, Autoimmune	DisGeNet	
+FCGR2B	C0241910	Hepatitis, Autoimmune	DisGeNet	
+FCGR2A	C0017563	Gingival Diseases	DisGeNet	
+FCGR3A	C0017563	Gingival Diseases	DisGeNet	
+FCGR2A	C0024535	Malaria, Falciparum	DisGeNet	
+FCGR2B	C0024535	Malaria, Falciparum	DisGeNet	
+FCGR2A	C0002878	Hemolytic anemia, nonspherocytic, due to glucose phosphate isomerase deficiency	DisGeNet	
+FCGR2B	C0002878	Hemolytic anemia, nonspherocytic, due to glucose phosphate isomerase deficiency	DisGeNet	
+FCGR2A	C0153633	Malignant neoplasm of brain and nervous system	DisGeNet	
+FCGR3A	C0153633	Malignant neoplasm of brain and nervous system	DisGeNet	
+FCGR2A	C0027697	Nephritis	DisGeNet	
+FCGR3A	C0027697	Nephritis	DisGeNet	
+FCGR2A	C0042384	Vasculitis	DisGeNet	
+FCGR2B	C0042384	Vasculitis	DisGeNet	
+FCGR2A	C0003872	Arthritis, Psoriatic	DisGeNet	
+FCGR3A	C0003872	Arthritis, Psoriatic	DisGeNet	
+FCGR2A	C0026896	Myasthenia Gravis	DisGeNet	
+FCGR3A	C0026896	Myasthenia Gravis	DisGeNet	
+FCGR2A	C3539909	Allergic disposition	DisGeNet	
+FCGR2B	C3539909	Allergic disposition	DisGeNet	
+FCGR2A	C0041327	Tuberculosis, Pulmonary	DisGeNet	
+FCGR3A	C0041327	Tuberculosis, Pulmonary	DisGeNet	
+FCGR2A	C0029882	Otitis media	DisGeNet	
+FCGR3A	C0029882	Otitis media	HumPhenOnt	
+FCGR2A	C0029928	Ovarian Diseases	DisGeNet	
+FCGR2B	C0029928	Ovarian Diseases	DisGeNet	
+FCGR2A	C0040034	Thrombocytopenia, platelet dysfunction, hemolysis, and imbalanced globin synthesis	DisGeNet	
+FCGR3A	C0040034	Thrombocytopenia, platelet dysfunction, hemolysis, and imbalanced globin synthesis	DisGeNet	
+FCGR2A	C0004623	Recurrent bacterial infection	DisGeNet	
+FCGR2B	C0004623	Recurrent bacterial infection	DisGeNet	
+FCGR2B	C1290884	Inflammatory disorder	DisGeNet	
+FCGR3A	C1290884	Inflammatory disorder	DisGeNet	
+FCGR2A	C0018133	Graft-versus-host disease, susceptibility to	DisGeNet	
+FCGR3A	C0018133	Graft-versus-host disease, susceptibility to	DisGeNet	
+FCGR2A	C0948089	Acute Coronary Syndrome	DisGeNet	
+FCGR3A	C0948089	Acute Coronary Syndrome	DisGeNet	
+FCGR2A	C0018213	Graves Disease	DisGeNet	
+FCGR3A	C0018213	Graves Disease	DisGeNet	
+FCGR2A	C0007138	Urothelial Carcinoma	DisGeNet	
+FCGR2B	C0007138	Urothelial Carcinoma	DisGeNet	
+FCGR2A	C0014121	Bacterial endocarditis	DisGeNet	
+FCGR2A	C0004943	Behcet Syndrome	DisGeNet	
+FCGR3A	C0004943	Behcet Syndrome	DisGeNet	
+FCGR2B	C0085702	Monocytosis	DisGeNet	
+FCGR2A	C3714644	Neoplasm of the thymus	DisGeNet	
+FCGR2A	C0034040	Puerperal Disorders	DisGeNet	
+FCGR3A	C0581354	Recurrent sinusitis	HumPhenOnt	
+FCGR3A	C3889979	TNF receptor-associated periodic fever syndrome (TRAPS)	DisGeNet	
+FCGR3A	C0340293	Anterior myocardial infarction	DisGeNet	
+FCGR2A	C0035436	Rheumatic fever / chorea	DisGeNet	
+FCGR2A	C0007570	Celiac Disease	DisGeNet	
+FCGR3A	C0007570	Celiac Disease	DisGeNet	
+FCGR2A	C0014118	Endocarditis	DisGeNet	
+FCGR2A	C2347126	Microscopic Polyarteritis	DisGeNet	
+FCGR2A	C0010674	Cystic Fibrosis	DisGeNet	
+FCGR3A	C0010674	Cystic Fibrosis	DisGeNet	
+FCGR3A	C0002880	Autoimmune hemolytic anemia	DisGeNet	
+FCGR2A	C0694549	Community acquired pneumonia	DisGeNet	
+FCGR3A	C0019372	Herpesviridae Infections	DisGeNet	
+FCGR2A	C0032285	Pneumonia	DisGeNet	
+FCGR3A	C0032285	Pneumonia	DisGeNet	
+FCGR2A	C0037274	Dermatosis NOS	DisGeNet	
+FCGR2B	C0037274	Dermatosis NOS	DisGeNet	
+FCGR2A	C0004626	Pneumonia, Bacterial	DisGeNet	
+FCGR3A	C0027873	Neuromyelitis Optica	DisGeNet	
+FCGR3A	C0403416	Idiopathic crescentic glomerulonephritis	DisGeNet	
+FCGR2A	C0002792	Anaphylactic shock NOS	DisGeNet	
+FCGR2B	C0019348	Herpes Simplex Infections	DisGeNet	
+FCGR3A	C0019348	Herpes Simplex Infections	DisGeNet	
+FCGR2A	C0039263	Takayasu Arteritis	DisGeNet	
+FCGR2A	C0006309	Brucellosis	DisGeNet	
+FCGR2A	C0038395	Streptococcal Infections	DisGeNet	
+FCGR3A	C0740380	Varicella zoster	DisGeNet	
+FCGR2A	C0024305	Non-Hodgkin lymphoma	DisGeNet	
+FCGR3A	C0024305	Non-Hodgkin lymphoma	DisGeNet	
+FCGR2A	C0079744	Germinal Center B-Cell-Like Diffuse Large B-Cell Lymphoma	DisGeNet	
+FCGR3A	C0079744	Germinal Center B-Cell-Like Diffuse Large B-Cell Lymphoma	DisGeNet	
+FCGR2B	C0393819	Polyradiculoneuropathy, Chronic Inflammatory Demyelinating	DisGeNet	
+FCGR3A	C1522378	Leukemia, Large Granular Lymphocytic	DisGeNet	
+FCGR2A	C0243026	Sepsis	DisGeNet	
+FCGR3A	C0243026	Sepsis	DisGeNet	
+FCGR3A	C0014522	EPIDERMODYSPLASIA VERRUCIFORMIS	DisGeNet	
+FCGR2A	C0002871	Anemia	DisGeNet	
+FCGR2B	C0002871	Anemia	DisGeNet	
+FCGR3A	C0221026	X-linked agammaglobulinemia	DisGeNet	
+FCGR3A	C0747085	Recurrent infections of the middle ear	HumPhenOnt	
+FCGR2A	C0002875	Cooley's anemia	DisGeNet	
+FCGR2A	C0021368	Inflammation	DisGeNet	
+FCGR3A	C0021368	Inflammation	DisGeNet	
+FCGR3A	C0024282	Lymphocytosis	DisGeNet	
+FCGR2A	C0036974	Shock, Septic	DisGeNet	
+FCGR2A	C0085278	Primary antiphospholipid syndrome	DisGeNet	
+FCGR2B	C0242488	Acute Lung Injury	DisGeNet	
+FCGR3A	C0024790	Paroxysmal nocturnal hemoglobinuria	DisGeNet	
+FCGR3A	C0949691	Spondylarthropathies	DisGeNet	
+FCGR2B	C0007684	CNS infection	DisGeNet	
+FCGR3A	C4025873	Abnormality of the paranasal sinuses	HumPhenOnt	
+FCGR3A	C0581381	Recurrent upper respiratory tract infections	HumPhenOnt	
+FCGR3A	C0152025	Polyneuropathy, hearing loss, ataxia, retinitis pigmentosa, and cataract	DisGeNet	
+FCGR2B	C0852949	Cerebral autosomal recessive arteriopathy with subcortical infarcts and leukoencephalopathy	DisGeNet	
+FCGR2A	C0009324	Ulcerative colitis	DisGeNet	
+FCGR3A	C0009324	Ulcerative colitis	DisGeNet	
+FCGR3A	C0042029	Urinary tract infection	DisGeNet	
+FCGR2A	C1961102	Precursor Cell Lymphoblastic Leukemia-Lymphoma	DisGeNet	
+FCGR2B	C1961102	Precursor Cell Lymphoblastic Leukemia-Lymphoma	DisGeNet	
+FCGR3A	C0007129	Merkel cell carcinoma	DisGeNet	
+FCGR3A	C0005411	Biliary Atresia	DisGeNet	
+FCGR3A	C0024419	Waldenstrom macroglobulinemia	DisGeNet	
+FCGR3A	C0266999	Vesicular Stomatitis	DisGeNet	
+FCGR3A	C3887486	Interstitial fibrosis	DisGeNet	
+FCGR2A	C1175175	Severe Acute Respiratory Syndrome	DisGeNet	
+FCGR3A	C4025750	Abnormality of the nasopharynx	HumPhenOnt	
+FCGR2A	C0019069	Hereditary factor VIII deficiency disease	DisGeNet	
+FCGR3A	C0035435	Rheumatic disease of heart valve	DisGeNet	
+FCGR2A	C0079487	Helicobacter Infections	PheGenI	
+FCGR3A	C0037199	Sinusitis	HumPhenOnt	
+FCGR2A	C0010346	Crohn Disease	DisGeNet,PheGenI	
+FCGR3A	C0010346	Crohn Disease	DisGeNet	
+FCGR2A	C0021390	Inflammatory Bowel Diseases	DisGeNet,PheGenI	
+FCGR3A	C0021390	Inflammatory Bowel Diseases	DisGeNet	
+FCGR3A	C0024312	Lymphopenia	DisGeNet	
+FCGR2A	C0007222	Cardiovascular Diseases	DisGeNet	
+FCGR3A	C0007222	Cardiovascular Diseases	DisGeNet	
+FCGR3A	C4025838	Abnormality of the pharynx	HumPhenOnt	
+FCGR3A	C0162557	Acute hepatic failure	DisGeNet	
+FCGR3A	C0027121	Myositis	DisGeNet	
+FCGR2A	C0011854	Diabetes mellitus type 1	DisGeNet	
+FCGR3A	C0011854	Diabetes mellitus type 1	DisGeNet	
+FCGR3A	C0032227	Pleural effusion	DisGeNet	
+FCGR2A	C1527336	Sjogren's Syndrome	DisGeNet	
+FCGR2A	C0035455	Rhinitis, Allergic, Seasonal	DisGeNet	
+FCGR2A	C0009450	Verotoxigenic Escherichia coli gastrointestinal tract infection	DisGeNet	
+FCGR3A	C0009450	Verotoxigenic Escherichia coli gastrointestinal tract infection	DisGeNet	
+FCGR2A	C0026769	Multiple Sclerosis	DisGeNet	
+FCGR3A	C0026769	Multiple Sclerosis	DisGeNet	
+FCGR3A	C0275524	Coinfection	DisGeNet	
+FCGR2A	C0009404	Colorectal Neoplasms	DisGeNet	
+FCGR3A	C0009404	Colorectal Neoplasms	DisGeNet	
+FCGR2A	C0040028	Essential thrombocythemia	DisGeNet	
+FCGR2A	C0002940	{Aneurysm, familial abdominal 3} (2)	DisGeNet	
+FCGR2A	C0040053	Thrombosis	DisGeNet	
+FCGR3A	C0677932	Progressive Neoplastic Disease	DisGeNet	
+FCGR3A	C3539781	Progressive cGVHD	DisGeNet	
+FCGR3A	C0001175	Acquired Immunodeficiency Syndrome	DisGeNet	
+FCGR2A	C0001925	Albuminuria	DisGeNet	
+FCGR3A	C0014038	Encephalitis	DisGeNet	
+FCGR2A	C0004153	Atherosclerosis	DisGeNet	
+FCGR3A	C0004153	Atherosclerosis	DisGeNet	
+FCGR3A	C0333516	Tumor necrosis	DisGeNet	
+FCGR3A	C2607914	Allergic rhinitis	DisGeNet	
+FCGR2A	C0040100	Thymoma	DisGeNet	
+FCGR2A	C0079745	Lymphoma, Large-Cell, Follicular	DisGeNet	
+FCGR2A	C0001815	Primary Myelofibrosis	DisGeNet	
+FCGR2A	C0011311	Dengue Fever	DisGeNet	
+FCGR3A	C0036220	Kaposi's sarcoma	DisGeNet	
+FCGR2A	C0026847	Spinal muscular atrophy with congenital bone fractures 2	DisGeNet	
+FCGR2A	C0007273	Carotid Artery Diseases	DisGeNet	
+FCGR3A	C3714757	Juvenile rheumatoid arthritis	DisGeNet	
+FCGR3A	C0019189	Chronic hepatitis	DisGeNet	
+FCGR2B	C0856169	Endothelial dysfunction	DisGeNet	
+FCGR2A	C0036572	Seizures, Febrile	DisGeNet	
+FCGR3A	C0036572	Seizures, Febrile	DisGeNet	
+FCGR2A	C0011389	Plaque, Atherosclerotic	DisGeNet	
+FCGR3A	C0024314	Lymphoproliferative disorder	DisGeNet	
+FCGR3A	C0017152	Gastritis	DisGeNet	
+FCGR3A	C0155626	Acute myocardial infarction	DisGeNet	
+FCGR3A	C0026269	Mitral stenosis	DisGeNet	
+FCGR2A	C0026946	Mycoses	DisGeNet	
+FCGR2A	C0700095	Neuroblastoma	DisGeNet	
+FCGR3A	C0700095	Neuroblastoma	DisGeNet	
+FCGR3A	C0023448	Lymphoid leukemia	DisGeNet	
+FCGR3A	C0036202	Sarcoidosis	DisGeNet	
+FCGR3A	C0017658	Glomerulonephritis, Membranous	DisGeNet	
+FCGR2A	C0002895	Anemia, Sickle Cell	DisGeNet	
+FCGR2A	C0027643	Neoplasm Recurrence, Local	DisGeNet	
+FCGR3A	C0023530	Leukopenia	DisGeNet	
+FCGR3A	C0271650	Glucose intolerance	DisGeNet	
+FCGR3A	C3806482	Recurrent respiratory infections	HumPhenOnt	
+FCGR3A	C1861141	Abnormality of the middle ear	HumPhenOnt	
+FCGR2B	C0178874	Tumor Progression	DisGeNet	
+FCGR3A	C0178874	Tumor Progression	DisGeNet	
+FCGR3A	C0018671	Head and Neck Neoplasms	DisGeNet	
+FCGR3A	C3495559	Juvenile idiopathic arthritis, enthesitis related arthritis	DisGeNet	
+FCGR2A	C3272363	Ischemic Cerebrovascular Accident	DisGeNet	
+FCGR2A	C1800706	Idiopathic Pulmonary Fibrosis	DisGeNet	
+FCGR3A	C0278488	Carcinoma breast stage IV	DisGeNet	
+FCGR3A	C0023492	Leukemia, T-cell acute lymphoblastoid (2)	DisGeNet	
+FCGR2A	C0024623	{Gastric cancer risk after H. pylori infection}, 137215 (3)	DisGeNet	
+FCGR3A	C0024623	{Gastric cancer risk after H. pylori infection}, 137215 (3)	DisGeNet	
+FCGR3A	C0035078	Renal Insufficiency, Chronic	DisGeNet	
+FCGR3A	C0036690	Septicemia	DisGeNet	

@@ -1,0 +1,5 @@
+node1	node2	edge_score	
+DB01240	PTGIS	1.0	
+DB01240	P2RY12	1.0	
+DB01240	PTGIR	1.0	
+

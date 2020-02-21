@@ -1,0 +1,5 @@
+node_name	node_type	
+DB00804	drug	
+CYP1A1	drug_target	
+CHRM2	drug_target	
+CHRM1	drug_target	

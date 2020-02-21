@@ -1,0 +1,11 @@
+node_name	node_type	
+DB00703	drug	
+CYP2D6	drug_target	
+CA3	drug_target	
+CA2	drug_target	
+CA1	drug_target	
+CYP2E1	drug_target	
+CA4	drug_target	
+SLC22A6	drug_target	
+CYP2C19	drug_target	
+CYP3A4	drug_target	

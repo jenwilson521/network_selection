@@ -1,0 +1,3 @@
+node1	node2	edge_score	
+DB13896	UL30	1.0	
+

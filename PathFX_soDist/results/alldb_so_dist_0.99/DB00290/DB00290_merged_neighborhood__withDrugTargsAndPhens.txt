@@ -1,0 +1,5 @@
+node1	node2	edge_score	
+DB00290	BLMH	1.0	
+DB00290	LIG1	1.0	
+DB00290	LIG3	1.0	
+

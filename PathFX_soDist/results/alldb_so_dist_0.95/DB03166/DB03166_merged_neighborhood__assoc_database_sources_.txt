@@ -1,0 +1,15 @@
+Gene	CUI	Source Databases	
+SLCO2B1	C0006142	Breast-ovarian cancer, familial 1	DisGeNet	
+SLCO2B1	C0007115	Thyroid cancer, nonmedullary, 4	DisGeNet	
+SLCO2B1	C0020433	Hyperbilirubinemia	DisGeNet	
+SLCO2B1	C0027627	Secondary hypertriglyceridemia	DisGeNet	
+SLCO2B1	C0221287	Combined Hepatocellular Carcinoma and Cholangiocarcinoma	DisGeNet	
+SLCO2B1	C0235974	Pancreatic Carcinoma	DisGeNet	
+SLCO2B1	C0345904	Hepatic cancer metastatic	DisGeNet	
+SLCO2B1	C0346647	Malignant neoplasm of pancreas	DisGeNet	
+SLCO2B1	C0376358	Malignant tumor of prostate	DisGeNet	
+SLCO2B1	C0549473	Thyroid carcinoma	DisGeNet	
+SLCO2B1	C0596263	Carcinogenesis	DisGeNet	
+SLCO2B1	C0600139	Prostate carcinoma	DisGeNet	
+SLCO2B1	C0678222	Breast carcinoma	DisGeNet	
+SLCO2B1	C1168401	Squamous cell carcinoma of the head and neck	DisGeNet	

@@ -1,0 +1,4 @@
+node_name	node_type	
+DB00019	drug	
+ELANE	drug_target	
+CSF3R	drug_target	

@@ -1,0 +1,93 @@
+node1	node2	edge_score	
+DB04854	XDH	1.0	
+XDH		1.0
+Hypoxia	XDH	1.0	
+Arteriosclerosis	XDH	1.0	
+Asthma	XDH	1.0	
+Atherosclerosis	XDH	1.0	
+Autism 15	XDH	1.0	
+Brain neoplasm	XDH	1.0	
+Breast-ovarian cancer, familial 1	XDH	1.0	
+Colon cancer	XDH	1.0	
+Squamous cell carcinoma	XDH	1.0	
+Cardiovascular Diseases	XDH	1.0	
+Carotid Artery Diseases	XDH	1.0	
+Colorectal cancer 1	XDH	1.0	
+Verotoxigenic Escherichia coli gastrointestinal tract infection	XDH	1.0	
+Deafness, autosomal recessive 44	XDH	1.0	
+Diabetic Nephropathies	XDH	1.0	
+Esophageal Neoplasms	XDH	1.0	
+Hearing Loss, Partial	XDH	1.0	
+Heart Diseases	XDH	1.0	
+Heart Failure	XDH	1.0	
+Congestive heart failure	XDH	1.0	
+Hydronephrosis	XDH	1.0	
+Hypertension	XDH	1.0	
+Inflammatory Bowel Diseases	XDH	1.0	
+Ischemia	XDH	1.0	
+Kidney Calculi	XDH	1.0	
+Kidney Diseases	XDH	1.0	
+Acute kidney injury	XDH	1.0	
+Liver Cirrhosis, Biliary	XDH	1.0	
+Chronic obstructive pulmonary disease	XDH	1.0	
+{Gastric cancer risk after H. pylori infection}, 137215 (3)	XDH	1.0	
+Animal Mammary Neoplasms	XDH	1.0	
+Mammary Neoplasms, Experimental	XDH	1.0	
+Meningeal Neoplasms	XDH	1.0	
+Meningioma	XDH	1.0	
+Myopathy, scapulohumeroperoneal	XDH	1.0	
+Secondary hypertriglyceridemia	XDH	1.0	
+Nephritis	XDH	1.0	
+Neurodegeneration with brain iron accumulation	XDH	1.0	
+Occupational Diseases	XDH	1.0	
+Pancreatitis	XDH	1.0	
+Pulmonary Embolism	XDH	1.0	
+Pyelonephritis	XDH	1.0	
+Reperfusion Injury	XDH	1.0	
+Stomach Neoplasms	XDH	1.0	
+Thrombocytopenia, platelet dysfunction, hemolysis, and imbalanced globin synthesis	XDH	1.0	
+Abnormality of the genitourinary system	XDH	1.0	
+Abnormal renal physiology	XDH	1.0	
+Adenocarcinoma of lung	XDH	1.0	
+Malignant neoplasm of lung	XDH	1.0	
+Sepsis	XDH	1.0	
+Congenital anomalies of kidney and urinary tract 1, susceptibility to	XDH	1.0	
+Nephrolithiasis	XDH	1.0	
+Chronic Kidney Insufficiency	XDH	1.0	
+Autosomal recessive inheritance	XDH	1.0	
+Hepatopulmonary Syndrome	XDH	1.0	
+Ovarian epithelial cancer	XDH	1.0	
+Breast carcinoma	XDH	1.0	
+Lung cancer	XDH	1.0	
+Carcinoma of colon	XDH	1.0	
+Stomach cancer	XDH	1.0	
+Infarction, Middle Cerebral Artery	XDH	1.0	
+Hyperuricemia, pulmonary hypertension, renal failure, and alkalosis	XDH	1.0	
+Diabetic Cardiomyopathies	XDH	1.0	
+Endothelial dysfunction	XDH	1.0	
+Cardiomyopathy	XDH	1.0	
+BREAST-OVARIAN CANCER, FAMILIAL, SUSCEPTIBILITY TO, 4	XDH	1.0	
+Major depressive disorder	XDH	1.0	
+Hearing impairment	XDH	1.0	
+Xenograft Model	XDH	1.0	
+Colorectal cancer	XDH	1.0	
+Sjogren's Syndrome	XDH	1.0	
+Chronic kidney disease	XDH	1.0	
+Meningioma, benign, no ICD-O subtype	XDH	1.0	
+Calcium oxalate urolithiasis	XDH	1.0	
+Dilatation of the renal pelvis	XDH	1.0	
+Precursor Cell Lymphoblastic Leukemia-Lymphoma	XDH	1.0	
+Hepatocellular carcinoma	XDH	1.0	
+Abnormality of the musculature	XDH	1.0	
+Abnormality of the immune system	XDH	1.0	
+Abnormality of metabolism/homeostasis	XDH	1.0	
+Abnormality of the urinary system	XDH	1.0	
+Increased inflammatory response	XDH	1.0	
+Abnormal inflammatory response	XDH	1.0	
+Abnormality of muscle morphology	XDH	1.0	
+Abnormality of the urinary system physiology	XDH	1.0	
+Abnormality of immune system physiology	XDH	1.0	
+Abnormality of the renal pelvis	XDH	1.0	
+Abnormality of the upper urinary tract	XDH	1.0	
+Abnormality of nucleobase metabolism	XDH	1.0	
+Abnormality of purine metabolism	XDH	1.0	

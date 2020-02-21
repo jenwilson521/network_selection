@@ -1,0 +1,10 @@
+node_name	node_type	
+DB00683	drug	
+GABRA6	drug_target	
+UGT1A4	drug_target	
+GABRA4	drug_target	
+CYP3A4	drug_target	
+CYP3A5	drug_target	
+GABRA1	drug_target	
+GABRA3	drug_target	
+GABRA2	drug_target	

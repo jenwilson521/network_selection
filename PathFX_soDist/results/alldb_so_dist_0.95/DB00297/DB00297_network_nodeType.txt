@@ -1,0 +1,8 @@
+node_name	node_type	
+DB00297	drug	
+CYP3A4	drug_target	
+CYP2C19	drug_target	
+SCN10A	drug_target	
+CYP2D6	drug_target	
+PTGER1	drug_target	
+Primary malignant neoplasm of liver	phenotype	

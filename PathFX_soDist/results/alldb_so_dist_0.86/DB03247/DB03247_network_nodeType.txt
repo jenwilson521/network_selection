@@ -1,0 +1,15 @@
+node_name	node_type	
+DB03247	drug	
+PPCDC	drug_target	
+RPS6KA4	drug_target	
+SGK1	drug_target	
+DPYD	drug_target	
+DHODH	drug_target	
+POR	drug_target	
+NOS1	drug_target	
+PNPO	drug_target	
+HAO1	drug_target	
+RFK	drug_target	
+BLVRB	drug_target	
+HAO2	drug_target	
+Radioulnar synostosis	phenotype	

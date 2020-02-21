@@ -1,0 +1,68 @@
+node_name	node_type	
+DB00800	drug	
+ADRA1A	drug_target	
+ADRA1B	drug_target	
+ADRA1D	drug_target	
+DRD5	drug_target	
+ADRA2A	drug_target	
+ADRA2B	drug_target	
+DRD1	drug_target	
+ADRA2C	drug_target	
+Chronic sciatica	phenotype	
+Acute disease of cardiovascular system	phenotype	
+Hypotension	phenotype	
+Low back pain	phenotype	
+Low Tension Glaucoma	phenotype	
+Systemic arterial pressure	phenotype	
+Neuralgia	phenotype	
+Attention deficit hyperactivity disorder	phenotype	
+Mood Disorders	phenotype	
+Tourette Syndrome	phenotype	
+Gastroparesis	phenotype	
+Learning Disabilities	phenotype	
+Drug usage	phenotype	
+Hyperalgesia	phenotype	
+Dyskinesia, Drug-Induced	phenotype	
+Major depressive disorder	phenotype	
+Psychoses, Substance-Induced	phenotype	
+Cardiomegaly	phenotype	
+Essential hypertension	phenotype	
+Marijuana Abuse	phenotype	
+Panic disorder syndrome 1 (2)	phenotype	
+Unipolar Depression	phenotype	
+Weight Gain Adverse Event	phenotype	
+ Acrodysostosis 1, with or without hormone resistance, 101800 (3)	phenotype	
+Pseudohypoparathyroidism, type IB, 603233 (3)	phenotype	
+Irritable bowel syndrome with diarrhea	phenotype	
+Obstructive sleep apnea	phenotype	
+Behavior Disorders	phenotype	
+Disorders of parathyroid gland	phenotype	
+genetic hypertension	phenotype	
+Hereditary Sensory Autonomic Neuropathy, Type 1	phenotype	
+Bladder neck obstruction	phenotype	
+Tracheal stenosis	phenotype	
+Hypertension	phenotype	
+Taste bitter	phenotype	
+Hemorrhagic disorder due to intrinsic circulating anticoagulants	phenotype	
+Congenital long QT syndrome	phenotype	
+Fibrosis	phenotype	
+Renal hypertension	phenotype	
+Excessive salivation	phenotype	
+Pulmonary Cystic Fibrosis	phenotype	
+Depressive Disorder	phenotype	
+Chronic schizophrenia	phenotype	
+Hypoparathyroidism - autosomal dominant	phenotype	
+Acute postoperative pain	phenotype	
+Nephrosclerosis	phenotype	
+Paroxysmal atrial fibrillation	phenotype	
+Cholestasis of pregnancy	phenotype	
+Neurotoxicity Syndromes	phenotype	
+Opiate Addiction	phenotype	
+Acth-Independent Macronodular Adrenal Hyperplasia	phenotype	
+Nephrogenic diabetes insipidus, autosomal	phenotype	
+Kidney Failure, Chronic	phenotype	
+Pain	phenotype	
+Weight Loss Adverse Event	phenotype	
+Metabolic Syndrome X	phenotype	
+Fibromyalgia	phenotype	
+Polydipsia	phenotype	

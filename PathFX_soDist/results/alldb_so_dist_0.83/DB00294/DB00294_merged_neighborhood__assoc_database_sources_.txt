@@ -1,0 +1,16 @@
+Gene	CUI	Source Databases	
+ALB	C0346402	Malignant neoplasm of adrenal cortex	DisGeNet	
+ESR1	C0346402	Malignant neoplasm of adrenal cortex	DisGeNet	
+ALB	C1298180	Single tumor	DisGeNet	
+ESR1	C1298180	Single tumor	DisGeNet	
+CYP3A4	C0029445	Bone necrosis	DisGeNet	
+ESR1	C0029445	Bone necrosis	DisGeNet	
+ALB	C0341439	Chronic liver disease	DisGeNet	
+CYP3A4	C0341439	Chronic liver disease	DisGeNet	
+ESR1	C0341439	Chronic liver disease	DisGeNet	
+ALB	C0221002	Primary hyperparathyroidism	DisGeNet	
+ESR1	C0221002	Primary hyperparathyroidism	DisGeNet	
+CYP3A4	C0206726	gliosarcoma	DisGeNet	
+ESR1	C0206726	gliosarcoma	DisGeNet	
+ALB	C0042749	 {HIV-1 viremia, susceptibility to}, 609423 (3)	DisGeNet	
+CYP3A4	C0042749	 {HIV-1 viremia, susceptibility to}, 609423 (3)	DisGeNet	

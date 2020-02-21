@@ -1,0 +1,45 @@
+Gene	CUI	Source Databases	
+ALB	C0023787	Lipoatrophy	HumPhenOnt	
+SLC28A1	C0023787	Lipoatrophy	DisGeNet	
+SLC29A1	C0023787	Lipoatrophy	DisGeNet	
+TYMS	C0023787	Lipoatrophy	DisGeNet	
+TYMP	C0278498	Malignant neoplasm of stomach stage IV	DisGeNet	
+TYMS	C0278498	Malignant neoplasm of stomach stage IV	DisGeNet	
+ALB	C0015672	Fatigue	DisGeNet,HumPhenOnt	
+SLC28A1	C0015672	Fatigue	DisGeNet	
+SLC29A1	C0015672	Fatigue	DisGeNet	
+TYMS	C0015672	Fatigue	DisGeNet	
+ALB	C0041755	Adverse drug events and drug allergies	DisGeNet	
+TYMS	C0041755	Adverse drug events and drug allergies	DisGeNet	
+ALB	C0007786	Brain Ischemia	DisGeNet	
+ENOSF1	C0007786	Brain Ischemia	DisGeNet	
+SLC29A1	C0007786	Brain Ischemia	DisGeNet	
+TYMS	C0007786	Brain Ischemia	DisGeNet	
+TYMP	C0677936	Refractory cancer	DisGeNet	
+TYMS	C0677936	Refractory cancer	DisGeNet	
+ALB	C0342257	Complications of Diabetes Mellitus	DisGeNet	
+TYMP	C0342257	Complications of Diabetes Mellitus	DisGeNet	
+ALB	C0338106	Adenocarcinoma of colon	DisGeNet	
+TYMP	C0338106	Adenocarcinoma of colon	DisGeNet	
+TYMS	C0338106	Adenocarcinoma of colon	DisGeNet	
+SLC28A1	C0027947	Neutropenia	DisGeNet	
+SLC29A1	C0027947	Neutropenia	DisGeNet	
+TYMS	C0027947	Neutropenia	DisGeNet	
+ENOSF1	C0014170	Endometrial Neoplasms	DisGeNet	
+TYMP	C0014170	Endometrial Neoplasms	DisGeNet	
+TYMS	C0014170	Endometrial Neoplasms	DisGeNet	
+SLC28A1	C0851578	Sleep Wake Disorders	DisGeNet	
+SLC29A1	C0851578	Sleep Wake Disorders	DisGeNet	
+ALB	C0030305	Pancreatitis	DisGeNet	
+TYMP	C0030305	Pancreatitis	DisGeNet	
+TYMS	C0030305	Pancreatitis	DisGeNet	
+SLC28A1	C0023530	Leukopenia	DisGeNet	
+SLC29A1	C0023530	Leukopenia	DisGeNet	
+TYMS	C0023530	Leukopenia	DisGeNet	
+ALB	C0018133	Graft-versus-host disease, susceptibility to	DisGeNet	
+TYMP	C0018133	Graft-versus-host disease, susceptibility to	DisGeNet	
+TYMS	C0018133	Graft-versus-host disease, susceptibility to	DisGeNet	
+ENOSF1	C0598608	Hereditary hyperhomocysteinemia	DisGeNet	
+TYMS	C0598608	Hereditary hyperhomocysteinemia	DisGeNet	
+ALB	C0162429	Malnutrition	DisGeNet	
+TYMP	C0162429	Malnutrition	HumPhenOnt	

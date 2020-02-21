@@ -1,0 +1,44 @@
+node1	node2	edge_score	
+DB00436	CA2	1.0	
+DB00436	CA1	1.0	
+DB00436	TPMT	1.0	
+DB00436	KCNMA1	1.0	
+DB00436	CA4	1.0	
+DB00436	SLC12A3	1.0	
+TPMT	rs1142345	0.99
+TPMT	TPMT*1, TPMT*2, TPMT*3A, TPMT*3C	0.99
+TPMT	rs1800460	0.99
+TPMT	rs17839843	0.99
+TPMT	rs3931660	0.99
+TPMT		1.0
+TPMT	TPMT*1, TPMT*10, TPMT*13, TPMT*15, TPMT*19, TPMT*1A, TPMT*24, TPMT*25, TPMT*26, TPMT*27, TPMT*28, TPMT*30, TPMT*31, TPMT*32, TPMT*33, TPMT*34, TPMT*37, TPMT*3D, TPMT*5	0.99
+TPMT	TPMT*1, TPMT*2, TPMT*3A, TPMT*3B, TPMT*3C, TPMT*4	0.99
+TPMT	rs12201199	0.99
+TPMT	TPMT*1, TPMT*11, TPMT*12, TPMT*14, TPMT*16, TPMT*17, TPMT*18, TPMT*1S, TPMT*20, TPMT*21, TPMT*22, TPMT*23, TPMT*6, TPMT*7, TPMT*8, TPMT*9	0.99
+TPMT	TPMT*1, TPMT*3A, TPMT*3C	0.99
+SLC12A3		1.0
+KCNMA1		1.0
+Primary hyperaldosteronism	KCNMA1	1.0	
+Primary hyperaldosteronism	SLC12A3	1.0	
+Familial hypokalemia-hypomagnesemia	SLC12A3	1.0	
+Treacher Collins syndrome	SLC12A3	1.0	
+Febrile Neutropenia	TPMT	1.0	
+Bladder neck obstruction	KCNMA1	1.0	
+Chondrocalcinosis	SLC12A3	1.0	
+Renal tubular acidosis, distal, autosomal dominant	KCNMA1	1.0	
+Metabolic Bone Disorder	KCNMA1	1.0	
+Abnormal urine output	SLC12A3	1.0	
+Hypervolemia	SLC12A3	1.0	
+Germinoma	SLC12A3	1.0	
+Abnormal drinking behavior	SLC12A3	1.0	
+Nemaline myopathy	TPMT	1.0	
+Myelosuppression	TPMT	1.0	
+Abnormality of renal excretion	SLC12A3	1.0	
+Complete trisomy 18 syndrome	KCNMA1	1.0	
+Noonan syndrome with multiple lentigines	SLC12A3	1.0	
+Alkalosis	SLC12A3	1.0	
+Polyuria	SLC12A3	1.0	
+Hearing Loss, Mixed Conductive-Sensorineural	KCNMA1	1.0	
+Hearing Loss, Mixed Conductive-Sensorineural	TPMT	1.0	
+Dialeptic seizures	KCNMA1	1.0	
+{TSC2 angiomyolipomas, renal, modifier of}, 613254 (3)	SLC12A3	1.0	

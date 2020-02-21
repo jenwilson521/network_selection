@@ -1,0 +1,75 @@
+Gene	CUI	Source Databases	
+CA12	C0006142	Breast-ovarian cancer, familial 1	DisGeNet	
+KCNMA1	C0006142	Breast-ovarian cancer, familial 1	DisGeNet	
+CA12	C0007134	Renal cell carcinoma, nonpapillary	DisGeNet	
+KCNMA1	C0007134	Renal cell carcinoma, nonpapillary	DisGeNet	
+CA12	C0024667	Animal Mammary Neoplasms	DisGeNet	
+KCNMA1	C0024667	Animal Mammary Neoplasms	DisGeNet	
+CA12	C0027627	Secondary hypertriglyceridemia	DisGeNet	
+KCNMA1	C0027627	Secondary hypertriglyceridemia	DisGeNet	
+CA12	C0443147	Autosomal dominant non-syndromic sensorineural deafness type DFNA	HumPhenOnt	
+KCNMA1	C0443147	Autosomal dominant non-syndromic sensorineural deafness type DFNA	HumPhenOnt	
+CA12	C0678222	Breast carcinoma	DisGeNet	
+KCNMA1	C0678222	Breast carcinoma	DisGeNet	
+CA12	C0020461	Hyperkalemia	HumPhenOnt	
+KCNMA1	C0005694	Bladder neck obstruction	DisGeNet	
+CA12	C4023644	Abnormality of sodium homeostasis	HumPhenOnt	
+KCNMA1	C0001126	Renal tubular acidosis, distal, autosomal dominant	DisGeNet	
+CA12	C0020625	Hyponatremia	HumPhenOnt	
+KCNMA1	C0005944	Metabolic Bone Disorder	DisGeNet	
+KCNMA1	C0152096	Complete trisomy 18 syndrome	DisGeNet	
+KCNMA1	C4023515	Dialeptic seizures	HumPhenOnt	
+CA12	C0242787	Malignant neoplasm of male breast	DisGeNet	
+CA12	C4023575	Abnormality of potassium homeostasis	HumPhenOnt	
+KCNMA1	C4023476	EEG with generalized epileptiform discharges	HumPhenOnt	
+CA12	C0238033	Carcinoma of Male Breast	DisGeNet	
+KCNMA1	C0600327	Toxic Shock Syndrome	DisGeNet	
+KCNMA1	C0013819	EEG with irregular generalized spike and wave complexes	HumPhenOnt	
+CA12	C4023645	Abnormality of monovalent inorganic cation homeostasis	HumPhenOnt	
+KCNMA1	C0019284	Diaphragmatic hernia	DisGeNet	
+KCNMA1	C1335177	Ovarian Serous Adenocarcinoma	DisGeNet	
+KCNMA1	C1384514	Primary hyperaldosteronism	DisGeNet	
+KCNMA1	C0014548	Epilepsy, generalized, with febrile seizures plus, type 6 (2)	DisGeNet	
+KCNMA1	C0014553	Absence seizures	HumPhenOnt	
+KCNMA1	C0494475	Generalized tonic-clonic seizures	HumPhenOnt	
+CA12	C0011175	Dehydration	HumPhenOnt	
+KCNMA1	C0023380	Lethargy	DisGeNet	
+KCNMA1	C1561955	Fibrinogen Adverse Event	DisGeNet	
+KCNMA1	C0008489	Chorea, childhood-onset, with psychomotor retardation	DisGeNet	
+KCNMA1	C0242350	Impotence	DisGeNet	
+KCNMA1	C0028756	Obesity, severe, 601665 (3)	DisGeNet	
+KCNMA1	C0220650	Metastatic malignant neoplasm to brain	DisGeNet	
+KCNMA1	C0234533	Generalized seizures	HumPhenOnt	
+KCNMA1	C0346957	Disseminated Malignant Neoplasm	DisGeNet	
+KCNMA1	C0020503	Secondary hyperparathyroidism	DisGeNet	
+KCNMA1	C0598935	Tumor Initiation	DisGeNet	
+KCNMA1	C0038220	Status epilepticus	DisGeNet	
+CA12	C4023646	Abnormality of cation homeostasis	HumPhenOnt	
+CA12	C4025654	Abnormality of ion homeostasis	HumPhenOnt	
+CA12	C0041327	Tuberculosis, Pulmonary	DisGeNet	
+KCNMA1	C0010278	Craniosynostoses	DisGeNet	
+KCNMA1	C0151611	EEG abnormality	HumPhenOnt	
+KCNMA1	C0155552	Hearing Loss, Mixed Conductive-Sensorineural	DisGeNet	
+CA12	C1527349	Ductal Carcinoma	DisGeNet	
+KCNMA1	C4022597	Abnormality of central nervous system electrophysiology	HumPhenOnt	
+KCNMA1	C0027404	Narcolepsy	DisGeNet	
+KCNMA1	C0848558	Hypospadias	DisGeNet,PheGenI	
+CA12	C0079772	T-cell lymphoma	DisGeNet	
+KCNMA1	C4021781	Abnormal nervous system electrophysiology	HumPhenOnt	
+KCNMA1	C0085580	Essential hypertension	DisGeNet	
+CA12	C1848924	Infantile-onset ascending hereditary spastic paralysis	HumPhenOnt	
+CA12	C1516170	Cancer Cell Growth	DisGeNet	
+KCNMA1	C0003130	Hypoxia	DisGeNet	
+KCNMA1	C0278488	Carcinoma breast stage IV	DisGeNet	
+CA12	C2364164	Abnormality of fluid regulation	HumPhenOnt	
+CA12	C1961099	T-cell acute lymphoblastic leukemias	DisGeNet	
+KCNMA1	C1271104	Blood pressure finding	DisGeNet	
+KCNMA1	C0035334	Retinitis pigmentosa	DisGeNet	
+KCNMA1	C1704272	Benign Prostatic Hyperplasia	DisGeNet	
+KCNMA1	C1272641	Systemic arterial pressure	DisGeNet	
+CA12	C0232466	Feeding difficulties	HumPhenOnt	
+CA12	C0017601	Glaucoma, Angle-Closure	DisGeNet	
+CA12	C0040136	Thyroid Neoplasms	DisGeNet	
+KCNMA1	C0007103	Malignant neoplasm of endometrium	DisGeNet	
+KCNMA1	C0153574	Uterine Corpus Cancer	DisGeNet	
+KCNMA1	C0427086	Involuntary movements	HumPhenOnt	

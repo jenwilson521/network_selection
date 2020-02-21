@@ -1,0 +1,10 @@
+Gene	CUI	Source Databases	
+CYP3A4	C0030201	Acute postoperative pain	DisGeNet	
+OPRM1	C0030201	Acute postoperative pain	DisGeNet	
+UGT2B7	C0030201	Acute postoperative pain	DisGeNet	
+CYP3A4	C0344307	Pain insensitivity	DisGeNet	
+OPRM1	C0344307	Pain insensitivity	DisGeNet	
+UGT2B7	C0344307	Pain insensitivity	DisGeNet	
+CYP2C9	C0027497	Nausea	DisGeNet	
+OPRM1	C0027497	Nausea	DisGeNet	
+UGT2B7	C0027497	Nausea	DisGeNet	

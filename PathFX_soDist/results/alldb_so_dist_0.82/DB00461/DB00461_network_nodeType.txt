@@ -1,0 +1,21 @@
+node_name	node_type	
+DB00461	drug	
+CYP2C9	drug_target	
+PTGS2	drug_target	
+CYP1A2	drug_target	
+MPO	drug_target	
+ALB	drug_target	
+PTGS1	drug_target	
+AKR1C4	drug_target	
+HSD11B1	drug_target	
+AKR1C1	drug_target	
+AKR1C3	drug_target	
+Adverse drug events and drug allergies	phenotype	
+Rhinitis, Allergic, Perennial	phenotype	
+Stomach Diseases	phenotype	
+Colonic Polyps	phenotype	
+Colorectal polyposis	phenotype	
+Thrombosis	phenotype	
+Echinococcosis	phenotype	
+gastritis h pylori	phenotype	
+Lichen Planus, Oral	phenotype	

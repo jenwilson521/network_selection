@@ -1,0 +1,4 @@
+node1	node2	edge_score	
+DB11091	GPX1	1.0	
+DB11091	CAT	1.0	
+

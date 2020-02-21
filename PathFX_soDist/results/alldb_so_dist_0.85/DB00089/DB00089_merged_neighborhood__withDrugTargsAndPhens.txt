@@ -1,0 +1,68 @@
+node1	node2	edge_score	
+DB00089	FOLH1	1.0	
+FOLH1		1.0
+ Adenocarcinoma, ovarian, somatic, 167000 (3)	FOLH1	1.0	
+Anxiety Disorders	FOLH1	1.0	
+Astrocytoma	FOLH1	1.0	
+Breast-ovarian cancer, familial 1	FOLH1	1.0	
+Adenocarcinoma of prostate	FOLH1	1.0	
+Non-small cell lung carcinoma	FOLH1	1.0	
+Renal cell carcinoma, nonpapillary	FOLH1	1.0	
+Cardiovascular Diseases	FOLH1	1.0	
+Brain Ischemia	FOLH1	1.0	
+Chromosome Aberrations	FOLH1	1.0	
+Cleft Lip	FOLH1	1.0	
+Cleft Palate	FOLH1	1.0	
+Colorectal cancer 1	FOLH1	1.0	
+Colorectal Neoplasms	FOLH1	1.0	
+{Unipolar depression, susceptibility to}, 608516 (3)	FOLH1	1.0	
+Depressive Disorder	FOLH1	1.0	
+DNA Damage	FOLH1	1.0	
+Folic Acid Deficiency	FOLH1	1.0	
+Glioblastoma	FOLH1	1.0	
+Herpes NOS	FOLH1	1.0	
+Hypertension	FOLH1	1.0	
+Kidney Failure, Chronic	FOLH1	1.0	
+Acute lymphoid leukemia	FOLH1	1.0	
+Chronic obstructive pulmonary disease	FOLH1	1.0	
+{Gastric cancer risk after H. pylori infection}, 137215 (3)	FOLH1	1.0	
+Measles	FOLH1	1.0	
+Multiple Myeloma	FOLH1	1.0	
+Myocardial Infarction	FOLH1	1.0	
+Secondary hypertriglyceridemia	FOLH1	1.0	
+Neural tube defect	FOLH1	1.0	
+Phenylketonuria	FOLH1	1.0	
+Prostatic Neoplasms	FOLH1	1.0	
+Retinoblastoma	FOLH1	1.0	
+Schizophrenia	FOLH1	1.0	
+Staphylococcal Infections	FOLH1	1.0	
+Stroke	FOLH1	1.0	
+Tetanus	FOLH1	1.0	
+Tobacco Use Disorder	FOLH1	1.0	
+Virus Diseases	FOLH1	1.0	
+Spina bifida	FOLH1	1.0	
+Depressive Symptoms	FOLH1	1.0	
+Small cell lung cancer	FOLH1	1.0	
+Aortic Aneurysm, Abdominal	FOLH1	1.0	
+Tumor Progression	FOLH1	1.0	
+Hereditary pancreatitis	FOLH1	1.0	
+Malignant neoplasm of lung	FOLH1	1.0	
+Prostate cancer recurrent	FOLH1	1.0	
+Solid tumour	FOLH1	1.0	
+Malignant tumor of prostate	FOLH1	1.0	
+Carcinogenesis	FOLH1	1.0	
+Hereditary hyperhomocysteinemia	FOLH1	1.0	
+Prostate carcinoma	FOLH1	1.0	
+Breast carcinoma	FOLH1	1.0	
+Lung cancer	FOLH1	1.0	
+Malignant neoplasm of kidney	FOLH1	1.0	
+Metastatic Prostate Carcinoma	FOLH1	1.0	
+Hormone refractory prostate cancer	FOLH1	1.0	
+Pleomorphic adenoma of salivary gland	FOLH1	1.0	
+Tumor-Associated Vasculature	FOLH1	1.0	
+Colorectal cancer	FOLH1	1.0	
+Benign Prostatic Hyperplasia	FOLH1	1.0	
+Coronary Artery Disease	FOLH1	1.0	
+Precursor Cell Lymphoblastic Leukemia-Lymphoma	FOLH1	1.0	
+Secondary malignant neoplasm of pancreas	FOLH1	1.0	
+Homocysteinemia due to MTHFR deficiency	FOLH1	1.0	

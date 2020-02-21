@@ -1,0 +1,6 @@
+node1	node2	edge_score	
+DB01611	ABCB1	1.0	
+DB01611	TLR9	1.0	
+DB01611	TLR7	1.0	
+DB01611	CYP2D6	1.0	
+

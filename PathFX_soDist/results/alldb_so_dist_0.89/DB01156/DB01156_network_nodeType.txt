@@ -1,0 +1,18 @@
+node_name	node_type	
+DB01156	drug	
+CYP2C9	drug_target	
+SLC6A3	drug_target	
+ORM1	drug_target	
+CYP2D6	drug_target	
+SLC6A2	drug_target	
+HTR3A	drug_target	
+CYP2B6	drug_target	
+CYP2E1	drug_target	
+CYP2A6	drug_target	
+SLC22A2	drug_target	
+CHRNA3	drug_target	
+CYP3A4	drug_target	
+As If Personality	phenotype	
+Heroin Dependence	phenotype	
+Nicotine Dependence	phenotype	
+Slow acetylator due to N-acetyltransferase enzyme variant	phenotype	

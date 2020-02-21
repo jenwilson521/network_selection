@@ -1,0 +1,41 @@
+node1	node2	edge_score	
+DB00645	SCN10A	1.0	
+SCN10A		1.0
+Asthma	SCN10A	1.0	
+Ataxia, combined cerebellar and peripheral, with hearing loss and diabetes mellitus	SCN10A	1.0	
+Atrial Fibrillation	SCN10A	1.0	
+Breast-ovarian cancer, familial 1	SCN10A	1.0	
+Hypertrophic cardiomyopathy	SCN10A	1.0	
+Cardiovascular Diseases	SCN10A	1.0	
+Cerebellar malformation	SCN10A	1.0	
+Constipation	SCN10A	1.0	
+Dyspepsia	SCN10A	1.0	
+Experimental Autoimmune Encephalomyelitis	SCN10A	1.0	
+Heart block	SCN10A	1.0	
+Hyperalgesia	SCN10A	1.0	
+Acute myeloid leukemia	SCN10A	1.0	
+Multiple Sclerosis	SCN10A	1.0	
+Neuralgia	SCN10A	1.0	
+Pain	SCN10A	1.0	
+Seizures, Febrile	SCN10A	1.0	
+Tobacco Use Disorder	SCN10A	1.0	
+Ventricular fibrillation	SCN10A	1.0	
+Synovial Cyst	SCN10A	1.0	
+Sciatic Neuropathy	SCN10A	1.0	
+Chronic pain	SCN10A	1.0	
+Onset	SCN10A	1.0	
+Ventricular Fibrillation Adverse Event	SCN10A	1.0	
+Abnormality of the digestive system	SCN10A	1.0	
+Hematological neoplasm	SCN10A	1.0	
+Neuropathy ataxia retinitis pigmentosa syndrome	SCN10A	1.0	
+Autosomal dominant non-syndromic sensorineural deafness type DFNA	SCN10A	1.0	
+Abnormality of the nervous system	SCN10A	1.0	
+Breast carcinoma	SCN10A	1.0	
+Neuroblastoma	SCN10A	1.0	
+Varicella zoster	SCN10A	1.0	
+Abdominal symptom	SCN10A	1.0	
+Brugada Syndrome	SCN10A	1.0	
+Channelopathies	SCN10A	1.0	
+Adult onset ataxia with oculomotor apraxia	SCN10A	1.0	
+Abnormality of nervous system physiology	SCN10A	1.0	
+Abnormality of digestive system physiology	SCN10A	1.0	

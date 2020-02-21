@@ -1,0 +1,57 @@
+Gene	CUI	Source Databases	
+CYP2D6	C0019337	Heroin Dependence	DisGeNet	
+CYP3A4	C0019337	Heroin Dependence	DisGeNet	
+SLC6A2	C0019337	Heroin Dependence	DisGeNet	
+SLC6A3	C0019337	Heroin Dependence	DisGeNet	
+SLC6A4	C0019337	Heroin Dependence	DisGeNet	
+SLC6A2	C0004930	Behavior Disorders	DisGeNet	
+SLC6A3	C0004930	Behavior Disorders	DisGeNet	
+SLC6A4	C0004930	Behavior Disorders	DisGeNet	
+CYP2D6	C0686347	Tardive Dyskinesia	DisGeNet	
+CYP3A4	C0686347	Tardive Dyskinesia	DisGeNet	
+SLC6A3	C0686347	Tardive Dyskinesia	DisGeNet	
+SLC6A4	C0686347	Tardive Dyskinesia	DisGeNet	
+CYP2D6	C0152115	Orofacial dyskinesia	DisGeNet	
+CYP3A4	C0152115	Orofacial dyskinesia	DisGeNet	
+SLC6A3	C0152115	Orofacial dyskinesia	DisGeNet	
+SLC6A4	C0152115	Orofacial dyskinesia	DisGeNet	
+CYP2D6	C0221765	Chronic schizophrenia	DisGeNet	
+CYP3A4	C0221765	Chronic schizophrenia	DisGeNet	
+SLC6A3	C0221765	Chronic schizophrenia	DisGeNet	
+CYP2D6	C0030201	Acute postoperative pain	DisGeNet	
+CYP3A4	C0030201	Acute postoperative pain	DisGeNet	
+SLC6A4	C0030201	Acute postoperative pain	DisGeNet	
+CYP2D6	C0031212	Personality disorder	DisGeNet	
+SLC6A2	C0031212	Personality disorder	DisGeNet	
+SLC6A4	C0031212	Personality disorder	DisGeNet	
+CYP2D6	C0033054	Prenatal Exposure Delayed Effects	DisGeNet	
+SLC6A3	C0033054	Prenatal Exposure Delayed Effects	DisGeNet	
+SLC6A4	C0033054	Prenatal Exposure Delayed Effects	DisGeNet	
+CYP2D6	C0013146	Methamphetamine abuse	DisGeNet	
+SLC6A2	C0013146	Methamphetamine abuse	DisGeNet	
+SLC6A3	C0013146	Methamphetamine abuse	DisGeNet	
+SLC6A4	C0013146	Methamphetamine abuse	DisGeNet	
+CYP2D6	C1457887	CNS symptom	DisGeNet	
+SLC6A3	C1457887	CNS symptom	DisGeNet	
+SLC6A4	C1457887	CNS symptom	DisGeNet	
+CYP2D6	C0003944	As If Personality	DisGeNet	
+SLC6A3	C0003944	As If Personality	DisGeNet	
+SLC6A4	C0003944	As If Personality	DisGeNet	
+CYP2D6	C0086132	Depressive Symptoms	DisGeNet	
+CYP3A4	C0086132	Depressive Symptoms	DisGeNet	
+SLC6A3	C0086132	Depressive Symptoms	DisGeNet	
+SLC6A4	C0086132	Depressive Symptoms	DisGeNet	
+CYP2D6	C0024620	Primary malignant neoplasm of liver	DisGeNet	
+CYP3A4	C0024620	Primary malignant neoplasm of liver	DisGeNet	
+CYP2D6	C1827377	Slow acetylator due to N-acetyltransferase enzyme variant	DisGeNet	
+SLC6A2	C1827377	Slow acetylator due to N-acetyltransferase enzyme variant	DisGeNet	
+CYP2D6	C0029421	Osteochondritis dissecans	DisGeNet	
+SLC6A3	C0029421	Osteochondritis dissecans	DisGeNet	
+SLC6A4	C0029421	Osteochondritis dissecans	DisGeNet	
+SLC6A3	C0006370	Bulimia	DisGeNet	
+SLC6A4	C0006370	Bulimia	DisGeNet	
+CYP2D6	C0013473	Eating disorder	DisGeNet	
+SLC6A3	C0013473	Eating disorder	DisGeNet	
+SLC6A4	C0013473	Eating disorder	DisGeNet	
+SLC6A3	C0270549	Generalized anxiety disorder	DisGeNet	
+SLC6A4	C0270549	Generalized anxiety disorder	DisGeNet	

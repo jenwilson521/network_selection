@@ -1,0 +1,9 @@
+Gene	CUI	Source Databases	
+SLC16A7	C0005911	Body Weight Changes	DisGeNet	
+SLCO2B1	C0020433	Hyperbilirubinemia	DisGeNet	
+SLC16A7	C1561955	Fibrinogen Adverse Event	DisGeNet	
+SLC16A7	C1510586	Autism spectrum disorders	DisGeNet	
+SLC16A7	C0020615	Hypoglycemia, neonatal, simulating foetopathia diabetica	DisGeNet	
+SLC16A7	C0018800	Cardiomegaly	DisGeNet,PheGenI	
+SLC16A7	C0021364	Male infertility	DisGeNet	
+SLC16A7	C0238198	Gastrointestinal stromal tumor	DisGeNet	

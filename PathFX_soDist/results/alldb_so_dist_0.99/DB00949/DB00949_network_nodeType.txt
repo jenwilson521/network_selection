@@ -1,0 +1,9 @@
+node_name	node_type	
+DB00949	drug	
+CYP2C9	drug_target	
+GRIN3A	drug_target	
+CYP2E1	drug_target	
+GRIN2B	drug_target	
+GRIN2A	drug_target	
+CYP2C19	drug_target	
+CYP3A4	drug_target	

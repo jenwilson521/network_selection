@@ -1,0 +1,5 @@
+Gene	CUI	Source Databases	
+DCK	C0024302	Reticulosarcoma	DisGeNet	
+DCK	C0206726	gliosarcoma	DisGeNet	
+DCK	C0677936	Refractory cancer	DisGeNet	
+DCK	C1559154	Rash and Dermatitis Adverse Event Associated with Chemoradiation	DisGeNet	

@@ -1,0 +1,13 @@
+node_name	node_type	
+DB00969	drug	
+CYP2C9	drug_target	
+CYP3A4	drug_target	
+CYP1A2	drug_target	
+CYP2E1	drug_target	
+HTR3A	drug_target	
+Neoplasm of the larynx	phenotype	
+Nausea	phenotype	
+Adverse drug events and drug allergies	phenotype	
+Hepatitis, Autoimmune	phenotype	
+Pharyngeal Neoplasms	phenotype	
+Pleural Neoplasms	phenotype	

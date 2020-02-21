@@ -1,0 +1,18 @@
+node_name	node_type	
+DB00835	drug	
+CYP2C8	drug_target	
+CYP2B6	drug_target	
+CHRM4	drug_target	
+CHRM3	drug_target	
+CHRM2	drug_target	
+CYP2E1	drug_target	
+CYP2C19	drug_target	
+CHRM1	drug_target	
+HRH1	drug_target	
+CYP3A4	drug_target	
+End Stage Liver Disease	phenotype	
+21-hydroxylase deficiency	phenotype	
+Bone necrosis	phenotype	
+Adrenal hyperplasia	phenotype	
+Neoplasms, Germ Cell and Embryonal	phenotype	
+Primary malignant neoplasm of liver	phenotype	

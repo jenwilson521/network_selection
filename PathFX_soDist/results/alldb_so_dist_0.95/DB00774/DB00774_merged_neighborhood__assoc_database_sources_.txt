@@ -1,0 +1,45 @@
+Gene	CUI	Source Databases	
+CA12	C0004114	Astrocytoma	DisGeNet	
+CA12	C0006142	Breast-ovarian cancer, familial 1	DisGeNet	
+CA12	C0007134	Renal cell carcinoma, nonpapillary	DisGeNet	
+CA12	C0007847	Malignant tumor of cervix	DisGeNet	
+CA12	C0009404	Colorectal Neoplasms	DisGeNet	
+CA12	C0009450	Verotoxigenic Escherichia coli gastrointestinal tract infection	DisGeNet	
+CA12	C0011175	Dehydration	HumPhenOnt	
+CA12	C0015544	Failure to thrive	HumPhenOnt	
+CA12	C0017601	Glaucoma, Angle-Closure	DisGeNet	
+CA12	C0018801	Heart Failure	DisGeNet,PheGenI	
+CA12	C0020461	Hyperkalemia	HumPhenOnt	
+CA12	C0020625	Hyponatremia	HumPhenOnt	
+CA12	C0024667	Animal Mammary Neoplasms	DisGeNet	
+CA12	C0027627	Secondary hypertriglyceridemia	DisGeNet	
+CA12	C0040136	Thyroid Neoplasms	DisGeNet	
+CA12	C0041327	Tuberculosis, Pulmonary	DisGeNet	
+CA12	C0079772	T-cell lymphoma	DisGeNet	
+CA12	C0178874	Tumor Progression	DisGeNet	
+CA12	C0206132	Onset	HumPhenOnt	
+CA12	C0232466	Feeding difficulties	HumPhenOnt	
+CA12	C0238033	Carcinoma of Male Breast	DisGeNet	
+CA12	C0242787	Malignant neoplasm of male breast	DisGeNet	
+CA12	C0262361	Growth abnormality	HumPhenOnt	
+CA12	C0266015	Abnormality of the digestive system	HumPhenOnt	
+CA12	C0302592	Carcinoma of cervix	DisGeNet	
+CA12	C0441748	Autosomal recessive inheritance	HumPhenOnt	
+CA12	C0443147	Autosomal dominant non-syndromic sensorineural deafness type DFNA	HumPhenOnt	
+CA12	C0678222	Breast carcinoma	DisGeNet	
+CA12	C0740651	Abdominal symptom	HumPhenOnt	
+CA12	C1262477	Decreased body weight	HumPhenOnt	
+CA12	C1516170	Cancer Cell Growth	DisGeNet	
+CA12	C1527349	Ductal Carcinoma	DisGeNet	
+CA12	C1848924	Infantile-onset ascending hereditary spastic paralysis	HumPhenOnt	
+CA12	C1961099	T-cell acute lymphoblastic leukemias	DisGeNet	
+CA12	C2239176	Hepatocellular carcinoma	DisGeNet	
+CA12	C2364164	Abnormality of fluid regulation	HumPhenOnt	
+CA12	C4021768	Abnormality of metabolism/homeostasis	HumPhenOnt	
+CA12	C4023575	Abnormality of potassium homeostasis	HumPhenOnt	
+CA12	C4023644	Abnormality of sodium homeostasis	HumPhenOnt	
+CA12	C4023645	Abnormality of monovalent inorganic cation homeostasis	HumPhenOnt	
+CA12	C4023646	Abnormality of cation homeostasis	HumPhenOnt	
+CA12	C4025357	Abnormality of body weight	HumPhenOnt	
+CA12	C4025654	Abnormality of ion homeostasis	HumPhenOnt	
+CA12	C4293692	Abnormality of digestive system physiology	HumPhenOnt	

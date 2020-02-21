@@ -1,0 +1,254 @@
+node1	node2	edge_score	
+DB00310	CA1	1.0	
+DB00310	ALB	1.0	
+ALB		1.0
+ Adenocarcinoma, ovarian, somatic, 167000 (3)	ALB	1.0	
+Adenomas, multiple colorectal, 608456 (3)	ALB	1.0	
+Albuminuria	ALB	1.0	
+Alzheimer Disease	ALB	1.0	
+Anaplasia	ALB	1.0	
+Anemia	ALB	1.0	
+Angiokeratoma	ALB	1.0	
+Anorexia	ALB	1.0	
+Arteriosclerosis	ALB	1.0	
+Arthritis, Rheumatoid	ALB	1.0	
+Rheumatoid arthritis	ALB	1.0	
+Atherosclerosis	ALB	1.0	
+Autoimmune disease 1	ALB	1.0	
+Bleeding disorder, platelet-type, 21	ALB	1.0	
+Abnormal systemic blood pressure	ALB	1.0	
+Brain Diseases	ALB	1.0	
+Brain neoplasm	ALB	1.0	
+Breast-ovarian cancer, familial 1	ALB	1.0	
+Cachexia	ALB	1.0	
+Colon cancer	ALB	1.0	
+Bronchogenic Carcinoma	ALB	1.0	
+Renal cell carcinoma, nonpapillary	ALB	1.0	
+Cardiovascular Diseases	ALB	1.0	
+Brain Ischemia	ALB	1.0	
+Chest pain	ALB	1.0	
+Primary biliary cirrhosis	ALB	1.0	
+Congenital chromosomal disease	ALB	1.0	
+Ulcerative colitis	ALB	1.0	
+Colorectal cancer 1	ALB	1.0	
+Verotoxigenic Escherichia coli gastrointestinal tract infection	ALB	1.0	
+Constitutional symptom	ALB	1.0	
+Coronary artery aneurysm	ALB	1.0	
+Coronary heart disease 7	ALB	1.0	
+Congenital hypothyroidism	ALB	1.0	
+Crohn Disease	ALB	1.0	
+Dementia familial British	ALB	1.0	
+Dementia, Vascular	ALB	1.0	
+Plaque, Atherosclerotic	ALB	1.0	
+Depressive Disorder	ALB	1.0	
+Dermatitis, Atopic	ALB	1.0	
+Diabetes Mellitus, Type 1	ALB	1.0	
+Diabetes mellitus type 1	ALB	1.0	
+Diabetes mellitus type 2	ALB	1.0	
+Diabetic Angiopathies	ALB	1.0	
+Diabetic Nephropathies	ALB	1.0	
+Type 1 diabetic neuropathy	ALB	1.0	
+Diabetic Retinopathy	ALB	1.0	
+DiGeorge sequence	ALB	1.0	
+Gallbladder disease 4	ALB	1.0	
+Methamphetamine abuse	ALB	1.0	
+Isolated growth hormone deficiency type 1B	ALB	1.0	
+Echinococcosis	ALB	1.0	
+Eczema	ALB	1.0	
+Experimental Autoimmune Encephalomyelitis	ALB	1.0	
+Epilepsy	ALB	1.0	
+Esophageal varix	ALB	1.0	
+Fatigue	ALB	1.0	
+Hepatic steatosis	ALB	1.0	
+Fibrosis	ALB	1.0	
+Glomerulonephritis, Membranous	ALB	1.0	
+Mesangiocapillary glomerulonephritis, type II	ALB	1.0	
+Membranous nephropathy, susceptibility to	ALB	1.0	
+Focal segmental glomerulosclerosis	ALB	1.0	
+Graft-versus-host disease, susceptibility to	ALB	1.0	
+Guillain-Barre syndrome, familial	ALB	1.0	
+Heart Diseases	ALB	1.0	
+Heart Failure	ALB	1.0	
+Congestive heart failure	ALB	1.0	
+Hemochromatosis	ALB	1.0	
+Hemolytic uremic syndrome	ALB	1.0	
+Hereditary factor VIII deficiency disease	ALB	1.0	
+Hepatitis	ALB	1.0	
+Acute type B viral hepatitis	ALB	1.0	
+Chronic hepatitis	ALB	1.0	
+Hepatitis C	ALB	1.0	
+Herpes Simplex Infections	ALB	1.0	
+Symptomatic human immunodeficiency virus infection	ALB	1.0	
+Huntington's chorea	ALB	1.0	
+Hypercholesterolemia, autosomal dominant, type B	ALB	1.0	
+Familial hypercholesterolemia	ALB	1.0	
+Hyperglycemia	ALB	1.0	
+Hyperinsulinemia	ALB	1.0	
+Hyperlipidemia, combined, 1	ALB	1.0	
+Hyperlipidemia, familial combined	ALB	1.0	
+Hyperlipoproteinemia	ALB	1.0	
+Hypersensitivity	ALB	1.0	
+Hypertension	ALB	1.0	
+Hypotension	ALB	1.0	
+Immunodeficiency due to defect in CD3-gamma	ALB	1.0	
+Immune dysfunction with T-cell inactivation due to calcium entry defect 1	ALB	1.0	
+IMMUNE SUPPRESSION	ALB	1.0	
+Influenza	ALB	1.0	
+Ischemia	ALB	1.0	
+Keloid	ALB	1.0	
+Kidney Diseases	ALB	1.0	
+Acute kidney injury	ALB	1.0	
+Kidney Failure, Chronic	ALB	1.0	
+Leukemia, Lymphocytic, Chronic, B-Cell	ALB	1.0	
+Lipoatrophy	ALB	1.0	
+Liver Cirrhosis, Biliary	ALB	1.0	
+Liver Diseases	ALB	1.0	
+Neoplasm of the liver	ALB	1.0	
+Lymphohistiocytosis, Hemophagocytic	ALB	1.0	
+Lymphoma, Follicular	ALB	1.0	
+{Gastric cancer risk after H. pylori infection}, 137215 (3)	ALB	1.0	
+Mucocutaneous Lymph Node Syndrome	ALB	1.0	
+Multiple Myeloma	ALB	1.0	
+Multiple Sclerosis	ALB	1.0	
+Mumps	ALB	1.0	
+Myopathy, scapulohumeroperoneal	ALB	1.0	
+Myocardial Reperfusion Injury	ALB	1.0	
+Secondary hypertriglyceridemia	ALB	1.0	
+Nephritis	ALB	1.0	
+Tubulointerstitial nephritis	ALB	1.0	
+Nephrosclerosis	ALB	1.0	
+Nephrosis	ALB	1.0	
+Nephrotic syndrome, type 5, with or without ocular abnormalities	ALB	1.0	
+Obesity	ALB	1.0	
+Occupational Diseases	ALB	1.0	
+Osteoporosis	ALB	1.0	
+Pain	ALB	1.0	
+Neurologic, endocrine, and pancreatic disease, multisystem, infantile-onset	ALB	1.0	
+Pancreatitis	ALB	1.0	
+Pericardial effusion	ALB	1.0	
+Periodontitis	ALB	1.0	
+Abnormality of the pituitary gland	ALB	1.0	
+Plasmacytoma	ALB	1.0	
+Polycystic Ovary Syndrome	ALB	1.0	
+Proteinuria, low molecular weight, with hypercalciuria and nephrocalcinosis	ALB	1.0	
+Pulmonary edema	ALB	1.0	
+Pulmonary Embolism	ALB	1.0	
+Renal Insufficiency, Chronic	ALB	1.0	
+Reperfusion Injury	ALB	1.0	
+Respiratory Distress Syndrome, Adult	ALB	1.0	
+Respiratory Tract Diseases	ALB	1.0	
+Retinopathy	ALB	1.0	
+Rhinitis, Allergic, Perennial	ALB	1.0	
+Sarcoidosis	ALB	1.0	
+Seizures, Febrile	ALB	1.0	
+Stevens-Johnson Syndrome	ALB	1.0	
+Stomach Neoplasms	ALB	1.0	
+Stroke	ALB	1.0	
+Substance Use Disorders	ALB	1.0	
+Thrombocytopenia, platelet dysfunction, hemolysis, and imbalanced globin synthesis	ALB	1.0	
+Thyroid Diseases	ALB	1.0	
+Adverse drug events and drug allergies	ALB	1.0	
+Urticaria	ALB	1.0	
+Uveitis	ALB	1.0	
+Vascular Diseases	ALB	1.0	
+ {HIV-1 viremia, susceptibility to}, 609423 (3)	ALB	1.0	
+Virus Diseases	ALB	1.0	
+Severe combined immunodeficiency due to ADA deficiency	ALB	1.0	
+Maternal diabetes	ALB	1.0	
+Essential hypertension	ALB	1.0	
+Encephalopathy, acute, infection-induced, 4, susceptibility to	ALB	1.0	
+Sicca Syndrome	ALB	1.0	
+Acute myocardial ischemia	ALB	1.0	
+Adenocarcinoma of lung	ALB	1.0	
+Polyneuropathy, hearing loss, ataxia, retinitis pigmentosa, and cataract	ALB	1.0	
+Malnutrition	ALB	1.0	
+Acute hepatic failure	ALB	1.0	
+Glomerulosclerosis, Focal Segmental	ALB	1.0	
+Germ cell neoplasia	ALB	1.0	
+Hepatoblastoma	ALB	1.0	
+Adrenocortical carcinoma	ALB	1.0	
+Cholangiocarcinoma	ALB	1.0	
+Hemangioblastoma	ALB	1.0	
+Primary hyperparathyroidism	ALB	1.0	
+Combined Hepatocellular Carcinoma and Cholangiocarcinoma	ALB	1.0	
+Peripheral motor neuropathy	ALB	1.0	
+Congenital diaphragmatic hernia	ALB	1.0	
+Gastrointestinal stromal tumor	ALB	1.0	
+Hereditary pancreatitis	ALB	1.0	
+Hepatic fibrosis	ALB	1.0	
+Hypoalbuminemia	ALB	1.0	
+Malignant neoplasm of lung	ALB	1.0	
+Age-related macular degeneration 2	ALB	1.0	
+Acute Lung Injury	ALB	1.0	
+Abnormality of cardiovascular system electrophysiology	ALB	1.0	
+Glomerulopathy	ALB	1.0	
+Glucose intolerance	ALB	1.0	
+Coinfection	ALB	1.0	
+Carcinoma breast stage IV	ALB	1.0	
+Solid tumour	ALB	1.0	
+Restenosis	ALB	1.0	
+Senile plaques	ALB	1.0	
+Adenocarcinoma of colon	ALB	1.0	
+Cognitive Dysfunction	ALB	1.0	
+Proliferative retinopathy	ALB	1.0	
+Chronic liver disease	ALB	1.0	
+Endemic Cretinism	ALB	1.0	
+Complications of Diabetes Mellitus	ALB	1.0	
+Maturity-onset diabetes of the young, type 11	ALB	1.0	
+Hepatic cancer metastatic	ALB	1.0	
+Malignant neoplasm of adrenal cortex	ALB	1.0	
+Thrombophilia	ALB	1.0	
+Chronic Kidney Insufficiency	ALB	1.0	
+Autosomal recessive inheritance	ALB	1.0	
+Neuropathy ataxia retinitis pigmentosa syndrome	ALB	1.0	
+Urolithiasis	ALB	1.0	
+Dementia	ALB	1.0	
+Metabolic Syndrome X	ALB	1.0	
+Hepatitis B, Chronic	ALB	1.0	
+Hepatitis C, Chronic	ALB	1.0	
+Carcinogenesis	ALB	1.0	
+Ovarian epithelial cancer	ALB	1.0	
+Breast carcinoma	ALB	1.0	
+Lung cancer	ALB	1.0	
+Carcinoma of colon	ALB	1.0	
+Stomach cancer	ALB	1.0	
+Microalbuminuria	ALB	1.0	
+Varicella zoster	ALB	1.0	
+Hyperlipoproteinemia Type IIa	ALB	1.0	
+End Stage Liver Disease	ALB	1.0	
+Dentatorubral pallidoluysian atrophy	ALB	1.0	
+Drug-Induced Liver Injury	ALB	1.0	
+Acute Coronary Syndrome	ALB	1.0	
+Drug Resistant Epilepsy	ALB	1.0	
+BREAST-OVARIAN CANCER, FAMILIAL, SUSCEPTIBILITY TO, 4	ALB	1.0	
+Drusen	ALB	1.0	
+Single tumor	ALB	1.0	
+Liver regeneration disorder	ALB	1.0	
+Hepatocarcinogenesis	ALB	1.0	
+Colorectal cancer	ALB	1.0	
+Non-Malignant Ascites Adverse Event	ALB	1.0	
+Chronic kidney disease	ALB	1.0	
+tumor vasculature	ALB	1.0	
+Nephrotic Syndrome, Minimal Change	ALB	1.0	
+Non-Neoplastic Disorder	ALB	1.0	
+Idiopathic Pulmonary Fibrosis	ALB	1.0	
+Coronary Artery Disease	ALB	1.0	
+Hepatocellular carcinoma	ALB	1.0	
+Stage 5 chronic kidney disease	ALB	1.0	
+Reduced bone mineral density	ALB	1.0	
+Secondary malignant neoplasm of pancreas	ALB	1.0	
+Insulin resistance syndrome	ALB	1.0	
+Isolated somatotropin deficiency	ALB	1.0	
+Interstitial fibrosis	ALB	1.0	
+Abnormality of adipose tissue	ALB	1.0	
+Abnormality of bone mineral density	ALB	1.0	
+Abnormality of metabolism/homeostasis	ALB	1.0	
+Abnormality of the skeletal system	ALB	1.0	
+Abnormal albumin level	ALB	1.0	
+Abnormal bone ossification	ALB	1.0	
+Abnormality of skeletal morphology	ALB	1.0	
+Abnormality of cardiovascular system physiology	ALB	1.0	
+Abnormality of circulating protein level	ALB	1.0	
+Abnormality of connective tissue	ALB	1.0	
+Abnormal bone structure	ALB	1.0	
+Abnormality of lipid metabolism	ALB	1.0	

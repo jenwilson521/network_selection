@@ -1,0 +1,4 @@
+rank	phenotype	cui	assoc in neigh	assoc in intom	probability	Benjamini-Hochberg	genes	
+36	Adverse drug events and drug allergies	C0041755	2	60	2.860296403295326e-05	6.75422138837e-05	ADORA1,ALB
+40	 {HIV-1 viremia, susceptibility to}, 609423 (3)	C0042749	2	71	4.743119880346036e-05	7.50469043152e-05	ALB,CYP3A4
+52	Drug Allergy	C0013182	2	79	6.5283176831743e-05	9.75609756098e-05	ADORA1,CYP3A4

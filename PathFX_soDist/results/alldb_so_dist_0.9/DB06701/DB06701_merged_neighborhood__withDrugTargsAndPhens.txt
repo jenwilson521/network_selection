@@ -1,0 +1,279 @@
+node1	node2	edge_score	
+DB06701	SLC6A3	1.0	
+DB06701	SLC6A2	1.0	
+DB06701	SLC6A4	1.0	
+SLC6A3		1.0
+SLC6A4		1.0
+SLC6A4	SLC6A4 HTTLPR long form (L allele), SLC6A4 HTTLPR short form (S allele)	0.99
+SLC6A2	rs3785143	0.99
+SLC6A2	rs12708954	0.99
+SLC6A2	rs5569	0.99
+SLC6A4	rs57098334	0.99
+SLC6A2		1.0
+SLC6A4	rs25531	0.99
+SLC6A4	rs1042173	0.99
+Behavior Disorders	SLC6A2	1.0	
+Behavior Disorders	SLC6A3	1.0	
+Behavior Disorders	SLC6A4	1.0	
+Heroin Dependence	SLC6A2	1.0	
+Heroin Dependence	SLC6A3	1.0	
+Heroin Dependence	SLC6A4	1.0	
+Methamphetamine abuse	SLC6A2	1.0	
+Methamphetamine abuse	SLC6A3	1.0	
+Methamphetamine abuse	SLC6A4	1.0	
+Anorexia nervosa 1	SLC6A2	1.0	
+Anorexia nervosa 1	SLC6A3	1.0	
+Anorexia nervosa 1	SLC6A4	1.0	
+Bulimia	SLC6A3	1.0	
+Bulimia	SLC6A4	1.0	
+Tourette Syndrome	SLC6A2	1.0	
+Tourette Syndrome	SLC6A3	1.0	
+Tourette Syndrome	SLC6A4	1.0	
+Generalized anxiety disorder	SLC6A3	1.0	
+Generalized anxiety disorder	SLC6A4	1.0	
+Substance Use Disorders	SLC6A3	1.0	
+Substance Use Disorders	SLC6A4	1.0	
+Alcohol withdrawal syndrome	SLC6A3	1.0	
+Alcohol withdrawal syndrome	SLC6A4	1.0	
+Motor symptoms	SLC6A3	1.0	
+Motor symptoms	SLC6A4	1.0	
+ {Nicotine dependence, protection against}, 188890 (3)	SLC6A3	1.0	
+ {Nicotine dependence, protection against}, 188890 (3)	SLC6A4	1.0	
+Antisocial Personality Disorder	SLC6A3	1.0	
+Antisocial Personality Disorder	SLC6A4	1.0	
+Personality disorder	SLC6A2	1.0	
+Personality disorder	SLC6A4	1.0	
+Bulimia nervosa 1	SLC6A3	1.0	
+Bulimia nervosa 1	SLC6A4	1.0	
+Borderline Personality Disorder	SLC6A2	1.0	
+Borderline Personality Disorder	SLC6A3	1.0	
+Borderline Personality Disorder	SLC6A4	1.0	
+Antisocial/borderline personality disorder	SLC6A3	1.0	
+Antisocial/borderline personality disorder	SLC6A4	1.0	
+Substance abuse problem	SLC6A3	1.0	
+Substance abuse problem	SLC6A4	1.0	
+Drug usage	SLC6A3	1.0	
+Drug usage	SLC6A4	1.0	
+Manic	SLC6A3	1.0	
+Manic	SLC6A4	1.0	
+Weight Loss Adverse Event	SLC6A2	1.0	
+Weight Loss Adverse Event	SLC6A4	1.0	
+Conduct Disorder	SLC6A3	1.0	
+Conduct Disorder	SLC6A4	1.0	
+Fibromyalgia	SLC6A3	1.0	
+Fibromyalgia	SLC6A4	1.0	
+Prenatal Exposure Delayed Effects	SLC6A3	1.0	
+Prenatal Exposure Delayed Effects	SLC6A4	1.0	
+Anxiety	SLC6A2	1.0	
+Anxiety	SLC6A3	1.0	
+Anxiety	SLC6A4	1.0	
+Memory Disorders	SLC6A3	1.0	
+Memory Disorders	SLC6A4	1.0	
+Cocaine Dependence	SLC6A3	1.0	
+Cocaine Dependence	SLC6A4	1.0	
+CNS symptom	SLC6A3	1.0	
+CNS symptom	SLC6A4	1.0	
+Bronchopulmonary Dysplasia	SLC6A2	1.0	
+Bronchopulmonary Dysplasia	SLC6A3	1.0	
+Bronchopulmonary Dysplasia	SLC6A4	1.0	
+As If Personality	SLC6A3	1.0	
+As If Personality	SLC6A4	1.0	
+Tardive Dyskinesia	SLC6A3	1.0	
+Tardive Dyskinesia	SLC6A4	1.0	
+Bipolar I disorder	SLC6A3	1.0	
+Bipolar I disorder	SLC6A4	1.0	
+Autism spectrum disorders	SLC6A2	1.0	
+Autism spectrum disorders	SLC6A3	1.0	
+Autism spectrum disorders	SLC6A4	1.0	
+Psychoses, Substance-Induced	SLC6A3	1.0	
+Psychoses, Substance-Induced	SLC6A4	1.0	
+Attention Deficit Disorder	SLC6A3	1.0	
+Attention Deficit Disorder	SLC6A4	1.0	
+Drug Dependence	SLC6A3	1.0	
+Drug Dependence	SLC6A4	1.0	
+Osteochondritis dissecans	SLC6A3	1.0	
+Osteochondritis dissecans	SLC6A4	1.0	
+NEUROTICISM	SLC6A3	1.0	
+NEUROTICISM	SLC6A4	1.0	
+MAJOR AFFECTIVE DISORDER 4	SLC6A3	1.0	
+MAJOR AFFECTIVE DISORDER 4	SLC6A4	1.0	
+MAJOR AFFECTIVE DISORDER 5	SLC6A3	1.0	
+MAJOR AFFECTIVE DISORDER 5	SLC6A4	1.0	
+MAJOR AFFECTIVE DISORDER 6	SLC6A3	1.0	
+MAJOR AFFECTIVE DISORDER 6	SLC6A4	1.0	
+Major affective disorder 7	SLC6A3	1.0	
+Major affective disorder 7	SLC6A4	1.0	
+MAJOR AFFECTIVE DISORDER 8	SLC6A3	1.0	
+MAJOR AFFECTIVE DISORDER 8	SLC6A4	1.0	
+MAJOR AFFECTIVE DISORDER 9	SLC6A3	1.0	
+MAJOR AFFECTIVE DISORDER 9	SLC6A4	1.0	
+Orofacial dyskinesia	SLC6A3	1.0	
+Orofacial dyskinesia	SLC6A4	1.0	
+Eating disorder	SLC6A3	1.0	
+Eating disorder	SLC6A4	1.0	
+Migraine with aura	SLC6A3	1.0	
+Migraine with aura	SLC6A4	1.0	
+Ichthyosis bullosa of Siemens	SLC6A2	1.0	
+Ichthyosis bullosa of Siemens	SLC6A4	1.0	
+Substance addiction and disorders	SLC6A3	1.0	
+Substance addiction and disorders	SLC6A4	1.0	
+Panic disorder 1	SLC6A2	1.0	
+Panic disorder 1	SLC6A4	1.0	
+Gastrointestinal Diseases	SLC6A2	1.0	
+Gastrointestinal Diseases	SLC6A4	1.0	
+Amphetamine-Related Disorders	SLC6A3	1.0	
+Amphetamine-Related Disorders	SLC6A4	1.0	
+Obsessive-compulsive disorder	SLC6A3	1.0	
+Obsessive-compulsive disorder	SLC6A4	1.0	
+Mood Disorders	SLC6A2	1.0	
+Mood Disorders	SLC6A3	1.0	
+Mood Disorders	SLC6A4	1.0	
+Alcohol abuse	SLC6A3	1.0	
+Alcohol abuse	SLC6A4	1.0	
+Marijuana Abuse	SLC6A3	1.0	
+Marijuana Abuse	SLC6A4	1.0	
+SUDDEN INFANT DEATH SYNDROME	SLC6A3	1.0	
+SUDDEN INFANT DEATH SYNDROME	SLC6A4	1.0	
+Liver Cirrhosis, Alcoholic	SLC6A3	1.0	
+Liver Cirrhosis, Alcoholic	SLC6A4	1.0	
+Posttraumatic stress disorder	SLC6A3	1.0	
+Posttraumatic stress disorder	SLC6A4	1.0	
+CNS disorder	SLC6A3	1.0	
+CNS disorder	SLC6A4	1.0	
+Nicotine Dependence	SLC6A3	1.0	
+Nicotine Dependence	SLC6A4	1.0	
+Anxiety Disorders	SLC6A2	1.0	
+Anxiety Disorders	SLC6A3	1.0	
+Anxiety Disorders	SLC6A4	1.0	
+Panic disorder syndrome 1 (2)	SLC6A2	1.0	
+Panic disorder syndrome 1 (2)	SLC6A4	1.0	
+Cocaine-Related Disorders	SLC6A3	1.0	
+Cocaine-Related Disorders	SLC6A4	1.0	
+Depressive Symptoms	SLC6A3	1.0	
+Depressive Symptoms	SLC6A4	1.0	
+Unipolar Depression	SLC6A2	1.0	
+Unipolar Depression	SLC6A3	1.0	
+Unipolar Depression	SLC6A4	1.0	
+Lewy Body Disease	SLC6A2	1.0	
+Lewy Body Disease	SLC6A3	1.0	
+Mental disorders	SLC6A2	1.0	
+Mental disorders	SLC6A3	1.0	
+Mental disorders	SLC6A4	1.0	
+Weight Gain Adverse Event	SLC6A3	1.0	
+Weight Gain Adverse Event	SLC6A4	1.0	
+Atrial septal defect	SLC6A2	1.0	
+Atrial septal defect	SLC6A3	1.0	
+Atrial septal defect	SLC6A4	1.0	
+Major depressive disorder	SLC6A2	1.0	
+Major depressive disorder	SLC6A3	1.0	
+Major depressive disorder	SLC6A4	1.0	
+Irritable bowel syndrome with diarrhea	SLC6A2	1.0	
+Irritable bowel syndrome with diarrhea	SLC6A4	1.0	
+Substance-Related Disorders	SLC6A3	1.0	
+Substance-Related Disorders	SLC6A4	1.0	
+Attention deficit hyperactivity disorder	SLC6A2	1.0	
+Attention deficit hyperactivity disorder	SLC6A3	1.0	
+Attention deficit hyperactivity disorder	SLC6A4	1.0	
+Pigmentary pallidal degeneration	SLC6A3	1.0	
+Slow acetylator due to N-acetyltransferase enzyme variant	SLC6A2	1.0	
+Depressive Disorder	SLC6A2	1.0	
+Depressive Disorder	SLC6A3	1.0	
+Depressive Disorder	SLC6A4	1.0	
+Dentinogenesis imperfecta	SLC6A2	1.0	
+Recurrent major depressive episodes	SLC6A2	1.0	
+Asthma, Occupational	SLC6A2	1.0	
+Spinocerebellar ataxia 2	SLC6A3	1.0	
+{Unipolar depression, susceptibility to}, 608516 (3)	SLC6A2	1.0	
+{Unipolar depression, susceptibility to}, 608516 (3)	SLC6A3	1.0	
+{Unipolar depression, susceptibility to}, 608516 (3)	SLC6A4	1.0	
+Cycloid psychosis	SLC6A3	1.0	
+Cycloid psychosis	SLC6A4	1.0	
+Periodontal Attachment Loss	SLC6A4	1.0	
+Paranoia	SLC6A3	1.0	
+Delayed gross motor development	SLC6A3	1.0	
+Orofacial cleft	SLC6A2	1.0	
+Oral aphthae	SLC6A4	1.0	
+Headache	SLC6A3	1.0	
+Headache	SLC6A4	1.0	
+Gingival bleeding	SLC6A4	1.0	
+Puerperal Disorders	SLC6A4	1.0	
+Periodontal Pocket	SLC6A4	1.0	
+Pervasive developmental disorders	SLC6A4	1.0	
+Overweight	SLC6A3	1.0	
+Overweight	SLC6A4	1.0	
+Systemic aspergillosis	SLC6A2	1.0	
+Seasonal Affective Disorder	SLC6A4	1.0	
+Cocaine delirium	SLC6A3	1.0	
+Ataxic	SLC6A3	1.0	
+heavy drinking	SLC6A4	1.0	
+Chronic schizophrenia	SLC6A3	1.0	
+Constipation	SLC6A3	1.0	
+Constipation	SLC6A4	1.0	
+Parkinsonism	SLC6A3	1.0	
+Parkinsonism	SLC6A4	1.0	
+Acute postoperative pain	SLC6A4	1.0	
+Sclerosis	SLC6A4	1.0	
+Psychiatric symptom	SLC6A4	1.0	
+alcohol use disorder	SLC6A4	1.0	
+Pregnancy in Diabetics	SLC6A4	1.0	
+Morphological abnormality of the pyramidal tract	SLC6A3	1.0	
+Alcohol dependence	SLC6A2	1.0	
+Alcohol dependence	SLC6A3	1.0	
+Alcohol dependence	SLC6A4	1.0	
+Learning Disabilities	SLC6A4	1.0	
+Delusions	SLC6A4	1.0	
+Insomnia	SLC6A4	1.0	
+Disseminated intravascular coagulation	SLC6A2	1.0	
+Chronic pain	SLC6A4	1.0	
+Chronic Fatigue Syndrome	SLC6A4	1.0	
+Heart valve disease	SLC6A4	1.0	
+cardiac event	SLC6A4	1.0	
+Bradykinesia	SLC6A3	1.0	
+Coronary Restenosis	SLC6A4	1.0	
+Abnormal autonomic nervous system physiology	SLC6A2	1.0	
+Dementia familial British	SLC6A3	1.0	
+Dementia familial British	SLC6A4	1.0	
+Nausea	SLC6A4	1.0	
+Cleft palate with cleft lip	SLC6A2	1.0	
+Chromosome Xq28 deletion syndrome	SLC6A4	1.0	
+Bipolar affective disorder	SLC6A2	1.0	
+Bipolar affective disorder	SLC6A3	1.0	
+Bipolar affective disorder	SLC6A4	1.0	
+Dyspepsia	SLC6A4	1.0	
+Autoimmune lymphoproliferative syndrome, type 2	SLC6A3	1.0	
+Adverse drug events and drug allergies	SLC6A4	1.0	
+Psychotic Disorders	SLC6A3	1.0	
+Psychotic Disorders	SLC6A4	1.0	
+Periodontitis	SLC6A2	1.0	
+Periodontitis	SLC6A4	1.0	
+Cognition Disorders	SLC6A4	1.0	
+Obsessive-compulsive behavior	SLC6A4	1.0	
+Migraine Disorders	SLC6A3	1.0	
+Migraine Disorders	SLC6A4	1.0	
+Stress, Psychological	SLC6A4	1.0	
+Angelman syndrome-like	SLC6A3	1.0	
+Colorectal polyposis	SLC6A2	1.0	
+Occupational Diseases	SLC6A4	1.0	
+Sleep apnea	SLC6A4	1.0	
+Cardiac fibrosis	SLC6A4	1.0	
+Common Migraine	SLC6A4	1.0	
+Multiple Endocrine Neoplasia Type 2a	SLC6A2	1.0	
+Well Differentiated Pancreatic Endocrine Tumor	SLC6A2	1.0	
+Angina pectoris	SLC6A4	1.0	
+Ischemic cardiomyopathy	SLC6A4	1.0	
+Postoperative Complications	SLC6A4	1.0	
+Muscular hypotonia of the trunk	SLC6A3	1.0	
+Granulomatous disease, chronic, autosomal recessive, cytochrome b-negative	SLC6A2	1.0	
+Drug Allergy	SLC6A3	1.0	
+Azorean disease	SLC6A3	1.0	
+Substance Withdrawal Syndrome	SLC6A4	1.0	
+Growth Disorders	SLC6A3	1.0	
+Multiple Endocrine Neoplasia Type 1	SLC6A2	1.0	
+Schizoaffective Disorder	SLC6A4	1.0	
+Respiratory tract infection	SLC6A2	1.0	
+Respiratory tract infection	SLC6A3	1.0	
+Dementia, Vascular	SLC6A4	1.0	
+Agitation	SLC6A4	1.0	
+Mitral Valve Prolapse	SLC6A2	1.0	
+Candidiasis, familial, 9	SLC6A2	1.0	
+Polyphagia	SLC6A4	1.0	

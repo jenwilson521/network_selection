@@ -1,0 +1,75 @@
+node_name	node_type	
+DB01406	drug	
+CCL2	drug_target	
+ESR1	drug_target	
+CYP19A1	drug_target	
+SHBG	drug_target	
+AR	drug_target	
+PGR	drug_target	
+CYP3A4	drug_target	
+Oestrogen deficiency	phenotype	
+Malignant neoplasm of male breast	phenotype	
+Malignant neoplasm of female breast	phenotype	
+Depressive Symptoms	phenotype	
+Female Breast Carcinoma	phenotype	
+Carcinoma of Male Breast	phenotype	
+Breast Fibrocystic Disease	phenotype	
+gliosarcoma	phenotype	
+Disorder of endocrine system	phenotype	
+Mammographic breast density	phenotype	
+Endometrial Neoplasms	phenotype	
+Female infertility	phenotype	
+Uterine neoplasm	phenotype	
+Scrub Typhus	phenotype	
+Recurrent abortion	phenotype	
+Pregnancy loss	phenotype	
+Stromal Neoplasm	phenotype	
+Bladder neck obstruction	phenotype	
+Aortic regurgitation	phenotype	
+Alcohol withdrawal syndrome	phenotype	
+Alopecia of scalp	phenotype	
+Postmenopausal osteoporosis	phenotype	
+Carpal tunnel syndrome	phenotype	
+Prostate Cancer, Hereditary, 7	phenotype	
+Migraine Disorders	phenotype	
+Ovarian Failure, Premature	phenotype	
+Hepatopulmonary Syndrome	phenotype	
+Cocaine delirium	phenotype	
+Testicular Germ Cell Tumor	phenotype	
+Invasive Lobular Breast Carcinoma	phenotype	
+Maternal diabetes	phenotype	
+Gynecomastia	phenotype	
+Delayed menarche	phenotype	
+Cerebral aneurysm	phenotype	
+Stromal sarcoma	phenotype	
+21-hydroxylase deficiency	phenotype	
+Peritonitis	phenotype	
+Abnormal circulating gonadotropin level	phenotype	
+Acanthosis nigricans	phenotype	
+Knee osteoarthritis	phenotype	
+Pathologic fracture	phenotype	
+Tubulointerstitial nephritis	phenotype	
+Adenocarcinoma of colon	phenotype	
+Premature ovarian failure	phenotype	
+Hepatitis, Autoimmune	phenotype	
+Bone necrosis	phenotype	
+Adolescent idiopathic scoliosis	phenotype	
+Dry Eye Syndromes	phenotype	
+Weight Loss Adverse Event	phenotype	
+Abnormal epiphyseal ossification	phenotype	
+Spermatogenic failure 3	phenotype	
+Infertility associated with multi-tailed spermatozoa and excessive DNA	phenotype	
+Virilism	phenotype	
+Aplasia/hypoplasia of the uterus	phenotype	
+Acute hepatic failure	phenotype	
+Phyllodes tumor, benign	phenotype	
+Benign Prostatic Hyperplasia	phenotype	
+Peptic Esophagitis	phenotype	
+Lehman syndrome	phenotype	
+Endometrial Hyperplasia	phenotype	
+Nerve Sheath Tumors	phenotype	
+Chronic liver disease	phenotype	
+Penile hypospadias	phenotype	
+Biliary tract neoplasm	phenotype	
+Female pseudohermaphroditism	phenotype	
+Lymphangiomyomatosis	phenotype	

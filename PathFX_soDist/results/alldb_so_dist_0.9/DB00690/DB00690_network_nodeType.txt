@@ -1,0 +1,25 @@
+node_name	node_type	
+DB00690	drug	
+GABRB3	drug_target	
+SLC22A2	drug_target	
+GABRG3	drug_target	
+GABRR1	drug_target	
+GABRR2	drug_target	
+GABRD	drug_target	
+GABRQ	drug_target	
+GABRP	drug_target	
+CYP2E1	drug_target	
+ABCB1	drug_target	
+CYP3A4	drug_target	
+CYP2A6	drug_target	
+GABRB1	drug_target	
+GABRG2	drug_target	
+GABRA4	drug_target	
+GABRB2	drug_target	
+GABRA6	drug_target	
+GABRA1	drug_target	
+GABRG1	drug_target	
+GABRA3	drug_target	
+GABRA2	drug_target	
+Bone necrosis	phenotype	
+Alcohol abuse	phenotype	

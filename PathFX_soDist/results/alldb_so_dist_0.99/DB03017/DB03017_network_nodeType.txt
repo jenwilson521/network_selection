@@ -1,0 +1,15 @@
+node_name	node_type	
+DB03017	drug	
+VLDLR	drug_target	
+ADH5	drug_target	
+GLTP	drug_target	
+GM2A	drug_target	
+ALB	drug_target	
+PLA2G2A	drug_target	
+PLA2G2D	drug_target	
+TLR4	drug_target	
+C8G	drug_target	
+LY96	drug_target	
+HNF4A	drug_target	
+PPARA	drug_target	
+LTF	drug_target	

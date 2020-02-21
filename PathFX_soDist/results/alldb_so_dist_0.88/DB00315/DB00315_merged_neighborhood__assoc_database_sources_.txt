@@ -1,0 +1,25 @@
+Gene	CUI	Source Databases	
+HTR1A	C0006370	Bulimia	DisGeNet	
+HTR1B	C0006370	Bulimia	DisGeNet	
+HTR1A	C0038586	Substance Use Disorders	DisGeNet	
+HTR1B	C0038586	Substance Use Disorders	DisGeNet	
+CYP1A2	C0036349	Paranoid Schizophrenia	DisGeNet	
+HTR1A	C0036349	Paranoid Schizophrenia	DisGeNet	
+HTR1A	C0031212	Personality disorder	DisGeNet	
+HTR1B	C0031212	Personality disorder	DisGeNet	
+CYP1A2	C0013386	Dyskinesia, Drug-Induced	DisGeNet	
+HTR1A	C0013386	Dyskinesia, Drug-Induced	DisGeNet	
+HTR1A	C0003944	As If Personality	DisGeNet	
+HTR1B	C0003944	As If Personality	DisGeNet	
+HTR1A	C1868649	Panic disorder 1	DisGeNet	
+HTR1B	C1868649	Panic disorder 1	DisGeNet	
+HTR1A	C0030319	Panic disorder syndrome 1 (2)	DisGeNet	
+HTR1B	C0030319	Panic disorder syndrome 1 (2)	DisGeNet	
+HTR1A	C0236736	Cocaine-Related Disorders	DisGeNet	
+HTR1B	C0236736	Cocaine-Related Disorders	DisGeNet	
+CYP1A2	C0149931	Migraine Disorders	DisGeNet	
+HTR1A	C0149931	Migraine Disorders	DisGeNet,HumPhenOnt	
+HTR1B	C0149931	Migraine Disorders	DisGeNet	
+CYP1A2	C0085859	Polyglandular Type I Autoimmune Syndrome	DisGeNet	
+CYP1A2	C0032229	Pleural Neoplasms	DisGeNet	
+HTR1A	C0036396	Chronic sciatica	DisGeNet	

@@ -1,0 +1,19 @@
+node_name	node_type	
+DB01259	drug	
+ERBB2	drug_target	
+CYP2C8	drug_target	
+TAP1	drug_target	
+EGFR	drug_target	
+ABCB1	drug_target	
+CYP2C19	drug_target	
+CYP3A4	drug_target	
+CYP3A5	drug_target	
+Primary malignant neoplasm of liver	phenotype	
+Drug Allergy	phenotype	
+Advanced cancer	phenotype	
+Squamous Cell Neoplasms	phenotype	
+Neurotoxicity Syndromes	phenotype	
+Bone necrosis	phenotype	
+Uterine Cancer	phenotype	
+Pain insensitivity	phenotype	
+Intraosseous mucoepidermoid carcinoma	phenotype	

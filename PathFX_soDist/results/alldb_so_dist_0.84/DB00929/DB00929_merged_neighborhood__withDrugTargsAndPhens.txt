@@ -1,0 +1,143 @@
+node1	node2	edge_score	
+DB00929	PTGER4	1.0	
+DB00929	PTGER2	1.0	
+DB00929	PTGER3	1.0	
+PTGER4		1.0
+PTGER3		1.0
+PTGER2		1.0
+ Adenocarcinoma, ovarian, somatic, 167000 (3)	PTGER2	1.0	
+ Adenocarcinoma, ovarian, somatic, 167000 (3)	PTGER3	1.0	
+ Adenocarcinoma, ovarian, somatic, 167000 (3)	PTGER4	1.0	
+Alzheimer Disease	PTGER2	1.0	
+Alzheimer Disease	PTGER3	1.0	
+Alzheimer Disease	PTGER4	1.0	
+Asthma	PTGER2	1.0	
+Asthma	PTGER3	1.0	
+Asthma	PTGER4	1.0	
+Chorioamnionitis	PTGER2	1.0	
+Chorioamnionitis	PTGER3	1.0	
+Chorioamnionitis	PTGER4	1.0	
+Verotoxigenic Escherichia coli gastrointestinal tract infection	PTGER2	1.0	
+Verotoxigenic Escherichia coli gastrointestinal tract infection	PTGER3	1.0	
+Verotoxigenic Escherichia coli gastrointestinal tract infection	PTGER4	1.0	
+Fetal Membranes, Premature Rupture	PTGER2	1.0	
+Fetal Membranes, Premature Rupture	PTGER3	1.0	
+Fetal Membranes, Premature Rupture	PTGER4	1.0	
+Inflammation	PTGER2	1.0	
+Inflammation	PTGER3	1.0	
+Inflammation	PTGER4	1.0	
+Premature Obstetric Labor	PTGER2	1.0	
+Premature Obstetric Labor	PTGER3	1.0	
+Premature Obstetric Labor	PTGER4	1.0	
+{Gastric cancer risk after H. pylori infection}, 137215 (3)	PTGER2	1.0	
+{Gastric cancer risk after H. pylori infection}, 137215 (3)	PTGER3	1.0	
+{Gastric cancer risk after H. pylori infection}, 137215 (3)	PTGER4	1.0	
+Preeclampsia/eclampsia 1	PTGER2	1.0	
+Preeclampsia/eclampsia 1	PTGER3	1.0	
+Preeclampsia/eclampsia 1	PTGER4	1.0	
+Premature Birth	PTGER2	1.0	
+Premature Birth	PTGER3	1.0	
+Premature Birth	PTGER4	1.0	
+Malignant tumor of prostate	PTGER2	1.0	
+Malignant tumor of prostate	PTGER3	1.0	
+Malignant tumor of prostate	PTGER4	1.0	
+Prostate carcinoma	PTGER2	1.0	
+Prostate carcinoma	PTGER3	1.0	
+Prostate carcinoma	PTGER4	1.0	
+Stomach cancer	PTGER2	1.0	
+Stomach cancer	PTGER3	1.0	
+Stomach cancer	PTGER4	1.0	
+Angiokeratoma	PTGER2	1.0	
+Angiokeratoma	PTGER4	1.0	
+Musculoskeletal Diseases	PTGER2	1.0	
+Musculoskeletal Diseases	PTGER3	1.0	
+Pregnancy Complications, Hematologic	PTGER2	1.0	
+Pregnancy Complications, Hematologic	PTGER3	1.0	
+Fetal Diseases	PTGER2	1.0	
+Fetal Diseases	PTGER3	1.0	
+Hyperalgesia	PTGER3	1.0	
+Hyperalgesia	PTGER4	1.0	
+Connective Tissue Diseases	PTGER2	1.0	
+Connective Tissue Diseases	PTGER3	1.0	
+Rectal Carcinoma	PTGER2	1.0	
+Rectal Carcinoma	PTGER4	1.0	
+Adenocarcinoma Of Esophagus	PTGER2	1.0	
+Adenocarcinoma Of Esophagus	PTGER4	1.0	
+Ischemic Cerebrovascular Accident	PTGER2	1.0	
+Ischemic Cerebrovascular Accident	PTGER4	1.0	
+Tendinopathy	PTGER4	1.0	
+Ischemic stroke	PTGER2	1.0	
+Ischemic stroke	PTGER4	1.0	
+Dermatosis NOS	PTGER2	1.0	
+Dermatosis NOS	PTGER3	1.0	
+Corneal neovascularization	PTGER2	1.0	
+Chloracne	PTGER4	1.0	
+Herpes Simplex Infections	PTGER2	1.0	
+Herpes Simplex Infections	PTGER4	1.0	
+Renovascular hypertension	PTGER3	1.0	
+Spondylitis, Ankylosing	PTGER4	1.0	
+Erythema nodosum	PTGER4	1.0	
+Inflammatory pain	PTGER4	1.0	
+Aqueous Humor Disorders	PTGER4	1.0	
+Endometriosis	PTGER2	1.0	
+Endometriosis	PTGER4	1.0	
+Stevens-Johnson Syndrome	PTGER3	1.0	
+Drug Allergy	PTGER3	1.0	
+Substance Withdrawal Syndrome	PTGER3	1.0	
+Growth Disorders	PTGER4	1.0	
+Carcinoma, Lewis Lung	PTGER3	1.0	
+Membranous nephropathy, susceptibility to	PTGER3	1.0	
+Cough	PTGER3	1.0	
+Postmenopausal osteoporosis	PTGER4	1.0	
+Endotoxemia	PTGER4	1.0	
+Cystitis	PTGER4	1.0	
+Intraocular pressure disorder	PTGER4	1.0	
+Endometrial adenocarcinoma	PTGER4	1.0	
+Osteoarthritis	PTGER2	1.0	
+Osteoarthritis	PTGER4	1.0	
+Skin Carcinogenesis	PTGER2	1.0	
+Adenomas, multiple colorectal, 608456 (3)	PTGER2	1.0	
+Adenomas, multiple colorectal, 608456 (3)	PTGER4	1.0	
+Ovarian cyst	PTGER4	1.0	
+Peptic ulcer	PTGER3	1.0	
+Infertility associated with multi-tailed spermatozoa and excessive DNA	PTGER2	1.0	
+Hypotension	PTGER4	1.0	
+Lung Neoplasms	PTGER2	1.0	
+Lung Neoplasms	PTGER4	1.0	
+Polycystic kidney disease, autosomal dominant	PTGER2	1.0	
+Colorectal Neoplasms	PTGER2	1.0	
+Colorectal Neoplasms	PTGER4	1.0	
+invasive cancer	PTGER4	1.0	
+Thrombosis	PTGER3	1.0	
+Polycystic Kidney, Autosomal Dominant	PTGER2	1.0	
+Obstructive sleep apnea	PTGER3	1.0	
+Atherosclerosis	PTGER3	1.0	
+Atherosclerosis	PTGER4	1.0	
+Bronchial Hyperreactivity	PTGER4	1.0	
+Keloid	PTGER2	1.0	
+Cyst	PTGER2	1.0	
+Hypersensitivity	PTGER4	1.0	
+Coronary Artery Disease	PTGER2	1.0	
+Coronary Artery Disease	PTGER4	1.0	
+Patent ductus arteriosus	PTGER4	1.0	
+Myocardial Reperfusion Injury	PTGER3	1.0	
+Transient ischemic attack	PTGER4	1.0	
+Restenosis	PTGER2	1.0	
+Aortic aneurysm, familial thoracic 11, susceptibility to	PTGER4	1.0	
+Prostatic Neoplasms	PTGER2	1.0	
+Prostatic Neoplasms	PTGER4	1.0	
+Neuroblastoma	PTGER2	1.0	
+Neuroblastoma	PTGER4	1.0	
+Colon cancer	PTGER3	1.0	
+Colon cancer	PTGER4	1.0	
+Ankylosing spondylitis	PTGER4	1.0	
+Acute kidney injury	PTGER4	1.0	
+polyps	PTGER3	1.0	
+Rheumatoid arthritis	PTGER2	1.0	
+Rheumatoid arthritis	PTGER4	1.0	
+Carcinoma of colon	PTGER3	1.0	
+Carcinoma of colon	PTGER4	1.0	
+Acute Coronary Syndrome	PTGER2	1.0	
+Non-small cell lung carcinoma	PTGER2	1.0	
+Non-small cell lung carcinoma	PTGER4	1.0	
+Hydrops, lactic acidosis, and sideroblastic anemia	PTGER3	1.0	

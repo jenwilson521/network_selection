@@ -1,0 +1,76 @@
+node_name	node_type	
+DB00321	drug	
+SLC6A2	drug_target	
+SLC6A4	drug_target	
+NTRK1	drug_target	
+UGT1A1	drug_target	
+KCNA1	drug_target	
+CYP2D6	drug_target	
+CYP2B6	drug_target	
+ADRA2A	drug_target	
+NTRK2	drug_target	
+ABCB1	drug_target	
+HTR2A	drug_target	
+HTR2C	drug_target	
+HRH1	drug_target	
+ADRA1A	drug_target	
+KCNQ2	drug_target	
+KCNQ3	drug_target	
+HTR6	drug_target	
+HTR7	drug_target	
+OPRM1	drug_target	
+OPRK1	drug_target	
+CYP3A4	drug_target	
+CYP3A5	drug_target	
+ORM1	drug_target	
+CYP2C9	drug_target	
+CYP2C8	drug_target	
+CYP1A2	drug_target	
+ADRA1B	drug_target	
+ADRA1D	drug_target	
+HRH4	drug_target	
+ALB	drug_target	
+SIGMAR1	drug_target	
+CYP2C19	drug_target	
+OPRD1	drug_target	
+HTR1D	drug_target	
+HTR1A	drug_target	
+HTR1B	drug_target	
+Drug Allergy	phenotype	
+Methamphetamine abuse	phenotype	
+Bulimia	phenotype	
+Heroin Dependence	phenotype	
+Acute postoperative pain	phenotype	
+Nausea	phenotype	
+Febrile Neutropenia	phenotype	
+Substance Use Disorders	phenotype	
+Tardive Dyskinesia	phenotype	
+Dyskinesia, Drug-Induced	phenotype	
+Chronic schizophrenia	phenotype	
+Orofacial dyskinesia	phenotype	
+Personality disorder	phenotype	
+Hepatitis D Infection	phenotype	
+Primary malignant neoplasm of liver	phenotype	
+Hyperbilirubinemia	phenotype	
+Low back pain	phenotype	
+Adverse drug events and drug allergies	phenotype	
+Anorexia nervosa 1	phenotype	
+Depressive Symptoms	phenotype	
+Pain insensitivity	phenotype	
+Weight Gain Adverse Event	phenotype	
+Cocaine Dependence	phenotype	
+Substance Withdrawal Syndrome	phenotype	
+Bulimia nervosa 1	phenotype	
+Neurotoxicity Syndromes	phenotype	
+Gastrointestinal Diseases	phenotype	
+Anxiety Disorders	phenotype	
+As If Personality	phenotype	
+Chronic sciatica	phenotype	
+Chronic pain	phenotype	
+Drug usage	phenotype	
+Osteochondritis dissecans	phenotype	
+Chronic Fatigue Syndrome	phenotype	
+Alcohol abuse	phenotype	
+Eating disorder	phenotype	
+Obstructive sleep apnea	phenotype	
+Seasonal Affective Disorder	phenotype	

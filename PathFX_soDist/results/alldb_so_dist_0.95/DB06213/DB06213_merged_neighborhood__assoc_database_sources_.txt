@@ -1,0 +1,13 @@
+Gene	CUI	Source Databases	
+SPECC1L	C0685787	Facial cleft	DisGeNet,HumPhenOnt	
+SPECC1L	C4025881	Abnormality of oral frenula	HumPhenOnt	
+SPECC1L	C0262374	Anal stenosis	HumPhenOnt	
+SPECC1L	C3266076	Orofacial cleft	DisGeNet	
+ADORA2A	C0235989	Renal interstitial fibrosis	DisGeNet	
+SPECC1L	C0266122	Bifid uvula	HumPhenOnt	
+SPECC1L	C0266610	Preauricular pit	HumPhenOnt	
+SPECC1L	C4022171	Periauricular skin pits	HumPhenOnt	
+SPECC1L	C4024894	Abnormality of the septum pellucidum	HumPhenOnt	
+ADORA2A	C0149939	Obstructive nephropathy	DisGeNet	
+ADORA2A-AS1	C0001144	Acne Vulgaris	DisGeNet,PheGenI	
+ADORA2A	C0917801	Insomnia	DisGeNet	

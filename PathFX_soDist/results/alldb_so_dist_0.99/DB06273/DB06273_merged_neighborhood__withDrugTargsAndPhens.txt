@@ -1,0 +1,4 @@
+node1	node2	edge_score	
+DB06273	CYP3A4	1.0	
+DB06273	IL6R	1.0	
+

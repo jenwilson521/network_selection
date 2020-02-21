@@ -1,0 +1,6 @@
+node_name	node_type	
+DB00484	drug	
+AOX1	drug_target	
+ADRA2A	drug_target	
+ADRA2B	drug_target	
+ADRA2C	drug_target	

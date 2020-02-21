@@ -1,0 +1,11 @@
+node_name	node_type	
+DB11300	drug	
+FGG	drug_target	
+F5	drug_target	
+F8	drug_target	
+F13B	drug_target	
+F2R	drug_target	
+F13A1	drug_target	
+F11	drug_target	
+FGA	drug_target	
+FGB	drug_target	

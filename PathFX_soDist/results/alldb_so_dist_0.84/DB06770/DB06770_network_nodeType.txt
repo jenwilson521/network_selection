@@ -1,0 +1,29 @@
+node_name	node_type	
+DB06770	drug	
+CYP2C8	drug_target	
+CYP1A2	drug_target	
+CYP2D6	drug_target	
+CYP1A1	drug_target	
+ALDH2	drug_target	
+CYP2E1	drug_target	
+Pleural Neoplasms	phenotype	
+Neoplasm of the larynx	phenotype	
+Genomic Instability	phenotype	
+Malignant neoplasm of pharynx	phenotype	
+Squamous Cell Neoplasms	phenotype	
+Pharyngeal Neoplasms	phenotype	
+Occupational Diseases	phenotype	
+Pancreatitis, Alcoholic	phenotype	
+Chemical Carcinogenesis	phenotype	
+Neoplasm of the oral cavity	phenotype	
+Bone necrosis	phenotype	
+Liver Cirrhosis, Alcoholic	phenotype	
+Prenatal Exposure Delayed Effects	phenotype	
+Nausea	phenotype	
+Adverse drug events and drug allergies	phenotype	
+Colonic Polyps	phenotype	
+As If Personality	phenotype	
+Peptic ulcer	phenotype	
+Colorectal polyposis	phenotype	
+Drug Eruptions	phenotype	
+Slow acetylator due to N-acetyltransferase enzyme variant	phenotype	

@@ -1,0 +1,23 @@
+node_name	node_type	
+DB00436	drug	
+CA2	drug_target	
+CA1	drug_target	
+TPMT	drug_target	
+KCNMA1	drug_target	
+CA4	drug_target	
+SLC12A3	drug_target	
+Tubulointerstitial nephritis	phenotype	
+Primary hyperaldosteronism	phenotype	
+Essential hypertension	phenotype	
+Familial hypokalemia-hypomagnesemia	phenotype	
+Malignant neoplasm of adrenal cortex	phenotype	
+Esophageal varix	phenotype	
+Treacher Collins syndrome	phenotype	
+Urolithiasis	phenotype	
+Febrile Neutropenia	phenotype	
+Echinococcosis	phenotype	
+Epidermolysis bullosa simplex, Cockayne-Touraine type	phenotype	
+Palmar hyperkeratosis	phenotype	
+Bladder neck obstruction	phenotype	
+Proliferative retinopathy	phenotype	
+Chondrocalcinosis	phenotype	

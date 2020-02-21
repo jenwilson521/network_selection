@@ -1,0 +1,2 @@
+rank	phenotype	cui	assoc in neigh	assoc in intom	probability	Benjamini-Hochberg	genes	
+36	Radioulnar synostosis	C0158761	2	56	4.1594807453915195e-05	5.5469953775e-05	DHODH,POR

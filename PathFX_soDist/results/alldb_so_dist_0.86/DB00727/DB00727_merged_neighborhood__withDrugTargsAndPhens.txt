@@ -1,0 +1,196 @@
+node1	node2	edge_score	
+DB00727	NPR1	1.0	
+DB00727	ALDH2	1.0	
+ALDH2		1.0
+Acute pancreatitis	ALDH2	1.0	
+ Adenocarcinoma, ovarian, somatic, 167000 (3)	ALDH2	1.0	
+Adenomas, multiple colorectal, 608456 (3)	ALDH2	1.0	
+Airway Obstruction	ALDH2	1.0	
+alcohol use disorder	ALDH2	1.0	
+Alcohol dependence	ALDH2	1.0	
+Alzheimer Disease	ALDH2	1.0	
+Macrocytic anemia	ALDH2	1.0	
+Angina pectoris	ALDH2	1.0	
+Antisocial Personality Disorder	ALDH2	1.0	
+Anxiety Disorders	ALDH2	1.0	
+Arteriosclerosis	ALDH2	1.0	
+As If Personality	ALDH2	1.0	
+Asthma	ALDH2	1.0	
+Atherosclerosis	ALDH2	1.0	
+Autism 15	ALDH2	1.0	
+Mental disorders	ALDH2	1.0	
+Bipolar affective disorder	ALDH2	1.0	
+Malignant tumor of urinary bladder	ALDH2	1.0	
+Breast-ovarian cancer, familial 1	ALDH2	1.0	
+Cancer of the lower GI tract	ALDH2	1.0	
+Female Breast Carcinoma	ALDH2	1.0	
+Squamous cell carcinoma	ALDH2	1.0	
+Urothelial Carcinoma	ALDH2	1.0	
+Cardiomyopathy, Dilated	ALDH2	1.0	
+Cardiovascular Diseases	ALDH2	1.0	
+Intracranial Aneurysm	ALDH2	1.0	
+Ischaemic cerebral infarction	ALDH2	1.0	
+Neoplasm of the colon	ALDH2	1.0	
+Colonic Polyps	ALDH2	1.0	
+Colorectal cancer 1	ALDH2	1.0	
+Colorectal Neoplasms	ALDH2	1.0	
+Coronary heart disease 7	ALDH2	1.0	
+Coronary Disease	ALDH2	1.0	
+Cyanosis	ALDH2	1.0	
+Dehydration	ALDH2	1.0	
+Dementia familial British	ALDH2	1.0	
+{Unipolar depression, susceptibility to}, 608516 (3)	ALDH2	1.0	
+Depressive Disorder	ALDH2	1.0	
+Diabetes Mellitus, Type 1	ALDH2	1.0	
+Diabetes mellitus type 1	ALDH2	1.0	
+Diabetes mellitus type 2	ALDH2	1.0	
+Diabetic Nephropathies	ALDH2	1.0	
+Diabetic Retinopathy	ALDH2	1.0	
+DNA Damage	ALDH2	1.0	
+Drug Allergy	ALDH2	1.0	
+Duodenal Ulcer	ALDH2	1.0	
+Ectodermal dysplasia 11b, hypohidrotic/hair/tooth type, autosomal recessive	ALDH2	1.0	
+Epilepsy	ALDH2	1.0	
+Esophageal Neoplasms	ALDH2	1.0	
+Fanconi anemia	ALDH2	1.0	
+Hepatic steatosis	ALDH2	1.0	
+Flushing	ALDH2	1.0	
+Chronic atrophic gastritis	ALDH2	1.0	
+Gastrointestinal Neoplasms	ALDH2	1.0	
+Gingival Diseases	ALDH2	1.0	
+Head and Neck Neoplasms	ALDH2	1.0	
+Heart Defects, Congenital	ALDH2	1.0	
+Heart Diseases	ALDH2	1.0	
+Heart Failure	ALDH2	1.0	
+Congestive heart failure	ALDH2	1.0	
+Heroin Dependence	ALDH2	1.0	
+Hyperglycemia	ALDH2	1.0	
+Hyperinsulinemia	ALDH2	1.0	
+Hypersensitivity	ALDH2	1.0	
+Hypertension	ALDH2	1.0	
+Male infertility	ALDH2	1.0	
+Ischemia	ALDH2	1.0	
+Kidney Failure, Chronic	ALDH2	1.0	
+Neoplasm of the larynx	ALDH2	1.0	
+Liver Cirrhosis, Biliary	ALDH2	1.0	
+Liver Cirrhosis, Alcoholic	ALDH2	1.0	
+Liver Diseases	ALDH2	1.0	
+Alcoholic Liver Diseases	ALDH2	1.0	
+Neoplasm of the liver	ALDH2	1.0	
+Chronic obstructive pulmonary disease	ALDH2	1.0	
+Lung Neoplasms	ALDH2	1.0	
+{Gastric cancer risk after H. pylori infection}, 137215 (3)	ALDH2	1.0	
+Mesothelioma, malignant	ALDH2	1.0	
+Metaplasia	ALDH2	1.0	
+Neoplasm of the oral cavity	ALDH2	1.0	
+Amyotrophy involving the shoulder musculature	ALDH2	1.0	
+Myocardial Infarction	ALDH2	1.0	
+Myocardial Reperfusion Injury	ALDH2	1.0	
+Nausea	ALDH2	1.0	
+Neoplasm Invasiveness	ALDH2	1.0	
+Secondary hypertriglyceridemia	ALDH2	1.0	
+Nicotine Dependence	ALDH2	1.0	
+Obesity	ALDH2	1.0	
+Occupational Diseases	ALDH2	1.0	
+Bone necrosis	ALDH2	1.0	
+Osteoporosis	ALDH2	1.0	
+Pancreatic Neoplasms	ALDH2	1.0	
+Pancreatitis	ALDH2	1.0	
+Pancytopenia	ALDH2	1.0	
+Parkinson Disease	ALDH2	1.0	
+Peptic ulcer	ALDH2	1.0	
+Periodontal Pocket	ALDH2	1.0	
+Periodontitis	ALDH2	1.0	
+Pharyngeal Neoplasms	ALDH2	1.0	
+Pleural Neoplasms	ALDH2	1.0	
+polyps	ALDH2	1.0	
+Precancerous Conditions	ALDH2	1.0	
+Psychotic Disorders	ALDH2	1.0	
+Neoplasm of the rectum	ALDH2	1.0	
+Retinopathy	ALDH2	1.0	
+Retinopathy of Prematurity	ALDH2	1.0	
+Schizophrenia	ALDH2	1.0	
+Abnormality of the skin	ALDH2	1.0	
+Stomach Diseases	ALDH2	1.0	
+Stomach Neoplasms	ALDH2	1.0	
+Stroke	ALDH2	1.0	
+Substance Withdrawal Syndrome	ALDH2	1.0	
+Tetralogy of Fallot	ALDH2	1.0	
+Erythema	ALDH2	1.0	
+Vascular Diseases	ALDH2	1.0	
+Viral hepatitis	ALDH2	1.0	
+Helicobacter Infections	ALDH2	1.0	
+Neoplasms, Second Primary	ALDH2	1.0	
+Essential hypertension	ALDH2	1.0	
+Photophobia	ALDH2	1.0	
+Alcohol abuse	ALDH2	1.0	
+Conduct Disorder	ALDH2	1.0	
+Rectal Carcinoma	ALDH2	1.0	
+Premature Birth	ALDH2	1.0	
+Oral Cavity Carcinoma	ALDH2	1.0	
+Acute myocardial ischemia	ALDH2	1.0	
+Esophageal carcinoma	ALDH2	1.0	
+Congenital heart disease	ALDH2	1.0	
+Polyneuropathy, hearing loss, ataxia, retinitis pigmentosa, and cataract	ALDH2	1.0	
+Cancer of mouth	ALDH2	1.0	
+Malignant neoplasm of pharynx	ALDH2	1.0	
+Acute myocardial infarction	ALDH2	1.0	
+Adenomatous Polyps	ALDH2	1.0	
+Squamous Cell Neoplasms	ALDH2	1.0	
+Antisocial/borderline personality disorder	ALDH2	1.0	
+Malignant neoplasm of female breast	ALDH2	1.0	
+Pancreatic Carcinoma	ALDH2	1.0	
+Hereditary pancreatitis	ALDH2	1.0	
+Hepatic fibrosis	ALDH2	1.0	
+Dyslipidemias	ALDH2	1.0	
+Malignant neoplasm of lung	ALDH2	1.0	
+Ventricular Dysfunction, Right	ALDH2	1.0	
+Glucose intolerance	ALDH2	1.0	
+Cancer of Head and Neck	ALDH2	1.0	
+Esophageal Squamous Cell Carcinoma	ALDH2	1.0	
+Cognitive Dysfunction	ALDH2	1.0	
+Proliferative retinopathy	ALDH2	1.0	
+Chronic liver disease	ALDH2	1.0	
+Complications of Diabetes Mellitus	ALDH2	1.0	
+Hepatic cancer metastatic	ALDH2	1.0	
+Malignant neoplasm of pancreas	ALDH2	1.0	
+Malignant tumor of prostate	ALDH2	1.0	
+Pancreatitis, Alcoholic	ALDH2	1.0	
+Neuropathy ataxia retinitis pigmentosa syndrome	ALDH2	1.0	
+Dementia	ALDH2	1.0	
+Metabolic Syndrome X	ALDH2	1.0	
+Malignant tumor of esophagus	ALDH2	1.0	
+Carotid Atherosclerosis	ALDH2	1.0	
+Carcinogenesis	ALDH2	1.0	
+Breast carcinoma	ALDH2	1.0	
+Lung cancer	ALDH2	1.0	
+Malignant gastrointestinal tract tumors	ALDH2	1.0	
+heavy drinking	ALDH2	1.0	
+Stomach cancer	ALDH2	1.0	
+Hyperuricemia, pulmonary hypertension, renal failure, and alkalosis	ALDH2	1.0	
+Cardiac defects	ALDH2	1.0	
+Mitochondrial diseases	ALDH2	1.0	
+Helicobacter pylori infection	ALDH2	1.0	
+Bipolar I disorder	ALDH2	1.0	
+Drug-Induced Liver Injury	ALDH2	1.0	
+Cardiomyopathy	ALDH2	1.0	
+Cerebral ischemia	ALDH2	1.0	
+Genomic Instability	ALDH2	1.0	
+Acute Coronary Syndrome	ALDH2	1.0	
+Colorectal polyposis	ALDH2	1.0	
+Squamous cell carcinoma of the head and neck	ALDH2	1.0	
+Systemic arterial pressure	ALDH2	1.0	
+Adenoma of large intestine	ALDH2	1.0	
+Primary Carcinoma	ALDH2	1.0	
+Hepatocarcinogenesis	ALDH2	1.0	
+Colorectal cancer	ALDH2	1.0	
+Coronary Artery Disease	ALDH2	1.0	
+Hepatocellular carcinoma	ALDH2	1.0	
+Steatohepatitis	ALDH2	1.0	
+FANCONI ANEMIA, COMPLEMENTATION GROUP A (disorder)	ALDH2	1.0	
+Generalized abnormality of skin	ALDH2	1.0	
+Abnormality of metabolism/homeostasis	ALDH2	1.0	
+Abnormality of skin morphology	ALDH2	1.0	
+Abnormality of the integument	ALDH2	1.0	
+Dermatological manifestations of systemic disorders	ALDH2	1.0	
+Necrotizing Enterocolitis	ALDH2	1.0	

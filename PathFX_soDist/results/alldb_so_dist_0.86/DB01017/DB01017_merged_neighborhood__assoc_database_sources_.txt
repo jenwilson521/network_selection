@@ -1,0 +1,271 @@
+Gene	CUI	Source Databases	
+ALOX5	C0034063	Pulmonary edema	DisGeNet	
+IL1B	C0034063	Pulmonary edema	DisGeNet	
+VEGFA	C0034063	Pulmonary edema	DisGeNet	
+ALOX5	C0751967	Multiple Sclerosis, Relapsing-Remitting	DisGeNet	
+IL1B	C0751967	Multiple Sclerosis, Relapsing-Remitting	DisGeNet	
+VEGFA	C0751967	Multiple Sclerosis, Relapsing-Remitting	DisGeNet	
+IL1B	C0023223	Leg Ulcer	DisGeNet	
+VEGFA	C0023223	Leg Ulcer	DisGeNet	
+IL1B	C0001420	Papillary adenocarcinoma	DisGeNet	
+VEGFA	C0001420	Papillary adenocarcinoma	DisGeNet	
+ALOX5	C0041318	Tuberculosis, Meningeal	DisGeNet	
+VEGFA	C0041318	Tuberculosis, Meningeal	DisGeNet	
+IL1B	C0029883	Otitis Media with Effusion	DisGeNet	
+VEGFA	C0029883	Otitis Media with Effusion	DisGeNet	
+IL1B	C0035328	Thrombosis of retinal vein	DisGeNet	
+VEGFA	C0035328	Thrombosis of retinal vein	DisGeNet	
+ALOX5	C0085655	Polymyositis	DisGeNet	
+IL1B	C0085655	Polymyositis	DisGeNet	
+VEGFA	C0085655	Polymyositis	DisGeNet	
+IL1B	C0002985	Angiokeratoma	DisGeNet	
+VEGFA	C0002985	Angiokeratoma	DisGeNet	
+IL1B	C0334533	Arteriovenous hemangioma	DisGeNet	
+VEGFA	C0334533	Arteriovenous hemangioma	DisGeNet	
+IL1B	C0409952	Generalized osteoarthritis	DisGeNet	
+VEGFA	C0409952	Generalized osteoarthritis	DisGeNet	
+ALOX5	C0020541	Portal hypertension, noncirrhotic	DisGeNet	
+IL1B	C0020541	Portal hypertension, noncirrhotic	DisGeNet	
+VEGFA	C0020541	Portal hypertension, noncirrhotic	DisGeNet	
+ALOX5	C0011633	Dermatomyositis	DisGeNet	
+IL1B	C0011633	Dermatomyositis	DisGeNet	
+VEGFA	C0011633	Dermatomyositis	DisGeNet	
+ALOX5	C0026766	Multiple Organ Failure	DisGeNet	
+IL1B	C0026766	Multiple Organ Failure	DisGeNet	
+IL1B	C0032273	Simple pneumoconiosis	DisGeNet	
+VEGFA	C0032273	Simple pneumoconiosis	DisGeNet	
+ALOX5	C0042109	Urticaria	DisGeNet	
+IL1B	C0042109	Urticaria	DisGeNet	
+VEGFA	C0042109	Urticaria	DisGeNet	
+ALOX5	C0022660	Acute kidney injury	DisGeNet	
+IL1B	C0022660	Acute kidney injury	DisGeNet	
+SLC22A8	C0022660	Acute kidney injury	DisGeNet	
+VEGFA	C0022660	Acute kidney injury	DisGeNet	
+IL1B	C0155094	Corneal pannus	DisGeNet	
+VEGFA	C0155094	Corneal pannus	DisGeNet	
+ALOX5	C0002726	Amyloidosis	DisGeNet	
+IL1B	C0002726	Amyloidosis	DisGeNet	
+VEGFA	C0002726	Amyloidosis	DisGeNet	
+IL1B	C0403416	Idiopathic crescentic glomerulonephritis	DisGeNet	
+VEGFA	C0403416	Idiopathic crescentic glomerulonephritis	DisGeNet	
+IL1B	C0008373	Cholesteatoma	DisGeNet	
+VEGFA	C0008373	Cholesteatoma	DisGeNet	
+IL1B	C0032987	Ectopic Pregnancy	DisGeNet	
+VEGFA	C0032987	Ectopic Pregnancy	DisGeNet	
+ALOX5	C0032227	Pleural effusion	DisGeNet	
+IL1B	C0032227	Pleural effusion	DisGeNet	
+VEGFA	C0032227	Pleural effusion	DisGeNet	
+ALOX5	C0035455	Rhinitis, Allergic, Seasonal	DisGeNet	
+IL1B	C0035455	Rhinitis, Allergic, Seasonal	DisGeNet	
+VEGFA	C0035455	Rhinitis, Allergic, Seasonal	DisGeNet	
+ALOX5	C0039590	Testicular Neoplasms	DisGeNet	
+IL1B	C0039590	Testicular Neoplasms	DisGeNet	
+VEGFA	C0039590	Testicular Neoplasms	DisGeNet	
+IL1B	C0002986	Fabry disease	DisGeNet	
+VEGFA	C0002986	Fabry disease	DisGeNet	
+IL1B	C0040021	Thromboangiitis Obliterans	DisGeNet	
+VEGFA	C0040021	Thromboangiitis Obliterans	DisGeNet	
+ALOX5	C0242706	Hyperoxia	DisGeNet	
+IL1B	C0242706	Hyperoxia	DisGeNet	
+IL1B	C0023186	Learning Disorders	DisGeNet	
+VEGFA	C0023186	Learning Disorders	DisGeNet	
+IL1B	C0600518	Choroidal Neovascularization	DisGeNet	
+VEGFA	C0600518	Choroidal Neovascularization	DisGeNet	
+ALOX5	C0032231	Pleuritis	DisGeNet	
+IL1B	C0032231	Pleuritis	DisGeNet	
+IL1B	C0349459	Cervical intraepithelial neoplasia grade 2	DisGeNet	
+VEGFA	C0349459	Cervical intraepithelial neoplasia grade 2	DisGeNet	
+ALOX5	C0002940	{Aneurysm, familial abdominal 3} (2)	DisGeNet	
+IL1B	C0002940	{Aneurysm, familial abdominal 3} (2)	DisGeNet	
+VEGFA	C0002940	{Aneurysm, familial abdominal 3} (2)	DisGeNet	
+IL1B	C0025261	Memory Disorders	DisGeNet	
+VEGFA	C0025261	Memory Disorders	DisGeNet	
+ALOX5	C0520679	Obstructive sleep apnea	DisGeNet	
+IL1B	C0520679	Obstructive sleep apnea	DisGeNet	
+VEGFA	C0520679	Obstructive sleep apnea	DisGeNet	
+IL1B	C0005426	Biliary tract neoplasm	DisGeNet	
+VEGFA	C0005426	Biliary tract neoplasm	DisGeNet	
+IL1B	C0027659	Neoplasms, Experimental	DisGeNet	
+VEGFA	C0027659	Neoplasms, Experimental	DisGeNet	
+IL1B	C0034152	Henoch-Schoenlein Purpura	DisGeNet	
+VEGFA	C0034152	Henoch-Schoenlein Purpura	DisGeNet	
+IL1B	C0036983	 {Septic shock, susceptibility to} (3)	DisGeNet	
+VEGFA	C0036983	 {Septic shock, susceptibility to} (3)	DisGeNet	
+IL1B	C0036205	Sarcoidosis, Pulmonary	DisGeNet	
+VEGFA	C0036205	Sarcoidosis, Pulmonary	DisGeNet	
+ALOX5	C3542024	Aortic valve disease 2	DisGeNet	
+VEGFA	C3542024	Aortic valve disease 2	DisGeNet	
+ALOX5	C0751356	Idiopathic Inflammatory Myopathies	DisGeNet	
+IL1B	C0751356	Idiopathic Inflammatory Myopathies	DisGeNet	
+ALOX5	C0035078	Renal Insufficiency, Chronic	DisGeNet	
+IL1B	C0035078	Renal Insufficiency, Chronic	DisGeNet	
+SLC22A11	C0035078	Renal Insufficiency, Chronic	DisGeNet	
+VEGFA	C0035078	Renal Insufficiency, Chronic	DisGeNet,PheGenI	
+IL1B	C0752308	Hypoxia-Ischemia, Brain	DisGeNet	
+VEGFA	C0752308	Hypoxia-Ischemia, Brain	DisGeNet	
+IL1B	C2945695	Limb ischemia	DisGeNet	
+VEGFA	C2945695	Limb ischemia	DisGeNet	
+ALOX5	C0162871	Aortic Aneurysm, Abdominal	DisGeNet	
+IL1B	C0162871	Aortic Aneurysm, Abdominal	DisGeNet	
+VEGFA	C0162871	Aortic Aneurysm, Abdominal	DisGeNet	
+IL1B	C0035344	Retinopathy of Prematurity	DisGeNet	
+VEGFA	C0035344	Retinopathy of Prematurity	DisGeNet	
+ALOX5	C0027055	Myocardial Reperfusion Injury	DisGeNet	
+IL1B	C0027055	Myocardial Reperfusion Injury	DisGeNet	
+VEGFA	C0027055	Myocardial Reperfusion Injury	DisGeNet	
+IL1B	C0035369	Retroviridae Infections	DisGeNet	
+VEGFA	C0035369	Retroviridae Infections	DisGeNet	
+IL1B	C0042749	 {HIV-1 viremia, susceptibility to}, 609423 (3)	DisGeNet	
+VEGFA	C0042749	 {HIV-1 viremia, susceptibility to}, 609423 (3)	DisGeNet	
+IL1B	C0242488	Acute Lung Injury	DisGeNet	
+VEGFA	C0242488	Acute Lung Injury	DisGeNet	
+IL1B	C0030805	{Pemphigoid, susceptibility to} (2)	DisGeNet	
+VEGFA	C0030805	{Pemphigoid, susceptibility to} (2)	DisGeNet	
+IL1B	C0041948	Uremia	DisGeNet	
+VEGFA	C0041948	Uremia	DisGeNet	
+ALOX5	C0206677	Adenomatous Polyps	DisGeNet	
+VEGFA	C0206677	Adenomatous Polyps	DisGeNet	
+IL1B	C0019100	Severe Dengue	DisGeNet	
+VEGFA	C0019100	Severe Dengue	DisGeNet	
+IL1B	C0027686	Pathologic Neovascularization	DisGeNet	
+VEGFA	C0027686	Pathologic Neovascularization	DisGeNet	
+ALOX5	C0008677	Bronchitis, Chronic	DisGeNet	
+VEGFA	C0008677	Bronchitis, Chronic	DisGeNet	
+IL1B	C0269102	Endometrioma	DisGeNet	
+VEGFA	C0269102	Endometrioma	DisGeNet	
+IL1B	C0342257	Complications of Diabetes Mellitus	DisGeNet	
+VEGFA	C0342257	Complications of Diabetes Mellitus	DisGeNet	
+IL1B	C0042138	Uterine neoplasm	DisGeNet	
+VEGFA	C0042138	Uterine neoplasm	DisGeNet	
+IL1B	C0751955	Brain Infarction	DisGeNet	
+VEGFA	C0751955	Brain Infarction	DisGeNet	
+IL1B	C0035220	Neonatal respiratory distress	DisGeNet	
+VEGFA	C0035220	Neonatal respiratory distress	DisGeNet	
+IL1B	C1285162	Degenerative disease of the spinal cord	DisGeNet	
+VEGFA	C1285162	Degenerative disease of the spinal cord	DisGeNet	
+IL1B	C0000809	Recurrent abortion	DisGeNet	
+VEGFA	C0000809	Recurrent abortion	DisGeNet	
+IL1B	C0006114	Cerebral edema	DisGeNet	
+VEGFA	C0006114	Cerebral edema	DisGeNet	
+IL1B	C0013295	Duodenal Ulcer	DisGeNet	
+VEGFA	C0013295	Duodenal Ulcer	DisGeNet	
+IL1B	C0025568	Metaplasia	DisGeNet	
+VEGFA	C0025568	Metaplasia	DisGeNet	
+IL1B	C1318544	M5b Acute differentiated monocytic leukemia	DisGeNet	
+VEGFA	C1318544	M5b Acute differentiated monocytic leukemia	DisGeNet	
+IL1B	C0156543	Pregnancy loss	DisGeNet	
+VEGFA	C0156543	Pregnancy loss	DisGeNet	
+IL1B	C0242231	Coronary artery stenosis	DisGeNet	
+VEGFA	C0242231	Coronary artery stenosis	DisGeNet	
+ALOX5	C0005699	Blast Phase	DisGeNet	
+IL1B	C0005699	Blast Phase	DisGeNet	
+VEGFA	C0005699	Blast Phase	DisGeNet	
+IL1B	C0879615	Stromal Neoplasm	DisGeNet	
+VEGFA	C0879615	Stromal Neoplasm	DisGeNet	
+IL1B	C0011269	Dementia, Vascular	DisGeNet	
+VEGFA	C0011269	Dementia, Vascular	DisGeNet	
+ALOX5	C0221056	Adult type dermatomyositis	DisGeNet	
+IL1B	C0221056	Adult type dermatomyositis	DisGeNet	
+IL1B	C0243038	Carcinoma, Lewis Lung	DisGeNet	
+VEGFA	C0243038	Carcinoma, Lewis Lung	DisGeNet	
+ALOX5	C0740392	Infarction, Middle Cerebral Artery	DisGeNet	
+IL1B	C0740392	Infarction, Middle Cerebral Artery	DisGeNet	
+IL1B	C0017665	Membranous nephropathy, susceptibility to	DisGeNet	
+VEGFA	C0017665	Membranous nephropathy, susceptibility to	DisGeNet	
+IL1B	C0027439	Nasopharyngeal Neoplasms	DisGeNet	
+VEGFA	C0027439	Nasopharyngeal Neoplasms	DisGeNet	
+ALOX5	C0003486	Aortic aneurysm, familial thoracic 11, susceptibility to	DisGeNet	
+IL1B	C0003486	Aortic aneurysm, familial thoracic 11, susceptibility to	DisGeNet	
+VEGFA	C0003486	Aortic aneurysm, familial thoracic 11, susceptibility to	DisGeNet	
+IL1B	C0033999	Pterygium	DisGeNet	
+VEGFA	C0033999	Pterygium	DisGeNet	
+IL1B	C0031069	Familial Mediterranean fever	DisGeNet	
+VEGFA	C0031069	Familial Mediterranean fever	DisGeNet	
+ALOX5	C2316810	Stage 5 chronic kidney disease	DisGeNet	
+IL1B	C2316810	Stage 5 chronic kidney disease	DisGeNet	
+VEGFA	C2316810	Stage 5 chronic kidney disease	DisGeNet	
+IL1B	C1519689	Tumor Promotion	DisGeNet	
+VEGFA	C1519689	Tumor Promotion	DisGeNet	
+IL1B	C4082937	Necrotizing Enterocolitis	DisGeNet	
+VEGFA	C4082937	Necrotizing Enterocolitis	DisGeNet	
+IL1B	C0027859	Vestibular Schwannoma	DisGeNet	
+VEGFA	C0027859	Vestibular Schwannoma	DisGeNet	
+IL1B	C0011616	Contact Dermatitis	DisGeNet	
+VEGFA	C0011616	Contact Dermatitis	DisGeNet	
+IL1B	C0011882	Type 1 diabetic neuropathy	DisGeNet	
+VEGFA	C0011882	Type 1 diabetic neuropathy	DisGeNet	
+ALOX5	C0031106	Periodontitis, Juvenile	DisGeNet	
+IL1B	C0031106	Periodontitis, Juvenile	DisGeNet	
+IL1B	C0042029	Urinary tract infection	DisGeNet	
+VEGFA	C0042029	Urinary tract infection	DisGeNet	
+IL1B	C0867389	Chronic graft-versus-host disease	DisGeNet	
+VEGFA	C0867389	Chronic graft-versus-host disease	DisGeNet	
+ALOX5	C2937358	Cerebral Hemorrhage	DisGeNet	
+IL1B	C2937358	Cerebral Hemorrhage	DisGeNet	
+VEGFA	C2937358	Cerebral Hemorrhage	DisGeNet	
+IL1B	C0003857	Arteriovenous malformation	DisGeNet	
+VEGFA	C0003857	Arteriovenous malformation	DisGeNet	
+IL1B	C0699949	airway disease	DisGeNet	
+VEGFA	C0699949	airway disease	DisGeNet	
+IL1B	C0024534	Malaria, Cerebral	DisGeNet	
+VEGFA	C0024534	Malaria, Cerebral	DisGeNet	
+IL1B	C0029458	Postmenopausal osteoporosis	DisGeNet	
+VEGFA	C0029458	Postmenopausal osteoporosis	DisGeNet	
+ALOX5	C0376618	Endotoxemia	DisGeNet	
+IL1B	C0376618	Endotoxemia	DisGeNet	
+IL1B	C0022568	Keratitis	DisGeNet	
+VEGFA	C0022568	Keratitis	DisGeNet	
+ALOX5	C1302401	Adenoma of large intestine	DisGeNet	
+IL1B	C1302401	Adenoma of large intestine	DisGeNet	
+VEGFA	C1302401	Adenoma of large intestine	DisGeNet	
+IL1B	C0038644	SUDDEN INFANT DEATH SYNDROME	DisGeNet	
+VEGFA	C0038644	SUDDEN INFANT DEATH SYNDROME	DisGeNet	
+IL1B	C0010692	Cystitis	DisGeNet	
+VEGFA	C0010692	Cystitis	DisGeNet	
+ALOX5	C0027726	Nephrotic syndrome, type 5, with or without ocular abnormalities	DisGeNet	
+IL1B	C0027726	Nephrotic syndrome, type 5, with or without ocular abnormalities	DisGeNet	
+VEGFA	C0027726	Nephrotic syndrome, type 5, with or without ocular abnormalities	DisGeNet	
+ALOX5	C0017658	Glomerulonephritis, Membranous	DisGeNet	
+IL1B	C0017658	Glomerulonephritis, Membranous	DisGeNet	
+VEGFA	C0017658	Glomerulonephritis, Membranous	DisGeNet	
+ALOX5	C0264408	Childhood asthma	DisGeNet	
+VEGFA	C0264408	Childhood asthma	DisGeNet	
+IL1B	C0740391	Middle Cerebral Artery Occlusion	DisGeNet	
+VEGFA	C0740391	Middle Cerebral Artery Occlusion	DisGeNet	
+IL1B	C0035435	Rheumatic disease of heart valve	DisGeNet	
+VEGFA	C0035435	Rheumatic disease of heart valve	DisGeNet	
+IL1B	C0079487	Helicobacter Infections	DisGeNet	
+VEGFA	C0079487	Helicobacter Infections	DisGeNet	
+ALOX5	C1290884	Inflammatory disorder	DisGeNet	
+IL1B	C1290884	Inflammatory disorder	DisGeNet	
+VEGFA	C1290884	Inflammatory disorder	DisGeNet	
+IL1B	C0039103	Synovitis	DisGeNet	
+VEGFA	C0039103	Synovitis	DisGeNet	
+IL1B	C0162820	Dermatitis, Allergic Contact	DisGeNet	
+VEGFA	C0162820	Dermatitis, Allergic Contact	DisGeNet	
+ALOX5	C0577631	Carotid Atherosclerosis	DisGeNet	
+VEGFA	C0577631	Carotid Atherosclerosis	DisGeNet	
+ALOX5	C0149978	Rectal Carcinoma	DisGeNet	
+IL1B	C0149978	Rectal Carcinoma	DisGeNet	
+VEGFA	C0149978	Rectal Carcinoma	DisGeNet	
+ALOX5	C0037199	Sinusitis	DisGeNet	
+IL1B	C0037199	Sinusitis	DisGeNet	
+IL1B	C0747845	early pregnancy	DisGeNet	
+VEGFA	C0747845	early pregnancy	DisGeNet	
+IL1B	C0007766	Intracranial Aneurysm	DisGeNet	
+VEGFA	C0007766	Intracranial Aneurysm	DisGeNet	
+IL1B	C0017154	Chronic atrophic gastritis	DisGeNet	
+VEGFA	C0017154	Chronic atrophic gastritis	DisGeNet	
+IL1B	C0018099	Gout	DisGeNet	
+SLC22A11	C0018099	Gout	DisGeNet,PheGenI	
+IL1B	C0038358	Gastric ulcer	DisGeNet	
+VEGFA	C0038358	Gastric ulcer	DisGeNet	
+IL1B	C0162872	Aortic Aneurysm, Thoracic	DisGeNet	
+VEGFA	C0162872	Aortic Aneurysm, Thoracic	DisGeNet	
+ALOX5	C0020523	Immediate hypersensitivity	DisGeNet	
+IL1B	C0020523	Immediate hypersensitivity	DisGeNet	
+ALOX5	C0020473	Hyperlipidemia, combined, 1	DisGeNet	
+IL1B	C0020473	Hyperlipidemia, combined, 1	DisGeNet	
+VEGFA	C0020473	Hyperlipidemia, combined, 1	DisGeNet	
+IL1B	C0409959	Knee osteoarthritis	DisGeNet	
+VEGFA	C0409959	Knee osteoarthritis	DisGeNet	

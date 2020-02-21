@@ -1,0 +1,15 @@
+node_name	node_type	
+DB00668	drug	
+CYP2C9	drug_target	
+ADRA1A	drug_target	
+ADRA1B	drug_target	
+ADRA1D	drug_target	
+COMT	drug_target	
+ADRA2B	drug_target	
+ADRA2A	drug_target	
+ADRB1	drug_target	
+ADRB2	drug_target	
+TNF	drug_target	
+SLC22A1	drug_target	
+SLC22A2	drug_target	
+CYP3A4	drug_target	

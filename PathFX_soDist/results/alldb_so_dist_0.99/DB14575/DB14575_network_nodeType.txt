@@ -1,0 +1,6 @@
+node_name	node_type	
+DB14575	drug	
+CYP3A4	drug_target	
+CYP2C19	drug_target	
+UGT1A1	drug_target	
+P2RX4	drug_target	

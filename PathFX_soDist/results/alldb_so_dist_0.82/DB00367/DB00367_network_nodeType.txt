@@ -1,0 +1,60 @@
+node_name	node_type	
+DB00367	drug	
+ESR1	drug_target	
+CYP19A1	drug_target	
+SHBG	drug_target	
+AR	drug_target	
+PGR	drug_target	
+CYP3A4	drug_target	
+Malignant neoplasm of male breast	phenotype	
+Malignant neoplasm of female breast	phenotype	
+Depressive Symptoms	phenotype	
+Female Breast Carcinoma	phenotype	
+Carcinoma of Male Breast	phenotype	
+Breast Fibrocystic Disease	phenotype	
+Disorder of endocrine system	phenotype	
+Mammographic breast density	phenotype	
+Female infertility	phenotype	
+Uterine neoplasm	phenotype	
+Recurrent abortion	phenotype	
+Pregnancy loss	phenotype	
+Bladder neck obstruction	phenotype	
+Aortic regurgitation	phenotype	
+Alcohol withdrawal syndrome	phenotype	
+Postmenopausal osteoporosis	phenotype	
+Ovarian Failure, Premature	phenotype	
+Alopecia of scalp	phenotype	
+Oestrogen deficiency	phenotype	
+Testicular Germ Cell Tumor	phenotype	
+Gynecomastia	phenotype	
+Invasive Lobular Breast Carcinoma	phenotype	
+Delayed menarche	phenotype	
+Stromal sarcoma	phenotype	
+21-hydroxylase deficiency	phenotype	
+Abnormal circulating gonadotropin level	phenotype	
+Acanthosis nigricans	phenotype	
+Premature ovarian failure	phenotype	
+Pathologic fracture	phenotype	
+Bone necrosis	phenotype	
+Adolescent idiopathic scoliosis	phenotype	
+Infertility associated with multi-tailed spermatozoa and excessive DNA	phenotype	
+Weight Loss Adverse Event	phenotype	
+Abnormal epiphyseal ossification	phenotype	
+Spermatogenic failure 3	phenotype	
+Virilism	phenotype	
+Aplasia/hypoplasia of the uterus	phenotype	
+Endometrial Neoplasms	phenotype	
+Phyllodes tumor, benign	phenotype	
+Lehman syndrome	phenotype	
+Endometrial Hyperplasia	phenotype	
+Nerve Sheath Tumors	phenotype	
+Penile hypospadias	phenotype	
+Amenorrhea	phenotype	
+Biliary tract neoplasm	phenotype	
+Female pseudohermaphroditism	phenotype	
+Desmoid tumor	phenotype	
+Carcinoma, Lobular	phenotype	
+Menopause present (finding)	phenotype	
+Abnormality of the menstrual cycle	phenotype	
+Adrenal hyperplasia	phenotype	
+Microsatellite Instability	phenotype	

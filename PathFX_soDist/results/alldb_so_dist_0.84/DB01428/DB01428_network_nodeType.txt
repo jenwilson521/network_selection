@@ -1,0 +1,341 @@
+node_name	node_type	
+DB01428	drug	
+PGR	drug_target	
+AR	drug_target	
+ESR2	drug_target	
+ESR1	drug_target	
+Adolescent idiopathic scoliosis	phenotype	
+Phyllodes tumor, benign	phenotype	
+Penile hypospadias	phenotype	
+Biliary tract neoplasm	phenotype	
+Microsatellite Instability	phenotype	
+Breast Fibrocystic Disease	phenotype	
+Fibroadenoma of the breast	phenotype	
+Disorder of endocrine system	phenotype	
+Mammographic breast density	phenotype	
+Female infertility	phenotype	
+Recurrent abortion	phenotype	
+Cholecystolithiasis	phenotype	
+Postmenopausal osteoporosis	phenotype	
+Testicular malignant germ cell tumor	phenotype	
+Endometrial adenocarcinoma	phenotype	
+Testicular Germ Cell Tumor	phenotype	
+Peritonitis	phenotype	
+Breast adenocarcinoma	phenotype	
+Prostatic Intraepithelial Neoplasias	phenotype	
+Osteoarthritis of distal interphalangeal joint	phenotype	
+Invasive Lobular Breast Carcinoma	phenotype	
+Sporadic Breast Carcinoma	phenotype	
+Osteoarthritis of the hand	phenotype	
+Bulimia nervosa 1	phenotype	
+Oligospermia	phenotype	
+androgen independent prostate cancer	phenotype	
+Abnormal circulating gonadotropin level	phenotype	
+Adenocarcinoma of prostate	phenotype	
+Disseminated Malignant Neoplasm	phenotype	
+Cellulitis	phenotype	
+Malignant neoplasm of male breast	phenotype	
+Cholelithiasis	phenotype	
+Varicose Ulcer	phenotype	
+Bile duct cancer resectable	phenotype	
+Aplasia/hypoplasia of the uterus	phenotype	
+Cyst	phenotype	
+Malignant neoplasm of female breast	phenotype	
+Lehman syndrome	phenotype	
+Female Breast Carcinoma	phenotype	
+Endometrial Hyperplasia	phenotype	
+Nerve Sheath Tumors	phenotype	
+Ovarian Failure, Premature	phenotype	
+Carcinoma of Male Breast	phenotype	
+Desmoid tumor	phenotype	
+Carcinoma, Lobular	phenotype	
+Overweight	phenotype	
+Menopause present (finding)	phenotype	
+Cognition Disorders	phenotype	
+Testicular seminoma	phenotype	
+Ductal Carcinoma	phenotype	
+Hyperpituitarism	phenotype	
+Anaplasia	phenotype	
+Invasive Ductal Breast Carcinoma	phenotype	
+Osteochondritis dissecans	phenotype	
+NEUROTICISM	phenotype	
+Ovarian Diseases	phenotype	
+Dermal atrophy	phenotype	
+Shock, Septic	phenotype	
+Germ cell neoplasia	phenotype	
+Endometrioma	phenotype	
+Acne	phenotype	
+Malignant Childhood Neoplasm	phenotype	
+Uterine neoplasm	phenotype	
+Migraine with aura	phenotype	
+Azoospermia	phenotype	
+Granulomatous disease, chronic, autosomal recessive, cytochrome b-negative	phenotype	
+Degenerative disease of the spinal cord	phenotype	
+Malignant mesothelioma	phenotype	
+Metaplasia	phenotype	
+Endometrial Neoplasms	phenotype	
+Pregnancy loss	phenotype	
+Increased analgesia from kappa-opioid receptor agonist, female-specific	phenotype	
+Coronary artery stenosis	phenotype	
+Hormone refractory prostate cancer	phenotype	
+Stromal Neoplasm	phenotype	
+Left ventricular hypertrophy	phenotype	
+Chordoma	phenotype	
+Dementia, Vascular	phenotype	
+granulosa cell tumor	phenotype	
+Hypospadias	phenotype	
+Obsessive-compulsive disorder	phenotype	
+Rectal Carcinoma	phenotype	
+Tumor Promotion	phenotype	
+Adrenocortical adenoma	phenotype	
+Noninfiltrating Intraductal Carcinoma	phenotype	
+Aortic regurgitation	phenotype	
+body mass	phenotype	
+Male infertility	phenotype	
+Sleep Wake Disorders	phenotype	
+Biliary Tract Cancer	phenotype	
+Hepatopulmonary Syndrome	phenotype	
+Leiomyoma	phenotype	
+Cancer Cell Growth	phenotype	
+Gynecomastia	phenotype	
+High grade serous carcinoma	phenotype	
+Uterine leiomyoma	phenotype	
+Migraine Disorders	phenotype	
+Anorexia nervosa 1	phenotype	
+Ischemic Cerebrovascular Accident	phenotype	
+Delayed menarche	phenotype	
+Carcinoma breast stage IV	phenotype	
+Glaucoma, Open-Angle	phenotype	
+Mammary Ductal Carcinoma	phenotype	
+Knee osteoarthritis	phenotype	
+Invasive breast carcinoma	phenotype	
+Depressive Symptoms	phenotype	
+Preeclampsia/eclampsia 1	phenotype	
+Premature ovarian failure	phenotype	
+Carcinoma, Endometrioid	phenotype	
+Anxiety Disorders	phenotype	
+Mesothelioma, malignant	phenotype	
+Infertility associated with multi-tailed spermatozoa and excessive DNA	phenotype	
+Hypertrophic cardiomyopathy	phenotype	
+Giant cell arteritis	phenotype	
+Urothelial Carcinoma	phenotype	
+Ischemic stroke	phenotype	
+Cancer of the lower GI tract	phenotype	
+Mild cognitive impairment	phenotype	
+Brain Ischemia	phenotype	
+Venous thrombosis	phenotype	
+Hyperplasia	phenotype	
+Benign Prostatic Hyperplasia	phenotype	
+Amenorrhea	phenotype	
+Peripheral Arterial Disease	phenotype	
+Malignant peripheral nerve sheath tumor with rhabdomyoblastic differentiation	phenotype	
+Invasive Carcinoma	phenotype	
+Abnormal uterus morphology	phenotype	
+Papillary thyroid carcinoma	phenotype	
+Adrenocortical carcinoma	phenotype	
+Progressive Neoplastic Disease	phenotype	
+Progressive cGVHD	phenotype	
+Bulbar palsy	phenotype	
+Scrub Typhus	phenotype	
+Disorders of Sex Development	phenotype	
+Chromosome 11p deletion syndrome	phenotype	
+Non-Neoplastic Disorder	phenotype	
+Triple Negative Breast Neoplasms	phenotype	
+Lipoatrophy	phenotype	
+Abnormality of the menstrual cycle	phenotype	
+Urinary Bladder Neoplasms	phenotype	
+Lymphoid hyperplasia	phenotype	
+Malignant neoplasm of adrenal cortex	phenotype	
+Neonatal Systemic lupus erythematosus	phenotype	
+Estrogen resistance	phenotype	
+Abnormality of the calf musculature	phenotype	
+Malignant neoplasm of gallbladder	phenotype	
+Hematopoietic Neoplasms	phenotype	
+Retinoblastoma	phenotype	
+Bulimia	phenotype	
+Cervical dysplasia	phenotype	
+Seborrheic keratosis	phenotype	
+Calcium oxalate urolithiasis	phenotype	
+Abnormality of male internal genitalia	phenotype	
+Polycystic Ovary Syndrome	phenotype	
+Substance-Related Disorders	phenotype	
+Lung Injury	phenotype	
+Breast cancer recurrent	phenotype	
+Thyroid Neoplasms	phenotype	
+Major depressive disorder	phenotype	
+Atrial Fibrillation	phenotype	
+Thymoma	phenotype	
+Thyroid cancer, follicular	phenotype	
+Bladder neck obstruction	phenotype	
+Cholesterol gallstones	phenotype	
+Menstrual irregularities	phenotype	
+Abnormality of the anterior pituitary	phenotype	
+Chronic Periodontitis	phenotype	
+Absent hair	phenotype	
+Large cell neuroendocrine carcinoma	phenotype	
+Malignant neoplasm of endometrium	phenotype	
+Uterine Corpus Cancer	phenotype	
+Herpes zoster disease	phenotype	
+Alcohol withdrawal syndrome	phenotype	
+Fibrous Dysplasia	phenotype	
+Dentatorubral pallidoluysian atrophy	phenotype	
+Aortic Aneurysm, Abdominal	phenotype	
+Juvenile rheumatoid arthritis	phenotype	
+Angiokeratoma	phenotype	
+Metabolic Bone Disorder	phenotype	
+Hypoplasia of the uterus	phenotype	
+Alopecia of scalp	phenotype	
+Subfertility	phenotype	
+Pleomorphic adenoma of salivary gland	phenotype	
+Dilated cardiomyopathy 1A	phenotype	
+Gallbladder Carcinoma	phenotype	
+Fetal Membranes, Premature Rupture	phenotype	
+Carpal tunnel syndrome	phenotype	
+Porencephaly	phenotype	
+Stage IV Ovarian Carcinoma	phenotype	
+Generalized osteoarthritis	phenotype	
+Motor symptoms	phenotype	
+Prostatitis	phenotype	
+Atrophy, Muscular, Spinobulbar	phenotype	
+Oestrogen deficiency	phenotype	
+Prostate Cancer, Hereditary, 7	phenotype	
+Sparse axillary hair	phenotype	
+Chorioamnionitis	phenotype	
+Cervix Diseases	phenotype	
+Comedone	phenotype	
+Prostate cancer recurrent	phenotype	
+Triploidy syndrome	phenotype	
+Medullary thyroid carcinoma	phenotype	
+Depressive Disorder	phenotype	
+Medulloblastoma	phenotype	
+Endometriosis of ovary	phenotype	
+X-linked severe combined immunodeficiency	phenotype	
+Premature Obstetric Labor	phenotype	
+Transient ischemic attack	phenotype	
+Xenograft Model	phenotype	
+Buphthalmos	phenotype	
+Polymyalgia Rheumatica	phenotype	
+Metastatic Carcinoma	phenotype	
+Sparse pubic hair	phenotype	
+Abnormality of the axillary hair	phenotype	
+Abnormality of the pubic hair	phenotype	
+Mammary Neoplasms, Experimental	phenotype	
+{Unipolar depression, susceptibility to}, 608516 (3)	phenotype	
+Non-Hodgkin lymphoma	phenotype	
+Myasthenia Gravis	phenotype	
+Maternal diabetes	phenotype	
+Alveolar Bone Loss	phenotype	
+Condylomata Acuminata	phenotype	
+Sudden death	phenotype	
+Mammary adenocarcinoma	phenotype	
+Male hypogonadism	phenotype	
+Gonadoblastoma	phenotype	
+Pregnancy associated hypertension	phenotype	
+Coronary Thrombosis	phenotype	
+Breast hypoplasia	phenotype	
+Cholestasis of pregnancy	phenotype	
+Prostate cancer stage C	phenotype	
+Common acute lymphoblastic leukemia	phenotype	
+Gastro-esophageal reflux disease with esophagitis	phenotype	
+Cerebral aneurysm	phenotype	
+Erectile abnormalities	phenotype	
+Prostatic Diseases	phenotype	
+Stromal sarcoma	phenotype	
+21-hydroxylase deficiency	phenotype	
+Bulbo-Spinal Atrophy, X-Linked	phenotype	
+Cardiac arrest	phenotype	
+Metastatic Prostate Carcinoma	phenotype	
+Acne Vulgaris	phenotype	
+Dyslipidemias	phenotype	
+Acanthosis nigricans	phenotype	
+Angiofibromas	phenotype	
+Erythroblastosis	phenotype	
+Primary malignant neoplasm of brain	phenotype	
+Absence of secondary sex characteristics	phenotype	
+Anaphylactic shock NOS	phenotype	
+Chronic interstitial cystitis	phenotype	
+Pathologic fracture	phenotype	
+Tubulointerstitial nephritis	phenotype	
+Congenital scoliosis	phenotype	
+Monocytic leukemia	phenotype	
+Substance abuse problem	phenotype	
+Single tumor	phenotype	
+Abnormal breast morphology	phenotype	
+Adenocarcinoma of colon	phenotype	
+Venous Thromboembolism	phenotype	
+Yolk Sac Tumor	phenotype	
+Reticulosarcoma	phenotype	
+Bone necrosis	phenotype	
+Varicocele	phenotype	
+Ganglioglioma	phenotype	
+Mammary Carcinoma, Human	phenotype	
+Abnormality of the breast	phenotype	
+Cryptorchidism	phenotype	
+Dry Eye Syndromes	phenotype	
+Weight Loss Adverse Event	phenotype	
+Abnormal epiphyseal ossification	phenotype	
+Kidney Calculi	phenotype	
+Li-Fraumeni syndrome	phenotype	
+Congenital absence of germinal epithelium of testes	phenotype	
+Spermatogenic failure 3	phenotype	
+Metabolic Syndrome X	phenotype	
+Osteoporosis	phenotype	
+Malignant tumor of testis	phenotype	
+Virilism	phenotype	
+Male pseudohermaphroditism	phenotype	
+Poorly differentiated carcinoma	phenotype	
+Abnormality of secondary sexual hair	phenotype	
+Abnormality of the hypothalamus-pituitary axis	phenotype	
+Neoplasm of the gallbladder	phenotype	
+Pleuritis	phenotype	
+Coronary Restenosis	phenotype	
+Papillomavirus Infections	phenotype	
+Lymphocytic infiltration	phenotype	
+Prostate cancer, familial	phenotype	
+Clitoral hypertrophy	phenotype	
+Spontaneous abortion	phenotype	
+Abnormality of circulating hormone level	phenotype	
+Hereditary breast and ovarian cancer syndrome	phenotype	
+Peptic Esophagitis	phenotype	
+Prenatal Exposure Delayed Effects	phenotype	
+Polyradiculoneuropathy, Chronic Inflammatory Demyelinating	phenotype	
+Astrocytoma	phenotype	
+EMG: myopathic abnormalities	phenotype	
+Ankylosing spondylitis	phenotype	
+Neurofibromas	phenotype	
+Elevated alkaline phosphatase	phenotype	
+Primary hyperparathyroidism	phenotype	
+Aplasia/Hypoplasia of the breasts	phenotype	
+Bone Diseases, Developmental	phenotype	
+Low Tension Glaucoma	phenotype	
+Progressive myoclonus epilepsy	phenotype	
+Refractory anemia	phenotype	
+Neoplasm Recurrence, Local	phenotype	
+Endometriosis of uterus	phenotype	
+Toxic Shock Syndrome	phenotype	
+Abnormality of alkaline phosphatase activity	phenotype	
+Medullary carcinoma	phenotype	
+Female pseudohermaphroditism	phenotype	
+Malignant Fibrous Histiocytoma	phenotype	
+Spinocerebellar ataxia 1	phenotype	
+Chronic neutrophilia	phenotype	
+Pituitary adenoma	phenotype	
+Gastric Adenocarcinoma	phenotype	
+EPIDERMODYSPLASIA VERRUCIFORMIS	phenotype	
+Lymphocytic Choriomeningitis	phenotype	
+Lymphangiomyomatosis	phenotype	
+Neoplasm of the parathyroid gland	phenotype	
+cancer recurrence	phenotype	
+Adenocarcinoma, Endometrioid	phenotype	
+Hepatitis C	phenotype	
+Hyperlipidemia, combined, 1	phenotype	
+Intrahepatic cholestasis	phenotype	
+2,4-Dienoyl-CoA reductase deficiency	phenotype	
+Aortic valve disease 2	phenotype	
+Endometrial carcinoma	phenotype	
+Endometriosis	phenotype	
+Hormone receptor positive tumor	phenotype	
+As If Personality	phenotype	
+Other specified disorders of breast	phenotype	
+Osteoarthritis of hip	phenotype	
+Obsessive-compulsive behavior	phenotype	

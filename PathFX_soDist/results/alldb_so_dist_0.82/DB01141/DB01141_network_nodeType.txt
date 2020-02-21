@@ -1,0 +1,81 @@
+node_name	node_type	
+DB01141	drug	
+ARSA	drug_target	
+COMT	drug_target	
+Mammographic breast density	phenotype	
+Depressive Symptoms	phenotype	
+Hyperthyroidism	phenotype	
+VITILIGO-ASSOCIATED MULTIPLE AUTOIMMUNE DISEASE SUSCEPTIBILITY 1 (finding)	phenotype	
+Flushing	phenotype	
+Seborrheic dermatitis	phenotype	
+WFS1-Related Disorders	phenotype	
+Arrhinencephaly	phenotype	
+Kashin-Beck Disease	phenotype	
+Thyroid hormone receptor defect	phenotype	
+Pleural Neoplasms	phenotype	
+Chronic sciatica	phenotype	
+Hypoplasia of the thymus	phenotype	
+Narcolepsy-Cataplexy Syndrome	phenotype	
+Behavior Disorders	phenotype	
+Bulimia	phenotype	
+Oxycephaly	phenotype	
+Aplasia/Hypoplasia of the thymus	phenotype	
+Bowel incontinence	phenotype	
+Abnormal lung lobation	phenotype	
+Paranoia	phenotype	
+Generalized anxiety disorder	phenotype	
+Substance Use Disorders	phenotype	
+Apathy	phenotype	
+Alcohol withdrawal syndrome	phenotype	
+Overfolded helix	phenotype	
+Distal myopathy Markesbery-Griggs type	phenotype	
+Truncus arteriosus	phenotype	
+Abnormal large intestine physiology	phenotype	
+Carpal tunnel syndrome	phenotype	
+Patellar dislocation	phenotype	
+Venous insufficiency	phenotype	
+Seasonal Affective Disorder	phenotype	
+Paranoid Schizophrenia	phenotype	
+childhood brain tumor	phenotype	
+Aplasia/Hypoplasia of the earlobes	phenotype	
+Abnormally folded helix	phenotype	
+Chronic schizophrenia	phenotype	
+Multiple renal cysts	phenotype	
+Acute postoperative pain	phenotype	
+Psychiatric symptom	phenotype	
+Genomic Instability	phenotype	
+Dysphasia	phenotype	
+Retinal vascular tortuosity	phenotype	
+Personality disorder	phenotype	
+Chromosome 5, trisomy 5q	phenotype	
+Laryngomalacia	phenotype	
+Bulimia nervosa 1	phenotype	
+Abnormality of the thymus	phenotype	
+Opiate Addiction	phenotype	
+Posterior embryotoxon	phenotype	
+Carcinogenicity	phenotype	
+Abnormality of the line of Schwalbe	phenotype	
+Abnormality of T cell physiology	phenotype	
+Vitiligo	phenotype	
+Delusions	phenotype	
+Low back pain	phenotype	
+Corneal neovascularization	phenotype	
+Abnormality of retinal arteries	phenotype	
+Ovarian Insufficiency	phenotype	
+Meningocele	phenotype	
+Chronic pain	phenotype	
+Antisocial/borderline personality disorder	phenotype	
+Excessive daytime sleepiness	phenotype	
+Substance abuse problem	phenotype	
+Abnormality of T cells	phenotype	
+Abnormality of the aortic arch	phenotype	
+Drug usage	phenotype	
+Manic	phenotype	
+Chronic Fatigue Syndrome	phenotype	
+Weight Loss Adverse Event	phenotype	
+Conduct Disorder	phenotype	
+Fibromyalgia	phenotype	
+Dyskinesia, Drug-Induced	phenotype	
+Restless Legs Syndrome	phenotype	
+Polydipsia	phenotype	
+Abnormality of head blood vessel	phenotype	

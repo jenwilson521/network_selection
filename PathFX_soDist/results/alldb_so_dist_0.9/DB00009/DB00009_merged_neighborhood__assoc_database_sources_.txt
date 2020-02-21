@@ -1,0 +1,247 @@
+Gene	CUI	Source Databases	
+SERPINE1	C0023223	Leg Ulcer	DisGeNet	
+SERPINE1	C0019101	Hemorrhagic Fever with Renal Syndrome	DisGeNet	
+SERPINE1	C0032051	Placental Insufficiency	DisGeNet	
+SERPINE1	C0162869	Aneurysm, Ruptured	DisGeNet	
+SERPINE1	C0311370	Lupus anticoagulant disorder	DisGeNet	
+SERPINE1	C0553692	Brain Hemorrhage, Traumatic	DisGeNet	
+SERPINE1	C1861171	Thrombophilia due to activated protein C resistance	DisGeNet	
+SERPINE1	C0032300	Lobar Pneumonia	DisGeNet	
+SERPINE1	C0035328	Thrombosis of retinal vein	DisGeNet	
+SERPINE1	C0155668	Old myocardial infarction	DisGeNet	
+SERPINE1	C0339467	Proliferative retinopathy	DisGeNet	
+SERPINE1	C0520575	Acute pyelonephritis	DisGeNet	
+SERPINE1	C0235989	Renal interstitial fibrosis	DisGeNet	
+SERPINE1	C0242666	Protein S deficiency	DisGeNet	
+SERPINE1	C0476227	pricking of skin	DisGeNet	
+SERPINE1	C0021775	Intermittent claudication	DisGeNet	
+SERPINE1	C0019087	Hemorrhagic disorder due to intrinsic circulating anticoagulants	DisGeNet	
+SERPINE1	C0034040	Puerperal Disorders	DisGeNet	
+SERPINE1	C0035228	Respiratory Hypersensitivity	DisGeNet	
+SERPINE1	C0340293	Anterior myocardial infarction	DisGeNet	
+SERPINE1	C0025295	Meningitis, Pneumococcal	DisGeNet	
+SERPINE1	C0042485	Venous insufficiency	DisGeNet	
+SERPINE1	C0155862	Streptococcal pneumonia	DisGeNet	
+SERPINE1	C0340629	Aortic aneurysm without mention of rupture NOS	DisGeNet	
+SERPINE1	C0014335	Enteritis	DisGeNet	
+SERPINE1	C0026766	Multiple Organ Failure	DisGeNet	
+SERPINE1	C0035457	Rhinitis, Allergic, Perennial	DisGeNet	
+SERPINE1	C0600433	Resistance to activated protein C	DisGeNet	
+SERPINE1	C0694549	Community acquired pneumonia	DisGeNet	
+SERPINE1	C1306889	Peripheral artery occlusive disease	DisGeNet	
+SERPINE1	C0032273	Simple pneumoconiosis	DisGeNet	
+SERPINE1	C0852036	Pregnancy associated hypertension	DisGeNet	
+SERPINE1	C1719495	Aggressive periodontitis, generalized	DisGeNet	
+SERPINE1	C0010072	Coronary Thrombosis	DisGeNet	
+SERPINE1	C0032617	Polyuria	DisGeNet	
+SERPINE1	C0267941	Pancreatitis, Acute Necrotizing	DisGeNet	
+SERPINE1	C0149939	Obstructive nephropathy	DisGeNet	
+SERPINE1	C0403416	Idiopathic crescentic glomerulonephritis	DisGeNet	
+SERPINE1	C2717961	Thrombotic Microangiopathies	DisGeNet	
+SERPINE1	C2936179	Obesity, Visceral	DisGeNet	
+SERPINE1	C0010051	Coronary artery aneurysm	DisGeNet	
+SERPINE1	C0340708	Deep vein thrombosis of lower limb	DisGeNet	
+SERPINE1	C0012739	Disseminated intravascular coagulation	DisGeNet	
+SERPINE1	C0038354	Stomach Diseases	DisGeNet	
+SERPINE1	C0151950	Deep thrombophlebitis	DisGeNet	
+SERPINE1	C0029445	Bone necrosis	DisGeNet	
+SERPINE1	C0036646	Age-related cataract	DisGeNet	
+SERPINE1	C0741923	cardiac event	DisGeNet	
+SERPINE1	C0038395	Streptococcal Infections	DisGeNet	
+SERPINE1	C0016053	Fibromyalgia	DisGeNet	
+SERPINE1	C0042755	Virilism	DisGeNet	
+SERPINE1	C3714619	Insulin resistance syndrome	DisGeNet	
+SERPINE1	C0751956	Acute Cerebrovascular Accidents	DisGeNet	
+SERPINE1	C0948480	Coronary Restenosis	DisGeNet	
+SERPINE1	C0032269	Pneumococcal Infections	DisGeNet	
+SERPINE1	C0034186	Pyelonephritis	DisGeNet	
+SERPINE1	C0085786	Idiopathic fibrosing alveolitis, chronic form	DisGeNet	
+SERPINE1	C0086445	Idiopathic Membranous Glomerulonephritis	DisGeNet	
+SERPINE1	C2827407	Infectious Otitis Media	DisGeNet	
+SERPINE1	C0013395	Dyspepsia	DisGeNet	
+SERPINE1	C0584960	Factor V Leiden mutation	DisGeNet	
+SERPINE1	C0751674	Lymphangiomyomatosis	DisGeNet	
+SERPINE1	C0029172	Oral Submucous Fibrosis	DisGeNet	
+SERPINE1	C0036983	 {Septic shock, susceptibility to} (3)	DisGeNet	
+SERPINE1	C0079218	Desmoid tumor	DisGeNet	
+SERPINE1	C0150312	Menopause present (finding)	DisGeNet	
+SERPINE1	C0025303	Meningococcal Infections	DisGeNet	
+SERPINE1	C0038443	Stress, Psychological	DisGeNet	
+SERPINE1	C0242966	Systemic Inflammatory Response Syndrome	DisGeNet	
+SERPINE1	C0340643	Aortic dissection	DisGeNet	
+SERPINE1	C0019061	Hemolytic uremic syndrome	DisGeNet	
+SERPINE1	C0221757	Alpha-1-antitrypsin deficiency	DisGeNet	
+SERPINE1	C1384514	Primary hyperaldosteronism	DisGeNet	
+SERPINE1	C1510885	Angiogenic Switch	DisGeNet	
+SERPINE1	C0154830	Proliferative diabetic retinopathy	DisGeNet	
+SERPINE1	C4055506	Neurodegeneration with brain iron accumulation 4	DisGeNet	
+SERPINE1	C0018923	Hemangiosarcoma	DisGeNet	
+SERPINE1	C0085278	Primary antiphospholipid syndrome	DisGeNet	
+SERPINE1	C0242488	Acute Lung Injury	DisGeNet	
+SERPINE1	C0021361	Female infertility	DisGeNet	
+SERPINE1	C0002962	Angina pectoris	DisGeNet	
+SERPINE1	C0007820	 Cerebrovascular disease, occlusive (3)	DisGeNet	
+SERPINE1	C0349782	Ischemic cardiomyopathy	DisGeNet	
+SERPINE1	C3495426	Homocysteinemia due to MTHFR deficiency	DisGeNet	
+SERPINE1	C3495801	Granulomatosis with Polyangiitis	DisGeNet	
+SERPINE1	C0029443	Osteomyelitis, sterile multifocal, with periostitis and pustulosis	DisGeNet	
+SERPINE1	C0032787	Postoperative Complications	DisGeNet	
+SERPINE1	C0269102	Endometrioma	DisGeNet	
+SERPINE1	C0342257	Complications of Diabetes Mellitus	DisGeNet	
+SERPINE1	C0001486	Adenovirus Infections	DisGeNet	
+SERPINE1	C0034063	Pulmonary edema	DisGeNet	
+SERPINE1	C0231341	Premature aging syndrome	DisGeNet	
+SERPINE1	C0000809	Recurrent abortion	DisGeNet	
+SERPINE1	C0241158	Scar conditions and fibrosis of skin	DisGeNet	
+SERPINE1	C0006114	Cerebral edema	DisGeNet	
+SERPINE1	C0013295	Duodenal Ulcer	DisGeNet	
+SERPINE1	C0043119	Werner syndrome	DisGeNet	
+SERPINE1	C0156543	Pregnancy loss	DisGeNet	
+SERPINE1	C0242231	Coronary artery stenosis	DisGeNet	
+SERPINE1	C0740392	Infarction, Middle Cerebral Artery	DisGeNet	
+SERPINE1	C0017665	Membranous nephropathy, susceptibility to	DisGeNet	
+SERPINE1	C0037579	Soft Tissue Neoplasms	DisGeNet	
+SERPINE1	C1719672	Severe Sepsis	DisGeNet	
+SERPINE1	C0031069	Familial Mediterranean fever	DisGeNet	
+SERPINE1	C0011875	Diabetic Angiopathies	DisGeNet	
+SERPINE1	C0151546	Oral Cavity Carcinoma	DisGeNet	
+SERPINE1	C0852949	Cerebral autosomal recessive arteriopathy with subcortical infarcts and leukoencephalopathy	DisGeNet	
+SERPINE1	C0002965	Angina, Unstable	DisGeNet	
+SERPINE1	C0079588	X-linked ichthyosis with steryl-sulfatase deficiency	DisGeNet	
+SERPINE1	C0151942	Arterial thrombosis	DisGeNet	
+SERPINE1	C0206681	Adenocarcinoma, Clear Cell	DisGeNet	
+SERPINE1	C0007789	Cerebral palsy, spastic quadriplegic, 3	DisGeNet	
+SERPINE1	C0020474	Hyperlipidemia, familial combined	DisGeNet	
+SERPINE1	C0029458	Postmenopausal osteoporosis	DisGeNet	
+SERPINE1	C0699893	Skin carcinoma	DisGeNet	
+SERPINE1	C0005411	Biliary Atresia	DisGeNet	
+SERPINE1	C0085409	Polyglandular autoimmune syndrome, type 1	DisGeNet	
+SERPINE1	C0376618	Endotoxemia	DisGeNet	
+SERPINE1	C0855197	Testicular malignant germ cell tumor	DisGeNet	
+SERPINE1	C3887486	Interstitial fibrosis	DisGeNet	
+SERPINE1	C0600452	Hepatopulmonary Syndrome	DisGeNet	
+SERPINE1	C0010692	Cystitis	DisGeNet	
+SERPINE1	C0001339	Acute pancreatitis	DisGeNet	
+SERPINE1	C0023891	Liver Cirrhosis, Alcoholic	DisGeNet	
+SERPINE1	C0004610	Bacteremia, susceptibility to, 2	DisGeNet	
+SERPINE1	C0019069	Hereditary factor VIII deficiency disease	DisGeNet	
+SERPINE1	C0740391	Middle Cerebral Artery Occlusion	DisGeNet	
+SERPINE1	C1561955	Fibrinogen Adverse Event	DisGeNet	
+SERPINE1	C0178664	Glomerulosclerosis, Focal Segmental	DisGeNet	
+SERPINE1	C1658953	tumor vasculature	DisGeNet	
+SERPINE1	C0039103	Synovitis	DisGeNet	
+SERPINE1	C0017612	Glaucoma, Open-Angle	DisGeNet	
+SERPINE1	C0149871	Deep venous thrombosis	DisGeNet	
+SERPINE1	C0018621	Hay fever	DisGeNet	
+SERPINE1	C0037199	Sinusitis	DisGeNet	
+SERPINE1	C0747845	early pregnancy	DisGeNet	
+SERPINE1	C0031154	Peritonitis	DisGeNet	
+SERPINE1	C0007766	Intracranial Aneurysm	DisGeNet	
+SERPINE1	C0038358	Gastric ulcer	DisGeNet	
+SERPINE1	C0162872	Aortic Aneurysm, Thoracic	DisGeNet	
+SERPINE1	C0497299	Meningitis	DisGeNet	
+SERPINE1	C0598608	Hereditary hyperhomocysteinemia	DisGeNet	
+SERPINE1	C0020523	Immediate hypersensitivity	DisGeNet	
+SERPINE1	C0040038	Thromboembolism	DisGeNet	
+SERPINE1	C0409959	Knee osteoarthritis	DisGeNet	
+SERPINE1	C0020557	Hypertriglyceridemia	DisGeNet	
+SERPINE1	C0947751	Vascular inflammations	DisGeNet	
+SERPINE1	C3277059	Bilateral cataracts (disorder)	DisGeNet	
+SERPINE1	C0017668	Focal segmental glomerulosclerosis	DisGeNet	
+SERPINE1	C0030920	Peptic ulcer	DisGeNet	
+SERPINE1	C0398623	Thrombophilia	DisGeNet	
+SERPINE1	C0021359	Infertility associated with multi-tailed spermatozoa and excessive DNA	DisGeNet	
+SERPINE1	C0002726	Amyloidosis	DisGeNet	
+SERPINE1	C0028756	Obesity, severe, 601665 (3)	DisGeNet	
+SERPINE1	C0017563	Gingival Diseases	DisGeNet	
+SERPINE1	C0026857	Musculoskeletal Diseases	DisGeNet	
+SERPINE1	C0032962	Pregnancy Complications	DisGeNet	
+SERPINE1	C0032964	Pregnancy Complications, Hematologic	DisGeNet	
+SERPINE1	C0034065	Pulmonary Embolism	DisGeNet	
+SERPINE1	C0311277	Abdominal obesity	DisGeNet	
+SERPINE1	C0005283	beta Thalassemia	DisGeNet	
+SERPINE1	C0023269	Leiomyosarcoma	DisGeNet	
+SERPINE1	C0334579	Anaplastic astrocytoma	DisGeNet	
+SERPINE1	C0039590	Testicular Neoplasms	DisGeNet	
+SERPINE1	C0162309	Adrenoleukodystrophy	DisGeNet	
+SERPINE1	C0020550	Hyperthyroidism	DisGeNet	
+SERPINE1	C1270972	Mild cognitive impairment	DisGeNet	
+SERPINE1	C0035222	Respiratory Distress Syndrome, Adult	DisGeNet	
+SERPINE1	C0042487	Venous thrombosis	DisGeNet	
+SERPINE1	C0020507	Hyperplasia	DisGeNet	
+SERPINE1	C0040028	Essential thrombocythemia	DisGeNet	
+SERPINE1	C0002940	{Aneurysm, familial abdominal 3} (2)	DisGeNet	
+SERPINE1	C0015929	Fetal Diseases	DisGeNet	
+SERPINE1	C0085298	Sudden cardiac death	DisGeNet	
+SERPINE1	C0041956	Ureteral obstruction	DisGeNet	
+SERPINE1	C0040053	Thrombosis	DisGeNet	
+SERPINE1	C0268731	Glomerulopathy	DisGeNet	
+SERPINE1	C0007112	Adenocarcinoma of prostate	DisGeNet	
+SERPINE1	C0007282	Carotid Stenosis	DisGeNet	
+SERPINE1	C0001925	Albuminuria	DisGeNet	
+SERPINE1	C0023787	Lipoatrophy	DisGeNet	
+SERPINE1	C4025888	Abnormality of the menstrual cycle	HumPhenOnt	
+SERPINE1	C0041408	46,XY gonadal dysgenesis, partial, with minifascicular neuropathy	DisGeNet	
+SERPINE1	C1292778	Myeloproliferative disorder (2)	DisGeNet	
+SERPINE1	C0520679	Obstructive sleep apnea	DisGeNet	
+SERPINE1	C0024232	Lymphatic Metastasis	DisGeNet	
+SERPINE1	C0027626	Neoplasm Invasiveness	DisGeNet	
+SERPINE1	C0151650	Renal fibrosis	DisGeNet	
+SERPINE1	C0085129	Bronchial Hyperreactivity	DisGeNet	
+SERPINE1	C0333516	Tumor necrosis	DisGeNet	
+SERPINE1	C0006012	Borderline Personality Disorder	DisGeNet	
+SERPINE1	C0729233	Dissecting aneurysm of the thoracic aorta	DisGeNet	
+SERPINE1	C2607914	Allergic rhinitis	DisGeNet	
+SERPINE1	C0004238	Atrial Fibrillation	DisGeNet	
+SERPINE1	C0005779	Bleeding disorder, platelet-type, 21	DisGeNet	
+SERPINE1	C0206682	Thyroid cancer, follicular	DisGeNet	
+SERPINE1	C0022548	Keloid	DisGeNet	
+SERPINE1	C0027697	Nephritis	DisGeNet	
+SERPINE1	C0026846	Amyotrophy involving the shoulder musculature	DisGeNet	
+SERPINE1	C0156404	Menstrual irregularities	HumPhenOnt	
+SERPINE1	C1559271	Non-Malignant Ascites Adverse Event	DisGeNet	
+SERPINE1	C0020445	Familial hypercholesterolemia	DisGeNet	
+SERPINE1	C0266929	Chronic Periodontitis	DisGeNet	
+SERPINE1	C0013537	Eclampsia	DisGeNet	
+SERPINE1	C0022735	Hypogonadotropic hypogonadism 7 with or without anosmia	DisGeNet	
+SERPINE1	C1836142	Congenital onset	HumPhenOnt	
+SERPINE1	C0403447	Chronic Kidney Insufficiency	DisGeNet	
+SERPINE1	C0162871	Aortic Aneurysm, Abdominal	DisGeNet	
+SERPINE1	C0016059	Fibrosis	DisGeNet	
+SERPINE1	C1449563	Dilated cardiomyopathy 1A	DisGeNet	
+SERPINE1	C0032463	Polycythemia vera	DisGeNet	
+SERPINE1	C0015943	Fetal Membranes, Premature Rupture	DisGeNet	
+SERPINE1	C0008495	Chorioamnionitis	DisGeNet	
+SERPINE1	C0009782	Connective Tissue Diseases	DisGeNet	
+SERPINE1	C0085215	Ovarian Failure, Premature	DisGeNet	
+SERPINE1	C0155877	Allergic asthma	DisGeNet	
+SERPINE1	C0026691	Mucocutaneous Lymph Node Syndrome	DisGeNet	
+SERPINE1	C0022876	Premature Obstetric Labor	DisGeNet	
+SERPINE1	C0220633	Intraocular melanoma	DisGeNet	
+SERPINE1	C0026896	Myasthenia Gravis	DisGeNet	
+SERPINE1	C0085207	Maternal diabetes	DisGeNet	
+SERPINE1	C3539909	Allergic disposition	DisGeNet	
+SERPINE1	C0034067	Pulmonary Emphysema	DisGeNet	
+SERPINE1	C0020443	Hypercholesterolemia, autosomal dominant, type B	DisGeNet	
+SERPINE1	C0086692	Benign neoplasm of other endocrine glands	DisGeNet	
+SERPINE1	C0856169	Endothelial dysfunction	DisGeNet	
+SERPINE1	C0497406	Overweight	DisGeNet	
+SERPINE1	C0206624	Hepatoblastoma	DisGeNet	
+SERPINE1	C0333186	Restenosis	DisGeNet	
+SERPINE1	C0036631	Testicular seminoma	DisGeNet	
+SERPINE1	C0018790	Cardiac arrest	DisGeNet	
+SERPINE1	C0085605	Liver failure acute infantile	DisGeNet	
+SERPINE1	C1527349	Ductal Carcinoma	DisGeNet	
+SERPINE1	C0011389	Plaque, Atherosclerotic	DisGeNet	
+SERPINE1	C0024143	Lupus Nephritis	DisGeNet	
+SERPINE1	C0029882	Otitis media	DisGeNet	
+SERPINE1	C0152171	Primary pulmonary hypertension	DisGeNet	
+SERPINE1	C0242339	Dyslipidemias	DisGeNet	
+SERPINE1	C0003486	Aortic aneurysm, familial thoracic 11, susceptibility to	DisGeNet	
+SERPINE1	C0002793	Anaplasia	DisGeNet	
+SERPINE1	C1134719	Invasive Ductal Breast Carcinoma	DisGeNet	
+SERPINE1	C0029928	Ovarian Diseases	DisGeNet	
+SERPINE1	C0006287	Bronchopulmonary Dysplasia	DisGeNet	
+SERPINE1	C0017152	Gastritis	DisGeNet	
+SERPINE1	C0155626	Acute myocardial infarction	DisGeNet	
+SERPINE1	C1861172	Venous Thromboembolism	DisGeNet	

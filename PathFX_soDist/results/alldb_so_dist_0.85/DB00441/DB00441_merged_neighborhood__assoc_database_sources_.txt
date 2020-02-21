@@ -1,0 +1,18 @@
+Gene	CUI	Source Databases	
+ABCB1	C0027947	Neutropenia	DisGeNet	
+CDA	C0027947	Neutropenia	DisGeNet	
+RRM1	C0027947	Neutropenia	DisGeNet	
+SLC28A1	C0027947	Neutropenia	DisGeNet	
+SLC28A3	C0027947	Neutropenia	DisGeNet	
+SLC29A1	C0027947	Neutropenia	DisGeNet	
+TYMS	C0027947	Neutropenia	DisGeNet	
+CDA	C0268138	Xeroderma Pigmentosum, Complementation Group D	DisGeNet	
+RRM1	C0268138	Xeroderma Pigmentosum, Complementation Group D	DisGeNet	
+TYMS	C0268138	Xeroderma Pigmentosum, Complementation Group D	DisGeNet	
+ABCB1	C0023530	Leukopenia	DisGeNet	
+CDA	C0023530	Leukopenia	DisGeNet	
+RRM1	C0023530	Leukopenia	DisGeNet	
+SLC28A1	C0023530	Leukopenia	DisGeNet	
+SLC28A3	C0023530	Leukopenia	DisGeNet	
+SLC29A1	C0023530	Leukopenia	DisGeNet	
+TYMS	C0023530	Leukopenia	DisGeNet	

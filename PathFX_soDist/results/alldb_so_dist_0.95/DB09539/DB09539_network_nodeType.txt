@@ -1,0 +1,80 @@
+node_name	node_type	
+DB09539	drug	
+SOAT1	drug_target	
+SREBF1	drug_target	
+Alzheimer Disease	phenotype	
+Hypoxia	phenotype	
+Aortic regurgitation	phenotype	
+Aortic valve stenosis	phenotype	
+Arteriosclerosis	phenotype	
+Atherosclerosis	phenotype	
+Breast-ovarian cancer, familial 1	phenotype	
+Malignant neoplasm of endometrium	phenotype	
+Noninfiltrating Intraductal Carcinoma	phenotype	
+Colorectal cancer 1	phenotype	
+Coronary heart disease 7	phenotype	
+Dementia familial British	phenotype	
+Diabetes Mellitus, Type 1	phenotype	
+Diabetes mellitus type 1	phenotype	
+Diabetes mellitus type 2	phenotype	
+Diabetic Nephropathies	phenotype	
+Type 1 diabetic neuropathy	phenotype	
+Endometrial Neoplasms	phenotype	
+Hepatic steatosis	phenotype	
+Femur Head Necrosis	phenotype	
+Intrauterine growth retardation	phenotype	
+Glioblastoma	phenotype	
+Acute type B viral hepatitis	phenotype	
+Hepatitis C	phenotype	
+Hepatomegaly	phenotype	
+Symptomatic human immunodeficiency virus infection	phenotype	
+Hypercholesterolemia, autosomal dominant, type B	phenotype	
+Hyperglycemia	phenotype	
+Hyperinsulinemia	phenotype	
+Hyperlipidemia, combined, 1	phenotype	
+Hypertension	phenotype	
+Hypertriglyceridemia	phenotype	
+Hypoglycemia, neonatal, simulating foetopathia diabetica	phenotype	
+Insulin Resistance	phenotype	
+Ketoacidosis	phenotype	
+Kidney Diseases	phenotype	
+Kidney Failure, Chronic	phenotype	
+Lipoatrophy	phenotype	
+Lipoidosis	phenotype	
+Liposarcoma	phenotype	
+Neoplasm of the liver	phenotype	
+Animal Mammary Neoplasms	phenotype	
+Disorders of Intracellular Cobalamin Metabolism	phenotype	
+Obesity	phenotype	
+Bone necrosis	phenotype	
+Parkinson Disease	phenotype	
+Hutchinson-Gilford syndrome	phenotype	
+Prostatic Neoplasms	phenotype	
+Renal Insufficiency, Chronic	phenotype	
+Schizophrenia	phenotype	
+Increased body weight	phenotype	
+B-cell lymphoma	phenotype	
+Uterine Corpus Cancer	phenotype	
+Tumor Progression	phenotype	
+Hepatocellular adenoma	phenotype	
+Pancreatic Carcinoma	phenotype	
+Hepatic fibrosis	phenotype	
+Dyslipidemias	phenotype	
+Malignant neoplasm of pancreas	phenotype	
+Malignant tumor of prostate	phenotype	
+Non-alcoholic Fatty Liver Disease	phenotype	
+Emery-Dreifuss muscular dystrophy 1, X-linked	phenotype	
+Endometrial carcinoma	phenotype	
+Dementia	phenotype	
+Overweight	phenotype	
+Metabolic Syndrome X	phenotype	
+Carcinogenesis	phenotype	
+Prostate carcinoma	phenotype	
+Breast carcinoma	phenotype	
+Colorectal cancer	phenotype	
+Trichothiodystrophy Syndromes	phenotype	
+Coronary Artery Disease	phenotype	
+Hepatocellular carcinoma	phenotype	
+Steatohepatitis	phenotype	
+Weight Gain Adverse Event	phenotype	
+Obesity, Visceral	phenotype	

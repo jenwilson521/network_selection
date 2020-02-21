@@ -1,0 +1,184 @@
+node_name	node_type	
+DB00332	drug	
+ALB	drug_target	
+CHRM3	drug_target	
+CHRM2	drug_target	
+CHRM1	drug_target	
+SLC22A4	drug_target	
+SLC22A5	drug_target	
+pathologic fistula	phenotype	
+Gastrointestinal stromal tumor	phenotype	
+Diabetes mellitus type 1	phenotype	
+Growth Disorders	phenotype	
+Type 1 diabetic neuropathy	phenotype	
+Chronic ulcerative colitis	phenotype	
+Fibrinogen Adverse Event	phenotype	
+Myocarditis	phenotype	
+Abnormality of lipid metabolism	phenotype	
+Arthritis, Psoriatic	phenotype	
+Bronchiolitis, Viral	phenotype	
+Ulcerative colitis	phenotype	
+Leg Ulcer	phenotype	
+Recurrent major depressive episodes	phenotype	
+Malignant neoplasm of adrenal cortex	phenotype	
+Esophageal varix	phenotype	
+Urolithiasis	phenotype	
+Encephalopathy, acute, infection-induced, 4, susceptibility to	phenotype	
+Echinococcosis	phenotype	
+Crohn Disease	phenotype	
+Proliferative retinopathy	phenotype	
+Acute encephalopathy	phenotype	
+Isolated somatotropin deficiency	phenotype	
+Substance Use Disorders	phenotype	
+Neck muscle weakness	phenotype	
+Dentatorubral pallidoluysian atrophy	phenotype	
+Angiokeratoma	phenotype	
+Isolated growth hormone deficiency type 1B	phenotype	
+Congenital long QT syndrome	phenotype	
+Respiratory Syncytial Virus Infections	phenotype	
+Paratuberculosis	phenotype	
+Pericardial effusion	phenotype	
+Enterovirus Infections	phenotype	
+Mumps	phenotype	
+Rhinitis, Allergic, Perennial	phenotype	
+Endemic Cretinism	phenotype	
+Hemangioblastoma	phenotype	
+Malignant ascites	phenotype	
+Mesangiocapillary glomerulonephritis, type II	phenotype	
+Lipoidosis	phenotype	
+Nephrosclerosis	phenotype	
+Peripheral motor neuropathy	phenotype	
+End Stage Liver Disease	phenotype	
+Abnormality of fatty-acid metabolism	phenotype	
+Hyperammonemia	phenotype	
+Abnormal albumin level	phenotype	
+Bronchogenic Carcinoma	phenotype	
+Confusion	phenotype	
+Coronary artery aneurysm	phenotype	
+Hyperlipoproteinemia	phenotype	
+Hyperlipoproteinemia Type IIa	phenotype	
+Tubulointerstitial nephritis	phenotype	
+Excessive daytime sleepiness	phenotype	
+Single tumor	phenotype	
+Nephrotic Syndrome, Minimal Change	phenotype	
+cardiac event	phenotype	
+Abnormality of the endocardium	phenotype	
+Graves Disease	phenotype	
+Sickle Cell Trait	phenotype	
+Varicella zoster	phenotype	
+Drusen	phenotype	
+Insulin resistance syndrome	phenotype	
+Heart Diseases	phenotype	
+Hemoglobinopathy	phenotype	
+Bloom syndrome	phenotype	
+Nephrosis	phenotype	
+Guillain-Barre syndrome, familial	phenotype	
+Behcet Syndrome	phenotype	
+Primary hyperparathyroidism	phenotype	
+Bradycardia	phenotype	
+Drug Resistant Epilepsy	phenotype	
+Respiratory Tract Diseases	phenotype	
+Sicca Syndrome	phenotype	
+Hypoalbuminemia	phenotype	
+Hepatic steatosis	phenotype	
+Neurologic, endocrine, and pancreatic disease, multisystem, infantile-onset	phenotype	
+Abnormality of the musculature of the neck	phenotype	
+Congenital hypothyroidism	phenotype	
+Adverse drug events and drug allergies	phenotype	
+Familial dilated cardiomyopathy	phenotype	
+Myopathy, scapulohumeroperoneal	phenotype	
+Cardiomyopathy, Dilated	phenotype	
+Syncope	phenotype	
+Hemolytic uremic syndrome	phenotype	
+Drug Dependence	phenotype	
+Incoordination	phenotype	
+Occupational Diseases	phenotype	
+Microalbuminuria	phenotype	
+Chest pain	phenotype	
+ {HIV-1 viremia, susceptibility to}, 609423 (3)	phenotype	
+Acute Lung Injury	phenotype	
+Abnormality of nitrogen compound homeostasis	phenotype	
+Azotemia	phenotype	
+Complications of Diabetes Mellitus	phenotype	
+Ehlers-Danlos syndrome, type vii, autosomal recessive	phenotype	
+Pulmonary edema	phenotype	
+Hypertension	phenotype	
+Stevens-Johnson Syndrome	phenotype	
+Congenital chromosomal disease	phenotype	
+Lymphohistiocytosis, Hemophagocytic	phenotype	
+Substance addiction and disorders	phenotype	
+Depressive Disorder	phenotype	
+IMMUNE SUPPRESSION	phenotype	
+Dementia, Vascular	phenotype	
+Membranous nephropathy, susceptibility to	phenotype	
+DiGeorge sequence	phenotype	
+Liver regeneration disorder	phenotype	
+Diabetic Angiopathies	phenotype	
+Plasmacytoma	phenotype	
+Polyneuropathy, hearing loss, ataxia, retinitis pigmentosa, and cataract	phenotype	
+Storage in hepatocytes	phenotype	
+Thyroid associated opthalmopathies	phenotype	
+Lipid accumulation in hepatocytes	phenotype	
+Abnormality of mitochondrial metabolism	phenotype	
+Coma	phenotype	
+Hyperlipidemia, familial combined	phenotype	
+Kartagener syndrome	phenotype	
+Alcohol abuse	phenotype	
+Generalized tonic-clonic seizures	phenotype	
+Abnormality of the mitochondrion	phenotype	
+Interstitial fibrosis	phenotype	
+Rheumatoid arthritis	phenotype	
+Hemochromatosis	phenotype	
+Inflammation	phenotype	
+Ischemia	phenotype	
+Methamphetamine abuse	phenotype	
+Hereditary factor VIII deficiency disease	phenotype	
+Lethargy	phenotype	
+Tuberculosis	phenotype	
+Glomerulosclerosis, Focal Segmental	phenotype	
+tumor vasculature	phenotype	
+Epilepsy	phenotype	
+Maturity-onset diabetes of the young, type 11	phenotype	
+Nicotine Dependence	phenotype	
+Autoimmune thyroid disease 3	phenotype	
+Acquired long QT syndrome	phenotype	
+Abnormality of cardiovascular system physiology	phenotype	
+Focal segmental glomerulosclerosis	phenotype	
+Malnutrition	phenotype	
+Urticaria	phenotype	
+Thrombophilia	phenotype	
+Hypotension	phenotype	
+Elevated hepatic transaminases	phenotype	
+Ventricular Fibrillation Adverse Event	phenotype	
+Congenital diaphragmatic hernia	phenotype	
+Coronary heart disease 7	phenotype	
+Pregnancy Complications	phenotype	
+Abnormality of muscle fibers	phenotype	
+Pulmonary Embolism	phenotype	
+Anorexia	phenotype	
+Generalized seizures	phenotype	
+beta Thalassemia	phenotype	
+Acute hepatic failure	phenotype	
+Obesity	phenotype	
+Solid tumour	phenotype	
+Congestive heart failure	phenotype	
+Respiratory Distress Syndrome, Adult	phenotype	
+Hashimoto thyroiditis	phenotype	
+Coinfection	phenotype	
+Chronic liver disease	phenotype	
+Abnormality of adipose tissue	phenotype	
+Heart Failure	phenotype	
+orbit (eye disorders)	phenotype	
+Uveitis	phenotype	
+Glomerulopathy	phenotype	
+Adrenocortical carcinoma	phenotype	
+Irritable bowel syndrome with diarrhea	phenotype	
+Albuminuria	phenotype	
+Lipoatrophy	phenotype	
+Psoriasis	phenotype	
+Abnormality of blood glucose concentration	phenotype	
+Autoimmune disease 1	phenotype	
+Tumor necrosis	phenotype	
+Cachexia	phenotype	
+Substance-Related Disorders	phenotype	
+Bleeding disorder, platelet-type, 21	phenotype	

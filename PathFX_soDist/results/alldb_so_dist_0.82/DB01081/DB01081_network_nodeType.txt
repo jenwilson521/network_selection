@@ -1,0 +1,24 @@
+node_name	node_type	
+DB01081	drug	
+OPRM1	drug_target	
+OPRD1	drug_target	
+Opiate Addiction	phenotype	
+Hypotension, Orthostatic	phenotype	
+Cocaine Dependence	phenotype	
+Heroin Dependence	phenotype	
+Drug Dependence	phenotype	
+Substance addiction and disorders	phenotype	
+Polyphagia	phenotype	
+Cocaine-Related Disorders	phenotype	
+Acute hepatitis	phenotype	
+Substance-Related Disorders	phenotype	
+Substance Use Disorders	phenotype	
+Cycloid psychosis	phenotype	
+ {Nicotine dependence, protection against}, 188890 (3)	phenotype	
+Hepatic encephalopathy	phenotype	
+heavy drinking	phenotype	
+Acute postoperative pain	phenotype	
+alcohol use disorder	phenotype	
+Xeroderma pigmentosum, group A	phenotype	
+Low back pain	phenotype	
+Insomnia	phenotype	

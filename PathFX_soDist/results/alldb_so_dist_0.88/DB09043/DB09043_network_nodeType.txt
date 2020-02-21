@@ -1,0 +1,13 @@
+node_name	node_type	
+DB09043	drug	
+GLP1R	drug_target	
+Arteriovenous fistula	phenotype	
+Obstructive lung disease	phenotype	
+Cholera	phenotype	
+Diabetic Angiopathies	phenotype	
+Maturity-onset diabetes of the young, type 11	phenotype	
+Intraepithelial Neoplasia	phenotype	
+Anorexia	phenotype	
+Hyperplasia	phenotype	
+Insulinoma	phenotype	
+Nonalcoholic Steatohepatitis	phenotype	

@@ -1,0 +1,52 @@
+node_name	node_type	
+DB02546	drug	
+HDAC1	drug_target	
+HDAC8	drug_target	
+HDAC3	drug_target	
+HDAC2	drug_target	
+HDAC6	drug_target	
+Liposarcoma, Dedifferentiated	phenotype	
+Stromal sarcoma	phenotype	
+Neoplasm of the parathyroid gland	phenotype	
+Right ventricular hypertrophy	phenotype	
+Testicular malignant germ cell tumor	phenotype	
+Leukoencephalopathy, Progressive Multifocal	phenotype	
+Teratoma	phenotype	
+Intrahepatic Cholangiocarcinoma	phenotype	
+Amyotrophic lateral sclerosis type 1	phenotype	
+Borderline Personality Disorder	phenotype	
+Allergic rhinitis	phenotype	
+Amyotrophy involving the shoulder musculature	phenotype	
+Embryonal Carcinoma	phenotype	
+Melanocytic nevus	phenotype	
+Gallbladder Carcinoma	phenotype	
+Metastatic Prostate Carcinoma	phenotype	
+Carcinoma, Papillary	phenotype	
+Bronchopulmonary Dysplasia	phenotype	
+Hypergranular promyelocytic leukemia	phenotype	
+Malignant tumor of testis	phenotype	
+Fibrosarcoma	phenotype	
+Cutaneous T-cell lymphoma	phenotype	
+Memory impairment	phenotype	
+Endometrial Neoplasms	phenotype	
+polyps	phenotype	
+Huntington's chorea	phenotype	
+Pancreatic adenocarcinoma	phenotype	
+Recurrent tumor	phenotype	
+Cancer Cell Growth	phenotype	
+Pulmonary hypertension, neonatal, susceptibility to	phenotype	
+Metastatic melanoma	phenotype	
+Hypoxia	phenotype	
+Invasive breast carcinoma	phenotype	
+Hereditary pancreatitis	phenotype	
+Intrauterine growth retardation	phenotype	
+Heart Diseases	phenotype	
+Unipolar Depression	phenotype	
+Acute promyelocytic leukemia	phenotype	
+Tumor Angiogenesis	phenotype	
+Precancerous Conditions	phenotype	
+Hepatitis C, Chronic	phenotype	
+Hepatocarcinogenesis	phenotype	
+Retinoblastoma	phenotype	
+Major depressive disorder	phenotype	
+Combined Hepatocellular Carcinoma and Cholangiocarcinoma	phenotype	

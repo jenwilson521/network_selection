@@ -1,0 +1,121 @@
+Gene	CUI	Source Databases	
+GRIA1	C2911647	Weight Gain Adverse Event	DisGeNet	
+GRIA3	C2911647	Weight Gain Adverse Event	DisGeNet	
+GRIN1	C2911647	Weight Gain Adverse Event	DisGeNet	
+GRIN2B	C2911647	Weight Gain Adverse Event	DisGeNet	
+GRIN3A	C2911647	Weight Gain Adverse Event	DisGeNet	
+GRM7	C2911647	Weight Gain Adverse Event	DisGeNet	
+SLC1A1	C2911647	Weight Gain Adverse Event	DisGeNet	
+GRIA1	C0014556	Epilepsy, Temporal Lobe	DisGeNet	
+GRIA3	C0014556	Epilepsy, Temporal Lobe	DisGeNet	
+GRIK1	C0014556	Epilepsy, Temporal Lobe	DisGeNet	
+GRIN1	C0014556	Epilepsy, Temporal Lobe	DisGeNet	
+GRIN2B	C0014556	Epilepsy, Temporal Lobe	DisGeNet	
+SLC1A1	C0014556	Epilepsy, Temporal Lobe	DisGeNet	
+GRIA1	C0005586	Bipolar affective disorder	DisGeNet	
+GRIA3	C0005586	Bipolar affective disorder	DisGeNet	
+GRIK1	C0005586	Bipolar affective disorder	DisGeNet	
+GRIK4	C0005586	Bipolar affective disorder	DisGeNet	
+GRIN1	C0005586	Bipolar affective disorder	DisGeNet	
+GRIN2B	C0005586	Bipolar affective disorder	DisGeNet	
+GRIN3A	C0005586	Bipolar affective disorder	DisGeNet	
+GRM7	C0005586	Bipolar affective disorder	DisGeNet	
+SLC1A1	C0005586	Bipolar affective disorder	DisGeNet	
+GRIA1	C0043094	Increased body weight	DisGeNet	
+GRIA3	C0043094	Increased body weight	DisGeNet	
+GRIN1	C0043094	Increased body weight	DisGeNet	
+GRIN2B	C0043094	Increased body weight	DisGeNet	
+GRIN3A	C0043094	Increased body weight	DisGeNet	
+GRM7	C0043094	Increased body weight	DisGeNet	
+SLC1A1	C0043094	Increased body weight	DisGeNet	
+GCLC	C0004936	Mental disorders	DisGeNet	
+GRIA1	C0004936	Mental disorders	DisGeNet	
+GRIK4	C0004936	Mental disorders	DisGeNet	
+GRIN2B	C0004936	Mental disorders	DisGeNet	
+GRM7	C0004936	Mental disorders	DisGeNet	
+SLC1A1	C0004936	Mental disorders	DisGeNet	
+EPRS	C0014544	Epilepsy	DisGeNet	
+GRIA1	C0014544	Epilepsy	DisGeNet	
+GRIA3	C0014544	Epilepsy	DisGeNet	
+GRIK1	C0014544	Epilepsy	DisGeNet	
+GRIN1	C0014544	Epilepsy	DisGeNet	
+GRIN2B	C0014544	Epilepsy	DisGeNet	
+SLC1A1	C0014544	Epilepsy	DisGeNet	
+GRIA3	C0029421	Osteochondritis dissecans	DisGeNet	
+GRIN2B	C0029421	Osteochondritis dissecans	DisGeNet	
+SLC1A1	C0029421	Osteochondritis dissecans	DisGeNet	
+GRIN1	C1955869	Malformation of cortical development	DisGeNet	
+GRIN2B	C1955869	Malformation of cortical development	DisGeNet	
+SLC1A1	C1955869	Malformation of cortical development	DisGeNet	
+FOLH1	C0036341	Schizophrenia	DisGeNet	
+GCLC	C0036341	Schizophrenia	DisGeNet	
+GRIA1	C0036341	Schizophrenia	DisGeNet,PheGenI	
+GRIA3	C0036341	Schizophrenia	DisGeNet	
+GRIK1	C0036341	Schizophrenia	DisGeNet	
+GRIK4	C0036341	Schizophrenia	DisGeNet	
+GRIN1	C0036341	Schizophrenia	DisGeNet	
+GRIN2B	C0036341	Schizophrenia	DisGeNet	
+GRIN3A	C0036341	Schizophrenia	DisGeNet	
+GRM7	C0036341	Schizophrenia	DisGeNet	
+SLC1A1	C0036341	Schizophrenia	ClinVar,DisGeNet	
+GRIA3	C0028768	Obsessive-compulsive disorder	DisGeNet	
+GRIN2B	C0028768	Obsessive-compulsive disorder	DisGeNet	
+SLC1A1	C0028768	Obsessive-compulsive disorder	DisGeNet	
+GRIN1	C0032051	Placental Insufficiency	DisGeNet	
+GRIN2B	C0032051	Placental Insufficiency	DisGeNet	
+GRIN1	C0236663	Alcohol withdrawal syndrome	DisGeNet	
+GRIN2B	C0236663	Alcohol withdrawal syndrome	DisGeNet	
+GRIA1	C0041696	Unipolar Depression	DisGeNet	
+GRIK1	C0041696	Unipolar Depression	DisGeNet	
+GRIN2B	C0041696	Unipolar Depression	DisGeNet	
+GRM7	C0041696	Unipolar Depression	DisGeNet	
+SLC1A1	C0041696	Unipolar Depression	DisGeNet	
+GRIN2B	C0011206	Cocaine delirium	DisGeNet	
+GRIN3A	C0011206	Cocaine delirium	DisGeNet	
+GRIK4	C1510586	Autism spectrum disorders	DisGeNet	
+GRIN2B	C1510586	Autism spectrum disorders	DisGeNet	
+GRM7	C1510586	Autism spectrum disorders	DisGeNet	
+SLC1A1	C1510586	Autism spectrum disorders	DisGeNet	
+FOLH1	C0016412	Folic Acid Deficiency	DisGeNet	
+FPGS	C0016412	Folic Acid Deficiency	DisGeNet	
+GRIA1	C0443306	Spastic	DisGeNet	
+GRM7	C0443306	Spastic	DisGeNet	
+GRIA1	C1269683	Major depressive disorder	DisGeNet	
+GRIK1	C1269683	Major depressive disorder	DisGeNet	
+GRIN2B	C1269683	Major depressive disorder	DisGeNet	
+GRM7	C1269683	Major depressive disorder	DisGeNet	
+SLC1A1	C1269683	Major depressive disorder	DisGeNet	
+GRIA3	C1096063	Drug Resistant Epilepsy	DisGeNet	
+GRIN1	C1096063	Drug Resistant Epilepsy	DisGeNet	
+GRIK1	C0020179	Huntington's chorea	DisGeNet	
+GRIN1	C0020179	Huntington's chorea	DisGeNet	
+GRIN2B	C0020179	Huntington's chorea	DisGeNet	
+GRIN3A	C0020179	Huntington's chorea	DisGeNet	
+GRIA1	C0033975	Psychotic Disorders	DisGeNet	
+GRIK4	C0033975	Psychotic Disorders	DisGeNet	
+GRIN1	C0033975	Psychotic Disorders	DisGeNet	
+GRIN2B	C0033975	Psychotic Disorders	DisGeNet	
+FOLH1	C0011570	{Unipolar depression, susceptibility to}, 608516 (3)	DisGeNet	
+GRIA1	C0011570	{Unipolar depression, susceptibility to}, 608516 (3)	DisGeNet	
+GRIA3	C0011570	{Unipolar depression, susceptibility to}, 608516 (3)	DisGeNet	
+GRIN2B	C0011570	{Unipolar depression, susceptibility to}, 608516 (3)	DisGeNet	
+GRM7	C0011570	{Unipolar depression, susceptibility to}, 608516 (3)	DisGeNet	
+GRIN2B	C0431380	Cortical dysplasia, complex, with other brain malformations 3	DisGeNet	
+SLC1A1	C0431380	Cortical dysplasia, complex, with other brain malformations 3	DisGeNet	
+GRIA3	C0038443	Stress, Psychological	DisGeNet	
+SLC1A1	C0038443	Stress, Psychological	DisGeNet	
+GRIN1	C0752308	Hypoxia-Ischemia, Brain	DisGeNet	
+GRIN2B	C0752308	Hypoxia-Ischemia, Brain	DisGeNet	
+GRIA1	C0004352	Autism 15	DisGeNet	
+GRIA3	C0004352	Autism 15	DisGeNet,HumPhenOnt	
+GRIK4	C0004352	Autism 15	DisGeNet	
+GRIN2B	C0004352	Autism 15	DisGeNet	
+GRM7	C0004352	Autism 15	DisGeNet	
+SLC1A1	C0004352	Autism 15	DisGeNet	
+GRIA1	C0038220	Status epilepticus	DisGeNet	
+GRIK1	C0038220	Status epilepticus	DisGeNet	
+GRIN2B	C0038220	Status epilepticus	DisGeNet	
+GRIA1	C0038587	Substance Withdrawal Syndrome	DisGeNet	
+GRM7	C0038587	Substance Withdrawal Syndrome	DisGeNet	
+FOLH1	C0008625	Chromosome Aberrations	DisGeNet	
+FPGS	C0008625	Chromosome Aberrations	DisGeNet	

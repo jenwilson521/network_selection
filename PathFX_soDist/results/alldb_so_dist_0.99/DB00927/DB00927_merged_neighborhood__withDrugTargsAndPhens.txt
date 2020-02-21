@@ -1,0 +1,5 @@
+node1	node2	edge_score	
+DB00927	CYP2C19	1.0	
+DB00927	SLC22A8	1.0	
+DB00927	SLC22A2	1.0	
+

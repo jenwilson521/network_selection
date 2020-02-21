@@ -1,0 +1,11 @@
+Gene	CUI	Source Databases	
+BCHE	C0877008	Enzyme inhibition disorder	DisGeNet	
+CYP3A4	C0877008	Enzyme inhibition disorder	DisGeNet	
+ACHE	C0023364	Leptospirosis	DisGeNet	
+BCHE	C0023364	Leptospirosis	DisGeNet	
+ACHE	C0002893	Refractory anemia	DisGeNet	
+BCHE	C0002893	Refractory anemia	DisGeNet	
+ACHE	C0002894	Refractory anaemia with excess blasts	DisGeNet	
+BCHE	C0002894	Refractory anaemia with excess blasts	DisGeNet	
+ACHE	C0751882	Congenital myasthenic syndrome	DisGeNet	
+BCHE	C0751882	Congenital myasthenic syndrome	DisGeNet	

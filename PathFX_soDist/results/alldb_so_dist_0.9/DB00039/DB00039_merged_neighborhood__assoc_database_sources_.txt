@@ -1,0 +1,499 @@
+Gene	CUI	Source Databases	
+FGFR4	C0006142	Breast-ovarian cancer, familial 1	DisGeNet	
+HSPG2	C0006142	Breast-ovarian cancer, familial 1	DisGeNet	
+NRP1	C0006142	Breast-ovarian cancer, familial 1	DisGeNet	
+FGFR4	C0007137	Squamous cell carcinoma	DisGeNet	
+HSPG2	C0007137	Squamous cell carcinoma	DisGeNet	
+NRP1	C0007137	Squamous cell carcinoma	DisGeNet	
+FGFR4	C0009402	Colorectal cancer 1	DisGeNet	
+HSPG2	C0009402	Colorectal cancer 1	DisGeNet	
+NRP1	C0009402	Colorectal cancer 1	DisGeNet	
+FGFR4	C0019693	Symptomatic human immunodeficiency virus infection	DisGeNet	
+HSPG2	C0019693	Symptomatic human immunodeficiency virus infection	DisGeNet	
+NRP1	C0019693	Symptomatic human immunodeficiency virus infection	DisGeNet	
+FGFR4	C0023434	Chronic Lymphocytic Leukemia	DisGeNet	
+HSPG2	C0023434	Chronic Lymphocytic Leukemia	DisGeNet	
+NRP1	C0023434	Chronic Lymphocytic Leukemia	DisGeNet	
+FGFR4	C0023903	Neoplasm of the liver	DisGeNet	
+HSPG2	C0023903	Neoplasm of the liver	DisGeNet	
+NRP1	C0023903	Neoplasm of the liver	DisGeNet	
+FGFR4	C0025202	Melanoma	DisGeNet	
+HSPG2	C0025202	Melanoma	DisGeNet	
+NRP1	C0025202	Melanoma	DisGeNet	
+FGFR4	C0027627	Secondary hypertriglyceridemia	DisGeNet	
+HSPG2	C0027627	Secondary hypertriglyceridemia	DisGeNet	
+NRP1	C0027627	Secondary hypertriglyceridemia	DisGeNet	
+FGFR4	C0033578	Prostatic Neoplasms	DisGeNet	
+HSPG2	C0033578	Prostatic Neoplasms	DisGeNet	
+NRP1	C0033578	Prostatic Neoplasms	DisGeNet	
+FGFR4	C0085110	Severe combined immunodeficiency due to ADA deficiency	DisGeNet	
+HSPG2	C0085110	Severe combined immunodeficiency due to ADA deficiency	DisGeNet	
+NRP1	C0085110	Severe combined immunodeficiency due to ADA deficiency	DisGeNet	
+FGFR4	C0178874	Tumor Progression	DisGeNet	
+HSPG2	C0178874	Tumor Progression	DisGeNet	
+NRP1	C0178874	Tumor Progression	DisGeNet	
+FGFR4	C0235974	Pancreatic Carcinoma	DisGeNet	
+HSPG2	C0235974	Pancreatic Carcinoma	DisGeNet	
+NRP1	C0235974	Pancreatic Carcinoma	DisGeNet	
+FGFR4	C0242379	Malignant neoplasm of lung	DisGeNet	
+HSPG2	C0242379	Malignant neoplasm of lung	DisGeNet	
+NRP1	C0242379	Malignant neoplasm of lung	DisGeNet	
+FGFR4	C0280100	Solid tumour	DisGeNet	
+HSPG2	C0280100	Solid tumour	DisGeNet	
+NRP1	C0280100	Solid tumour	DisGeNet	
+FGFR4	C0346647	Malignant neoplasm of pancreas	DisGeNet	
+HSPG2	C0346647	Malignant neoplasm of pancreas	DisGeNet	
+NRP1	C0346647	Malignant neoplasm of pancreas	DisGeNet	
+FGFR4	C0376358	Malignant tumor of prostate	DisGeNet	
+HSPG2	C0376358	Malignant tumor of prostate	DisGeNet	
+NRP1	C0376358	Malignant tumor of prostate	DisGeNet	
+FGFR4	C0596263	Carcinogenesis	DisGeNet	
+HSPG2	C0596263	Carcinogenesis	DisGeNet	
+NRP1	C0596263	Carcinogenesis	DisGeNet	
+FGFR4	C0600139	Prostate carcinoma	DisGeNet	
+HSPG2	C0600139	Prostate carcinoma	DisGeNet	
+NRP1	C0600139	Prostate carcinoma	DisGeNet	
+FGFR4	C0677886	Ovarian epithelial cancer	DisGeNet	
+HSPG2	C0677886	Ovarian epithelial cancer	DisGeNet	
+NRP1	C0677886	Ovarian epithelial cancer	DisGeNet	
+FGFR4	C0678222	Breast carcinoma	DisGeNet	
+HSPG2	C0678222	Breast carcinoma	DisGeNet	
+NRP1	C0678222	Breast carcinoma	DisGeNet	
+FGFR4	C0684249	Lung cancer	DisGeNet	
+HSPG2	C0684249	Lung cancer	DisGeNet	
+NRP1	C0684249	Lung cancer	DisGeNet	
+FGFR4	C0699790	Carcinoma of colon	DisGeNet	
+HSPG2	C0699790	Carcinoma of colon	DisGeNet	
+NRP1	C0699790	Carcinoma of colon	DisGeNet	
+FGFR4	C0699791	Stomach cancer	DisGeNet	
+HSPG2	C0699791	Stomach cancer	DisGeNet	
+NRP1	C0699791	Stomach cancer	DisGeNet	
+FGFR4	C1527249	Colorectal cancer	DisGeNet	
+HSPG2	C1527249	Colorectal cancer	DisGeNet	
+NRP1	C1527249	Colorectal cancer	DisGeNet	
+FGFR4	C2239176	Hepatocellular carcinoma	DisGeNet	
+HSPG2	C2239176	Hepatocellular carcinoma	DisGeNet	
+NRP1	C2239176	Hepatocellular carcinoma	DisGeNet	
+FGFR4	C0010606	Adenoid Cystic Carcinoma	DisGeNet	
+HSPG2	C0010606	Adenoid Cystic Carcinoma	DisGeNet	
+FGFR4	C0026640	Neoplasm of the oral cavity	DisGeNet	
+HSPG2	C0026640	Neoplasm of the oral cavity	HumPhenOnt	
+FGFR4	C0206180	Anaplastic large cell lymphoma, ALK negative	DisGeNet	
+NRP1	C0206180	Anaplastic large cell lymphoma, ALK negative	DisGeNet	
+FGFR4	C3811653	Experimental Organism Basal Cell Carcinoma	DisGeNet	
+NRP1	C3811653	Experimental Organism Basal Cell Carcinoma	DisGeNet	
+FGFR4	C0032000	Pituitary adenoma	DisGeNet	
+NRP1	C0032000	Pituitary adenoma	DisGeNet	
+FGFR4	C0238198	Gastrointestinal stromal tumor	DisGeNet	
+NRP1	C0238198	Gastrointestinal stromal tumor	DisGeNet	
+HSPG2	C0015306	Multiple congenital exostosis	DisGeNet	
+NRP1	C0023223	Leg Ulcer	DisGeNet	
+NRP1	C0039445	Hereditary hemorrhagic telangiectasia type 2	DisGeNet	
+FGFR4	C0521367	Oropharynx (excludes nasopharynx)	DisGeNet	
+HSPG2	C1851542	Limited hip movement	HumPhenOnt	
+FGFR4	C1961099	T-cell acute lymphoblastic leukemias	DisGeNet	
+NRP1	C1961099	T-cell acute lymphoblastic leukemias	DisGeNet	
+HSPG2	C0005747	Blepharospasm	HumPhenOnt	
+FGFR4	C0242387	Treacher Collins syndrome	DisGeNet	
+HSPG2	C0241703	High pitched voice	HumPhenOnt	
+FGFR4	C0278493	Breast cancer recurrent	DisGeNet	
+NRP1	C0015814	Femur Head Necrosis	DisGeNet	
+FGFR4	C0221406	Pituitary dependent hypercortisolism	DisGeNet	
+NRP1	C0812437	Oculodentodigital dysplasia	DisGeNet	
+HSPG2	C0009918	Joint contractures involving the joints of the feet	HumPhenOnt	
+HSPG2	C0239138	Coxa vara	HumPhenOnt	
+HSPG2	C0040761	Transposition of the great arteries, dextro-looped 2	DisGeNet	
+HSPG2	C1837731	Overfolded helix	HumPhenOnt	
+HSPG2	C0014527	Epidermolysis bullosa, junctional	DisGeNet	
+NRP1	C0041206	Truncus arteriosus	DisGeNet	
+FGFR4	C0409952	Generalized osteoarthritis	DisGeNet	
+FGFR4	C0851887	Adenoviral infections	DisGeNet	
+HSPG2	C1970777	Abnormally folded helix	HumPhenOnt	
+HSPG2	C4025034	Abnormality of femoral epiphysis	HumPhenOnt	
+HSPG2	C4021595	Abnormality of lower limb epiphysis morphology	HumPhenOnt	
+HSPG2	C0010674	Cystic Fibrosis	DisGeNet	
+NRP1	C0010674	Cystic Fibrosis	DisGeNet	
+HSPG2	C0028880	Odontogenic neoplasm	HumPhenOnt	
+HSPG2	C0276623	Chronic viral hepatitis	DisGeNet	
+HSPG2	C0013581	Ectopia lentis, isolated autosomal recessive	HumPhenOnt	
+HSPG2	C0222716	Wormian bones	HumPhenOnt	
+FGFR4	C1512409	Hepatocarcinogenesis	DisGeNet	
+HSPG2	C1512409	Hepatocarcinogenesis	DisGeNet	
+HSPG2	C0014518	Toxic Epidermal Necrolysis	DisGeNet	
+HSPG2	C0016037	Progressive myositis ossificans	DisGeNet	
+HSPG2	C0264303	Laryngomalacia	HumPhenOnt	
+HSPG2	C0239137	Coxa valga	HumPhenOnt	
+FGFR4	C0040136	Thyroid Neoplasms	DisGeNet	
+HSPG2	C0040136	Thyroid Neoplasms	DisGeNet	
+NRP1	C0751587	CADASIL	DisGeNet	
+HSPG2	C0151332	Active tuberculosis	DisGeNet	
+HSPG2	C1184923	Lumbar hyperlordosis	HumPhenOnt	
+NRP1	C0032987	Ectopic Pregnancy	DisGeNet	
+HSPG2	C0027707	Tubulointerstitial nephritis	DisGeNet	
+NRP1	C0029445	Bone necrosis	DisGeNet	
+NRP1	C0042344	Varicose Ulcer	DisGeNet	
+NRP1	C0085548	Autosomal recessive polycystic kidney disease	DisGeNet	
+HSPG2	C0343284	Chondrodysplasia acromesomelic with genital anomalies	DisGeNet	
+FGFR4	C0346302	Somatotroph adenoma	DisGeNet	
+FGFR4	C0553694	Oropharyngeal disorders	DisGeNet	
+FGFR4	C1306214	Pituitary corticotropic cell adenoma	DisGeNet	
+HSPG2	C4023011	Craniofacial dystonia	HumPhenOnt	
+HSPG2	C1263846	Attention deficit hyperactivity disorder	HumPhenOnt	
+NRP1	C1263846	Attention deficit hyperactivity disorder	DisGeNet	
+HSPG2	C0424448	Mask-like facies	HumPhenOnt	
+HSPG2	C1842366	Low anterior hairline	HumPhenOnt	
+HSPG2	C4021739	Abnormality of the acetabulum	HumPhenOnt	
+FGFR4	C0011581	Depressive Disorder	DisGeNet	
+NRP1	C0011581	Depressive Disorder	DisGeNet	
+HSPG2	C0024591	Malignant hyperthermia susceptibility	HumPhenOnt	
+FGFR4	C0585362	Squamous cell carcinoma of mouth	DisGeNet	
+HSPG2	C4025659	Abnormality of the shoulder	HumPhenOnt	
+HSPG2	C0013386	Dyskinesia, Drug-Induced	DisGeNet	
+FGFR4	C0029454	Osteopetrosis autosomal recessive 4	DisGeNet	
+FGFR4	C0011570	{Unipolar depression, susceptibility to}, 608516 (3)	DisGeNet	
+NRP1	C0011570	{Unipolar depression, susceptibility to}, 608516 (3)	DisGeNet	
+HSPG2	C0854699	Trichomegaly	HumPhenOnt	
+NRP1	C0042111	Urticaria Pigmentosa	DisGeNet	
+NRP1	C0004779	Gorlin syndrome	DisGeNet	
+NRP1	C0152136	Low Tension Glaucoma	DisGeNet	
+NRP1	C0750974	Brain Tumor, Primary	DisGeNet	
+HSPG2	C2720437	Elbow dislocation	HumPhenOnt	
+HSPG2	C0011226	Hepatitis D Infection	DisGeNet	
+HSPG2	C4022517	Upper extremity joint dislocation	HumPhenOnt	
+HSPG2	C0743332	Focal dystonia	HumPhenOnt	
+NRP1	C0024899	Mastocytosis	DisGeNet	
+HSPG2	C1849039	Metaphyseal widening	HumPhenOnt	
+HSPG2	C0542514	Blue sclerae	HumPhenOnt	
+NRP1	C3714506	Meckel syndrome type 6	DisGeNet	
+FGFR4	C0221026	X-linked agammaglobulinemia	DisGeNet	
+NRP1	C0162809	Hypogonadism with anosmia	DisGeNet	
+FGFR4	C1301034	Pancreatic intraepithelial neoplasia	DisGeNet	
+HSPG2	C0546837	Malignant tumor of esophagus	DisGeNet	
+NRP1	C0546837	Malignant tumor of esophagus	DisGeNet	
+HSPG2	C0041296	Tuberculosis	DisGeNet	
+NRP1	C0041296	Tuberculosis	DisGeNet	
+FGFR4	C0549473	Thyroid carcinoma	DisGeNet	
+NRP1	C0549473	Thyroid carcinoma	DisGeNet	
+FGFR4	C0598766	Leukemogenesis	DisGeNet	
+HSPG2	C0598766	Leukemogenesis	DisGeNet	
+HSPG2	C0686347	Tardive Dyskinesia	DisGeNet	
+HSPG2	C1853241	Flat face	HumPhenOnt	
+HSPG2	C0002448	Ameloblastoma	DisGeNet	
+FGFR4	C0004114	Astrocytoma	DisGeNet	
+NRP1	C0004114	Astrocytoma	DisGeNet	
+FGFR4	C0001973	Alcohol dependence	DisGeNet	
+NRP1	C0001973	Alcohol dependence	DisGeNet	
+NRP1	C0154830	Proliferative diabetic retinopathy	DisGeNet	
+FGFR4	C0178421	Fibroadenoma of the breast	DisGeNet	
+HSPG2	C0014859	Esophageal Neoplasms	DisGeNet	
+NRP1	C0014859	Esophageal Neoplasms	DisGeNet	
+NRP1	C0035344	Retinopathy of Prematurity	DisGeNet	
+HSPG2	C4025839	Abnormality of the frontal hairline	HumPhenOnt	
+HSPG2	C0019825	Dysphonia	HumPhenOnt	
+HSPG2	C4021593	Abnormality of limb epiphysis morphology	HumPhenOnt	
+HSPG2	C4025840	Abnormality of the sclera	HumPhenOnt	
+HSPG2	C1862474	Decreased facial expression	HumPhenOnt	
+NRP1	C0025268	Multiple Endocrine Neoplasia Type 2a	DisGeNet	
+FGFR4	C1337011	Well Differentiated Pancreatic Endocrine Tumor	DisGeNet	
+HSPG2	C0009917	Contractures involving the joints of the feet	HumPhenOnt	
+HSPG2	C1866231	Full cheeks	HumPhenOnt	
+HSPG2	C0152115	Orofacial dyskinesia	DisGeNet	
+HSPG2	C4022922	Abnormal enzyme/coenzyme activity	HumPhenOnt	
+NRP1	C0027686	Pathologic Neovascularization	DisGeNet	
+HSPG2	C1511789	Desmoplastic spindle and epithelioid cell melanocytic nevus of skin	DisGeNet	
+HSPG2	C4025209	Abnormal facial expression	HumPhenOnt	
+FGFR4	C0432306	Ichthyosis bullosa of Siemens	DisGeNet	
+FGFR4	C0010054	Coronary heart disease 7	DisGeNet	
+HSPG2	C0010054	Coronary heart disease 7	DisGeNet	
+HSPG2	C0022658	Kidney Diseases	DisGeNet	
+NRP1	C0022658	Kidney Diseases	DisGeNet	
+FGFR4	C0031117	Peripheral neuropathy, myopathy, hoarseness, and hearing loss	DisGeNet	
+NRP1	C0031117	Peripheral neuropathy, myopathy, hoarseness, and hearing loss	DisGeNet	
+HSPG2	C0025995	Micromelia	DisGeNet,HumPhenOnt	
+HSPG2	C0038325	Stevens-Johnson Syndrome	DisGeNet	
+FGFR4	C0175702	Williams syndrome	DisGeNet	
+FGFR4	C0023474	Leukemia, Myeloid, Chronic-Phase	DisGeNet	
+HSPG2	C0426790	Narrow chest	HumPhenOnt	
+HSPG2	C4025828	Abnormality of the scapula	HumPhenOnt	
+HSPG2	C1844704	Chondrodysplasia with platyspondyly, distinctive brachydactyly, hydrocephaly, and microphthalmia	HumPhenOnt	
+HSPG2	C1856660	Abnormality of the helix	HumPhenOnt	
+FGFR4	C0008487	Chordoma	DisGeNet	
+HSPG2	C0920646	Renal ischaemia	DisGeNet	
+HSPG2	C0930569	Everted lower lip vermilion	HumPhenOnt	
+HSPG2	C1859523	Contractures of the joints of the lower limbs	HumPhenOnt	
+FGFR4	C0019163	Acute type B viral hepatitis	DisGeNet	
+HSPG2	C0019163	Acute type B viral hepatitis	DisGeNet	
+FGFR4	C0206655	Alveolar rhabdomyosarcoma	DisGeNet	
+HSPG2	C3550430	Eclabion	HumPhenOnt	
+HSPG2	C0024636	Dental malocclusion	HumPhenOnt	
+HSPG2	C0576093	Genu valgum	HumPhenOnt	
+HSPG2	C4025745	Abnormality of the metatarsal bones	HumPhenOnt	
+HSPG2	C0020505	Polyphagia	DisGeNet	
+HSPG2	C0158731	Pectus carinatum	HumPhenOnt	
+HSPG2	C0029464	Increased bone mineral density	HumPhenOnt	
+FGFR4	C0206656	Embryonal rhabdomyosarcoma	DisGeNet	
+HSPG2	C0265783	Pulmonary hypoplasia	HumPhenOnt	
+HSPG2	C0266544	Microcornea	HumPhenOnt	
+HSPG2	C4021744	Abnormality of the wrist	HumPhenOnt	
+FGFR4	C0023449	Acute lymphoid leukemia	DisGeNet	
+NRP1	C0023449	Acute lymphoid leukemia	DisGeNet	
+HSPG2	C0345392	Congenital kyphoscoliosis	HumPhenOnt	
+HSPG2	C4024996	Aplasia/Hypoplasia of the lungs	HumPhenOnt	
+HSPG2	C1837482	Thoracic hypoplasia	HumPhenOnt	
+HSPG2	C1842876	Depressed nasal ridge	HumPhenOnt	
+HSPG2	C3805917	Elevated pulmonary artery pressure	HumPhenOnt	
+HSPG2	C4280730	Abnormality of pulmonary circulation	HumPhenOnt	
+HSPG2	C0205647	Follicular adenoma	DisGeNet	
+HSPG2	C4025628	Abnormal enchondral ossification	HumPhenOnt	
+HSPG2	C0005744	Blepharophimosis, ptosis, and epicanthus inversus	HumPhenOnt	
+HSPG2	C0022107	Irritability	HumPhenOnt	
+HSPG2	C1849211	Generalized hirsutism	HumPhenOnt	
+HSPG2	C4025621	Abnormality of the femoral neck	HumPhenOnt	
+NRP1	C0010692	Cystitis	DisGeNet	
+HSPG2	C1849510	Prenatal movement abnormality	HumPhenOnt	
+HSPG2	C0241240	Tall stature	HumPhenOnt	
+HSPG2	C4022603	Abnormal vascular physiology	HumPhenOnt	
+HSPG2	C0205350	Disproportionate short stature	HumPhenOnt	
+FGFR4	C0585442	Osteosarcoma	DisGeNet	
+NRP1	C0585442	Osteosarcoma	DisGeNet	
+FGFR4	C0919267	Ovarian Neoplasms	DisGeNet	
+NRP1	C0919267	Ovarian Neoplasms	DisGeNet	
+HSPG2	C0024003	Hyperlordosis	HumPhenOnt	
+HSPG2	C0332878	Congenital contractures of the limbs and face, hypotonia, and developmental delay	HumPhenOnt	
+HSPG2	C0241355	Decreased testicular size	HumPhenOnt	
+HSPG2	C4025802	Abnormality of corneal size	HumPhenOnt	
+FGFR4	C0020437	Hypercalcemia, infantile, 2	DisGeNet	
+NRP1	C1840451	Multicystic renal dysplasia, bilateral	DisGeNet	
+HSPG2	C0023480	Chronic myelomonocytic leukemia	DisGeNet	
+HSPG2	C4024297	Abnormality of the hairline	HumPhenOnt	
+HSPG2	C0003886	Arthrogryposis multiplex congenita, neurogenic, with myelin defect	HumPhenOnt	
+HSPG2	C0007766	Intracranial Aneurysm	DisGeNet	
+HSPG2	C0392525	Nephrolithiasis	DisGeNet,HumPhenOnt	
+FGFR4	C0020523	Immediate hypersensitivity	DisGeNet	
+NRP1	C0349566	Squamous cell carcinoma of tongue	DisGeNet	
+HSPG2	C2265792	Skeletal muscle hypertrophy	HumPhenOnt	
+FGFR4	C0079774	Peripheral T-Cell Lymphoma	DisGeNet	
+HSPG2	C0231528	Myalgia	HumPhenOnt	
+HSPG2	C0013264	Duchenne muscular dystrophy	DisGeNet	
+HSPG2	C0026034	Narrow mouth	HumPhenOnt	
+FGFR4	C0398623	Thrombophilia	DisGeNet	
+HSPG2	C1854113	Prominent nasal bridge	HumPhenOnt	
+HSPG2	C1858430	Death in infancy	HumPhenOnt	
+HSPG2	C0020224	Polyhydramnios	HumPhenOnt	
+HSPG2	C0019555	Acetabular dysplasia	HumPhenOnt	
+HSPG2	C0162298	Joint stiffness	HumPhenOnt	
+HSPG2	C0262630	Short attention span	HumPhenOnt	
+HSPG2	C0544755	Bowing of limbs due to multiple fractures	HumPhenOnt	
+HSPG2	C4025838	Abnormality of the pharynx	HumPhenOnt	
+NRP1	C0027809	Schwannoma	DisGeNet	
+FGFR4	C0878500	Intraepithelial Neoplasia	DisGeNet	
+HSPG2	C4021777	Abnormality of the larynx	HumPhenOnt	
+HSPG2	C4023817	Aplasia/Hypoplasia of the testes	HumPhenOnt	
+FGFR4	C0699885	Bladder carcinoma	DisGeNet	
+NRP1	C0699885	Bladder carcinoma	DisGeNet	
+HSPG2	C4023398	Congenital abnormal hair pattern	HumPhenOnt	
+FGFR4	C0007117	Basal cell carcinoma	DisGeNet	
+HSPG2	C0011854	Diabetes mellitus type 1	DisGeNet	
+NRP1	C0011854	Diabetes mellitus type 1	DisGeNet	
+FGFR4	C0334579	Anaplastic astrocytoma	DisGeNet	
+HSPG2	C4025324	Abnormality of the cheek	HumPhenOnt	
+HSPG2	C0009450	Verotoxigenic Escherichia coli gastrointestinal tract infection	DisGeNet	
+NRP1	C0009450	Verotoxigenic Escherichia coli gastrointestinal tract infection	DisGeNet	
+HSPG2	C4023407	Abnormality of mouth shape	HumPhenOnt	
+HSPG2	C0018939	Hematological Disease	DisGeNet	
+HSPG2	C4021904	Abnormal size of the palpebral fissures	HumPhenOnt	
+FGFR4	C0341439	Chronic liver disease	DisGeNet	
+HSPG2	C1854912	Short long bone	HumPhenOnt	
+NRP1	C0015397	orbit (eye disorders)	DisGeNet	
+HSPG2	C4073180	Abnormality of the testis size	HumPhenOnt	
+FGFR4	C0024121	Lung Neoplasms	DisGeNet	
+NRP1	C0024121	Lung Neoplasms	DisGeNet	
+HSPG2	C0019554	Hip Dislocation, Congenital	HumPhenOnt	
+HSPG2	C4023721	Abnormal hair pattern	HumPhenOnt	
+HSPG2	C0476403	EMG abnormality	HumPhenOnt	
+HSPG2	C4021386	Abnormality of the elbow	HumPhenOnt	
+HSPG2	C4021832	Abnormality of the calf	HumPhenOnt	
+HSPG2	C2675111	Abnormality of the eyelashes	HumPhenOnt	
+HSPG2	C0158113	Joint contracture of the hand	HumPhenOnt	
+HSPG2	C0003578	Apnea	HumPhenOnt	
+HSPG2	C0019572	Hirsutism	HumPhenOnt	
+FGFR4	C0206663	Primitive neuroectodermal tumor	DisGeNet	
+HSPG2	C4021202	Abnormality of the nasal dorsum	HumPhenOnt	
+HSPG2	C4025883	Abnormality of lower lip	HumPhenOnt	
+HSPG2	C0015811	Abnormality of femur morphology	HumPhenOnt	
+HSPG2	C0016842	Pectus excavatum	HumPhenOnt	
+FGFR4	C0022104	Irritable bowel syndrome with diarrhea	DisGeNet	
+HSPG2	C4022516	Lower extremity joint dislocation	HumPhenOnt	
+HSPG2	C0016202	Pes planus	HumPhenOnt	
+HSPG2	C1858085	Malar flattening	HumPhenOnt	
+FGFR4	C1292778	Myeloproliferative disorder (2)	DisGeNet	
+NRP1	C0553723	Squamous cell carcinoma of the skin	DisGeNet	
+NRP1	C0024232	Lymphatic Metastasis	DisGeNet	
+NRP1	C0027626	Neoplasm Invasiveness	DisGeNet	
+HSPG2	C4022926	Abnormality of malar bones	HumPhenOnt	
+HSPG2	C0004153	Atherosclerosis	DisGeNet	
+NRP1	C0004153	Atherosclerosis	DisGeNet	
+FGFR4	C0085129	Bronchial Hyperreactivity	DisGeNet	
+HSPG2	C1855340	Bowing of the long bones	HumPhenOnt	
+HSPG2	C0006625	Cachexia	HumPhenOnt	
+HSPG2	C4020870	Abnormality of the hip joint	HumPhenOnt	
+HSPG2	C0019294	Inguinal hernia	HumPhenOnt	
+HSPG2	C4021594	Anomaly of the limb diaphyses	HumPhenOnt	
+HSPG2	C4018849	Abnormal fear/anxiety-related behavior	HumPhenOnt	
+HSPG2	C4025225	Abnormality of the synovia	HumPhenOnt	
+HSPG2	C0041107	Trisomy	DisGeNet	
+HSPG2	C1849338	Abnormality of the umbilicus	HumPhenOnt	
+HSPG2	C1857486	Low-set, posteriorly rotated ears	HumPhenOnt	
+HSPG2	C2750635	Contractures of the joints of the upper limbs	HumPhenOnt	
+NRP1	C0039685	Tetralogy of Fallot	DisGeNet,PheGenI	
+FGFR4	C0206659	Embryonal Carcinoma	DisGeNet	
+HSPG2	C0020445	Familial hypercholesterolemia	DisGeNet	
+HSPG2	C1842083	Abnormality of the ribs	HumPhenOnt	
+NRP1	C0022735	Hypogonadotropic hypogonadism 7 with or without anosmia	DisGeNet	
+HSPG2	C1839864	Flexion contracture of digit	HumPhenOnt	
+HSPG2	C4021611	Abnormality of epiphysis morphology	HumPhenOnt	
+HSPG2	C0019322	Umbilical hernia	HumPhenOnt	
+HSPG2	C4023749	Abnormality of the zygomatic bone	HumPhenOnt	
+HSPG2	C1840382	Abnormality of the ureter	HumPhenOnt	
+HSPG2	C4022384	Abnormality of the scalp hair	HumPhenOnt	
+FGFR4	C0024299	Lymphoma, Large B-Cell, Diffuse	DisGeNet	
+NRP1	C0024299	Lymphoma, Large B-Cell, Diffuse	DisGeNet	
+HSPG2	C1290508	Abnormal number of teeth	HumPhenOnt	
+HSPG2	C1852504	Misalignment of teeth	HumPhenOnt	
+FGFR4	C1956346	Coronary Artery Disease	DisGeNet	
+HSPG2	C1956346	Coronary Artery Disease	DisGeNet	
+FGFR4	C0005684	Malignant tumor of urinary bladder	DisGeNet	
+NRP1	C0005684	Malignant tumor of urinary bladder	DisGeNet	
+HSPG2	C4021787	Abnormal diaphysis morphology	HumPhenOnt	
+HSPG2	C4025676	Abnormality of the knee	HumPhenOnt	
+HSPG2	C1837388	Abnormal pattern of respiration	HumPhenOnt	
+HSPG2	C4025734	Abnormality of the scalp	HumPhenOnt	
+HSPG2	C0015943	Fetal Membranes, Premature Rupture	DisGeNet	
+HSPG2	C4023591	Abnormality of circulating enzyme level	HumPhenOnt	
+HSPG2	C0008495	Chorioamnionitis	DisGeNet	
+HSPG2	C0241005	Elevated serum creatine phosphokinase	HumPhenOnt	
+HSPG2	C1865014	Long philtrum	HumPhenOnt	
+HSPG2	C4023412	Abnormality of cranial sutures	HumPhenOnt	
+HSPG2	C0151888	Hyporeflexia	HumPhenOnt	
+FGFR4	C0007134	Renal cell carcinoma, nonpapillary	DisGeNet	
+NRP1	C0007134	Renal cell carcinoma, nonpapillary	DisGeNet	
+HSPG2	C0376634	Craniofacial malformations, asymmetric, with polysyndactyly and abnormal skin and gut development	DisGeNet	
+HSPG2	C0022876	Premature Obstetric Labor	DisGeNet	
+HSPG2	C0266781	Abnormality of the amniotic fluid	HumPhenOnt	
+HSPG2	C0029422	Skeletal dysplasia	DisGeNet,HumPhenOnt	
+HSPG2	C4023408	Abnormality of mouth size	HumPhenOnt	
+NRP1	C0242596	Neoplasm, Residual	DisGeNet	
+NRP1	C0206708	Cervical intraepithelial neoplasia (Cervical dysplasia)	DisGeNet	
+HSPG2	C0344722	Abnormality of the atrial septum	HumPhenOnt	
+HSPG2	C4022457	Abnormal morphology of bones of the lower limbs	HumPhenOnt	
+HSPG2	C0003467	Anxiety	HumPhenOnt	
+HSPG2	C4025246	Abnormality of cardiac atrium	HumPhenOnt	
+FGFR4	C1762616	Meningioma, benign, no ICD-O subtype	DisGeNet	
+HSPG2	C0424295	Hyperactivity	HumPhenOnt	
+HSPG2	C1839326	Abnormal form of the vertebral bodies	HumPhenOnt	
+HSPG2	C0206624	Hepatoblastoma	DisGeNet	
+HSPG2	C0521525	Short neck	HumPhenOnt	
+FGFR4	C0007114	Skin cancer	DisGeNet	
+HSPG2	C0008479	Chondrosarcoma	DisGeNet	
+HSPG2	C0012691	Joint dislocation	HumPhenOnt	
+NRP1	C0162835	Hypopigmentation of the skin	DisGeNet	
+HSPG2	C1546180	Age of death	HumPhenOnt	
+HSPG2	C1969879	Limb joint contracture	HumPhenOnt	
+HSPG2	C4022499	Mortality/Aging	HumPhenOnt	
+HSPG2	C0936223	Metastatic Prostate Carcinoma	DisGeNet	
+FGFR4	C3266877	Secondary malignant neoplasm of pancreas	DisGeNet	
+NRP1	C3266877	Secondary malignant neoplasm of pancreas	DisGeNet	
+NRP1	C0002793	Anaplasia	DisGeNet	
+HSPG2	C0007133	Carcinoma, Papillary	DisGeNet	
+HSPG2	C0541764	Delayed skeletal maturation	HumPhenOnt	
+HSPG2	C1832160	Abnormality of temperature regulation	HumPhenOnt	
+FGFR4	C0029928	Ovarian Diseases	DisGeNet	
+HSPG2	C4025161	Positional foot deformity	HumPhenOnt	
+HSPG2	C4025763	Abnormality of the rib cage	HumPhenOnt	
+HSPG2	C4021776	Abnormality of the voice	HumPhenOnt	
+NRP1	C0338106	Adenocarcinoma of colon	DisGeNet	
+FGFR4	C0700095	Neuroblastoma	DisGeNet	
+NRP1	C0700095	Neuroblastoma	DisGeNet	
+HSPG2	C1852464	Abnormality of the cervical spine	HumPhenOnt	
+HSPG2	C1857108	Limitation of joint mobility	HumPhenOnt	
+FGFR4	C0027022	Myeloproliferative Disorders	DisGeNet	
+HSPG2	C0431478	Posteriorly rotated ears	HumPhenOnt	
+HSPG2	C1860493	Abnormality of the sternum	HumPhenOnt	
+FGFR4	C0017636	Glioblastoma	DisGeNet	
+NRP1	C0017636	Glioblastoma	DisGeNet	
+FGFR4	C0020538	Hypertension	DisGeNet	
+HSPG2	C0020538	Hypertension	DisGeNet	
+NRP1	C0023448	Lymphoid leukemia	DisGeNet	
+NRP1	C0206754	Neuroendocrine neoplasm	DisGeNet	
+HSPG2	C0016057	Fibrosarcoma	DisGeNet	
+NRP1	C0031511	Pheochromocytoma	DisGeNet	
+HSPG2	C4020755	Abnormality of fontanelles	HumPhenOnt	
+FGFR4	C0001418	 Adenocarcinoma, ovarian, somatic, 167000 (3)	DisGeNet	
+NRP1	C0001418	 Adenocarcinoma, ovarian, somatic, 167000 (3)	DisGeNet	
+HSPG2	C4083076	Increased head circumference	HumPhenOnt	
+FGFR4	C0151779	Cutaneous malignant melanoma 3	DisGeNet	
+HSPG2	C0022821	Kyphosis	HumPhenOnt	
+NRP1	C0345967	Malignant mesothelioma	DisGeNet	
+FGFR4	C0017185	Gastrointestinal Neoplasms	DisGeNet	
+HSPG2	C4025818	Abnormality of skeletal maturation	HumPhenOnt	
+FGFR4	C0007102	Colon cancer	DisGeNet	
+NRP1	C0007102	Colon cancer	DisGeNet	
+FGFR4	C0023467	Acute myeloid leukemia	DisGeNet	
+NRP1	C0023467	Acute myeloid leukemia	DisGeNet	
+NRP1	C0011884	Diabetic Retinopathy	DisGeNet	
+NRP1	C0917798	Cerebral ischemia	DisGeNet	
+HSPG2	C4023679	Abnormality of circulating protein level	HumPhenOnt	
+NRP1	C0027643	Neoplasm Recurrence, Local	DisGeNet	
+HSPG2	C0221355	Macrocephaly, dysmorphic facies, and psychomotor retardation	HumPhenOnt	
+HSPG2	C0009081	Clubfoot	HumPhenOnt	
+HSPG2	C1442978	Hernia of the abdominal wall	HumPhenOnt	
+FGFR4	C0032584	polyps	DisGeNet	
+NRP1	C0149978	Rectal Carcinoma	DisGeNet	
+HSPG2	C0238577	Abdominal wall defect	HumPhenOnt	
+NRP1	C0007124	Noninfiltrating Intraductal Carcinoma	DisGeNet	
+HSPG2	C0020473	Hyperlipidemia, combined, 1	DisGeNet	
+HSPG2	C2674608	Feeding difficulties in infancy	HumPhenOnt	
+NRP1	C0007785	Ischaemic cerebral infarction	DisGeNet	
+HSPG2	C4021735	Abnormality of the hip bone	HumPhenOnt	
+HSPG2	C0158775	Abnormality of the vertebrae	HumPhenOnt	
+FGFR4	C0279628	Adenocarcinoma Of Esophagus	DisGeNet	
+HSPG2	C1857045	Abnormality of the philtrum	HumPhenOnt	
+HSPG2	C4025727	Abnormality of the upper respiratory tract	HumPhenOnt	
+FGFR4	C0023418	Leukemia, Lymphocytic, Chronic, B-Cell	DisGeNet	
+NRP1	C0023418	Leukemia, Lymphocytic, Chronic, B-Cell	DisGeNet	
+HSPG2	C0700078	Reduced tendon reflexes	HumPhenOnt	
+HSPG2	C0013421	Dystonia 2, torsion, autosomal recessive	HumPhenOnt	
+HSPG2	C3203102	Pulmonary arterial hypertension	HumPhenOnt	
+HSPG2	C4021387	Abnormality of upper limb joint	HumPhenOnt	
+HSPG2	C4021811	Abnormality of the midface	HumPhenOnt	
+NRP1	C0281361	Pancreatic adenocarcinoma	DisGeNet	
+FGFR4	C1516170	Cancer Cell Growth	DisGeNet	
+FGFR4	C0032019	Pituitary Neoplasms	DisGeNet	
+HSPG2	C1849367	Wide nasal bridge	HumPhenOnt	
+HSPG2	C0036341	Schizophrenia	DisGeNet	
+NRP1	C0036341	Schizophrenia	DisGeNet	
+HSPG2	C4021664	Abnormality of the abdominal wall	HumPhenOnt	
+HSPG2	C4025843	Abnormality of refraction	HumPhenOnt	
+FGFR4	C1140680	BREAST-OVARIAN CANCER, FAMILIAL, SUSCEPTIBILITY TO, 4	DisGeNet	
+NRP1	C1140680	BREAST-OVARIAN CANCER, FAMILIAL, SUSCEPTIBILITY TO, 4	DisGeNet	
+FGFR4	C0011860	Diabetes mellitus type 2	DisGeNet	
+HSPG2	C0011860	Diabetes mellitus type 2	DisGeNet	
+HSPG2	C4011556	Abnormality of the eyebrow	HumPhenOnt	
+HSPG2	C0031099	Periodontitis	DisGeNet	
+FGFR4	C0007131	Non-small cell lung carcinoma	DisGeNet	
+NRP1	C0007131	Non-small cell lung carcinoma	DisGeNet	
+FGFR4	C0018671	Head and Neck Neoplasms	DisGeNet	
+FGFR4	C0020542	Pulmonary hypertension, neonatal, susceptibility to	DisGeNet	
+NRP1	C0003130	Hypoxia	DisGeNet	
+HSPG2	C4020971	Abnormality of lower limb joint	HumPhenOnt	
+HSPG2	C0003811	Arrhythmias, Cardiac	HumPhenOnt	
+HSPG2	C2674432	Reduced bone mineral density	HumPhenOnt	
+HSPG2	C0240635	High palate	HumPhenOnt	
+HSPG2	C1852534	Hypoplastic male external genitalia	HumPhenOnt	
+FGFR4	C0024623	{Gastric cancer risk after H. pylori infection}, 137215 (3)	DisGeNet	
+NRP1	C0024623	{Gastric cancer risk after H. pylori infection}, 137215 (3)	DisGeNet	
+HSPG2	C0019270	Hernia	HumPhenOnt	
+HSPG2	C4020847	Abnormality of pelvic girdle bone morphology	HumPhenOnt	
+FGFR4	C0011849	Diabetes Mellitus, Type 1	DisGeNet	
+HSPG2	C0011849	Diabetes Mellitus, Type 1	DisGeNet	
+HSPG2	C4021983	Abnormality of the hard palate	HumPhenOnt	

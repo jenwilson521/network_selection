@@ -1,0 +1,4 @@
+node1	node2	edge_score	
+DB01077	ATP6V1A	1.0	
+DB01077	PTPRS	1.0	
+

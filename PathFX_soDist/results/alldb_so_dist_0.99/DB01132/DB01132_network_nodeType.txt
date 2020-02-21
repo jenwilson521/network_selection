@@ -1,0 +1,12 @@
+node_name	node_type	
+DB01132	drug	
+CYP2C9	drug_target	
+CYP2C8	drug_target	
+PTGS1	drug_target	
+MAOB	drug_target	
+PPARD	drug_target	
+SLCO1B1	drug_target	
+PPARG	drug_target	
+SLCO1B3	drug_target	
+PPARA	drug_target	
+CYP3A4	drug_target	

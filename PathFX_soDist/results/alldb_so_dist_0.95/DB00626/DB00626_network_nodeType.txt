@@ -1,0 +1,74 @@
+node_name	node_type	
+DB00626	drug	
+IDE	drug_target	
+A2M	drug_target	
+Alzheimer Disease	phenotype	
+Amyloidosis	phenotype	
+Hemolytic anemia, nonspherocytic, due to glucose phosphate isomerase deficiency	phenotype	
+Arthritis, Rheumatoid	phenotype	
+Rheumatoid arthritis	phenotype	
+Astrocytoma	phenotype	
+Neoplasm of the colon	phenotype	
+Cystic Fibrosis	phenotype	
+Plaque, Atherosclerotic	phenotype	
+{Unipolar depression, susceptibility to}, 608516 (3)	phenotype	
+Diabetes Mellitus, Type 1	phenotype	
+Gallbladder disease 4	phenotype	
+Experimental Autoimmune Encephalomyelitis	phenotype	
+Femur Head Necrosis	phenotype	
+Malignant hyperthermia susceptibility type 5	phenotype	
+Membranous nephropathy, susceptibility to	phenotype	
+Cardiomegaly	phenotype	
+Wilson disease	phenotype	
+Inflammation	phenotype	
+Keratoconus	phenotype	
+Acute kidney injury	phenotype	
+Liposarcoma	phenotype	
+Liver Cirrhosis, Biliary	phenotype	
+Neoplasm of the liver	phenotype	
+Pulmonary Disease, Chronic Obstructive	phenotype	
+Chronic obstructive pulmonary disease	phenotype	
+Lung Neoplasms	phenotype	
+Melanoma	phenotype	
+Multiple Sclerosis	phenotype	
+Myocardial Infarction	phenotype	
+Nasal polyposis	phenotype	
+Secondary hypertriglyceridemia	phenotype	
+Nephrotic syndrome, type 5, with or without ocular abnormalities	phenotype	
+Osteoarthritis	phenotype	
+Pancreatitis	phenotype	
+Parkinson Disease	phenotype	
+Peritonitis	phenotype	
+Prostatic Neoplasms	phenotype	
+Pulmonary Emphysema	phenotype	
+ {Septic shock, susceptibility to} (3)	phenotype	
+Stroke	phenotype	
+Thromboembolism	phenotype	
+Urinary incontinence	phenotype	
+Cerebral Amyloid Angiopathy	phenotype	
+Deep venous thrombosis	phenotype	
+Deep thrombophlebitis	phenotype	
+Hepatocellular adenoma	phenotype	
+Alpha-1-antitrypsin deficiency	phenotype	
+Hypoalbuminemia	phenotype	
+Age-related macular degeneration 2	phenotype	
+Sepsis	phenotype	
+Senile plaques	phenotype	
+Deep vein thrombosis of lower limb	phenotype	
+Malignant tumor of prostate	phenotype	
+Thrombophilia	phenotype	
+Autosomal dominant non-syndromic sensorineural deafness type DFNA	phenotype	
+Neurodegenerative Diseases	phenotype	
+Hepatitis C, Chronic	phenotype	
+Prostate carcinoma	phenotype	
+Obstructive lung disease	phenotype	
+Chronic lung disease	phenotype	
+Lewy Body Disease	phenotype	
+Diabetic Cardiomyopathies	phenotype	
+Ischemic stroke	phenotype	
+Benign Prostatic Hyperplasia	phenotype	
+Aural atresia, congenital	phenotype	
+Hepatocellular carcinoma	phenotype	
+Secondary malignant neoplasm of pancreas	phenotype	
+Ischemic Cerebrovascular Accident	phenotype	
+alpha-1-Antitrypsin Deficiency, Autosomal Recessive	phenotype	

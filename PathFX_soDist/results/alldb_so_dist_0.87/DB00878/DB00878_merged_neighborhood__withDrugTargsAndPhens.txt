@@ -1,0 +1,46 @@
+node1	node2	edge_score	
+DB00878	HNMT	1.0	
+HNMT		1.0
+Alcohol dependence	HNMT	1.0	
+Asthma	HNMT	1.0	
+Breast-ovarian cancer, familial 1	HNMT	1.0	
+Bronchiolitis, Viral	HNMT	1.0	
+Ulcerative colitis	HNMT	1.0	
+Deafness, autosomal recessive 44	HNMT	1.0	
+Dermatitis, Atopic	HNMT	1.0	
+Diabetes mellitus type 2	HNMT	1.0	
+Drug Allergy	HNMT	1.0	
+Duodenal Ulcer	HNMT	1.0	
+Hearing Loss, Partial	HNMT	1.0	
+Immediate hypersensitivity	HNMT	1.0	
+Mental retardation 63, X-linked	HNMT	1.0	
+Abnormality of movement	HNMT	1.0	
+Multiple Sclerosis	HNMT	1.0	
+Parkinson Disease	HNMT	1.0	
+Precancerous Conditions	HNMT	1.0	
+Respiratory Syncytial Virus Infections	HNMT	1.0	
+Rhinitis, Allergic, Seasonal	HNMT	1.0	
+Schizophrenia	HNMT	1.0	
+Tobacco Use Disorder	HNMT	1.0	
+Tremor, hereditary essential, 5	HNMT	1.0	
+Urticaria	HNMT	1.0	
+Increased body weight	HNMT	1.0	
+Bronchial Hyperreactivity	HNMT	1.0	
+Migraine Disorders	HNMT	1.0	
+Pancreatic Carcinoma	HNMT	1.0	
+Delayed speech and language development	HNMT	1.0	
+Essential tremor	HNMT	1.0	
+Malignant neoplasm of pancreas	HNMT	1.0	
+Autosomal recessive inheritance	HNMT	1.0	
+Abnormality of the nervous system	HNMT	1.0	
+Global developmental delay, absent or hypoplastic corpus callosum, and dysmorphic facies	HNMT	1.0	
+Breast carcinoma	HNMT	1.0	
+Neurodevelopmental abnormality	HNMT	1.0	
+Brain Infarction	HNMT	1.0	
+Hearing impairment	HNMT	1.0	
+Colorectal cancer	HNMT	1.0	
+Allergic rhinitis	HNMT	1.0	
+Weight Gain Adverse Event	HNMT	1.0	
+Intellectual developmental disorder with dysmorphic facies and ptosis	HNMT	1.0	
+Neurodevelopmental delay	HNMT	1.0	
+Abnormality of nervous system physiology	HNMT	1.0	

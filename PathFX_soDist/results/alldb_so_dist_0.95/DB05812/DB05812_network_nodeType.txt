@@ -1,0 +1,20 @@
+node_name	node_type	
+DB05812	drug	
+CYP2C9	drug_target	
+CYP2C8	drug_target	
+CYP1A2	drug_target	
+ORM1	drug_target	
+CYP2D6	drug_target	
+ALB	drug_target	
+CYP17A1	drug_target	
+CYP2C19	drug_target	
+CYP3A4	drug_target	
+ABCC1	drug_target	
+SULT2A1	drug_target	
+Adverse drug events and drug allergies	phenotype	
+Tubulointerstitial nephritis	phenotype	
+Drug Allergy	phenotype	
+Primary malignant neoplasm of liver	phenotype	
+Nausea	phenotype	
+Pharyngeal Neoplasms	phenotype	
+Neoplasm of the larynx	phenotype	

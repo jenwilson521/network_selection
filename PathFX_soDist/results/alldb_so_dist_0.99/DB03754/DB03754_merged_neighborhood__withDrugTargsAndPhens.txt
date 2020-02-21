@@ -1,0 +1,6 @@
+node1	node2	edge_score	
+DB03754	DCN	1.0	
+DB03754	VEGFA	1.0	
+DB03754	NEIL1	1.0	
+DB03754	AMD1	1.0	
+

@@ -1,0 +1,7 @@
+node_name	node_type	
+DB08932	drug	
+CYP2C19	drug_target	
+CYP3A4	drug_target	
+ALB	drug_target	
+EDNRB	drug_target	
+EDNRA	drug_target	

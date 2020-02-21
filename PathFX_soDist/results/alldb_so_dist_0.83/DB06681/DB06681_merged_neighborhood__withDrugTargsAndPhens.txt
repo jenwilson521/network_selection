@@ -1,0 +1,4 @@
+node1	node2	edge_score	
+DB06681	CD80	1.0	
+DB06681	CD86	1.0	
+

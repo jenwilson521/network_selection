@@ -1,0 +1,4 @@
+node_name	node_type	
+DB06410	drug	
+CYP27A1	drug_target	
+VDR	drug_target	

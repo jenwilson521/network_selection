@@ -1,0 +1,22 @@
+Gene	CUI	Source Databases	
+AR	C1291314	21-hydroxylase deficiency	DisGeNet	
+CYP3A4	C1291314	21-hydroxylase deficiency	DisGeNet	
+AR	C0342492	Adrenal hyperplasia	DisGeNet	
+CYP3A4	C0342492	Adrenal hyperplasia	DisGeNet	
+AR	C0027658	Neoplasms, Germ Cell and Embryonal	DisGeNet	
+CYP3A4	C0027658	Neoplasms, Germ Cell and Embryonal	DisGeNet	
+AR	C0086132	Depressive Symptoms	DisGeNet	
+CYP3A4	C0086132	Depressive Symptoms	DisGeNet	
+AR	C0241910	Hepatitis, Autoimmune	DisGeNet	
+CYP3A4	C0241910	Hepatitis, Autoimmune	DisGeNet	
+AR	C0162557	Acute hepatic failure	DisGeNet	
+CYP3A4	C0162557	Acute hepatic failure	DisGeNet	
+AR	C0039590	Testicular Neoplasms	DisGeNet,HumPhenOnt	
+CYP3A4	C0039590	Testicular Neoplasms	DisGeNet	
+CYP3A4	C0024620	Primary malignant neoplasm of liver	DisGeNet	
+AR	C0030442	Bulbar palsy	HumPhenOnt	
+AR	C0036472	Scrub Typhus	DisGeNet	
+AR	C0036875	Disorders of Sex Development	DisGeNet	
+AR	C0812435	Chromosome 11p deletion syndrome	DisGeNet	
+AR	C0042065	Genitourinary neoplasm	ClinVar,HumPhenOnt	
+CYP3A4	C0042065	Genitourinary neoplasm	DisGeNet	

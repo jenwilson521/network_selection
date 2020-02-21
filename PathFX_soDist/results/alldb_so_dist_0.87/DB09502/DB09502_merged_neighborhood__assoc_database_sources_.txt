@@ -1,0 +1,105 @@
+Gene	CUI	Source Databases	
+SLC2A2	C0000731	Abdominal distention	HumPhenOnt	
+SLC2A2	C0001118	Abnormality of acid-base homeostasis	HumPhenOnt	
+SLC2A2	C0001122	Acidosis	HumPhenOnt	
+SLC2A2	C0004153	Atherosclerosis	DisGeNet	
+SLC2A2	C0006142	Breast-ovarian cancer, familial 1	DisGeNet	
+SLC2A2	C0007102	Colon cancer	DisGeNet	
+SLC2A2	C0007137	Squamous cell carcinoma	DisGeNet	
+SLC2A2	C0007222	Cardiovascular Diseases	DisGeNet	
+SLC2A2	C0011253	Delusions	DisGeNet	
+SLC2A2	C0011849	Diabetes Mellitus, Type 1	DisGeNet	
+SLC2A2	C0011854	Diabetes mellitus type 1	DisGeNet	
+SLC2A2	C0011860	Diabetes mellitus type 2	ClinVar,DisGeNet	
+SLC2A2	C0011881	Diabetic Nephropathies	DisGeNet	
+SLC2A2	C0015544	Failure to thrive	HumPhenOnt	
+SLC2A2	C0015695	Hepatic steatosis	DisGeNet	
+SLC2A2	C0017919	Glycogen storage disease	DisGeNet	
+SLC2A2	C0017979	Glycosuria	HumPhenOnt	
+SLC2A2	C0019209	Hepatomegaly	DisGeNet	
+SLC2A2	C0020456	Hyperglycemia	DisGeNet	
+SLC2A2	C0020503	Secondary hyperparathyroidism	DisGeNet	
+SLC2A2	C0020615	Hypoglycemia, neonatal, simulating foetopathia diabetica	DisGeNet	
+SLC2A2	C0020621	Hypokalemia	HumPhenOnt	
+SLC2A2	C0021670	Insulinoma	DisGeNet	
+SLC2A2	C0021831	Abnormality of the intestine	HumPhenOnt	
+SLC2A2	C0022658	Kidney Diseases	DisGeNet	
+SLC2A2	C0024523	Malabsorption	HumPhenOnt	
+SLC2A2	C0024667	Animal Mammary Neoplasms	DisGeNet	
+SLC2A2	C0028754	Obesity	DisGeNet	
+SLC2A2	C0029442	Osteomalacia	HumPhenOnt	
+SLC2A2	C0032000	Pituitary adenoma	DisGeNet	
+SLC2A2	C0032002	Abnormality of the pituitary gland	DisGeNet	
+SLC2A2	C0032019	Pituitary Neoplasms	DisGeNet	
+SLC2A2	C0037268	Abnormality of the skin	HumPhenOnt	
+SLC2A2	C0042063	Abnormality of the genitourinary system	HumPhenOnt	
+SLC2A2	C0042769	Virus Diseases	DisGeNet	
+SLC2A2	C0079731	B-cell lymphoma	DisGeNet	
+SLC2A2	C0085682	Hypophosphatemia	HumPhenOnt	
+SLC2A2	C0149782	Squamous cell carcinoma of lung	DisGeNet	
+SLC2A2	C0151746	Abnormal renal physiology	HumPhenOnt	
+SLC2A2	C0151747	Renal tubular dysfunction	HumPhenOnt	
+SLC2A2	C0151849	Elevated alkaline phosphatase	HumPhenOnt	
+SLC2A2	C0158981	Neonatal diabetes mellitus	DisGeNet	
+SLC2A2	C0221032	Berardinelli-Seip congenital lipodystrophy	DisGeNet	
+SLC2A2	C0238621	Aminoaciduria	HumPhenOnt	
+SLC2A2	C0242528	Azotemia	HumPhenOnt	
+SLC2A2	C0262361	Growth abnormality	HumPhenOnt	
+SLC2A2	C0266015	Abnormality of the digestive system	HumPhenOnt	
+SLC2A2	C0266292	Congenital anomalies of kidney and urinary tract 1, susceptibility to	HumPhenOnt	
+SLC2A2	C0268079	Hyperphosphaturia	HumPhenOnt	
+SLC2A2	C0268731	Glomerulopathy	DisGeNet	
+SLC2A2	C0271650	Glucose intolerance	DisGeNet	
+SLC2A2	C0278026	3-Methylglutaconic aciduria	HumPhenOnt	
+SLC2A2	C0441748	Autosomal recessive inheritance	HumPhenOnt	
+SLC2A2	C0497552	Abnormality of the nervous system	HumPhenOnt	
+SLC2A2	C0543442	Decreased adipose tissue	HumPhenOnt	
+SLC2A2	C0557874	Global developmental delay, absent or hypoplastic corpus callosum, and dysmorphic facies	HumPhenOnt	
+SLC2A2	C0678222	Breast carcinoma	DisGeNet	
+SLC2A2	C0679378	Neurodevelopmental abnormality	HumPhenOnt	
+SLC2A2	C0699790	Carcinoma of colon	DisGeNet	
+SLC2A2	C0740651	Abdominal symptom	HumPhenOnt	
+SLC2A2	C1262477	Decreased body weight	HumPhenOnt	
+SLC2A2	C1328440	Abnormality of amino acid metabolism	HumPhenOnt	
+SLC2A2	C1337011	Well Differentiated Pancreatic Endocrine Tumor	DisGeNet	
+SLC2A2	C2239176	Hepatocellular carcinoma	DisGeNet	
+SLC2A2	C2674432	Reduced bone mineral density	HumPhenOnt	
+SLC2A2	C4021073	Morphological abnormality of the gastrointestinal tract	HumPhenOnt	
+SLC2A2	C4021157	Generalized abnormality of skin	HumPhenOnt	
+SLC2A2	C4021524	Abnormality of adipose tissue	HumPhenOnt	
+SLC2A2	C4021657	Abnormality of bone mineral density	HumPhenOnt	
+SLC2A2	C4021768	Abnormality of metabolism/homeostasis	HumPhenOnt	
+SLC2A2	C4021790	Abnormality of the skeletal system	HumPhenOnt	
+SLC2A2	C4021821	Abnormality of the urinary system	HumPhenOnt	
+SLC2A2	C4022032	Abnormality of phosphate homeostasis	HumPhenOnt	
+SLC2A2	C4022738	Neurodevelopmental delay	HumPhenOnt	
+SLC2A2	C4022811	Abnormality of nervous system physiology	HumPhenOnt	
+SLC2A2	C4022828	Abnormal urine phosphate concentration	HumPhenOnt	
+SLC2A2	C4022833	Abnormal urinary electrolyte concentration	HumPhenOnt	
+SLC2A2	C4022922	Abnormal enzyme/coenzyme activity	HumPhenOnt	
+SLC2A2	C4023161	Abnormal bone ossification	HumPhenOnt	
+SLC2A2	C4023165	Abnormality of skeletal morphology	HumPhenOnt	
+SLC2A2	C4023437	Abnormality of the urinary system physiology	HumPhenOnt	
+SLC2A2	C4023528	Abnormality of skin morphology	HumPhenOnt	
+SLC2A2	C4023575	Abnormality of potassium homeostasis	HumPhenOnt	
+SLC2A2	C4023588	Abnormality of the gastrointestinal tract	HumPhenOnt	
+SLC2A2	C4023596	Abnormality of urine glucose concentration	HumPhenOnt	
+SLC2A2	C4023598	Abnormal glucose homeostasis	HumPhenOnt	
+SLC2A2	C4023599	Abnormality of carbohydrate metabolism/homeostasis	HumPhenOnt	
+SLC2A2	C4023641	Abnormality of the upper urinary tract	HumPhenOnt	
+SLC2A2	C4023643	Abnormality of nucleobase metabolism	HumPhenOnt	
+SLC2A2	C4023645	Abnormality of monovalent inorganic cation homeostasis	HumPhenOnt	
+SLC2A2	C4023646	Abnormality of cation homeostasis	HumPhenOnt	
+SLC2A2	C4025328	Abnormality of alkaline phosphatase activity	HumPhenOnt	
+SLC2A2	C4025336	Abnormality of nitrogen compound homeostasis	HumPhenOnt	
+SLC2A2	C4025344	Abnormality of carboxylic acid metabolism	HumPhenOnt	
+SLC2A2	C4025346	Abnormality of purine metabolism	HumPhenOnt	
+SLC2A2	C4025357	Abnormality of body weight	HumPhenOnt	
+SLC2A2	C4025596	Abnormality of connective tissue	HumPhenOnt	
+SLC2A2	C4025630	Abnormal bone structure	HumPhenOnt	
+SLC2A2	C4025654	Abnormality of ion homeostasis	HumPhenOnt	
+SLC2A2	C4025655	Abnormality of urine homeostasis	HumPhenOnt	
+SLC2A2	C4025761	Abnormality of the integument	HumPhenOnt	
+SLC2A2	C4025813	Abnormality of subcutaneous fat tissue	HumPhenOnt	
+SLC2A2	C4293691	Abnormality of digestive system morphology	HumPhenOnt	
+SLC2A2	C4293692	Abnormality of digestive system physiology	HumPhenOnt	

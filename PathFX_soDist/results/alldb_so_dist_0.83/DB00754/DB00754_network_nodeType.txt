@@ -1,0 +1,14 @@
+node_name	node_type	
+DB00754	drug	
+NR1I2	drug_target	
+SCN5A	drug_target	
+SERPINA7	drug_target	
+Cardiac fibrosis	phenotype	
+Pulmonary edema	phenotype	
+Ichthyosis bullosa of Siemens	phenotype	
+Liver regeneration disorder	phenotype	
+Carcinoma breast stage IV	phenotype	
+Romano-Ward syndrome	phenotype	
+Abnormality of adipose tissue	phenotype	
+Malignant neoplasm of adrenal cortex	phenotype	
+VENTRICULAR TACHYCARDIA, CATECHOLAMINERGIC POLYMORPHIC, 1 (disorder)	phenotype	

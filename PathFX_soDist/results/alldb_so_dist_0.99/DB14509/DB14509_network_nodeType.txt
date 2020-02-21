@@ -1,0 +1,9 @@
+node_name	node_type	
+DB14509	drug	
+GRIA3	drug_target	
+GSK3B	drug_target	
+SCNN1G	drug_target	
+IMPA1	drug_target	
+IMPA2	drug_target	
+SCNN1B	drug_target	
+SCNN1A	drug_target	

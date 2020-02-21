@@ -1,0 +1,17 @@
+node_name	node_type	
+DB00571	drug	
+CYP1A1	drug_target	
+CYP1A2	drug_target	
+ORM1	drug_target	
+CYP2D6	drug_target	
+ADRB2	drug_target	
+ADRB1	drug_target	
+MAOA	drug_target	
+ADRB3	drug_target	
+CYP2C19	drug_target	
+SLC22A2	drug_target	
+CYP3A4	drug_target	
+CYP3A5	drug_target	
+HTR1A	drug_target	
+HTR1B	drug_target	
+ABCB1	drug_target	

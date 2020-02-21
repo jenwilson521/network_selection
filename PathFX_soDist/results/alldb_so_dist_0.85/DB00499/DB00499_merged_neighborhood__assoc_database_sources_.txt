@@ -1,0 +1,136 @@
+Gene	CUI	Source Databases	
+CYP1A1	C0032229	Pleural Neoplasms	DisGeNet	
+CYP1A2	C0032229	Pleural Neoplasms	DisGeNet	
+CYP1B1	C0032229	Pleural Neoplasms	DisGeNet	
+CYP2C19	C0032229	Pleural Neoplasms	DisGeNet	
+AHR	C0206720	Squamous Cell Neoplasms	DisGeNet	
+CYP1A1	C0206720	Squamous Cell Neoplasms	DisGeNet	
+CYP3A4	C0206720	Squamous Cell Neoplasms	DisGeNet	
+CYP3A5	C0206720	Squamous Cell Neoplasms	DisGeNet	
+AR	C0027658	Neoplasms, Germ Cell and Embryonal	DisGeNet	
+CYP1A1	C0027658	Neoplasms, Germ Cell and Embryonal	DisGeNet	
+CYP2C19	C0027658	Neoplasms, Germ Cell and Embryonal	DisGeNet	
+CYP3A4	C0027658	Neoplasms, Germ Cell and Embryonal	DisGeNet	
+CYP3A5	C0027658	Neoplasms, Germ Cell and Embryonal	DisGeNet	
+CYP1A1	C0919532	Genomic Instability	DisGeNet	
+CYP1A2	C0919532	Genomic Instability	DisGeNet	
+CYP1B1	C0919532	Genomic Instability	DisGeNet	
+CYP2C19	C0919532	Genomic Instability	DisGeNet	
+AR	C0235653	Malignant neoplasm of female breast	DisGeNet	
+CYP1A1	C0235653	Malignant neoplasm of female breast	DisGeNet	
+CYP1B1	C0235653	Malignant neoplasm of female breast	DisGeNet	
+NR1I2	C0235653	Malignant neoplasm of female breast	DisGeNet	
+AR	C0007104	Female Breast Carcinoma	DisGeNet	
+CYP1A1	C0007104	Female Breast Carcinoma	DisGeNet	
+CYP1B1	C0007104	Female Breast Carcinoma	DisGeNet	
+NR1I2	C0007104	Female Breast Carcinoma	DisGeNet	
+AHR	C0023055	Neoplasm of the larynx	DisGeNet	
+CYP1A1	C0023055	Neoplasm of the larynx	DisGeNet	
+CYP1A2	C0023055	Neoplasm of the larynx	DisGeNet	
+CYP1B1	C0023055	Neoplasm of the larynx	DisGeNet	
+CYP3A4	C0023055	Neoplasm of the larynx	DisGeNet	
+CYP2C19	C0024620	Primary malignant neoplasm of liver	DisGeNet	
+CYP3A4	C0024620	Primary malignant neoplasm of liver	DisGeNet	
+CYP3A5	C0024620	Primary malignant neoplasm of liver	DisGeNet	
+AHR	C0018671	Head and Neck Neoplasms	DisGeNet	
+AR	C0018671	Head and Neck Neoplasms	DisGeNet	
+CYP1A1	C0018671	Head and Neck Neoplasms	DisGeNet	
+CYP1A2	C0018671	Head and Neck Neoplasms	DisGeNet	
+CYP1B1	C0018671	Head and Neck Neoplasms	DisGeNet	
+CYP3A4	C0018671	Head and Neck Neoplasms	DisGeNet	
+CYP3A5	C0018671	Head and Neck Neoplasms	DisGeNet	
+NR1I2	C0018671	Head and Neck Neoplasms	DisGeNet	
+AHR	C0273115	Lung Injury	DisGeNet	
+CYP1A1	C0273115	Lung Injury	DisGeNet	
+CYP1A2	C0273115	Lung Injury	DisGeNet	
+AR	C0086132	Depressive Symptoms	DisGeNet	
+CYP1A1	C0086132	Depressive Symptoms	DisGeNet	
+CYP1B1	C0086132	Depressive Symptoms	DisGeNet	
+CYP2C19	C0086132	Depressive Symptoms	DisGeNet	
+CYP3A4	C0086132	Depressive Symptoms	DisGeNet	
+AR	C1268717	Mammographic breast density	DisGeNet	
+CYP1A1	C1268717	Mammographic breast density	DisGeNet	
+CYP1A2	C1268717	Mammographic breast density	DisGeNet	
+CYP1B1	C1268717	Mammographic breast density	DisGeNet	
+AHR	C0858970	Carcinogenicity	DisGeNet	
+CYP1A1	C0858970	Carcinogenicity	DisGeNet	
+CYP1B1	C0858970	Carcinogenicity	DisGeNet	
+AR	C1291314	21-hydroxylase deficiency	DisGeNet	
+CYP2C19	C1291314	21-hydroxylase deficiency	DisGeNet	
+CYP3A4	C1291314	21-hydroxylase deficiency	DisGeNet	
+CYP1A1	C0596321	Chemical Carcinogenesis	DisGeNet	
+CYP1A2	C0596321	Chemical Carcinogenesis	DisGeNet	
+CYP1B1	C0596321	Chemical Carcinogenesis	DisGeNet	
+AR	C0029458	Postmenopausal osteoporosis	DisGeNet	
+CYP1A1	C0029458	Postmenopausal osteoporosis	DisGeNet	
+CYP1B1	C0029458	Postmenopausal osteoporosis	DisGeNet	
+NR1I2	C0029458	Postmenopausal osteoporosis	DisGeNet	
+AR	C0153594	Malignant tumor of testis	DisGeNet	
+CYP1A1	C0153594	Malignant tumor of testis	DisGeNet	
+CYP1A2	C0153594	Malignant tumor of testis	DisGeNet	
+CYP1B1	C0153594	Malignant tumor of testis	DisGeNet	
+CYP3A4	C0153594	Malignant tumor of testis	DisGeNet	
+CYP3A5	C0153594	Malignant tumor of testis	DisGeNet	
+AR	C2931456	Prostate cancer, familial	DisGeNet	
+CYP1A1	C2931456	Prostate cancer, familial	DisGeNet	
+CYP1B1	C2931456	Prostate cancer, familial	DisGeNet	
+AR	C1336708	Testicular Germ Cell Tumor	DisGeNet	
+CYP1A1	C1336708	Testicular Germ Cell Tumor	DisGeNet	
+CYP1A2	C1336708	Testicular Germ Cell Tumor	DisGeNet	
+CYP1B1	C1336708	Testicular Germ Cell Tumor	DisGeNet	
+AR	C0014170	Endometrial Neoplasms	DisGeNet	
+CYP1A1	C0014170	Endometrial Neoplasms	DisGeNet	
+CYP1A2	C0014170	Endometrial Neoplasms	DisGeNet	
+CYP1B1	C0014170	Endometrial Neoplasms	DisGeNet	
+CYP3A4	C0014170	Endometrial Neoplasms	DisGeNet	
+NR1I2	C0014170	Endometrial Neoplasms	DisGeNet	
+AHR	C0598935	Tumor Initiation	DisGeNet	
+AR	C0598935	Tumor Initiation	DisGeNet	
+CYP1A1	C0598935	Tumor Initiation	DisGeNet	
+CYP1B1	C0598935	Tumor Initiation	DisGeNet	
+NR1I2	C0598935	Tumor Initiation	DisGeNet	
+AR	C0025500	Mesothelioma, malignant	DisGeNet	
+CYP1A1	C0025500	Mesothelioma, malignant	DisGeNet	
+CYP1A2	C0025500	Mesothelioma, malignant	DisGeNet	
+CYP1B1	C0025500	Mesothelioma, malignant	DisGeNet	
+CYP2C19	C0025500	Mesothelioma, malignant	DisGeNet	
+CYP3A4	C0025500	Mesothelioma, malignant	DisGeNet	
+NR1I2	C0025500	Mesothelioma, malignant	DisGeNet	
+CYP1A1	C0040038	Thromboembolism	DisGeNet	
+CYP2C19	C0040038	Thromboembolism	DisGeNet	
+CYP3A4	C0040038	Thromboembolism	DisGeNet	
+CYP3A5	C0040038	Thromboembolism	DisGeNet	
+CYP1A1	C0008372	Intrahepatic cholestasis	DisGeNet	
+CYP1B1	C0008372	Intrahepatic cholestasis	DisGeNet	
+NR1I2	C0008372	Intrahepatic cholestasis	DisGeNet	
+AHR	C0085215	Ovarian Failure, Premature	DisGeNet	
+AR	C0085215	Ovarian Failure, Premature	DisGeNet	
+CYP2C19	C0085215	Ovarian Failure, Premature	DisGeNet	
+CYP3A4	C0085215	Ovarian Failure, Premature	DisGeNet	
+CYP3A5	C0085215	Ovarian Failure, Premature	DisGeNet	
+AR	C0342492	Adrenal hyperplasia	DisGeNet	
+CYP2C19	C0342492	Adrenal hyperplasia	DisGeNet	
+CYP3A4	C0342492	Adrenal hyperplasia	DisGeNet	
+AR	C0016034	Breast Fibrocystic Disease	DisGeNet	
+CYP1A1	C0016034	Breast Fibrocystic Disease	DisGeNet	
+CYP1B1	C0016034	Breast Fibrocystic Disease	DisGeNet	
+CYP1A1	C0031347	Pharyngeal Neoplasms	DisGeNet	
+CYP1A2	C0031347	Pharyngeal Neoplasms	DisGeNet	
+CYP3A4	C0031347	Pharyngeal Neoplasms	DisGeNet	
+CYP1A2	C0686347	Tardive Dyskinesia	DisGeNet	
+CYP3A4	C0686347	Tardive Dyskinesia	DisGeNet	
+CYP3A5	C0686347	Tardive Dyskinesia	DisGeNet	
+AHR	C0949059	Colorectal polyposis	DisGeNet	
+CYP1A1	C0949059	Colorectal polyposis	DisGeNet	
+CYP1A2	C0949059	Colorectal polyposis	DisGeNet	
+AHR	C1704272	Benign Prostatic Hyperplasia	DisGeNet	
+AR	C1704272	Benign Prostatic Hyperplasia	DisGeNet	
+CYP1A1	C1704272	Benign Prostatic Hyperplasia	DisGeNet	
+CYP1B1	C1704272	Benign Prostatic Hyperplasia	DisGeNet	
+CYP3A4	C1704272	Benign Prostatic Hyperplasia	DisGeNet	
+CYP3A5	C1704272	Benign Prostatic Hyperplasia	DisGeNet	
+NR1I2	C1704272	Benign Prostatic Hyperplasia	DisGeNet	
+AR	C0039590	Testicular Neoplasms	DisGeNet,HumPhenOnt	
+CYP1A1	C0039590	Testicular Neoplasms	DisGeNet	
+CYP1A2	C0039590	Testicular Neoplasms	DisGeNet	
+CYP3A4	C0039590	Testicular Neoplasms	DisGeNet	

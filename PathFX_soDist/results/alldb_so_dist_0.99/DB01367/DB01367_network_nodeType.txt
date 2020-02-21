@@ -1,0 +1,5 @@
+node_name	node_type	
+DB01367	drug	
+MAOB	drug_target	
+CYP1A2	drug_target	
+BCL2	drug_target	

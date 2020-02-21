@@ -1,0 +1,108 @@
+node1	node2	edge_score	
+DB00128	RNASE1	1.0	
+DB00128	ADSS	1.0	
+DB00128	ASPA	1.0	
+DB00128	DARS	1.0	
+DB00128	SLC25A13	1.0	
+DB00128	ASPH	1.0	
+DB00128	ASNS	1.0	
+DB00128	LYZ	1.0	
+DB00128	SLC1A1	1.0	
+DB00128	PAICS	1.0	
+DB00128	DARS2	1.0	
+DB00128	SLC16A10	1.0	
+DB00128	ADSSL1	1.0	
+DB00128	ACY3	1.0	
+DB00128	GOT2	1.0	
+DB00128	ASRGL1	1.0	
+DB00128	GOT1	1.0	
+DB00128	ASS1	1.0	
+DB00128	SLC25A12	1.0	
+DB00128	ACY1	1.0	
+DB00128	CAD	1.0	
+SLC25A13	complex:lAo9+jzjVOaRJSWZQvoh0G1mUDc	0.904977499353
+SLC1A1	rs301434	0.99
+SLC1A1	rs301435	0.99
+ASPH		1.0
+complex:lAo9+jzjVOaRJSWZQvoh0G1mUDc	OR8D2	0.863824739585
+SLC1A1		1.0
+SLC25A13		1.0
+ACY3		1.0
+complex:lAo9+jzjVOaRJSWZQvoh0G1mUDc	KRT9	0.863824739585
+SLC1A1	rs3087879	0.99
+complex:lAo9+jzjVOaRJSWZQvoh0G1mUDc	ALB	0.863824739585
+CAD		1.0
+Hyperammonemia	CAD	1.0	
+Hyperammonemia	SLC25A13	1.0	
+Neurologic, endocrine, and pancreatic disease, multisystem, infantile-onset	ALB	1.0	
+Neurologic, endocrine, and pancreatic disease, multisystem, infantile-onset	SLC25A13	1.0	
+Abnormality of nitrogen compound homeostasis	CAD	1.0	
+Abnormality of nitrogen compound homeostasis	SLC25A13	1.0	
+Azotemia	CAD	1.0	
+Azotemia	SLC25A13	1.0	
+Hyperlipidemia, combined, 1	ALB	1.0	
+Hyperlipidemia, combined, 1	CAD	1.0	
+Hyperlipidemia, combined, 1	SLC25A13	1.0	
+Abnormality of sulfur amino acid metabolism	SLC25A13	1.0	
+Malignant neoplasm of adrenal cortex	ALB	1.0	
+Abnormality of lipid metabolism	ALB	1.0	
+Abnormality of lipid metabolism	SLC25A13	1.0	
+Esophageal varix	ALB	1.0	
+Urolithiasis	ALB	1.0	
+Echinococcosis	ALB	1.0	
+Epidermolysis bullosa simplex, Cockayne-Touraine type	KRT9	1.0	
+Palmar hyperkeratosis	KRT9	1.0	
+Broad-based gait	CAD	1.0	
+Familial hypercholesterolemia	ALB	1.0	
+Familial hypercholesterolemia	CAD	1.0	
+Proliferative retinopathy	ALB	1.0	
+Verrucae	KRT9	1.0	
+Isolated somatotropin deficiency	ALB	1.0	
+Renal tubular acidosis, distal, autosomal dominant	CAD	1.0	
+Substance Use Disorders	ALB	1.0	
+Poikilocytosis	CAD	1.0	
+Dentatorubral pallidoluysian atrophy	ALB	1.0	
+Brain Diseases	ALB	1.0	
+Brain Diseases	SLC1A1	1.0	
+Angiokeratoma	ALB	1.0	
+Isolated growth hormone deficiency type 1B	ALB	1.0	
+Plantar hyperkeratosis	KRT9	1.0	
+Abnormality of the level of lipoprotein cholesterol	SLC25A13	1.0	
+Familial type 3 hyperlipoproteinemia	CAD	1.0	
+Pericardial effusion	ALB	1.0	
+Mumps	ALB	1.0	
+Rhinitis, Allergic, Perennial	ALB	1.0	
+Endemic Cretinism	ALB	1.0	
+Prominent nose	ASPH	1.0	
+Hypercholesterolemia, autosomal dominant, type B	ALB	1.0	
+Hypercholesterolemia, autosomal dominant, type B	SLC25A13	1.0	
+Hemangioblastoma	ALB	1.0	
+Ectopia lentis, isolated autosomal recessive	ASPH	1.0	
+Mesangiocapillary glomerulonephritis, type II	ALB	1.0	
+Nephrosclerosis	ALB	1.0	
+Peripheral motor neuropathy	ALB	1.0	
+End Stage Liver Disease	ALB	1.0	
+Coronary Thrombosis	CAD	1.0	
+Abnormal albumin level	ALB	1.0	
+Hereditary spherocytosis	CAD	1.0	
+Bronchogenic Carcinoma	ALB	1.0	
+Confusion	SLC25A13	1.0	
+CADASIL	ASPH	1.0	
+Neuroblastic tumors	ASPH	1.0	
+Coronary artery aneurysm	ALB	1.0	
+Hyperlipoproteinemia	ALB	1.0	
+Hyperlipoproteinemia Type IIa	ALB	1.0	
+Tubulointerstitial nephritis	ALB	1.0	
+Single tumor	ALB	1.0	
+Nephrotic Syndrome, Minimal Change	ALB	1.0	
+Skin Diseases, Genetic	KRT9	1.0	
+Isochromosomes	CAD	1.0	
+Varicella zoster	ALB	1.0	
+Drusen	ALB	1.0	
+Neoplasm of the liver	ACY3	1.0	
+Neoplasm of the liver	ALB	1.0	
+Neoplasm of the liver	CAD	1.0	
+Neoplasm of the liver	SLC25A13	1.0	
+Increased antibody level in blood	KRT9	1.0	
+Bile duct cancer resectable	ASPH	1.0	
+Insulin resistance syndrome	ALB	1.0	

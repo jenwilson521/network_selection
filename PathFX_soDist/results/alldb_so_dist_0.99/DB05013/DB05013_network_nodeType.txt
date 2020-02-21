@@ -1,0 +1,4 @@
+node_name	node_type	
+DB05013	drug	
+PRKCA	drug_target	
+PRKCD	drug_target	

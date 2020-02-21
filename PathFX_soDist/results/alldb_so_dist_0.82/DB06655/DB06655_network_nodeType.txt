@@ -1,0 +1,99 @@
+node_name	node_type	
+DB06655	drug	
+MME	drug_target	
+DPP4	drug_target	
+ALB	drug_target	
+GLP1R	drug_target	
+Hemangioblastoma	phenotype	
+Drusen	phenotype	
+Diabetic Retinopathy	phenotype	
+Membranous nephropathy, susceptibility to	phenotype	
+Diabetic Angiopathies	phenotype	
+Type 1 diabetic neuropathy	phenotype	
+Maturity-onset diabetes of the young, type 11	phenotype	
+Anorexia	phenotype	
+Chronic Kidney Insufficiency	phenotype	
+Post-transplant lymphoproliferative disorder	phenotype	
+Inclusion body myopathy 2	phenotype	
+Plasmablastic lymphoma	phenotype	
+Malignant neoplasm of adrenal cortex	phenotype	
+Esophageal varix	phenotype	
+Urolithiasis	phenotype	
+Echinococcosis	phenotype	
+Epidermolysis bullosa simplex, Cockayne-Touraine type	phenotype	
+Palmar hyperkeratosis	phenotype	
+Lung Injury	phenotype	
+Cryopyrin-Associated Periodic Syndromes	phenotype	
+Diabetic Nephropathies	phenotype	
+Proliferative retinopathy	phenotype	
+Verrucae	phenotype	
+Isolated somatotropin deficiency	phenotype	
+Metabolic Syndrome X	phenotype	
+Substance Use Disorders	phenotype	
+Dentatorubral pallidoluysian atrophy	phenotype	
+Angiokeratoma	phenotype	
+Isolated growth hormone deficiency type 1B	phenotype	
+Gastroenteritis	phenotype	
+Plantar hyperkeratosis	phenotype	
+Plaque, Atherosclerotic	phenotype	
+Pericardial effusion	phenotype	
+Mumps	phenotype	
+Rhinitis, Allergic, Perennial	phenotype	
+Endemic Cretinism	phenotype	
+Peptic Ulcer Hemorrhage	phenotype	
+Mesangiocapillary glomerulonephritis, type II	phenotype	
+Nephrosclerosis	phenotype	
+Peripheral motor neuropathy	phenotype	
+End Stage Liver Disease	phenotype	
+Common acute lymphoblastic leukemia	phenotype	
+Abnormal albumin level	phenotype	
+Stromal sarcoma	phenotype	
+Small Lymphocytic Lymphoma	phenotype	
+Senile plaques	phenotype	
+Arteriovenous fistula	phenotype	
+Bronchogenic Carcinoma	phenotype	
+Carcinosarcoma	phenotype	
+Coronary artery aneurysm	phenotype	
+Hyperlipoproteinemia	phenotype	
+Hyperlipoproteinemia Type IIa	phenotype	
+Tubulointerstitial nephritis	phenotype	
+Single tumor	phenotype	
+Nephrotic Syndrome, Minimal Change	phenotype	
+Muscle degeneration	phenotype	
+Skin Diseases, Genetic	phenotype	
+Varicella zoster	phenotype	
+Increased antibody level in blood	phenotype	
+Insulin resistance syndrome	phenotype	
+Splenic Marginal Zone B-Cell Lymphoma	phenotype	
+Cerebral Amyloid Angiopathy	phenotype	
+Dementia familial British	phenotype	
+Nephrosis	phenotype	
+Aural atresia, congenital	phenotype	
+Guillain-Barre syndrome, familial	phenotype	
+Primary hyperparathyroidism	phenotype	
+Drug Resistant Epilepsy	phenotype	
+Refractory anemia	phenotype	
+Refractory anaemia with excess blasts	phenotype	
+Obstructive lung disease	phenotype	
+Respiratory Tract Diseases	phenotype	
+Sicca Syndrome	phenotype	
+Hypoalbuminemia	phenotype	
+Aicardi Goutieres syndrome 1	phenotype	
+Neurologic, endocrine, and pancreatic disease, multisystem, infantile-onset	phenotype	
+Abnormality of the plantar skin of foot	phenotype	
+Angioimmunoblastic Lymphadenopathy	phenotype	
+Congenital hypothyroidism	phenotype	
+Adverse drug events and drug allergies	phenotype	
+Aortic valve disease 2	phenotype	
+Chronic kidney disease	phenotype	
+Hormone receptor positive tumor	phenotype	
+Childhood Leukemia	phenotype	
+Hemolytic uremic syndrome	phenotype	
+Occupational Diseases	phenotype	
+Microalbuminuria	phenotype	
+Lymphocytosis	phenotype	
+Chest pain	phenotype	
+Hereditary pancreatitis	phenotype	
+ {HIV-1 viremia, susceptibility to}, 609423 (3)	phenotype	
+Acute Lung Injury	phenotype	
+Lymphoma, Follicular	phenotype	

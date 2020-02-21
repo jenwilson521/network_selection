@@ -1,0 +1,262 @@
+node_name	node_type	
+DB05679	drug	
+IL12B	drug_target	
+Spontaneous abortion	phenotype	
+Acquired Immunodeficiency Syndrome	phenotype	
+ Adenocarcinoma, ovarian, somatic, 167000 (3)	phenotype	
+AIDS Dementia Complex	phenotype	
+Alcohol dependence	phenotype	
+Anemia	phenotype	
+Anorexia	phenotype	
+Arteriosclerosis	phenotype	
+Arthralgia	phenotype	
+Arthritis, Rheumatoid	phenotype	
+Arthritis, Psoriatic	phenotype	
+Rheumatoid arthritis	phenotype	
+Asthma	phenotype	
+Atherosclerosis	phenotype	
+Autoimmune disease 1	phenotype	
+Barrett Esophagus	phenotype	
+Behcet Syndrome	phenotype	
+Malignant tumor of urinary bladder	phenotype	
+Abnormal systemic blood pressure	phenotype	
+Brain neoplasm	phenotype	
+Breast-ovarian cancer, familial 1	phenotype	
+Bronchiolitis, Viral	phenotype	
+Malignant neoplasm of larynx	phenotype	
+Squamous cell carcinoma	phenotype	
+Hypertrophic cardiomyopathy	phenotype	
+Celiac Disease	phenotype	
+Malignant tumor of cervix	phenotype	
+Chagas Cardiomyopathy	phenotype	
+Chest pain	phenotype	
+Chorioamnionitis	phenotype	
+Ulcerative colitis	phenotype	
+Colorectal cancer 1	phenotype	
+Verotoxigenic Escherichia coli gastrointestinal tract infection	phenotype	
+Constitutional symptom	phenotype	
+Crohn Disease	phenotype	
+Cytomegalovirus Infections	phenotype	
+Dementia familial British	phenotype	
+Dengue Fever	phenotype	
+Dermatitis, Atopic	phenotype	
+Diabetes mellitus type 1	phenotype	
+Diabetes mellitus type 2	phenotype	
+Dilatation	phenotype	
+Eczema	phenotype	
+Experimental Autoimmune Encephalomyelitis	phenotype	
+Equine Infectious Anemia	phenotype	
+Esophageal Neoplasms	phenotype	
+Peptic Esophagitis	phenotype	
+Abnormality of the eye	phenotype	
+Fatigue	phenotype	
+Fetal Membranes, Premature Rupture	phenotype	
+Malignant hyperthermia susceptibility type 5	phenotype	
+Gangrene	phenotype	
+Glioma	phenotype	
+Graves Disease	phenotype	
+Guillain-Barre syndrome, familial	phenotype	
+Headache	phenotype	
+Heart Defects, Congenital	phenotype	
+Hemoptysis	phenotype	
+Severe Dengue	phenotype	
+Hepatitis	phenotype	
+Acute type B viral hepatitis	phenotype	
+Hepatitis C	phenotype	
+Herpesviridae Infections	phenotype	
+Symptomatic human immunodeficiency virus infection	phenotype	
+Hodgkin Disease	phenotype	
+Huntington's chorea	phenotype	
+Hyperglycemia	phenotype	
+Hyperhidrosis	phenotype	
+Immediate hypersensitivity	phenotype	
+Hypertension	phenotype	
+Hypohidrosis	phenotype	
+Hypothermia	phenotype	
+Immunodeficiency due to defect in CD3-gamma	phenotype	
+Immune dysfunction with T-cell inactivation due to calcium entry defect 1	phenotype	
+Inflammation	phenotype	
+Inflammatory Bowel Diseases	phenotype	
+Abnormality of the intestine	phenotype	
+Keratitis	phenotype	
+Kidney Diseases	phenotype	
+Premature Obstetric Labor	phenotype	
+Leprosy	phenotype	
+Leprosy, Lepromatous	phenotype	
+Leptospirosis	phenotype	
+Liver Cirrhosis, Alcoholic	phenotype	
+Biliary cirrhosis	phenotype	
+Neoplasm of the liver	phenotype	
+Pulmonary Disease, Chronic Obstructive	phenotype	
+Chronic obstructive pulmonary disease	phenotype	
+Lupus Erythematosus, Cutaneous	phenotype	
+Lupus Erythematosus, Systemic	phenotype	
+Lupus Nephritis	phenotype	
+Lymphatic Metastasis	phenotype	
+Lymphoma, Large B-Cell, Diffuse	phenotype	
+Lymphoma, Follicular	phenotype	
+Non-Hodgkin lymphoma	phenotype	
+Malaria	phenotype	
+Malaria, Cerebral	phenotype	
+Malaria, Falciparum	phenotype	
+Measles	phenotype	
+Melanoma	phenotype	
+Mixed Connective Tissue Disease	phenotype	
+Mucocutaneous Lymph Node Syndrome	phenotype	
+Multiple Myeloma	phenotype	
+Multiple Sclerosis	phenotype	
+Myasthenia Gravis	phenotype	
+Mycobacterium Infections	phenotype	
+Myocardial Infarction	phenotype	
+Secondary hypertriglyceridemia	phenotype	
+Neoplasms, Experimental	phenotype	
+Nephrotic syndrome, type 5, with or without ocular abnormalities	phenotype	
+Neuritis	phenotype	
+Pain	phenotype	
+Muscle weakness	phenotype	
+Pemphigus	phenotype	
+Periodontitis, Juvenile	phenotype	
+Postoperative Complications	phenotype	
+Preeclampsia/eclampsia 1	phenotype	
+Psoriasis	phenotype	
+Pulmonary fibrosis and/or bone marrow failure, telomere-related, 4	phenotype	
+Rectal fistula	phenotype	
+Respiratory Syncytial Virus Infections	phenotype	
+Abnormality of the retina	phenotype	
+Retinopathy	phenotype	
+Rubella	phenotype	
+Salmonella infections	phenotype	
+Sarcoidosis	phenotype	
+Schizophrenia	phenotype	
+Seizures, Febrile	phenotype	
+Silicosis	phenotype	
+Abnormality of the skin	phenotype	
+Skin nodule	phenotype	
+Skin ulcer	phenotype	
+Neurological speech impairment	phenotype	
+Ankylosing spondylitis	phenotype	
+Stomach Neoplasms	phenotype	
+Arterial stenosis	phenotype	
+Subacute Sclerosing Panencephalitis	phenotype	
+C-like syndrome	phenotype	
+Takayasu Arteritis	phenotype	
+Thymoma	phenotype	
+Chronic Chagas' disease	phenotype	
+Tuberculosis	phenotype	
+Tuberculosis, Pulmonary	phenotype	
+Uveomeningoencephalitic Syndrome	phenotype	
+Vasculitis	phenotype	
+Virus Diseases	phenotype	
+Germinal Center B-Cell-Like Diffuse Large B-Cell Lymphoma	phenotype	
+Lymphoma, Large-Cell, Follicular	phenotype	
+Bronchial Hyperreactivity	phenotype	
+Amaurosis fugax	phenotype	
+Migraine Disorders	phenotype	
+Premature Birth	phenotype	
+Subcutaneous nodule	phenotype	
+Esophageal carcinoma	phenotype	
+Allergic asthma	phenotype	
+Abnormality of the coronary arteries	phenotype	
+Autoimmune thyroid disease 3	phenotype	
+Abnormal QRS complex	phenotype	
+Osteolysis	phenotype	
+Myalgia	phenotype	
+Reduced consciousness/confusion	phenotype	
+Abnormal joint morphology	phenotype	
+Abnormality of the heart valves	phenotype	
+Abnormality of blood and blood-forming tissues	phenotype	
+Malignant neoplasm of lung	phenotype	
+Parasitemia	phenotype	
+Sepsis	phenotype	
+Abnormality of cardiovascular system electrophysiology	phenotype	
+Growth abnormality	phenotype	
+Psoriasis vulgaris	phenotype	
+Childhood asthma	phenotype	
+Aortic dilatation	phenotype	
+Abnormality of the digestive system	phenotype	
+Chronic Periodontitis	phenotype	
+Cervical Squamous Cell Carcinoma	phenotype	
+Carcinoma of cervix	phenotype	
+Malignant lymphoma, lymphocytic, intermediate differentiation, diffuse	phenotype	
+Thyroid associated opthalmopathies	phenotype	
+Dilatation of the ascending aorta	phenotype	
+Familial cancer of breast	phenotype	
+Malignant neoplasm of vulva	phenotype	
+Abnormality of erythrocytes	phenotype	
+Steroid-sensitive nephrotic syndrome	phenotype	
+{Systemic lupus erythematosus, susceptibility to, 8} (2)	phenotype	
+Dermatitis and eczema	phenotype	
+hiv-infection/aids	phenotype	
+Dementia	phenotype	
+Abnormality of the nervous system	phenotype	
+Hepatitis C, Chronic	phenotype	
+Malignant tumor of esophagus	phenotype	
+Laryngeal carcinoma	phenotype	
+CARCINOMA OF VULVA	phenotype	
+Gastro-esophageal reflux disease with esophagitis	phenotype	
+Skin carcinoma	phenotype	
+Abdominal symptom	phenotype	
+Abnormal morphology of the great vessels	phenotype	
+Localized skin lesion	phenotype	
+Cardiomyopathy	phenotype	
+Cerebral ischemia	phenotype	
+Decreased body weight	phenotype	
+Pleomorphic adenoma of salivary gland	phenotype	
+Colorectal cancer	phenotype	
+Chromosome 5, trisomy 5q	phenotype	
+Abnormality of temperature regulation	phenotype	
+Abnormal pattern of respiration	phenotype	
+Coronary Artery Disease	phenotype	
+Precursor Cell Lymphoblastic Leukemia-Lymphoma	phenotype	
+Hepatocellular carcinoma	phenotype	
+Allergic rhinitis	phenotype	
+Abnormality of the aortic valve	phenotype	
+Pulmonary arterial hypertension	phenotype	
+Myelodysplastic syndrome	phenotype	
+Elevated pulmonary artery pressure	phenotype	
+Abnormality of the respiratory system	phenotype	
+Inflammatory abnormality of the eye	phenotype	
+Abnormality of brain morphology	phenotype	
+Abnormality of the systemic arterial tree	phenotype	
+Abnormality of cerebral artery	phenotype	
+Abnormality of the endocardium	phenotype	
+Abnormality of the musculature	phenotype	
+Abnormality of the immune system	phenotype	
+Abnormality of lung morphology	phenotype	
+Morphological abnormality of the central nervous system	phenotype	
+Abnormality of metabolism/homeostasis	phenotype	
+Abnormality of the skeletal system	phenotype	
+Abnormality of the thorax	phenotype	
+Abnormality of the cerebral vasculature	phenotype	
+Abnormal vascular physiology	phenotype	
+Functional abnormality of the gastrointestinal tract	phenotype	
+Increased inflammatory response	phenotype	
+Abnormal inflammatory response	phenotype	
+Abnormality of nervous system morphology	phenotype	
+Abnormality of nervous system physiology	phenotype	
+Abnormality of the globe	phenotype	
+Abnormal eye physiology	phenotype	
+Abnormal eye morphology	phenotype	
+Abnormal respiratory system morphology	phenotype	
+Abnormality of skeletal morphology	phenotype	
+Abnormality of muscle physiology	phenotype	
+Abnormality of higher mental function	phenotype	
+Abnormality of skin adnexa morphology	phenotype	
+Abnormality of skin morphology	phenotype	
+Abnormality of cardiovascular system physiology	phenotype	
+Abnormality of the gastrointestinal tract	phenotype	
+Abnormality of immune system physiology	phenotype	
+Abnormal axial skeleton morphology	phenotype	
+Abnormalities of the peripheral arteries	phenotype	
+Abnormality of the posterior segment of the globe	phenotype	
+Abnormality of body weight	phenotype	
+Functional respiratory abnormality	phenotype	
+Abnormality of the aorta	phenotype	
+Abnormality of the myocardium	phenotype	
+Abnormality of the integument	phenotype	
+Abnormality of the fundus	phenotype	
+Abnormality of vision	phenotype	
+Abnormality of cardiovascular system morphology	phenotype	
+Abnormality of pulmonary circulation	phenotype	
+Abnormality of digestive system physiology	phenotype	
+Abnormal vascular morphology	phenotype	

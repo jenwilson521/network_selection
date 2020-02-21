@@ -1,0 +1,108 @@
+node_name	node_type	
+DB01042	drug	
+SLC7A5	drug_target	
+SLC22A3	drug_target	
+Astrocytoma	phenotype	
+Non-small cell lung carcinoma	phenotype	
+Renal cell carcinoma, nonpapillary	phenotype	
+Squamous cell carcinoma	phenotype	
+Glioblastoma	phenotype	
+Glioma	phenotype	
+Animal Mammary Neoplasms	phenotype	
+Melanoma	phenotype	
+Secondary hypertriglyceridemia	phenotype	
+Prostatic Neoplasms	phenotype	
+Adenocarcinoma of lung	phenotype	
+Tumor Progression	phenotype	
+Cholangiocarcinoma	phenotype	
+Intrahepatic Cholangiocarcinoma	phenotype	
+Malignant tumor of prostate	phenotype	
+Carcinogenesis	phenotype	
+Prostate carcinoma	phenotype	
+Hepatocellular carcinoma	phenotype	
+Disorders of Sex Development	phenotype	
+Isovaleryl-CoA dehydrogenase deficiency	phenotype	
+Phenylketonuria	phenotype	
+Renal interstitial fibrosis	phenotype	
+Gonadoblastoma	phenotype	
+Carcinosarcoma	phenotype	
+Precursor cell lymphoblastic lymphoma	phenotype	
+Yolk Sac Tumor	phenotype	
+Bile duct cancer resectable	phenotype	
+Phyllodes tumor, benign	phenotype	
+Oropharyngeal squamous cell carcinoma	phenotype	
+Osteochondritis dissecans	phenotype	
+Nasopharyngeal cancer recurrent	phenotype	
+Retroviridae Infections	phenotype	
+Substance addiction and disorders	phenotype	
+Obsessive-compulsive disorder	phenotype	
+Alveolar cell carcinoma	phenotype	
+Latent autoimmune diabetes mellitus in adult	phenotype	
+Testicular malignant germ cell tumor	phenotype	
+Biliary Tract Cancer	phenotype	
+Methamphetamine abuse	phenotype	
+Teratoma	phenotype	
+Carcinoma, Small Cell	phenotype	
+Clear-cell metastatic renal cell carcinoma	phenotype	
+Dermatitis, Allergic Contact	phenotype	
+Myocarditis	phenotype	
+Cervical Squamous Cell Carcinoma	phenotype	
+Pleural effusion	phenotype	
+Hyperplasia	phenotype	
+Coronary Disease	phenotype	
+Squamous cell carcinoma of the skin	phenotype	
+Renal fibrosis	phenotype	
+Substance-Related Disorders	phenotype	
+Keloid	phenotype	
+Embryonal Carcinoma	phenotype	
+Squamous cell carcinoma of lung	phenotype	
+Cycloid psychosis	phenotype	
+Hepatoblastoma	phenotype	
+Testicular seminoma	phenotype	
+Ductal Carcinoma	phenotype	
+FANCONI ANEMIA, COMPLEMENTATION GROUP A (disorder)	phenotype	
+Metastatic Prostate Carcinoma	phenotype	
+Pleural Mesothelioma	phenotype	
+Fanconi anemia	phenotype	
+Germ cell neoplasia	phenotype	
+Neuroendocrine neoplasm	phenotype	
+Recurrent bacterial infection	phenotype	
+Pheochromocytoma	phenotype	
+Choriocarcinoma	phenotype	
+polyps	phenotype	
+Pituitary adenoma	phenotype	
+Noninfiltrating Intraductal Carcinoma	phenotype	
+Non-alcoholic Fatty Liver Disease	phenotype	
+Cancer Cell Growth	phenotype	
+Pituitary Neoplasms	phenotype	
+Malignant lymphoma, lymphocytic, intermediate differentiation, diffuse	phenotype	
+Cholestasis, benign recurrent intrahepatic 1	phenotype	
+Psychotic Disorders	phenotype	
+Idiopathic Pulmonary Fibrosis	phenotype	
+Carcinoma breast stage IV	phenotype	
+Clear cell renal cell carcinoma	phenotype	
+Invasive breast carcinoma	phenotype	
+T-cell acute lymphoblastic leukemias	phenotype	
+Urothelial Carcinoma	phenotype	
+Cancer of the lower GI tract	phenotype	
+Malignant Glioma	phenotype	
+Hepatic fibrosis	phenotype	
+Lip and Oral Cavity Carcinoma	phenotype	
+Cancer of mouth	phenotype	
+Benign Prostatic Hyperplasia	phenotype	
+Cancer of Head and Neck	phenotype	
+C-like syndrome	phenotype	
+Tumor Angiogenesis	phenotype	
+Thyroid cancer, nonmedullary, 4	phenotype	
+Hepatitis C, Chronic	phenotype	
+Non-Neoplastic Disorder	phenotype	
+Triple Negative Breast Neoplasms	phenotype	
+Urinary Bladder Neoplasms	phenotype	
+Malignant neoplasm of endometrium	phenotype	
+Uterine Corpus Cancer	phenotype	
+Herpes Simplex Infections	phenotype	
+Pancreatic Ductal Adenocarcinoma	phenotype	
+Immunodeficiency due to defect in CD3-gamma	phenotype	
+Esophageal carcinoma	phenotype	
+Secondary malignant neoplasm of lung	phenotype	
+Diabetic Nephropathies	phenotype	

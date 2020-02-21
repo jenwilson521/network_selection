@@ -1,0 +1,7 @@
+node_name	node_type	
+DB00198	drug	
+CES1	drug_target	
+ABCC4	drug_target	
+SLC22A8	drug_target	
+NEU1	drug_target	
+NEU2	drug_target	

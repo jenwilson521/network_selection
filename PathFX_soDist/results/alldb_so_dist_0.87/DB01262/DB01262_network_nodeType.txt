@@ -1,0 +1,8 @@
+node_name	node_type	
+DB01262	drug	
+DNMT1	drug_target	
+DCK	drug_target	
+Reticulosarcoma	phenotype	
+gliosarcoma	phenotype	
+Refractory cancer	phenotype	
+Rash and Dermatitis Adverse Event Associated with Chemoradiation	phenotype	

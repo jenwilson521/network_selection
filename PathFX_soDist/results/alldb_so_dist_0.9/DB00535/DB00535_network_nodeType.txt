@@ -1,0 +1,73 @@
+node_name	node_type	
+DB00535	drug	
+SLC15A2	drug_target	
+MPO	drug_target	
+SLC22A6	drug_target	
+SLC22A8	drug_target	
+SLC22A5	drug_target	
+Leg Ulcer	phenotype	
+Chromosome 11p deletion syndrome	phenotype	
+Acute encephalopathy	phenotype	
+Neck muscle weakness	phenotype	
+Congenital long QT syndrome	phenotype	
+Malignant ascites	phenotype	
+Lipoidosis	phenotype	
+Abnormality of fatty-acid metabolism	phenotype	
+Hyperammonemia	phenotype	
+Confusion	phenotype	
+Excessive daytime sleepiness	phenotype	
+cardiac event	phenotype	
+Abnormality of the endocardium	phenotype	
+Sickle Cell Trait	phenotype	
+Hemoglobinopathy	phenotype	
+Bloom syndrome	phenotype	
+pathologic fistula	phenotype	
+Abnormality of the musculature of the neck	phenotype	
+Syncope	phenotype	
+Incoordination	phenotype	
+Abnormality of nitrogen compound homeostasis	phenotype	
+Azotemia	phenotype	
+Ehlers-Danlos syndrome, type vii, autosomal recessive	phenotype	
+Peripheral neuropathy, myopathy, hoarseness, and hearing loss	phenotype	
+Growth Disorders	phenotype	
+Storage in hepatocytes	phenotype	
+Thyroid associated opthalmopathies	phenotype	
+Lipid accumulation in hepatocytes	phenotype	
+Abnormality of mitochondrial metabolism	phenotype	
+Coma	phenotype	
+Chronic ulcerative colitis	phenotype	
+Kartagener syndrome	phenotype	
+Generalized tonic-clonic seizures	phenotype	
+Abnormality of the mitochondrion	phenotype	
+Lethargy	phenotype	
+Fibrinogen Adverse Event	phenotype	
+Myocarditis	phenotype	
+Acquired long QT syndrome	phenotype	
+Elevated hepatic transaminases	phenotype	
+Pregnancy Complications	phenotype	
+Abnormality of muscle fibers	phenotype	
+Generalized seizures	phenotype	
+beta Thalassemia	phenotype	
+orbit (eye disorders)	phenotype	
+Hearing Loss, Partial	phenotype	
+Irritable bowel syndrome with diarrhea	phenotype	
+Abnormality of blood glucose concentration	phenotype	
+Tumor necrosis	phenotype	
+Abnormality of lipid metabolism	phenotype	
+Secondary hyperparathyroidism	phenotype	
+Vomiting	phenotype	
+Arthritis, Psoriatic	phenotype	
+Skeletal dysplasia	phenotype	
+Bronchiolitis, Viral	phenotype	
+Sleep disturbance	phenotype	
+Reduced consciousness/confusion	phenotype	
+Cardiac arrest	phenotype	
+Deafness, autosomal recessive 44	phenotype	
+Encephalopathy, acute, infection-induced, 4, susceptibility to	phenotype	
+Hypoglycemia, neonatal, simulating foetopathia diabetica	phenotype	
+Acute kidney injury	phenotype	
+Anemia, Sickle Cell	phenotype	
+Left ventricular hypertrophy	phenotype	
+Cardiomegaly	phenotype	
+Respiratory Syncytial Virus Infections	phenotype	
+Nausea and vomiting	phenotype	

@@ -1,0 +1,116 @@
+Gene	CUI	Source Databases	
+ADRA1A	C0001314	Acute disease of cardiovascular system	DisGeNet	
+ADRA1A	C0001916	Albinism, ocular, with sensorineural deafness	DisGeNet	
+ADRA1A	C0002395	Alzheimer Disease	DisGeNet	
+ADRA1A	C0003469	Anxiety Disorders	DisGeNet	
+ADRA1A	C0003873	Rheumatoid arthritis	DisGeNet	
+ADRA1A	C0004096	Asthma	DisGeNet	
+ADRA1A	C0004364	Autoimmune disease 1	DisGeNet	
+ADRA1A	C0005586	Bipolar affective disorder	DisGeNet	
+ADRA1A	C0005694	Bladder neck obstruction	DisGeNet	
+ADRA1A	C0006142	Breast-ovarian cancer, familial 1	DisGeNet	
+ADRA1A	C0007114	Skin cancer	DisGeNet	
+ADRA1A	C0007222	Cardiovascular Diseases	DisGeNet	
+ADRA1A	C0009402	Colorectal cancer 1	DisGeNet	
+ADRA1A	C0010417	Cryptorchidism	DisGeNet	
+ADRA1A	C0010823	Cytomegalovirus Infections	DisGeNet	
+ADRA1A	C0011849	Diabetes Mellitus, Type 1	DisGeNet	
+ADRA1A	C0011860	Diabetes mellitus type 2	DisGeNet	
+ADRA1A	C0013146	Methamphetamine abuse	DisGeNet	
+ADRA1A	C0013386	Dyskinesia, Drug-Induced	DisGeNet	
+ADRA1A	C0014544	Epilepsy	DisGeNet	
+ADRA1A	C0016053	Fibromyalgia	DisGeNet	
+ADRA1A	C0017636	Glioblastoma	DisGeNet	
+ADRA1A	C0017638	Glioma	DisGeNet	
+ADRA1A	C0018801	Heart Failure	DisGeNet	
+ADRA1A	C0018802	Congestive heart failure	DisGeNet	
+ADRA1A	C0019340	Herpes NOS	DisGeNet	
+ADRA1A	C0019693	Symptomatic human immunodeficiency virus infection	DisGeNet	
+ADRA1A	C0020071	Hereditary Sensory Autonomic Neuropathy, Type 1	DisGeNet	
+ADRA1A	C0020429	Hyperalgesia	DisGeNet	
+ADRA1A	C0020445	Familial hypercholesterolemia	DisGeNet	
+ADRA1A	C0020538	Hypertension	DisGeNet	
+ADRA1A	C0020649	Hypotension	DisGeNet	
+ADRA1A	C0022661	Kidney Failure, Chronic	DisGeNet	
+ADRA1A	C0022735	Hypogonadotropic hypogonadism 7 with or without anosmia	DisGeNet	
+ADRA1A	C0023434	Chronic Lymphocytic Leukemia	DisGeNet	
+ADRA1A	C0023440	Acute Erythroblastic Leukemia	DisGeNet	
+ADRA1A	C0023467	Acute myeloid leukemia	DisGeNet	
+ADRA1A	C0023890	Liver Cirrhosis, Biliary	DisGeNet	
+ADRA1A	C0024031	Low back pain	DisGeNet	
+ADRA1A	C0024115	Pulmonary Disease, Chronic Obstructive	DisGeNet	
+ADRA1A	C0024121	Lung Neoplasms	DisGeNet	
+ADRA1A	C0025202	Melanoma	DisGeNet	
+ADRA1A	C0025261	Memory Disorders	DisGeNet	
+ADRA1A	C0025500	Mesothelioma, malignant	DisGeNet	
+ADRA1A	C0025517	Disorders of Intracellular Cobalamin Metabolism	DisGeNet	
+ADRA1A	C0026764	Multiple Myeloma	DisGeNet	
+ADRA1A	C0027126	Steinert myotonic dystrophy syndrome	DisGeNet	
+ADRA1A	C0027627	Secondary hypertriglyceridemia	DisGeNet	
+ADRA1A	C0027719	Nephrosclerosis	DisGeNet	
+ADRA1A	C0028754	Obesity	DisGeNet	
+ADRA1A	C0030193	Pain	DisGeNet	
+ADRA1A	C0030201	Acute postoperative pain	DisGeNet	
+ADRA1A	C0030517	Disorders of parathyroid gland	DisGeNet	
+ADRA1A	C0030567	Parkinson Disease	DisGeNet	
+ADRA1A	C0032002	Abnormality of the pituitary gland	DisGeNet	
+ADRA1A	C0032460	Polycystic Ovary Syndrome	DisGeNet	
+ADRA1A	C0032584	polyps	DisGeNet	
+ADRA1A	C0033578	Prostatic Neoplasms	DisGeNet	
+ADRA1A	C0033774	Pruritus	DisGeNet	
+ADRA1A	C0035334	Retinitis pigmentosa	DisGeNet	
+ADRA1A	C0035335	Retinoblastoma	DisGeNet	
+ADRA1A	C0036220	Kaposi's sarcoma	DisGeNet	
+ADRA1A	C0036337	Schizoaffective Disorder	DisGeNet	
+ADRA1A	C0036341	Schizophrenia	DisGeNet	
+ADRA1A	C0036396	Chronic sciatica	DisGeNet	
+ADRA1A	C0040336	Tobacco Use Disorder	DisGeNet	
+ADRA1A	C0040517	Tourette Syndrome	DisGeNet	
+ADRA1A	C0042024	Urinary incontinence	DisGeNet	
+ADRA1A	C0085129	Bronchial Hyperreactivity	DisGeNet	
+ADRA1A	C0085580	Essential hypertension	DisGeNet	
+ADRA1A	C0149721	Left ventricular hypertrophy	DisGeNet	
+ADRA1A	C0151744	Acute myocardial ischemia	DisGeNet	
+ADRA1A	C0152020	Gastroparesis	DisGeNet	
+ADRA1A	C0152136	Low Tension Glaucoma	DisGeNet	
+ADRA1A	C0162283	Nephrogenic diabetes insipidus, autosomal	DisGeNet	
+ADRA1A	C0162809	Hypogonadism with anosmia	DisGeNet	
+ADRA1A	C0178874	Tumor Progression	DisGeNet	
+ADRA1A	C0220633	Intraocular melanoma	DisGeNet	
+ADRA1A	C0220659	 Acrodysostosis 1, with or without hormone resistance, 101800 (3)	DisGeNet	
+ADRA1A	C0221765	Chronic schizophrenia	DisGeNet	
+ADRA1A	C0234251	Inflammatory pain	DisGeNet	
+ADRA1A	C0235290	Taste bitter	DisGeNet	
+ADRA1A	C0235480	Paroxysmal atrial fibrillation	DisGeNet	
+ADRA1A	C0242339	Dyslipidemias	DisGeNet	
+ADRA1A	C0242379	Malignant neoplasm of lung	DisGeNet	
+ADRA1A	C0268318	Cholestasis of pregnancy	DisGeNet	
+ADRA1A	C0342345	Hypoparathyroidism - autosomal dominant	DisGeNet	
+ADRA1A	C0376358	Malignant tumor of prostate	DisGeNet	
+ADRA1A	C0392164	Pulmonary Cystic Fibrosis	DisGeNet	
+ADRA1A	C0410226	Congenital Myotonic Dystrophy	DisGeNet	
+ADRA1A	C0520947	Motor delay	DisGeNet	
+ADRA1A	C0521158	Recurrent tumor	DisGeNet	
+ADRA1A	C0524620	Metabolic Syndrome X	DisGeNet	
+ADRA1A	C0596263	Carcinogenesis	DisGeNet	
+ADRA1A	C0598428	genetic hypertension	DisGeNet	
+ADRA1A	C0598766	Leukemogenesis	DisGeNet	
+ADRA1A	C0600139	Prostate carcinoma	DisGeNet	
+ADRA1A	C0677886	Ovarian epithelial cancer	DisGeNet	
+ADRA1A	C0678222	Breast carcinoma	DisGeNet	
+ADRA1A	C0684249	Lung cancer	DisGeNet	
+ADRA1A	C1140680	BREAST-OVARIAN CANCER, FAMILIAL, SUSCEPTIBILITY TO, 4	DisGeNet	
+ADRA1A	C1141890	Congenital long QT syndrome	DisGeNet	
+ADRA1A	C1168401	Squamous cell carcinoma of the head and neck	DisGeNet	
+ADRA1A	C1261473	Sarcoma, Ewing	DisGeNet	
+ADRA1A	C1263846	Attention deficit hyperactivity disorder	DisGeNet	
+ADRA1A	C1269683	Major depressive disorder	DisGeNet	
+ADRA1A	C1272641	Systemic arterial pressure	DisGeNet	
+ADRA1A	C1292753	Primary Effusion Lymphoma	DisGeNet	
+ADRA1A	C1337013	Differentiated Thyroid Gland Carcinoma	DisGeNet	
+ADRA1A	C1516170	Cancer Cell Growth	DisGeNet	
+ADRA1A	C1527249	Colorectal cancer	DisGeNet	
+ADRA1A	C1704272	Benign Prostatic Hyperplasia	DisGeNet	
+ADRA1A	C1864100	Pseudohypoparathyroidism, type IB, 603233 (3)	DisGeNet	
+ADRA1A	C1956346	Coronary Artery Disease	DisGeNet	
+ADRA1A	C2239176	Hepatocellular carcinoma	DisGeNet	

@@ -1,0 +1,141 @@
+node1	node2	edge_score	
+DB04895	NRP1	1.0	
+NRP1		1.0
+EMG: myopathic abnormalities	NRP1	1.0	
+ Adenocarcinoma, ovarian, somatic, 167000 (3)	NRP1	1.0	
+Alcohol dependence	NRP1	1.0	
+Anaplasia	NRP1	1.0	
+Hypoxia	NRP1	1.0	
+Arteriosclerosis	NRP1	1.0	
+Rheumatoid arthritis	NRP1	1.0	
+Astrocytoma	NRP1	1.0	
+Atherosclerosis	NRP1	1.0	
+Gorlin syndrome	NRP1	1.0	
+Malignant tumor of urinary bladder	NRP1	1.0	
+Brain neoplasm	NRP1	1.0	
+Breast-ovarian cancer, familial 1	NRP1	1.0	
+Colon cancer	NRP1	1.0	
+Noninfiltrating Intraductal Carcinoma	NRP1	1.0	
+Non-small cell lung carcinoma	NRP1	1.0	
+Renal cell carcinoma, nonpapillary	NRP1	1.0	
+Squamous cell carcinoma	NRP1	1.0	
+Ischaemic cerebral infarction	NRP1	1.0	
+Colorectal cancer 1	NRP1	1.0	
+Verotoxigenic Escherichia coli gastrointestinal tract infection	NRP1	1.0	
+Cystic Fibrosis	NRP1	1.0	
+Cystitis	NRP1	1.0	
+{Unipolar depression, susceptibility to}, 608516 (3)	NRP1	1.0	
+Depressive Disorder	NRP1	1.0	
+Diabetes mellitus type 1	NRP1	1.0	
+Diabetic Retinopathy	NRP1	1.0	
+Endometriosis	NRP1	1.0	
+Esophageal Neoplasms	NRP1	1.0	
+orbit (eye disorders)	NRP1	1.0	
+Femur Head Necrosis	NRP1	1.0	
+Glioblastoma	NRP1	1.0	
+Glioma	NRP1	1.0	
+Symptomatic human immunodeficiency virus infection	NRP1	1.0	
+Ischemia	NRP1	1.0	
+Kidney Diseases	NRP1	1.0	
+Hypogonadotropic hypogonadism 7 with or without anosmia	NRP1	1.0	
+Leg Ulcer	NRP1	1.0	
+Leukemia, Lymphocytic, Chronic, B-Cell	NRP1	1.0	
+Chronic Lymphocytic Leukemia	NRP1	1.0	
+Lymphoid leukemia	NRP1	1.0	
+Acute lymphoid leukemia	NRP1	1.0	
+Acute myeloid leukemia	NRP1	1.0	
+Myeloid leukemia	NRP1	1.0	
+Adult T-Cell Lymphoma/Leukemia	NRP1	1.0	
+Liver Diseases	NRP1	1.0	
+Neoplasm of the liver	NRP1	1.0	
+Lung Neoplasms	NRP1	1.0	
+Lymphatic Metastasis	NRP1	1.0	
+Lymphoma, Large B-Cell, Diffuse	NRP1	1.0	
+{Gastric cancer risk after H. pylori infection}, 137215 (3)	NRP1	1.0	
+Animal Mammary Neoplasms	NRP1	1.0	
+Mastocytosis	NRP1	1.0	
+Melanoma	NRP1	1.0	
+Multiple Endocrine Neoplasia Type 2a	NRP1	1.0	
+Myocardial Infarction	NRP1	1.0	
+Neoplasm Invasiveness	NRP1	1.0	
+Secondary hypertriglyceridemia	NRP1	1.0	
+Neoplasm Recurrence, Local	NRP1	1.0	
+Pathologic Neovascularization	NRP1	1.0	
+Schwannoma	NRP1	1.0	
+Bone necrosis	NRP1	1.0	
+Pancreatic Neoplasms	NRP1	1.0	
+Peripheral neuropathy, myopathy, hoarseness, and hearing loss	NRP1	1.0	
+Pheochromocytoma	NRP1	1.0	
+Pituitary adenoma	NRP1	1.0	
+Ectopic Pregnancy	NRP1	1.0	
+Prostatic Neoplasms	NRP1	1.0	
+Retinopathy of Prematurity	NRP1	1.0	
+Schizophrenia	NRP1	1.0	
+Septicemia	NRP1	1.0	
+Hereditary hemorrhagic telangiectasia type 2	NRP1	1.0	
+Tetralogy of Fallot	NRP1	1.0	
+Truncus arteriosus	NRP1	1.0	
+Tuberculosis	NRP1	1.0	
+Unipolar Depression	NRP1	1.0	
+Urticaria Pigmentosa	NRP1	1.0	
+Varicose Ulcer	NRP1	1.0	
+Severe combined immunodeficiency due to ADA deficiency	NRP1	1.0	
+Autosomal recessive polycystic kidney disease	NRP1	1.0	
+Acute leukemia	NRP1	1.0	
+Small cell lung cancer	NRP1	1.0	
+Rectal Carcinoma	NRP1	1.0	
+Low Tension Glaucoma	NRP1	1.0	
+Cancer of mouth	NRP1	1.0	
+Proliferative diabetic retinopathy	NRP1	1.0	
+Hypogonadism with anosmia	NRP1	1.0	
+Hypopigmentation of the skin	NRP1	1.0	
+Tumor Progression	NRP1	1.0	
+Anaplastic large cell lymphoma, ALK negative	NRP1	1.0	
+Cervical intraepithelial neoplasia (Cervical dysplasia)	NRP1	1.0	
+Neuroendocrine neoplasm	NRP1	1.0	
+Lip and Oral Cavity Carcinoma	NRP1	1.0	
+Pancreatic Carcinoma	NRP1	1.0	
+Gastrointestinal stromal tumor	NRP1	1.0	
+Malignant neoplasm of lung	NRP1	1.0	
+Neoplasm, Residual	NRP1	1.0	
+Sepsis	NRP1	1.0	
+Esophageal Squamous Cell Carcinoma	NRP1	1.0	
+Solid tumour	NRP1	1.0	
+Pancreatic adenocarcinoma	NRP1	1.0	
+Carcinoma of cervix	NRP1	1.0	
+Adenocarcinoma of colon	NRP1	1.0	
+Malignant mesothelioma	NRP1	1.0	
+Malignant neoplasm of pancreas	NRP1	1.0	
+Squamous cell carcinoma of tongue	NRP1	1.0	
+Malignant tumor of prostate	NRP1	1.0	
+Malignant tumor of esophagus	NRP1	1.0	
+Thyroid carcinoma	NRP1	1.0	
+Squamous cell carcinoma of the skin	NRP1	1.0	
+Osteosarcoma	NRP1	1.0	
+Carcinogenesis	NRP1	1.0	
+Prostate carcinoma	NRP1	1.0	
+Ovarian epithelial cancer	NRP1	1.0	
+Breast carcinoma	NRP1	1.0	
+Lung cancer	NRP1	1.0	
+Carcinoma of colon	NRP1	1.0	
+Stomach cancer	NRP1	1.0	
+Bladder carcinoma	NRP1	1.0	
+Neuroblastoma	NRP1	1.0	
+Brain Tumor, Primary	NRP1	1.0	
+CADASIL	NRP1	1.0	
+Oculodentodigital dysplasia	NRP1	1.0	
+Cerebral ischemia	NRP1	1.0	
+Ovarian Neoplasms	NRP1	1.0	
+BREAST-OVARIAN CANCER, FAMILIAL, SUSCEPTIBILITY TO, 4	NRP1	1.0	
+Attention deficit hyperactivity disorder	NRP1	1.0	
+Major depressive disorder	NRP1	1.0	
+Tumor Angiogenesis	NRP1	1.0	
+Colorectal cancer	NRP1	1.0	
+Non-Neoplastic Disorder	NRP1	1.0	
+Multicystic renal dysplasia, bilateral	NRP1	1.0	
+T-cell acute lymphoblastic leukemias	NRP1	1.0	
+Precursor Cell Lymphoblastic Leukemia-Lymphoma	NRP1	1.0	
+Hepatocellular carcinoma	NRP1	1.0	
+Secondary malignant neoplasm of pancreas	NRP1	1.0	
+Meckel syndrome type 6	NRP1	1.0	
+Experimental Organism Basal Cell Carcinoma	NRP1	1.0	

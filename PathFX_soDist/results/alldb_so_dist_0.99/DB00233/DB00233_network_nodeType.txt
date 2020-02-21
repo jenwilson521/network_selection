@@ -1,0 +1,6 @@
+node_name	node_type	
+DB00233	drug	
+PTGS2	drug_target	
+ALOX5	drug_target	
+CHUK	drug_target	
+MPO	drug_target	

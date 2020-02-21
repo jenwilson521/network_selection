@@ -1,0 +1,19 @@
+Gene	CUI	Source Databases	
+CFTR	C0036205	Sarcoidosis, Pulmonary	DisGeNet	
+PTGS2	C0036205	Sarcoidosis, Pulmonary	DisGeNet	
+CFTR	C0342257	Complications of Diabetes Mellitus	DisGeNet	
+PTGS2	C0342257	Complications of Diabetes Mellitus	DisGeNet	
+CFTR	C0034063	Pulmonary edema	DisGeNet	
+PTGS2	C0034063	Pulmonary edema	DisGeNet	
+CFTR	C0021843	Intestinal obstruction	HumPhenOnt	
+PTGS2	C0021843	Intestinal obstruction	DisGeNet	
+CFTR	C0013295	Duodenal Ulcer	DisGeNet	
+PTGS2	C0013295	Duodenal Ulcer	DisGeNet	
+CFTR	C0008313	Cholangitis, Sclerosing	DisGeNet	
+PTGS2	C0008313	Cholangitis, Sclerosing	DisGeNet	
+PTGS2	C0947622	Cholecystolithiasis	DisGeNet	
+SLCO1A2	C0947622	Cholecystolithiasis	DisGeNet	
+CFTR	C0699949	airway disease	DisGeNet	
+PTGS2	C0699949	airway disease	DisGeNet	
+CFTR	C0022336	Creutzfeldt-Jakob Syndrome	DisGeNet	
+PTGS2	C0022336	Creutzfeldt-Jakob Syndrome	DisGeNet	

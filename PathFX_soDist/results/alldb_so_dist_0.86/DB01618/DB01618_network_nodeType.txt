@@ -1,0 +1,81 @@
+node_name	node_type	
+DB01618	drug	
+HTR2A	drug_target	
+DRD2	drug_target	
+HTR1A	drug_target	
+CHRM1	drug_target	
+As If Personality	phenotype	
+Psychoses, Substance-Induced	phenotype	
+Chronic sciatica	phenotype	
+Bulimia	phenotype	
+Substance Use Disorders	phenotype	
+Antisocial Personality Disorder	phenotype	
+Acute disease of cardiovascular system	phenotype	
+Personality disorder	phenotype	
+Low back pain	phenotype	
+Dyskinesia, Drug-Induced	phenotype	
+Cocaine Dependence	phenotype	
+Bipolar I disorder	phenotype	
+Heroin Dependence	phenotype	
+Weight Gain Adverse Event	phenotype	
+NEUROTICISM	phenotype	
+Substance Withdrawal Syndrome	phenotype	
+Polyphagia	phenotype	
+Alcohol abuse	phenotype	
+Marijuana Abuse	phenotype	
+Generalized anxiety disorder	phenotype	
+Dyskinesia, seizures, and intellectual developmental disorder	phenotype	
+Seasonal Affective Disorder	phenotype	
+ {Nicotine dependence, protection against}, 188890 (3)	phenotype	
+Chronic schizophrenia	phenotype	
+Nicotine Dependence	phenotype	
+Psychiatric symptom	phenotype	
+Panic disorder syndrome 1 (2)	phenotype	
+alcohol use disorder	phenotype	
+Cocaine-Related Disorders	phenotype	
+Neurobehavioral Manifestations	phenotype	
+Bulimia nervosa 1	phenotype	
+Opiate Addiction	phenotype	
+Depressive Symptoms	phenotype	
+Delusions	phenotype	
+Insomnia	phenotype	
+Antisocial/borderline personality disorder	phenotype	
+Tourette Syndrome	phenotype	
+Chronic Fatigue Syndrome	phenotype	
+Bradycardia	phenotype	
+Nausea	phenotype	
+Dyspepsia	phenotype	
+Memory Disorders	phenotype	
+Abnormality of the basal ganglia	phenotype	
+Obsessive-compulsive behavior	phenotype	
+Substance-Related Disorders	phenotype	
+Migraine Disorders	phenotype	
+Borderline Personality Disorder	phenotype	
+Pharyngeal Neoplasms	phenotype	
+Tardive Dyskinesia	phenotype	
+Drug Dependence	phenotype	
+Language impairment	phenotype	
+Osteochondritis dissecans	phenotype	
+Common Migraine	phenotype	
+MAJOR AFFECTIVE DISORDER 4	phenotype	
+MAJOR AFFECTIVE DISORDER 5	phenotype	
+MAJOR AFFECTIVE DISORDER 6	phenotype	
+Major affective disorder 7	phenotype	
+MAJOR AFFECTIVE DISORDER 8	phenotype	
+MAJOR AFFECTIVE DISORDER 9	phenotype	
+Orofacial dyskinesia	phenotype	
+Eating disorder	phenotype	
+Migraine with aura	phenotype	
+Anxiety Disorders	phenotype	
+Substance addiction and disorders	phenotype	
+Panic disorder 1	phenotype	
+Schizoaffective Disorder	phenotype	
+Depression	phenotype	
+Anxiety	phenotype	
+Obsessive-compulsive disorder	phenotype	
+Overweight	phenotype	
+Unipolar Depression	phenotype	
+Sleep Wake Disorders	phenotype	
+Bronchopulmonary Dysplasia	phenotype	
+Mental disorders	phenotype	
+SUDDEN INFANT DEATH SYNDROME	phenotype	

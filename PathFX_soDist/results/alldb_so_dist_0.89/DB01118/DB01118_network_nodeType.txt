@@ -1,0 +1,29 @@
+node_name	node_type	
+DB01118	drug	
+CYP2C9	drug_target	
+CYP2C8	drug_target	
+CYP1A2	drug_target	
+CYP2D6	drug_target	
+KCNH2	drug_target	
+PPARG	drug_target	
+THRB	drug_target	
+ABCB11	drug_target	
+THRA	drug_target	
+ADRB1	drug_target	
+ABCB1	drug_target	
+CYP2C19	drug_target	
+CYP2A6	drug_target	
+SLC22A2	drug_target	
+CACNA2D2	drug_target	
+CYP3A4	drug_target	
+CYP3A5	drug_target	
+CYP1A1	drug_target	
+Primary malignant neoplasm of liver	phenotype	
+Drug Allergy	phenotype	
+Pharyngeal Neoplasms	phenotype	
+Pleural Neoplasms	phenotype	
+Neoplasm of the larynx	phenotype	
+Nausea	phenotype	
+Genomic Instability	phenotype	
+Neoplasms, Germ Cell and Embryonal	phenotype	
+Neurotoxicity Syndromes	phenotype	

@@ -1,0 +1,26 @@
+node_name	node_type	
+DB00432	drug	
+SLC28A1	drug_target	
+ALB	drug_target	
+TYMP	drug_target	
+TYMS	drug_target	
+SLC22A6	drug_target	
+SLC29A2	drug_target	
+SLC29A1	drug_target	
+TK1	drug_target	
+Lipoatrophy	phenotype	
+Malignant neoplasm of stomach stage IV	phenotype	
+Fatigue	phenotype	
+Adverse drug events and drug allergies	phenotype	
+Brain Ischemia	phenotype	
+Refractory cancer	phenotype	
+Complications of Diabetes Mellitus	phenotype	
+Adenocarcinoma of colon	phenotype	
+Neutropenia	phenotype	
+Endometrial Neoplasms	phenotype	
+Sleep Wake Disorders	phenotype	
+Pancreatitis	phenotype	
+Leukopenia	phenotype	
+Graft-versus-host disease, susceptibility to	phenotype	
+Hereditary hyperhomocysteinemia	phenotype	
+Malnutrition	phenotype	

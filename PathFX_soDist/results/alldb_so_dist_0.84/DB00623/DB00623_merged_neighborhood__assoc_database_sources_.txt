@@ -1,0 +1,171 @@
+Gene	CUI	Source Databases	
+ANKK1	C0003944	As If Personality	DisGeNet	
+AR	C0003944	As If Personality	DisGeNet	
+CYP2D6	C0003944	As If Personality	DisGeNet	
+CYP2E1	C0003944	As If Personality	DisGeNet	
+DRD2	C0003944	As If Personality	DisGeNet	
+HTR2A	C0003944	As If Personality	DisGeNet	
+HTR2C	C0003944	As If Personality	DisGeNet	
+ABCB1	C0013386	Dyskinesia, Drug-Induced	DisGeNet	
+CYP2D6	C0013386	Dyskinesia, Drug-Induced	DisGeNet	
+DRD1	C0013386	Dyskinesia, Drug-Induced	DisGeNet	
+DRD2	C0013386	Dyskinesia, Drug-Induced	DisGeNet	
+HTR2A	C0013386	Dyskinesia, Drug-Induced	DisGeNet	
+HTR2C	C0013386	Dyskinesia, Drug-Induced	DisGeNet	
+ABCB1	C0038587	Substance Withdrawal Syndrome	DisGeNet	
+AR	C0038587	Substance Withdrawal Syndrome	DisGeNet	
+CYP2D6	C0038587	Substance Withdrawal Syndrome	DisGeNet	
+DRD1	C0038587	Substance Withdrawal Syndrome	DisGeNet	
+DRD2	C0038587	Substance Withdrawal Syndrome	DisGeNet	
+HTR2A	C0038587	Substance Withdrawal Syndrome	DisGeNet	
+HTR2C	C0038587	Substance Withdrawal Syndrome	DisGeNet	
+ABCB1	C0600427	Cocaine Dependence	DisGeNet	
+ANKK1	C0600427	Cocaine Dependence	DisGeNet	
+DRD1	C0600427	Cocaine Dependence	DisGeNet	
+DRD2	C0600427	Cocaine Dependence	DisGeNet	
+HTR2A	C0600427	Cocaine Dependence	DisGeNet	
+HTR2C	C0600427	Cocaine Dependence	DisGeNet	
+ABCB1	C0019337	Heroin Dependence	DisGeNet	
+ANKK1	C0019337	Heroin Dependence	DisGeNet	
+CYP2D6	C0019337	Heroin Dependence	DisGeNet	
+DRD1	C0019337	Heroin Dependence	DisGeNet	
+DRD2	C0019337	Heroin Dependence	DisGeNet	
+HTR2A	C0019337	Heroin Dependence	DisGeNet	
+ABCB1	C0524662	Opiate Addiction	DisGeNet	
+ANKK1	C0524662	Opiate Addiction	DisGeNet	
+CYP2D6	C0524662	Opiate Addiction	DisGeNet	
+DRD1	C0524662	Opiate Addiction	DisGeNet	
+DRD2	C0524662	Opiate Addiction	DisGeNet	
+ANKK1	C0085762	Alcohol abuse	DisGeNet	
+CYP2E1	C0085762	Alcohol abuse	DisGeNet	
+DRD1	C0085762	Alcohol abuse	DisGeNet	
+DRD2	C0085762	Alcohol abuse	DisGeNet	
+HTR2A	C0085762	Alcohol abuse	DisGeNet	
+HTR2C	C0085762	Alcohol abuse	DisGeNet	
+ANKK1	C0013384	Dyskinesia, seizures, and intellectual developmental disorder	DisGeNet	
+CYP2D6	C0013384	Dyskinesia, seizures, and intellectual developmental disorder	DisGeNet	
+DRD1	C0013384	Dyskinesia, seizures, and intellectual developmental disorder	DisGeNet	
+DRD2	C0013384	Dyskinesia, seizures, and intellectual developmental disorder	DisGeNet	
+HTR2A	C0013384	Dyskinesia, seizures, and intellectual developmental disorder	DisGeNet	
+HTR2C	C0013384	Dyskinesia, seizures, and intellectual developmental disorder	DisGeNet	
+ANKK1	C0003431	Antisocial Personality Disorder	DisGeNet	
+CYP2E1	C0003431	Antisocial Personality Disorder	DisGeNet	
+DRD2	C0003431	Antisocial Personality Disorder	DisGeNet	
+HTR2A	C0003431	Antisocial Personality Disorder	DisGeNet	
+CYP2D6	C0686347	Tardive Dyskinesia	DisGeNet	
+DRD1	C0686347	Tardive Dyskinesia	DisGeNet	
+DRD2	C0686347	Tardive Dyskinesia	DisGeNet	
+HTR2A	C0686347	Tardive Dyskinesia	DisGeNet	
+HTR2C	C0686347	Tardive Dyskinesia	DisGeNet	
+ANKK1	C0853193	Bipolar I disorder	DisGeNet	
+DRD1	C0853193	Bipolar I disorder	DisGeNet	
+DRD2	C0853193	Bipolar I disorder	DisGeNet	
+HTR2A	C0853193	Bipolar I disorder	DisGeNet	
+HTR2C	C0853193	Bipolar I disorder	DisGeNet	
+CYP2D6	C0221765	Chronic schizophrenia	DisGeNet	
+DRD2	C0221765	Chronic schizophrenia	DisGeNet	
+HTR2A	C0221765	Chronic schizophrenia	DisGeNet	
+HTR2C	C0221765	Chronic schizophrenia	DisGeNet	
+CYP2D6	C0152115	Orofacial dyskinesia	DisGeNet	
+DRD1	C0152115	Orofacial dyskinesia	DisGeNet	
+DRD2	C0152115	Orofacial dyskinesia	DisGeNet	
+HTR2A	C0152115	Orofacial dyskinesia	DisGeNet	
+HTR2C	C0152115	Orofacial dyskinesia	DisGeNet	
+ABCB1	C0086132	Depressive Symptoms	DisGeNet	
+AR	C0086132	Depressive Symptoms	DisGeNet	
+CYP2D6	C0086132	Depressive Symptoms	DisGeNet	
+DRD2	C0086132	Depressive Symptoms	DisGeNet	
+HTR2A	C0086132	Depressive Symptoms	DisGeNet	
+HTR2C	C0086132	Depressive Symptoms	DisGeNet	
+AR	C0033054	Prenatal Exposure Delayed Effects	DisGeNet	
+CYP2D6	C0033054	Prenatal Exposure Delayed Effects	DisGeNet	
+CYP2E1	C0033054	Prenatal Exposure Delayed Effects	DisGeNet	
+DRD2	C0033054	Prenatal Exposure Delayed Effects	DisGeNet	
+ABCB1	C0027497	Nausea	DisGeNet	
+CYP2D6	C0027497	Nausea	DisGeNet	
+DRD2	C0027497	Nausea	DisGeNet	
+HTR2A	C0027497	Nausea	DisGeNet	
+DRD2	C0006370	Bulimia	DisGeNet	
+HTR2A	C0006370	Bulimia	DisGeNet	
+HTR2C	C0006370	Bulimia	DisGeNet	
+ABCB1	C0024809	Marijuana Abuse	DisGeNet	
+ANKK1	C0024809	Marijuana Abuse	DisGeNet	
+DRD1	C0024809	Marijuana Abuse	DisGeNet	
+DRD2	C0024809	Marijuana Abuse	DisGeNet	
+HTR2A	C0024809	Marijuana Abuse	DisGeNet	
+CYP2D6	C0004782	Abnormality of the basal ganglia	DisGeNet	
+DRD2	C0004782	Abnormality of the basal ganglia	DisGeNet	
+HTR2A	C0004782	Abnormality of the basal ganglia	DisGeNet	
+HTR2C	C0004782	Abnormality of the basal ganglia	DisGeNet	
+CYP2D6	C1457887	CNS symptom	DisGeNet	
+DRD1	C1457887	CNS symptom	DisGeNet	
+HTR2A	C1457887	CNS symptom	DisGeNet	
+HTR2C	C1457887	CNS symptom	DisGeNet	
+ABCB1	C2911647	Weight Gain Adverse Event	DisGeNet	
+ANKK1	C2911647	Weight Gain Adverse Event	DisGeNet	
+DRD1	C2911647	Weight Gain Adverse Event	DisGeNet	
+DRD2	C2911647	Weight Gain Adverse Event	DisGeNet	
+HTR2A	C2911647	Weight Gain Adverse Event	DisGeNet	
+HTR2C	C2911647	Weight Gain Adverse Event	DisGeNet	
+ANKK1	C0033941	Psychoses, Substance-Induced	DisGeNet	
+DRD1	C0033941	Psychoses, Substance-Induced	DisGeNet	
+DRD2	C0033941	Psychoses, Substance-Induced	DisGeNet	
+HTR2A	C0033941	Psychoses, Substance-Induced	DisGeNet	
+ANKK1	C1510472	Drug Dependence	DisGeNet	
+DRD1	C1510472	Drug Dependence	DisGeNet	
+DRD2	C1510472	Drug Dependence	DisGeNet	
+HTR2C	C1510472	Drug Dependence	DisGeNet	
+ANKK1	C0028043	Nicotine Dependence	DisGeNet	
+CYP2E1	C0028043	Nicotine Dependence	DisGeNet	
+DRD1	C0028043	Nicotine Dependence	DisGeNet	
+DRD2	C0028043	Nicotine Dependence	DisGeNet	
+HTR2A	C0028043	Nicotine Dependence	DisGeNet	
+ABCB1	C0152020	Gastroparesis	DisGeNet	
+CYP2D6	C0152020	Gastroparesis	DisGeNet	
+DRD2	C0152020	Gastroparesis	DisGeNet	
+DRD1	C1970943	MAJOR AFFECTIVE DISORDER 4	DisGeNet	
+DRD2	C1970943	MAJOR AFFECTIVE DISORDER 4	DisGeNet	
+HTR2A	C1970943	MAJOR AFFECTIVE DISORDER 4	DisGeNet	
+HTR2C	C1970943	MAJOR AFFECTIVE DISORDER 4	DisGeNet	
+DRD1	C1970944	MAJOR AFFECTIVE DISORDER 5	DisGeNet	
+DRD2	C1970944	MAJOR AFFECTIVE DISORDER 5	DisGeNet	
+HTR2A	C1970944	MAJOR AFFECTIVE DISORDER 5	DisGeNet	
+HTR2C	C1970944	MAJOR AFFECTIVE DISORDER 5	DisGeNet	
+DRD1	C1970945	MAJOR AFFECTIVE DISORDER 6	DisGeNet	
+DRD2	C1970945	MAJOR AFFECTIVE DISORDER 6	DisGeNet	
+HTR2A	C1970945	MAJOR AFFECTIVE DISORDER 6	DisGeNet	
+HTR2C	C1970945	MAJOR AFFECTIVE DISORDER 6	DisGeNet	
+DRD1	C2700438	Major affective disorder 7	DisGeNet	
+DRD2	C2700438	Major affective disorder 7	DisGeNet	
+HTR2A	C2700438	Major affective disorder 7	DisGeNet	
+HTR2C	C2700438	Major affective disorder 7	DisGeNet	
+DRD1	C2700439	MAJOR AFFECTIVE DISORDER 8	DisGeNet	
+DRD2	C2700439	MAJOR AFFECTIVE DISORDER 8	DisGeNet	
+HTR2A	C2700439	MAJOR AFFECTIVE DISORDER 8	DisGeNet	
+HTR2C	C2700439	MAJOR AFFECTIVE DISORDER 8	DisGeNet	
+DRD1	C2700440	MAJOR AFFECTIVE DISORDER 9	DisGeNet	
+DRD2	C2700440	MAJOR AFFECTIVE DISORDER 9	DisGeNet	
+HTR2A	C2700440	MAJOR AFFECTIVE DISORDER 9	DisGeNet	
+HTR2C	C2700440	MAJOR AFFECTIVE DISORDER 9	DisGeNet	
+ABCB1	C0030201	Acute postoperative pain	DisGeNet	
+CYP2D6	C0030201	Acute postoperative pain	DisGeNet	
+HTR2A	C0030201	Acute postoperative pain	DisGeNet	
+ANKK1	C0236969	Substance-Related Disorders	DisGeNet	
+AR	C0236969	Substance-Related Disorders	DisGeNet	
+CYP2D6	C0236969	Substance-Related Disorders	DisGeNet	
+CYP2E1	C0236969	Substance-Related Disorders	DisGeNet	
+DRD2	C0236969	Substance-Related Disorders	DisGeNet	
+HTR2C	C0236969	Substance-Related Disorders	DisGeNet	
+ANKK1	C0001956	alcohol use disorder	DisGeNet	
+CYP2E1	C0001956	alcohol use disorder	DisGeNet	
+DRD2	C0001956	alcohol use disorder	DisGeNet	
+CYP2D6	C0031212	Personality disorder	DisGeNet	
+DRD2	C0031212	Personality disorder	DisGeNet	
+HTR2A	C0031212	Personality disorder	DisGeNet	
+CYP2D6	C0013473	Eating disorder	DisGeNet	
+DRD2	C0013473	Eating disorder	DisGeNet	
+HTR2A	C0013473	Eating disorder	DisGeNet	
+HTR2C	C0013473	Eating disorder	DisGeNet	
+DRD2	C2267227	Bulimia nervosa 1	DisGeNet	
+HTR2A	C2267227	Bulimia nervosa 1	DisGeNet	
+HTR2C	C2267227	Bulimia nervosa 1	DisGeNet	

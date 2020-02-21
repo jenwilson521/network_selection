@@ -1,0 +1,5 @@
+node_name	node_type	
+DB00989	drug	
+ACHE	drug_target	
+CYP3A4	drug_target	
+BCHE	drug_target	

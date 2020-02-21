@@ -1,0 +1,4 @@
+node_name	node_type	
+DB00601	drug	
+MAOB	drug_target	
+MAOA	drug_target	

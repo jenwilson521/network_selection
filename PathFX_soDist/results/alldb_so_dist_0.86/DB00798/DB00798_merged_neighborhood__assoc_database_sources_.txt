@@ -1,0 +1,17 @@
+Gene	CUI	Source Databases	
+DHFR	C0025521	Inborn Errors of Metabolism	DisGeNet	
+LRP2	C0025521	Inborn Errors of Metabolism	DisGeNet	
+DHFR	C0002888	Megaloblastic anemia, thiamine-responsive, with diabetes mellitus and sensorineural deafness	DisGeNet,HumPhenOnt	
+LRP2	C0344539	Hypoplasia of the iris	HumPhenOnt	
+LRP2	C0005944	Metabolic Bone Disorder	DisGeNet	
+DHFR	C0024537	Malaria, Vivax	DisGeNet	
+DHFR	C0276496	Familial Alzheimer Disease (FAD)	DisGeNet	
+DHFR	C0275522	Asymptomatic Infections	DisGeNet	
+LRP2	C1275808	Congenital central hypoventilation	DisGeNet	
+DHFR	C0854467	Myelosuppression	DisGeNet	
+LRP2	C0029442	Osteomalacia	DisGeNet	
+DHFR	C0016412	Folic Acid Deficiency	DisGeNet	
+DHFR	C0268135	Xeroderma pigmentosum, group A	DisGeNet	
+LRP2	C0266387	Bicornuate uterus	HumPhenOnt	
+LRP2	C0035579	Rickets	DisGeNet	
+DHFR	C4023515	Dialeptic seizures	HumPhenOnt	

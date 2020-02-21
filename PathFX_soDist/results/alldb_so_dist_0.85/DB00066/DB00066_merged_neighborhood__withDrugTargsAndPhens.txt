@@ -1,0 +1,189 @@
+node1	node2	edge_score	
+DB00066	FSHR	1.0	
+FSHR		1.0
+Abdominal distention	FSHR	1.0	
+Abdominal pain	FSHR	1.0	
+Recurrent abortion	FSHR	1.0	
+Aplasia involving bones of the extremities	FSHR	1.0	
+Neoplasm of the adrenal gland	FSHR	1.0	
+Alzheimer Disease	FSHR	1.0	
+Amenorrhea	FSHR	1.0	
+Arachnodactyly	FSHR	1.0	
+Ascites	FSHR	1.0	
+Ataxia, combined cerebellar and peripheral, with hearing loss and diabetes mellitus	FSHR	1.0	
+Azoospermia	FSHR	1.0	
+Breast-ovarian cancer, familial 1	FSHR	1.0	
+Candidiasis, familial, 9	FSHR	1.0	
+Constitutional symptom	FSHR	1.0	
+{Unipolar depression, susceptibility to}, 608516 (3)	FSHR	1.0	
+Depressive Disorder	FSHR	1.0	
+Gallbladder disease 4	FSHR	1.0	
+Short stature, rhizomelic, with microcephaly, micrognathia, and developmental delay	FSHR	1.0	
+Hydrops, lactic acidosis, and sideroblastic anemia	FSHR	1.0	
+Endometriosis	FSHR	1.0	
+granulosa cell tumor	FSHR	1.0	
+Abnormality of the hand	FSHR	1.0	
+Hirsutism	FSHR	1.0	
+Hyperlipidemia, combined, 1	FSHR	1.0	
+Hyperpituitarism	FSHR	1.0	
+Hypertension	FSHR	1.0	
+Hypothyroidism	FSHR	1.0	
+Infertility associated with multi-tailed spermatozoa and excessive DNA	FSHR	1.0	
+Female infertility	FSHR	1.0	
+Male infertility	FSHR	1.0	
+Hypogonadotropic hypogonadism 7 with or without anosmia	FSHR	1.0	
+Lupus Erythematosus, Systemic	FSHR	1.0	
+Premature ovarian failure	FSHR	1.0	
+Disorders of Intracellular Cobalamin Metabolism	FSHR	1.0	
+Microcephaly 16, primary, autosomal recessive	FSHR	1.0	
+Nausea	FSHR	1.0	
+Nausea and vomiting	FSHR	1.0	
+Secondary hypertriglyceridemia	FSHR	1.0	
+Neoplasms, Germ Cell and Embryonal	FSHR	1.0	
+Obesity	FSHR	1.0	
+Oligospermia	FSHR	1.0	
+Osteopenia	FSHR	1.0	
+Osteoporosis	FSHR	1.0	
+Ovarian cyst	FSHR	1.0	
+Ovarian Diseases	FSHR	1.0	
+Pain	FSHR	1.0	
+Pituitary adenoma	FSHR	1.0	
+Abnormality of the pituitary gland	FSHR	1.0	
+Pleural effusion	FSHR	1.0	
+Polycystic Ovary Syndrome	FSHR	1.0	
+Preeclampsia/eclampsia 1	FSHR	1.0	
+Puberty and gonadal disorders	FSHR	1.0	
+Delayed puberty	FSHR	1.0	
+Pulmonary edema	FSHR	1.0	
+Pulmonary fibrosis and/or bone marrow failure, telomere-related, 4	FSHR	1.0	
+Testicular seminoma	FSHR	1.0	
+Testicular Neoplasms	FSHR	1.0	
+Thyroid Diseases	FSHR	1.0	
+46,XY gonadal dysgenesis, partial, with minifascicular neuropathy	FSHR	1.0	
+Abnormality of the genitourinary system	FSHR	1.0	
+Ovarian hyperstimulation syndrome	FSHR	1.0	
+Ovarian Failure, Premature	FSHR	1.0	
+Polycystic Kidney, Autosomal Dominant	FSHR	1.0	
+Essential hypertension	FSHR	1.0	
+Migraine Disorders	FSHR	1.0	
+Malignant tumor of testis	FSHR	1.0	
+Migraine with aura	FSHR	1.0	
+Menstrual irregularities	FSHR	1.0	
+Abnormality of the hair	FSHR	1.0	
+Abnormality of the vertebrae	FSHR	1.0	
+Abnormal QRS complex	FSHR	1.0	
+Increased analgesia from kappa-opioid receptor agonist, female-specific	FSHR	1.0	
+ Hyperandrogenism, nonclassic type, due to 21-hydroxylase deficiency, 201910 (3)	FSHR	1.0	
+Delayed menarche	FSHR	1.0	
+Secondary amenorrhea	FSHR	1.0	
+Abnormality of the skull	FSHR	1.0	
+Abnormality of limbs	FSHR	1.0	
+Abnormality of blood and blood-forming tissues	FSHR	1.0	
+Impotence	FSHR	1.0	
+Abnormality of cardiovascular system electrophysiology	FSHR	1.0	
+Growth abnormality	FSHR	1.0	
+Abnormality of the digestive system	FSHR	1.0	
+Abnormal uterus morphology	FSHR	1.0	
+Abnormality of the ear	FSHR	1.0	
+Malignant tumor of prostate	FSHR	1.0	
+Decreased head circumference	FSHR	1.0	
+Autosomal recessive inheritance	FSHR	1.0	
+Autosomal dominant non-syndromic sensorineural deafness type DFNA	FSHR	1.0	
+Growth delay	FSHR	1.0	
+Abnormality of the nervous system	FSHR	1.0	
+Decreased fertility	FSHR	1.0	
+Abnormal spermatogenesis	FSHR	1.0	
+Metabolic Syndrome X	FSHR	1.0	
+Delayed skeletal maturation	FSHR	1.0	
+Hypovolemia	FSHR	1.0	
+Epithelioma	FSHR	1.0	
+Abnormal serum testosterone level	FSHR	1.0	
+Carcinogenesis	FSHR	1.0	
+Ovarian epithelial cancer	FSHR	1.0	
+Hypoplasia of the ovary	FSHR	1.0	
+Subfertility	FSHR	1.0	
+Abdominal symptom	FSHR	1.0	
+Abnormal breast morphology	FSHR	1.0	
+Abnormality of the genital system	FSHR	1.0	
+Ovarian Insufficiency	FSHR	1.0	
+Oestrogen deficiency	FSHR	1.0	
+Abnormality of head or neck	FSHR	1.0	
+Testicular malignant germ cell tumor	FSHR	1.0	
+Ovarian Neoplasms	FSHR	1.0	
+BREAST-OVARIAN CANCER, FAMILIAL, SUSCEPTIBILITY TO, 4	FSHR	1.0	
+Sarcoma, Ewing	FSHR	1.0	
+Congenital absence of germinal epithelium of testes	FSHR	1.0	
+Hearing impairment	FSHR	1.0	
+Sparse hair	FSHR	1.0	
+Slender finger	FSHR	1.0	
+Long fingers	FSHR	1.0	
+Sparse pubic hair	FSHR	1.0	
+Abnormality of the cerebellum	FSHR	1.0	
+Abnormality of fluid regulation	FSHR	1.0	
+Reduced bone mineral density	FSHR	1.0	
+Abnormality of finger	FSHR	1.0	
+Obesity, Visceral	FSHR	1.0	
+Abnormality of digit	FSHR	1.0	
+Abnormality of the respiratory system	FSHR	1.0	
+Abnormality of abdomen morphology	FSHR	1.0	
+Abnormality of the upper limb	FSHR	1.0	
+Abnormality of forebrain morphology	FSHR	1.0	
+Abnormality of brain morphology	FSHR	1.0	
+Abnormal genital system morphology	FSHR	1.0	
+Abnormality of hindbrain morphology	FSHR	1.0	
+Abnormality of bone mineral density	FSHR	1.0	
+Abnormality of lung morphology	FSHR	1.0	
+Abnormality of the cerebrum	FSHR	1.0	
+Morphological abnormality of the central nervous system	FSHR	1.0	
+Abnormality of metabolism/homeostasis	FSHR	1.0	
+Abnormality of the vertebral column	FSHR	1.0	
+Abnormality of the skeletal system	FSHR	1.0	
+Abnormality of the head	FSHR	1.0	
+Abnormality of the ovary	FSHR	1.0	
+Abnormality of reproductive system physiology	FSHR	1.0	
+Abnormality of the pubic hair	FSHR	1.0	
+Abnormality of limb bone	FSHR	1.0	
+Abnormal vascular physiology	FSHR	1.0	
+Abnormality of nervous system morphology	FSHR	1.0	
+Abnormality of nervous system physiology	FSHR	1.0	
+Abnormal respiratory system morphology	FSHR	1.0	
+Abnormal bone ossification	FSHR	1.0	
+Abnormal appendicular skeleton morphology	FSHR	1.0	
+Abnormality of skeletal physiology	FSHR	1.0	
+Abnormality of skeletal morphology	FSHR	1.0	
+Abnormality of the anterior pituitary	FSHR	1.0	
+Abnormality of coordination	FSHR	1.0	
+Abnormality of central motor function	FSHR	1.0	
+Abnormal hair quantity	FSHR	1.0	
+Abnormality of hair density	FSHR	1.0	
+Abnormality of the metencephalon	FSHR	1.0	
+Abnormality of skin adnexa morphology	FSHR	1.0	
+Abnormality of blood volume homeostasis	FSHR	1.0	
+Abnormality of blood circulation	FSHR	1.0	
+Abnormality of cardiovascular system physiology	FSHR	1.0	
+Aplasia/Hypoplasia of the ovary	FSHR	1.0	
+Abnormality of the female genitalia	FSHR	1.0	
+Aplasia/Hypoplasia of the breasts	FSHR	1.0	
+Abnormality of secondary sexual hair	FSHR	1.0	
+Abnormal axial skeleton morphology	FSHR	1.0	
+Aplasia/hypoplasia of the uterus	FSHR	1.0	
+Aplasia/Hypoplasia of the cerebrum	FSHR	1.0	
+Abnormal bone structure	FSHR	1.0	
+Abnormality of lipid metabolism	FSHR	1.0	
+Abnormality of circulating hormone level	FSHR	1.0	
+Abnormality of the pleura	FSHR	1.0	
+Abnormality of the integument	FSHR	1.0	
+Abnormality of skeletal maturation	FSHR	1.0	
+Abnormality of the hypothalamus-pituitary axis	FSHR	1.0	
+Abnormality of the endocrine system	FSHR	1.0	
+Abnormal internal genitalia	FSHR	1.0	
+Abnormality of the breast	FSHR	1.0	
+Hearing abnormality	FSHR	1.0	
+Abnormality of skull size	FSHR	1.0	
+Abnormality of the menstrual cycle	FSHR	1.0	
+Abnormality of female internal genitalia	FSHR	1.0	
+Abnormality of body height	FSHR	1.0	
+Abnormal circulating gonadotropin level	FSHR	1.0	
+Abnormal circulating androgen level	FSHR	1.0	
+Abnormality of limb bone morphology	FSHR	1.0	
+Abnormality of digestive system physiology	FSHR	1.0	

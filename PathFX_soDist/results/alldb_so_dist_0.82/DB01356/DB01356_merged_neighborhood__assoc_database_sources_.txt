@@ -1,0 +1,8 @@
+Gene	CUI	Source Databases	
+GRIA3	C2911647	Weight Gain Adverse Event	DisGeNet	
+GSK3B	C2911647	Weight Gain Adverse Event	DisGeNet	
+GSK3B	C0154409	Recurrent major depressive episodes	DisGeNet	
+GRIA3	C1842060	Prominent supraorbital ridges	HumPhenOnt	
+GSK3B	C0687150	Parathyroid carcinoma	DisGeNet	
+GSK3B	C0013386	Dyskinesia, Drug-Induced	DisGeNet	
+GRIA3	C1096063	Drug Resistant Epilepsy	DisGeNet	

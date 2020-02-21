@@ -1,0 +1,15 @@
+node_name	node_type	
+DB00421	drug	
+CYP2C8	drug_target	
+NR3C1	drug_target	
+NR3C2	drug_target	
+ALB	drug_target	
+ABCB11	drug_target	
+SHBG	drug_target	
+NR1I2	drug_target	
+ABCB1	drug_target	
+AR	drug_target	
+PGR	drug_target	
+SLCO1A2	drug_target	
+CYP11B2	drug_target	
+ABCC2	drug_target	

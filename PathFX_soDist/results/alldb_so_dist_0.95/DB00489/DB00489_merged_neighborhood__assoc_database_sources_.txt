@@ -1,0 +1,16 @@
+Gene	CUI	Source Databases	
+ADRB1	C0042510	Ventricular fibrillation	DisGeNet	
+ADRB2	C0042510	Ventricular fibrillation	DisGeNet	
+KCNH2	C0042510	Ventricular fibrillation	DisGeNet,HumPhenOnt	
+ADRB1	C0028797	Occupational Diseases	DisGeNet	
+ADRB2	C0028797	Occupational Diseases	DisGeNet	
+CYP2D6	C0028797	Occupational Diseases	DisGeNet	
+ADRB1	C3827868	Tachycardia	DisGeNet	
+ADRB2	C3827868	Tachycardia	DisGeNet	
+CYP2D6	C3827868	Tachycardia	DisGeNet	
+KCNH2	C3827868	Tachycardia	DisGeNet,HumPhenOnt	
+ADRB1	C0264716	Chronic heart failure	DisGeNet	
+ADRB2	C0264716	Chronic heart failure	DisGeNet	
+CYP2D6	C0264716	Chronic heart failure	DisGeNet	
+CYP2D6	C1141890	Congenital long QT syndrome	DisGeNet	
+KCNH2	C1141890	Congenital long QT syndrome	DisGeNet	

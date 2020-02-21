@@ -1,0 +1,4 @@
+node_name	node_type	
+DB09539	drug	
+SOAT1	drug_target	
+SREBF1	drug_target	

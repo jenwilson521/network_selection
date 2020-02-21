@@ -1,0 +1,106 @@
+node_name	node_type	
+DB00515	drug	
+PTGS2	drug_target	
+MT2A	drug_target	
+NQO1	drug_target	
+SLC31A1	drug_target	
+SLC31A2	drug_target	
+BCHE	drug_target	
+ATP7A	drug_target	
+A2M	drug_target	
+ATP7B	drug_target	
+CYP2B6	drug_target	
+XDH	drug_target	
+ABCB1	drug_target	
+TF	drug_target	
+MT1A	drug_target	
+SOD1	drug_target	
+CYP2C9	drug_target	
+MPG	drug_target	
+ABCG2	drug_target	
+CYP4A11	drug_target	
+ATOX1	drug_target	
+GSTT1	drug_target	
+MPO	drug_target	
+ALB	drug_target	
+GSTP1	drug_target	
+SLC22A2	drug_target	
+GSTM1	drug_target	
+ABCC5	drug_target	
+ABCC6	drug_target	
+ABCC2	drug_target	
+ABCC3	drug_target	
+Neurotoxicity Syndromes	phenotype	
+Rhinitis, Allergic, Perennial	phenotype	
+Adverse drug events and drug allergies	phenotype	
+Drug-Induced Liver Injury	phenotype	
+Primary biliary cirrhosis	phenotype	
+Gastro-esophageal reflux disease with esophagitis	phenotype	
+Bronchogenic Carcinoma	phenotype	
+Occupational Diseases	phenotype	
+Methamphetamine abuse	phenotype	
+Stomach Diseases	phenotype	
+Helicobacter Infections	phenotype	
+Postoperative Complications	phenotype	
+Adenoma of large intestine	phenotype	
+Hepatitis	phenotype	
+Peptic Esophagitis	phenotype	
+Chromosomal translocation	phenotype	
+Squamous Cell Neoplasms	phenotype	
+Adult Acute Myeloblastic Leukemia	phenotype	
+Acute Myeloid Leukemia Arising from Previous Myelodysplastic Syndrome	phenotype	
+Childhood Leukemia	phenotype	
+Pharyngeal Neoplasms	phenotype	
+Pancreatitis, Alcoholic	phenotype	
+Hearing Loss, Partial	phenotype	
+Neoplasm of the larynx	phenotype	
+Acute Lung Injury	phenotype	
+Cholestasis, benign recurrent intrahepatic 1	phenotype	
+Ovarian epithelial cancer stage III	phenotype	
+Chronic gastritis	phenotype	
+Drug Allergy	phenotype	
+Ependymoma	phenotype	
+Metaplasia	phenotype	
+Peptic ulcer	phenotype	
+Dyskinesia, Drug-Induced	phenotype	
+Papillomavirus Infections	phenotype	
+Hepatic steatosis	phenotype	
+Cerebral Amyloid Angiopathy	phenotype	
+Liver Diseases	phenotype	
+Asbestosis	phenotype	
+Drug Eruptions	phenotype	
+Slow acetylator due to N-acetyltransferase enzyme variant	phenotype	
+Leukoplakia	phenotype	
+Prenatal Exposure Delayed Effects	phenotype	
+Primary angle-closure glaucoma	phenotype	
+Pseudomonas Infections	phenotype	
+Gorlin syndrome	phenotype	
+Nausea	phenotype	
+Malignant neoplasm of pharynx	phenotype	
+Dyspepsia	phenotype	
+Respiratory Tract Diseases	phenotype	
+Femur Head Necrosis	phenotype	
+Proteinuria Adverse Event	phenotype	
+Extrahepatic cholestasis	phenotype	
+Intrahepatic cholestasis	phenotype	
+Wilson disease	phenotype	
+Nephrotic syndrome, type 5, with or without ocular abnormalities	phenotype	
+Neuropathy ataxia retinitis pigmentosa syndrome	phenotype	
+Liver Cirrhosis, Alcoholic	phenotype	
+Respiratory Hypersensitivity	phenotype	
+Xeroderma Pigmentosum, Complementation Group D	phenotype	
+Acute kidney injury	phenotype	
+Tardive Dyskinesia	phenotype	
+Enzyme inhibition disorder	phenotype	
+Thyroid Nodule	phenotype	
+Malignant neoplasm of brain and nervous system	phenotype	
+Pancreatitis	phenotype	
+Pericardial effusion	phenotype	
+Germinoma	phenotype	
+childhood brain tumor	phenotype	
+Myelosuppression	phenotype	
+Urinary tract neoplasm	phenotype	
+AIDS related complex	phenotype	
+Neoplasm of the oral cavity	phenotype	
+Simple pneumoconiosis	phenotype	
+Orofacial dyskinesia	phenotype	

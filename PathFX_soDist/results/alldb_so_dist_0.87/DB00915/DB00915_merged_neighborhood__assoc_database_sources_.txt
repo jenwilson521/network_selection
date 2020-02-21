@@ -1,0 +1,74 @@
+Gene	CUI	Source Databases	
+ANKK1	C0028043	Nicotine Dependence	DisGeNet	
+CHRNA3	C0028043	Nicotine Dependence	DisGeNet	
+CHRNA4	C0028043	Nicotine Dependence	DisGeNet	
+CHRNA7	C0028043	Nicotine Dependence	DisGeNet	
+DDC	C0028043	Nicotine Dependence	DisGeNet	
+DRD2	C0028043	Nicotine Dependence	DisGeNet	
+GRIN3A	C0028043	Nicotine Dependence	DisGeNet	
+ANKK1	C2911647	Weight Gain Adverse Event	DisGeNet	
+CHRNA3	C2911647	Weight Gain Adverse Event	DisGeNet	
+CHRNA4	C2911647	Weight Gain Adverse Event	DisGeNet	
+CHRNA7	C2911647	Weight Gain Adverse Event	DisGeNet	
+DDC	C2911647	Weight Gain Adverse Event	DisGeNet	
+DRD2	C2911647	Weight Gain Adverse Event	DisGeNet	
+GRIN3A	C2911647	Weight Gain Adverse Event	DisGeNet	
+ANKK1	C0003944	As If Personality	DisGeNet	
+CHRNA7	C0003944	As If Personality	DisGeNet	
+DDC	C0003944	As If Personality	DisGeNet	
+DRD2	C0003944	As If Personality	DisGeNet	
+ANKK1	C0524662	Opiate Addiction	DisGeNet	
+CHRNA3	C0524662	Opiate Addiction	DisGeNet	
+DRD2	C0524662	Opiate Addiction	DisGeNet	
+ANKK1	C0024809	Marijuana Abuse	DisGeNet	
+CHRNA3	C0024809	Marijuana Abuse	DisGeNet	
+CHRNA7	C0024809	Marijuana Abuse	DisGeNet	
+DRD2	C0024809	Marijuana Abuse	DisGeNet	
+ANKK1	C0600427	Cocaine Dependence	DisGeNet	
+CHRNA3	C0600427	Cocaine Dependence	DisGeNet	
+DRD2	C0600427	Cocaine Dependence	DisGeNet	
+ANKK1	C0043094	Increased body weight	DisGeNet	
+CHRNA3	C0043094	Increased body weight	DisGeNet	
+CHRNA4	C0043094	Increased body weight	DisGeNet	
+CHRNA7	C0043094	Increased body weight	DisGeNet	
+DDC	C0043094	Increased body weight	DisGeNet	
+DRD2	C0043094	Increased body weight	DisGeNet	
+GRIN3A	C0043094	Increased body weight	DisGeNet	
+ANKK1	C0023015	Language impairment	DisGeNet	
+CHRNA7	C0023015	Language impairment	DisGeNet	
+DRD2	C0023015	Language impairment	DisGeNet	
+ANKK1	C1842981	NEUROTICISM	DisGeNet	
+CHRNA4	C1842981	NEUROTICISM	DisGeNet	
+DRD2	C1842981	NEUROTICISM	DisGeNet	
+CHRNA3	C0038587	Substance Withdrawal Syndrome	DisGeNet	
+CHRNA7	C0038587	Substance Withdrawal Syndrome	DisGeNet	
+DRD2	C0038587	Substance Withdrawal Syndrome	DisGeNet	
+CHRNA4	C1836598	Incomplete penetrance	HumPhenOnt	
+CHRNA7	C1836598	Incomplete penetrance	HumPhenOnt	
+DRD2	C1836598	Incomplete penetrance	HumPhenOnt	
+SLC22A1	C0005398	Extrahepatic cholestasis	DisGeNet	
+SLC22A2	C0005398	Extrahepatic cholestasis	DisGeNet	
+DRD2	C0040485	Retrocollis	HumPhenOnt	
+rs1051730	C0040485	Retrocollis	DisGeNet	
+ANKK1	C0003431	Antisocial Personality Disorder	DisGeNet	
+DRD2	C0003431	Antisocial Personality Disorder	DisGeNet	
+DRD2	C0011206	Cocaine delirium	DisGeNet	
+GRIN3A	C0011206	Cocaine delirium	DisGeNet	
+CHRNA4	C0687132	heavy drinking	DisGeNet	
+DRD2	C0687132	heavy drinking	DisGeNet	
+ANKK1	C0001956	alcohol use disorder	DisGeNet	
+DRD2	C0001956	alcohol use disorder	DisGeNet	
+CHRNA7	C0031212	Personality disorder	DisGeNet	
+DRD2	C0031212	Personality disorder	DisGeNet	
+CHRNA7	C0525041	Neurobehavioral Manifestations	DisGeNet	
+DRD2	C0525041	Neurobehavioral Manifestations	DisGeNet	
+ANKK1	C1263846	Attention deficit hyperactivity disorder	DisGeNet	
+CHRNA3	C1263846	Attention deficit hyperactivity disorder	DisGeNet	
+CHRNA4	C1263846	Attention deficit hyperactivity disorder	DisGeNet	
+CHRNA7	C1263846	Attention deficit hyperactivity disorder	DisGeNet,HumPhenOnt	
+DDC	C1263846	Attention deficit hyperactivity disorder	DisGeNet	
+DRD2	C1263846	Attention deficit hyperactivity disorder	DisGeNet	
+ANKK1	C0233523	Antisocial/borderline personality disorder	DisGeNet	
+DRD2	C0233523	Antisocial/borderline personality disorder	DisGeNet	
+CHRNA4	C0270853	Juvenile myoclonic epilepsy	DisGeNet	
+CHRNA7	C0270853	Juvenile myoclonic epilepsy	DisGeNet	

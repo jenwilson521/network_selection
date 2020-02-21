@@ -1,0 +1,14 @@
+Gene	CUI	Source Databases	
+CYP2C19	C0038354	Stomach Diseases	DisGeNet	
+CYP2C9	C0038354	Stomach Diseases	DisGeNet	
+PTGS1	C0038354	Stomach Diseases	DisGeNet	
+CYP2C19	C0019080	Bleeding with minor or no trauma	DisGeNet	
+CYP2C9	C0019080	Bleeding with minor or no trauma	DisGeNet	
+PTGS1	C0019080	Bleeding with minor or no trauma	DisGeNet	
+CYP2C19	C0013182	Drug Allergy	DisGeNet	
+CYP2C9	C0013182	Drug Allergy	DisGeNet	
+PTGS1	C0013182	Drug Allergy	DisGeNet	
+CYP2C19	C0035457	Rhinitis, Allergic, Perennial	DisGeNet	
+CYP2C9	C0035457	Rhinitis, Allergic, Perennial	DisGeNet	
+CYP2C9	C0041582	Peptic Ulcer Hemorrhage	DisGeNet	
+PTGS1	C0041582	Peptic Ulcer Hemorrhage	DisGeNet	

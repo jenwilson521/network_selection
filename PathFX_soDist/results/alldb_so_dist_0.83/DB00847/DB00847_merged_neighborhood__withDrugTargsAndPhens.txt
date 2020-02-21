@@ -1,0 +1,5 @@
+node1	node2	edge_score	
+DB00847	MPO	1.0	
+DB00847	NPY2R	1.0	
+DB00847	SST	1.0	
+

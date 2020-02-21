@@ -1,0 +1,21 @@
+node_name	node_type	
+DB09079	drug	
+SRC	drug_target	
+LYN	drug_target	
+FLT3	drug_target	
+FGFR3	drug_target	
+ABCB1	drug_target	
+LCK	drug_target	
+FLT4	drug_target	
+FLT1	drug_target	
+FGFR2	drug_target	
+CYP3A4	drug_target	
+KDR	drug_target	
+FGFR1	drug_target	
+secondary acute myeloid leukemia	phenotype	
+Femur Head Necrosis	phenotype	
+Bone necrosis	phenotype	
+Extraosseous Ewings sarcoma-primitive neuroepithelial tumor	phenotype	
+Primary malignant neoplasm of liver	phenotype	
+Pathologic Neovascularization	phenotype	
+Undifferentiated leukemia	phenotype	

@@ -1,0 +1,83 @@
+node_name	node_type	
+DB01956	drug	
+SLC6A6	drug_target	
+GLRA2	drug_target	
+GLRA1	drug_target	
+BAAT	drug_target	
+GRIN2B	drug_target	
+GABBR1	drug_target	
+Osteochondritis dissecans	phenotype	
+Obsessive-compulsive disorder	phenotype	
+Neuralgia	phenotype	
+Dyslexia 1	phenotype	
+Hypotension	phenotype	
+Placental Insufficiency	phenotype	
+Malignant neoplasm of adrenal cortex	phenotype	
+Esophageal varix	phenotype	
+Urolithiasis	phenotype	
+Epilepsy, Temporal Lobe	phenotype	
+Echinococcosis	phenotype	
+Epidermolysis bullosa simplex, Cockayne-Touraine type	phenotype	
+Palmar hyperkeratosis	phenotype	
+Smith-Magenis syndrome	phenotype	
+Proliferative retinopathy	phenotype	
+Verrucae	phenotype	
+Isolated somatotropin deficiency	phenotype	
+Substance Use Disorders	phenotype	
+Alcohol withdrawal syndrome	phenotype	
+Dentatorubral pallidoluysian atrophy	phenotype	
+Angiokeratoma	phenotype	
+Isolated growth hormone deficiency type 1B	phenotype	
+Plantar hyperkeratosis	phenotype	
+Pain	phenotype	
+Pericardial effusion	phenotype	
+Cocaine delirium	phenotype	
+Mumps	phenotype	
+Rhinitis, Allergic, Perennial	phenotype	
+Endemic Cretinism	phenotype	
+Hemangioblastoma	phenotype	
+Sclerosis	phenotype	
+Mesangiocapillary glomerulonephritis, type II	phenotype	
+Nephrosclerosis	phenotype	
+Personality disorder	phenotype	
+Peripheral motor neuropathy	phenotype	
+End Stage Liver Disease	phenotype	
+Epilepsy	phenotype	
+Abnormal albumin level	phenotype	
+Opiate Addiction	phenotype	
+Bronchogenic Carcinoma	phenotype	
+Memory impairment	phenotype	
+Coronary artery aneurysm	phenotype	
+Hyperlipoproteinemia	phenotype	
+Hyperlipoproteinemia Type IIa	phenotype	
+Encephalopathy, acute, infection-induced, 4, susceptibility to	phenotype	
+Tubulointerstitial nephritis	phenotype	
+Juvenile myoclonic epilepsy	phenotype	
+Single tumor	phenotype	
+Nephrotic Syndrome, Minimal Change	phenotype	
+Hippocampal sclerosis	phenotype	
+Skin Diseases, Genetic	phenotype	
+Varicella zoster	phenotype	
+Drusen	phenotype	
+Increased antibody level in blood	phenotype	
+Insulin resistance syndrome	phenotype	
+Nephrosis	phenotype	
+Guillain-Barre syndrome, familial	phenotype	
+Primary hyperparathyroidism	phenotype	
+Drug Resistant Epilepsy	phenotype	
+Epilepsy, focal, with speech disorder and with or without mental retardation	phenotype	
+Brain Tumor, Primary	phenotype	
+Reperfusion Injury	phenotype	
+Child Development Disorders, Pervasive	phenotype	
+Respiratory Tract Diseases	phenotype	
+Sicca Syndrome	phenotype	
+Hypoalbuminemia	phenotype	
+Neurologic, endocrine, and pancreatic disease, multisystem, infantile-onset	phenotype	
+Abnormality of the plantar skin of foot	phenotype	
+Huntington's chorea	phenotype	
+Congenital hypothyroidism	phenotype	
+Adverse drug events and drug allergies	phenotype	
+Cortical dysplasia, complex, with other brain malformations 3	phenotype	
+Memory Loss	phenotype	
+Idiopathic generalized epilepsy	phenotype	
+Absent speech	phenotype	

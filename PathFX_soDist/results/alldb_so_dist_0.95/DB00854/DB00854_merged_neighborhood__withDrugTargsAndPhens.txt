@@ -1,0 +1,48 @@
+node1	node2	edge_score	
+DB00854	OPRK1	1.0	
+DB00854	OPRM1	1.0	
+DB00854	OPRD1	1.0	
+OPRM1		1.0
+OPRM1	rs1799971	0.99
+OPRM1	rs510769	0.99
+OPRD1		1.0
+OPRM1	rs2075572	0.99
+OPRD1	rs2236861	0.99
+OPRD1	rs581111	0.99
+OPRM1	rs558025	0.99
+OPRD1	rs4654327	0.99
+OPRM1	rs9384179	0.99
+OPRM1	rs9479757	0.99
+OPRM1	rs2281617	0.99
+OPRM1	rs544093	0.99
+OPRD1	rs529520	0.99
+Opiate Addiction	OPRD1	1.0	
+Opiate Addiction	OPRM1	1.0	
+Hypotension, Orthostatic	OPRD1	1.0	
+Hypotension, Orthostatic	OPRM1	1.0	
+Cocaine Dependence	OPRD1	1.0	
+Cocaine Dependence	OPRM1	1.0	
+Heroin Dependence	OPRD1	1.0	
+Heroin Dependence	OPRM1	1.0	
+Drug Dependence	OPRD1	1.0	
+Drug Dependence	OPRM1	1.0	
+Substance addiction and disorders	OPRD1	1.0	
+Substance addiction and disorders	OPRM1	1.0	
+Polyphagia	OPRD1	1.0	
+Polyphagia	OPRM1	1.0	
+Cocaine-Related Disorders	OPRD1	1.0	
+Cocaine-Related Disorders	OPRM1	1.0	
+Acute hepatitis	OPRM1	1.0	
+Substance-Related Disorders	OPRD1	1.0	
+Substance-Related Disorders	OPRM1	1.0	
+Substance Use Disorders	OPRM1	1.0	
+Cycloid psychosis	OPRD1	1.0	
+Cycloid psychosis	OPRM1	1.0	
+ {Nicotine dependence, protection against}, 188890 (3)	OPRM1	1.0	
+Hepatic encephalopathy	OPRM1	1.0	
+heavy drinking	OPRM1	1.0	
+Acute postoperative pain	OPRM1	1.0	
+alcohol use disorder	OPRM1	1.0	
+Xeroderma pigmentosum, group A	OPRM1	1.0	
+Low back pain	OPRM1	1.0	
+Insomnia	OPRM1	1.0	

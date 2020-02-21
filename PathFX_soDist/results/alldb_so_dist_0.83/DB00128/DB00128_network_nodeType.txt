@@ -1,0 +1,84 @@
+node_name	node_type	
+DB00128	drug	
+RNASE1	drug_target	
+ADSS	drug_target	
+ASPA	drug_target	
+DARS	drug_target	
+SLC25A13	drug_target	
+ASPH	drug_target	
+ASNS	drug_target	
+LYZ	drug_target	
+SLC1A1	drug_target	
+PAICS	drug_target	
+DARS2	drug_target	
+SLC16A10	drug_target	
+ADSSL1	drug_target	
+ACY3	drug_target	
+GOT2	drug_target	
+ASRGL1	drug_target	
+GOT1	drug_target	
+ASS1	drug_target	
+SLC25A12	drug_target	
+ACY1	drug_target	
+CAD	drug_target	
+Hyperammonemia	phenotype	
+Neurologic, endocrine, and pancreatic disease, multisystem, infantile-onset	phenotype	
+Abnormality of nitrogen compound homeostasis	phenotype	
+Azotemia	phenotype	
+Hyperlipidemia, combined, 1	phenotype	
+Abnormality of sulfur amino acid metabolism	phenotype	
+Malignant neoplasm of adrenal cortex	phenotype	
+Abnormality of lipid metabolism	phenotype	
+Esophageal varix	phenotype	
+Urolithiasis	phenotype	
+Echinococcosis	phenotype	
+Epidermolysis bullosa simplex, Cockayne-Touraine type	phenotype	
+Palmar hyperkeratosis	phenotype	
+Broad-based gait	phenotype	
+Familial hypercholesterolemia	phenotype	
+Proliferative retinopathy	phenotype	
+Verrucae	phenotype	
+Isolated somatotropin deficiency	phenotype	
+Renal tubular acidosis, distal, autosomal dominant	phenotype	
+Substance Use Disorders	phenotype	
+Poikilocytosis	phenotype	
+Dentatorubral pallidoluysian atrophy	phenotype	
+Brain Diseases	phenotype	
+Angiokeratoma	phenotype	
+Isolated growth hormone deficiency type 1B	phenotype	
+Plantar hyperkeratosis	phenotype	
+Abnormality of the level of lipoprotein cholesterol	phenotype	
+Familial type 3 hyperlipoproteinemia	phenotype	
+Pericardial effusion	phenotype	
+Mumps	phenotype	
+Rhinitis, Allergic, Perennial	phenotype	
+Endemic Cretinism	phenotype	
+Prominent nose	phenotype	
+Hypercholesterolemia, autosomal dominant, type B	phenotype	
+Hemangioblastoma	phenotype	
+Ectopia lentis, isolated autosomal recessive	phenotype	
+Mesangiocapillary glomerulonephritis, type II	phenotype	
+Nephrosclerosis	phenotype	
+Peripheral motor neuropathy	phenotype	
+End Stage Liver Disease	phenotype	
+Coronary Thrombosis	phenotype	
+Abnormal albumin level	phenotype	
+Hereditary spherocytosis	phenotype	
+Bronchogenic Carcinoma	phenotype	
+Confusion	phenotype	
+CADASIL	phenotype	
+Neuroblastic tumors	phenotype	
+Coronary artery aneurysm	phenotype	
+Hyperlipoproteinemia	phenotype	
+Hyperlipoproteinemia Type IIa	phenotype	
+Tubulointerstitial nephritis	phenotype	
+Single tumor	phenotype	
+Nephrotic Syndrome, Minimal Change	phenotype	
+Skin Diseases, Genetic	phenotype	
+Isochromosomes	phenotype	
+Varicella zoster	phenotype	
+Drusen	phenotype	
+Neoplasm of the liver	phenotype	
+Increased antibody level in blood	phenotype	
+Bile duct cancer resectable	phenotype	
+Insulin resistance syndrome	phenotype	

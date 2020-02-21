@@ -1,0 +1,3 @@
+Gene	CUI	Source Databases	
+ADRA1A	C1141890	Congenital long QT syndrome	DisGeNet	
+CYP2D6	C1141890	Congenital long QT syndrome	DisGeNet	

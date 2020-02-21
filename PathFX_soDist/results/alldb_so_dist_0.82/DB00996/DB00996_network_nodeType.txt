@@ -1,0 +1,13 @@
+node_name	node_type	
+DB00996	drug	
+ADORA1	drug_target	
+CACNA1B	drug_target	
+BCAT1	drug_target	
+CACNA2D2	drug_target	
+GABBR1	drug_target	
+CYP3A4	drug_target	
+CACNA2D1	drug_target	
+GABBR2	drug_target	
+Adverse drug events and drug allergies	phenotype	
+ {HIV-1 viremia, susceptibility to}, 609423 (3)	phenotype	
+Drug Allergy	phenotype	

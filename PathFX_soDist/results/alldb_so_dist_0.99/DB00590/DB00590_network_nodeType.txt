@@ -1,0 +1,12 @@
+node_name	node_type	
+DB00590	drug	
+ADRA1A	drug_target	
+ADRA1B	drug_target	
+ADRA1D	drug_target	
+CYP2D6	drug_target	
+KCNH2	drug_target	
+ABCB1	drug_target	
+CYP2C19	drug_target	
+SLC22A1	drug_target	
+CYP3A4	drug_target	
+ORM1	drug_target	

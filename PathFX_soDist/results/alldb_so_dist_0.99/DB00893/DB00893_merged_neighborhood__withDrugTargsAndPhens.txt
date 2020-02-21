@@ -1,0 +1,7 @@
+node1	node2	edge_score	
+DB00893	TF	1.0	
+DB00893	FTH1	1.0	
+DB00893	FTL	1.0	
+DB00893	HBA2	1.0	
+DB00893	HBB	1.0	
+

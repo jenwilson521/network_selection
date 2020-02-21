@@ -1,0 +1,6 @@
+node_name	node_type	
+DB01014	drug	
+PTGS2	drug_target	
+PTGS1	drug_target	
+ALOX5	drug_target	
+PPARG	drug_target	

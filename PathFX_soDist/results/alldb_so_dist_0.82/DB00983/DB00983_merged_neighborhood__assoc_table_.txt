@@ -1,0 +1,2 @@
+rank	phenotype	cui	assoc in neigh	assoc in intom	probability	Benjamini-Hochberg	genes	
+48	Atrial Fibrillation	C0004238	6	176	4.42157887646788e-05	6.62983425414e-05	ADRB1,ADRB2,ADRB3,CYP2C19,CYP2C9,CYP2D6

@@ -1,0 +1,246 @@
+node_name	node_type	
+DB00153	drug	
+VDR	drug_target	
+CYP27A1	drug_target	
+CYP11A1	drug_target	
+GC	drug_target	
+CYP27B1	drug_target	
+CYP24A1	drug_target	
+Hypophosphatemic rickets	phenotype	
+Osteomalacia	phenotype	
+Vitamin D Deficiency	phenotype	
+Hypercalciuria	phenotype	
+Abnormal concentration of calcium in blood	phenotype	
+Calcinosis	phenotype	
+Abnormality of calcium homeostasis	phenotype	
+Hypercalcemia, infantile, 2	phenotype	
+Abnormality of divalent inorganic cation homeostasis	phenotype	
+Nephrolithiasis	phenotype	
+Slow acetylator due to N-acetyltransferase enzyme variant	phenotype	
+Tibial bowing	phenotype	
+Urolithiasis	phenotype	
+Abnormal trabecular bone morphology	phenotype	
+Metaphyseal irregularity	phenotype	
+Malaria, Vivax	phenotype	
+Femoral bowing	phenotype	
+Flat occiput	phenotype	
+Osteoarthritis of distal interphalangeal joint	phenotype	
+Osteoarthritis of the hand	phenotype	
+Aggressive periodontitis, generalized	phenotype	
+Abnormality of fibula morphology	phenotype	
+Bone Diseases	phenotype	
+Hypophosphatemia	phenotype	
+Rickets	phenotype	
+Lymphoma, Large-Cell, Follicular	phenotype	
+Secondary hyperparathyroidism	phenotype	
+Abnormal epiphyseal ossification	phenotype	
+Abnormality of cation homeostasis	phenotype	
+Kidney Calculi	phenotype	
+Difficulty walking	phenotype	
+Exostoses	phenotype	
+Abnormality of the ankles	phenotype	
+Tibia, hypoplasia or aplasia of, with polydactyly	phenotype	
+stage, non-small cell lung cancer	phenotype	
+Hypocalcemia	phenotype	
+Abnormality of phosphate homeostasis	phenotype	
+Maternal diabetes	phenotype	
+Elevated alkaline phosphatase	phenotype	
+Primary hyperparathyroidism	phenotype	
+Abnormality of ion homeostasis	phenotype	
+Hypoplasia of dental enamel	phenotype	
+Abnormal cortical bone morphology	phenotype	
+Abnormality of the abdominal musculature	phenotype	
+Bone pain	phenotype	
+Abnormality of alkaline phosphatase activity	phenotype	
+Hypoplasia of teeth	phenotype	
+Abnormality of the parathyroid physiology	phenotype	
+Neoplasm of the parathyroid gland	phenotype	
+Cooley's anemia	phenotype	
+Abnormality of the parathyroid gland	phenotype	
+Hypoparathyroidism	phenotype	
+Hyperparathyroidism 4	phenotype	
+Mammographic breast density	phenotype	
+Uremia	phenotype	
+Ankylosing spondylitis	phenotype	
+Severe Dengue	phenotype	
+Abnormal enzyme/coenzyme activity	phenotype	
+Abnormal shape of the occiput	phenotype	
+Abdominal distention	phenotype	
+Intervertebral disc degeneration	phenotype	
+Abnormality of the wrist	phenotype	
+Periodontitis, Juvenile	phenotype	
+Actinic keratosis	phenotype	
+Parathyroid adenoma	phenotype	
+Abnormal enchondral ossification	phenotype	
+Postmenopausal osteoporosis	phenotype	
+Irritability	phenotype	
+Chronic kidney disease	phenotype	
+Delayed eruption of teeth	phenotype	
+Primary adrenal insufficiency	phenotype	
+Liver Cirrhosis, Alcoholic	phenotype	
+Recurrent fractures	phenotype	
+Autoimmune thyroid disease 3	phenotype	
+early pregnancy	phenotype	
+Large fontanelles	phenotype	
+Cholangiocarcinoma	phenotype	
+Depressive Symptoms	phenotype	
+Abnormality of dental eruption	phenotype	
+Hepatitis, Autoimmune	phenotype	
+Abnormality of dental enamel	phenotype	
+Behcet Syndrome	phenotype	
+Bowing of limbs due to multiple fractures	phenotype	
+Psoriasis vulgaris	phenotype	
+Gingival Diseases	phenotype	
+Elevated 7-dehydrocholesterol	phenotype	
+Abnormality of odontoid tissue	phenotype	
+Differentiated Thyroid Gland Carcinoma	phenotype	
+Sjogren's Syndrome	phenotype	
+Aortic valve stenosis	phenotype	
+Hyperthyroidism	phenotype	
+Disorder characterized by eosinophilia	phenotype	
+Hashimoto thyroiditis	phenotype	
+Thyroid cancer, nonmedullary, 4	phenotype	
+Eosinophilic disorder	phenotype	
+Chronic liver disease	phenotype	
+Sporadic Breast Carcinoma	phenotype	
+Hip Dislocation, Congenital	phenotype	
+Arthralgia	phenotype	
+Barrett Esophagus	phenotype	
+Abnormality of the calf	phenotype	
+Thalassemia	phenotype	
+Uveitis	phenotype	
+Measles	phenotype	
+Functional motor problems	phenotype	
+VITILIGO-ASSOCIATED MULTIPLE AUTOIMMUNE DISEASE SUSCEPTIBILITY 1 (finding)	phenotype	
+Abnormality of femur morphology	phenotype	
+Acquired Immunodeficiency Syndrome	phenotype	
+46,XY gonadal dysgenesis, partial, with minifascicular neuropathy	phenotype	
+Bone fragility with contractures, arterial rupture, and deafness	phenotype	
+Malignant neoplasm of gallbladder	phenotype	
+Bowing of the long bones	phenotype	
+Cachexia	phenotype	
+Anomaly of the limb diaphyses	phenotype	
+Eosinophilia	phenotype	
+Thyroid cancer, follicular	phenotype	
+Keloid	phenotype	
+Chronic Periodontitis	phenotype	
+Abnormality of the ribs	phenotype	
+Abnormality of epiphysis morphology	phenotype	
+Epidermal cyst	phenotype	
+Non-Hodgkin lymphoma	phenotype	
+Q Fever	phenotype	
+Juvenile rheumatoid arthritis	phenotype	
+Dermatitis, Atopic	phenotype	
+Gallbladder Carcinoma	phenotype	
+Abnormal diaphysis morphology	phenotype	
+Periodontal Attachment Loss	phenotype	
+Abnormality of cranial sutures	phenotype	
+Dysgerminoma	phenotype	
+Metabolic Bone Disorder	phenotype	
+Isolated growth hormone deficiency type 1B	phenotype	
+Abnormal urine output	phenotype	
+Abnormal morphology of bones of the lower limbs	phenotype	
+Diabetic Nephropathies	phenotype	
+Kidney Failure, Chronic	phenotype	
+Premature loss of teeth	phenotype	
+Failure to thrive	phenotype	
+Tuberculosis, Pulmonary	phenotype	
+Restenosis	phenotype	
+Skin cancer	phenotype	
+Alport syndrome	phenotype	
+Abnormality of renal excretion	phenotype	
+HTLV-I Infections	phenotype	
+Abnormal shape of the frontal region	phenotype	
+Thyroid carcinoma	phenotype	
+Alveolar Bone Loss	phenotype	
+Salmonella infections	phenotype	
+Frontal bossing	phenotype	
+Stage 5 chronic kidney disease	phenotype	
+Abnormality of dental structure	phenotype	
+Ovarian Diseases	phenotype	
+Bronchopulmonary Dysplasia	phenotype	
+Abnormality of the rib cage	phenotype	
+Chronic myelopathy	phenotype	
+Multinodular goiter	phenotype	
+Mitral stenosis	phenotype	
+Mycoses	phenotype	
+Vitiligo	phenotype	
+Polyuria	phenotype	
+21-hydroxylase deficiency	phenotype	
+Abnormality of the sternum	phenotype	
+Low back pain	phenotype	
+Neuromyelitis Optica	phenotype	
+Abnormality of primary teeth	phenotype	
+Displacement of intervertebral disc	phenotype	
+Leprosy, Lepromatous	phenotype	
+Acute anterior uveitis	phenotype	
+Sarcoidosis	phenotype	
+Adenoma of large intestine	phenotype	
+Hyperkeratosis	phenotype	
+Abnormality of fontanelles	phenotype	
+Motor delay	phenotype	
+Abnormality of circulating hormone level	phenotype	
+Pathologic fracture	phenotype	
+Primary biliary cirrhosis	phenotype	
+Cutaneous malignant melanoma 3	phenotype	
+Experimental Organism Basal Cell Carcinoma	phenotype	
+Fabry disease	phenotype	
+Bone necrosis	phenotype	
+Diabetic Retinopathy	phenotype	
+Hepatitis B, Chronic	phenotype	
+Left ventricular hypertrophy	phenotype	
+Bacterial Vaginosis	phenotype	
+Choriocarcinoma	phenotype	
+Osteitis Deformans	phenotype	
+Coronary Restenosis	phenotype	
+Prostate cancer, familial	phenotype	
+Rectal Carcinoma	phenotype	
+Arthritis, Reactive	phenotype	
+Iron deficiency anemia	phenotype	
+Nephrosis	phenotype	
+Prenatal Exposure Delayed Effects	phenotype	
+Abnormality of urine calcium concentration	phenotype	
+Bone Diseases, Developmental	phenotype	
+Decreased body weight	phenotype	
+Erythema nodosum	phenotype	
+Adenocarcinoma of lung	phenotype	
+Neoplasm of the colon	phenotype	
+Abnormality of upper limb joint	phenotype	
+Tropical Spastic Paraparesis	phenotype	
+Anti-Neutrophil Cytoplasmic Antibody-Associated Vasculitis	phenotype	
+Wilson disease	phenotype	
+Sarcoidosis, Pulmonary	phenotype	
+Abnormality of the abdominal wall	phenotype	
+Cholestasis, benign recurrent intrahepatic 1	phenotype	
+Periodontitis	phenotype	
+Uterine leiomyoma	phenotype	
+Osteoarthritis of hip	phenotype	
+Chronic obstructive pulmonary disease	phenotype	
+Juvenile idiopathic arthritis, enthesitis related arthritis	phenotype	
+Microsatellite Instability	phenotype	
+Abnormality of lower limb joint	phenotype	
+Ischemic Cerebrovascular Accident	phenotype	
+Reduced bone mineral density	phenotype	
+Trachoma	phenotype	
+Autoimmune disease 1	phenotype	
+Abdominal symptom	phenotype	
+Pulmonic stenosis	phenotype	
+Bronchiolitis	phenotype	
+Renal Insufficiency, Chronic	phenotype	
+Gaucher Disease	phenotype	
+Clear cell renal cell carcinoma	phenotype	
+Ovarian Neoplasms	phenotype	
+Graves Disease	phenotype	
+Pulmonary Disease, Chronic Obstructive	phenotype	
+Acute monocytic leukemia	phenotype	
+Nephrocalcinosis	phenotype	
+Osteolysis	phenotype	
+Abnormality of body weight	phenotype	
+Septicemia	phenotype	
+Premature aging syndrome	phenotype	
+Disorders of Intracellular Cobalamin Metabolism	phenotype	
+Abnormality of bone mineral density	phenotype	
+Increased analgesia from kappa-opioid receptor agonist, female-specific	phenotype	
+Malignant neoplasm of kidney	phenotype	
+Ischemic stroke	phenotype	
+Chlamydia Infections	phenotype	

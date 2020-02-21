@@ -1,0 +1,459 @@
+Gene	CUI	Source Databases	
+CYP24A1	C3536983	Hypophosphatemic rickets	DisGeNet	
+CYP27B1	C3536983	Hypophosphatemic rickets	DisGeNet	
+VDR	C3536983	Hypophosphatemic rickets	DisGeNet	
+CYP24A1	C0029442	Osteomalacia	DisGeNet	
+CYP27B1	C0029442	Osteomalacia	DisGeNet	
+VDR	C0029442	Osteomalacia	DisGeNet,HumPhenOnt	
+CYP24A1	C0042870	Vitamin D Deficiency	DisGeNet	
+CYP27B1	C0042870	Vitamin D Deficiency	DisGeNet	
+VDR	C0042870	Vitamin D Deficiency	DisGeNet	
+CYP24A1	C0020438	Hypercalciuria	DisGeNet,HumPhenOnt	
+CYP27B1	C0020438	Hypercalciuria	DisGeNet	
+VDR	C0020438	Hypercalciuria	DisGeNet	
+CYP24A1	C0004268	Abnormal concentration of calcium in blood	HumPhenOnt	
+CYP27B1	C0004268	Abnormal concentration of calcium in blood	HumPhenOnt	
+VDR	C0004268	Abnormal concentration of calcium in blood	HumPhenOnt	
+CYP24A1	C0006663	Calcinosis	DisGeNet	
+CYP27B1	C0006663	Calcinosis	DisGeNet	
+VDR	C0006663	Calcinosis	DisGeNet	
+CYP24A1	C4025337	Abnormality of calcium homeostasis	HumPhenOnt	
+CYP27B1	C4025337	Abnormality of calcium homeostasis	HumPhenOnt	
+VDR	C4025337	Abnormality of calcium homeostasis	HumPhenOnt	
+CYP24A1	C0020437	Hypercalcemia, infantile, 2	DisGeNet,HumPhenOnt	
+CYP27B1	C0020437	Hypercalcemia, infantile, 2	DisGeNet	
+VDR	C0020437	Hypercalcemia, infantile, 2	DisGeNet	
+CYP24A1	C4023648	Abnormality of divalent inorganic cation homeostasis	HumPhenOnt	
+CYP27B1	C4023648	Abnormality of divalent inorganic cation homeostasis	HumPhenOnt	
+VDR	C4023648	Abnormality of divalent inorganic cation homeostasis	HumPhenOnt	
+CYP24A1	C0392525	Nephrolithiasis	DisGeNet,HumPhenOnt	
+CYP27B1	C0392525	Nephrolithiasis	DisGeNet	
+VDR	C0392525	Nephrolithiasis	DisGeNet,HumPhenOnt	
+CYP27B1	C1827377	Slow acetylator due to N-acetyltransferase enzyme variant	DisGeNet	
+VDR	C1827377	Slow acetylator due to N-acetyltransferase enzyme variant	DisGeNet	
+CYP27B1	C1837081	Tibial bowing	HumPhenOnt	
+VDR	C1837081	Tibial bowing	HumPhenOnt	
+CYP27B1	C0451641	Urolithiasis	DisGeNet	
+VDR	C0451641	Urolithiasis	DisGeNet	
+CYP27B1	C4020957	Abnormal trabecular bone morphology	HumPhenOnt	
+VDR	C4020957	Abnormal trabecular bone morphology	HumPhenOnt	
+CYP27B1	C1838662	Metaphyseal irregularity	HumPhenOnt	
+VDR	C1838662	Metaphyseal irregularity	HumPhenOnt	
+CYP27B1	C0024537	Malaria, Vivax	DisGeNet	
+VDR	C0024537	Malaria, Vivax	DisGeNet	
+CYP27B1	C1859461	Femoral bowing	HumPhenOnt	
+VDR	C1859461	Femoral bowing	HumPhenOnt	
+CYP27B1	C1837402	Flat occiput	HumPhenOnt	
+VDR	C1837402	Flat occiput	HumPhenOnt	
+CYP27B1	C0409957	Osteoarthritis of distal interphalangeal joint	DisGeNet	
+VDR	C0409957	Osteoarthritis of distal interphalangeal joint	DisGeNet	
+CYP27B1	C0263746	Osteoarthritis of the hand	DisGeNet	
+VDR	C0263746	Osteoarthritis of the hand	DisGeNet	
+CYP27B1	C1719495	Aggressive periodontitis, generalized	DisGeNet	
+VDR	C1719495	Aggressive periodontitis, generalized	DisGeNet	
+CYP27B1	C0016068	Abnormality of fibula morphology	HumPhenOnt	
+VDR	C0016068	Abnormality of fibula morphology	HumPhenOnt	
+CYP24A1	C0005940	Bone Diseases	DisGeNet	
+CYP27B1	C0005940	Bone Diseases	DisGeNet	
+VDR	C0005940	Bone Diseases	DisGeNet	
+CYP27B1	C0085682	Hypophosphatemia	HumPhenOnt	
+VDR	C0085682	Hypophosphatemia	HumPhenOnt	
+CYP27B1	C0035579	Rickets	DisGeNet,HumPhenOnt	
+VDR	C0035579	Rickets	DisGeNet,HumPhenOnt	
+CYP24A1	C0079745	Lymphoma, Large-Cell, Follicular	DisGeNet	
+CYP27B1	C0079745	Lymphoma, Large-Cell, Follicular	DisGeNet	
+VDR	C0079745	Lymphoma, Large-Cell, Follicular	DisGeNet	
+CYP24A1	C0020503	Secondary hyperparathyroidism	DisGeNet	
+CYP27B1	C0020503	Secondary hyperparathyroidism	DisGeNet,HumPhenOnt	
+VDR	C0020503	Secondary hyperparathyroidism	DisGeNet,HumPhenOnt	
+CYP27B1	C4021246	Abnormal epiphyseal ossification	HumPhenOnt	
+VDR	C4021246	Abnormal epiphyseal ossification	HumPhenOnt	
+CYP24A1	C4023646	Abnormality of cation homeostasis	HumPhenOnt	
+CYP27B1	C4023646	Abnormality of cation homeostasis	HumPhenOnt	
+VDR	C4023646	Abnormality of cation homeostasis	HumPhenOnt	
+CYP24A1	C0022650	Kidney Calculi	DisGeNet	
+VDR	C0022650	Kidney Calculi	DisGeNet	
+CYP27B1	C0311394	Difficulty walking	HumPhenOnt	
+VDR	C0311394	Difficulty walking	HumPhenOnt	
+CYP27B1	C0015302	Exostoses	DisGeNet	
+VDR	C0015302	Exostoses	DisGeNet	
+CYP27B1	C4025660	Abnormality of the ankles	HumPhenOnt	
+VDR	C4025660	Abnormality of the ankles	HumPhenOnt	
+CYP27B1	C0040184	Tibia, hypoplasia or aplasia of, with polydactyly	HumPhenOnt	
+VDR	C0040184	Tibia, hypoplasia or aplasia of, with polydactyly	HumPhenOnt	
+CYP27B1	C0280217	stage, non-small cell lung cancer	DisGeNet	
+VDR	C0280217	stage, non-small cell lung cancer	DisGeNet	
+CYP27B1	C0020598	Hypocalcemia	HumPhenOnt	
+VDR	C0020598	Hypocalcemia	HumPhenOnt	
+CYP27B1	C4022032	Abnormality of phosphate homeostasis	HumPhenOnt	
+VDR	C4022032	Abnormality of phosphate homeostasis	HumPhenOnt	
+CYP24A1	C0085207	Maternal diabetes	DisGeNet	
+CYP27B1	C0085207	Maternal diabetes	DisGeNet	
+VDR	C0085207	Maternal diabetes	DisGeNet	
+CYP27B1	C0151849	Elevated alkaline phosphatase	HumPhenOnt	
+VDR	C0151849	Elevated alkaline phosphatase	HumPhenOnt	
+CYP27B1	C0221002	Primary hyperparathyroidism	DisGeNet	
+VDR	C0221002	Primary hyperparathyroidism	DisGeNet	
+CYP24A1	C4025654	Abnormality of ion homeostasis	HumPhenOnt	
+CYP27B1	C4025654	Abnormality of ion homeostasis	HumPhenOnt	
+VDR	C4025654	Abnormality of ion homeostasis	HumPhenOnt	
+CYP27B1	C0011351	Hypoplasia of dental enamel	HumPhenOnt	
+VDR	C0011351	Hypoplasia of dental enamel	HumPhenOnt	
+CYP27B1	C4021741	Abnormal cortical bone morphology	HumPhenOnt	
+VDR	C4021741	Abnormal cortical bone morphology	HumPhenOnt	
+CYP27B1	C4023608	Abnormality of the abdominal musculature	HumPhenOnt	
+VDR	C4023608	Abnormality of the abdominal musculature	HumPhenOnt	
+CYP27B1	C0151825	Bone pain	HumPhenOnt	
+VDR	C0151825	Bone pain	HumPhenOnt	
+CYP27B1	C4025328	Abnormality of alkaline phosphatase activity	HumPhenOnt	
+VDR	C4025328	Abnormality of alkaline phosphatase activity	HumPhenOnt	
+CYP27B1	C0235357	Hypoplasia of teeth	HumPhenOnt	
+VDR	C0235357	Hypoplasia of teeth	HumPhenOnt	
+CYP27B1	C4023198	Abnormality of the parathyroid physiology	HumPhenOnt	
+VDR	C4023198	Abnormality of the parathyroid physiology	HumPhenOnt	
+CYP27B1	C0030521	Neoplasm of the parathyroid gland	DisGeNet	
+VDR	C0030521	Neoplasm of the parathyroid gland	DisGeNet	
+CYP27B1	C0002875	Cooley's anemia	DisGeNet	
+VDR	C0002875	Cooley's anemia	DisGeNet	
+CYP27B1	C4025822	Abnormality of the parathyroid gland	HumPhenOnt	
+VDR	C4025822	Abnormality of the parathyroid gland	HumPhenOnt	
+CYP27B1	C0020626	Hypoparathyroidism	DisGeNet	
+VDR	C0020626	Hypoparathyroidism	DisGeNet	
+CYP27B1	C0020502	Hyperparathyroidism 4	DisGeNet,HumPhenOnt	
+VDR	C0020502	Hyperparathyroidism 4	DisGeNet,HumPhenOnt	
+CYP27B1	C1268717	Mammographic breast density	DisGeNet	
+VDR	C1268717	Mammographic breast density	DisGeNet	
+CYP27B1	C0041948	Uremia	DisGeNet	
+VDR	C0041948	Uremia	DisGeNet	
+CYP24A1	C0038013	Ankylosing spondylitis	DisGeNet	
+CYP27B1	C0038013	Ankylosing spondylitis	DisGeNet	
+VDR	C0038013	Ankylosing spondylitis	DisGeNet	
+CYP27B1	C0019100	Severe Dengue	DisGeNet	
+VDR	C0019100	Severe Dengue	DisGeNet	
+CYP27B1	C4022922	Abnormal enzyme/coenzyme activity	HumPhenOnt	
+VDR	C4022922	Abnormal enzyme/coenzyme activity	HumPhenOnt	
+CYP27B1	C4023459	Abnormal shape of the occiput	HumPhenOnt	
+VDR	C4023459	Abnormal shape of the occiput	HumPhenOnt	
+CYP27B1	C0000731	Abdominal distention	HumPhenOnt	
+VDR	C0000731	Abdominal distention	HumPhenOnt	
+CYP27B1	C0158266	Intervertebral disc degeneration	DisGeNet	
+VDR	C0158266	Intervertebral disc degeneration	DisGeNet	
+CYP27B1	C4021744	Abnormality of the wrist	HumPhenOnt	
+VDR	C4021744	Abnormality of the wrist	HumPhenOnt	
+CYP27B1	C0031106	Periodontitis, Juvenile	DisGeNet	
+VDR	C0031106	Periodontitis, Juvenile	DisGeNet	
+CYP27B1	C0022602	Actinic keratosis	DisGeNet	
+VDR	C0022602	Actinic keratosis	DisGeNet	
+CYP27B1	C0262587	Parathyroid adenoma	DisGeNet	
+VDR	C0262587	Parathyroid adenoma	DisGeNet	
+CYP27B1	C4025628	Abnormal enchondral ossification	HumPhenOnt	
+VDR	C4025628	Abnormal enchondral ossification	HumPhenOnt	
+CYP27B1	C0029458	Postmenopausal osteoporosis	DisGeNet	
+VDR	C0029458	Postmenopausal osteoporosis	ClinVar,DisGeNet	
+CYP27B1	C0022107	Irritability	HumPhenOnt	
+VDR	C0022107	Irritability	HumPhenOnt	
+CYP24A1	C1561643	Chronic kidney disease	DisGeNet	
+CYP27B1	C1561643	Chronic kidney disease	DisGeNet	
+VDR	C1561643	Chronic kidney disease	DisGeNet	
+CYP27B1	C0239174	Delayed eruption of teeth	HumPhenOnt	
+VDR	C0239174	Delayed eruption of teeth	HumPhenOnt	
+CYP27B1	C0001403	Primary adrenal insufficiency	DisGeNet	
+VDR	C0001403	Primary adrenal insufficiency	DisGeNet	
+CYP27B1	C0023891	Liver Cirrhosis, Alcoholic	DisGeNet	
+VDR	C0023891	Liver Cirrhosis, Alcoholic	DisGeNet	
+CYP27B1	C0016655	Recurrent fractures	HumPhenOnt	
+VDR	C0016655	Recurrent fractures	HumPhenOnt	
+CYP27B1	C0178468	Autoimmune thyroid disease 3	DisGeNet	
+VDR	C0178468	Autoimmune thyroid disease 3	DisGeNet	
+CYP27B1	C0747845	early pregnancy	DisGeNet	
+VDR	C0747845	early pregnancy	DisGeNet	
+CYP27B1	C0456132	Large fontanelles	HumPhenOnt	
+VDR	C0456132	Large fontanelles	HumPhenOnt	
+CYP24A1	C0206698	Cholangiocarcinoma	DisGeNet	
+CYP27B1	C0206698	Cholangiocarcinoma	DisGeNet	
+VDR	C0206698	Cholangiocarcinoma	DisGeNet	
+CYP27B1	C0086132	Depressive Symptoms	DisGeNet	
+VDR	C0086132	Depressive Symptoms	DisGeNet	
+CYP27B1	C1859363	Abnormality of dental eruption	HumPhenOnt	
+VDR	C1859363	Abnormality of dental eruption	HumPhenOnt	
+CYP27B1	C0241910	Hepatitis, Autoimmune	DisGeNet	
+VDR	C0241910	Hepatitis, Autoimmune	DisGeNet	
+CYP27B1	C4021800	Abnormality of dental enamel	HumPhenOnt	
+VDR	C4021800	Abnormality of dental enamel	HumPhenOnt	
+CYP24A1	C0004943	Behcet Syndrome	DisGeNet	
+CYP27B1	C0004943	Behcet Syndrome	DisGeNet	
+VDR	C0004943	Behcet Syndrome	DisGeNet	
+CYP27B1	C0544755	Bowing of limbs due to multiple fractures	HumPhenOnt	
+VDR	C0544755	Bowing of limbs due to multiple fractures	HumPhenOnt	
+CYP27B1	C0263361	Psoriasis vulgaris	DisGeNet	
+VDR	C0263361	Psoriasis vulgaris	DisGeNet	
+CYP27B1	C0017563	Gingival Diseases	DisGeNet	
+VDR	C0017563	Gingival Diseases	DisGeNet	
+CYP27B1	C0205250	Elevated 7-dehydrocholesterol	HumPhenOnt	
+VDR	C0205250	Elevated 7-dehydrocholesterol	HumPhenOnt	
+CYP27B1	C4073258	Abnormality of odontoid tissue	HumPhenOnt	
+VDR	C4073258	Abnormality of odontoid tissue	HumPhenOnt	
+CYP24A1	C1337013	Differentiated Thyroid Gland Carcinoma	DisGeNet	
+CYP27B1	C1337013	Differentiated Thyroid Gland Carcinoma	DisGeNet	
+CYP27B1	C1527336	Sjogren's Syndrome	DisGeNet	
+VDR	C1527336	Sjogren's Syndrome	DisGeNet	
+CYP24A1	C0003507	Aortic valve stenosis	HumPhenOnt	
+VDR	C0003507	Aortic valve stenosis	DisGeNet	
+CYP27B1	C0020550	Hyperthyroidism	DisGeNet	
+VDR	C0020550	Hyperthyroidism	DisGeNet	
+CYP27B1	C1636667	Disorder characterized by eosinophilia	DisGeNet	
+VDR	C1636667	Disorder characterized by eosinophilia	DisGeNet	
+CYP27B1	C0677607	Hashimoto thyroiditis	DisGeNet	
+VDR	C0677607	Hashimoto thyroiditis	DisGeNet	
+CYP24A1	C0007115	Thyroid cancer, nonmedullary, 4	DisGeNet	
+CYP27B1	C0007115	Thyroid cancer, nonmedullary, 4	DisGeNet	
+VDR	C0007115	Thyroid cancer, nonmedullary, 4	DisGeNet	
+CYP27B1	C1306759	Eosinophilic disorder	DisGeNet	
+VDR	C1306759	Eosinophilic disorder	DisGeNet	
+CYP27B1	C0341439	Chronic liver disease	DisGeNet	
+VDR	C0341439	Chronic liver disease	DisGeNet	
+CYP27B1	C1336076	Sporadic Breast Carcinoma	DisGeNet	
+VDR	C1336076	Sporadic Breast Carcinoma	DisGeNet	
+CYP27B1	C0019554	Hip Dislocation, Congenital	DisGeNet	
+VDR	C0019554	Hip Dislocation, Congenital	DisGeNet	
+CYP27B1	C0003862	Arthralgia	DisGeNet	
+VDR	C0003862	Arthralgia	DisGeNet	
+CYP27B1	C0004763	Barrett Esophagus	DisGeNet	
+VDR	C0004763	Barrett Esophagus	DisGeNet	
+CYP27B1	C4021832	Abnormality of the calf	HumPhenOnt	
+VDR	C4021832	Abnormality of the calf	HumPhenOnt	
+CYP27B1	C0039730	Thalassemia	DisGeNet	
+VDR	C0039730	Thalassemia	DisGeNet	
+CYP24A1	C0042164	Uveitis	DisGeNet	
+CYP27B1	C0042164	Uveitis	DisGeNet	
+CYP27B1	C0025007	Measles	DisGeNet	
+VDR	C0025007	Measles	DisGeNet	
+CYP27B1	C4025360	Functional motor problems	HumPhenOnt	
+VDR	C4025360	Functional motor problems	HumPhenOnt	
+CYP27B1	C1847835	VITILIGO-ASSOCIATED MULTIPLE AUTOIMMUNE DISEASE SUSCEPTIBILITY 1 (finding)	DisGeNet	
+VDR	C1847835	VITILIGO-ASSOCIATED MULTIPLE AUTOIMMUNE DISEASE SUSCEPTIBILITY 1 (finding)	DisGeNet	
+CYP27B1	C0015811	Abnormality of femur morphology	HumPhenOnt	
+VDR	C0015811	Abnormality of femur morphology	HumPhenOnt	
+CYP27B1	C0001175	Acquired Immunodeficiency Syndrome	DisGeNet	
+VDR	C0001175	Acquired Immunodeficiency Syndrome	DisGeNet	
+CYP27B1	C0041408	46,XY gonadal dysgenesis, partial, with minifascicular neuropathy	DisGeNet	
+VDR	C0041408	46,XY gonadal dysgenesis, partial, with minifascicular neuropathy	DisGeNet	
+CYP27B1	C1390474	Bone fragility with contractures, arterial rupture, and deafness	HumPhenOnt	
+VDR	C1390474	Bone fragility with contractures, arterial rupture, and deafness	HumPhenOnt	
+CYP27B1	C0153452	Malignant neoplasm of gallbladder	DisGeNet	
+VDR	C0153452	Malignant neoplasm of gallbladder	DisGeNet	
+CYP27B1	C1855340	Bowing of the long bones	HumPhenOnt	
+VDR	C1855340	Bowing of the long bones	HumPhenOnt	
+CYP27B1	C0006625	Cachexia	DisGeNet	
+VDR	C0006625	Cachexia	DisGeNet	
+CYP27B1	C4021594	Anomaly of the limb diaphyses	HumPhenOnt	
+VDR	C4021594	Anomaly of the limb diaphyses	HumPhenOnt	
+CYP27B1	C0014457	Eosinophilia	DisGeNet	
+VDR	C0014457	Eosinophilia	DisGeNet	
+CYP24A1	C0206682	Thyroid cancer, follicular	DisGeNet	
+CYP27B1	C0206682	Thyroid cancer, follicular	DisGeNet	
+CYP27B1	C0022548	Keloid	DisGeNet	
+VDR	C0022548	Keloid	DisGeNet	
+CYP27B1	C0266929	Chronic Periodontitis	DisGeNet	
+VDR	C0266929	Chronic Periodontitis	DisGeNet	
+CYP27B1	C1842083	Abnormality of the ribs	HumPhenOnt	
+VDR	C1842083	Abnormality of the ribs	HumPhenOnt	
+CYP27B1	C4021611	Abnormality of epiphysis morphology	HumPhenOnt	
+VDR	C4021611	Abnormality of epiphysis morphology	HumPhenOnt	
+VDR	C0014511	Epidermal cyst	DisGeNet	
+CYP24A1	C0024305	Non-Hodgkin lymphoma	DisGeNet	
+CYP27B1	C0024305	Non-Hodgkin lymphoma	DisGeNet	
+VDR	C0024305	Non-Hodgkin lymphoma	DisGeNet	
+VDR	C0034362	Q Fever	DisGeNet	
+CYP27B1	C3714757	Juvenile rheumatoid arthritis	DisGeNet	
+VDR	C3714757	Juvenile rheumatoid arthritis	DisGeNet	
+CYP24A1	C0011615	Dermatitis, Atopic	PheGenI	
+CYP27B1	C0011615	Dermatitis, Atopic	DisGeNet	
+VDR	C0011615	Dermatitis, Atopic	DisGeNet	
+CYP27B1	C0235782	Gallbladder Carcinoma	DisGeNet	
+VDR	C0235782	Gallbladder Carcinoma	DisGeNet	
+CYP27B1	C4021787	Abnormal diaphysis morphology	HumPhenOnt	
+VDR	C4021787	Abnormal diaphysis morphology	HumPhenOnt	
+VDR	C0206114	Periodontal Attachment Loss	DisGeNet	
+CYP27B1	C4023412	Abnormality of cranial sutures	HumPhenOnt	
+VDR	C4023412	Abnormality of cranial sutures	HumPhenOnt	
+CYP27B1	C0013377	Dysgerminoma	DisGeNet	
+VDR	C0005944	Metabolic Bone Disorder	DisGeNet	
+VDR	C0013338	Isolated growth hormone deficiency type 1B	DisGeNet	
+CYP24A1	C3693260	Abnormal urine output	HumPhenOnt	
+CYP27B1	C4022457	Abnormal morphology of bones of the lower limbs	HumPhenOnt	
+VDR	C4022457	Abnormal morphology of bones of the lower limbs	HumPhenOnt	
+CYP24A1	C0011881	Diabetic Nephropathies	DisGeNet	
+CYP27B1	C0011881	Diabetic Nephropathies	DisGeNet	
+VDR	C0011881	Diabetic Nephropathies	DisGeNet	
+CYP24A1	C0022661	Kidney Failure, Chronic	DisGeNet	
+CYP27B1	C0022661	Kidney Failure, Chronic	DisGeNet	
+VDR	C0022661	Kidney Failure, Chronic	DisGeNet	
+VDR	C0232513	Premature loss of teeth	HumPhenOnt	
+CYP24A1	C0015544	Failure to thrive	HumPhenOnt	
+CYP27B1	C0015544	Failure to thrive	HumPhenOnt	
+VDR	C0015544	Failure to thrive	HumPhenOnt	
+CYP27B1	C0041327	Tuberculosis, Pulmonary	DisGeNet	
+VDR	C0041327	Tuberculosis, Pulmonary	DisGeNet	
+CYP27B1	C0333186	Restenosis	DisGeNet	
+VDR	C0333186	Restenosis	DisGeNet	
+CYP27B1	C0007114	Skin cancer	DisGeNet	
+VDR	C0007114	Skin cancer	DisGeNet	
+CYP24A1	C1567741	Alport syndrome	DisGeNet	
+CYP24A1	C4023579	Abnormality of renal excretion	HumPhenOnt	
+VDR	C0020097	HTLV-I Infections	DisGeNet	
+CYP27B1	C4023458	Abnormal shape of the frontal region	HumPhenOnt	
+VDR	C4023458	Abnormal shape of the frontal region	HumPhenOnt	
+CYP24A1	C0549473	Thyroid carcinoma	DisGeNet	
+CYP27B1	C0549473	Thyroid carcinoma	DisGeNet	
+VDR	C0549473	Thyroid carcinoma	DisGeNet	
+VDR	C0002382	Alveolar Bone Loss	DisGeNet	
+VDR	C0036117	Salmonella infections	DisGeNet	
+CYP27B1	C0221354	Frontal bossing	HumPhenOnt	
+VDR	C0221354	Frontal bossing	HumPhenOnt	
+CYP27B1	C2316810	Stage 5 chronic kidney disease	DisGeNet	
+VDR	C2316810	Stage 5 chronic kidney disease	DisGeNet	
+CYP27B1	C4023557	Abnormality of dental structure	HumPhenOnt	
+VDR	C4023557	Abnormality of dental structure	HumPhenOnt	
+CYP27B1	C0029928	Ovarian Diseases	DisGeNet	
+VDR	C0029928	Ovarian Diseases	DisGeNet	
+CYP27B1	C0006287	Bronchopulmonary Dysplasia	DisGeNet	
+VDR	C0006287	Bronchopulmonary Dysplasia	DisGeNet	
+CYP27B1	C4025763	Abnormality of the rib cage	HumPhenOnt	
+VDR	C4025763	Abnormality of the rib cage	HumPhenOnt	
+VDR	C0037928	Chronic myelopathy	DisGeNet	
+CYP24A1	C0342208	Multinodular goiter	DisGeNet	
+CYP27B1	C0026269	Mitral stenosis	DisGeNet	
+VDR	C0026269	Mitral stenosis	DisGeNet	
+CYP27B1	C0026946	Mycoses	DisGeNet	
+VDR	C0026946	Mycoses	DisGeNet	
+CYP27B1	C0042900	Vitiligo	DisGeNet	
+VDR	C0042900	Vitiligo	DisGeNet	
+CYP24A1	C0032617	Polyuria	HumPhenOnt	
+CYP24A1	C1291314	21-hydroxylase deficiency	DisGeNet	
+CYP27B1	C1860493	Abnormality of the sternum	HumPhenOnt	
+VDR	C1860493	Abnormality of the sternum	HumPhenOnt	
+VDR	C0024031	Low back pain	DisGeNet	
+CYP27B1	C0027873	Neuromyelitis Optica	DisGeNet	
+VDR	C4021596	Abnormality of primary teeth	HumPhenOnt	
+VDR	C0021818	Displacement of intervertebral disc	DisGeNet	
+VDR	C0023348	Leprosy, Lepromatous	DisGeNet	
+CYP24A1	C0701807	Acute anterior uveitis	DisGeNet	
+CYP27B1	C0036202	Sarcoidosis	DisGeNet	
+VDR	C0036202	Sarcoidosis	DisGeNet	
+CYP27B1	C1302401	Adenoma of large intestine	DisGeNet	
+VDR	C1302401	Adenoma of large intestine	DisGeNet	
+CYP27B1	C0870082	Hyperkeratosis	DisGeNet	
+VDR	C0870082	Hyperkeratosis	DisGeNet	
+CYP27B1	C4020755	Abnormality of fontanelles	HumPhenOnt	
+VDR	C4020755	Abnormality of fontanelles	HumPhenOnt	
+CYP27B1	C0520947	Motor delay	HumPhenOnt	
+VDR	C0520947	Motor delay	HumPhenOnt	
+CYP27B1	C4025652	Abnormality of circulating hormone level	HumPhenOnt	
+VDR	C4025652	Abnormality of circulating hormone level	HumPhenOnt	
+VDR	C0016663	Pathologic fracture	DisGeNet	
+CYP27B1	C0008312	Primary biliary cirrhosis	DisGeNet	
+VDR	C0008312	Primary biliary cirrhosis	DisGeNet	
+CYP27B1	C0151779	Cutaneous malignant melanoma 3	DisGeNet	
+VDR	C0151779	Cutaneous malignant melanoma 3	DisGeNet	
+CYP27B1	C3811653	Experimental Organism Basal Cell Carcinoma	DisGeNet	
+VDR	C3811653	Experimental Organism Basal Cell Carcinoma	DisGeNet	
+VDR	C0002986	Fabry disease	DisGeNet	
+VDR	C0029445	Bone necrosis	DisGeNet	
+CYP27B1	C0011884	Diabetic Retinopathy	DisGeNet	
+VDR	C0011884	Diabetic Retinopathy	DisGeNet	
+CYP27B1	C0524909	Hepatitis B, Chronic	DisGeNet	
+VDR	C0524909	Hepatitis B, Chronic	DisGeNet	
+CYP27B1	C0149721	Left ventricular hypertrophy	DisGeNet	
+VDR	C0149721	Left ventricular hypertrophy	DisGeNet	
+VDR	C0085166	Bacterial Vaginosis	DisGeNet	
+CYP27B1	C0008497	Choriocarcinoma	DisGeNet	
+VDR	C0008497	Choriocarcinoma	DisGeNet	
+VDR	C0029401	Osteitis Deformans	DisGeNet	
+VDR	C0948480	Coronary Restenosis	DisGeNet	
+CYP27B1	C2931456	Prostate cancer, familial	DisGeNet	
+CYP27B1	C0149978	Rectal Carcinoma	DisGeNet	
+VDR	C0149978	Rectal Carcinoma	DisGeNet	
+VDR	C0085435	Arthritis, Reactive	DisGeNet	
+VDR	C0162316	Iron deficiency anemia	DisGeNet	
+CYP27B1	C0027720	Nephrosis	DisGeNet	
+VDR	C0033054	Prenatal Exposure Delayed Effects	DisGeNet	
+CYP24A1	C4023434	Abnormality of urine calcium concentration	HumPhenOnt	
+VDR	C0005941	Bone Diseases, Developmental	DisGeNet	
+CYP24A1	C1262477	Decreased body weight	HumPhenOnt	
+CYP27B1	C1262477	Decreased body weight	HumPhenOnt	
+VDR	C1262477	Decreased body weight	HumPhenOnt	
+VDR	C0014743	Erythema nodosum	DisGeNet	
+CYP24A1	C0152013	Adenocarcinoma of lung	DisGeNet	
+CYP27B1	C0152013	Adenocarcinoma of lung	DisGeNet	
+VDR	C0152013	Adenocarcinoma of lung	DisGeNet	
+CYP24A1	C0009375	Neoplasm of the colon	DisGeNet	
+CYP27B1	C0009375	Neoplasm of the colon	DisGeNet	
+VDR	C0009375	Neoplasm of the colon	DisGeNet	
+CYP27B1	C4021387	Abnormality of upper limb joint	HumPhenOnt	
+VDR	C4021387	Abnormality of upper limb joint	HumPhenOnt	
+VDR	C0030481	Tropical Spastic Paraparesis	DisGeNet	
+CYP27B1	C2717865	Anti-Neutrophil Cytoplasmic Antibody-Associated Vasculitis	DisGeNet	
+CYP27B1	C0019202	Wilson disease	DisGeNet	
+VDR	C0036205	Sarcoidosis, Pulmonary	DisGeNet	
+CYP27B1	C4021664	Abnormality of the abdominal wall	HumPhenOnt	
+VDR	C4021664	Abnormality of the abdominal wall	HumPhenOnt	
+CYP27B1	C0008370	Cholestasis, benign recurrent intrahepatic 1	DisGeNet	
+VDR	C0008370	Cholestasis, benign recurrent intrahepatic 1	DisGeNet	
+CYP27B1	C0031099	Periodontitis	DisGeNet	
+VDR	C0031099	Periodontitis	DisGeNet	
+CYP27B1	C0042133	Uterine leiomyoma	DisGeNet	
+VDR	C0042133	Uterine leiomyoma	DisGeNet	
+VDR	C0029410	Osteoarthritis of hip	DisGeNet	
+CYP24A1	C0024117	Chronic obstructive pulmonary disease	DisGeNet	
+CYP27B1	C0024117	Chronic obstructive pulmonary disease	DisGeNet	
+VDR	C0024117	Chronic obstructive pulmonary disease	DisGeNet	
+CYP27B1	C3495559	Juvenile idiopathic arthritis, enthesitis related arthritis	DisGeNet	
+VDR	C3495559	Juvenile idiopathic arthritis, enthesitis related arthritis	DisGeNet	
+VDR	C0796369	Microsatellite Instability	DisGeNet	
+CYP27B1	C4020971	Abnormality of lower limb joint	HumPhenOnt	
+VDR	C4020971	Abnormality of lower limb joint	HumPhenOnt	
+CYP27B1	C3272363	Ischemic Cerebrovascular Accident	DisGeNet	
+VDR	C3272363	Ischemic Cerebrovascular Accident	DisGeNet	
+CYP27B1	C2674432	Reduced bone mineral density	HumPhenOnt	
+VDR	C2674432	Reduced bone mineral density	HumPhenOnt	
+VDR	C0040592	Trachoma	DisGeNet	
+CYP24A1	C0004364	Autoimmune disease 1	DisGeNet	
+CYP27B1	C0004364	Autoimmune disease 1	DisGeNet	
+VDR	C0004364	Autoimmune disease 1	DisGeNet	
+CYP24A1	C0740651	Abdominal symptom	HumPhenOnt	
+CYP27B1	C0740651	Abdominal symptom	HumPhenOnt	
+VDR	C0740651	Abdominal symptom	HumPhenOnt	
+CYP24A1	C0034089	Pulmonic stenosis	HumPhenOnt	
+VDR	C0006271	Bronchiolitis	DisGeNet	
+CYP27B1	C0035078	Renal Insufficiency, Chronic	DisGeNet	
+VDR	C0035078	Renal Insufficiency, Chronic	DisGeNet	
+VDR	C0017205	Gaucher Disease	DisGeNet	
+CYP27B1	C0279702	Clear cell renal cell carcinoma	DisGeNet	
+VDR	C0279702	Clear cell renal cell carcinoma	DisGeNet	
+CYP24A1	C0919267	Ovarian Neoplasms	DisGeNet	
+CYP27B1	C0919267	Ovarian Neoplasms	DisGeNet	
+VDR	C0919267	Ovarian Neoplasms	DisGeNet	
+CYP27B1	C0018213	Graves Disease	DisGeNet	
+VDR	C0018213	Graves Disease	DisGeNet	
+CYP27B1	C0024115	Pulmonary Disease, Chronic Obstructive	DisGeNet	
+VDR	C0024115	Pulmonary Disease, Chronic Obstructive	DisGeNet	
+VDR	C0023465	Acute monocytic leukemia	DisGeNet	
+CYP24A1	C0027709	Nephrocalcinosis	DisGeNet,HumPhenOnt	
+VDR	C0221204	Osteolysis	HumPhenOnt	
+CYP24A1	C4025357	Abnormality of body weight	HumPhenOnt	
+CYP27B1	C4025357	Abnormality of body weight	HumPhenOnt	
+VDR	C4025357	Abnormality of body weight	HumPhenOnt	
+CYP27B1	C0036690	Septicemia	DisGeNet	
+VDR	C0036690	Septicemia	DisGeNet	
+VDR	C0231341	Premature aging syndrome	DisGeNet	
+CYP27B1	C0025517	Disorders of Intracellular Cobalamin Metabolism	DisGeNet	
+VDR	C0025517	Disorders of Intracellular Cobalamin Metabolism	DisGeNet	
+CYP27B1	C4021657	Abnormality of bone mineral density	HumPhenOnt	
+VDR	C4021657	Abnormality of bone mineral density	HumPhenOnt	
+VDR	C0205217	Increased analgesia from kappa-opioid receptor agonist, female-specific	HumPhenOnt	
+CYP27B1	C0740457	Malignant neoplasm of kidney	DisGeNet	
+VDR	C0740457	Malignant neoplasm of kidney	DisGeNet	
+CYP27B1	C0948008	Ischemic stroke	DisGeNet	
+VDR	C0948008	Ischemic stroke	DisGeNet	
+VDR	C0008149	Chlamydia Infections	DisGeNet	

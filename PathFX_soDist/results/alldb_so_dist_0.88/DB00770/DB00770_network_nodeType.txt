@@ -1,0 +1,8 @@
+node_name	node_type	
+DB00770	drug	
+PTGER1	drug_target	
+PTGER2	drug_target	
+SLC22A6	drug_target	
+SLCO2B1	drug_target	
+ABCC4	drug_target	
+ABCC5	drug_target	

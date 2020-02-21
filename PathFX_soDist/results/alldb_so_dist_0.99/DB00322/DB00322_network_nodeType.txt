@@ -1,0 +1,6 @@
+node_name	node_type	
+DB00322	drug	
+CYP2C9	drug_target	
+TYMS	drug_target	
+TYMP	drug_target	
+SERPINA7	drug_target	

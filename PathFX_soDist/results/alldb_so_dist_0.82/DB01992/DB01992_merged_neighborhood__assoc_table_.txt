@@ -1,0 +1,2 @@
+rank	phenotype	cui	assoc in neigh	assoc in intom	probability	Benjamini-Hochberg	genes	
+8	Isovaleryl-CoA dehydrogenase deficiency	C0268575	1	25	2.881375896812699e-05	7.0796460177e-05	KAT5

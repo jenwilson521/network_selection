@@ -1,0 +1,26 @@
+node_name	node_type	
+DB00350	drug	
+PTGS1	drug_target	
+REN	drug_target	
+KCNJ1	drug_target	
+UGT1A1	drug_target	
+Hepatitis D Infection	phenotype	
+Hyperbilirubinemia	phenotype	
+Febrile Neutropenia	phenotype	
+Cholelithiasis	phenotype	
+Drug Allergy	phenotype	
+Hearing Loss, Partial	phenotype	
+Anemia, Sickle Cell	phenotype	
+Influenza	phenotype	
+Deafness, autosomal recessive 44	phenotype	
+Abdominal pain	phenotype	
+Leukopenia	phenotype	
+Familial hypokalemia-hypomagnesemia	phenotype	
+Cardiovascular morbidity	phenotype	
+Cholecystolithiasis	phenotype	
+Abnormal urine output	phenotype	
+Abnormality of renal excretion	phenotype	
+Deficiency of glucose-6-phosphate dehydrogenase	phenotype	
+Alkalosis	phenotype	
+Polyuria	phenotype	
+Hyperaldosteronism, familial, type IV	phenotype	

@@ -1,0 +1,12 @@
+Gene	CUI	Source Databases	
+ABCC1	C0220615	Adult Acute Myeloblastic Leukemia	DisGeNet	
+CYP1A1	C0220615	Adult Acute Myeloblastic Leukemia	DisGeNet	
+ABCC1	C0023891	Liver Cirrhosis, Alcoholic	DisGeNet	
+CYP1A1	C0023891	Liver Cirrhosis, Alcoholic	DisGeNet	
+ABCC1	C0030920	Peptic ulcer	DisGeNet	
+CYP1A1	C0030920	Peptic ulcer	DisGeNet	
+CYP1A1	C0011609	Drug Eruptions	DisGeNet	
+CYP1A1	C0027663	Neoplasms, Multiple Primary	DisGeNet	
+CYP1A1	C0032229	Pleural Neoplasms	DisGeNet	
+ABCC1	C0278519	recurrent childhood acute lymphoblastic leukemia	DisGeNet	
+CYP1A1	C0153405	Malignant neoplasm of pharynx	DisGeNet	

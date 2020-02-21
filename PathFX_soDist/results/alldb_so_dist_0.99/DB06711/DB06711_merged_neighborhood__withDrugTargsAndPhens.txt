@@ -1,0 +1,4 @@
+node1	node2	edge_score	
+DB06711	ADRA1A	1.0	
+DB06711	ADRA2A	1.0	
+

@@ -1,0 +1,7 @@
+node_name	node_type	
+DB02546	drug	
+HDAC1	drug_target	
+HDAC8	drug_target	
+HDAC3	drug_target	
+HDAC2	drug_target	
+HDAC6	drug_target	

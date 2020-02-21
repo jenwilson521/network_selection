@@ -1,0 +1,122 @@
+Gene	CUI	Source Databases	
+SLC12A3	C0000737	Abdominal pain	HumPhenOnt	
+SLC12A3	C0000768	EMG: myopathic abnormalities	DisGeNet	
+SLC12A3	C0001118	Abnormality of acid-base homeostasis	HumPhenOnt	
+SLC12A3	C0002063	Alkalosis	HumPhenOnt	
+SLC12A3	C0003850	Arteriosclerosis	DisGeNet	
+SLC12A3	C0004153	Atherosclerosis	DisGeNet	
+SLC12A3	C0006118	Brain neoplasm	DisGeNet	
+SLC12A3	C0006142	Breast-ovarian cancer, familial 1	DisGeNet	
+SLC12A3	C0007131	Non-small cell lung carcinoma	DisGeNet	
+SLC12A3	C0007134	Renal cell carcinoma, nonpapillary	DisGeNet	
+SLC12A3	C0007137	Squamous cell carcinoma	DisGeNet	
+SLC12A3	C0008487	Chordoma	DisGeNet	
+SLC12A3	C0009812	Constitutional symptom	HumPhenOnt	
+SLC12A3	C0011849	Diabetes Mellitus, Type 1	DisGeNet	
+SLC12A3	C0011860	Diabetes mellitus type 2	DisGeNet	
+SLC12A3	C0011881	Diabetic Nephropathies	DisGeNet	
+SLC12A3	C0011884	Diabetic Retinopathy	DisGeNet	
+SLC12A3	C0011991	Diarrhea 8, secretory sodium, congenital	DisGeNet	
+SLC12A3	C0014544	Epilepsy	DisGeNet	
+SLC12A3	C0014599	Epithelial hyperplasia of skin	DisGeNet	
+SLC12A3	C0017636	Glioblastoma	DisGeNet	
+SLC12A3	C0018552	Hamartoma	DisGeNet	
+SLC12A3	C0019569	Hirschsprung Disease	DisGeNet	
+SLC12A3	C0020438	Hypercalciuria	DisGeNet	
+SLC12A3	C0020538	Hypertension	DisGeNet	
+SLC12A3	C0020621	Hypokalemia	HumPhenOnt	
+SLC12A3	C0022658	Kidney Diseases	DisGeNet	
+SLC12A3	C0022661	Kidney Failure, Chronic	DisGeNet	
+SLC12A3	C0023467	Acute myeloid leukemia	DisGeNet	
+SLC12A3	C0023890	Liver Cirrhosis, Biliary	DisGeNet	
+SLC12A3	C0025149	Medulloblastoma	DisGeNet	
+SLC12A3	C0025202	Melanoma	DisGeNet	
+SLC12A3	C0025517	Disorders of Intracellular Cobalamin Metabolism	DisGeNet	
+SLC12A3	C0026821	Muscle cramps	HumPhenOnt	
+SLC12A3	C0027707	Tubulointerstitial nephritis	DisGeNet	
+SLC12A3	C0027709	Nephrocalcinosis	DisGeNet	
+SLC12A3	C0029456	Osteoporosis	DisGeNet	
+SLC12A3	C0030193	Pain	HumPhenOnt	
+SLC12A3	C0030552	Muscle weakness	HumPhenOnt	
+SLC12A3	C0030554	Paresthesia	HumPhenOnt	
+SLC12A3	C0031117	Peripheral neuropathy, myopathy, hoarseness, and hearing loss	HumPhenOnt	
+SLC12A3	C0032617	Polyuria	HumPhenOnt	
+SLC12A3	C0035078	Renal Insufficiency, Chronic	DisGeNet	
+SLC12A3	C0036572	Seizures, Febrile	HumPhenOnt	
+SLC12A3	C0040336	Tobacco Use Disorder	DisGeNet	
+SLC12A3	C0041341	Tuberous sclerosis syndrome	DisGeNet	
+SLC12A3	C0042063	Abnormality of the genitourinary system	HumPhenOnt	
+SLC12A3	C0042373	Vascular Diseases	DisGeNet	
+SLC12A3	C0042963	Vomiting	DisGeNet	
+SLC12A3	C0085580	Essential hypertension	DisGeNet	
+SLC12A3	C0085602	Polydipsia	HumPhenOnt	
+SLC12A3	C0085669	Acute leukemia	DisGeNet	
+SLC12A3	C0149630	Bicuspid aortic valve	DisGeNet	
+SLC12A3	C0149925	Small cell lung cancer	DisGeNet	
+SLC12A3	C0151313	Sensory neuropathy	HumPhenOnt	
+SLC12A3	C0151746	Abnormal renal physiology	HumPhenOnt	
+SLC12A3	C0151747	Renal tubular dysfunction	DisGeNet	
+SLC12A3	C0152013	Adenocarcinoma of lung	DisGeNet	
+SLC12A3	C0175704	Noonan syndrome with multiple lentigines	DisGeNet	
+SLC12A3	C0205217	Increased analgesia from kappa-opioid receptor agonist, female-specific	HumPhenOnt	
+SLC12A3	C0206132	Onset	HumPhenOnt	
+SLC12A3	C0206633	{TSC2 angiomyolipomas, renal, modifier of}, 613254 (3)	DisGeNet	
+SLC12A3	C0221198	NOONAN-LIKE/MULTIPLE GIANT CELL LESION SYNDROME (disorder)	DisGeNet	
+SLC12A3	C0233514	Behavioral abnormality	HumPhenOnt	
+SLC12A3	C0240083	Abnormal joint morphology	HumPhenOnt	
+SLC12A3	C0242379	Malignant neoplasm of lung	DisGeNet	
+SLC12A3	C0242387	Treacher Collins syndrome	DisGeNet	
+SLC12A3	C0266015	Abnormality of the digestive system	HumPhenOnt	
+SLC12A3	C0266292	Congenital anomalies of kidney and urinary tract 1, susceptibility to	HumPhenOnt	
+SLC12A3	C0268450	Familial hypokalemia-hypomagnesemia	ClinVar,DisGeNet	
+SLC12A3	C0431380	Cortical dysplasia, complex, with other brain malformations 3	DisGeNet	
+SLC12A3	C0441748	Autosomal recessive inheritance	HumPhenOnt	
+SLC12A3	C0497552	Abnormality of the nervous system	HumPhenOnt	
+SLC12A3	C0522224	Paralysis	DisGeNet,HumPhenOnt	
+SLC12A3	C0546817	Hypervolemia	DisGeNet	
+SLC12A3	C0553730	Chondrocalcinosis	HumPhenOnt	
+SLC12A3	C0559758	Multisystem disorder	DisGeNet	
+SLC12A3	C0678222	Breast carcinoma	DisGeNet	
+SLC12A3	C0684249	Lung cancer	DisGeNet	
+SLC12A3	C0740457	Malignant neoplasm of kidney	DisGeNet	
+SLC12A3	C0740651	Abdominal symptom	HumPhenOnt	
+SLC12A3	C0746674	Generalized muscle weakness	HumPhenOnt	
+SLC12A3	C0751674	Lymphangiomyomatosis	DisGeNet	
+SLC12A3	C0854912	Germinoma	DisGeNet	
+SLC12A3	C0949664	Tauopathies	DisGeNet	
+SLC12A3	C1261473	Sarcoma, Ewing	DisGeNet	
+SLC12A3	C1384514	Primary hyperaldosteronism	DisGeNet	
+SLC12A3	C1961102	Precursor Cell Lymphoblastic Leukemia-Lymphoma	DisGeNet	
+SLC12A3	C2316810	Stage 5 chronic kidney disease	DisGeNet	
+SLC12A3	C2931876	Hirschsprung disease 1	DisGeNet	
+SLC12A3	C3542024	Aortic valve disease 2	DisGeNet	
+SLC12A3	C3693260	Abnormal urine output	HumPhenOnt	
+SLC12A3	C3806226	Ectopic calcification	HumPhenOnt	
+SLC12A3	C4021745	Abnormality of the musculature	HumPhenOnt	
+SLC12A3	C4021768	Abnormality of metabolism/homeostasis	HumPhenOnt	
+SLC12A3	C4021790	Abnormality of the skeletal system	HumPhenOnt	
+SLC12A3	C4021821	Abnormality of the urinary system	HumPhenOnt	
+SLC12A3	C4022657	Abnormal drinking behavior	HumPhenOnt	
+SLC12A3	C4022810	Abnormality of nervous system morphology	HumPhenOnt	
+SLC12A3	C4022811	Abnormality of nervous system physiology	HumPhenOnt	
+SLC12A3	C4022833	Abnormal urinary electrolyte concentration	HumPhenOnt	
+SLC12A3	C4023165	Abnormality of skeletal morphology	HumPhenOnt	
+SLC12A3	C4023182	Abnormality of muscle physiology	HumPhenOnt	
+SLC12A3	C4023354	Abnormality of central motor function	HumPhenOnt	
+SLC12A3	C4023434	Abnormality of urine calcium concentration	HumPhenOnt	
+SLC12A3	C4023437	Abnormality of the urinary system physiology	HumPhenOnt	
+SLC12A3	C4023575	Abnormality of potassium homeostasis	HumPhenOnt	
+SLC12A3	C4023579	Abnormality of renal excretion	HumPhenOnt	
+SLC12A3	C4023641	Abnormality of the upper urinary tract	HumPhenOnt	
+SLC12A3	C4023645	Abnormality of monovalent inorganic cation homeostasis	HumPhenOnt	
+SLC12A3	C4023646	Abnormality of cation homeostasis	HumPhenOnt	
+SLC12A3	C4023648	Abnormality of divalent inorganic cation homeostasis	HumPhenOnt	
+SLC12A3	C4025337	Abnormality of calcium homeostasis	HumPhenOnt	
+SLC12A3	C4025588	Juvenile onset	HumPhenOnt	
+SLC12A3	C4025596	Abnormality of connective tissue	HumPhenOnt	
+SLC12A3	C4025654	Abnormality of ion homeostasis	HumPhenOnt	
+SLC12A3	C4025655	Abnormality of urine homeostasis	HumPhenOnt	
+SLC12A3	C4025823	Abnormality of the endocrine system	HumPhenOnt	
+SLC12A3	C4025831	Abnormal peripheral nervous system morphology	HumPhenOnt	
+SLC12A3	C4073150	Abnormal consumption behavior	HumPhenOnt	
+SLC12A3	C4293692	Abnormality of digestive system physiology	HumPhenOnt	

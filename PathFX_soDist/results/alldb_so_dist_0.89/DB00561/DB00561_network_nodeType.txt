@@ -1,0 +1,4 @@
+node_name	node_type	
+DB00561	drug	
+KCNK9	drug_target	
+KCNK3	drug_target	

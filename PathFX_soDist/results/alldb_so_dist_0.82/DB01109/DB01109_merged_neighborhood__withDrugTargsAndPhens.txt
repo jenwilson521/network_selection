@@ -1,0 +1,938 @@
+node1	node2	edge_score	
+DB01109	SERPINA7	1.0	
+DB01109	SELP	1.0	
+DB01109	SERPINC1	1.0	
+DB01109	FGF2	1.0	
+DB01109	FGF19	1.0	
+DB01109	PF4	1.0	
+DB01109	HGF	1.0	
+DB01109	F10	1.0	
+DB01109	FGF4	1.0	
+DB01109	FGFR2	1.0	
+DB01109	FGFR4	1.0	
+DB01109	FGF1	1.0	
+DB01109	FGFR1	1.0	
+FGFR4		1.0
+FGFR1		1.0
+FGF2		1.0
+ Adenocarcinoma, ovarian, somatic, 167000 (3)	FGF2	1.0	
+ Adenocarcinoma, ovarian, somatic, 167000 (3)	FGFR1	1.0	
+ Adenocarcinoma, ovarian, somatic, 167000 (3)	FGFR4	1.0	
+Astrocytoma	FGF2	1.0	
+Astrocytoma	FGFR1	1.0	
+Astrocytoma	FGFR4	1.0	
+Malignant tumor of urinary bladder	FGF2	1.0	
+Malignant tumor of urinary bladder	FGFR1	1.0	
+Malignant tumor of urinary bladder	FGFR4	1.0	
+Breast-ovarian cancer, familial 1	FGF2	1.0	
+Breast-ovarian cancer, familial 1	FGFR1	1.0	
+Breast-ovarian cancer, familial 1	FGFR4	1.0	
+Thyroid cancer, nonmedullary, 4	FGF2	1.0	
+Thyroid cancer, nonmedullary, 4	FGFR1	1.0	
+Thyroid cancer, nonmedullary, 4	FGFR4	1.0	
+Non-small cell lung carcinoma	FGF2	1.0	
+Non-small cell lung carcinoma	FGFR1	1.0	
+Non-small cell lung carcinoma	FGFR4	1.0	
+Squamous cell carcinoma	FGF2	1.0	
+Squamous cell carcinoma	FGFR1	1.0	
+Squamous cell carcinoma	FGFR4	1.0	
+Chordoma	FGF2	1.0	
+Chordoma	FGFR1	1.0	
+Chordoma	FGFR4	1.0	
+Colorectal cancer 1	FGF2	1.0	
+Colorectal cancer 1	FGFR1	1.0	
+Colorectal cancer 1	FGFR4	1.0	
+Coronary heart disease 7	FGF2	1.0	
+Coronary heart disease 7	FGFR1	1.0	
+Coronary heart disease 7	FGFR4	1.0	
+Depressive Disorder	FGF2	1.0	
+Depressive Disorder	FGFR1	1.0	
+Depressive Disorder	FGFR4	1.0	
+Diabetes Mellitus, Type 1	FGF2	1.0	
+Diabetes Mellitus, Type 1	FGFR1	1.0	
+Diabetes Mellitus, Type 1	FGFR4	1.0	
+Diabetes mellitus type 2	FGF2	1.0	
+Diabetes mellitus type 2	FGFR1	1.0	
+Diabetes mellitus type 2	FGFR4	1.0	
+Glioblastoma	FGF2	1.0	
+Glioblastoma	FGFR1	1.0	
+Glioblastoma	FGFR4	1.0	
+Hypertension	FGF2	1.0	
+Hypertension	FGFR1	1.0	
+Hypertension	FGFR4	1.0	
+Pulmonary hypertension, neonatal, susceptibility to	FGF2	1.0	
+Pulmonary hypertension, neonatal, susceptibility to	FGFR1	1.0	
+Pulmonary hypertension, neonatal, susceptibility to	FGFR4	1.0	
+Leukemia, Lymphocytic, Chronic, B-Cell	FGF2	1.0	
+Leukemia, Lymphocytic, Chronic, B-Cell	FGFR1	1.0	
+Leukemia, Lymphocytic, Chronic, B-Cell	FGFR4	1.0	
+Acute lymphoid leukemia	FGF2	1.0	
+Acute lymphoid leukemia	FGFR1	1.0	
+Acute lymphoid leukemia	FGFR4	1.0	
+Acute myeloid leukemia	FGF2	1.0	
+Acute myeloid leukemia	FGFR1	1.0	
+Acute myeloid leukemia	FGFR4	1.0	
+Chronic myeloid leukemia	FGF2	1.0	
+Chronic myeloid leukemia	FGFR1	1.0	
+Chronic myeloid leukemia	FGFR4	1.0	
+Neoplasm of the liver	FGF2	1.0	
+Neoplasm of the liver	FGFR1	1.0	
+Neoplasm of the liver	FGFR4	1.0	
+Lymphoma, Large B-Cell, Diffuse	FGF2	1.0	
+Lymphoma, Large B-Cell, Diffuse	FGFR1	1.0	
+Lymphoma, Large B-Cell, Diffuse	FGFR4	1.0	
+{Gastric cancer risk after H. pylori infection}, 137215 (3)	FGF2	1.0	
+{Gastric cancer risk after H. pylori infection}, 137215 (3)	FGFR1	1.0	
+{Gastric cancer risk after H. pylori infection}, 137215 (3)	FGFR4	1.0	
+Animal Mammary Neoplasms	FGF2	1.0	
+Animal Mammary Neoplasms	FGFR1	1.0	
+Animal Mammary Neoplasms	FGFR4	1.0	
+Melanoma	FGF2	1.0	
+Melanoma	FGFR1	1.0	
+Melanoma	FGFR4	1.0	
+Meningioma	FGF2	1.0	
+Meningioma	FGFR1	1.0	
+Meningioma	FGFR4	1.0	
+Multiple Myeloma	FGF2	1.0	
+Multiple Myeloma	FGFR1	1.0	
+Multiple Myeloma	FGFR4	1.0	
+Myeloproliferative Disorders	FGF2	1.0	
+Myeloproliferative Disorders	FGFR1	1.0	
+Myeloproliferative Disorders	FGFR4	1.0	
+Secondary hypertriglyceridemia	FGF2	1.0	
+Secondary hypertriglyceridemia	FGFR1	1.0	
+Secondary hypertriglyceridemia	FGFR4	1.0	
+Obesity	FGF2	1.0	
+Obesity	FGFR1	1.0	
+Obesity	FGFR4	1.0	
+Osteoarthritis	FGF2	1.0	
+Osteoarthritis	FGFR1	1.0	
+Osteoarthritis	FGFR4	1.0	
+Abnormality of the pituitary gland	FGF2	1.0	
+Abnormality of the pituitary gland	FGFR1	1.0	
+Abnormality of the pituitary gland	FGFR4	1.0	
+Prostatic Neoplasms	FGF2	1.0	
+Prostatic Neoplasms	FGFR1	1.0	
+Prostatic Neoplasms	FGFR4	1.0	
+B-cell lymphoma	FGF2	1.0	
+B-cell lymphoma	FGFR1	1.0	
+B-cell lymphoma	FGFR4	1.0	
+Adenocarcinoma of lung	FGF2	1.0	
+Adenocarcinoma of lung	FGFR1	1.0	
+Adenocarcinoma of lung	FGFR4	1.0	
+Tumor Progression	FGF2	1.0	
+Tumor Progression	FGFR1	1.0	
+Tumor Progression	FGFR4	1.0	
+Embryonal Carcinoma	FGF2	1.0	
+Embryonal Carcinoma	FGFR1	1.0	
+Embryonal Carcinoma	FGFR4	1.0	
+Pancreatic Carcinoma	FGF2	1.0	
+Pancreatic Carcinoma	FGFR1	1.0	
+Pancreatic Carcinoma	FGFR4	1.0	
+Gastrointestinal stromal tumor	FGF2	1.0	
+Gastrointestinal stromal tumor	FGFR1	1.0	
+Gastrointestinal stromal tumor	FGFR4	1.0	
+Malignant neoplasm of lung	FGF2	1.0	
+Malignant neoplasm of lung	FGFR1	1.0	
+Malignant neoplasm of lung	FGFR4	1.0	
+Solid tumour	FGF2	1.0	
+Solid tumour	FGFR1	1.0	
+Solid tumour	FGFR4	1.0	
+Malignant neoplasm of pancreas	FGF2	1.0	
+Malignant neoplasm of pancreas	FGFR1	1.0	
+Malignant neoplasm of pancreas	FGFR4	1.0	
+Malignant tumor of prostate	FGF2	1.0	
+Malignant tumor of prostate	FGFR1	1.0	
+Malignant tumor of prostate	FGFR4	1.0	
+Thyroid carcinoma	FGF2	1.0	
+Thyroid carcinoma	FGFR1	1.0	
+Thyroid carcinoma	FGFR4	1.0	
+Osteosarcoma	FGF2	1.0	
+Osteosarcoma	FGFR1	1.0	
+Osteosarcoma	FGFR4	1.0	
+Carcinogenesis	FGF2	1.0	
+Carcinogenesis	FGFR1	1.0	
+Carcinogenesis	FGFR4	1.0	
+Leukemogenesis	FGF2	1.0	
+Leukemogenesis	FGFR1	1.0	
+Leukemogenesis	FGFR4	1.0	
+Prostate carcinoma	FGF2	1.0	
+Prostate carcinoma	FGFR1	1.0	
+Prostate carcinoma	FGFR4	1.0	
+Ovarian epithelial cancer	FGF2	1.0	
+Ovarian epithelial cancer	FGFR1	1.0	
+Ovarian epithelial cancer	FGFR4	1.0	
+Breast carcinoma	FGF2	1.0	
+Breast carcinoma	FGFR1	1.0	
+Breast carcinoma	FGFR4	1.0	
+Lung cancer	FGF2	1.0	
+Lung cancer	FGFR1	1.0	
+Lung cancer	FGFR4	1.0	
+Stomach cancer	FGF2	1.0	
+Stomach cancer	FGFR1	1.0	
+Stomach cancer	FGFR4	1.0	
+Bladder carcinoma	FGF2	1.0	
+Bladder carcinoma	FGFR1	1.0	
+Bladder carcinoma	FGFR4	1.0	
+Neuroblastoma	FGF2	1.0	
+Neuroblastoma	FGFR1	1.0	
+Neuroblastoma	FGFR4	1.0	
+BREAST-OVARIAN CANCER, FAMILIAL, SUSCEPTIBILITY TO, 4	FGF2	1.0	
+BREAST-OVARIAN CANCER, FAMILIAL, SUSCEPTIBILITY TO, 4	FGFR1	1.0	
+BREAST-OVARIAN CANCER, FAMILIAL, SUSCEPTIBILITY TO, 4	FGFR4	1.0	
+Squamous cell carcinoma of the head and neck	FGF2	1.0	
+Squamous cell carcinoma of the head and neck	FGFR1	1.0	
+Squamous cell carcinoma of the head and neck	FGFR4	1.0	
+Sarcoma, Ewing	FGF2	1.0	
+Sarcoma, Ewing	FGFR1	1.0	
+Sarcoma, Ewing	FGFR4	1.0	
+B Acute Lymphoblastic Leukemia with t(9;22)(q34;q11.2); BCR-ABL1	FGF2	1.0	
+B Acute Lymphoblastic Leukemia with t(9;22)(q34;q11.2); BCR-ABL1	FGFR1	1.0	
+B Acute Lymphoblastic Leukemia with t(9;22)(q34;q11.2); BCR-ABL1	FGFR4	1.0	
+Colorectal cancer	FGF2	1.0	
+Colorectal cancer	FGFR1	1.0	
+Colorectal cancer	FGFR4	1.0	
+Benign Prostatic Hyperplasia	FGF2	1.0	
+Benign Prostatic Hyperplasia	FGFR1	1.0	
+Benign Prostatic Hyperplasia	FGFR4	1.0	
+Hepatocellular carcinoma	FGF2	1.0	
+Hepatocellular carcinoma	FGFR1	1.0	
+Hepatocellular carcinoma	FGFR4	1.0	
+Secondary malignant neoplasm of pancreas	FGF2	1.0	
+Secondary malignant neoplasm of pancreas	FGFR1	1.0	
+Secondary malignant neoplasm of pancreas	FGFR4	1.0	
+Breast cancer recurrent	FGFR1	1.0	
+Breast cancer recurrent	FGFR4	1.0	
+Osteomalacia	FGF2	1.0	
+Osteomalacia	FGFR1	1.0	
+Cleft palate with cleft lip	FGF2	1.0	
+Cleft palate with cleft lip	FGFR1	1.0	
+Angiogenic Switch	FGF2	1.0	
+Angiogenic Switch	FGFR1	1.0	
+Psychoses, Substance-Induced	FGF2	1.0	
+Psychoses, Substance-Induced	FGFR1	1.0	
+Alveolar rhabdomyosarcoma	FGFR1	1.0	
+Alveolar rhabdomyosarcoma	FGFR4	1.0	
+Marijuana Abuse	FGF2	1.0	
+Marijuana Abuse	FGFR1	1.0	
+Gastric ulcer	FGF2	1.0	
+Gastric ulcer	FGFR1	1.0	
+Immediate hypersensitivity	FGFR1	1.0	
+Immediate hypersensitivity	FGFR4	1.0	
+Goiter, multinodular 1, with or without sertoli-leydig cell tumors	FGF2	1.0	
+Goiter, multinodular 1, with or without sertoli-leydig cell tumors	FGFR1	1.0	
+Impotence	FGF2	1.0	
+Impotence	FGFR1	1.0	
+Anaplastic astrocytoma	FGF2	1.0	
+Anaplastic astrocytoma	FGFR4	1.0	
+Malignant neoplasm of brain and nervous system	FGF2	1.0	
+Malignant neoplasm of brain and nervous system	FGFR1	1.0	
+Myeloproliferative disorder (2)	FGFR1	1.0	
+Myeloproliferative disorder (2)	FGFR4	1.0	
+Bronchial Hyperreactivity	FGFR1	1.0	
+Bronchial Hyperreactivity	FGFR4	1.0	
+Adenoid Cystic Carcinoma	FGF2	1.0	
+Adenoid Cystic Carcinoma	FGFR4	1.0	
+Intraocular melanoma	FGF2	1.0	
+Intraocular melanoma	FGFR1	1.0	
+Maternal diabetes	FGF2	1.0	
+Maternal diabetes	FGFR1	1.0	
+Meningioma, benign, no ICD-O subtype	FGFR1	1.0	
+Meningioma, benign, no ICD-O subtype	FGFR4	1.0	
+Craniosynostoses	FGF2	1.0	
+Craniosynostoses	FGFR1	1.0	
+Chondrosarcoma	FGF2	1.0	
+Chondrosarcoma	FGFR1	1.0	
+Hearing Loss, Mixed Conductive-Sensorineural	FGF2	1.0	
+Hearing Loss, Mixed Conductive-Sensorineural	FGFR1	1.0	
+Anaplasia	FGF2	1.0	
+Anaplasia	FGFR1	1.0	
+Cutaneous malignant melanoma 3	FGF2	1.0	
+Cutaneous malignant melanoma 3	FGFR4	1.0	
+Experimental Organism Basal Cell Carcinoma	FGF2	1.0	
+Experimental Organism Basal Cell Carcinoma	FGFR4	1.0	
+Choriocarcinoma	FGF2	1.0	
+Choriocarcinoma	FGFR1	1.0	
+Pituitary adenoma	FGF2	1.0	
+Pituitary adenoma	FGFR4	1.0	
+Gastric Adenocarcinoma	FGF2	1.0	
+Gastric Adenocarcinoma	FGFR1	1.0	
+Retinal degeneration	FGF2	1.0	
+Retinal degeneration	FGFR1	1.0	
+Adenocarcinoma Of Esophagus	FGF2	1.0	
+Adenocarcinoma Of Esophagus	FGFR4	1.0	
+Leiomyoma	FGF2	1.0	
+Leiomyoma	FGFR1	1.0	
+Pituitary Neoplasms	FGF2	1.0	
+Pituitary Neoplasms	FGFR4	1.0	
+Head and Neck Neoplasms	FGF2	1.0	
+Head and Neck Neoplasms	FGFR4	1.0	
+Cleft Lip	FGF2	1.0	
+Cleft Lip	FGFR1	1.0	
+Disorder of skeletal system	FGFR1	1.0	
+Female hypogonadism	FGFR1	1.0	
+Generalized joint laxity	FGFR1	1.0	
+Oropharynx (excludes nasopharynx)	FGFR4	1.0	
+Hypereosinophilic syndrome	FGFR1	1.0	
+Aplasia/Hypoplasia of the hallux	FGFR1	1.0	
+Broad foot	FGFR1	1.0	
+T-cell acute lymphoblastic leukemias	FGFR1	1.0	
+T-cell acute lymphoblastic leukemias	FGFR4	1.0	
+Oxycephaly	FGFR1	1.0	
+Treacher Collins syndrome	FGFR4	1.0	
+Cardiovascular morbidity	FGF2	1.0	
+Cystic Kidney Diseases	FGF2	1.0	
+Achondroplasia	FGF2	1.0	
+Thrombosis of retinal vein	FGF2	1.0	
+Idiopathic hypereosinophilic syndrome	FGFR1	1.0	
+Septo-optic dysplasia sequence	FGFR1	1.0	
+Cleft eyelid	FGFR1	1.0	
+Prominent supraorbital ridges	FGFR1	1.0	
+Hyposmia	FGFR1	1.0	
+Familial X-linked hypophosphatemic vitamin D refractory rickets	FGF2	1.0	
+Abnormality of subcutaneous fat tissue	FGFR1	1.0	
+Rhabdomyosarcoma alveolar	FGFR1	1.0	
+Rhabdomyosarcoma alveolar	FGFR4	1.0	
+Mesothelioma, malignant	FGF2	1.0	
+Mesothelioma, malignant	FGFR1	1.0	
+Pituitary dependent hypercortisolism	FGFR4	1.0	
+Lobar holoprosencephaly	FGFR1	1.0	
+Urothelial Carcinoma	FGF2	1.0	
+Urothelial Carcinoma	FGFR1	1.0	
+Hypoplasia of the iris	FGFR1	1.0	
+Absent septum pellucidum	FGFR1	1.0	
+Bimanual synkinesia	FGFR1	1.0	
+?Split-hand/foot malformation 1 with sensorineural hearing loss, 220600 (3)	FGFR1	1.0	
+Ischemic stroke	FGF2	1.0	
+Ischemic stroke	FGFR4	1.0	
+Unipolar Depression	FGF2	1.0	
+Unipolar Depression	FGFR1	1.0	
+Intermittent claudication	FGF2	1.0	
+Spinal cord compression	FGF2	1.0	
+2-3 toe cutaneous syndactyly	FGFR1	1.0	
+Abnormality of the phalanges of the hallux	FGFR1	1.0	
+Malignant Glioma	FGF2	1.0	
+Malignant Glioma	FGFR4	1.0	
+Hypoplasia of the uterus	FGFR1	1.0	
+Arteriovenous hemangioma	FGF2	1.0	
+Pleomorphic adenoma of salivary gland	FGF2	1.0	
+Abnormality of the humeroradial joint	FGFR1	1.0	
+Generalized osteoarthritis	FGFR4	1.0	
+Decreased testosterone in males	FGFR1	1.0	
+Cancer of Head and Neck	FGF2	1.0	
+Cancer of Head and Neck	FGFR4	1.0	
+Hemivertebrae	FGFR1	1.0	
+Adenoviral infections	FGFR4	1.0	
+Short middle phalanx of finger	FGFR1	1.0	
+Sclerocornea	FGFR1	1.0	
+Abnormal drinking behavior	FGFR1	1.0	
+Glioblastoma multiforme	FGFR1	1.0	
+Glioblastoma multiforme	FGFR4	1.0	
+Neoplasm of the skin	FGFR1	1.0	
+Neoplasm of the skin	FGFR4	1.0	
+Chronic eosinophilic leukemia	FGFR1	1.0	
+Central core disease	FGFR1	1.0	
+Short metatarsal	FGFR1	1.0	
+Tumor Angiogenesis	FGF2	1.0	
+Tumor Angiogenesis	FGFR1	1.0	
+Dyspareunia	FGFR1	1.0	
+Peptic Ulcer Hemorrhage	FGF2	1.0	
+Invasive Lobular Breast Carcinoma	FGFR1	1.0	
+Broad hallux	FGFR1	1.0	
+Abnormality of the septum pellucidum	FGFR1	1.0	
+Precancerous Conditions	FGF2	1.0	
+Precancerous Conditions	FGFR4	1.0	
+Secondary amenorrhea	FGFR1	1.0	
+Multiple lipomas	FGFR1	1.0	
+Split-Hand/Foot Malformation	FGFR1	1.0	
+Synostosis of carpals/tarsals	FGFR1	1.0	
+Triple Negative Breast Neoplasms	FGF2	1.0	
+Triple Negative Breast Neoplasms	FGFR1	1.0	
+Urinary Bladder Neoplasms	FGF2	1.0	
+Urinary Bladder Neoplasms	FGFR1	1.0	
+Pregnancy in Diabetics	FGF2	1.0	
+Male hypogonadism	FGFR1	1.0	
+Parathyroid carcinoma	FGFR1	1.0	
+Decreased serum testosterone level	FGFR1	1.0	
+Hepatocarcinogenesis	FGFR1	1.0	
+Hepatocarcinogenesis	FGFR4	1.0	
+Retinoblastoma	FGF2	1.0	
+Retinoblastoma	FGFR1	1.0	
+Breast hypoplasia	FGFR1	1.0	
+Diffuse Astrocytoma	FGFR1	1.0	
+Hypoplastic toenails	FGFR1	1.0	
+Aplasia/Hypoplasia of metatarsal bones	FGFR1	1.0	
+Abnormality of the anterior chamber	FGFR1	1.0	
+Non-obstructive azoospermia	FGFR1	1.0	
+Deviation of the hallux	FGFR1	1.0	
+Erectile abnormalities	FGFR1	1.0	
+Prostatic Diseases	FGF2	1.0	
+Plagiocephaly	FGFR1	1.0	
+Broad toe	FGFR1	1.0	
+Thyroid Neoplasms	FGF2	1.0	
+Thyroid Neoplasms	FGFR4	1.0	
+Major depressive disorder	FGF2	1.0	
+Major depressive disorder	FGFR1	1.0	
+Rickets	FGFR1	1.0	
+Corneal neovascularization	FGF2	1.0	
+Abnormal serum testosterone level	FGFR1	1.0	
+Abnormality of the diencephalon	FGFR1	1.0	
+Influenza	FGFR1	1.0	
+Influenza	FGFR4	1.0	
+Acanthosis nigricans	FGFR1	1.0	
+Primary malignant neoplasm of brain	FGF2	1.0	
+Female sexual dysfunction	FGFR1	1.0	
+Camptomelic dysplasia	FGFR1	1.0	
+Aplasia/Hypoplasia of the middle phalanges of the hand	FGFR1	1.0	
+Rhizomelia	FGFR1	1.0	
+Absence of secondary sex characteristics	FGFR1	1.0	
+Abnormality of the humerus	FGFR1	1.0	
+Abnormal female reproductive system physiology	FGFR1	1.0	
+Cholesteatoma	FGF2	1.0	
+Tumor-Associated Vasculature	FGF2	1.0	
+AIDS Dementia Complex	FGF2	1.0	
+Tubulointerstitial nephritis	FGF2	1.0	
+Precursor cell lymphoblastic lymphoma	FGFR1	1.0	
+Pulmonary artery stenosis	FGFR1	1.0	
+Preauricular skin tag	FGFR1	1.0	
+Abnormality of the middle phalanges of the hand	FGFR1	1.0	
+Abnormal circulating androgen level	FGFR1	1.0	
+Anosmia	FGFR1	1.0	
+Panhypopituitarism X-linked	FGFR1	1.0	
+Somatotroph adenoma	FGFR4	1.0	
+Benign neoplasm of the central nervous system	FGFR1	1.0	
+Oropharyngeal disorders	FGFR4	1.0	
+Pituitary corticotropic cell adenoma	FGFR4	1.0	
+Neoplasm of fatty tissue	FGFR1	1.0	
+Prenatal maternal abnormality	FGFR1	1.0	
+Abnormality of the upper arm	FGFR1	1.0	
+Esophageal atresia	FGFR1	1.0	
+Ectopic kidney	FGFR1	1.0	
+Optic nerve hypoplasia	FGFR1	1.0	
+Choroidal Neovascularization	FGF2	1.0	
+Melanocytic nevus of skin	FGF2	1.0	
+Severe combined immunodeficiency due to ADA deficiency	FGF2	1.0	
+Severe combined immunodeficiency due to ADA deficiency	FGFR4	1.0	
+Lipomatous tumor	FGFR1	1.0	
+Broad thumb	FGFR1	1.0	
+Squamous cell carcinoma of mouth	FGFR4	1.0	
+Sparse body hair	FGFR1	1.0	
+Abnormality of the sense of smell	FGFR1	1.0	
+Aplasia/hypoplasia of the uterus	FGFR1	1.0	
+Xenograft Model	FGF2	1.0	
+Xenograft Model	FGFR1	1.0	
+Exostoses	FGF2	1.0	
+Osteopetrosis autosomal recessive 4	FGFR4	1.0	
+Polydipsia	FGFR1	1.0	
+Hypotelorism	FGFR1	1.0	
+Acute Cerebrovascular Accidents	FGF2	1.0	
+{Unipolar depression, susceptibility to}, 608516 (3)	FGF2	1.0	
+{Unipolar depression, susceptibility to}, 608516 (3)	FGFR4	1.0	
+Split hand	FGFR1	1.0	
+stage, non-small cell lung cancer	FGFR1	1.0	
+Pancreatic Ductal Adenocarcinoma	FGFR1	1.0	
+Pancreatic Ductal Adenocarcinoma	FGFR4	1.0	
+Facial dysmorphism, lens dislocation, anterior segment abnormalities, and spontaneous filtering blebs	FGFR1	1.0	
+Absent toe	FGFR1	1.0	
+Cleft Palate	FGF2	1.0	
+Cleft Palate	FGFR1	1.0	
+Scleroderma	FGF2	1.0	
+Scleroderma	FGFR4	1.0	
+Prenatal Exposure Delayed Effects	FGF2	1.0	
+Deviation of toes	FGFR1	1.0	
+Aplasia/Hypoplasia of the breasts	FGFR1	1.0	
+Leukemia, Large Granular Lymphocytic	FGF2	1.0	
+Diabetes insipidus	FGFR1	1.0	
+Arnold-Chiari malformation	FGFR1	1.0	
+Multiple endocrine neoplasia, type 4	FGF2	1.0	
+Skin tags	FGFR1	1.0	
+Endometriosis of uterus	FGF2	1.0	
+Photoreceptor degeneration	FGF2	1.0	
+Secondary malignant neoplasm of lung	FGF2	1.0	
+Secondary malignant neoplasm of lung	FGFR4	1.0	
+Human papilloma virus infection	FGFR1	1.0	
+Dysmorphic features	FGFR1	1.0	
+Broad phalanges of the hand	FGFR1	1.0	
+Gastrointestinal atresia	FGFR1	1.0	
+Lymphocytic Choriomeningitis	FGFR1	1.0	
+Oral Submucous Fibrosis	FGF2	1.0	
+Carcinoma, Lobular	FGFR1	1.0	
+X-linked agammaglobulinemia	FGFR4	1.0	
+Cortical dysplasia, complex, with other brain malformations 3	FGFR1	1.0	
+Broad finger	FGFR1	1.0	
+Small cell lung cancer	FGF2	1.0	
+Small cell lung cancer	FGFR1	1.0	
+Scoliosis	FGF2	1.0	
+Scoliosis	FGFR1	1.0	
+Osteoporosis	FGF2	1.0	
+Osteoporosis	FGFR1	1.0	
+Hypogonadism with anosmia	FGFR1	1.0	
+Hypoplasia of the ovary	FGFR1	1.0	
+Ovarian adenocarcinoma	FGF2	1.0	
+Pancreatic intraepithelial neoplasia	FGFR4	1.0	
+Aplasia/Hypoplasia of the ovary	FGFR1	1.0	
+Aplasia/Hypoplasia of the optic nerve	FGFR1	1.0	
+Failure to thrive in infancy	FGFR1	1.0	
+Dental crowding	FGFR1	1.0	
+Abnormality of the tarsal bones	FGFR1	1.0	
+Diaphragmatic hernia	FGF2	1.0	
+gliosarcoma	FGFR1	1.0	
+Synophrys	FGFR1	1.0	
+Omphalocele	FGFR1	1.0	
+Brain neoplasm	FGF2	1.0	
+Brain neoplasm	FGFR1	1.0	
+Ameloblastoma	FGFR1	1.0	
+Lipoma	FGFR1	1.0	
+Proportionate short stature	FGFR1	1.0	
+Proliferative diabetic retinopathy	FGF2	1.0	
+Fibroadenoma of the breast	FGFR4	1.0	
+Aplastic/hypoplastic toenail	FGFR1	1.0	
+Limb ischemia	FGF2	1.0	
+Broad phalanx	FGFR1	1.0	
+Carcinoma, Large Cell	FGFR1	1.0	
+Facial hypertrichosis	FGFR1	1.0	
+Abnormality of periauricular region	FGFR1	1.0	
+Wide intermamillary distance	FGFR1	1.0	
+Abnormal intermamillary distance	FGFR1	1.0	
+Abnormality of the meninges	FGFR1	1.0	
+Abnormality of the sclera	FGFR1	1.0	
+Well Differentiated Pancreatic Endocrine Tumor	FGFR4	1.0	
+Aplasia/Hypoplasia of the radius	FGFR1	1.0	
+Abnormality of the pulmonary artery	FGFR1	1.0	
+Contractures involving the joints of the feet	FGF2	1.0	
+Abnormality of color vision	FGFR1	1.0	
+Cone dysfunction syndrome	FGFR1	1.0	
+Ectrodactyly	FGFR1	1.0	
+Abnormal consumption behavior	FGFR1	1.0	
+Endometrial carcinoma	FGF2	1.0	
+Endometrial carcinoma	FGFR4	1.0	
+Endometriosis	FGF2	1.0	
+Endometriosis	FGFR1	1.0	
+Pathologic Neovascularization	FGF2	1.0	
+Abnormality of the supraorbital ridges	FGFR1	1.0	
+Tracheoesophageal fistula	FGFR1	1.0	
+Pleural Effusion, Malignant	FGF2	1.0	
+Broad long bones	FGFR1	1.0	
+Paragangliomas 1	FGFR1	1.0	
+Myeloid neoplasm with beta-type platelet-derived growth factor receptor gene rearrangement	FGF2	1.0	
+Ichthyosis bullosa of Siemens	FGFR4	1.0	
+Brain Infarction	FGF2	1.0	
+Short toe	FGFR1	1.0	
+Sciatic Neuropathy	FGFR1	1.0	
+Williams syndrome	FGFR4	1.0	
+Abnormality of the clavicle	FGFR1	1.0	
+Leukemia, Myeloid, Chronic-Phase	FGFR4	1.0	
+Abnormality of the scapula	FGFR1	1.0	
+Choanal atresia	FGFR1	1.0	
+Cephalocele	FGFR1	1.0	
+Werner syndrome	FGFR1	1.0	
+Benign melanocytic nevus	FGF2	1.0	
+Rash and Dermatitis Adverse Event Associated with Chemoradiation	FGF2	1.0	
+Short palm	FGFR1	1.0	
+Chondrodysplasia with platyspondyly, distinctive brachydactyly, hydrocephaly, and microphthalmia	FGFR1	1.0	
+Abnormality of the phalanges of the toes	FGFR1	1.0	
+Virus Diseases	FGF2	1.0	
+Virus Diseases	FGFR1	1.0	
+Chromosome Aberrations	FGFR1	1.0	
+Multiple Endocrine Neoplasia Type 1	FGF2	1.0	
+Small nail	FGFR1	1.0	
+Dementia, Vascular	FGFR1	1.0	
+Demyelinating Diseases	FGFR1	1.0	
+Gastrointestinal Diseases	FGF2	1.0	
+Renal ischaemia	FGFR1	1.0	
+Abnormality of the choanae	FGFR1	1.0	
+Incomplete penetrance	FGFR1	1.0	
+Widened posterior fossa	FGFR1	1.0	
+Abnormality of the bronchi	FGFR1	1.0	
+Abnormality of the metatarsal bones	FGFR1	1.0	
+Alveolar cell carcinoma	FGFR1	1.0	
+Gliosis	FGF2	1.0	
+Aplasia/Hypoplasia of the thumb	FGFR1	1.0	
+Embryonal rhabdomyosarcoma	FGFR4	1.0	
+Microdontia	FGFR1	1.0	
+Aplasia/Hypoplasia of the iris	FGFR1	1.0	
+Diabetic Angiopathies	FGF2	1.0	
+Pilocytic Astrocytoma	FGFR1	1.0	
+Dilated fourth ventricle	FGFR1	1.0	
+Abnormality of the fourth ventricle	FGFR1	1.0	
+Vestibular Schwannoma	FGF2	1.0	
+Short metacarpal	FGFR1	1.0	
+Hypoplasia of the maxilla	FGFR1	1.0	
+X-linked ichthyosis with steryl-sulfatase deficiency	FGFR1	1.0	
+Sporadic	FGFR1	1.0	
+Holoprosencephaly sequence	FGFR1	1.0	
+Cerebellar cyst	FGFR1	1.0	
+Arteriovenous malformation	FGF2	1.0	
+Paraplegia	FGFR1	1.0	
+Prolactinoma, familial	FGF2	1.0	
+Abnormality of the posterior cranial fossa	FGFR1	1.0	
+Dandy-Walker like malformation with atrioventricular septal defect	FGFR1	1.0	
+Renal agenesis	FGFR1	1.0	
+Interstitial fibrosis	FGF2	1.0	
+Synostosis involving bones of the feet	FGFR1	1.0	
+Vertebral segmentation defect	FGFR1	1.0	
+Short foot	FGFR1	1.0	
+Aplasia/Hypoplasia of toe	FGFR1	1.0	
+Esophageal Squamous Cell Carcinoma	FGF2	1.0	
+Esophageal Squamous Cell Carcinoma	FGFR1	1.0	
+Telecanthus	FGFR1	1.0	
+Abnormality of the toenails	FGFR1	1.0	
+Abnormality of the maxilla	FGFR1	1.0	
+Melanoma, B16	FGF2	1.0	
+Myelofibrosis	FGF2	1.0	
+Respiratory distress	FGFR1	1.0	
+Abnormal localization of kidney	FGFR1	1.0	
+Abnormality of the nasopharynx	FGFR1	1.0	
+Acute pancreatitis	FGFR1	1.0	
+Decreased beta-glucocerebrosidase protein and activity	FGFR1	1.0	
+Endometrial adenocarcinoma	FGF2	1.0	
+Abnormality of the hallux	FGFR1	1.0	
+Iris coloboma	FGFR1	1.0	
+Abnormal spermatogenesis	FGFR1	1.0	
+Abnormality of the skull base	FGFR1	1.0	
+Liver Cirrhosis, Biliary	FGF2	1.0	
+Liver Cirrhosis, Biliary	FGFR4	1.0	
+Gynecomastia	FGFR1	1.0	
+Disproportionate short stature	FGFR1	1.0	
+Abnormality of the conjunctiva	FGFR1	1.0	
+Anterior hypopituitarism	FGFR1	1.0	
+Middle Cerebral Artery Occlusion	FGF2	1.0	
+Abnormality of thumb phalanx	FGFR1	1.0	
+Teratoma	FGF2	1.0	
+Protruding ear	FGFR1	1.0	
+Ovarian Neoplasms	FGF2	1.0	
+Ovarian Neoplasms	FGFR4	1.0	
+Delayed menarche	FGFR1	1.0	
+Severe Myopia	FGF2	1.0	
+Mandibular prognathia	FGFR1	1.0	
+Short stature, rhizomelic, with microcephaly, micrognathia, and developmental delay	FGF2	1.0	
+Short stature, rhizomelic, with microcephaly, micrognathia, and developmental delay	FGFR1	1.0	
+Retinal detachment	FGFR1	1.0	
+Dry skin	FGFR1	1.0	
+Idiopathic thrombocytopenic purpura	FGF2	1.0	
+Triangular shaped phalanges of the hand	FGFR1	1.0	
+Paraplegia/paraparesis	FGFR1	1.0	
+Recurrent fractures	FGFR1	1.0	
+Decreased testicular size	FGFR1	1.0	
+Central nervous system cyst	FGFR1	1.0	
+Intracranial cystic lesion	FGFR1	1.0	
+Adenomas, multiple colorectal, 608456 (3)	FGF2	1.0	
+Adenomas, multiple colorectal, 608456 (3)	FGFR4	1.0	
+Hay fever	FGFR1	1.0	
+Hypercalcemia, infantile, 2	FGFR4	1.0	
+Hypertrichosis	FGFR1	1.0	
+Abnormality of the trachea	FGFR1	1.0	
+Chronic myelomonocytic leukemia	FGFR1	1.0	
+Abnormality of the small intestine	FGFR1	1.0	
+Intracranial Aneurysm	FGF2	1.0	
+Functional abnormality of male internal genitalia	FGFR1	1.0	
+Cocaine-Related Disorders	FGF2	1.0	
+Irregular hyperpigmentation	FGFR1	1.0	
+Abnormal metacarpal morphology	FGFR1	1.0	
+Precocious puberty	FGFR1	1.0	
+High forehead	FGFR1	1.0	
+Primary Effusion Lymphoma	FGF2	1.0	
+Peripheral T-Cell Lymphoma	FGFR4	1.0	
+Abnormality of dental eruption	FGFR1	1.0	
+Pancytopenia	FGF2	1.0	
+Abnormal nipple morphology	FGFR1	1.0	
+Thrombophilia	FGFR4	1.0	
+Cerebellar vermis hypoplasia	FGFR1	1.0	
+Abnormal male reproductive system physiology	FGFR1	1.0	
+Hypodontia	FGFR1	1.0	
+Cerebellar hypoplasia	FGFR1	1.0	
+Aplasia/Hypoplasia of the nails	FGFR1	1.0	
+Arteriosclerosis	FGF2	1.0	
+Arteriosclerosis	FGFR1	1.0	
+Toe syndactyly	FGFR1	1.0	
+Dilatation of the renal pelvis	FGFR1	1.0	
+Abnormality of the pharynx	FGFR1	1.0	
+Hypopituitarism	FGFR1	1.0	
+Abnormality of the renal pelvis	FGFR1	1.0	
+Short phalanx of finger	FGFR1	1.0	
+Intraepithelial Neoplasia	FGFR4	1.0	
+Metastatic malignant neoplasm to brain	FGFR1	1.0	
+Aplasia/Hypoplasia of the testes	FGFR1	1.0	
+Abnormality of the pulmonary vasculature	FGFR1	1.0	
+Differentiated Thyroid Gland Carcinoma	FGF2	1.0	
+Midface hypoplasia, hearing impairment, elliptocytosis, and nephrocalcinosis	FGFR1	1.0	
+Anaplastic Oligodendroglioma	FGF2	1.0	
+Basal cell carcinoma	FGFR4	1.0	
+Pleural effusion	FGF2	1.0	
+Synostosis of joints	FGFR1	1.0	
+Abnormality of the cheek	FGFR1	1.0	
+Neoplasm of the nervous system	FGFR1	1.0	
+Mammary Tumorigenesis	FGFR1	1.0	
+Disorder characterized by eosinophilia	FGFR1	1.0	
+Brachycephaly	FGFR1	1.0	
+Hematological Disease	FGFR1	1.0	
+Hyperplasia	FGF2	1.0	
+Mycosis Fungoides	FGF2	1.0	
+Eosinophilic disorder	FGFR1	1.0	
+Monoclonal Gammopathy of Undetermined Significance	FGF2	1.0	
+Neurodegeneration with brain iron accumulation	FGF2	1.0	
+Chronic liver disease	FGFR4	1.0	
+Abnormality of adipose tissue	FGFR1	1.0	
+Neoplasm of the central nervous system	FGFR1	1.0	
+Short long bone	FGFR1	1.0	
+Abnormality of the testis size	FGFR1	1.0	
+Lung Neoplasms	FGFR1	1.0	
+Lung Neoplasms	FGFR4	1.0	
+Arthropathy	FGF2	1.0	
+Aplasia/Hypoplasia of the cerebellar vermis	FGFR1	1.0	
+Abnormality of the metacarpal bones	FGFR1	1.0	
+Colorectal Neoplasms	FGF2	1.0	
+Colorectal Neoplasms	FGFR1	1.0	
+Barrett Esophagus	FGF2	1.0	
+Hypohidrosis	FGFR1	1.0	
+Essential thrombocythemia	FGF2	1.0	
+invasive cancer	FGF2	1.0	
+Abnormality of the elbow	FGFR1	1.0	
+Chronic Lymphocytic Leukemia	FGF2	1.0	
+Chronic Lymphocytic Leukemia	FGFR4	1.0	
+Amenorrhea	FGFR1	1.0	
+{Aneurysm, familial abdominal 3} (2)	FGF2	1.0	
+Peripheral Arterial Disease	FGF2	1.0	
+Abnormality of the radius	FGFR1	1.0	
+Ichthyosis, congenital, autosomal recessive 12	FGFR1	1.0	
+Finger syndactyly	FGFR1	1.0	
+Coloboma, osteopetrosis, microphthalmia, macrocephaly, albinism, and deafness	FGFR1	1.0	
+Pes cavus	FGFR1	1.0	
+Aplasia/Hypoplasia of the phalanges of the hand	FGFR1	1.0	
+Abnormality of the cerebellar vermis	FGFR1	1.0	
+Hemangioma	FGF2	1.0	
+Hydronephrosis	FGFR1	1.0	
+Primitive neuroectodermal tumor	FGFR4	1.0	
+Abnormal uterus morphology	FGFR1	1.0	
+Adrenocortical carcinoma	FGF2	1.0	
+VITILIGO-ASSOCIATED MULTIPLE AUTOIMMUNE DISEASE SUSCEPTIBILITY 1 (finding)	FGF2	1.0	
+Adenocarcinoma of prostate	FGFR1	1.0	
+Decreased fertility	FGFR1	1.0	
+Irritable bowel syndrome with diarrhea	FGFR4	1.0	
+Acquired Immunodeficiency Syndrome	FGF2	1.0	
+Abnormality of forearm bone	FGFR1	1.0	
+Abnormality of the menstrual cycle	FGFR1	1.0	
+Pes planus	FGFR1	1.0	
+Short finger	FGFR1	1.0	
+Malar flattening	FGFR1	1.0	
+Abnormality of the forearm	FGFR1	1.0	
+Hemiplegia/hemiparesis	FGFR1	1.0	
+Obstructive sleep apnea	FGFR1	1.0	
+Bone fragility with contractures, arterial rupture, and deafness	FGFR1	1.0	
+Hypoplasia of the corpus callosum	FGFR1	1.0	
+Hematopoietic Neoplasms	FGF2	1.0	
+Abnormality of the chin	FGFR1	1.0	
+Abnormality of malar bones	FGFR1	1.0	
+Atherosclerosis	FGF2	1.0	
+Atherosclerosis	FGFR1	1.0	
+Tumor necrosis	FGFR1	1.0	
+Bowing of the long bones	FGFR1	1.0	
+Proptosis	FGFR1	1.0	
+Abnormality of the ovary	FGFR1	1.0	
+Osteopenia	FGFR1	1.0	
+Reduced number of teeth	FGFR1	1.0	
+Inguinal hernia	FGFR1	1.0	
+Anomaly of the limb diaphyses	FGFR1	1.0	
+Abnormality of the cerebral cortex	FGFR1	1.0	
+Nevus	FGF2	1.0	
+Allergic rhinitis	FGFR1	1.0	
+Eosinophilia	FGFR1	1.0	
+Hyperpigmentation of the skin	FGFR1	1.0	
+Thyroid cancer, follicular	FGF2	1.0	
+Abnormal fear/anxiety-related behavior	FGFR1	1.0	
+Keloid	FGF2	1.0	
+Nephritis	FGF2	1.0	
+Primary Myelofibrosis	FGF2	1.0	
+Low-set, posteriorly rotated ears	FGFR1	1.0	
+Menstrual irregularities	FGFR1	1.0	
+Camptodactyly, tall stature, and hearing loss syndrome	FGFR1	1.0	
+Short nose	FGFR1	1.0	
+Seborheic dermatitis	FGFR1	1.0	
+Abnormality of the anterior pituitary	FGFR1	1.0	
+Secondary hyperparathyroidism	FGFR1	1.0	
+Corneal opacity	FGFR1	1.0	
+Hypogonadotropic hypogonadism 7 with or without anosmia	FGFR1	1.0	
+Flexion contracture of digit	FGFR1	1.0	
+Kaposi's sarcoma	FGF2	1.0	
+Melanocytic nevus	FGF2	1.0	
+Renal hypoplasia/aplasia	FGFR1	1.0	
+Delayed puberty	FGFR1	1.0	
+Chronic Kidney Insufficiency	FGFR1	1.0	
+Abnormality of the zygomatic bone	FGFR1	1.0	
+Abnormal number of teeth	FGFR1	1.0	
+Misalignment of teeth	FGFR1	1.0	
+Alopecia	FGFR1	1.0	
+Fibrosis	FGF2	1.0	
+Well Differentiated Oligodendroglioma	FGF2	1.0	
+Squamous cell carcinoma of lung	FGFR1	1.0	
+Abnormal diaphysis morphology	FGFR1	1.0	
+Neoplasms, Second Primary	FGF2	1.0	
+Fetal Membranes, Premature Rupture	FGF2	1.0	
+Chorioamnionitis	FGF2	1.0	
+Acute Erythroblastic Leukemia	FGFR1	1.0	
+Long philtrum	FGFR1	1.0	
+Abnormality of cranial sutures	FGFR1	1.0	
+Aplasia/Hypoplasia of the cerebellum	FGFR1	1.0	
+Abnormality of globe size	FGFR1	1.0	
+Autistic behavior	FGFR1	1.0	
+Ovarian Failure, Premature	FGFR1	1.0	
+Renal cell carcinoma, nonpapillary	FGF2	1.0	
+Renal cell carcinoma, nonpapillary	FGFR4	1.0	
+Allergic asthma	FGFR1	1.0	
+Aplasia/Hypoplasia of fingers	FGFR1	1.0	
+Craniofacial malformations, asymmetric, with polysyndactyly and abnormal skin and gut development	FGFR1	1.0	
+Premature Obstetric Labor	FGF2	1.0	
+Arthritis, Psoriatic	FGF2	1.0	
+Transient ischemic attack	FGFR1	1.0	
+Abnormality of the tracheobronchial system	FGFR1	1.0	
+Skeletal dysplasia	FGFR1	1.0	
+Abnormal morphology of bones of the upper limbs	FGFR1	1.0	
+Asthma	FGF2	1.0	
+Asthma	FGFR1	1.0	
+Dyspnea	FGFR1	1.0	
+Allergic disposition	FGFR1	1.0	
+Abnormal hand morphology	FGFR1	1.0	
+Sleep disturbance	FGFR1	1.0	
+Cervical intraepithelial neoplasia (Cervical dysplasia)	FGF2	1.0	
+Abnormality of the atrial septum	FGFR1	1.0	
+Depression	FGFR1	1.0	
+Abnormality of the thumb	FGFR1	1.0	
+Abnormal morphology of bones of the lower limbs	FGFR1	1.0	
+Anxiety	FGFR1	1.0	
+Abnormality of cardiac atrium	FGFR1	1.0	
+Endothelial dysfunction	FGF2	1.0	
+Sparse hair	FGFR1	1.0	
+Abnormal form of the vertebral bodies	FGFR1	1.0	
+Displacement of the external urethral meatus	FGFR1	1.0	
+Cerebellar malformation	FGFR1	1.0	
+Short neck	FGFR1	1.0	
+Skin cancer	FGFR4	1.0	
+Abnormality of hair density	FGFR1	1.0	
+Seizures, Febrile	FGF2	1.0	
+Seizures, Febrile	FGFR1	1.0	
+Neoplasm of the oral cavity	FGFR4	1.0	
+Primary pulmonary hypertension	FGF2	1.0	
+Constipation	FGFR1	1.0	
+Disease Progression	FGF2	1.0	
+Hereditary hearing loss and deafness	FGFR1	1.0	
+Abnormal shape of the frontal region	FGFR1	1.0	
+Frontal bossing	FGFR1	1.0	
+Delayed skeletal maturation	FGFR1	1.0	
+Downslanted palpebral fissures	FGFR1	1.0	
+Nasal polyposis	FGF2	1.0	
+Ovarian Diseases	FGFR4	1.0	
+Gastritis	FGF2	1.0	
+Dermal atrophy	FGF2	1.0	
+Abnormal breast morphology	FGFR1	1.0	
+Abnormality of the voice	FGFR1	1.0	
+Pleural Mesothelioma	FGFR1	1.0	
+Abnormality of the palm	FGFR1	1.0	
+Vitiligo	FGF2	1.0	
+Abnormality of the breast	FGFR1	1.0	
+Abnormality of the cervical spine	FGFR1	1.0	
+Limitation of joint mobility	FGFR1	1.0	
+Delayed speech and language development	FGFR1	1.0	
+Posteriorly rotated ears	FGFR1	1.0	
+Joint hypermobility	FGFR1	1.0	
+Heterogeneous	FGFR1	1.0	
+Brachydactyly, type a1, d	FGFR1	1.0	
+Abnormality of the hypothalamus-pituitary axis	FGFR1	1.0	
+Fibrosarcoma	FGF2	1.0	
+Recurrent bacterial infection	FGF2	1.0	
+Adenoma of large intestine	FGF2	1.0	
+Microphthalmia syndromic 6	FGFR1	1.0	
+Azoospermia	FGFR1	1.0	
+Abnormality of fontanelles	FGFR1	1.0	
+Alzheimer Disease	FGF2	1.0	
+Alzheimer Disease	FGFR1	1.0	
+Abnormality of circulating hormone level	FGFR1	1.0	
+Abnormality of the urethra	FGFR1	1.0	
+Nephrotic syndrome, type 5, with or without ocular abnormalities	FGF2	1.0	
+Anaplastic large cell lymphoma, ALK negative	FGFR4	1.0	
+RETINAL DYSTROPHY WITH OR WITHOUT MACULAR STAPHYLOMA	FGF2	1.0	
+Malignant mesothelioma	FGF2	1.0	
+Gastrointestinal Neoplasms	FGFR4	1.0	
+Ewing's sarcoma	FGF2	1.0	
+Abnormality of skeletal maturation	FGFR1	1.0	
+Colon cancer	FGF2	1.0	
+Colon cancer	FGFR4	1.0	
+Diabetic Retinopathy	FGF2	1.0	
+Depressed nasal bridge	FGFR1	1.0	
+Neoplasm Recurrence, Local	FGF2	1.0	
+Cardiomegaly	FGF2	1.0	
+Hypospadias	FGFR1	1.0	
+Clinodactyly	FGFR1	1.0	
+Hernia of the abdominal wall	FGFR1	1.0	
+polyps	FGFR4	1.0	
+Weakness due to upper motor neuron dysfunction	FGFR1	1.0	
+Hydrocephalus	FGFR1	1.0	
+Syndactyly type 9	FGFR1	1.0	
+Abdominal wall defect	FGFR1	1.0	
+Hypoplasia of penis	FGFR1	1.0	
+Ischaemic cerebral infarction	FGF2	1.0	
+Abnormality of the nail	FGFR1	1.0	
+Rheumatoid arthritis	FGF2	1.0	
+Rheumatoid arthritis	FGFR1	1.0	
+Carcinoma of colon	FGF2	1.0	
+Carcinoma of colon	FGFR4	1.0	
+Abnormality of the vertebrae	FGFR1	1.0	
+Agenesis of corpus callosum	FGFR1	1.0	
+T-cell lymphoma	FGFR1	1.0	
+Abnormal CSF metabolite level	FGFR1	1.0	
+Abnormality of the iris	FGFR1	1.0	
+Reperfusion Injury	FGF2	1.0	
+Abnormality of upper limb bone	FGFR1	1.0	
+Abnormality of cardiac ventricle	FGFR1	1.0	
+Epidermal thickening	FGFR1	1.0	
+Abnormality of the philtrum	FGFR1	1.0	
+Abnormality of the upper respiratory tract	FGFR1	1.0	
+Symptomatic human immunodeficiency virus infection	FGF2	1.0	
+Symptomatic human immunodeficiency virus infection	FGFR4	1.0	
+Pulmonary arterial hypertension	FGF2	1.0	
+Abnormality of upper limb joint	FGFR1	1.0	
+Abnormality of the midface	FGFR1	1.0	
+Huntington's chorea	FGF2	1.0	
+Recurrent tumor	FGF2	1.0	
+Cancer Cell Growth	FGFR4	1.0	
+Short digit	FGFR1	1.0	
+Wide nasal bridge	FGFR1	1.0	
+Mood Disorders	FGF2	1.0	
+Abnormal morphology of the great vessels	FGFR1	1.0	
+Abnormality of the abdominal wall	FGFR1	1.0	
+Anteverted nares	FGFR1	1.0	
+Abnormality of the eyebrow	FGFR1	1.0	
+Uterine leiomyoma	FGF2	1.0	
+Metastatic melanoma	FGF2	1.0	
+Glioma	FGF2	1.0	
+Glioma	FGFR1	1.0	
+Ventriculomegaly	FGFR1	1.0	
+Dysarthria	FGFR1	1.0	
+Hypogonadism, diabetes mellitus, alopecia, mental retardation and electrocardiographic abnormalities	FGFR1	1.0	
+Abnormality of lower limb joint	FGFR1	1.0	
+Abnormality of the nares	FGFR1	1.0	
+Thickened skin	FGFR1	1.0	
+Reduced bone mineral density	FGFR1	1.0	
+Idiopathic Pulmonary Fibrosis	FGF2	1.0	
+Carcinoma breast stage IV	FGFR1	1.0	
+Chronic kidney disease	FGFR1	1.0	
+Aplasia/Hypoplasia of the corpus callosum	FGFR1	1.0	
+Abnormality of skin pigmentation	FGFR1	1.0	
+High palate	FGFR1	1.0	
+Slanting of the palpebral fissure	FGFR1	1.0	
+Tremor, hereditary essential, 5	FGFR1	1.0	
+Hypoplastic male external genitalia	FGFR1	1.0	
+Hernia	FGFR1	1.0	
+Abnormality of the corpus callosum	FGFR1	1.0	
+Abnormality of the hard palate	FGFR1	1.0	
+Epiphyseal dysplasia, multiple, with myopia and conductive deafness	FGF2	1.0	
+External genital hypoplasia	FGFR1	1.0	
+Fatigue	FGFR1	1.0	
+Ventricular septal defect 2	FGFR1	1.0	
+Preeclampsia/eclampsia 1	FGF2	1.0	
+Abnormality of the uvea	FGFR1	1.0	
+Premature Birth	FGF2	1.0	
+Diarrhea 8, secretory sodium, congenital	FGFR4	1.0	
+Intrauterine growth retardation	FGFR1	1.0	
+Abnormality of the neck	FGFR1	1.0	
+Heart Diseases	FGF2	1.0	
+Experimental Autoimmune Encephalomyelitis	FGF2	1.0	

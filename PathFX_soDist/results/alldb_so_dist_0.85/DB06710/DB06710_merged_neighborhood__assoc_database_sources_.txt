@@ -1,0 +1,88 @@
+Gene	CUI	Source Databases	
+AR	C0014130	Disorder of endocrine system	DisGeNet	
+CYP19A1	C0014130	Disorder of endocrine system	DisGeNet	
+CYP2B6	C0014130	Disorder of endocrine system	DisGeNet	
+ESR1	C0014130	Disorder of endocrine system	DisGeNet	
+AR	C1291314	21-hydroxylase deficiency	DisGeNet	
+CYP2B6	C1291314	21-hydroxylase deficiency	DisGeNet	
+CYP3A4	C1291314	21-hydroxylase deficiency	DisGeNet	
+AR	C0242787	Malignant neoplasm of male breast	DisGeNet	
+CYP19A1	C0242787	Malignant neoplasm of male breast	DisGeNet	
+ESR1	C0242787	Malignant neoplasm of male breast	DisGeNet	
+AR	C0042755	Virilism	DisGeNet	
+CYP19A1	C0042755	Virilism	DisGeNet	
+CYP2B6	C0042755	Virilism	DisGeNet	
+AR	C0235653	Malignant neoplasm of female breast	DisGeNet	
+CYP19A1	C0235653	Malignant neoplasm of female breast	DisGeNet	
+ESR1	C0235653	Malignant neoplasm of female breast	DisGeNet	
+AR	C0007104	Female Breast Carcinoma	DisGeNet	
+CYP19A1	C0007104	Female Breast Carcinoma	DisGeNet	
+ESR1	C0007104	Female Breast Carcinoma	DisGeNet	
+AR	C0014173	Endometrial Hyperplasia	DisGeNet	
+CYP2B6	C0014173	Endometrial Hyperplasia	DisGeNet	
+ESR1	C0014173	Endometrial Hyperplasia	DisGeNet	
+AR	C0238033	Carcinoma of Male Breast	DisGeNet	
+CYP19A1	C0238033	Carcinoma of Male Breast	DisGeNet	
+ESR1	C0238033	Carcinoma of Male Breast	DisGeNet	
+AR	C0085215	Ovarian Failure, Premature	DisGeNet	
+CYP19A1	C0085215	Ovarian Failure, Premature	DisGeNet	
+CYP2B6	C0085215	Ovarian Failure, Premature	DisGeNet	
+CYP3A4	C0085215	Ovarian Failure, Premature	DisGeNet	
+ESR1	C0085215	Ovarian Failure, Premature	DisGeNet	
+AR	C0086132	Depressive Symptoms	DisGeNet	
+CYP19A1	C0086132	Depressive Symptoms	DisGeNet	
+CYP3A4	C0086132	Depressive Symptoms	DisGeNet	
+ESR1	C0086132	Depressive Symptoms	DisGeNet	
+AR	C0025322	Premature ovarian failure	DisGeNet	
+CYP19A1	C0025322	Premature ovarian failure	DisGeNet	
+CYP2B6	C0025322	Premature ovarian failure	DisGeNet	
+ESR1	C0025322	Premature ovarian failure	DisGeNet	
+AR	C0342492	Adrenal hyperplasia	DisGeNet	
+CYP2B6	C0342492	Adrenal hyperplasia	DisGeNet	
+CYP3A4	C0342492	Adrenal hyperplasia	DisGeNet	
+AR	C0016034	Breast Fibrocystic Disease	DisGeNet	
+CYP19A1	C0016034	Breast Fibrocystic Disease	DisGeNet	
+ESR1	C0016034	Breast Fibrocystic Disease	DisGeNet	
+AR	C0027658	Neoplasms, Germ Cell and Embryonal	DisGeNet	
+CYP2B6	C0027658	Neoplasms, Germ Cell and Embryonal	DisGeNet	
+CYP3A4	C0027658	Neoplasms, Germ Cell and Embryonal	DisGeNet	
+CYP2B6	C0206726	gliosarcoma	DisGeNet	
+CYP3A4	C0206726	gliosarcoma	DisGeNet	
+ESR1	C0206726	gliosarcoma	DisGeNet	
+AR	C0206081	 Hyperandrogenism, nonclassic type, due to 21-hydroxylase deficiency, 201910 (3)	DisGeNet	
+CYP19A1	C0206081	 Hyperandrogenism, nonclassic type, due to 21-hydroxylase deficiency, 201910 (3)	DisGeNet	
+CYP2B6	C0206081	 Hyperandrogenism, nonclassic type, due to 21-hydroxylase deficiency, 201910 (3)	DisGeNet	
+AR	C1268717	Mammographic breast density	DisGeNet	
+CYP19A1	C1268717	Mammographic breast density	DisGeNet	
+ESR1	C1268717	Mammographic breast density	DisGeNet	
+AR	C0812435	Chromosome 11p deletion syndrome	DisGeNet	
+SLC22A8	C0812435	Chromosome 11p deletion syndrome	DisGeNet	
+AR	C0021361	Female infertility	DisGeNet	
+CYP19A1	C0021361	Female infertility	DisGeNet,HumPhenOnt	
+ESR1	C0021361	Female infertility	DisGeNet	
+ALB	C0346402	Malignant neoplasm of adrenal cortex	DisGeNet	
+ESR1	C0346402	Malignant neoplasm of adrenal cortex	DisGeNet	
+CYP19A1	C0269102	Endometrioma	DisGeNet	
+CYP2B6	C0269102	Endometrioma	DisGeNet	
+ESR1	C0269102	Endometrioma	DisGeNet	
+AR	C0042138	Uterine neoplasm	DisGeNet	
+CYP19A1	C0042138	Uterine neoplasm	DisGeNet	
+ESR1	C0042138	Uterine neoplasm	DisGeNet	
+CYP19A1	C0005694	Bladder neck obstruction	DisGeNet	
+ESR1	C0005694	Bladder neck obstruction	DisGeNet	
+AR	C0000809	Recurrent abortion	DisGeNet	
+CYP19A1	C0000809	Recurrent abortion	DisGeNet	
+ESR1	C0000809	Recurrent abortion	DisGeNet	
+AR	C0156543	Pregnancy loss	DisGeNet	
+CYP19A1	C0156543	Pregnancy loss	DisGeNet	
+ESR1	C0156543	Pregnancy loss	DisGeNet	
+AR	C0236663	Alcohol withdrawal syndrome	DisGeNet	
+CYP19A1	C0236663	Alcohol withdrawal syndrome	DisGeNet	
+ALB	C0751781	Dentatorubral pallidoluysian atrophy	DisGeNet	
+AR	C0751781	Dentatorubral pallidoluysian atrophy	DisGeNet	
+ALB	C0206686	Adrenocortical carcinoma	DisGeNet	
+CYP19A1	C0206686	Adrenocortical carcinoma	DisGeNet	
+CYP2B6	C0206686	Adrenocortical carcinoma	DisGeNet	
+ESR1	C0206686	Adrenocortical carcinoma	DisGeNet	
+AR	C0574769	Alopecia of scalp	DisGeNet	
+CYP19A1	C0574769	Alopecia of scalp	DisGeNet	

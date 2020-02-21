@@ -1,0 +1,133 @@
+node_name	node_type	
+DB01017	drug	
+CASP3	drug_target	
+CASP1	drug_target	
+ALOX5	drug_target	
+CYCS	drug_target	
+SLC22A11	drug_target	
+SLC22A6	drug_target	
+VEGFA	drug_target	
+MMP9	drug_target	
+IL1B	drug_target	
+SLC22A8	drug_target	
+Pulmonary edema	phenotype	
+Multiple Sclerosis, Relapsing-Remitting	phenotype	
+Leg Ulcer	phenotype	
+Papillary adenocarcinoma	phenotype	
+Tuberculosis, Meningeal	phenotype	
+Otitis Media with Effusion	phenotype	
+Thrombosis of retinal vein	phenotype	
+Polymyositis	phenotype	
+Angiokeratoma	phenotype	
+Arteriovenous hemangioma	phenotype	
+Generalized osteoarthritis	phenotype	
+Portal hypertension, noncirrhotic	phenotype	
+Dermatomyositis	phenotype	
+Multiple Organ Failure	phenotype	
+Simple pneumoconiosis	phenotype	
+Urticaria	phenotype	
+Acute kidney injury	phenotype	
+Corneal pannus	phenotype	
+Amyloidosis	phenotype	
+Idiopathic crescentic glomerulonephritis	phenotype	
+Cholesteatoma	phenotype	
+Ectopic Pregnancy	phenotype	
+Pleural effusion	phenotype	
+Rhinitis, Allergic, Seasonal	phenotype	
+Testicular Neoplasms	phenotype	
+Fabry disease	phenotype	
+Thromboangiitis Obliterans	phenotype	
+Hyperoxia	phenotype	
+Learning Disorders	phenotype	
+Choroidal Neovascularization	phenotype	
+Pleuritis	phenotype	
+Cervical intraepithelial neoplasia grade 2	phenotype	
+{Aneurysm, familial abdominal 3} (2)	phenotype	
+Memory Disorders	phenotype	
+Obstructive sleep apnea	phenotype	
+Biliary tract neoplasm	phenotype	
+Neoplasms, Experimental	phenotype	
+Henoch-Schoenlein Purpura	phenotype	
+ {Septic shock, susceptibility to} (3)	phenotype	
+Sarcoidosis, Pulmonary	phenotype	
+Aortic valve disease 2	phenotype	
+Idiopathic Inflammatory Myopathies	phenotype	
+Renal Insufficiency, Chronic	phenotype	
+Hypoxia-Ischemia, Brain	phenotype	
+Limb ischemia	phenotype	
+Aortic Aneurysm, Abdominal	phenotype	
+Retinopathy of Prematurity	phenotype	
+Myocardial Reperfusion Injury	phenotype	
+Retroviridae Infections	phenotype	
+ {HIV-1 viremia, susceptibility to}, 609423 (3)	phenotype	
+Acute Lung Injury	phenotype	
+{Pemphigoid, susceptibility to} (2)	phenotype	
+Uremia	phenotype	
+Adenomatous Polyps	phenotype	
+Severe Dengue	phenotype	
+Pathologic Neovascularization	phenotype	
+Bronchitis, Chronic	phenotype	
+Endometrioma	phenotype	
+Complications of Diabetes Mellitus	phenotype	
+Uterine neoplasm	phenotype	
+Brain Infarction	phenotype	
+Neonatal respiratory distress	phenotype	
+Degenerative disease of the spinal cord	phenotype	
+Recurrent abortion	phenotype	
+Cerebral edema	phenotype	
+Duodenal Ulcer	phenotype	
+Metaplasia	phenotype	
+M5b Acute differentiated monocytic leukemia	phenotype	
+Pregnancy loss	phenotype	
+Coronary artery stenosis	phenotype	
+Blast Phase	phenotype	
+Stromal Neoplasm	phenotype	
+Dementia, Vascular	phenotype	
+Adult type dermatomyositis	phenotype	
+Carcinoma, Lewis Lung	phenotype	
+Infarction, Middle Cerebral Artery	phenotype	
+Membranous nephropathy, susceptibility to	phenotype	
+Nasopharyngeal Neoplasms	phenotype	
+Aortic aneurysm, familial thoracic 11, susceptibility to	phenotype	
+Pterygium	phenotype	
+Familial Mediterranean fever	phenotype	
+Stage 5 chronic kidney disease	phenotype	
+Tumor Promotion	phenotype	
+Necrotizing Enterocolitis	phenotype	
+Vestibular Schwannoma	phenotype	
+Contact Dermatitis	phenotype	
+Type 1 diabetic neuropathy	phenotype	
+Periodontitis, Juvenile	phenotype	
+Urinary tract infection	phenotype	
+Chronic graft-versus-host disease	phenotype	
+Cerebral Hemorrhage	phenotype	
+Arteriovenous malformation	phenotype	
+airway disease	phenotype	
+Malaria, Cerebral	phenotype	
+Postmenopausal osteoporosis	phenotype	
+Endotoxemia	phenotype	
+Keratitis	phenotype	
+Adenoma of large intestine	phenotype	
+SUDDEN INFANT DEATH SYNDROME	phenotype	
+Cystitis	phenotype	
+Nephrotic syndrome, type 5, with or without ocular abnormalities	phenotype	
+Glomerulonephritis, Membranous	phenotype	
+Childhood asthma	phenotype	
+Middle Cerebral Artery Occlusion	phenotype	
+Rheumatic disease of heart valve	phenotype	
+Helicobacter Infections	phenotype	
+Inflammatory disorder	phenotype	
+Synovitis	phenotype	
+Dermatitis, Allergic Contact	phenotype	
+Carotid Atherosclerosis	phenotype	
+Rectal Carcinoma	phenotype	
+Sinusitis	phenotype	
+early pregnancy	phenotype	
+Intracranial Aneurysm	phenotype	
+Chronic atrophic gastritis	phenotype	
+Gout	phenotype	
+Gastric ulcer	phenotype	
+Aortic Aneurysm, Thoracic	phenotype	
+Immediate hypersensitivity	phenotype	
+Hyperlipidemia, combined, 1	phenotype	
+Knee osteoarthritis	phenotype	

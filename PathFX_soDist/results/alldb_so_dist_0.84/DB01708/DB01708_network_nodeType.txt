@@ -1,0 +1,40 @@
+node_name	node_type	
+DB01708	drug	
+ESR2	drug_target	
+ESR1	drug_target	
+NR1I3	drug_target	
+NR1I2	drug_target	
+AR	drug_target	
+SULT2B1	drug_target	
+PPARA	drug_target	
+HSD17B1	drug_target	
+CYP3A4	drug_target	
+SIGMAR1	drug_target	
+SULT2A1	drug_target	
+Female infertility	phenotype	
+Tumor Promotion	phenotype	
+Postmenopausal osteoporosis	phenotype	
+Adolescent idiopathic scoliosis	phenotype	
+Hepatopulmonary Syndrome	phenotype	
+Endometrial Neoplasms	phenotype	
+Phyllodes tumor, benign	phenotype	
+Malignant neoplasm of female breast	phenotype	
+Female Breast Carcinoma	phenotype	
+Penile hypospadias	phenotype	
+Biliary tract neoplasm	phenotype	
+Intrahepatic cholestasis	phenotype	
+Microsatellite Instability	phenotype	
+Breast Fibrocystic Disease	phenotype	
+Disorders of lipoid metabolism	phenotype	
+Fibroadenoma of the breast	phenotype	
+Dyslipidemias	phenotype	
+Disorder of endocrine system	phenotype	
+Mammographic breast density	phenotype	
+Acne	phenotype	
+Recurrent abortion	phenotype	
+androgen independent prostate cancer	phenotype	
+Coronary artery stenosis	phenotype	
+Adenocarcinoma of prostate	phenotype	
+Cholestatic liver disease	phenotype	
+Disorders of Intracellular Cobalamin Metabolism	phenotype	
+Cholecystolithiasis	phenotype	

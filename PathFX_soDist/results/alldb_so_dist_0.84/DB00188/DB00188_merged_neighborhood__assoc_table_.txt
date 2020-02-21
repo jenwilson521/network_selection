@@ -1,0 +1,4 @@
+rank	phenotype	cui	assoc in neigh	assoc in intom	probability	Benjamini-Hochberg	genes	
+26	Primary malignant neoplasm of liver	C0024620	3	25	1.0247388936512891e-05	4.2904290429e-05	CYP2C19,CYP2D6,CYP3A4
+27	Nausea	C0027497	4	54	1.20799991796261e-05	4.45544554455e-05	CYP1A2,CYP2C19,CYP2C9,CYP2D6
+43	Chronic schizophrenia	C0221765	3	36	4.552502577970241e-05	7.09570957096e-05	CYP1A2,CYP2D6,CYP3A4

@@ -1,0 +1,9 @@
+node_name	node_type	
+DB01223	drug	
+CYP1A2	drug_target	
+HDAC2	drug_target	
+ADORA1	drug_target	
+PDE3A	drug_target	
+CYP2E1	drug_target	
+CYP2C19	drug_target	
+CYP3A4	drug_target	

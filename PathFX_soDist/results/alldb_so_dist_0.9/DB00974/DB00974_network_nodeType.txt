@@ -1,0 +1,10 @@
+node_name	node_type	
+DB00974	drug	
+CYP19A1	drug_target	
+ADA	drug_target	
+Decreased fertility in females	phenotype	
+Placental Insufficiency	phenotype	
+Bladder neck obstruction	phenotype	
+Alcohol withdrawal syndrome	phenotype	
+Alopecia of scalp	phenotype	
+Oestrogen deficiency	phenotype	

@@ -1,0 +1,5 @@
+node1	node2	edge_score	
+DB00798	LRP2	1.0	
+DB00798	DHFR	1.0	
+DB00798	SLC22A6	1.0	
+

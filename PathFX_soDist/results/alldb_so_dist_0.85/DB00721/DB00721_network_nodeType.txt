@@ -1,0 +1,94 @@
+node_name	node_type	
+DB00721	drug	
+SLC6A3	drug_target	
+SCN10A	drug_target	
+GRIN3A	drug_target	
+BCHE	drug_target	
+CHRNA2	drug_target	
+HTR3A	drug_target	
+Weight Gain Adverse Event	phenotype	
+Nicotine Dependence	phenotype	
+Cocaine delirium	phenotype	
+Bulimia nervosa 1	phenotype	
+Aural atresia, congenital	phenotype	
+Dyspepsia	phenotype	
+Cocaine Dependence	phenotype	
+Increased body weight	phenotype	
+As If Personality	phenotype	
+Heroin Dependence	phenotype	
+Osteochondritis dissecans	phenotype	
+MAJOR AFFECTIVE DISORDER 4	phenotype	
+MAJOR AFFECTIVE DISORDER 5	phenotype	
+MAJOR AFFECTIVE DISORDER 6	phenotype	
+Major affective disorder 7	phenotype	
+MAJOR AFFECTIVE DISORDER 8	phenotype	
+MAJOR AFFECTIVE DISORDER 9	phenotype	
+Eating disorder	phenotype	
+Amphetamine-Related Disorders	phenotype	
+Obsessive-compulsive disorder	phenotype	
+Methamphetamine abuse	phenotype	
+Anorexia nervosa 1	phenotype	
+Cocaine-Related Disorders	phenotype	
+Impotence	phenotype	
+Adult onset ataxia with oculomotor apraxia	phenotype	
+Tourette Syndrome	phenotype	
+Lewy Body Disease	phenotype	
+Pigmentary pallidal degeneration	phenotype	
+Spinocerebellar ataxia 2	phenotype	
+Behavior Disorders	phenotype	
+Bulimia	phenotype	
+Paranoia	phenotype	
+Delayed gross motor development	phenotype	
+Generalized anxiety disorder	phenotype	
+Substance Use Disorders	phenotype	
+Alcohol withdrawal syndrome	phenotype	
+Motor symptoms	phenotype	
+Enzyme inhibition disorder	phenotype	
+ {Nicotine dependence, protection against}, 188890 (3)	phenotype	
+Antisocial Personality Disorder	phenotype	
+childhood brain tumor	phenotype	
+Ataxic	phenotype	
+heavy drinking	phenotype	
+Churg-Strauss Syndrome	phenotype	
+Chronic schizophrenia	phenotype	
+Hyperactivity	phenotype	
+Morphological abnormality of the pyramidal tract	phenotype	
+Neurotoxicity Syndromes	phenotype	
+Opiate Addiction	phenotype	
+Constipation	phenotype	
+Confusion	phenotype	
+Gestational trophoblastic disease	phenotype	
+Coronary artery aneurysm	phenotype	
+Chronic pain	phenotype	
+Antisocial/borderline personality disorder	phenotype	
+Substance abuse problem	phenotype	
+Drug usage	phenotype	
+Manic	phenotype	
+Chronic Fatigue Syndrome	phenotype	
+Conduct Disorder	phenotype	
+Bradykinesia	phenotype	
+Varicella zoster	phenotype	
+Fibromyalgia	phenotype	
+Malignant hyperthermia susceptibility	phenotype	
+Ventricular fibrillation	phenotype	
+Cerebral Amyloid Angiopathy	phenotype	
+Leptospirosis	phenotype	
+Prenatal Exposure Delayed Effects	phenotype	
+Nausea	phenotype	
+Refractory anemia	phenotype	
+Refractory anaemia with excess blasts	phenotype	
+Memory Disorders	phenotype	
+Brugada Syndrome	phenotype	
+Autoimmune lymphoproliferative syndrome, type 2	phenotype	
+Channelopathies	phenotype	
+Dementia familial British	phenotype	
+Adverse drug events and drug allergies	phenotype	
+CNS symptom	phenotype	
+Memory Loss	phenotype	
+Congenital myasthenic syndrome	phenotype	
+Cognition Disorders	phenotype	
+Hydatidiform mole, recurrent, 1, 231090 (3)	phenotype	
+Stress, Psychological	phenotype	
+Refractory cancer	phenotype	
+Tardive Dyskinesia	phenotype	
+Bipolar I disorder	phenotype	

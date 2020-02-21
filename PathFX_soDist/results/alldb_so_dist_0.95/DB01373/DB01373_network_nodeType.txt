@@ -1,0 +1,40 @@
+node_name	node_type	
+DB01373	drug	
+AOC1	drug_target	
+BMP4	drug_target	
+COMP	drug_target	
+CACNA1C	drug_target	
+TNNC1	drug_target	
+ATP2C1	drug_target	
+CAST	drug_target	
+ALPP	drug_target	
+S100A9	drug_target	
+S100A8	drug_target	
+TNNC2	drug_target	
+PDCD6	drug_target	
+CP	drug_target	
+S100A2	drug_target	
+S100A13	drug_target	
+SPTBN1	drug_target	
+S100B	drug_target	
+Recurrent major depressive episodes	phenotype	
+Prolonged QT interval	phenotype	
+Congenital long QT syndrome	phenotype	
+Sudden death	phenotype	
+Malignant hyperthermia susceptibility	phenotype	
+Primary atrial arrhythmia	phenotype	
+Abnormal cardiac test	phenotype	
+Supraventricular arrhythmia	phenotype	
+Brugada Syndrome	phenotype	
+Dysmorphic features	phenotype	
+Abnormal EKG	phenotype	
+Channelopathies	phenotype	
+Supraventricular tachycardia	phenotype	
+Syncope	phenotype	
+Ventricular arrhythmia	phenotype	
+Primary hyperaldosteronism	phenotype	
+Attention Deficit Disorder	phenotype	
+Drug Dependence	phenotype	
+Bronchitis	phenotype	
+Common Migraine	phenotype	
+Substance addiction and disorders	phenotype	

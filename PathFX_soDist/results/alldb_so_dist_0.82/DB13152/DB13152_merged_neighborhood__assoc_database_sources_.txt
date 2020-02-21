@@ -1,0 +1,359 @@
+Gene	CUI	Source Databases	
+ALB	C0005779	Bleeding disorder, platelet-type, 21	DisGeNet	
+F2	C0005779	Bleeding disorder, platelet-type, 21	DisGeNet,HumPhenOnt	
+F7	C0005779	Bleeding disorder, platelet-type, 21	DisGeNet,HumPhenOnt	
+GGCX	C0005779	Bleeding disorder, platelet-type, 21	DisGeNet,HumPhenOnt	
+F2	C0014591	Epistaxis	DisGeNet,HumPhenOnt	
+F7	C0014591	Epistaxis	HumPhenOnt	
+GGCX	C0014591	Epistaxis	HumPhenOnt	
+ALB	C0342257	Complications of Diabetes Mellitus	DisGeNet	
+F2	C0342257	Complications of Diabetes Mellitus	DisGeNet	
+F7	C0342257	Complications of Diabetes Mellitus	DisGeNet	
+ALB	C0019069	Hereditary factor VIII deficiency disease	DisGeNet	
+F2	C0019069	Hereditary factor VIII deficiency disease	DisGeNet	
+F7	C0019069	Hereditary factor VIII deficiency disease	DisGeNet	
+F2	C1846821	Abnormality of coagulation	HumPhenOnt	
+F7	C1846821	Abnormality of coagulation	HumPhenOnt	
+GGCX	C1846821	Abnormality of coagulation	HumPhenOnt	
+F2	C0553692	Brain Hemorrhage, Traumatic	DisGeNet	
+F7	C0553692	Brain Hemorrhage, Traumatic	DisGeNet	
+ALB	C0398623	Thrombophilia	DisGeNet	
+F2	C0398623	Thrombophilia	ClinVar,DisGeNet	
+F7	C0398623	Thrombophilia	DisGeNet	
+F2	C0019087	Hemorrhagic disorder due to intrinsic circulating anticoagulants	DisGeNet	
+F7	C0019087	Hemorrhagic disorder due to intrinsic circulating anticoagulants	DisGeNet	
+F2	C0042487	Venous thrombosis	DisGeNet,HumPhenOnt	
+F7	C0042487	Venous thrombosis	DisGeNet	
+GGCX	C0042487	Venous thrombosis	DisGeNet	
+ALB	C0341439	Chronic liver disease	DisGeNet	
+F2	C0341439	Chronic liver disease	DisGeNet	
+F7	C0341439	Chronic liver disease	DisGeNet	
+F2	C0040053	Thrombosis	DisGeNet,PheGenI	
+F7	C0040053	Thrombosis	DisGeNet	
+GGCX	C0040053	Thrombosis	DisGeNet	
+ALB	C0745744	End Stage Liver Disease	DisGeNet	
+F2	C0745744	End Stage Liver Disease	DisGeNet	
+F2	C0333285	Internal hemorrhage	HumPhenOnt	
+F7	C0333285	Internal hemorrhage	HumPhenOnt	
+GGCX	C0333285	Internal hemorrhage	HumPhenOnt	
+F2	C0340708	Deep vein thrombosis of lower limb	DisGeNet	
+F7	C0340708	Deep vein thrombosis of lower limb	DisGeNet	
+F2	C0012739	Disseminated intravascular coagulation	DisGeNet	
+F7	C0012739	Disseminated intravascular coagulation	DisGeNet	
+F2	C0600518	Choroidal Neovascularization	DisGeNet	
+F7	C0600518	Choroidal Neovascularization	DisGeNet	
+F2	C4023585	Abnormality of blood circulation	HumPhenOnt	
+F7	C4023585	Abnormality of blood circulation	HumPhenOnt	
+GGCX	C4023585	Abnormality of blood circulation	HumPhenOnt	
+F2	C0008533	Hereditary factor IX deficiency disease	DisGeNet	
+F7	C0008533	Hereditary factor IX deficiency disease	DisGeNet	
+F2	C0042974	Von Willebrand disease, recessive form	DisGeNet	
+F7	C0042974	Von Willebrand disease, recessive form	DisGeNet	
+F2	C0684275	Hemophilia, NOS	DisGeNet	
+F7	C0684275	Hemophilia, NOS	DisGeNet	
+F2	C0751956	Acute Cerebrovascular Accidents	DisGeNet	
+F7	C0751956	Acute Cerebrovascular Accidents	DisGeNet	
+F2	C0948480	Coronary Restenosis	DisGeNet	
+F7	C0948480	Coronary Restenosis	DisGeNet	
+ALB	C0027720	Nephrosis	DisGeNet	
+F2	C0027720	Nephrosis	DisGeNet	
+F2	C0584960	Factor V Leiden mutation	DisGeNet	
+F7	C0584960	Factor V Leiden mutation	DisGeNet	
+ALB	C0333186	Restenosis	DisGeNet	
+F2	C0333186	Restenosis	DisGeNet	
+F7	C0333186	Restenosis	DisGeNet	
+ALB	C0019061	Hemolytic uremic syndrome	DisGeNet	
+F2	C0019061	Hemolytic uremic syndrome	DisGeNet	
+ALB	C0242488	Acute Lung Injury	DisGeNet	
+F2	C0242488	Acute Lung Injury	DisGeNet	
+F2	C0007820	 Cerebrovascular disease, occlusive (3)	DisGeNet	
+F7	C0007820	 Cerebrovascular disease, occlusive (3)	DisGeNet	
+F2	C0019080	Bleeding with minor or no trauma	DisGeNet	
+F7	C0019080	Bleeding with minor or no trauma	DisGeNet	
+F2	C3495426	Homocysteinemia due to MTHFR deficiency	DisGeNet	
+F7	C3495426	Homocysteinemia due to MTHFR deficiency	DisGeNet	
+F2	C0032787	Postoperative Complications	DisGeNet	
+F7	C0032787	Postoperative Complications	DisGeNet	
+F2	C0156543	Pregnancy loss	DisGeNet	
+F7	C0156543	Pregnancy loss	DisGeNet	
+F2	C0242231	Coronary artery stenosis	DisGeNet	
+F7	C0242231	Coronary artery stenosis	DisGeNet	
+ALB	C0020473	Hyperlipidemia, combined, 1	DisGeNet,HumPhenOnt	
+F2	C0020473	Hyperlipidemia, combined, 1	DisGeNet	
+F7	C0020473	Hyperlipidemia, combined, 1	DisGeNet	
+ALB	C0011875	Diabetic Angiopathies	DisGeNet	
+F7	C0011875	Diabetic Angiopathies	DisGeNet	
+ALB	C4023587	Abnormality of cardiovascular system physiology	HumPhenOnt	
+F2	C4023587	Abnormality of cardiovascular system physiology	HumPhenOnt	
+F7	C4023587	Abnormality of cardiovascular system physiology	HumPhenOnt	
+GGCX	C4023587	Abnormality of cardiovascular system physiology	HumPhenOnt	
+F2	C1458140	Abnormal bleeding	HumPhenOnt	
+F7	C1458140	Abnormal bleeding	HumPhenOnt	
+GGCX	C1458140	Abnormal bleeding	HumPhenOnt	
+F2	C0009938	Bruising susceptibility	HumPhenOnt	
+GGCX	C0009938	Bruising susceptibility	HumPhenOnt	
+F2	C0151942	Arterial thrombosis	DisGeNet	
+F7	C0151942	Arterial thrombosis	DisGeNet	
+ALB	C0948089	Acute Coronary Syndrome	DisGeNet	
+F2	C0948089	Acute Coronary Syndrome	DisGeNet	
+F7	C0948089	Acute Coronary Syndrome	DisGeNet	
+F2	C0007789	Cerebral palsy, spastic quadriplegic, 3	DisGeNet	
+F7	C0007789	Cerebral palsy, spastic quadriplegic, 3	DisGeNet	
+F2	C1704436	Peripheral Arterial Diseases	DisGeNet	
+F7	C1704436	Peripheral Arterial Diseases	DisGeNet	
+ALB	C0018995	Hemochromatosis	DisGeNet	
+F2	C0018995	Hemochromatosis	DisGeNet	
+F2	C0162819	Vascular skin abnormality	DisGeNet,HumPhenOnt	
+GGCX	C0162819	Vascular skin abnormality	HumPhenOnt	
+KRT9	C0162819	Vascular skin abnormality	HumPhenOnt	
+F2	C0149871	Deep venous thrombosis	DisGeNet,HumPhenOnt	
+F7	C0149871	Deep venous thrombosis	DisGeNet	
+F2	C0598608	Hereditary hyperhomocysteinemia	DisGeNet	
+F7	C0598608	Hereditary hyperhomocysteinemia	DisGeNet	
+ALB	C0019159	Hepatitis	DisGeNet	
+F2	C0019159	Hepatitis	DisGeNet	
+F7	C0019159	Hepatitis	DisGeNet	
+F2	C0040038	Thromboembolism	DisGeNet,HumPhenOnt	
+F7	C0040038	Thromboembolism	DisGeNet	
+ALB	C0042373	Vascular Diseases	DisGeNet	
+F2	C0042373	Vascular Diseases	DisGeNet	
+F7	C0042373	Vascular Diseases	DisGeNet	
+F2	C0232197	Ventricular Fibrillation Adverse Event	DisGeNet	
+F7	C0232197	Ventricular Fibrillation Adverse Event	DisGeNet	
+F2	C0026857	Musculoskeletal Diseases	DisGeNet	
+F7	C0026857	Musculoskeletal Diseases	DisGeNet	
+ALB	C0007786	Brain Ischemia	DisGeNet	
+F2	C0007786	Brain Ischemia	DisGeNet	
+F7	C0007786	Brain Ischemia	DisGeNet	
+ALB	C0243050	Abnormality of cardiovascular system electrophysiology	HumPhenOnt	
+F2	C0243050	Abnormality of cardiovascular system electrophysiology	HumPhenOnt	
+F7	C0243050	Abnormality of cardiovascular system electrophysiology	HumPhenOnt	
+GGCX	C0243050	Abnormality of cardiovascular system electrophysiology	HumPhenOnt	
+KRT9	C0243050	Abnormality of cardiovascular system electrophysiology	HumPhenOnt	
+F2	C0032964	Pregnancy Complications, Hematologic	DisGeNet	
+F7	C0032964	Pregnancy Complications, Hematologic	DisGeNet	
+ALB	C0034065	Pulmonary Embolism	DisGeNet	
+F2	C0034065	Pulmonary Embolism	DisGeNet,HumPhenOnt,PheGenI	
+F2	C0040028	Essential thrombocythemia	DisGeNet	
+F7	C0040028	Essential thrombocythemia	DisGeNet	
+F2	C0015929	Fetal Diseases	DisGeNet	
+F7	C0015929	Fetal Diseases	DisGeNet	
+F2	C0085096	Peripheral Arterial Disease	DisGeNet	
+F7	C0085096	Peripheral Arterial Disease	DisGeNet	
+F2	C0037274	Dermatosis NOS	DisGeNet	
+F7	C0037274	Dermatosis NOS	DisGeNet	
+KRT9	C0037274	Dermatosis NOS	DisGeNet	
+F2	C0007282	Carotid Stenosis	DisGeNet	
+F7	C0007282	Carotid Stenosis	DisGeNet	
+ALB	C0151744	Acute myocardial ischemia	DisGeNet	
+F2	C0151744	Acute myocardial ischemia	DisGeNet	
+F7	C0151744	Acute myocardial ischemia	DisGeNet	
+ALB	C0001925	Albuminuria	DisGeNet	
+F2	C0001925	Albuminuria	DisGeNet	
+F2	C4025888	Abnormality of the menstrual cycle	HumPhenOnt	
+F7	C4025888	Abnormality of the menstrual cycle	HumPhenOnt	
+F2	C0854107	Subcutaneous hemorrhage	HumPhenOnt	
+GGCX	C0854107	Subcutaneous hemorrhage	HumPhenOnt	
+F2	C0023223	Leg Ulcer	DisGeNet	
+F2	C1857941	Spiegler-Brooke syndrome	DisGeNet	
+ALB	C0003850	Arteriosclerosis	DisGeNet	
+F2	C0003850	Arteriosclerosis	DisGeNet	
+F7	C0003850	Arteriosclerosis	DisGeNet	
+GGCX	C0003850	Arteriosclerosis	HumPhenOnt	
+F2	C0004238	Atrial Fibrillation	DisGeNet	
+F7	C0004238	Atrial Fibrillation	DisGeNet	
+F2	C0267797	Acute hepatitis	DisGeNet	
+F2	C0311370	Lupus anticoagulant disorder	DisGeNet	
+ALB	C0346402	Malignant neoplasm of adrenal cortex	DisGeNet	
+F2	C1861171	Thrombophilia due to activated protein C resistance	DisGeNet	
+F2	C0156404	Menstrual irregularities	HumPhenOnt	
+F7	C0156404	Menstrual irregularities	HumPhenOnt	
+ALB	C1559271	Non-Malignant Ascites Adverse Event	DisGeNet	
+F2	C1559271	Non-Malignant Ascites Adverse Event	DisGeNet	
+ALB	C0014867	Esophageal varix	DisGeNet	
+ALB	C0451641	Urolithiasis	DisGeNet	
+ALB	C0020445	Familial hypercholesterolemia	DisGeNet	
+F2	C0020445	Familial hypercholesterolemia	DisGeNet	
+ALB	C0013502	Echinococcosis	DisGeNet	
+F2	C0019880	Homocystinuria due to CBS deficiency	DisGeNet	
+F2	C0035328	Thrombosis of retinal vein	DisGeNet	
+KRT9	C0079298	Epidermolysis bullosa simplex, Cockayne-Touraine type	DisGeNet	
+KRT9	C0240641	Palmar hyperkeratosis	HumPhenOnt	
+F2	C0302809	Fulminant hepatitis	DisGeNet	
+F2	C0014836	Recurrent E. coli infections	DisGeNet	
+F2	C0015814	Femur Head Necrosis	DisGeNet	
+F2	C0034341	Pyruvate carboxylase deficiency	DisGeNet	
+F2	C0155668	Old myocardial infarction	DisGeNet	
+ALB	C0339467	Proliferative retinopathy	DisGeNet	
+ALB	C0006111	Brain Diseases	DisGeNet	
+F2	C0006111	Brain Diseases	DisGeNet	
+F2	C0015943	Fetal Membranes, Premature Rupture	DisGeNet	
+F7	C0015943	Fetal Membranes, Premature Rupture	DisGeNet	
+KRT9	C0043037	Verrucae	HumPhenOnt	
+F2	C0242666	Protein S deficiency	DisGeNet	
+ALB	C3714796	Isolated somatotropin deficiency	DisGeNet	
+F2	C0008495	Chorioamnionitis	DisGeNet	
+F7	C0008495	Chorioamnionitis	DisGeNet	
+F2	C0009782	Connective Tissue Diseases	DisGeNet	
+F7	C0009782	Connective Tissue Diseases	DisGeNet	
+ALB	C0019189	Chronic hepatitis	DisGeNet	
+F2	C0019189	Chronic hepatitis	DisGeNet	
+ALB	C0860207	Drug-Induced Liver Injury	DisGeNet	
+F2	C0860207	Drug-Induced Liver Injury	DisGeNet	
+F2	C0017565	Gingival bleeding	HumPhenOnt	
+F2	C0018991	Hemiplegia	DisGeNet	
+ALB	C0038586	Substance Use Disorders	DisGeNet	
+F2	C0272375	Antithrombin III deficiency	DisGeNet	
+ALB	C0751781	Dentatorubral pallidoluysian atrophy	DisGeNet	
+GGCX	C1859126	Epiphyseal stippling	HumPhenOnt	
+F2	C0022876	Premature Obstetric Labor	DisGeNet	
+F7	C0022876	Premature Obstetric Labor	DisGeNet	
+ALB	C0002985	Angiokeratoma	DisGeNet	
+ALB	C0013338	Isolated growth hormone deficiency type 1B	DisGeNet	
+F2	C0034040	Puerperal Disorders	DisGeNet	
+F2	C0398625	Reduced protein C activity	DisGeNet	
+F2	C0678234	Stenosis	DisGeNet	
+KRT9	C1856954	Plantar hyperkeratosis	HumPhenOnt	
+GGCX	C3278975	Attenuation of retinal blood vessels	HumPhenOnt	
+F2	C1861403	Variable expressivity	HumPhenOnt	
+F7	C1861403	Variable expressivity	HumPhenOnt	
+F2	C0340293	Anterior myocardial infarction	DisGeNet	
+ALB	C0023895	Liver Diseases	DisGeNet	
+F2	C0023895	Liver Diseases	DisGeNet	
+F7	C0023895	Liver Diseases	DisGeNet	
+ALB	C0020443	Hypercholesterolemia, autosomal dominant, type B	DisGeNet	
+F2	C0020443	Hypercholesterolemia, autosomal dominant, type B	DisGeNet	
+F2	C0030524	Paratuberculosis	DisGeNet	
+ALB	C0031039	Pericardial effusion	DisGeNet	
+F2	C0019151	Hepatic encephalopathy	DisGeNet	
+ALB	C0026780	Mumps	DisGeNet	
+ALB	C0035457	Rhinitis, Allergic, Perennial	DisGeNet	
+ALB	C0342200	Endemic Cretinism	DisGeNet	
+F2	C0600433	Resistance to activated protein C	DisGeNet	
+ALB	C0206624	Hepatoblastoma	DisGeNet	
+F2	C0206624	Hepatoblastoma	DisGeNet	
+ALB	C0206734	Hemangioblastoma	DisGeNet	
+F2	C0439590	Prolonged bleeding time	HumPhenOnt	
+F2	C2939465	Deficiency of glucose-6-phosphate dehydrogenase	DisGeNet	
+F2	C0151699	Intracranial hemorrhage	DisGeNet	
+F7	C0151699	Intracranial hemorrhage	DisGeNet,HumPhenOnt	
+ALB	C0022661	Kidney Failure, Chronic	DisGeNet	
+F2	C0022661	Kidney Failure, Chronic	DisGeNet	
+F7	C0022661	Kidney Failure, Chronic	DisGeNet	
+ALB	C0038454	Stroke	DisGeNet	
+F2	C0038454	Stroke	DisGeNet,PheGenI	
+F7	C0038454	Stroke	DisGeNet	
+GGCX	C0038454	Stroke	DisGeNet	
+F2	C0011071	Sudden death	DisGeNet	
+ALB	C0017662	Mesangiocapillary glomerulonephritis, type II	DisGeNet	
+ALB	C0027719	Nephrosclerosis	DisGeNet	
+F2	C0085083	Ovarian hyperstimulation syndrome	DisGeNet	
+ALB	C0235025	Peripheral motor neuropathy	DisGeNet	
+F2	C0852036	Pregnancy associated hypertension	DisGeNet	
+F2	C0034155	Purpura, Thrombotic Thrombocytopenic	DisGeNet	
+ALB	C4023036	Abnormal albumin level	HumPhenOnt	
+ALB	C0004153	Atherosclerosis	DisGeNet	
+F2	C0004153	Atherosclerosis	DisGeNet	
+F7	C0004153	Atherosclerosis	DisGeNet	
+GGCX	C0004153	Atherosclerosis	DisGeNet,HumPhenOnt	
+ALB	C0022116	Ischemia	DisGeNet	
+F2	C0022116	Ischemia	DisGeNet	
+F7	C0022116	Ischemia	DisGeNet	
+F2	C0155626	Acute myocardial infarction	DisGeNet	
+F7	C0155626	Acute myocardial infarction	DisGeNet	
+F2	C1861172	Venous Thromboembolism	DisGeNet,PheGenI	
+F7	C1861172	Venous Thromboembolism	DisGeNet	
+F2	C0003838	Arterial Occlusive Diseases	DisGeNet	
+F2	C0004626	Pneumonia, Bacterial	DisGeNet	
+ALB	C0007121	Bronchogenic Carcinoma	DisGeNet	
+F2	C0040015	Glanzmann thrombasthenia	DisGeNet	
+F2	C2717961	Thrombotic Microangiopathies	DisGeNet	
+F7	C2936179	Obesity, Visceral	DisGeNet	
+F2	C0005818	Platelet-type bleeding disorder 15	DisGeNet	
+ALB	C0010051	Coronary artery aneurysm	DisGeNet	
+ALB	C0020476	Hyperlipoproteinemia	DisGeNet	
+ALB	C0745103	Hyperlipoproteinemia Type IIa	DisGeNet	
+F7	C1519666	Tumor-Associated Vasculature	DisGeNet	
+ALB	C0040034	Thrombocytopenia, platelet dysfunction, hemolysis, and imbalanced globin synthesis	DisGeNet	
+F2	C0040034	Thrombocytopenia, platelet dysfunction, hemolysis, and imbalanced globin synthesis	DisGeNet	
+ALB	C0027707	Tubulointerstitial nephritis	DisGeNet	
+F2	C0151950	Deep thrombophlebitis	DisGeNet	
+F2	C0270853	Juvenile myoclonic epilepsy	DisGeNet	
+ALB	C1298180	Single tumor	DisGeNet	
+ALB	C1704321	Nephrotic Syndrome, Minimal Change	DisGeNet	
+F2	C0241657	Abnormality of blood and blood-forming tissues	HumPhenOnt	
+F7	C0241657	Abnormality of blood and blood-forming tissues	HumPhenOnt	
+GGCX	C0241657	Abnormality of blood and blood-forming tissues	HumPhenOnt	
+KRT9	C0241657	Abnormality of blood and blood-forming tissues	HumPhenOnt	
+F2	C0029445	Bone necrosis	DisGeNet	
+F2	C0040021	Thromboangiitis Obliterans	DisGeNet	
+F2	C0042344	Varicose Ulcer	DisGeNet	
+F2	C0162739	HELLP Syndrome	DisGeNet	
+GGCX	C0581342	Redundant skin	HumPhenOnt	
+KRT9	C0037277	Skin Diseases, Genetic	DisGeNet	
+GGCX	C4021246	Abnormal epiphyseal ossification	HumPhenOnt	
+ALB	C0085584	Encephalopathy, acute, infection-induced, 4, susceptibility to	DisGeNet	
+F2	C0085584	Encephalopathy, acute, infection-induced, 4, susceptibility to	DisGeNet	
+ALB	C1956346	Coronary Artery Disease	DisGeNet	
+F2	C1956346	Coronary Artery Disease	DisGeNet	
+F7	C1956346	Coronary Artery Disease	DisGeNet	
+GGCX	C1956346	Coronary Artery Disease	PheGenI	
+F2	C0022650	Kidney Calculi	DisGeNet	
+F2	C0037054	Sickle Cell Trait	DisGeNet	
+ALB	C0740380	Varicella zoster	DisGeNet	
+ALB	C1260959	Drusen	DisGeNet	
+F2	C1837352	Childhood onset	HumPhenOnt	
+F2	C4021157	Generalized abnormality of skin	HumPhenOnt	
+GGCX	C4021157	Generalized abnormality of skin	HumPhenOnt	
+KRT9	C4021157	Generalized abnormality of skin	HumPhenOnt	
+KRT9	C0151669	Increased antibody level in blood	HumPhenOnt	
+ALB	C3714619	Insulin resistance syndrome	DisGeNet	
+F2	C0002895	Anemia, Sickle Cell	DisGeNet	
+F7	C0002895	Anemia, Sickle Cell	DisGeNet	
+ALB	C0524909	Hepatitis B, Chronic	DisGeNet	
+F2	C0524909	Hepatitis B, Chronic	DisGeNet	
+F7	C0162316	Iron deficiency anemia	DisGeNet	
+GGCX	C0473583	Pseudoxanthoma elasticum	ClinVar,DisGeNet	
+ALB	C0018378	Guillain-Barre syndrome, familial	DisGeNet	
+ALB	C0221002	Primary hyperparathyroidism	DisGeNet	
+ALB	C1096063	Drug Resistant Epilepsy	DisGeNet	
+ALB	C0010054	Coronary heart disease 7	DisGeNet	
+F2	C0010054	Coronary heart disease 7	DisGeNet	
+F7	C0010054	Coronary heart disease 7	DisGeNet	
+ALB	C0022658	Kidney Diseases	DisGeNet	
+F2	C0022658	Kidney Diseases	DisGeNet	
+F7	C0022658	Kidney Diseases	DisGeNet	
+F2	C0007785	Ischaemic cerebral infarction	DisGeNet	
+F7	C0007785	Ischaemic cerebral infarction	DisGeNet	
+ALB	C0035242	Respiratory Tract Diseases	DisGeNet	
+ALB	C0086981	Sicca Syndrome	DisGeNet	
+ALB	C0239981	Hypoalbuminemia	DisGeNet,HumPhenOnt	
+ALB	C0030286	Neurologic, endocrine, and pancreatic disease, multisystem, infantile-onset	DisGeNet	
+KRT9	C4020946	Abnormality of the plantar skin of foot	HumPhenOnt	
+ALB	C0012634	Gallbladder disease 4	DisGeNet	
+F2	C0012634	Gallbladder disease 4	DisGeNet	
+KRT9	C0012634	Gallbladder disease 4	DisGeNet	
+ALB	C0035126	Reperfusion Injury	DisGeNet	
+F2	C0035126	Reperfusion Injury	DisGeNet	
+F2	C0034152	Henoch-Schoenlein Purpura	DisGeNet	
+ALB	C0010308	Congenital hypothyroidism	DisGeNet	
+ALB	C0041755	Adverse drug events and drug allergies	DisGeNet	
+F2	C0002875	Cooley's anemia	DisGeNet	
+F2	C0150312	Menopause present (finding)	DisGeNet	
+GGCX	C0332563	Papule	HumPhenOnt	
+F2	C0149931	Migraine Disorders	DisGeNet	
+F7	C0149931	Migraine Disorders	DisGeNet	
+F2	C2945695	Limb ischemia	DisGeNet	
+F2	C0003130	Hypoxia	DisGeNet	
+F7	C0003130	Hypoxia	DisGeNet	
+F2	C3272363	Ischemic Cerebrovascular Accident	DisGeNet	
+F7	C3272363	Ischemic Cerebrovascular Accident	DisGeNet	
+ALB	C0028797	Occupational Diseases	DisGeNet	
+ALB	C0730345	Microalbuminuria	DisGeNet	
+F2	C0036974	Shock, Septic	DisGeNet	
+F2	C0085278	Primary antiphospholipid syndrome	DisGeNet	
+ALB	C0008031	Chest pain	DisGeNet	
+F2	C0017205	Gaucher Disease	DisGeNet	
+ALB	C0042749	 {HIV-1 viremia, susceptibility to}, 609423 (3)	DisGeNet	
+F2	C0021361	Female infertility	DisGeNet	
+F2	C0002962	Angina pectoris	DisGeNet	

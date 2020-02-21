@@ -1,0 +1,101 @@
+node1	node2	edge_score	
+DB02546	HDAC1	1.0	
+DB02546	HDAC8	1.0	
+DB02546	HDAC3	1.0	
+DB02546	HDAC2	1.0	
+DB02546	HDAC6	1.0	
+HDAC2		1.0
+HDAC1	rs1741981	0.99
+HDAC1		1.0
+Stromal sarcoma	HDAC1	1.0	
+Stromal sarcoma	HDAC2	1.0	
+Borderline Personality Disorder	HDAC1	1.0	
+Borderline Personality Disorder	HDAC2	1.0	
+Carcinoma, Papillary	HDAC1	1.0	
+Carcinoma, Papillary	HDAC2	1.0	
+Bronchopulmonary Dysplasia	HDAC1	1.0	
+Bronchopulmonary Dysplasia	HDAC2	1.0	
+Cutaneous T-cell lymphoma	HDAC1	1.0	
+Cutaneous T-cell lymphoma	HDAC2	1.0	
+polyps	HDAC1	1.0	
+polyps	HDAC2	1.0	
+Pancreatic adenocarcinoma	HDAC1	1.0	
+Pancreatic adenocarcinoma	HDAC2	1.0	
+Cancer Cell Growth	HDAC1	1.0	
+Cancer Cell Growth	HDAC2	1.0	
+Hypoxia	HDAC1	1.0	
+Hypoxia	HDAC2	1.0	
+Intrauterine growth retardation	HDAC1	1.0	
+Intrauterine growth retardation	HDAC2	1.0	
+Adrenal Gland Hyperfunction	HDAC2	1.0	
+Liposarcoma, Dedifferentiated	HDAC1	1.0	
+Pituitary dependent hypercortisolism	HDAC2	1.0	
+Combined Hepatocellular Carcinoma and Cholangiocarcinoma	HDAC1	1.0	
+Combined Hepatocellular Carcinoma and Cholangiocarcinoma	HDAC2	1.0	
+Pituitary corticotropic cell adenoma	HDAC2	1.0	
+Myeloid leukemia	HDAC1	1.0	
+Myeloid leukemia	HDAC2	1.0	
+Xenograft Model	HDAC1	1.0	
+Xenograft Model	HDAC2	1.0	
+Pancreatic Ductal Adenocarcinoma	HDAC1	1.0	
+Pancreatic Ductal Adenocarcinoma	HDAC2	1.0	
+Hepatic cancer metastatic	HDAC1	1.0	
+Hepatic cancer metastatic	HDAC2	1.0	
+Glucocorticoid resistance, generalized	HDAC2	1.0	
+Neoplasm of the parathyroid gland	HDAC1	1.0	
+Colonic Polyps	HDAC2	1.0	
+Microsatellite Instability	HDAC2	1.0	
+Right ventricular hypertrophy	HDAC1	1.0	
+Bronchitis	HDAC2	1.0	
+Endometriosis	HDAC1	1.0	
+Endometriosis	HDAC2	1.0	
+Pemphigus Vulgaris	HDAC2	1.0	
+Adenocarcinoma of lung	HDAC1	1.0	
+Adenocarcinoma of lung	HDAC2	1.0	
+Testicular malignant germ cell tumor	HDAC1	1.0	
+Spastic syndrome	HDAC2	1.0	
+Leukoencephalopathy, Progressive Multifocal	HDAC1	1.0	
+Stomach Neoplasms	HDAC1	1.0	
+Stomach Neoplasms	HDAC2	1.0	
+Teratoma	HDAC1	1.0	
+Intrahepatic Cholangiocarcinoma	HDAC1	1.0	
+Hereditary nonpolyposis colorectal cancer type 8	HDAC2	1.0	
+Intestinal Neoplasms	HDAC2	1.0	
+Colorectal Neoplasms	HDAC1	1.0	
+Colorectal Neoplasms	HDAC2	1.0	
+Stroke	HDAC1	1.0	
+Stroke	HDAC2	1.0	
+Amyotrophic lateral sclerosis type 1	HDAC1	1.0	
+Allergic rhinitis	HDAC1	1.0	
+Amyotrophy involving the shoulder musculature	HDAC1	1.0	
+Embryonal Carcinoma	HDAC1	1.0	
+Melanocytic nevus	HDAC1	1.0	
+Spinal muscular atrophy with congenital bone fractures 2	HDAC2	1.0	
+Gallbladder Carcinoma	HDAC1	1.0	
+Cycloid psychosis	HDAC2	1.0	
+Asthma	HDAC1	1.0	
+Asthma	HDAC2	1.0	
+Pulmonary Emphysema	HDAC2	1.0	
+Metastatic Prostate Carcinoma	HDAC1	1.0	
+Hypergranular promyelocytic leukemia	HDAC1	1.0	
+Prostatic Neoplasms	HDAC1	1.0	
+Prostatic Neoplasms	HDAC2	1.0	
+Neuroblastoma	HDAC1	1.0	
+Neuroblastoma	HDAC2	1.0	
+Malignant neoplasm of pancreas	HDAC1	1.0	
+Malignant neoplasm of pancreas	HDAC2	1.0	
+Malignant tumor of testis	HDAC1	1.0	
+Fibrosarcoma	HDAC1	1.0	
+Memory impairment	HDAC1	1.0	
+Pancreatic Carcinoma	HDAC1	1.0	
+Pancreatic Carcinoma	HDAC2	1.0	
+Endometrial Neoplasms	HDAC1	1.0	
+Colon cancer	HDAC1	1.0	
+Colon cancer	HDAC2	1.0	
+Acute myeloid leukemia	HDAC1	1.0	
+Acute myeloid leukemia	HDAC2	1.0	
+Cardiomegaly	HDAC2	1.0	
+Squamous cell carcinoma	HDAC1	1.0	
+Squamous cell carcinoma	HDAC2	1.0	
+Carcinoma of colon	HDAC1	1.0	
+Carcinoma of colon	HDAC2	1.0	

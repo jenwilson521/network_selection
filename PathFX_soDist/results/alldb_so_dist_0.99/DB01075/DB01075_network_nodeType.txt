@@ -1,0 +1,11 @@
+node_name	node_type	
+DB01075	drug	
+CYP2C9	drug_target	
+PTGS1	drug_target	
+CYP2D6	drug_target	
+CHRM2	drug_target	
+SLC22A5	drug_target	
+CYP2C19	drug_target	
+CYP2C18	drug_target	
+SLC22A2	drug_target	
+HRH1	drug_target	

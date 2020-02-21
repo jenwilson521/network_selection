@@ -1,0 +1,7 @@
+node_name	node_type	
+DB00982	drug	
+RARA	drug_target	
+CYP3A4	drug_target	
+ALB	drug_target	
+RARG	drug_target	
+ {HIV-1 viremia, susceptibility to}, 609423 (3)	phenotype	

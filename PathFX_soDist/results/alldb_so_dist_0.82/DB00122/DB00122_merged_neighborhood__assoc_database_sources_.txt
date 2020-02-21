@@ -1,0 +1,64 @@
+Gene	CUI	Source Databases	
+ACHE	C0011269	Dementia, Vascular	DisGeNet	
+ALB	C0011269	Dementia, Vascular	DisGeNet	
+CHAT	C0011269	Dementia, Vascular	DisGeNet	
+CHRNA7	C0011269	Dementia, Vascular	DisGeNet	
+ACHE	C0751882	Congenital myasthenic syndrome	DisGeNet	
+BCHE	C0751882	Congenital myasthenic syndrome	DisGeNet	
+CHAT	C0751882	Congenital myasthenic syndrome	ClinVar,DisGeNet	
+ACHE	C2911647	Weight Gain Adverse Event	DisGeNet	
+BCHE	C2911647	Weight Gain Adverse Event	DisGeNet	
+CHAT	C2911647	Weight Gain Adverse Event	DisGeNet	
+CHRNA7	C2911647	Weight Gain Adverse Event	DisGeNet	
+ACHE	C0011265	Dementia familial British	DisGeNet	
+ALB	C0011265	Dementia familial British	DisGeNet	
+BCHE	C0011265	Dementia familial British	DisGeNet	
+CHAT	C0011265	Dementia familial British	DisGeNet	
+CHRNA7	C0011265	Dementia familial British	DisGeNet	
+ACHE	C0018273	Growth Disorders	DisGeNet	
+SLC22A4	C0018273	Growth Disorders	DisGeNet	
+SLC22A5	C0018273	Growth Disorders	DisGeNet	
+SLC22A1	C0005398	Extrahepatic cholestasis	DisGeNet	
+SLC22A2	C0005398	Extrahepatic cholestasis	DisGeNet	
+ACHE	C0022972	Myasthenic syndrome, congenital, 8	DisGeNet	
+CHAT	C0022972	Myasthenic syndrome, congenital, 8	DisGeNet	
+ALB	C0013146	Methamphetamine abuse	DisGeNet	
+BCHE	C0013146	Methamphetamine abuse	DisGeNet	
+SLC22A3	C0013146	Methamphetamine abuse	DisGeNet	
+ALB	C0031039	Pericardial effusion	DisGeNet	
+SLC22A2	C0031039	Pericardial effusion	DisGeNet	
+ACHE	C0011389	Plaque, Atherosclerotic	DisGeNet	
+ALB	C0011389	Plaque, Atherosclerotic	DisGeNet	
+BCHE	C0011389	Plaque, Atherosclerotic	DisGeNet	
+CHAT	C0011389	Plaque, Atherosclerotic	DisGeNet	
+SLC22A3	C0027059	Myocarditis	DisGeNet	
+SLC22A4	C0027059	Myocarditis	DisGeNet	
+SLC22A5	C0027059	Myocarditis	DisGeNet	
+ACHE	C0333463	Senile plaques	DisGeNet	
+ALB	C0333463	Senile plaques	DisGeNet	
+BCHE	C0333463	Senile plaques	DisGeNet	
+CHAT	C0333463	Senile plaques	DisGeNet	
+BCHE	C1270972	Mild cognitive impairment	DisGeNet	
+CHAT	C1270972	Mild cognitive impairment	DisGeNet	
+CHRNA7	C1270972	Mild cognitive impairment	DisGeNet	
+ACHE	C0497327	Dementia	DisGeNet	
+ALB	C0497327	Dementia	DisGeNet	
+BCHE	C0497327	Dementia	DisGeNet	
+CHAT	C0497327	Dementia	DisGeNet	
+CHRNA7	C0497327	Dementia	DisGeNet	
+ACHE	C0023364	Leptospirosis	DisGeNet	
+BCHE	C0023364	Leptospirosis	DisGeNet	
+SLC22A4	C0016169	pathologic fistula	DisGeNet	
+SLC22A5	C0016169	pathologic fistula	DisGeNet	
+ACHE	C0002893	Refractory anemia	DisGeNet	
+BCHE	C0002893	Refractory anemia	DisGeNet	
+ACHE	C0002894	Refractory anaemia with excess blasts	DisGeNet	
+BCHE	C0002894	Refractory anaemia with excess blasts	DisGeNet	
+ACHE	C0025261	Memory Disorders	DisGeNet	
+CHRNA7	C0025261	Memory Disorders	DisGeNet	
+SLC22A1	C0008372	Intrahepatic cholestasis	DisGeNet	
+SLC22A2	C0008372	Intrahepatic cholestasis	DisGeNet	
+ALB	C0041755	Adverse drug events and drug allergies	DisGeNet	
+BCHE	C0041755	Adverse drug events and drug allergies	DisGeNet	
+BCHE	C0002622	Memory Loss	DisGeNet	
+CHAT	C0002622	Memory Loss	DisGeNet	

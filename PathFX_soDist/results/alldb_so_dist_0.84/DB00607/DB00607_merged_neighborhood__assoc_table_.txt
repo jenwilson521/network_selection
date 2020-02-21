@@ -1,0 +1,5 @@
+rank	phenotype	cui	assoc in neigh	assoc in intom	probability	Benjamini-Hochberg	genes	
+25	Chronic schizophrenia	C0221765	2	36	1.6191638053886237e-05	4.53720508167e-05	CYP1A2,CYP3A4
+39	Acute hepatic failure	C0162557	3	135	3.396158840773822e-05	7.0780399274e-05	ALB,CYP1A2,CYP3A4
+42	Chronic liver disease	C0341439	3	144	4.370876456605277e-05	7.62250453721e-05	ALB,CYP1A2,CYP3A4
+46	Adverse drug events and drug allergies	C0041755	2	60	7.588389350077218e-05	8.34845735027e-05	ALB,CYP1A2

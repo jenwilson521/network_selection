@@ -1,0 +1,4 @@
+node1	node2	edge_score	
+DB00047	INSR	1.0	
+DB00047	IGF1R	1.0	
+

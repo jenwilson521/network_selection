@@ -1,0 +1,16 @@
+node_name	node_type	
+DB08883	drug	
+CYP3A4	drug_target	
+CYP3A5	drug_target	
+CYP2B6	drug_target	
+CYP1A2	drug_target	
+GRIA1	drug_target	
+Tardive Dyskinesia	phenotype	
+Orofacial dyskinesia	phenotype	
+Neoplasms, Germ Cell and Embryonal	phenotype	
+Primary malignant neoplasm of liver	phenotype	
+Polyglandular Type I Autoimmune Syndrome	phenotype	
+Drug Allergy	phenotype	
+Squamous Cell Neoplasms	phenotype	
+ {Porphyria cutanea tarda, susceptibility to}, 176100 (3)	phenotype	
+Enzyme inhibition disorder	phenotype	

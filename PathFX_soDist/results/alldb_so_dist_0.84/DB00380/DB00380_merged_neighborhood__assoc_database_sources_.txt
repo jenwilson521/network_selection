@@ -1,0 +1,101 @@
+Gene	CUI	Source Databases	
+TOP2A	C0001418	 Adenocarcinoma, ovarian, somatic, 167000 (3)	DisGeNet	
+TOP2A	C0001618	Neoplasm of the adrenal cortex	DisGeNet	
+TOP2A	C0004135	Ataxia-telangiectasia syndrome	DisGeNet	
+TOP2A	C0005684	Malignant tumor of urinary bladder	DisGeNet	
+TOP2A	C0005695	Urinary Bladder Neoplasms	DisGeNet	
+TOP2A	C0006142	Breast-ovarian cancer, familial 1	DisGeNet	
+TOP2A	C0007131	Non-small cell lung carcinoma	DisGeNet	
+TOP2A	C0007137	Squamous cell carcinoma	DisGeNet	
+TOP2A	C0007873	Uterine Cervical Neoplasms	DisGeNet	
+TOP2A	C0009375	Neoplasm of the colon	DisGeNet	
+TOP2A	C0009402	Colorectal cancer 1	DisGeNet	
+TOP2A	C0009404	Colorectal Neoplasms	DisGeNet	
+TOP2A	C0010346	Crohn Disease	DisGeNet	
+TOP2A	C0010606	Adenoid Cystic Carcinoma	DisGeNet	
+TOP2A	C0011860	Diabetes mellitus type 2	DisGeNet	
+TOP2A	C0016978	Neoplasm of the gallbladder	DisGeNet	
+TOP2A	C0017636	Glioblastoma	DisGeNet	
+TOP2A	C0017638	Glioma	DisGeNet	
+TOP2A	C0017661	IgA nephropathy, susceptibility to, 3	DisGeNet	
+TOP2A	C0019163	Acute type B viral hepatitis	DisGeNet	
+TOP2A	C0019829	Hodgkin Disease	DisGeNet	
+TOP2A	C0023418	Leukemia, Lymphocytic, Chronic, B-Cell	DisGeNet	
+TOP2A	C0023434	Chronic Lymphocytic Leukemia	DisGeNet	
+TOP2A	C0023449	Acute lymphoid leukemia	DisGeNet	
+TOP2A	C0023452	Leukemia, Lymphocytic, Acute, L1	DisGeNet	
+TOP2A	C0023467	Acute myeloid leukemia	DisGeNet	
+TOP2A	C0023827	Liposarcoma	DisGeNet	
+TOP2A	C0024299	Lymphoma, Large B-Cell, Diffuse	DisGeNet	
+TOP2A	C0024623	{Gastric cancer risk after H. pylori infection}, 137215 (3)	DisGeNet	
+TOP2A	C0024667	Animal Mammary Neoplasms	DisGeNet	
+TOP2A	C0025202	Melanoma	DisGeNet	
+TOP2A	C0025286	Meningioma	DisGeNet	
+TOP2A	C0026499	Monosomy	DisGeNet	
+TOP2A	C0026936	Mycoplasma Infections	DisGeNet	
+TOP2A	C0027627	Secondary hypertriglyceridemia	DisGeNet	
+TOP2A	C0027651	Neoplasms	HumPhenOnt	
+TOP2A	C0027708	Wilms Tumor	DisGeNet	
+TOP2A	C0027766	Neoplasm of the nervous system	HumPhenOnt	
+TOP2A	C0027830	Neurofibromas	DisGeNet	
+TOP2A	C0032019	Pituitary Neoplasms	DisGeNet	
+TOP2A	C0032460	Polycystic Ovary Syndrome	DisGeNet	
+TOP2A	C0033578	Prostatic Neoplasms	DisGeNet	
+TOP2A	C0036095	Salivary gland neoplasm	DisGeNet	
+TOP2A	C0038356	Stomach Neoplasms	DisGeNet	
+TOP2A	C0041296	Tuberculosis	DisGeNet	
+TOP2A	C0042063	Abnormality of the genitourinary system	HumPhenOnt	
+TOP2A	C0079744	Germinal Center B-Cell-Like Diffuse Large B-Cell Lymphoma	DisGeNet	
+TOP2A	C0085669	Acute leukemia	DisGeNet	
+TOP2A	C0086692	Benign neoplasm of other endocrine glands	DisGeNet	
+TOP2A	C0149925	Small cell lung cancer	DisGeNet	
+TOP2A	C0151779	Cutaneous malignant melanoma 3	DisGeNet	
+TOP2A	C0175754	Agenesis of corpus callosum	DisGeNet	
+TOP2A	C0206139	Lichen Planus, Oral	DisGeNet	
+TOP2A	C0206686	Adrenocortical carcinoma	DisGeNet	
+TOP2A	C0206715	Neuroepithelial neoplasm	DisGeNet	
+TOP2A	C0206727	Nerve Sheath Tumors	DisGeNet	
+TOP2A	C0235974	Pancreatic Carcinoma	DisGeNet	
+TOP2A	C0242379	Malignant neoplasm of lung	DisGeNet	
+TOP2A	C0242656	Disease Progression	DisGeNet	
+TOP2A	C0278488	Carcinoma breast stage IV	DisGeNet	
+TOP2A	C0278493	Breast cancer recurrent	DisGeNet	
+TOP2A	C0278701	Gastric Adenocarcinoma	DisGeNet	
+TOP2A	C0280324	Laryngeal Squamous Cell Carcinoma	DisGeNet	
+TOP2A	C0281361	Pancreatic adenocarcinoma	DisGeNet	
+TOP2A	C0333875	High-Grade Squamous Intraepithelial Lesions	DisGeNet	
+TOP2A	C0334634	Malignant lymphoma, lymphocytic, intermediate differentiation, diffuse	DisGeNet	
+TOP2A	C0341439	Chronic liver disease	DisGeNet	
+TOP2A	C0346647	Malignant neoplasm of pancreas	DisGeNet	
+TOP2A	C0376358	Malignant tumor of prostate	DisGeNet	
+TOP2A	C0376545	Hematological neoplasm	DisGeNet	
+TOP2A	C0497552	Abnormality of the nervous system	HumPhenOnt	
+TOP2A	C0596263	Carcinogenesis	DisGeNet	
+TOP2A	C0600139	Prostate carcinoma	DisGeNet	
+TOP2A	C0677886	Ovarian epithelial cancer	DisGeNet	
+TOP2A	C0678222	Breast carcinoma	DisGeNet	
+TOP2A	C0684249	Lung cancer	DisGeNet	
+TOP2A	C0699791	Stomach cancer	DisGeNet	
+TOP2A	C0699885	Bladder carcinoma	DisGeNet	
+TOP2A	C0700095	Neuroblastoma	DisGeNet	
+TOP2A	C0741899	Poorly differentiated carcinoma	DisGeNet	
+TOP2A	C0751690	Malignant peripheral nerve sheath tumor with rhabdomyoblastic differentiation	DisGeNet	
+TOP2A	C0853879	Invasive breast carcinoma	DisGeNet	
+TOP2A	C0877373	Advanced cancer	DisGeNet	
+TOP2A	C0919267	Ovarian Neoplasms	DisGeNet	
+TOP2A	C1134719	Invasive Ductal Breast Carcinoma	DisGeNet	
+TOP2A	C1140680	BREAST-OVARIAN CANCER, FAMILIAL, SUSCEPTIBILITY TO, 4	DisGeNet	
+TOP2A	C1527249	Colorectal cancer	DisGeNet	
+TOP2A	C1704272	Benign Prostatic Hyperplasia	DisGeNet	
+TOP2A	C1841972	Glucocorticoid resistance, generalized	DisGeNet	
+TOP2A	C1961102	Precursor Cell Lymphoblastic Leukemia-Lymphoma	DisGeNet	
+TOP2A	C2239176	Hepatocellular carcinoma	DisGeNet	
+TOP2A	C2931822	Nasopharyngeal carcinoma, susceptibility to, 3	DisGeNet	
+TOP2A	C2986665	Early-Stage Breast Carcinoma	DisGeNet	
+TOP2A	C3714644	Neoplasm of the thymus	DisGeNet	
+TOP2A	C4021768	Abnormality of metabolism/homeostasis	HumPhenOnt	
+TOP2A	C4021821	Abnormality of the urinary system	HumPhenOnt	
+TOP2A	C4022810	Abnormality of nervous system morphology	HumPhenOnt	
+TOP2A	C4023185	Neoplasm by anatomical site	HumPhenOnt	
+TOP2A	C4023437	Abnormality of the urinary system physiology	HumPhenOnt	
+TOP2A	C4025655	Abnormality of urine homeostasis	HumPhenOnt	

@@ -1,0 +1,15 @@
+node_name	node_type	
+DB00806	drug	
+ADORA2A	drug_target	
+CYP1A2	drug_target	
+ADORA1	drug_target	
+NT5E	drug_target	
+PDE4A	drug_target	
+PDE4B	drug_target	
+PDE5A	drug_target	
+Adverse drug events and drug allergies	phenotype	
+Tardive Dyskinesia	phenotype	
+Orofacial dyskinesia	phenotype	
+Hypotension	phenotype	
+Dyskinesia, Drug-Induced	phenotype	
+Ventricular Dysfunction, Right	phenotype	

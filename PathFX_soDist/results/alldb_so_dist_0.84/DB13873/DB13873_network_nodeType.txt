@@ -1,0 +1,22 @@
+node_name	node_type	
+DB13873	drug	
+PPARG	drug_target	
+PPARD	drug_target	
+NR1I2	drug_target	
+PPARA	drug_target	
+Liver regeneration disorder	phenotype	
+Hepatopulmonary Syndrome	phenotype	
+Steatohepatitis	phenotype	
+Dyslipidemias	phenotype	
+Vascular neoplasm	phenotype	
+Cholestasis of pregnancy	phenotype	
+Acne Vulgaris	phenotype	
+Obesity, severe, 601665 (3)	phenotype	
+Hypertriglyceridemia result	phenotype	
+Pediatric Obesity	phenotype	
+Insulin resistance syndrome	phenotype	
+Coronary Restenosis	phenotype	
+Non-alcoholic Fatty Liver Disease	phenotype	
+Diabetic Cardiomyopathies	phenotype	
+Biliary tract neoplasm	phenotype	
+Disorders of lipoid metabolism	phenotype	

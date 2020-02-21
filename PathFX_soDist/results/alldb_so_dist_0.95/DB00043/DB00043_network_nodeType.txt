@@ -1,0 +1,27 @@
+node_name	node_type	
+DB00043	drug	
+MS4A2	drug_target	
+FCER1A	drug_target	
+Anaphylactic shock NOS	phenotype	
+Asthma	phenotype	
+Breast-ovarian cancer, familial 1	phenotype	
+Bronchiolitis, Viral	phenotype	
+Cardiovascular Diseases	phenotype	
+Drug Eruptions	phenotype	
+Dermatitis, Atopic	phenotype	
+Drug Allergy	phenotype	
+Eczema	phenotype	
+Glioma	phenotype	
+Inflammatory Bowel Diseases	phenotype	
+Leukemia, Lymphocytic, Chronic, B-Cell	phenotype	
+Periodontitis	phenotype	
+Respiratory Syncytial Virus Infections	phenotype	
+Rhinitis, Allergic, Seasonal	phenotype	
+Urticaria	phenotype	
+Aortic Aneurysm, Abdominal	phenotype	
+Breast carcinoma	phenotype	
+Coronary Artery Disease	phenotype	
+Allergic rhinitis	phenotype	
+Granulomatosis with Polyangiitis	phenotype	
+Allergic disposition	phenotype	
+Allergic sensitization	phenotype	

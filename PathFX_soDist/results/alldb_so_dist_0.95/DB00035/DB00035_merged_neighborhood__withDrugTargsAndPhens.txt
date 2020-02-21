@@ -1,0 +1,293 @@
+node1	node2	edge_score	
+DB00035	AVPR1B	1.0	
+DB00035	PTGS2	1.0	
+DB00035	AVPR2	1.0	
+DB00035	AVPR1A	1.0	
+DB00035	PTGS1	1.0	
+PTGS2	rs12042763	0.99
+PTGS2	rs5275	0.99
+PTGS2	rs4648287	0.99
+PTGS1	rs10306135	0.99
+PTGS1		1.0
+PTGS2	rs20417	0.99
+PTGS1	rs1330344	0.99
+PTGS2		1.0
+PTGS1	rs10306114	0.99
+gastritis h pylori	PTGS1	1.0	
+gastritis h pylori	PTGS2	1.0	
+Creutzfeldt-Jakob Disease, Sporadic	PTGS1	1.0	
+Creutzfeldt-Jakob Disease, Sporadic	PTGS2	1.0	
+keratoacanthoma	PTGS1	1.0	
+keratoacanthoma	PTGS2	1.0	
+Rotavirus Infections	PTGS1	1.0	
+Rotavirus Infections	PTGS2	1.0	
+Anaphylactic shock NOS	PTGS1	1.0	
+Anaphylactic shock NOS	PTGS2	1.0	
+Stomach Diseases	PTGS1	1.0	
+Stomach Diseases	PTGS2	1.0	
+Renovascular hypertension	PTGS1	1.0	
+Renovascular hypertension	PTGS2	1.0	
+Neuritis	PTGS1	1.0	
+Neuritis	PTGS2	1.0	
+Cervical Adenocarcinoma	PTGS1	1.0	
+Cervical Adenocarcinoma	PTGS2	1.0	
+Dyspepsia	PTGS1	1.0	
+Dyspepsia	PTGS2	1.0	
+Medullary carcinoma	PTGS1	1.0	
+Medullary carcinoma	PTGS2	1.0	
+Colonic Polyps	PTGS1	1.0	
+Colonic Polyps	PTGS2	1.0	
+Esophagitis	PTGS1	1.0	
+Esophagitis	PTGS2	1.0	
+Idiopathic Inflammatory Myopathies	PTGS1	1.0	
+Idiopathic Inflammatory Myopathies	PTGS2	1.0	
+Cytochrome-c oxidase deficiency	PTGS1	1.0	
+Cytochrome-c oxidase deficiency	PTGS2	1.0	
+gliosarcoma	PTGS1	1.0	
+gliosarcoma	PTGS2	1.0	
+Colorectal polyposis	PTGS1	1.0	
+Colorectal polyposis	PTGS2	1.0	
+Peutz-Jeghers syndrome	PTGS1	1.0	
+Peutz-Jeghers syndrome	PTGS2	1.0	
+Duodenal Ulcer	PTGS1	1.0	
+Duodenal Ulcer	PTGS2	1.0	
+Adult type dermatomyositis	PTGS1	1.0	
+Adult type dermatomyositis	PTGS2	1.0	
+Intestinal polyp	PTGS1	1.0	
+Intestinal polyp	PTGS2	1.0	
+Urinary tract infection	PTGS1	1.0	
+Urinary tract infection	PTGS2	1.0	
+Creutzfeldt-Jakob Syndrome	PTGS1	1.0	
+Creutzfeldt-Jakob Syndrome	PTGS2	1.0	
+Hyperplastic Polyp	PTGS1	1.0	
+Hyperplastic Polyp	PTGS2	1.0	
+Polymyositis	PTGS1	1.0	
+Polymyositis	PTGS2	1.0	
+Intraocular pressure disorder	PTGS1	1.0	
+Intraocular pressure disorder	PTGS2	1.0	
+Hamartoma	PTGS1	1.0	
+Hamartoma	PTGS2	1.0	
+Helicobacter Infections	PTGS1	1.0	
+Helicobacter Infections	PTGS2	1.0	
+Dermatomyositis	PTGS1	1.0	
+Dermatomyositis	PTGS2	1.0	
+Ovarian cyst	PTGS1	1.0	
+Ovarian cyst	PTGS2	1.0	
+Gastric ulcer	PTGS1	1.0	
+Gastric ulcer	PTGS2	1.0	
+Peptic ulcer	PTGS1	1.0	
+Peptic ulcer	PTGS2	1.0	
+Musculoskeletal Diseases	PTGS1	1.0	
+Musculoskeletal Diseases	PTGS2	1.0	
+Pregnancy Complications, Hematologic	PTGS1	1.0	
+Pregnancy Complications, Hematologic	PTGS2	1.0	
+Myositis	PTGS1	1.0	
+Myositis	PTGS2	1.0	
+Lyme Disease	PTGS1	1.0	
+Lyme Disease	PTGS2	1.0	
+Arthropathy	PTGS1	1.0	
+Arthropathy	PTGS2	1.0	
+Polycystic kidney disease, autosomal dominant	PTGS1	1.0	
+Polycystic kidney disease, autosomal dominant	PTGS2	1.0	
+Fetal Diseases	PTGS1	1.0	
+Fetal Diseases	PTGS2	1.0	
+Ureteral obstruction	PTGS1	1.0	
+Ureteral obstruction	PTGS2	1.0	
+Thrombosis	PTGS1	1.0	
+Thrombosis	PTGS2	1.0	
+Primary open angle glaucoma juvenile onset 1	PTGS1	1.0	
+Primary open angle glaucoma juvenile onset 1	PTGS2	1.0	
+Hyperalgesia	PTGS1	1.0	
+Hyperalgesia	PTGS2	1.0	
+Eclampsia	PTGS1	1.0	
+Eclampsia	PTGS2	1.0	
+Flushing	PTGS1	1.0	
+Fetal Membranes, Premature Rupture	PTGS1	1.0	
+Fetal Membranes, Premature Rupture	PTGS2	1.0	
+Chorioamnionitis	PTGS1	1.0	
+Chorioamnionitis	PTGS2	1.0	
+Connective Tissue Diseases	PTGS1	1.0	
+Connective Tissue Diseases	PTGS2	1.0	
+Cardiovascular morbidity	PTGS1	1.0	
+Medullary thyroid carcinoma	PTGS1	1.0	
+Medullary thyroid carcinoma	PTGS2	1.0	
+Echinococcosis	PTGS1	1.0	
+Squamous cell carcinoma of the hypopharynx	PTGS2	1.0	
+Early gastric cancer	PTGS2	1.0	
+Malignant neoplasm of vulva	PTGS2	1.0	
+Premature Obstetric Labor	PTGS1	1.0	
+Premature Obstetric Labor	PTGS2	1.0	
+Arthritis, Psoriatic	PTGS1	1.0	
+Arthritis, Psoriatic	PTGS2	1.0	
+Bladder neck obstruction	PTGS2	1.0	
+Aortic atherosclerosis	PTGS2	1.0	
+Squamous Cell Neoplasms	PTGS2	1.0	
+Aortic valve calcification	PTGS2	1.0	
+Thymic Carcinoma	PTGS2	1.0	
+Endothelial dysfunction	PTGS1	1.0	
+Endothelial dysfunction	PTGS2	1.0	
+Anterior myocardial infarction	PTGS2	1.0	
+Prostatitis	PTGS2	1.0	
+Enzyme inhibition disorder	PTGS2	1.0	
+Mucinous Neoplasm	PTGS2	1.0	
+Lupus Nephritis	PTGS1	1.0	
+Lupus Nephritis	PTGS2	1.0	
+Pericardial effusion	PTGS2	1.0	
+Streptococcal pneumonia	PTGS2	1.0	
+Hepatic encephalopathy	PTGS1	1.0	
+Rhinitis, Allergic, Perennial	PTGS2	1.0	
+Osteoarthritis of distal interphalangeal joint	PTGS2	1.0	
+Nasal polyposis	PTGS1	1.0	
+Nasal polyposis	PTGS2	1.0	
+Gastritis	PTGS1	1.0	
+Gastritis	PTGS2	1.0	
+Dermal atrophy	PTGS1	1.0	
+Dermal atrophy	PTGS2	1.0	
+Peptic Ulcer Hemorrhage	PTGS1	1.0	
+Invasive Lobular Breast Carcinoma	PTGS2	1.0	
+Sudden death	PTGS2	1.0	
+Acute postoperative pain	PTGS2	1.0	
+Salmonella infections	PTGS2	1.0	
+Sclerosis	PTGS2	1.0	
+Osteoarthritis of the hand	PTGS2	1.0	
+Simple pneumoconiosis	PTGS2	1.0	
+Ovarian hyperstimulation syndrome	PTGS2	1.0	
+Xeroderma pigmentosum, group A	PTGS2	1.0	
+Malignant gastrointestinal tract tumors	PTGS1	1.0	
+Malignant gastrointestinal tract tumors	PTGS2	1.0	
+Purpura, Thrombotic Thrombocytopenic	PTGS2	1.0	
+Prostate cancer stage C	PTGS2	1.0	
+Diffuse Astrocytoma	PTGS2	1.0	
+Juvenile polyposis syndrome	PTGS2	1.0	
+Gastro-esophageal reflux disease with esophagitis	PTGS2	1.0	
+Cerebral aneurysm	PTGS2	1.0	
+Gastric Cardia Adenocarcinoma	PTGS2	1.0	
+Netherton syndrome	PTGS2	1.0	
+Intestinal Cancer	PTGS2	1.0	
+Neuropathogenesis	PTGS2	1.0	
+Adenoma of large intestine	PTGS1	1.0	
+Adenoma of large intestine	PTGS2	1.0	
+Bronchogenic Carcinoma	PTGS2	1.0	
+Neoplasm of the tongue	PTGS2	1.0	
+Experimental Organism Basal Cell Carcinoma	PTGS1	1.0	
+Experimental Organism Basal Cell Carcinoma	PTGS2	1.0	
+Displacement of intervertebral disc	PTGS2	1.0	
+Primary Sj�gren's syndrome	PTGS1	1.0	
+Chemical Carcinogenesis	PTGS2	1.0	
+Dryness of eye	PTGS2	1.0	
+AIDS Dementia Complex	PTGS2	1.0	
+Monocytic leukemia	PTGS2	1.0	
+Thromboangiitis Obliterans	PTGS2	1.0	
+Drug usage	PTGS2	1.0	
+Dry Eye Syndromes	PTGS2	1.0	
+Chronic Fatigue Syndrome	PTGS2	1.0	
+CARCINOMA OF VULVA	PTGS2	1.0	
+polyps	PTGS1	1.0	
+polyps	PTGS2	1.0	
+Rectal Carcinoma	PTGS1	1.0	
+Rectal Carcinoma	PTGS2	1.0	
+Drusen	PTGS2	1.0	
+Pelvic inflammatory disease	PTGS2	1.0	
+Bile duct cancer resectable	PTGS2	1.0	
+Poorly differentiated carcinoma	PTGS2	1.0	
+Friedreich's ataxia	PTGS2	1.0	
+Pleuritis	PTGS2	1.0	
+Helicobacter pylori infection	PTGS1	1.0	
+Helicobacter pylori infection	PTGS2	1.0	
+Arthritis, Reactive	PTGS2	1.0	
+Idiopathic fibrosing alveolitis, chronic form	PTGS2	1.0	
+Hematocrit level	PTGS2	1.0	
+Adenocarcinoma Of Esophagus	PTGS1	1.0	
+Adenocarcinoma Of Esophagus	PTGS2	1.0	
+Bloom syndrome	PTGS2	1.0	
+Uterine Cancer	PTGS2	1.0	
+Reperfusion Injury	PTGS1	1.0	
+Reperfusion Injury	PTGS2	1.0	
+Lupus Vulgaris	PTGS1	1.0	
+Lupus Vulgaris	PTGS2	1.0	
+Peptic Esophagitis	PTGS2	1.0	
+Leukoplakia	PTGS2	1.0	
+Squamous intraepithelial lesion	PTGS2	1.0	
+Oncocytic Neoplasm	PTGS2	1.0	
+Endometrial Hyperplasia	PTGS2	1.0	
+Discoid lupus erythematosus	PTGS1	1.0	
+Discoid lupus erythematosus	PTGS2	1.0	
+Acute Coronary Syndrome	PTGS1	1.0	
+Acute Coronary Syndrome	PTGS2	1.0	
+Endometriosis of uterus	PTGS2	1.0	
+Aicardi Goutieres syndrome 1	PTGS2	1.0	
+Malignant Fibrous Histiocytoma	PTGS2	1.0	
+Dysmorphic features	PTGS1	1.0	
+Inflammatory pain	PTGS2	1.0	
+Oropharyngeal squamous cell carcinoma	PTGS2	1.0	
+Lymphangiomyomatosis	PTGS2	1.0	
+Head and Neck Neoplasms	PTGS1	1.0	
+Head and Neck Neoplasms	PTGS2	1.0	
+Pulmonary hypertension, neonatal, susceptibility to	PTGS1	1.0	
+Pulmonary hypertension, neonatal, susceptibility to	PTGS2	1.0	
+Oral Submucous Fibrosis	PTGS2	1.0	
+Desmoid tumor	PTGS2	1.0	
+Carcinoma, Lobular	PTGS2	1.0	
+Adenocarcinoma, Endometrioid	PTGS2	1.0	
+Ischemic Cerebrovascular Accident	PTGS1	1.0	
+Ischemic Cerebrovascular Accident	PTGS2	1.0	
+Shigella Infections	PTGS2	1.0	
+Sarcoidosis, Pulmonary	PTGS2	1.0	
+Adverse drug events and drug allergies	PTGS2	1.0	
+Idiopathic Pulmonary Fibrosis	PTGS1	1.0	
+Idiopathic Pulmonary Fibrosis	PTGS2	1.0	
+Xerostomia	PTGS2	1.0	
+Malignant neoplasm of the central nervous system	PTGS2	1.0	
+Ovarian adenocarcinoma	PTGS2	1.0	
+Pancreatic intraepithelial neoplasia	PTGS2	1.0	
+Cognition Disorders	PTGS2	1.0	
+Turcot syndrome	PTGS2	1.0	
+Systemic Inflammatory Response Syndrome	PTGS1	1.0	
+Breast Fibrocystic Disease	PTGS2	1.0	
+Ovarian Serous Adenocarcinoma	PTGS2	1.0	
+Early-Stage Breast Carcinoma	PTGS2	1.0	
+Thyroid Nodule	PTGS2	1.0	
+Angiogenic Switch	PTGS2	1.0	
+Aqueous Humor Disorders	PTGS2	1.0	
+aggressive cancer	PTGS2	1.0	
+Malformation of cortical development	PTGS2	1.0	
+Preeclampsia/eclampsia 1	PTGS1	1.0	
+Preeclampsia/eclampsia 1	PTGS2	1.0	
+Malignant neoplasm of colon stage IV	PTGS2	1.0	
+Premature Birth	PTGS1	1.0	
+Premature Birth	PTGS2	1.0	
+Hepatitis	PTGS1	1.0	
+Hepatitis	PTGS2	1.0	
+Pulmonary Disease, Chronic Obstructive	PTGS1	1.0	
+Pulmonary Disease, Chronic Obstructive	PTGS2	1.0	
+Acute Lung Injury	PTGS2	1.0	
+Adenomatous Polyps	PTGS2	1.0	
+latent infection	PTGS2	1.0	
+Experimental Autoimmune Encephalomyelitis	PTGS1	1.0	
+Experimental Autoimmune Encephalomyelitis	PTGS2	1.0	
+Bleeding with minor or no trauma	PTGS1	1.0	
+Polyposis syndrome, mixed hereditary 1 (4)	PTGS2	1.0	
+Breast Cancer Model	PTGS2	1.0	
+{Systemic lupus erythematosus, susceptibility to, 8} (2)	PTGS1	1.0	
+{Systemic lupus erythematosus, susceptibility to, 8} (2)	PTGS2	1.0	
+Oral leukoplakia	PTGS2	1.0	
+Postoperative Complications	PTGS2	1.0	
+Endometrioma	PTGS2	1.0	
+Complications of Diabetes Mellitus	PTGS2	1.0	
+Familial adenomatous polyposis 1	PTGS1	1.0	
+Familial adenomatous polyposis 1	PTGS2	1.0	
+Nephrocalcinosis	PTGS2	1.0	
+Ischemic stroke	PTGS1	1.0	
+Ischemic stroke	PTGS2	1.0	
+Pulmonary edema	PTGS2	1.0	
+Chronic gastritis	PTGS2	1.0	
+Spondylarthropathies	PTGS2	1.0	
+Intestinal obstruction	PTGS2	1.0	
+Salivary gland neoplasm	PTGS2	1.0	
+Drug Allergy	PTGS1	1.0	
+Metaplasia	PTGS2	1.0	
+M5b Acute differentiated monocytic leukemia	PTGS2	1.0	
+Rash and Dermatitis Adverse Event Associated with Chemoradiation	PTGS2	1.0	
+Brain Ischemia	PTGS1	1.0	
+Brain Ischemia	PTGS2	1.0	
+IMMUNE SUPPRESSION	PTGS2	1.0	

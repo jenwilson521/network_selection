@@ -1,0 +1,15 @@
+Gene	CUI	Source Databases	
+CACNA1C	C0151878	Prolonged QT interval	HumPhenOnt	
+CACNA1S	C0151878	Prolonged QT interval	HumPhenOnt	
+CACNA1C	C1141890	Congenital long QT syndrome	DisGeNet	
+CYP3A4	C1141890	Congenital long QT syndrome	DisGeNet	
+CACNA1C	C0024591	Malignant hyperthermia susceptibility	DisGeNet	
+CACNA1S	C0024591	Malignant hyperthermia susceptibility	ClinVar,DisGeNet	
+CACNA1C	C0438215	Abnormal cardiac test	HumPhenOnt	
+CACNA1S	C0438215	Abnormal cardiac test	HumPhenOnt	
+CACNA1C	C0522055	Abnormal EKG	HumPhenOnt	
+CACNA1S	C0522055	Abnormal EKG	HumPhenOnt	
+CACNA1C	C1720983	Channelopathies	DisGeNet	
+CACNA1S	C1720983	Channelopathies	DisGeNet	
+CACNA1C	C0085612	Ventricular arrhythmia	HumPhenOnt	
+CACNA1S	C0085612	Ventricular arrhythmia	HumPhenOnt	

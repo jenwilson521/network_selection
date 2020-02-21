@@ -1,0 +1,2 @@
+rank	phenotype	cui	assoc in neigh	assoc in intom	probability	Benjamini-Hochberg	genes	
+49	gliosarcoma	C0206726	3	64	2.5489363765895945e-05	4.33244916004e-05	CYP2B6,CYP3A4,ESR1

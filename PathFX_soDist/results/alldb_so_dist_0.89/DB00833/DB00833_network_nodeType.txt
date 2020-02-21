@@ -1,0 +1,13 @@
+node_name	node_type	
+DB00833	drug	
+SLC15A2	drug_target	
+MPO	drug_target	
+ABCB11	drug_target	
+SLC22A8	drug_target	
+Chromosome 11p deletion syndrome	phenotype	
+Hearing Loss, Partial	phenotype	
+Secondary hyperparathyroidism	phenotype	
+Deafness, autosomal recessive 44	phenotype	
+Acute kidney injury	phenotype	
+Cystic Fibrosis	phenotype	
+Influenza	phenotype	

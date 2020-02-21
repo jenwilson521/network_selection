@@ -1,0 +1,18 @@
+node_name	node_type	
+DB09123	drug	
+CYP3A4	drug_target	
+AR	drug_target	
+PGR	drug_target	
+21-hydroxylase deficiency	phenotype	
+Adrenal hyperplasia	phenotype	
+Neoplasms, Germ Cell and Embryonal	phenotype	
+Depressive Symptoms	phenotype	
+Hepatitis, Autoimmune	phenotype	
+Acute hepatic failure	phenotype	
+Testicular Neoplasms	phenotype	
+Primary malignant neoplasm of liver	phenotype	
+Bulbar palsy	phenotype	
+Scrub Typhus	phenotype	
+Disorders of Sex Development	phenotype	
+Chromosome 11p deletion syndrome	phenotype	
+Genitourinary neoplasm	phenotype	

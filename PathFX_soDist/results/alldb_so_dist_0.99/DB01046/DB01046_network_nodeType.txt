@@ -1,0 +1,4 @@
+node_name	node_type	
+DB01046	drug	
+CLCN2	drug_target	
+CBR1	drug_target	

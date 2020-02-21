@@ -1,0 +1,11 @@
+node_name	node_type	
+DB01241	drug	
+CYP2C9	drug_target	
+CYP2C8	drug_target	
+CYP1A2	drug_target	
+SLCO1B1	drug_target	
+CYP2C19	drug_target	
+PPARA	drug_target	
+CYP3A4	drug_target	
+UGT1A1	drug_target	
+UGT1A3	drug_target	

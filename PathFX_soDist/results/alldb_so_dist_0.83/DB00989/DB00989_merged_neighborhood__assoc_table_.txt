@@ -1,0 +1,6 @@
+rank	phenotype	cui	assoc in neigh	assoc in intom	probability	Benjamini-Hochberg	genes	
+16	Enzyme inhibition disorder	C0877008	2	33	4.64156459034637e-06	4.84848484848e-05	BCHE,CYP3A4
+22	Leptospirosis	C0023364	2	51	1.750934335253973e-05	6.66666666667e-05	ACHE,BCHE
+25	Refractory anemia	C0002893	2	55	2.2000471782912534e-05	7.57575757576e-05	ACHE,BCHE
+26	Refractory anaemia with excess blasts	C0002894	2	55	2.2000471782912534e-05	7.87878787879e-05	ACHE,BCHE
+29	Congenital myasthenic syndrome	C0751882	2	61	3.0062795670193765e-05	8.78787878788e-05	ACHE,BCHE

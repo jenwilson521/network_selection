@@ -1,0 +1,85 @@
+Gene	CUI	Source Databases	
+SLC22A5	C0023223	Leg Ulcer	DisGeNet	
+SLC22A5	C1306587	Acute encephalopathy	HumPhenOnt	
+SLC22A5	C0240479	Neck muscle weakness	HumPhenOnt	
+SLC22A5	C1141890	Congenital long QT syndrome	DisGeNet	
+SLC22A5	C0220656	Malignant ascites	DisGeNet	
+SLC22A5	C0023794	Lipoidosis	DisGeNet	
+SLC22A5	C4021656	Abnormality of fatty-acid metabolism	HumPhenOnt	
+SLC22A5	C0220994	Hyperammonemia	HumPhenOnt	
+SLC22A5	C0009676	Confusion	HumPhenOnt	
+SLC22A5	C0694563	Excessive daytime sleepiness	HumPhenOnt	
+SLC22A5	C0741923	cardiac event	DisGeNet	
+SLC22A5	C4021662	Abnormality of the endocardium	HumPhenOnt	
+SLC22A5	C0037054	Sickle Cell Trait	DisGeNet	
+SLC22A5	C0019045	Hemoglobinopathy	DisGeNet	
+SLC22A5	C0005859	Bloom syndrome	DisGeNet	
+SLC22A5	C0016169	pathologic fistula	DisGeNet	
+SLC22A5	C4023601	Abnormality of the musculature of the neck	HumPhenOnt	
+SLC22A5	C0039070	Syncope	DisGeNet	
+SLC22A5	C0520966	Incoordination	HumPhenOnt	
+SLC22A5	C4025336	Abnormality of nitrogen compound homeostasis	HumPhenOnt	
+SLC22A5	C0242528	Azotemia	HumPhenOnt	
+SLC22A5	C0013720	Ehlers-Danlos syndrome, type vii, autosomal recessive	DisGeNet	
+SLC22A5	C0018273	Growth Disorders	DisGeNet	
+SLC22A5	C0337174	Storage in hepatocytes	HumPhenOnt	
+SLC22A5	C0339143	Thyroid associated opthalmopathies	DisGeNet	
+SLC22A5	C1837257	Lipid accumulation in hepatocytes	HumPhenOnt	
+SLC22A5	C4021734	Abnormality of mitochondrial metabolism	HumPhenOnt	
+SLC22A5	C0009421	Coma	HumPhenOnt	
+SLC22A5	C2919828	Chronic ulcerative colitis	DisGeNet	
+SLC22A5	C0022521	Kartagener syndrome	DisGeNet	
+SLC22A5	C0494475	Generalized tonic-clonic seizures	HumPhenOnt	
+SLC22A5	C4023042	Abnormality of the mitochondrion	HumPhenOnt	
+SLC22A5	C0023380	Lethargy	HumPhenOnt	
+SLC22A5	C1561955	Fibrinogen Adverse Event	DisGeNet	
+SLC22A5	C0027059	Myocarditis	DisGeNet	
+SLC22A5	C0023976	Acquired long QT syndrome	DisGeNet	
+SLC22A5	C1848701	Elevated hepatic transaminases	HumPhenOnt	
+SLC22A5	C0032962	Pregnancy Complications	DisGeNet	
+SLC22A5	C4021663	Abnormality of muscle fibers	HumPhenOnt	
+SLC22A5	C0234533	Generalized seizures	HumPhenOnt	
+SLC22A5	C0005283	beta Thalassemia	DisGeNet	
+SLC22A5	C0015397	orbit (eye disorders)	DisGeNet	
+SLC15A2	C0018772	Hearing Loss, Partial	DisGeNet	
+SLC22A5	C0022104	Irritable bowel syndrome with diarrhea	DisGeNet	
+SLC22A5	C4023597	Abnormality of blood glucose concentration	HumPhenOnt	
+SLC22A5	C0333516	Tumor necrosis	DisGeNet	
+SLC22A5	C4025650	Abnormality of lipid metabolism	HumPhenOnt	
+SLC15A2	C0020503	Secondary hyperparathyroidism	DisGeNet	
+SLC22A5	C0042963	Vomiting	HumPhenOnt	
+SLC22A5	C0003872	Arthritis, Psoriatic	DisGeNet	
+SLC22A5	C0029422	Skeletal dysplasia	DisGeNet	
+SLC22A5	C0006274	Bronchiolitis, Viral	DisGeNet	
+SLC22A5	C0037317	Sleep disturbance	HumPhenOnt	
+SLC22A5	C0234428	Reduced consciousness/confusion	HumPhenOnt	
+SLC22A5	C0018790	Cardiac arrest	DisGeNet	
+SLC15A2	C0011053	Deafness, autosomal recessive 44	DisGeNet	
+SLC22A5	C0085584	Encephalopathy, acute, infection-induced, 4, susceptibility to	HumPhenOnt	
+SLC22A5	C0020615	Hypoglycemia, neonatal, simulating foetopathia diabetica	DisGeNet,HumPhenOnt	
+SLC22A5	C0002895	Anemia, Sickle Cell	DisGeNet	
+SLC22A5	C0149721	Left ventricular hypertrophy	DisGeNet	
+SLC22A5	C0018800	Cardiomegaly	HumPhenOnt	
+SLC22A5	C0035235	Respiratory Syncytial Virus Infections	DisGeNet	
+SLC22A5	C0027498	Nausea and vomiting	HumPhenOnt	
+SLC22A5	C4023595	Abnormality of cell physiology	HumPhenOnt	
+SLC22A5	C0238198	Gastrointestinal stromal tumor	DisGeNet	
+SLC22A5	C4025758	Abnormality of the myocardium	HumPhenOnt	
+SLC22A5	C0032914	Preeclampsia/eclampsia 1	DisGeNet	
+SLC22A5	C0018213	Graves Disease	DisGeNet	
+SLC22A5	C0007194	Hypertrophic cardiomyopathy	DisGeNet,HumPhenOnt	
+SLC22A5	C0266623	Abnormality of the neck	HumPhenOnt	
+SLC22A5	C0019209	Hepatomegaly	HumPhenOnt	
+SLC22A5	C3463824	Myelodysplastic syndrome	DisGeNet	
+SLC22A5	C0004943	Behcet Syndrome	DisGeNet	
+SLC22A5	C0015695	Hepatic steatosis	HumPhenOnt	
+SLC22A5	C4023598	Abnormal glucose homeostasis	HumPhenOnt	
+SLC22A5	C0026848	Myopathy, scapulohumeroperoneal	DisGeNet,HumPhenOnt	
+SLC15A2	C0010674	Cystic Fibrosis	DisGeNet	
+SLC22A5	C0007193	Cardiomyopathy, Dilated	DisGeNet	
+SLC22A5	C0042782	Visceromegaly	HumPhenOnt	
+SLC22A5	C4023599	Abnormality of carbohydrate metabolism/homeostasis	HumPhenOnt	
+SLC22A5	C4020869	Abnormality of abdomen morphology	HumPhenOnt	
+SLC22A5	C0008626	Congenital chromosomal disease	DisGeNet	
+SLC22A5	C1520166	Xenograft Model	DisGeNet	
+SLC22A5	C4023353	Abnormality of coordination	HumPhenOnt	

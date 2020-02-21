@@ -1,0 +1,4 @@
+node1	node2	edge_score	
+DB05246	CYP2C19	1.0	
+DB05246	CACNA1G	1.0	
+

@@ -1,0 +1,4 @@
+Gene	CUI	Source Databases	
+SLC22A8	C0812435	Chromosome 11p deletion syndrome	DisGeNet	
+SLCO2B1	C0020433	Hyperbilirubinemia	DisGeNet	
+SLC22A8	C0022660	Acute kidney injury	DisGeNet	

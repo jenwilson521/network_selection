@@ -1,0 +1,5 @@
+node1	node2	edge_score	
+DB09317	CYP3A4	1.0	
+DB09317	ESR1	1.0	
+DB09317	SERPINA7	1.0	
+

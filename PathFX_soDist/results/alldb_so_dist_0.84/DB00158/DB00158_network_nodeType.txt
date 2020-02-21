@@ -1,0 +1,20 @@
+node_name	node_type	
+DB00158	drug	
+ABCG2	drug_target	
+ABCC11	drug_target	
+MTHFR	drug_target	
+SLC46A1	drug_target	
+GGH	drug_target	
+DHFR	drug_target	
+SLC22A6	drug_target	
+SLC25A32	drug_target	
+ABCC4	drug_target	
+ABCC3	drug_target	
+FOLR1	drug_target	
+FOLR3	drug_target	
+Myelosuppression	phenotype	
+Adverse drug events and drug allergies	phenotype	
+Folic Acid Deficiency	phenotype	
+Intrahepatic cholestasis	phenotype	
+Hearing Loss, Partial	phenotype	
+Pleural Neoplasms	phenotype	

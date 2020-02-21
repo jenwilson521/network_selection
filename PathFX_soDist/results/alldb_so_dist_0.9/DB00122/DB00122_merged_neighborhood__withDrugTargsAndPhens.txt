@@ -1,0 +1,91 @@
+node1	node2	edge_score	
+DB00122	PCYT1A	1.0	
+DB00122	SLC44A1	1.0	
+DB00122	SLC44A3	1.0	
+DB00122	SLC22A2	1.0	
+DB00122	PLD1	1.0	
+DB00122	PLD2	1.0	
+DB00122	CHDH	1.0	
+DB00122	SLC22A3	1.0	
+DB00122	SLC22A4	1.0	
+DB00122	SLC22A5	1.0	
+DB00122	CHRNA7	1.0	
+DB00122	BCHE	1.0	
+DB00122	SLC22A1	1.0	
+DB00122	CHAT	1.0	
+DB00122	SLC5A7	1.0	
+DB00122	ACHE	1.0	
+DB00122	PCYT1B	1.0	
+DB00122	CHKA	1.0	
+DB00122	CHKB	1.0	
+SLC22A1	rs628031	0.99
+SLC22A1	rs2282143	0.99
+CHAT	rs3793790	0.99
+CHAT	rs2177370	0.99
+CHKB		1.0
+SLC22A1		1.0
+BCHE		1.0
+SLC22A4		1.0
+SLC22A2		1.0
+SLC22A1	rs12208357	0.99
+SLC22A1	rs622342	0.99
+SLC22A5		1.0
+BCHE	rs1803274	0.99
+CHAT	rs1880676	0.99
+SLC22A3		1.0
+SLC22A1	rs594709	0.99
+CHRNA7		1.0
+CHAT		1.0
+SLC22A1	SLC22A1*1, SLC22A1*2, SLC22A1*3, SLC22A1*4, SLC22A1*5	0.99
+BCHE	rs28933389	0.99
+BCHE	rs1799807	0.99
+CHAT	rs3810950	0.99
+SLC22A1	rs34130495	0.99
+SLC22A1	SLC22A1*1, SLC22A1*2, SLC22A1*3, SLC22A1*4, SLC22A1*5, SLC22A1*6	0.99
+SLC22A1	rs683369	0.99
+SLC22A1	rs35167514	0.99
+ACHE		1.0
+BCHE	rs28933390	0.99
+SLC22A1	rs72552763	0.99
+SLC22A1	rs36056065	0.99
+Congenital myasthenic syndrome	ACHE	1.0	
+Congenital myasthenic syndrome	BCHE	1.0	
+Congenital myasthenic syndrome	CHAT	1.0	
+Weight Gain Adverse Event	ACHE	1.0	
+Weight Gain Adverse Event	BCHE	1.0	
+Weight Gain Adverse Event	CHAT	1.0	
+Weight Gain Adverse Event	CHRNA7	1.0	
+Growth Disorders	ACHE	1.0	
+Growth Disorders	SLC22A4	1.0	
+Growth Disorders	SLC22A5	1.0	
+Dementia, Vascular	ACHE	1.0	
+Dementia, Vascular	CHAT	1.0	
+Dementia, Vascular	CHRNA7	1.0	
+Extrahepatic cholestasis	SLC22A1	1.0	
+Extrahepatic cholestasis	SLC22A2	1.0	
+Myasthenic syndrome, congenital, 8	ACHE	1.0	
+Myasthenic syndrome, congenital, 8	CHAT	1.0	
+Myocarditis	SLC22A3	1.0	
+Myocarditis	SLC22A4	1.0	
+Myocarditis	SLC22A5	1.0	
+Mild cognitive impairment	BCHE	1.0	
+Mild cognitive impairment	CHAT	1.0	
+Mild cognitive impairment	CHRNA7	1.0	
+Dementia familial British	ACHE	1.0	
+Dementia familial British	BCHE	1.0	
+Dementia familial British	CHAT	1.0	
+Dementia familial British	CHRNA7	1.0	
+Leptospirosis	ACHE	1.0	
+Leptospirosis	BCHE	1.0	
+pathologic fistula	SLC22A4	1.0	
+pathologic fistula	SLC22A5	1.0	
+Refractory anemia	ACHE	1.0	
+Refractory anemia	BCHE	1.0	
+Refractory anaemia with excess blasts	ACHE	1.0	
+Refractory anaemia with excess blasts	BCHE	1.0	
+Memory Disorders	ACHE	1.0	
+Memory Disorders	CHRNA7	1.0	
+Intrahepatic cholestasis	SLC22A1	1.0	
+Intrahepatic cholestasis	SLC22A2	1.0	
+Memory Loss	BCHE	1.0	
+Memory Loss	CHAT	1.0	

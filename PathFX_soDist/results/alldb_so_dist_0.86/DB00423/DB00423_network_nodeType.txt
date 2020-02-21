@@ -1,0 +1,3 @@
+node_name	node_type	
+DB00423	drug	
+CA1	drug_target	

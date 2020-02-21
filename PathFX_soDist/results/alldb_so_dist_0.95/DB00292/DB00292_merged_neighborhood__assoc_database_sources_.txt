@@ -1,0 +1,29 @@
+Gene	CUI	Source Databases	
+CYP11B2	C4025690	Prenatal maternal abnormality	HumPhenOnt	
+CYP19A1	C4025690	Prenatal maternal abnormality	HumPhenOnt	
+CYP11B2	C0014130	Disorder of endocrine system	DisGeNet	
+CYP19A1	C0014130	Disorder of endocrine system	DisGeNet	
+CYP11B2	C0001618	Neoplasm of the adrenal cortex	DisGeNet,HumPhenOnt	
+CYP19A1	C0001618	Neoplasm of the adrenal cortex	DisGeNet	
+CYP11B2	C0206667	Adrenocortical adenoma	DisGeNet,HumPhenOnt	
+CYP19A1	C0206667	Adrenocortical adenoma	DisGeNet	
+CYP11B2	C0028259	Nodule	DisGeNet	
+CYP19A1	C0028259	Nodule	DisGeNet	
+CYP19A1	C0029927	Ovarian cyst	HumPhenOnt	
+GABRA1	C0029927	Ovarian cyst	DisGeNet	
+CYP19A1	C0151639	Decreased fertility in females	HumPhenOnt	
+CYP11B2	C0340100	High altitude pulmonary edema	DisGeNet	
+CYP19A1	C0032051	Placental Insufficiency	DisGeNet	
+CYP11B2	C0206686	Adrenocortical carcinoma	DisGeNet	
+CYP19A1	C0206686	Adrenocortical carcinoma	DisGeNet	
+CYP11B2	C0001622	Adrenal Gland Hyperfunction	DisGeNet	
+CYP11B2	C0020461	Hyperkalemia	HumPhenOnt	
+CYP19A1	C0005694	Bladder neck obstruction	DisGeNet	
+CYP11B2	C0040264	Tinnitus	HumPhenOnt	
+GABRA1	C0751122	Severe myoclonic epilepsy in infancy	DisGeNet	
+CYP11B2	C4023644	Abnormality of sodium homeostasis	HumPhenOnt	
+CYP11B2	C0020625	Hyponatremia	HumPhenOnt	
+CYP19A1	C0236663	Alcohol withdrawal syndrome	DisGeNet	
+CYP11B2	C4025685	Adrenal overactivity	HumPhenOnt	
+CYP19A1	C0574769	Alopecia of scalp	DisGeNet	
+CYP19A1	C0853662	Oestrogen deficiency	DisGeNet	

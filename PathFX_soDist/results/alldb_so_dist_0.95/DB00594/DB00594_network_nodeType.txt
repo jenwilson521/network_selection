@@ -1,0 +1,74 @@
+node_name	node_type	
+DB00594	drug	
+AOC1	drug_target	
+SCNN1G	drug_target	
+SCNN1A	drug_target	
+ASIC1	drug_target	
+PLAU	drug_target	
+ASIC2	drug_target	
+SLC22A4	drug_target	
+SCNN1D	drug_target	
+SCNN1B	drug_target	
+SLC22A2	drug_target	
+SLC9A1	drug_target	
+Hyperkalemia	phenotype	
+Extrahepatic cholestasis	phenotype	
+Abnormality of sodium homeostasis	phenotype	
+Hyponatremia	phenotype	
+Adrenal overactivity	phenotype	
+Paratuberculosis	phenotype	
+Pericardial effusion	phenotype	
+Renal insufficiency	phenotype	
+Enterovirus Infections	phenotype	
+Alkalosis	phenotype	
+Hyperaldosteronism, familial, type IV	phenotype	
+Abnormality of potassium homeostasis	phenotype	
+Hypertension	phenotype	
+Renovascular hypertension	phenotype	
+Hypokalemia	phenotype	
+pathologic fistula	phenotype	
+Obstructive lung disease	phenotype	
+Henoch-Schoenlein Purpura	phenotype	
+Abnormality of monovalent inorganic cation homeostasis	phenotype	
+Intrahepatic cholestasis	phenotype	
+Metabolic acidosis	phenotype	
+Hyperuricemia, pulmonary hypertension, renal failure, and alkalosis	phenotype	
+Bronchitis	phenotype	
+Bronchitis, Chronic	phenotype	
+Panic disorder 1	phenotype	
+Growth Disorders	phenotype	
+Abnormality of the bronchi	phenotype	
+Recurrent upper respiratory tract infections	phenotype	
+Creatinine finding	phenotype	
+Chronic ulcerative colitis	phenotype	
+Endotoxemia	phenotype	
+Abnormal urinary electrolyte concentration	phenotype	
+Abnormality of cerebral artery	phenotype	
+Primary adrenal insufficiency	phenotype	
+Abnormality of the nasopharynx	phenotype	
+Dehydration	phenotype	
+Decreased beta-glucocerebrosidase protein and activity	phenotype	
+Fibrinogen Adverse Event	phenotype	
+Kidney Diseases	phenotype	
+Myocarditis	phenotype	
+Abnormality of adrenal physiology	phenotype	
+Adrenal insufficiency	phenotype	
+Autoimmune thyroid disease 3	phenotype	
+Panic disorder syndrome 1 (2)	phenotype	
+Gout	phenotype	
+Bronchiectasis	phenotype	
+Primary Effusion Lymphoma	phenotype	
+Classical Hodgkin's Lymphoma	phenotype	
+Ulcerative colitis	phenotype	
+Hypotension	phenotype	
+Abnormality of the pharynx	phenotype	
+Abnormalities of the peripheral arteries	phenotype	
+Arterial stenosis	phenotype	
+Hashimoto thyroiditis	phenotype	
+Coronary Disease	phenotype	
+Abnormality of the adrenal glands	phenotype	
+Abnormality of the cerebral vasculature	phenotype	
+Secondary hyperparathyroidism	phenotype	
+Diabetes mellitus type 1	phenotype	
+Abnormality of cation homeostasis	phenotype	
+Vomiting	phenotype	

@@ -1,0 +1,179 @@
+node_name	node_type	
+DB00999	drug	
+CA2	drug_target	
+SLC22A6	drug_target	
+CA1	drug_target	
+SLC12A3	drug_target	
+KCNMA1	drug_target	
+Tubulointerstitial nephritis	phenotype	
+Essential hypertension	phenotype	
+Primary hyperaldosteronism	phenotype	
+Epilepsy	phenotype	
+Familial hypokalemia-hypomagnesemia	phenotype	
+Malignant neoplasm of adrenal cortex	phenotype	
+Stage 5 chronic kidney disease	phenotype	
+Esophageal varix	phenotype	
+Treacher Collins syndrome	phenotype	
+Urolithiasis	phenotype	
+Adenocarcinoma of lung	phenotype	
+Echinococcosis	phenotype	
+Epidermolysis bullosa simplex, Cockayne-Touraine type	phenotype	
+Palmar hyperkeratosis	phenotype	
+Bladder neck obstruction	phenotype	
+Proliferative retinopathy	phenotype	
+Chondrocalcinosis	phenotype	
+Verrucae	phenotype	
+Isolated somatotropin deficiency	phenotype	
+Renal tubular acidosis, distal, autosomal dominant	phenotype	
+Substance Use Disorders	phenotype	
+Dentatorubral pallidoluysian atrophy	phenotype	
+Angiokeratoma	phenotype	
+Metabolic Bone Disorder	phenotype	
+Isolated growth hormone deficiency type 1B	phenotype	
+Plantar hyperkeratosis	phenotype	
+Abnormal urine output	phenotype	
+Diabetic Retinopathy	phenotype	
+Pericardial effusion	phenotype	
+Hypervolemia	phenotype	
+Germinoma	phenotype	
+Abnormal drinking behavior	phenotype	
+Mumps	phenotype	
+Rhinitis, Allergic, Perennial	phenotype	
+Endemic Cretinism	phenotype	
+Abnormality of renal excretion	phenotype	
+Complete trisomy 18 syndrome	phenotype	
+Hemangioblastoma	phenotype	
+Noonan syndrome with multiple lentigines	phenotype	
+Mesangiocapillary glomerulonephritis, type II	phenotype	
+Nephrosclerosis	phenotype	
+Peripheral motor neuropathy	phenotype	
+End Stage Liver Disease	phenotype	
+Alkalosis	phenotype	
+Polyuria	phenotype	
+Abnormal albumin level	phenotype	
+Bronchogenic Carcinoma	phenotype	
+Dialeptic seizures	phenotype	
+{TSC2 angiomyolipomas, renal, modifier of}, 613254 (3)	phenotype	
+Coronary artery aneurysm	phenotype	
+Hyperlipoproteinemia	phenotype	
+Hyperlipoproteinemia Type IIa	phenotype	
+Single tumor	phenotype	
+Nephrotic Syndrome, Minimal Change	phenotype	
+Abnormality of potassium homeostasis	phenotype	
+Skin Diseases, Genetic	phenotype	
+Carcinoma breast stage IV	phenotype	
+Varicella zoster	phenotype	
+Drusen	phenotype	
+Hypokalemia	phenotype	
+Increased antibody level in blood	phenotype	
+Insulin resistance syndrome	phenotype	
+Polydipsia	phenotype	
+Nephrosis	phenotype	
+EEG with generalized epileptiform discharges	phenotype	
+Renal Insufficiency, Chronic	phenotype	
+Guillain-Barre syndrome, familial	phenotype	
+Abnormality of urine calcium concentration	phenotype	
+Primary hyperparathyroidism	phenotype	
+Drug Resistant Epilepsy	phenotype	
+Respiratory Tract Diseases	phenotype	
+Sicca Syndrome	phenotype	
+Hypoalbuminemia	phenotype	
+Toxic Shock Syndrome	phenotype	
+Neurologic, endocrine, and pancreatic disease, multisystem, infantile-onset	phenotype	
+Abnormality of the plantar skin of foot	phenotype	
+Lymphangiomyomatosis	phenotype	
+EEG with irregular generalized spike and wave complexes	phenotype	
+Abnormality of monovalent inorganic cation homeostasis	phenotype	
+Congenital hypothyroidism	phenotype	
+Adverse drug events and drug allergies	phenotype	
+Cortical dysplasia, complex, with other brain malformations 3	phenotype	
+Aortic valve disease 2	phenotype	
+Multisystem disorder	phenotype	
+Vascular Diseases	phenotype	
+Diaphragmatic hernia	phenotype	
+Renal tubular dysfunction	phenotype	
+Ovarian Serous Adenocarcinoma	phenotype	
+Hemolytic uremic syndrome	phenotype	
+Bicuspid aortic valve	phenotype	
+Occupational Diseases	phenotype	
+Microalbuminuria	phenotype	
+Chest pain	phenotype	
+Epilepsy, generalized, with febrile seizures plus, type 6 (2)	phenotype	
+ {HIV-1 viremia, susceptibility to}, 609423 (3)	phenotype	
+Acute Lung Injury	phenotype	
+Generalized muscle weakness	phenotype	
+Hirschsprung disease 1	phenotype	
+Abnormal consumption behavior	phenotype	
+Complications of Diabetes Mellitus	phenotype	
+Eczema	phenotype	
+Hypercalciuria	phenotype	
+Nephrocalcinosis	phenotype	
+Pulmonary edema	phenotype	
+Epithelial hyperplasia of skin	phenotype	
+Stevens-Johnson Syndrome	phenotype	
+Lymphohistiocytosis, Hemophagocytic	phenotype	
+Renal cell carcinoma, nonpapillary	phenotype	
+Absence seizures	phenotype	
+IMMUNE SUPPRESSION	phenotype	
+Increased analgesia from kappa-opioid receptor agonist, female-specific	phenotype	
+Juvenile onset	phenotype	
+Chordoma	phenotype	
+Dementia, Vascular	phenotype	
+Membranous nephropathy, susceptibility to	phenotype	
+DiGeorge sequence	phenotype	
+Muscle cramps	phenotype	
+Liver regeneration disorder	phenotype	
+Diabetic Angiopathies	phenotype	
+Plasmacytoma	phenotype	
+Type 1 diabetic neuropathy	phenotype	
+Polyneuropathy, hearing loss, ataxia, retinitis pigmentosa, and cataract	phenotype	
+Paralysis	phenotype	
+Seizures, Febrile	phenotype	
+Hyperlipidemia, familial combined	phenotype	
+Generalized tonic-clonic seizures	phenotype	
+Paresthesia	phenotype	
+Interstitial fibrosis	phenotype	
+Abnormal urinary electrolyte concentration	phenotype	
+Hemochromatosis	phenotype	
+Constitutional symptom	phenotype	
+Abnormality of metabolism/homeostasis	phenotype	
+Hyperhidrosis	phenotype	
+Methamphetamine abuse	phenotype	
+Hereditary factor VIII deficiency disease	phenotype	
+Lethargy	phenotype	
+NOONAN-LIKE/MULTIPLE GIANT CELL LESION SYNDROME (disorder)	phenotype	
+Hamartoma	phenotype	
+Hypertension	phenotype	
+Fibrinogen Adverse Event	phenotype	
+Abnormality of calcium homeostasis	phenotype	
+Chorea, childhood-onset, with psychomotor retardation	phenotype	
+Glomerulosclerosis, Focal Segmental	phenotype	
+tumor vasculature	phenotype	
+Diabetic Nephropathies	phenotype	
+Kidney Failure, Chronic	phenotype	
+Maturity-onset diabetes of the young, type 11	phenotype	
+Pain	phenotype	
+Abnormality of divalent inorganic cation homeostasis	phenotype	
+Osteoporosis	phenotype	
+Ischemia	phenotype	
+Focal segmental glomerulosclerosis	phenotype	
+Malnutrition	phenotype	
+Erythema	phenotype	
+Tauopathies	phenotype	
+Urticaria	phenotype	
+Thrombophilia	phenotype	
+Brain neoplasm	phenotype	
+Impotence	phenotype	
+EMG: myopathic abnormalities	phenotype	
+Hypotension	phenotype	
+Abnormality of the fingernails	phenotype	
+Obesity, severe, 601665 (3)	phenotype	
+Congenital diaphragmatic hernia	phenotype	
+Pulmonary Embolism	phenotype	
+Metastatic malignant neoplasm to brain	phenotype	
+Anorexia	phenotype	
+Generalized seizures	phenotype	
+Abnormal immunoglobulin level	phenotype	
+Acute hepatic failure	phenotype	
+Abnormality of B cell physiology	phenotype	
+Abnormality of B cells	phenotype	

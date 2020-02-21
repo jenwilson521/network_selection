@@ -1,0 +1,4 @@
+rank	phenotype	cui	assoc in neigh	assoc in intom	probability	Benjamini-Hochberg	genes	
+31	Drug Allergy	C0013182	3	79	8.059061438747683e-06	3.63423212192e-05	ABCC2,CYP3A4,ESR1
+42	Cholestasis of pregnancy	C0268318	2	39	3.4386127093610774e-05	4.92379835873e-05	ABCC2,ESR1
+49	Bone necrosis	C0029445	2	45	5.303353793795207e-05	5.74443141852e-05	CYP3A4,ESR1

@@ -1,0 +1,21 @@
+node_name	node_type	
+DB05294	drug	
+FMO3	drug_target	
+ABCG2	drug_target	
+FMO1	drug_target	
+ORM1	drug_target	
+PTK6	drug_target	
+EGFR	drug_target	
+ALB	drug_target	
+RET	drug_target	
+TEK	drug_target	
+VEGFA	drug_target	
+SLC22A2	drug_target	
+CYP3A4	drug_target	
+ABCC1	drug_target	
+Squamous Cell Neoplasms	phenotype	
+Pericardial effusion	phenotype	
+Hemangioblastoma	phenotype	
+Cachexia	phenotype	
+Pseudoxanthoma elasticum	phenotype	
+Adverse drug events and drug allergies	phenotype	

@@ -1,0 +1,20 @@
+Gene	CUI	Source Databases	
+CYP24A1	C0029442	Osteomalacia	DisGeNet	
+CYP3A4	C0029442	Osteomalacia	DisGeNet	
+VDR	C0029442	Osteomalacia	DisGeNet,HumPhenOnt	
+CYP24A1	C3536983	Hypophosphatemic rickets	DisGeNet	
+VDR	C3536983	Hypophosphatemic rickets	DisGeNet	
+CYP24A1	C1291314	21-hydroxylase deficiency	DisGeNet	
+CYP3A4	C1291314	21-hydroxylase deficiency	DisGeNet	
+CYP24A1	C0042870	Vitamin D Deficiency	DisGeNet	
+VDR	C0042870	Vitamin D Deficiency	DisGeNet	
+CYP3A4	C0029445	Bone necrosis	DisGeNet	
+VDR	C0029445	Bone necrosis	DisGeNet	
+CYP24A1	C0022650	Kidney Calculi	DisGeNet	
+VDR	C0022650	Kidney Calculi	DisGeNet	
+CYP3A4	C0002875	Cooley's anemia	DisGeNet	
+VDR	C0002875	Cooley's anemia	DisGeNet	
+CYP24A1	C0020438	Hypercalciuria	DisGeNet,HumPhenOnt	
+VDR	C0020438	Hypercalciuria	DisGeNet	
+CYP24A1	C0004268	Abnormal concentration of calcium in blood	HumPhenOnt	
+VDR	C0004268	Abnormal concentration of calcium in blood	HumPhenOnt	

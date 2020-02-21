@@ -1,0 +1,119 @@
+Gene	CUI	Source Databases	
+ADRA1A	C0036396	Chronic sciatica	DisGeNet	
+ADRA2A	C0036396	Chronic sciatica	DisGeNet	
+ADRA2C	C0036396	Chronic sciatica	DisGeNet	
+ADRA1A	C0001314	Acute disease of cardiovascular system	DisGeNet	
+ADRA2A	C0001314	Acute disease of cardiovascular system	DisGeNet	
+ADRA2C	C0001314	Acute disease of cardiovascular system	DisGeNet	
+ADRA1A	C0020649	Hypotension	DisGeNet	
+ADRA1B	C0020649	Hypotension	DisGeNet	
+ADRA2A	C0020649	Hypotension	DisGeNet	
+DRD1	C0020649	Hypotension	DisGeNet	
+ADRA1A	C0024031	Low back pain	DisGeNet	
+ADRA2A	C0024031	Low back pain	DisGeNet	
+ADRA2C	C0024031	Low back pain	DisGeNet	
+ADRA1A	C0152136	Low Tension Glaucoma	DisGeNet	
+ADRA2A	C0152136	Low Tension Glaucoma	DisGeNet	
+ADRA2C	C0152136	Low Tension Glaucoma	DisGeNet	
+ADRA1A	C1272641	Systemic arterial pressure	DisGeNet	
+ADRA1B	C1272641	Systemic arterial pressure	DisGeNet	
+ADRA2A	C1272641	Systemic arterial pressure	DisGeNet	
+ADRA2C	C1272641	Systemic arterial pressure	DisGeNet	
+DRD1	C1272641	Systemic arterial pressure	DisGeNet	
+ADRA2A	C0027796	Neuralgia	DisGeNet	
+ADRA2C	C0027796	Neuralgia	DisGeNet	
+DRD1	C0027796	Neuralgia	DisGeNet	
+ADRA1A	C1263846	Attention deficit hyperactivity disorder	DisGeNet	
+ADRA1B	C1263846	Attention deficit hyperactivity disorder	DisGeNet	
+ADRA2A	C1263846	Attention deficit hyperactivity disorder	DisGeNet	
+ADRA2C	C1263846	Attention deficit hyperactivity disorder	DisGeNet	
+DRD1	C1263846	Attention deficit hyperactivity disorder	DisGeNet	
+ADRA1B	C0525045	Mood Disorders	DisGeNet	
+ADRA2A	C0525045	Mood Disorders	DisGeNet	
+ADRA2C	C0525045	Mood Disorders	DisGeNet	
+DRD1	C0525045	Mood Disorders	DisGeNet	
+ADRA1A	C0040517	Tourette Syndrome	DisGeNet	
+ADRA2A	C0040517	Tourette Syndrome	DisGeNet	
+DRD1	C0040517	Tourette Syndrome	DisGeNet	
+ADRA1A	C0152020	Gastroparesis	DisGeNet	
+ADRA1B	C0152020	Gastroparesis	DisGeNet	
+ADRA2A	C0751265	Learning Disabilities	DisGeNet	
+ADRA2C	C0751265	Learning Disabilities	DisGeNet	
+ADRA2A	C0242510	Drug usage	DisGeNet	
+DRD1	C0242510	Drug usage	DisGeNet	
+ADRA1A	C0020429	Hyperalgesia	DisGeNet	
+ADRA2A	C0020429	Hyperalgesia	DisGeNet	
+ADRA2C	C0020429	Hyperalgesia	DisGeNet	
+ADRA1A	C0013386	Dyskinesia, Drug-Induced	DisGeNet	
+DRD1	C0013386	Dyskinesia, Drug-Induced	DisGeNet	
+ADRA1A	C1269683	Major depressive disorder	DisGeNet	
+ADRA2A	C1269683	Major depressive disorder	DisGeNet	
+ADRA2C	C1269683	Major depressive disorder	DisGeNet	
+DRD1	C1269683	Major depressive disorder	DisGeNet	
+ADRA2C	C0033941	Psychoses, Substance-Induced	DisGeNet	
+DRD1	C0033941	Psychoses, Substance-Induced	DisGeNet	
+ADRA1B	C0018800	Cardiomegaly	DisGeNet	
+ADRA2A	C0018800	Cardiomegaly	DisGeNet	
+ADRA2C	C0018800	Cardiomegaly	DisGeNet	
+ADRA1A	C0085580	Essential hypertension	DisGeNet	
+ADRA1B	C0085580	Essential hypertension	DisGeNet	
+DRD1	C0085580	Essential hypertension	DisGeNet	
+ADRA2C	C0024809	Marijuana Abuse	DisGeNet	
+DRD1	C0024809	Marijuana Abuse	DisGeNet	
+ADRA2A	C0030319	Panic disorder syndrome 1 (2)	DisGeNet	
+DRD1	C0030319	Panic disorder syndrome 1 (2)	DisGeNet	
+ADRA2A	C0041696	Unipolar Depression	DisGeNet	
+ADRA2C	C0041696	Unipolar Depression	DisGeNet	
+DRD1	C0041696	Unipolar Depression	DisGeNet	
+ADRA2A	C2911647	Weight Gain Adverse Event	DisGeNet	
+DRD1	C2911647	Weight Gain Adverse Event	DisGeNet	
+ADRA1A	C0220659	 Acrodysostosis 1, with or without hormone resistance, 101800 (3)	DisGeNet	
+ADRA1A	C1864100	Pseudohypoparathyroidism, type IB, 603233 (3)	DisGeNet	
+ADRA2A	C0022104	Irritable bowel syndrome with diarrhea	DisGeNet	
+ADRA2C	C0022104	Irritable bowel syndrome with diarrhea	DisGeNet	
+ADRA1B	C0520679	Obstructive sleep apnea	DisGeNet	
+ADRA2A	C0520679	Obstructive sleep apnea	DisGeNet	
+ADRA2A	C0004930	Behavior Disorders	DisGeNet	
+ADRA1A	C0030517	Disorders of parathyroid gland	DisGeNet	
+ADRA1A	C0598428	genetic hypertension	DisGeNet	
+ADRA1A	C0020071	Hereditary Sensory Autonomic Neuropathy, Type 1	DisGeNet	
+ADRA1A	C0005694	Bladder neck obstruction	DisGeNet	
+DRD1	C0040583	Tracheal stenosis	DisGeNet	
+ADRA1A	C0020538	Hypertension	DisGeNet	
+ADRA1B	C0020538	Hypertension	DisGeNet	
+ADRA2A	C0020538	Hypertension	DisGeNet	
+ADRA2C	C0020538	Hypertension	DisGeNet	
+DRD1	C0020538	Hypertension	DisGeNet	
+ADRA1A	C0235290	Taste bitter	DisGeNet	
+ADRA2A	C0019087	Hemorrhagic disorder due to intrinsic circulating anticoagulants	DisGeNet	
+ADRA1A	C1141890	Congenital long QT syndrome	DisGeNet	
+ADRA2A	C0016059	Fibrosis	DisGeNet	
+ADRA2C	C0016059	Fibrosis	DisGeNet	
+DRD1	C0020544	Renal hypertension	DisGeNet	
+ADRA2A	C0037036	Excessive salivation	DisGeNet	
+ADRA1A	C0392164	Pulmonary Cystic Fibrosis	DisGeNet	
+ADRA2A	C0011581	Depressive Disorder	DisGeNet	
+ADRA2C	C0011581	Depressive Disorder	DisGeNet	
+DRD1	C0011581	Depressive Disorder	DisGeNet	
+ADRA1A	C0221765	Chronic schizophrenia	DisGeNet	
+ADRA1A	C0342345	Hypoparathyroidism - autosomal dominant	DisGeNet	
+ADRA1A	C0030201	Acute postoperative pain	DisGeNet	
+ADRA1A	C0027719	Nephrosclerosis	DisGeNet	
+ADRA1A	C0235480	Paroxysmal atrial fibrillation	DisGeNet	
+ADRA1A	C0268318	Cholestasis of pregnancy	DisGeNet	
+ADRA1B	C0235032	Neurotoxicity Syndromes	DisGeNet	
+DRD1	C0524662	Opiate Addiction	DisGeNet	
+ADRA2A	C1857451	Acth-Independent Macronodular Adrenal Hyperplasia	DisGeNet	
+ADRA1A	C0162283	Nephrogenic diabetes insipidus, autosomal	DisGeNet	
+ADRA1A	C0022661	Kidney Failure, Chronic	DisGeNet	
+ADRA1B	C0022661	Kidney Failure, Chronic	DisGeNet	
+DRD1	C0022661	Kidney Failure, Chronic	DisGeNet	
+ADRA1A	C0030193	Pain	DisGeNet	
+ADRA2A	C0030193	Pain	DisGeNet	
+ADRA2C	C0030193	Pain	DisGeNet	
+ADRA2A	C2911645	Weight Loss Adverse Event	DisGeNet	
+ADRA1A	C0524620	Metabolic Syndrome X	DisGeNet	
+ADRA2A	C0524620	Metabolic Syndrome X	DisGeNet	
+DRD1	C0524620	Metabolic Syndrome X	DisGeNet	
+ADRA1A	C0016053	Fibromyalgia	DisGeNet	
+ADRA2A	C0085602	Polydipsia	DisGeNet	

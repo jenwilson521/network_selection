@@ -1,0 +1,155 @@
+node_name	node_type	
+DB01438	drug	
+SCN1A	drug_target	
+EMG: myopathic abnormalities	phenotype	
+Aplasia involving bones of the extremities	phenotype	
+ Adenocarcinoma, ovarian, somatic, 167000 (3)	phenotype	
+Aggressive behavior	phenotype	
+Ataxia, combined cerebellar and peripheral, with hearing loss and diabetes mellitus	phenotype	
+Autism 15	phenotype	
+Brain very small	phenotype	
+Squamous cell carcinoma	phenotype	
+Malignant tumor of cervix	phenotype	
+Child Development Disorders, Pervasive	phenotype	
+Colorectal cancer 1	phenotype	
+Febrile seizures, familial, 4	phenotype	
+EEG with irregular generalized spike and wave complexes	phenotype	
+EPIDERMODYSPLASIA VERRUCIFORMIS	phenotype	
+Epilepsy	phenotype	
+Epilepsy, focal, with speech disorder and with or without mental retardation	phenotype	
+Epilepsy, generalized, with febrile seizures plus, type 6 (2)	phenotype	
+Myoclonus with epilepsy with ragged red fibers	phenotype	
+Absence seizures	phenotype	
+Epilepsy, Temporal Lobe	phenotype	
+Abnormality of the eye	phenotype	
+Headache	phenotype	
+Sensorineural hearing impairment	phenotype	
+Hemiparesis	phenotype	
+Hemiplegia	phenotype	
+Microcephaly 16, primary, autosomal recessive	phenotype	
+Abnormality of movement	phenotype	
+Hypotonia, infantile, with psychomotor retardation	phenotype	
+Myoclonus, intractable, neonatal	phenotype	
+Other disorders of the nervous system	phenotype	
+Nystagmus	phenotype	
+Personality disorder	phenotype	
+Abnormality of the retina	phenotype	
+Retinitis pigmentosa	phenotype	
+Seizures, Febrile	phenotype	
+Septicemia	phenotype	
+Mental Retardation, Severe, With Spasticity And Pigmentary Tapetoretinal Degeneration	phenotype	
+Abnormality of the skin	phenotype	
+Hypsarrhythmia	phenotype	
+Neurological speech impairment	phenotype	
+Status epilepticus	phenotype	
+Tremor, hereditary essential, 5	phenotype	
+Vertigo	phenotype	
+Encephalopathy, acute, infection-induced, 4, susceptibility to	phenotype	
+Photophobia	phenotype	
+Migraine Disorders	phenotype	
+EEG abnormality	phenotype	
+Migraine with aura	phenotype	
+Abnormal QRS complex	phenotype	
+Onset	phenotype	
+Adenosquamous carcinoma	phenotype	
+Behavioral abnormality	phenotype	
+Cortical visual impairment	phenotype	
+Generalized seizures	phenotype	
+Mental deterioration	phenotype	
+Abnormality of the skull	phenotype	
+Brain atrophy	phenotype	
+Sepsis	phenotype	
+Abnormality of the ear	phenotype	
+Idiopathic generalized epilepsy	phenotype	
+Juvenile myoclonic epilepsy	phenotype	
+Carcinoma of cervix	phenotype	
+Cognitive Dysfunction	phenotype	
+Cutaneous photosensitivity	phenotype	
+Hemiplegia/hemiparesis	phenotype	
+Hyperactivity	phenotype	
+Decreased head circumference	phenotype	
+Involuntary movements	phenotype	
+Autosomal dominant non-syndromic sensorineural deafness type DFNA	phenotype	
+Blindness	phenotype	
+Generalized tonic-clonic seizures	phenotype	
+Abnormality of eye movement	phenotype	
+Abnormality of the nervous system	phenotype	
+Motor delay	phenotype	
+Recurrent tumor	phenotype	
+Epileptic encephalopathy, early infantile, 29	phenotype	
+Global developmental delay, absent or hypoplastic corpus callosum, and dysmorphic facies	phenotype	
+Gait disturbance	phenotype	
+Tumor Initiation	phenotype	
+Ovarian epithelial cancer	phenotype	
+Neurodevelopmental abnormality	phenotype	
+Neuroblastoma	phenotype	
+Severe myoclonic epilepsy in infancy	phenotype	
+Focal seizures	phenotype	
+Mitochondrial diseases	phenotype	
+Abnormal muscle tone	phenotype	
+Abnormality of head or neck	phenotype	
+Autistic behavior	phenotype	
+Dysphasia	phenotype	
+Drug Resistant Epilepsy	phenotype	
+BREAST-OVARIAN CANCER, FAMILIAL, SUSCEPTIBILITY TO, 4	phenotype	
+Blood pressure finding	phenotype	
+Systemic arterial pressure	phenotype	
+Acute encephalopathy	phenotype	
+Ovarian Serous Adenocarcinoma	phenotype	
+Hearing impairment	phenotype	
+Abnormal emotion/affect behavior	phenotype	
+Hippocampal sclerosis	phenotype	
+Colorectal cancer	phenotype	
+Channelopathies	phenotype	
+Childhood onset	phenotype	
+Phenotypic variability	phenotype	
+Upper motor neuron dysfunction	phenotype	
+Microcephaly, postnatal progressive, with seizures and brain atrophy	phenotype	
+Infantile-onset ascending hereditary spastic paralysis	phenotype	
+Abnormality of brainstem morphology	phenotype	
+Variable expressivity	phenotype	
+Abnormality of retinal pigmentation	phenotype	
+Abnormality of the cerebellum	phenotype	
+Malformation of cortical development	phenotype	
+Early infantile epileptic encephalopathy 8	phenotype	
+Visual impairment	phenotype	
+Intellectual developmental disorder with dysmorphic facies and ptosis	phenotype	
+Abnormality of forebrain morphology	phenotype	
+Abnormality of brain morphology	phenotype	
+Generalized abnormality of skin	phenotype	
+Abnormality of hindbrain morphology	phenotype	
+Weakness due to upper motor neuron dysfunction	phenotype	
+Abnormality of the musculature	phenotype	
+Generalized myoclonic seizures	phenotype	
+Abnormality of the cerebrum	phenotype	
+Morphological abnormality of the central nervous system	phenotype	
+Abnormal nervous system electrophysiology	phenotype	
+Abnormality of the skeletal system	phenotype	
+Abnormality of the inner ear	phenotype	
+Abnormality of the head	phenotype	
+Abnormality of central nervous system electrophysiology	phenotype	
+Neurodevelopmental delay	phenotype	
+Abnormality of nervous system morphology	phenotype	
+Abnormality of nervous system physiology	phenotype	
+Abnormal involuntary eye movements	phenotype	
+Abnormality of the globe	phenotype	
+Abnormal eye physiology	phenotype	
+Abnormal eye morphology	phenotype	
+Abnormality of skeletal morphology	phenotype	
+Abnormality of muscle physiology	phenotype	
+Abnormality of higher mental function	phenotype	
+Abnormality of coordination	phenotype	
+Abnormality of central motor function	phenotype	
+Functional abnormality of the inner ear	phenotype	
+Abnormality of the metencephalon	phenotype	
+Dialeptic seizures	phenotype	
+Abnormality of skin morphology	phenotype	
+Abnormal axial skeleton morphology	phenotype	
+Aplasia/Hypoplasia of the cerebrum	phenotype	
+Abnormality of the posterior segment of the globe	phenotype	
+Abnormality of the integument	phenotype	
+Abnormality of the fundus	phenotype	
+Abnormality of vision	phenotype	
+Hearing abnormality	phenotype	
+Abnormality of skull size	phenotype	
+Atrophy/Degeneration affecting the brainstem	phenotype	

@@ -1,0 +1,10 @@
+node1	node2	edge_score	
+DB01112	SLC15A2	1.0	
+SLC15A2		1.0
+Cystic Fibrosis	SLC15A2	1.0	
+Deafness, autosomal recessive 44	SLC15A2	1.0	
+Hearing Loss, Partial	SLC15A2	1.0	
+Secondary hyperparathyroidism	SLC15A2	1.0	
+Melanoma	SLC15A2	1.0	
+Multiple Sclerosis	SLC15A2	1.0	
+Hearing impairment	SLC15A2	1.0	

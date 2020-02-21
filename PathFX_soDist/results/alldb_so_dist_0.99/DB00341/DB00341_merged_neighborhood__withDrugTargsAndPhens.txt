@@ -1,0 +1,4 @@
+node1	node2	edge_score	
+DB00341	ABCB1	1.0	
+DB00341	HRH1	1.0	
+

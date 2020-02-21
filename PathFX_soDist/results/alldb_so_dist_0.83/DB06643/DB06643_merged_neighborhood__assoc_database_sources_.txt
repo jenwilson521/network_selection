@@ -1,0 +1,280 @@
+Gene	CUI	Source Databases	
+TNFSF11	C0000772	Abnormality of multiple cell lineages in the bone marrow	HumPhenOnt	
+TNFSF11	C0001418	 Adenocarcinoma, ovarian, somatic, 167000 (3)	DisGeNet	
+TNFSF11	C0002382	Alveolar Bone Loss	DisGeNet	
+TNFSF11	C0002395	Alzheimer Disease	DisGeNet	
+TNFSF11	C0002448	Ameloblastoma	DisGeNet	
+TNFSF11	C0002736	Amyotrophic Lateral Sclerosis	DisGeNet	
+TNFSF11	C0002871	Anemia	HumPhenOnt	
+TNFSF11	C0003507	Aortic valve stenosis	DisGeNet	
+TNFSF11	C0003578	Apnea	HumPhenOnt	
+TNFSF11	C0003850	Arteriosclerosis	DisGeNet	
+TNFSF11	C0003864	Arthritis, Rheumatoid	DisGeNet	
+TNFSF11	C0003873	Rheumatoid arthritis	DisGeNet	
+TNFSF11	C0004153	Atherosclerosis	DisGeNet	
+TNFSF11	C0004268	Abnormal concentration of calcium in blood	HumPhenOnt	
+TNFSF11	C0004364	Autoimmune disease 1	DisGeNet	
+TNFSF11	C0005940	Bone Diseases	DisGeNet	
+TNFSF11	C0005967	Bone neoplasms	DisGeNet	
+TNFSF11	C0006142	Breast-ovarian cancer, familial 1	DisGeNet	
+TNFSF11	C0006663	Calcinosis	DisGeNet	
+TNFSF11	C0007131	Non-small cell lung carcinoma	DisGeNet	
+TNFSF11	C0007134	Renal cell carcinoma, nonpapillary	DisGeNet	
+TNFSF11	C0007222	Cardiovascular Diseases	DisGeNet	
+TNFSF11	C0009681	Abnormality of the pulmonary artery	HumPhenOnt	
+TNFSF11	C0009812	Constitutional symptom	HumPhenOnt	
+TNFSF11	C0009938	Bruising susceptibility	HumPhenOnt	
+TNFSF11	C0010278	Craniosynostoses	HumPhenOnt	
+TNFSF11	C0010346	Crohn Disease	PheGenI	
+TNFSF11	C0011334	Dental Caries	HumPhenOnt	
+TNFSF11	C0011849	Diabetes Mellitus, Type 1	DisGeNet	
+TNFSF11	C0011854	Diabetes mellitus type 1	DisGeNet	
+TNFSF11	C0011882	Type 1 diabetic neuropathy	DisGeNet	
+TNFSF11	C0015393	Abnormality of the eye	HumPhenOnt	
+TNFSF11	C0015469	Facial palsy	HumPhenOnt	
+TNFSF11	C0016655	Recurrent fractures	HumPhenOnt	
+TNFSF11	C0016663	Pathologic fracture	DisGeNet	
+TNFSF11	C0017525	Giant Cell Tumors	DisGeNet	
+TNFSF11	C0017563	Gingival Diseases	DisGeNet	
+TNFSF11	C0018798	Heart Defects, Congenital	HumPhenOnt	
+TNFSF11	C0019209	Hepatomegaly	HumPhenOnt	
+TNFSF11	C0019214	Hepatosplenomegaly	HumPhenOnt	
+TNFSF11	C0020255	Hydrocephalus	HumPhenOnt	
+TNFSF11	C0020437	Hypercalcemia, infantile, 2	DisGeNet	
+TNFSF11	C0020492	Hyperostosis	HumPhenOnt	
+TNFSF11	C0020496	Cranial hyperostosis	HumPhenOnt	
+TNFSF11	C0020502	Hyperparathyroidism 4	DisGeNet	
+TNFSF11	C0020598	Hypocalcemia	HumPhenOnt	
+TNFSF11	C0023434	Chronic Lymphocytic Leukemia	DisGeNet	
+TNFSF11	C0023492	Leukemia, T-cell acute lymphoblastoid (2)	DisGeNet	
+TNFSF11	C0023493	Adult T-Cell Lymphoma/Leukemia	DisGeNet	
+TNFSF11	C0023895	Liver Diseases	DisGeNet	
+TNFSF11	C0024141	Lupus Erythematosus, Systemic	DisGeNet	
+TNFSF11	C0024299	Lymphoma, Large B-Cell, Diffuse	DisGeNet	
+TNFSF11	C0024301	Lymphoma, Follicular	DisGeNet	
+TNFSF11	C0024667	Animal Mammary Neoplasms	DisGeNet	
+TNFSF11	C0025007	Measles	DisGeNet	
+TNFSF11	C0025202	Melanoma	DisGeNet	
+TNFSF11	C0026470	Monoclonal Gammopathy of Undetermined Significance	DisGeNet	
+TNFSF11	C0026633	Abnormality of the mouth	HumPhenOnt	
+TNFSF11	C0026650	Abnormality of movement	HumPhenOnt	
+TNFSF11	C0026764	Multiple Myeloma	DisGeNet	
+TNFSF11	C0026769	Multiple Sclerosis	DisGeNet	
+TNFSF11	C0026946	Mycoses	DisGeNet	
+TNFSF11	C0027051	Myocardial Infarction	DisGeNet	
+TNFSF11	C0027059	Myocarditis	DisGeNet	
+TNFSF11	C0027627	Secondary hypertriglyceridemia	DisGeNet	
+TNFSF11	C0028738	Nystagmus	HumPhenOnt	
+TNFSF11	C0028754	Obesity	DisGeNet	
+TNFSF11	C0029124	Optic atrophy 10 with or without ataxia, mental retardation, and seizures	HumPhenOnt	
+TNFSF11	C0029131	Abnormality of the optic nerve	HumPhenOnt	
+TNFSF11	C0029408	Osteoarthritis	DisGeNet	
+TNFSF11	C0029410	Osteoarthritis of hip	DisGeNet	
+TNFSF11	C0029442	Osteomalacia	DisGeNet	
+TNFSF11	C0029443	Osteomyelitis, sterile multifocal, with periostitis and pustulosis	HumPhenOnt	
+TNFSF11	C0029454	Osteopetrosis autosomal recessive 4	ClinVar,DisGeNet,HumPhenOnt	
+TNFSF11	C0029456	Osteoporosis	DisGeNet	
+TNFSF11	C0029458	Postmenopausal osteoporosis	DisGeNet	
+TNFSF11	C0029464	Increased bone mineral density	HumPhenOnt	
+TNFSF11	C0029882	Otitis media	HumPhenOnt	
+TNFSF11	C0030193	Pain	HumPhenOnt	
+TNFSF11	C0030232	Pallor	HumPhenOnt	
+TNFSF11	C0030312	Pancytopenia	HumPhenOnt	
+TNFSF11	C0031099	Periodontitis	DisGeNet	
+TNFSF11	C0032927	Precancerous Conditions	DisGeNet	
+TNFSF11	C0033578	Prostatic Neoplasms	DisGeNet	
+TNFSF11	C0035243	Respiratory tract infection	HumPhenOnt	
+TNFSF11	C0035455	Rhinitis, Allergic, Seasonal	HumPhenOnt	
+TNFSF11	C0036439	Scoliosis	DisGeNet	
+TNFSF11	C0036920	Sezary Syndrome	DisGeNet	
+TNFSF11	C0037268	Abnormality of the skin	HumPhenOnt	
+TNFSF11	C0038002	Splenomegaly	HumPhenOnt	
+TNFSF11	C0038013	Ankylosing spondylitis	DisGeNet	
+TNFSF11	C0038356	Stomach Neoplasms	DisGeNet	
+TNFSF11	C0039103	Synovitis	DisGeNet	
+TNFSF11	C0040034	Thrombocytopenia, platelet dysfunction, hemolysis, and imbalanced globin synthesis	HumPhenOnt	
+TNFSF11	C0040336	Tobacco Use Disorder	DisGeNet	
+TNFSF11	C0040427	Abnormality of dental morphology	HumPhenOnt	
+TNFSF11	C0040822	Tremor, hereditary essential, 5	HumPhenOnt	
+TNFSF11	C0042782	Visceromegaly	HumPhenOnt	
+TNFSF11	C0085682	Hypophosphatemia	HumPhenOnt	
+TNFSF11	C0149727	Abnormality of the lymph nodes	HumPhenOnt	
+TNFSF11	C0151311	Cranial nerve paralysis	HumPhenOnt	
+TNFSF11	C0151583	Abnormal CSF metabolite level	HumPhenOnt	
+TNFSF11	C0151825	Bone pain	HumPhenOnt	
+TNFSF11	C0151854	Abnormality of thrombocytes	HumPhenOnt	
+TNFSF11	C0153381	Cancer of mouth	DisGeNet	
+TNFSF11	C0155094	Corneal pannus	DisGeNet	
+TNFSF11	C0157733	Abnormality of the hair	HumPhenOnt	
+TNFSF11	C0162819	Vascular skin abnormality	HumPhenOnt	
+TNFSF11	C0178874	Tumor Progression	DisGeNet	
+TNFSF11	C0205161	Abnormal QRS complex	HumPhenOnt	
+TNFSF11	C0206638	Giant cell tumor of bone	DisGeNet	
+TNFSF11	C0206754	Neuroendocrine neoplasm	DisGeNet	
+TNFSF11	C0220641	Lip and Oral Cavity Carcinoma	DisGeNet	
+TNFSF11	C0221204	Osteolysis	DisGeNet	
+TNFSF11	C0221355	Macrocephaly, dysmorphic facies, and psychomotor retardation	HumPhenOnt	
+TNFSF11	C0232513	Premature loss of teeth	HumPhenOnt	
+TNFSF11	C0235942	Abnormality of the skull	HumPhenOnt	
+TNFSF11	C0238397	Pulmonary artery stenosis	HumPhenOnt	
+TNFSF11	C0238790	bone destruction	DisGeNet	
+TNFSF11	C0239174	Delayed eruption of teeth	HumPhenOnt	
+TNFSF11	C0239337	Abnormality of limbs	HumPhenOnt	
+TNFSF11	C0239998	Infections, recurrent, with encephalopathy, hepatic dysfunction, and cardiovascular malformations	HumPhenOnt	
+TNFSF11	C0240083	Abnormal joint morphology	HumPhenOnt	
+TNFSF11	C0241654	Abnormality of the heart valves	HumPhenOnt	
+TNFSF11	C0241657	Abnormality of blood and blood-forming tissues	HumPhenOnt	
+TNFSF11	C0242379	Malignant neoplasm of lung	DisGeNet	
+TNFSF11	C0243050	Abnormality of cardiovascular system electrophysiology	HumPhenOnt	
+TNFSF11	C0259779	Fibrous Dysplasia	DisGeNet	
+TNFSF11	C0262361	Growth abnormality	HumPhenOnt	
+TNFSF11	C0265736	Abnormality of the nose	HumPhenOnt	
+TNFSF11	C0266015	Abnormality of the digestive system	HumPhenOnt	
+TNFSF11	C0266589	Abnormality of the ear	HumPhenOnt	
+TNFSF11	C0266929	Chronic Periodontitis	DisGeNet	
+TNFSF11	C0333307	Superficial ulcer	DisGeNet	
+TNFSF11	C0376358	Malignant tumor of prostate	DisGeNet	
+TNFSF11	C0391870	Abnormality of erythrocytes	HumPhenOnt	
+TNFSF11	C0399526	Mandibular prognathia	HumPhenOnt	
+TNFSF11	C0409959	Knee osteoarthritis	DisGeNet	
+TNFSF11	C0426790	Narrow chest	HumPhenOnt	
+TNFSF11	C0427086	Involuntary movements	HumPhenOnt	
+TNFSF11	C0441748	Autosomal recessive inheritance	HumPhenOnt	
+TNFSF11	C0456070	Growth delay	HumPhenOnt	
+TNFSF11	C0456909	Blindness	HumPhenOnt	
+TNFSF11	C0497156	Lymphadenopathy	HumPhenOnt	
+TNFSF11	C0497202	Abnormality of eye movement	HumPhenOnt	
+TNFSF11	C0497552	Abnormality of the nervous system	HumPhenOnt	
+TNFSF11	C0518014	Hematocrit level	DisGeNet	
+TNFSF11	C0522214	Abnormality of visual evoked potentials	HumPhenOnt	
+TNFSF11	C0522224	Paralysis	HumPhenOnt	
+TNFSF11	C0544755	Bowing of limbs due to multiple fractures	HumPhenOnt	
+TNFSF11	C0576093	Genu valgum	HumPhenOnt	
+TNFSF11	C0580317	Abnormal platelet count	HumPhenOnt	
+TNFSF11	C0585442	Osteosarcoma	DisGeNet	
+TNFSF11	C0596263	Carcinogenesis	DisGeNet	
+TNFSF11	C0600139	Prostate carcinoma	DisGeNet	
+TNFSF11	C0678222	Breast carcinoma	DisGeNet	
+TNFSF11	C0684249	Lung cancer	DisGeNet	
+TNFSF11	C0700095	Neuroblastoma	DisGeNet	
+TNFSF11	C0741583	Abnormal morphology of the great vessels	HumPhenOnt	
+TNFSF11	C0751951	Central core disease	DisGeNet	
+TNFSF11	C0854107	Subcutaneous hemorrhage	HumPhenOnt	
+TNFSF11	C0854297	Abnormality of head or neck	HumPhenOnt	
+TNFSF11	C0949690	{Spondyloarthropathy, susceptibility to, 1}, 106300 (3)	DisGeNet	
+TNFSF11	C1096086	Abnormality of the lower limb	HumPhenOnt	
+TNFSF11	C1168401	Squamous cell carcinoma of the head and neck	DisGeNet	
+TNFSF11	C1271104	Blood pressure finding	DisGeNet	
+TNFSF11	C1272641	Systemic arterial pressure	DisGeNet	
+TNFSF11	C1384666	Hearing impairment	HumPhenOnt	
+TNFSF11	C1390474	Bone fragility with contractures, arterial rupture, and deafness	HumPhenOnt	
+TNFSF11	C1446409	Hormone receptor positive tumor	DisGeNet	
+TNFSF11	C1458140	Abnormal bleeding	HumPhenOnt	
+TNFSF11	C1519670	Tumor Angiogenesis	DisGeNet	
+TNFSF11	C1520166	Xenograft Model	DisGeNet	
+TNFSF11	C1704258	Abnormality of T cell count	HumPhenOnt	
+TNFSF11	C1832160	Abnormality of temperature regulation	HumPhenOnt	
+TNFSF11	C1837388	Abnormal pattern of respiration	HumPhenOnt	
+TNFSF11	C1837482	Thoracic hypoplasia	HumPhenOnt	
+TNFSF11	C1842083	Abnormality of the ribs	HumPhenOnt	
+TNFSF11	C1854510	Abnormality of the cranial nerves	HumPhenOnt	
+TNFSF11	C1855340	Bowing of the long bones	HumPhenOnt	
+TNFSF11	C1859363	Abnormality of dental eruption	HumPhenOnt	
+TNFSF11	C1861141	Abnormality of the middle ear	HumPhenOnt	
+TNFSF11	C2132198	Abnormal blistering of the skin	HumPhenOnt	
+TNFSF11	C2239176	Hepatocellular carcinoma	DisGeNet	
+TNFSF11	C2315229	Abnormality of facial skeleton	HumPhenOnt	
+TNFSF11	C2674432	Reduced bone mineral density	HumPhenOnt	
+TNFSF11	C2931852	Clear-cell metastatic renal cell carcinoma	DisGeNet	
+TNFSF11	C3164374	Abnormality of the pulmonary valve	HumPhenOnt	
+TNFSF11	C3203102	Pulmonary arterial hypertension	HumPhenOnt	
+TNFSF11	C3266877	Secondary malignant neoplasm of pancreas	DisGeNet	
+TNFSF11	C3495559	Juvenile idiopathic arthritis, enthesitis related arthritis	DisGeNet	
+TNFSF11	C3665347	Visual impairment	HumPhenOnt	
+TNFSF11	C3805917	Elevated pulmonary artery pressure	HumPhenOnt	
+TNFSF11	C3806482	Recurrent respiratory infections	HumPhenOnt	
+TNFSF11	C3808249	Abnormality of the optic disc	HumPhenOnt	
+TNFSF11	C4018871	Abnormality of the respiratory system	HumPhenOnt	
+TNFSF11	C4020755	Abnormality of fontanelles	HumPhenOnt	
+TNFSF11	C4020869	Abnormality of abdomen morphology	HumPhenOnt	
+TNFSF11	C4020971	Abnormality of lower limb joint	HumPhenOnt	
+TNFSF11	C4021085	Abnormality of brain morphology	HumPhenOnt	
+TNFSF11	C4021157	Generalized abnormality of skin	HumPhenOnt	
+TNFSF11	C4021165	Abnormality of long bone morphology	HumPhenOnt	
+TNFSF11	C4021594	Anomaly of the limb diaphyses	HumPhenOnt	
+TNFSF11	C4021596	Abnormality of primary teeth	HumPhenOnt	
+TNFSF11	C4021611	Abnormality of epiphysis morphology	HumPhenOnt	
+TNFSF11	C4021634	Abnormality of bone marrow cell morphology	HumPhenOnt	
+TNFSF11	C4021657	Abnormality of bone mineral density	HumPhenOnt	
+TNFSF11	C4021745	Abnormality of the musculature	HumPhenOnt	
+TNFSF11	C4021753	Abnormality of the immune system	HumPhenOnt	
+TNFSF11	C4021760	Abnormality of lung morphology	HumPhenOnt	
+TNFSF11	C4021764	Abnormality of the abdominal organs	HumPhenOnt	
+TNFSF11	C4021765	Morphological abnormality of the central nervous system	HumPhenOnt	
+TNFSF11	C4021768	Abnormality of metabolism/homeostasis	HumPhenOnt	
+TNFSF11	C4021780	Abnormality of the liver	HumPhenOnt	
+TNFSF11	C4021787	Abnormal diaphysis morphology	HumPhenOnt	
+TNFSF11	C4021790	Abnormality of the skeletal system	HumPhenOnt	
+TNFSF11	C4021797	Abnormality of the thorax	HumPhenOnt	
+TNFSF11	C4021812	Abnormality of the head	HumPhenOnt	
+TNFSF11	C4021832	Abnormality of the calf	HumPhenOnt	
+TNFSF11	C4021976	Abnormality of the lymphatic system	HumPhenOnt	
+TNFSF11	C4022032	Abnormality of phosphate homeostasis	HumPhenOnt	
+TNFSF11	C4022456	Abnormality of limb bone	HumPhenOnt	
+TNFSF11	C4022514	Weakness of facial musculature	HumPhenOnt	
+TNFSF11	C4022603	Abnormal vascular physiology	HumPhenOnt	
+TNFSF11	C4022803	Increased inflammatory response	HumPhenOnt	
+TNFSF11	C4022805	Abnormal inflammatory response	HumPhenOnt	
+TNFSF11	C4022810	Abnormality of nervous system morphology	HumPhenOnt	
+TNFSF11	C4022811	Abnormality of nervous system physiology	HumPhenOnt	
+TNFSF11	C4022855	Abnormal involuntary eye movements	HumPhenOnt	
+TNFSF11	C4022923	Abnormality of the globe	HumPhenOnt	
+TNFSF11	C4022924	Abnormal eye physiology	HumPhenOnt	
+TNFSF11	C4022925	Abnormal eye morphology	HumPhenOnt	
+TNFSF11	C4022992	Abnormal respiratory system morphology	HumPhenOnt	
+TNFSF11	C4023161	Abnormal bone ossification	HumPhenOnt	
+TNFSF11	C4023163	Abnormal appendicular skeleton morphology	HumPhenOnt	
+TNFSF11	C4023164	Abnormality of skeletal physiology	HumPhenOnt	
+TNFSF11	C4023165	Abnormality of skeletal morphology	HumPhenOnt	
+TNFSF11	C4023183	Abnormality of facial soft tissue	HumPhenOnt	
+TNFSF11	C4023354	Abnormality of central motor function	HumPhenOnt	
+TNFSF11	C4023412	Abnormality of cranial sutures	HumPhenOnt	
+TNFSF11	C4023518	Abnormality of skin adnexa morphology	HumPhenOnt	
+TNFSF11	C4023528	Abnormality of skin morphology	HumPhenOnt	
+TNFSF11	C4023557	Abnormality of dental structure	HumPhenOnt	
+TNFSF11	C4023587	Abnormality of cardiovascular system physiology	HumPhenOnt	
+TNFSF11	C4023616	Abnormality of immune system physiology	HumPhenOnt	
+TNFSF11	C4023646	Abnormality of cation homeostasis	HumPhenOnt	
+TNFSF11	C4023648	Abnormality of divalent inorganic cation homeostasis	HumPhenOnt	
+TNFSF11	C4023722	Abnormality of hair texture	HumPhenOnt	
+TNFSF11	C4024586	Abnormal axial skeleton morphology	HumPhenOnt	
+TNFSF11	C4025271	Abnormality of the pulmonary vasculature	HumPhenOnt	
+TNFSF11	C4025337	Abnormality of calcium homeostasis	HumPhenOnt	
+TNFSF11	C4025354	Abnormality of the posterior segment of the globe	HumPhenOnt	
+TNFSF11	C4025630	Abnormal bone structure	HumPhenOnt	
+TNFSF11	C4025654	Abnormality of ion homeostasis	HumPhenOnt	
+TNFSF11	C4025676	Abnormality of the knee	HumPhenOnt	
+TNFSF11	C4025677	Functional respiratory abnormality	HumPhenOnt	
+TNFSF11	C4025691	Abnormality of the calvaria	HumPhenOnt	
+TNFSF11	C4025692	Abnormality of calvarial morphology	HumPhenOnt	
+TNFSF11	C4025724	Abnormality of the cerebral ventricles	HumPhenOnt	
+TNFSF11	C4025749	Abnormality of the spleen	HumPhenOnt	
+TNFSF11	C4025761	Abnormality of the integument	HumPhenOnt	
+TNFSF11	C4025763	Abnormality of the rib cage	HumPhenOnt	
+TNFSF11	C4025804	Abnormality of the fundus	HumPhenOnt	
+TNFSF11	C4025831	Abnormal peripheral nervous system morphology	HumPhenOnt	
+TNFSF11	C4025846	Abnormality of vision	HumPhenOnt	
+TNFSF11	C4025860	Hearing abnormality	HumPhenOnt	
+TNFSF11	C4025864	Abnormality of the chin	HumPhenOnt	
+TNFSF11	C4025865	Abnormality of facial musculature	HumPhenOnt	
+TNFSF11	C4025870	Abnormality of the mandible	HumPhenOnt	
+TNFSF11	C4025871	Abnormality of the face	HumPhenOnt	
+TNFSF11	C4025874	Abnormality of skull size	HumPhenOnt	
+TNFSF11	C4025887	Abnormality of the oral cavity	HumPhenOnt	
+TNFSF11	C4049796	Abnormality of cardiovascular system morphology	HumPhenOnt	
+TNFSF11	C4072945	Abnormal visual electrophysiology	HumPhenOnt	
+TNFSF11	C4082761	Abnormality of limb bone morphology	HumPhenOnt	
+TNFSF11	C4083076	Increased head circumference	HumPhenOnt	
+TNFSF11	C4280730	Abnormality of pulmonary circulation	HumPhenOnt	
+TNFSF11	C4280767	Abnormal jaw morphology	HumPhenOnt	
+TNFSF11	C4293699	Abnormal vascular morphology	HumPhenOnt	

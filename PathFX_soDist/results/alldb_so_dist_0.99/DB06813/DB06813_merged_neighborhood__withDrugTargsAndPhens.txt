@@ -1,0 +1,6 @@
+node1	node2	edge_score	
+DB06813	DHFR	1.0	
+DB06813	TYMS	1.0	
+DB06813	FPGS	1.0	
+DB06813	SLC19A1	1.0	
+

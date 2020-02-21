@@ -1,0 +1,3 @@
+node1	node2	edge_score	
+DB11131	TRPV1	1.0	
+

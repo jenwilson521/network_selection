@@ -1,0 +1,465 @@
+node1	node2	edge_score	
+DB06262	ADRA1A	1.0	
+DB06262	SLC6A2	1.0	
+DB06262	ADRA1B	1.0	
+DB06262	ADRA1D	1.0	
+DB06262	ADRA2A	1.0	
+DB06262	ADRA2B	1.0	
+DB06262	ADRA2C	1.0	
+DB06262	ADRB1	1.0	
+DB06262	ADRB2	1.0	
+DB06262	ADRB3	1.0	
+DB06262	SLC16A10	1.0	
+DB06262	PAH	1.0	
+DB06262	DDC	1.0	
+ADRB2		1.0
+ADRA1A		1.0
+ADRB2	rs1042713	0.99
+ADRA1B		1.0
+DDC		1.0
+ADRB2	rs1042714	0.99
+ADRA2C		1.0
+complex:lAo9+jzjVOaRJSWZQvoh0G1mUDc	OR8D2	0.863824739585
+ADRB3		1.0
+ADRA1B	complex:lAo9+jzjVOaRJSWZQvoh0G1mUDc	0.904977499353
+SLC6A2	rs12708954	0.99
+ADRB2	rs1042718	0.99
+SLC6A2	rs3785143	0.99
+SLC6A2	rs5569	0.99
+complex:lAo9+jzjVOaRJSWZQvoh0G1mUDc	KRT9	0.863824739585
+SLC6A2		1.0
+complex:lAo9+jzjVOaRJSWZQvoh0G1mUDc	ALB	0.863824739585
+ADRB1		1.0
+ADRA2A		1.0
+ADRA2A	rs1800545	0.99
+Low Tension Glaucoma	ADRA1A	1.0	
+Low Tension Glaucoma	ADRA2A	1.0	
+Low Tension Glaucoma	ADRA2C	1.0	
+Low Tension Glaucoma	ADRB1	1.0	
+Low Tension Glaucoma	ADRB2	1.0	
+Low Tension Glaucoma	ADRB3	1.0	
+Systemic arterial pressure	ADRA1A	1.0	
+Systemic arterial pressure	ADRA1B	1.0	
+Systemic arterial pressure	ADRA2A	1.0	
+Systemic arterial pressure	ADRA2C	1.0	
+Systemic arterial pressure	ADRB1	1.0	
+Systemic arterial pressure	ADRB2	1.0	
+Systemic arterial pressure	ADRB3	1.0	
+Systemic arterial pressure	SLC6A2	1.0	
+Mood Disorders	ADRA1B	1.0	
+Mood Disorders	ADRA2A	1.0	
+Mood Disorders	ADRA2C	1.0	
+Mood Disorders	ADRB1	1.0	
+Mood Disorders	ADRB2	1.0	
+Mood Disorders	ADRB3	1.0	
+Mood Disorders	DDC	1.0	
+Mood Disorders	SLC6A2	1.0	
+Nephrosclerosis	ADRA1A	1.0	
+Nephrosclerosis	ADRB1	1.0	
+Nephrosclerosis	ADRB2	1.0	
+Nephrosclerosis	ALB	1.0	
+Attention deficit hyperactivity disorder	ADRA1A	1.0	
+Attention deficit hyperactivity disorder	ADRA1B	1.0	
+Attention deficit hyperactivity disorder	ADRA2A	1.0	
+Attention deficit hyperactivity disorder	ADRA2C	1.0	
+Attention deficit hyperactivity disorder	ADRB1	1.0	
+Attention deficit hyperactivity disorder	ADRB2	1.0	
+Attention deficit hyperactivity disorder	DDC	1.0	
+Attention deficit hyperactivity disorder	SLC6A2	1.0	
+Weight Loss Adverse Event	ADRA2A	1.0	
+Weight Loss Adverse Event	ADRB2	1.0	
+Weight Loss Adverse Event	ADRB3	1.0	
+Weight Loss Adverse Event	SLC6A2	1.0	
+Hypotension	ADRA1A	1.0	
+Hypotension	ADRA1B	1.0	
+Hypotension	ADRA2A	1.0	
+Hypotension	ALB	1.0	
+Hypotension	DDC	1.0	
+Essential hypertension	ADRA1A	1.0	
+Essential hypertension	ADRA1B	1.0	
+Essential hypertension	ADRB1	1.0	
+Essential hypertension	ADRB2	1.0	
+Essential hypertension	ADRB3	1.0	
+Essential hypertension	ALB	1.0	
+Obstructive sleep apnea	ADRA1B	1.0	
+Obstructive sleep apnea	ADRA2A	1.0	
+Obstructive sleep apnea	ADRB1	1.0	
+Obstructive sleep apnea	ADRB2	1.0	
+Obstructive sleep apnea	ADRB3	1.0	
+Chronic sciatica	ADRA1A	1.0	
+Chronic sciatica	ADRA2A	1.0	
+Chronic sciatica	ADRA2C	1.0	
+Familial hypercholesterolemia	ADRA1A	1.0	
+Familial hypercholesterolemia	ADRB1	1.0	
+Familial hypercholesterolemia	ADRB2	1.0	
+Familial hypercholesterolemia	ADRB3	1.0	
+Familial hypercholesterolemia	ALB	1.0	
+body mass	ADRA2A	1.0	
+body mass	ADRB1	1.0	
+body mass	ADRB2	1.0	
+body mass	ADRB3	1.0	
+Kidney Failure, Chronic	ADRA1A	1.0	
+Kidney Failure, Chronic	ADRA1B	1.0	
+Kidney Failure, Chronic	ADRB1	1.0	
+Kidney Failure, Chronic	ADRB2	1.0	
+Kidney Failure, Chronic	ADRB3	1.0	
+Kidney Failure, Chronic	ALB	1.0	
+Kidney Failure, Chronic	DDC	1.0	
+Acute disease of cardiovascular system	ADRA1A	1.0	
+Acute disease of cardiovascular system	ADRA2A	1.0	
+Acute disease of cardiovascular system	ADRA2C	1.0	
+Low back pain	ADRA1A	1.0	
+Low back pain	ADRA2A	1.0	
+Low back pain	ADRA2C	1.0	
+Obesity, severe, 601665 (3)	ADRA2A	1.0	
+Obesity, severe, 601665 (3)	ADRB1	1.0	
+Obesity, severe, 601665 (3)	ADRB2	1.0	
+Obesity, severe, 601665 (3)	ADRB3	1.0	
+Fibromyalgia	ADRA1A	1.0	
+Fibromyalgia	ADRB2	1.0	
+Fibromyalgia	ADRB3	1.0	
+Major depressive disorder	ADRA1A	1.0	
+Major depressive disorder	ADRA2A	1.0	
+Major depressive disorder	ADRA2C	1.0	
+Major depressive disorder	ADRB1	1.0	
+Major depressive disorder	ADRB3	1.0	
+Major depressive disorder	SLC6A2	1.0	
+Congestive heart failure	ADRA1A	1.0	
+Congestive heart failure	ADRA2C	1.0	
+Congestive heart failure	ADRB1	1.0	
+Congestive heart failure	ADRB2	1.0	
+Congestive heart failure	ADRB3	1.0	
+Congestive heart failure	ALB	1.0	
+Congestive heart failure	SLC6A2	1.0	
+Tachycardia	ADRA2C	1.0	
+Tachycardia	ADRB1	1.0	
+Tachycardia	ADRB2	1.0	
+Tachycardia	SLC6A2	1.0	
+Heart Failure	ADRA1A	1.0	
+Heart Failure	ADRA2C	1.0	
+Heart Failure	ADRB1	1.0	
+Heart Failure	ADRB2	1.0	
+Heart Failure	ADRB3	1.0	
+Heart Failure	ALB	1.0	
+Heart Failure	SLC6A2	1.0	
+Weight Gain Adverse Event	ADRA2A	1.0	
+Weight Gain Adverse Event	ADRB2	1.0	
+Weight Gain Adverse Event	ADRB3	1.0	
+Weight Gain Adverse Event	DDC	1.0	
+Acute Coronary Syndrome	ADRA2A	1.0	
+Acute Coronary Syndrome	ADRB1	1.0	
+Acute Coronary Syndrome	ADRB2	1.0	
+Acute Coronary Syndrome	ADRB3	1.0	
+Acute Coronary Syndrome	ALB	1.0	
+Hypertension	ADRA1A	1.0	
+Hypertension	ADRA1B	1.0	
+Hypertension	ADRA2A	1.0	
+Hypertension	ADRA2C	1.0	
+Hypertension	ADRB1	1.0	
+Hypertension	ADRB2	1.0	
+Hypertension	ADRB3	1.0	
+Hypertension	ALB	1.0	
+Hypertension	SLC6A2	1.0	
+Occupational Diseases	ADRB1	1.0	
+Occupational Diseases	ADRB2	1.0	
+Occupational Diseases	ALB	1.0	
+Hyperalgesia	ADRA1A	1.0	
+Hyperalgesia	ADRA2A	1.0	
+Hyperalgesia	ADRA2C	1.0	
+Hyperalgesia	ADRB1	1.0	
+Liver Cirrhosis, Biliary	ADRA1A	1.0	
+Liver Cirrhosis, Biliary	ADRA2A	1.0	
+Liver Cirrhosis, Biliary	ADRB1	1.0	
+Liver Cirrhosis, Biliary	ADRB2	1.0	
+Liver Cirrhosis, Biliary	ADRB3	1.0	
+Liver Cirrhosis, Biliary	ALB	1.0	
+Liver Cirrhosis, Biliary	DDC	1.0	
+Fibrosis	ADRA2A	1.0	
+Fibrosis	ADRA2C	1.0	
+Fibrosis	ADRB2	1.0	
+Fibrosis	ALB	1.0	
+Anxiety Disorders	ADRA1A	1.0	
+Anxiety Disorders	ADRA2A	1.0	
+Anxiety Disorders	ADRB2	1.0	
+Anxiety Disorders	DDC	1.0	
+Anxiety Disorders	SLC6A2	1.0	
+Metabolic Syndrome X	ADRA1A	1.0	
+Metabolic Syndrome X	ADRA2A	1.0	
+Metabolic Syndrome X	ADRB1	1.0	
+Metabolic Syndrome X	ADRB2	1.0	
+Metabolic Syndrome X	ADRB3	1.0	
+Metabolic Syndrome X	ALB	1.0	
+Blood pressure finding	ADRA1B	1.0	
+Blood pressure finding	ADRA2A	1.0	
+Blood pressure finding	ADRB1	1.0	
+Blood pressure finding	ADRB2	1.0	
+Blood pressure finding	ADRB3	1.0	
+Unipolar Depression	ADRA2A	1.0	
+Unipolar Depression	ADRA2C	1.0	
+Unipolar Depression	ADRB1	1.0	
+Unipolar Depression	ADRB3	1.0	
+Unipolar Depression	SLC6A2	1.0	
+Cardiomyopathy, Dilated	ADRA2C	1.0	
+Cardiomyopathy, Dilated	ADRB1	1.0	
+Cardiomyopathy, Dilated	ADRB2	1.0	
+Cardiomyopathy, Dilated	KRT9	1.0	
+Cardiomyopathy, Dilated	SLC6A2	1.0	
+Behavior Disorders	ADRA2A	1.0	
+Behavior Disorders	SLC6A2	1.0	
+Methamphetamine abuse	ADRA1A	1.0	
+Methamphetamine abuse	ALB	1.0	
+Methamphetamine abuse	SLC6A2	1.0	
+Proliferative retinopathy	ADRB3	1.0	
+Proliferative retinopathy	ALB	1.0	
+Polycystic Ovary Syndrome	ADRA1A	1.0	
+Polycystic Ovary Syndrome	ADRA1B	1.0	
+Polycystic Ovary Syndrome	ADRB2	1.0	
+Polycystic Ovary Syndrome	ADRB3	1.0	
+Polycystic Ovary Syndrome	ALB	1.0	
+Acute myocardial ischemia	ADRA1A	1.0	
+Acute myocardial ischemia	ADRB1	1.0	
+Acute myocardial ischemia	ADRB2	1.0	
+Acute myocardial ischemia	ADRB3	1.0	
+Acute myocardial ischemia	ALB	1.0	
+Portal hypertension, noncirrhotic	ADRB2	1.0	
+Portal hypertension, noncirrhotic	ADRB3	1.0	
+Portal hypertension, noncirrhotic	DDC	1.0	
+Acquired long QT syndrome	ADRA2C	1.0	
+Acquired long QT syndrome	ADRB1	1.0	
+Acquired long QT syndrome	ADRB2	1.0	
+Left ventricular hypertrophy	ADRA1A	1.0	
+Left ventricular hypertrophy	ADRB1	1.0	
+Left ventricular hypertrophy	ADRB2	1.0	
+Left ventricular hypertrophy	ADRB3	1.0	
+Hyperlipidemia, combined, 1	ADRB1	1.0	
+Hyperlipidemia, combined, 1	ADRB2	1.0	
+Hyperlipidemia, combined, 1	ADRB3	1.0	
+Hyperlipidemia, combined, 1	ALB	1.0	
+Gastroparesis	ADRA1A	1.0	
+Gastroparesis	ADRA1B	1.0	
+Acute postoperative pain	ADRA1A	1.0	
+Acute postoperative pain	ADRB2	1.0	
+Depressive Disorder	ADRA2A	1.0	
+Depressive Disorder	ADRA2C	1.0	
+Depressive Disorder	ADRB2	1.0	
+Depressive Disorder	ALB	1.0	
+Depressive Disorder	SLC6A2	1.0	
+Tourette Syndrome	ADRA1A	1.0	
+Tourette Syndrome	ADRA2A	1.0	
+Tourette Syndrome	SLC6A2	1.0	
+Pulmonary Embolism	ADRB2	1.0	
+Pulmonary Embolism	ADRB3	1.0	
+Pulmonary Embolism	ALB	1.0	
+Personality disorder	ADRB1	1.0	
+Personality disorder	SLC6A2	1.0	
+Learning Disabilities	ADRA2A	1.0	
+Learning Disabilities	ADRA2C	1.0	
+Acanthosis nigricans	ADRB2	1.0	
+Acanthosis nigricans	ADRB3	1.0	
+Chronic interstitial cystitis	ADRB2	1.0	
+Chronic interstitial cystitis	ADRB3	1.0	
+Capillary hemangiomas	ADRB1	1.0	
+Capillary hemangiomas	ADRB2	1.0	
+Ventricular tachycardia, catecholaminergic polymorphic, 2	ADRB1	1.0	
+Ventricular tachycardia, catecholaminergic polymorphic, 2	ADRB2	1.0	
+Hemangioma	ADRB1	1.0	
+Hemangioma	ADRB2	1.0	
+Hemangioma	ADRB3	1.0	
+Insulin resistance syndrome	ADRB3	1.0	
+Insulin resistance syndrome	ALB	1.0	
+Pain	ADRA1A	1.0	
+Pain	ADRA2A	1.0	
+Pain	ADRA2C	1.0	
+Pain	ADRB2	1.0	
+Pain	ALB	1.0	
+Irritable bowel syndrome with diarrhea	ADRA2A	1.0	
+Irritable bowel syndrome with diarrhea	ADRA2C	1.0	
+Irritable bowel syndrome with diarrhea	SLC6A2	1.0	
+Dyskinesia, Drug-Induced	ADRA1A	1.0	
+Dyskinesia, Drug-Induced	DDC	1.0	
+Albuminuria	ADRB2	1.0	
+Albuminuria	ADRB3	1.0	
+Albuminuria	ALB	1.0	
+Ventricular fibrillation	ADRB1	1.0	
+Ventricular fibrillation	ADRB2	1.0	
+Atrial Fibrillation	ADRB1	1.0	
+Atrial Fibrillation	ADRB2	1.0	
+Atrial Fibrillation	ADRB3	1.0	
+Meningococcal Infections	ADRB1	1.0	
+Meningococcal Infections	ADRB2	1.0	
+Myocardial Reperfusion Injury	ADRB1	1.0	
+Myocardial Reperfusion Injury	ADRB2	1.0	
+Myocardial Reperfusion Injury	ALB	1.0	
+Stress, Psychological	ADRB1	1.0	
+Stress, Psychological	ADRB2	1.0	
+Coronary heart disease 7	ADRA2A	1.0	
+Coronary heart disease 7	ADRB1	1.0	
+Coronary heart disease 7	ADRB2	1.0	
+Coronary heart disease 7	ADRB3	1.0	
+Coronary heart disease 7	ALB	1.0	
+Obesity	ADRA1A	1.0	
+Obesity	ADRA1B	1.0	
+Obesity	ADRA2A	1.0	
+Obesity	ADRB1	1.0	
+Obesity	ADRB2	1.0	
+Obesity	ADRB3	1.0	
+Obesity	ALB	1.0	
+Obesity	SLC6A2	1.0	
+Acute Lung Injury	ADRA2A	1.0	
+Acute Lung Injury	ALB	1.0	
+Ventricular Dysfunction, Right	ADRB1	1.0	
+Ventricular Dysfunction, Right	ADRB2	1.0	
+Overweight	ADRA2A	1.0	
+Overweight	ADRB2	1.0	
+Overweight	ADRB3	1.0	
+Female infertility	ADRB2	1.0	
+Female infertility	ADRB3	1.0	
+Restenosis	ADRB2	1.0	
+Restenosis	ADRB3	1.0	
+Restenosis	ALB	1.0	
+Complications of Diabetes Mellitus	ADRB1	1.0	
+Complications of Diabetes Mellitus	ALB	1.0	
+Dyslipidemias	ADRA1A	1.0	
+Dyslipidemias	ADRB2	1.0	
+Dyslipidemias	ADRB3	1.0	
+Pulmonary edema	ADRB2	1.0	
+Pulmonary edema	ALB	1.0	
+Ichthyosis bullosa of Siemens	ADRA2A	1.0	
+Ichthyosis bullosa of Siemens	SLC6A2	1.0	
+Respiration Disorders	ADRB1	1.0	
+Respiration Disorders	ADRB2	1.0	
+Gastrointestinal Diseases	ADRA2A	1.0	
+Gastrointestinal Diseases	SLC6A2	1.0	
+Chronic heart failure	ADRB1	1.0	
+Chronic heart failure	ADRB2	1.0	
+Increased body weight	ADRA2A	1.0	
+Increased body weight	ADRB2	1.0	
+Increased body weight	ADRB3	1.0	
+Increased body weight	DDC	1.0	
+Neuralgia	ADRA2A	1.0	
+Neuralgia	ADRA2C	1.0	
+Cerebral palsy, spastic quadriplegic, 3	ADRB2	1.0	
+Cerebral palsy, spastic quadriplegic, 3	SLC6A2	1.0	
+Sleep Wake Disorders	ADRB2	1.0	
+Sleep Wake Disorders	ADRB3	1.0	
+Interstitial fibrosis	ADRB1	1.0	
+Interstitial fibrosis	ALB	1.0	
+Cardiomegaly	ADRA1B	1.0	
+Cardiomegaly	ADRA2A	1.0	
+Cardiomegaly	ADRA2C	1.0	
+{Unipolar depression, susceptibility to}, 608516 (3)	ADRA2A	1.0	
+{Unipolar depression, susceptibility to}, 608516 (3)	ADRA2C	1.0	
+{Unipolar depression, susceptibility to}, 608516 (3)	ADRB2	1.0	
+{Unipolar depression, susceptibility to}, 608516 (3)	SLC6A2	1.0	
+Coronary Artery Disease	ADRA1A	1.0	
+Coronary Artery Disease	ADRA2A	1.0	
+Coronary Artery Disease	ADRB1	1.0	
+Coronary Artery Disease	ADRB2	1.0	
+Coronary Artery Disease	ADRB3	1.0	
+Coronary Artery Disease	ALB	1.0	
+Bacteremia, susceptibility to, 2	ADRB2	1.0	
+Bacteremia, susceptibility to, 2	SLC6A2	1.0	
+Hyperhidrosis	DDC	1.0	
+Hyperhidrosis	KRT9	1.0	
+Anorexia nervosa 1	ADRB3	1.0	
+Anorexia nervosa 1	SLC6A2	1.0	
+Diabetes mellitus type 2	ADRA1A	1.0	
+Diabetes mellitus type 2	ADRA2A	1.0	
+Diabetes mellitus type 2	ADRA2C	1.0	
+Diabetes mellitus type 2	ADRB1	1.0	
+Diabetes mellitus type 2	ADRB2	1.0	
+Diabetes mellitus type 2	ADRB3	1.0	
+Diabetes mellitus type 2	ALB	1.0	
+Glucose intolerance	ADRB2	1.0	
+Glucose intolerance	ADRB3	1.0	
+Glucose intolerance	ALB	1.0	
+Reperfusion Injury	ADRB1	1.0	
+Reperfusion Injury	ADRB2	1.0	
+Reperfusion Injury	ALB	1.0	
+Glaucoma, Open-Angle	ADRB1	1.0	
+Glaucoma, Open-Angle	ADRB2	1.0	
+Panic disorder syndrome 1 (2)	ADRA2A	1.0	
+Panic disorder syndrome 1 (2)	SLC6A2	1.0	
+Cardiovascular Diseases	ADRA1A	1.0	
+Cardiovascular Diseases	ADRB1	1.0	
+Cardiovascular Diseases	ADRB2	1.0	
+Cardiovascular Diseases	ADRB3	1.0	
+Cardiovascular Diseases	ALB	1.0	
+Urticaria	ADRB2	1.0	
+Urticaria	ALB	1.0	
+Periodontitis	ADRB1	1.0	
+Periodontitis	ALB	1.0	
+Periodontitis	SLC6A2	1.0	
+Thrombophilia	ADRB2	1.0	
+Thrombophilia	ALB	1.0	
+Diabetes Mellitus, Type 1	ADRA1A	1.0	
+Diabetes Mellitus, Type 1	ADRA1B	1.0	
+Diabetes Mellitus, Type 1	ADRA2A	1.0	
+Diabetes Mellitus, Type 1	ADRB1	1.0	
+Diabetes Mellitus, Type 1	ADRB2	1.0	
+Diabetes Mellitus, Type 1	ADRB3	1.0	
+Diabetes Mellitus, Type 1	ALB	1.0	
+Abdominal obesity	ADRB2	1.0	
+Abdominal obesity	ADRB3	1.0	
+Alcohol dependence	ADRA2A	1.0	
+Alcohol dependence	ADRA2C	1.0	
+Alcohol dependence	ADRB2	1.0	
+Alcohol dependence	SLC6A2	1.0	
+Hyperinsulinemia	ADRB2	1.0	
+Hyperinsulinemia	ADRB3	1.0	
+Hyperinsulinemia	ALB	1.0	
+ Acrodysostosis 1, with or without hormone resistance, 101800 (3)	ADRA1A	1.0	
+Berardinelli-Seip congenital lipodystrophy	ADRB3	1.0	
+High altitude pulmonary edema	ADRB2	1.0	
+Slow acetylator due to N-acetyltransferase enzyme variant	SLC6A2	1.0	
+Pseudohypoparathyroidism, type IB, 603233 (3)	ADRA1A	1.0	
+Dentinogenesis imperfecta	SLC6A2	1.0	
+Signs and Symptoms, Respiratory	ADRB2	1.0	
+Recurrent major depressive episodes	SLC6A2	1.0	
+Asthma, Occupational	SLC6A2	1.0	
+Malignant neoplasm of adrenal cortex	ALB	1.0	
+Venous thrombosis	ADRB2	1.0	
+Venous thrombosis	ADRB3	1.0	
+Neurodegeneration with brain iron accumulation	ADRA1B	1.0	
+Neurodegeneration with brain iron accumulation	DDC	1.0	
+Esophageal varix	ALB	1.0	
+Disorders of parathyroid gland	ADRA1A	1.0	
+Urolithiasis	ALB	1.0	
+genetic hypertension	ADRA1A	1.0	
+Echinococcosis	ALB	1.0	
+Hereditary Sensory Autonomic Neuropathy, Type 1	ADRA1A	1.0	
+Epidermolysis bullosa simplex, Cockayne-Touraine type	KRT9	1.0	
+Palmar hyperkeratosis	KRT9	1.0	
+Hypohidrosis	DDC	1.0	
+Hypohidrosis	KRT9	1.0	
+Heart Diseases	ADRA2A	1.0	
+Heart Diseases	ADRB1	1.0	
+Heart Diseases	ALB	1.0	
+Bladder neck obstruction	ADRA1A	1.0	
+Hypothermia	DDC	1.0	
+Cholesterol gallstones	ADRB3	1.0	
+Orofacial cleft	SLC6A2	1.0	
+Sudden cardiac death	ADRB1	1.0	
+Sudden cardiac death	ADRB2	1.0	
+Disorders of Intracellular Cobalamin Metabolism	ADRA1A	1.0	
+Disorders of Intracellular Cobalamin Metabolism	ADRB2	1.0	
+Disorders of Intracellular Cobalamin Metabolism	ADRB3	1.0	
+Verrucae	KRT9	1.0	
+Taste bitter	ADRA1A	1.0	
+Isolated somatotropin deficiency	ALB	1.0	
+Alzheimer Disease	ADRA1A	1.0	
+Alzheimer Disease	ADRA2A	1.0	
+Alzheimer Disease	ADRB1	1.0	
+Alzheimer Disease	ADRB2	1.0	
+Alzheimer Disease	ADRB3	1.0	
+Alzheimer Disease	ALB	1.0	
+Intermittent claudication	ADRB2	1.0	
+Substance Use Disorders	ALB	1.0	
+Dentatorubral pallidoluysian atrophy	ALB	1.0	
+Angiokeratoma	ALB	1.0	
+Isolated growth hormone deficiency type 1B	ALB	1.0	
+Hemorrhagic disorder due to intrinsic circulating anticoagulants	ADRA2A	1.0	
+Respiratory Hypersensitivity	ADRB2	1.0	
+Vascular malformation, primary intraosseous	ADRB1	1.0	
+Congenital long QT syndrome	ADRA1A	1.0	
+Plantar hyperkeratosis	KRT9	1.0	

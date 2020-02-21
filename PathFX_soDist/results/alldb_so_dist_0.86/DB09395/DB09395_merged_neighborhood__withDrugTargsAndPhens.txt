@@ -1,0 +1,15 @@
+node1	node2	edge_score	
+DB09395	ACSS2	1.0	
+ACSS2		1.0
+Angina, Unstable	ACSS2	1.0	
+Renal cell carcinoma, nonpapillary	ACSS2	1.0	
+Coronary heart disease 7	ACSS2	1.0	
+Diabetes mellitus type 2	ACSS2	1.0	
+Symptomatic human immunodeficiency virus infection	ACSS2	1.0	
+Animal Mammary Neoplasms	ACSS2	1.0	
+Acute myocardial infarction	ACSS2	1.0	
+Stable angina	ACSS2	1.0	
+Acute Coronary Syndrome	ACSS2	1.0	
+Cancer Cell Growth	ACSS2	1.0	
+Coronary Artery Disease	ACSS2	1.0	
+Hepatocellular carcinoma	ACSS2	1.0	

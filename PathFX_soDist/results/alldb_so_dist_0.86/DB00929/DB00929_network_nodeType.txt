@@ -1,0 +1,88 @@
+node_name	node_type	
+DB00929	drug	
+PTGER4	drug_target	
+PTGER2	drug_target	
+PTGER3	drug_target	
+ Adenocarcinoma, ovarian, somatic, 167000 (3)	phenotype	
+Alzheimer Disease	phenotype	
+Asthma	phenotype	
+Chorioamnionitis	phenotype	
+Verotoxigenic Escherichia coli gastrointestinal tract infection	phenotype	
+Fetal Membranes, Premature Rupture	phenotype	
+Inflammation	phenotype	
+Premature Obstetric Labor	phenotype	
+{Gastric cancer risk after H. pylori infection}, 137215 (3)	phenotype	
+Preeclampsia/eclampsia 1	phenotype	
+Premature Birth	phenotype	
+Malignant tumor of prostate	phenotype	
+Prostate carcinoma	phenotype	
+Stomach cancer	phenotype	
+Angiokeratoma	phenotype	
+Musculoskeletal Diseases	phenotype	
+Pregnancy Complications, Hematologic	phenotype	
+Fetal Diseases	phenotype	
+Hyperalgesia	phenotype	
+Connective Tissue Diseases	phenotype	
+Rectal Carcinoma	phenotype	
+Adenocarcinoma Of Esophagus	phenotype	
+Ischemic Cerebrovascular Accident	phenotype	
+Tendinopathy	phenotype	
+Ischemic stroke	phenotype	
+Dermatosis NOS	phenotype	
+Corneal neovascularization	phenotype	
+Chloracne	phenotype	
+Herpes Simplex Infections	phenotype	
+Renovascular hypertension	phenotype	
+Spondylitis, Ankylosing	phenotype	
+Erythema nodosum	phenotype	
+Inflammatory pain	phenotype	
+Aqueous Humor Disorders	phenotype	
+Endometriosis	phenotype	
+Stevens-Johnson Syndrome	phenotype	
+Drug Allergy	phenotype	
+Substance Withdrawal Syndrome	phenotype	
+Growth Disorders	phenotype	
+Carcinoma, Lewis Lung	phenotype	
+Membranous nephropathy, susceptibility to	phenotype	
+Cough	phenotype	
+Postmenopausal osteoporosis	phenotype	
+Endotoxemia	phenotype	
+Cystitis	phenotype	
+Intraocular pressure disorder	phenotype	
+Endometrial adenocarcinoma	phenotype	
+Osteoarthritis	phenotype	
+Skin Carcinogenesis	phenotype	
+Adenomas, multiple colorectal, 608456 (3)	phenotype	
+Ovarian cyst	phenotype	
+Peptic ulcer	phenotype	
+Infertility associated with multi-tailed spermatozoa and excessive DNA	phenotype	
+Hypotension	phenotype	
+Lung Neoplasms	phenotype	
+Polycystic kidney disease, autosomal dominant	phenotype	
+Colorectal Neoplasms	phenotype	
+invasive cancer	phenotype	
+Thrombosis	phenotype	
+Polycystic Kidney, Autosomal Dominant	phenotype	
+Obstructive sleep apnea	phenotype	
+Atherosclerosis	phenotype	
+Bronchial Hyperreactivity	phenotype	
+Keloid	phenotype	
+Cyst	phenotype	
+Hypersensitivity	phenotype	
+Coronary Artery Disease	phenotype	
+Patent ductus arteriosus	phenotype	
+Myocardial Reperfusion Injury	phenotype	
+Transient ischemic attack	phenotype	
+Restenosis	phenotype	
+Aortic aneurysm, familial thoracic 11, susceptibility to	phenotype	
+Prostatic Neoplasms	phenotype	
+Neuroblastoma	phenotype	
+Colon cancer	phenotype	
+Ankylosing spondylitis	phenotype	
+Acute kidney injury	phenotype	
+polyps	phenotype	
+Rheumatoid arthritis	phenotype	
+Carcinoma of colon	phenotype	
+Acute Coronary Syndrome	phenotype	
+Non-small cell lung carcinoma	phenotype	
+Hydrops, lactic acidosis, and sideroblastic anemia	phenotype	

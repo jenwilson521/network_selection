@@ -1,0 +1,36 @@
+node_name	node_type	
+DB01015	drug	
+CYP2C9	drug_target	
+CYP2C8	drug_target	
+PTGS1	drug_target	
+NAT2	drug_target	
+NAT1	drug_target	
+ALB	drug_target	
+GSTP1	drug_target	
+ABCB11	drug_target	
+UGT1A9	drug_target	
+CYP3A4	drug_target	
+Drug Allergy	phenotype	
+Hepatitis D Infection	phenotype	
+Hyperbilirubinemia	phenotype	
+Hearing Loss, Partial	phenotype	
+Cholelithiasis	phenotype	
+Febrile Neutropenia	phenotype	
+Leukopenia	phenotype	
+Adverse drug events and drug allergies	phenotype	
+Pharyngeal Neoplasms	phenotype	
+Rhinitis, Allergic, Perennial	phenotype	
+Neoplasm of the larynx	phenotype	
+Neutropenia	phenotype	
+Deafness, autosomal recessive 44	phenotype	
+DNA Damage	phenotype	
+Slow acetylator due to N-acetyltransferase enzyme variant	phenotype	
+Anemia, Sickle Cell	phenotype	
+Asthma, Occupational	phenotype	
+Peptic ulcer	phenotype	
+Head and Neck Neoplasms	phenotype	
+Adenoma of large intestine	phenotype	
+Musculoskeletal Diseases	phenotype	
+Pregnancy Complications, Hematologic	phenotype	
+Drug-Induced Liver Injury	phenotype	
+Stomach Diseases	phenotype	

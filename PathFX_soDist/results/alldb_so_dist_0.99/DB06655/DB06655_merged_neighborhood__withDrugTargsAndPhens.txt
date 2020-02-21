@@ -1,0 +1,6 @@
+node1	node2	edge_score	
+DB06655	MME	1.0	
+DB06655	DPP4	1.0	
+DB06655	ALB	1.0	
+DB06655	GLP1R	1.0	
+

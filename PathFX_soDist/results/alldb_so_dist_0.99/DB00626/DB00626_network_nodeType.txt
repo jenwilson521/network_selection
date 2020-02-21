@@ -1,0 +1,4 @@
+node_name	node_type	
+DB00626	drug	
+IDE	drug_target	
+A2M	drug_target	

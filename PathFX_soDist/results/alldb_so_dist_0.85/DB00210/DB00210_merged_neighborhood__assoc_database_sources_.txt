@@ -1,0 +1,45 @@
+Gene	CUI	Source Databases	
+PTGS2	C0740277	Bile duct cancer resectable	DisGeNet	
+RARG	C0740277	Bile duct cancer resectable	DisGeNet	
+PTGS2	C0947622	Cholecystolithiasis	DisGeNet	
+RXRA	C0947622	Cholecystolithiasis	DisGeNet	
+PTGS2	C1168327	High-Grade Prostatic Intraepithelial Neoplasia	DisGeNet	
+RXRA	C1168327	High-Grade Prostatic Intraepithelial Neoplasia	DisGeNet	
+PTGS2	C0205647	Follicular adenoma	DisGeNet	
+RXRA	C0205647	Follicular adenoma	DisGeNet	
+PTGS2	C0282612	Prostatic Intraepithelial Neoplasias	DisGeNet	
+RXRA	C0282612	Prostatic Intraepithelial Neoplasias	DisGeNet	
+PTGS2	C0020507	Hyperplasia	DisGeNet	
+RXRA	C0020507	Hyperplasia	DisGeNet	
+PTGS2	C0341439	Chronic liver disease	DisGeNet	
+RXRA	C0341439	Chronic liver disease	DisGeNet	
+PTGS2	C0023487	Acute promyelocytic leukemia	DisGeNet	
+RARG	C0023487	Acute promyelocytic leukemia	DisGeNet	
+RXRA	C0023487	Acute promyelocytic leukemia	DisGeNet	
+RARG	C0025007	Measles	DisGeNet	
+RXRA	C0025007	Measles	DisGeNet	
+PTGS2	C0007112	Adenocarcinoma of prostate	DisGeNet	
+RXRA	C0007112	Adenocarcinoma of prostate	DisGeNet	
+PTGS2	C0008350	Cholelithiasis	DisGeNet	
+RXRA	C0008350	Cholelithiasis	DisGeNet	
+PTGS2	C0280321	Squamous cell carcinoma of the hypopharynx	DisGeNet	
+PTGS2	C0349530	Early gastric cancer	DisGeNet	
+PTGS2	C0375071	Malignant neoplasm of vulva	DisGeNet	
+PTGS2	C0005694	Bladder neck obstruction	DisGeNet	
+PTGS2	C0155733	Aortic atherosclerosis	DisGeNet	
+PTGS2	C0206720	Squamous Cell Neoplasms	DisGeNet	
+PTGS2	C0744310	gastritis h pylori	DisGeNet	
+PTGS2	C0428791	Aortic valve calcification	DisGeNet	
+PTGS2	C1322286	Thymic Carcinoma	DisGeNet	
+PTGS2	C1852467	Creutzfeldt-Jakob Disease, Sporadic	DisGeNet	
+PTGS2	C0085183	Neoplasms, Second Primary	DisGeNet	
+RXRA	C0085183	Neoplasms, Second Primary	DisGeNet	
+PTGS2	C0340293	Anterior myocardial infarction	DisGeNet	
+PTGS2	C0497496	Prostatitis	DisGeNet	
+PTGS2	C0877008	Enzyme inhibition disorder	DisGeNet	
+PTGS2	C1334811	Mucinous Neoplasm	DisGeNet	
+PTGS2	C0022572	keratoacanthoma	DisGeNet	
+PTGS2	C0031039	Pericardial effusion	DisGeNet	
+PTGS2	C0155862	Streptococcal pneumonia	DisGeNet	
+PTGS2	C0035457	Rhinitis, Allergic, Perennial	DisGeNet	
+PTGS2	C0409957	Osteoarthritis of distal interphalangeal joint	DisGeNet	

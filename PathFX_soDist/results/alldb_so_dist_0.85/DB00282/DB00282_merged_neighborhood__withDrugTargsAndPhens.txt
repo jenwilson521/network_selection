@@ -1,0 +1,30 @@
+node1	node2	edge_score	
+DB00282	FDPS	1.0	
+FDPS		1.0
+Alzheimer Disease	FDPS	1.0	
+Colon cancer	FDPS	1.0	
+Squamous cell carcinoma	FDPS	1.0	
+Neoplasm of the colon	FDPS	1.0	
+Colorectal cancer 1	FDPS	1.0	
+Heart Failure	FDPS	1.0	
+Congestive heart failure	FDPS	1.0	
+Heart valve disease	FDPS	1.0	
+Neoplasms	FDPS	1.0	
+Obesity	FDPS	1.0	
+Osteoporosis	FDPS	1.0	
+Pruritus	FDPS	1.0	
+Abnormality of the skin	FDPS	1.0	
+Neoplasm of the skin	FDPS	1.0	
+Pancreatic Carcinoma	FDPS	1.0	
+Thickened skin	FDPS	1.0	
+Malignant neoplasm of pancreas	FDPS	1.0	
+Epidermal thickening	FDPS	1.0	
+Neurodegenerative Diseases	FDPS	1.0	
+Osteosarcoma	FDPS	1.0	
+Carcinoma of colon	FDPS	1.0	
+Enzyme inhibition disorder	FDPS	1.0	
+Colorectal cancer	FDPS	1.0	
+Neoplasm by anatomical site	FDPS	1.0	
+Abnormality of skin physiology	FDPS	1.0	
+Abnormality of skin morphology	FDPS	1.0	
+Abnormality of the integument	FDPS	1.0	

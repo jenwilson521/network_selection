@@ -1,0 +1,64 @@
+Gene	CUI	Source Databases	
+ABCG2	C0032229	Pleural Neoplasms	DisGeNet	
+CYP1A1	C0032229	Pleural Neoplasms	DisGeNet	
+CYP1A2	C0032229	Pleural Neoplasms	DisGeNet	
+CYP1B1	C0032229	Pleural Neoplasms	DisGeNet	
+ABCG2	C0206720	Squamous Cell Neoplasms	DisGeNet	
+CYP1A1	C0206720	Squamous Cell Neoplasms	DisGeNet	
+CYP3A4	C0206720	Squamous Cell Neoplasms	DisGeNet	
+CYP3A5	C0206720	Squamous Cell Neoplasms	DisGeNet	
+ABCG2	C0919532	Genomic Instability	DisGeNet	
+CYP1A1	C0919532	Genomic Instability	DisGeNet	
+CYP1A2	C0919532	Genomic Instability	DisGeNet	
+CYP1B1	C0919532	Genomic Instability	DisGeNet	
+ABCB1	C0024620	Primary malignant neoplasm of liver	DisGeNet	
+CYP3A4	C0024620	Primary malignant neoplasm of liver	DisGeNet	
+CYP3A5	C0024620	Primary malignant neoplasm of liver	DisGeNet	
+ABCB1	C0746883	Febrile Neutropenia	DisGeNet	
+CYP3A5	C0746883	Febrile Neutropenia	DisGeNet	
+FMO3	C0746883	Febrile Neutropenia	DisGeNet	
+CYP1A1	C0027658	Neoplasms, Germ Cell and Embryonal	DisGeNet	
+CYP3A4	C0027658	Neoplasms, Germ Cell and Embryonal	DisGeNet	
+CYP3A5	C0027658	Neoplasms, Germ Cell and Embryonal	DisGeNet	
+KIT	C0027658	Neoplasms, Germ Cell and Embryonal	DisGeNet	
+ABCB1	C1279296	Chronic leukemia	DisGeNet	
+CYP3A5	C1279296	Chronic leukemia	DisGeNet	
+KIT	C1279296	Chronic leukemia	HumPhenOnt	
+ABCG2	C0011206	Cocaine delirium	DisGeNet	
+CYP3A4	C0011206	Cocaine delirium	DisGeNet	
+CYP3A5	C0011206	Cocaine delirium	DisGeNet	
+CYP1A1	C0220603	childhood brain tumor	DisGeNet	
+FMO3	C0220603	childhood brain tumor	DisGeNet	
+KIT	C0220603	childhood brain tumor	DisGeNet	
+ABCB1	C0854467	Myelosuppression	DisGeNet	
+ABCG2	C0854467	Myelosuppression	DisGeNet	
+KIT	C0854467	Myelosuppression	DisGeNet	
+ABCB1	C0235032	Neurotoxicity Syndromes	DisGeNet	
+ABCG2	C0235032	Neurotoxicity Syndromes	DisGeNet	
+CYP3A5	C0235032	Neurotoxicity Syndromes	DisGeNet	
+ABCB1	C0042065	Genitourinary neoplasm	DisGeNet	
+ABCG2	C0042065	Genitourinary neoplasm	DisGeNet	
+CYP3A4	C0042065	Genitourinary neoplasm	DisGeNet	
+CYP3A5	C0042065	Genitourinary neoplasm	DisGeNet	
+KIT	C0042065	Genitourinary neoplasm	ClinVar,HumPhenOnt	
+CYP1A1	C0596321	Chemical Carcinogenesis	DisGeNet	
+CYP1A2	C0596321	Chemical Carcinogenesis	DisGeNet	
+CYP1B1	C0596321	Chemical Carcinogenesis	DisGeNet	
+ABCB1	C0220615	Adult Acute Myeloblastic Leukemia	DisGeNet	
+ABCG2	C0220615	Adult Acute Myeloblastic Leukemia	DisGeNet	
+CYP1A1	C0220615	Adult Acute Myeloblastic Leukemia	DisGeNet	
+KIT	C0220615	Adult Acute Myeloblastic Leukemia	DisGeNet	
+ABCB1	C0344307	Pain insensitivity	DisGeNet	
+CYP3A4	C0344307	Pain insensitivity	DisGeNet	
+CYP3A5	C0344307	Pain insensitivity	DisGeNet	
+ABCB1	C0018671	Head and Neck Neoplasms	DisGeNet	
+ABCG2	C0018671	Head and Neck Neoplasms	DisGeNet	
+CYP1A1	C0018671	Head and Neck Neoplasms	DisGeNet	
+CYP1A2	C0018671	Head and Neck Neoplasms	DisGeNet	
+CYP1B1	C0018671	Head and Neck Neoplasms	DisGeNet	
+CYP3A4	C0018671	Head and Neck Neoplasms	DisGeNet	
+CYP3A5	C0018671	Head and Neck Neoplasms	DisGeNet	
+CYP1A1	C1336708	Testicular Germ Cell Tumor	DisGeNet	
+CYP1A2	C1336708	Testicular Germ Cell Tumor	DisGeNet	
+CYP1B1	C1336708	Testicular Germ Cell Tumor	DisGeNet	
+KIT	C1336708	Testicular Germ Cell Tumor	DisGeNet	

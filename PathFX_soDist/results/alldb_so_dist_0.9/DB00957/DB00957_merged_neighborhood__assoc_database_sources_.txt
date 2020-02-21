@@ -1,0 +1,8 @@
+Gene	CUI	Source Databases	
+ABCC2	C0013182	Drug Allergy	DisGeNet	
+CYP3A4	C0013182	Drug Allergy	DisGeNet	
+ESR1	C0013182	Drug Allergy	DisGeNet	
+ABCC2	C0268318	Cholestasis of pregnancy	DisGeNet	
+ESR1	C0268318	Cholestasis of pregnancy	DisGeNet	
+CYP3A4	C0029445	Bone necrosis	DisGeNet	
+ESR1	C0029445	Bone necrosis	DisGeNet	

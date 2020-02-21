@@ -1,0 +1,7 @@
+node_name	node_type	
+DB06201	drug	
+CES1	drug_target	
+GRM5	drug_target	
+CYP3A4	drug_target	
+ALB	drug_target	
+CYP2E1	drug_target	

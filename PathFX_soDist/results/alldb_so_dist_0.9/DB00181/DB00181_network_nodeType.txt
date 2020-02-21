@@ -1,0 +1,48 @@
+node_name	node_type	
+DB00181	drug	
+GABBR1	drug_target	
+GABBR2	drug_target	
+Alcohol dependence	phenotype	
+Alzheimer Disease	phenotype	
+Autism 15	phenotype	
+Mental disorders	phenotype	
+Diabetes Mellitus, Type 1	phenotype	
+Eating disorder	phenotype	
+Encephalitis	phenotype	
+Epilepsy	phenotype	
+Absence seizures	phenotype	
+Epilepsy, Temporal Lobe	phenotype	
+Gastroesophageal reflux	phenotype	
+Hypertension	phenotype	
+Lupus Erythematosus, Systemic	phenotype	
+Multiple Sclerosis	phenotype	
+Narcolepsy	phenotype	
+Nasopharyngeal Neoplasms	phenotype	
+Neuralgia	phenotype	
+Nicotine Dependence	phenotype	
+Obsessive-compulsive disorder	phenotype	
+Osteochondritis dissecans	phenotype	
+Pain	phenotype	
+Pancreatic Neoplasms	phenotype	
+Schizophrenia	phenotype	
+Sclerosis	phenotype	
+Seizures, Febrile	phenotype	
+Sleep apnea	phenotype	
+Tobacco Use Disorder	phenotype	
+Tremor, hereditary essential, 5	phenotype	
+Unipolar Depression	phenotype	
+Small cell lung cancer	phenotype	
+Memory impairment	phenotype	
+Pancreatic Carcinoma	phenotype	
+Cocaine-Related Disorders	phenotype	
+Essential tremor	phenotype	
+Idiopathic generalized epilepsy	phenotype	
+Juvenile myoclonic epilepsy	phenotype	
+Malignant neoplasm of pancreas	phenotype	
+Hyperactivity	phenotype	
+Dyslexia 1	phenotype	
+Obstructive sleep apnea	phenotype	
+Carcinogenesis	phenotype	
+Major depressive disorder	phenotype	
+Hippocampal sclerosis	phenotype	
+Nasopharyngeal carcinoma, susceptibility to, 3	phenotype	

@@ -1,0 +1,8 @@
+node_name	node_type	
+DB00153	drug	
+VDR	drug_target	
+CYP27A1	drug_target	
+CYP11A1	drug_target	
+GC	drug_target	
+CYP27B1	drug_target	
+CYP24A1	drug_target	

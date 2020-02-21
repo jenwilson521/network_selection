@@ -1,0 +1,6 @@
+Gene	CUI	Source Databases	
+CDA	C0268138	Xeroderma Pigmentosum, Complementation Group D	DisGeNet	
+CDA	C0023646	Lichen planus pemphigoides	DisGeNet	
+CDA	C0238644	Anemia, severe	DisGeNet	
+CDA	C2674218	SPHEROCYTOSIS, TYPE 1 (disorder)	DisGeNet	
+CDA	C0037889	Hereditary spherocytosis	DisGeNet	

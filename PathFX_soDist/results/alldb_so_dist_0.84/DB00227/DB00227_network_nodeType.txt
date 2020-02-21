@@ -1,0 +1,33 @@
+node_name	node_type	
+DB00227	drug	
+CYP2C9	drug_target	
+CYP2C8	drug_target	
+HDAC2	drug_target	
+HMGCR	drug_target	
+CYP2D6	drug_target	
+UGT2B7	drug_target	
+ALB	drug_target	
+ABCB11	drug_target	
+SLCO1B1	drug_target	
+ABCB1	drug_target	
+ITGAL	drug_target	
+SLCO1A2	drug_target	
+CYP3A4	drug_target	
+CYP3A5	drug_target	
+UGT1A1	drug_target	
+ABCC2	drug_target	
+UGT1A3	drug_target	
+Drug Allergy	phenotype	
+Hyperbilirubinemia	phenotype	
+Hepatitis D Infection	phenotype	
+Febrile Neutropenia	phenotype	
+Adverse drug events and drug allergies	phenotype	
+Cholelithiasis	phenotype	
+Mammographic breast density	phenotype	
+Primary malignant neoplasm of liver	phenotype	
+Pain insensitivity	phenotype	
+Neutropenia	phenotype	
+Leukopenia	phenotype	
+Gastrointestinal Diseases	phenotype	
+Anemia, Sickle Cell	phenotype	
+Acute postoperative pain	phenotype	

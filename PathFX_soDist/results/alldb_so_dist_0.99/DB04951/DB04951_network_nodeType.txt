@@ -1,0 +1,4 @@
+node_name	node_type	
+DB04951	drug	
+CYP1A2	drug_target	
+FURIN	drug_target	

@@ -1,0 +1,15 @@
+rank	phenotype	cui	assoc in neigh	assoc in intom	probability	Benjamini-Hochberg	genes	
+1	Arteriosclerosis	C0003850	1	1059	0.0	7.14285714286e-05	EPRS
+2	Atherosclerosis	C0004153	1	1271	0.0	0.000142857142857	EPRS
+3	Cardiovascular Diseases	C0007222	1	1029	0.0	0.000214285714286	EPRS
+4	Coronary heart disease 7	C0010054	1	754	0.0	0.000285714285714	EPRS
+5	Epilepsy	C0014544	1	673	0.0	0.000357142857143	EPRS
+6	Heart Diseases	C0018799	1	386	0.0	0.000428571428571	EPRS
+7	Ischemia	C0022116	1	647	0.0	0.0005	EPRS
+8	Microcephaly 16, primary, autosomal recessive	C0025958	1	721	0.0	0.000571428571429	EPRS
+9	Myocardial Infarction	C0027051	1	1019	0.0	0.000642857142857	EPRS
+10	Seizures, Febrile	C0036572	1	1535	0.0	0.000714285714286	EPRS
+11	Tobacco Use Disorder	C0040336	1	3066	0.0	0.000785714285714	EPRS
+12	Acute myocardial ischemia	C0151744	1	484	0.0	0.000857142857143	EPRS
+13	Old myocardial infarction	C0155668	1	29	0.0	0.000928571428571	EPRS
+14	Coronary Artery Disease	C1956346	1	1366	0.0	0.001	EPRS

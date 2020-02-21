@@ -1,0 +1,46 @@
+node_name	node_type	
+DB01032	drug	
+SLC22A12	drug_target	
+PANX1	drug_target	
+UGT1A1	drug_target	
+SLC10A1	drug_target	
+SLCO1C1	drug_target	
+TAS2R16	drug_target	
+SLCO1A2	drug_target	
+CYP3A4	drug_target	
+ABCC11	drug_target	
+CYP2C8	drug_target	
+SLC16A1	drug_target	
+ALB	drug_target	
+SLC16A7	drug_target	
+SLC22A11	drug_target	
+SLC22A5	drug_target	
+SLC22A6	drug_target	
+CYP2C19	drug_target	
+SLC22A1	drug_target	
+SLC22A2	drug_target	
+ABCC4	drug_target	
+ABCC5	drug_target	
+ABCC6	drug_target	
+SLC22A8	drug_target	
+ABCC1	drug_target	
+ABCC2	drug_target	
+ABCC3	drug_target	
+Hyperbilirubinemia	phenotype	
+Drug Allergy	phenotype	
+Hepatitis D Infection	phenotype	
+Leukopenia	phenotype	
+Cholelithiasis	phenotype	
+Febrile Neutropenia	phenotype	
+Extrahepatic cholestasis	phenotype	
+Intrahepatic cholestasis	phenotype	
+Adverse drug events and drug allergies	phenotype	
+Hearing Loss, Partial	phenotype	
+Neutropenia	phenotype	
+Primary biliary cirrhosis	phenotype	
+Acute kidney injury	phenotype	
+Anemia, Sickle Cell	phenotype	
+Chromosome 11p deletion syndrome	phenotype	
+Cholecystolithiasis	phenotype	
+Drug Resistant Epilepsy	phenotype	
+Neurologic, endocrine, and pancreatic disease, multisystem, infantile-onset	phenotype	

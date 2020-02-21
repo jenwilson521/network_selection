@@ -1,0 +1,83 @@
+node_name	node_type	
+DB01579	drug	
+ADRA1A	drug_target	
+SLC6A2	drug_target	
+ADRA1B	drug_target	
+Gastroparesis	phenotype	
+Methamphetamine abuse	phenotype	
+Systemic arterial pressure	phenotype	
+Hypotension	phenotype	
+Tourette Syndrome	phenotype	
+Attention deficit hyperactivity disorder	phenotype	
+ Acrodysostosis 1, with or without hormone resistance, 101800 (3)	phenotype	
+Slow acetylator due to N-acetyltransferase enzyme variant	phenotype	
+Pseudohypoparathyroidism, type IB, 603233 (3)	phenotype	
+Dentinogenesis imperfecta	phenotype	
+Chronic sciatica	phenotype	
+Recurrent major depressive episodes	phenotype	
+Asthma, Occupational	phenotype	
+Behavior Disorders	phenotype	
+Disorders of parathyroid gland	phenotype	
+genetic hypertension	phenotype	
+Hereditary Sensory Autonomic Neuropathy, Type 1	phenotype	
+Bladder neck obstruction	phenotype	
+Orofacial cleft	phenotype	
+Taste bitter	phenotype	
+Congenital long QT syndrome	phenotype	
+Systemic aspergillosis	phenotype	
+Pulmonary Cystic Fibrosis	phenotype	
+Chronic schizophrenia	phenotype	
+Hypoparathyroidism - autosomal dominant	phenotype	
+Acute postoperative pain	phenotype	
+Acute disease of cardiovascular system	phenotype	
+Nephrosclerosis	phenotype	
+Personality disorder	phenotype	
+Paroxysmal atrial fibrillation	phenotype	
+Cholestasis of pregnancy	phenotype	
+Essential hypertension	phenotype	
+Neurotoxicity Syndromes	phenotype	
+Low back pain	phenotype	
+Nephrogenic diabetes insipidus, autosomal	phenotype	
+Cancer Cell Growth	phenotype	
+Mood Disorders	phenotype	
+Disseminated intravascular coagulation	phenotype	
+Weight Loss Adverse Event	phenotype	
+Fibromyalgia	phenotype	
+Dyskinesia, Drug-Induced	phenotype	
+Abnormal autonomic nervous system physiology	phenotype	
+Spondylitis, Ankylosing	phenotype	
+Low Tension Glaucoma	phenotype	
+Cleft palate with cleft lip	phenotype	
+Anxiety Disorders	phenotype	
+Memory Disorders	phenotype	
+Inflammatory pain	phenotype	
+Hypogonadism with anosmia	phenotype	
+Heroin Dependence	phenotype	
+Colorectal polyposis	phenotype	
+Urinary incontinence	phenotype	
+Multiple Endocrine Neoplasia Type 2a	phenotype	
+Well Differentiated Pancreatic Endocrine Tumor	phenotype	
+Polycystic Ovary Syndrome	phenotype	
+Ichthyosis bullosa of Siemens	phenotype	
+Granulomatous disease, chronic, autosomal recessive, cytochrome b-negative	phenotype	
+Major depressive disorder	phenotype	
+Panic disorder 1	phenotype	
+Multiple Endocrine Neoplasia Type 1	phenotype	
+Schizoaffective Disorder	phenotype	
+Gastrointestinal Diseases	phenotype	
+Mitral Valve Prolapse	phenotype	
+Candidiasis, familial, 9	phenotype	
+Herpes NOS	phenotype	
+Albinism, ocular, with sensorineural deafness	phenotype	
+Arterial thrombosis	phenotype	
+Cerebral palsy, spastic quadriplegic, 3	phenotype	
+Methicillin resistant Staphylococcus aureus	phenotype	
+Hyperplastic Polyp	phenotype	
+Bacteremia, susceptibility to, 2	phenotype	
+Anorexia nervosa 1	phenotype	
+Hypertension	phenotype	
+Kidney Failure, Chronic	phenotype	
+Von Hippel-Lindau syndrome	phenotype	
+early pregnancy	phenotype	
+Panic disorder syndrome 1 (2)	phenotype	
+Primary Effusion Lymphoma	phenotype	

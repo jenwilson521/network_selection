@@ -1,0 +1,45 @@
+node_name	node_type	
+DB00818	drug	
+CYP2C9	drug_target	
+CYP2C8	drug_target	
+CYP1A2	drug_target	
+FAAH	drug_target	
+CYP1A1	drug_target	
+CYP2B6	drug_target	
+ALB	drug_target	
+CYP2E1	drug_target	
+SCN2A	drug_target	
+CYP2C19	drug_target	
+CYP2C18	drug_target	
+SCN4A	drug_target	
+CYP1B1	drug_target	
+UGT1A8	drug_target	
+GABRB3	drug_target	
+GABRB2	drug_target	
+UGT1A1	drug_target	
+UGT1A6	drug_target	
+UGT1A9	drug_target	
+Hepatitis D Infection	phenotype	
+Pleural Neoplasms	phenotype	
+Hyperbilirubinemia	phenotype	
+Drug Allergy	phenotype	
+Genomic Instability	phenotype	
+Febrile Neutropenia	phenotype	
+Cholelithiasis	phenotype	
+Adverse drug events and drug allergies	phenotype	
+Rhinitis, Allergic, Perennial	phenotype	
+End Stage Liver Disease	phenotype	
+Neoplasm of the larynx	phenotype	
+Hearing Loss, Partial	phenotype	
+Mammographic breast density	phenotype	
+Chemical Carcinogenesis	phenotype	
+Anemia, Sickle Cell	phenotype	
+Peptic ulcer	phenotype	
+Leukopenia	phenotype	
+DNA Damage	phenotype	
+Hepatic cancer metastatic	phenotype	
+Chronic liver disease	phenotype	
+Drug-Induced Liver Injury	phenotype	
+Neoplasms, Germ Cell and Embryonal	phenotype	
+Pharyngeal Neoplasms	phenotype	
+Methamphetamine abuse	phenotype	

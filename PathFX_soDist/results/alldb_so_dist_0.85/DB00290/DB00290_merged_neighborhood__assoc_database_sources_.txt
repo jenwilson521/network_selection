@@ -1,0 +1,36 @@
+Gene	CUI	Source Databases	
+LIG3	C0003811	Arrhythmias, Cardiac	DisGeNet	
+LIG3	C0004134	Ataxia, combined cerebellar and peripheral, with hearing loss and diabetes mellitus	DisGeNet	
+LIG3	C0004135	Ataxia-telangiectasia syndrome	DisGeNet	
+LIG3	C0005684	Malignant tumor of urinary bladder	DisGeNet	
+LIG3	C0006142	Breast-ovarian cancer, familial 1	DisGeNet	
+LIG3	C0009404	Colorectal Neoplasms	DisGeNet	
+LIG3	C0014859	Esophageal Neoplasms	DisGeNet	
+LIG3	C0018133	Graft-versus-host disease, susceptibility to	DisGeNet	
+LIG3	C0018671	Head and Neck Neoplasms	DisGeNet	
+LIG3	C0023055	Neoplasm of the larynx	DisGeNet	
+LIG3	C0023418	Leukemia, Lymphocytic, Chronic, B-Cell	DisGeNet	
+LIG3	C0023452	Leukemia, Lymphocytic, Acute, L1	DisGeNet	
+LIG3	C0023473	Chronic myeloid leukemia	DisGeNet	
+LIG3	C0024117	Chronic obstructive pulmonary disease	DisGeNet	
+LIG3	C0024305	Non-Hodgkin lymphoma	DisGeNet	
+LIG3	C0026640	Neoplasm of the oral cavity	DisGeNet	
+LIG3	C0026769	Multiple Sclerosis	DisGeNet	
+LIG3	C0030297	Pancreatic Neoplasms	DisGeNet	
+LIG3	C0031347	Pharyngeal Neoplasms	DisGeNet	
+LIG3	C0035126	Reperfusion Injury	DisGeNet	
+LIG3	C0040336	Tobacco Use Disorder	DisGeNet	
+LIG3	C0085298	Sudden cardiac death	DisGeNet	
+LIG3	C0235974	Pancreatic Carcinoma	DisGeNet	
+LIG3	C0242379	Malignant neoplasm of lung	DisGeNet	
+LIG3	C0279626	Esophageal Squamous Cell Carcinoma	DisGeNet	
+LIG3	C0346647	Malignant neoplasm of pancreas	DisGeNet	
+LIG3	C0376545	Hematological neoplasm	DisGeNet	
+LIG3	C0546837	Malignant tumor of esophagus	DisGeNet	
+LIG3	C0677886	Ovarian epithelial cancer	DisGeNet	
+LIG3	C0678222	Breast carcinoma	DisGeNet	
+LIG3	C0699885	Bladder carcinoma	DisGeNet	
+LIG3	C0700095	Neuroblastoma	DisGeNet	
+LIG3	C1292769	B Acute Lymphoblastic Leukemia with t(9;22)(q34;q11.2); BCR-ABL1	DisGeNet	
+LIG3	C1302401	Adenoma of large intestine	DisGeNet	
+LIG3	C1527249	Colorectal cancer	DisGeNet	

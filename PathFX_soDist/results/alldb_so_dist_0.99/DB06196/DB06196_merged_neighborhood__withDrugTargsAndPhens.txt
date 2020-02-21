@@ -1,0 +1,4 @@
+node1	node2	edge_score	
+DB06196	BDKRB2	1.0	
+DB06196	ANPEP	1.0	
+

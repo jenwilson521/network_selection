@@ -1,0 +1,5 @@
+node1	node2	edge_score	
+DB11363	ABCB1	1.0	
+DB11363	ABCG2	1.0	
+DB11363	ALK	1.0	
+

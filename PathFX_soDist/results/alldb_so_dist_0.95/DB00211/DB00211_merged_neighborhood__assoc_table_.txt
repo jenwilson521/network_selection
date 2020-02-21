@@ -1,0 +1,2 @@
+rank	phenotype	cui	assoc in neigh	assoc in intom	probability	Benjamini-Hochberg	genes	
+26	Congenital long QT syndrome	C1141890	2	32	5.925093291103689e-05	6.59898477157e-05	ADRA1A,CYP2D6

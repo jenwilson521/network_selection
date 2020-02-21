@@ -1,0 +1,25 @@
+Gene	CUI	Source Databases	
+SLC25A13	C4021660	Abnormality of sulfur amino acid metabolism	HumPhenOnt	
+SLC25A13	C4023615	Abnormality of the level of lipoprotein cholesterol	HumPhenOnt	
+ASPH	C0426415	Prominent nose	HumPhenOnt	
+ASPH	C0013581	Ectopia lentis, isolated autosomal recessive	DisGeNet,HumPhenOnt	
+SLC25A13	C0220994	Hyperammonemia	HumPhenOnt	
+SLC25A13	C0009676	Confusion	HumPhenOnt	
+ASPH	C0751587	CADASIL	DisGeNet	
+ASPH	C1334953	Neuroblastic tumors	DisGeNet	
+ASPH	C0740277	Bile duct cancer resectable	DisGeNet	
+ASPH	C0240538	Convex nasal ridge	HumPhenOnt	
+ASPH	C0266617	Facial dysmorphism, lens dislocation, anterior segment abnormalities, and spontaneous filtering blebs	ClinVar	
+SLC1A1	C0152136	Low Tension Glaucoma	DisGeNet	
+ASPH	C0426421	Wide nose	HumPhenOnt	
+SLC25A13	C0030286	Neurologic, endocrine, and pancreatic disease, multisystem, infantile-onset	DisGeNet	
+SLC25A13	C4025656	Abnormality of cholesterol metabolism	HumPhenOnt	
+SLC25A13	C0008372	Intrahepatic cholestasis	DisGeNet,HumPhenOnt	
+SLC1A1	C0431380	Cortical dysplasia, complex, with other brain malformations 3	DisGeNet	
+SLC1A1	C0009241	Cognition Disorders	DisGeNet	
+SLC1A1	C0600104	Obsessive-compulsive behavior	DisGeNet	
+SLC1A1	C0038443	Stress, Psychological	DisGeNet	
+SLC1A1	C0029421	Osteochondritis dissecans	DisGeNet	
+SLC1A1	C1955869	Malformation of cortical development	DisGeNet	
+SLC25A13	C4025336	Abnormality of nitrogen compound homeostasis	HumPhenOnt	
+SLC25A13	C0242528	Azotemia	HumPhenOnt	

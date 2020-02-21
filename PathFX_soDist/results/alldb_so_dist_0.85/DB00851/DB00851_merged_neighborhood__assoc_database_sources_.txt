@@ -1,0 +1,82 @@
+Gene	CUI	Source Databases	
+CYP1A1	C0032229	Pleural Neoplasms	DisGeNet	
+CYP1A2	C0032229	Pleural Neoplasms	DisGeNet	
+CYP2E1	C0032229	Pleural Neoplasms	DisGeNet	
+CYP1A1	C0919532	Genomic Instability	DisGeNet	
+CYP1A2	C0919532	Genomic Instability	DisGeNet	
+CYP2E1	C0919532	Genomic Instability	DisGeNet	
+CYP1A1	C0011609	Drug Eruptions	DisGeNet	
+CYP2E1	C0011609	Drug Eruptions	DisGeNet	
+CYP1A1	C0027663	Neoplasms, Multiple Primary	DisGeNet	
+CYP2E1	C0027663	Neoplasms, Multiple Primary	DisGeNet	
+CYP1A1	C0153405	Malignant neoplasm of pharynx	DisGeNet	
+CYP2E1	C0153405	Malignant neoplasm of pharynx	DisGeNet	
+CYP1A1	C0273115	Lung Injury	DisGeNet	
+CYP1A2	C0273115	Lung Injury	DisGeNet	
+CYP1A1	C0023891	Liver Cirrhosis, Alcoholic	DisGeNet	
+CYP1A2	C0023891	Liver Cirrhosis, Alcoholic	DisGeNet	
+CYP2E1	C0023891	Liver Cirrhosis, Alcoholic	DisGeNet	
+CYP1A1	C0206720	Squamous Cell Neoplasms	DisGeNet	
+CYP2E1	C0206720	Squamous Cell Neoplasms	DisGeNet	
+CYP1A1	C0023055	Neoplasm of the larynx	DisGeNet	
+CYP1A2	C0023055	Neoplasm of the larynx	DisGeNet	
+CYP2E1	C0023055	Neoplasm of the larynx	DisGeNet	
+CYP1A1	C0376670	Pancreatitis, Alcoholic	DisGeNet	
+CYP2E1	C0376670	Pancreatitis, Alcoholic	DisGeNet	
+CYP1A1	C0023904	Liver Neoplasms, Experimental	DisGeNet	
+CYP1A2	C0023904	Liver Neoplasms, Experimental	DisGeNet	
+CYP2E1	C0023904	Liver Neoplasms, Experimental	DisGeNet	
+CYP1A1	C0596321	Chemical Carcinogenesis	DisGeNet	
+CYP1A2	C0596321	Chemical Carcinogenesis	DisGeNet	
+CYP1A1	C0341439	Chronic liver disease	DisGeNet	
+CYP1A2	C0341439	Chronic liver disease	DisGeNet	
+CYP2E1	C0341439	Chronic liver disease	DisGeNet	
+CYP1A1	C0023531	Leukoplakia	DisGeNet	
+CYP2E1	C0023531	Leukoplakia	DisGeNet	
+CYP1A1	C0033054	Prenatal Exposure Delayed Effects	DisGeNet	
+CYP2E1	C0033054	Prenatal Exposure Delayed Effects	DisGeNet	
+CYP1A1	C0035242	Respiratory Tract Diseases	DisGeNet	
+CYP2E1	C0035242	Respiratory Tract Diseases	DisGeNet	
+CYP1A2	C0041755	Adverse drug events and drug allergies	DisGeNet	
+CYP2E1	C0041755	Adverse drug events and drug allergies	DisGeNet	
+CYP1A1	C0009376	Colonic Polyps	DisGeNet	
+CYP1A2	C0009376	Colonic Polyps	DisGeNet	
+CYP1A1	C1332977	Childhood Leukemia	DisGeNet	
+CYP2E1	C1332977	Childhood Leukemia	DisGeNet	
+CYP1A1	C0149782	Squamous cell carcinoma of lung	DisGeNet	
+CYP1A2	C0149782	Squamous cell carcinoma of lung	DisGeNet	
+CYP2E1	C0149782	Squamous cell carcinoma of lung	DisGeNet	
+CYP1A1	C0031347	Pharyngeal Neoplasms	DisGeNet	
+CYP1A2	C0031347	Pharyngeal Neoplasms	DisGeNet	
+CYP1A1	C0949059	Colorectal polyposis	DisGeNet	
+CYP1A2	C0949059	Colorectal polyposis	DisGeNet	
+CYP1A1	C4055506	Neurodegeneration with brain iron accumulation 4	DisGeNet	
+CYP2E1	C4055506	Neurodegeneration with brain iron accumulation 4	DisGeNet	
+CYP1A1	C0028797	Occupational Diseases	DisGeNet	
+CYP2E1	C0028797	Occupational Diseases	DisGeNet	
+CYP1A1	C0006277	Bronchitis	DisGeNet	
+CYP2E1	C0006277	Bronchitis	DisGeNet	
+CYP1A1	C1268717	Mammographic breast density	DisGeNet	
+CYP1A2	C1268717	Mammographic breast density	DisGeNet	
+CYP1A1	C0023532	Oral leukoplakia	DisGeNet	
+CYP2E1	C0023532	Oral leukoplakia	DisGeNet	
+CYP1A1	C0026640	Neoplasm of the oral cavity	DisGeNet	
+CYP1A2	C0026640	Neoplasm of the oral cavity	DisGeNet	
+CYP2E1	C0026640	Neoplasm of the oral cavity	DisGeNet	
+CYP1A1	C0008625	Chromosome Aberrations	DisGeNet	
+CYP2E1	C0008625	Chromosome Aberrations	DisGeNet	
+CYP1A1	C0012860	DNA Damage	DisGeNet	
+CYP2E1	C0012860	DNA Damage	DisGeNet	
+CYP1A1	C1302401	Adenoma of large intestine	DisGeNet	
+CYP1A2	C1302401	Adenoma of large intestine	DisGeNet	
+CYP2E1	C1302401	Adenoma of large intestine	DisGeNet	
+CYP1A1	C1336708	Testicular Germ Cell Tumor	DisGeNet	
+CYP1A2	C1336708	Testicular Germ Cell Tumor	DisGeNet	
+CYP1A1	C0149978	Rectal Carcinoma	DisGeNet	
+CYP1A2	C0149978	Rectal Carcinoma	DisGeNet	
+CYP2E1	C0149978	Rectal Carcinoma	DisGeNet	
+CYP1A1	C0262584	Carcinoma, Small Cell	DisGeNet	
+CYP2E1	C0262584	Carcinoma, Small Cell	DisGeNet	
+CYP1A1	C0850666	Helicobacter pylori infection	DisGeNet	
+CYP1A2	C0850666	Helicobacter pylori infection	DisGeNet	
+CYP2E1	C0850666	Helicobacter pylori infection	DisGeNet	

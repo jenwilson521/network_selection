@@ -1,0 +1,20 @@
+node_name	node_type	
+DB00754	drug	
+NR1I2	drug_target	
+SCN5A	drug_target	
+SERPINA7	drug_target	
+Cardiac fibrosis	phenotype	
+Ichthyosis bullosa of Siemens	phenotype	
+Romano-Ward syndrome	phenotype	
+VENTRICULAR TACHYCARDIA, CATECHOLAMINERGIC POLYMORPHIC, 1 (disorder)	phenotype	
+Palpitations	phenotype	
+Left ventricular noncompaction	phenotype	
+Irritable bowel syndrome with diarrhea	phenotype	
+46,XY gonadal dysgenesis, partial, with minifascicular neuropathy	phenotype	
+Chronic mucocutaneous candidiasis	phenotype	
+Overlap syndrome	phenotype	
+Hyperalgesia, Thermal	phenotype	
+Cholestatic liver disease	phenotype	
+Mechanical Allodynia	phenotype	
+Prolonged QT interval	phenotype	
+Congenital long QT syndrome	phenotype	

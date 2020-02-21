@@ -1,0 +1,1255 @@
+node1	node2	edge_score	
+DB00039	HSPG2	1.0	
+DB00039	FGFR3	1.0	
+DB00039	FGFR4	1.0	
+DB00039	FGFR2	1.0	
+DB00039	NRP1	1.0	
+DB00039	FGFR1	1.0	
+HSPG2		1.0
+FGFR4		1.0
+FGFR1		1.0
+NRP1		1.0
+Breast-ovarian cancer, familial 1	FGFR1	1.0	
+Breast-ovarian cancer, familial 1	FGFR4	1.0	
+Breast-ovarian cancer, familial 1	HSPG2	1.0	
+Breast-ovarian cancer, familial 1	NRP1	1.0	
+Squamous cell carcinoma	FGFR1	1.0	
+Squamous cell carcinoma	FGFR4	1.0	
+Squamous cell carcinoma	HSPG2	1.0	
+Squamous cell carcinoma	NRP1	1.0	
+Colorectal cancer 1	FGFR1	1.0	
+Colorectal cancer 1	FGFR4	1.0	
+Colorectal cancer 1	HSPG2	1.0	
+Colorectal cancer 1	NRP1	1.0	
+Neoplasm of the liver	FGFR1	1.0	
+Neoplasm of the liver	FGFR4	1.0	
+Neoplasm of the liver	HSPG2	1.0	
+Neoplasm of the liver	NRP1	1.0	
+Melanoma	FGFR1	1.0	
+Melanoma	FGFR4	1.0	
+Melanoma	HSPG2	1.0	
+Melanoma	NRP1	1.0	
+Secondary hypertriglyceridemia	FGFR1	1.0	
+Secondary hypertriglyceridemia	FGFR4	1.0	
+Secondary hypertriglyceridemia	HSPG2	1.0	
+Secondary hypertriglyceridemia	NRP1	1.0	
+Prostatic Neoplasms	FGFR1	1.0	
+Prostatic Neoplasms	FGFR4	1.0	
+Prostatic Neoplasms	HSPG2	1.0	
+Prostatic Neoplasms	NRP1	1.0	
+Tumor Progression	FGFR1	1.0	
+Tumor Progression	FGFR4	1.0	
+Tumor Progression	HSPG2	1.0	
+Tumor Progression	NRP1	1.0	
+Pancreatic Carcinoma	FGFR1	1.0	
+Pancreatic Carcinoma	FGFR4	1.0	
+Pancreatic Carcinoma	HSPG2	1.0	
+Pancreatic Carcinoma	NRP1	1.0	
+Malignant neoplasm of lung	FGFR1	1.0	
+Malignant neoplasm of lung	FGFR4	1.0	
+Malignant neoplasm of lung	HSPG2	1.0	
+Malignant neoplasm of lung	NRP1	1.0	
+Solid tumour	FGFR1	1.0	
+Solid tumour	FGFR4	1.0	
+Solid tumour	HSPG2	1.0	
+Solid tumour	NRP1	1.0	
+Malignant neoplasm of pancreas	FGFR1	1.0	
+Malignant neoplasm of pancreas	FGFR4	1.0	
+Malignant neoplasm of pancreas	HSPG2	1.0	
+Malignant neoplasm of pancreas	NRP1	1.0	
+Malignant tumor of prostate	FGFR1	1.0	
+Malignant tumor of prostate	FGFR4	1.0	
+Malignant tumor of prostate	HSPG2	1.0	
+Malignant tumor of prostate	NRP1	1.0	
+Carcinogenesis	FGFR1	1.0	
+Carcinogenesis	FGFR4	1.0	
+Carcinogenesis	HSPG2	1.0	
+Carcinogenesis	NRP1	1.0	
+Prostate carcinoma	FGFR1	1.0	
+Prostate carcinoma	FGFR4	1.0	
+Prostate carcinoma	HSPG2	1.0	
+Prostate carcinoma	NRP1	1.0	
+Ovarian epithelial cancer	FGFR1	1.0	
+Ovarian epithelial cancer	FGFR4	1.0	
+Ovarian epithelial cancer	HSPG2	1.0	
+Ovarian epithelial cancer	NRP1	1.0	
+Breast carcinoma	FGFR1	1.0	
+Breast carcinoma	FGFR4	1.0	
+Breast carcinoma	HSPG2	1.0	
+Breast carcinoma	NRP1	1.0	
+Lung cancer	FGFR1	1.0	
+Lung cancer	FGFR4	1.0	
+Lung cancer	HSPG2	1.0	
+Lung cancer	NRP1	1.0	
+Stomach cancer	FGFR1	1.0	
+Stomach cancer	FGFR4	1.0	
+Stomach cancer	HSPG2	1.0	
+Stomach cancer	NRP1	1.0	
+Colorectal cancer	FGFR1	1.0	
+Colorectal cancer	FGFR4	1.0	
+Colorectal cancer	HSPG2	1.0	
+Colorectal cancer	NRP1	1.0	
+Hepatocellular carcinoma	FGFR1	1.0	
+Hepatocellular carcinoma	FGFR4	1.0	
+Hepatocellular carcinoma	HSPG2	1.0	
+Hepatocellular carcinoma	NRP1	1.0	
+Breast cancer recurrent	FGFR1	1.0	
+Breast cancer recurrent	FGFR4	1.0	
+Gastrointestinal stromal tumor	FGFR1	1.0	
+Gastrointestinal stromal tumor	FGFR4	1.0	
+Gastrointestinal stromal tumor	NRP1	1.0	
+T-cell acute lymphoblastic leukemias	FGFR1	1.0	
+T-cell acute lymphoblastic leukemias	FGFR4	1.0	
+T-cell acute lymphoblastic leukemias	NRP1	1.0	
+Hypogonadism with anosmia	FGFR1	1.0	
+Hypogonadism with anosmia	NRP1	1.0	
+Ameloblastoma	FGFR1	1.0	
+Ameloblastoma	HSPG2	1.0	
+Abnormality of the sclera	FGFR1	1.0	
+Abnormality of the sclera	HSPG2	1.0	
+Abnormality of the scapula	FGFR1	1.0	
+Abnormality of the scapula	HSPG2	1.0	
+Chondrodysplasia with platyspondyly, distinctive brachydactyly, hydrocephaly, and microphthalmia	FGFR1	1.0	
+Chondrodysplasia with platyspondyly, distinctive brachydactyly, hydrocephaly, and microphthalmia	HSPG2	1.0	
+Hepatocarcinogenesis	FGFR1	1.0	
+Hepatocarcinogenesis	FGFR4	1.0	
+Hepatocarcinogenesis	HSPG2	1.0	
+Chordoma	FGFR1	1.0	
+Chordoma	FGFR4	1.0	
+Renal ischaemia	FGFR1	1.0	
+Renal ischaemia	HSPG2	1.0	
+Alveolar rhabdomyosarcoma	FGFR1	1.0	
+Alveolar rhabdomyosarcoma	FGFR4	1.0	
+Abnormality of the metatarsal bones	FGFR1	1.0	
+Abnormality of the metatarsal bones	HSPG2	1.0	
+Depressive Disorder	FGFR1	1.0	
+Depressive Disorder	FGFR4	1.0	
+Depressive Disorder	NRP1	1.0	
+Severe combined immunodeficiency due to ADA deficiency	FGFR4	1.0	
+Severe combined immunodeficiency due to ADA deficiency	HSPG2	1.0	
+Severe combined immunodeficiency due to ADA deficiency	NRP1	1.0	
+Disproportionate short stature	FGFR1	1.0	
+Disproportionate short stature	HSPG2	1.0	
+Decreased testicular size	FGFR1	1.0	
+Decreased testicular size	HSPG2	1.0	
+Chronic myelomonocytic leukemia	FGFR1	1.0	
+Chronic myelomonocytic leukemia	HSPG2	1.0	
+Immediate hypersensitivity	FGFR1	1.0	
+Immediate hypersensitivity	FGFR4	1.0	
+Thyroid carcinoma	FGFR1	1.0	
+Thyroid carcinoma	FGFR4	1.0	
+Thyroid carcinoma	NRP1	1.0	
+Leukemogenesis	FGFR1	1.0	
+Leukemogenesis	FGFR4	1.0	
+Leukemogenesis	HSPG2	1.0	
+Astrocytoma	FGFR1	1.0	
+Astrocytoma	FGFR4	1.0	
+Astrocytoma	NRP1	1.0	
+Abnormality of the pharynx	FGFR1	1.0	
+Abnormality of the pharynx	HSPG2	1.0	
+Aplasia/Hypoplasia of the testes	FGFR1	1.0	
+Aplasia/Hypoplasia of the testes	HSPG2	1.0	
+Abnormality of the cheek	FGFR1	1.0	
+Abnormality of the cheek	HSPG2	1.0	
+Hematological Disease	FGFR1	1.0	
+Hematological Disease	HSPG2	1.0	
+Short long bone	FGFR1	1.0	
+Short long bone	HSPG2	1.0	
+Abnormality of the testis size	FGFR1	1.0	
+Abnormality of the testis size	HSPG2	1.0	
+Abnormality of the elbow	FGFR1	1.0	
+Abnormality of the elbow	HSPG2	1.0	
+Coronary heart disease 7	FGFR1	1.0	
+Coronary heart disease 7	FGFR4	1.0	
+Coronary heart disease 7	HSPG2	1.0	
+Pes planus	FGFR1	1.0	
+Pes planus	HSPG2	1.0	
+Malar flattening	FGFR1	1.0	
+Malar flattening	HSPG2	1.0	
+Myeloproliferative disorder (2)	FGFR1	1.0	
+Myeloproliferative disorder (2)	FGFR4	1.0	
+Abnormality of malar bones	FGFR1	1.0	
+Abnormality of malar bones	HSPG2	1.0	
+Acute lymphoid leukemia	FGFR1	1.0	
+Acute lymphoid leukemia	FGFR4	1.0	
+Acute lymphoid leukemia	NRP1	1.0	
+Bronchial Hyperreactivity	FGFR1	1.0	
+Bronchial Hyperreactivity	FGFR4	1.0	
+Bowing of the long bones	FGFR1	1.0	
+Bowing of the long bones	HSPG2	1.0	
+Inguinal hernia	FGFR1	1.0	
+Inguinal hernia	HSPG2	1.0	
+Anomaly of the limb diaphyses	FGFR1	1.0	
+Anomaly of the limb diaphyses	HSPG2	1.0	
+Abnormal fear/anxiety-related behavior	FGFR1	1.0	
+Abnormal fear/anxiety-related behavior	HSPG2	1.0	
+Low-set, posteriorly rotated ears	FGFR1	1.0	
+Low-set, posteriorly rotated ears	HSPG2	1.0	
+Embryonal Carcinoma	FGFR1	1.0	
+Embryonal Carcinoma	FGFR4	1.0	
+Hypogonadotropic hypogonadism 7 with or without anosmia	FGFR1	1.0	
+Hypogonadotropic hypogonadism 7 with or without anosmia	NRP1	1.0	
+Flexion contracture of digit	FGFR1	1.0	
+Flexion contracture of digit	HSPG2	1.0	
+Abnormality of the zygomatic bone	FGFR1	1.0	
+Abnormality of the zygomatic bone	HSPG2	1.0	
+Abnormal number of teeth	FGFR1	1.0	
+Abnormal number of teeth	HSPG2	1.0	
+Misalignment of teeth	FGFR1	1.0	
+Misalignment of teeth	HSPG2	1.0	
+Abnormal diaphysis morphology	FGFR1	1.0	
+Abnormal diaphysis morphology	HSPG2	1.0	
+Long philtrum	FGFR1	1.0	
+Long philtrum	HSPG2	1.0	
+Abnormality of cranial sutures	FGFR1	1.0	
+Abnormality of cranial sutures	HSPG2	1.0	
+Adenoid Cystic Carcinoma	FGFR4	1.0	
+Adenoid Cystic Carcinoma	HSPG2	1.0	
+Osteosarcoma	FGFR1	1.0	
+Osteosarcoma	FGFR4	1.0	
+Osteosarcoma	NRP1	1.0	
+Craniofacial malformations, asymmetric, with polysyndactyly and abnormal skin and gut development	FGFR1	1.0	
+Craniofacial malformations, asymmetric, with polysyndactyly and abnormal skin and gut development	HSPG2	1.0	
+Skeletal dysplasia	FGFR1	1.0	
+Skeletal dysplasia	HSPG2	1.0	
+Abnormality of the atrial septum	FGFR1	1.0	
+Abnormality of the atrial septum	HSPG2	1.0	
+Abnormal morphology of bones of the lower limbs	FGFR1	1.0	
+Abnormal morphology of bones of the lower limbs	HSPG2	1.0	
+Anxiety	FGFR1	1.0	
+Anxiety	HSPG2	1.0	
+Abnormality of cardiac atrium	FGFR1	1.0	
+Abnormality of cardiac atrium	HSPG2	1.0	
+Meningioma, benign, no ICD-O subtype	FGFR1	1.0	
+Meningioma, benign, no ICD-O subtype	FGFR4	1.0	
+Abnormal form of the vertebral bodies	FGFR1	1.0	
+Abnormal form of the vertebral bodies	HSPG2	1.0	
+Short neck	FGFR1	1.0	
+Short neck	HSPG2	1.0	
+Chondrosarcoma	FGFR1	1.0	
+Chondrosarcoma	HSPG2	1.0	
+Neoplasm of the oral cavity	FGFR4	1.0	
+Neoplasm of the oral cavity	HSPG2	1.0	
+Anaplasia	FGFR1	1.0	
+Anaplasia	NRP1	1.0	
+Delayed skeletal maturation	FGFR1	1.0	
+Delayed skeletal maturation	HSPG2	1.0	
+Abnormality of the voice	FGFR1	1.0	
+Abnormality of the voice	HSPG2	1.0	
+Abnormality of the cervical spine	FGFR1	1.0	
+Abnormality of the cervical spine	HSPG2	1.0	
+Limitation of joint mobility	FGFR1	1.0	
+Limitation of joint mobility	HSPG2	1.0	
+Bladder carcinoma	FGFR1	1.0	
+Bladder carcinoma	FGFR4	1.0	
+Bladder carcinoma	NRP1	1.0	
+Myeloproliferative Disorders	FGFR1	1.0	
+Myeloproliferative Disorders	FGFR4	1.0	
+Posteriorly rotated ears	FGFR1	1.0	
+Posteriorly rotated ears	HSPG2	1.0	
+Abnormality of fontanelles	FGFR1	1.0	
+Abnormality of fontanelles	HSPG2	1.0	
+Anaplastic large cell lymphoma, ALK negative	FGFR4	1.0	
+Anaplastic large cell lymphoma, ALK negative	NRP1	1.0	
+Experimental Organism Basal Cell Carcinoma	FGFR4	1.0	
+Experimental Organism Basal Cell Carcinoma	NRP1	1.0	
+Lung Neoplasms	FGFR1	1.0	
+Lung Neoplasms	FGFR4	1.0	
+Lung Neoplasms	NRP1	1.0	
+Abnormality of skeletal maturation	FGFR1	1.0	
+Abnormality of skeletal maturation	HSPG2	1.0	
+Chronic Lymphocytic Leukemia	FGFR4	1.0	
+Chronic Lymphocytic Leukemia	HSPG2	1.0	
+Chronic Lymphocytic Leukemia	NRP1	1.0	
+Multiple congenital exostosis	HSPG2	1.0	
+Leg Ulcer	NRP1	1.0	
+Disorder of skeletal system	FGFR1	1.0	
+Female hypogonadism	FGFR1	1.0	
+Generalized joint laxity	FGFR1	1.0	
+Hernia of the abdominal wall	FGFR1	1.0	
+Hernia of the abdominal wall	HSPG2	1.0	
+Pituitary adenoma	FGFR4	1.0	
+Pituitary adenoma	NRP1	1.0	
+Abdominal wall defect	FGFR1	1.0	
+Abdominal wall defect	HSPG2	1.0	
+Hereditary hemorrhagic telangiectasia type 2	NRP1	1.0	
+Oropharynx (excludes nasopharynx)	FGFR4	1.0	
+Hypereosinophilic syndrome	FGFR1	1.0	
+Aplasia/Hypoplasia of the hallux	FGFR1	1.0	
+Limited hip movement	HSPG2	1.0	
+Broad foot	FGFR1	1.0	
+Blepharospasm	HSPG2	1.0	
+Oxycephaly	FGFR1	1.0	
+Treacher Collins syndrome	FGFR4	1.0	
+Abnormality of the vertebrae	FGFR1	1.0	
+Abnormality of the vertebrae	HSPG2	1.0	
+Atherosclerosis	FGFR1	1.0	
+Atherosclerosis	HSPG2	1.0	
+Atherosclerosis	NRP1	1.0	
+Idiopathic hypereosinophilic syndrome	FGFR1	1.0	
+High pitched voice	HSPG2	1.0	
+Septo-optic dysplasia sequence	FGFR1	1.0	
+Cleft eyelid	FGFR1	1.0	
+Prominent supraorbital ridges	FGFR1	1.0	
+Hyposmia	FGFR1	1.0	
+Abnormality of subcutaneous fat tissue	FGFR1	1.0	
+Abnormality of the philtrum	FGFR1	1.0	
+Abnormality of the philtrum	HSPG2	1.0	
+Abnormality of the upper respiratory tract	FGFR1	1.0	
+Abnormality of the upper respiratory tract	HSPG2	1.0	
+Femur Head Necrosis	NRP1	1.0	
+Pituitary dependent hypercortisolism	FGFR4	1.0	
+Lobar holoprosencephaly	FGFR1	1.0	
+Oculodentodigital dysplasia	NRP1	1.0	
+Abnormality of upper limb joint	FGFR1	1.0	
+Abnormality of upper limb joint	HSPG2	1.0	
+Abnormality of the midface	FGFR1	1.0	
+Abnormality of the midface	HSPG2	1.0	
+Joint contractures involving the joints of the feet	HSPG2	1.0	
+Coxa vara	HSPG2	1.0	
+Hypoplasia of the iris	FGFR1	1.0	
+Absent septum pellucidum	FGFR1	1.0	
+Bimanual synkinesia	FGFR1	1.0	
+?Split-hand/foot malformation 1 with sensorineural hearing loss, 220600 (3)	FGFR1	1.0	
+Wide nasal bridge	FGFR1	1.0	
+Wide nasal bridge	HSPG2	1.0	
+Transposition of the great arteries, dextro-looped 2	HSPG2	1.0	
+2-3 toe cutaneous syndactyly	FGFR1	1.0	
+Overfolded helix	HSPG2	1.0	
+Abnormality of the phalanges of the hallux	FGFR1	1.0	
+Abnormality of the abdominal wall	FGFR1	1.0	
+Abnormality of the abdominal wall	HSPG2	1.0	
+Abnormality of the eyebrow	FGFR1	1.0	
+Abnormality of the eyebrow	HSPG2	1.0	
+Lymphoma, Large B-Cell, Diffuse	FGFR1	1.0	
+Lymphoma, Large B-Cell, Diffuse	FGFR4	1.0	
+Lymphoma, Large B-Cell, Diffuse	NRP1	1.0	
+Epidermolysis bullosa, junctional	HSPG2	1.0	
+Truncus arteriosus	NRP1	1.0	
+Hypoplasia of the uterus	FGFR1	1.0	
+Abnormality of the humeroradial joint	FGFR1	1.0	
+Pulmonary hypertension, neonatal, susceptibility to	FGFR1	1.0	
+Pulmonary hypertension, neonatal, susceptibility to	FGFR4	1.0	
+Malignant tumor of urinary bladder	FGFR1	1.0	
+Malignant tumor of urinary bladder	FGFR4	1.0	
+Malignant tumor of urinary bladder	NRP1	1.0	
+Abnormality of lower limb joint	FGFR1	1.0	
+Abnormality of lower limb joint	HSPG2	1.0	
+Generalized osteoarthritis	FGFR4	1.0	
+Decreased testosterone in males	FGFR1	1.0	
+Reduced bone mineral density	FGFR1	1.0	
+Reduced bone mineral density	HSPG2	1.0	
+Hemivertebrae	FGFR1	1.0	
+Adenoviral infections	FGFR4	1.0	
+Short middle phalanx of finger	FGFR1	1.0	
+Sclerocornea	FGFR1	1.0	
+Abnormal drinking behavior	FGFR1	1.0	
+High palate	FGFR1	1.0	
+High palate	HSPG2	1.0	
+Hypoplastic male external genitalia	FGFR1	1.0	
+Hypoplastic male external genitalia	HSPG2	1.0	
+Chronic eosinophilic leukemia	FGFR1	1.0	
+Central core disease	FGFR1	1.0	
+Short metatarsal	FGFR1	1.0	
+Abnormally folded helix	HSPG2	1.0	
+Abnormality of femoral epiphysis	HSPG2	1.0	
+Hernia	FGFR1	1.0	
+Hernia	HSPG2	1.0	
+Dyspareunia	FGFR1	1.0	
+Osteomalacia	FGFR1	1.0	
+Invasive Lobular Breast Carcinoma	FGFR1	1.0	
+Broad hallux	FGFR1	1.0	
+Abnormality of lower limb epiphysis morphology	HSPG2	1.0	
+Abnormality of the septum pellucidum	FGFR1	1.0	
+Abnormality of the hard palate	FGFR1	1.0	
+Abnormality of the hard palate	HSPG2	1.0	
+External genital hypoplasia	FGFR1	1.0	
+External genital hypoplasia	HSPG2	1.0	
+Odontogenic neoplasm	HSPG2	1.0	
+Secondary amenorrhea	FGFR1	1.0	
+Chronic viral hepatitis	HSPG2	1.0	
+Multiple lipomas	FGFR1	1.0	
+Split-Hand/Foot Malformation	FGFR1	1.0	
+Synostosis of carpals/tarsals	FGFR1	1.0	
+Ventricular septal defect 2	FGFR1	1.0	
+Ventricular septal defect 2	HSPG2	1.0	
+Ectopia lentis, isolated autosomal recessive	HSPG2	1.0	
+Male hypogonadism	FGFR1	1.0	
+Wormian bones	HSPG2	1.0	
+Parathyroid carcinoma	FGFR1	1.0	
+Decreased serum testosterone level	FGFR1	1.0	
+Toxic Epidermal Necrolysis	HSPG2	1.0	
+Progressive myositis ossificans	HSPG2	1.0	
+Laryngomalacia	HSPG2	1.0	
+Breast hypoplasia	FGFR1	1.0	
+Diffuse Astrocytoma	FGFR1	1.0	
+Hypoplastic toenails	FGFR1	1.0	
+Aplasia/Hypoplasia of metatarsal bones	FGFR1	1.0	
+Abnormality of the anterior chamber	FGFR1	1.0	
+Non-obstructive azoospermia	FGFR1	1.0	
+Deviation of the hallux	FGFR1	1.0	
+Erectile abnormalities	FGFR1	1.0	
+Rhabdomyosarcoma alveolar	FGFR1	1.0	
+Rhabdomyosarcoma alveolar	FGFR4	1.0	
+Abnormality of the neck	FGFR1	1.0	
+Abnormality of the neck	HSPG2	1.0	
+B Acute Lymphoblastic Leukemia with t(9;22)(q34;q11.2); BCR-ABL1	FGFR1	1.0	
+B Acute Lymphoblastic Leukemia with t(9;22)(q34;q11.2); BCR-ABL1	FGFR4	1.0	
+Coxa valga	HSPG2	1.0	
+Plagiocephaly	FGFR1	1.0	
+Broad toe	FGFR1	1.0	
+Secondary malignant neoplasm of pancreas	FGFR1	1.0	
+Secondary malignant neoplasm of pancreas	FGFR4	1.0	
+Secondary malignant neoplasm of pancreas	NRP1	1.0	
+Oral cleft	FGFR1	1.0	
+Oral cleft	HSPG2	1.0	
+Rickets	FGFR1	1.0	
+Abnormal serum testosterone level	FGFR1	1.0	
+CADASIL	NRP1	1.0	
+Abnormality of the diencephalon	FGFR1	1.0	
+Abnormal hair quantity	FGFR1	1.0	
+Abnormal hair quantity	HSPG2	1.0	
+Abnormality of bone mineral density	FGFR1	1.0	
+Abnormality of bone mineral density	HSPG2	1.0	
+Abnormality of toe	FGFR1	1.0	
+Abnormality of toe	HSPG2	1.0	
+Acanthosis nigricans	FGFR1	1.0	
+Active tuberculosis	HSPG2	1.0	
+Female sexual dysfunction	FGFR1	1.0	
+Lumbar hyperlordosis	HSPG2	1.0	
+Camptomelic dysplasia	FGFR1	1.0	
+Aplasia/Hypoplasia of the middle phalanges of the hand	FGFR1	1.0	
+Rhizomelia	FGFR1	1.0	
+Absence of secondary sex characteristics	FGFR1	1.0	
+Abnormality of the humerus	FGFR1	1.0	
+Abnormal female reproductive system physiology	FGFR1	1.0	
+Low-set ears	FGFR1	1.0	
+Low-set ears	HSPG2	1.0	
+Ectopic Pregnancy	NRP1	1.0	
+Unipolar Depression	FGFR1	1.0	
+Unipolar Depression	NRP1	1.0	
+Tubulointerstitial nephritis	HSPG2	1.0	
+Precursor cell lymphoblastic lymphoma	FGFR1	1.0	
+Pulmonary artery stenosis	FGFR1	1.0	
+Preauricular skin tag	FGFR1	1.0	
+Abnormality of the middle phalanges of the hand	FGFR1	1.0	
+Abnormal circulating androgen level	FGFR1	1.0	
+Neuroblastoma	FGFR1	1.0	
+Neuroblastoma	FGFR4	1.0	
+Neuroblastoma	NRP1	1.0	
+Abnormality of the periorbital region	FGFR1	1.0	
+Abnormality of the periorbital region	HSPG2	1.0	
+Anosmia	FGFR1	1.0	
+Bone necrosis	NRP1	1.0	
+Varicose Ulcer	NRP1	1.0	
+Autosomal recessive polycystic kidney disease	NRP1	1.0	
+Panhypopituitarism X-linked	FGFR1	1.0	
+Chondrodysplasia acromesomelic with genital anomalies	HSPG2	1.0	
+Somatotroph adenoma	FGFR4	1.0	
+Benign neoplasm of the central nervous system	FGFR1	1.0	
+Oropharyngeal disorders	FGFR4	1.0	
+Pituitary corticotropic cell adenoma	FGFR4	1.0	
+Craniofacial dystonia	HSPG2	1.0	
+Respiratory failure	FGFR1	1.0	
+Respiratory failure	HSPG2	1.0	
+Aplasia/hypoplasia of the extremities	FGFR1	1.0	
+Aplasia/hypoplasia of the extremities	HSPG2	1.0	
+Benign Prostatic Hyperplasia	FGFR1	1.0	
+Benign Prostatic Hyperplasia	FGFR4	1.0	
+Mask-like facies	HSPG2	1.0	
+Low anterior hairline	HSPG2	1.0	
+Abnormality of the acetabulum	HSPG2	1.0	
+Neoplasm of fatty tissue	FGFR1	1.0	
+Prenatal maternal abnormality	FGFR1	1.0	
+Abnormality of the upper arm	FGFR1	1.0	
+Abnormality of the pinna	FGFR1	1.0	
+Abnormality of the pinna	HSPG2	1.0	
+Glioblastoma	FGFR1	1.0	
+Glioblastoma	FGFR4	1.0	
+Glioblastoma	NRP1	1.0	
+Hypertension	FGFR1	1.0	
+Hypertension	FGFR4	1.0	
+Hypertension	HSPG2	1.0	
+Abnormality of the palpebral fissures	FGFR1	1.0	
+Abnormality of the palpebral fissures	HSPG2	1.0	
+Abnormal emotion/affect behavior	FGFR1	1.0	
+Abnormal emotion/affect behavior	HSPG2	1.0	
+Esophageal atresia	FGFR1	1.0	
+Ectopic kidney	FGFR1	1.0	
+Optic nerve hypoplasia	FGFR1	1.0	
+Ptosis, hereditary congenital 1	FGFR1	1.0	
+Ptosis, hereditary congenital 1	HSPG2	1.0	
+Acute promyelocytic leukemia	FGFR1	1.0	
+Acute promyelocytic leukemia	HSPG2	1.0	
+Abnormality of lower limb bone	FGFR1	1.0	
+Abnormality of lower limb bone	HSPG2	1.0	
+Abnormal location of ears	FGFR1	1.0	
+Abnormal location of ears	HSPG2	1.0	
+Glioblastoma multiforme	FGFR1	1.0	
+Glioblastoma multiforme	FGFR4	1.0	
+Flexion contracture	FGFR1	1.0	
+Flexion contracture	HSPG2	1.0	
+Abnormality of skeletal physiology	FGFR1	1.0	
+Abnormality of skeletal physiology	HSPG2	1.0	
+Malignant hyperthermia susceptibility	HSPG2	1.0	
+Lipomatous tumor	FGFR1	1.0	
+Broad thumb	FGFR1	1.0	
+Squamous cell carcinoma of mouth	FGFR4	1.0	
+Sparse body hair	FGFR1	1.0	
+Abnormality of the sense of smell	FGFR1	1.0	
+Aplasia/hypoplasia of the uterus	FGFR1	1.0	
+Abnormality of the shoulder	HSPG2	1.0	
+Abnormality of long bone morphology	FGFR1	1.0	
+Abnormality of long bone morphology	HSPG2	1.0	
+Neoplasm of the skin	FGFR1	1.0	
+Neoplasm of the skin	FGFR4	1.0	
+Hypertelorism	FGFR1	1.0	
+Hypertelorism	HSPG2	1.0	
+Dyskinesia, Drug-Induced	HSPG2	1.0	
+Osteopetrosis autosomal recessive 4	FGFR4	1.0	
+Polydipsia	FGFR1	1.0	
+Hypotelorism	FGFR1	1.0	
+Tumor Angiogenesis	FGFR1	1.0	
+Tumor Angiogenesis	NRP1	1.0	
+Micrognathia	FGFR1	1.0	
+Micrognathia	HSPG2	1.0	
+Aplasia/Hypoplasia of the mandible	FGFR1	1.0	
+Aplasia/Hypoplasia of the mandible	HSPG2	1.0	
+ Adenocarcinoma, ovarian, somatic, 167000 (3)	FGFR1	1.0	
+ Adenocarcinoma, ovarian, somatic, 167000 (3)	FGFR4	1.0	
+ Adenocarcinoma, ovarian, somatic, 167000 (3)	NRP1	1.0	
+Split hand	FGFR1	1.0	
+stage, non-small cell lung cancer	FGFR1	1.0	
+Abnormal tendon morphology	FGFR1	1.0	
+Abnormal tendon morphology	HSPG2	1.0	
+Cystic Fibrosis	HSPG2	1.0	
+Cystic Fibrosis	NRP1	1.0	
+Meningioma	FGFR1	1.0	
+Meningioma	FGFR4	1.0	
+Thyroid cancer, nonmedullary, 4	FGFR1	1.0	
+Thyroid cancer, nonmedullary, 4	FGFR4	1.0	
+Facial dysmorphism, lens dislocation, anterior segment abnormalities, and spontaneous filtering blebs	FGFR1	1.0	
+Absent toe	FGFR1	1.0	
+Trichomegaly	HSPG2	1.0	
+Acute myeloid leukemia	FGFR1	1.0	
+Acute myeloid leukemia	FGFR4	1.0	
+Acute myeloid leukemia	NRP1	1.0	
+Deviation of toes	FGFR1	1.0	
+Abnormality of the cornea	FGFR1	1.0	
+Abnormality of the cornea	HSPG2	1.0	
+Urticaria Pigmentosa	NRP1	1.0	
+Aplasia/Hypoplasia of the breasts	FGFR1	1.0	
+Abnormality of upper lip	FGFR1	1.0	
+Abnormality of upper lip	HSPG2	1.0	
+Abnormal bone ossification	FGFR1	1.0	
+Abnormal bone ossification	HSPG2	1.0	
+Gorlin syndrome	NRP1	1.0	
+Low Tension Glaucoma	NRP1	1.0	
+Cleft palate with cleft lip	FGFR1	1.0	
+Brain Tumor, Primary	NRP1	1.0	
+Elbow dislocation	HSPG2	1.0	
+Atrial septal defect	FGFR1	1.0	
+Atrial septal defect	HSPG2	1.0	
+Hepatitis D Infection	HSPG2	1.0	
+Diabetes insipidus	FGFR1	1.0	
+Upper extremity joint dislocation	HSPG2	1.0	
+Gait disturbance	FGFR1	1.0	
+Gait disturbance	HSPG2	1.0	
+Arnold-Chiari malformation	FGFR1	1.0	
+Skin tags	FGFR1	1.0	
+Focal dystonia	HSPG2	1.0	
+Thyroid Neoplasms	FGFR4	1.0	
+Thyroid Neoplasms	HSPG2	1.0	
+Major depressive disorder	FGFR1	1.0	
+Major depressive disorder	NRP1	1.0	
+Mastocytosis	NRP1	1.0	
+Human papilloma virus infection	FGFR1	1.0	
+Dysmorphic features	FGFR1	1.0	
+Metaphyseal widening	HSPG2	1.0	
+Broad phalanges of the hand	FGFR1	1.0	
+Gastrointestinal atresia	FGFR1	1.0	
+Lymphocytic Choriomeningitis	FGFR1	1.0	
+Blue sclerae	HSPG2	1.0	
+Meckel syndrome type 6	NRP1	1.0	
+Influenza	FGFR1	1.0	
+Influenza	FGFR4	1.0	
+Carcinoma of colon	FGFR4	1.0	
+Carcinoma of colon	HSPG2	1.0	
+Carcinoma of colon	NRP1	1.0	
+Abnormality of the thorax	FGFR1	1.0	
+Abnormality of the thorax	HSPG2	1.0	
+Carcinoma, Lobular	FGFR1	1.0	
+X-linked agammaglobulinemia	FGFR4	1.0	
+Cortical dysplasia, complex, with other brain malformations 3	FGFR1	1.0	
+Broad finger	FGFR1	1.0	
+Hypoplasia of the ovary	FGFR1	1.0	
+Pancreatic intraepithelial neoplasia	FGFR4	1.0	
+Aplasia/Hypoplasia of the ovary	FGFR1	1.0	
+Aplasia/Hypoplasia of the optic nerve	FGFR1	1.0	
+Aplasia/hypoplasia affecting bones of the axial skeleton	FGFR1	1.0	
+Aplasia/hypoplasia affecting bones of the axial skeleton	HSPG2	1.0	
+Symptomatic human immunodeficiency virus infection	FGFR4	1.0	
+Symptomatic human immunodeficiency virus infection	HSPG2	1.0	
+Symptomatic human immunodeficiency virus infection	NRP1	1.0	
+Failure to thrive in infancy	FGFR1	1.0	
+Visual impairment	FGFR1	1.0	
+Visual impairment	HSPG2	1.0	
+Leukemia, Lymphocytic, Chronic, B-Cell	FGFR1	1.0	
+Leukemia, Lymphocytic, Chronic, B-Cell	FGFR4	1.0	
+Leukemia, Lymphocytic, Chronic, B-Cell	NRP1	1.0	
+Dental crowding	FGFR1	1.0	
+Abnormality of the tarsal bones	FGFR1	1.0	
+Acute leukemia	FGFR1	1.0	
+Acute leukemia	NRP1	1.0	
+Attention deficit hyperactivity disorder	HSPG2	1.0	
+Attention deficit hyperactivity disorder	NRP1	1.0	
+gliosarcoma	FGFR1	1.0	
+Synophrys	FGFR1	1.0	
+Tardive Dyskinesia	HSPG2	1.0	
+Omphalocele	FGFR1	1.0	
+Flat face	HSPG2	1.0	
+Abnormal bone structure	FGFR1	1.0	
+Abnormal bone structure	HSPG2	1.0	
+Schizophrenia	FGFR1	1.0	
+Schizophrenia	HSPG2	1.0	
+Schizophrenia	NRP1	1.0	
+Abnormality of calvarial morphology	FGFR1	1.0	
+Abnormality of calvarial morphology	HSPG2	1.0	
+Lipoma	FGFR1	1.0	
+Proportionate short stature	FGFR1	1.0	
+Angiogenic Switch	FGFR1	1.0	
+Psychoses, Substance-Induced	FGFR1	1.0	
+Proliferative diabetic retinopathy	NRP1	1.0	
+Fibroadenoma of the breast	FGFR4	1.0	
+Aplastic/hypoplastic toenail	FGFR1	1.0	
+BREAST-OVARIAN CANCER, FAMILIAL, SUSCEPTIBILITY TO, 4	FGFR1	1.0	
+BREAST-OVARIAN CANCER, FAMILIAL, SUSCEPTIBILITY TO, 4	FGFR4	1.0	
+BREAST-OVARIAN CANCER, FAMILIAL, SUSCEPTIBILITY TO, 4	NRP1	1.0	
+Diabetes mellitus type 2	FGFR1	1.0	
+Diabetes mellitus type 2	FGFR4	1.0	
+Diabetes mellitus type 2	HSPG2	1.0	
+Broad phalanx	FGFR1	1.0	
+Abnormal conjugate eye movement	FGFR1	1.0	
+Abnormal conjugate eye movement	HSPG2	1.0	
+Non-small cell lung carcinoma	FGFR1	1.0	
+Non-small cell lung carcinoma	FGFR4	1.0	
+Non-small cell lung carcinoma	NRP1	1.0	
+Retinopathy of Prematurity	NRP1	1.0	
+Carcinoma, Large Cell	FGFR1	1.0	
+Facial hypertrichosis	FGFR1	1.0	
+Abnormality of the frontal hairline	HSPG2	1.0	
+Abnormality of periauricular region	FGFR1	1.0	
+Strabismus	FGFR1	1.0	
+Strabismus	HSPG2	1.0	
+Neurological speech impairment	FGFR1	1.0	
+Neurological speech impairment	HSPG2	1.0	
+{Unipolar depression, susceptibility to}, 608516 (3)	FGFR4	1.0	
+{Unipolar depression, susceptibility to}, 608516 (3)	NRP1	1.0	
+Abnormality of the forehead	FGFR1	1.0	
+Abnormality of the forehead	HSPG2	1.0	
+Abnormality of the external nose	FGFR1	1.0	
+Abnormality of the external nose	HSPG2	1.0	
+Dysphonia	HSPG2	1.0	
+Wide intermamillary distance	FGFR1	1.0	
+Abnormality of limb epiphysis morphology	HSPG2	1.0	
+Abnormal intermamillary distance	FGFR1	1.0	
+Abnormality of the meninges	FGFR1	1.0	
+Decreased facial expression	HSPG2	1.0	
+Abnormality of the mandible	FGFR1	1.0	
+Abnormality of the mandible	HSPG2	1.0	
+Pancreatic Ductal Adenocarcinoma	FGFR1	1.0	
+Pancreatic Ductal Adenocarcinoma	FGFR4	1.0	
+Multiple Endocrine Neoplasia Type 2a	NRP1	1.0	
+Well Differentiated Pancreatic Endocrine Tumor	FGFR4	1.0	
+Aplasia/Hypoplasia of the radius	FGFR1	1.0	
+Cleft Palate	FGFR1	1.0	
+Cleft Palate	HSPG2	1.0	
+Constitutional symptom	FGFR1	1.0	
+Constitutional symptom	HSPG2	1.0	
+Abnormality of the pulmonary artery	FGFR1	1.0	
+Contractures involving the joints of the feet	HSPG2	1.0	
+Abnormality of color vision	FGFR1	1.0	
+Cone dysfunction syndrome	FGFR1	1.0	
+Full cheeks	HSPG2	1.0	
+Neoplasm by anatomical site	FGFR1	1.0	
+Neoplasm by anatomical site	HSPG2	1.0	
+Abnormality of dental morphology	FGFR1	1.0	
+Abnormality of dental morphology	HSPG2	1.0	
+Orofacial dyskinesia	HSPG2	1.0	
+Ectrodactyly	FGFR1	1.0	
+Abnormal enzyme/coenzyme activity	HSPG2	1.0	
+Abnormal consumption behavior	FGFR1	1.0	
+{Gastric cancer risk after H. pylori infection}, 137215 (3)	FGFR1	1.0	
+{Gastric cancer risk after H. pylori infection}, 137215 (3)	FGFR4	1.0	
+{Gastric cancer risk after H. pylori infection}, 137215 (3)	NRP1	1.0	
+Diabetes Mellitus, Type 1	FGFR1	1.0	
+Diabetes Mellitus, Type 1	FGFR4	1.0	
+Diabetes Mellitus, Type 1	HSPG2	1.0	
+Pathologic Neovascularization	NRP1	1.0	
+Abnormality of the supraorbital ridges	FGFR1	1.0	
+Abnormality of globe location	FGFR1	1.0	
+Abnormality of globe location	HSPG2	1.0	
+Tracheoesophageal fistula	FGFR1	1.0	
+Desmoplastic spindle and epithelioid cell melanocytic nevus of skin	HSPG2	1.0	
+Broad long bones	FGFR1	1.0	
+Paragangliomas 1	FGFR1	1.0	
+Abnormal facial expression	HSPG2	1.0	
+Abnormal jaw morphology	FGFR1	1.0	
+Abnormal jaw morphology	HSPG2	1.0	
+Ichthyosis bullosa of Siemens	FGFR4	1.0	
+Short toe	FGFR1	1.0	
+Abnormality of the nasal bridge	FGFR1	1.0	
+Abnormality of the nasal bridge	HSPG2	1.0	
+Abnormality of the palate	FGFR1	1.0	
+Abnormality of the palate	HSPG2	1.0	
+Abnormality of the lip	FGFR1	1.0	
+Abnormality of the lip	HSPG2	1.0	
+Micromelia	HSPG2	1.0	
+Stevens-Johnson Syndrome	HSPG2	1.0	
+Sciatic Neuropathy	FGFR1	1.0	
+Williams syndrome	FGFR4	1.0	
+Abnormality of the clavicle	FGFR1	1.0	
+Leukemia, Myeloid, Chronic-Phase	FGFR4	1.0	
+Narrow chest	HSPG2	1.0	
+Choanal atresia	FGFR1	1.0	
+Cephalocele	FGFR1	1.0	
+Werner syndrome	FGFR1	1.0	
+Short palm	FGFR1	1.0	
+Abnormality of the phalanges of the toes	FGFR1	1.0	
+Chromosome Aberrations	FGFR1	1.0	
+Obesity	FGFR1	1.0	
+Obesity	FGFR4	1.0	
+Obesity	HSPG2	1.0	
+Abnormality of the testis	FGFR1	1.0	
+Abnormality of the testis	HSPG2	1.0	
+Small nail	FGFR1	1.0	
+Abnormality of the helix	HSPG2	1.0	
+Cryptorchidism	FGFR1	1.0	
+Cryptorchidism	HSPG2	1.0	
+Dementia, Vascular	FGFR1	1.0	
+Demyelinating Diseases	FGFR1	1.0	
+Everted lower lip vermilion	HSPG2	1.0	
+Contractures of the joints of the lower limbs	HSPG2	1.0	
+Abnormality of the choanae	FGFR1	1.0	
+Abnormality of the curvature of the vertebral column	FGFR1	1.0	
+Abnormality of the curvature of the vertebral column	HSPG2	1.0	
+Incomplete penetrance	FGFR1	1.0	
+Widened posterior fossa	FGFR1	1.0	
+Eclabion	HSPG2	1.0	
+Abnormality of the calvaria	FGFR1	1.0	
+Abnormality of the calvaria	HSPG2	1.0	
+Small cell lung cancer	FGFR1	1.0	
+Small cell lung cancer	NRP1	1.0	
+Dental malocclusion	HSPG2	1.0	
+Genu valgum	HSPG2	1.0	
+Abnormality of the bronchi	FGFR1	1.0	
+Scoliosis	FGFR1	1.0	
+Scoliosis	HSPG2	1.0	
+Osteoporosis	FGFR1	1.0	
+Osteoporosis	HSPG2	1.0	
+Abnormality of the pituitary gland	FGFR1	1.0	
+Abnormality of the pituitary gland	FGFR4	1.0	
+Neoplasms	FGFR1	1.0	
+Neoplasms	HSPG2	1.0	
+Alveolar cell carcinoma	FGFR1	1.0	
+Polyphagia	HSPG2	1.0	
+Pectus carinatum	HSPG2	1.0	
+Aplasia/Hypoplasia of the thumb	FGFR1	1.0	
+Decreased head circumference	FGFR1	1.0	
+Decreased head circumference	HSPG2	1.0	
+Malignant tumor of esophagus	HSPG2	1.0	
+Malignant tumor of esophagus	NRP1	1.0	
+Abnormality of lung morphology	FGFR1	1.0	
+Abnormality of lung morphology	HSPG2	1.0	
+Increased bone mineral density	HSPG2	1.0	
+Embryonal rhabdomyosarcoma	FGFR4	1.0	
+Microdontia	FGFR1	1.0	
+Pulmonary hypoplasia	HSPG2	1.0	
+Microcornea	HSPG2	1.0	
+Abnormality of the wrist	HSPG2	1.0	
+Aplasia/Hypoplasia of the iris	FGFR1	1.0	
+Tuberculosis	HSPG2	1.0	
+Tuberculosis	NRP1	1.0	
+B-cell lymphoma	FGFR1	1.0	
+B-cell lymphoma	FGFR4	1.0	
+Pilocytic Astrocytoma	FGFR1	1.0	
+Dilated fourth ventricle	FGFR1	1.0	
+Abnormality of the fourth ventricle	FGFR1	1.0	
+Congenital kyphoscoliosis	HSPG2	1.0	
+Short metacarpal	FGFR1	1.0	
+Aplasia/Hypoplasia of the lungs	HSPG2	1.0	
+Brain neoplasm	FGFR1	1.0	
+Brain neoplasm	NRP1	1.0	
+Hypoplasia of the maxilla	FGFR1	1.0	
+EMG: myopathic abnormalities	FGFR1	1.0	
+EMG: myopathic abnormalities	NRP1	1.0	
+Alcohol dependence	FGFR4	1.0	
+Alcohol dependence	NRP1	1.0	
+X-linked ichthyosis with steryl-sulfatase deficiency	FGFR1	1.0	
+Sporadic	FGFR1	1.0	
+Thoracic hypoplasia	HSPG2	1.0	
+Depressed nasal ridge	HSPG2	1.0	
+Abnormality of the outer ear	FGFR1	1.0	
+Abnormality of the outer ear	HSPG2	1.0	
+Holoprosencephaly sequence	FGFR1	1.0	
+Cerebellar cyst	FGFR1	1.0	
+Elevated pulmonary artery pressure	HSPG2	1.0	
+Abnormality of pulmonary circulation	HSPG2	1.0	
+Paraplegia	FGFR1	1.0	
+Follicular adenoma	HSPG2	1.0	
+Abnormal enchondral ossification	HSPG2	1.0	
+Esophageal Neoplasms	HSPG2	1.0	
+Esophageal Neoplasms	NRP1	1.0	
+Animal Mammary Neoplasms	FGFR1	1.0	
+Animal Mammary Neoplasms	FGFR4	1.0	
+Animal Mammary Neoplasms	NRP1	1.0	
+Abnormality of the posterior cranial fossa	FGFR1	1.0	
+Blepharophimosis, ptosis, and epicanthus inversus	HSPG2	1.0	
+Dandy-Walker like malformation with atrioventricular septal defect	FGFR1	1.0	
+Marijuana Abuse	FGFR1	1.0	
+Irritability	HSPG2	1.0	
+Renal agenesis	FGFR1	1.0	
+Generalized hirsutism	HSPG2	1.0	
+Synostosis involving bones of the feet	FGFR1	1.0	
+Vertebral segmentation defect	FGFR1	1.0	
+Short foot	FGFR1	1.0	
+Aplasia/Hypoplasia of toe	FGFR1	1.0	
+Abnormality of the femoral neck	HSPG2	1.0	
+Telecanthus	FGFR1	1.0	
+Abnormality of the toenails	FGFR1	1.0	
+Abnormality of male external genitalia	FGFR1	1.0	
+Abnormality of male external genitalia	HSPG2	1.0	
+Abnormality of facial skeleton	FGFR1	1.0	
+Abnormality of facial skeleton	HSPG2	1.0	
+Abnormality of joint mobility	FGFR1	1.0	
+Abnormality of joint mobility	HSPG2	1.0	
+Cystitis	NRP1	1.0	
+Prenatal movement abnormality	HSPG2	1.0	
+Abnormality of the maxilla	FGFR1	1.0	
+Tall stature	HSPG2	1.0	
+Abnormal vascular physiology	HSPG2	1.0	
+Microcephaly 16, primary, autosomal recessive	FGFR1	1.0	
+Microcephaly 16, primary, autosomal recessive	HSPG2	1.0	
+Functional respiratory abnormality	FGFR1	1.0	
+Functional respiratory abnormality	HSPG2	1.0	
+Respiratory distress	FGFR1	1.0	
+Abnormal localization of kidney	FGFR1	1.0	
+Abnormality of the nasopharynx	FGFR1	1.0	
+Abnormality of the eyelid	FGFR1	1.0	
+Abnormality of the eyelid	HSPG2	1.0	
+Endometriosis	FGFR1	1.0	
+Endometriosis	NRP1	1.0	
+Abnormality of the male genitalia	FGFR1	1.0	
+Abnormality of the male genitalia	HSPG2	1.0	
+Acute pancreatitis	FGFR1	1.0	
+Decreased beta-glucocerebrosidase protein and activity	FGFR1	1.0	
+Abnormality of the hallux	FGFR1	1.0	
+Abnormality of vision	FGFR1	1.0	
+Abnormality of vision	HSPG2	1.0	
+Iris coloboma	FGFR1	1.0	
+Abnormal spermatogenesis	FGFR1	1.0	
+Abnormality of the skull base	FGFR1	1.0	
+Muscle weakness	FGFR1	1.0	
+Muscle weakness	HSPG2	1.0	
+Abnormal external genitalia	FGFR1	1.0	
+Abnormal external genitalia	HSPG2	1.0	
+Gynecomastia	FGFR1	1.0	
+Abnormality of the conjunctiva	FGFR1	1.0	
+Anterior hypopituitarism	FGFR1	1.0	
+Abnormality of thumb phalanx	FGFR1	1.0	
+Protruding ear	FGFR1	1.0	
+Kidney Diseases	HSPG2	1.0	
+Kidney Diseases	NRP1	1.0	
+Peripheral neuropathy, myopathy, hoarseness, and hearing loss	FGFR4	1.0	
+Peripheral neuropathy, myopathy, hoarseness, and hearing loss	NRP1	1.0	
+Hyperlordosis	HSPG2	1.0	
+Delayed menarche	FGFR1	1.0	
+Mandibular prognathia	FGFR1	1.0	
+Congenital contractures of the limbs and face, hypotonia, and developmental delay	HSPG2	1.0	
+Abnormality of the hair	FGFR1	1.0	
+Abnormality of the hair	HSPG2	1.0	
+Retinal detachment	FGFR1	1.0	
+Dry skin	FGFR1	1.0	
+Triangular shaped phalanges of the hand	FGFR1	1.0	
+Paraplegia/paraparesis	FGFR1	1.0	
+Recurrent fractures	FGFR1	1.0	
+Central nervous system cyst	FGFR1	1.0	
+Intracranial cystic lesion	FGFR1	1.0	
+Abnormality of corneal size	HSPG2	1.0	
+Abnormal respiratory system morphology	FGFR1	1.0	
+Abnormal respiratory system morphology	HSPG2	1.0	
+Hay fever	FGFR1	1.0	
+Hypercalcemia, infantile, 2	FGFR4	1.0	
+Hypertrichosis	FGFR1	1.0	
+Multicystic renal dysplasia, bilateral	NRP1	1.0	
+Abnormality of the trachea	FGFR1	1.0	
+Abnormality of the hairline	HSPG2	1.0	
+Abnormality of the small intestine	FGFR1	1.0	
+Abnormality of the foot	FGFR1	1.0	
+Abnormality of the foot	HSPG2	1.0	
+Acute type B viral hepatitis	FGFR4	1.0	
+Acute type B viral hepatitis	HSPG2	1.0	
+Arthrogryposis multiplex congenita, neurogenic, with myelin defect	HSPG2	1.0	
+Intracranial Aneurysm	HSPG2	1.0	
+Gastric ulcer	FGFR1	1.0	
+Nephrolithiasis	HSPG2	1.0	
+Functional abnormality of male internal genitalia	FGFR1	1.0	
+Aplasia/Hypoplasia of the cerebrum	FGFR1	1.0	
+Aplasia/Hypoplasia of the cerebrum	HSPG2	1.0	
+Irregular hyperpigmentation	FGFR1	1.0	
+Goiter, multinodular 1, with or without sertoli-leydig cell tumors	FGFR1	1.0	
+Abnormal metacarpal morphology	FGFR1	1.0	
+Abnormality of digit	FGFR1	1.0	
+Abnormality of digit	HSPG2	1.0	
+Precocious puberty	FGFR1	1.0	
+Squamous cell carcinoma of tongue	NRP1	1.0	
+Skeletal muscle hypertrophy	HSPG2	1.0	
+Decreased body weight	FGFR1	1.0	
+Decreased body weight	HSPG2	1.0	
+High forehead	FGFR1	1.0	
+Adenocarcinoma of lung	FGFR1	1.0	
+Adenocarcinoma of lung	FGFR4	1.0	
+Peripheral T-Cell Lymphoma	FGFR4	1.0	
+Myalgia	HSPG2	1.0	
+Abnormality of dental eruption	FGFR1	1.0	
+Congenital anomalies of kidney and urinary tract 1, susceptibility to	FGFR1	1.0	
+Congenital anomalies of kidney and urinary tract 1, susceptibility to	HSPG2	1.0	
+Duchenne muscular dystrophy	HSPG2	1.0	
+Narrow mouth	HSPG2	1.0	
+Chronic myeloid leukemia	FGFR1	1.0	
+Chronic myeloid leukemia	FGFR4	1.0	
+Squamous cell carcinoma of the head and neck	FGFR1	1.0	
+Squamous cell carcinoma of the head and neck	FGFR4	1.0	
+Abnormal nipple morphology	FGFR1	1.0	
+Abnormality of the upper urinary tract	FGFR1	1.0	
+Abnormality of the upper urinary tract	HSPG2	1.0	
+Sarcoma, Ewing	FGFR1	1.0	
+Sarcoma, Ewing	FGFR4	1.0	
+Thrombophilia	FGFR4	1.0	
+Prominent nasal bridge	HSPG2	1.0	
+Death in infancy	HSPG2	1.0	
+Abnormality of the vertebral column	FGFR1	1.0	
+Abnormality of the vertebral column	HSPG2	1.0	
+Impotence	FGFR1	1.0	
+Cerebellar vermis hypoplasia	FGFR1	1.0	
+Abnormal male reproductive system physiology	FGFR1	1.0	
+Polyhydramnios	HSPG2	1.0	
+Hypodontia	FGFR1	1.0	
+Cerebellar hypoplasia	FGFR1	1.0	
+Abnormality of the anterior segment of the globe	FGFR1	1.0	
+Abnormality of the anterior segment of the globe	HSPG2	1.0	
+Abnormality of skull size	FGFR1	1.0	
+Abnormality of skull size	HSPG2	1.0	
+Acetabular dysplasia	HSPG2	1.0	
+Joint stiffness	HSPG2	1.0	
+Short attention span	HSPG2	1.0	
+Aplasia/Hypoplasia of the nails	FGFR1	1.0	
+Bowing of limbs due to multiple fractures	HSPG2	1.0	
+Abnormality of the hand	FGFR1	1.0	
+Abnormality of the hand	HSPG2	1.0	
+Toe syndactyly	FGFR1	1.0	
+Dilatation of the renal pelvis	FGFR1	1.0	
+Precursor Cell Lymphoblastic Leukemia-Lymphoma	FGFR1	1.0	
+Precursor Cell Lymphoblastic Leukemia-Lymphoma	NRP1	1.0	
+Hypopituitarism	FGFR1	1.0	
+Abnormality of the renal pelvis	FGFR1	1.0	
+Schwannoma	NRP1	1.0	
+Short phalanx of finger	FGFR1	1.0	
+Intraepithelial Neoplasia	FGFR4	1.0	
+Abnormality of the larynx	HSPG2	1.0	
+Upper motor neuron dysfunction	FGFR1	1.0	
+Upper motor neuron dysfunction	HSPG2	1.0	
+Metastatic malignant neoplasm to brain	FGFR1	1.0	
+Abnormality of the pulmonary vasculature	FGFR1	1.0	
+Abnormal morphology of the ocular adnexa	FGFR1	1.0	
+Abnormal morphology of the ocular adnexa	HSPG2	1.0	
+Midface hypoplasia, hearing impairment, elliptocytosis, and nephrocalcinosis	FGFR1	1.0	
+Congenital abnormal hair pattern	HSPG2	1.0	
+Basal cell carcinoma	FGFR4	1.0	
+Anaplastic astrocytoma	FGFR4	1.0	
+Synostosis of joints	FGFR1	1.0	
+Esophageal Squamous Cell Carcinoma	FGFR1	1.0	
+Esophageal Squamous Cell Carcinoma	NRP1	1.0	
+Behavioral abnormality	FGFR1	1.0	
+Behavioral abnormality	HSPG2	1.0	
+Abnormal genital system morphology	FGFR1	1.0	
+Abnormal genital system morphology	HSPG2	1.0	
+Neoplasm of the nervous system	FGFR1	1.0	
+Abnormality of mouth shape	HSPG2	1.0	
+Mammary Tumorigenesis	FGFR1	1.0	
+Disorder characterized by eosinophilia	FGFR1	1.0	
+Abdominal symptom	FGFR1	1.0	
+Abdominal symptom	HSPG2	1.0	
+Abnormality of T cell count	FGFR1	1.0	
+Abnormality of T cell count	HSPG2	1.0	
+Brachycephaly	FGFR1	1.0	
+Abnormality of body height	FGFR1	1.0	
+Abnormality of body height	HSPG2	1.0	
+Eosinophilic disorder	FGFR1	1.0	
+Abnormal size of the palpebral fissures	HSPG2	1.0	
+Chronic liver disease	FGFR4	1.0	
+Abnormality of adipose tissue	FGFR1	1.0	
+Abnormal joint morphology	FGFR1	1.0	
+Abnormal joint morphology	HSPG2	1.0	
+Neoplasm of the central nervous system	FGFR1	1.0	
+Abnormality of higher mental function	FGFR1	1.0	
+Abnormality of higher mental function	HSPG2	1.0	
+Abnormality of limb bone morphology	FGFR1	1.0	
+Abnormality of limb bone morphology	HSPG2	1.0	
+orbit (eye disorders)	NRP1	1.0	
+Abnormality of the upper limb	FGFR1	1.0	
+Abnormality of the upper limb	HSPG2	1.0	
+Aplasia/Hypoplasia of the cerebellar vermis	FGFR1	1.0	
+Hip Dislocation, Congenital	HSPG2	1.0	
+Abnormality of the metacarpal bones	FGFR1	1.0	
+Abnormal hair pattern	HSPG2	1.0	
+Abnormality of limb bone	FGFR1	1.0	
+Abnormality of limb bone	HSPG2	1.0	
+EMG abnormality	HSPG2	1.0	
+Hypohidrosis	FGFR1	1.0	
+Abnormality of connective tissue	FGFR1	1.0	
+Abnormality of connective tissue	HSPG2	1.0	
+Osteoarthritis	FGFR1	1.0	
+Osteoarthritis	FGFR4	1.0	
+Ovarian Neoplasms	FGFR4	1.0	
+Ovarian Neoplasms	NRP1	1.0	
+Abnormality of muscle morphology	FGFR1	1.0	
+Abnormality of muscle morphology	HSPG2	1.0	
+Abnormality of skin adnexa morphology	FGFR1	1.0	
+Abnormality of skin adnexa morphology	HSPG2	1.0	
+Amenorrhea	FGFR1	1.0	
+Abnormality of the calf	HSPG2	1.0	
+Abnormality of the radius	FGFR1	1.0	
+Abnormality of the lower limb	FGFR1	1.0	
+Abnormality of the lower limb	HSPG2	1.0	
+Ichthyosis, congenital, autosomal recessive 12	FGFR1	1.0	
+Short stature, rhizomelic, with microcephaly, micrognathia, and developmental delay	FGFR1	1.0	
+Short stature, rhizomelic, with microcephaly, micrognathia, and developmental delay	HSPG2	1.0	
+Finger syndactyly	FGFR1	1.0	
+Coloboma, osteopetrosis, microphthalmia, macrocephaly, albinism, and deafness	FGFR1	1.0	
+Abnormality of the eyelashes	HSPG2	1.0	
+Pes cavus	FGFR1	1.0	
+Joint contracture of the hand	HSPG2	1.0	
+Aplasia/Hypoplasia of the phalanges of the hand	FGFR1	1.0	
+Abnormality of the cerebellar vermis	FGFR1	1.0	
+Apnea	HSPG2	1.0	
+Hirsutism	HSPG2	1.0	
+Hydronephrosis	FGFR1	1.0	
+Malignant neoplasm of brain and nervous system	FGFR1	1.0	
+Primitive neuroectodermal tumor	FGFR4	1.0	
+Abnormality of the nasal dorsum	HSPG2	1.0	
+Abnormality of body weight	FGFR1	1.0	
+Abnormality of body weight	HSPG2	1.0	
+Abnormal uterus morphology	FGFR1	1.0	
+Abnormality of eye movement	FGFR1	1.0	
+Abnormality of eye movement	HSPG2	1.0	
+Abnormality of lower lip	HSPG2	1.0	
+Abnormality of the genital system	FGFR1	1.0	
+Abnormality of the genital system	HSPG2	1.0	
+Adenocarcinoma of prostate	FGFR1	1.0	
+Abnormality of femur morphology	HSPG2	1.0	
+Decreased fertility	FGFR1	1.0	
+Pectus excavatum	HSPG2	1.0	
+Irritable bowel syndrome with diarrhea	FGFR4	1.0	
+Abnormality of cardiovascular system morphology	FGFR1	1.0	
+Abnormality of cardiovascular system morphology	HSPG2	1.0	
+Abnormal appendicular skeleton morphology	FGFR1	1.0	
+Abnormal appendicular skeleton morphology	HSPG2	1.0	
+Abnormality of forearm bone	FGFR1	1.0	
+Lower extremity joint dislocation	HSPG2	1.0	
+Abnormality of the menstrual cycle	FGFR1	1.0	
+Short finger	FGFR1	1.0	
+Abnormality of the forearm	FGFR1	1.0	
+Heart Defects, Congenital	FGFR1	1.0	
+Heart Defects, Congenital	HSPG2	1.0	
+Hemiplegia/hemiparesis	FGFR1	1.0	
+Obstructive sleep apnea	FGFR1	1.0	
+Squamous cell carcinoma of the skin	NRP1	1.0	
+Bone fragility with contractures, arterial rupture, and deafness	FGFR1	1.0	
+Lymphatic Metastasis	NRP1	1.0	
+Neoplasm Invasiveness	NRP1	1.0	
+Hypoplasia of the corpus callosum	FGFR1	1.0	
+Abnormality of the chin	FGFR1	1.0	
+Tumor necrosis	FGFR1	1.0	
+Abnormality of movement	FGFR1	1.0	
+Abnormality of movement	HSPG2	1.0	
+Cachexia	HSPG2	1.0	
+Proptosis	FGFR1	1.0	
+Abnormality of the ovary	FGFR1	1.0	
+Abnormality of the nose	FGFR1	1.0	
+Abnormality of the nose	HSPG2	1.0	
+Osteopenia	FGFR1	1.0	
+Abnormality of the hip joint	HSPG2	1.0	
+Reduced number of teeth	FGFR1	1.0	
+Abnormality of the cerebral cortex	FGFR1	1.0	
+Allergic rhinitis	FGFR1	1.0	
+Eosinophilia	FGFR1	1.0	
+Hyperpigmentation of the skin	FGFR1	1.0	
+Abnormality of the synovia	HSPG2	1.0	
+Abnormality of the cerebrum	FGFR1	1.0	
+Abnormality of the cerebrum	HSPG2	1.0	
+Trisomy	HSPG2	1.0	
+Abnormality of the umbilicus	HSPG2	1.0	
+Contractures of the joints of the upper limbs	HSPG2	1.0	
+Arteriosclerosis	FGFR1	1.0	
+Arteriosclerosis	NRP1	1.0	
+Tetralogy of Fallot	NRP1	1.0	
+Menstrual irregularities	FGFR1	1.0	
+Camptodactyly, tall stature, and hearing loss syndrome	FGFR1	1.0	
+Short nose	FGFR1	1.0	
+Seborheic dermatitis	FGFR1	1.0	
+Abnormality of the anterior pituitary	FGFR1	1.0	
+Familial hypercholesterolemia	HSPG2	1.0	
+Secondary hyperparathyroidism	FGFR1	1.0	
+Abnormality of the ribs	HSPG2	1.0	
+Corneal opacity	FGFR1	1.0	
+Abnormality of epiphysis morphology	HSPG2	1.0	
+Abnormality of forebrain morphology	FGFR1	1.0	
+Abnormality of forebrain morphology	HSPG2	1.0	
+Umbilical hernia	HSPG2	1.0	
+Renal hypoplasia/aplasia	FGFR1	1.0	
+Delayed puberty	FGFR1	1.0	
+Chronic Kidney Insufficiency	FGFR1	1.0	
+Abnormality of the ureter	HSPG2	1.0	
+Abnormality of the scalp hair	HSPG2	1.0	
+Abnormal QRS complex	FGFR1	1.0	
+Abnormal QRS complex	HSPG2	1.0	
+Growth delay	FGFR1	1.0	
+Growth delay	HSPG2	1.0	
+Diabetes mellitus type 1	HSPG2	1.0	
+Diabetes mellitus type 1	NRP1	1.0	
+Alopecia	FGFR1	1.0	
+Squamous cell carcinoma of lung	FGFR1	1.0	
+Abnormality of the knee	HSPG2	1.0	
+Abnormality of the oral cavity	FGFR1	1.0	
+Abnormality of the oral cavity	HSPG2	1.0	
+Verotoxigenic Escherichia coli gastrointestinal tract infection	HSPG2	1.0	
+Verotoxigenic Escherichia coli gastrointestinal tract infection	NRP1	1.0	
+Abnormal pattern of respiration	HSPG2	1.0	
+Abnormality of the scalp	HSPG2	1.0	
+Fetal Membranes, Premature Rupture	HSPG2	1.0	
+Abnormality of circulating enzyme level	HSPG2	1.0	
+Chorioamnionitis	HSPG2	1.0	
+Acute Erythroblastic Leukemia	FGFR1	1.0	
+Elevated serum creatine phosphokinase	HSPG2	1.0	
+Abnormality of the respiratory system	FGFR1	1.0	
+Abnormality of the respiratory system	HSPG2	1.0	
+Abnormality of the orbital region	FGFR1	1.0	
+Abnormality of the orbital region	HSPG2	1.0	
+Hyporeflexia	HSPG2	1.0	
+Aplasia/Hypoplasia of the cerebellum	FGFR1	1.0	
+Abnormality of globe size	FGFR1	1.0	
+Autistic behavior	FGFR1	1.0	
+Abnormality of digestive system physiology	FGFR1	1.0	
+Abnormality of digestive system physiology	HSPG2	1.0	
+Ovarian Failure, Premature	FGFR1	1.0	
+Abnormality of the urinary system	FGFR1	1.0	
+Abnormality of the urinary system	HSPG2	1.0	
+Allergic asthma	FGFR1	1.0	
+Aplasia/Hypoplasia of fingers	FGFR1	1.0	
+Premature Obstetric Labor	HSPG2	1.0	
+Transient ischemic attack	FGFR1	1.0	
+Abnormality of the amniotic fluid	HSPG2	1.0	
+Abnormality of the tracheobronchial system	FGFR1	1.0	
+Intraocular melanoma	FGFR1	1.0	
+Abnormal morphology of bones of the upper limbs	FGFR1	1.0	
+Abnormality of mouth size	HSPG2	1.0	
+Neoplasm, Residual	NRP1	1.0	
+Dyspnea	FGFR1	1.0	
+Maternal diabetes	FGFR1	1.0	
+Allergic disposition	FGFR1	1.0	
+Abnormal hand morphology	FGFR1	1.0	
+Sleep disturbance	FGFR1	1.0	
+Cervical intraepithelial neoplasia (Cervical dysplasia)	NRP1	1.0	
+Depression	FGFR1	1.0	
+Abnormality of the thumb	FGFR1	1.0	
+Abnormality of central motor function	FGFR1	1.0	
+Abnormality of central motor function	HSPG2	1.0	
+Sparse hair	FGFR1	1.0	
+Craniosynostoses	FGFR1	1.0	
+Hyperactivity	HSPG2	1.0	
+Displacement of the external urethral meatus	FGFR1	1.0	
+Cerebellar malformation	FGFR1	1.0	
+Hepatoblastoma	HSPG2	1.0	
+Abnormal muscle tone	FGFR1	1.0	
+Abnormal muscle tone	HSPG2	1.0	
+Skin cancer	FGFR4	1.0	
+Joint dislocation	HSPG2	1.0	
+Hearing Loss, Mixed Conductive-Sensorineural	FGFR1	1.0	
+Hypopigmentation of the skin	NRP1	1.0	
+Age of death	HSPG2	1.0	
+Limb joint contracture	HSPG2	1.0	
+Mortality/Aging	HSPG2	1.0	
+Metastatic Prostate Carcinoma	HSPG2	1.0	
+Abnormality of hair density	FGFR1	1.0	
+Multiple Myeloma	FGFR1	1.0	
+Multiple Myeloma	FGFR4	1.0	
+Carcinoma, Papillary	HSPG2	1.0	
+Constipation	FGFR1	1.0	
+Hereditary hearing loss and deafness	FGFR1	1.0	
+Abnormal shape of the frontal region	FGFR1	1.0	
+Frontal bossing	FGFR1	1.0	
+Abnormality of temperature regulation	HSPG2	1.0	
+Downslanted palpebral fissures	FGFR1	1.0	
+Ovarian Diseases	FGFR4	1.0	
+Positional foot deformity	HSPG2	1.0	
+Abnormality of the rib cage	HSPG2	1.0	
+Abnormal breast morphology	FGFR1	1.0	
+Adenocarcinoma of colon	NRP1	1.0	
+Pleural Mesothelioma	FGFR1	1.0	
+Abnormality of the palm	FGFR1	1.0	
+Abnormality of limbs	FGFR1	1.0	
+Abnormality of limbs	HSPG2	1.0	
+Abnormality of the breast	FGFR1	1.0	
+Delayed speech and language development	FGFR1	1.0	
+Abnormality of the mouth	FGFR1	1.0	
+Abnormality of the mouth	HSPG2	1.0	
+Joint hypermobility	FGFR1	1.0	
+Heterogeneous	FGFR1	1.0	
+Abnormality of the sternum	HSPG2	1.0	
+Aplasia involving bones of the extremities	FGFR1	1.0	
+Aplasia involving bones of the extremities	HSPG2	1.0	
+Brachydactyly, type a1, d	FGFR1	1.0	
+Abnormality of the skull	FGFR1	1.0	
+Abnormality of the skull	HSPG2	1.0	
+Lymphoid leukemia	NRP1	1.0	
+Neuroendocrine neoplasm	NRP1	1.0	
+Abnormality of the hypothalamus-pituitary axis	FGFR1	1.0	
+Abnormality of blood and blood-forming tissues	FGFR1	1.0	
+Abnormality of blood and blood-forming tissues	HSPG2	1.0	
+Fibrosarcoma	HSPG2	1.0	
+Microphthalmia syndromic 6	FGFR1	1.0	
+Abnormality of the ear	FGFR1	1.0	
+Abnormality of the ear	HSPG2	1.0	
+Pheochromocytoma	NRP1	1.0	
+Azoospermia	FGFR1	1.0	
+Coronary Artery Disease	FGFR4	1.0	
+Coronary Artery Disease	HSPG2	1.0	
+Abnormality of circulating hormone level	FGFR1	1.0	
+Abnormality of the urethra	FGFR1	1.0	
+Increased head circumference	HSPG2	1.0	
+Intellectual developmental disorder with dysmorphic facies and ptosis	FGFR1	1.0	
+Intellectual developmental disorder with dysmorphic facies and ptosis	HSPG2	1.0	
+Cutaneous malignant melanoma 3	FGFR4	1.0	
+Kyphosis	HSPG2	1.0	
+Malignant mesothelioma	NRP1	1.0	
+Gastrointestinal Neoplasms	FGFR4	1.0	
+Diabetic Retinopathy	NRP1	1.0	
+Cerebral ischemia	NRP1	1.0	
+Depressed nasal bridge	FGFR1	1.0	
+Abnormality of circulating protein level	HSPG2	1.0	
+Renal cell carcinoma, nonpapillary	FGFR4	1.0	
+Renal cell carcinoma, nonpapillary	NRP1	1.0	
+Neoplasm Recurrence, Local	NRP1	1.0	
+Choriocarcinoma	FGFR1	1.0	
+Hypospadias	FGFR1	1.0	
+Macrocephaly, dysmorphic facies, and psychomotor retardation	HSPG2	1.0	
+Clinodactyly	FGFR1	1.0	
+Clubfoot	HSPG2	1.0	
+polyps	FGFR4	1.0	
+Weakness due to upper motor neuron dysfunction	FGFR1	1.0	
+Hydrocephalus	FGFR1	1.0	
+Syndactyly type 9	FGFR1	1.0	
+Rectal Carcinoma	NRP1	1.0	
+Gastric Adenocarcinoma	FGFR1	1.0	
+Retinal degeneration	FGFR1	1.0	

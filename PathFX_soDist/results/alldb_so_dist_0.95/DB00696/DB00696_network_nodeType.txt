@@ -1,0 +1,79 @@
+node_name	node_type	
+DB00696	drug	
+ADRA1A	drug_target	
+SLC6A2	drug_target	
+ADRA1B	drug_target	
+ADRA1D	drug_target	
+DRD2	drug_target	
+ADRA2A	drug_target	
+ADRA2B	drug_target	
+ABCB1	drug_target	
+HTR2A	drug_target	
+HTR2C	drug_target	
+HTR2B	drug_target	
+HTR1D	drug_target	
+CYP3A4	drug_target	
+HTR1A	drug_target	
+HTR1B	drug_target	
+Heroin Dependence	phenotype	
+Chronic sciatica	phenotype	
+Bulimia	phenotype	
+Dyskinesia, Drug-Induced	phenotype	
+As If Personality	phenotype	
+Chronic schizophrenia	phenotype	
+Acute disease of cardiovascular system	phenotype	
+Personality disorder	phenotype	
+Weight Gain Adverse Event	phenotype	
+Low back pain	phenotype	
+Anxiety Disorders	phenotype	
+Tourette Syndrome	phenotype	
+Cocaine Dependence	phenotype	
+Alcohol abuse	phenotype	
+Substance Use Disorders	phenotype	
+Methamphetamine abuse	phenotype	
+Antisocial Personality Disorder	phenotype	
+Anorexia nervosa 1	phenotype	
+Acute postoperative pain	phenotype	
+Panic disorder syndrome 1 (2)	phenotype	
+Bulimia nervosa 1	phenotype	
+Depressive Symptoms	phenotype	
+Substance Withdrawal Syndrome	phenotype	
+Schizoaffective Disorder	phenotype	
+Dyskinesia, seizures, and intellectual developmental disorder	phenotype	
+Recurrent major depressive episodes	phenotype	
+Behavior Disorders	phenotype	
+Major depressive disorder	phenotype	
+Tardive Dyskinesia	phenotype	
+Bipolar I disorder	phenotype	
+Borderline Personality Disorder	phenotype	
+Unipolar Depression	phenotype	
+Psychoses, Substance-Induced	phenotype	
+Drug Dependence	phenotype	
+Seasonal Affective Disorder	phenotype	
+Orofacial dyskinesia	phenotype	
+Gastroparesis	phenotype	
+Ichthyosis bullosa of Siemens	phenotype	
+Substance addiction and disorders	phenotype	
+Panic disorder 1	phenotype	
+Opiate Addiction	phenotype	
+Antisocial/borderline personality disorder	phenotype	
+Substance abuse problem	phenotype	
+Drug usage	phenotype	
+Chronic Fatigue Syndrome	phenotype	
+Weight Loss Adverse Event	phenotype	
+body mass	phenotype	
+Polydipsia	phenotype	
+Marijuana Abuse	phenotype	
+Irritable bowel syndrome with diarrhea	phenotype	
+Mood Disorders	phenotype	
+Pain insensitivity	phenotype	
+Obstructive sleep apnea	phenotype	
+Attention deficit hyperactivity disorder	phenotype	
+Nausea	phenotype	
+Migraine Disorders	phenotype	
+Memory Disorders	phenotype	
+Depressive Disorder	phenotype	
+Mental disorders	phenotype	
+Abnormality of the basal ganglia	phenotype	
+{Unipolar depression, susceptibility to}, 608516 (3)	phenotype	
+Cocaine-Related Disorders	phenotype	

@@ -1,0 +1,421 @@
+Gene	CUI	Source Databases	
+CYP19A1	C0242787	Malignant neoplasm of male breast	DisGeNet	
+EGFR	C0242787	Malignant neoplasm of male breast	DisGeNet	
+ERBB2	C0242787	Malignant neoplasm of male breast	DisGeNet	
+CYP19A1	C0238033	Carcinoma of Male Breast	DisGeNet	
+EGFR	C0238033	Carcinoma of Male Breast	DisGeNet	
+ERBB2	C0238033	Carcinoma of Male Breast	DisGeNet	
+EGFR	C0153633	Malignant neoplasm of brain and nervous system	DisGeNet	
+ERBB2	C0153633	Malignant neoplasm of brain and nervous system	DisGeNet	
+FCGR2A	C0153633	Malignant neoplasm of brain and nervous system	DisGeNet	
+FCGR3A	C0153633	Malignant neoplasm of brain and nervous system	DisGeNet	
+CYP19A1	C0016034	Breast Fibrocystic Disease	DisGeNet	
+EGFR	C0016034	Breast Fibrocystic Disease	DisGeNet	
+ERBB2	C0016034	Breast Fibrocystic Disease	DisGeNet	
+CYP19A1	C0269102	Endometrioma	DisGeNet	
+EGFR	C0269102	Endometrioma	DisGeNet	
+ERBB2	C0269102	Endometrioma	DisGeNet	
+EGFR	C0206139	Lichen Planus, Oral	DisGeNet	
+ERBB2	C0206139	Lichen Planus, Oral	DisGeNet	
+FCGR2A	C0206139	Lichen Planus, Oral	DisGeNet	
+CYP19A1	C0007120	Alveolar cell carcinoma	DisGeNet	
+EGFR	C0007120	Alveolar cell carcinoma	DisGeNet,HumPhenOnt	
+ERBB2	C0007120	Alveolar cell carcinoma	DisGeNet,HumPhenOnt	
+CYP19A1	C0008354	Cholera	DisGeNet	
+EGFR	C0008354	Cholera	DisGeNet	
+ERBB2	C0008354	Cholera	DisGeNet	
+EGFR	C0007129	Merkel cell carcinoma	DisGeNet	
+ERBB2	C0007129	Merkel cell carcinoma	DisGeNet	
+FCGR3A	C0007129	Merkel cell carcinoma	DisGeNet	
+EGFR	C0001420	Papillary adenocarcinoma	DisGeNet	
+ERBB2	C0001420	Papillary adenocarcinoma	DisGeNet	
+EGFR	C3809250	Estrogen resistance	DisGeNet	
+ERBB2	C3809250	Estrogen resistance	DisGeNet	
+FCGR2A	C0206114	Periodontal Attachment Loss	DisGeNet	
+FCGR3A	C0206114	Periodontal Attachment Loss	DisGeNet	
+EGFR	C0278493	Breast cancer recurrent	DisGeNet	
+ERBB2	C0278493	Breast cancer recurrent	DisGeNet	
+EGFR	C1322286	Thymic Carcinoma	DisGeNet	
+ERBB2	C1322286	Thymic Carcinoma	DisGeNet	
+EGFR	C3714644	Neoplasm of the thymus	DisGeNet	
+FCGR2A	C3714644	Neoplasm of the thymus	DisGeNet	
+EGFR	C0017150	Gastrinoma	DisGeNet	
+ERBB2	C0017150	Gastrinoma	DisGeNet	
+FCGR2A	C0031094	Periodontal Pocket	DisGeNet	
+FCGR3A	C0031094	Periodontal Pocket	DisGeNet	
+EGFR	C0278688	Stage IV Ovarian Carcinoma	DisGeNet	
+ERBB2	C0278688	Stage IV Ovarian Carcinoma	DisGeNet	
+EGFR	C0678213	Complete hydatidiform mole	DisGeNet	
+ERBB2	C0678213	Complete hydatidiform mole	DisGeNet	
+EGFR	C1402294	Primary Lesion	DisGeNet	
+ERBB2	C1402294	Primary Lesion	DisGeNet	
+CYP19A1	C0028259	Nodule	DisGeNet	
+EGFR	C0028259	Nodule	DisGeNet	
+ERBB2	C0028259	Nodule	DisGeNet	
+CYP19A1	C0029927	Ovarian cyst	HumPhenOnt	
+EGFR	C0029927	Ovarian cyst	DisGeNet	
+ERBB2	C0029927	Ovarian cyst	DisGeNet	
+ERBB2	C0497299	Meningitis	DisGeNet	
+FCGR2A	C0497299	Meningitis	DisGeNet	
+FCGR3A	C0497299	Meningitis	DisGeNet	
+EGFR	C0031039	Pericardial effusion	DisGeNet	
+ERBB2	C0031039	Pericardial effusion	DisGeNet	
+EGFR	C0221228	Comedone	DisGeNet	
+ERBB2	C0221228	Comedone	DisGeNet	
+EGFR	C0278838	Prostate cancer recurrent	DisGeNet	
+ERBB2	C0278838	Prostate cancer recurrent	DisGeNet	
+EGFR	C0677944	Sentinel node (disorder)	DisGeNet	
+ERBB2	C0677944	Sentinel node (disorder)	DisGeNet	
+EGFR	C1384494	Metastatic Carcinoma	DisGeNet	
+ERBB2	C1384494	Metastatic Carcinoma	DisGeNet	
+CYP19A1	C0206687	Carcinoma, Endometrioid	PheGenI	
+EGFR	C0206687	Carcinoma, Endometrioid	DisGeNet	
+ERBB2	C0206687	Carcinoma, Endometrioid	DisGeNet	
+FCGR2A	C0002382	Alveolar Bone Loss	DisGeNet	
+FCGR3A	C0002382	Alveolar Bone Loss	DisGeNet	
+EGFR	C0278498	Malignant neoplasm of stomach stage IV	DisGeNet	
+ERBB2	C0278498	Malignant neoplasm of stomach stage IV	DisGeNet	
+EGFR	C0162678	Neurofibromatoses	DisGeNet	
+ERBB2	C0162678	Neurofibromatoses	DisGeNet	
+CYP19A1	C0206630	Stromal sarcoma	DisGeNet	
+EGFR	C0206630	Stromal sarcoma	DisGeNet	
+EGFR	C0279130	CNS metastases	DisGeNet	
+ERBB2	C0279130	CNS metastases	DisGeNet	
+EGFR	C0403416	Idiopathic crescentic glomerulonephritis	DisGeNet	
+FCGR3A	C0403416	Idiopathic crescentic glomerulonephritis	DisGeNet	
+FCGR2A	C1258104	Diffuse Scleroderma	DisGeNet	
+FCGR3A	C1258104	Diffuse Scleroderma	DisGeNet	
+EGFR	C0007140	Carcinosarcoma	DisGeNet	
+ERBB2	C0007140	Carcinosarcoma	DisGeNet	
+EGFR	C0272138	Erythroblastosis	DisGeNet	
+ERBB2	C0272138	Erythroblastosis	DisGeNet	
+EGFR	C0750979	Primary malignant neoplasm of brain	DisGeNet	
+ERBB2	C0750979	Primary malignant neoplasm of brain	DisGeNet	
+EGFR	C1135868	Gestational trophoblastic disease	DisGeNet	
+ERBB2	C1135868	Gestational trophoblastic disease	DisGeNet	
+EGFR	C1298180	Single tumor	DisGeNet	
+ERBB2	C1298180	Single tumor	DisGeNet	
+EGFR	C1335475	Primary Carcinoma	DisGeNet	
+ERBB2	C1335475	Primary Carcinoma	DisGeNet	
+EGFR	C0024131	Lupus Vulgaris	DisGeNet	
+ERBB2	C0024131	Lupus Vulgaris	DisGeNet	
+FCGR2A	C0024131	Lupus Vulgaris	DisGeNet	
+FCGR3A	C0024131	Lupus Vulgaris	DisGeNet	
+EGFR	C0553694	Oropharyngeal disorders	DisGeNet	
+ERBB2	C0553694	Oropharyngeal disorders	DisGeNet	
+EGFR	C1257930	Mammary Carcinoma, Human	DisGeNet	
+ERBB2	C1257930	Mammary Carcinoma, Human	DisGeNet	
+EGFR	C0035244	Neoplasm of the respiratory system	HumPhenOnt	
+ERBB2	C0035244	Neoplasm of the respiratory system	HumPhenOnt	
+EGFR	C0024138	Discoid lupus erythematosus	DisGeNet	
+ERBB2	C0024138	Discoid lupus erythematosus	DisGeNet	
+FCGR2A	C0024138	Discoid lupus erythematosus	DisGeNet	
+FCGR3A	C0024138	Discoid lupus erythematosus	DisGeNet	
+EGFR	C0085390	Li-Fraumeni syndrome	DisGeNet	
+ERBB2	C0085390	Li-Fraumeni syndrome	DisGeNet	
+EGFR	C0027533	Neck Neoplasms	DisGeNet	
+ERBB2	C0027533	Neck Neoplasms	DisGeNet	
+EGFR	C0016978	Neoplasm of the gallbladder	DisGeNet	
+ERBB2	C0016978	Neoplasm of the gallbladder	DisGeNet	
+FCGR2A	C0403529	Anti-Glomerular Basement Membrane Disease	DisGeNet	
+FCGR3A	C0403529	Anti-Glomerular Basement Membrane Disease	DisGeNet	
+EGFR	C0950124	Papillomavirus Infections	DisGeNet	
+ERBB2	C0950124	Papillomavirus Infections	DisGeNet	
+EGFR	C0280217	stage, non-small cell lung cancer	DisGeNet	
+ERBB2	C0280217	stage, non-small cell lung cancer	DisGeNet	
+EGFR	C0010701	Phyllodes tumor, benign	DisGeNet	
+ERBB2	C0010701	Phyllodes tumor, benign	DisGeNet	
+EGFR	C0153567	Uterine Cancer	DisGeNet	
+ERBB2	C0153567	Uterine Cancer	DisGeNet	
+CYP19A1	C0235653	Malignant neoplasm of female breast	DisGeNet	
+ERBB2	C0235653	Malignant neoplasm of female breast	DisGeNet	
+EGFR	C0677932	Progressive Neoplastic Disease	DisGeNet	
+ERBB2	C0677932	Progressive Neoplastic Disease	DisGeNet	
+FCGR3A	C0677932	Progressive Neoplastic Disease	DisGeNet	
+EGFR	C3539781	Progressive cGVHD	DisGeNet	
+ERBB2	C3539781	Progressive cGVHD	DisGeNet	
+FCGR3A	C3539781	Progressive cGVHD	DisGeNet	
+FCGR2A	C0018378	Guillain-Barre syndrome, familial	DisGeNet	
+FCGR3A	C0018378	Guillain-Barre syndrome, familial	DisGeNet	
+CYP19A1	C0278488	Carcinoma breast stage IV	DisGeNet	
+EGFR	C0278488	Carcinoma breast stage IV	DisGeNet	
+ERBB2	C0278488	Carcinoma breast stage IV	DisGeNet	
+FCGR3A	C0278488	Carcinoma breast stage IV	DisGeNet	
+CYP19A1	C0007104	Female Breast Carcinoma	DisGeNet	
+ERBB2	C0007104	Female Breast Carcinoma	DisGeNet	
+EGFR	C0206727	Nerve Sheath Tumors	DisGeNet	
+ERBB2	C0206727	Nerve Sheath Tumors	DisGeNet	
+EGFR	C1302773	Low Grade Squamous Intraepithelial Neoplasia	DisGeNet	
+ERBB2	C1302773	Low Grade Squamous Intraepithelial Neoplasia	DisGeNet	
+EGFR	C0206695	Carcinoma, Neuroendocrine	DisGeNet	
+ERBB2	C0206695	Carcinoma, Neuroendocrine	DisGeNet	
+FCGR2A	C3714636	Pneumonitis	DisGeNet	
+FCGR3A	C3714636	Pneumonitis	DisGeNet	
+EGFR	C0333516	Tumor necrosis	DisGeNet	
+ERBB2	C0333516	Tumor necrosis	DisGeNet	
+FCGR3A	C0333516	Tumor necrosis	DisGeNet	
+FCGR2A	C0010414	Infection by Cryptococcus neoformans	DisGeNet	
+FCGR3A	C0010414	Infection by Cryptococcus neoformans	DisGeNet	
+CYP19A1	C0238394	Female pseudohermaphroditism	DisGeNet,HumPhenOnt	
+EGFR	C0238394	Female pseudohermaphroditism	DisGeNet	
+EGFR	C0343641	Human papilloma virus infection	DisGeNet	
+ERBB2	C0343641	Human papilloma virus infection	DisGeNet	
+ERBB2	C0014522	EPIDERMODYSPLASIA VERRUCIFORMIS	DisGeNet	
+FCGR3A	C0014522	EPIDERMODYSPLASIA VERRUCIFORMIS	DisGeNet	
+EGFR	C0280313	Oropharyngeal squamous cell carcinoma	DisGeNet	
+ERBB2	C0280313	Oropharyngeal squamous cell carcinoma	DisGeNet	
+EGFR	C0920420	cancer recurrence	DisGeNet	
+ERBB2	C0920420	cancer recurrence	DisGeNet	
+EGFR	C1569637	Adenocarcinoma, Endometrioid	DisGeNet	
+ERBB2	C1569637	Adenocarcinoma, Endometrioid	DisGeNet	
+CYP19A1	C0598935	Tumor Initiation	DisGeNet	
+EGFR	C0598935	Tumor Initiation	DisGeNet	
+ERBB2	C0598935	Tumor Initiation	DisGeNet	
+EGFR	C1334177	Infiltrating Cervical Carcinoma	DisGeNet	
+ERBB2	C1334177	Infiltrating Cervical Carcinoma	DisGeNet	
+EGFR	C0006145	Other specified disorders of breast	DisGeNet	
+ERBB2	C0006145	Other specified disorders of breast	DisGeNet	
+FCGR2A	C0025303	Meningococcal Infections	DisGeNet	
+FCGR3A	C0025303	Meningococcal Infections	DisGeNet	
+CYP19A1	C0205696	Anaplastic carcinoma	DisGeNet	
+EGFR	C0205696	Anaplastic carcinoma	DisGeNet	
+EGFR	C0206694	Intraosseous mucoepidermoid carcinoma	DisGeNet	
+ERBB2	C0206694	Intraosseous mucoepidermoid carcinoma	DisGeNet	
+EGFR	C0677936	Refractory cancer	DisGeNet	
+ERBB2	C0677936	Refractory cancer	DisGeNet	
+EGFR	C2986665	Early-Stage Breast Carcinoma	DisGeNet	
+ERBB2	C2986665	Early-Stage Breast Carcinoma	DisGeNet	
+EGFR	C0409974	{Systemic lupus erythematosus, susceptibility to, 8} (2)	DisGeNet	
+ERBB2	C0409974	{Systemic lupus erythematosus, susceptibility to, 8} (2)	DisGeNet	
+FCGR2A	C0409974	{Systemic lupus erythematosus, susceptibility to, 8} (2)	DisGeNet	
+FCGR3A	C0409974	{Systemic lupus erythematosus, susceptibility to, 8} (2)	DisGeNet	
+EGFR	C0036323	Hepatosplenic schistosomiasis	DisGeNet	
+ERBB2	C0036323	Hepatosplenic schistosomiasis	DisGeNet	
+EGFR	C0206704	Carcinoma, Large Cell	DisGeNet	
+ERBB2	C0206704	Carcinoma, Large Cell	DisGeNet	
+FCGR2A	C0030805	{Pemphigoid, susceptibility to} (2)	DisGeNet	
+FCGR3A	C0030805	{Pemphigoid, susceptibility to} (2)	DisGeNet	
+EGFR	C1511291	Breast Cancer Model	DisGeNet	
+ERBB2	C1511291	Breast Cancer Model	DisGeNet	
+FCGR2A	C3495801	Granulomatosis with Polyangiitis	DisGeNet	
+FCGR3A	C3495801	Granulomatosis with Polyangiitis	DisGeNet	
+EGFR	C0080032	Pleural Effusion, Malignant	DisGeNet	
+ERBB2	C0080032	Pleural Effusion, Malignant	DisGeNet	
+EGFR	C0041327	Tuberculosis, Pulmonary	DisGeNet	
+FCGR2A	C0041327	Tuberculosis, Pulmonary	DisGeNet	
+FCGR3A	C0041327	Tuberculosis, Pulmonary	DisGeNet	
+CYP19A1	C0042138	Uterine neoplasm	DisGeNet	
+EGFR	C0042138	Uterine neoplasm	DisGeNet	
+EGFR	C0007570	Celiac Disease	DisGeNet	
+ERBB2	C0007570	Celiac Disease	DisGeNet	
+FCGR2A	C0007570	Celiac Disease	DisGeNet	
+FCGR3A	C0007570	Celiac Disease	DisGeNet	
+EGFR	C0036095	Salivary gland neoplasm	DisGeNet	
+ERBB2	C0036095	Salivary gland neoplasm	DisGeNet	
+CYP19A1	C0238461	Anaplastic thyroid carcinoma	DisGeNet	
+EGFR	C0238461	Anaplastic thyroid carcinoma	DisGeNet	
+ERBB2	C0238461	Anaplastic thyroid carcinoma	DisGeNet	
+CYP19A1	C0936223	Metastatic Prostate Carcinoma	DisGeNet	
+EGFR	C0936223	Metastatic Prostate Carcinoma	DisGeNet	
+ERBB2	C0936223	Metastatic Prostate Carcinoma	DisGeNet	
+EGFR	C1456781	Benign melanocytic nevus	DisGeNet	
+ERBB2	C1456781	Benign melanocytic nevus	DisGeNet	
+EGFR	C1559154	Rash and Dermatitis Adverse Event Associated with Chemoradiation	DisGeNet	
+ERBB2	C1559154	Rash and Dermatitis Adverse Event Associated with Chemoradiation	DisGeNet	
+ERBB2	C0024143	Lupus Nephritis	DisGeNet	
+FCGR2A	C0024143	Lupus Nephritis	DisGeNet	
+FCGR3A	C0024143	Lupus Nephritis	DisGeNet	
+EGFR	C1328504	Hormone refractory prostate cancer	DisGeNet	
+ERBB2	C1328504	Hormone refractory prostate cancer	DisGeNet	
+EGFR	C0020217	Hydatidiform mole, recurrent, 2	DisGeNet	
+ERBB2	C0020217	Hydatidiform mole, recurrent, 2	DisGeNet	
+EGFR	C0018206	granulosa cell tumor	DisGeNet	
+ERBB2	C0018206	granulosa cell tumor	DisGeNet	
+CYP19A1	C0205698	Undifferentiated carcinoma	DisGeNet	
+EGFR	C0205698	Undifferentiated carcinoma	DisGeNet	
+EGFR	C0333875	High-Grade Squamous Intraepithelial Lesions	DisGeNet	
+ERBB2	C0333875	High-Grade Squamous Intraepithelial Lesions	DisGeNet	
+CYP19A1	C0007133	Carcinoma, Papillary	DisGeNet	
+EGFR	C0007133	Carcinoma, Papillary	DisGeNet	
+ERBB2	C0007133	Carcinoma, Papillary	DisGeNet	
+CYP19A1	C0242656	Disease Progression	DisGeNet	
+EGFR	C0242656	Disease Progression	DisGeNet	
+ERBB2	C0242656	Disease Progression	DisGeNet	
+EGFR	C0027439	Nasopharyngeal Neoplasms	DisGeNet	
+ERBB2	C0027439	Nasopharyngeal Neoplasms	DisGeNet	
+EGFR	C0206655	Alveolar rhabdomyosarcoma	DisGeNet	
+ERBB2	C0206655	Alveolar rhabdomyosarcoma	DisGeNet	
+FCGR2A	C0006840	Candidiasis, familial, 9	DisGeNet	
+FCGR3A	C0006840	Candidiasis, familial, 9	DisGeNet	
+EGFR	C0007130	Mucinous Adenocarcinoma	DisGeNet	
+ERBB2	C0007130	Mucinous Adenocarcinoma	DisGeNet	
+EGFR	C0037579	Soft Tissue Neoplasms	DisGeNet	
+ERBB2	C0037579	Soft Tissue Neoplasms	DisGeNet	
+EGFR	C0206656	Embryonal rhabdomyosarcoma	DisGeNet	
+ERBB2	C0206656	Embryonal rhabdomyosarcoma	DisGeNet	
+EGFR	C0334299	Carcinoid tumor no ICD-O subtype	DisGeNet	
+ERBB2	C0334299	Carcinoid tumor no ICD-O subtype	DisGeNet	
+EGFR	C0334583	Pilocytic Astrocytoma	DisGeNet	
+ERBB2	C0334583	Pilocytic Astrocytoma	DisGeNet	
+EGFR	C0581381	Recurrent upper respiratory tract infections	HumPhenOnt	
+FCGR3A	C0581381	Recurrent upper respiratory tract infections	HumPhenOnt	
+EGFR	C0027859	Vestibular Schwannoma	DisGeNet	
+ERBB2	C0027859	Vestibular Schwannoma	DisGeNet	
+CYP19A1	C0206667	Adrenocortical adenoma	DisGeNet	
+EGFR	C0206667	Adrenocortical adenoma	DisGeNet	
+FCGR2A	C0031106	Periodontitis, Juvenile	DisGeNet	
+FCGR3A	C0031106	Periodontitis, Juvenile	DisGeNet	
+EGFR	C0151546	Oral Cavity Carcinoma	DisGeNet	
+ERBB2	C0151546	Oral Cavity Carcinoma	DisGeNet	
+EGFR	C1168327	High-Grade Prostatic Intraepithelial Neoplasia	DisGeNet	
+ERBB2	C1168327	High-Grade Prostatic Intraepithelial Neoplasia	DisGeNet	
+EGFR	C0005967	Bone neoplasms	DisGeNet	
+ERBB2	C0005967	Bone neoplasms	DisGeNet	
+CYP19A1	C0003504	Aortic regurgitation	DisGeNet	
+ERBB2	C0003504	Aortic regurgitation	DisGeNet	
+EGFR	C0206681	Adenocarcinoma, Clear Cell	DisGeNet	
+ERBB2	C0206681	Adenocarcinoma, Clear Cell	DisGeNet	
+EGFR	C0278601	Inflammatory Breast Carcinoma	DisGeNet	
+ERBB2	C0278601	Inflammatory Breast Carcinoma	DisGeNet	
+EGFR	C0033375	Prolactinoma, familial	DisGeNet	
+ERBB2	C0033375	Prolactinoma, familial	DisGeNet	
+ERBB2	C0266999	Vesicular Stomatitis	DisGeNet	
+FCGR3A	C0266999	Vesicular Stomatitis	DisGeNet	
+EGFR	C0750952	Biliary Tract Cancer	DisGeNet	
+ERBB2	C0750952	Biliary Tract Cancer	DisGeNet	
+EGFR	C0877373	Advanced cancer	DisGeNet	
+ERBB2	C0877373	Advanced cancer	DisGeNet	
+CYP19A1	C0014170	Endometrial Neoplasms	DisGeNet,PheGenI	
+EGFR	C0014170	Endometrial Neoplasms	DisGeNet	
+ERBB2	C0014170	Endometrial Neoplasms	DisGeNet	
+EGFR	C4025750	Abnormality of the nasopharynx	HumPhenOnt	
+FCGR3A	C4025750	Abnormality of the nasopharynx	HumPhenOnt	
+EGFR	C1153706	Endometrial adenocarcinoma	DisGeNet	
+ERBB2	C1153706	Endometrial adenocarcinoma	DisGeNet	
+EGFR	C0206093	Neuroectodermal neoplasm	DisGeNet	
+ERBB2	C0206093	Neuroectodermal neoplasm	HumPhenOnt	
+EGFR	C0027643	Neoplasm Recurrence, Local	DisGeNet	
+ERBB2	C0027643	Neoplasm Recurrence, Local	DisGeNet	
+FCGR2A	C0027643	Neoplasm Recurrence, Local	DisGeNet	
+CYP19A1	C0018418	Gynecomastia	DisGeNet,HumPhenOnt	
+ERBB2	C0018418	Gynecomastia	DisGeNet	
+EGFR	C0206701	High grade serous carcinoma	DisGeNet	
+ERBB2	C0206701	High grade serous carcinoma	DisGeNet	
+EGFR	C0854917	Rhabdoid Tumor of the Kidney	DisGeNet	
+ERBB2	C0854917	Rhabdoid Tumor of the Kidney	DisGeNet	
+CYP19A1	C0008497	Choriocarcinoma	DisGeNet	
+EGFR	C0008497	Choriocarcinoma	DisGeNet	
+ERBB2	C0008497	Choriocarcinoma	DisGeNet	
+EGFR	C0940937	precancerous lesions	DisGeNet	
+ERBB2	C0940937	precancerous lesions	DisGeNet	
+EGFR	C0262584	Carcinoma, Small Cell	DisGeNet	
+ERBB2	C0262584	Carcinoma, Small Cell	DisGeNet	
+CYP19A1	C0032584	polyps	DisGeNet	
+EGFR	C0032584	polyps	DisGeNet	
+ERBB2	C0032584	polyps	DisGeNet	
+EGFR	C0026277	Mixed Salivary Gland Tumor	DisGeNet	
+ERBB2	C0026277	Mixed Salivary Gland Tumor	DisGeNet	
+EGFR	C0345905	Intrahepatic Cholangiocarcinoma	DisGeNet	
+ERBB2	C0345905	Intrahepatic Cholangiocarcinoma	DisGeNet	
+CYP19A1	C0149978	Rectal Carcinoma	DisGeNet	
+EGFR	C0149978	Rectal Carcinoma	DisGeNet	
+ERBB2	C0149978	Rectal Carcinoma	DisGeNet	
+EGFR	C0014132	Neoplasm of the endocrine system	DisGeNet	
+ERBB2	C0014132	Neoplasm of the endocrine system	DisGeNet	
+FCGR2A	C0398650	Idiopathic thrombocytopenic purpura	DisGeNet	
+FCGR3A	C0398650	Idiopathic thrombocytopenic purpura	DisGeNet	
+CYP19A1	C0024305	Non-Hodgkin lymphoma	DisGeNet	
+ERBB2	C0024305	Non-Hodgkin lymphoma	DisGeNet	
+FCGR2A	C0024305	Non-Hodgkin lymphoma	DisGeNet	
+FCGR3A	C0024305	Non-Hodgkin lymphoma	DisGeNet	
+EGFR	C0858252	Breast adenocarcinoma	DisGeNet	
+ERBB2	C0858252	Breast adenocarcinoma	DisGeNet	
+CYP19A1	C0279628	Adenocarcinoma Of Esophagus	DisGeNet	
+EGFR	C0279628	Adenocarcinoma Of Esophagus	DisGeNet	
+ERBB2	C0279628	Adenocarcinoma Of Esophagus	DisGeNet	
+EGFR	C0021367	Mammary Ductal Carcinoma	DisGeNet	
+ERBB2	C0021367	Mammary Ductal Carcinoma	DisGeNet	
+EGFR	C1333990	Hereditary nonpolyposis colorectal cancer type 8	DisGeNet	
+ERBB2	C1333990	Hereditary nonpolyposis colorectal cancer type 8	DisGeNet	
+EGFR	C0014474	Ependymoma	DisGeNet	
+ERBB2	C0014474	Ependymoma	HumPhenOnt	
+CYP19A1	C0023267	Leiomyoma	DisGeNet	
+EGFR	C0023267	Leiomyoma	DisGeNet	
+ERBB2	C0023267	Leiomyoma	DisGeNet	
+EGFR	C0018133	Graft-versus-host disease, susceptibility to	DisGeNet	
+FCGR2A	C0018133	Graft-versus-host disease, susceptibility to	DisGeNet	
+FCGR3A	C0018133	Graft-versus-host disease, susceptibility to	DisGeNet	
+CYP19A1	C0398623	Thrombophilia	DisGeNet	
+EGFR	C0398623	Thrombophilia	DisGeNet	
+EGFR	C0948089	Acute Coronary Syndrome	DisGeNet	
+FCGR2A	C0948089	Acute Coronary Syndrome	DisGeNet	
+FCGR3A	C0948089	Acute Coronary Syndrome	DisGeNet	
+FCGR2A	C0039483	Giant cell arteritis	DisGeNet	
+FCGR3A	C0039483	Giant cell arteritis	DisGeNet	
+EGFR	C0279671	Cervical Squamous Cell Carcinoma	DisGeNet	
+ERBB2	C0279671	Cervical Squamous Cell Carcinoma	DisGeNet	
+EGFR	C0011609	Drug Eruptions	DisGeNet	
+CYP19A1	C0151639	Decreased fertility in females	HumPhenOnt	
+EGFR	C0263661	Disorder of skeletal system	DisGeNet	
+ERBB2	C0279563	Lobular carcinoma in situ of breast	DisGeNet	
+FCGR2A	C0009447	Common variable immunodeficiency 2	DisGeNet	
+FCGR3A	C0009447	Common variable immunodeficiency 2	DisGeNet	
+EGFR	C4025838	Abnormality of the pharynx	HumPhenOnt	
+FCGR3A	C4025838	Abnormality of the pharynx	HumPhenOnt	
+FCGR2A	C0017563	Gingival Diseases	DisGeNet	
+FCGR3A	C0017563	Gingival Diseases	DisGeNet	
+EGFR	C0027809	Schwannoma	DisGeNet	
+ERBB2	C0027809	Schwannoma	DisGeNet	
+EGFR	C0279680	Transitional cell carcinoma of the bladder	DisGeNet	
+ERBB2	C0279680	Transitional cell carcinoma of the bladder	DisGeNet	
+EGFR	C0878500	Intraepithelial Neoplasia	DisGeNet	
+ERBB2	C0878500	Intraepithelial Neoplasia	DisGeNet	
+CYP19A1	C0032051	Placental Insufficiency	DisGeNet	
+EGFR	C0032229	Pleural Neoplasms	DisGeNet	
+EGFR	C0205944	Sarcoma, Epithelioid	DisGeNet	
+EGFR	C0220611	childhood rhabdomyosarcoma	DisGeNet	
+EGFR	C0346109	Peritoneal Mesothelioma	DisGeNet	
+ERBB2	C1332347	Inappropriate ADH Syndrome	DisGeNet	
+EGFR	C0007107	Malignant neoplasm of larynx	DisGeNet	
+ERBB2	C0007107	Malignant neoplasm of larynx	DisGeNet	
+EGFR	C0220650	Metastatic malignant neoplasm to brain	DisGeNet	
+ERBB2	C0220650	Metastatic malignant neoplasm to brain	DisGeNet	
+EGFR	C0018671	Head and Neck Neoplasms	DisGeNet	
+ERBB2	C0018671	Head and Neck Neoplasms	DisGeNet	
+FCGR3A	C0018671	Head and Neck Neoplasms	DisGeNet	
+EGFR	C0280324	Laryngeal Squamous Cell Carcinoma	DisGeNet	
+ERBB2	C0280324	Laryngeal Squamous Cell Carcinoma	DisGeNet	
+EGFR	C1337013	Differentiated Thyroid Gland Carcinoma	DisGeNet	
+ERBB2	C1337013	Differentiated Thyroid Gland Carcinoma	DisGeNet	
+EGFR	C0007868	Cervical dysplasia	DisGeNet	
+EGFR	C0022603	Seborrheic keratosis	DisGeNet	
+ERBB2	C0279651	Gallbladder adenocarcinoma	DisGeNet	
+EGFR	C0032227	Pleural effusion	DisGeNet	
+FCGR3A	C0032227	Pleural effusion	DisGeNet	
+CYP19A1	C1527336	Sjogren's Syndrome	DisGeNet	
+FCGR2A	C1527336	Sjogren's Syndrome	DisGeNet	
+EGFR	C0035455	Rhinitis, Allergic, Seasonal	DisGeNet	
+FCGR2A	C0035455	Rhinitis, Allergic, Seasonal	DisGeNet	
+EGFR	C0001622	Adrenal Gland Hyperfunction	DisGeNet	
+EGFR	C0013312	Dupuytren Contracture	DisGeNet	
+EGFR	C0025269	Multiple Endocrine Neoplasia Type 2b	DisGeNet	
+EGFR	C0349530	Early gastric cancer	DisGeNet	
+EGFR	C0375071	Malignant neoplasm of vulva	DisGeNet	
+ERBB2	C0795864	Smith-Magenis syndrome	DisGeNet	
+EGFR	C1314694	Astrocytoma, low grade	DisGeNet	
+EGFR	C1512981	Mammary Tumorigenesis	DisGeNet	
+ERBB2	C1512981	Mammary Tumorigenesis	DisGeNet	
+EGFR	C0282612	Prostatic Intraepithelial Neoplasias	DisGeNet	
+ERBB2	C0282612	Prostatic Intraepithelial Neoplasias	DisGeNet	
+CYP19A1	C0020507	Hyperplasia	DisGeNet	
+EGFR	C0020507	Hyperplasia	DisGeNet	
+CYP19A1	C0005694	Bladder neck obstruction	DisGeNet	
+EGFR	C0034341	Pyruvate carboxylase deficiency	DisGeNet	
+ERBB2	C0206696	Carcinoma, Signet Ring Cell	DisGeNet	
+EGFR	C0206720	Squamous Cell Neoplasms	DisGeNet	
+EGFR	C0221406	Pituitary dependent hypercortisolism	DisGeNet	
+EGFR	C0392784	Dermatofibrosarcoma protuberans	DisGeNet	
+CYP19A1	C0021368	Inflammation	DisGeNet	
+EGFR	C0021368	Inflammation	DisGeNet	
+FCGR2A	C0021368	Inflammation	DisGeNet	
+FCGR3A	C0021368	Inflammation	DisGeNet	

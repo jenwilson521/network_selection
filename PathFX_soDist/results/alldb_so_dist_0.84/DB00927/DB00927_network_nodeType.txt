@@ -1,0 +1,6 @@
+node_name	node_type	
+DB00927	drug	
+CYP2C19	drug_target	
+SLC22A8	drug_target	
+SLC22A2	drug_target	
+Acute kidney injury	phenotype	

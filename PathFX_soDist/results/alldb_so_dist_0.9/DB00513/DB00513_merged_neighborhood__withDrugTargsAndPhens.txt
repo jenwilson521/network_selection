@@ -1,0 +1,14 @@
+node1	node2	edge_score	
+DB00513	PLG	1.0	
+DB00513	AOX1	1.0	
+DB00513	PLAT	1.0	
+AOX1		1.0
+Deafness, autosomal recessive 44	AOX1	1.0	
+Hearing Loss, Partial	AOX1	1.0	
+Inflammatory Bowel Diseases	AOX1	1.0	
+Disorders of Intracellular Cobalamin Metabolism	AOX1	1.0	
+Osteoporosis	AOX1	1.0	
+Prostatic Neoplasms	AOX1	1.0	
+Tobacco Use Disorder	AOX1	1.0	
+Tremor, hereditary essential, 5	AOX1	1.0	
+Hearing impairment	AOX1	1.0	

@@ -1,0 +1,13 @@
+node_name	node_type	
+DB01104	drug	
+CYP2C9	drug_target	
+SLC6A3	drug_target	
+CYP2D6	drug_target	
+SLC6A4	drug_target	
+CYP2B6	drug_target	
+ALB	drug_target	
+MAOA	drug_target	
+MAOB	drug_target	
+ABCB1	drug_target	
+CYP2C19	drug_target	
+CYP3A4	drug_target	

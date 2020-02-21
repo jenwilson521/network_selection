@@ -1,0 +1,51 @@
+node_name	node_type	
+DB01270	drug	
+VEGFA	drug_target	
+Leg Ulcer	phenotype	
+Isovaleryl-CoA dehydrogenase deficiency	phenotype	
+High altitude pulmonary edema	phenotype	
+Kashin-Beck Disease	phenotype	
+Fibromyxosarcoma	phenotype	
+Papillary adenocarcinoma	phenotype	
+Placental Insufficiency	phenotype	
+Hereditary hemorrhagic telangiectasia type 2	phenotype	
+recurrent childhood acute lymphoblastic leukemia	phenotype	
+Esophageal varix	phenotype	
+Tuberculosis, Meningeal	phenotype	
+Steroid-sensitive nephrotic syndrome	phenotype	
+Invasive Skin Melanoma	phenotype	
+Otitis Media with Effusion	phenotype	
+Thrombosis of retinal vein	phenotype	
+Squamous cell carcinoma of the hypopharynx	phenotype	
+Abnormal breathing	phenotype	
+Astrocytoma, low grade	phenotype	
+Congenital vascular anomaly	phenotype	
+Femur Head Necrosis	phenotype	
+Squamous Cell Neoplasms	phenotype	
+Proliferative retinopathy	phenotype	
+T-Cell Prolymphocytic Leukemia	phenotype	
+Myxoma	phenotype	
+AIDS-Associated Nephropathy	phenotype	
+Aortic valve calcification	phenotype	
+Peritoneal Fibrosis	phenotype	
+Chromophobe Renal Cell Carcinoma	phenotype	
+Myeloproliferative disorder, chronic, with eosinophilia	phenotype	
+Gallbladder Diseases	phenotype	
+Granuloma	phenotype	
+Intermittent claudication	phenotype	
+Angiokeratoma	phenotype	
+Truncus arteriosus	phenotype	
+Vascular malformation, primary intraosseous	phenotype	
+Niemann-Pick disease, type C	phenotype	
+Arteriovenous hemangioma	phenotype	
+Stenosis	phenotype	
+Recessive dystrophic epidermolysis bullosa	phenotype	
+Stage IV Ovarian Carcinoma	phenotype	
+Anterior myocardial infarction	phenotype	
+Generalized osteoarthritis	phenotype	
+Prostatitis	phenotype	
+Pericardial effusion	phenotype	
+Comedone	phenotype	
+Sentinel node (disorder)	phenotype	
+Dermatitis Herpetiformis	phenotype	
+Ataxic	phenotype	

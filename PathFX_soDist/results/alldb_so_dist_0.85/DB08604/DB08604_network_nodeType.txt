@@ -1,0 +1,47 @@
+node_name	node_type	
+DB08604	drug	
+NR1I3	drug_target	
+PPARG	drug_target	
+AR	drug_target	
+NR1I2	drug_target	
+Acne Vulgaris	phenotype	
+Acne	phenotype	
+Abnormality of the calf musculature	phenotype	
+Postmenopausal osteoporosis	phenotype	
+Cholestatic liver disease	phenotype	
+Atrophy, Muscular, Spinobulbar	phenotype	
+Cholestasis of pregnancy	phenotype	
+Bulbo-Spinal Atrophy, X-Linked	phenotype	
+Monocytic leukemia	phenotype	
+Weight Loss Adverse Event	phenotype	
+Poorly differentiated carcinoma	phenotype	
+androgen independent prostate cancer	phenotype	
+Malignant neoplasm of female breast	phenotype	
+Prenatal Exposure Delayed Effects	phenotype	
+Female Breast Carcinoma	phenotype	
+Biliary tract neoplasm	phenotype	
+Chronic neutrophilia	phenotype	
+Intrahepatic cholestasis	phenotype	
+Tumor Initiation	phenotype	
+Microsatellite Instability	phenotype	
+Hyperpituitarism	phenotype	
+Disorders of lipoid metabolism	phenotype	
+ Hyperandrogenism, nonclassic type, due to 21-hydroxylase deficiency, 201910 (3)	phenotype	
+Drug-Induced Liver Injury	phenotype	
+Mammographic breast density	phenotype	
+Female infertility	phenotype	
+Abnormality of the musculature of the lower limbs	phenotype	
+Uterine neoplasm	phenotype	
+Granulomatous disease, chronic, autosomal recessive, cytochrome b-negative	phenotype	
+Restenosis	phenotype	
+Scar conditions and fibrosis of skin	phenotype	
+M5b Acute differentiated monocytic leukemia	phenotype	
+Dyslipidemias	phenotype	
+Cholecystolithiasis	phenotype	
+Liver regeneration disorder	phenotype	
+Tumor Promotion	phenotype	
+Adenocarcinoma of colon	phenotype	
+Hepatocarcinogenesis	phenotype	
+body mass	phenotype	
+Hepatopulmonary Syndrome	phenotype	
+Endometrial Neoplasms	phenotype	

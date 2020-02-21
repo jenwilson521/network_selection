@@ -1,0 +1,66 @@
+node1	node2	edge_score	
+DB00536	RNASE1	1.0	
+DB00536	GAMT	1.0	
+DB00536	DLG4	1.0	
+DB00536	ALDH2	1.0	
+DB00536	SLC22A4	1.0	
+DB00536	SLC22A5	1.0	
+DB00536	SLC22A1	1.0	
+DB00536	SLC22A2	1.0	
+DB00536	SLC22A3	1.0	
+DB00536	SLC47A2	1.0	
+DB00536	SLC47A1	1.0	
+DB00536	SLC22A8	1.0	
+SLC22A1	rs622342	0.99
+SLC22A1	rs628031	0.99
+SLC22A1		1.0
+SLC22A1	rs34130495	0.99
+SLC22A1	rs683369	0.99
+SLC22A5		1.0
+SLC22A8		1.0
+SLC22A1	rs2282143	0.99
+SLC22A1	rs35167514	0.99
+SLC22A1	SLC22A1*1, SLC22A1*2, SLC22A1*3, SLC22A1*4, SLC22A1*5	0.99
+SLC47A2		1.0
+SLC22A4		1.0
+SLC22A1	rs72552763	0.99
+SLC22A1	rs594709	0.99
+SLC22A1	SLC22A1*1, SLC22A1*2, SLC22A1*3, SLC22A1*4, SLC22A1*5, SLC22A1*6	0.99
+SLC47A1		1.0
+SLC22A3		1.0
+ALDH2		1.0
+SLC22A2		1.0
+SLC22A1	rs36056065	0.99
+SLC22A1	rs12208357	0.99
+Extrahepatic cholestasis	SLC22A1	1.0	
+Extrahepatic cholestasis	SLC22A2	1.0	
+Myocarditis	SLC22A3	1.0	
+Myocarditis	SLC22A4	1.0	
+Myocarditis	SLC22A5	1.0	
+polyps	ALDH2	1.0	
+polyps	SLC22A1	1.0	
+polyps	SLC22A3	1.0	
+polyps	SLC22A4	1.0	
+pathologic fistula	SLC22A4	1.0	
+pathologic fistula	SLC22A5	1.0	
+Intrahepatic cholestasis	SLC22A1	1.0	
+Intrahepatic cholestasis	SLC22A2	1.0	
+Hyperuricemia, pulmonary hypertension, renal failure, and alkalosis	ALDH2	1.0	
+Hyperuricemia, pulmonary hypertension, renal failure, and alkalosis	SLC22A2	1.0	
+Duodenal Ulcer	ALDH2	1.0	
+Duodenal Ulcer	SLC22A1	1.0	
+Growth Disorders	SLC22A4	1.0	
+Growth Disorders	SLC22A5	1.0	
+Chronic ulcerative colitis	SLC22A4	1.0	
+Chronic ulcerative colitis	SLC22A5	1.0	
+Endotoxemia	SLC22A1	1.0	
+Endotoxemia	SLC22A2	1.0	
+Acute kidney injury	SLC22A1	1.0	
+Acute kidney injury	SLC22A2	1.0	
+Acute kidney injury	SLC22A8	1.0	
+Fibrinogen Adverse Event	SLC22A4	1.0	
+Fibrinogen Adverse Event	SLC22A5	1.0	
+Diabetic Nephropathies	ALDH2	1.0	
+Diabetic Nephropathies	SLC22A2	1.0	
+Diabetic Nephropathies	SLC22A3	1.0	
+Diabetic Nephropathies	SLC22A8	1.0	

@@ -1,0 +1,13 @@
+node_name	node_type	
+DB00553	drug	
+CYP1A1	drug_target	
+CYP1A2	drug_target	
+CYP2A6	drug_target	
+Pleural Neoplasms	phenotype	
+Genomic Instability	phenotype	
+Pharyngeal Neoplasms	phenotype	
+Lung Injury	phenotype	
+Neoplasm of the larynx	phenotype	
+Chemical Carcinogenesis	phenotype	
+Liver Neoplasms, Experimental	phenotype	
+Chronic liver disease	phenotype	

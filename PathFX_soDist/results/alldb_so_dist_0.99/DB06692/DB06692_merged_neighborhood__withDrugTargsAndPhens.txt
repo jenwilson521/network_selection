@@ -1,0 +1,6 @@
+node1	node2	edge_score	
+DB06692	PLG	1.0	
+DB06692	KLK1	1.0	
+DB06692	PRSS1	1.0	
+DB06692	BCHE	1.0	
+

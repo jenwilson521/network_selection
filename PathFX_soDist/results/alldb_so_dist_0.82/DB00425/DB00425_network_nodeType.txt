@@ -1,0 +1,14 @@
+node_name	node_type	
+DB00425	drug	
+CYP2C9	drug_target	
+CYP1A2	drug_target	
+CYP2D6	drug_target	
+GABRG2	drug_target	
+CYP2C19	drug_target	
+CYP3A4	drug_target	
+GABRA1	drug_target	
+GABRA3	drug_target	
+GABRA2	drug_target	
+Primary malignant neoplasm of liver	phenotype	
+Nausea	phenotype	
+Chronic schizophrenia	phenotype	

@@ -1,0 +1,93 @@
+node_name	node_type	
+DB04854	drug	
+XDH	drug_target	
+Hypoxia	phenotype	
+Arteriosclerosis	phenotype	
+Asthma	phenotype	
+Atherosclerosis	phenotype	
+Autism 15	phenotype	
+Brain neoplasm	phenotype	
+Breast-ovarian cancer, familial 1	phenotype	
+Colon cancer	phenotype	
+Squamous cell carcinoma	phenotype	
+Cardiovascular Diseases	phenotype	
+Carotid Artery Diseases	phenotype	
+Colorectal cancer 1	phenotype	
+Verotoxigenic Escherichia coli gastrointestinal tract infection	phenotype	
+Deafness, autosomal recessive 44	phenotype	
+Diabetic Nephropathies	phenotype	
+Esophageal Neoplasms	phenotype	
+Hearing Loss, Partial	phenotype	
+Heart Diseases	phenotype	
+Heart Failure	phenotype	
+Congestive heart failure	phenotype	
+Hydronephrosis	phenotype	
+Hypertension	phenotype	
+Inflammatory Bowel Diseases	phenotype	
+Ischemia	phenotype	
+Kidney Calculi	phenotype	
+Kidney Diseases	phenotype	
+Acute kidney injury	phenotype	
+Liver Cirrhosis, Biliary	phenotype	
+Chronic obstructive pulmonary disease	phenotype	
+{Gastric cancer risk after H. pylori infection}, 137215 (3)	phenotype	
+Animal Mammary Neoplasms	phenotype	
+Mammary Neoplasms, Experimental	phenotype	
+Meningeal Neoplasms	phenotype	
+Meningioma	phenotype	
+Myopathy, scapulohumeroperoneal	phenotype	
+Secondary hypertriglyceridemia	phenotype	
+Nephritis	phenotype	
+Neurodegeneration with brain iron accumulation	phenotype	
+Occupational Diseases	phenotype	
+Pancreatitis	phenotype	
+Pulmonary Embolism	phenotype	
+Pyelonephritis	phenotype	
+Reperfusion Injury	phenotype	
+Stomach Neoplasms	phenotype	
+Thrombocytopenia, platelet dysfunction, hemolysis, and imbalanced globin synthesis	phenotype	
+Abnormality of the genitourinary system	phenotype	
+Abnormal renal physiology	phenotype	
+Adenocarcinoma of lung	phenotype	
+Malignant neoplasm of lung	phenotype	
+Sepsis	phenotype	
+Congenital anomalies of kidney and urinary tract 1, susceptibility to	phenotype	
+Nephrolithiasis	phenotype	
+Chronic Kidney Insufficiency	phenotype	
+Autosomal recessive inheritance	phenotype	
+Hepatopulmonary Syndrome	phenotype	
+Ovarian epithelial cancer	phenotype	
+Breast carcinoma	phenotype	
+Lung cancer	phenotype	
+Carcinoma of colon	phenotype	
+Stomach cancer	phenotype	
+Infarction, Middle Cerebral Artery	phenotype	
+Hyperuricemia, pulmonary hypertension, renal failure, and alkalosis	phenotype	
+Diabetic Cardiomyopathies	phenotype	
+Endothelial dysfunction	phenotype	
+Cardiomyopathy	phenotype	
+BREAST-OVARIAN CANCER, FAMILIAL, SUSCEPTIBILITY TO, 4	phenotype	
+Major depressive disorder	phenotype	
+Hearing impairment	phenotype	
+Xenograft Model	phenotype	
+Colorectal cancer	phenotype	
+Sjogren's Syndrome	phenotype	
+Chronic kidney disease	phenotype	
+Meningioma, benign, no ICD-O subtype	phenotype	
+Calcium oxalate urolithiasis	phenotype	
+Dilatation of the renal pelvis	phenotype	
+Precursor Cell Lymphoblastic Leukemia-Lymphoma	phenotype	
+Hepatocellular carcinoma	phenotype	
+Abnormality of the musculature	phenotype	
+Abnormality of the immune system	phenotype	
+Abnormality of metabolism/homeostasis	phenotype	
+Abnormality of the urinary system	phenotype	
+Increased inflammatory response	phenotype	
+Abnormal inflammatory response	phenotype	
+Abnormality of muscle morphology	phenotype	
+Abnormality of the urinary system physiology	phenotype	
+Abnormality of immune system physiology	phenotype	
+Abnormality of the renal pelvis	phenotype	
+Abnormality of the upper urinary tract	phenotype	
+Abnormality of nucleobase metabolism	phenotype	
+Abnormality of purine metabolism	phenotype	

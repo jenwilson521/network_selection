@@ -1,0 +1,148 @@
+node1	node2	edge_score	
+DB01579	ADRA1A	1.0	
+DB01579	SLC6A2	1.0	
+DB01579	ADRA1B	1.0	
+ADRA1A		1.0
+ADRA1B		1.0
+SLC6A2	rs3785143	0.99
+complex:lAo9+jzjVOaRJSWZQvoh0G1mUDc	OR8D2	0.863824739585
+SLC6A2	rs12708954	0.99
+ADRA1B	complex:lAo9+jzjVOaRJSWZQvoh0G1mUDc	0.904977499353
+SLC6A2	rs5569	0.99
+complex:lAo9+jzjVOaRJSWZQvoh0G1mUDc	KRT9	0.863824739585
+SLC6A2		1.0
+complex:lAo9+jzjVOaRJSWZQvoh0G1mUDc	ALB	0.863824739585
+Methamphetamine abuse	ADRA1A	1.0	
+Methamphetamine abuse	ALB	1.0	
+Methamphetamine abuse	SLC6A2	1.0	
+Hypotension	ADRA1A	1.0	
+Hypotension	ADRA1B	1.0	
+Hypotension	ALB	1.0	
+Gastroparesis	ADRA1A	1.0	
+Gastroparesis	ADRA1B	1.0	
+Nephrosclerosis	ADRA1A	1.0	
+Nephrosclerosis	ALB	1.0	
+Essential hypertension	ADRA1A	1.0	
+Essential hypertension	ADRA1B	1.0	
+Essential hypertension	ALB	1.0	
+Tourette Syndrome	ADRA1A	1.0	
+Tourette Syndrome	SLC6A2	1.0	
+Systemic arterial pressure	ADRA1A	1.0	
+Systemic arterial pressure	ADRA1B	1.0	
+Systemic arterial pressure	SLC6A2	1.0	
+Polycystic Ovary Syndrome	ADRA1A	1.0	
+Polycystic Ovary Syndrome	ADRA1B	1.0	
+Polycystic Ovary Syndrome	ALB	1.0	
+Attention deficit hyperactivity disorder	ADRA1A	1.0	
+Attention deficit hyperactivity disorder	ADRA1B	1.0	
+Attention deficit hyperactivity disorder	SLC6A2	1.0	
+ Acrodysostosis 1, with or without hormone resistance, 101800 (3)	ADRA1A	1.0	
+Slow acetylator due to N-acetyltransferase enzyme variant	SLC6A2	1.0	
+Pseudohypoparathyroidism, type IB, 603233 (3)	ADRA1A	1.0	
+Familial hypercholesterolemia	ADRA1A	1.0	
+Familial hypercholesterolemia	ALB	1.0	
+Dentinogenesis imperfecta	SLC6A2	1.0	
+Chronic sciatica	ADRA1A	1.0	
+Recurrent major depressive episodes	SLC6A2	1.0	
+Asthma, Occupational	SLC6A2	1.0	
+Malignant neoplasm of adrenal cortex	ALB	1.0	
+Behavior Disorders	SLC6A2	1.0	
+Esophageal varix	ALB	1.0	
+Disorders of parathyroid gland	ADRA1A	1.0	
+Urolithiasis	ALB	1.0	
+genetic hypertension	ADRA1A	1.0	
+Echinococcosis	ALB	1.0	
+Hereditary Sensory Autonomic Neuropathy, Type 1	ADRA1A	1.0	
+Epidermolysis bullosa simplex, Cockayne-Touraine type	KRT9	1.0	
+Palmar hyperkeratosis	KRT9	1.0	
+Bladder neck obstruction	ADRA1A	1.0	
+Proliferative retinopathy	ALB	1.0	
+Orofacial cleft	SLC6A2	1.0	
+Verrucae	KRT9	1.0	
+Taste bitter	ADRA1A	1.0	
+Isolated somatotropin deficiency	ALB	1.0	
+Substance Use Disorders	ALB	1.0	
+Dentatorubral pallidoluysian atrophy	ALB	1.0	
+Angiokeratoma	ALB	1.0	
+Isolated growth hormone deficiency type 1B	ALB	1.0	
+Congenital long QT syndrome	ADRA1A	1.0	
+Plantar hyperkeratosis	KRT9	1.0	
+Kidney Failure, Chronic	ADRA1A	1.0	
+Kidney Failure, Chronic	ADRA1B	1.0	
+Kidney Failure, Chronic	ALB	1.0	
+Systemic aspergillosis	SLC6A2	1.0	
+Pericardial effusion	ALB	1.0	
+Pulmonary Cystic Fibrosis	ADRA1A	1.0	
+Mumps	ALB	1.0	
+Rhinitis, Allergic, Perennial	ALB	1.0	
+Endemic Cretinism	ALB	1.0	
+Hemangioblastoma	ALB	1.0	
+Chronic schizophrenia	ADRA1A	1.0	
+Hypoparathyroidism - autosomal dominant	ADRA1A	1.0	
+Acute postoperative pain	ADRA1A	1.0	
+Acute disease of cardiovascular system	ADRA1A	1.0	
+Mesangiocapillary glomerulonephritis, type II	ALB	1.0	
+Personality disorder	SLC6A2	1.0	
+Peripheral motor neuropathy	ALB	1.0	
+Paroxysmal atrial fibrillation	ADRA1A	1.0	
+End Stage Liver Disease	ALB	1.0	
+Cholestasis of pregnancy	ADRA1A	1.0	
+Abnormal albumin level	ALB	1.0	
+Neurotoxicity Syndromes	ADRA1B	1.0	
+Bronchogenic Carcinoma	ALB	1.0	
+Low back pain	ADRA1A	1.0	
+Nephrogenic diabetes insipidus, autosomal	ADRA1A	1.0	
+Coronary artery aneurysm	ALB	1.0	
+Hyperlipoproteinemia	ALB	1.0	
+Hyperlipoproteinemia Type IIa	ALB	1.0	
+Disseminated intravascular coagulation	SLC6A2	1.0	
+Tubulointerstitial nephritis	ALB	1.0	
+Single tumor	ALB	1.0	
+Nephrotic Syndrome, Minimal Change	ALB	1.0	
+Skin Diseases, Genetic	KRT9	1.0	
+Weight Loss Adverse Event	SLC6A2	1.0	
+Varicella zoster	ALB	1.0	
+Drusen	ALB	1.0	
+Fibromyalgia	ADRA1A	1.0	
+Increased antibody level in blood	KRT9	1.0	
+Insulin resistance syndrome	ALB	1.0	
+Dyskinesia, Drug-Induced	ADRA1A	1.0	
+Abnormal autonomic nervous system physiology	SLC6A2	1.0	
+Nephrosis	ALB	1.0	
+Spondylitis, Ankylosing	ADRA1B	1.0	
+Congestive heart failure	ADRA1A	1.0	
+Congestive heart failure	ALB	1.0	
+Congestive heart failure	SLC6A2	1.0	
+Guillain-Barre syndrome, familial	ALB	1.0	
+Primary hyperparathyroidism	ALB	1.0	
+Drug Resistant Epilepsy	ALB	1.0	
+Heart Failure	ADRA1A	1.0	
+Heart Failure	ALB	1.0	
+Heart Failure	SLC6A2	1.0	
+Low Tension Glaucoma	ADRA1A	1.0	
+Cleft palate with cleft lip	SLC6A2	1.0	
+Memory Disorders	ADRA1A	1.0	
+Respiratory Tract Diseases	ALB	1.0	
+Sicca Syndrome	ALB	1.0	
+Hypoalbuminemia	ALB	1.0	
+Neurologic, endocrine, and pancreatic disease, multisystem, infantile-onset	ALB	1.0	
+Abnormality of the plantar skin of foot	KRT9	1.0	
+Inflammatory pain	ADRA1A	1.0	
+Cancer Cell Growth	ADRA1A	1.0	
+Cancer Cell Growth	SLC6A2	1.0	
+Mood Disorders	ADRA1B	1.0	
+Mood Disorders	SLC6A2	1.0	
+Congenital hypothyroidism	ALB	1.0	
+Adverse drug events and drug allergies	ALB	1.0	
+Hypertension	ADRA1A	1.0	
+Hypertension	ADRA1B	1.0	
+Hypertension	ALB	1.0	
+Hypertension	SLC6A2	1.0	
+Hypogonadism with anosmia	ADRA1A	1.0	
+Periodontitis	ALB	1.0	
+Periodontitis	SLC6A2	1.0	
+Carcinoma breast stage IV	ALB	1.0	
+Carcinoma breast stage IV	SLC6A2	1.0	
+Hemolytic uremic syndrome	ALB	1.0	
+Heroin Dependence	SLC6A2	1.0	
+Colorectal polyposis	SLC6A2	1.0	

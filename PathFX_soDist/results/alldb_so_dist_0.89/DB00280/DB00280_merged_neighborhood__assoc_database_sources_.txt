@@ -1,0 +1,36 @@
+Gene	CUI	Source Databases	
+CYP3A4	C1141890	Congenital long QT syndrome	DisGeNet	
+KCNH2	C1141890	Congenital long QT syndrome	DisGeNet	
+SCN5A	C1141890	Congenital long QT syndrome	DisGeNet	
+CHRM2	C0428977	Bradycardia	DisGeNet	
+KCNH2	C0428977	Bradycardia	HumPhenOnt	
+SCN5A	C0428977	Bradycardia	DisGeNet,HumPhenOnt	
+KCNH2	C0035828	Romano-Ward syndrome	ClinVar,DisGeNet	
+SCN5A	C0035828	Romano-Ward syndrome	ClinVar,DisGeNet	
+KCNH2	C0030252	Palpitations	HumPhenOnt	
+SCN5A	C0030252	Palpitations	HumPhenOnt	
+SLC22A1	C0005398	Extrahepatic cholestasis	DisGeNet	
+SLC22A2	C0005398	Extrahepatic cholestasis	DisGeNet	
+KCNH2	C0151878	Prolonged QT interval	DisGeNet,HumPhenOnt	
+SCN5A	C0151878	Prolonged QT interval	DisGeNet,HumPhenOnt	
+CYP1A2	C0221765	Chronic schizophrenia	DisGeNet	
+CYP3A4	C0221765	Chronic schizophrenia	DisGeNet	
+KCNH2	C0011071	Sudden death	DisGeNet	
+SCN5A	C0011071	Sudden death	DisGeNet,HumPhenOnt	
+KCNH2	C4025244	Abnormal atrioventricular conduction	HumPhenOnt	
+SCN5A	C4025244	Abnormal atrioventricular conduction	HumPhenOnt	
+KCNH2	C0741923	cardiac event	DisGeNet	
+SCN5A	C0741923	cardiac event	DisGeNet	
+KCNH2	C0004245	Atrioventricular block	DisGeNet,HumPhenOnt	
+SCN5A	C0004245	Atrioventricular block	DisGeNet,HumPhenOnt	
+KCNH2	C4025755	Primary atrial arrhythmia	HumPhenOnt	
+SCN5A	C4025755	Primary atrial arrhythmia	HumPhenOnt	
+CHRM2	C0232197	Ventricular Fibrillation Adverse Event	DisGeNet	
+KCNH2	C0232197	Ventricular Fibrillation Adverse Event	DisGeNet	
+SCN5A	C0232197	Ventricular Fibrillation Adverse Event	DisGeNet	
+KCNH2	C0042510	Ventricular fibrillation	DisGeNet,HumPhenOnt	
+SCN5A	C0042510	Ventricular fibrillation	DisGeNet,HumPhenOnt	
+KCNH2	C0438215	Abnormal cardiac test	HumPhenOnt	
+SCN5A	C0438215	Abnormal cardiac test	HumPhenOnt	
+KCNH2	C0428974	Supraventricular arrhythmia	HumPhenOnt	
+SCN5A	C0428974	Supraventricular arrhythmia	HumPhenOnt	

@@ -1,0 +1,15 @@
+node_name	node_type	
+DB00381	drug	
+CYP1A1	drug_target	
+CACNA1I	drug_target	
+CYP2D6	drug_target	
+CYP2C8	drug_target	
+CA1	drug_target	
+CACNA1C	drug_target	
+CYP2B6	drug_target	
+ABCB1	drug_target	
+CACNA1B	drug_target	
+SMPD1	drug_target	
+CYP3A4	drug_target	
+CYP3A5	drug_target	
+CACNB1	drug_target	

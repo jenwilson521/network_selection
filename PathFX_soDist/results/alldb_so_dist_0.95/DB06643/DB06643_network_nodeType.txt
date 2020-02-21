@@ -1,0 +1,282 @@
+node_name	node_type	
+DB06643	drug	
+TNFSF11	drug_target	
+Abnormality of multiple cell lineages in the bone marrow	phenotype	
+ Adenocarcinoma, ovarian, somatic, 167000 (3)	phenotype	
+Alveolar Bone Loss	phenotype	
+Alzheimer Disease	phenotype	
+Ameloblastoma	phenotype	
+Amyotrophic Lateral Sclerosis	phenotype	
+Anemia	phenotype	
+Aortic valve stenosis	phenotype	
+Apnea	phenotype	
+Arteriosclerosis	phenotype	
+Arthritis, Rheumatoid	phenotype	
+Rheumatoid arthritis	phenotype	
+Atherosclerosis	phenotype	
+Abnormal concentration of calcium in blood	phenotype	
+Autoimmune disease 1	phenotype	
+Bone Diseases	phenotype	
+Bone neoplasms	phenotype	
+Breast-ovarian cancer, familial 1	phenotype	
+Calcinosis	phenotype	
+Non-small cell lung carcinoma	phenotype	
+Renal cell carcinoma, nonpapillary	phenotype	
+Cardiovascular Diseases	phenotype	
+Abnormality of the pulmonary artery	phenotype	
+Constitutional symptom	phenotype	
+Bruising susceptibility	phenotype	
+Craniosynostoses	phenotype	
+Crohn Disease	phenotype	
+Dental Caries	phenotype	
+Diabetes Mellitus, Type 1	phenotype	
+Diabetes mellitus type 1	phenotype	
+Type 1 diabetic neuropathy	phenotype	
+Abnormality of the eye	phenotype	
+Facial palsy	phenotype	
+Recurrent fractures	phenotype	
+Pathologic fracture	phenotype	
+Giant Cell Tumors	phenotype	
+Gingival Diseases	phenotype	
+Heart Defects, Congenital	phenotype	
+Hepatomegaly	phenotype	
+Hepatosplenomegaly	phenotype	
+Hydrocephalus	phenotype	
+Hypercalcemia, infantile, 2	phenotype	
+Hyperostosis	phenotype	
+Cranial hyperostosis	phenotype	
+Hyperparathyroidism 4	phenotype	
+Hypocalcemia	phenotype	
+Chronic Lymphocytic Leukemia	phenotype	
+Leukemia, T-cell acute lymphoblastoid (2)	phenotype	
+Adult T-Cell Lymphoma/Leukemia	phenotype	
+Liver Diseases	phenotype	
+Lupus Erythematosus, Systemic	phenotype	
+Lymphoma, Large B-Cell, Diffuse	phenotype	
+Lymphoma, Follicular	phenotype	
+Animal Mammary Neoplasms	phenotype	
+Measles	phenotype	
+Melanoma	phenotype	
+Monoclonal Gammopathy of Undetermined Significance	phenotype	
+Abnormality of the mouth	phenotype	
+Abnormality of movement	phenotype	
+Multiple Myeloma	phenotype	
+Multiple Sclerosis	phenotype	
+Mycoses	phenotype	
+Myocardial Infarction	phenotype	
+Myocarditis	phenotype	
+Secondary hypertriglyceridemia	phenotype	
+Nystagmus	phenotype	
+Obesity	phenotype	
+Optic atrophy 10 with or without ataxia, mental retardation, and seizures	phenotype	
+Abnormality of the optic nerve	phenotype	
+Osteoarthritis	phenotype	
+Osteoarthritis of hip	phenotype	
+Osteomalacia	phenotype	
+Osteomyelitis, sterile multifocal, with periostitis and pustulosis	phenotype	
+Osteopetrosis autosomal recessive 4	phenotype	
+Osteoporosis	phenotype	
+Postmenopausal osteoporosis	phenotype	
+Increased bone mineral density	phenotype	
+Otitis media	phenotype	
+Pain	phenotype	
+Pallor	phenotype	
+Pancytopenia	phenotype	
+Periodontitis	phenotype	
+Precancerous Conditions	phenotype	
+Prostatic Neoplasms	phenotype	
+Respiratory tract infection	phenotype	
+Rhinitis, Allergic, Seasonal	phenotype	
+Scoliosis	phenotype	
+Sezary Syndrome	phenotype	
+Abnormality of the skin	phenotype	
+Splenomegaly	phenotype	
+Ankylosing spondylitis	phenotype	
+Stomach Neoplasms	phenotype	
+Synovitis	phenotype	
+Thrombocytopenia, platelet dysfunction, hemolysis, and imbalanced globin synthesis	phenotype	
+Tobacco Use Disorder	phenotype	
+Abnormality of dental morphology	phenotype	
+Tremor, hereditary essential, 5	phenotype	
+Visceromegaly	phenotype	
+Hypophosphatemia	phenotype	
+Abnormality of the lymph nodes	phenotype	
+Cranial nerve paralysis	phenotype	
+Abnormal CSF metabolite level	phenotype	
+Bone pain	phenotype	
+Abnormality of thrombocytes	phenotype	
+Cancer of mouth	phenotype	
+Corneal pannus	phenotype	
+Abnormality of the hair	phenotype	
+Vascular skin abnormality	phenotype	
+Tumor Progression	phenotype	
+Abnormal QRS complex	phenotype	
+Giant cell tumor of bone	phenotype	
+Neuroendocrine neoplasm	phenotype	
+Lip and Oral Cavity Carcinoma	phenotype	
+Osteolysis	phenotype	
+Macrocephaly, dysmorphic facies, and psychomotor retardation	phenotype	
+Premature loss of teeth	phenotype	
+Abnormality of the skull	phenotype	
+Pulmonary artery stenosis	phenotype	
+bone destruction	phenotype	
+Delayed eruption of teeth	phenotype	
+Abnormality of limbs	phenotype	
+Infections, recurrent, with encephalopathy, hepatic dysfunction, and cardiovascular malformations	phenotype	
+Abnormal joint morphology	phenotype	
+Abnormality of the heart valves	phenotype	
+Abnormality of blood and blood-forming tissues	phenotype	
+Malignant neoplasm of lung	phenotype	
+Abnormality of cardiovascular system electrophysiology	phenotype	
+Fibrous Dysplasia	phenotype	
+Growth abnormality	phenotype	
+Abnormality of the nose	phenotype	
+Abnormality of the digestive system	phenotype	
+Abnormality of the ear	phenotype	
+Chronic Periodontitis	phenotype	
+Superficial ulcer	phenotype	
+Malignant tumor of prostate	phenotype	
+Abnormality of erythrocytes	phenotype	
+Mandibular prognathia	phenotype	
+Knee osteoarthritis	phenotype	
+Narrow chest	phenotype	
+Involuntary movements	phenotype	
+Autosomal recessive inheritance	phenotype	
+Growth delay	phenotype	
+Blindness	phenotype	
+Lymphadenopathy	phenotype	
+Abnormality of eye movement	phenotype	
+Abnormality of the nervous system	phenotype	
+Hematocrit level	phenotype	
+Abnormality of visual evoked potentials	phenotype	
+Paralysis	phenotype	
+Bowing of limbs due to multiple fractures	phenotype	
+Genu valgum	phenotype	
+Abnormal platelet count	phenotype	
+Osteosarcoma	phenotype	
+Carcinogenesis	phenotype	
+Prostate carcinoma	phenotype	
+Breast carcinoma	phenotype	
+Lung cancer	phenotype	
+Neuroblastoma	phenotype	
+Abnormal morphology of the great vessels	phenotype	
+Central core disease	phenotype	
+Subcutaneous hemorrhage	phenotype	
+Abnormality of head or neck	phenotype	
+{Spondyloarthropathy, susceptibility to, 1}, 106300 (3)	phenotype	
+Abnormality of the lower limb	phenotype	
+Squamous cell carcinoma of the head and neck	phenotype	
+Blood pressure finding	phenotype	
+Systemic arterial pressure	phenotype	
+Hearing impairment	phenotype	
+Bone fragility with contractures, arterial rupture, and deafness	phenotype	
+Hormone receptor positive tumor	phenotype	
+Abnormal bleeding	phenotype	
+Tumor Angiogenesis	phenotype	
+Xenograft Model	phenotype	
+Abnormality of T cell count	phenotype	
+Abnormality of temperature regulation	phenotype	
+Abnormal pattern of respiration	phenotype	
+Thoracic hypoplasia	phenotype	
+Abnormality of the ribs	phenotype	
+Abnormality of the cranial nerves	phenotype	
+Bowing of the long bones	phenotype	
+Abnormality of dental eruption	phenotype	
+Abnormality of the middle ear	phenotype	
+Abnormal blistering of the skin	phenotype	
+Hepatocellular carcinoma	phenotype	
+Abnormality of facial skeleton	phenotype	
+Reduced bone mineral density	phenotype	
+Clear-cell metastatic renal cell carcinoma	phenotype	
+Abnormality of the pulmonary valve	phenotype	
+Pulmonary arterial hypertension	phenotype	
+Secondary malignant neoplasm of pancreas	phenotype	
+Juvenile idiopathic arthritis, enthesitis related arthritis	phenotype	
+Visual impairment	phenotype	
+Elevated pulmonary artery pressure	phenotype	
+Recurrent respiratory infections	phenotype	
+Abnormality of the optic disc	phenotype	
+Abnormality of the respiratory system	phenotype	
+Abnormality of fontanelles	phenotype	
+Abnormality of abdomen morphology	phenotype	
+Abnormality of lower limb joint	phenotype	
+Abnormality of brain morphology	phenotype	
+Generalized abnormality of skin	phenotype	
+Abnormality of long bone morphology	phenotype	
+Anomaly of the limb diaphyses	phenotype	
+Abnormality of primary teeth	phenotype	
+Abnormality of epiphysis morphology	phenotype	
+Abnormality of bone marrow cell morphology	phenotype	
+Abnormality of bone mineral density	phenotype	
+Abnormality of the musculature	phenotype	
+Abnormality of the immune system	phenotype	
+Abnormality of lung morphology	phenotype	
+Abnormality of the abdominal organs	phenotype	
+Morphological abnormality of the central nervous system	phenotype	
+Abnormality of metabolism/homeostasis	phenotype	
+Abnormality of the liver	phenotype	
+Abnormal diaphysis morphology	phenotype	
+Abnormality of the skeletal system	phenotype	
+Abnormality of the thorax	phenotype	
+Abnormality of the head	phenotype	
+Abnormality of the calf	phenotype	
+Abnormality of the lymphatic system	phenotype	
+Abnormality of phosphate homeostasis	phenotype	
+Abnormality of limb bone	phenotype	
+Weakness of facial musculature	phenotype	
+Abnormal vascular physiology	phenotype	
+Increased inflammatory response	phenotype	
+Abnormal inflammatory response	phenotype	
+Abnormality of nervous system morphology	phenotype	
+Abnormality of nervous system physiology	phenotype	
+Abnormal involuntary eye movements	phenotype	
+Abnormality of the globe	phenotype	
+Abnormal eye physiology	phenotype	
+Abnormal eye morphology	phenotype	
+Abnormal respiratory system morphology	phenotype	
+Abnormal bone ossification	phenotype	
+Abnormal appendicular skeleton morphology	phenotype	
+Abnormality of skeletal physiology	phenotype	
+Abnormality of skeletal morphology	phenotype	
+Abnormality of facial soft tissue	phenotype	
+Abnormality of central motor function	phenotype	
+Abnormality of cranial sutures	phenotype	
+Abnormality of skin adnexa morphology	phenotype	
+Abnormality of skin morphology	phenotype	
+Abnormality of dental structure	phenotype	
+Abnormality of cardiovascular system physiology	phenotype	
+Abnormality of immune system physiology	phenotype	
+Abnormality of cation homeostasis	phenotype	
+Abnormality of divalent inorganic cation homeostasis	phenotype	
+Abnormality of hair texture	phenotype	
+Abnormal axial skeleton morphology	phenotype	
+Abnormality of the pulmonary vasculature	phenotype	
+Abnormality of calcium homeostasis	phenotype	
+Abnormality of the posterior segment of the globe	phenotype	
+Abnormal bone structure	phenotype	
+Abnormality of ion homeostasis	phenotype	
+Abnormality of the knee	phenotype	
+Functional respiratory abnormality	phenotype	
+Abnormality of the calvaria	phenotype	
+Abnormality of calvarial morphology	phenotype	
+Abnormality of the cerebral ventricles	phenotype	
+Abnormality of the spleen	phenotype	
+Abnormality of the integument	phenotype	
+Abnormality of the rib cage	phenotype	
+Abnormality of the fundus	phenotype	
+Abnormal peripheral nervous system morphology	phenotype	
+Abnormality of vision	phenotype	
+Hearing abnormality	phenotype	
+Abnormality of the chin	phenotype	
+Abnormality of facial musculature	phenotype	
+Abnormality of the mandible	phenotype	
+Abnormality of the face	phenotype	
+Abnormality of skull size	phenotype	
+Abnormality of the oral cavity	phenotype	
+Abnormality of cardiovascular system morphology	phenotype	
+Abnormal visual electrophysiology	phenotype	
+Abnormality of limb bone morphology	phenotype	
+Increased head circumference	phenotype	
+Abnormality of pulmonary circulation	phenotype	
+Abnormal jaw morphology	phenotype	
+Abnormal vascular morphology	phenotype	

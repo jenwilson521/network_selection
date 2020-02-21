@@ -1,0 +1,64 @@
+node_name	node_type	
+DB05316	drug	
+HTR2A	drug_target	
+DRD2	drug_target	
+Antisocial Personality Disorder	phenotype	
+Cocaine Dependence	phenotype	
+As If Personality	phenotype	
+Bipolar I disorder	phenotype	
+Heroin Dependence	phenotype	
+Psychoses, Substance-Induced	phenotype	
+Polyphagia	phenotype	
+Chronic sciatica	phenotype	
+Bulimia	phenotype	
+Alcohol abuse	phenotype	
+Marijuana Abuse	phenotype	
+Dyskinesia, seizures, and intellectual developmental disorder	phenotype	
+Generalized anxiety disorder	phenotype	
+Substance Use Disorders	phenotype	
+ {Nicotine dependence, protection against}, 188890 (3)	phenotype	
+Nicotine Dependence	phenotype	
+Chronic schizophrenia	phenotype	
+Acute disease of cardiovascular system	phenotype	
+alcohol use disorder	phenotype	
+Personality disorder	phenotype	
+Neurobehavioral Manifestations	phenotype	
+Bulimia nervosa 1	phenotype	
+Opiate Addiction	phenotype	
+Delusions	phenotype	
+Low back pain	phenotype	
+Insomnia	phenotype	
+Antisocial/borderline personality disorder	phenotype	
+Dyskinesia, Drug-Induced	phenotype	
+Weight Gain Adverse Event	phenotype	
+Nausea	phenotype	
+Dyspepsia	phenotype	
+Abnormality of the basal ganglia	phenotype	
+Pharyngeal Neoplasms	phenotype	
+Tardive Dyskinesia	phenotype	
+Drug Dependence	phenotype	
+Language impairment	phenotype	
+Osteochondritis dissecans	phenotype	
+NEUROTICISM	phenotype	
+Common Migraine	phenotype	
+MAJOR AFFECTIVE DISORDER 4	phenotype	
+MAJOR AFFECTIVE DISORDER 5	phenotype	
+MAJOR AFFECTIVE DISORDER 6	phenotype	
+Major affective disorder 7	phenotype	
+MAJOR AFFECTIVE DISORDER 8	phenotype	
+MAJOR AFFECTIVE DISORDER 9	phenotype	
+Orofacial dyskinesia	phenotype	
+Eating disorder	phenotype	
+Migraine with aura	phenotype	
+Substance addiction and disorders	phenotype	
+Substance Withdrawal Syndrome	phenotype	
+Schizoaffective Disorder	phenotype	
+Overweight	phenotype	
+Obsessive-compulsive disorder	phenotype	
+Sleep Wake Disorders	phenotype	
+Methamphetamine abuse	phenotype	
+Neoplasm of the larynx	phenotype	
+Anorexia nervosa 1	phenotype	
+CNS disorder	phenotype	
+Panic disorder syndrome 1 (2)	phenotype	
+Cocaine-Related Disorders	phenotype	

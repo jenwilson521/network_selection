@@ -1,0 +1,4 @@
+node1	node2	edge_score	
+DB09075	F10	1.0	
+DB09075	ABCB1	1.0	
+

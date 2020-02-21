@@ -1,0 +1,189 @@
+node_name	node_type	
+DB00121	drug	
+ACACA	drug_target	
+ACACB	drug_target	
+PCCB	drug_target	
+HLCS	drug_target	
+PCCA	drug_target	
+PC	drug_target	
+SLC5A6	drug_target	
+CYP1B1	drug_target	
+MCCC2	drug_target	
+MCCC1	drug_target	
+EMG: myopathic abnormalities	phenotype	
+Spontaneous abortion	phenotype	
+ Adenocarcinoma, ovarian, somatic, 167000 (3)	phenotype	
+Adenomas, multiple colorectal, 608456 (3)	phenotype	
+Aniridia 1	phenotype	
+Asthma	phenotype	
+Autism 15	phenotype	
+Malignant tumor of urinary bladder	phenotype	
+Urinary Bladder Neoplasms	phenotype	
+Breast-ovarian cancer, familial 1	phenotype	
+Malignant neoplasm of endometrium	phenotype	
+Female Breast Carcinoma	phenotype	
+Malignant neoplasm of larynx	phenotype	
+Non-small cell lung carcinoma	phenotype	
+Renal cell carcinoma, nonpapillary	phenotype	
+Squamous cell carcinoma	phenotype	
+Cardiovascular Diseases	phenotype	
+Malignant tumor of cervix	phenotype	
+Intrahepatic cholestasis	phenotype	
+Choriocarcinoma	phenotype	
+Congenital chromosomal disease	phenotype	
+Neoplasm of the colon	phenotype	
+Colorectal cancer 1	phenotype	
+Colorectal Neoplasms	phenotype	
+Corneal opacity	phenotype	
+Deafness, autosomal recessive 44	phenotype	
+Contact Dermatitis	phenotype	
+DiGeorge sequence	phenotype	
+Gallbladder disease 4	phenotype	
+DNA Damage	phenotype	
+Disorder of endocrine system	phenotype	
+Endometrial Neoplasms	phenotype	
+Endometriosis	phenotype	
+Esophageal Neoplasms	phenotype	
+Abnormality of the eye	phenotype	
+Breast Fibrocystic Disease	phenotype	
+Glaucoma, Angle-Closure	phenotype	
+Primary angle-closure glaucoma	phenotype	
+Glaucoma, Open-Angle	phenotype	
+Glioma	phenotype	
+Head and Neck Neoplasms	phenotype	
+Hearing Loss, Partial	phenotype	
+Cardiomegaly	phenotype	
+Atrial septal defect	phenotype	
+Heterogeneous	phenotype	
+Buphthalmos	phenotype	
+Hypertension	phenotype	
+Renal neoplasm	phenotype	
+Neoplasm of the larynx	phenotype	
+Leiomyoma	phenotype	
+Chronic Lymphocytic Leukemia	phenotype	
+Acute lymphoid leukemia	phenotype	
+Oral leukoplakia	phenotype	
+Neoplasm of the liver	phenotype	
+Pulmonary Disease, Chronic Obstructive	phenotype	
+Chronic obstructive pulmonary disease	phenotype	
+Lung Neoplasms	phenotype	
+Lymphoma, Large B-Cell, Diffuse	phenotype	
+Lymphoma, Follicular	phenotype	
+Non-Hodgkin lymphoma	phenotype	
+{Gastric cancer risk after H. pylori infection}, 137215 (3)	phenotype	
+Animal Mammary Neoplasms	phenotype	
+Melanoma	phenotype	
+Meningioma	phenotype	
+Mesothelioma, malignant	phenotype	
+Disorders of Intracellular Cobalamin Metabolism	phenotype	
+Microphthalmia syndromic 6	phenotype	
+Neoplasm of the oral cavity	phenotype	
+Multiple Myeloma	phenotype	
+Secondary hypertriglyceridemia	phenotype	
+Nystagmus	phenotype	
+Obesity	phenotype	
+Ocular Hypertension	phenotype	
+Osteoporosis	phenotype	
+Postmenopausal osteoporosis	phenotype	
+Pancreatic Neoplasms	phenotype	
+Parkinson Disease	phenotype	
+Pleural Neoplasms	phenotype	
+Precancerous Conditions	phenotype	
+Pregnancy Complications	phenotype	
+Prostatic Neoplasms	phenotype	
+Precocious puberty	phenotype	
+Pulmonary Emphysema	phenotype	
+Retinopathy	phenotype	
+Stomach Neoplasms	phenotype	
+Strabismus	phenotype	
+Tobacco Use Disorder	phenotype	
+Uterine leiomyoma	phenotype	
+Uterine neoplasm	phenotype	
+Vascular Diseases	phenotype	
+B-cell lymphoma	phenotype	
+Germinal Center B-Cell-Like Diffuse Large B-Cell Lymphoma	phenotype	
+Corneal neovascularization	phenotype	
+Li-Fraumeni syndrome	phenotype	
+Alcohol abuse	phenotype	
+Depressive Symptoms	phenotype	
+Menopause present (finding)	phenotype	
+Adenocarcinoma of lung	phenotype	
+Esophageal carcinoma	phenotype	
+Low Tension Glaucoma	phenotype	
+Primary pulmonary hypertension	phenotype	
+Malignant neoplasm of gallbladder	phenotype	
+Uterine Corpus Cancer	phenotype	
+Malignant tumor of testis	phenotype	
+Malignant neoplasm of brain and nervous system	phenotype	
+Pregnancy loss	phenotype	
+Tumor Progression	phenotype	
+Hepatocellular adenoma	phenotype	
+Shprintzen syndrome	phenotype	
+Malignant neoplasm of female breast	phenotype	
+Gallbladder Carcinoma	phenotype	
+Pancreatic Carcinoma	phenotype	
+Gastrointestinal stromal tumor	phenotype	
+Hereditary pancreatitis	phenotype	
+Malignant neoplasm of lung	phenotype	
+Anterior segment dysgenesis	phenotype	
+Stage IV Ovarian Carcinoma	phenotype	
+Cancer of Head and Neck	phenotype	
+Esophageal Squamous Cell Carcinoma	phenotype	
+Carcinoma of cervix	phenotype	
+Primary open angle glaucoma juvenile onset 1	phenotype	
+Endometriosis of uterus	phenotype	
+Hepatic cancer metastatic	phenotype	
+Malignant neoplasm of pancreas	phenotype	
+Malignant tumor of prostate	phenotype	
+Autosomal recessive inheritance	phenotype	
+Endometrial carcinoma	phenotype	
+Abnormality of eye movement	phenotype	
+Malignant tumor of esophagus	phenotype	
+Intraocular pressure disorder	phenotype	
+Aqueous Humor Disorders	phenotype	
+Laryngeal carcinoma	phenotype	
+Carcinogenesis	phenotype	
+Chemical Carcinogenesis	phenotype	
+Tumor Initiation	phenotype	
+Prostate carcinoma	phenotype	
+Ovarian epithelial cancer	phenotype	
+Breast carcinoma	phenotype	
+Lung cancer	phenotype	
+Stomach cancer	phenotype	
+Bladder carcinoma	phenotype	
+Malignant neoplasm of kidney	phenotype	
+ {Aerodigestive tract cancer, squamous cell, alcohol-related, protection against} (3)	phenotype	
+Oculodentodigital dysplasia	phenotype	
+Invasive breast carcinoma	phenotype	
+Carcinogenicity	phenotype	
+Intraepithelial Neoplasia	phenotype	
+Ovarian Neoplasms	phenotype	
+Genomic Instability	phenotype	
+Metastatic Prostate Carcinoma	phenotype	
+Invasive Ductal Breast Carcinoma	phenotype	
+BREAST-OVARIAN CANCER, FAMILIAL, SUSCEPTIBILITY TO, 4	phenotype	
+Squamous cell carcinoma of the head and neck	phenotype	
+Mammographic breast density	phenotype	
+Pancreatic Ductal Adenocarcinoma	phenotype	
+Testicular Germ Cell Tumor	phenotype	
+Hearing impairment	phenotype	
+Mammary Tumorigenesis	phenotype	
+Xenograft Model	phenotype	
+Colorectal cancer	phenotype	
+Benign Prostatic Hyperplasia	phenotype	
+Meningioma, benign, no ICD-O subtype	phenotype	
+Slow acetylator due to N-acetyltransferase enzyme variant	phenotype	
+Abnormal conjugate eye movement	phenotype	
+Abnormality of the cornea	phenotype	
+Precursor Cell Lymphoblastic Leukemia-Lymphoma	phenotype	
+Hepatocellular carcinoma	phenotype	
+Prostate cancer, familial	phenotype	
+Abnormality of the anterior chamber	phenotype	
+Pulmonary arterial hypertension	phenotype	
+Secondary malignant neoplasm of pancreas	phenotype	
+Myelodysplastic syndrome	phenotype	
+Abnormal involuntary eye movements	phenotype	
+Abnormality of the globe	phenotype	
+Abnormal eye physiology	phenotype	
+Abnormal eye morphology	phenotype	
+Abnormality of the anterior segment of the globe	phenotype	

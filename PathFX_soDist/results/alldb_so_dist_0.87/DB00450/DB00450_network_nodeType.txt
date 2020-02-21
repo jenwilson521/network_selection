@@ -1,0 +1,37 @@
+node_name	node_type	
+DB00450	drug	
+ADRA1A	drug_target	
+DRD2	drug_target	
+Chronic sciatica	phenotype	
+Antisocial Personality Disorder	phenotype	
+Gastroparesis	phenotype	
+Chronic schizophrenia	phenotype	
+Acute disease of cardiovascular system	phenotype	
+alcohol use disorder	phenotype	
+Opiate Addiction	phenotype	
+Low back pain	phenotype	
+Antisocial/borderline personality disorder	phenotype	
+Dyskinesia, Drug-Induced	phenotype	
+Memory Disorders	phenotype	
+Cocaine Dependence	phenotype	
+As If Personality	phenotype	
+Pharyngeal Neoplasms	phenotype	
+Bipolar I disorder	phenotype	
+Heroin Dependence	phenotype	
+Psychoses, Substance-Induced	phenotype	
+Drug Dependence	phenotype	
+Language impairment	phenotype	
+NEUROTICISM	phenotype	
+Substance addiction and disorders	phenotype	
+Schizoaffective Disorder	phenotype	
+Polyphagia	phenotype	
+Alcohol abuse	phenotype	
+Marijuana Abuse	phenotype	
+Dyskinesia, seizures, and intellectual developmental disorder	phenotype	
+Methamphetamine abuse	phenotype	
+Neoplasm of the larynx	phenotype	
+Nicotine Dependence	phenotype	
+Hypotension	phenotype	
+Tourette Syndrome	phenotype	
+ Acrodysostosis 1, with or without hormone resistance, 101800 (3)	phenotype	
+Pseudohypoparathyroidism, type IB, 603233 (3)	phenotype	

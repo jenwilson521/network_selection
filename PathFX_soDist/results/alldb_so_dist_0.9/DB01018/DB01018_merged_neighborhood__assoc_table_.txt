@@ -1,0 +1,3 @@
+rank	phenotype	cui	assoc in neigh	assoc in intom	probability	Benjamini-Hochberg	genes	
+16	Primary malignant neoplasm of liver	C0024620	2	25	9.49690671336878e-06	4.25531914894e-05	CYP2C19,CYP3A4
+19	21-hydroxylase deficiency	C1291314	2	40	4.0097196691402104e-05	5.05319148936e-05	CYP2C19,CYP3A4

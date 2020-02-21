@@ -1,0 +1,93 @@
+node1	node2	edge_score	
+DB01400	ACHE	1.0	
+DB01400	BCHE	1.0	
+BCHE	rs28933389	0.99
+BCHE	rs1799807	0.99
+BCHE	rs1803274	0.99
+BCHE		1.0
+ACHE		1.0
+BCHE	rs28933390	0.99
+Leptospirosis	ACHE	1.0	
+Leptospirosis	BCHE	1.0	
+Refractory anemia	ACHE	1.0	
+Refractory anemia	BCHE	1.0	
+Refractory anaemia with excess blasts	ACHE	1.0	
+Refractory anaemia with excess blasts	BCHE	1.0	
+Congenital myasthenic syndrome	ACHE	1.0	
+Congenital myasthenic syndrome	BCHE	1.0	
+Chronic myelomonocytic leukemia	ACHE	1.0	
+Chronic myelomonocytic leukemia	BCHE	1.0	
+Thyroiditis	ACHE	1.0	
+Thyroiditis	BCHE	1.0	
+Sporadic Breast Carcinoma	ACHE	1.0	
+Sporadic Breast Carcinoma	BCHE	1.0	
+Weight Gain Adverse Event	ACHE	1.0	
+Weight Gain Adverse Event	BCHE	1.0	
+Myasthenia Gravis	ACHE	1.0	
+Myasthenia Gravis	BCHE	1.0	
+Plaque, Atherosclerotic	ACHE	1.0	
+Plaque, Atherosclerotic	BCHE	1.0	
+Muscle stiffness	ACHE	1.0	
+Myasthenic syndrome, congenital, 8	ACHE	1.0	
+Senile plaques	ACHE	1.0	
+Senile plaques	BCHE	1.0	
+Enzyme inhibition disorder	BCHE	1.0	
+childhood brain tumor	BCHE	1.0	
+Churg-Strauss Syndrome	BCHE	1.0	
+Dementia familial British	ACHE	1.0	
+Dementia familial British	BCHE	1.0	
+Myotubular myopathy	ACHE	1.0	
+Neurotoxicity Syndromes	BCHE	1.0	
+Muscular dystrophy-dystroglycanopathy (congenital with brain and eye anomalies), type a, 11	ACHE	1.0	
+Muscular dystrophy-dystroglycanopathy (congenital with brain and eye anomalies), type a, 11	BCHE	1.0	
+Gestational trophoblastic disease	BCHE	1.0	
+Platelet-type bleeding disorder 15	ACHE	1.0	
+Learning Disorders	ACHE	1.0	
+Malignant hyperthermia susceptibility	BCHE	1.0	
+Cerebral Amyloid Angiopathy	BCHE	1.0	
+Aural atresia, congenital	BCHE	1.0	
+Renal neoplasm	ACHE	1.0	
+Renal neoplasm	BCHE	1.0	
+Memory Disorders	ACHE	1.0	
+Cocaine Dependence	BCHE	1.0	
+Adverse drug events and drug allergies	BCHE	1.0	
+Memory Loss	BCHE	1.0	
+Cognition Disorders	BCHE	1.0	
+Hydatidiform mole, recurrent, 1, 231090 (3)	BCHE	1.0	
+Fasciculations	BCHE	1.0	
+Sleep apnea	BCHE	1.0	
+Cystic Fibrosis	ACHE	1.0	
+Cystic Fibrosis	BCHE	1.0	
+Postoperative Complications	BCHE	1.0	
+Congenital disorder of glycosylation	BCHE	1.0	
+Dementia	ACHE	1.0	
+Dementia	BCHE	1.0	
+Growth Disorders	ACHE	1.0	
+Pregnancy loss	ACHE	1.0	
+Increased body weight	ACHE	1.0	
+Increased body weight	BCHE	1.0	
+Dementia, Vascular	ACHE	1.0	
+Amphetamine-Related Disorders	ACHE	1.0	
+Langereis blood group	ACHE	1.0	
+Thyroid associated opthalmopathies	ACHE	1.0	
+Paralysis	BCHE	1.0	
+Prion Diseases	ACHE	1.0	
+body mass	BCHE	1.0	
+Creutzfeldt-Jakob Syndrome	ACHE	1.0	
+Spastic syndrome	BCHE	1.0	
+Methamphetamine abuse	BCHE	1.0	
+Thrombocytosis, benign familial microcytic	BCHE	1.0	
+CNS disorder	ACHE	1.0	
+early pregnancy	BCHE	1.0	
+Hereditary hyperhomocysteinemia	BCHE	1.0	
+Cocaine-Related Disorders	BCHE	1.0	
+Cerebellar ataxia, areflexia, pes cavus, optic atrophy and sensorinural hearing loss	ACHE	1.0	
+Hypertriglyceridemia	BCHE	1.0	
+Adult onset ataxia with oculomotor apraxia	BCHE	1.0	
+Amyloidosis	ACHE	1.0	
+Lewy Body Disease	BCHE	1.0	
+Neurodegenerative Diseases	ACHE	1.0	
+Neurodegenerative Diseases	BCHE	1.0	
+Neoplasm of the nervous system	BCHE	1.0	
+Mild cognitive impairment	BCHE	1.0	
+orbit (eye disorders)	ACHE	1.0	

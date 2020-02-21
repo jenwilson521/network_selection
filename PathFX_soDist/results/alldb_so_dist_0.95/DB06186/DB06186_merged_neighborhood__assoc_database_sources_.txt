@@ -1,0 +1,566 @@
+Gene	CUI	Source Databases	
+CTLA4	C0000737	Abdominal pain	HumPhenOnt	
+CTLA4	C0000786	Spontaneous abortion	DisGeNet	
+CTLA4	C0001403	Primary adrenal insufficiency	DisGeNet	
+CTLA4	C0001418	 Adenocarcinoma, ovarian, somatic, 167000 (3)	DisGeNet	
+CTLA4	C0002170	Alopecia	HumPhenOnt	
+CTLA4	C0002171	Alopecia Areata	DisGeNet,PheGenI	
+CTLA4	C0002871	Anemia	DisGeNet,HumPhenOnt	
+CTLA4	C0002878	Hemolytic anemia, nonspherocytic, due to glucose phosphate isomerase deficiency	HumPhenOnt	
+CTLA4	C0002880	Autoimmune hemolytic anemia	DisGeNet,HumPhenOnt	
+CTLA4	C0002962	Angina pectoris	HumPhenOnt	
+CTLA4	C0002965	Angina, Unstable	DisGeNet	
+CTLA4	C0003811	Arrhythmias, Cardiac	HumPhenOnt	
+CTLA4	C0003850	Arteriosclerosis	DisGeNet,HumPhenOnt	
+CTLA4	C0003862	Arthralgia	HumPhenOnt	
+CTLA4	C0003864	Arthritis, Rheumatoid	DisGeNet,PheGenI	
+CTLA4	C0003872	Arthritis, Psoriatic	DisGeNet	
+CTLA4	C0003873	Rheumatoid arthritis	DisGeNet	
+CTLA4	C0004096	Asthma	DisGeNet	
+CTLA4	C0004153	Atherosclerosis	DisGeNet,HumPhenOnt	
+CTLA4	C0004364	Autoimmune disease 1	DisGeNet,HumPhenOnt	
+CTLA4	C0004565	Melanoma, B16	DisGeNet	
+CTLA4	C0004623	Recurrent bacterial infection	DisGeNet	
+CTLA4	C0004936	Mental disorders	DisGeNet	
+CTLA4	C0004943	Behcet Syndrome	DisGeNet	
+CTLA4	C0005586	Bipolar affective disorder	DisGeNet	
+CTLA4	C0005684	Malignant tumor of urinary bladder	DisGeNet	
+CTLA4	C0005826	Abnormal systemic blood pressure	HumPhenOnt	
+CTLA4	C0005967	Bone neoplasms	DisGeNet	
+CTLA4	C0006142	Breast-ovarian cancer, familial 1	DisGeNet	
+CTLA4	C0006271	Bronchiolitis	DisGeNet	
+CTLA4	C0006274	Bronchiolitis, Viral	DisGeNet	
+CTLA4	C0006663	Calcinosis	DisGeNet	
+CTLA4	C0007114	Skin cancer	DisGeNet	
+CTLA4	C0007117	Basal cell carcinoma	DisGeNet	
+CTLA4	C0007124	Noninfiltrating Intraductal Carcinoma	DisGeNet	
+CTLA4	C0007131	Non-small cell lung carcinoma	DisGeNet	
+CTLA4	C0007134	Renal cell carcinoma, nonpapillary	DisGeNet	
+CTLA4	C0007137	Squamous cell carcinoma	DisGeNet	
+CTLA4	C0007193	Cardiomyopathy, Dilated	DisGeNet	
+CTLA4	C0007570	Celiac Disease	ClinVar,DisGeNet	
+CTLA4	C0007684	CNS infection	HumPhenOnt	
+CTLA4	C0007786	Brain Ischemia	DisGeNet	
+CTLA4	C0007847	Malignant tumor of cervix	DisGeNet	
+CTLA4	C0007873	Uterine Cervical Neoplasms	DisGeNet	
+CTLA4	C0008031	Chest pain	HumPhenOnt	
+CTLA4	C0008149	Chlamydia Infections	DisGeNet	
+CTLA4	C0008312	Primary biliary cirrhosis	DisGeNet	
+CTLA4	C0008313	Cholangitis, Sclerosing	DisGeNet	
+CTLA4	C0008370	Cholestasis, benign recurrent intrahepatic 1	DisGeNet	
+CTLA4	C0008497	Choriocarcinoma	DisGeNet	
+CTLA4	C0008677	Bronchitis, Chronic	DisGeNet	
+CTLA4	C0009319	Colitis, Ulcerative	DisGeNet	
+CTLA4	C0009324	Ulcerative colitis	DisGeNet	
+CTLA4	C0009375	Neoplasm of the colon	DisGeNet	
+CTLA4	C0009402	Colorectal cancer 1	DisGeNet	
+CTLA4	C0009404	Colorectal Neoplasms	DisGeNet	
+CTLA4	C0009443	Familial cold-induced inflammatory syndrome 1, 120100 (3)	DisGeNet	
+CTLA4	C0009447	Common variable immunodeficiency 2	DisGeNet	
+CTLA4	C0009450	Verotoxigenic Escherichia coli gastrointestinal tract infection	DisGeNet	
+CTLA4	C0009782	Connective Tissue Diseases	DisGeNet	
+CTLA4	C0009812	Constitutional symptom	HumPhenOnt	
+CTLA4	C0010054	Coronary heart disease 7	DisGeNet	
+CTLA4	C0010200	Cough	HumPhenOnt	
+CTLA4	C0010346	Crohn Disease	DisGeNet	
+CTLA4	C0010823	Cytomegalovirus Infections	DisGeNet	
+CTLA4	C0011311	Dengue Fever	DisGeNet	
+CTLA4	C0011606	Erythroderma, congenital, with palmoplantar keratoderma, hypotrichosis, and hyper-ige	DisGeNet,HumPhenOnt	
+CTLA4	C0011615	Dermatitis, Atopic	DisGeNet	
+CTLA4	C0011633	Dermatomyositis	DisGeNet	
+CTLA4	C0011848	Diabetes insipidus	HumPhenOnt	
+CTLA4	C0011849	Diabetes Mellitus, Type 1	DisGeNet,PheGenI	
+CTLA4	C0011854	Diabetes mellitus type 1	DisGeNet	
+CTLA4	C0011860	Diabetes mellitus type 2	DisGeNet	
+CTLA4	C0011880	Diabetic ketoacidosis	DisGeNet	
+CTLA4	C0011991	Diarrhea 8, secretory sodium, congenital	HumPhenOnt	
+CTLA4	C0012634	Gallbladder disease 4	DisGeNet	
+CTLA4	C0013592	Ectropion	HumPhenOnt	
+CTLA4	C0013595	Eczema	DisGeNet,HumPhenOnt	
+CTLA4	C0013604	Hydrops, lactic acidosis, and sideroblastic anemia	HumPhenOnt	
+CTLA4	C0014072	Experimental Autoimmune Encephalomyelitis	DisGeNet	
+CTLA4	C0014130	Disorder of endocrine system	DisGeNet	
+CTLA4	C0014175	Endometriosis	DisGeNet	
+CTLA4	C0014457	Eosinophilia	DisGeNet	
+CTLA4	C0014591	Epistaxis	HumPhenOnt	
+CTLA4	C0014743	Erythema nodosum	DisGeNet	
+CTLA4	C0015230	Exanthema	HumPhenOnt	
+CTLA4	C0015300	Proptosis	HumPhenOnt	
+CTLA4	C0015393	Abnormality of the eye	HumPhenOnt	
+CTLA4	C0015397	orbit (eye disorders)	DisGeNet	
+CTLA4	C0015672	Fatigue	HumPhenOnt	
+CTLA4	C0015695	Hepatic steatosis	DisGeNet	
+CTLA4	C0015929	Fetal Diseases	DisGeNet	
+CTLA4	C0015967	Malignant hyperthermia susceptibility type 5	HumPhenOnt	
+CTLA4	C0016169	pathologic fistula	DisGeNet	
+CTLA4	C0017086	Gangrene	HumPhenOnt	
+CTLA4	C0017181	Gastrointestinal hemorrhage	HumPhenOnt	
+CTLA4	C0017563	Gingival Diseases	DisGeNet	
+CTLA4	C0017658	Glomerulonephritis, Membranous	DisGeNet	
+CTLA4	C0017665	Membranous nephropathy, susceptibility to	DisGeNet	
+CTLA4	C0018133	Graft-versus-host disease, susceptibility to	DisGeNet	
+CTLA4	C0018213	Graves Disease	DisGeNet,PheGenI	
+CTLA4	C0018621	Hay fever	DisGeNet	
+CTLA4	C0018681	Headache	HumPhenOnt	
+CTLA4	C0018784	Sensorineural hearing impairment	HumPhenOnt	
+CTLA4	C0018798	Heart Defects, Congenital	HumPhenOnt	
+CTLA4	C0018799	Heart Diseases	DisGeNet	
+CTLA4	C0018939	Hematological Disease	DisGeNet	
+CTLA4	C0018965	Hematuria	HumPhenOnt	
+CTLA4	C0018991	Hemiplegia	HumPhenOnt	
+CTLA4	C0019069	Hereditary factor VIII deficiency disease	DisGeNet	
+CTLA4	C0019079	Hemoptysis	HumPhenOnt	
+CTLA4	C0019100	Severe Dengue	DisGeNet	
+CTLA4	C0019159	Hepatitis	DisGeNet	
+CTLA4	C0019163	Acute type B viral hepatitis	DisGeNet	
+CTLA4	C0019189	Chronic hepatitis	DisGeNet	
+CTLA4	C0019196	Hepatitis C	DisGeNet	
+CTLA4	C0019209	Hepatomegaly	HumPhenOnt	
+CTLA4	C0019621	Histiocytosis, Langerhans-Cell	DisGeNet	
+CTLA4	C0019693	Symptomatic human immunodeficiency virus infection	DisGeNet	
+CTLA4	C0020217	Hydatidiform mole, recurrent, 2	DisGeNet	
+CTLA4	C0020295	Hydronephrosis	HumPhenOnt	
+CTLA4	C0020456	Hyperglycemia	DisGeNet	
+CTLA4	C0020523	Immediate hypersensitivity	DisGeNet	
+CTLA4	C0020538	Hypertension	HumPhenOnt	
+CTLA4	C0020550	Hyperthyroidism	DisGeNet	
+CTLA4	C0020626	Hypoparathyroidism	DisGeNet	
+CTLA4	C0020676	Hypothyroidism	DisGeNet	
+CTLA4	C0021051	Immunodeficiency due to defect in CD3-gamma	DisGeNet,HumPhenOnt	
+CTLA4	C0021053	Immune dysfunction with T-cell inactivation due to calcium entry defect 1	DisGeNet	
+CTLA4	C0021079	IMMUNE SUPPRESSION	DisGeNet	
+CTLA4	C0021368	Inflammation	DisGeNet	
+CTLA4	C0021390	Inflammatory Bowel Diseases	DisGeNet	
+CTLA4	C0021400	Influenza	DisGeNet	
+CTLA4	C0021831	Abnormality of the intestine	HumPhenOnt	
+CTLA4	C0021843	Intestinal obstruction	HumPhenOnt	
+CTLA4	C0022408	Arthropathy	DisGeNet	
+CTLA4	C0022596	Palmoplantar keratoderma, nonepidermolytic, focal	HumPhenOnt	
+CTLA4	C0022658	Kidney Diseases	DisGeNet	
+CTLA4	C0022661	Kidney Failure, Chronic	DisGeNet	
+CTLA4	C0022665	Renal neoplasm	DisGeNet	
+CTLA4	C0023283	Zoonotic form of cutaneous leishmaniasis	DisGeNet	
+CTLA4	C0023290	Leishmaniasis, Visceral	DisGeNet	
+CTLA4	C0023343	Leprosy	DisGeNet	
+CTLA4	C0023348	Leprosy, Lepromatous	DisGeNet	
+CTLA4	C0023418	Leukemia, Lymphocytic, Chronic, B-Cell	DisGeNet	
+CTLA4	C0023434	Chronic Lymphocytic Leukemia	DisGeNet	
+CTLA4	C0023448	Lymphoid leukemia	DisGeNet	
+CTLA4	C0023449	Acute lymphoid leukemia	DisGeNet	
+CTLA4	C0023467	Acute myeloid leukemia	DisGeNet	
+CTLA4	C0023470	Myeloid leukemia	DisGeNet	
+CTLA4	C0023480	Chronic myelomonocytic leukemia	DisGeNet	
+CTLA4	C0023493	Adult T-Cell Lymphoma/Leukemia	DisGeNet	
+CTLA4	C0023890	Liver Cirrhosis, Biliary	DisGeNet	
+CTLA4	C0023891	Liver Cirrhosis, Alcoholic	DisGeNet	
+CTLA4	C0023892	Biliary cirrhosis	DisGeNet	
+CTLA4	C0023895	Liver Diseases	DisGeNet	
+CTLA4	C0023896	Alcoholic Liver Diseases	DisGeNet	
+CTLA4	C0023903	Neoplasm of the liver	DisGeNet	
+CTLA4	C0024117	Chronic obstructive pulmonary disease	DisGeNet,HumPhenOnt	
+CTLA4	C0024121	Lung Neoplasms	DisGeNet	
+CTLA4	C0024131	Lupus Vulgaris	DisGeNet	
+CTLA4	C0024138	Discoid lupus erythematosus	DisGeNet	
+CTLA4	C0024141	Lupus Erythematosus, Systemic	ClinVar,DisGeNet	
+CTLA4	C0024198	Lyme Disease	DisGeNet	
+CTLA4	C0024266	Lymphocytic Choriomeningitis	DisGeNet	
+CTLA4	C0024282	Lymphocytosis	DisGeNet	
+CTLA4	C0024291	Lymphohistiocytosis, Hemophagocytic	DisGeNet	
+CTLA4	C0024299	Lymphoma, Large B-Cell, Diffuse	DisGeNet,HumPhenOnt	
+CTLA4	C0024301	Lymphoma, Follicular	DisGeNet	
+CTLA4	C0024305	Non-Hodgkin lymphoma	DisGeNet,HumPhenOnt	
+CTLA4	C0024312	Lymphopenia	DisGeNet	
+CTLA4	C0024314	Lymphoproliferative disorder	DisGeNet	
+CTLA4	C0024623	{Gastric cancer risk after H. pylori infection}, 137215 (3)	DisGeNet	
+CTLA4	C0024667	Animal Mammary Neoplasms	DisGeNet	
+CTLA4	C0025202	Melanoma	DisGeNet	
+CTLA4	C0026269	Mitral stenosis	DisGeNet	
+CTLA4	C0026470	Monoclonal Gammopathy of Undetermined Significance	DisGeNet	
+CTLA4	C0026633	Abnormality of the mouth	HumPhenOnt	
+CTLA4	C0026650	Abnormality of movement	HumPhenOnt	
+CTLA4	C0026691	Mucocutaneous Lymph Node Syndrome	DisGeNet	
+CTLA4	C0026764	Multiple Myeloma	DisGeNet	
+CTLA4	C0026769	Multiple Sclerosis	DisGeNet	
+CTLA4	C0026857	Musculoskeletal Diseases	DisGeNet	
+CTLA4	C0026896	Myasthenia Gravis	DisGeNet,PheGenI	
+CTLA4	C0026946	Mycoses	DisGeNet	
+CTLA4	C0026948	Mycosis Fungoides	DisGeNet	
+CTLA4	C0027051	Myocardial Infarction	DisGeNet	
+CTLA4	C0027059	Myocarditis	DisGeNet	
+CTLA4	C0027498	Nausea and vomiting	HumPhenOnt	
+CTLA4	C0027627	Secondary hypertriglyceridemia	DisGeNet	
+CTLA4	C0027651	Neoplasms	HumPhenOnt	
+CTLA4	C0027697	Nephritis	DisGeNet	
+CTLA4	C0027721	Lipoid nephrosis	DisGeNet	
+CTLA4	C0029172	Oral Submucous Fibrosis	DisGeNet	
+CTLA4	C0029882	Otitis media	HumPhenOnt	
+CTLA4	C0030193	Pain	HumPhenOnt	
+CTLA4	C0030305	Pancreatitis	DisGeNet,HumPhenOnt	
+CTLA4	C0030354	Papilloma	DisGeNet	
+CTLA4	C0030807	Pemphigus	DisGeNet	
+CTLA4	C0031046	Pericarditis	HumPhenOnt	
+CTLA4	C0031099	Periodontitis	DisGeNet	
+CTLA4	C0031106	Periodontitis, Juvenile	DisGeNet	
+CTLA4	C0031117	Peripheral neuropathy, myopathy, hoarseness, and hearing loss	DisGeNet,HumPhenOnt	
+CTLA4	C0032231	Pleuritis	HumPhenOnt	
+CTLA4	C0032285	Pneumonia	DisGeNet	
+CTLA4	C0032914	Preeclampsia/eclampsia 1	DisGeNet	
+CTLA4	C0032964	Pregnancy Complications, Hematologic	DisGeNet	
+CTLA4	C0033578	Prostatic Neoplasms	DisGeNet	
+CTLA4	C0033687	Proteinuria, low molecular weight, with hypercalciuria and nephrocalcinosis	DisGeNet,HumPhenOnt	
+CTLA4	C0033774	Pruritus	HumPhenOnt	
+CTLA4	C0033860	Psoriasis	DisGeNet	
+CTLA4	C0034069	Pulmonary fibrosis and/or bone marrow failure, telomere-related, 4	DisGeNet,HumPhenOnt	
+CTLA4	C0034150	Purpura	DisGeNet,HumPhenOnt	
+CTLA4	C0034152	Henoch-Schoenlein Purpura	DisGeNet	
+CTLA4	C0035078	Renal Insufficiency, Chronic	DisGeNet	
+CTLA4	C0035235	Respiratory Syncytial Virus Infections	DisGeNet	
+CTLA4	C0035243	Respiratory tract infection	HumPhenOnt	
+CTLA4	C0035300	Abnormality of the retina	HumPhenOnt	
+CTLA4	C0035309	Retinopathy	HumPhenOnt	
+CTLA4	C0035455	Rhinitis, Allergic, Seasonal	DisGeNet	
+CTLA4	C0035457	Rhinitis, Allergic, Perennial	DisGeNet	
+CTLA4	C0036202	Sarcoidosis	DisGeNet	
+CTLA4	C0036341	Schizophrenia	DisGeNet	
+CTLA4	C0036421	Scleroderma	DisGeNet	
+CTLA4	C0036572	Seizures, Febrile	HumPhenOnt	
+CTLA4	C0036749	Serositis	HumPhenOnt	
+CTLA4	C0037199	Sinusitis	HumPhenOnt	
+CTLA4	C0037268	Abnormality of the skin	HumPhenOnt	
+CTLA4	C0037274	Dermatosis NOS	DisGeNet	
+CTLA4	C0037286	Neoplasm of the skin	DisGeNet,HumPhenOnt	
+CTLA4	C0037299	Skin ulcer	HumPhenOnt	
+CTLA4	C0038002	Splenomegaly	HumPhenOnt	
+CTLA4	C0038013	Ankylosing spondylitis	DisGeNet	
+CTLA4	C0038363	Oral aphthae	DisGeNet	
+CTLA4	C0038449	Arterial stenosis	HumPhenOnt	
+CTLA4	C0038454	Stroke	DisGeNet	
+CTLA4	C0038522	Subacute Sclerosing Panencephalitis	DisGeNet	
+CTLA4	C0039614	Tetanus	DisGeNet	
+CTLA4	C0039730	Thalassemia	DisGeNet	
+CTLA4	C0040034	Thrombocytopenia, platelet dysfunction, hemolysis, and imbalanced globin synthesis	HumPhenOnt	
+CTLA4	C0040100	Thymoma	DisGeNet	
+CTLA4	C0040128	Thyroid Diseases	DisGeNet	
+CTLA4	C0040147	Thyroiditis	DisGeNet	
+CTLA4	C0040592	Trachoma	DisGeNet	
+CTLA4	C0040822	Tremor, hereditary essential, 5	HumPhenOnt	
+CTLA4	C0041234	Chronic Chagas' disease	DisGeNet	
+CTLA4	C0041327	Tuberculosis, Pulmonary	DisGeNet	
+CTLA4	C0041582	Peptic Ulcer Hemorrhage	DisGeNet	
+CTLA4	C0041834	Erythema	HumPhenOnt	
+CTLA4	C0041956	Ureteral obstruction	HumPhenOnt	
+CTLA4	C0042063	Abnormality of the genitourinary system	HumPhenOnt	
+CTLA4	C0042109	Urticaria	DisGeNet	
+CTLA4	C0042165	Anterior uveitis	DisGeNet	
+CTLA4	C0042170	Uveomeningoencephalitic Syndrome	DisGeNet	
+CTLA4	C0042384	Vasculitis	DisGeNet,HumPhenOnt	
+CTLA4	C0042487	Venous thrombosis	HumPhenOnt	
+CTLA4	C0042769	Virus Diseases	DisGeNet	
+CTLA4	C0042782	Visceromegaly	HumPhenOnt	
+CTLA4	C0042900	Vitiligo	DisGeNet	
+CTLA4	C0043144	Wheezing	DisGeNet	
+CTLA4	C0043194	Wiskott-Aldrich syndrome, 301000 (3)	DisGeNet	
+CTLA4	C0079731	B-cell lymphoma	DisGeNet	
+CTLA4	C0079744	Germinal Center B-Cell-Like Diffuse Large B-Cell Lymphoma	DisGeNet	
+CTLA4	C0079745	Lymphoma, Large-Cell, Follicular	DisGeNet	
+CTLA4	C0079772	T-cell lymphoma	DisGeNet,HumPhenOnt	
+CTLA4	C0079773	Cutaneous T-cell lymphoma	DisGeNet,HumPhenOnt	
+CTLA4	C0085110	Severe combined immunodeficiency due to ADA deficiency	DisGeNet	
+CTLA4	C0085129	Bronchial Hyperreactivity	DisGeNet	
+CTLA4	C0085409	Polyglandular autoimmune syndrome, type 1	DisGeNet	
+CTLA4	C0085655	Polymyositis	DisGeNet	
+CTLA4	C0085859	Polyglandular Type I Autoimmune Syndrome	DisGeNet	
+CTLA4	C0149727	Abnormality of the lymph nodes	HumPhenOnt	
+CTLA4	C0149925	Small cell lung cancer	DisGeNet	
+CTLA4	C0151205	Periorbital edema	HumPhenOnt	
+CTLA4	C0151311	Cranial nerve paralysis	HumPhenOnt	
+CTLA4	C0151313	Sensory neuropathy	HumPhenOnt	
+CTLA4	C0151526	Premature Birth	DisGeNet	
+CTLA4	C0151602	Facial edema	HumPhenOnt	
+CTLA4	C0151632	Elevated erythrocyte sedimentation rate	HumPhenOnt	
+CTLA4	C0151746	Abnormal renal physiology	HumPhenOnt	
+CTLA4	C0151854	Abnormality of thrombocytes	HumPhenOnt	
+CTLA4	C0151908	Dry skin	HumPhenOnt	
+CTLA4	C0152009	Abnormal leukocyte count	HumPhenOnt	
+CTLA4	C0153014	Non-arthropod borne lymphocytic choriomeningitis	DisGeNet	
+CTLA4	C0153676	Secondary malignant neoplasm of lung	DisGeNet	
+CTLA4	C0155626	Acute myocardial infarction	DisGeNet	
+CTLA4	C0155877	Allergic asthma	DisGeNet	
+CTLA4	C0157733	Abnormality of the hair	HumPhenOnt	
+CTLA4	C0158623	Abnormality of the coronary arteries	HumPhenOnt	
+CTLA4	C0162538	IgA deficiency	DisGeNet	
+CTLA4	C0162565	Acute intermittent porphyria	DisGeNet	
+CTLA4	C0162819	Vascular skin abnormality	HumPhenOnt	
+CTLA4	C0162834	Hyperpigmentation of the skin	HumPhenOnt	
+CTLA4	C0162835	Hypopigmentation of the skin	HumPhenOnt	
+CTLA4	C0162871	Aortic Aneurysm, Abdominal	DisGeNet	
+CTLA4	C0178468	Autoimmune thyroid disease 3	DisGeNet	
+CTLA4	C0178874	Tumor Progression	DisGeNet	
+CTLA4	C0205161	Abnormal QRS complex	HumPhenOnt	
+CTLA4	C0205225	Primary Sj�gren's syndrome	DisGeNet	
+CTLA4	C0205734	Latent autoimmune diabetes mellitus in adult	DisGeNet	
+CTLA4	C0220656	Malignant ascites	DisGeNet	
+CTLA4	C0221056	Adult type dermatomyositis	DisGeNet	
+CTLA4	C0221198	NOONAN-LIKE/MULTIPLE GIANT CELL LESION SYNDROME (disorder)	DisGeNet	
+CTLA4	C0221260	Nail dystrophy	HumPhenOnt	
+CTLA4	C0231528	Myalgia	HumPhenOnt	
+CTLA4	C0235896	Pulmonary infiltrates	HumPhenOnt	
+CTLA4	C0235942	Abnormality of the skull	HumPhenOnt	
+CTLA4	C0235974	Pancreatic Carcinoma	DisGeNet	
+CTLA4	C0236124	Gastrointestinal obstruction	HumPhenOnt	
+CTLA4	C0238339	Hereditary pancreatitis	DisGeNet	
+CTLA4	C0239998	Infections, recurrent, with encephalopathy, hepatic dysfunction, and cardiovascular malformations	HumPhenOnt	
+CTLA4	C0241052	Abnormality of skeletal muscles	HumPhenOnt	
+CTLA4	C0241165	Thickened skin	HumPhenOnt	
+CTLA4	C0241657	Abnormality of blood and blood-forming tissues	HumPhenOnt	
+CTLA4	C0241910	Hepatitis, Autoimmune	DisGeNet	
+CTLA4	C0242350	Impotence	DisGeNet	
+CTLA4	C0242379	Malignant neoplasm of lung	DisGeNet	
+CTLA4	C0242381	Lyme Arthritis	DisGeNet	
+CTLA4	C0242383	Age-related macular degeneration 2	DisGeNet	
+CTLA4	C0242584	Autoimmune thrombocytopenia	HumPhenOnt	
+CTLA4	C0242596	Neoplasm, Residual	DisGeNet	
+CTLA4	C0242647	Primary cutaneous marginal zone B-cell lymphoma	DisGeNet	
+CTLA4	C0243050	Abnormality of cardiovascular system electrophysiology	HumPhenOnt	
+CTLA4	C0262361	Growth abnormality	HumPhenOnt	
+CTLA4	C0263361	Psoriasis vulgaris	DisGeNet	
+CTLA4	C0264408	Childhood asthma	DisGeNet	
+CTLA4	C0265736	Abnormality of the nose	HumPhenOnt	
+CTLA4	C0266015	Abnormality of the digestive system	HumPhenOnt	
+CTLA4	C0266292	Congenital anomalies of kidney and urinary tract 1, susceptibility to	HumPhenOnt	
+CTLA4	C0266589	Abnormality of the ear	HumPhenOnt	
+CTLA4	C0266929	Chronic Periodontitis	DisGeNet	
+CTLA4	C0268731	Glomerulopathy	HumPhenOnt	
+CTLA4	C0270921	Axonal neuropathy	DisGeNet	
+CTLA4	C0271441	Chronic otitis media	HumPhenOnt	
+CTLA4	C0278883	Metastatic melanoma	DisGeNet	
+CTLA4	C0279671	Cervical Squamous Cell Carcinoma	DisGeNet	
+CTLA4	C0302592	Carcinoma of cervix	DisGeNet	
+CTLA4	C0332563	Papule	HumPhenOnt	
+CTLA4	C0333285	Internal hemorrhage	HumPhenOnt	
+CTLA4	C0334634	Malignant lymphoma, lymphocytic, intermediate differentiation, diffuse	DisGeNet	
+CTLA4	C0339143	Thyroid associated opthalmopathies	DisGeNet	
+CTLA4	C0340288	Stable angina	DisGeNet	
+CTLA4	C0346647	Malignant neoplasm of pancreas	DisGeNet	
+CTLA4	C0362046	Prediabetes syndrome	DisGeNet	
+CTLA4	C0375206	Hemiplegia/hemiparesis	HumPhenOnt	
+CTLA4	C0376358	Malignant tumor of prostate	DisGeNet	
+CTLA4	C0376545	Hematological neoplasm	HumPhenOnt	
+CTLA4	C0391870	Abnormality of erythrocytes	HumPhenOnt	
+CTLA4	C0392514	Hereditary hemochromatosis	DisGeNet	
+CTLA4	C0392707	{Atopy, susceptibility to}, 147050 (3)	DisGeNet	
+CTLA4	C0393819	Polyradiculoneuropathy, Chronic Inflammatory Demyelinating	DisGeNet	
+CTLA4	C0398650	Idiopathic thrombocytopenic purpura	DisGeNet	
+CTLA4	C0398686	Primary immune deficiency disorder	DisGeNet	
+CTLA4	C0403416	Idiopathic crescentic glomerulonephritis	DisGeNet	
+CTLA4	C0403592	Chronic rejection of renal transplant	DisGeNet	
+CTLA4	C0409974	{Systemic lupus erythematosus, susceptibility to, 8} (2)	DisGeNet	
+CTLA4	C0424503	Abnormal facial shape	HumPhenOnt	
+CTLA4	C0427086	Involuntary movements	HumPhenOnt	
+CTLA4	C0427546	Abnormality of lymphocytes	HumPhenOnt	
+CTLA4	C0428791	Aortic valve calcification	DisGeNet	
+CTLA4	C0438217	Abnormal erythrocyte sedimentation rate	HumPhenOnt	
+CTLA4	C0442874	Neuropathy ataxia retinitis pigmentosa syndrome	DisGeNet	
+CTLA4	C0443147	Autosomal dominant non-syndromic sensorineural deafness type DFNA	HumPhenOnt	
+CTLA4	C0477474	Dermatitis and eczema	DisGeNet	
+CTLA4	C0494876	Epidermal thickening	HumPhenOnt	
+CTLA4	C0497156	Lymphadenopathy	HumPhenOnt	
+CTLA4	C0497299	Meningitis	HumPhenOnt	
+CTLA4	C0497496	Prostatitis	HumPhenOnt	
+CTLA4	C0497552	Abnormality of the nervous system	HumPhenOnt	
+CTLA4	C0521173	Granulomatosis	DisGeNet,HumPhenOnt	
+CTLA4	C0524620	Metabolic Syndrome X	DisGeNet	
+CTLA4	C0524909	Hepatitis B, Chronic	DisGeNet	
+CTLA4	C0524910	Hepatitis C, Chronic	DisGeNet	
+CTLA4	C0541794	Skeletal muscle atrophy	HumPhenOnt	
+CTLA4	C0566602	Primary sclerosing cholangitis	DisGeNet	
+CTLA4	C0580317	Abnormal platelet count	HumPhenOnt	
+CTLA4	C0581381	Recurrent upper respiratory tract infections	HumPhenOnt	
+CTLA4	C0585442	Osteosarcoma	DisGeNet	
+CTLA4	C0587955	Abnormal urine cytology	HumPhenOnt	
+CTLA4	C0595936	Aqueous Humor Disorders	DisGeNet	
+CTLA4	C0596263	Carcinogenesis	DisGeNet	
+CTLA4	C0598589	Inherited neuropathies	DisGeNet	
+CTLA4	C0598766	Leukemogenesis	DisGeNet	
+CTLA4	C0600139	Prostate carcinoma	DisGeNet	
+CTLA4	C0600260	Obstructive lung disease	HumPhenOnt	
+CTLA4	C0677607	Hashimoto thyroiditis	ClinVar,DisGeNet	
+CTLA4	C0677886	Ovarian epithelial cancer	DisGeNet	
+CTLA4	C0678222	Breast carcinoma	DisGeNet	
+CTLA4	C0684249	Lung cancer	DisGeNet	
+CTLA4	C0699791	Stomach cancer	DisGeNet	
+CTLA4	C0699885	Bladder carcinoma	DisGeNet	
+CTLA4	C0699893	Skin carcinoma	DisGeNet	
+CTLA4	C0740651	Abdominal symptom	HumPhenOnt	
+CTLA4	C0744356	Abnormality of the genital system	HumPhenOnt	
+CTLA4	C0745103	Hyperlipoproteinemia Type IIa	DisGeNet	
+CTLA4	C0747845	early pregnancy	DisGeNet	
+CTLA4	C0850826	Localized skin lesion	HumPhenOnt	
+CTLA4	C0853087	Abnormality of the nail	HumPhenOnt	
+CTLA4	C0854107	Subcutaneous hemorrhage	HumPhenOnt	
+CTLA4	C0854297	Abnormality of head or neck	HumPhenOnt	
+CTLA4	C0856825	Acute GVH disease	DisGeNet	
+CTLA4	C0867389	Chronic graft-versus-host disease	DisGeNet	
+CTLA4	C0870082	Hyperkeratosis	HumPhenOnt	
+CTLA4	C0878544	Cardiomyopathy	DisGeNet	
+CTLA4	C0917798	Cerebral ischemia	HumPhenOnt	
+CTLA4	C0948089	Acute Coronary Syndrome	DisGeNet	
+CTLA4	C0949691	Spondylarthropathies	DisGeNet	
+CTLA4	C1134719	Invasive Ductal Breast Carcinoma	DisGeNet	
+CTLA4	C1140680	BREAST-OVARIAN CANCER, FAMILIAL, SUSCEPTIBILITY TO, 4	DisGeNet	
+CTLA4	C1145670	Respiratory failure	HumPhenOnt	
+CTLA4	C1258104	Diffuse Scleroderma	DisGeNet	
+CTLA4	C1260926	Abnormality of skin pigmentation	HumPhenOnt	
+CTLA4	C1262477	Decreased body weight	HumPhenOnt	
+CTLA4	C1290884	Inflammatory disorder	DisGeNet	
+CTLA4	C1292769	B Acute Lymphoblastic Leukemia with t(9;22)(q34;q11.2); BCR-ABL1	DisGeNet	
+CTLA4	C1302401	Adenoma of large intestine	DisGeNet	
+CTLA4	C1328840	Autoimmune lymphoproliferative syndrome, type 2	DisGeNet	
+CTLA4	C1333782	Gastric Mucosa-Associated Lymphoid Tissue Lymphoma	DisGeNet	
+CTLA4	C1335302	Pancreatic Ductal Adenocarcinoma	DisGeNet	
+CTLA4	C1336076	Sporadic Breast Carcinoma	DisGeNet	
+CTLA4	C1384666	Hearing impairment	HumPhenOnt	
+CTLA4	C1449563	Dilated cardiomyopathy 1A	DisGeNet	
+CTLA4	C1458140	Abnormal bleeding	HumPhenOnt	
+CTLA4	C1519176	Pleomorphic adenoma of salivary gland	DisGeNet	
+CTLA4	C1519680	Tumor Immunity	DisGeNet	
+CTLA4	C1527249	Colorectal cancer	DisGeNet	
+CTLA4	C1527336	Sjogren's Syndrome	DisGeNet	
+CTLA4	C1565489	Renal insufficiency	HumPhenOnt	
+CTLA4	C1709246	Non-Neoplastic Disorder	DisGeNet	
+CTLA4	C1832160	Abnormality of temperature regulation	HumPhenOnt	
+CTLA4	C1836598	Incomplete penetrance	HumPhenOnt	
+CTLA4	C1837514	Phenotypic variability	HumPhenOnt	
+CTLA4	C1839042	Upper motor neuron dysfunction	HumPhenOnt	
+CTLA4	C1840382	Abnormality of the ureter	HumPhenOnt	
+CTLA4	C1840451	Multicystic renal dysplasia, bilateral	DisGeNet	
+CTLA4	C1847835	VITILIGO-ASSOCIATED MULTIPLE AUTOIMMUNE DISEASE SUSCEPTIBILITY 1 (finding)	DisGeNet	
+CTLA4	C1849242	Abnormality of B cell physiology	HumPhenOnt	
+CTLA4	C1854510	Abnormality of the cranial nerves	HumPhenOnt	
+CTLA4	C1855755	Abnormal immunoglobulin level	HumPhenOnt	
+CTLA4	C1860236	Irregular hyperpigmentation	HumPhenOnt	
+CTLA4	C1861141	Abnormality of the middle ear	HumPhenOnt	
+CTLA4	C1861172	Venous Thromboembolism	DisGeNet	
+CTLA4	C1868864	Dilatation of the renal pelvis	HumPhenOnt	
+CTLA4	C1956346	Coronary Artery Disease	DisGeNet,HumPhenOnt	
+CTLA4	C1961102	Precursor Cell Lymphoblastic Leukemia-Lymphoma	DisGeNet	
+CTLA4	C1962972	Proteinuria Adverse Event	DisGeNet	
+CTLA4	C2239176	Hepatocellular carcinoma	DisGeNet	
+CTLA4	C2315229	Abnormality of facial skeleton	HumPhenOnt	
+CTLA4	C2316810	Stage 5 chronic kidney disease	DisGeNet	
+CTLA4	C2347126	Microscopic Polyarteritis	DisGeNet	
+CTLA4	C2364164	Abnormality of fluid regulation	HumPhenOnt	
+CTLA4	C2607914	Allergic rhinitis	DisGeNet	
+CTLA4	C2717865	Anti-Neutrophil Cytoplasmic Antibody-Associated Vasculitis	DisGeNet	
+CTLA4	C2919828	Chronic ulcerative colitis	DisGeNet	
+CTLA4	C3150510	Abnormality of humoral immunity	HumPhenOnt	
+CTLA4	C3277226	Restrictive ventilatory defect	HumPhenOnt	
+CTLA4	C3495559	Juvenile idiopathic arthritis, enthesitis related arthritis	DisGeNet	
+CTLA4	C3495801	Granulomatosis with Polyangiitis	DisGeNet	
+CTLA4	C3539909	Allergic disposition	DisGeNet	
+CTLA4	C3662483	Allergic sensitization	DisGeNet	
+CTLA4	C3665347	Visual impairment	HumPhenOnt	
+CTLA4	C3714757	Juvenile rheumatoid arthritis	DisGeNet	
+CTLA4	C3806482	Recurrent respiratory infections	HumPhenOnt	
+CTLA4	C3811653	Experimental Organism Basal Cell Carcinoma	DisGeNet	
+CTLA4	C3875321	Inflammatory abnormality of the skin	HumPhenOnt	
+CTLA4	C4018871	Abnormality of the respiratory system	HumPhenOnt	
+CTLA4	C4020869	Abnormality of abdomen morphology	HumPhenOnt	
+CTLA4	C4020969	Inflammatory abnormality of the eye	HumPhenOnt	
+CTLA4	C4021073	Morphological abnormality of the gastrointestinal tract	HumPhenOnt	
+CTLA4	C4021085	Abnormality of brain morphology	HumPhenOnt	
+CTLA4	C4021096	Abnormal genital system morphology	HumPhenOnt	
+CTLA4	C4021112	Anemia due to reduced life span of red cells	HumPhenOnt	
+CTLA4	C4021157	Generalized abnormality of skin	HumPhenOnt	
+CTLA4	C4021205	Abnormality of the systemic arterial tree	HumPhenOnt	
+CTLA4	C4021255	Weakness due to upper motor neuron dysfunction	HumPhenOnt	
+CTLA4	C4021520	Abnormality of cerebral artery	HumPhenOnt	
+CTLA4	C4021634	Abnormality of bone marrow cell morphology	HumPhenOnt	
+CTLA4	C4021661	Abnormality of macrophages	HumPhenOnt	
+CTLA4	C4021745	Abnormality of the musculature	HumPhenOnt	
+CTLA4	C4021748	Abnormality of B cells	HumPhenOnt	
+CTLA4	C4021753	Abnormality of the immune system	HumPhenOnt	
+CTLA4	C4021760	Abnormality of lung morphology	HumPhenOnt	
+CTLA4	C4021764	Abnormality of the abdominal organs	HumPhenOnt	
+CTLA4	C4021765	Morphological abnormality of the central nervous system	HumPhenOnt	
+CTLA4	C4021768	Abnormality of metabolism/homeostasis	HumPhenOnt	
+CTLA4	C4021780	Abnormality of the liver	HumPhenOnt	
+CTLA4	C4021790	Abnormality of the skeletal system	HumPhenOnt	
+CTLA4	C4021797	Abnormality of the thorax	HumPhenOnt	
+CTLA4	C4021803	Abnormality of the eyelid	HumPhenOnt	
+CTLA4	C4021809	Abnormality of the inner ear	HumPhenOnt	
+CTLA4	C4021812	Abnormality of the head	HumPhenOnt	
+CTLA4	C4021821	Abnormality of the urinary system	HumPhenOnt	
+CTLA4	C4021946	Abnormality of globe location	HumPhenOnt	
+CTLA4	C4021976	Abnormality of the lymphatic system	HumPhenOnt	
+CTLA4	C4022001	Abnormality of the cerebral vasculature	HumPhenOnt	
+CTLA4	C4022563	Abnormality of muscle size	HumPhenOnt	
+CTLA4	C4022755	Functional abnormality of the gastrointestinal tract	HumPhenOnt	
+CTLA4	C4022803	Increased inflammatory response	HumPhenOnt	
+CTLA4	C4022805	Abnormal inflammatory response	HumPhenOnt	
+CTLA4	C4022810	Abnormality of nervous system morphology	HumPhenOnt	
+CTLA4	C4022811	Abnormality of nervous system physiology	HumPhenOnt	
+CTLA4	C4022838	Abnormality of the nephron	HumPhenOnt	
+CTLA4	C4022923	Abnormality of the globe	HumPhenOnt	
+CTLA4	C4022924	Abnormal eye physiology	HumPhenOnt	
+CTLA4	C4022925	Abnormal eye morphology	HumPhenOnt	
+CTLA4	C4022992	Abnormal respiratory system morphology	HumPhenOnt	
+CTLA4	C4023025	Abnormality of cells of the monocyte/macrophage lineage	HumPhenOnt	
+CTLA4	C4023048	Abnormality of pancreas physiology	HumPhenOnt	
+CTLA4	C4023165	Abnormality of skeletal morphology	HumPhenOnt	
+CTLA4	C4023181	Abnormality of muscle morphology	HumPhenOnt	
+CTLA4	C4023183	Abnormality of facial soft tissue	HumPhenOnt	
+CTLA4	C4023185	Neoplasm by anatomical site	HumPhenOnt	
+CTLA4	C4023354	Abnormality of central motor function	HumPhenOnt	
+CTLA4	C4023382	Functional abnormality of the inner ear	HumPhenOnt	
+CTLA4	C4023397	Abnormal hair quantity	HumPhenOnt	
+CTLA4	C4023437	Abnormality of the urinary system physiology	HumPhenOnt	
+CTLA4	C4023452	Elevated C-reactive protein level	HumPhenOnt	
+CTLA4	C4023518	Abnormality of skin adnexa morphology	HumPhenOnt	
+CTLA4	C4023527	Abnormality of skin physiology	HumPhenOnt	
+CTLA4	C4023528	Abnormality of skin morphology	HumPhenOnt	
+CTLA4	C4023585	Abnormality of blood circulation	HumPhenOnt	
+CTLA4	C4023587	Abnormality of cardiovascular system physiology	HumPhenOnt	
+CTLA4	C4023588	Abnormality of the gastrointestinal tract	HumPhenOnt	
+CTLA4	C4023595	Abnormality of cell physiology	HumPhenOnt	
+CTLA4	C4023612	Abnormality of cellular immune system	HumPhenOnt	
+CTLA4	C4023616	Abnormality of immune system physiology	HumPhenOnt	
+CTLA4	C4023618	Abnormality of myeloid leukocytes	HumPhenOnt	
+CTLA4	C4023633	Abnormality of the renal pelvis	HumPhenOnt	
+CTLA4	C4023641	Abnormality of the upper urinary tract	HumPhenOnt	
+CTLA4	C4023679	Abnormality of circulating protein level	HumPhenOnt	
+CTLA4	C4023819	Abnormality of the male genitalia	HumPhenOnt	
+CTLA4	C4024586	Abnormal axial skeleton morphology	HumPhenOnt	
+CTLA4	C4025247	Abnormalities of the peripheral arteries	HumPhenOnt	
+CTLA4	C4025354	Abnormality of the posterior segment of the globe	HumPhenOnt	
+CTLA4	C4025357	Abnormality of body weight	HumPhenOnt	
+CTLA4	C4025655	Abnormality of urine homeostasis	HumPhenOnt	
+CTLA4	C4025677	Functional respiratory abnormality	HumPhenOnt	
+CTLA4	C4025726	Abnormality of the pleura	HumPhenOnt	
+CTLA4	C4025731	Abnormal thrombosis	HumPhenOnt	
+CTLA4	C4025749	Abnormality of the spleen	HumPhenOnt	
+CTLA4	C4025750	Abnormality of the nasopharynx	HumPhenOnt	
+CTLA4	C4025751	Abnormality of the pancreas	HumPhenOnt	
+CTLA4	C4025754	Abnormality of the pericardium	HumPhenOnt	
+CTLA4	C4025761	Abnormality of the integument	HumPhenOnt	
+CTLA4	C4025804	Abnormality of the fundus	HumPhenOnt	
+CTLA4	C4025819	Abnormality of the hypothalamus-pituitary axis	HumPhenOnt	
+CTLA4	C4025823	Abnormality of the endocrine system	HumPhenOnt	
+CTLA4	C4025824	Abnormal internal genitalia	HumPhenOnt	
+CTLA4	C4025831	Abnormal peripheral nervous system morphology	HumPhenOnt	
+CTLA4	C4025837	Abnormality of the periorbital region	HumPhenOnt	
+CTLA4	C4025838	Abnormality of the pharynx	HumPhenOnt	
+CTLA4	C4025846	Abnormality of vision	HumPhenOnt	
+CTLA4	C4025860	Hearing abnormality	HumPhenOnt	
+CTLA4	C4025863	Abnormality of the orbital region	HumPhenOnt	
+CTLA4	C4025871	Abnormality of the face	HumPhenOnt	
+CTLA4	C4025873	Abnormality of the paranasal sinuses	HumPhenOnt	
+CTLA4	C4025887	Abnormality of the oral cavity	HumPhenOnt	
+CTLA4	C4025889	Abnormality of the glomerulus	HumPhenOnt	
+CTLA4	C4025899	Abnormality of male internal genitalia	HumPhenOnt	
+CTLA4	C4048270	Decreased antibody level in blood	HumPhenOnt	
+CTLA4	C4049796	Abnormality of cardiovascular system morphology	HumPhenOnt	
+CTLA4	C4073120	Abnormal morphology of the ocular adnexa	HumPhenOnt	
+CTLA4	C4293691	Abnormality of digestive system morphology	HumPhenOnt	
+CTLA4	C4293692	Abnormality of digestive system physiology	HumPhenOnt	
+CTLA4	C4293699	Abnormal vascular morphology	HumPhenOnt	

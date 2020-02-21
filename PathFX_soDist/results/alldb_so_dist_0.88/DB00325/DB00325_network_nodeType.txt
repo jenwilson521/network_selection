@@ -1,0 +1,133 @@
+node_name	node_type	
+DB00325	drug	
+CYP1A1	drug_target	
+NPR1	drug_target	
+Drug Eruptions	phenotype	
+Neoplasms, Multiple Primary	phenotype	
+Pleural Neoplasms	phenotype	
+Malignant neoplasm of pharynx	phenotype	
+Echinococcosis	phenotype	
+Lung Injury	phenotype	
+Squamous Cell Neoplasms	phenotype	
+Adenocarcinoma in Situ	phenotype	
+Rhinitis, Allergic, Perennial	phenotype	
+Endometriosis of ovary	phenotype	
+childhood brain tumor	phenotype	
+Genomic Instability	phenotype	
+Xeroderma pigmentosum, group A	phenotype	
+Pancreatitis, Alcoholic	phenotype	
+Carcinogenicity	phenotype	
+Bronchogenic Carcinoma	phenotype	
+Angiofibromas	phenotype	
+Chemical Carcinogenesis	phenotype	
+Chloracne	phenotype	
+Hyperoxia	phenotype	
+Li-Fraumeni syndrome	phenotype	
+Bile duct cancer resectable	phenotype	
+Neoplasm of the gallbladder	phenotype	
+Papillomavirus Infections	phenotype	
+Prostate cancer, familial	phenotype	
+Arthritis, Reactive	phenotype	
+Iron deficiency anemia	phenotype	
+Malignant neoplasm of female breast	phenotype	
+Leukoplakia	phenotype	
+Prenatal Exposure Delayed Effects	phenotype	
+Gorlin syndrome	phenotype	
+Female Breast Carcinoma	phenotype	
+Endometrial Hyperplasia	phenotype	
+Respiratory Tract Diseases	phenotype	
+Endometriosis of uterus	phenotype	
+Penile hypospadias	phenotype	
+Human papilloma virus infection	phenotype	
+Oral Submucous Fibrosis	phenotype	
+Intrahepatic cholestasis	phenotype	
+Colonic Polyps	phenotype	
+Menopause present (finding)	phenotype	
+Infiltrating Cervical Carcinoma	phenotype	
+Childhood Leukemia	phenotype	
+Microsatellite Instability	phenotype	
+Breast Fibrocystic Disease	phenotype	
+Neoplasms, Germ Cell and Embryonal	phenotype	
+Pharyngeal Neoplasms	phenotype	
+Thyroid Nodule	phenotype	
+Fibroadenoma of the breast	phenotype	
+Colorectal polyposis	phenotype	
+Neurodegeneration with brain iron accumulation 4	phenotype	
+Occupational Diseases	phenotype	
+Bronchitis	phenotype	
+Mammographic breast density	phenotype	
+Acute Lung Injury	phenotype	
+Oral leukoplakia	phenotype	
+Uterine neoplasm	phenotype	
+Recurrent abortion	phenotype	
+Chromosome Aberrations	phenotype	
+Mucinous Adenocarcinoma	phenotype	
+Pterygium	phenotype	
+Wheezing	phenotype	
+Cholecystolithiasis	phenotype	
+Tumor Promotion	phenotype	
+Contact Dermatitis	phenotype	
+Oral Cavity Carcinoma	phenotype	
+Adult Acute Myeloblastic Leukemia	phenotype	
+Thyroid associated opthalmopathies	phenotype	
+DNA Damage	phenotype	
+Adenocarcinoma, Clear Cell	phenotype	
+Postmenopausal osteoporosis	phenotype	
+Skin carcinoma	phenotype	
+Testicular malignant germ cell tumor	phenotype	
+SUDDEN INFANT DEATH SYNDROME	phenotype	
+Liver Cirrhosis, Alcoholic	phenotype	
+Testicular Germ Cell Tumor	phenotype	
+High grade serous carcinoma	phenotype	
+Hamartoma	phenotype	
+Neoplasm of the larynx	phenotype	
+Carcinoma, Small Cell	phenotype	
+Dermatitis, Allergic Contact	phenotype	
+Breast adenocarcinoma	phenotype	
+Thromboembolism	phenotype	
+Hereditary nonpolyposis colorectal cancer type 8	phenotype	
+Precocious puberty	phenotype	
+Depressive Symptoms	phenotype	
+Peptic ulcer	phenotype	
+Carcinoma, Endometrioid	phenotype	
+Musculoskeletal Diseases	phenotype	
+Pregnancy Complications	phenotype	
+Transitional cell carcinoma of the bladder	phenotype	
+Malignant neoplasm of larynx	phenotype	
+Pregnancy Complications, Hematologic	phenotype	
+Laryngeal Squamous Cell Carcinoma	phenotype	
+Basal cell carcinoma	phenotype	
+Liver Neoplasms, Experimental	phenotype	
+Testicular Neoplasms	phenotype	
+Neoplastic Cell Transformation	phenotype	
+Chronic liver disease	phenotype	
+Coronary Disease	phenotype	
+orbit (eye disorders)	phenotype	
+Barrett Esophagus	phenotype	
+Fetal Diseases	phenotype	
+Peripheral Arterial Disease	phenotype	
+Hydronephrosis	phenotype	
+Malignant neoplasm of brain and nervous system	phenotype	
+Neoplasm Invasiveness	phenotype	
+Malignant neoplasm of gallbladder	phenotype	
+Uterine Cervical Neoplasms	phenotype	
+Cholelithiasis	phenotype	
+Aplastic anemia	phenotype	
+Borderline Personality Disorder	phenotype	
+Primary open angle glaucoma juvenile onset 1	phenotype	
+Dissecting aneurysm of the thoracic aorta	phenotype	
+Lymphoma, Large-Cell, Follicular	phenotype	
+Bleeding disorder, platelet-type, 21	phenotype	
+Tumor Initiation	phenotype	
+Laryngeal carcinoma	phenotype	
+Hypersensitivity	phenotype	
+Adenocarcinoma of the large intestine	phenotype	
+Fibrosis	phenotype	
+Polycythemia vera	phenotype	
+Squamous cell carcinoma of lung	phenotype	
+Gallbladder Carcinoma	phenotype	
+Chorioamnionitis	phenotype	
+Connective Tissue Diseases	phenotype	
+Arthritis, Psoriatic	phenotype	
+Hypercholesterolemia, autosomal dominant, type B	phenotype	
+Cervical intraepithelial neoplasia (Cervical dysplasia)	phenotype	

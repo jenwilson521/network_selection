@@ -1,0 +1,39 @@
+rank	phenotype	cui	assoc in neigh	assoc in intom	probability	Benjamini-Hochberg	genes	
+2	Asthma	C0004096	1	1454	0.0	4.16666666667e-05	SCN10A
+3	Ataxia, combined cerebellar and peripheral, with hearing loss and diabetes mellitus	C0004134	1	740	0.0	6.25e-05	SCN10A
+4	Atrial Fibrillation	C0004238	1	176	0.0	8.33333333333e-05	SCN10A
+5	Breast-ovarian cancer, familial 1	C0006142	1	4543	0.0	0.000104166666667	SCN10A
+6	Hypertrophic cardiomyopathy	C0007194	1	384	0.0	0.000125	SCN10A
+7	Cardiovascular Diseases	C0007222	1	1029	0.0	0.000145833333333	SCN10A
+8	Cerebellar malformation	C0007760	1	220	0.0	0.000166666666667	SCN10A
+9	Constipation	C0009806	1	233	0.0	0.0001875	SCN10A
+10	Dyspepsia	C0013395	1	56	0.0	0.000208333333333	SCN10A
+11	Experimental Autoimmune Encephalomyelitis	C0014072	1	389	0.0	0.000229166666667	SCN10A
+13	Heart block	C0018794	1	84	0.0	0.000270833333333	SCN10A
+15	Hyperalgesia	C0020429	1	177	0.0	0.0003125	SCN10A
+16	Acute myeloid leukemia	C0023467	1	1733	0.0	0.000333333333333	SCN10A
+17	Multiple Sclerosis	C0026769	1	1140	0.0	0.000354166666667	SCN10A
+18	Neuralgia	C0027796	1	94	0.0	0.000375	SCN10A
+19	Pain	C0030193	1	628	0.0	0.000395833333333	SCN10A
+21	Seizures, Febrile	C0036572	1	1535	0.0	0.0004375	SCN10A
+22	Tobacco Use Disorder	C0040336	1	3066	0.0	0.000458333333333	SCN10A
+24	Ventricular fibrillation	C0042510	1	50	0.0	0.0005	SCN10A
+25	Synovial Cyst	C0085648	1	182	0.0	0.000520833333333	SCN10A
+26	Sciatic Neuropathy	C0149940	1	78	0.0	0.000541666666667	SCN10A
+27	Chronic pain	C0150055	1	44	0.0	0.0005625	SCN10A
+28	Onset	C0206132	1	713	0.0	0.000583333333333	SCN10A
+29	Ventricular Fibrillation Adverse Event	C0232197	1	131	0.0	0.000604166666667	SCN10A
+30	Abnormality of the digestive system	C0266015	1	1679	0.0	0.000625	SCN10A
+31	Hematological neoplasm	C0376545	1	615	0.0	0.000645833333333	SCN10A
+33	Neuropathy ataxia retinitis pigmentosa syndrome	C0442874	1	265	0.0	0.0006875	SCN10A
+34	Autosomal dominant non-syndromic sensorineural deafness type DFNA	C0443147	1	1262	0.0	0.000708333333333	SCN10A
+35	Abnormality of the nervous system	C0497552	1	2512	0.0	0.000729166666667	SCN10A
+36	Breast carcinoma	C0678222	1	4281	0.0	0.00075	SCN10A
+37	Neuroblastoma	C0700095	1	1612	0.0	0.000770833333333	SCN10A
+38	Varicella zoster	C0740380	1	47	0.0	0.000791666666667	SCN10A
+39	Abdominal symptom	C0740651	1	901	0.0	0.0008125	SCN10A
+40	Brugada Syndrome	C1142166	1	56	0.0	0.000833333333333	SCN10A
+41	Channelopathies	C1720983	1	58	0.0	0.000854166666667	SCN10A
+43	Adult onset ataxia with oculomotor apraxia	C1853562	1	127	0.0	0.000895833333333	SCN10A
+47	Abnormality of nervous system physiology	C4022811	1	2307	0.0	0.000979166666667	SCN10A
+48	Abnormality of digestive system physiology	C4293692	1	1132	0.0	0.001	SCN10A

@@ -1,0 +1,37 @@
+node_name	node_type	
+DB08896	drug	
+PDGFRB	drug_target	
+PDGFRA	drug_target	
+EPHA2	drug_target	
+RET	drug_target	
+UGT1A9	drug_target	
+ABL1	drug_target	
+FLT4	drug_target	
+RAF1	drug_target	
+UGT1A1	drug_target	
+FLT1	drug_target	
+TEK	drug_target	
+CYP2B6	drug_target	
+NTRK1	drug_target	
+ABCB1	drug_target	
+KDR	drug_target	
+FRK	drug_target	
+CYP3A4	drug_target	
+FGFR2	drug_target	
+FGFR1	drug_target	
+CYP2C9	drug_target	
+CYP2C8	drug_target	
+ABCG2	drug_target	
+DDR2	drug_target	
+KIT	drug_target	
+BRAF	drug_target	
+MAPK11	drug_target	
+Hepatitis D Infection	phenotype	
+Hyperbilirubinemia	phenotype	
+Drug Allergy	phenotype	
+Febrile Neutropenia	phenotype	
+Leukopenia	phenotype	
+Cholelithiasis	phenotype	
+Hearing Loss, Partial	phenotype	
+Bone necrosis	phenotype	
+Neutropenia	phenotype	

@@ -1,0 +1,22 @@
+node_name	node_type	
+DB00435	drug	
+CYP1A2	drug_target	
+IDO1	drug_target	
+CYP2B6	drug_target	
+ALDH2	drug_target	
+GUCY1A2	drug_target	
+CYP3A4	drug_target	
+MT1A	drug_target	
+Pharyngeal Neoplasms	phenotype	
+Tardive Dyskinesia	phenotype	
+Orofacial dyskinesia	phenotype	
+Polyglandular Type I Autoimmune Syndrome	phenotype	
+Pleural Neoplasms	phenotype	
+Squamous Cell Neoplasms	phenotype	
+ {Porphyria cutanea tarda, susceptibility to}, 176100 (3)	phenotype	
+Enzyme inhibition disorder	phenotype	
+Paranoid Schizophrenia	phenotype	
+Chronic schizophrenia	phenotype	
+Genomic Instability	phenotype	
+Neoplasm of the larynx	phenotype	
+21-hydroxylase deficiency	phenotype	

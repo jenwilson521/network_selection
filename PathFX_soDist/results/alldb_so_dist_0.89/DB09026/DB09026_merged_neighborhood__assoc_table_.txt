@@ -1,0 +1,7 @@
+rank	phenotype	cui	assoc in neigh	assoc in intom	probability	Benjamini-Hochberg	genes	
+14	Enzyme inhibition disorder	C0877008	2	33	2.232552032355173e-06	2.69230769231e-05	CYP3A4,REN
+32	Adrenal hyperplasia	C0342492	2	63	1.6008656966048918e-05	6.15384615385e-05	CYP3A4,REN
+91	Primary malignant neoplasm of liver	C0024620	1	25	0.0001747422748364924	0.000175	CYP3A4
+92	Familial hypokalemia-hypomagnesemia	C0268450	1	25	0.0001747422748364924	0.000176923076923	REN
+93	High altitude pulmonary edema	C0340100	1	25	0.0001747422748364924	0.000178846153846	REN
+94	Polycystic Kidney - body part	C1567435	1	25	0.0001747422748364924	0.000180769230769	REN

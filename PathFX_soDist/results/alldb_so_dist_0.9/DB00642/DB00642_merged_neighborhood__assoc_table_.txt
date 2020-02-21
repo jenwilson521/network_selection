@@ -1,0 +1,5 @@
+rank	phenotype	cui	assoc in neigh	assoc in intom	probability	Benjamini-Hochberg	genes	
+10	Adverse drug events and drug allergies	C0041755	3	60	1.3452062209706739e-06	2.0618556701e-05	ATIC,DHFR,TYMS
+11	Refractory cancer	C0677936	3	64	1.7459726917579133e-06	2.26804123711e-05	DCK,DHFR,TYMS
+16	Myelosuppression	C0854467	2	35	1.4856192234624643e-05	3.29896907216e-05	DHFR,TYMS
+17	Folic Acid Deficiency	C0016412	2	37	1.7603916714348244e-05	3.50515463918e-05	DHFR,TYMS

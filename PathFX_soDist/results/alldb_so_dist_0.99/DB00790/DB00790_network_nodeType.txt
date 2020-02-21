@@ -1,0 +1,5 @@
+node_name	node_type	
+DB00790	drug	
+SLC15A2	drug_target	
+BCHE	drug_target	
+ACE	drug_target	

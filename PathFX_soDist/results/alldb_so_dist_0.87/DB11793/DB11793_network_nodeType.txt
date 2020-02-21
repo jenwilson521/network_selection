@@ -1,0 +1,5 @@
+node_name	node_type	
+DB11793	drug	
+PARP1	drug_target	
+PARP2	drug_target	
+GUSB	drug_target	

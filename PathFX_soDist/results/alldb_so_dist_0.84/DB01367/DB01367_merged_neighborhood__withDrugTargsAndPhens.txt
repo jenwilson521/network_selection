@@ -1,0 +1,124 @@
+node1	node2	edge_score	
+DB01367	MAOB	1.0	
+DB01367	CYP1A2	1.0	
+DB01367	BCL2	1.0	
+CYP1A2	rs4646427	0.99
+CYP1A2	rs2069514	0.99
+CYP1A2	rs72547516	0.99
+CYP1A2	rs2069526	0.99
+CYP1A2		1.0
+CYP1A2	rs762551	0.99
+CYP1A2	rs72547517	0.99
+CYP1A2	CYP1A2*1A, CYP1A2*1F	0.99
+CYP1A2	rs2470890	0.99
+CYP1A2	rs4646425	0.99
+CYP1A2	rs2472304	0.99
+BCL2		1.0
+Lichen Planus, Oral	BCL2	1.0	
+Lichen Planus, Oral	CYP1A2	1.0	
+Liver Cirrhosis, Alcoholic	BCL2	1.0	
+Liver Cirrhosis, Alcoholic	CYP1A2	1.0	
+Transitional cell carcinoma of the bladder	BCL2	1.0	
+Transitional cell carcinoma of the bladder	CYP1A2	1.0	
+Acute hepatic failure	BCL2	1.0	
+Acute hepatic failure	CYP1A2	1.0	
+Liver Neoplasms, Experimental	BCL2	1.0	
+Liver Neoplasms, Experimental	CYP1A2	1.0	
+Testicular Neoplasms	BCL2	1.0	
+Testicular Neoplasms	CYP1A2	1.0	
+Chronic liver disease	BCL2	1.0	
+Chronic liver disease	CYP1A2	1.0	
+Hypercapnia	BCL2	1.0	
+Polyglandular Type I Autoimmune Syndrome	CYP1A2	1.0	
+Oculopharyngeal muscular dystrophy	BCL2	1.0	
+Cutaneous lymphoma	BCL2	1.0	
+Pleural Neoplasms	CYP1A2	1.0	
+Plasmablastic lymphoma	BCL2	1.0	
+Lymphoid hyperplasia	BCL2	1.0	
+Malignant neoplasm of adrenal cortex	BCL2	1.0	
+Oropharynx (excludes nasopharynx)	BCL2	1.0	
+Cervical dysplasia	BCL2	1.0	
+Cryoglobulinemia	BCL2	1.0	
+Seborrheic keratosis	BCL2	1.0	
+Gallbladder adenocarcinoma	BCL2	1.0	
+Fowlpox	BCL2	1.0	
+Lung Injury	CYP1A2	1.0	
+Chromosomal translocation	BCL2	1.0	
+Carcinoma, Signet Ring Cell	BCL2	1.0	
+Squamous Cell Neoplasms	BCL2	1.0	
+gastritis h pylori	BCL2	1.0	
+Generalized anxiety disorder	BCL2	1.0	
+Gastric Mucosa-Associated Lymphoid Tissue Lymphoma	BCL2	1.0	
+Squamous cell carcinoma of lung	BCL2	1.0	
+Squamous cell carcinoma of lung	CYP1A2	1.0	
+Monocytosis	BCL2	1.0	
+Chronic leukemia	BCL2	1.0	
+ {Porphyria cutanea tarda, susceptibility to}, 176100 (3)	CYP1A2	1.0	
+Medullary thyroid carcinoma	BCL2	1.0	
+Medullary thyroid carcinoma	CYP1A2	1.0	
+Normal pressure hydrocephalus	BCL2	1.0	
+Circumscribed scleroderma	BCL2	1.0	
+Superinfection	BCL2	1.0	
+Uterine leiomyosarcoma	BCL2	1.0	
+Follicular neoplasm	BCL2	1.0	
+Complete hydatidiform mole	BCL2	1.0	
+Aggressive Non-Hodgkin Lymphoma	BCL2	1.0	
+Cervix Diseases	BCL2	1.0	
+Fatal infectious mononucleosis	BCL2	1.0	
+Lichen planus pemphigoides	BCL2	1.0	
+Meningitis, Pneumococcal	BCL2	1.0	
+Malignant neoplasm of oropharynx	BCL2	1.0	
+Comedone	BCL2	1.0	
+Prostate cancer recurrent	BCL2	1.0	
+Hypervolemia	BCL2	1.0	
+Dermatitis Herpetiformis	BCL2	1.0	
+Paranoid Schizophrenia	CYP1A2	1.0	
+Complete trisomy 18 syndrome	BCL2	1.0	
+Chronic schizophrenia	CYP1A2	1.0	
+AIDS related complex	BCL2	1.0	
+Condylomata Acuminata	BCL2	1.0	
+Folic Acid Deficiency	BCL2	1.0	
+Odontogenic neoplasm	BCL2	1.0	
+Genomic Instability	CYP1A2	1.0	
+Mediastinal (Thymic) Large B-Cell Lymphoma	BCL2	1.0	
+Lymphoma, AIDS-Related	BCL2	1.0	
+Lymphosarcoma	BCL2	1.0	
+Diffuse Astrocytoma	BCL2	1.0	
+Prolymphocytic Leukemia	BCL2	1.0	
+Prostatic Diseases	BCL2	1.0	
+Small Lymphocytic Lymphoma	BCL2	1.0	
+Arteriovenous fistula	BCL2	1.0	
+Bronchogenic Carcinoma	BCL2	1.0	
+Rabies (disorder)	BCL2	1.0	
+Neoplasm of the tongue	BCL2	1.0	
+Dermal atrophy	BCL2	1.0	
+Dermal atrophy	CYP1A2	1.0	
+Mixed cryoglobulinemia	BCL2	1.0	
+Chemical Carcinogenesis	CYP1A2	1.0	
+Gestational trophoblastic disease	BCL2	1.0	
+Thrombotic Microangiopathies	BCL2	1.0	
+Precursor cell lymphoblastic lymphoma	BCL2	1.0	
+Primary central nervous system lymphoma	BCL2	1.0	
+Cervical intraepithelial neoplasia grade 1	BCL2	1.0	
+Primary Carcinoma	BCL2	1.0	
+Fuchs' Endothelial Dystrophy	BCL2	1.0	
+Reticulosarcoma	BCL2	1.0	
+Thromboangiitis Obliterans	BCL2	1.0	
+Varicose Ulcer	BCL2	1.0	
+Learning Disorders	BCL2	1.0	
+Li-Fraumeni syndrome	BCL2	1.0	
+Trisomy 12	BCL2	1.0	
+Adenoma of large intestine	BCL2	1.0	
+Adenoma of large intestine	CYP1A2	1.0	
+Neck Neoplasms	BCL2	1.0	
+Dyskinesia, Drug-Induced	CYP1A2	1.0	
+Neoplasm of the gallbladder	BCL2	1.0	
+Pleuritis	BCL2	1.0	
+Polydipsia	CYP1A2	1.0	
+Ganglioneuroblastoma	BCL2	1.0	
+Cervical intraepithelial neoplasia grade 2	BCL2	1.0	
+Splenic Marginal Zone B-Cell Lymphoma	BCL2	1.0	
+Atypical teratoid/rhabdoid tumor	BCL2	1.0	
+Severe congenital neutropenia	BCL2	1.0	
+Endometrial Neoplasms	BCL2	1.0	
+Endometrial Neoplasms	CYP1A2	1.0	

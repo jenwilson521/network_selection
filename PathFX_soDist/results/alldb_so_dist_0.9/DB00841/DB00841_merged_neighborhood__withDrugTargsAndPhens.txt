@@ -1,0 +1,226 @@
+node1	node2	edge_score	
+DB00841	ADRB1	1.0	
+DB00841	ADRB2	1.0	
+DB00841	COMT	1.0	
+DB00841	ESR1	1.0	
+ESR1	rs11543791	0.99
+COMT	rs9606186	0.99
+ADRB2	rs1042714	0.99
+COMT	rs13306278	0.99
+COMT	rs4680	0.99
+ESR1	rs2207396	0.99
+ADRB2	rs1042718	0.99
+COMT	rs4646316	0.99
+ESR1	rs4870061	0.99
+ADRB2	rs1042713	0.99
+COMT	rs6269	0.99
+ADRB1		1.0
+COMT		1.0
+COMT	rs9332377	0.99
+ESR1		1.0
+ADRB2		1.0
+ESR1	rs2813543	0.99
+rs13306278	TXNRD2	0.9801
+ESR1	rs9322335	0.99
+COMT	rs4818	0.99
+ESR1	rs9340799	0.99
+COMT	rs165599	0.99
+COMT	rs4633	0.99
+ESR1	rs2234693	0.99
+Glaucoma, Open-Angle	ADRB1	1.0	
+Glaucoma, Open-Angle	ADRB2	1.0	
+Glaucoma, Open-Angle	ESR1	1.0	
+Glaucoma, Open-Angle	TXNRD2	1.0	
+Depressive Symptoms	ADRB2	1.0	
+Depressive Symptoms	COMT	1.0	
+Depressive Symptoms	ESR1	1.0	
+Depressive Symptoms	TXNRD2	1.0	
+Stress, Psychological	ADRB1	1.0	
+Stress, Psychological	ADRB2	1.0	
+Stress, Psychological	COMT	1.0	
+Occupational Diseases	ADRB1	1.0	
+Occupational Diseases	ADRB2	1.0	
+Occupational Diseases	COMT	1.0	
+Mammographic breast density	COMT	1.0	
+Mammographic breast density	ESR1	1.0	
+Mammographic breast density	TXNRD2	1.0	
+body mass	ADRB1	1.0	
+body mass	ADRB2	1.0	
+body mass	ESR1	1.0	
+Sleep Wake Disorders	ADRB2	1.0	
+Sleep Wake Disorders	COMT	1.0	
+Sleep Wake Disorders	ESR1	1.0	
+Carpal tunnel syndrome	COMT	1.0	
+Carpal tunnel syndrome	ESR1	1.0	
+Subarachnoid hemorrhage	ADRB1	1.0	
+Subarachnoid hemorrhage	ADRB2	1.0	
+Subarachnoid hemorrhage	COMT	1.0	
+Subarachnoid hemorrhage	ESR1	1.0	
+Acute postoperative pain	ADRB2	1.0	
+Acute postoperative pain	COMT	1.0	
+Nephrosclerosis	ADRB1	1.0	
+Nephrosclerosis	ADRB2	1.0	
+Personality disorder	ADRB1	1.0	
+Personality disorder	COMT	1.0	
+Chromosome 5, trisomy 5q	ADRB2	1.0	
+Chromosome 5, trisomy 5q	TXNRD2	1.0	
+Bulimia nervosa 1	COMT	1.0	
+Bulimia nervosa 1	ESR1	1.0	
+Obesity, severe, 601665 (3)	ADRB1	1.0	
+Obesity, severe, 601665 (3)	ADRB2	1.0	
+Obesity, severe, 601665 (3)	ESR1	1.0	
+Acanthosis nigricans	ADRB2	1.0	
+Acanthosis nigricans	ESR1	1.0	
+Anaphylactic shock NOS	ADRB1	1.0	
+Anaphylactic shock NOS	ESR1	1.0	
+Hyperthyroidism	ADRB2	1.0	
+Hyperthyroidism	COMT	1.0	
+Hyperthyroidism	TXNRD2	1.0	
+Chronic pain	ADRB2	1.0	
+Chronic pain	COMT	1.0	
+Substance abuse problem	COMT	1.0	
+Substance abuse problem	ESR1	1.0	
+Venous thrombosis	ADRB2	1.0	
+Venous thrombosis	COMT	1.0	
+Venous thrombosis	ESR1	1.0	
+Capillary hemangiomas	ADRB1	1.0	
+Capillary hemangiomas	ADRB2	1.0	
+Ventricular tachycardia, catecholaminergic polymorphic, 2	ADRB1	1.0	
+Ventricular tachycardia, catecholaminergic polymorphic, 2	ADRB2	1.0	
+Weight Loss Adverse Event	ADRB2	1.0	
+Weight Loss Adverse Event	COMT	1.0	
+Acute Coronary Syndrome	ADRB1	1.0	
+Acute Coronary Syndrome	ADRB2	1.0	
+Acute Coronary Syndrome	COMT	1.0	
+Acute Coronary Syndrome	ESR1	1.0	
+Mood Disorders	ADRB1	1.0	
+Mood Disorders	ADRB2	1.0	
+Mood Disorders	COMT	1.0	
+Mood Disorders	ESR1	1.0	
+Fibromyalgia	ADRB2	1.0	
+Fibromyalgia	COMT	1.0	
+Sudden cardiac death	ADRB1	1.0	
+Sudden cardiac death	ADRB2	1.0	
+Sudden cardiac death	ESR1	1.0	
+Ventricular fibrillation	ADRB1	1.0	
+Ventricular fibrillation	ADRB2	1.0	
+Malignant neoplasm of female breast	COMT	1.0	
+Malignant neoplasm of female breast	ESR1	1.0	
+VITILIGO-ASSOCIATED MULTIPLE AUTOIMMUNE DISEASE SUSCEPTIBILITY 1 (finding)	COMT	1.0	
+VITILIGO-ASSOCIATED MULTIPLE AUTOIMMUNE DISEASE SUSCEPTIBILITY 1 (finding)	ESR1	1.0	
+VITILIGO-ASSOCIATED MULTIPLE AUTOIMMUNE DISEASE SUSCEPTIBILITY 1 (finding)	TXNRD2	1.0	
+Prenatal Exposure Delayed Effects	ADRB2	1.0	
+Prenatal Exposure Delayed Effects	COMT	1.0	
+Female Breast Carcinoma	COMT	1.0	
+Female Breast Carcinoma	ESR1	1.0	
+Endometrial Hyperplasia	COMT	1.0	
+Endometrial Hyperplasia	ESR1	1.0	
+Low Tension Glaucoma	ADRB1	1.0	
+Low Tension Glaucoma	ADRB2	1.0	
+Bronchial Hyperreactivity	ADRB2	1.0	
+Bronchial Hyperreactivity	COMT	1.0	
+Bronchial Hyperreactivity	ESR1	1.0	
+Endometriosis of uterus	COMT	1.0	
+Endometriosis of uterus	ESR1	1.0	
+Medullary carcinoma	COMT	1.0	
+Medullary carcinoma	ESR1	1.0	
+Atrial Fibrillation	ADRB1	1.0	
+Atrial Fibrillation	ADRB2	1.0	
+Atrial Fibrillation	ESR1	1.0	
+Familial hypercholesterolemia	ADRB1	1.0	
+Familial hypercholesterolemia	ADRB2	1.0	
+Familial hypercholesterolemia	ESR1	1.0	
+Menopause present (finding)	COMT	1.0	
+Menopause present (finding)	ESR1	1.0	
+Cognition Disorders	COMT	1.0	
+Cognition Disorders	ESR1	1.0	
+Meningococcal Infections	ADRB1	1.0	
+Meningococcal Infections	ADRB2	1.0	
+Osteoarthritis of hip	COMT	1.0	
+Osteoarthritis of hip	ESR1	1.0	
+Breast Fibrocystic Disease	COMT	1.0	
+Breast Fibrocystic Disease	ESR1	1.0	
+Psychoses, Substance-Induced	COMT	1.0	
+Psychoses, Substance-Induced	ESR1	1.0	
+Myocardial Reperfusion Injury	ADRB1	1.0	
+Myocardial Reperfusion Injury	ADRB2	1.0	
+Myocardial Reperfusion Injury	ESR1	1.0	
+Osteochondritis dissecans	COMT	1.0	
+Osteochondritis dissecans	ESR1	1.0	
+NEUROTICISM	COMT	1.0	
+NEUROTICISM	ESR1	1.0	
+Disorder of endocrine system	COMT	1.0	
+Disorder of endocrine system	ESR1	1.0	
+Shock, Septic	COMT	1.0	
+Shock, Septic	ESR1	1.0	
+Ventricular Dysfunction, Right	ADRB1	1.0	
+Ventricular Dysfunction, Right	ADRB2	1.0	
+Female infertility	ADRB2	1.0	
+Female infertility	ESR1	1.0	
+Ischemic cardiomyopathy	ADRB1	1.0	
+Ischemic cardiomyopathy	ESR1	1.0	
+Eating disorder	COMT	1.0	
+Eating disorder	ESR1	1.0	
+Acne	COMT	1.0	
+Acne	ESR1	1.0	
+Malignant Childhood Neoplasm	COMT	1.0	
+Malignant Childhood Neoplasm	ESR1	1.0	
+Uterine neoplasm	COMT	1.0	
+Uterine neoplasm	ESR1	1.0	
+Migraine with aura	COMT	1.0	
+Migraine with aura	ESR1	1.0	
+Metaplasia	COMT	1.0	
+Metaplasia	ESR1	1.0	
+Coronary artery stenosis	ADRB2	1.0	
+Coronary artery stenosis	ESR1	1.0	
+Respiration Disorders	ADRB1	1.0	
+Respiration Disorders	ADRB2	1.0	
+Cardiomyopathy, Dilated	ADRB1	1.0	
+Cardiomyopathy, Dilated	ADRB2	1.0	
+Cardiomyopathy, Dilated	ESR1	1.0	
+Cardiomyopathy, Dilated	TXNRD2	1.0	
+Chronic heart failure	ADRB1	1.0	
+Chronic heart failure	ADRB2	1.0	
+Glaucoma, Angle-Closure	ADRB1	1.0	
+Glaucoma, Angle-Closure	ADRB2	1.0	
+Glaucoma, Angle-Closure	COMT	1.0	
+Glaucoma, Angle-Closure	TXNRD2	1.0	
+Obsessive-compulsive disorder	COMT	1.0	
+Obsessive-compulsive disorder	ESR1	1.0	
+Ovarian Diseases	ADRB2	1.0	
+Ovarian Diseases	COMT	1.0	
+Ovarian Diseases	ESR1	1.0	
+Vitiligo	COMT	1.0	
+Vitiligo	ESR1	1.0	
+Vitiligo	TXNRD2	1.0	
+Alcohol abuse	COMT	1.0	
+Alcohol abuse	ESR1	1.0	
+Testicular Germ Cell Tumor	COMT	1.0	
+Testicular Germ Cell Tumor	ESR1	1.0	
+Left ventricular hypertrophy	ADRB1	1.0	
+Left ventricular hypertrophy	ADRB2	1.0	
+Left ventricular hypertrophy	ESR1	1.0	
+Anorexia nervosa 1	COMT	1.0	
+Anorexia nervosa 1	ESR1	1.0	
+Hyperlipidemia, combined, 1	ADRB1	1.0	
+Hyperlipidemia, combined, 1	ADRB2	1.0	
+Hyperlipidemia, combined, 1	ESR1	1.0	
+Acquired long QT syndrome	ADRB1	1.0	
+Acquired long QT syndrome	ADRB2	1.0	
+Immediate hypersensitivity	ADRB2	1.0	
+Immediate hypersensitivity	ESR1	1.0	
+Thromboembolism	ADRB2	1.0	
+Thromboembolism	ESR1	1.0	
+Glucose intolerance	ADRB2	1.0	
+Glucose intolerance	COMT	1.0	
+Glucose intolerance	ESR1	1.0	
+Reperfusion Injury	ADRB1	1.0	
+Reperfusion Injury	ADRB2	1.0	
+Reperfusion Injury	TXNRD2	1.0	
+Varicose Veins	COMT	1.0	
+Varicose Veins	ESR1	1.0	
+Stomach Neoplasms	ADRB1	1.0	
+Stomach Neoplasms	ADRB2	1.0	
+Stomach Neoplasms	COMT	1.0	
+Stomach Neoplasms	ESR1	1.0	
+Stomach Neoplasms	TXNRD2	1.0	

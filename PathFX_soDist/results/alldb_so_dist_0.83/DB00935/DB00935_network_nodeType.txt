@@ -1,0 +1,136 @@
+node_name	node_type	
+DB00935	drug	
+ADRA1A	drug_target	
+ADRA1B	drug_target	
+ADRA1D	drug_target	
+ADRA2A	drug_target	
+ADRA2B	drug_target	
+ADRA2C	drug_target	
+Chronic sciatica	phenotype	
+Hypotension	phenotype	
+Acute disease of cardiovascular system	phenotype	
+Low back pain	phenotype	
+Low Tension Glaucoma	phenotype	
+Systemic arterial pressure	phenotype	
+Gastroparesis	phenotype	
+Nephrosclerosis	phenotype	
+Hyperalgesia	phenotype	
+Learning Disabilities	phenotype	
+Fibrosis	phenotype	
+Attention deficit hyperactivity disorder	phenotype	
+Pain	phenotype	
+Acute Lung Injury	phenotype	
+Cardiomegaly	phenotype	
+Essential hypertension	phenotype	
+Mood Disorders	phenotype	
+Neuralgia	phenotype	
+Methamphetamine abuse	phenotype	
+Hypertension	phenotype	
+Tourette Syndrome	phenotype	
+Polycystic Ovary Syndrome	phenotype	
+Major depressive disorder	phenotype	
+Irritable bowel syndrome with diarrhea	phenotype	
+Obstructive sleep apnea	phenotype	
+Depressive Disorder	phenotype	
+Familial hypercholesterolemia	phenotype	
+ Acrodysostosis 1, with or without hormone resistance, 101800 (3)	phenotype	
+Pseudohypoparathyroidism, type IB, 603233 (3)	phenotype	
+Malignant neoplasm of adrenal cortex	phenotype	
+Behavior Disorders	phenotype	
+Esophageal varix	phenotype	
+Disorders of parathyroid gland	phenotype	
+Urolithiasis	phenotype	
+genetic hypertension	phenotype	
+Echinococcosis	phenotype	
+Hereditary Sensory Autonomic Neuropathy, Type 1	phenotype	
+Epidermolysis bullosa simplex, Cockayne-Touraine type	phenotype	
+Palmar hyperkeratosis	phenotype	
+Kidney Failure, Chronic	phenotype	
+Bladder neck obstruction	phenotype	
+Proliferative retinopathy	phenotype	
+Verrucae	phenotype	
+Taste bitter	phenotype	
+Isolated somatotropin deficiency	phenotype	
+Metabolic Syndrome X	phenotype	
+Substance Use Disorders	phenotype	
+Dentatorubral pallidoluysian atrophy	phenotype	
+Angiokeratoma	phenotype	
+Isolated growth hormone deficiency type 1B	phenotype	
+Hemorrhagic disorder due to intrinsic circulating anticoagulants	phenotype	
+Congenital long QT syndrome	phenotype	
+Plantar hyperkeratosis	phenotype	
+Epilepsy	phenotype	
+Pericardial effusion	phenotype	
+Excessive salivation	phenotype	
+Pulmonary Cystic Fibrosis	phenotype	
+Mumps	phenotype	
+Rhinitis, Allergic, Perennial	phenotype	
+Endemic Cretinism	phenotype	
+Hemangioblastoma	phenotype	
+Chronic schizophrenia	phenotype	
+Hypoparathyroidism - autosomal dominant	phenotype	
+Acute postoperative pain	phenotype	
+Mesangiocapillary glomerulonephritis, type II	phenotype	
+Peripheral motor neuropathy	phenotype	
+Paroxysmal atrial fibrillation	phenotype	
+End Stage Liver Disease	phenotype	
+Cholestasis of pregnancy	phenotype	
+Abnormal albumin level	phenotype	
+Neurotoxicity Syndromes	phenotype	
+Acth-Independent Macronodular Adrenal Hyperplasia	phenotype	
+Bronchogenic Carcinoma	phenotype	
+Nephrogenic diabetes insipidus, autosomal	phenotype	
+Coronary artery aneurysm	phenotype	
+Hyperlipoproteinemia	phenotype	
+Hyperlipoproteinemia Type IIa	phenotype	
+Tubulointerstitial nephritis	phenotype	
+Single tumor	phenotype	
+Nephrotic Syndrome, Minimal Change	phenotype	
+Congestive heart failure	phenotype	
+Drug usage	phenotype	
+Skin Diseases, Genetic	phenotype	
+Weight Loss Adverse Event	phenotype	
+Varicella zoster	phenotype	
+Drusen	phenotype	
+Heart Failure	phenotype	
+Fibromyalgia	phenotype	
+Increased antibody level in blood	phenotype	
+Insulin resistance syndrome	phenotype	
+Dyskinesia, Drug-Induced	phenotype	
+Polydipsia	phenotype	
+Nephrosis	phenotype	
+Spondylitis, Ankylosing	phenotype	
+Guillain-Barre syndrome, familial	phenotype	
+Primary hyperparathyroidism	phenotype	
+Drug Resistant Epilepsy	phenotype	
+Acute Coronary Syndrome	phenotype	
+Memory Disorders	phenotype	
+Respiratory Tract Diseases	phenotype	
+Sicca Syndrome	phenotype	
+Hypoalbuminemia	phenotype	
+Neurologic, endocrine, and pancreatic disease, multisystem, infantile-onset	phenotype	
+Abnormality of the plantar skin of foot	phenotype	
+Inflammatory pain	phenotype	
+Congenital hypothyroidism	phenotype	
+Adverse drug events and drug allergies	phenotype	
+Hypogonadism with anosmia	phenotype	
+Liver Cirrhosis, Biliary	phenotype	
+Hemolytic uremic syndrome	phenotype	
+Psychoses, Substance-Induced	phenotype	
+Attention Deficit Disorder	phenotype	
+Occupational Diseases	phenotype	
+Microalbuminuria	phenotype	
+Thyroid Diseases	phenotype	
+Chest pain	phenotype	
+Urinary incontinence	phenotype	
+ {HIV-1 viremia, susceptibility to}, 609423 (3)	phenotype	
+Anxiety Disorders	phenotype	
+Heart Diseases	phenotype	
+Blood pressure finding	phenotype	
+Complications of Diabetes Mellitus	phenotype	
+Diabetes mellitus type 2	phenotype	
+Pulmonary edema	phenotype	
+Ichthyosis bullosa of Siemens	phenotype	
+Stevens-Johnson Syndrome	phenotype	
+Unipolar Depression	phenotype	
+Lymphohistiocytosis, Hemophagocytic	phenotype	

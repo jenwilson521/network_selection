@@ -1,0 +1,53 @@
+node1	node2	edge_score	
+DB02546	HDAC1	1.0	
+DB02546	HDAC8	1.0	
+DB02546	HDAC3	1.0	
+DB02546	HDAC2	1.0	
+DB02546	HDAC6	1.0	
+HDAC1	rs1741981	0.99
+HDAC1		1.0
+Liposarcoma, Dedifferentiated	HDAC1	1.0	
+Stromal sarcoma	HDAC1	1.0	
+Neoplasm of the parathyroid gland	HDAC1	1.0	
+Right ventricular hypertrophy	HDAC1	1.0	
+Testicular malignant germ cell tumor	HDAC1	1.0	
+Leukoencephalopathy, Progressive Multifocal	HDAC1	1.0	
+Teratoma	HDAC1	1.0	
+Intrahepatic Cholangiocarcinoma	HDAC1	1.0	
+Amyotrophic lateral sclerosis type 1	HDAC1	1.0	
+Borderline Personality Disorder	HDAC1	1.0	
+Allergic rhinitis	HDAC1	1.0	
+Amyotrophy involving the shoulder musculature	HDAC1	1.0	
+Embryonal Carcinoma	HDAC1	1.0	
+Melanocytic nevus	HDAC1	1.0	
+Gallbladder Carcinoma	HDAC1	1.0	
+Metastatic Prostate Carcinoma	HDAC1	1.0	
+Carcinoma, Papillary	HDAC1	1.0	
+Bronchopulmonary Dysplasia	HDAC1	1.0	
+Hypergranular promyelocytic leukemia	HDAC1	1.0	
+Malignant tumor of testis	HDAC1	1.0	
+Fibrosarcoma	HDAC1	1.0	
+Cutaneous T-cell lymphoma	HDAC1	1.0	
+Memory impairment	HDAC1	1.0	
+Endometrial Neoplasms	HDAC1	1.0	
+polyps	HDAC1	1.0	
+Huntington's chorea	HDAC1	1.0	
+Pancreatic adenocarcinoma	HDAC1	1.0	
+Recurrent tumor	HDAC1	1.0	
+Cancer Cell Growth	HDAC1	1.0	
+Pulmonary hypertension, neonatal, susceptibility to	HDAC1	1.0	
+Metastatic melanoma	HDAC1	1.0	
+Hypoxia	HDAC1	1.0	
+Invasive breast carcinoma	HDAC1	1.0	
+Hereditary pancreatitis	HDAC1	1.0	
+Intrauterine growth retardation	HDAC1	1.0	
+Heart Diseases	HDAC1	1.0	
+Unipolar Depression	HDAC1	1.0	
+Acute promyelocytic leukemia	HDAC1	1.0	
+Tumor Angiogenesis	HDAC1	1.0	
+Precancerous Conditions	HDAC1	1.0	
+Hepatitis C, Chronic	HDAC1	1.0	
+Hepatocarcinogenesis	HDAC1	1.0	
+Retinoblastoma	HDAC1	1.0	
+Major depressive disorder	HDAC1	1.0	
+Combined Hepatocellular Carcinoma and Cholangiocarcinoma	HDAC1	1.0	

@@ -1,0 +1,42 @@
+node_name	node_type	
+DB01044	drug	
+CYP1A2	drug_target	
+ALB	drug_target	
+Adverse drug events and drug allergies	phenotype	
+Acute hepatic failure	phenotype	
+Chronic liver disease	phenotype	
+Polyglandular Type I Autoimmune Syndrome	phenotype	
+Pleural Neoplasms	phenotype	
+Malignant neoplasm of adrenal cortex	phenotype	
+Esophageal varix	phenotype	
+Urolithiasis	phenotype	
+Echinococcosis	phenotype	
+Lung Injury	phenotype	
+Proliferative retinopathy	phenotype	
+Isolated somatotropin deficiency	phenotype	
+Substance Use Disorders	phenotype	
+Dentatorubral pallidoluysian atrophy	phenotype	
+Angiokeratoma	phenotype	
+Isolated growth hormone deficiency type 1B	phenotype	
+ {Porphyria cutanea tarda, susceptibility to}, 176100 (3)	phenotype	
+Pericardial effusion	phenotype	
+Mumps	phenotype	
+Rhinitis, Allergic, Perennial	phenotype	
+Paranoid Schizophrenia	phenotype	
+Endemic Cretinism	phenotype	
+Hemangioblastoma	phenotype	
+Chronic schizophrenia	phenotype	
+Genomic Instability	phenotype	
+Mesangiocapillary glomerulonephritis, type II	phenotype	
+Nephrosclerosis	phenotype	
+Peripheral motor neuropathy	phenotype	
+End Stage Liver Disease	phenotype	
+Abnormal albumin level	phenotype	
+Bronchogenic Carcinoma	phenotype	
+Chemical Carcinogenesis	phenotype	
+Coronary artery aneurysm	phenotype	
+Hyperlipoproteinemia	phenotype	
+Hyperlipoproteinemia Type IIa	phenotype	
+Tubulointerstitial nephritis	phenotype	
+Single tumor	phenotype	
+Nephrotic Syndrome, Minimal Change	phenotype	

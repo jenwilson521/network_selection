@@ -1,0 +1,22 @@
+node_name	node_type	
+DB01048	drug	
+UGT1A1	drug_target	
+ADK	drug_target	
+ADH6	drug_target	
+Hepatitis D Infection	phenotype	
+Hyperbilirubinemia	phenotype	
+Cholelithiasis	phenotype	
+Febrile Neutropenia	phenotype	
+Hearing Loss, Partial	phenotype	
+Anemia, Sickle Cell	phenotype	
+Deafness, autosomal recessive 44	phenotype	
+Drug Allergy	phenotype	
+Leukopenia	phenotype	
+Influenza	phenotype	
+Abdominal pain	phenotype	
+Cholecystolithiasis	phenotype	
+Deficiency of glucose-6-phosphate dehydrogenase	phenotype	
+Neutropenia	phenotype	
+Mammographic breast density	phenotype	
+Diarrhea 8, secretory sodium, congenital	phenotype	
+Hepatic cancer metastatic	phenotype	

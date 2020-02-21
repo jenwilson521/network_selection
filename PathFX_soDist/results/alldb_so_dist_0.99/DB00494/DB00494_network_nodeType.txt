@@ -1,0 +1,5 @@
+node_name	node_type	
+DB00494	drug	
+COMT	drug_target	
+CYP2D6	drug_target	
+UGT1A9	drug_target	

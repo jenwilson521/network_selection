@@ -1,0 +1,12 @@
+node_name	node_type	
+DB00218	drug	
+CYP1A2	drug_target	
+TOP2A	drug_target	
+Lichen Planus, Oral	phenotype	
+Chronic liver disease	phenotype	
+Polyglandular Type I Autoimmune Syndrome	phenotype	
+Pleural Neoplasms	phenotype	
+Lung Injury	phenotype	
+Breast cancer recurrent	phenotype	
+Neoplasm of the thymus	phenotype	
+ {Porphyria cutanea tarda, susceptibility to}, 176100 (3)	phenotype	

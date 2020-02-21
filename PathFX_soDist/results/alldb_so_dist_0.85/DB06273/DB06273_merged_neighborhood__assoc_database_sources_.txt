@@ -1,0 +1,5 @@
+Gene	CUI	Source Databases	
+CYP3A4	C0011206	Cocaine delirium	DisGeNet	
+IL6R	C0011206	Cocaine delirium	DisGeNet	
+CYP3A4	C0002875	Cooley's anemia	DisGeNet	
+IL6R	C0002875	Cooley's anemia	DisGeNet	

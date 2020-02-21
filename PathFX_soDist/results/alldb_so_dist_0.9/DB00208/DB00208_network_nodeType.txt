@@ -1,0 +1,25 @@
+node_name	node_type	
+DB00208	drug	
+CYP2C9	drug_target	
+CYP2C8	drug_target	
+CYP1A2	drug_target	
+CYP2D6	drug_target	
+CYP1A1	drug_target	
+MPO	drug_target	
+CYP2B6	drug_target	
+CYP2E1	drug_target	
+CYP2C19	drug_target	
+P2RY12	drug_target	
+CYP3A4	drug_target	
+Pleural Neoplasms	phenotype	
+Neoplasm of the larynx	phenotype	
+Genomic Instability	phenotype	
+Neoplasms, Germ Cell and Embryonal	phenotype	
+Pharyngeal Neoplasms	phenotype	
+Chemical Carcinogenesis	phenotype	
+Drug Allergy	phenotype	
+Primary malignant neoplasm of liver	phenotype	
+Lichen Planus, Oral	phenotype	
+Hepatitis, Autoimmune	phenotype	
+Nausea	phenotype	
+Squamous Cell Neoplasms	phenotype	

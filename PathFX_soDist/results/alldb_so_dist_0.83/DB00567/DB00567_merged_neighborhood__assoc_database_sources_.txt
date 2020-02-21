@@ -1,0 +1,99 @@
+Gene	CUI	Source Databases	
+ALB	C4025650	Abnormality of lipid metabolism	HumPhenOnt	
+SLC22A5	C4025650	Abnormality of lipid metabolism	HumPhenOnt	
+SLC22A5	C0023223	Leg Ulcer	DisGeNet	
+SLC22A8	C0812435	Chromosome 11p deletion syndrome	DisGeNet	
+ALB	C0346402	Malignant neoplasm of adrenal cortex	DisGeNet	
+ALB	C0014867	Esophageal varix	DisGeNet	
+ALB	C0451641	Urolithiasis	DisGeNet	
+ALB	C0013502	Echinococcosis	DisGeNet	
+KRT9	C0079298	Epidermolysis bullosa simplex, Cockayne-Touraine type	DisGeNet	
+KRT9	C0240641	Palmar hyperkeratosis	HumPhenOnt	
+ALB	C0339467	Proliferative retinopathy	DisGeNet	
+KRT9	C0043037	Verrucae	HumPhenOnt	
+SLC22A5	C1306587	Acute encephalopathy	HumPhenOnt	
+ALB	C3714796	Isolated somatotropin deficiency	DisGeNet	
+ALB	C0038586	Substance Use Disorders	DisGeNet	
+SLC22A5	C0240479	Neck muscle weakness	HumPhenOnt	
+ALB	C0751781	Dentatorubral pallidoluysian atrophy	DisGeNet	
+ALB	C0002985	Angiokeratoma	DisGeNet	
+ALB	C0013338	Isolated growth hormone deficiency type 1B	DisGeNet	
+SLC22A5	C1141890	Congenital long QT syndrome	DisGeNet	
+KRT9	C1856954	Plantar hyperkeratosis	HumPhenOnt	
+ALB	C0031039	Pericardial effusion	DisGeNet	
+ALB	C0026780	Mumps	DisGeNet	
+ALB	C0035457	Rhinitis, Allergic, Perennial	DisGeNet	
+ALB	C0342200	Endemic Cretinism	DisGeNet	
+ALB	C0206734	Hemangioblastoma	DisGeNet	
+SLC22A5	C0220656	Malignant ascites	DisGeNet	
+ALB	C0022658	Kidney Diseases	DisGeNet	
+SLC22A8	C0022658	Kidney Diseases	DisGeNet	
+SLC47A1	C0022658	Kidney Diseases	DisGeNet	
+ALB	C0017662	Mesangiocapillary glomerulonephritis, type II	DisGeNet	
+SLC22A5	C0023794	Lipoidosis	DisGeNet	
+ALB	C0027719	Nephrosclerosis	DisGeNet	
+ALB	C0235025	Peripheral motor neuropathy	DisGeNet	
+ALB	C0745744	End Stage Liver Disease	DisGeNet	
+SLC22A5	C4021656	Abnormality of fatty-acid metabolism	HumPhenOnt	
+ALB	C0085584	Encephalopathy, acute, infection-induced, 4, susceptibility to	DisGeNet	
+SLC22A5	C0085584	Encephalopathy, acute, infection-induced, 4, susceptibility to	HumPhenOnt	
+SLC22A5	C0220994	Hyperammonemia	HumPhenOnt	
+ALB	C4023036	Abnormal albumin level	HumPhenOnt	
+ALB	C0022660	Acute kidney injury	DisGeNet	
+SLC22A8	C0022660	Acute kidney injury	DisGeNet	
+ALB	C0007121	Bronchogenic Carcinoma	DisGeNet	
+SLC22A5	C0009676	Confusion	HumPhenOnt	
+ALB	C0010051	Coronary artery aneurysm	DisGeNet	
+ALB	C0020476	Hyperlipoproteinemia	DisGeNet	
+ALB	C0745103	Hyperlipoproteinemia Type IIa	DisGeNet	
+ALB	C0027707	Tubulointerstitial nephritis	DisGeNet	
+SLC22A5	C0694563	Excessive daytime sleepiness	HumPhenOnt	
+ALB	C1298180	Single tumor	DisGeNet	
+ALB	C1704321	Nephrotic Syndrome, Minimal Change	DisGeNet	
+KRT9	C0037277	Skin Diseases, Genetic	DisGeNet	
+SLC22A5	C0741923	cardiac event	DisGeNet	
+SLC22A5	C4021662	Abnormality of the endocardium	HumPhenOnt	
+SLC22A5	C0037054	Sickle Cell Trait	DisGeNet	
+ALB	C0740380	Varicella zoster	DisGeNet	
+ALB	C1260959	Drusen	DisGeNet	
+KRT9	C0151669	Increased antibody level in blood	HumPhenOnt	
+ALB	C3714619	Insulin resistance syndrome	DisGeNet	
+KRT9	C4023595	Abnormality of cell physiology	HumPhenOnt	
+SLC22A5	C4023595	Abnormality of cell physiology	HumPhenOnt	
+SLC22A5	C0019045	Hemoglobinopathy	DisGeNet	
+SLC22A5	C0005859	Bloom syndrome	DisGeNet	
+ALB	C0027720	Nephrosis	DisGeNet	
+ALB	C0018378	Guillain-Barre syndrome, familial	DisGeNet	
+ALB	C0221002	Primary hyperparathyroidism	DisGeNet	
+ALB	C1096063	Drug Resistant Epilepsy	DisGeNet	
+SLC22A5	C0016169	pathologic fistula	DisGeNet	
+ALB	C0035242	Respiratory Tract Diseases	DisGeNet	
+ALB	C0086981	Sicca Syndrome	DisGeNet	
+ALB	C0239981	Hypoalbuminemia	DisGeNet,HumPhenOnt	
+ALB	C0238198	Gastrointestinal stromal tumor	DisGeNet	
+SLC22A5	C0238198	Gastrointestinal stromal tumor	DisGeNet	
+ALB	C0030286	Neurologic, endocrine, and pancreatic disease, multisystem, infantile-onset	DisGeNet	
+KRT9	C4020946	Abnormality of the plantar skin of foot	HumPhenOnt	
+SLC22A5	C4023601	Abnormality of the musculature of the neck	HumPhenOnt	
+ALB	C0010308	Congenital hypothyroidism	DisGeNet	
+ALB	C0041755	Adverse drug events and drug allergies	DisGeNet	
+SLC22A5	C0039070	Syncope	DisGeNet	
+ALB	C0019061	Hemolytic uremic syndrome	DisGeNet	
+SLC22A5	C0520966	Incoordination	HumPhenOnt	
+ALB	C0028797	Occupational Diseases	DisGeNet	
+ALB	C0730345	Microalbuminuria	DisGeNet	
+ALB	C0008031	Chest pain	DisGeNet	
+ALB	C0042749	 {HIV-1 viremia, susceptibility to}, 609423 (3)	DisGeNet	
+ALB	C0242488	Acute Lung Injury	DisGeNet	
+SLC22A5	C4025336	Abnormality of nitrogen compound homeostasis	HumPhenOnt	
+SLC22A5	C0242528	Azotemia	HumPhenOnt	
+ALB	C0342257	Complications of Diabetes Mellitus	DisGeNet	
+SLC22A5	C0013720	Ehlers-Danlos syndrome, type vii, autosomal recessive	DisGeNet	
+ALB	C0034063	Pulmonary edema	DisGeNet	
+ALB	C0038325	Stevens-Johnson Syndrome	DisGeNet	
+ALB	C0015695	Hepatic steatosis	DisGeNet	
+SLC22A5	C0015695	Hepatic steatosis	HumPhenOnt	
+ALB	C0024291	Lymphohistiocytosis, Hemophagocytic	DisGeNet	
+SLC22A5	C0018273	Growth Disorders	DisGeNet	
+ALB	C0021079	IMMUNE SUPPRESSION	DisGeNet	
+ALB	C0011269	Dementia, Vascular	DisGeNet	

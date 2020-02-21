@@ -1,0 +1,16 @@
+Gene	CUI	Source Databases	
+BDKRB2	C0020428	Hyperaldosteronism, familial, type IV	DisGeNet	
+BDKRB2	C2911645	Weight Loss Adverse Event	DisGeNet	
+BDKRB2	C0032231	Pleuritis	DisGeNet	
+BDKRB2	C0019061	Hemolytic uremic syndrome	DisGeNet	
+BDKRB2	C0019080	Bleeding with minor or no trauma	DisGeNet	
+BDKRB2	C0149940	Sciatic Neuropathy	DisGeNet	
+BDKRB2	C1868649	Panic disorder 1	DisGeNet	
+BDKRB2	C0028768	Obsessive-compulsive disorder	DisGeNet	
+BDKRB2	C0010200	Cough	DisGeNet	
+BDKRB2	C0020541	Portal hypertension, noncirrhotic	DisGeNet	
+BDKRB2	C0030319	Panic disorder syndrome 1 (2)	DisGeNet	
+BDKRB2	C0018099	Gout	PheGenI	
+BDKRB2	C0038358	Gastric ulcer	DisGeNet	
+BDKRB2	C0020649	Hypotension	DisGeNet	
+BDKRB2	C0040053	Thrombosis	DisGeNet	

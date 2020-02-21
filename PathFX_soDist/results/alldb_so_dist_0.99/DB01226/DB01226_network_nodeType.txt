@@ -1,0 +1,6 @@
+node_name	node_type	
+DB01226	drug	
+CHRM3	drug_target	
+BCHE	drug_target	
+CHRM2	drug_target	
+CHRNA2	drug_target	

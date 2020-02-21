@@ -1,0 +1,139 @@
+node1	node2	edge_score	
+DB01161	SLC6A3	1.0	
+DB01161	GRIN3A	1.0	
+DB01161	BCHE	1.0	
+DB01161	SCN10A	1.0	
+DB01161	HTR3A	1.0	
+BCHE	rs28933389	0.99
+BCHE	rs1799807	0.99
+SLC6A3		1.0
+BCHE	rs1803274	0.99
+BCHE		1.0
+BCHE	rs28933390	0.99
+HTR3A		1.0
+SCN10A		1.0
+HTR3A	rs2276302	0.99
+HTR3A	rs1062613	0.99
+HTR3A	rs1150226	0.99
+GRIN3A		1.0
+Weight Gain Adverse Event	BCHE	1.0	
+Weight Gain Adverse Event	GRIN3A	1.0	
+Weight Gain Adverse Event	HTR3A	1.0	
+Weight Gain Adverse Event	SLC6A3	1.0	
+Nicotine Dependence	GRIN3A	1.0	
+Nicotine Dependence	HTR3A	1.0	
+Nicotine Dependence	SLC6A3	1.0	
+Cocaine delirium	GRIN3A	1.0	
+Cocaine delirium	SLC6A3	1.0	
+Bulimia nervosa 1	HTR3A	1.0	
+Bulimia nervosa 1	SLC6A3	1.0	
+Aural atresia, congenital	BCHE	1.0	
+Aural atresia, congenital	GRIN3A	1.0	
+Dyspepsia	HTR3A	1.0	
+Dyspepsia	SCN10A	1.0	
+Cocaine Dependence	BCHE	1.0	
+Cocaine Dependence	SLC6A3	1.0	
+Increased body weight	BCHE	1.0	
+Increased body weight	GRIN3A	1.0	
+Increased body weight	HTR3A	1.0	
+Increased body weight	SLC6A3	1.0	
+As If Personality	HTR3A	1.0	
+As If Personality	SLC6A3	1.0	
+Heroin Dependence	HTR3A	1.0	
+Heroin Dependence	SLC6A3	1.0	
+Osteochondritis dissecans	HTR3A	1.0	
+Osteochondritis dissecans	SLC6A3	1.0	
+MAJOR AFFECTIVE DISORDER 4	HTR3A	1.0	
+MAJOR AFFECTIVE DISORDER 4	SLC6A3	1.0	
+MAJOR AFFECTIVE DISORDER 5	HTR3A	1.0	
+MAJOR AFFECTIVE DISORDER 5	SLC6A3	1.0	
+MAJOR AFFECTIVE DISORDER 6	HTR3A	1.0	
+MAJOR AFFECTIVE DISORDER 6	SLC6A3	1.0	
+Major affective disorder 7	HTR3A	1.0	
+Major affective disorder 7	SLC6A3	1.0	
+MAJOR AFFECTIVE DISORDER 8	HTR3A	1.0	
+MAJOR AFFECTIVE DISORDER 8	SLC6A3	1.0	
+MAJOR AFFECTIVE DISORDER 9	HTR3A	1.0	
+MAJOR AFFECTIVE DISORDER 9	SLC6A3	1.0	
+Eating disorder	HTR3A	1.0	
+Eating disorder	SLC6A3	1.0	
+Amphetamine-Related Disorders	HTR3A	1.0	
+Amphetamine-Related Disorders	SLC6A3	1.0	
+Obsessive-compulsive disorder	HTR3A	1.0	
+Obsessive-compulsive disorder	SLC6A3	1.0	
+Methamphetamine abuse	BCHE	1.0	
+Methamphetamine abuse	SLC6A3	1.0	
+Anorexia nervosa 1	HTR3A	1.0	
+Anorexia nervosa 1	SLC6A3	1.0	
+Cocaine-Related Disorders	BCHE	1.0	
+Cocaine-Related Disorders	SLC6A3	1.0	
+Impotence	GRIN3A	1.0	
+Impotence	SLC6A3	1.0	
+Adult onset ataxia with oculomotor apraxia	BCHE	1.0	
+Adult onset ataxia with oculomotor apraxia	SCN10A	1.0	
+Tourette Syndrome	HTR3A	1.0	
+Tourette Syndrome	SLC6A3	1.0	
+Lewy Body Disease	BCHE	1.0	
+Lewy Body Disease	SLC6A3	1.0	
+Pigmentary pallidal degeneration	SLC6A3	1.0	
+Spinocerebellar ataxia 2	SLC6A3	1.0	
+Behavior Disorders	SLC6A3	1.0	
+Bulimia	SLC6A3	1.0	
+Paranoia	SLC6A3	1.0	
+Delayed gross motor development	SLC6A3	1.0	
+Generalized anxiety disorder	SLC6A3	1.0	
+Substance Use Disorders	SLC6A3	1.0	
+Alcohol withdrawal syndrome	SLC6A3	1.0	
+Motor symptoms	SLC6A3	1.0	
+Enzyme inhibition disorder	BCHE	1.0	
+ {Nicotine dependence, protection against}, 188890 (3)	SLC6A3	1.0	
+Antisocial Personality Disorder	SLC6A3	1.0	
+childhood brain tumor	BCHE	1.0	
+Ataxic	SLC6A3	1.0	
+heavy drinking	HTR3A	1.0	
+Churg-Strauss Syndrome	BCHE	1.0	
+Chronic schizophrenia	SLC6A3	1.0	
+Hyperactivity	BCHE	1.0	
+Hyperactivity	SLC6A3	1.0	
+Morphological abnormality of the pyramidal tract	SLC6A3	1.0	
+Neurotoxicity Syndromes	BCHE	1.0	
+Opiate Addiction	HTR3A	1.0	
+Constipation	SCN10A	1.0	
+Constipation	SLC6A3	1.0	
+Confusion	GRIN3A	1.0	
+Gestational trophoblastic disease	BCHE	1.0	
+Coronary artery aneurysm	GRIN3A	1.0	
+Chronic pain	SCN10A	1.0	
+Antisocial/borderline personality disorder	SLC6A3	1.0	
+Substance abuse problem	SLC6A3	1.0	
+Drug usage	SLC6A3	1.0	
+Manic	SLC6A3	1.0	
+Chronic Fatigue Syndrome	HTR3A	1.0	
+Conduct Disorder	SLC6A3	1.0	
+Bradykinesia	SLC6A3	1.0	
+Varicella zoster	SCN10A	1.0	
+Fibromyalgia	SLC6A3	1.0	
+Malignant hyperthermia susceptibility	BCHE	1.0	
+Ventricular fibrillation	SCN10A	1.0	
+Cerebral Amyloid Angiopathy	BCHE	1.0	
+Leptospirosis	BCHE	1.0	
+Prenatal Exposure Delayed Effects	SLC6A3	1.0	
+Nausea	HTR3A	1.0	
+Refractory anemia	BCHE	1.0	
+Refractory anaemia with excess blasts	BCHE	1.0	
+Memory Disorders	SLC6A3	1.0	
+Brugada Syndrome	SCN10A	1.0	
+Autoimmune lymphoproliferative syndrome, type 2	SLC6A3	1.0	
+Channelopathies	SCN10A	1.0	
+Dementia familial British	BCHE	1.0	
+Dementia familial British	SLC6A3	1.0	
+Adverse drug events and drug allergies	BCHE	1.0	
+CNS symptom	SLC6A3	1.0	
+Memory Loss	BCHE	1.0	
+Congenital myasthenic syndrome	BCHE	1.0	
+Cognition Disorders	BCHE	1.0	
+Hydatidiform mole, recurrent, 1, 231090 (3)	BCHE	1.0	
+Stress, Psychological	HTR3A	1.0	
+Refractory cancer	HTR3A	1.0	
+Tardive Dyskinesia	SLC6A3	1.0	
+Bipolar I disorder	SLC6A3	1.0	

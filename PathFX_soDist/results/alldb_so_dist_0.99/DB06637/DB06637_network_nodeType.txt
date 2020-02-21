@@ -1,0 +1,15 @@
+node_name	node_type	
+DB06637	drug	
+KCND3	drug_target	
+KCND2	drug_target	
+KCNC1	drug_target	
+KCNB1	drug_target	
+CYP2E1	drug_target	
+SLC22A2	drug_target	
+KCNA10	drug_target	
+KCNB2	drug_target	
+KCNA4	drug_target	
+KCNA5	drug_target	
+KCNA2	drug_target	
+KCNA3	drug_target	
+KCNA1	drug_target	

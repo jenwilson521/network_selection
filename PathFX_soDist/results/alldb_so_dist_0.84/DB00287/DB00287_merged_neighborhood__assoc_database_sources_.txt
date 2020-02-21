@@ -1,0 +1,22 @@
+Gene	CUI	Source Databases	
+PTGFR	C0001418	 Adenocarcinoma, ovarian, somatic, 167000 (3)	DisGeNet	
+PTGFR	C0001883	Airway Obstruction	DisGeNet	
+PTGFR	C0002395	Alzheimer Disease	DisGeNet	
+PTGFR	C0009450	Verotoxigenic Escherichia coli gastrointestinal tract infection	DisGeNet	
+PTGFR	C0009782	Connective Tissue Diseases	DisGeNet	
+PTGFR	C0014175	Endometriosis	DisGeNet	
+PTGFR	C0015929	Fetal Diseases	DisGeNet	
+PTGFR	C0017601	Glaucoma, Angle-Closure	DisGeNet	
+PTGFR	C0017612	Glaucoma, Open-Angle	DisGeNet	
+PTGFR	C0021368	Inflammation	DisGeNet	
+PTGFR	C0026857	Musculoskeletal Diseases	DisGeNet	
+PTGFR	C0028840	Ocular Hypertension	DisGeNet	
+PTGFR	C0032964	Pregnancy Complications, Hematologic	DisGeNet	
+PTGFR	C0034069	Pulmonary fibrosis and/or bone marrow failure, telomere-related, 4	DisGeNet	
+PTGFR	C0037274	Dermatosis NOS	DisGeNet	
+PTGFR	C0040336	Tobacco Use Disorder	DisGeNet	
+PTGFR	C0085580	Essential hypertension	DisGeNet	
+PTGFR	C0151526	Premature Birth	DisGeNet	
+PTGFR	C0339573	Primary open angle glaucoma juvenile onset 1	DisGeNet	
+PTGFR	C0595921	Intraocular pressure disorder	DisGeNet	
+PTGFR	C1800706	Idiopathic Pulmonary Fibrosis	DisGeNet	

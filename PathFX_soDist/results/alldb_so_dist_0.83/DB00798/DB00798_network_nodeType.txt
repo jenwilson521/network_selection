@@ -1,0 +1,20 @@
+node_name	node_type	
+DB00798	drug	
+LRP2	drug_target	
+DHFR	drug_target	
+SLC22A6	drug_target	
+Inborn Errors of Metabolism	phenotype	
+Megaloblastic anemia, thiamine-responsive, with diabetes mellitus and sensorineural deafness	phenotype	
+Hypoplasia of the iris	phenotype	
+Metabolic Bone Disorder	phenotype	
+Malaria, Vivax	phenotype	
+Familial Alzheimer Disease (FAD)	phenotype	
+Asymptomatic Infections	phenotype	
+Congenital central hypoventilation	phenotype	
+Myelosuppression	phenotype	
+Osteomalacia	phenotype	
+Folic Acid Deficiency	phenotype	
+Xeroderma pigmentosum, group A	phenotype	
+Bicornuate uterus	phenotype	
+Rickets	phenotype	
+Dialeptic seizures	phenotype	

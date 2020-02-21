@@ -1,0 +1,9 @@
+node_name	node_type	
+DB00213	drug	
+ABCG2	drug_target	
+ATP4A	drug_target	
+ABCB1	drug_target	
+CYP2C19	drug_target	
+CYP3A4	drug_target	
+SLC22A8	drug_target	
+DDAH1	drug_target	

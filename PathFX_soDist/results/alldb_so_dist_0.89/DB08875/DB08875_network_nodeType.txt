@@ -1,0 +1,11 @@
+node_name	node_type	
+DB08875	drug	
+CYP2C9	drug_target	
+CYP2C8	drug_target	
+RET	drug_target	
+MET	drug_target	
+CYP3A4	drug_target	
+KDR	drug_target	
+Bone necrosis	phenotype	
+Pharyngeal Neoplasms	phenotype	
+Drug Allergy	phenotype	

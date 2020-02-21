@@ -1,0 +1,80 @@
+node_name	node_type	
+DB00241	drug	
+GRIA2	drug_target	
+GRIK2	drug_target	
+CHRNA4	drug_target	
+CHRNA7	drug_target	
+GABRA4	drug_target	
+GABRA6	drug_target	
+GABRA1	drug_target	
+GABRA3	drug_target	
+GABRA2	drug_target	
+Idiopathic generalized epilepsy	phenotype	
+Juvenile myoclonic epilepsy	phenotype	
+Focal seizures	phenotype	
+Epilepsy	phenotype	
+NEUROTICISM	phenotype	
+Epilepsy, generalized, with febrile seizures plus, type 6 (2)	phenotype	
+Incomplete penetrance	phenotype	
+Febrile seizures, familial, 4	phenotype	
+Autism 15	phenotype	
+Alcohol abuse	phenotype	
+Marijuana Abuse	phenotype	
+SUDDEN INFANT DEATH SYNDROME	phenotype	
+Liver Cirrhosis, Alcoholic	phenotype	
+Methamphetamine abuse	phenotype	
+Nicotine Dependence	phenotype	
+Lewy Body Disease	phenotype	
+Abdominal obesity	phenotype	
+Mild cognitive impairment	phenotype	
+Major depressive disorder	phenotype	
+Weight Gain Adverse Event	phenotype	
+Cycloid psychosis	phenotype	
+Adrenal Gland Hyperfunction	phenotype	
+Alcohol dependence	phenotype	
+Severe myoclonic epilepsy in infancy	phenotype	
+Unverricht-Lundborg syndrome	phenotype	
+Cushing's syndrome	phenotype	
+Hepatic encephalopathy	phenotype	
+heavy drinking	phenotype	
+Memory impairment	phenotype	
+Personality disorder	phenotype	
+Neurobehavioral Manifestations	phenotype	
+Dialeptic seizures	phenotype	
+Bipolar affective disorder	phenotype	
+Myelomeningocele	phenotype	
+Chronic pain	phenotype	
+Mild Mental Retardation	phenotype	
+Dementia familial British	phenotype	
+Pemphigus	phenotype	
+Prenatal Exposure Delayed Effects	phenotype	
+Pain insensitivity	phenotype	
+Psychotic Disorders	phenotype	
+Epilepsy, focal, with speech disorder and with or without mental retardation	phenotype	
+Chromosome Xq28 deletion syndrome	phenotype	
+Memory Disorders	phenotype	
+Hypoalbuminemia	phenotype	
+Schizophrenia	phenotype	
+Channelopathies	phenotype	
+Generalized myoclonic seizures	phenotype	
+Congenital myasthenic syndrome	phenotype	
+As If Personality	phenotype	
+Cognition Disorders	phenotype	
+Stress, Psychological	phenotype	
+Essential tremor	phenotype	
+Synophrys	phenotype	
+Psychoses, Substance-Induced	phenotype	
+Shprintzen syndrome	phenotype	
+Action tremor	phenotype	
+Anxiety Disorders	phenotype	
+Language impairment	phenotype	
+Facial hypertrichosis	phenotype	
+Cutaneous photosensitivity	phenotype	
+Amyotrophic Lateral Sclerosis, Sporadic	phenotype	
+Substance Withdrawal Syndrome	phenotype	
+Phenotypic variability	phenotype	
+Absence seizures	phenotype	
+Schizoaffective Disorder	phenotype	
+Mental disorders	phenotype	
+Dementia, Vascular	phenotype	
+Specific learning disability	phenotype	

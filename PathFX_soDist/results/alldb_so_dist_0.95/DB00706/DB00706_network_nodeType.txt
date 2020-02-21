@@ -1,0 +1,12 @@
+node_name	node_type	
+DB00706	drug	
+ADRA1A	drug_target	
+ADRA1B	drug_target	
+ADRA1D	drug_target	
+CYP2D6	drug_target	
+CYP3A4	drug_target	
+ORM1	drug_target	
+Congenital long QT syndrome	phenotype	
+Chronic schizophrenia	phenotype	
+Acute postoperative pain	phenotype	
+Primary malignant neoplasm of liver	phenotype	

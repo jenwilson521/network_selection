@@ -1,0 +1,31 @@
+node_name	node_type	
+DB00472	drug	
+CYP2C9	drug_target	
+CYP1A2	drug_target	
+HTR2C	drug_target	
+CYP2D6	drug_target	
+SLC6A4	drug_target	
+CYP2B6	drug_target	
+KCNH2	drug_target	
+ALB	drug_target	
+CHRNB4	drug_target	
+CKS1B	drug_target	
+ABCB1	drug_target	
+CYP2C19	drug_target	
+CHRNA2	drug_target	
+CHRNA3	drug_target	
+CYP3A4	drug_target	
+CYP3A5	drug_target	
+ORM1	drug_target	
+Primary malignant neoplasm of liver	phenotype	
+Tardive Dyskinesia	phenotype	
+Orofacial dyskinesia	phenotype	
+Nausea	phenotype	
+Adverse drug events and drug allergies	phenotype	
+Methamphetamine abuse	phenotype	
+Drug Allergy	phenotype	
+Substance Withdrawal Syndrome	phenotype	
+Chronic schizophrenia	phenotype	
+Acute postoperative pain	phenotype	
+Neoplasms, Germ Cell and Embryonal	phenotype	
+Neurotoxicity Syndromes	phenotype	

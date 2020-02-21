@@ -1,0 +1,242 @@
+node1	node2	edge_score	
+DB00775	ITGA2B	1.0	
+DB00775	ITGB3	1.0	
+ITGB3		1.0
+Spontaneous abortion	ITGB3	1.0	
+Recurrent abortion	ITGB3	1.0	
+ Adenocarcinoma, ovarian, somatic, 167000 (3)	ITGB3	1.0	
+Albuminuria	ITGB3	1.0	
+Amyotrophic Lateral Sclerosis	ITGB3	1.0	
+Anemia	ITGB3	1.0	
+Aplastic anemia	ITGB3	1.0	
+Anemia, Sickle Cell	ITGB3	1.0	
+Angina pectoris	ITGB3	1.0	
+Angina, Unstable	ITGB3	1.0	
+Hypoxia	ITGB3	1.0	
+Arterial Occlusive Diseases	ITGB3	1.0	
+Arteriosclerosis	ITGB3	1.0	
+Arthritis, Rheumatoid	ITGB3	1.0	
+Rheumatoid arthritis	ITGB3	1.0	
+Asthma	ITGB3	1.0	
+Atherosclerosis	ITGB3	1.0	
+Atrial Fibrillation	ITGB3	1.0	
+Autism 15	ITGB3	1.0	
+Pneumonia, Bacterial	ITGB3	1.0	
+Mental disorders	ITGB3	1.0	
+Behcet Syndrome	ITGB3	1.0	
+beta Thalassemia	ITGB3	1.0	
+Platelet-type bleeding disorder 15	ITGB3	1.0	
+Breast-ovarian cancer, familial 1	ITGB3	1.0	
+Non-small cell lung carcinoma	ITGB3	1.0	
+Squamous cell carcinoma	ITGB3	1.0	
+Cardiovascular Diseases	ITGB3	1.0	
+Carotid Artery Diseases	ITGB3	1.0	
+Carotid Stenosis	ITGB3	1.0	
+Intracranial Aneurysm	ITGB3	1.0	
+Brain Ischemia	ITGB3	1.0	
+Transient ischemic attack	ITGB3	1.0	
+Cerebral palsy, spastic quadriplegic, 3	ITGB3	1.0	
+ Cerebrovascular disease, occlusive (3)	ITGB3	1.0	
+Child Development Disorders, Pervasive	ITGB3	1.0	
+Chondrosarcoma	ITGB3	1.0	
+Chorioamnionitis	ITGB3	1.0	
+Cleft Lip	ITGB3	1.0	
+Colorectal cancer 1	ITGB3	1.0	
+Colorectal Neoplasms	ITGB3	1.0	
+Verotoxigenic Escherichia coli gastrointestinal tract infection	ITGB3	1.0	
+Confusion	ITGB3	1.0	
+Bruising susceptibility	ITGB3	1.0	
+Coronary heart disease 7	ITGB3	1.0	
+Coronary Thrombosis	ITGB3	1.0	
+Crohn Disease	ITGB3	1.0	
+Diabetes Mellitus, Type 1	ITGB3	1.0	
+Diabetes mellitus type 1	ITGB3	1.0	
+Diabetes mellitus type 2	ITGB3	1.0	
+Diabetic Nephropathies	ITGB3	1.0	
+Diabetic Retinopathy	ITGB3	1.0	
+Bacterial endocarditis	ITGB3	1.0	
+Endometriosis	ITGB3	1.0	
+Epistaxis	ITGB3	1.0	
+Fetal Membranes, Premature Rupture	ITGB3	1.0	
+Malignant hyperthermia susceptibility type 5	ITGB3	1.0	
+Gastrointestinal hemorrhage	ITGB3	1.0	
+Gingival bleeding	ITGB3	1.0	
+Glioma	ITGB3	1.0	
+Gliosis	ITGB3	1.0	
+Glomerulonephritis, Membranous	ITGB3	1.0	
+Sensorineural hearing impairment	ITGB3	1.0	
+Heart Diseases	ITGB3	1.0	
+Atrial septal defect	ITGB3	1.0	
+Hemolytic uremic syndrome	ITGB3	1.0	
+Bleeding with minor or no trauma	ITGB3	1.0	
+Hemorrhagic disorder due to intrinsic circulating anticoagulants	ITGB3	1.0	
+Severe Dengue	ITGB3	1.0	
+Hemorrhagic Fever with Renal Syndrome	ITGB3	1.0	
+Hepatitis C	ITGB3	1.0	
+Symptomatic human immunodeficiency virus infection	ITGB3	1.0	
+Hodgkin Disease	ITGB3	1.0	
+Familial hypercholesterolemia	ITGB3	1.0	
+Hyperlipidemia, combined, 1	ITGB3	1.0	
+Hypersensitivity	ITGB3	1.0	
+Hypertension	ITGB3	1.0	
+Female infertility	ITGB3	1.0	
+Inflammation	ITGB3	1.0	
+Inflammatory Bowel Diseases	ITGB3	1.0	
+Intermittent claudication	ITGB3	1.0	
+Kidney Diseases	ITGB3	1.0	
+Kidney Failure, Chronic	ITGB3	1.0	
+Premature Obstetric Labor	ITGB3	1.0	
+Leukemia, Lymphocytic, Chronic, B-Cell	ITGB3	1.0	
+Chronic myeloid leukemia	ITGB3	1.0	
+Lung Neoplasms	ITGB3	1.0	
+Lupus Erythematosus, Systemic	ITGB3	1.0	
+Non-Hodgkin lymphoma	ITGB3	1.0	
+Lymphoproliferative disorder	ITGB3	1.0	
+Animal Mammary Neoplasms	ITGB3	1.0	
+Mammary Neoplasms, Experimental	ITGB3	1.0	
+Melanoma	ITGB3	1.0	
+Mitral stenosis	ITGB3	1.0	
+Abnormality of the mouth	ITGB3	1.0	
+Neoplasm of the oral cavity	ITGB3	1.0	
+Multiple Myeloma	ITGB3	1.0	
+Myocardial Infarction	ITGB3	1.0	
+Secondary hypertriglyceridemia	ITGB3	1.0	
+Obesity	ITGB3	1.0	
+Optic neuritis	ITGB3	1.0	
+{Pemphigoid, susceptibility to} (2)	ITGB3	1.0	
+Peptic ulcer	ITGB3	1.0	
+Peripheral neuropathy, myopathy, hoarseness, and hearing loss	ITGB3	1.0	
+Polycystic Ovary Syndrome	ITGB3	1.0	
+Preeclampsia/eclampsia 1	ITGB3	1.0	
+Pregnancy Complications, Hematologic	ITGB3	1.0	
+Prostatic Neoplasms	ITGB3	1.0	
+Puberty and gonadal disorders	ITGB3	1.0	
+Purpura	ITGB3	1.0	
+Reperfusion Injury	ITGB3	1.0	
+Thrombosis of retinal vein	ITGB3	1.0	
+Kaposi's sarcoma	ITGB3	1.0	
+Schizophrenia	ITGB3	1.0	
+Scleroderma	ITGB3	1.0	
+Abnormality of the skin	ITGB3	1.0	
+Stroke	ITGB3	1.0	
+Subarachnoid hemorrhage	ITGB3	1.0	
+Takayasu Arteritis	ITGB3	1.0	
+Giant cell arteritis	ITGB3	1.0	
+Glanzmann thrombasthenia	ITGB3	1.0	
+Essential thrombocythemia	ITGB3	1.0	
+Thrombocytopenia, platelet dysfunction, hemolysis, and imbalanced globin synthesis	ITGB3	1.0	
+Thromboembolism	ITGB3	1.0	
+Thrombosis	ITGB3	1.0	
+Tobacco Use Disorder	ITGB3	1.0	
+Abnormality of the genitourinary system	ITGB3	1.0	
+Varicose Veins	ITGB3	1.0	
+Vascular Diseases	ITGB3	1.0	
+Virilism	ITGB3	1.0	
+Von Willebrand disease, recessive form	ITGB3	1.0	
+Wiskott-Aldrich syndrome, 301000 (3)	ITGB3	1.0	
+Helicobacter Infections	ITGB3	1.0	
+B-cell lymphoma	ITGB3	1.0	
+Lymphoma, Large-Cell, Follicular	ITGB3	1.0	
+Peripheral Arterial Disease	ITGB3	1.0	
+Severe combined immunodeficiency due to ADA deficiency	ITGB3	1.0	
+Primary antiphospholipid syndrome	ITGB3	1.0	
+Sudden cardiac death	ITGB3	1.0	
+Deep venous thrombosis	ITGB3	1.0	
+Migraine Disorders	ITGB3	1.0	
+Premature Birth	ITGB3	1.0	
+Intracranial hemorrhage	ITGB3	1.0	
+Acute myocardial ischemia	ITGB3	1.0	
+Abnormality of thrombocytes	ITGB3	1.0	
+Deep thrombophlebitis	ITGB3	1.0	
+Adenocarcinoma of lung	ITGB3	1.0	
+Acute myocardial infarction	ITGB3	1.0	
+Old myocardial infarction	ITGB3	1.0	
+Aortic atherosclerosis	ITGB3	1.0	
+Menstrual irregularities	ITGB3	1.0	
+Pregnancy loss	ITGB3	1.0	
+Vascular skin abnormality	ITGB3	1.0	
+Aneurysm, Ruptured	ITGB3	1.0	
+Ventricular Fibrillation Adverse Event	ITGB3	1.0	
+Abnormality of blood and blood-forming tissues	ITGB3	1.0	
+Coronary artery stenosis	ITGB3	1.0	
+Dyslipidemias	ITGB3	1.0	
+Malignant neoplasm of lung	ITGB3	1.0	
+Age-related macular degeneration 2	ITGB3	1.0	
+Autoimmune thrombocytopenia	ITGB3	1.0	
+Abnormality of cardiovascular system electrophysiology	ITGB3	1.0	
+Abnormality of the nose	ITGB3	1.0	
+Abnormality of the digestive system	ITGB3	1.0	
+Acute Undifferentiated Leukemia	ITGB3	1.0	
+Restenosis	ITGB3	1.0	
+Internal hemorrhage	ITGB3	1.0	
+Cognitive Dysfunction	ITGB3	1.0	
+Complications of Diabetes Mellitus	ITGB3	1.0	
+Malignant tumor of prostate	ITGB3	1.0	
+Endotoxemia	ITGB3	1.0	
+Abnormality of erythrocytes	ITGB3	1.0	
+Thrombophilia	ITGB3	1.0	
+Idiopathic thrombocytopenic purpura	ITGB3	1.0	
+Prolonged bleeding time	ITGB3	1.0	
+Autosomal recessive inheritance	ITGB3	1.0	
+Autosomal dominant non-syndromic sensorineural deafness type DFNA	ITGB3	1.0	
+Abnormality of the nervous system	ITGB3	1.0	
+Brain Hemorrhage, Traumatic	ITGB3	1.0	
+Abnormal platelet count	ITGB3	1.0	
+Osteosarcoma	ITGB3	1.0	
+Carcinogenesis	ITGB3	1.0	
+Hereditary hyperhomocysteinemia	ITGB3	1.0	
+Leukemogenesis	ITGB3	1.0	
+Tumor Initiation	ITGB3	1.0	
+Ovarian epithelial cancer	ITGB3	1.0	
+Breast carcinoma	ITGB3	1.0	
+Lung cancer	ITGB3	1.0	
+Malignant neoplasm of kidney	ITGB3	1.0	
+cardiac event	ITGB3	1.0	
+Abnormality of the genital system	ITGB3	1.0	
+Thrombocytosis, benign familial microcytic	ITGB3	1.0	
+Subcutaneous hemorrhage	ITGB3	1.0	
+Abnormality of head or neck	ITGB3	1.0	
+Abnormal platelet function	ITGB3	1.0	
+latent infection	ITGB3	1.0	
+Ovarian Neoplasms	ITGB3	1.0	
+Ischemic stroke	ITGB3	1.0	
+Acute Coronary Syndrome	ITGB3	1.0	
+BREAST-OVARIAN CANCER, FAMILIAL, SUSCEPTIBILITY TO, 4	ITGB3	1.0	
+Systemic arterial pressure	ITGB3	1.0	
+Undifferentiated leukemia	ITGB3	1.0	
+Abnormal bleeding	ITGB3	1.0	
+Autism spectrum disorders	ITGB3	1.0	
+Colorectal cancer	ITGB3	1.0	
+Fibrinogen Adverse Event	ITGB3	1.0	
+Spiegler-Brooke syndrome	ITGB3	1.0	
+Venous Thromboembolism	ITGB3	1.0	
+Coronary Artery Disease	ITGB3	1.0	
+Cerebral Hemorrhage	ITGB3	1.0	
+Secondary malignant neoplasm of pancreas	ITGB3	1.0	
+Ischemic Cerebrovascular Accident	ITGB3	1.0	
+Myelodysplastic syndrome	ITGB3	1.0	
+Triple Negative Breast Neoplasms	ITGB3	1.0	
+Allergic disposition	ITGB3	1.0	
+Abnormality of brain morphology	ITGB3	1.0	
+Abnormal genital system morphology	ITGB3	1.0	
+Generalized abnormality of skin	ITGB3	1.0	
+Morphological abnormality of the central nervous system	ITGB3	1.0	
+Abnormality of the head	ITGB3	1.0	
+Abnormality of the gingiva	ITGB3	1.0	
+Abnormality of the cerebral vasculature	ITGB3	1.0	
+Functional abnormality of the gastrointestinal tract	ITGB3	1.0	
+Abnormality of nervous system morphology	ITGB3	1.0	
+Abnormality of oral mucosa	ITGB3	1.0	
+Abnormality of skin morphology	ITGB3	1.0	
+Abnormality of blood circulation	ITGB3	1.0	
+Abnormality of cardiovascular system physiology	ITGB3	1.0	
+Abnormality of the gastrointestinal tract	ITGB3	1.0	
+Abnormality of the female genitalia	ITGB3	1.0	
+Abnormality of the integument	ITGB3	1.0	
+Abnormality of the endocrine system	ITGB3	1.0	
+Abnormal internal genitalia	ITGB3	1.0	
+Abnormality of the face	ITGB3	1.0	
+Abnormality of the oral cavity	ITGB3	1.0	
+Abnormality of the menstrual cycle	ITGB3	1.0	
+Abnormality of female internal genitalia	ITGB3	1.0	
+Abnormality of digestive system physiology	ITGB3	1.0	

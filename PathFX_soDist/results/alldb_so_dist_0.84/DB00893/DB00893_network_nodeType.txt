@@ -1,0 +1,255 @@
+node_name	node_type	
+DB00893	drug	
+TF	drug_target	
+FTH1	drug_target	
+FTL	drug_target	
+HBA2	drug_target	
+HBB	drug_target	
+Anemia	phenotype	
+Breast-ovarian cancer, familial 1	phenotype	
+Cystic Fibrosis	phenotype	
+Diabetes Mellitus, Type 1	phenotype	
+Echinococcosis	phenotype	
+Hemochromatosis	phenotype	
+Hypothyroidism	phenotype	
+Inflammation	phenotype	
+Liver Cirrhosis, Biliary	phenotype	
+Neoplasm of the liver	phenotype	
+Secondary hypertriglyceridemia	phenotype	
+Stroke	phenotype	
+Thyroid Diseases	phenotype	
+Thyroid Neoplasms	phenotype	
+Intracranial hemorrhage	phenotype	
+Iron deficiency anemia	phenotype	
+Infections, recurrent, with encephalopathy, hepatic dysfunction, and cardiovascular malformations	phenotype	
+Abnormal joint morphology	phenotype	
+Abnormality of blood and blood-forming tissues	phenotype	
+Abnormality of cardiovascular system electrophysiology	phenotype	
+Abnormality of the digestive system	phenotype	
+Iron Overload	phenotype	
+Abnormality of erythrocytes	phenotype	
+Autosomal recessive inheritance	phenotype	
+Anemia of inadequate production	phenotype	
+Breast carcinoma	phenotype	
+Abnormality of thyroid physiology	phenotype	
+Abnormality of the immune system	phenotype	
+Abnormality of the abdominal organs	phenotype	
+Abnormality of metabolism/homeostasis	phenotype	
+Abnormality of the liver	phenotype	
+Abnormality of the skeletal system	phenotype	
+Abnormality of skeletal morphology	phenotype	
+Abnormality of cardiovascular system physiology	phenotype	
+Abnormality of immune system physiology	phenotype	
+Abnormality of the endocrine system	phenotype	
+Acute-Phase Reaction	phenotype	
+Reticulocytosis	phenotype	
+Hereditary persistence of fetal hemoglobin thalassemia	phenotype	
+Phenylketonuria	phenotype	
+Bovine Anaplasmosis	phenotype	
+Femur Head Necrosis	phenotype	
+Pregnancy Complications, Infectious	phenotype	
+Abnormality of transition element cation homeostasis	phenotype	
+Paratuberculosis	phenotype	
+Erythrocytosis	phenotype	
+Abnormality of reticulocytes	phenotype	
+Cyanosis	phenotype	
+Anemia, severe	phenotype	
+Deficiency of glucose-6-phosphate dehydrogenase	phenotype	
+Microcytic anemia	phenotype	
+Erectile abnormalities	phenotype	
+Chloracne	phenotype	
+Bone necrosis	phenotype	
+Aseptic necrosis	phenotype	
+Sickle Cell Trait	phenotype	
+Restless Legs Syndrome	phenotype	
+Hemoglobinopathy	phenotype	
+Aural atresia, congenital	phenotype	
+Abnormal gallbladder morphology	phenotype	
+Abnormality of the parathyroid physiology	phenotype	
+Cooley's anemia	phenotype	
+Leukocytosis	phenotype	
+Hydrops fetalis, nonimmune, and/or atrial septal defect, susceptibility to	phenotype	
+Trachoma	phenotype	
+Abnormality of the parathyroid gland	phenotype	
+Abnormality of the gallbladder	phenotype	
+Hypoparathyroidism	phenotype	
+Abnormal urine cytology	phenotype	
+Chest pain	phenotype	
+Abnormality of color vision	phenotype	
+Cone dysfunction syndrome	phenotype	
+Abnormal enzyme/coenzyme activity	phenotype	
+Abnormality of nitrogen compound homeostasis	phenotype	
+Osteomyelitis, sterile multifocal, with periostitis and pustulosis	phenotype	
+Pallor	phenotype	
+Azotemia	phenotype	
+Hematuria	phenotype	
+Abnormal thrombosis	phenotype	
+Polycythemia	phenotype	
+Abnormal neutrophil count	phenotype	
+Hereditary hemochromatosis	phenotype	
+Alpha thalassemia-mental retardation syndrome	phenotype	
+Genu valgum	phenotype	
+Anemia due to reduced life span of red cells	phenotype	
+Herpes NOS	phenotype	
+Parasitemia	phenotype	
+Chronic graft-versus-host disease	phenotype	
+Elevated pulmonary artery pressure	phenotype	
+Abnormality of pulmonary circulation	phenotype	
+Malaria, Cerebral	phenotype	
+Paresthesia	phenotype	
+Hyperbilirubinemia	phenotype	
+Teratocarcinoma	phenotype	
+Abnormal vascular physiology	phenotype	
+Liver Cirrhosis, Alcoholic	phenotype	
+Thrombocytosis, benign familial microcytic	phenotype	
+Abnormality of adrenal physiology	phenotype	
+Adrenal insufficiency	phenotype	
+Acquired long QT syndrome	phenotype	
+Aortic Aneurysm, Thoracic	phenotype	
+Malnutrition	phenotype	
+Skin ulcer	phenotype	
+Bowing of limbs due to multiple fractures	phenotype	
+Elevated hepatic transaminases	phenotype	
+Pregnancy Complications, Hematologic	phenotype	
+beta Thalassemia	phenotype	
+Rhinitis, Allergic, Seasonal	phenotype	
+Jaundice	phenotype	
+Venous thrombosis	phenotype	
+Hematological Disease	phenotype	
+Upslanted palpebral fissure	phenotype	
+Malaria, Falciparum	phenotype	
+Arthralgia	phenotype	
+Fetal Diseases	phenotype	
+Abnormality of the calf	phenotype	
+Hemolytic anemia, nonspherocytic, due to glucose phosphate isomerase deficiency	phenotype	
+Thalassemia	phenotype	
+Dermatological manifestations of systemic disorders	phenotype	
+Apnea	phenotype	
+Glomerulopathy	phenotype	
+Abnormality of the adrenal glands	phenotype	
+Albuminuria	phenotype	
+Neoplasm Invasiveness	phenotype	
+Abnormality of malar bones	phenotype	
+Bowing of the long bones	phenotype	
+Cholelithiasis	phenotype	
+Borderline Personality Disorder	phenotype	
+Anomaly of the limb diaphyses	phenotype	
+Night blindness, congenital stationary, type 1g	phenotype	
+Abnormal fear/anxiety-related behavior	phenotype	
+Abnormality of granulocytes	phenotype	
+Sensory neuropathy	phenotype	
+Delayed puberty	phenotype	
+Abnormality of the zygomatic bone	phenotype	
+Carotid Artery Diseases	phenotype	
+Polycythemia vera	phenotype	
+Abnormal diaphysis morphology	phenotype	
+Abnormality of cation homeostasis	phenotype	
+Abnormality of the knee	phenotype	
+Acute Erythroblastic Leukemia	phenotype	
+Abnormality of myeloid leukocytes	phenotype	
+Spots on skin	phenotype	
+Drug-Induced Liver Injury	phenotype	
+Skeletal dysplasia	phenotype	
+Mammary Neoplasms, Experimental	phenotype	
+Dyspnea	phenotype	
+Abnormal platelet count	phenotype	
+Depression	phenotype	
+Abnormality of the pancreas	phenotype	
+Anxiety	phenotype	
+Abnormality of ion homeostasis	phenotype	
+Cardiac arrest	phenotype	
+Anaplastic thyroid carcinoma	phenotype	
+Malabsorption	phenotype	
+Plaque, Atherosclerotic	phenotype	
+Malignant hyperthermia susceptibility type 5	phenotype	
+Dyslipidemias	phenotype	
+Disease Progression	phenotype	
+Abnormality of temperature regulation	phenotype	
+Bronchopulmonary Dysplasia	phenotype	
+Gastritis	phenotype	
+Hypergranular promyelocytic leukemia	phenotype	
+Mycoses	phenotype	
+Abnormality of thrombocytes	phenotype	
+Abnormality of the biliary system	phenotype	
+Abnormality of the hypothalamus-pituitary axis	phenotype	
+Recurrent bacterial infection	phenotype	
+Neutropenia	phenotype	
+Senile plaques	phenotype	
+Spontaneous abortion	phenotype	
+Nephrotic syndrome, type 5, with or without ocular abnormalities	phenotype	
+Experimental Organism Basal Cell Carcinoma	phenotype	
+Gastrointestinal Neoplasms	phenotype	
+Anemia, Sickle Cell	phenotype	
+Depressed nasal bridge	phenotype	
+Abnormality of circulating protein level	phenotype	
+Pancreatitis	phenotype	
+Cardiomegaly	phenotype	
+Splenomegaly	phenotype	
+Pulmonary arterial hypertension	phenotype	
+Abnormality of the midface	phenotype	
+Cholestasis, benign recurrent intrahepatic 1	phenotype	
+Insulin Resistance	phenotype	
+Hypoxia	phenotype	
+Abnormality of lower limb joint	phenotype	
+Arrhythmias, Cardiac	phenotype	
+Reduced bone mineral density	phenotype	
+Abnormality of the spleen	phenotype	
+Slanting of the palpebral fissure	phenotype	
+Abnormality of the myocardium	phenotype	
+Exanthema	phenotype	
+Hepatitis	phenotype	
+Hepatomegaly	phenotype	
+Abnormality of bone mineral density	phenotype	
+Abnormal leukocyte count	phenotype	
+Abnormality of cellular immune system	phenotype	
+Abnormality of urine homeostasis	phenotype	
+Brain Ischemia	phenotype	
+Hepatic fibrosis	phenotype	
+Respiratory failure	phenotype	
+Age-related macular degeneration 2	phenotype	
+Abnormality of the lymphatic system	phenotype	
+Hepatic steatosis	phenotype	
+Abnormal renal physiology	phenotype	
+Abnormality of the palpebral fissures	phenotype	
+Abnormal emotion/affect behavior	phenotype	
+Acute promyelocytic leukemia	phenotype	
+Retinopathy	phenotype	
+Glioblastoma multiforme	phenotype	
+Abnormality of skeletal physiology	phenotype	
+Abnormal glucose homeostasis	phenotype	
+Abnormality of long bone morphology	phenotype	
+Feeding difficulties	phenotype	
+Hepatitis C, Chronic	phenotype	
+Visceromegaly	phenotype	
+Abnormality of the penis	phenotype	
+Abnormal bone ossification	phenotype	
+Acute myocardial ischemia	phenotype	
+Puberty and gonadal disorders	phenotype	
+Abnormality of carbohydrate metabolism/homeostasis	phenotype	
+Abnormality of the thorax	phenotype	
+Abnormality of abdomen morphology	phenotype	
+Visual impairment	phenotype	
+Herpes Simplex Infections	phenotype	
+Localized skin lesion	phenotype	
+Abnormal bone structure	phenotype	
+Malaria	phenotype	
+Abnormality of the lens	phenotype	
+{Unipolar depression, susceptibility to}, 608516 (3)	phenotype	
+Immunodeficiency due to defect in CD3-gamma	phenotype	
+Constitutional symptom	phenotype	
+Neoplasm by anatomical site	phenotype	
+Abnormality of dental morphology	phenotype	
+Increased inflammatory response	phenotype	
+Abnormal inflammatory response	phenotype	
+Abnormality of the intestine	phenotype	
+Abnormal peripheral nervous system morphology	phenotype	
+Abnormality of the retina	phenotype	
+Abnormality of the nasal bridge	phenotype	
+Sepsis	phenotype	
+Diabetic Nephropathies	phenotype	
+Pain	phenotype	
+Osteoporosis	phenotype	
+Neoplasms	phenotype	
+Ischemia	phenotype	
+Tuberculosis	phenotype	
+Abnormality of the urinary system physiology	phenotype	

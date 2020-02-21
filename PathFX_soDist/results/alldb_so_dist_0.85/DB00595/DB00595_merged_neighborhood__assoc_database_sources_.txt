@@ -1,0 +1,7 @@
+Gene	CUI	Source Databases	
+SLC22A8	C0812435	Chromosome 11p deletion syndrome	DisGeNet	
+SLC22A11	C0740394	Hyperuricemia, pulmonary hypertension, renal failure, and alkalosis	DisGeNet	
+SLC22A11	C0018099	Gout	DisGeNet,PheGenI	
+SLC22A8	C0022660	Acute kidney injury	DisGeNet	
+SLC22A11	C0035078	Renal Insufficiency, Chronic	DisGeNet	
+SLC22A8	C0021400	Influenza	DisGeNet	

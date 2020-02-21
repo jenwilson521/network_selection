@@ -1,0 +1,97 @@
+node1	node2	edge_score	
+DB00554	CYP2C9	1.0	
+DB00554	PTGS2	1.0	
+DB00554	PTGS1	1.0	
+DB00554	CYP2C8	1.0	
+DB00554	ALB	1.0	
+DB00554	SLC22A11	1.0	
+DB00554	SLC22A6	1.0	
+DB00554	SLCO2B1	1.0	
+DB00554	SLC22A8	1.0	
+PTGS2	rs12042763	0.99
+CYP2C9	CYP2C9*1, CYP2C9*59	0.99
+CYP2C9	CYP2C9*1, CYP2C9*3	0.99
+CYP2C9	CYP2C9*1, CYP2C9*13, CYP2C9*2, CYP2C9*3	0.99
+CYP2C9	rs4917639	0.99
+CYP2C9	CYP2C9*1, CYP2C9*2, CYP2C9*3	0.99
+CYP2C9	rs1057910	0.99
+SLC22A8		1.0
+SLC22A11		1.0
+CYP2C9	CYP2C9*1, CYP2C9*13, CYP2C9*3, CYP2C9*5, CYP2C9*6, CYP2C9*8	0.99
+CYP2C9	rs56165452	0.99
+CYP2C9	rs72558187	0.99
+ALB	complex:lAo9+jzjVOaRJSWZQvoh0G1mUDc	0.954526206676
+CYP2C8	rs1113129	0.99
+CYP2C9	rs4918758	0.99
+CYP2C8	rs11572076	0.99
+CYP2C9		1.0
+CYP2C9	rs10509680	0.99
+CYP2C9	rs7089580	0.99
+PTGS2	rs4648287	0.99
+PTGS1	rs10306135	0.99
+CYP2C9	rs7900194	0.99
+PTGS2	rs20417	0.99
+CYP2C9	rs9332131	0.99
+PTGS1	rs1330344	0.99
+CYP2C9	rs1934969	0.99
+CYP2C8		1.0
+CYP2C8	CYP2C8*1A, CYP2C8*2, CYP2C8*3	0.99
+ALB		1.0
+CYP2C9	rs28371685	0.99
+CYP2C9	rs9332239	0.99
+SLCO2B1		1.0
+CYP2C9	rs12782374	0.99
+CYP2C9	CYP2C9*1, CYP2C9*2, CYP2C9*3, CYP2C9*6	0.99
+CYP2C9	rs9332096	0.99
+PTGS2		1.0
+CYP2C8	rs10509681	0.99
+CYP2C9	CYP2C9*1, CYP2C9*11, CYP2C9*2, CYP2C9*3, CYP2C9*5, CYP2C9*6	0.99
+CYP2C9	rs1799853	0.99
+CYP2C9	CYP2C9*1, CYP2C9*3, CYP2C9*8	0.99
+PTGS2	rs5275	0.99
+PTGS1		1.0
+CYP2C8	rs1934951	0.99
+CYP2C9	rs28371686	0.99
+CYP2C9	rs71486745	0.99
+CYP2C8	rs11572080	0.99
+CYP2C9	CYP2C9*1, CYP2C9*13, CYP2C9*3	0.99
+PTGS1	rs10306114	0.99
+CYP2C9	rs4086116	0.99
+CYP2C8	rs11572103	0.99
+Rhinitis, Allergic, Perennial	ALB	1.0	
+Rhinitis, Allergic, Perennial	CYP2C9	1.0	
+Rhinitis, Allergic, Perennial	PTGS2	1.0	
+Stomach Diseases	CYP2C9	1.0	
+Stomach Diseases	PTGS1	1.0	
+Stomach Diseases	PTGS2	1.0	
+Gastric ulcer	CYP2C8	1.0	
+Gastric ulcer	CYP2C9	1.0	
+Gastric ulcer	PTGS1	1.0	
+Gastric ulcer	PTGS2	1.0	
+Peptic ulcer	CYP2C8	1.0	
+Peptic ulcer	CYP2C9	1.0	
+Peptic ulcer	PTGS1	1.0	
+Peptic ulcer	PTGS2	1.0	
+Adverse drug events and drug allergies	ALB	1.0	
+Adverse drug events and drug allergies	CYP2C9	1.0	
+Adverse drug events and drug allergies	PTGS2	1.0	
+Drug Allergy	CYP2C8	1.0	
+Drug Allergy	CYP2C9	1.0	
+Drug Allergy	PTGS1	1.0	
+Echinococcosis	ALB	1.0	
+Echinococcosis	PTGS1	1.0	
+Old myocardial infarction	CYP2C8	1.0	
+Old myocardial infarction	CYP2C9	1.0	
+gastritis h pylori	PTGS1	1.0	
+gastritis h pylori	PTGS2	1.0	
+Creutzfeldt-Jakob Disease, Sporadic	PTGS1	1.0	
+Creutzfeldt-Jakob Disease, Sporadic	PTGS2	1.0	
+keratoacanthoma	PTGS1	1.0	
+keratoacanthoma	PTGS2	1.0	
+Pericardial effusion	ALB	1.0	
+Pericardial effusion	PTGS2	1.0	
+Peptic Ulcer Hemorrhage	CYP2C9	1.0	
+Peptic Ulcer Hemorrhage	PTGS1	1.0	
+Neoplasm of the larynx	CYP2C8	1.0	
+Neoplasm of the larynx	CYP2C9	1.0	
+Neoplasm of the larynx	PTGS2	1.0	

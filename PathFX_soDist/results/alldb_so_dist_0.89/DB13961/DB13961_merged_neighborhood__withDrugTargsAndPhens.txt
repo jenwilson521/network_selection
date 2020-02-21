@@ -1,0 +1,175 @@
+node1	node2	edge_score	
+DB13961	PTGS2	1.0	
+DB13961	PPARG	1.0	
+DB13961	PPARD	1.0	
+DB13961	SREBF1	1.0	
+DB13961	PPARA	1.0	
+DB13961	CYP3A4	1.0	
+PTGS2	rs12042763	0.99
+CYP3A4	rs35599367	0.99
+PPARA	rs4823613	0.99
+CYP3A4	rs2242480	0.99
+PPARD		1.0
+rs2740574	CYP3A	0.9801
+PPARA	rs4253778	0.99
+CYP3A4	rs4646437	0.99
+PPARA	rs149711321	0.99
+PPARA	rs4253728	0.99
+PTGS2		1.0
+CYP3A4	rs2246709	0.99
+CYP3A	rs12721627	0.970299
+PPARD	rs3734254	0.99
+CYP3A4	CYP3A4*1, CYP3A4*4	0.99
+rs4987161	CYP3A	0.9801
+rs12721627	CYP3A	0.9801
+PPARG		1.0
+CYP3A4	rs3735451	0.99
+PPARA	rs9626730	0.99
+PTGS2	rs20417	0.99
+PPARA		1.0
+CYP3A4		1.0
+rs12721627	CYP3A4	0.96059601
+PPARA	rs135550	0.99
+CYP3A4	rs4987161	0.99
+CYP3A4	CYP3A4*1, CYP3A4*22	0.99
+CYP3A	rs2740574	0.970299
+PPARD	rs6922548	0.99
+CYP3A4	CYP3A4*1, CYP3A4*20, CYP3A4*8	0.99
+CYP3A4	rs2740574	0.99
+rs2740574	CYP3A4	0.96059601
+CYP3A4	rs28371759	0.99
+CYP3A4	rs4986910	0.99
+CYP3A	rs4987161	0.970299
+rs4987161	CYP3A4	0.96059601
+PTGS2	rs5275	0.99
+PPARD	rs1883322	0.99
+PPARD	rs7769719	0.99
+PPARD	rs2016520	0.99
+PPARA	rs135543	0.99
+CYP3A4	rs4646440	0.99
+CYP3A4	rs12721627	0.99
+PTGS2	rs4648287	0.99
+SREBF1		1.0
+CYP3A4	CYP3A4*1, CYP3A4*1G	0.99
+CYP3A4	rs56324128	0.99
+Dyslipidemias	CYP3A4	1.0	
+Dyslipidemias	PPARA	1.0	
+Dyslipidemias	PPARD	1.0	
+Dyslipidemias	PPARG	1.0	
+Dyslipidemias	PTGS2	1.0	
+Dyslipidemias	SREBF1	1.0	
+Bone necrosis	CYP3A4	1.0	
+Bone necrosis	PPARG	1.0	
+Bone necrosis	SREBF1	1.0	
+Overweight	PPARA	1.0	
+Overweight	PPARD	1.0	
+Overweight	PPARG	1.0	
+Overweight	PTGS2	1.0	
+Overweight	SREBF1	1.0	
+Steatohepatitis	CYP3A4	1.0	
+Steatohepatitis	PPARA	1.0	
+Steatohepatitis	PPARD	1.0	
+Steatohepatitis	PPARG	1.0	
+Steatohepatitis	SREBF1	1.0	
+gliosarcoma	CYP3A4	1.0	
+gliosarcoma	PPARG	1.0	
+gliosarcoma	PTGS2	1.0	
+Hepatic steatosis	CYP3A4	1.0	
+Hepatic steatosis	PPARA	1.0	
+Hepatic steatosis	PPARD	1.0	
+Hepatic steatosis	PPARG	1.0	
+Hepatic steatosis	PTGS2	1.0	
+Hepatic steatosis	SREBF1	1.0	
+Hyperlipidemia, combined, 1	CYP3A4	1.0	
+Hyperlipidemia, combined, 1	PPARA	1.0	
+Hyperlipidemia, combined, 1	PPARD	1.0	
+Hyperlipidemia, combined, 1	PPARG	1.0	
+Hyperlipidemia, combined, 1	SREBF1	1.0	
+Non-alcoholic Fatty Liver Disease	CYP3A4	1.0	
+Non-alcoholic Fatty Liver Disease	PPARA	1.0	
+Non-alcoholic Fatty Liver Disease	PPARD	1.0	
+Non-alcoholic Fatty Liver Disease	PPARG	1.0	
+Non-alcoholic Fatty Liver Disease	SREBF1	1.0	
+Liver regeneration disorder	PPARA	1.0	
+Liver regeneration disorder	PPARD	1.0	
+Liver regeneration disorder	PPARG	1.0	
+Type 1 diabetic neuropathy	PPARG	1.0	
+Type 1 diabetic neuropathy	PTGS2	1.0	
+Type 1 diabetic neuropathy	SREBF1	1.0	
+Thyroid associated opthalmopathies	PPARA	1.0	
+Thyroid associated opthalmopathies	PPARG	1.0	
+Thyroid associated opthalmopathies	PTGS2	1.0	
+Femur Head Necrosis	CYP3A4	1.0	
+Femur Head Necrosis	SREBF1	1.0	
+Squamous Cell Neoplasms	CYP3A4	1.0	
+Squamous Cell Neoplasms	PTGS2	1.0	
+Anterior myocardial infarction	PPARG	1.0	
+Anterior myocardial infarction	PTGS2	1.0	
+Enzyme inhibition disorder	CYP3A4	1.0	
+Enzyme inhibition disorder	PTGS2	1.0	
+Hypercholesterolemia, autosomal dominant, type B	CYP3A4	1.0	
+Hypercholesterolemia, autosomal dominant, type B	PPARA	1.0	
+Hypercholesterolemia, autosomal dominant, type B	PPARG	1.0	
+Hypercholesterolemia, autosomal dominant, type B	SREBF1	1.0	
+Neoplasm of the rectum	PPARD	1.0	
+Neoplasm of the rectum	PPARG	1.0	
+Neoplasm of the rectum	PTGS2	1.0	
+Acute postoperative pain	CYP3A4	1.0	
+Acute postoperative pain	PTGS2	1.0	
+Lipoidosis	PPARG	1.0	
+Lipoidosis	SREBF1	1.0	
+Disorders of Intracellular Cobalamin Metabolism	CYP3A4	1.0	
+Disorders of Intracellular Cobalamin Metabolism	PPARA	1.0	
+Disorders of Intracellular Cobalamin Metabolism	PPARD	1.0	
+Disorders of Intracellular Cobalamin Metabolism	PPARG	1.0	
+Disorders of Intracellular Cobalamin Metabolism	SREBF1	1.0	
+Knee osteoarthritis	PPARA	1.0	
+Knee osteoarthritis	PPARG	1.0	
+Knee osteoarthritis	PTGS2	1.0	
+Hypertriglyceridemia	PPARA	1.0	
+Hypertriglyceridemia	PPARG	1.0	
+Hypertriglyceridemia	SREBF1	1.0	
+Obesity, Visceral	PPARA	1.0	
+Obesity, Visceral	SREBF1	1.0	
+Monocytic leukemia	PPARG	1.0	
+Monocytic leukemia	PTGS2	1.0	
+Hypertriglyceridemia result	PPARA	1.0	
+Hypertriglyceridemia result	PPARG	1.0	
+Kidney Failure, Chronic	CYP3A4	1.0	
+Kidney Failure, Chronic	PPARA	1.0	
+Kidney Failure, Chronic	PPARD	1.0	
+Kidney Failure, Chronic	PPARG	1.0	
+Kidney Failure, Chronic	PTGS2	1.0	
+Kidney Failure, Chronic	SREBF1	1.0	
+Pediatric Obesity	PPARA	1.0	
+Pediatric Obesity	PPARG	1.0	
+Obesity, severe, 601665 (3)	PPARA	1.0	
+Obesity, severe, 601665 (3)	PPARD	1.0	
+Obesity, severe, 601665 (3)	PPARG	1.0	
+Insulin resistance syndrome	PPARA	1.0	
+Insulin resistance syndrome	PPARG	1.0	
+Metabolic Syndrome X	CYP3A4	1.0	
+Metabolic Syndrome X	PPARA	1.0	
+Metabolic Syndrome X	PPARD	1.0	
+Metabolic Syndrome X	PPARG	1.0	
+Metabolic Syndrome X	PTGS2	1.0	
+Metabolic Syndrome X	SREBF1	1.0	
+Acute hepatic failure	CYP3A4	1.0	
+Acute hepatic failure	PPARA	1.0	
+Acute hepatic failure	PTGS2	1.0	
+Coronary Restenosis	PPARA	1.0	
+Coronary Restenosis	PPARG	1.0	
+Endometrial Neoplasms	CYP3A4	1.0	
+Endometrial Neoplasms	PPARG	1.0	
+Endometrial Neoplasms	PTGS2	1.0	
+Endometrial Neoplasms	SREBF1	1.0	
+Acute kidney injury	CYP3A4	1.0	
+Acute kidney injury	PPARA	1.0	
+Acute kidney injury	PPARG	1.0	
+Acute kidney injury	PTGS2	1.0	
+Left ventricular hypertrophy	PPARA	1.0	
+Left ventricular hypertrophy	PPARD	1.0	
+Left ventricular hypertrophy	PPARG	1.0	
+Left ventricular hypertrophy	PTGS2	1.0	
+Pain insensitivity	CYP3A4	1.0	
+Pain insensitivity	PPARA	1.0	

@@ -1,0 +1,133 @@
+node_name	node_type	
+DB00999	drug	
+CA2	drug_target	
+SLC22A6	drug_target	
+CA1	drug_target	
+SLC12A3	drug_target	
+KCNMA1	drug_target	
+EMG: myopathic abnormalities	phenotype	
+Breast-ovarian cancer, familial 1	phenotype	
+Renal cell carcinoma, nonpapillary	phenotype	
+Diabetes Mellitus, Type 1	phenotype	
+Epilepsy	phenotype	
+Hypertension	phenotype	
+Melanoma	phenotype	
+Seizures, Febrile	phenotype	
+Tobacco Use Disorder	phenotype	
+Essential hypertension	phenotype	
+Adenocarcinoma of lung	phenotype	
+Abnormality of the nervous system	phenotype	
+Breast carcinoma	phenotype	
+Primary hyperaldosteronism	phenotype	
+Abnormality of nervous system physiology	phenotype	
+Familial hypokalemia-hypomagnesemia	phenotype	
+Treacher Collins syndrome	phenotype	
+Bladder neck obstruction	phenotype	
+Chondrocalcinosis	phenotype	
+Renal tubular acidosis, distal, autosomal dominant	phenotype	
+Metabolic Bone Disorder	phenotype	
+Abnormal urine output	phenotype	
+Hypervolemia	phenotype	
+Germinoma	phenotype	
+Abnormal drinking behavior	phenotype	
+Abnormality of renal excretion	phenotype	
+Complete trisomy 18 syndrome	phenotype	
+Noonan syndrome with multiple lentigines	phenotype	
+Alkalosis	phenotype	
+Polyuria	phenotype	
+Dialeptic seizures	phenotype	
+{TSC2 angiomyolipomas, renal, modifier of}, 613254 (3)	phenotype	
+Tubulointerstitial nephritis	phenotype	
+Abnormality of potassium homeostasis	phenotype	
+Hypokalemia	phenotype	
+Polydipsia	phenotype	
+EEG with generalized epileptiform discharges	phenotype	
+Abnormality of urine calcium concentration	phenotype	
+Toxic Shock Syndrome	phenotype	
+Lymphangiomyomatosis	phenotype	
+EEG with irregular generalized spike and wave complexes	phenotype	
+Abnormality of monovalent inorganic cation homeostasis	phenotype	
+Cortical dysplasia, complex, with other brain malformations 3	phenotype	
+Aortic valve disease 2	phenotype	
+Multisystem disorder	phenotype	
+Diaphragmatic hernia	phenotype	
+Renal tubular dysfunction	phenotype	
+Ovarian Serous Adenocarcinoma	phenotype	
+Bicuspid aortic valve	phenotype	
+Epilepsy, generalized, with febrile seizures plus, type 6 (2)	phenotype	
+Generalized muscle weakness	phenotype	
+Hirschsprung disease 1	phenotype	
+Abnormal consumption behavior	phenotype	
+Hypercalciuria	phenotype	
+Nephrocalcinosis	phenotype	
+Epithelial hyperplasia of skin	phenotype	
+Absence seizures	phenotype	
+Increased analgesia from kappa-opioid receptor agonist, female-specific	phenotype	
+Juvenile onset	phenotype	
+Chordoma	phenotype	
+Muscle cramps	phenotype	
+Paralysis	phenotype	
+Generalized tonic-clonic seizures	phenotype	
+Paresthesia	phenotype	
+Abnormal urinary electrolyte concentration	phenotype	
+Lethargy	phenotype	
+NOONAN-LIKE/MULTIPLE GIANT CELL LESION SYNDROME (disorder)	phenotype	
+Hamartoma	phenotype	
+Fibrinogen Adverse Event	phenotype	
+Abnormality of calcium homeostasis	phenotype	
+Chorea, childhood-onset, with psychomotor retardation	phenotype	
+Abnormality of divalent inorganic cation homeostasis	phenotype	
+Tauopathies	phenotype	
+Impotence	phenotype	
+Obesity, severe, 601665 (3)	phenotype	
+Metastatic malignant neoplasm to brain	phenotype	
+Generalized seizures	phenotype	
+Disseminated Malignant Neoplasm	phenotype	
+Ectopic calcification	phenotype	
+Hirschsprung Disease	phenotype	
+Secondary hyperparathyroidism	phenotype	
+Tumor Initiation	phenotype	
+Status epilepticus	phenotype	
+Sensory neuropathy	phenotype	
+Abdominal pain	phenotype	
+Tuberous sclerosis syndrome	phenotype	
+Abnormality of cation homeostasis	phenotype	
+Vomiting	phenotype	
+Abnormality of ion homeostasis	phenotype	
+Craniosynostoses	phenotype	
+EEG abnormality	phenotype	
+Hearing Loss, Mixed Conductive-Sensorineural	phenotype	
+Abnormality of central nervous system electrophysiology	phenotype	
+Stage 5 chronic kidney disease	phenotype	
+Narcolepsy	phenotype	
+Diabetic Retinopathy	phenotype	
+Hypospadias	phenotype	
+Abnormality of acid-base homeostasis	phenotype	
+Abnormal nervous system electrophysiology	phenotype	
+Hypoxia	phenotype	
+Carcinoma breast stage IV	phenotype	
+Renal Insufficiency, Chronic	phenotype	
+Diarrhea 8, secretory sodium, congenital	phenotype	
+Blood pressure finding	phenotype	
+Disorders of Intracellular Cobalamin Metabolism	phenotype	
+Malignant neoplasm of kidney	phenotype	
+Abnormality of urine homeostasis	phenotype	
+Vascular Diseases	phenotype	
+Retinitis pigmentosa	phenotype	
+Benign Prostatic Hyperplasia	phenotype	
+Abnormal renal physiology	phenotype	
+Systemic arterial pressure	phenotype	
+Malignant neoplasm of endometrium	phenotype	
+Uterine Corpus Cancer	phenotype	
+Involuntary movements	phenotype	
+Acute leukemia	phenotype	
+Medulloblastoma	phenotype	
+Constitutional symptom	phenotype	
+Abnormal peripheral nervous system morphology	phenotype	
+Diabetic Nephropathies	phenotype	
+Kidney Failure, Chronic	phenotype	
+Pain	phenotype	
+Small cell lung cancer	phenotype	
+Osteoporosis	phenotype	
+Ischemia	phenotype	
+Abnormality of the urinary system physiology	phenotype	

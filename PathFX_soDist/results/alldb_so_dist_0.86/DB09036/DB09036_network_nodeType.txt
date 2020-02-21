@@ -1,0 +1,42 @@
+node_name	node_type	
+DB09036	drug	
+IL6	drug_target	
+CYP3A4	drug_target	
+Primary malignant neoplasm of liver	phenotype	
+Cocaine delirium	phenotype	
+Acute postoperative pain	phenotype	
+Pain insensitivity	phenotype	
+gliosarcoma	phenotype	
+Thromboembolism	phenotype	
+Peripheral T-Cell Lymphoma	phenotype	
+Depressive Symptoms	phenotype	
+Hepatitis, Autoimmune	phenotype	
+Acute hepatic failure	phenotype	
+Leg Ulcer	phenotype	
+Scrub Typhus	phenotype	
+Elevated C-reactive protein level	phenotype	
+Neoplastic Cell Transformation	phenotype	
+Chronic liver disease	phenotype	
+Acute-Phase Reaction	phenotype	
+Anemia of chronic disease	phenotype	
+Congenital short bowel syndrome	phenotype	
+Chronic sciatica	phenotype	
+Aneurysm, Ruptured	phenotype	
+Acute hepatitis	phenotype	
+Abnormal erythrocyte sedimentation rate	phenotype	
+Inappropriate ADH Syndrome	phenotype	
+Myoepithelioma	phenotype	
+Lobar Pneumonia	phenotype	
+Q Fever	phenotype	
+HIV encephalitis	phenotype	
+Urolithiasis	phenotype	
+Morphologically altered structure	phenotype	
+Cardiovascular morbidity	phenotype	
+Bovine Anaplasmosis	phenotype	
+Thrombosis of retinal vein	phenotype	
+Epidermolysis bullosa simplex, Cockayne-Touraine type	phenotype	
+Periodontal Attachment Loss	phenotype	
+Lung Injury	phenotype	
+Early gastric cancer	phenotype	
+Malignant neoplasm of vulva	phenotype	
+Cryopyrin-Associated Periodic Syndromes	phenotype	

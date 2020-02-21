@@ -1,0 +1,12 @@
+node_name	node_type	
+DB01356	drug	
+GRIA3	drug_target	
+IMPA2	drug_target	
+IMPA1	drug_target	
+GSK3B	drug_target	
+Weight Gain Adverse Event	phenotype	
+Recurrent major depressive episodes	phenotype	
+Prominent supraorbital ridges	phenotype	
+Parathyroid carcinoma	phenotype	
+Dyskinesia, Drug-Induced	phenotype	
+Drug Resistant Epilepsy	phenotype	

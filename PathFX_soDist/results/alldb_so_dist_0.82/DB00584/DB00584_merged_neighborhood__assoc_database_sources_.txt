@@ -1,0 +1,30 @@
+Gene	CUI	Source Databases	
+ABCB1	C0015814	Femur Head Necrosis	DisGeNet	
+ACE	C0015814	Femur Head Necrosis	DisGeNet	
+CYP3A4	C0015814	Femur Head Necrosis	DisGeNet	
+ABCB1	C0030201	Acute postoperative pain	DisGeNet	
+ACE	C0030201	Acute postoperative pain	DisGeNet	
+CYP3A4	C0030201	Acute postoperative pain	DisGeNet	
+ABCB1	C1704321	Nephrotic Syndrome, Minimal Change	DisGeNet	
+ACE	C1704321	Nephrotic Syndrome, Minimal Change	DisGeNet	
+ALB	C1704321	Nephrotic Syndrome, Minimal Change	DisGeNet	
+ABCB1	C0029445	Bone necrosis	DisGeNet	
+ACE	C0029445	Bone necrosis	DisGeNet	
+CYP3A4	C0029445	Bone necrosis	DisGeNet	
+ABCB1	C0024620	Primary malignant neoplasm of liver	DisGeNet	
+CYP3A4	C0024620	Primary malignant neoplasm of liver	DisGeNet	
+ABCB1	C0346402	Malignant neoplasm of adrenal cortex	DisGeNet	
+ALB	C0346402	Malignant neoplasm of adrenal cortex	DisGeNet	
+ACE	C0014867	Esophageal varix	DisGeNet	
+ALB	C0014867	Esophageal varix	DisGeNet	
+ABCB1	C0403396	Steroid-sensitive nephrotic syndrome	DisGeNet	
+ACE	C0403396	Steroid-sensitive nephrotic syndrome	DisGeNet	
+ABCB1	C0013182	Drug Allergy	DisGeNet	
+ACE	C0013182	Drug Allergy	DisGeNet	
+CYP3A4	C0013182	Drug Allergy	DisGeNet	
+ABCB1	C0014836	Recurrent E. coli infections	DisGeNet	
+ACE	C0014836	Recurrent E. coli infections	DisGeNet	
+ABCB1	C0040715	Chromosomal translocation	DisGeNet	
+ACE	C0040715	Chromosomal translocation	DisGeNet	
+ACE	C0339467	Proliferative retinopathy	DisGeNet	
+ALB	C0339467	Proliferative retinopathy	DisGeNet	

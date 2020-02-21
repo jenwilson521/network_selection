@@ -1,0 +1,6 @@
+Gene	CUI	Source Databases	
+ABCB1	C0020443	Hypercholesterolemia, autosomal dominant, type B	DisGeNet	
+CYP3A4	C0020443	Hypercholesterolemia, autosomal dominant, type B	DisGeNet	
+CYP4F2	C0020443	Hypercholesterolemia, autosomal dominant, type B	DisGeNet	
+LDLR	C0020443	Hypercholesterolemia, autosomal dominant, type B	DisGeNet,HumPhenOnt	
+SCARB1	C0020443	Hypercholesterolemia, autosomal dominant, type B	DisGeNet	

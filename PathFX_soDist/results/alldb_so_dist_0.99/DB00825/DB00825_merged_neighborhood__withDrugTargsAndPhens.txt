@@ -1,0 +1,5 @@
+node1	node2	edge_score	
+DB00825	OPRK1	1.0	
+DB00825	CYP3A4	1.0	
+DB00825	TRPM8	1.0	
+

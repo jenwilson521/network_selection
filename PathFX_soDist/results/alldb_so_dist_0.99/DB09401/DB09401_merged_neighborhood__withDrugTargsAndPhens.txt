@@ -1,0 +1,5 @@
+node1	node2	edge_score	
+DB09401	BCL2L1	1.0	
+DB09401	MCL1	1.0	
+DB09401	BCL2	1.0	
+

@@ -1,0 +1,8 @@
+node_name	node_type	
+DB08868	drug	
+HDAC1	drug_target	
+SPHK1	drug_target	
+CYP4F12	drug_target	
+S1PR5	drug_target	
+CYP2E1	drug_target	
+CYP4F2	drug_target	

@@ -1,0 +1,36 @@
+rank	phenotype	cui	assoc in neigh	assoc in intom	probability	Benjamini-Hochberg	genes	
+1	Arrhythmias, Cardiac	C0003811	1	338	0.0	2.85714285714e-05	LIG3
+2	Ataxia, combined cerebellar and peripheral, with hearing loss and diabetes mellitus	C0004134	1	740	0.0	5.71428571429e-05	LIG3
+3	Ataxia-telangiectasia syndrome	C0004135	1	212	0.0	8.57142857143e-05	LIG3
+4	Malignant tumor of urinary bladder	C0005684	1	1371	0.0	0.000114285714286	LIG3
+5	Breast-ovarian cancer, familial 1	C0006142	1	4543	0.0	0.000142857142857	LIG3
+6	Colorectal Neoplasms	C0009404	1	1164	0.0	0.000171428571429	LIG3
+7	Esophageal Neoplasms	C0014859	1	686	0.0	0.0002	LIG3
+8	Graft-versus-host disease, susceptibility to	C0018133	1	317	0.0	0.000228571428571	LIG3
+9	Head and Neck Neoplasms	C0018671	1	333	0.0	0.000257142857143	LIG3
+10	Neoplasm of the larynx	C0023055	1	106	0.0	0.000285714285714	LIG3
+11	Leukemia, Lymphocytic, Chronic, B-Cell	C0023418	1	1913	0.0	0.000314285714286	LIG3
+12	Leukemia, Lymphocytic, Acute, L1	C0023452	1	388	0.0	0.000342857142857	LIG3
+13	Chronic myeloid leukemia	C0023473	1	822	0.0	0.000371428571429	LIG3
+14	Chronic obstructive pulmonary disease	C0024117	1	865	0.0	0.0004	LIG3
+15	Non-Hodgkin lymphoma	C0024305	1	556	0.0	0.000428571428571	LIG3
+16	Neoplasm of the oral cavity	C0026640	1	226	0.0	0.000457142857143	LIG3
+17	Multiple Sclerosis	C0026769	1	1140	0.0	0.000485714285714	LIG3
+18	Pancreatic Neoplasms	C0030297	1	750	0.0	0.000514285714286	LIG3
+19	Pharyngeal Neoplasms	C0031347	1	64	0.0	0.000542857142857	LIG3
+20	Reperfusion Injury	C0035126	1	305	0.0	0.000571428571429	LIG3
+21	Tobacco Use Disorder	C0040336	1	3066	0.0	0.0006	LIG3
+22	Sudden cardiac death	C0085298	1	153	0.0	0.000628571428571	LIG3
+23	Pancreatic Carcinoma	C0235974	1	1690	0.0	0.000657142857143	LIG3
+24	Malignant neoplasm of lung	C0242379	1	2460	0.0	0.000685714285714	LIG3
+25	Esophageal Squamous Cell Carcinoma	C0279626	1	888	0.0	0.000714285714286	LIG3
+26	Malignant neoplasm of pancreas	C0346647	1	1625	0.0	0.000742857142857	LIG3
+27	Hematological neoplasm	C0376545	1	615	0.0	0.000771428571429	LIG3
+28	Malignant tumor of esophagus	C0546837	1	650	0.0	0.0008	LIG3
+29	Ovarian epithelial cancer	C0677886	1	2172	0.0	0.000828571428571	LIG3
+30	Breast carcinoma	C0678222	1	4281	0.0	0.000857142857143	LIG3
+31	Bladder carcinoma	C0699885	1	1087	0.0	0.000885714285714	LIG3
+32	Neuroblastoma	C0700095	1	1612	0.0	0.000914285714286	LIG3
+33	B Acute Lymphoblastic Leukemia with t(9;22)(q34;q11.2); BCR-ABL1	C1292769	1	385	0.0	0.000942857142857	LIG3
+34	Adenoma of large intestine	C1302401	1	257	0.0	0.000971428571429	LIG3
+35	Colorectal cancer	C1527249	1	2681	0.0	0.001	LIG3

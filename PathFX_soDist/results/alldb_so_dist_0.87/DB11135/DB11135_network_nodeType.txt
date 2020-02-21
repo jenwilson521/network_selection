@@ -1,0 +1,69 @@
+node_name	node_type	
+DB11135	drug	
+GSR	drug_target	
+SCLY	drug_target	
+TXNRD1	drug_target	
+ Adenocarcinoma, ovarian, somatic, 167000 (3)	phenotype	
+Alcohol dependence	phenotype	
+Alzheimer Disease	phenotype	
+Amyotrophic Lateral Sclerosis	phenotype	
+Anemia	phenotype	
+Hemolytic anemia, nonspherocytic, due to glucose phosphate isomerase deficiency	phenotype	
+Arteriosclerosis	phenotype	
+Asthma	phenotype	
+Atherosclerosis	phenotype	
+beta Thalassemia	phenotype	
+Breast-ovarian cancer, familial 1	phenotype	
+Squamous cell carcinoma	phenotype	
+Transient ischemic attack	phenotype	
+Cerebral palsy, spastic quadriplegic, 3	phenotype	
+Chromosome 8, trisomy	phenotype	
+Contact Dermatitis	phenotype	
+Diabetes Mellitus, Type 1	phenotype	
+Diabetic Nephropathies	phenotype	
+Hydrops, lactic acidosis, and sideroblastic anemia	phenotype	
+Hematological Disease	phenotype	
+Huntington's chorea	phenotype	
+Hypercholesterolemia, autosomal dominant, type B	phenotype	
+Hyperthyroidism	phenotype	
+Hypoglycemia, neonatal, simulating foetopathia diabetica	phenotype	
+Insulinoma	phenotype	
+Acute kidney injury	phenotype	
+Chronic Lymphocytic Leukemia	phenotype	
+Chronic obstructive pulmonary disease	phenotype	
+Malaria	phenotype	
+Malaria, Falciparum	phenotype	
+Animal Mammary Neoplasms	phenotype	
+Medulloblastoma	phenotype	
+Myocardial Infarction	phenotype	
+Myocardial Reperfusion Injury	phenotype	
+Obesity	phenotype	
+Osteomyelitis, sterile multifocal, with periostitis and pustulosis	phenotype	
+Osteoporosis	phenotype	
+Peptic ulcer	phenotype	
+Protein Deficiency	phenotype	
+Reperfusion Injury	phenotype	
+Stroke	phenotype	
+Tobacco Use Disorder	phenotype	
+Trisomy	phenotype	
+Chronic Chagas' disease	phenotype	
+Maternal diabetes	phenotype	
+Cataract, autosomal recessive congenital 5	phenotype	
+Cancer of mouth	phenotype	
+Malnutrition	phenotype	
+Lip and Oral Cavity Carcinoma	phenotype	
+Malignant neoplasm of lung	phenotype	
+Parkinsonism	phenotype	
+Acute Lung Injury	phenotype	
+Lung Injury	phenotype	
+Arsenic Poisoning	phenotype	
+Endotoxemia	phenotype	
+Non-alcoholic Fatty Liver Disease	phenotype	
+Neurodegenerative Diseases	phenotype	
+Hepatitis C, Chronic	phenotype	
+Breast carcinoma	phenotype	
+Lung cancer	phenotype	
+Neuroblastoma	phenotype	
+Drug-Induced Liver Injury	phenotype	
+Calcium oxalate urolithiasis	phenotype	
+Amyotrophic Lateral Sclerosis, Sporadic	phenotype	

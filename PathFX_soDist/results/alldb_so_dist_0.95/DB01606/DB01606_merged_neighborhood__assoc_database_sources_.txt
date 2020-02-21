@@ -1,0 +1,10 @@
+Gene	CUI	Source Databases	
+SLC22A8	C0011881	Diabetic Nephropathies	DisGeNet	
+SLC22A8	C0021400	Influenza	DisGeNet	
+SLC22A8	C0022658	Kidney Diseases	DisGeNet	
+SLC22A8	C0022660	Acute kidney injury	DisGeNet	
+SLC22A8	C0023434	Chronic Lymphocytic Leukemia	DisGeNet	
+SLC22A8	C0024299	Lymphoma, Large B-Cell, Diffuse	DisGeNet	
+SLC22A8	C0031117	Peripheral neuropathy, myopathy, hoarseness, and hearing loss	DisGeNet	
+SLC22A8	C0042769	Virus Diseases	DisGeNet	
+SLC22A8	C0812435	Chromosome 11p deletion syndrome	DisGeNet	

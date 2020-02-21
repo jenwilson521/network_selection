@@ -1,0 +1,480 @@
+Gene	CUI	Source Databases	
+AR	C0279565	Invasive Lobular Breast Carcinoma	DisGeNet	
+ESR1	C0279565	Invasive Lobular Breast Carcinoma	DisGeNet	
+AR	C4072886	Abnormal circulating gonadotropin level	HumPhenOnt	
+ESR1	C4072886	Abnormal circulating gonadotropin level	HumPhenOnt	
+AR	C0242787	Malignant neoplasm of male breast	DisGeNet	
+ESR1	C0242787	Malignant neoplasm of male breast	DisGeNet	
+AR	C0410702	Adolescent idiopathic scoliosis	DisGeNet	
+ESR1	C0410702	Adolescent idiopathic scoliosis	DisGeNet	
+AR	C4024640	Aplasia/hypoplasia of the uterus	HumPhenOnt	
+ESR1	C4024640	Aplasia/hypoplasia of the uterus	HumPhenOnt	
+AR	C0010701	Phyllodes tumor, benign	DisGeNet	
+ESR1	C0010701	Phyllodes tumor, benign	DisGeNet	
+AR	C0235653	Malignant neoplasm of female breast	DisGeNet	
+ESR1	C0235653	Malignant neoplasm of female breast	DisGeNet	
+AR	C1851710	Lehman syndrome	DisGeNet	
+ESR1	C1851710	Lehman syndrome	DisGeNet	
+AR	C0007104	Female Breast Carcinoma	DisGeNet	
+ESR1	C0007104	Female Breast Carcinoma	DisGeNet	
+AR	C0014173	Endometrial Hyperplasia	DisGeNet	
+ESR1	C0014173	Endometrial Hyperplasia	DisGeNet	
+AR	C0206727	Nerve Sheath Tumors	DisGeNet	
+ESR1	C0206727	Nerve Sheath Tumors	DisGeNet	
+AR	C0238033	Carcinoma of Male Breast	DisGeNet	
+ESR1	C0238033	Carcinoma of Male Breast	DisGeNet	
+AR	C1691215	Penile hypospadias	DisGeNet	
+ESR1	C1691215	Penile hypospadias	DisGeNet	
+AR	C0005426	Biliary tract neoplasm	DisGeNet	
+ESR1	C0005426	Biliary tract neoplasm	DisGeNet	
+AR	C0079218	Desmoid tumor	DisGeNet	
+ESR1	C0079218	Desmoid tumor	DisGeNet	
+AR	C0206692	Carcinoma, Lobular	DisGeNet	
+ESR1	C0206692	Carcinoma, Lobular	DisGeNet	
+AR	C0796369	Microsatellite Instability	DisGeNet	
+ESR1	C0796369	Microsatellite Instability	DisGeNet	
+AR	C0016034	Breast Fibrocystic Disease	DisGeNet	
+ESR1	C0016034	Breast Fibrocystic Disease	DisGeNet	
+AR	C0020506	Hyperpituitarism	HumPhenOnt	
+ESR1	C0020506	Hyperpituitarism	HumPhenOnt	
+AR	C0178421	Fibroadenoma of the breast	DisGeNet	
+ESR1	C0178421	Fibroadenoma of the breast	DisGeNet	
+AR	C1842981	NEUROTICISM	DisGeNet	
+ESR1	C1842981	NEUROTICISM	DisGeNet	
+AR	C0014130	Disorder of endocrine system	DisGeNet	
+ESR1	C0014130	Disorder of endocrine system	DisGeNet	
+AR	C1268717	Mammographic breast density	DisGeNet	
+ESR1	C1268717	Mammographic breast density	DisGeNet	
+AR	C0021361	Female infertility	DisGeNet	
+ESR1	C0021361	Female infertility	DisGeNet	
+AR	C0702166	Acne	DisGeNet	
+ESR1	C0702166	Acne	HumPhenOnt	
+AR	C0042138	Uterine neoplasm	DisGeNet	
+ESR1	C0042138	Uterine neoplasm	DisGeNet	
+AR	C0018203	Granulomatous disease, chronic, autosomal recessive, cytochrome b-negative	DisGeNet	
+ESR1	C0018203	Granulomatous disease, chronic, autosomal recessive, cytochrome b-negative	DisGeNet	
+AR	C1285162	Degenerative disease of the spinal cord	DisGeNet	
+ESR1	C1285162	Degenerative disease of the spinal cord	DisGeNet	
+AR	C0000809	Recurrent abortion	DisGeNet	
+ESR1	C0000809	Recurrent abortion	DisGeNet	
+AR	C0156543	Pregnancy loss	DisGeNet	
+ESR1	C0156543	Pregnancy loss	DisGeNet	
+AR	C0205217	Increased analgesia from kappa-opioid receptor agonist, female-specific	HumPhenOnt	
+ESR1	C0205217	Increased analgesia from kappa-opioid receptor agonist, female-specific	HumPhenOnt	
+AR	C1328504	Hormone refractory prostate cancer	DisGeNet	
+ESR1	C1328504	Hormone refractory prostate cancer	DisGeNet	
+AR	C0879615	Stromal Neoplasm	DisGeNet	
+ESR1	C0879615	Stromal Neoplasm	DisGeNet	
+AR	C0008487	Chordoma	DisGeNet	
+ESR1	C0008487	Chordoma	DisGeNet	
+AR	C0947622	Cholecystolithiasis	DisGeNet	
+ESR1	C0947622	Cholecystolithiasis	DisGeNet	
+AR	C0003504	Aortic regurgitation	DisGeNet	
+ESR1	C0003504	Aortic regurgitation	DisGeNet	
+AR	C0518010	body mass	DisGeNet	
+ESR1	C0518010	body mass	DisGeNet	
+AR	C0029458	Postmenopausal osteoporosis	DisGeNet	
+ESR1	C0029458	Postmenopausal osteoporosis	DisGeNet	
+AR	C0855197	Testicular malignant germ cell tumor	DisGeNet	
+ESR1	C0855197	Testicular malignant germ cell tumor	DisGeNet	
+AR	C0750952	Biliary Tract Cancer	DisGeNet	
+ESR1	C0750952	Biliary Tract Cancer	DisGeNet	
+AR	C1153706	Endometrial adenocarcinoma	DisGeNet	
+ESR1	C1153706	Endometrial adenocarcinoma	DisGeNet	
+AR	C1336708	Testicular Germ Cell Tumor	DisGeNet	
+ESR1	C1336708	Testicular Germ Cell Tumor	DisGeNet	
+AR	C0018418	Gynecomastia	DisGeNet,HumPhenOnt	
+ESR1	C0018418	Gynecomastia	DisGeNet	
+AR	C0206701	High grade serous carcinoma	DisGeNet	
+ESR1	C0206701	High grade serous carcinoma	DisGeNet	
+AR	C0232939	Delayed menarche	DisGeNet,HumPhenOnt	
+ESR1	C0232939	Delayed menarche	HumPhenOnt	
+AR	C0031154	Peritonitis	DisGeNet	
+ESR1	C0031154	Peritonitis	DisGeNet	
+AR	C0858252	Breast adenocarcinoma	DisGeNet	
+ESR1	C0858252	Breast adenocarcinoma	DisGeNet	
+AR	C0409959	Knee osteoarthritis	DisGeNet	
+ESR1	C0409959	Knee osteoarthritis	DisGeNet	
+AR	C0086132	Depressive Symptoms	DisGeNet	
+ESR1	C0086132	Depressive Symptoms	DisGeNet	
+AR	C0025322	Premature ovarian failure	DisGeNet	
+ESR1	C0025322	Premature ovarian failure	DisGeNet	
+AR	C0021359	Infertility associated with multi-tailed spermatozoa and excessive DNA	DisGeNet,HumPhenOnt	
+ESR1	C0021359	Infertility associated with multi-tailed spermatozoa and excessive DNA	DisGeNet	
+AR	C0282612	Prostatic Intraepithelial Neoplasias	DisGeNet	
+ESR1	C0282612	Prostatic Intraepithelial Neoplasias	DisGeNet	
+AR	C1336076	Sporadic Breast Carcinoma	DisGeNet	
+ESR1	C1336076	Sporadic Breast Carcinoma	DisGeNet	
+AR	C0002453	Amenorrhea	DisGeNet,HumPhenOnt	
+ESR1	C0002453	Amenorrhea	HumPhenOnt	
+AR	C0028960	Oligospermia	DisGeNet	
+ESR1	C0028960	Oligospermia	DisGeNet	
+AR	C1654637	androgen independent prostate cancer	DisGeNet	
+ESR1	C1654637	androgen independent prostate cancer	DisGeNet	
+AR	C0266383	Abnormal uterus morphology	HumPhenOnt	
+ESR1	C0266383	Abnormal uterus morphology	HumPhenOnt	
+AR	C0007112	Adenocarcinoma of prostate	DisGeNet	
+ESR1	C0007112	Adenocarcinoma of prostate	DisGeNet	
+AR	C0677932	Progressive Neoplastic Disease	DisGeNet	
+ESR1	C0677932	Progressive Neoplastic Disease	DisGeNet	
+AR	C3539781	Progressive cGVHD	DisGeNet	
+ESR1	C3539781	Progressive cGVHD	DisGeNet	
+AR	C0346957	Disseminated Malignant Neoplasm	DisGeNet	
+ESR1	C0346957	Disseminated Malignant Neoplasm	DisGeNet	
+AR	C4025888	Abnormality of the menstrual cycle	HumPhenOnt	
+ESR1	C4025888	Abnormality of the menstrual cycle	HumPhenOnt	
+AR	C0376544	Hematopoietic Neoplasms	DisGeNet	
+ESR1	C0376544	Hematopoietic Neoplasms	DisGeNet	
+AR	C0008350	Cholelithiasis	DisGeNet	
+ESR1	C0008350	Cholelithiasis	DisGeNet	
+AR	C0236969	Substance-Related Disorders	DisGeNet	
+ESR1	C0236969	Substance-Related Disorders	DisGeNet	
+AR	C0040100	Thymoma	DisGeNet	
+ESR1	C0040100	Thymoma	DisGeNet	
+AR	C0156404	Menstrual irregularities	HumPhenOnt	
+ESR1	C0156404	Menstrual irregularities	HumPhenOnt	
+AR	C4023206	Abnormality of the anterior pituitary	HumPhenOnt	
+ESR1	C4023206	Abnormality of the anterior pituitary	HumPhenOnt	
+AR	C0010709	Cyst	DisGeNet	
+ESR1	C0010709	Cyst	DisGeNet	
+AR	C0030442	Bulbar palsy	HumPhenOnt	
+AR	C0036472	Scrub Typhus	DisGeNet	
+AR	C0036875	Disorders of Sex Development	DisGeNet	
+AR	C0812435	Chromosome 11p deletion syndrome	DisGeNet	
+AR	C3714757	Juvenile rheumatoid arthritis	DisGeNet	
+ESR1	C3714757	Juvenile rheumatoid arthritis	DisGeNet	
+AR	C1449563	Dilated cardiomyopathy 1A	DisGeNet	
+ESR1	C1449563	Dilated cardiomyopathy 1A	DisGeNet	
+AR	C0333997	Lymphoid hyperplasia	DisGeNet	
+ESR1	C0346402	Malignant neoplasm of adrenal cortex	DisGeNet	
+AR	C0409979	Neonatal Systemic lupus erythematosus	DisGeNet	
+ESR1	C3809250	Estrogen resistance	ClinVar,DisGeNet	
+AR	C4021779	Abnormality of the calf musculature	HumPhenOnt	
+ESR1	C0007868	Cervical dysplasia	DisGeNet	
+AR	C0022603	Seborrheic keratosis	DisGeNet	
+AR	C1833683	Calcium oxalate urolithiasis	DisGeNet	
+AR	C4025899	Abnormality of male internal genitalia	HumPhenOnt	
+AR	C0085215	Ovarian Failure, Premature	DisGeNet	
+ESR1	C0085215	Ovarian Failure, Premature	DisGeNet	
+ESR1	C0278493	Breast cancer recurrent	DisGeNet	
+ESR1	C0005694	Bladder neck obstruction	DisGeNet	
+ESR1	C0856727	Cholesterol gallstones	DisGeNet	
+AR	C0085207	Maternal diabetes	DisGeNet	
+ESR1	C0085207	Maternal diabetes	DisGeNet	
+AR	C0574763	Absent hair	HumPhenOnt	
+AR	C1265996	Large cell neuroendocrine carcinoma	DisGeNet	
+ESR1	C0019360	Herpes zoster disease	DisGeNet	
+AR	C0236663	Alcohol withdrawal syndrome	DisGeNet	
+AR	C0259779	Fibrous Dysplasia	DisGeNet	
+AR	C0751781	Dentatorubral pallidoluysian atrophy	DisGeNet	
+AR	C0497406	Overweight	DisGeNet	
+ESR1	C0497406	Overweight	DisGeNet	
+ESR1	C0005944	Metabolic Bone Disorder	DisGeNet	
+ESR1	C0266399	Hypoplasia of the uterus	HumPhenOnt	
+AR	C0574769	Alopecia of scalp	DisGeNet	
+AR	C0729353	Subfertility	DisGeNet	
+AR	C1519176	Pleomorphic adenoma of salivary gland	DisGeNet	
+AR	C0036631	Testicular seminoma	DisGeNet	
+ESR1	C0036631	Testicular seminoma	DisGeNet	
+AR	C0018790	Cardiac arrest	DisGeNet	
+ESR1	C0018790	Cardiac arrest	DisGeNet	
+AR	C1527349	Ductal Carcinoma	DisGeNet	
+ESR1	C1527349	Ductal Carcinoma	DisGeNet	
+ESR1	C0007286	Carpal tunnel syndrome	DisGeNet	
+AR	C0151860	Porencephaly	DisGeNet	
+ESR1	C0409952	Generalized osteoarthritis	DisGeNet	
+AR	C0426980	Motor symptoms	DisGeNet	
+AR	C0497496	Prostatitis	DisGeNet	
+AR	C0752353	Atrophy, Muscular, Spinobulbar	DisGeNet	
+ESR1	C0853662	Oestrogen deficiency	DisGeNet	
+AR	C1853195	Prostate Cancer, Hereditary, 7	DisGeNet	
+AR	C1858574	Sparse axillary hair	HumPhenOnt	
+AR	C0242339	Dyslipidemias	DisGeNet	
+ESR1	C0242339	Dyslipidemias	DisGeNet	
+ESR1	C0007867	Cervix Diseases	DisGeNet	
+ESR1	C0221228	Comedone	DisGeNet	
+AR	C0278838	Prostate cancer recurrent	DisGeNet	
+ESR1	C0333693	Triploidy syndrome	DisGeNet	
+AR	C0002793	Anaplasia	DisGeNet	
+ESR1	C0002793	Anaplasia	DisGeNet	
+AR	C1134719	Invasive Ductal Breast Carcinoma	DisGeNet	
+ESR1	C1134719	Invasive Ductal Breast Carcinoma	DisGeNet	
+ESR1	C0156344	Endometriosis of ovary	DisGeNet	
+ESR1	C0409957	Osteoarthritis of distal interphalangeal joint	DisGeNet	
+AR	C1279481	X-linked severe combined immunodeficiency	DisGeNet	
+AR	C0029928	Ovarian Diseases	DisGeNet	
+ESR1	C0029928	Ovarian Diseases	DisGeNet	
+AR	C0151514	Dermal atrophy	DisGeNet	
+ESR1	C0151514	Dermal atrophy	DisGeNet	
+AR	C0742257	Abnormal breast morphology	HumPhenOnt	
+ESR1	C0742257	Abnormal breast morphology	HumPhenOnt	
+AR	C0020302	Buphthalmos	DisGeNet	
+ESR1	C0032533	Polymyalgia Rheumatica	DisGeNet	
+AR	C1384494	Metastatic Carcinoma	DisGeNet	
+AR	C1858573	Sparse pubic hair	HumPhenOnt	
+AR	C4022287	Abnormality of the axillary hair	HumPhenOnt	
+AR	C4022288	Abnormality of the pubic hair	HumPhenOnt	
+AR	C0338106	Adenocarcinoma of colon	DisGeNet	
+ESR1	C0338106	Adenocarcinoma of colon	DisGeNet	
+AR	C4025829	Abnormality of the breast	HumPhenOnt	
+ESR1	C4025829	Abnormality of the breast	HumPhenOnt	
+ESR1	C0002382	Alveolar Bone Loss	DisGeNet	
+ESR1	C0009663	Condylomata Acuminata	DisGeNet	
+ESR1	C0011071	Sudden death	DisGeNet	
+ESR1	C0263746	Osteoarthritis of the hand	DisGeNet	
+ESR1	C3669246	Mammary adenocarcinoma	DisGeNet	
+AR	C0151721	Male hypogonadism	DisGeNet	
+AR	C0206661	Gonadoblastoma	HumPhenOnt	
+ESR1	C0852036	Pregnancy associated hypertension	DisGeNet	
+AR	C0153594	Malignant tumor of testis	DisGeNet	
+ESR1	C0153594	Malignant tumor of testis	DisGeNet	
+AR	C0205851	Germ cell neoplasia	DisGeNet,HumPhenOnt	
+ESR1	C0205851	Germ cell neoplasia	DisGeNet	
+AR	C4025819	Abnormality of the hypothalamus-pituitary axis	HumPhenOnt	
+ESR1	C4025819	Abnormality of the hypothalamus-pituitary axis	HumPhenOnt	
+ESR1	C0010072	Coronary Thrombosis	DisGeNet	
+ESR1	C0266013	Breast hypoplasia	HumPhenOnt	
+ESR1	C0268318	Cholestasis of pregnancy	DisGeNet	
+AR	C0280280	Prostate cancer stage C	DisGeNet	
+AR	C0349637	Common acute lymphoblastic leukemia	DisGeNet	
+ESR1	C0677659	Gastro-esophageal reflux disease with esophagitis	DisGeNet	
+ESR1	C0917996	Cerebral aneurysm	DisGeNet	
+ESR1	C2267227	Bulimia nervosa 1	DisGeNet	
+AR	C4022003	Erectile abnormalities	HumPhenOnt	
+AR	C0033575	Prostatic Diseases	DisGeNet	
+ESR1	C0206630	Stromal sarcoma	DisGeNet	
+AR	C1291314	21-hydroxylase deficiency	DisGeNet	
+AR	C1839259	Bulbo-Spinal Atrophy, X-Linked	DisGeNet	
+AR	C0000786	Spontaneous abortion	DisGeNet	
+ESR1	C0000786	Spontaneous abortion	DisGeNet	
+AR	C0004509	Azoospermia	DisGeNet,HumPhenOnt	
+ESR1	C0004509	Azoospermia	DisGeNet	
+AR	C0001144	Acne Vulgaris	DisGeNet	
+AR	C4025652	Abnormality of circulating hormone level	HumPhenOnt	
+ESR1	C4025652	Abnormality of circulating hormone level	HumPhenOnt	
+ESR1	C0000889	Acanthosis nigricans	HumPhenOnt	
+ESR1	C0206731	Angiofibromas	DisGeNet	
+AR	C0272138	Erythroblastosis	DisGeNet	
+AR	C0750979	Primary malignant neoplasm of brain	DisGeNet	
+ESR1	C4021551	Absence of secondary sex characteristics	HumPhenOnt	
+AR	C0345967	Malignant mesothelioma	DisGeNet	
+ESR1	C0345967	Malignant mesothelioma	DisGeNet	
+AR	C0014170	Endometrial Neoplasms	DisGeNet	
+ESR1	C0014170	Endometrial Neoplasms	DisGeNet	
+AR	C0038013	Ankylosing spondylitis	DisGeNet	
+ESR1	C0038013	Ankylosing spondylitis	DisGeNet	
+ESR1	C0002792	Anaphylactic shock NOS	DisGeNet	
+ESR1	C0007642	Cellulitis	DisGeNet	
+AR	C0149721	Left ventricular hypertrophy	DisGeNet	
+ESR1	C0149721	Left ventricular hypertrophy	DisGeNet	
+ESR1	C0016663	Pathologic fracture	DisGeNet	
+AR	C0027707	Tubulointerstitial nephritis	DisGeNet	
+AR	C0559260	Congenital scoliosis	DisGeNet	
+AR	C0598894	Monocytic leukemia	DisGeNet	
+ESR1	C0740858	Substance abuse problem	DisGeNet	
+ESR1	C1298180	Single tumor	DisGeNet	
+AR	C0027643	Neoplasm Recurrence, Local	DisGeNet	
+ESR1	C0027643	Neoplasm Recurrence, Local	DisGeNet	
+ESR1	C0014145	Yolk Sac Tumor	DisGeNet	
+AR	C0024302	Reticulosarcoma	DisGeNet	
+ESR1	C0029445	Bone necrosis	DisGeNet	
+AR	C0042341	Varicocele	DisGeNet	
+ESR1	C0042344	Varicose Ulcer	DisGeNet	
+AR	C0206716	Ganglioglioma	DisGeNet	
+ESR1	C1257930	Mammary Carcinoma, Human	DisGeNet	
+AR	C0848558	Hypospadias	DisGeNet,HumPhenOnt	
+ESR1	C0848558	Hypospadias	DisGeNet	
+ESR1	C0013238	Dry Eye Syndromes	DisGeNet	
+AR	C2911645	Weight Loss Adverse Event	DisGeNet	
+ESR1	C4021246	Abnormal epiphyseal ossification	HumPhenOnt	
+AR	C0149978	Rectal Carcinoma	DisGeNet	
+ESR1	C0149978	Rectal Carcinoma	DisGeNet	
+AR	C0022650	Kidney Calculi	DisGeNet	
+ESR1	C0085390	Li-Fraumeni syndrome	DisGeNet	
+AR	C1384583	Congenital absence of germinal epithelium of testes	DisGeNet	
+AR	C1847540	Spermatogenic failure 3	DisGeNet	
+AR	C0042755	Virilism	DisGeNet	
+AR	C0238395	Male pseudohermaphroditism	DisGeNet,HumPhenOnt	
+ESR1	C0740277	Bile duct cancer resectable	DisGeNet	
+AR	C0741899	Poorly differentiated carcinoma	DisGeNet	
+AR	C4024171	Abnormality of secondary sexual hair	HumPhenOnt	
+AR	C0007124	Noninfiltrating Intraductal Carcinoma	DisGeNet	
+ESR1	C0007124	Noninfiltrating Intraductal Carcinoma	DisGeNet	
+ESR1	C0032231	Pleuritis	DisGeNet	
+ESR1	C0948480	Coronary Restenosis	DisGeNet	
+ESR1	C0950124	Papillomavirus Infections	DisGeNet	
+ESR1	C1262091	Lymphocytic infiltration	DisGeNet	
+AR	C2931456	Prostate cancer, familial	DisGeNet	
+AR	C0156394	Clitoral hypertrophy	DisGeNet	
+AR	C0021364	Male infertility	DisGeNet	
+ESR1	C0021364	Male infertility	DisGeNet	
+AR	C0677776	Hereditary breast and ovarian cancer syndrome	DisGeNet	
+AR	C0024131	Lupus Vulgaris	DisGeNet	
+ESR1	C0024131	Lupus Vulgaris	DisGeNet	
+ESR1	C0014869	Peptic Esophagitis	DisGeNet	
+AR	C0033054	Prenatal Exposure Delayed Effects	DisGeNet	
+AR	C0393819	Polyradiculoneuropathy, Chronic Inflammatory Demyelinating	DisGeNet	
+AR	C0027830	Neurofibromas	DisGeNet	
+ESR1	C0151849	Elevated alkaline phosphatase	HumPhenOnt	
+ESR1	C0221002	Primary hyperparathyroidism	DisGeNet	
+ESR1	C4023911	Aplasia/Hypoplasia of the breasts	HumPhenOnt	
+ESR1	C0005941	Bone Diseases, Developmental	DisGeNet	
+AR	C0751778	Progressive myoclonus epilepsy	DisGeNet	
+AR	C0023267	Leiomyoma	DisGeNet	
+ESR1	C0023267	Leiomyoma	DisGeNet	
+AR	C0024138	Discoid lupus erythematosus	DisGeNet	
+ESR1	C0024138	Discoid lupus erythematosus	DisGeNet	
+AR	C0002893	Refractory anemia	DisGeNet	
+AR	C0521158	Recurrent tumor	DisGeNet	
+ESR1	C0521158	Recurrent tumor	DisGeNet	
+AR	C1516170	Cancer Cell Growth	DisGeNet	
+ESR1	C1516170	Cancer Cell Growth	DisGeNet	
+AR	C0525045	Mood Disorders	DisGeNet	
+ESR1	C0525045	Mood Disorders	DisGeNet	
+ESR1	C0341858	Endometriosis of uterus	DisGeNet	
+ESR1	C0600327	Toxic Shock Syndrome	DisGeNet	
+ESR1	C4025328	Abnormality of alkaline phosphatase activity	HumPhenOnt	
+ESR1	C0206693	Medullary carcinoma	DisGeNet	
+AR	C0238394	Female pseudohermaphroditism	HumPhenOnt	
+AR	C0334463	Malignant Fibrous Histiocytoma	DisGeNet	
+AR	C0752120	Spinocerebellar ataxia 1	DisGeNet	
+AR	C3665444	Chronic neutrophilia	DisGeNet	
+ESR1	C0014522	EPIDERMODYSPLASIA VERRUCIFORMIS	DisGeNet	
+ESR1	C0024266	Lymphocytic Choriomeningitis	DisGeNet	
+ESR1	C0751674	Lymphangiomyomatosis	DisGeNet	
+AR	C0042133	Uterine leiomyoma	DisGeNet	
+ESR1	C0042133	Uterine leiomyoma	DisGeNet	
+AR	C0021655	Insulin Resistance	DisGeNet	
+ESR1	C0021655	Insulin Resistance	DisGeNet	
+AR	C0149931	Migraine Disorders	DisGeNet	
+ESR1	C0149931	Migraine Disorders	ClinVar,DisGeNet	
+AR	C3495559	Juvenile idiopathic arthritis, enthesitis related arthritis	DisGeNet	
+ESR1	C3495559	Juvenile idiopathic arthritis, enthesitis related arthritis	DisGeNet	
+ESR1	C0030521	Neoplasm of the parathyroid gland	DisGeNet	
+ESR1	C0920420	cancer recurrence	DisGeNet	
+ESR1	C1569637	Adenocarcinoma, Endometrioid	DisGeNet	
+AR	C0003130	Hypoxia	DisGeNet	
+ESR1	C0003130	Hypoxia	DisGeNet	
+AR	C3272363	Ischemic Cerebrovascular Accident	DisGeNet	
+ESR1	C3272363	Ischemic Cerebrovascular Accident	DisGeNet	
+AR	C1291316	2,4-Dienoyl-CoA reductase deficiency	DisGeNet	
+ESR1	C3542024	Aortic valve disease 2	DisGeNet	
+AR	C2674432	Reduced bone mineral density	HumPhenOnt	
+ESR1	C2674432	Reduced bone mineral density	HumPhenOnt	
+AR	C0278488	Carcinoma breast stage IV	DisGeNet	
+ESR1	C0278488	Carcinoma breast stage IV	DisGeNet	
+ESR1	C0150312	Menopause present (finding)	DisGeNet	
+AR	C1446409	Hormone receptor positive tumor	DisGeNet	
+AR	C0003944	As If Personality	DisGeNet	
+ESR1	C0006145	Other specified disorders of breast	DisGeNet	
+ESR1	C0009241	Cognition Disorders	DisGeNet	
+ESR1	C0029410	Osteoarthritis of hip	DisGeNet	
+ESR1	C0600104	Obsessive-compulsive behavior	DisGeNet	
+AR	C0342492	Adrenal hyperplasia	DisGeNet	
+AR	C0027708	Wilms Tumor	DisGeNet	
+ESR1	C0027708	Wilms Tumor	DisGeNet	
+AR	C0027658	Neoplasms, Germ Cell and Embryonal	DisGeNet	
+ESR1	C0206726	gliosarcoma	DisGeNet	
+ESR1	C0677936	Refractory cancer	DisGeNet	
+ESR1	C2986665	Early-Stage Breast Carcinoma	DisGeNet	
+AR	C0239763	Gonadal neoplasm	HumPhenOnt	
+AR	C0015644	Fasciculations	DisGeNet,HumPhenOnt	
+ESR1	C0033941	Psychoses, Substance-Induced	DisGeNet	
+AR	C2945695	Limb ischemia	DisGeNet	
+ESR1	C0029421	Osteochondritis dissecans	DisGeNet	
+AR	C0019621	Histiocytosis, Langerhans-Cell	DisGeNet	
+ESR1	C0035344	Retinopathy of Prematurity	DisGeNet	
+AR	C0206081	 Hyperandrogenism, nonclassic type, due to 21-hydroxylase deficiency, 201910 (3)	DisGeNet	
+ESR1	C1527390	Neoplasms, Intracranial	DisGeNet	
+AR	C0853879	Invasive breast carcinoma	DisGeNet	
+ESR1	C0853879	Invasive breast carcinoma	DisGeNet	
+AR	C0032914	Preeclampsia/eclampsia 1	DisGeNet	
+ESR1	C0032914	Preeclampsia/eclampsia 1	DisGeNet	
+AR	C0019825	Dysphonia	HumPhenOnt	
+ESR1	C0036974	Shock, Septic	DisGeNet	
+AR	C0043194	Wiskott-Aldrich syndrome, 301000 (3)	DisGeNet	
+ESR1	C0017574	Gingivitis	DisGeNet	
+AR	C0025268	Multiple Endocrine Neoplasia Type 2a	DisGeNet	
+AR	C1333600	Familial colorectal cancer	DisGeNet	
+AR	C0003469	Anxiety Disorders	DisGeNet	
+ESR1	C0003469	Anxiety Disorders	DisGeNet	
+AR	C0025500	Mesothelioma, malignant	DisGeNet	
+ESR1	C0025500	Mesothelioma, malignant	DisGeNet	
+AR	C0030805	{Pemphigoid, susceptibility to} (2)	DisGeNet	
+AR	C0007194	Hypertrophic cardiomyopathy	DisGeNet	
+ESR1	C0007194	Hypertrophic cardiomyopathy	DisGeNet	
+AR	C0018799	Heart Diseases	DisGeNet	
+ESR1	C0018799	Heart Diseases	DisGeNet	
+AR	C0034194	Pyloric Stenosis, Hypertrophic	DisGeNet	
+ESR1	C0349782	Ischemic cardiomyopathy	DisGeNet	
+ESR1	C4022922	Abnormal enzyme/coenzyme activity	HumPhenOnt	
+AR	C0001627	Congenital adrenal hyperplasia	DisGeNet	
+ESR1	C1511291	Breast Cancer Model	DisGeNet	
+AR	C4025784	Abnormality of the musculature of the lower limbs	HumPhenOnt	
+AR	C0007138	Urothelial Carcinoma	DisGeNet	
+ESR1	C0007138	Urothelial Carcinoma	DisGeNet	
+AR	C0409974	{Systemic lupus erythematosus, susceptibility to, 8} (2)	DisGeNet	
+ESR1	C0409974	{Systemic lupus erythematosus, susceptibility to, 8} (2)	DisGeNet	
+ESR1	C0013473	Eating disorder	DisGeNet	
+ESR1	C0269102	Endometrioma	DisGeNet	
+AR	C0032580	Familial adenomatous polyposis 1	DisGeNet	
+ESR1	C0032580	Familial adenomatous polyposis 1	DisGeNet	
+AR	C4021657	Abnormality of bone mineral density	HumPhenOnt	
+ESR1	C4021657	Abnormality of bone mineral density	HumPhenOnt	
+ESR1	C0278704	Malignant Childhood Neoplasm	DisGeNet	
+AR	C4025900	Abnormality of female internal genitalia	HumPhenOnt	
+ESR1	C4025900	Abnormality of female internal genitalia	HumPhenOnt	
+AR	C0948008	Ischemic stroke	DisGeNet	
+ESR1	C0948008	Ischemic stroke	DisGeNet	
+ESR1	C0154723	Migraine with aura	DisGeNet	
+AR	C0006826	Cancer of the lower GI tract	DisGeNet	
+ESR1	C0006826	Cancer of the lower GI tract	DisGeNet	
+ESR1	C0014599	Epithelial hyperplasia of skin	DisGeNet	
+AR	C0041696	Unipolar Depression	DisGeNet	
+ESR1	C0041696	Unipolar Depression	DisGeNet	
+ESR1	C0013182	Drug Allergy	DisGeNet	
+AR	C0024408	Azorean disease	DisGeNet	
+ESR1	C0025568	Metaplasia	DisGeNet	
+AR	C0038587	Substance Withdrawal Syndrome	DisGeNet	
+AR	C1318544	M5b Acute differentiated monocytic leukemia	DisGeNet	
+AR	C0007786	Brain Ischemia	DisGeNet	
+ESR1	C0007786	Brain Ischemia	DisGeNet	
+AR	C0008625	Chromosome Aberrations	DisGeNet	
+ESR1	C0014553	Absence seizures	DisGeNet	
+ESR1	C0242231	Coronary artery stenosis	DisGeNet	
+ESR1	C0011269	Dementia, Vascular	DisGeNet	
+ESR1	C0018206	granulosa cell tumor	DisGeNet	
+AR	C0333875	High-Grade Squamous Intraepithelial Lesions	DisGeNet	
+AR	C1704272	Benign Prostatic Hyperplasia	DisGeNet	
+ESR1	C1704272	Benign Prostatic Hyperplasia	DisGeNet	
+AR	C4025824	Abnormal internal genitalia	HumPhenOnt	
+ESR1	C4025824	Abnormal internal genitalia	HumPhenOnt	
+ESR1	C0028768	Obsessive-compulsive disorder	DisGeNet	
+AR	C0679347	Genital neoplasm	HumPhenOnt	
+ESR1	C0007130	Mucinous Adenocarcinoma	DisGeNet	
+ESR1	C0008354	Cholera	DisGeNet	
+ESR1	C0520463	Chronic active hepatitis	DisGeNet	
+AR	C4023598	Abnormal glucose homeostasis	HumPhenOnt	
+ESR1	C4023598	Abnormal glucose homeostasis	HumPhenOnt	
+ESR1	C0019340	Herpes NOS	DisGeNet	
+AR	C0026821	Muscle cramps	HumPhenOnt	
+ESR1	C0206656	Embryonal rhabdomyosarcoma	DisGeNet	
+ESR1	C0158623	Abnormality of the coronary arteries	HumPhenOnt	
+ESR1	C1519689	Tumor Promotion	DisGeNet	
+AR	C0027859	Vestibular Schwannoma	DisGeNet	
+AR	C0149516	Chronic sinusitis	DisGeNet	
+ESR1	C0206667	Adrenocortical adenoma	DisGeNet	
+AR	C0266362	Ambiguous genitalia	DisGeNet	
+ESR1	C0852949	Cerebral autosomal recessive arteriopathy with subcortical infarcts and leukoencephalopathy	DisGeNet	
+AR	C4023820	Abnormality of the female genitalia	HumPhenOnt	
+ESR1	C4023820	Abnormality of the female genitalia	HumPhenOnt	
+AR	C0027868	Neuromuscular Diseases	DisGeNet	
+AR	C4025895	Abnormality of the scrotum	HumPhenOnt	
+AR	C0238463	Papillary thyroid carcinoma	DisGeNet	
+ESR1	C0238463	Papillary thyroid carcinoma	DisGeNet	
+AR	C0025286	Meningioma	DisGeNet	
+ESR1	C0025286	Meningioma	DisGeNet	
+AR	C0007115	Thyroid cancer, nonmedullary, 4	DisGeNet	
+ESR1	C0007115	Thyroid cancer, nonmedullary, 4	DisGeNet	
+AR	C0007193	Cardiomyopathy, Dilated	DisGeNet	
+ESR1	C0007193	Cardiomyopathy, Dilated	DisGeNet	

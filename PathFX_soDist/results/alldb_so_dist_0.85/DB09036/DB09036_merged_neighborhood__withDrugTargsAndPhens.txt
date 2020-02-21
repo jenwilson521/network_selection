@@ -1,0 +1,80 @@
+node1	node2	edge_score	
+DB09036	IL6	1.0	
+DB09036	CYP3A4	1.0	
+CYP3A4	rs35599367	0.99
+CYP3A4	rs2242480	0.99
+rs2740574	CYP3A	0.9801
+CYP3A4	rs4646437	0.99
+CYP3A4	rs2246709	0.99
+CYP3A	rs12721627	0.970299
+CYP3A4	CYP3A4*1, CYP3A4*4	0.99
+rs4987161	CYP3A	0.9801
+rs12721627	CYP3A	0.9801
+CYP3A4	rs3735451	0.99
+IL6		1.0
+CYP3A4		1.0
+rs12721627	CYP3A4	0.96059601
+CYP3A4	rs4987161	0.99
+CYP3A4	CYP3A4*1, CYP3A4*22	0.99
+CYP3A	rs2740574	0.970299
+rs4987161	CYP3A4	0.96059601
+CYP3A4	rs2740574	0.99
+rs2740574	CYP3A4	0.96059601
+CYP3A4	rs28371759	0.99
+CYP3A4	rs4986910	0.99
+CYP3A	rs4987161	0.970299
+CYP3A4	CYP3A4*1, CYP3A4*20, CYP3A4*8	0.99
+CYP3A4	rs4646440	0.99
+CYP3A4	rs12721627	0.99
+CYP3A4	CYP3A4*1, CYP3A4*1G	0.99
+CYP3A4	rs56324128	0.99
+Primary malignant neoplasm of liver	CYP3A4	1.0	
+Primary malignant neoplasm of liver	IL6	1.0	
+Cocaine delirium	CYP3A4	1.0	
+Cocaine delirium	IL6	1.0	
+Acute postoperative pain	CYP3A4	1.0	
+Acute postoperative pain	IL6	1.0	
+Pain insensitivity	CYP3A4	1.0	
+Pain insensitivity	IL6	1.0	
+gliosarcoma	CYP3A4	1.0	
+gliosarcoma	IL6	1.0	
+Thromboembolism	CYP3A4	1.0	
+Thromboembolism	IL6	1.0	
+Peripheral T-Cell Lymphoma	CYP3A4	1.0	
+Peripheral T-Cell Lymphoma	IL6	1.0	
+Depressive Symptoms	CYP3A4	1.0	
+Depressive Symptoms	IL6	1.0	
+Hepatitis, Autoimmune	CYP3A4	1.0	
+Hepatitis, Autoimmune	IL6	1.0	
+Acute hepatic failure	CYP3A4	1.0	
+Acute hepatic failure	IL6	1.0	
+Leg Ulcer	IL6	1.0	
+Scrub Typhus	IL6	1.0	
+Elevated C-reactive protein level	IL6	1.0	
+Neoplastic Cell Transformation	CYP3A4	1.0	
+Neoplastic Cell Transformation	IL6	1.0	
+Chronic liver disease	CYP3A4	1.0	
+Chronic liver disease	IL6	1.0	
+Acute-Phase Reaction	IL6	1.0	
+Anemia of chronic disease	IL6	1.0	
+Congenital short bowel syndrome	IL6	1.0	
+Chronic sciatica	IL6	1.0	
+Aneurysm, Ruptured	IL6	1.0	
+Acute hepatitis	IL6	1.0	
+Abnormal erythrocyte sedimentation rate	IL6	1.0	
+Inappropriate ADH Syndrome	IL6	1.0	
+Myoepithelioma	IL6	1.0	
+Lobar Pneumonia	IL6	1.0	
+Q Fever	IL6	1.0	
+HIV encephalitis	IL6	1.0	
+Urolithiasis	IL6	1.0	
+Morphologically altered structure	IL6	1.0	
+Cardiovascular morbidity	IL6	1.0	
+Bovine Anaplasmosis	IL6	1.0	
+Thrombosis of retinal vein	IL6	1.0	
+Epidermolysis bullosa simplex, Cockayne-Touraine type	IL6	1.0	
+Periodontal Attachment Loss	IL6	1.0	
+Lung Injury	IL6	1.0	
+Early gastric cancer	IL6	1.0	
+Malignant neoplasm of vulva	IL6	1.0	
+Cryopyrin-Associated Periodic Syndromes	IL6	1.0	

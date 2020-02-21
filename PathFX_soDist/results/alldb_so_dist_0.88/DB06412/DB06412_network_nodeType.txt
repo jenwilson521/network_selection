@@ -1,0 +1,13 @@
+node_name	node_type	
+DB06412	drug	
+CYP3A43	drug_target	
+CYP2D6	drug_target	
+ALB	drug_target	
+SHBG	drug_target	
+MAOA	drug_target	
+AR	drug_target	
+CYP3A4	drug_target	
+CYP3A5	drug_target	
+NPPB	drug_target	
+Primary malignant neoplasm of liver	phenotype	
+Pain insensitivity	phenotype	

@@ -1,0 +1,112 @@
+node1	node2	edge_score	
+DB00584	ACE	1.0	
+DB00584	ALB	1.0	
+DB00584	ABCB1	1.0	
+DB00584	SLC22A6	1.0	
+DB00584	SLCO1A2	1.0	
+DB00584	CYP3A4	1.0	
+DB00584	SLC22A8	1.0	
+CYP3A4	rs35599367	0.99
+ABCB1	rs4148740	0.99
+CYP3A4	rs2242480	0.99
+ACE	rs4359	0.99
+ABCB1	rs2032583	0.99
+rs2740574	CYP3A	0.9801
+ABCB1	rs10280101	0.99
+ABCB1	rs3213619	0.99
+ABCB1	rs3842	0.99
+CYP3A4	rs4646437	0.99
+ABCB1	rs11983225	0.99
+CYP3A4		1.0
+ACE	rs4646994	0.99
+ABCB1	ABCB1*1, ABCB1*2(PMID:11503014)	0.99
+ABCB1	ABCB1*2(PMID:11503014)	0.99
+ABCB1	rs1922242	0.99
+CYP3A4	rs2246709	0.99
+ABCB1		1.0
+CYP3A4	CYP3A4*1, CYP3A4*4	0.99
+rs4987161	CYP3A	0.9801
+rs12721627	CYP3A	0.9801
+ACE	rs4292	0.99
+CYP3A4	rs3735451	0.99
+ABCB1	rs12720067	0.99
+SLCO1A2		1.0
+ACE	rs4344	0.99
+ACE	rs1799752	0.99
+rs12721627	CYP3A4	0.96059601
+ABCB1	rs10267099	0.99
+rs4987161	CYP3A4	0.96059601
+ABCB1	rs7787082	0.99
+CYP3A4	CYP3A4*1, CYP3A4*22	0.99
+CYP3A	rs2740574	0.970299
+ABCB1	rs4148739	0.99
+ABCB1	rs72552784	0.99
+ABCB1	rs28401781	0.99
+ABCB1	rs2235047	0.99
+ALB		1.0
+ABCB1	rs17160359	0.99
+ACE	rs4291	0.99
+ACE		1.0
+ABCB1	rs4148737	0.99
+ABCB1	rs2235015	0.99
+CYP3A4	CYP3A4*1, CYP3A4*20, CYP3A4*8	0.99
+ABCB1	rs2229109	0.99
+CYP3A4	rs2740574	0.99
+ABCB1	rs1045642	0.99
+rs2740574	CYP3A4	0.96059601
+ABCB1	rs4148738	0.99
+CYP3A4	rs28371759	0.99
+CYP3A4	rs4986910	0.99
+CYP3A	rs4987161	0.970299
+CYP3A4	rs4987161	0.99
+ABCB1	rs3789243	0.99
+ABCB1	rs1128503	0.99
+ABCB1	rs10276036	0.99
+ABCB1	rs10248420	0.99
+ABCB1	rs2032582	0.99
+ABCB1	rs4728709	0.99
+SLC22A8		1.0
+ACE	rs4343	0.99
+CYP3A	rs12721627	0.970299
+ABCB1	rs2235067	0.99
+CYP3A4	rs4646440	0.99
+CYP3A4	rs12721627	0.99
+ABCB1	rs9282564	0.99
+CYP3A4	CYP3A4*1, CYP3A4*1G	0.99
+ABCB1	rs2235040	0.99
+ACE	rs4341	0.99
+CYP3A4	rs56324128	0.99
+Femur Head Necrosis	ABCB1	1.0	
+Femur Head Necrosis	ACE	1.0	
+Femur Head Necrosis	CYP3A4	1.0	
+Acute postoperative pain	ABCB1	1.0	
+Acute postoperative pain	ACE	1.0	
+Acute postoperative pain	CYP3A4	1.0	
+Nephrotic Syndrome, Minimal Change	ABCB1	1.0	
+Nephrotic Syndrome, Minimal Change	ACE	1.0	
+Nephrotic Syndrome, Minimal Change	ALB	1.0	
+Bone necrosis	ABCB1	1.0	
+Bone necrosis	ACE	1.0	
+Bone necrosis	CYP3A4	1.0	
+Primary malignant neoplasm of liver	ABCB1	1.0	
+Primary malignant neoplasm of liver	CYP3A4	1.0	
+Malignant neoplasm of adrenal cortex	ABCB1	1.0	
+Malignant neoplasm of adrenal cortex	ALB	1.0	
+Esophageal varix	ACE	1.0	
+Esophageal varix	ALB	1.0	
+Steroid-sensitive nephrotic syndrome	ABCB1	1.0	
+Steroid-sensitive nephrotic syndrome	ACE	1.0	
+Drug Allergy	ABCB1	1.0	
+Drug Allergy	ACE	1.0	
+Drug Allergy	CYP3A4	1.0	
+Recurrent E. coli infections	ABCB1	1.0	
+Recurrent E. coli infections	ACE	1.0	
+Chromosomal translocation	ABCB1	1.0	
+Chromosomal translocation	ACE	1.0	
+Proliferative retinopathy	ACE	1.0	
+Proliferative retinopathy	ALB	1.0	
+Acute kidney injury	ABCB1	1.0	
+Acute kidney injury	ACE	1.0	
+Acute kidney injury	ALB	1.0	
+Acute kidney injury	CYP3A4	1.0	
+Acute kidney injury	SLC22A8	1.0	

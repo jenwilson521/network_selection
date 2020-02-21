@@ -1,0 +1,282 @@
+node1	node2	edge_score	
+DB06643	TNFSF11	1.0	
+TNFSF11		1.0
+Abnormality of multiple cell lineages in the bone marrow	TNFSF11	1.0	
+ Adenocarcinoma, ovarian, somatic, 167000 (3)	TNFSF11	1.0	
+Alveolar Bone Loss	TNFSF11	1.0	
+Alzheimer Disease	TNFSF11	1.0	
+Ameloblastoma	TNFSF11	1.0	
+Amyotrophic Lateral Sclerosis	TNFSF11	1.0	
+Anemia	TNFSF11	1.0	
+Aortic valve stenosis	TNFSF11	1.0	
+Apnea	TNFSF11	1.0	
+Arteriosclerosis	TNFSF11	1.0	
+Arthritis, Rheumatoid	TNFSF11	1.0	
+Rheumatoid arthritis	TNFSF11	1.0	
+Atherosclerosis	TNFSF11	1.0	
+Abnormal concentration of calcium in blood	TNFSF11	1.0	
+Autoimmune disease 1	TNFSF11	1.0	
+Bone Diseases	TNFSF11	1.0	
+Bone neoplasms	TNFSF11	1.0	
+Breast-ovarian cancer, familial 1	TNFSF11	1.0	
+Calcinosis	TNFSF11	1.0	
+Non-small cell lung carcinoma	TNFSF11	1.0	
+Renal cell carcinoma, nonpapillary	TNFSF11	1.0	
+Cardiovascular Diseases	TNFSF11	1.0	
+Abnormality of the pulmonary artery	TNFSF11	1.0	
+Constitutional symptom	TNFSF11	1.0	
+Bruising susceptibility	TNFSF11	1.0	
+Craniosynostoses	TNFSF11	1.0	
+Crohn Disease	TNFSF11	1.0	
+Dental Caries	TNFSF11	1.0	
+Diabetes Mellitus, Type 1	TNFSF11	1.0	
+Diabetes mellitus type 1	TNFSF11	1.0	
+Type 1 diabetic neuropathy	TNFSF11	1.0	
+Abnormality of the eye	TNFSF11	1.0	
+Facial palsy	TNFSF11	1.0	
+Recurrent fractures	TNFSF11	1.0	
+Pathologic fracture	TNFSF11	1.0	
+Giant Cell Tumors	TNFSF11	1.0	
+Gingival Diseases	TNFSF11	1.0	
+Heart Defects, Congenital	TNFSF11	1.0	
+Hepatomegaly	TNFSF11	1.0	
+Hepatosplenomegaly	TNFSF11	1.0	
+Hydrocephalus	TNFSF11	1.0	
+Hypercalcemia, infantile, 2	TNFSF11	1.0	
+Hyperostosis	TNFSF11	1.0	
+Cranial hyperostosis	TNFSF11	1.0	
+Hyperparathyroidism 4	TNFSF11	1.0	
+Hypocalcemia	TNFSF11	1.0	
+Chronic Lymphocytic Leukemia	TNFSF11	1.0	
+Leukemia, T-cell acute lymphoblastoid (2)	TNFSF11	1.0	
+Adult T-Cell Lymphoma/Leukemia	TNFSF11	1.0	
+Liver Diseases	TNFSF11	1.0	
+Lupus Erythematosus, Systemic	TNFSF11	1.0	
+Lymphoma, Large B-Cell, Diffuse	TNFSF11	1.0	
+Lymphoma, Follicular	TNFSF11	1.0	
+Animal Mammary Neoplasms	TNFSF11	1.0	
+Measles	TNFSF11	1.0	
+Melanoma	TNFSF11	1.0	
+Monoclonal Gammopathy of Undetermined Significance	TNFSF11	1.0	
+Abnormality of the mouth	TNFSF11	1.0	
+Abnormality of movement	TNFSF11	1.0	
+Multiple Myeloma	TNFSF11	1.0	
+Multiple Sclerosis	TNFSF11	1.0	
+Mycoses	TNFSF11	1.0	
+Myocardial Infarction	TNFSF11	1.0	
+Myocarditis	TNFSF11	1.0	
+Secondary hypertriglyceridemia	TNFSF11	1.0	
+Nystagmus	TNFSF11	1.0	
+Obesity	TNFSF11	1.0	
+Optic atrophy 10 with or without ataxia, mental retardation, and seizures	TNFSF11	1.0	
+Abnormality of the optic nerve	TNFSF11	1.0	
+Osteoarthritis	TNFSF11	1.0	
+Osteoarthritis of hip	TNFSF11	1.0	
+Osteomalacia	TNFSF11	1.0	
+Osteomyelitis, sterile multifocal, with periostitis and pustulosis	TNFSF11	1.0	
+Osteopetrosis autosomal recessive 4	TNFSF11	1.0	
+Osteoporosis	TNFSF11	1.0	
+Postmenopausal osteoporosis	TNFSF11	1.0	
+Increased bone mineral density	TNFSF11	1.0	
+Otitis media	TNFSF11	1.0	
+Pain	TNFSF11	1.0	
+Pallor	TNFSF11	1.0	
+Pancytopenia	TNFSF11	1.0	
+Periodontitis	TNFSF11	1.0	
+Precancerous Conditions	TNFSF11	1.0	
+Prostatic Neoplasms	TNFSF11	1.0	
+Respiratory tract infection	TNFSF11	1.0	
+Rhinitis, Allergic, Seasonal	TNFSF11	1.0	
+Scoliosis	TNFSF11	1.0	
+Sezary Syndrome	TNFSF11	1.0	
+Abnormality of the skin	TNFSF11	1.0	
+Splenomegaly	TNFSF11	1.0	
+Ankylosing spondylitis	TNFSF11	1.0	
+Stomach Neoplasms	TNFSF11	1.0	
+Synovitis	TNFSF11	1.0	
+Thrombocytopenia, platelet dysfunction, hemolysis, and imbalanced globin synthesis	TNFSF11	1.0	
+Tobacco Use Disorder	TNFSF11	1.0	
+Abnormality of dental morphology	TNFSF11	1.0	
+Tremor, hereditary essential, 5	TNFSF11	1.0	
+Visceromegaly	TNFSF11	1.0	
+Hypophosphatemia	TNFSF11	1.0	
+Abnormality of the lymph nodes	TNFSF11	1.0	
+Cranial nerve paralysis	TNFSF11	1.0	
+Abnormal CSF metabolite level	TNFSF11	1.0	
+Bone pain	TNFSF11	1.0	
+Abnormality of thrombocytes	TNFSF11	1.0	
+Cancer of mouth	TNFSF11	1.0	
+Corneal pannus	TNFSF11	1.0	
+Abnormality of the hair	TNFSF11	1.0	
+Vascular skin abnormality	TNFSF11	1.0	
+Tumor Progression	TNFSF11	1.0	
+Abnormal QRS complex	TNFSF11	1.0	
+Giant cell tumor of bone	TNFSF11	1.0	
+Neuroendocrine neoplasm	TNFSF11	1.0	
+Lip and Oral Cavity Carcinoma	TNFSF11	1.0	
+Osteolysis	TNFSF11	1.0	
+Macrocephaly, dysmorphic facies, and psychomotor retardation	TNFSF11	1.0	
+Premature loss of teeth	TNFSF11	1.0	
+Abnormality of the skull	TNFSF11	1.0	
+Pulmonary artery stenosis	TNFSF11	1.0	
+bone destruction	TNFSF11	1.0	
+Delayed eruption of teeth	TNFSF11	1.0	
+Abnormality of limbs	TNFSF11	1.0	
+Infections, recurrent, with encephalopathy, hepatic dysfunction, and cardiovascular malformations	TNFSF11	1.0	
+Abnormal joint morphology	TNFSF11	1.0	
+Abnormality of the heart valves	TNFSF11	1.0	
+Abnormality of blood and blood-forming tissues	TNFSF11	1.0	
+Malignant neoplasm of lung	TNFSF11	1.0	
+Abnormality of cardiovascular system electrophysiology	TNFSF11	1.0	
+Fibrous Dysplasia	TNFSF11	1.0	
+Growth abnormality	TNFSF11	1.0	
+Abnormality of the nose	TNFSF11	1.0	
+Abnormality of the digestive system	TNFSF11	1.0	
+Abnormality of the ear	TNFSF11	1.0	
+Chronic Periodontitis	TNFSF11	1.0	
+Superficial ulcer	TNFSF11	1.0	
+Malignant tumor of prostate	TNFSF11	1.0	
+Abnormality of erythrocytes	TNFSF11	1.0	
+Mandibular prognathia	TNFSF11	1.0	
+Knee osteoarthritis	TNFSF11	1.0	
+Narrow chest	TNFSF11	1.0	
+Involuntary movements	TNFSF11	1.0	
+Autosomal recessive inheritance	TNFSF11	1.0	
+Growth delay	TNFSF11	1.0	
+Blindness	TNFSF11	1.0	
+Lymphadenopathy	TNFSF11	1.0	
+Abnormality of eye movement	TNFSF11	1.0	
+Abnormality of the nervous system	TNFSF11	1.0	
+Hematocrit level	TNFSF11	1.0	
+Abnormality of visual evoked potentials	TNFSF11	1.0	
+Paralysis	TNFSF11	1.0	
+Bowing of limbs due to multiple fractures	TNFSF11	1.0	
+Genu valgum	TNFSF11	1.0	
+Abnormal platelet count	TNFSF11	1.0	
+Osteosarcoma	TNFSF11	1.0	
+Carcinogenesis	TNFSF11	1.0	
+Prostate carcinoma	TNFSF11	1.0	
+Breast carcinoma	TNFSF11	1.0	
+Lung cancer	TNFSF11	1.0	
+Neuroblastoma	TNFSF11	1.0	
+Abnormal morphology of the great vessels	TNFSF11	1.0	
+Central core disease	TNFSF11	1.0	
+Subcutaneous hemorrhage	TNFSF11	1.0	
+Abnormality of head or neck	TNFSF11	1.0	
+{Spondyloarthropathy, susceptibility to, 1}, 106300 (3)	TNFSF11	1.0	
+Abnormality of the lower limb	TNFSF11	1.0	
+Squamous cell carcinoma of the head and neck	TNFSF11	1.0	
+Blood pressure finding	TNFSF11	1.0	
+Systemic arterial pressure	TNFSF11	1.0	
+Hearing impairment	TNFSF11	1.0	
+Bone fragility with contractures, arterial rupture, and deafness	TNFSF11	1.0	
+Hormone receptor positive tumor	TNFSF11	1.0	
+Abnormal bleeding	TNFSF11	1.0	
+Tumor Angiogenesis	TNFSF11	1.0	
+Xenograft Model	TNFSF11	1.0	
+Abnormality of T cell count	TNFSF11	1.0	
+Abnormality of temperature regulation	TNFSF11	1.0	
+Abnormal pattern of respiration	TNFSF11	1.0	
+Thoracic hypoplasia	TNFSF11	1.0	
+Abnormality of the ribs	TNFSF11	1.0	
+Abnormality of the cranial nerves	TNFSF11	1.0	
+Bowing of the long bones	TNFSF11	1.0	
+Abnormality of dental eruption	TNFSF11	1.0	
+Abnormality of the middle ear	TNFSF11	1.0	
+Abnormal blistering of the skin	TNFSF11	1.0	
+Hepatocellular carcinoma	TNFSF11	1.0	
+Abnormality of facial skeleton	TNFSF11	1.0	
+Reduced bone mineral density	TNFSF11	1.0	
+Clear-cell metastatic renal cell carcinoma	TNFSF11	1.0	
+Abnormality of the pulmonary valve	TNFSF11	1.0	
+Pulmonary arterial hypertension	TNFSF11	1.0	
+Secondary malignant neoplasm of pancreas	TNFSF11	1.0	
+Juvenile idiopathic arthritis, enthesitis related arthritis	TNFSF11	1.0	
+Visual impairment	TNFSF11	1.0	
+Elevated pulmonary artery pressure	TNFSF11	1.0	
+Recurrent respiratory infections	TNFSF11	1.0	
+Abnormality of the optic disc	TNFSF11	1.0	
+Abnormality of the respiratory system	TNFSF11	1.0	
+Abnormality of fontanelles	TNFSF11	1.0	
+Abnormality of abdomen morphology	TNFSF11	1.0	
+Abnormality of lower limb joint	TNFSF11	1.0	
+Abnormality of brain morphology	TNFSF11	1.0	
+Generalized abnormality of skin	TNFSF11	1.0	
+Abnormality of long bone morphology	TNFSF11	1.0	
+Anomaly of the limb diaphyses	TNFSF11	1.0	
+Abnormality of primary teeth	TNFSF11	1.0	
+Abnormality of epiphysis morphology	TNFSF11	1.0	
+Abnormality of bone marrow cell morphology	TNFSF11	1.0	
+Abnormality of bone mineral density	TNFSF11	1.0	
+Abnormality of the musculature	TNFSF11	1.0	
+Abnormality of the immune system	TNFSF11	1.0	
+Abnormality of lung morphology	TNFSF11	1.0	
+Abnormality of the abdominal organs	TNFSF11	1.0	
+Morphological abnormality of the central nervous system	TNFSF11	1.0	
+Abnormality of metabolism/homeostasis	TNFSF11	1.0	
+Abnormality of the liver	TNFSF11	1.0	
+Abnormal diaphysis morphology	TNFSF11	1.0	
+Abnormality of the skeletal system	TNFSF11	1.0	
+Abnormality of the thorax	TNFSF11	1.0	
+Abnormality of the head	TNFSF11	1.0	
+Abnormality of the calf	TNFSF11	1.0	
+Abnormality of the lymphatic system	TNFSF11	1.0	
+Abnormality of phosphate homeostasis	TNFSF11	1.0	
+Abnormality of limb bone	TNFSF11	1.0	
+Weakness of facial musculature	TNFSF11	1.0	
+Abnormal vascular physiology	TNFSF11	1.0	
+Increased inflammatory response	TNFSF11	1.0	
+Abnormal inflammatory response	TNFSF11	1.0	
+Abnormality of nervous system morphology	TNFSF11	1.0	
+Abnormality of nervous system physiology	TNFSF11	1.0	
+Abnormal involuntary eye movements	TNFSF11	1.0	
+Abnormality of the globe	TNFSF11	1.0	
+Abnormal eye physiology	TNFSF11	1.0	
+Abnormal eye morphology	TNFSF11	1.0	
+Abnormal respiratory system morphology	TNFSF11	1.0	
+Abnormal bone ossification	TNFSF11	1.0	
+Abnormal appendicular skeleton morphology	TNFSF11	1.0	
+Abnormality of skeletal physiology	TNFSF11	1.0	
+Abnormality of skeletal morphology	TNFSF11	1.0	
+Abnormality of facial soft tissue	TNFSF11	1.0	
+Abnormality of central motor function	TNFSF11	1.0	
+Abnormality of cranial sutures	TNFSF11	1.0	
+Abnormality of skin adnexa morphology	TNFSF11	1.0	
+Abnormality of skin morphology	TNFSF11	1.0	
+Abnormality of dental structure	TNFSF11	1.0	
+Abnormality of cardiovascular system physiology	TNFSF11	1.0	
+Abnormality of immune system physiology	TNFSF11	1.0	
+Abnormality of cation homeostasis	TNFSF11	1.0	
+Abnormality of divalent inorganic cation homeostasis	TNFSF11	1.0	
+Abnormality of hair texture	TNFSF11	1.0	
+Abnormal axial skeleton morphology	TNFSF11	1.0	
+Abnormality of the pulmonary vasculature	TNFSF11	1.0	
+Abnormality of calcium homeostasis	TNFSF11	1.0	
+Abnormality of the posterior segment of the globe	TNFSF11	1.0	
+Abnormal bone structure	TNFSF11	1.0	
+Abnormality of ion homeostasis	TNFSF11	1.0	
+Abnormality of the knee	TNFSF11	1.0	
+Functional respiratory abnormality	TNFSF11	1.0	
+Abnormality of the calvaria	TNFSF11	1.0	
+Abnormality of calvarial morphology	TNFSF11	1.0	
+Abnormality of the cerebral ventricles	TNFSF11	1.0	
+Abnormality of the spleen	TNFSF11	1.0	
+Abnormality of the integument	TNFSF11	1.0	
+Abnormality of the rib cage	TNFSF11	1.0	
+Abnormality of the fundus	TNFSF11	1.0	
+Abnormal peripheral nervous system morphology	TNFSF11	1.0	
+Abnormality of vision	TNFSF11	1.0	
+Hearing abnormality	TNFSF11	1.0	
+Abnormality of the chin	TNFSF11	1.0	
+Abnormality of facial musculature	TNFSF11	1.0	
+Abnormality of the mandible	TNFSF11	1.0	
+Abnormality of the face	TNFSF11	1.0	
+Abnormality of skull size	TNFSF11	1.0	
+Abnormality of the oral cavity	TNFSF11	1.0	
+Abnormality of cardiovascular system morphology	TNFSF11	1.0	
+Abnormal visual electrophysiology	TNFSF11	1.0	
+Abnormality of limb bone morphology	TNFSF11	1.0	
+Increased head circumference	TNFSF11	1.0	
+Abnormality of pulmonary circulation	TNFSF11	1.0	
+Abnormal jaw morphology	TNFSF11	1.0	
+Abnormal vascular morphology	TNFSF11	1.0	

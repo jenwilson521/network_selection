@@ -1,0 +1,2 @@
+rank	phenotype	cui	assoc in neigh	assoc in intom	probability	Benjamini-Hochberg	genes	
+16	Nicotine Dependence	C0028043	2	113	9.206563024100056e-05	0.000104575163399	CHRM2,HTR3A

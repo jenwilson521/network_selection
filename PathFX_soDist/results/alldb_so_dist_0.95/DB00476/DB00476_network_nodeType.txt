@@ -1,0 +1,23 @@
+node_name	node_type	
+DB00476	drug	
+CYP2C9	drug_target	
+SLC6A3	drug_target	
+CYP1A2	drug_target	
+SLC6A2	drug_target	
+CYP2D6	drug_target	
+SLC6A4	drug_target	
+ALB	drug_target	
+ABCB1	drug_target	
+Adverse drug events and drug allergies	phenotype	
+Nausea	phenotype	
+Heroin Dependence	phenotype	
+Methamphetamine abuse	phenotype	
+Drug usage	phenotype	
+Gastrointestinal Diseases	phenotype	
+Behavior Disorders	phenotype	
+Substance Use Disorders	phenotype	
+Tardive Dyskinesia	phenotype	
+Chronic schizophrenia	phenotype	
+Acute postoperative pain	phenotype	
+Orofacial dyskinesia	phenotype	
+Personality disorder	phenotype	

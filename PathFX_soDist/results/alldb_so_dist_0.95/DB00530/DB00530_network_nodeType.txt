@@ -1,0 +1,36 @@
+node_name	node_type	
+DB00530	drug	
+CYP2C8	drug_target	
+CYP1A2	drug_target	
+CYP1B1	drug_target	
+ORM1	drug_target	
+CYP2D6	drug_target	
+CYP1A1	drug_target	
+EGFR	drug_target	
+ALB	drug_target	
+ABCG2	drug_target	
+NR1I2	drug_target	
+ABCB1	drug_target	
+SLCO2B1	drug_target	
+CYP3A4	drug_target	
+CYP3A5	drug_target	
+UGT1A1	drug_target	
+Drug Allergy	phenotype	
+Febrile Neutropenia	phenotype	
+Hyperbilirubinemia	phenotype	
+Hepatitis D Infection	phenotype	
+Pleural Neoplasms	phenotype	
+Squamous Cell Neoplasms	phenotype	
+Cholelithiasis	phenotype	
+Leukopenia	phenotype	
+Hearing Loss, Partial	phenotype	
+Adverse drug events and drug allergies	phenotype	
+Primary malignant neoplasm of liver	phenotype	
+Mammographic breast density	phenotype	
+Head and Neck Neoplasms	phenotype	
+Neutropenia	phenotype	
+Genomic Instability	phenotype	
+Bronchogenic Carcinoma	phenotype	
+Chemical Carcinogenesis	phenotype	
+Diarrhea 8, secretory sodium, congenital	phenotype	
+Neoplasm of the larynx	phenotype	

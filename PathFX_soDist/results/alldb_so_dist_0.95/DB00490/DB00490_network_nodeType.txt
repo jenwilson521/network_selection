@@ -1,0 +1,19 @@
+node_name	node_type	
+DB00490	drug	
+CYP2D6	drug_target	
+DRD2	drug_target	
+ABCB1	drug_target	
+CYP3A4	drug_target	
+CYP3A5	drug_target	
+HTR1A	drug_target	
+Primary malignant neoplasm of liver	phenotype	
+Pain insensitivity	phenotype	
+Heroin Dependence	phenotype	
+Opiate Addiction	phenotype	
+Dyskinesia, Drug-Induced	phenotype	
+As If Personality	phenotype	
+Tardive Dyskinesia	phenotype	
+Cocaine delirium	phenotype	
+Gastroparesis	phenotype	
+Chronic schizophrenia	phenotype	
+Acute postoperative pain	phenotype	

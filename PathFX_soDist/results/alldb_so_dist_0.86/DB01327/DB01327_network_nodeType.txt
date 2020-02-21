@@ -1,0 +1,22 @@
+node_name	node_type	
+DB01327	drug	
+PON1	drug_target	
+TPMT	drug_target	
+ALB	drug_target	
+IL15	drug_target	
+SLC22A11	drug_target	
+SLC22A6	drug_target	
+IL2	drug_target	
+ABCC4	drug_target	
+SLC22A8	drug_target	
+Complications of Diabetes Mellitus	phenotype	
+Chromosome 11p deletion syndrome	phenotype	
+Epidermolysis bullosa simplex, Cockayne-Touraine type	phenotype	
+Chronic ulcerative colitis	phenotype	
+Mesangiocapillary glomerulonephritis, type II	phenotype	
+Malnutrition	phenotype	
+Hyperlipoproteinemia	phenotype	
+Myelopathy	phenotype	
+Primary biliary cirrhosis	phenotype	
+Guillain-Barre syndrome, familial	phenotype	
+Chronic liver disease	phenotype	

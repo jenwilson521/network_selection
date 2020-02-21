@@ -1,0 +1,6 @@
+node1	node2	edge_score	
+DB00631	ABCG2	1.0	
+DB00631	POLA1	1.0	
+DB00631	RRM1	1.0	
+DB00631	DCK	1.0	
+

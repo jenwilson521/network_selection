@@ -1,0 +1,16 @@
+Gene	CUI	Source Databases	
+CYP2A6	C0032229	Pleural Neoplasms	DisGeNet	
+CYP2E1	C0032229	Pleural Neoplasms	DisGeNet	
+CYP2E1	C0206720	Squamous Cell Neoplasms	DisGeNet	
+CYP3A4	C0206720	Squamous Cell Neoplasms	DisGeNet	
+CHRM2	C0085762	Alcohol abuse	DisGeNet	
+CYP2E1	C0085762	Alcohol abuse	DisGeNet	
+CYP3A4	C0085762	Alcohol abuse	DisGeNet	
+CYP2A6	C0023055	Neoplasm of the larynx	DisGeNet	
+CYP2E1	C0023055	Neoplasm of the larynx	DisGeNet	
+CYP3A4	C0023055	Neoplasm of the larynx	DisGeNet	
+CYP2A6	C0919532	Genomic Instability	DisGeNet	
+CYP2E1	C0919532	Genomic Instability	DisGeNet	
+CHRM2	C0028043	Nicotine Dependence	DisGeNet	
+CYP2A6	C0028043	Nicotine Dependence	DisGeNet	
+CYP2E1	C0028043	Nicotine Dependence	DisGeNet	

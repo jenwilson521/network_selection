@@ -1,0 +1,16 @@
+node_name	node_type	
+DB00072	drug	
+ERBB2	drug_target	
+FCGR2B	drug_target	
+EGFR	drug_target	
+CYP19A1	drug_target	
+C1QC	drug_target	
+FCGR2C	drug_target	
+C1QA	drug_target	
+FCGR2A	drug_target	
+FCGR1A	drug_target	
+C1S	drug_target	
+C1R	drug_target	
+FCGR3A	drug_target	
+FCGR3B	drug_target	
+C1QB	drug_target	

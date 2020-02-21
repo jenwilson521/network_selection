@@ -1,0 +1,58 @@
+node1	node2	edge_score	
+DB00774	CA9	1.0	
+DB00774	CA2	1.0	
+DB00774	CA1	1.0	
+DB00774	KCNMA1	1.0	
+DB00774	CA4	1.0	
+DB00774	ATP1A1	1.0	
+DB00774	CA12	1.0	
+KCNMA1	complex:lAo9+jzjVOaRJSWZQvoh0G1mUDc	0.904977499353
+CA12		1.0
+KCNMA1		1.0
+Hyperkalemia	CA12	1.0	
+Bladder neck obstruction	KCNMA1	1.0	
+Abnormality of sodium homeostasis	CA12	1.0	
+Renal tubular acidosis, distal, autosomal dominant	KCNMA1	1.0	
+Hyponatremia	CA12	1.0	
+Metabolic Bone Disorder	KCNMA1	1.0	
+Complete trisomy 18 syndrome	KCNMA1	1.0	
+Dialeptic seizures	KCNMA1	1.0	
+Malignant neoplasm of male breast	CA12	1.0	
+Abnormality of potassium homeostasis	CA12	1.0	
+EEG with generalized epileptiform discharges	KCNMA1	1.0	
+Carcinoma of Male Breast	CA12	1.0	
+Toxic Shock Syndrome	KCNMA1	1.0	
+EEG with irregular generalized spike and wave complexes	KCNMA1	1.0	
+Abnormality of monovalent inorganic cation homeostasis	CA12	1.0	
+Diaphragmatic hernia	KCNMA1	1.0	
+Ovarian Serous Adenocarcinoma	KCNMA1	1.0	
+Primary hyperaldosteronism	KCNMA1	1.0	
+Epilepsy, generalized, with febrile seizures plus, type 6 (2)	KCNMA1	1.0	
+Absence seizures	KCNMA1	1.0	
+Generalized tonic-clonic seizures	KCNMA1	1.0	
+Dehydration	CA12	1.0	
+Lethargy	KCNMA1	1.0	
+Fibrinogen Adverse Event	KCNMA1	1.0	
+Chorea, childhood-onset, with psychomotor retardation	KCNMA1	1.0	
+Impotence	KCNMA1	1.0	
+Obesity, severe, 601665 (3)	KCNMA1	1.0	
+Metastatic malignant neoplasm to brain	KCNMA1	1.0	
+Generalized seizures	KCNMA1	1.0	
+Disseminated Malignant Neoplasm	KCNMA1	1.0	
+Autosomal dominant non-syndromic sensorineural deafness type DFNA	CA12	1.0	
+Autosomal dominant non-syndromic sensorineural deafness type DFNA	KCNMA1	1.0	
+Secondary hyperparathyroidism	KCNMA1	1.0	
+Tumor Initiation	KCNMA1	1.0	
+Status epilepticus	KCNMA1	1.0	
+Abnormality of cation homeostasis	CA12	1.0	
+Renal cell carcinoma, nonpapillary	CA12	1.0	
+Renal cell carcinoma, nonpapillary	KCNMA1	1.0	
+Abnormality of ion homeostasis	CA12	1.0	
+Tuberculosis, Pulmonary	CA12	1.0	
+Craniosynostoses	KCNMA1	1.0	
+EEG abnormality	KCNMA1	1.0	
+Hearing Loss, Mixed Conductive-Sensorineural	KCNMA1	1.0	
+Ductal Carcinoma	CA12	1.0	
+Abnormality of central nervous system electrophysiology	KCNMA1	1.0	
+Narcolepsy	KCNMA1	1.0	
+Hypospadias	KCNMA1	1.0	

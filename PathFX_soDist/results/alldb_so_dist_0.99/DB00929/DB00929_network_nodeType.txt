@@ -1,0 +1,5 @@
+node_name	node_type	
+DB00929	drug	
+PTGER4	drug_target	
+PTGER2	drug_target	
+PTGER3	drug_target	

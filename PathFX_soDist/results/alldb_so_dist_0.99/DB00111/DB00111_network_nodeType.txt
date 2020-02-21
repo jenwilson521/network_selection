@@ -1,0 +1,14 @@
+node_name	node_type	
+DB00111	drug	
+IL2RA	drug_target	
+IL2RB	drug_target	
+FCGR2B	drug_target	
+FCGR3A	drug_target	
+FCGR2C	drug_target	
+C1QA	drug_target	
+FCGR2A	drug_target	
+FCGR1A	drug_target	
+C1R	drug_target	
+FCGR3B	drug_target	
+C1QC	drug_target	
+C1QB	drug_target	

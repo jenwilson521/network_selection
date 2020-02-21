@@ -1,0 +1,6 @@
+node1	node2	edge_score	
+DB00841	ADRB1	1.0	
+DB00841	ADRB2	1.0	
+DB00841	COMT	1.0	
+DB00841	ESR1	1.0	
+

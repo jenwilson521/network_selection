@@ -1,0 +1,9 @@
+Gene	CUI	Source Databases	
+CYP2C19	C0751122	Severe myoclonic epilepsy in infancy	DisGeNet	
+GABRA1	C0751122	Severe myoclonic epilepsy in infancy	DisGeNet	
+CYP2C19	C0270736	Essential tremor	DisGeNet	
+GABRA1	C0270736	Essential tremor	DisGeNet	
+CYP2C19	C0023891	Liver Cirrhosis, Alcoholic	DisGeNet	
+GABRA1	C0023891	Liver Cirrhosis, Alcoholic	DisGeNet	
+CYP2C19	C0013146	Methamphetamine abuse	DisGeNet	
+GABRA1	C0013146	Methamphetamine abuse	DisGeNet	

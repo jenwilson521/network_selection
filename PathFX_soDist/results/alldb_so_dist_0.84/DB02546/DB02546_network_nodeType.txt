@@ -1,0 +1,70 @@
+node_name	node_type	
+DB02546	drug	
+HDAC1	drug_target	
+HDAC8	drug_target	
+HDAC3	drug_target	
+HDAC2	drug_target	
+HDAC6	drug_target	
+Stromal sarcoma	phenotype	
+Borderline Personality Disorder	phenotype	
+Carcinoma, Papillary	phenotype	
+Bronchopulmonary Dysplasia	phenotype	
+Cutaneous T-cell lymphoma	phenotype	
+polyps	phenotype	
+Pancreatic adenocarcinoma	phenotype	
+Cancer Cell Growth	phenotype	
+Hypoxia	phenotype	
+Intrauterine growth retardation	phenotype	
+Adrenal Gland Hyperfunction	phenotype	
+Liposarcoma, Dedifferentiated	phenotype	
+Pituitary dependent hypercortisolism	phenotype	
+Combined Hepatocellular Carcinoma and Cholangiocarcinoma	phenotype	
+Pituitary corticotropic cell adenoma	phenotype	
+Myeloid leukemia	phenotype	
+Xenograft Model	phenotype	
+Pancreatic Ductal Adenocarcinoma	phenotype	
+Hepatic cancer metastatic	phenotype	
+Glucocorticoid resistance, generalized	phenotype	
+Neoplasm of the parathyroid gland	phenotype	
+Colonic Polyps	phenotype	
+Microsatellite Instability	phenotype	
+Right ventricular hypertrophy	phenotype	
+Bronchitis	phenotype	
+Endometriosis	phenotype	
+Pemphigus Vulgaris	phenotype	
+Adenocarcinoma of lung	phenotype	
+Testicular malignant germ cell tumor	phenotype	
+Spastic syndrome	phenotype	
+Leukoencephalopathy, Progressive Multifocal	phenotype	
+Stomach Neoplasms	phenotype	
+Teratoma	phenotype	
+Intrahepatic Cholangiocarcinoma	phenotype	
+Hereditary nonpolyposis colorectal cancer type 8	phenotype	
+Intestinal Neoplasms	phenotype	
+Colorectal Neoplasms	phenotype	
+Stroke	phenotype	
+Amyotrophic lateral sclerosis type 1	phenotype	
+Allergic rhinitis	phenotype	
+Amyotrophy involving the shoulder musculature	phenotype	
+Embryonal Carcinoma	phenotype	
+Melanocytic nevus	phenotype	
+Spinal muscular atrophy with congenital bone fractures 2	phenotype	
+Gallbladder Carcinoma	phenotype	
+Cycloid psychosis	phenotype	
+Asthma	phenotype	
+Pulmonary Emphysema	phenotype	
+Metastatic Prostate Carcinoma	phenotype	
+Hypergranular promyelocytic leukemia	phenotype	
+Prostatic Neoplasms	phenotype	
+Neuroblastoma	phenotype	
+Malignant neoplasm of pancreas	phenotype	
+Malignant tumor of testis	phenotype	
+Fibrosarcoma	phenotype	
+Memory impairment	phenotype	
+Pancreatic Carcinoma	phenotype	
+Endometrial Neoplasms	phenotype	
+Colon cancer	phenotype	
+Acute myeloid leukemia	phenotype	
+Cardiomegaly	phenotype	
+Squamous cell carcinoma	phenotype	
+Carcinoma of colon	phenotype	

@@ -1,0 +1,5 @@
+node_name	node_type	
+DB00876	drug	
+AGTR1	drug_target	
+ABCC2	drug_target	
+Gastrointestinal Diseases	phenotype	

@@ -1,0 +1,29 @@
+node_name	node_type	
+DB00575	drug	
+ADRA1A	drug_target	
+CYP1A1	drug_target	
+CYP1A2	drug_target	
+ADRA1B	drug_target	
+ADRA1D	drug_target	
+CYP2D6	drug_target	
+ADRA2A	drug_target	
+ADRA2B	drug_target	
+ADRA2C	drug_target	
+SLC22A4	drug_target	
+SLC22A5	drug_target	
+ABCB1	drug_target	
+SLC22A3	drug_target	
+CYP3A4	drug_target	
+CYP3A5	drug_target	
+Primary malignant neoplasm of liver	phenotype	
+Congenital long QT syndrome	phenotype	
+Chronic schizophrenia	phenotype	
+Acute postoperative pain	phenotype	
+Low back pain	phenotype	
+Dyskinesia, Drug-Induced	phenotype	
+Polydipsia	phenotype	
+Pain insensitivity	phenotype	
+Chronic sciatica	phenotype	
+Squamous Cell Neoplasms	phenotype	
+Tardive Dyskinesia	phenotype	
+Gastroparesis	phenotype	

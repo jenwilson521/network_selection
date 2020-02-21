@@ -1,0 +1,32 @@
+Gene	CUI	Source Databases	
+CHRNA4	C0270850	Idiopathic generalized epilepsy	DisGeNet	
+CHRNA7	C0270850	Idiopathic generalized epilepsy	DisGeNet	
+GABRA1	C0270850	Idiopathic generalized epilepsy	ClinVar,DisGeNet	
+GABRA6	C0270850	Idiopathic generalized epilepsy	DisGeNet	
+CHRNA4	C0270853	Juvenile myoclonic epilepsy	DisGeNet	
+CHRNA7	C0270853	Juvenile myoclonic epilepsy	DisGeNet	
+GABRA1	C0270853	Juvenile myoclonic epilepsy	ClinVar,DisGeNet	
+CHRNA4	C0028043	Nicotine Dependence	DisGeNet	
+CHRNA7	C0028043	Nicotine Dependence	DisGeNet	
+CYP2A6	C0028043	Nicotine Dependence	DisGeNet	
+CHRNA4	C0751495	Focal seizures	HumPhenOnt	
+GABRA1	C0751495	Focal seizures	HumPhenOnt	
+CHRNA7	C0003944	As If Personality	DisGeNet	
+CYP2A6	C0003944	As If Personality	DisGeNet	
+CHRNA4	C1842981	NEUROTICISM	DisGeNet	
+GABRA6	C1842981	NEUROTICISM	DisGeNet	
+CHRNA4	C0014548	Epilepsy, generalized, with febrile seizures plus, type 6 (2)	DisGeNet	
+CHRNA7	C0014548	Epilepsy, generalized, with febrile seizures plus, type 6 (2)	DisGeNet	
+CHRNA4	C0014544	Epilepsy	DisGeNet	
+CHRNA7	C0014544	Epilepsy	DisGeNet	
+CYP2A6	C0014544	Epilepsy	DisGeNet	
+GABRA1	C0014544	Epilepsy	ClinVar,DisGeNet	
+GABRA6	C0014544	Epilepsy	DisGeNet	
+CHRNA4	C1836598	Incomplete penetrance	HumPhenOnt	
+CHRNA7	C1836598	Incomplete penetrance	HumPhenOnt	
+CHRNA4	C0009952	Febrile seizures, familial, 4	DisGeNet	
+GABRA1	C0009952	Febrile seizures, familial, 4	HumPhenOnt	
+GABRA1	C0085762	Alcohol abuse	DisGeNet	
+GABRA6	C0085762	Alcohol abuse	DisGeNet	
+CHRNA7	C0024809	Marijuana Abuse	DisGeNet	
+GABRA6	C0024809	Marijuana Abuse	DisGeNet	

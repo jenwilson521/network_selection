@@ -1,0 +1,42 @@
+Gene	CUI	Source Databases	
+DHFR	C0016412	Folic Acid Deficiency	DisGeNet	
+FPGS	C0016412	Folic Acid Deficiency	DisGeNet	
+SLC19A1	C0016412	Folic Acid Deficiency	DisGeNet	
+TYMS	C0016412	Folic Acid Deficiency	DisGeNet	
+DHFR	C0041755	Adverse drug events and drug allergies	DisGeNet	
+SLC19A1	C0041755	Adverse drug events and drug allergies	DisGeNet	
+TYMS	C0041755	Adverse drug events and drug allergies	DisGeNet	
+DHFR	C0080178	Spina bifida	DisGeNet	
+FPGS	C0080178	Spina bifida	DisGeNet	
+SLC19A1	C0080178	Spina bifida	DisGeNet	
+TYMS	C0080178	Spina bifida	DisGeNet	
+ENOSF1	C0598608	Hereditary hyperhomocysteinemia	DisGeNet	
+SLC19A1	C0598608	Hereditary hyperhomocysteinemia	DisGeNet	
+TYMS	C0598608	Hereditary hyperhomocysteinemia	DisGeNet	
+DHFR	C0854467	Myelosuppression	DisGeNet	
+TYMS	C0854467	Myelosuppression	DisGeNet	
+DHFR	C0856825	Acute GVH disease	DisGeNet	
+SLC19A1	C0856825	Acute GVH disease	DisGeNet	
+TYMS	C0856825	Acute GVH disease	DisGeNet	
+SLC19A1	C0038362	Stomatitis	DisGeNet	
+TYMS	C0038362	Stomatitis	DisGeNet	
+DHFR	C0677936	Refractory cancer	DisGeNet	
+TYMS	C0677936	Refractory cancer	DisGeNet	
+ENOSF1	C0162871	Aortic Aneurysm, Abdominal	DisGeNet	
+SLC19A1	C0162871	Aortic Aneurysm, Abdominal	DisGeNet	
+TYMS	C0162871	Aortic Aneurysm, Abdominal	DisGeNet	
+DHFR	C0023452	Leukemia, Lymphocytic, Acute, L1	DisGeNet	
+FPGS	C0023452	Leukemia, Lymphocytic, Acute, L1	DisGeNet	
+SLC19A1	C0023452	Leukemia, Lymphocytic, Acute, L1	DisGeNet	
+TYMS	C0023452	Leukemia, Lymphocytic, Acute, L1	DisGeNet	
+DHFR	C0027794	Neural tube defect	DisGeNet	
+SLC19A1	C0027794	Neural tube defect	DisGeNet	
+TYMS	C0027794	Neural tube defect	DisGeNet	
+DHFR	C0021361	Female infertility	DisGeNet	
+SLC19A1	C0021361	Female infertility	DisGeNet	
+SLC19A1	C0013182	Drug Allergy	DisGeNet	
+TYMS	C0013182	Drug Allergy	DisGeNet	
+FPGS	C0017178	Gastrointestinal Diseases	DisGeNet	
+TYMS	C0017178	Gastrointestinal Diseases	DisGeNet	
+DHFR	C0242723	Parasitemia	DisGeNet	
+ENOSF1	C0242723	Parasitemia	DisGeNet	

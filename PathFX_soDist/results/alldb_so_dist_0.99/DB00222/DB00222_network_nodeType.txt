@@ -1,0 +1,7 @@
+node_name	node_type	
+DB00222	drug	
+CYP2C9	drug_target	
+ABCB11	drug_target	
+ABCC8	drug_target	
+KCNJ1	drug_target	
+KCNJ11	drug_target	

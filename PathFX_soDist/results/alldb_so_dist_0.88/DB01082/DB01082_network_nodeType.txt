@@ -1,0 +1,4 @@
+node_name	node_type	
+DB01082	drug	
+SLC22A6	drug_target	
+PADI4	drug_target	

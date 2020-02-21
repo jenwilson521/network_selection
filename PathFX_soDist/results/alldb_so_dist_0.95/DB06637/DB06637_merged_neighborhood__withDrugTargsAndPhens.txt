@@ -1,0 +1,56 @@
+node1	node2	edge_score	
+DB06637	KCND3	1.0	
+DB06637	KCND2	1.0	
+DB06637	KCNC1	1.0	
+DB06637	KCNB1	1.0	
+DB06637	CYP2E1	1.0	
+DB06637	SLC22A2	1.0	
+DB06637	KCNA10	1.0	
+DB06637	KCNB2	1.0	
+DB06637	KCNA4	1.0	
+DB06637	KCNA5	1.0	
+DB06637	KCNA2	1.0	
+DB06637	KCNA3	1.0	
+DB06637	KCNA1	1.0	
+CYP2E1	rs2070673	0.99
+CYP2E1	rs2515641	0.99
+CYP2E1	rs2031920	0.99
+CYP2E1	rs2070676	0.99
+CYP2E1	rs6413432	0.99
+CYP2E1	CYP2E1*1A, CYP2E1*5B	0.99
+CYP2E1		1.0
+SLC22A2		1.0
+Drug Eruptions	CYP2E1	1.0	
+Latent Tuberculosis	CYP2E1	1.0	
+Slow acetylator due to N-acetyltransferase enzyme variant	CYP2E1	1.0	
+Neoplasms, Multiple Primary	CYP2E1	1.0	
+Pleural Neoplasms	CYP2E1	1.0	
+Malignant neoplasm of pharynx	CYP2E1	1.0	
+Squamous Cell Neoplasms	CYP2E1	1.0	
+Extrahepatic cholestasis	SLC22A2	1.0	
+Cholestatic liver disease	CYP2E1	1.0	
+Pericardial effusion	SLC22A2	1.0	
+Adenoviral infections	CYP2E1	1.0	
+Erythrocytosis	CYP2E1	1.0	
+Antisocial Personality Disorder	CYP2E1	1.0	
+Genomic Instability	CYP2E1	1.0	
+alcohol use disorder	CYP2E1	1.0	
+End Stage Liver Disease	CYP2E1	1.0	
+Pancreatitis, Alcoholic	CYP2E1	1.0	
+Alcoholic Steatohepatitis	CYP2E1	1.0	
+Stomach Diseases	CYP2E1	1.0	
+Bone necrosis	CYP2E1	1.0	
+Neoplasm of the respiratory system	CYP2E1	1.0	
+Leukoplakia	CYP2E1	1.0	
+Prenatal Exposure Delayed Effects	CYP2E1	1.0	
+Squamous intraepithelial lesion	CYP2E1	1.0	
+Necrosis	CYP2E1	1.0	
+Respiratory Tract Diseases	CYP2E1	1.0	
+Intrahepatic cholestasis	SLC22A2	1.0	
+Adverse drug events and drug allergies	CYP2E1	1.0	
+Cooley's anemia	CYP2E1	1.0	
+As If Personality	CYP2E1	1.0	
+Childhood Leukemia	CYP2E1	1.0	
+Neurodegeneration with brain iron accumulation 4	CYP2E1	1.0	
+Occupational Diseases	CYP2E1	1.0	
+Hyperuricemia, pulmonary hypertension, renal failure, and alkalosis	SLC22A2	1.0	

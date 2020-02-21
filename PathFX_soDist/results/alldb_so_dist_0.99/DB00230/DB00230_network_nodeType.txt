@@ -1,0 +1,5 @@
+node_name	node_type	
+DB00230	drug	
+CACNA2D1	drug_target	
+SLC7A5	drug_target	
+SLC1A1	drug_target	

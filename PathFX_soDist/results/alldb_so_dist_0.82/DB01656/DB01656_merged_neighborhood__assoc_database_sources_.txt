@@ -1,0 +1,11 @@
+Gene	CUI	Source Databases	
+ALB	C0010308	Congenital hypothyroidism	DisGeNet	
+PDE4D	C0010308	Congenital hypothyroidism	HumPhenOnt	
+CYP3A4	C0686347	Tardive Dyskinesia	DisGeNet	
+PDE4B	C0686347	Tardive Dyskinesia	DisGeNet	
+ALB	C0042749	 {HIV-1 viremia, susceptibility to}, 609423 (3)	DisGeNet	
+CYP3A4	C0042749	 {HIV-1 viremia, susceptibility to}, 609423 (3)	DisGeNet	
+CYP3A4	C0152115	Orofacial dyskinesia	DisGeNet	
+PDE4B	C0152115	Orofacial dyskinesia	DisGeNet	
+PDE4B	C0236733	Amphetamine-Related Disorders	DisGeNet	
+PDE4D	C0236733	Amphetamine-Related Disorders	DisGeNet	

@@ -1,0 +1,104 @@
+Gene	CUI	Source Databases	
+PDE4B	C0236733	Amphetamine-Related Disorders	DisGeNet	
+PDE4D	C0236733	Amphetamine-Related Disorders	DisGeNet	
+PDE4D	C0042487	Venous thrombosis	HumPhenOnt	
+PTGIR	C0042487	Venous thrombosis	DisGeNet	
+PDE4D	C0085681	Hyperphosphatemia	HumPhenOnt	
+PDE4D	C0220659	 Acrodysostosis 1, with or without hormone resistance, 101800 (3)	DisGeNet	
+PDE4D	C0578626	Blue irides	HumPhenOnt	
+PDE4D	C3494506	Pseudohypoparathyroidism, Type Ia	DisGeNet	
+PDE4D	C0033806	Pseudohypoparathyroidism type 1A	DisGeNet,HumPhenOnt	
+PDE4D	C1859126	Epiphyseal stippling	HumPhenOnt	
+PDE4D	C0685381	Hypoplasia of the radius	HumPhenOnt	
+PDE4D	C4023400	Generalized hypopigmentation of hair	HumPhenOnt	
+PDE4D	C0266061	Open bite	HumPhenOnt	
+PDE4D	C1849020	Short metatarsal	HumPhenOnt	
+PDE4D	C1860182	Aplasia/Hypoplasia of metatarsal bones	HumPhenOnt	
+PTGIR	C0340708	Deep vein thrombosis of lower limb	DisGeNet	
+PTGIR	C0151950	Deep thrombophlebitis	DisGeNet	
+PDE4D	C4022401	Abnormal morphology of the radius	HumPhenOnt	
+PDE4D	C4021246	Abnormal epiphyseal ossification	HumPhenOnt	
+PDE4B	C0013386	Dyskinesia, Drug-Induced	DisGeNet	
+PDE4D	C1860614	Hypoplasia of the ulna	HumPhenOnt	
+PDE4D	C4022453	Abnormal morphology of ulna	HumPhenOnt	
+PDE4D	C0020598	Hypocalcemia	HumPhenOnt	
+PDE4D	C0545053	Accelerated skeletal maturation	HumPhenOnt	
+PDE4D	C4022032	Abnormality of phosphate homeostasis	HumPhenOnt	
+PDE4D	C0042373	Vascular Diseases	DisGeNet	
+PTGIR	C0042373	Vascular Diseases	DisGeNet	
+PDE4D	C1865037	Cone-shaped epiphyses fused within their metaphyses	HumPhenOnt	
+PDE4D	C1865571	Aplasia/Hypoplasia of the ulna	HumPhenOnt	
+PDE4D	C4022809	Abnormality of intracranial pressure	HumPhenOnt	
+PDE4D	C4023198	Abnormality of the parathyroid physiology	HumPhenOnt	
+PDE4D	C0234251	Inflammatory pain	DisGeNet	
+PDE4D	C0151740	Increased intracranial pressure	HumPhenOnt	
+PDE4D	C0239479	Round face	HumPhenOnt	
+PDE4D	C0010308	Congenital hypothyroidism	HumPhenOnt	
+PDE4D	C0240379	Open mouth	HumPhenOnt	
+PDE4B	C0004096	Asthma	DisGeNet	
+PDE4D	C0004096	Asthma	DisGeNet	
+PTGIR	C0004096	Asthma	DisGeNet	
+PDE4B	C0686347	Tardive Dyskinesia	DisGeNet	
+PDE4D	C4025822	Abnormality of the parathyroid gland	HumPhenOnt	
+PDE4D	C0205351	Proportionate short stature	HumPhenOnt	
+PDE4D	C1855299	Forearm undergrowth	HumPhenOnt	
+PDE4D	C1842981	NEUROTICISM	DisGeNet	
+PDE4B	C0151744	Acute myocardial ischemia	DisGeNet	
+PDE4D	C0151744	Acute myocardial ischemia	DisGeNet	
+PDE4B	C0311375	Arsenic Poisoning	DisGeNet	
+PDE4D	C0332463	Narrow femoral neck	HumPhenOnt	
+PDE4D	C1837406	Upper limb undergrowth	HumPhenOnt	
+PDE4D	C2749463	Aplasia/Hypoplasia of the radius	HumPhenOnt	
+PDE4D	C0007820	 Cerebrovascular disease, occlusive (3)	DisGeNet	
+PDE4B	C0152115	Orofacial dyskinesia	DisGeNet	
+PDE4D	C0751955	Brain Infarction	DisGeNet	
+PDE4D	C1836195	Short toe	HumPhenOnt	
+PDE4D	C4022451	Abnormal morphology of forearm bone	HumPhenOnt	
+PDE4D	C0004268	Abnormal concentration of calcium in blood	HumPhenOnt	
+PDE4D	C0025995	Micromelia	HumPhenOnt	
+PDE4D	C4025731	Abnormal thrombosis	HumPhenOnt	
+PDE4B	C0011581	Depressive Disorder	DisGeNet	
+PDE4D	C0011581	Depressive Disorder	DisGeNet	
+PDE4D	C0242231	Coronary artery stenosis	DisGeNet	
+PDE4B	C0035204	Respiration Disorders	DisGeNet	
+PDE4D	C3278401	Hypopigmentation of hair	HumPhenOnt	
+PTGIR	C0152021	Congenital heart disease	DisGeNet	
+PDE4D	C4025745	Abnormality of the metatarsal bones	HumPhenOnt	
+PDE4D	C4025790	Specific learning disability	HumPhenOnt	
+PDE4D	C4025873	Abnormality of the paranasal sinuses	HumPhenOnt	
+PTGIR	C0010200	Cough	DisGeNet	
+PDE4D	C1837084	Short metacarpal	HumPhenOnt	
+PDE4D	C0240310	Hypoplasia of the maxilla	HumPhenOnt	
+PDE4D	C0271561	Cataracts, growth hormone deficiency, sensory neuropathy, sensorineural hearing loss, and skeletal dysplasia	HumPhenOnt	
+PDE4D	C0002965	Angina, Unstable	DisGeNet	
+PDE4D	C1842876	Depressed nasal ridge	HumPhenOnt	
+PDE4D	C4024172	Abnormality of hair pigmentation	HumPhenOnt	
+PDE4D	C4025628	Abnormal enchondral ossification	HumPhenOnt	
+PDE4D	C0007789	Cerebral palsy, spastic quadriplegic, 3	DisGeNet	
+PDE4D	C3551148	Aplasia/Hypoplasia of toe	HumPhenOnt	
+SLCO2B1	C0020433	Hyperbilirubinemia	DisGeNet	
+PDE4D	C0239174	Delayed eruption of teeth	HumPhenOnt	
+PDE4D	C4025862	Abnormality of the maxilla	HumPhenOnt	
+PDE4D	C0302476	Anterior hypopituitarism	HumPhenOnt	
+PDE4B	C1561955	Fibrinogen Adverse Event	DisGeNet	
+PDE4D	C4025337	Abnormality of calcium homeostasis	HumPhenOnt	
+PDE4D	C0399526	Mandibular prognathia	HumPhenOnt	
+PDE4D	C0577631	Carotid Atherosclerosis	DisGeNet	
+PDE4D	C1834387	Abnormal iris pigmentation	HumPhenOnt	
+PDE4D	C4021822	Abnormality of female external genitalia	HumPhenOnt	
+PDE4B	C0001973	Alcohol dependence	DisGeNet	
+PDE4D	C0001973	Alcohol dependence	DisGeNet	
+PTGIR	C0149871	Deep venous thrombosis	DisGeNet	
+PDE4B	C0178468	Autoimmune thyroid disease 3	DisGeNet	
+PDE4D	C4023648	Abnormality of divalent inorganic cation homeostasis	HumPhenOnt	
+PDE4D	C4021615	Abnormal metacarpal morphology	HumPhenOnt	
+PDE4D	C4025662	Abnormality of the ulna	HumPhenOnt	
+PDE4D	C1859363	Abnormality of dental eruption	HumPhenOnt	
+PDE4D	C0020635	Hypopituitarism	HumPhenOnt	
+PDE4D	C0205250	Elevated 7-dehydrocholesterol	HumPhenOnt	
+PDE4D	C0877165	Short phalanx of finger	HumPhenOnt	
+PDE4D	C1853242	Midface hypoplasia, hearing impairment, elliptocytosis, and nephrocalcinosis	HumPhenOnt	
+PDE4D	C4023407	Abnormality of mouth shape	HumPhenOnt	
+PDE4D	C0221356	Brachycephaly	HumPhenOnt	
+PTGIR	C0020507	Hyperplasia	DisGeNet	
+PDE4D	C1854912	Short long bone	HumPhenOnt	

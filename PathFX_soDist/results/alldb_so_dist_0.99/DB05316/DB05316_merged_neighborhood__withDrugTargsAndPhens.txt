@@ -1,0 +1,4 @@
+node1	node2	edge_score	
+DB05316	HTR2A	1.0	
+DB05316	DRD2	1.0	
+

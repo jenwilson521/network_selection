@@ -1,0 +1,26 @@
+node_name	node_type	
+DB04953	drug	
+NAT2	drug_target	
+KCNQ4	drug_target	
+KCNQ5	drug_target	
+KCNQ2	drug_target	
+KCNQ3	drug_target	
+UGT1A9	drug_target	
+UGT1A4	drug_target	
+UGT1A1	drug_target	
+UGT1A3	drug_target	
+Cholelithiasis	phenotype	
+Hepatitis D Infection	phenotype	
+Hearing Loss, Partial	phenotype	
+Hyperbilirubinemia	phenotype	
+Deafness, autosomal recessive 44	phenotype	
+Anemia, Sickle Cell	phenotype	
+Febrile Neutropenia	phenotype	
+Drug Allergy	phenotype	
+Influenza	phenotype	
+Leukopenia	phenotype	
+Hepatic cancer metastatic	phenotype	
+Mammographic breast density	phenotype	
+Familial adenomatous polyposis 1	phenotype	
+Cholecystolithiasis	phenotype	
+DNA Damage	phenotype	

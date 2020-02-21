@@ -1,0 +1,31 @@
+node1	node2	edge_score	
+DB00230	CACNA2D1	1.0	
+DB00230	SLC7A5	1.0	
+DB00230	SLC1A1	1.0	
+SLC7A5		1.0
+SLC1A1	rs3087879	0.99
+SLC1A1	rs301434	0.99
+SLC1A1		1.0
+SLC1A1	rs301435	0.99
+Phenylketonuria	SLC7A5	1.0	
+Precursor cell lymphoblastic lymphoma	SLC7A5	1.0	
+Clear cell renal cell carcinoma	SLC1A1	1.0	
+Clear cell renal cell carcinoma	SLC7A5	1.0	
+Bile duct cancer resectable	SLC7A5	1.0	
+Low Tension Glaucoma	SLC1A1	1.0	
+Cortical dysplasia, complex, with other brain malformations 3	SLC1A1	1.0	
+Cognition Disorders	SLC1A1	1.0	
+Obsessive-compulsive behavior	SLC1A1	1.0	
+Stress, Psychological	SLC1A1	1.0	
+Osteochondritis dissecans	SLC1A1	1.0	
+Malformation of cortical development	SLC1A1	1.0	
+Obsessive-compulsive disorder	SLC1A1	1.0	
+Alveolar cell carcinoma	SLC7A5	1.0	
+Latent autoimmune diabetes mellitus in adult	SLC7A5	1.0	
+Shy-Drager syndrome	SLC1A1	1.0	
+Intraocular pressure disorder	SLC1A1	1.0	
+Clear-cell metastatic renal cell carcinoma	SLC7A5	1.0	
+Intrahepatic Cholangiocarcinoma	SLC7A5	1.0	
+Dermatitis, Allergic Contact	SLC7A5	1.0	
+Anaplastic Oligodendroglioma	SLC1A1	1.0	
+Hyperplasia	SLC7A5	1.0	

@@ -1,0 +1,32 @@
+node_name	node_type	
+DB00795	drug	
+PTGS2	drug_target	
+ABCG2	drug_target	
+TBXAS1	drug_target	
+ACAT1	drug_target	
+ALOX5	drug_target	
+PTGS1	drug_target	
+SLC7A11	drug_target	
+IKBKB	drug_target	
+PPARG	drug_target	
+SLCO1B3	drug_target	
+CHUK	drug_target	
+PLA2G1B	drug_target	
+SLCO2B1	drug_target	
+SLCO1B1	drug_target	
+ABCC2	drug_target	
+SLC46A1	drug_target	
+Endotoxemia	phenotype	
+Adverse drug events and drug allergies	phenotype	
+Colonic Polyps	phenotype	
+Colorectal polyposis	phenotype	
+Reperfusion Injury	phenotype	
+Drug Allergy	phenotype	
+Cholestasis of pregnancy	phenotype	
+Adenoma of large intestine	phenotype	
+Hyperbilirubinemia	phenotype	
+Primary biliary cirrhosis	phenotype	
+Dyspepsia	phenotype	
+Peptic ulcer	phenotype	
+Idiopathic Inflammatory Myopathies	phenotype	
+gliosarcoma	phenotype	

@@ -1,0 +1,78 @@
+node1	node2	edge_score	
+DB00484	AOX1	1.0	
+DB00484	ADRA2A	1.0	
+DB00484	ADRA2B	1.0	
+DB00484	ADRA2C	1.0	
+AOX1		1.0
+ADRA2C		1.0
+ADRA2A		1.0
+ADRA2A	rs1800545	0.99
+Chronic sciatica	ADRA2A	1.0	
+Chronic sciatica	ADRA2C	1.0	
+Acute disease of cardiovascular system	ADRA2A	1.0	
+Acute disease of cardiovascular system	ADRA2C	1.0	
+Learning Disabilities	ADRA2A	1.0	
+Learning Disabilities	ADRA2C	1.0	
+Low back pain	ADRA2A	1.0	
+Low back pain	ADRA2C	1.0	
+Low Tension Glaucoma	ADRA2A	1.0	
+Low Tension Glaucoma	ADRA2C	1.0	
+Neuralgia	ADRA2A	1.0	
+Neuralgia	ADRA2C	1.0	
+Irritable bowel syndrome with diarrhea	ADRA2A	1.0	
+Irritable bowel syndrome with diarrhea	ADRA2C	1.0	
+Hyperalgesia	ADRA2A	1.0	
+Hyperalgesia	ADRA2C	1.0	
+Fibrosis	ADRA2A	1.0	
+Fibrosis	ADRA2C	1.0	
+Cardiomegaly	ADRA2A	1.0	
+Cardiomegaly	ADRA2C	1.0	
+Behavior Disorders	ADRA2A	1.0	
+Mood Disorders	ADRA2A	1.0	
+Mood Disorders	ADRA2C	1.0	
+Hemorrhagic disorder due to intrinsic circulating anticoagulants	ADRA2A	1.0	
+Excessive salivation	ADRA2A	1.0	
+Acth-Independent Macronodular Adrenal Hyperplasia	ADRA2A	1.0	
+Unipolar Depression	ADRA2A	1.0	
+Unipolar Depression	ADRA2C	1.0	
+Drug usage	ADRA2A	1.0	
+Weight Loss Adverse Event	ADRA2A	1.0	
+Systemic arterial pressure	ADRA2A	1.0	
+Systemic arterial pressure	ADRA2C	1.0	
+Polydipsia	ADRA2A	1.0	
+Major depressive disorder	ADRA2A	1.0	
+Major depressive disorder	ADRA2C	1.0	
+Attention deficit hyperactivity disorder	ADRA2A	1.0	
+Attention deficit hyperactivity disorder	ADRA2C	1.0	
+Psychoses, Substance-Induced	ADRA2C	1.0	
+Attention Deficit Disorder	ADRA2A	1.0	
+Depressive Disorder	ADRA2A	1.0	
+Depressive Disorder	ADRA2C	1.0	
+{Unipolar depression, susceptibility to}, 608516 (3)	ADRA2A	1.0	
+{Unipolar depression, susceptibility to}, 608516 (3)	ADRA2C	1.0	
+Acute Lung Injury	ADRA2A	1.0	
+Ichthyosis bullosa of Siemens	ADRA2A	1.0	
+Pain	ADRA2A	1.0	
+Pain	ADRA2C	1.0	
+Gastrointestinal Diseases	ADRA2A	1.0	
+Alcohol dependence	ADRA2A	1.0	
+Alcohol dependence	ADRA2C	1.0	
+Dyslexia 1	ADRA2A	1.0	
+body mass	ADRA2A	1.0	
+Marijuana Abuse	ADRA2C	1.0	
+Endotoxemia	ADRA2A	1.0	
+Acquired long QT syndrome	ADRA2C	1.0	
+Panic disorder syndrome 1 (2)	ADRA2A	1.0	
+Hypotension	ADRA2A	1.0	
+Obesity, severe, 601665 (3)	ADRA2A	1.0	
+Tourette Syndrome	ADRA2A	1.0	
+Tachycardia	ADRA2C	1.0	
+Hearing Loss, Partial	AOX1	1.0	
+Weight Gain Adverse Event	ADRA2A	1.0	
+Insulinoma	ADRA2A	1.0	
+Obstructive sleep apnea	ADRA2A	1.0	
+Malignant neoplasm of gallbladder	ADRA2A	1.0	
+Cholelithiasis	ADRA2A	1.0	
+Gallbladder Carcinoma	ADRA2A	1.0	
+Overweight	ADRA2A	1.0	
+Constipation	ADRA2C	1.0	

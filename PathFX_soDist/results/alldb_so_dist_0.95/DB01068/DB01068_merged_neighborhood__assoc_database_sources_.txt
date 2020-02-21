@@ -1,0 +1,38 @@
+Gene	CUI	Source Databases	
+ALB	C0041755	Adverse drug events and drug allergies	DisGeNet	
+CYP2E1	C0041755	Adverse drug events and drug allergies	DisGeNet	
+NAT2	C0041755	Adverse drug events and drug allergies	DisGeNet	
+ALB	C0028797	Occupational Diseases	DisGeNet	
+CYP2E1	C0028797	Occupational Diseases	DisGeNet	
+NAT2	C0028797	Occupational Diseases	DisGeNet	
+ALB	C0341439	Chronic liver disease	DisGeNet	
+CYP2E1	C0341439	Chronic liver disease	DisGeNet	
+CYP3A4	C0341439	Chronic liver disease	DisGeNet	
+NAT2	C0341439	Chronic liver disease	DisGeNet	
+CYP2E1	C1827377	Slow acetylator due to N-acetyltransferase enzyme variant	DisGeNet	
+NAT2	C1827377	Slow acetylator due to N-acetyltransferase enzyme variant	ClinVar,DisGeNet	
+CYP2E1	C0027663	Neoplasms, Multiple Primary	DisGeNet	
+NAT2	C0027663	Neoplasms, Multiple Primary	DisGeNet	
+CYP2E1	C0032229	Pleural Neoplasms	DisGeNet	
+NAT2	C0032229	Pleural Neoplasms	DisGeNet	
+CYP2E1	C0206720	Squamous Cell Neoplasms	DisGeNet	
+CYP3A4	C0206720	Squamous Cell Neoplasms	DisGeNet	
+CYP2E1	C0860204	Cholestatic liver disease	DisGeNet	
+NR1I2	C0860204	Cholestatic liver disease	DisGeNet	
+ALB	C0035457	Rhinitis, Allergic, Perennial	DisGeNet	
+NAT2	C0035457	Rhinitis, Allergic, Perennial	DisGeNet	
+ALB	C0860207	Drug-Induced Liver Injury	DisGeNet	
+CYP2E1	C0860207	Drug-Induced Liver Injury	DisGeNet	
+NAT2	C0860207	Drug-Induced Liver Injury	DisGeNet	
+NR1I2	C0860207	Drug-Induced Liver Injury	DisGeNet	
+CYP3A4	C0029442	Osteomalacia	DisGeNet	
+NR1I2	C0029442	Osteomalacia	DisGeNet	
+CYP2E1	C0919532	Genomic Instability	DisGeNet	
+NAT2	C0919532	Genomic Instability	DisGeNet	
+ALB	C0745744	End Stage Liver Disease	DisGeNet	
+CYP2E1	C0745744	End Stage Liver Disease	DisGeNet	
+CYP2E1	C0023055	Neoplasm of the larynx	DisGeNet	
+CYP3A4	C0023055	Neoplasm of the larynx	DisGeNet	
+NAT2	C0023055	Neoplasm of the larynx	DisGeNet	
+CYP3A4	C0151798	Hepatic necrosis	DisGeNet	
+NR1I2	C0151798	Hepatic necrosis	DisGeNet	

@@ -1,0 +1,58 @@
+node_name	node_type	
+DB00237	drug	
+GRIA2	drug_target	
+CHRNA4	drug_target	
+GRIK2	drug_target	
+CHRNA7	drug_target	
+Juvenile myoclonic epilepsy	phenotype	
+Idiopathic generalized epilepsy	phenotype	
+Epilepsy, generalized, with febrile seizures plus, type 6 (2)	phenotype	
+Incomplete penetrance	phenotype	
+SUDDEN INFANT DEATH SYNDROME	phenotype	
+Nicotine Dependence	phenotype	
+Lewy Body Disease	phenotype	
+Mild cognitive impairment	phenotype	
+Weight Gain Adverse Event	phenotype	
+Unverricht-Lundborg syndrome	phenotype	
+heavy drinking	phenotype	
+Personality disorder	phenotype	
+Dementia familial British	phenotype	
+Neurobehavioral Manifestations	phenotype	
+Myelomeningocele	phenotype	
+Chronic pain	phenotype	
+Mild Mental Retardation	phenotype	
+Pemphigus	phenotype	
+Prenatal Exposure Delayed Effects	phenotype	
+Pain insensitivity	phenotype	
+Epilepsy, focal, with speech disorder and with or without mental retardation	phenotype	
+Chromosome Xq28 deletion syndrome	phenotype	
+Memory Disorders	phenotype	
+Focal seizures	phenotype	
+Channelopathies	phenotype	
+Congenital myasthenic syndrome	phenotype	
+As If Personality	phenotype	
+Cognition Disorders	phenotype	
+Synophrys	phenotype	
+Shprintzen syndrome	phenotype	
+Phenotypic variability	phenotype	
+Language impairment	phenotype	
+NEUROTICISM	phenotype	
+Mental disorders	phenotype	
+Facial hypertrichosis	phenotype	
+Down Syndrome	phenotype	
+Dementia	phenotype	
+Amyotrophic Lateral Sclerosis, Sporadic	phenotype	
+Major depressive disorder	phenotype	
+Substance Withdrawal Syndrome	phenotype	
+Schizoaffective Disorder	phenotype	
+Increased body weight	phenotype	
+Dementia, Vascular	phenotype	
+Specific learning disability	phenotype	
+Attention deficit hyperactivity disorder	phenotype	
+Febrile seizures, familial, 4	phenotype	
+DNA Damage	phenotype	
+Sleep Wake Disorders	phenotype	
+Marijuana Abuse	phenotype	
+Methamphetamine abuse	phenotype	
+Protruding ear	phenotype	
+Prader-Willi syndrome	phenotype	

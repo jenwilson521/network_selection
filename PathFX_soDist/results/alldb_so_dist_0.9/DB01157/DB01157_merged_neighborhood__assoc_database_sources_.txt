@@ -1,0 +1,10 @@
+Gene	CUI	Source Databases	
+DHFR	C0002888	Megaloblastic anemia, thiamine-responsive, with diabetes mellitus and sensorineural deafness	DisGeNet,HumPhenOnt	
+DHFR	C0024537	Malaria, Vivax	DisGeNet	
+DHFR	C0276496	Familial Alzheimer Disease (FAD)	DisGeNet	
+DHFR	C0275522	Asymptomatic Infections	DisGeNet	
+DHFR	C0854467	Myelosuppression	DisGeNet	
+DHFR	C0016412	Folic Acid Deficiency	DisGeNet	
+DHFR	C0268135	Xeroderma pigmentosum, group A	DisGeNet	
+DHFR	C4023515	Dialeptic seizures	HumPhenOnt	
+DHFR	C1847514	Microcephaly, postnatal progressive, with seizures and brain atrophy	HumPhenOnt	

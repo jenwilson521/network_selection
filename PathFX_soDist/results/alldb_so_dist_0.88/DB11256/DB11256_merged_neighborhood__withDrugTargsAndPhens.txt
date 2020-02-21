@@ -1,0 +1,87 @@
+node1	node2	edge_score	
+DB11256	MTR	1.0	
+DB11256	SLC19A1	1.0	
+DB11256	SLC46A1	1.0	
+SLC19A1	rs3788189	0.99
+SLC19A1	rs9977268	0.99
+MTR		1.0
+SLC19A1	rs1051266	0.99
+SLC19A1	rs1051298	0.99
+SLC19A1	rs12659	0.99
+SLC19A1	rs914232	0.99
+SLC19A1		1.0
+Folic Acid Deficiency	MTR	1.0	
+Folic Acid Deficiency	SLC19A1	1.0	
+Primary central nervous system lymphoma	MTR	1.0	
+Primary central nervous system lymphoma	SLC19A1	1.0	
+Adverse drug events and drug allergies	MTR	1.0	
+Adverse drug events and drug allergies	SLC19A1	1.0	
+Childhood Leukemia	MTR	1.0	
+Childhood Leukemia	SLC19A1	1.0	
+Homocysteinemia due to MTHFR deficiency	MTR	1.0	
+Homocysteinemia due to MTHFR deficiency	SLC19A1	1.0	
+Drug Allergy	MTR	1.0	
+Drug Allergy	SLC19A1	1.0	
+Adult Acute Lymphocytic Leukemia	MTR	1.0	
+Adult Acute Lymphocytic Leukemia	SLC19A1	1.0	
+Intracranial Aneurysm	MTR	1.0	
+Intracranial Aneurysm	SLC19A1	1.0	
+Hereditary hyperhomocysteinemia	MTR	1.0	
+Hereditary hyperhomocysteinemia	SLC19A1	1.0	
+Lymphoma, Large-Cell, Follicular	MTR	1.0	
+Lymphoma, Large-Cell, Follicular	SLC19A1	1.0	
+Aortic Aneurysm, Abdominal	MTR	1.0	
+Aortic Aneurysm, Abdominal	SLC19A1	1.0	
+Neural tube defect	MTR	1.0	
+Neural tube defect	SLC19A1	1.0	
+Rheumatoid Nodule	MTR	1.0	
+Abnormality of sulfur amino acid metabolism	MTR	1.0	
+Placental Insufficiency	MTR	1.0	
+Phenylketonuria	MTR	1.0	
+Homocystinuria due to CBS deficiency	MTR	1.0	
+Megaloblastic anemia, thiamine-responsive, with diabetes mellitus and sensorineural deafness	MTR	1.0	
+Abnormality of serum amino acid levels	MTR	1.0	
+Spina bifida	MTR	1.0	
+Spina bifida	SLC19A1	1.0	
+Adenoma of large intestine	MTR	1.0	
+Adenoma of large intestine	SLC19A1	1.0	
+Deep vein thrombosis of lower limb	MTR	1.0	
+Myelomeningocele	SLC19A1	1.0	
+Deep thrombophlebitis	MTR	1.0	
+Leukopenia	MTR	1.0	
+Leukopenia	SLC19A1	1.0	
+Stomatitis	SLC19A1	1.0	
+Choroidal Neovascularization	MTR	1.0	
+T-cell lymphoma	MTR	1.0	
+T-cell lymphoma	SLC19A1	1.0	
+Macrocytic anemia	MTR	1.0	
+Cervical intraepithelial neoplasia grade 2	MTR	1.0	
+Iron deficiency anemia	MTR	1.0	
+Meningeal Neoplasms	MTR	1.0	
+Cardiac defects	MTR	1.0	
+Cleft palate with cleft lip	MTR	1.0	
+Brain Tumor, Primary	MTR	1.0	
+Spina bifida occulta	SLC19A1	1.0	
+Abnormality of vitamin metabolism	MTR	1.0	
+Ischemic Cerebrovascular Accident	MTR	1.0	
+Ischemic Cerebrovascular Accident	SLC19A1	1.0	
+Cleft Lip	MTR	1.0	
+Cleft Lip	SLC19A1	1.0	
+Esophagitis	SLC19A1	1.0	
+Ventricular septal defect 2	MTR	1.0	
+Ventricular septal defect 2	SLC19A1	1.0	
+Omphalocele	SLC19A1	1.0	
+Psychoses, Substance-Induced	MTR	1.0	
+Incoordination	MTR	1.0	
+Leukemia, Lymphocytic, Acute, L1	MTR	1.0	
+Leukemia, Lymphocytic, Acute, L1	SLC19A1	1.0	
+Lymphoma, Follicular	MTR	1.0	
+Lymphoma, Follicular	SLC19A1	1.0	
+Ischemic stroke	MTR	1.0	
+Ischemic stroke	SLC19A1	1.0	
+Female infertility	SLC19A1	1.0	
+Brain Ischemia	MTR	1.0	
+Brain Ischemia	SLC19A1	1.0	
+Malignant Childhood Neoplasm	MTR	1.0	
+Migraine with aura	MTR	1.0	
+Brain Infarction	SLC19A1	1.0	

@@ -1,0 +1,14 @@
+node_name	node_type	
+DB00250	drug	
+CYP2C9	drug_target	
+PTGS2	drug_target	
+PTGS1	drug_target	
+FMO3	drug_target	
+CYP2C8	drug_target	
+MPO	drug_target	
+CYP2E1	drug_target	
+CYP2C19	drug_target	
+CYP2C18	drug_target	
+NAT2	drug_target	
+CYP3A4	drug_target	
+CYP3A5	drug_target	

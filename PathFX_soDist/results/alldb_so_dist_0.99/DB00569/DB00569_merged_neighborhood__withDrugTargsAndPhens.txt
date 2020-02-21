@@ -1,0 +1,4 @@
+node1	node2	edge_score	
+DB00569	F10	1.0	
+DB00569	SERPINC1	1.0	
+

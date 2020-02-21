@@ -1,0 +1,190 @@
+node1	node2	edge_score	
+DB00422	SLC6A3	1.0	
+DB00422	SLC6A2	1.0	
+DB00422	HTR1A	1.0	
+SLC6A3		1.0
+HTR1A	rs10042486	0.99
+HTR1A	rs878567	0.99
+SLC6A2	rs3785143	0.99
+HTR1A		1.0
+SLC6A2	rs12708954	0.99
+HTR1A	rs1364043	0.99
+SLC6A2	rs5569	0.99
+SLC6A2		1.0
+HTR1A	rs6295	0.99
+Behavior Disorders	SLC6A2	1.0	
+Behavior Disorders	SLC6A3	1.0	
+Bulimia	HTR1A	1.0	
+Bulimia	SLC6A3	1.0	
+Tourette Syndrome	HTR1A	1.0	
+Tourette Syndrome	SLC6A2	1.0	
+Tourette Syndrome	SLC6A3	1.0	
+Substance Use Disorders	HTR1A	1.0	
+Substance Use Disorders	SLC6A3	1.0	
+Personality disorder	HTR1A	1.0	
+Personality disorder	SLC6A2	1.0	
+Borderline Personality Disorder	HTR1A	1.0	
+Borderline Personality Disorder	SLC6A2	1.0	
+Borderline Personality Disorder	SLC6A3	1.0	
+Anxiety	HTR1A	1.0	
+Anxiety	SLC6A2	1.0	
+Anxiety	SLC6A3	1.0	
+Memory Disorders	HTR1A	1.0	
+Memory Disorders	SLC6A3	1.0	
+Bronchopulmonary Dysplasia	HTR1A	1.0	
+Bronchopulmonary Dysplasia	SLC6A2	1.0	
+Bronchopulmonary Dysplasia	SLC6A3	1.0	
+As If Personality	HTR1A	1.0	
+As If Personality	SLC6A3	1.0	
+Heroin Dependence	SLC6A2	1.0	
+Heroin Dependence	SLC6A3	1.0	
+Psychoses, Substance-Induced	HTR1A	1.0	
+Psychoses, Substance-Induced	SLC6A3	1.0	
+NEUROTICISM	HTR1A	1.0	
+NEUROTICISM	SLC6A3	1.0	
+Panic disorder 1	HTR1A	1.0	
+Panic disorder 1	SLC6A2	1.0	
+Mood Disorders	HTR1A	1.0	
+Mood Disorders	SLC6A2	1.0	
+Mood Disorders	SLC6A3	1.0	
+SUDDEN INFANT DEATH SYNDROME	HTR1A	1.0	
+SUDDEN INFANT DEATH SYNDROME	SLC6A3	1.0	
+Methamphetamine abuse	SLC6A2	1.0	
+Methamphetamine abuse	SLC6A3	1.0	
+Posttraumatic stress disorder	HTR1A	1.0	
+Posttraumatic stress disorder	SLC6A3	1.0	
+Anorexia nervosa 1	SLC6A2	1.0	
+Anorexia nervosa 1	SLC6A3	1.0	
+Anxiety Disorders	HTR1A	1.0	
+Anxiety Disorders	SLC6A2	1.0	
+Anxiety Disorders	SLC6A3	1.0	
+Panic disorder syndrome 1 (2)	HTR1A	1.0	
+Panic disorder syndrome 1 (2)	SLC6A2	1.0	
+Cocaine-Related Disorders	HTR1A	1.0	
+Cocaine-Related Disorders	SLC6A3	1.0	
+Depressive Symptoms	HTR1A	1.0	
+Depressive Symptoms	SLC6A3	1.0	
+Unipolar Depression	HTR1A	1.0	
+Unipolar Depression	SLC6A2	1.0	
+Unipolar Depression	SLC6A3	1.0	
+Lewy Body Disease	SLC6A2	1.0	
+Lewy Body Disease	SLC6A3	1.0	
+Mental disorders	HTR1A	1.0	
+Mental disorders	SLC6A2	1.0	
+Mental disorders	SLC6A3	1.0	
+Weight Gain Adverse Event	HTR1A	1.0	
+Weight Gain Adverse Event	SLC6A3	1.0	
+Major depressive disorder	HTR1A	1.0	
+Major depressive disorder	SLC6A2	1.0	
+Major depressive disorder	SLC6A3	1.0	
+Substance-Related Disorders	HTR1A	1.0	
+Substance-Related Disorders	SLC6A3	1.0	
+Attention deficit hyperactivity disorder	HTR1A	1.0	
+Attention deficit hyperactivity disorder	SLC6A2	1.0	
+Attention deficit hyperactivity disorder	SLC6A3	1.0	
+Pigmentary pallidal degeneration	SLC6A3	1.0	
+Slow acetylator due to N-acetyltransferase enzyme variant	SLC6A2	1.0	
+Depressive Disorder	HTR1A	1.0	
+Depressive Disorder	SLC6A2	1.0	
+Depressive Disorder	SLC6A3	1.0	
+Dentinogenesis imperfecta	SLC6A2	1.0	
+Chronic sciatica	HTR1A	1.0	
+Recurrent major depressive episodes	SLC6A2	1.0	
+Asthma, Occupational	SLC6A2	1.0	
+Spinocerebellar ataxia 2	SLC6A3	1.0	
+{Unipolar depression, susceptibility to}, 608516 (3)	HTR1A	1.0	
+{Unipolar depression, susceptibility to}, 608516 (3)	SLC6A2	1.0	
+{Unipolar depression, susceptibility to}, 608516 (3)	SLC6A3	1.0	
+Paranoia	SLC6A3	1.0	
+Delayed gross motor development	SLC6A3	1.0	
+Orofacial cleft	SLC6A2	1.0	
+Generalized anxiety disorder	SLC6A3	1.0	
+Headache	HTR1A	1.0	
+Headache	SLC6A3	1.0	
+Alcohol withdrawal syndrome	SLC6A3	1.0	
+Motor symptoms	SLC6A3	1.0	
+Systemic aspergillosis	SLC6A2	1.0	
+Seasonal Affective Disorder	HTR1A	1.0	
+ {Nicotine dependence, protection against}, 188890 (3)	SLC6A3	1.0	
+Antisocial Personality Disorder	SLC6A3	1.0	
+Cocaine delirium	SLC6A3	1.0	
+Paranoid Schizophrenia	HTR1A	1.0	
+Ataxic	SLC6A3	1.0	
+Chronic schizophrenia	SLC6A3	1.0	
+Psychiatric symptom	HTR1A	1.0	
+Abnormal delivery	HTR1A	1.0	
+Acute disease of cardiovascular system	HTR1A	1.0	
+Morphological abnormality of the pyramidal tract	SLC6A3	1.0	
+Alcohol dependence	HTR1A	1.0	
+Alcohol dependence	SLC6A2	1.0	
+Alcohol dependence	SLC6A3	1.0	
+Bulimia nervosa 1	SLC6A3	1.0	
+Autism spectrum disorders	SLC6A2	1.0	
+Autism spectrum disorders	SLC6A3	1.0	
+Low back pain	HTR1A	1.0	
+Disseminated intravascular coagulation	SLC6A2	1.0	
+Antisocial/borderline personality disorder	SLC6A3	1.0	
+Substance abuse problem	SLC6A3	1.0	
+Drug usage	SLC6A3	1.0	
+Manic	SLC6A3	1.0	
+Chronic Fatigue Syndrome	HTR1A	1.0	
+Weight Loss Adverse Event	SLC6A2	1.0	
+Learning Disorders	HTR1A	1.0	
+Conduct Disorder	SLC6A3	1.0	
+Bradykinesia	SLC6A3	1.0	
+Fibromyalgia	SLC6A3	1.0	
+Dyskinesia, Drug-Induced	HTR1A	1.0	
+Abnormal autonomic nervous system physiology	SLC6A2	1.0	
+Prenatal Exposure Delayed Effects	SLC6A3	1.0	
+Bradycardia	HTR1A	1.0	
+Cleft palate with cleft lip	SLC6A2	1.0	
+Bipolar affective disorder	HTR1A	1.0	
+Bipolar affective disorder	SLC6A2	1.0	
+Bipolar affective disorder	SLC6A3	1.0	
+Cocaine Dependence	SLC6A3	1.0	
+Autoimmune lymphoproliferative syndrome, type 2	SLC6A3	1.0	
+CNS symptom	SLC6A3	1.0	
+Psychotic Disorders	HTR1A	1.0	
+Psychotic Disorders	SLC6A3	1.0	
+Esophagitis	HTR1A	1.0	
+Obsessive-compulsive behavior	HTR1A	1.0	
+Migraine Disorders	HTR1A	1.0	
+Migraine Disorders	SLC6A3	1.0	
+Tardive Dyskinesia	SLC6A3	1.0	
+Bipolar I disorder	SLC6A3	1.0	
+Angelman syndrome-like	SLC6A3	1.0	
+Attention Deficit Disorder	SLC6A3	1.0	
+Colorectal polyposis	SLC6A2	1.0	
+Drug Dependence	SLC6A3	1.0	
+Tremor, hereditary essential, 5	HTR1A	1.0	
+Tremor, hereditary essential, 5	SLC6A3	1.0	
+Osteochondritis dissecans	SLC6A3	1.0	
+Multiple Endocrine Neoplasia Type 2a	SLC6A2	1.0	
+Well Differentiated Pancreatic Endocrine Tumor	SLC6A2	1.0	
+MAJOR AFFECTIVE DISORDER 4	SLC6A3	1.0	
+MAJOR AFFECTIVE DISORDER 5	SLC6A3	1.0	
+MAJOR AFFECTIVE DISORDER 6	SLC6A3	1.0	
+Major affective disorder 7	SLC6A3	1.0	
+MAJOR AFFECTIVE DISORDER 8	SLC6A3	1.0	
+MAJOR AFFECTIVE DISORDER 9	SLC6A3	1.0	
+Orofacial dyskinesia	SLC6A3	1.0	
+Eating disorder	SLC6A3	1.0	
+Muscular hypotonia of the trunk	SLC6A3	1.0	
+Migraine with aura	SLC6A3	1.0	
+Ichthyosis bullosa of Siemens	SLC6A2	1.0	
+Granulomatous disease, chronic, autosomal recessive, cytochrome b-negative	SLC6A2	1.0	
+Recurrent abortion	HTR1A	1.0	
+Drug Allergy	SLC6A3	1.0	
+Azorean disease	SLC6A3	1.0	
+Metaplasia	HTR1A	1.0	
+Substance addiction and disorders	SLC6A3	1.0	
+Substance Withdrawal Syndrome	HTR1A	1.0	
+Growth Disorders	SLC6A3	1.0	
+Multiple Endocrine Neoplasia Type 1	SLC6A2	1.0	
+Respiratory tract infection	SLC6A2	1.0	
+Respiratory tract infection	SLC6A3	1.0	
+Gastrointestinal Diseases	SLC6A2	1.0	
+Mitral Valve Prolapse	SLC6A2	1.0	
+Amphetamine-Related Disorders	SLC6A3	1.0	
+Candidiasis, familial, 9	SLC6A2	1.0	
+Obsessive-compulsive disorder	SLC6A3	1.0	

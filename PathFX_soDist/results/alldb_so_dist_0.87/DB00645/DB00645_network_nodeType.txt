@@ -1,0 +1,41 @@
+node_name	node_type	
+DB00645	drug	
+SCN10A	drug_target	
+Asthma	phenotype	
+Ataxia, combined cerebellar and peripheral, with hearing loss and diabetes mellitus	phenotype	
+Atrial Fibrillation	phenotype	
+Breast-ovarian cancer, familial 1	phenotype	
+Hypertrophic cardiomyopathy	phenotype	
+Cardiovascular Diseases	phenotype	
+Cerebellar malformation	phenotype	
+Constipation	phenotype	
+Dyspepsia	phenotype	
+Experimental Autoimmune Encephalomyelitis	phenotype	
+Heart block	phenotype	
+Hyperalgesia	phenotype	
+Acute myeloid leukemia	phenotype	
+Multiple Sclerosis	phenotype	
+Neuralgia	phenotype	
+Pain	phenotype	
+Seizures, Febrile	phenotype	
+Tobacco Use Disorder	phenotype	
+Ventricular fibrillation	phenotype	
+Synovial Cyst	phenotype	
+Sciatic Neuropathy	phenotype	
+Chronic pain	phenotype	
+Onset	phenotype	
+Ventricular Fibrillation Adverse Event	phenotype	
+Abnormality of the digestive system	phenotype	
+Hematological neoplasm	phenotype	
+Neuropathy ataxia retinitis pigmentosa syndrome	phenotype	
+Autosomal dominant non-syndromic sensorineural deafness type DFNA	phenotype	
+Abnormality of the nervous system	phenotype	
+Breast carcinoma	phenotype	
+Neuroblastoma	phenotype	
+Varicella zoster	phenotype	
+Abdominal symptom	phenotype	
+Brugada Syndrome	phenotype	
+Channelopathies	phenotype	
+Adult onset ataxia with oculomotor apraxia	phenotype	
+Abnormality of nervous system physiology	phenotype	
+Abnormality of digestive system physiology	phenotype	

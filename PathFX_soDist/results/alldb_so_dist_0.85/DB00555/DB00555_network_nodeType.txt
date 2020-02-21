@@ -1,0 +1,43 @@
+node_name	node_type	
+DB00555	drug	
+ADRA1A	drug_target	
+ADORA2A	drug_target	
+DHFR	drug_target	
+SCN2A	drug_target	
+HTR3A	drug_target	
+DRD2	drug_target	
+ADRA2A	drug_target	
+ADRB1	drug_target	
+ABCB1	drug_target	
+HTR2A	drug_target	
+UGT1A4	drug_target	
+SLC22A2	drug_target	
+HRH1	drug_target	
+OPRK1	drug_target	
+ADORA1	drug_target	
+UGT1A1	drug_target	
+UGT1A3	drug_target	
+Hyperbilirubinemia	phenotype	
+Hepatitis D Infection	phenotype	
+Cholelithiasis	phenotype	
+Febrile Neutropenia	phenotype	
+Hearing Loss, Partial	phenotype	
+Drug Allergy	phenotype	
+Chronic sciatica	phenotype	
+Substance Withdrawal Syndrome	phenotype	
+Adverse drug events and drug allergies	phenotype	
+Heroin Dependence	phenotype	
+Acute disease of cardiovascular system	phenotype	
+Deafness, autosomal recessive 44	phenotype	
+Weight Gain Adverse Event	phenotype	
+Opiate Addiction	phenotype	
+Low back pain	phenotype	
+Anemia, Sickle Cell	phenotype	
+Panic disorder syndrome 1 (2)	phenotype	
+Dyskinesia, Drug-Induced	phenotype	
+Nausea	phenotype	
+Cocaine Dependence	phenotype	
+Dyskinesia, seizures, and intellectual developmental disorder	phenotype	
+As If Personality	phenotype	
+Psychoses, Substance-Induced	phenotype	
+Antisocial Personality Disorder	phenotype	

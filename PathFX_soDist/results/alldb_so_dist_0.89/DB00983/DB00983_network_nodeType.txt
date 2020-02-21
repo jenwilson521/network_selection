@@ -1,0 +1,10 @@
+node_name	node_type	
+DB00983	drug	
+CYP2C9	drug_target	
+CYP2D6	drug_target	
+ADRB1	drug_target	
+ADRB2	drug_target	
+ADRB3	drug_target	
+CYP2C19	drug_target	
+CYP2A6	drug_target	
+Atrial Fibrillation	phenotype	

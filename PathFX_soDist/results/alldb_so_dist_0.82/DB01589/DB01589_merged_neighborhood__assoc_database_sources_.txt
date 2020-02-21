@@ -1,0 +1,15 @@
+Gene	CUI	Source Databases	
+CYP2B6	C0027658	Neoplasms, Germ Cell and Embryonal	DisGeNet	
+CYP2C19	C0027658	Neoplasms, Germ Cell and Embryonal	DisGeNet	
+CYP2C9	C0027658	Neoplasms, Germ Cell and Embryonal	DisGeNet	
+CYP3A4	C0027658	Neoplasms, Germ Cell and Embryonal	DisGeNet	
+CYP2B6	C1291314	21-hydroxylase deficiency	DisGeNet	
+CYP2C19	C1291314	21-hydroxylase deficiency	DisGeNet	
+CYP3A4	C1291314	21-hydroxylase deficiency	DisGeNet	
+CYP2B6	C0751956	Acute Cerebrovascular Accidents	DisGeNet	
+CYP2C19	C0751956	Acute Cerebrovascular Accidents	DisGeNet	
+CYP2C9	C0751956	Acute Cerebrovascular Accidents	DisGeNet	
+CYP2B6	C0013146	Methamphetamine abuse	DisGeNet	
+CYP2C19	C0013146	Methamphetamine abuse	DisGeNet	
+CYP2C9	C0013146	Methamphetamine abuse	DisGeNet	
+GABRA1	C0013146	Methamphetamine abuse	DisGeNet	

@@ -1,0 +1,46 @@
+node_name	node_type	
+DB08916	drug	
+ERBB2	drug_target	
+ABCB1	drug_target	
+EGFR	drug_target	
+ABCG2	drug_target	
+ERBB4	drug_target	
+Prostate cancer recurrent	phenotype	
+Ovarian epithelial cancer stage III	phenotype	
+Uterine Cancer	phenotype	
+Breast adenocarcinoma	phenotype	
+Carcinoma, Neuroendocrine	phenotype	
+Ependymoma	phenotype	
+Intraosseous mucoepidermoid carcinoma	phenotype	
+Refractory cancer	phenotype	
+Early-Stage Breast Carcinoma	phenotype	
+Papillary adenocarcinoma	phenotype	
+Pleural Neoplasms	phenotype	
+Estrogen resistance	phenotype	
+Gallbladder adenocarcinoma	phenotype	
+androgen independent prostate cancer	phenotype	
+Malignant neoplasm of brain and nervous system	phenotype	
+Breast cancer recurrent	phenotype	
+Pyruvate carboxylase deficiency	phenotype	
+Squamous Cell Neoplasms	phenotype	
+Lichen Planus, Oral	phenotype	
+Thymic Carcinoma	phenotype	
+Nasopharyngeal Neoplasms	phenotype	
+Alveolar cell carcinoma	phenotype	
+Gastrinoma	phenotype	
+Hypohidrotic X-linked ectodermal dysplasia	phenotype	
+High-Grade Prostatic Intraepithelial Neoplasia	phenotype	
+Stage IV Ovarian Carcinoma	phenotype	
+Complete hydatidiform mole	phenotype	
+Primary Lesion	phenotype	
+Pericardial effusion	phenotype	
+Comedone	phenotype	
+Sentinel node (disorder)	phenotype	
+Myelosuppression	phenotype	
+Metastatic Carcinoma	phenotype	
+Advanced cancer	phenotype	
+Malignant neoplasm of stomach stage IV	phenotype	
+Adult Acute Lymphocytic Leukemia	phenotype	
+Neurofibromatoses	phenotype	
+Neurotoxicity Syndromes	phenotype	
+CNS metastases	phenotype	

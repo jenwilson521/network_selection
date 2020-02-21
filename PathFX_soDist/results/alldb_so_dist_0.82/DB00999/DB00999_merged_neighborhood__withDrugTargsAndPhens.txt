@@ -1,0 +1,214 @@
+node1	node2	edge_score	
+DB00999	CA2	1.0	
+DB00999	SLC22A6	1.0	
+DB00999	CA1	1.0	
+DB00999	SLC12A3	1.0	
+DB00999	KCNMA1	1.0	
+complex:lAo9+jzjVOaRJSWZQvoh0G1mUDc	OR8D2	0.863824739585
+KCNMA1	complex:lAo9+jzjVOaRJSWZQvoh0G1mUDc	0.904977499353
+complex:lAo9+jzjVOaRJSWZQvoh0G1mUDc	KRT9	0.863824739585
+complex:lAo9+jzjVOaRJSWZQvoh0G1mUDc	ALB	0.863824739585
+SLC12A3		1.0
+KCNMA1		1.0
+Tubulointerstitial nephritis	ALB	1.0	
+Tubulointerstitial nephritis	SLC12A3	1.0	
+Essential hypertension	ALB	1.0	
+Essential hypertension	KCNMA1	1.0	
+Essential hypertension	SLC12A3	1.0	
+Primary hyperaldosteronism	KCNMA1	1.0	
+Primary hyperaldosteronism	SLC12A3	1.0	
+Epilepsy	ALB	1.0	
+Epilepsy	KCNMA1	1.0	
+Epilepsy	SLC12A3	1.0	
+Familial hypokalemia-hypomagnesemia	SLC12A3	1.0	
+Malignant neoplasm of adrenal cortex	ALB	1.0	
+Stage 5 chronic kidney disease	ALB	1.0	
+Stage 5 chronic kidney disease	SLC12A3	1.0	
+Esophageal varix	ALB	1.0	
+Treacher Collins syndrome	SLC12A3	1.0	
+Urolithiasis	ALB	1.0	
+Adenocarcinoma of lung	ALB	1.0	
+Adenocarcinoma of lung	KCNMA1	1.0	
+Adenocarcinoma of lung	SLC12A3	1.0	
+Echinococcosis	ALB	1.0	
+Epidermolysis bullosa simplex, Cockayne-Touraine type	KRT9	1.0	
+Palmar hyperkeratosis	KRT9	1.0	
+Bladder neck obstruction	KCNMA1	1.0	
+Proliferative retinopathy	ALB	1.0	
+Chondrocalcinosis	SLC12A3	1.0	
+Verrucae	KRT9	1.0	
+Isolated somatotropin deficiency	ALB	1.0	
+Renal tubular acidosis, distal, autosomal dominant	KCNMA1	1.0	
+Substance Use Disorders	ALB	1.0	
+Dentatorubral pallidoluysian atrophy	ALB	1.0	
+Angiokeratoma	ALB	1.0	
+Metabolic Bone Disorder	KCNMA1	1.0	
+Isolated growth hormone deficiency type 1B	ALB	1.0	
+Plantar hyperkeratosis	KRT9	1.0	
+Abnormal urine output	SLC12A3	1.0	
+Diabetic Retinopathy	ALB	1.0	
+Diabetic Retinopathy	SLC12A3	1.0	
+Pericardial effusion	ALB	1.0	
+Hypervolemia	SLC12A3	1.0	
+Germinoma	SLC12A3	1.0	
+Abnormal drinking behavior	SLC12A3	1.0	
+Mumps	ALB	1.0	
+Rhinitis, Allergic, Perennial	ALB	1.0	
+Endemic Cretinism	ALB	1.0	
+Abnormality of renal excretion	SLC12A3	1.0	
+Complete trisomy 18 syndrome	KCNMA1	1.0	
+Hemangioblastoma	ALB	1.0	
+Noonan syndrome with multiple lentigines	SLC12A3	1.0	
+Mesangiocapillary glomerulonephritis, type II	ALB	1.0	
+Nephrosclerosis	ALB	1.0	
+Peripheral motor neuropathy	ALB	1.0	
+End Stage Liver Disease	ALB	1.0	
+Alkalosis	SLC12A3	1.0	
+Polyuria	SLC12A3	1.0	
+Abnormal albumin level	ALB	1.0	
+Bronchogenic Carcinoma	ALB	1.0	
+Dialeptic seizures	KCNMA1	1.0	
+{TSC2 angiomyolipomas, renal, modifier of}, 613254 (3)	SLC12A3	1.0	
+Coronary artery aneurysm	ALB	1.0	
+Hyperlipoproteinemia	ALB	1.0	
+Hyperlipoproteinemia Type IIa	ALB	1.0	
+Single tumor	ALB	1.0	
+Nephrotic Syndrome, Minimal Change	ALB	1.0	
+Abnormality of potassium homeostasis	SLC12A3	1.0	
+Skin Diseases, Genetic	KRT9	1.0	
+Carcinoma breast stage IV	ALB	1.0	
+Carcinoma breast stage IV	KCNMA1	1.0	
+Varicella zoster	ALB	1.0	
+Drusen	ALB	1.0	
+Hypokalemia	SLC12A3	1.0	
+Increased antibody level in blood	KRT9	1.0	
+Insulin resistance syndrome	ALB	1.0	
+Polydipsia	SLC12A3	1.0	
+Nephrosis	ALB	1.0	
+EEG with generalized epileptiform discharges	KCNMA1	1.0	
+Renal Insufficiency, Chronic	ALB	1.0	
+Renal Insufficiency, Chronic	SLC12A3	1.0	
+Guillain-Barre syndrome, familial	ALB	1.0	
+Abnormality of urine calcium concentration	SLC12A3	1.0	
+Primary hyperparathyroidism	ALB	1.0	
+Drug Resistant Epilepsy	ALB	1.0	
+Respiratory Tract Diseases	ALB	1.0	
+Sicca Syndrome	ALB	1.0	
+Hypoalbuminemia	ALB	1.0	
+Toxic Shock Syndrome	KCNMA1	1.0	
+Neurologic, endocrine, and pancreatic disease, multisystem, infantile-onset	ALB	1.0	
+Abnormality of the plantar skin of foot	KRT9	1.0	
+Lymphangiomyomatosis	SLC12A3	1.0	
+EEG with irregular generalized spike and wave complexes	KCNMA1	1.0	
+Abnormality of monovalent inorganic cation homeostasis	SLC12A3	1.0	
+Congenital hypothyroidism	ALB	1.0	
+Adverse drug events and drug allergies	ALB	1.0	
+Cortical dysplasia, complex, with other brain malformations 3	SLC12A3	1.0	
+Aortic valve disease 2	SLC12A3	1.0	
+Multisystem disorder	SLC12A3	1.0	
+Vascular Diseases	ALB	1.0	
+Vascular Diseases	SLC12A3	1.0	
+Diaphragmatic hernia	KCNMA1	1.0	
+Renal tubular dysfunction	SLC12A3	1.0	
+Ovarian Serous Adenocarcinoma	KCNMA1	1.0	
+Hemolytic uremic syndrome	ALB	1.0	
+Bicuspid aortic valve	SLC12A3	1.0	
+Occupational Diseases	ALB	1.0	
+Microalbuminuria	ALB	1.0	
+Chest pain	ALB	1.0	
+Epilepsy, generalized, with febrile seizures plus, type 6 (2)	KCNMA1	1.0	
+ {HIV-1 viremia, susceptibility to}, 609423 (3)	ALB	1.0	
+Acute Lung Injury	ALB	1.0	
+Generalized muscle weakness	SLC12A3	1.0	
+Hirschsprung disease 1	SLC12A3	1.0	
+Abnormal consumption behavior	SLC12A3	1.0	
+Complications of Diabetes Mellitus	ALB	1.0	
+Eczema	ALB	1.0	
+Eczema	KRT9	1.0	
+Hypercalciuria	SLC12A3	1.0	
+Nephrocalcinosis	SLC12A3	1.0	
+Pulmonary edema	ALB	1.0	
+Epithelial hyperplasia of skin	SLC12A3	1.0	
+Stevens-Johnson Syndrome	ALB	1.0	
+Lymphohistiocytosis, Hemophagocytic	ALB	1.0	
+Renal cell carcinoma, nonpapillary	ALB	1.0	
+Renal cell carcinoma, nonpapillary	KCNMA1	1.0	
+Renal cell carcinoma, nonpapillary	SLC12A3	1.0	
+Absence seizures	KCNMA1	1.0	
+IMMUNE SUPPRESSION	ALB	1.0	
+Increased analgesia from kappa-opioid receptor agonist, female-specific	SLC12A3	1.0	
+Juvenile onset	SLC12A3	1.0	
+Chordoma	SLC12A3	1.0	
+Dementia, Vascular	ALB	1.0	
+Membranous nephropathy, susceptibility to	ALB	1.0	
+DiGeorge sequence	ALB	1.0	
+Muscle cramps	SLC12A3	1.0	
+Liver regeneration disorder	ALB	1.0	
+Diabetic Angiopathies	ALB	1.0	
+Plasmacytoma	ALB	1.0	
+Type 1 diabetic neuropathy	ALB	1.0	
+Polyneuropathy, hearing loss, ataxia, retinitis pigmentosa, and cataract	ALB	1.0	
+Paralysis	SLC12A3	1.0	
+Seizures, Febrile	ALB	1.0	
+Seizures, Febrile	KCNMA1	1.0	
+Seizures, Febrile	SLC12A3	1.0	
+Hyperlipidemia, familial combined	ALB	1.0	
+Generalized tonic-clonic seizures	KCNMA1	1.0	
+Paresthesia	SLC12A3	1.0	
+Interstitial fibrosis	ALB	1.0	
+Abnormal urinary electrolyte concentration	SLC12A3	1.0	
+Hemochromatosis	ALB	1.0	
+Constitutional symptom	ALB	1.0	
+Constitutional symptom	SLC12A3	1.0	
+Abnormality of metabolism/homeostasis	ALB	1.0	
+Abnormality of metabolism/homeostasis	KRT9	1.0	
+Abnormality of metabolism/homeostasis	SLC12A3	1.0	
+Hyperhidrosis	KRT9	1.0	
+Methamphetamine abuse	ALB	1.0	
+Hereditary factor VIII deficiency disease	ALB	1.0	
+Lethargy	KCNMA1	1.0	
+NOONAN-LIKE/MULTIPLE GIANT CELL LESION SYNDROME (disorder)	SLC12A3	1.0	
+Hamartoma	SLC12A3	1.0	
+Hypertension	ALB	1.0	
+Hypertension	KCNMA1	1.0	
+Hypertension	SLC12A3	1.0	
+Fibrinogen Adverse Event	KCNMA1	1.0	
+Abnormality of calcium homeostasis	SLC12A3	1.0	
+Chorea, childhood-onset, with psychomotor retardation	KCNMA1	1.0	
+Glomerulosclerosis, Focal Segmental	ALB	1.0	
+tumor vasculature	ALB	1.0	
+Diabetic Nephropathies	ALB	1.0	
+Diabetic Nephropathies	SLC12A3	1.0	
+Kidney Failure, Chronic	ALB	1.0	
+Kidney Failure, Chronic	SLC12A3	1.0	
+Maturity-onset diabetes of the young, type 11	ALB	1.0	
+Pain	ALB	1.0	
+Pain	SLC12A3	1.0	
+Abnormality of divalent inorganic cation homeostasis	SLC12A3	1.0	
+Osteoporosis	ALB	1.0	
+Osteoporosis	SLC12A3	1.0	
+Ischemia	ALB	1.0	
+Ischemia	KCNMA1	1.0	
+Focal segmental glomerulosclerosis	ALB	1.0	
+Malnutrition	ALB	1.0	
+Erythema	KRT9	1.0	
+Tauopathies	SLC12A3	1.0	
+Urticaria	ALB	1.0	
+Thrombophilia	ALB	1.0	
+Brain neoplasm	ALB	1.0	
+Brain neoplasm	SLC12A3	1.0	
+Impotence	KCNMA1	1.0	
+EMG: myopathic abnormalities	KCNMA1	1.0	
+EMG: myopathic abnormalities	SLC12A3	1.0	
+Hypotension	ALB	1.0	
+Abnormality of the fingernails	KRT9	1.0	
+Obesity, severe, 601665 (3)	KCNMA1	1.0	
+Congenital diaphragmatic hernia	ALB	1.0	
+Pulmonary Embolism	ALB	1.0	
+Metastatic malignant neoplasm to brain	KCNMA1	1.0	
+Anorexia	ALB	1.0	
+Generalized seizures	KCNMA1	1.0	
+Abnormal immunoglobulin level	KRT9	1.0	
+Acute hepatic failure	ALB	1.0	
+Abnormality of B cell physiology	KRT9	1.0	
+Abnormality of B cells	KRT9	1.0	

@@ -1,0 +1,5 @@
+node_name	node_type	
+DB01060	drug	
+SLC15A2	drug_target	
+SLC22A6	drug_target	
+CYP2C19	drug_target	

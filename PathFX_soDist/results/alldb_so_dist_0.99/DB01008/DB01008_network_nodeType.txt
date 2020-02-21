@@ -1,0 +1,7 @@
+node_name	node_type	
+DB01008	drug	
+GSTM1	drug_target	
+GSTP1	drug_target	
+CYP3A4	drug_target	
+GSTA1	drug_target	
+GSTA2	drug_target	

@@ -1,0 +1,32 @@
+node_name	node_type	
+DB00936	drug	
+CYP2C9	drug_target	
+PTGS2	drug_target	
+PTGS1	drug_target	
+SLC16A1	drug_target	
+ALB	drug_target	
+SLC22A11	drug_target	
+SLC22A6	drug_target	
+SLCO2B1	drug_target	
+SLC22A8	drug_target	
+AKR1C1	drug_target	
+Rhinitis, Allergic, Perennial	phenotype	
+Stomach Diseases	phenotype	
+Adverse drug events and drug allergies	phenotype	
+Echinococcosis	phenotype	
+gastritis h pylori	phenotype	
+Creutzfeldt-Jakob Disease, Sporadic	phenotype	
+keratoacanthoma	phenotype	
+Pericardial effusion	phenotype	
+Peptic Ulcer Hemorrhage	phenotype	
+Helicobacter Infections	phenotype	
+Rotavirus Infections	phenotype	
+Gastric ulcer	phenotype	
+Bronchogenic Carcinoma	phenotype	
+Anaphylactic shock NOS	phenotype	
+Peptic ulcer	phenotype	
+Tubulointerstitial nephritis	phenotype	
+Drug usage	phenotype	
+Drusen	phenotype	
+Renovascular hypertension	phenotype	
+Neuritis	phenotype	

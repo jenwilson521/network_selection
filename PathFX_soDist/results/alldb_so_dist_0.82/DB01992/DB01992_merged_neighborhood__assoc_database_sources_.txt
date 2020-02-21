@@ -1,0 +1,2 @@
+Gene	CUI	Source Databases	
+KAT5	C0268575	Isovaleryl-CoA dehydrogenase deficiency	DisGeNet	

@@ -1,0 +1,5 @@
+node1	node2	edge_score	
+DB01276	DPP4	1.0	
+DB01276	ALB	1.0	
+DB01276	GLP1R	1.0	
+

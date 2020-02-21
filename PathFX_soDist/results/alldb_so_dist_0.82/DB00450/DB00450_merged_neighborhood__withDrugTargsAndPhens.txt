@@ -1,0 +1,90 @@
+node1	node2	edge_score	
+DB00450	ADRA1A	1.0	
+DB00450	DRD2	1.0	
+DRD2	rs2283265	0.99
+DRD2	rs2734842	0.99
+DRD2	rs6275	0.99
+DRD2	rs1799978	0.99
+DRD2	rs6279	0.99
+DRD2	rs2734833	0.99
+DRD2	rs1125394	0.99
+DRD2	rs4460839	0.99
+ADRA1A		1.0
+DRD2	rs4436578	0.99
+DRD2	rs1799732	0.99
+DRD2	rs2440390	0.99
+ANKK1	rs7118900	0.970299
+DRD2	rs1079598	0.99
+DRD2	rs12364283	0.99
+DRD2		1.0
+DRD2	rs1124493	0.99
+DRD2	rs6277	0.99
+DRD2	rs2734841	0.99
+rs1800497	ANKK1	0.9801
+DRD2	rs1076560	0.99
+DRD2	rs1079597	0.99
+DRD2	rs1800497	0.99
+Chronic sciatica	ADRA1A	1.0	
+Chronic sciatica	DRD2	1.0	
+Antisocial Personality Disorder	ANKK1	1.0	
+Antisocial Personality Disorder	DRD2	1.0	
+Gastroparesis	ADRA1A	1.0	
+Gastroparesis	DRD2	1.0	
+Chronic schizophrenia	ADRA1A	1.0	
+Chronic schizophrenia	DRD2	1.0	
+Acute disease of cardiovascular system	ADRA1A	1.0	
+Acute disease of cardiovascular system	DRD2	1.0	
+alcohol use disorder	ANKK1	1.0	
+alcohol use disorder	DRD2	1.0	
+Opiate Addiction	ANKK1	1.0	
+Opiate Addiction	DRD2	1.0	
+Low back pain	ADRA1A	1.0	
+Low back pain	DRD2	1.0	
+Antisocial/borderline personality disorder	ANKK1	1.0	
+Antisocial/borderline personality disorder	DRD2	1.0	
+Dyskinesia, Drug-Induced	ADRA1A	1.0	
+Dyskinesia, Drug-Induced	DRD2	1.0	
+Memory Disorders	ADRA1A	1.0	
+Memory Disorders	DRD2	1.0	
+Cocaine Dependence	ANKK1	1.0	
+Cocaine Dependence	DRD2	1.0	
+As If Personality	ANKK1	1.0	
+As If Personality	DRD2	1.0	
+Pharyngeal Neoplasms	ANKK1	1.0	
+Pharyngeal Neoplasms	DRD2	1.0	
+Bipolar I disorder	ANKK1	1.0	
+Bipolar I disorder	DRD2	1.0	
+Heroin Dependence	ANKK1	1.0	
+Heroin Dependence	DRD2	1.0	
+Psychoses, Substance-Induced	ANKK1	1.0	
+Psychoses, Substance-Induced	DRD2	1.0	
+Drug Dependence	ANKK1	1.0	
+Drug Dependence	DRD2	1.0	
+Language impairment	ANKK1	1.0	
+Language impairment	DRD2	1.0	
+NEUROTICISM	ANKK1	1.0	
+NEUROTICISM	DRD2	1.0	
+Substance addiction and disorders	ANKK1	1.0	
+Substance addiction and disorders	DRD2	1.0	
+Schizoaffective Disorder	ADRA1A	1.0	
+Schizoaffective Disorder	DRD2	1.0	
+Polyphagia	ANKK1	1.0	
+Polyphagia	DRD2	1.0	
+Alcohol abuse	ANKK1	1.0	
+Alcohol abuse	DRD2	1.0	
+Marijuana Abuse	ANKK1	1.0	
+Marijuana Abuse	DRD2	1.0	
+Dyskinesia, seizures, and intellectual developmental disorder	ANKK1	1.0	
+Dyskinesia, seizures, and intellectual developmental disorder	DRD2	1.0	
+Methamphetamine abuse	ADRA1A	1.0	
+Methamphetamine abuse	DRD2	1.0	
+Neoplasm of the larynx	ANKK1	1.0	
+Neoplasm of the larynx	DRD2	1.0	
+Nicotine Dependence	ANKK1	1.0	
+Nicotine Dependence	DRD2	1.0	
+Hypotension	ADRA1A	1.0	
+Hypotension	DRD2	1.0	
+Tourette Syndrome	ADRA1A	1.0	
+Tourette Syndrome	DRD2	1.0	
+ Acrodysostosis 1, with or without hormone resistance, 101800 (3)	ADRA1A	1.0	
+Pseudohypoparathyroidism, type IB, 603233 (3)	ADRA1A	1.0	

@@ -1,0 +1,189 @@
+node_name	node_type	
+DB00066	drug	
+FSHR	drug_target	
+Abdominal distention	phenotype	
+Abdominal pain	phenotype	
+Recurrent abortion	phenotype	
+Aplasia involving bones of the extremities	phenotype	
+Neoplasm of the adrenal gland	phenotype	
+Alzheimer Disease	phenotype	
+Amenorrhea	phenotype	
+Arachnodactyly	phenotype	
+Ascites	phenotype	
+Ataxia, combined cerebellar and peripheral, with hearing loss and diabetes mellitus	phenotype	
+Azoospermia	phenotype	
+Breast-ovarian cancer, familial 1	phenotype	
+Candidiasis, familial, 9	phenotype	
+Constitutional symptom	phenotype	
+{Unipolar depression, susceptibility to}, 608516 (3)	phenotype	
+Depressive Disorder	phenotype	
+Gallbladder disease 4	phenotype	
+Short stature, rhizomelic, with microcephaly, micrognathia, and developmental delay	phenotype	
+Hydrops, lactic acidosis, and sideroblastic anemia	phenotype	
+Endometriosis	phenotype	
+granulosa cell tumor	phenotype	
+Abnormality of the hand	phenotype	
+Hirsutism	phenotype	
+Hyperlipidemia, combined, 1	phenotype	
+Hyperpituitarism	phenotype	
+Hypertension	phenotype	
+Hypothyroidism	phenotype	
+Infertility associated with multi-tailed spermatozoa and excessive DNA	phenotype	
+Female infertility	phenotype	
+Male infertility	phenotype	
+Hypogonadotropic hypogonadism 7 with or without anosmia	phenotype	
+Lupus Erythematosus, Systemic	phenotype	
+Premature ovarian failure	phenotype	
+Disorders of Intracellular Cobalamin Metabolism	phenotype	
+Microcephaly 16, primary, autosomal recessive	phenotype	
+Nausea	phenotype	
+Nausea and vomiting	phenotype	
+Secondary hypertriglyceridemia	phenotype	
+Neoplasms, Germ Cell and Embryonal	phenotype	
+Obesity	phenotype	
+Oligospermia	phenotype	
+Osteopenia	phenotype	
+Osteoporosis	phenotype	
+Ovarian cyst	phenotype	
+Ovarian Diseases	phenotype	
+Pain	phenotype	
+Pituitary adenoma	phenotype	
+Abnormality of the pituitary gland	phenotype	
+Pleural effusion	phenotype	
+Polycystic Ovary Syndrome	phenotype	
+Preeclampsia/eclampsia 1	phenotype	
+Puberty and gonadal disorders	phenotype	
+Delayed puberty	phenotype	
+Pulmonary edema	phenotype	
+Pulmonary fibrosis and/or bone marrow failure, telomere-related, 4	phenotype	
+Testicular seminoma	phenotype	
+Testicular Neoplasms	phenotype	
+Thyroid Diseases	phenotype	
+46,XY gonadal dysgenesis, partial, with minifascicular neuropathy	phenotype	
+Abnormality of the genitourinary system	phenotype	
+Ovarian hyperstimulation syndrome	phenotype	
+Ovarian Failure, Premature	phenotype	
+Polycystic Kidney, Autosomal Dominant	phenotype	
+Essential hypertension	phenotype	
+Migraine Disorders	phenotype	
+Malignant tumor of testis	phenotype	
+Migraine with aura	phenotype	
+Menstrual irregularities	phenotype	
+Abnormality of the hair	phenotype	
+Abnormality of the vertebrae	phenotype	
+Abnormal QRS complex	phenotype	
+Increased analgesia from kappa-opioid receptor agonist, female-specific	phenotype	
+ Hyperandrogenism, nonclassic type, due to 21-hydroxylase deficiency, 201910 (3)	phenotype	
+Delayed menarche	phenotype	
+Secondary amenorrhea	phenotype	
+Abnormality of the skull	phenotype	
+Abnormality of limbs	phenotype	
+Abnormality of blood and blood-forming tissues	phenotype	
+Impotence	phenotype	
+Abnormality of cardiovascular system electrophysiology	phenotype	
+Growth abnormality	phenotype	
+Abnormality of the digestive system	phenotype	
+Abnormal uterus morphology	phenotype	
+Abnormality of the ear	phenotype	
+Malignant tumor of prostate	phenotype	
+Decreased head circumference	phenotype	
+Autosomal recessive inheritance	phenotype	
+Autosomal dominant non-syndromic sensorineural deafness type DFNA	phenotype	
+Growth delay	phenotype	
+Abnormality of the nervous system	phenotype	
+Decreased fertility	phenotype	
+Abnormal spermatogenesis	phenotype	
+Metabolic Syndrome X	phenotype	
+Delayed skeletal maturation	phenotype	
+Hypovolemia	phenotype	
+Epithelioma	phenotype	
+Abnormal serum testosterone level	phenotype	
+Carcinogenesis	phenotype	
+Ovarian epithelial cancer	phenotype	
+Hypoplasia of the ovary	phenotype	
+Subfertility	phenotype	
+Abdominal symptom	phenotype	
+Abnormal breast morphology	phenotype	
+Abnormality of the genital system	phenotype	
+Ovarian Insufficiency	phenotype	
+Oestrogen deficiency	phenotype	
+Abnormality of head or neck	phenotype	
+Testicular malignant germ cell tumor	phenotype	
+Ovarian Neoplasms	phenotype	
+BREAST-OVARIAN CANCER, FAMILIAL, SUSCEPTIBILITY TO, 4	phenotype	
+Sarcoma, Ewing	phenotype	
+Congenital absence of germinal epithelium of testes	phenotype	
+Hearing impairment	phenotype	
+Sparse hair	phenotype	
+Slender finger	phenotype	
+Long fingers	phenotype	
+Sparse pubic hair	phenotype	
+Abnormality of the cerebellum	phenotype	
+Abnormality of fluid regulation	phenotype	
+Reduced bone mineral density	phenotype	
+Abnormality of finger	phenotype	
+Obesity, Visceral	phenotype	
+Abnormality of digit	phenotype	
+Abnormality of the respiratory system	phenotype	
+Abnormality of abdomen morphology	phenotype	
+Abnormality of the upper limb	phenotype	
+Abnormality of forebrain morphology	phenotype	
+Abnormality of brain morphology	phenotype	
+Abnormal genital system morphology	phenotype	
+Abnormality of hindbrain morphology	phenotype	
+Abnormality of bone mineral density	phenotype	
+Abnormality of lung morphology	phenotype	
+Abnormality of the cerebrum	phenotype	
+Morphological abnormality of the central nervous system	phenotype	
+Abnormality of metabolism/homeostasis	phenotype	
+Abnormality of the vertebral column	phenotype	
+Abnormality of the skeletal system	phenotype	
+Abnormality of the head	phenotype	
+Abnormality of the ovary	phenotype	
+Abnormality of reproductive system physiology	phenotype	
+Abnormality of the pubic hair	phenotype	
+Abnormality of limb bone	phenotype	
+Abnormal vascular physiology	phenotype	
+Abnormality of nervous system morphology	phenotype	
+Abnormality of nervous system physiology	phenotype	
+Abnormal respiratory system morphology	phenotype	
+Abnormal bone ossification	phenotype	
+Abnormal appendicular skeleton morphology	phenotype	
+Abnormality of skeletal physiology	phenotype	
+Abnormality of skeletal morphology	phenotype	
+Abnormality of the anterior pituitary	phenotype	
+Abnormality of coordination	phenotype	
+Abnormality of central motor function	phenotype	
+Abnormal hair quantity	phenotype	
+Abnormality of hair density	phenotype	
+Abnormality of the metencephalon	phenotype	
+Abnormality of skin adnexa morphology	phenotype	
+Abnormality of blood volume homeostasis	phenotype	
+Abnormality of blood circulation	phenotype	
+Abnormality of cardiovascular system physiology	phenotype	
+Aplasia/Hypoplasia of the ovary	phenotype	
+Abnormality of the female genitalia	phenotype	
+Aplasia/Hypoplasia of the breasts	phenotype	
+Abnormality of secondary sexual hair	phenotype	
+Abnormal axial skeleton morphology	phenotype	
+Aplasia/hypoplasia of the uterus	phenotype	
+Aplasia/Hypoplasia of the cerebrum	phenotype	
+Abnormal bone structure	phenotype	
+Abnormality of lipid metabolism	phenotype	
+Abnormality of circulating hormone level	phenotype	
+Abnormality of the pleura	phenotype	
+Abnormality of the integument	phenotype	
+Abnormality of skeletal maturation	phenotype	
+Abnormality of the hypothalamus-pituitary axis	phenotype	
+Abnormality of the endocrine system	phenotype	
+Abnormal internal genitalia	phenotype	
+Abnormality of the breast	phenotype	
+Hearing abnormality	phenotype	
+Abnormality of skull size	phenotype	
+Abnormality of the menstrual cycle	phenotype	
+Abnormality of female internal genitalia	phenotype	
+Abnormality of body height	phenotype	
+Abnormal circulating gonadotropin level	phenotype	
+Abnormal circulating androgen level	phenotype	
+Abnormality of limb bone morphology	phenotype	
+Abnormality of digestive system physiology	phenotype	

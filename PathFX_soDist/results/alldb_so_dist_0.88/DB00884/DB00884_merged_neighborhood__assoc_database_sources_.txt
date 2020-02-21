@@ -1,0 +1,216 @@
+Gene	CUI	Source Databases	
+FDPS	C0877008	Enzyme inhibition disorder	DisGeNet	
+PTGS2	C0877008	Enzyme inhibition disorder	DisGeNet	
+PTGS2	C0280321	Squamous cell carcinoma of the hypopharynx	DisGeNet	
+PTGS2	C0349530	Early gastric cancer	DisGeNet	
+PTGS2	C0375071	Malignant neoplasm of vulva	DisGeNet	
+PTGS2	C0005694	Bladder neck obstruction	DisGeNet	
+PTGS2	C0155733	Aortic atherosclerosis	DisGeNet	
+PTGS2	C0206720	Squamous Cell Neoplasms	DisGeNet	
+PTGS2	C0744310	gastritis h pylori	DisGeNet	
+PTGS2	C0428791	Aortic valve calcification	DisGeNet	
+PTGS2	C1322286	Thymic Carcinoma	DisGeNet	
+PTGS2	C1852467	Creutzfeldt-Jakob Disease, Sporadic	DisGeNet	
+PTGS2	C0340293	Anterior myocardial infarction	DisGeNet	
+PTGS2	C0497496	Prostatitis	DisGeNet	
+PTGS2	C1334811	Mucinous Neoplasm	DisGeNet	
+PTGS2	C0022572	keratoacanthoma	DisGeNet	
+PTGS2	C0031039	Pericardial effusion	DisGeNet	
+PTGS2	C0155862	Streptococcal pneumonia	DisGeNet	
+PTGS2	C0035457	Rhinitis, Allergic, Perennial	DisGeNet	
+PTGS2	C0409957	Osteoarthritis of distal interphalangeal joint	DisGeNet	
+PTGS2	C0279565	Invasive Lobular Breast Carcinoma	DisGeNet	
+PTGS2	C0011071	Sudden death	DisGeNet	
+PTGS2	C0030201	Acute postoperative pain	DisGeNet	
+PTGS2	C0036117	Salmonella infections	DisGeNet	
+PTGS2	C0036429	Sclerosis	DisGeNet	
+PTGS2	C0263746	Osteoarthritis of the hand	DisGeNet	
+PTGS2	C0032273	Simple pneumoconiosis	DisGeNet	
+PTGS2	C0085083	Ovarian hyperstimulation syndrome	DisGeNet	
+PTGS2	C0268135	Xeroderma pigmentosum, group A	DisGeNet	
+PTGS2	C0034155	Purpura, Thrombotic Thrombocytopenic	DisGeNet	
+PTGS2	C0035869	Rotavirus Infections	DisGeNet	
+PTGS2	C0280280	Prostate cancer stage C	DisGeNet	
+PTGS2	C0280785	Diffuse Astrocytoma	DisGeNet	
+PTGS2	C0345893	Juvenile polyposis syndrome	DisGeNet	
+PTGS2	C0677659	Gastro-esophageal reflux disease with esophagitis	DisGeNet	
+PTGS2	C0917996	Cerebral aneurysm	DisGeNet	
+PTGS2	C1333762	Gastric Cardia Adenocarcinoma	DisGeNet	
+PTGS2	C0265962	Netherton syndrome	DisGeNet	
+PTGS2	C0346627	Intestinal Cancer	DisGeNet	
+PTGS2	C1518296	Neuropathogenesis	DisGeNet	
+PTGS2	C0007121	Bronchogenic Carcinoma	DisGeNet	
+PTGS2	C0040411	Neoplasm of the tongue	DisGeNet	
+PTGS2	C0021818	Displacement of intervertebral disc	DisGeNet	
+PTGS2	C0596321	Chemical Carcinogenesis	DisGeNet	
+PTGS2	C0002792	Anaphylactic shock NOS	DisGeNet	
+PTGS2	C0314719	Dryness of eye	DisGeNet	
+PTGS2	C0001849	AIDS Dementia Complex	DisGeNet	
+PTGS2	C0038354	Stomach Diseases	DisGeNet	
+PTGS2	C0598894	Monocytic leukemia	DisGeNet	
+PTGS2	C0040021	Thromboangiitis Obliterans	DisGeNet	
+PTGS2	C0242510	Drug usage	DisGeNet	
+PTGS2	C0013238	Dry Eye Syndromes	DisGeNet	
+PTGS2	C0015674	Chronic Fatigue Syndrome	DisGeNet	
+FDPS	C0018824	Heart valve disease	DisGeNet	
+PTGS2	C0677055	CARCINOMA OF VULVA	DisGeNet	
+PTGS2	C1260959	Drusen	DisGeNet	
+PTGS2	C0020545	Renovascular hypertension	DisGeNet	
+PTGS2	C0242172	Pelvic inflammatory disease	DisGeNet	
+PTGS2	C0740277	Bile duct cancer resectable	DisGeNet	
+PTGS2	C0741899	Poorly differentiated carcinoma	DisGeNet	
+PTGS2	C0016719	Friedreich's ataxia	DisGeNet	
+PTGS2	C0032231	Pleuritis	DisGeNet	
+PTGS2	C0027813	Neuritis	DisGeNet	
+PTGS2	C0085435	Arthritis, Reactive	DisGeNet	
+PTGS2	C0085786	Idiopathic fibrosing alveolitis, chronic form	DisGeNet	
+PTGS2	C0518014	Hematocrit level	DisGeNet	
+PTGS2	C0005859	Bloom syndrome	DisGeNet	
+PTGS2	C0153567	Uterine Cancer	DisGeNet	
+PTGS2	C0014869	Peptic Esophagitis	DisGeNet	
+PTGS2	C0023531	Leukoplakia	DisGeNet	
+PTGS2	C0333873	Squamous intraepithelial lesion	DisGeNet	
+PTGS2	C0279672	Cervical Adenocarcinoma	DisGeNet	
+PTGS2	C1378050	Oncocytic Neoplasm	DisGeNet	
+PTGS2	C0014173	Endometrial Hyperplasia	DisGeNet	
+PTGS2	C0013395	Dyspepsia	DisGeNet	
+PTGS2	C0341858	Endometriosis of uterus	DisGeNet	
+PTGS2	C0796126	Aicardi Goutieres syndrome 1	DisGeNet	
+PTGS2	C0206693	Medullary carcinoma	DisGeNet	
+PTGS2	C0334463	Malignant Fibrous Histiocytoma	DisGeNet	
+PTGS2	C0234251	Inflammatory pain	DisGeNet	
+PTGS2	C0280313	Oropharyngeal squamous cell carcinoma	DisGeNet	
+PTGS2	C0751674	Lymphangiomyomatosis	DisGeNet	
+PTGS2	C0029172	Oral Submucous Fibrosis	DisGeNet	
+PTGS2	C0079218	Desmoid tumor	DisGeNet	
+PTGS2	C0206692	Carcinoma, Lobular	DisGeNet	
+PTGS2	C1569637	Adenocarcinoma, Endometrioid	DisGeNet	
+PTGS2	C0013371	Shigella Infections	DisGeNet	
+PTGS2	C0036205	Sarcoidosis, Pulmonary	DisGeNet	
+PTGS2	C0041755	Adverse drug events and drug allergies	DisGeNet	
+PTGS2	C0009376	Colonic Polyps	DisGeNet	
+PTGS2	C0043352	Xerostomia	DisGeNet	
+PTGS2	C0348374	Malignant neoplasm of the central nervous system	DisGeNet	
+PTGS2	C0948216	Ovarian adenocarcinoma	DisGeNet	
+PTGS2	C1301034	Pancreatic intraepithelial neoplasia	DisGeNet	
+PTGS2	C0009241	Cognition Disorders	DisGeNet	
+PTGS2	C0014868	Esophagitis	DisGeNet	
+PTGS2	C0265325	Turcot syndrome	DisGeNet	
+PTGS2	C0751356	Idiopathic Inflammatory Myopathies	DisGeNet	
+PTGS2	C0268237	Cytochrome-c oxidase deficiency	DisGeNet	
+PTGS2	C0016034	Breast Fibrocystic Disease	DisGeNet	
+PTGS2	C0206726	gliosarcoma	DisGeNet	
+PTGS2	C1335177	Ovarian Serous Adenocarcinoma	DisGeNet	
+PTGS2	C2986665	Early-Stage Breast Carcinoma	DisGeNet	
+PTGS2	C0040137	Thyroid Nodule	DisGeNet	
+PTGS2	C1510885	Angiogenic Switch	DisGeNet	
+PTGS2	C0595936	Aqueous Humor Disorders	DisGeNet	
+PTGS2	C0949059	Colorectal polyposis	DisGeNet	
+PTGS2	C2945759	aggressive cancer	DisGeNet	
+FDPS	C0037286	Neoplasm of the skin	HumPhenOnt	
+PTGS2	C0037286	Neoplasm of the skin	DisGeNet	
+PTGS2	C1955869	Malformation of cortical development	DisGeNet	
+PTGS2	C0278484	Malignant neoplasm of colon stage IV	DisGeNet	
+PTGS2	C0242488	Acute Lung Injury	DisGeNet	
+PTGS2	C0206677	Adenomatous Polyps	DisGeNet	
+PTGS2	C0031269	Peutz-Jeghers syndrome	DisGeNet	
+PTGS2	C0872054	latent infection	DisGeNet	
+PTGS2	C0334108	Polyposis syndrome, mixed hereditary 1 (4)	DisGeNet	
+PTGS2	C1511291	Breast Cancer Model	DisGeNet	
+PTGS2	C0023532	Oral leukoplakia	DisGeNet	
+PTGS2	C0032787	Postoperative Complications	DisGeNet	
+PTGS2	C0269102	Endometrioma	DisGeNet	
+PTGS2	C0342257	Complications of Diabetes Mellitus	DisGeNet	
+PTGS2	C0027709	Nephrocalcinosis	DisGeNet	
+PTGS2	C0034063	Pulmonary edema	DisGeNet	
+PTGS2	C0085695	Chronic gastritis	DisGeNet	
+PTGS2	C0949691	Spondylarthropathies	DisGeNet	
+PTGS2	C0021843	Intestinal obstruction	DisGeNet	
+PTGS2	C0036095	Salivary gland neoplasm	DisGeNet	
+PTGS2	C0013295	Duodenal Ulcer	DisGeNet	
+PTGS2	C0025568	Metaplasia	DisGeNet	
+PTGS2	C1318544	M5b Acute differentiated monocytic leukemia	DisGeNet	
+PTGS2	C1559154	Rash and Dermatitis Adverse Event Associated with Chemoradiation	DisGeNet	
+PTGS2	C0021079	IMMUNE SUPPRESSION	DisGeNet	
+PTGS2	C0879615	Stromal Neoplasm	DisGeNet	
+PTGS2	C0205698	Undifferentiated carcinoma	DisGeNet	
+PTGS2	C0206139	Lichen Planus, Oral	DisGeNet	
+PTGS2	C0221056	Adult type dermatomyositis	DisGeNet	
+PTGS2	C0243038	Carcinoma, Lewis Lung	DisGeNet	
+PTGS2	C0021846	Intestinal polyp	DisGeNet	
+PTGS2	C0027439	Nasopharyngeal Neoplasms	DisGeNet	
+PTGS2	C0008313	Cholangitis, Sclerosing	DisGeNet	
+PTGS2	C0158266	Intervertebral disc degeneration	DisGeNet	
+PTGS2	C0238790	bone destruction	DisGeNet	
+PTGS2	C0947622	Cholecystolithiasis	DisGeNet	
+PTGS2	C0019340	Herpes NOS	DisGeNet	
+PTGS2	C1519689	Tumor Promotion	DisGeNet	
+PTGS2	C0027859	Vestibular Schwannoma	DisGeNet	
+PTGS2	C0079924	Oligohydramnios	DisGeNet	
+PTGS2	C0151468	Thyroid adenoma	DisGeNet	
+PTGS2	C0011882	Type 1 diabetic neuropathy	DisGeNet	
+PTGS2	C0031106	Periodontitis, Juvenile	DisGeNet	
+PTGS2	C0151546	Oral Cavity Carcinoma	DisGeNet	
+PTGS2	C0339143	Thyroid associated opthalmopathies	DisGeNet	
+PTGS2	C1168327	High-Grade Prostatic Intraepithelial Neoplasia	DisGeNet	
+PTGS2	C0005967	Bone neoplasms	DisGeNet	
+PTGS2	C0022602	Actinic keratosis	DisGeNet	
+PTGS2	C0042029	Urinary tract infection	DisGeNet	
+PTGS2	C0162534	Prion Diseases	DisGeNet	
+PTGS2	C0205647	Follicular adenoma	DisGeNet	
+PTGS2	C0206681	Adenocarcinoma, Clear Cell	DisGeNet	
+PTGS2	C0699949	airway disease	DisGeNet	
+PTGS2	C0007789	Cerebral palsy, spastic quadriplegic, 3	DisGeNet	
+PTGS2	C0022336	Creutzfeldt-Jakob Syndrome	DisGeNet	
+PTGS2	C0699893	Skin carcinoma	DisGeNet	
+PTGS2	C0949541	Oxyphilic Adenoma	DisGeNet	
+PTGS2	C0024809	Marijuana Abuse	DisGeNet	
+PTGS2	C0260037	Multiple tumors	DisGeNet	
+PTGS2	C0376618	Endotoxemia	DisGeNet	
+PTGS2	C0855197	Testicular malignant germ cell tumor	DisGeNet	
+PTGS2	C0750952	Biliary Tract Cancer	DisGeNet	
+PTGS2	C0333983	Hyperplastic Polyp	DisGeNet	
+PTGS2	C0010692	Cystitis	DisGeNet	
+PTGS2	C0004565	Melanoma, B16	DisGeNet	
+PTGS2	C0085655	Polymyositis	DisGeNet	
+PTGS2	C0595921	Intraocular pressure disorder	DisGeNet	
+PTGS2	C0001339	Acute pancreatitis	DisGeNet	
+PTGS2	C1153706	Endometrial adenocarcinoma	DisGeNet	
+PTGS2	C0004610	Bacteremia, susceptibility to, 2	DisGeNet	
+PTGS2	C0034885	Neoplasm of the rectum	DisGeNet	
+PTGS2	C0206701	High grade serous carcinoma	DisGeNet	
+PTGS2	C0854917	Rhabdoid Tumor of the Kidney	DisGeNet	
+PTGS2	C0018552	Hamartoma	DisGeNet	
+PTGS2	C0023055	Neoplasm of the larynx	DisGeNet	
+PTGS2	C0940937	precancerous lesions	DisGeNet	
+PTGS2	C0023485	Precursor B-Cell Lymphoblastic Leukemia-Lymphoma	DisGeNet	
+PTGS2	C0740391	Middle Cerebral Artery Occlusion	DisGeNet	
+PTGS2	C0035435	Rheumatic disease of heart valve	DisGeNet	
+PTGS2	C0026277	Mixed Salivary Gland Tumor	DisGeNet	
+PTGS2	C0566602	Primary sclerosing cholangitis	DisGeNet	
+PTGS2	C0079487	Helicobacter Infections	DisGeNet	
+PTGS2	C1519346	Skin Carcinogenesis	DisGeNet	
+PTGS2	C0001624	Neoplasm of the adrenal gland	DisGeNet	
+PTGS2	C0017612	Glaucoma, Open-Angle	DisGeNet	
+PTGS2	C0019562	Von Hippel-Lindau syndrome	DisGeNet	
+PTGS2	C0020541	Portal hypertension, noncirrhotic	DisGeNet	
+PTGS2	C0011633	Dermatomyositis	DisGeNet	
+PTGS2	C0031154	Peritonitis	DisGeNet	
+PTGS2	C0017154	Chronic atrophic gastritis	DisGeNet	
+PTGS2	C0028259	Nodule	DisGeNet	
+PTGS2	C0029927	Ovarian cyst	DisGeNet	
+PTGS2	C0038358	Gastric ulcer	DisGeNet	
+PTGS2	C0858252	Breast adenocarcinoma	DisGeNet	
+PTGS2	C0040038	Thromboembolism	DisGeNet	
+PTGS2	C0409959	Knee osteoarthritis	DisGeNet	
+PTGS2	C0947751	Vascular inflammations	DisGeNet	
+PTGS2	C1333990	Hereditary nonpolyposis colorectal cancer type 8	DisGeNet	
+PTGS2	C0034013	Precocious puberty	DisGeNet	
+PTGS2	C0349566	Squamous cell carcinoma of tongue	DisGeNet	
+PTGS2	C0014474	Ependymoma	DisGeNet	
+PTGS2	C1292753	Primary Effusion Lymphoma	DisGeNet	
+PTGS2	C0030920	Peptic ulcer	DisGeNet	
+PTGS2	C0041834	Erythema	DisGeNet	
+PTGS2	C0042109	Urticaria	DisGeNet	
+PTGS2	C0021359	Infertility associated with multi-tailed spermatozoa and excessive DNA	DisGeNet	
+PTGS2	C0039483	Giant cell arteritis	DisGeNet	

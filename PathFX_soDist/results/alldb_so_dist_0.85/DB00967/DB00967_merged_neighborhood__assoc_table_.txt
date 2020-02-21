@@ -1,0 +1,4 @@
+rank	phenotype	cui	assoc in neigh	assoc in intom	probability	Benjamini-Hochberg	genes	
+25	Nausea	C0027497	5	54	9.429827018125891e-07	3.12109862672e-05	ABCB1,CYP1A2,CYP2C19,CYP2C9,CYP2D6
+28	Primary malignant neoplasm of liver	C0024620	3	25	1.5210036947266303e-05	3.49563046192e-05	ABCB1,CYP2C19,CYP2D6
+30	Adverse drug events and drug allergies	C0041755	4	60	3.2870584886768306e-05	3.74531835206e-05	ABCB1,CYP1A2,CYP2C9,CYP2D6

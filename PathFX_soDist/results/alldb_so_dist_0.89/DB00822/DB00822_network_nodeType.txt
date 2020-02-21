@@ -1,0 +1,39 @@
+node_name	node_type	
+DB00822	drug	
+DBH	drug_target	
+ALDH2	drug_target	
+ABCB11	drug_target	
+CYP2E1	drug_target	
+CYP3A4	drug_target	
+CYP3A5	drug_target	
+Squamous Cell Neoplasms	phenotype	
+Antisocial Personality Disorder	phenotype	
+Bone necrosis	phenotype	
+As If Personality	phenotype	
+Tardive Dyskinesia	phenotype	
+Orofacial dyskinesia	phenotype	
+Drug Allergy	phenotype	
+Primary malignant neoplasm of liver	phenotype	
+Pleural Neoplasms	phenotype	
+Malignant neoplasm of pharynx	phenotype	
+DNA Damage	phenotype	
+Alcohol abuse	phenotype	
+Neoplasm of the larynx	phenotype	
+Cocaine delirium	phenotype	
+Chronic schizophrenia	phenotype	
+Nicotine Dependence	phenotype	
+Genomic Instability	phenotype	
+alcohol use disorder	phenotype	
+Pancreatitis, Alcoholic	phenotype	
+Stomach Diseases	phenotype	
+Chronic liver disease	phenotype	
+Pain insensitivity	phenotype	
+Cooley's anemia	phenotype	
+Head and Neck Neoplasms	phenotype	
+Neoplasms, Germ Cell and Embryonal	phenotype	
+Pharyngeal Neoplasms	phenotype	
+Heroin Dependence	phenotype	
+Occupational Diseases	phenotype	
+ {HIV-1 viremia, susceptibility to}, 609423 (3)	phenotype	
+Drug-Induced Liver Injury	phenotype	
+Ovarian Failure, Premature	phenotype	

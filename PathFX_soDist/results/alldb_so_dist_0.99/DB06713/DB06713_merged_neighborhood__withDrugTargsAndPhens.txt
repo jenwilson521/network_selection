@@ -1,0 +1,6 @@
+node1	node2	edge_score	
+DB06713	PGR	1.0	
+DB06713	CYP3A4	1.0	
+DB06713	AR	1.0	
+DB06713	ALB	1.0	
+

@@ -1,0 +1,10 @@
+Gene	CUI	Source Databases	
+ABCB1	C0030201	Acute postoperative pain	DisGeNet	
+ACE	C0030201	Acute postoperative pain	DisGeNet	
+CYP2D6	C0030201	Acute postoperative pain	DisGeNet	
+ACE	C0027707	Tubulointerstitial nephritis	DisGeNet	
+ALB	C0027707	Tubulointerstitial nephritis	DisGeNet	
+CYP2D6	C0027707	Tubulointerstitial nephritis	DisGeNet	
+ABCB1	C1704321	Nephrotic Syndrome, Minimal Change	DisGeNet	
+ACE	C1704321	Nephrotic Syndrome, Minimal Change	DisGeNet	
+ALB	C1704321	Nephrotic Syndrome, Minimal Change	DisGeNet	

@@ -1,0 +1,106 @@
+Gene	CUI	Source Databases	
+ABCB1	C0041755	Adverse drug events and drug allergies	DisGeNet	
+ABCC1	C0041755	Adverse drug events and drug allergies	DisGeNet	
+ABCC2	C0041755	Adverse drug events and drug allergies	DisGeNet	
+ABCC4	C0041755	Adverse drug events and drug allergies	DisGeNet	
+ABCG2	C0041755	Adverse drug events and drug allergies	DisGeNet	
+ALB	C0041755	Adverse drug events and drug allergies	DisGeNet	
+ATIC	C0041755	Adverse drug events and drug allergies	DisGeNet	
+DHFR	C0041755	Adverse drug events and drug allergies	DisGeNet	
+MTHFR	C0041755	Adverse drug events and drug allergies	DisGeNet	
+SLC19A1	C0041755	Adverse drug events and drug allergies	DisGeNet	
+SLCO1B1	C0041755	Adverse drug events and drug allergies	DisGeNet	
+TYMS	C0041755	Adverse drug events and drug allergies	DisGeNet	
+ABCB1	C0854467	Myelosuppression	DisGeNet	
+ABCG2	C0854467	Myelosuppression	DisGeNet	
+DHFR	C0854467	Myelosuppression	DisGeNet	
+GGH	C0854467	Myelosuppression	DisGeNet	
+MTHFR	C0854467	Myelosuppression	DisGeNet	
+TYMS	C0854467	Myelosuppression	DisGeNet	
+ABCG2	C0016412	Folic Acid Deficiency	DisGeNet	
+DHFR	C0016412	Folic Acid Deficiency	DisGeNet	
+FPGS	C0016412	Folic Acid Deficiency	DisGeNet	
+MTHFR	C0016412	Folic Acid Deficiency	DisGeNet	
+SLC19A1	C0016412	Folic Acid Deficiency	DisGeNet	
+TYMS	C0016412	Folic Acid Deficiency	DisGeNet	
+ABCB1	C0017178	Gastrointestinal Diseases	DisGeNet	
+ABCC2	C0017178	Gastrointestinal Diseases	DisGeNet	
+ATIC	C0017178	Gastrointestinal Diseases	DisGeNet	
+FPGS	C0017178	Gastrointestinal Diseases	DisGeNet	
+GGH	C0017178	Gastrointestinal Diseases	DisGeNet	
+MTHFR	C0017178	Gastrointestinal Diseases	DisGeNet	
+SLCO1B1	C0017178	Gastrointestinal Diseases	DisGeNet	
+TYMS	C0017178	Gastrointestinal Diseases	DisGeNet	
+ABCB1	C0013182	Drug Allergy	DisGeNet	
+ABCC2	C0013182	Drug Allergy	DisGeNet	
+CYP3A4	C0013182	Drug Allergy	DisGeNet	
+MTHFR	C0013182	Drug Allergy	DisGeNet	
+SLC19A1	C0013182	Drug Allergy	DisGeNet	
+SLCO1B1	C0013182	Drug Allergy	DisGeNet	
+TYMS	C0013182	Drug Allergy	DisGeNet	
+ABCB1	C0023530	Leukopenia	DisGeNet	
+ABCC1	C0023530	Leukopenia	DisGeNet	
+ABCC11	C0023530	Leukopenia	DisGeNet	
+ABCC2	C0023530	Leukopenia	DisGeNet	
+ABCC3	C0023530	Leukopenia	DisGeNet	
+ABCC4	C0023530	Leukopenia	DisGeNet	
+ABCG2	C0023530	Leukopenia	DisGeNet	
+CYP3A4	C0023530	Leukopenia	DisGeNet	
+MTHFR	C0023530	Leukopenia	DisGeNet	
+SLC19A1	C0023530	Leukopenia	DisGeNet	
+SLCO1B3	C0023530	Leukopenia	DisGeNet	
+TYMS	C0023530	Leukopenia	DisGeNet	
+ABCB1	C0023452	Leukemia, Lymphocytic, Acute, L1	DisGeNet	
+ABCC1	C0023452	Leukemia, Lymphocytic, Acute, L1	DisGeNet	
+ABCC2	C0023452	Leukemia, Lymphocytic, Acute, L1	DisGeNet	
+ABCC3	C0023452	Leukemia, Lymphocytic, Acute, L1	DisGeNet	
+ABCG2	C0023452	Leukemia, Lymphocytic, Acute, L1	DisGeNet	
+CYP3A4	C0023452	Leukemia, Lymphocytic, Acute, L1	DisGeNet	
+DHFR	C0023452	Leukemia, Lymphocytic, Acute, L1	DisGeNet	
+FPGS	C0023452	Leukemia, Lymphocytic, Acute, L1	DisGeNet	
+GGH	C0023452	Leukemia, Lymphocytic, Acute, L1	DisGeNet	
+MTHFR	C0023452	Leukemia, Lymphocytic, Acute, L1	DisGeNet	
+SLC19A1	C0023452	Leukemia, Lymphocytic, Acute, L1	DisGeNet	
+SLCO1B1	C0023452	Leukemia, Lymphocytic, Acute, L1	DisGeNet	
+TYMS	C0023452	Leukemia, Lymphocytic, Acute, L1	DisGeNet	
+ABCB1	C0860207	Drug-Induced Liver Injury	DisGeNet	
+ABCC2	C0860207	Drug-Induced Liver Injury	DisGeNet	
+ABCG2	C0860207	Drug-Induced Liver Injury	DisGeNet	
+ALB	C0860207	Drug-Induced Liver Injury	DisGeNet	
+ATIC	C0860207	Drug-Induced Liver Injury	DisGeNet	
+DHFR	C0860207	Drug-Induced Liver Injury	DisGeNet	
+FPGS	C0860207	Drug-Induced Liver Injury	DisGeNet	
+GGH	C0860207	Drug-Induced Liver Injury	DisGeNet	
+MTHFR	C0860207	Drug-Induced Liver Injury	DisGeNet	
+ABCB1	C0008312	Primary biliary cirrhosis	DisGeNet	
+ABCC1	C0008312	Primary biliary cirrhosis	DisGeNet	
+ABCC2	C0008312	Primary biliary cirrhosis	DisGeNet	
+ABCC3	C0008312	Primary biliary cirrhosis	DisGeNet	
+ABCC4	C0008312	Primary biliary cirrhosis	DisGeNet	
+ABCG2	C0008312	Primary biliary cirrhosis	DisGeNet	
+ALB	C0008312	Primary biliary cirrhosis	DisGeNet	
+CYP3A4	C0008312	Primary biliary cirrhosis	DisGeNet	
+SLCO1B1	C0008312	Primary biliary cirrhosis	DisGeNet	
+SLCO1B3	C0008312	Primary biliary cirrhosis	DisGeNet	
+ABCB1	C0677936	Refractory cancer	DisGeNet	
+ABCC1	C0677936	Refractory cancer	DisGeNet	
+DHFR	C0677936	Refractory cancer	DisGeNet	
+GGH	C0677936	Refractory cancer	DisGeNet	
+TYMS	C0677936	Refractory cancer	DisGeNet	
+ABCB1	C0235032	Neurotoxicity Syndromes	DisGeNet	
+ABCG2	C0235032	Neurotoxicity Syndromes	DisGeNet	
+MTHFR	C0235032	Neurotoxicity Syndromes	DisGeNet	
+TYMS	C0235032	Neurotoxicity Syndromes	DisGeNet	
+ABCB1	C0029445	Bone necrosis	DisGeNet	
+CYP3A4	C0029445	Bone necrosis	DisGeNet	
+MTHFR	C0029445	Bone necrosis	DisGeNet	
+TYMS	C0029445	Bone necrosis	DisGeNet	
+ABCB1	C0027947	Neutropenia	DisGeNet	
+ABCC1	C0027947	Neutropenia	DisGeNet	
+ABCC2	C0027947	Neutropenia	DisGeNet	
+ABCG2	C0027947	Neutropenia	DisGeNet	
+CYP3A4	C0027947	Neutropenia	DisGeNet	
+MTHFR	C0027947	Neutropenia	DisGeNet	
+SLCO1B1	C0027947	Neutropenia	DisGeNet	
+SLCO1B3	C0027947	Neutropenia	DisGeNet	
+TYMS	C0027947	Neutropenia	DisGeNet	

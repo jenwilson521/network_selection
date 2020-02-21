@@ -1,0 +1,4 @@
+node_name	node_type	
+DB00963	drug	
+PTGS2	drug_target	
+PTGS1	drug_target	

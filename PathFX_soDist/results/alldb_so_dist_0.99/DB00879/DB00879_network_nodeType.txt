@@ -1,0 +1,4 @@
+node_name	node_type	
+DB00879	drug	
+ALB	drug_target	
+DCK	drug_target	

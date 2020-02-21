@@ -1,0 +1,14 @@
+node1	node2	edge_score	
+DB00833	SLC15A2	1.0	
+DB00833	MPO	1.0	
+DB00833	ABCB11	1.0	
+DB00833	SLC22A8	1.0	
+SLC15A2		1.0
+SLC22A8		1.0
+Chromosome 11p deletion syndrome	SLC22A8	1.0	
+Hearing Loss, Partial	SLC15A2	1.0	
+Secondary hyperparathyroidism	SLC15A2	1.0	
+Deafness, autosomal recessive 44	SLC15A2	1.0	
+Acute kidney injury	SLC22A8	1.0	
+Cystic Fibrosis	SLC15A2	1.0	
+Influenza	SLC22A8	1.0	

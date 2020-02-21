@@ -1,0 +1,5 @@
+Gene	CUI	Source Databases	
+CYP2C19	C0342492	Adrenal hyperplasia	DisGeNet	
+POR	C0342492	Adrenal hyperplasia	HumPhenOnt	
+CYP2C19	C0270736	Essential tremor	DisGeNet	
+CYP2C8	C0270736	Essential tremor	DisGeNet	

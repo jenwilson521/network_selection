@@ -1,0 +1,422 @@
+Gene	CUI	Source Databases	
+FCGR2A	C0039483	Giant cell arteritis	DisGeNet	
+FCGR2B	C0039483	Giant cell arteritis	DisGeNet	
+FCGR3A	C0039483	Giant cell arteritis	DisGeNet	
+TRAF6	C0039483	Giant cell arteritis	DisGeNet	
+EGFR	C0024131	Lupus Vulgaris	DisGeNet	
+FCGR2A	C0024131	Lupus Vulgaris	DisGeNet	
+FCGR2B	C0024131	Lupus Vulgaris	DisGeNet	
+FCGR3A	C0024131	Lupus Vulgaris	DisGeNet	
+TRAF6	C0024131	Lupus Vulgaris	DisGeNet	
+EGFR	C0024138	Discoid lupus erythematosus	DisGeNet	
+FCGR2A	C0024138	Discoid lupus erythematosus	DisGeNet	
+FCGR2B	C0024138	Discoid lupus erythematosus	DisGeNet	
+FCGR3A	C0024138	Discoid lupus erythematosus	DisGeNet	
+TRAF6	C0024138	Discoid lupus erythematosus	DisGeNet	
+FCGR2A	C0403529	Anti-Glomerular Basement Membrane Disease	DisGeNet	
+FCGR2B	C0403529	Anti-Glomerular Basement Membrane Disease	DisGeNet	
+FCGR3A	C0403529	Anti-Glomerular Basement Membrane Disease	DisGeNet	
+FCGR2A	C0025303	Meningococcal Infections	DisGeNet	
+FCGR2B	C0025303	Meningococcal Infections	DisGeNet	
+FCGR3A	C0025303	Meningococcal Infections	DisGeNet	
+EGFR	C0409974	{Systemic lupus erythematosus, susceptibility to, 8} (2)	DisGeNet	
+FCGR2A	C0409974	{Systemic lupus erythematosus, susceptibility to, 8} (2)	DisGeNet	
+FCGR2B	C0409974	{Systemic lupus erythematosus, susceptibility to, 8} (2)	DisGeNet	
+FCGR3A	C0409974	{Systemic lupus erythematosus, susceptibility to, 8} (2)	DisGeNet	
+TRAF6	C0409974	{Systemic lupus erythematosus, susceptibility to, 8} (2)	DisGeNet	
+FCGR2A	C0030805	{Pemphigoid, susceptibility to} (2)	DisGeNet	
+FCGR2B	C0030805	{Pemphigoid, susceptibility to} (2)	DisGeNet	
+FCGR3A	C0030805	{Pemphigoid, susceptibility to} (2)	DisGeNet	
+EGFR	C0206139	Lichen Planus, Oral	DisGeNet	
+FCGR2A	C0206139	Lichen Planus, Oral	DisGeNet	
+FCGR2B	C0206139	Lichen Planus, Oral	DisGeNet	
+EGFR	C0004623	Recurrent bacterial infection	DisGeNet	
+FCGR2A	C0004623	Recurrent bacterial infection	DisGeNet	
+FCGR2B	C0004623	Recurrent bacterial infection	DisGeNet	
+TRAF6	C0004623	Recurrent bacterial infection	DisGeNet	
+FCGR2A	C0398650	Idiopathic thrombocytopenic purpura	DisGeNet	
+FCGR2B	C0398650	Idiopathic thrombocytopenic purpura	DisGeNet	
+FCGR3A	C0398650	Idiopathic thrombocytopenic purpura	DisGeNet	
+FCGR2A	C0206114	Periodontal Attachment Loss	DisGeNet	
+FCGR3A	C0206114	Periodontal Attachment Loss	DisGeNet	
+EGFR	C0018133	Graft-versus-host disease, susceptibility to	DisGeNet	
+FCGR2A	C0018133	Graft-versus-host disease, susceptibility to	DisGeNet	
+FCGR3A	C0018133	Graft-versus-host disease, susceptibility to	DisGeNet	
+TRAF6	C0018133	Graft-versus-host disease, susceptibility to	DisGeNet	
+EGFR	C3714644	Neoplasm of the thymus	DisGeNet	
+FCGR2A	C3714644	Neoplasm of the thymus	DisGeNet	
+FCGR2A	C0009447	Common variable immunodeficiency 2	DisGeNet	
+FCGR2B	C0009447	Common variable immunodeficiency 2	DisGeNet	
+FCGR3A	C0009447	Common variable immunodeficiency 2	DisGeNet	
+EGFR	C0162359	Hypohidrotic X-linked ectodermal dysplasia	DisGeNet	
+TRAF6	C0162359	Hypohidrotic X-linked ectodermal dysplasia	DisGeNet	
+FCGR2A	C0031094	Periodontal Pocket	DisGeNet	
+FCGR3A	C0031094	Periodontal Pocket	DisGeNet	
+FCGR2A	C0002382	Alveolar Bone Loss	DisGeNet	
+FCGR3A	C0002382	Alveolar Bone Loss	DisGeNet	
+EGFR	C0153633	Malignant neoplasm of brain and nervous system	DisGeNet	
+FCGR2A	C0153633	Malignant neoplasm of brain and nervous system	DisGeNet	
+FCGR3A	C0153633	Malignant neoplasm of brain and nervous system	DisGeNet	
+FCGR2A	C0034050	Alveolar proteinosis	DisGeNet	
+FCGR2B	C0034050	Alveolar proteinosis	DisGeNet	
+EGFR	C0403416	Idiopathic crescentic glomerulonephritis	DisGeNet	
+FCGR3A	C0403416	Idiopathic crescentic glomerulonephritis	DisGeNet	
+FCGR2A	C1258104	Diffuse Scleroderma	DisGeNet	
+FCGR3A	C1258104	Diffuse Scleroderma	DisGeNet	
+EGFR	C0035243	Respiratory tract infection	HumPhenOnt	
+FCGR2A	C0035243	Respiratory tract infection	DisGeNet	
+FCGR2B	C0035243	Respiratory tract infection	DisGeNet	
+FCGR3A	C0035243	Respiratory tract infection	DisGeNet,HumPhenOnt	
+EGFR	C0333516	Tumor necrosis	DisGeNet	
+FCGR3A	C0333516	Tumor necrosis	DisGeNet	
+TRAF6	C0333516	Tumor necrosis	DisGeNet	
+EGFR	C0006625	Cachexia	DisGeNet	
+TRAF6	C0006625	Cachexia	DisGeNet	
+UBC	C0006625	Cachexia	DisGeNet	
+FCGR2A	C0037054	Sickle Cell Trait	DisGeNet	
+FCGR2B	C0037054	Sickle Cell Trait	DisGeNet	
+FCGR2A	C0266929	Chronic Periodontitis	DisGeNet	
+FCGR2B	C0266929	Chronic Periodontitis	DisGeNet	
+FCGR3A	C0266929	Chronic Periodontitis	DisGeNet	
+EGFR	C0024299	Lymphoma, Large B-Cell, Diffuse	DisGeNet	
+FCGR2A	C0024299	Lymphoma, Large B-Cell, Diffuse	DisGeNet	
+FCGR2B	C0024299	Lymphoma, Large B-Cell, Diffuse	DisGeNet	
+FCGR3A	C0024299	Lymphoma, Large B-Cell, Diffuse	DisGeNet	
+TRAF6	C0024299	Lymphoma, Large B-Cell, Diffuse	DisGeNet	
+UBC	C0024299	Lymphoma, Large B-Cell, Diffuse	DisGeNet	
+FCGR2A	C0032269	Pneumococcal Infections	DisGeNet	
+FCGR2B	C0032269	Pneumococcal Infections	DisGeNet	
+FCGR2A	C0018378	Guillain-Barre syndrome, familial	DisGeNet	
+FCGR3A	C0018378	Guillain-Barre syndrome, familial	DisGeNet	
+FCGR2A	C3714636	Pneumonitis	DisGeNet	
+FCGR3A	C3714636	Pneumonitis	DisGeNet	
+FCGR2A	C0026691	Mucocutaneous Lymph Node Syndrome	DisGeNet,PheGenI	
+FCGR2B	C0026691	Mucocutaneous Lymph Node Syndrome	DisGeNet	
+FCGR3A	C0026691	Mucocutaneous Lymph Node Syndrome	DisGeNet	
+FCGR2A	C0010414	Infection by Cryptococcus neoformans	DisGeNet	
+FCGR3A	C0010414	Infection by Cryptococcus neoformans	DisGeNet	
+EGFR	C0041327	Tuberculosis, Pulmonary	DisGeNet	
+FCGR2A	C0041327	Tuberculosis, Pulmonary	DisGeNet	
+FCGR3A	C0041327	Tuberculosis, Pulmonary	DisGeNet	
+FCGR2A	C0024143	Lupus Nephritis	DisGeNet	
+FCGR2B	C0024143	Lupus Nephritis	DisGeNet	
+FCGR3A	C0024143	Lupus Nephritis	DisGeNet	
+FCGR2A	C0949690	{Spondyloarthropathy, susceptibility to, 1}, 106300 (3)	DisGeNet	
+FCGR2B	C0949690	{Spondyloarthropathy, susceptibility to, 1}, 106300 (3)	DisGeNet	
+FCGR2A	C0019100	Severe Dengue	DisGeNet	
+FCGR2B	C0019100	Severe Dengue	DisGeNet	
+FCGR2A	C3495801	Granulomatosis with Polyangiitis	DisGeNet	
+FCGR3A	C3495801	Granulomatosis with Polyangiitis	DisGeNet	
+EGFR	C0003864	Arthritis, Rheumatoid	DisGeNet	
+FCGR2A	C0003864	Arthritis, Rheumatoid	DisGeNet	
+FCGR2B	C0003864	Arthritis, Rheumatoid	DisGeNet	
+FCGR3A	C0003864	Arthritis, Rheumatoid	DisGeNet	
+TRAF6	C0003864	Arthritis, Rheumatoid	DisGeNet,PheGenI	
+FCGR2A	C0027947	Neutropenia	DisGeNet	
+FCGR2B	C0027947	Neutropenia	DisGeNet	
+FCGR3A	C0027947	Neutropenia	DisGeNet	
+FCGR2A	C0027726	Nephrotic syndrome, type 5, with or without ocular abnormalities	DisGeNet	
+FCGR2B	C0027726	Nephrotic syndrome, type 5, with or without ocular abnormalities	DisGeNet	
+FCGR3A	C0027726	Nephrotic syndrome, type 5, with or without ocular abnormalities	DisGeNet	
+EGFR	C0012546	{Diphtheria, susceptibility to} (1)	DisGeNet	
+TRAF6	C0012546	{Diphtheria, susceptibility to} (1)	DisGeNet	
+FCGR2B	C1290884	Inflammatory disorder	DisGeNet	
+FCGR3A	C1290884	Inflammatory disorder	DisGeNet	
+TRAF6	C1290884	Inflammatory disorder	DisGeNet	
+FCGR2A	C0006840	Candidiasis, familial, 9	DisGeNet	
+FCGR3A	C0006840	Candidiasis, familial, 9	DisGeNet	
+EGFR	C0581381	Recurrent upper respiratory tract infections	HumPhenOnt	
+FCGR3A	C0581381	Recurrent upper respiratory tract infections	HumPhenOnt	
+FCGR2A	C0242723	Parasitemia	DisGeNet	
+FCGR2B	C0242723	Parasitemia	DisGeNet	
+FCGR2A	C0031106	Periodontitis, Juvenile	DisGeNet	
+FCGR3A	C0031106	Periodontitis, Juvenile	DisGeNet	
+EGFR	C0079731	B-cell lymphoma	DisGeNet	
+FCGR2A	C0079731	B-cell lymphoma	DisGeNet	
+FCGR2B	C0079731	B-cell lymphoma	DisGeNet	
+FCGR3A	C0079731	B-cell lymphoma	DisGeNet	
+EGFR	C0007129	Merkel cell carcinoma	DisGeNet	
+FCGR3A	C0007129	Merkel cell carcinoma	DisGeNet	
+EGFR	C0948089	Acute Coronary Syndrome	DisGeNet	
+FCGR2A	C0948089	Acute Coronary Syndrome	DisGeNet	
+FCGR3A	C0948089	Acute Coronary Syndrome	DisGeNet	
+EGFR	C4025750	Abnormality of the nasopharynx	HumPhenOnt	
+FCGR3A	C4025750	Abnormality of the nasopharynx	HumPhenOnt	
+EGFR	C0026764	Multiple Myeloma	DisGeNet	
+FCGR2A	C0026764	Multiple Myeloma	DisGeNet	
+FCGR2B	C0026764	Multiple Myeloma	DisGeNet	
+FCGR3A	C0026764	Multiple Myeloma	DisGeNet	
+TRAF6	C0026764	Multiple Myeloma	DisGeNet	
+FCGR2A	C0031099	Periodontitis	DisGeNet	
+FCGR2B	C0031099	Periodontitis	DisGeNet	
+FCGR3A	C0031099	Periodontitis	DisGeNet	
+FCGR2A	C0497299	Meningitis	DisGeNet	
+FCGR3A	C0497299	Meningitis	DisGeNet	
+EGFR	C0022658	Kidney Diseases	DisGeNet	
+FCGR2A	C0022658	Kidney Diseases	DisGeNet	
+FCGR2B	C0022658	Kidney Diseases	DisGeNet	
+FCGR3A	C0022658	Kidney Diseases	DisGeNet	
+FCGR2A	C0241910	Hepatitis, Autoimmune	DisGeNet	
+FCGR2B	C0241910	Hepatitis, Autoimmune	DisGeNet	
+FCGR2A	C1956346	Coronary Artery Disease	DisGeNet	
+FCGR2B	C1956346	Coronary Artery Disease	DisGeNet	
+FCGR3A	C1956346	Coronary Artery Disease	DisGeNet	
+TRAF6	C1956346	Coronary Artery Disease	DisGeNet	
+UBC	C1956346	Coronary Artery Disease	DisGeNet	
+EGFR	C4025838	Abnormality of the pharynx	HumPhenOnt	
+FCGR3A	C4025838	Abnormality of the pharynx	HumPhenOnt	
+FCGR2A	C0024301	Lymphoma, Follicular	DisGeNet	
+FCGR2B	C0024301	Lymphoma, Follicular	DisGeNet	
+FCGR3A	C0024301	Lymphoma, Follicular	DisGeNet	
+EGFR	C0007138	Urothelial Carcinoma	DisGeNet	
+FCGR2A	C0007138	Urothelial Carcinoma	DisGeNet	
+FCGR2B	C0007138	Urothelial Carcinoma	DisGeNet	
+FCGR2A	C0017563	Gingival Diseases	DisGeNet	
+FCGR3A	C0017563	Gingival Diseases	DisGeNet	
+EGFR	C0032227	Pleural effusion	DisGeNet	
+FCGR3A	C0032227	Pleural effusion	DisGeNet	
+EGFR	C0035455	Rhinitis, Allergic, Seasonal	DisGeNet	
+FCGR2A	C0035455	Rhinitis, Allergic, Seasonal	DisGeNet	
+EGFR	C0024141	Lupus Erythematosus, Systemic	DisGeNet	
+FCGR2A	C0024141	Lupus Erythematosus, Systemic	ClinVar,DisGeNet,PheGenI	
+FCGR2B	C0024141	Lupus Erythematosus, Systemic	ClinVar,DisGeNet	
+FCGR3A	C0024141	Lupus Erythematosus, Systemic	DisGeNet	
+TRAF6	C0024141	Lupus Erythematosus, Systemic	DisGeNet	
+FCGR2A	C0024535	Malaria, Falciparum	DisGeNet	
+FCGR2B	C0024535	Malaria, Falciparum	DisGeNet	
+EGFR	C0007570	Celiac Disease	DisGeNet	
+FCGR2A	C0007570	Celiac Disease	DisGeNet	
+FCGR3A	C0007570	Celiac Disease	DisGeNet	
+FCGR2A	C0004364	Autoimmune disease 1	DisGeNet	
+FCGR2B	C0004364	Autoimmune disease 1	DisGeNet	
+FCGR3A	C0004364	Autoimmune disease 1	DisGeNet	
+TRAF6	C0004364	Autoimmune disease 1	DisGeNet	
+FCGR2A	C0002878	Hemolytic anemia, nonspherocytic, due to glucose phosphate isomerase deficiency	DisGeNet	
+FCGR2B	C0002878	Hemolytic anemia, nonspherocytic, due to glucose phosphate isomerase deficiency	DisGeNet	
+EGFR	C0677932	Progressive Neoplastic Disease	DisGeNet	
+FCGR3A	C0677932	Progressive Neoplastic Disease	DisGeNet	
+EGFR	C3539781	Progressive cGVHD	DisGeNet	
+FCGR3A	C3539781	Progressive cGVHD	DisGeNet	
+EGFR	C0011609	Drug Eruptions	DisGeNet	
+EGFR	C0263661	Disorder of skeletal system	DisGeNet	
+EGFR	C0001420	Papillary adenocarcinoma	DisGeNet	
+EGFR	C0032229	Pleural Neoplasms	DisGeNet	
+EGFR	C0205944	Sarcoma, Epithelioid	DisGeNet	
+EGFR	C0220611	childhood rhabdomyosarcoma	DisGeNet	
+EGFR	C0346109	Peritoneal Mesothelioma	DisGeNet	
+EGFR	C3809250	Estrogen resistance	DisGeNet	
+EGFR	C0032285	Pneumonia	HumPhenOnt	
+FCGR2A	C0032285	Pneumonia	DisGeNet	
+FCGR3A	C0032285	Pneumonia	DisGeNet	
+EGFR	C0007868	Cervical dysplasia	DisGeNet	
+EGFR	C0022603	Seborrheic keratosis	DisGeNet	
+EGFR	C0037274	Dermatosis NOS	DisGeNet	
+FCGR2A	C0037274	Dermatosis NOS	DisGeNet	
+FCGR2B	C0037274	Dermatosis NOS	DisGeNet	
+EGFR	C0001622	Adrenal Gland Hyperfunction	DisGeNet	
+EGFR	C0013312	Dupuytren Contracture	DisGeNet	
+EGFR	C0025269	Multiple Endocrine Neoplasia Type 2b	DisGeNet	
+EGFR	C0278493	Breast cancer recurrent	DisGeNet	
+EGFR	C0349530	Early gastric cancer	DisGeNet	
+EGFR	C0375071	Malignant neoplasm of vulva	DisGeNet	
+EGFR	C1314694	Astrocytoma, low grade	DisGeNet	
+EGFR	C0040100	Thymoma	DisGeNet	
+FCGR2A	C0040100	Thymoma	DisGeNet	
+FCGR2A	C0027697	Nephritis	DisGeNet	
+FCGR3A	C0027697	Nephritis	DisGeNet	
+EGFR	C0034341	Pyruvate carboxylase deficiency	DisGeNet	
+EGFR	C0206720	Squamous Cell Neoplasms	DisGeNet	
+EGFR	C0221406	Pituitary dependent hypercortisolism	DisGeNet	
+EGFR	C0392784	Dermatofibrosarcoma protuberans	DisGeNet	
+EGFR	C0009443	Familial cold-induced inflammatory syndrome 1, 120100 (3)	DisGeNet	
+FCGR2A	C0014121	Bacterial endocarditis	DisGeNet	
+EGFR	C0741796	Recurrent bronchitis	HumPhenOnt	
+EGFR	C1265996	Large cell neuroendocrine carcinoma	DisGeNet	
+EGFR	C1322286	Thymic Carcinoma	DisGeNet	
+EGFR	C1851585	Myeloproliferative disorder, chronic, with eosinophilia	DisGeNet	
+FCGR2A	C0042384	Vasculitis	DisGeNet	
+FCGR2B	C0042384	Vasculitis	DisGeNet	
+EGFR	C0020517	Hypersensitivity	DisGeNet	
+TRAF6	C0020517	Hypersensitivity	DisGeNet	
+FCGR2B	C0085702	Monocytosis	DisGeNet	
+EGFR	C0017150	Gastrinoma	DisGeNet	
+FCGR2A	C0034040	Puerperal Disorders	DisGeNet	
+EGFR	C0268138	Xeroderma Pigmentosum, Complementation Group D	DisGeNet	
+FCGR3A	C0581354	Recurrent sinusitis	HumPhenOnt	
+FCGR3A	C3889979	TNF receptor-associated periodic fever syndrome (TRAPS)	DisGeNet	
+EGFR	C0019348	Herpes Simplex Infections	DisGeNet	
+FCGR2B	C0019348	Herpes Simplex Infections	DisGeNet	
+FCGR3A	C0019348	Herpes Simplex Infections	DisGeNet	
+EGFR	C0038160	Staphylococcal Infections	DisGeNet	
+EGFR	C0278688	Stage IV Ovarian Carcinoma	DisGeNet	
+EGFR	C0334276	Adenocarcinoma in Situ	DisGeNet	
+FCGR3A	C0340293	Anterior myocardial infarction	DisGeNet	
+EGFR	C0678213	Complete hydatidiform mole	DisGeNet	
+EGFR	C1334811	Mucinous Neoplasm	DisGeNet	
+EGFR	C1402294	Primary Lesion	DisGeNet	
+EGFR	C0031039	Pericardial effusion	DisGeNet	
+FCGR2A	C0035436	Rheumatic fever / chorea	DisGeNet	
+EGFR	C0153382	Malignant neoplasm of oropharynx	DisGeNet	
+EGFR	C0206685	Acinar Cell Carcinoma	DisGeNet	
+EGFR	C0221228	Comedone	DisGeNet	
+EGFR	C0278838	Prostate cancer recurrent	DisGeNet	
+EGFR	C0677944	Sentinel node (disorder)	DisGeNet	
+FCGR2A	C0024530	Malaria	DisGeNet	
+FCGR2B	C0024530	Malaria	DisGeNet	
+FCGR3A	C0024530	Malaria	DisGeNet	
+EGFR	C0023467	Acute myeloid leukemia	DisGeNet	
+FCGR2A	C0023467	Acute myeloid leukemia	DisGeNet	
+FCGR2B	C0023467	Acute myeloid leukemia	DisGeNet	
+FCGR3A	C0023467	Acute myeloid leukemia	DisGeNet	
+TRAF6	C0023467	Acute myeloid leukemia	DisGeNet	
+EGFR	C0085110	Severe combined immunodeficiency due to ADA deficiency	DisGeNet	
+FCGR3A	C0085110	Severe combined immunodeficiency due to ADA deficiency	DisGeNet	
+TRAF6	C0085110	Severe combined immunodeficiency due to ADA deficiency	DisGeNet	
+FCGR2A	C0014118	Endocarditis	DisGeNet	
+FCGR2A	C0003872	Arthritis, Psoriatic	DisGeNet	
+FCGR3A	C0003872	Arthritis, Psoriatic	DisGeNet	
+EGFR	C0031118	Neoplasm of the peripheral nervous system	DisGeNet	
+TRAF6	C0032533	Polymyalgia Rheumatica	DisGeNet	
+EGFR	C0206734	Hemangioblastoma	DisGeNet	
+EGFR	C1384494	Metastatic Carcinoma	DisGeNet	
+FCGR2A	C2347126	Microscopic Polyarteritis	DisGeNet	
+FCGR2A	C0024305	Non-Hodgkin lymphoma	DisGeNet	
+FCGR3A	C0024305	Non-Hodgkin lymphoma	DisGeNet	
+TRAF6	C0024305	Non-Hodgkin lymphoma	DisGeNet	
+FCGR2A	C0026896	Myasthenia Gravis	DisGeNet	
+FCGR3A	C0026896	Myasthenia Gravis	DisGeNet	
+FCGR2A	C3539909	Allergic disposition	DisGeNet	
+FCGR2B	C3539909	Allergic disposition	DisGeNet	
+FCGR3A	C0002880	Autoimmune hemolytic anemia	DisGeNet	
+FCGR2A	C0694549	Community acquired pneumonia	DisGeNet	
+FCGR2A	C0079744	Germinal Center B-Cell-Like Diffuse Large B-Cell Lymphoma	DisGeNet	
+FCGR3A	C0079744	Germinal Center B-Cell-Like Diffuse Large B-Cell Lymphoma	DisGeNet	
+TRAF6	C0079744	Germinal Center B-Cell-Like Diffuse Large B-Cell Lymphoma	DisGeNet	
+FCGR3A	C0019372	Herpesviridae Infections	DisGeNet	
+EGFR	C0278498	Malignant neoplasm of stomach stage IV	DisGeNet	
+EGFR	C0009450	Verotoxigenic Escherichia coli gastrointestinal tract infection	DisGeNet	
+FCGR2A	C0009450	Verotoxigenic Escherichia coli gastrointestinal tract infection	DisGeNet	
+FCGR3A	C0009450	Verotoxigenic Escherichia coli gastrointestinal tract infection	DisGeNet	
+TRAF6	C0009450	Verotoxigenic Escherichia coli gastrointestinal tract infection	DisGeNet	
+EGFR	C0280785	Diffuse Astrocytoma	DisGeNet	
+EGFR	C3665419	Intracranial glioma	DisGeNet	
+EGFR	C0036631	Testicular seminoma	DisGeNet	
+UBC	C0036631	Testicular seminoma	DisGeNet	
+EGFR	C0032064	Plague	DisGeNet	
+EGFR	C0162678	Neurofibromatoses	DisGeNet	
+EGFR	C0206630	Stromal sarcoma	DisGeNet	
+EGFR	C0206651	Clear cell sarcoma, of tendons and aponeuroses	DisGeNet	
+EGFR	C0276447	Rhinovirus infection	DisGeNet	
+FCGR2A	C0004626	Pneumonia, Bacterial	DisGeNet	
+EGFR	C0007121	Bronchogenic Carcinoma	DisGeNet	
+FCGR3A	C0027873	Neuromyelitis Optica	DisGeNet	
+EGFR	C0279130	CNS metastases	DisGeNet	
+EGFR	C0403592	Chronic rejection of renal transplant	DisGeNet	
+FCGR2A	C0029882	Otitis media	DisGeNet	
+FCGR3A	C0029882	Otitis media	HumPhenOnt	
+EGFR	C0003873	Rheumatoid arthritis	DisGeNet	
+FCGR2A	C0003873	Rheumatoid arthritis	DisGeNet	
+FCGR2B	C0003873	Rheumatoid arthritis	DisGeNet	
+FCGR3A	C0003873	Rheumatoid arthritis	DisGeNet	
+TRAF6	C0003873	Rheumatoid arthritis	DisGeNet	
+EGFR	C0007140	Carcinosarcoma	DisGeNet	
+EGFR	C0206633	{TSC2 angiomyolipomas, renal, modifier of}, 613254 (3)	DisGeNet	
+EGFR	C0272138	Erythroblastosis	DisGeNet	
+EGFR	C0750979	Primary malignant neoplasm of brain	DisGeNet	
+EGFR	C1135868	Gestational trophoblastic disease	DisGeNet	
+FCGR2A	C0243026	Sepsis	DisGeNet	
+FCGR3A	C0243026	Sepsis	DisGeNet	
+TRAF6	C0243026	Sepsis	DisGeNet	
+FCGR2A	C0002792	Anaphylactic shock NOS	DisGeNet	
+EGFR	C0008373	Cholesteatoma	DisGeNet	
+EGFR	C0242787	Malignant neoplasm of male breast	DisGeNet	
+EGFR	C0263454	Chloracne	DisGeNet	
+EGFR	C0314719	Dryness of eye	DisGeNet	
+EGFR	C1519666	Tumor-Associated Vasculature	DisGeNet	
+EGFR	C0027430	Nasal polyposis	DisGeNet	
+TRAF6	C0027430	Nasal polyposis	DisGeNet	
+FCGR2A	C0029928	Ovarian Diseases	DisGeNet	
+FCGR2B	C0029928	Ovarian Diseases	DisGeNet	
+EGFR	C0017152	Gastritis	DisGeNet	
+FCGR3A	C0017152	Gastritis	DisGeNet	
+EGFR	C1298180	Single tumor	DisGeNet	
+EGFR	C1335475	Primary Carcinoma	DisGeNet	
+EGFR	C0019693	Symptomatic human immunodeficiency virus infection	DisGeNet	
+FCGR2A	C0019693	Symptomatic human immunodeficiency virus infection	DisGeNet	
+FCGR2B	C0019693	Symptomatic human immunodeficiency virus infection	DisGeNet	
+FCGR3A	C0019693	Symptomatic human immunodeficiency virus infection	DisGeNet	
+TRAF6	C0019693	Symptomatic human immunodeficiency virus infection	DisGeNet	
+EGFR	C0023434	Chronic Lymphocytic Leukemia	DisGeNet	
+FCGR2A	C0023434	Chronic Lymphocytic Leukemia	DisGeNet	
+FCGR2B	C0023434	Chronic Lymphocytic Leukemia	DisGeNet	
+FCGR3A	C0023434	Chronic Lymphocytic Leukemia	DisGeNet	
+FCGR2A	C0026946	Mycoses	DisGeNet	
+TRAF6	C0026946	Mycoses	DisGeNet	
+EGFR	C0014145	Yolk Sac Tumor	DisGeNet	
+EGFR	C0085548	Autosomal recessive polycystic kidney disease	DisGeNet	
+EGFR	C0162565	Acute intermittent porphyria	DisGeNet	
+EGFR	C0206716	Ganglioglioma	DisGeNet	
+EGFR	C0553694	Oropharyngeal disorders	DisGeNet	
+EGFR	C0694550	Recurrent pneumonia	HumPhenOnt	
+EGFR	C1257930	Mammary Carcinoma, Human	DisGeNet	
+EGFR	C1306214	Pituitary corticotropic cell adenoma	DisGeNet	
+EGFR	C0013238	Dry Eye Syndromes	DisGeNet	
+EGFR	C0035244	Neoplasm of the respiratory system	HumPhenOnt	
+FCGR2A	C0039263	Takayasu Arteritis	DisGeNet	
+EGFR	C0206623	Adenosquamous carcinoma	DisGeNet	
+EGFR	C0677055	CARCINOMA OF VULVA	DisGeNet	
+FCGR2A	C0006309	Brucellosis	DisGeNet	
+FCGR2A	C0038395	Streptococcal Infections	DisGeNet	
+EGFR	C0085390	Li-Fraumeni syndrome	DisGeNet	
+FCGR3A	C0740380	Varicella zoster	DisGeNet	
+EGFR	C0027533	Neck Neoplasms	DisGeNet	
+EGFR	C0585362	Squamous cell carcinoma of mouth	DisGeNet	
+EGFR	C0740277	Bile duct cancer resectable	DisGeNet	
+FCGR2A	C0040034	Thrombocytopenia, platelet dysfunction, hemolysis, and imbalanced globin synthesis	DisGeNet	
+FCGR3A	C0040034	Thrombocytopenia, platelet dysfunction, hemolysis, and imbalanced globin synthesis	DisGeNet	
+EGFR	C0021368	Inflammation	DisGeNet	
+FCGR2A	C0021368	Inflammation	DisGeNet	
+FCGR3A	C0021368	Inflammation	DisGeNet	
+FCGR2A	C0017661	IgA nephropathy, susceptibility to, 3	DisGeNet	
+FCGR2B	C0017661	IgA nephropathy, susceptibility to, 3	DisGeNet	
+FCGR3A	C0017661	IgA nephropathy, susceptibility to, 3	DisGeNet	
+EGFR	C0016978	Neoplasm of the gallbladder	DisGeNet	
+UBC	C0086942	Rous Sarcoma	DisGeNet	
+EGFR	C0206718	Ganglioneuroblastoma	DisGeNet	
+EGFR	C0950124	Papillomavirus Infections	DisGeNet	
+EGFR	C0280217	stage, non-small cell lung cancer	DisGeNet	
+EGFR	C0010701	Phyllodes tumor, benign	DisGeNet	
+EGFR	C0153567	Uterine Cancer	DisGeNet	
+EGFR	C0854699	Trichomegaly	HumPhenOnt	
+EGFR	C0014869	Peptic Esophagitis	DisGeNet	
+EGFR	C0023531	Leukoplakia	DisGeNet	
+FCGR2B	C0393819	Polyradiculoneuropathy, Chronic Inflammatory Demyelinating	DisGeNet	
+EGFR	C0027830	Neurofibromas	DisGeNet	
+EGFR	C0585953	Recurrent lower respiratory tract infections	HumPhenOnt	
+EGFR	C0009319	Colitis, Ulcerative	DisGeNet	
+FCGR2A	C0009319	Colitis, Ulcerative	PheGenI	
+TRAF6	C0009319	Colitis, Ulcerative	DisGeNet	
+EGFR	C0004153	Atherosclerosis	DisGeNet	
+FCGR2A	C0004153	Atherosclerosis	DisGeNet	
+FCGR3A	C0004153	Atherosclerosis	DisGeNet	
+TRAF6	C0004153	Atherosclerosis	DisGeNet	
+EGFR	C0016169	pathologic fistula	DisGeNet	
+EGFR	C0206727	Nerve Sheath Tumors	DisGeNet	
+EGFR	C0750974	Brain Tumor, Primary	DisGeNet	
+EGFR	C1302773	Low Grade Squamous Intraepithelial Neoplasia	DisGeNet	
+FCGR3A	C1522378	Leukemia, Large Granular Lymphocytic	DisGeNet	
+EGFR	C0008628	Chromosome Xq28 deletion syndrome	DisGeNet	
+EGFR	C0206695	Carcinoma, Neuroendocrine	DisGeNet	
+EGFR	C0238033	Carcinoma of Male Breast	DisGeNet	
+EGFR	C0027643	Neoplasm Recurrence, Local	DisGeNet	
+FCGR2A	C0027643	Neoplasm Recurrence, Local	DisGeNet	
+EGFR	C0003803	Arnold-Chiari malformation	DisGeNet	
+EGFR	C0175693	Russell-Silver syndrome	DisGeNet	
+EGFR	C0005426	Biliary tract neoplasm	DisGeNet	
+EGFR	C0029132	Optic neuropathy	DisGeNet	
+EGFR	C0238394	Female pseudohermaphroditism	DisGeNet	
+EGFR	C0334463	Malignant Fibrous Histiocytoma	DisGeNet	
+EGFR	C0343641	Human papilloma virus infection	DisGeNet	
+FCGR3A	C0014522	EPIDERMODYSPLASIA VERRUCIFORMIS	DisGeNet	
+EGFR	C0280313	Oropharyngeal squamous cell carcinoma	DisGeNet	
+EGFR	C0751674	Lymphangiomyomatosis	DisGeNet	

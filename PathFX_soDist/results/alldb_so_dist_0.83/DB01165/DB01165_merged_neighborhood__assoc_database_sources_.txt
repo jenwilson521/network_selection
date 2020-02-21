@@ -1,0 +1,7 @@
+Gene	CUI	Source Databases	
+ABCC1	C0041755	Adverse drug events and drug allergies	DisGeNet	
+ABCC2	C0041755	Adverse drug events and drug allergies	DisGeNet	
+CYP1A2	C0041755	Adverse drug events and drug allergies	DisGeNet	
+CYP1A2	C0018273	Growth Disorders	DisGeNet	
+SLC22A4	C0018273	Growth Disorders	DisGeNet	
+SLC22A5	C0018273	Growth Disorders	DisGeNet	

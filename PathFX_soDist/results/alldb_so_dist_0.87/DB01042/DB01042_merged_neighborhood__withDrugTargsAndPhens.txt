@@ -1,0 +1,127 @@
+node1	node2	edge_score	
+DB01042	SLC7A5	1.0	
+DB01042	SLC22A3	1.0	
+SLC7A5		1.0
+SLC22A3		1.0
+Astrocytoma	SLC22A3	1.0	
+Astrocytoma	SLC7A5	1.0	
+Non-small cell lung carcinoma	SLC22A3	1.0	
+Non-small cell lung carcinoma	SLC7A5	1.0	
+Renal cell carcinoma, nonpapillary	SLC22A3	1.0	
+Renal cell carcinoma, nonpapillary	SLC7A5	1.0	
+Squamous cell carcinoma	SLC22A3	1.0	
+Squamous cell carcinoma	SLC7A5	1.0	
+Glioblastoma	SLC22A3	1.0	
+Glioblastoma	SLC7A5	1.0	
+Glioma	SLC22A3	1.0	
+Glioma	SLC7A5	1.0	
+Animal Mammary Neoplasms	SLC22A3	1.0	
+Animal Mammary Neoplasms	SLC7A5	1.0	
+Melanoma	SLC22A3	1.0	
+Melanoma	SLC7A5	1.0	
+Secondary hypertriglyceridemia	SLC22A3	1.0	
+Secondary hypertriglyceridemia	SLC7A5	1.0	
+Prostatic Neoplasms	SLC22A3	1.0	
+Prostatic Neoplasms	SLC7A5	1.0	
+Adenocarcinoma of lung	SLC22A3	1.0	
+Adenocarcinoma of lung	SLC7A5	1.0	
+Tumor Progression	SLC22A3	1.0	
+Tumor Progression	SLC7A5	1.0	
+Cholangiocarcinoma	SLC22A3	1.0	
+Cholangiocarcinoma	SLC7A5	1.0	
+Intrahepatic Cholangiocarcinoma	SLC22A3	1.0	
+Intrahepatic Cholangiocarcinoma	SLC7A5	1.0	
+Malignant tumor of prostate	SLC22A3	1.0	
+Malignant tumor of prostate	SLC7A5	1.0	
+Carcinogenesis	SLC22A3	1.0	
+Carcinogenesis	SLC7A5	1.0	
+Prostate carcinoma	SLC22A3	1.0	
+Prostate carcinoma	SLC7A5	1.0	
+Hepatocellular carcinoma	SLC22A3	1.0	
+Hepatocellular carcinoma	SLC7A5	1.0	
+Disorders of Sex Development	SLC22A3	1.0	
+Isovaleryl-CoA dehydrogenase deficiency	SLC22A3	1.0	
+Phenylketonuria	SLC7A5	1.0	
+Renal interstitial fibrosis	SLC22A3	1.0	
+Gonadoblastoma	SLC22A3	1.0	
+Carcinosarcoma	SLC22A3	1.0	
+Precursor cell lymphoblastic lymphoma	SLC7A5	1.0	
+Yolk Sac Tumor	SLC22A3	1.0	
+Bile duct cancer resectable	SLC7A5	1.0	
+Phyllodes tumor, benign	SLC22A3	1.0	
+Oropharyngeal squamous cell carcinoma	SLC22A3	1.0	
+Osteochondritis dissecans	SLC22A3	1.0	
+Nasopharyngeal cancer recurrent	SLC22A3	1.0	
+Retroviridae Infections	SLC22A3	1.0	
+Substance addiction and disorders	SLC22A3	1.0	
+Obsessive-compulsive disorder	SLC22A3	1.0	
+Alveolar cell carcinoma	SLC7A5	1.0	
+Latent autoimmune diabetes mellitus in adult	SLC7A5	1.0	
+Testicular malignant germ cell tumor	SLC22A3	1.0	
+Biliary Tract Cancer	SLC22A3	1.0	
+Methamphetamine abuse	SLC22A3	1.0	
+Teratoma	SLC22A3	1.0	
+Carcinoma, Small Cell	SLC22A3	1.0	
+Clear-cell metastatic renal cell carcinoma	SLC7A5	1.0	
+Dermatitis, Allergic Contact	SLC7A5	1.0	
+Myocarditis	SLC22A3	1.0	
+Cervical Squamous Cell Carcinoma	SLC22A3	1.0	
+Pleural effusion	SLC22A3	1.0	
+Hyperplasia	SLC7A5	1.0	
+Coronary Disease	SLC22A3	1.0	
+Squamous cell carcinoma of the skin	SLC22A3	1.0	
+Renal fibrosis	SLC22A3	1.0	
+Substance-Related Disorders	SLC22A3	1.0	
+Keloid	SLC22A3	1.0	
+Embryonal Carcinoma	SLC22A3	1.0	
+Squamous cell carcinoma of lung	SLC22A3	1.0	
+Cycloid psychosis	SLC22A3	1.0	
+Hepatoblastoma	SLC22A3	1.0	
+Testicular seminoma	SLC22A3	1.0	
+Ductal Carcinoma	SLC22A3	1.0	
+FANCONI ANEMIA, COMPLEMENTATION GROUP A (disorder)	SLC22A3	1.0	
+Metastatic Prostate Carcinoma	SLC22A3	1.0	
+Pleural Mesothelioma	SLC22A3	1.0	
+Fanconi anemia	SLC22A3	1.0	
+Germ cell neoplasia	SLC22A3	1.0	
+Neuroendocrine neoplasm	SLC7A5	1.0	
+Recurrent bacterial infection	SLC7A5	1.0	
+Pheochromocytoma	SLC22A3	1.0	
+Choriocarcinoma	SLC22A3	1.0	
+polyps	SLC22A3	1.0	
+Pituitary adenoma	SLC22A3	1.0	
+Noninfiltrating Intraductal Carcinoma	SLC22A3	1.0	
+Non-alcoholic Fatty Liver Disease	SLC22A3	1.0	
+Cancer Cell Growth	SLC7A5	1.0	
+Pituitary Neoplasms	SLC22A3	1.0	
+Malignant lymphoma, lymphocytic, intermediate differentiation, diffuse	SLC22A3	1.0	
+Cholestasis, benign recurrent intrahepatic 1	SLC22A3	1.0	
+Psychotic Disorders	SLC22A3	1.0	
+Idiopathic Pulmonary Fibrosis	SLC22A3	1.0	
+Carcinoma breast stage IV	SLC22A3	1.0	
+Clear cell renal cell carcinoma	SLC7A5	1.0	
+Invasive breast carcinoma	SLC22A3	1.0	
+T-cell acute lymphoblastic leukemias	SLC7A5	1.0	
+Urothelial Carcinoma	SLC7A5	1.0	
+Cancer of the lower GI tract	SLC22A3	1.0	
+Malignant Glioma	SLC7A5	1.0	
+Hepatic fibrosis	SLC22A3	1.0	
+Lip and Oral Cavity Carcinoma	SLC7A5	1.0	
+Cancer of mouth	SLC7A5	1.0	
+Benign Prostatic Hyperplasia	SLC22A3	1.0	
+Cancer of Head and Neck	SLC22A3	1.0	
+C-like syndrome	SLC22A3	1.0	
+Tumor Angiogenesis	SLC22A3	1.0	
+Thyroid cancer, nonmedullary, 4	SLC22A3	1.0	
+Hepatitis C, Chronic	SLC22A3	1.0	
+Non-Neoplastic Disorder	SLC22A3	1.0	
+Triple Negative Breast Neoplasms	SLC22A3	1.0	
+Urinary Bladder Neoplasms	SLC22A3	1.0	
+Malignant neoplasm of endometrium	SLC22A3	1.0	
+Uterine Corpus Cancer	SLC22A3	1.0	
+Herpes Simplex Infections	SLC7A5	1.0	
+Pancreatic Ductal Adenocarcinoma	SLC22A3	1.0	
+Immunodeficiency due to defect in CD3-gamma	SLC7A5	1.0	
+Esophageal carcinoma	SLC22A3	1.0	
+Secondary malignant neoplasm of lung	SLC22A3	1.0	
+Diabetic Nephropathies	SLC22A3	1.0	

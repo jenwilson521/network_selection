@@ -1,0 +1,19 @@
+node_name	node_type	
+DB06196	drug	
+BDKRB2	drug_target	
+ANPEP	drug_target	
+Hyperaldosteronism, familial, type IV	phenotype	
+Weight Loss Adverse Event	phenotype	
+Pleuritis	phenotype	
+Hemolytic uremic syndrome	phenotype	
+Bleeding with minor or no trauma	phenotype	
+Sciatic Neuropathy	phenotype	
+Panic disorder 1	phenotype	
+Obsessive-compulsive disorder	phenotype	
+Cough	phenotype	
+Portal hypertension, noncirrhotic	phenotype	
+Panic disorder syndrome 1 (2)	phenotype	
+Gout	phenotype	
+Gastric ulcer	phenotype	
+Hypotension	phenotype	
+Thrombosis	phenotype	

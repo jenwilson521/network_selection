@@ -1,0 +1,4 @@
+rank	phenotype	cui	assoc in neigh	assoc in intom	probability	Benjamini-Hochberg	genes	
+6	Gastroparesis	C0152020	4	36	7.245826427748625e-08	5.92300098717e-06	ABCB1,ADRA1A,ADRA1B,KCNH2
+8	Neurotoxicity Syndromes	C0235032	3	40	6.167475510743259e-06	7.89733464956e-06	ABCB1,ABCG2,ADRA1B
+19	Cytogenetically normal acute myeloid leukemia	C3839868	3	48	1.2896531129569233e-05	1.87561697927e-05	ABCB1,ABCG2,KCNH2

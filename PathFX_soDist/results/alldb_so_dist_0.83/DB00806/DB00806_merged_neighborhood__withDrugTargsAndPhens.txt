@@ -1,0 +1,51 @@
+node1	node2	edge_score	
+DB00806	ADORA2A	1.0	
+DB00806	CYP1A2	1.0	
+DB00806	ADORA1	1.0	
+DB00806	NT5E	1.0	
+DB00806	PDE4A	1.0	
+DB00806	PDE4B	1.0	
+DB00806	PDE5A	1.0	
+ADORA2A	rs2298383	0.99
+ADORA1		1.0
+ADORA2A	rs2267076	0.99
+ADORA2A	rs5760410	0.99
+CYP1A2	rs2470890	0.99
+complex:lAo9+jzjVOaRJSWZQvoh0G1mUDc	KRT9	0.863824739585
+CYP1A2	rs4646425	0.99
+CYP1A2	rs72547516	0.99
+PDE4B		1.0
+ADORA2A	rs2236624	0.99
+CYP1A2	CYP1A2*1A, CYP1A2*1F	0.99
+CYP1A2	rs72547517	0.99
+ADORA2A	rs3761422	0.99
+complex:lAo9+jzjVOaRJSWZQvoh0G1mUDc	ALB	0.863824739585
+CYP1A2	rs2069514	0.99
+CYP1A2	rs2069526	0.99
+complex:lAo9+jzjVOaRJSWZQvoh0G1mUDc	OR8D2	0.863824739585
+CYP1A2		1.0
+ADORA2A	rs5751876	0.99
+rs5760410	SPECC1L	0.9801
+CYP1A2	rs4646427	0.99
+CYP1A2	rs2472304	0.99
+PDE4B	complex:lAo9+jzjVOaRJSWZQvoh0G1mUDc	0.904977499353
+rs2298383	ADORA2A-AS1	0.9801
+CYP1A2	rs762551	0.99
+ADORA2A		1.0
+Adverse drug events and drug allergies	ADORA1	1.0	
+Adverse drug events and drug allergies	ADORA2A	1.0	
+Adverse drug events and drug allergies	ALB	1.0	
+Adverse drug events and drug allergies	CYP1A2	1.0	
+Tardive Dyskinesia	ADORA2A	1.0	
+Tardive Dyskinesia	CYP1A2	1.0	
+Tardive Dyskinesia	PDE4B	1.0	
+Orofacial dyskinesia	ADORA2A	1.0	
+Orofacial dyskinesia	CYP1A2	1.0	
+Orofacial dyskinesia	PDE4B	1.0	
+Hypotension	ADORA1	1.0	
+Hypotension	ADORA2A	1.0	
+Hypotension	ALB	1.0	
+Dyskinesia, Drug-Induced	CYP1A2	1.0	
+Dyskinesia, Drug-Induced	PDE4B	1.0	
+Ventricular Dysfunction, Right	ADORA1	1.0	
+Ventricular Dysfunction, Right	ADORA2A	1.0	

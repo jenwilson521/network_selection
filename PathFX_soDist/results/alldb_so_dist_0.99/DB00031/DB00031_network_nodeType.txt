@@ -1,0 +1,13 @@
+node_name	node_type	
+DB00031	drug	
+LRP1	drug_target	
+CLEC3B	drug_target	
+PLAUR	drug_target	
+CALR	drug_target	
+SERPINE1	drug_target	
+PLG	drug_target	
+ANXA2	drug_target	
+KRT8	drug_target	
+SERPINB2	drug_target	
+FGA	drug_target	
+CANX	drug_target	

@@ -1,0 +1,285 @@
+node1	node2	edge_score	
+DB11793	PARP1	1.0	
+DB11793	PARP2	1.0	
+DB11793	GUSB	1.0	
+PARP1		1.0
+ Adenocarcinoma, ovarian, somatic, 167000 (3)	PARP1	1.0	
+Adenomas, multiple colorectal, 608456 (3)	PARP1	1.0	
+Alopecia	PARP1	1.0	
+Alzheimer Disease	PARP1	1.0	
+Amyotrophic Lateral Sclerosis	PARP1	1.0	
+Anemia	PARP1	1.0	
+Angina, Unstable	PARP1	1.0	
+Anthrax disease	PARP1	1.0	
+Arthritis, Rheumatoid	PARP1	1.0	
+Rheumatoid arthritis	PARP1	1.0	
+Asthma	PARP1	1.0	
+Ataxia-telangiectasia syndrome	PARP1	1.0	
+Atherosclerosis	PARP1	1.0	
+Autoimmune disease 1	PARP1	1.0	
+Malignant tumor of urinary bladder	PARP1	1.0	
+Bloom syndrome	PARP1	1.0	
+Bone neoplasms	PARP1	1.0	
+Brain neoplasm	PARP1	1.0	
+Breast-ovarian cancer, familial 1	PARP1	1.0	
+Burkitt lymphoma	PARP1	1.0	
+Cancer of the lower GI tract	PARP1	1.0	
+Colon cancer	PARP1	1.0	
+Malignant neoplasm of endometrium	PARP1	1.0	
+Thyroid cancer, nonmedullary, 4	PARP1	1.0	
+Basal cell carcinoma	PARP1	1.0	
+Noninfiltrating Intraductal Carcinoma	PARP1	1.0	
+Merkel cell carcinoma	PARP1	1.0	
+Non-small cell lung carcinoma	PARP1	1.0	
+Renal cell carcinoma, nonpapillary	PARP1	1.0	
+Squamous cell carcinoma	PARP1	1.0	
+Urothelial Carcinoma	PARP1	1.0	
+CNS disorder	PARP1	1.0	
+Ischaemic cerebral infarction	PARP1	1.0	
+Brain Ischemia	PARP1	1.0	
+Transient ischemic attack	PARP1	1.0	
+Malignant tumor of cervix	PARP1	1.0	
+Chondrosarcoma	PARP1	1.0	
+Congenital chromosomal disease	PARP1	1.0	
+Colitis, Ulcerative	PARP1	1.0	
+Neoplasm of the colon	PARP1	1.0	
+Colorectal cancer 1	PARP1	1.0	
+Colorectal Neoplasms	PARP1	1.0	
+Verotoxigenic Escherichia coli gastrointestinal tract infection	PARP1	1.0	
+Coronary heart disease 7	PARP1	1.0	
+Dementia familial British	PARP1	1.0	
+Plaque, Atherosclerotic	PARP1	1.0	
+Seborheic dermatitis	PARP1	1.0	
+Diabetes Mellitus, Type 1	PARP1	1.0	
+Diabetes mellitus type 1	PARP1	1.0	
+Diabetes mellitus type 2	PARP1	1.0	
+Diabetic Nephropathies	PARP1	1.0	
+Type 1 diabetic neuropathy	PARP1	1.0	
+DNA Damage	PARP1	1.0	
+Down Syndrome	PARP1	1.0	
+Duchenne muscular dystrophy	PARP1	1.0	
+Encephalitis	PARP1	1.0	
+Eosinophilia	PARP1	1.0	
+Esophageal Neoplasms	PARP1	1.0	
+Fanconi anemia	PARP1	1.0	
+Glioblastoma	PARP1	1.0	
+Glioma	PARP1	1.0	
+Glomerulonephritis, Membranous	PARP1	1.0	
+Graft-versus-host disease, susceptibility to	PARP1	1.0	
+Cardiomegaly	PARP1	1.0	
+Heart Failure	PARP1	1.0	
+Congestive heart failure	PARP1	1.0	
+Helminthiasis	PARP1	1.0	
+Hepatitis	PARP1	1.0	
+Acute type B viral hepatitis	PARP1	1.0	
+Hepatitis C	PARP1	1.0	
+Herpes Simplex Infections	PARP1	1.0	
+Symptomatic human immunodeficiency virus infection	PARP1	1.0	
+Hyperglycemia	PARP1	1.0	
+Hypertension	PARP1	1.0	
+Immune dysfunction with T-cell inactivation due to calcium entry defect 1	PARP1	1.0	
+Male infertility	PARP1	1.0	
+Inflammation	PARP1	1.0	
+Ischemia	PARP1	1.0	
+Keratoconus	PARP1	1.0	
+Kidney Diseases	PARP1	1.0	
+Acute kidney injury	PARP1	1.0	
+Kyphosis	PARP1	1.0	
+Leiomyoma	PARP1	1.0	
+Leiomyosarcoma	PARP1	1.0	
+Leukemia, Lymphocytic, Chronic, B-Cell	PARP1	1.0	
+Chronic Lymphocytic Leukemia	PARP1	1.0	
+Lymphoid leukemia	PARP1	1.0	
+Acute lymphoid leukemia	PARP1	1.0	
+Leukemia, Lymphocytic, Acute, L1	PARP1	1.0	
+Acute myeloid leukemia	PARP1	1.0	
+Myeloid leukemia	PARP1	1.0	
+Chronic myeloid leukemia	PARP1	1.0	
+Adult T-Cell Lymphoma/Leukemia	PARP1	1.0	
+Leukopenia	PARP1	1.0	
+Neoplasm of the liver	PARP1	1.0	
+Chronic obstructive pulmonary disease	PARP1	1.0	
+Lung Neoplasms	PARP1	1.0	
+Lupus Vulgaris	PARP1	1.0	
+Discoid lupus erythematosus	PARP1	1.0	
+Lupus Erythematosus, Systemic	PARP1	1.0	
+Lymphatic Metastasis	PARP1	1.0	
+Lymphoma, Large B-Cell, Diffuse	PARP1	1.0	
+Non-Hodgkin lymphoma	PARP1	1.0	
+{Gastric cancer risk after H. pylori infection}, 137215 (3)	PARP1	1.0	
+Animal Mammary Neoplasms	PARP1	1.0	
+Mammary Neoplasms, Experimental	PARP1	1.0	
+Mastocytosis	PARP1	1.0	
+Melanoma	PARP1	1.0	
+Meningeal Neoplasms	PARP1	1.0	
+Meningioma	PARP1	1.0	
+Meningococcal Infections	PARP1	1.0	
+Disorders of Intracellular Cobalamin Metabolism	PARP1	1.0	
+Multiple Myeloma	PARP1	1.0	
+Multiple Sclerosis	PARP1	1.0	
+Muscular dystrophy-dystroglycanopathy (congenital with brain and eye anomalies), type a, 11	PARP1	1.0	
+Myocardial Infarction	PARP1	1.0	
+Secondary hypertriglyceridemia	PARP1	1.0	
+Neoplasms, Germ Cell and Embryonal	PARP1	1.0	
+Neoplasms, Radiation-Induced	PARP1	1.0	
+Nephritis	PARP1	1.0	
+Other disorders of the nervous system	PARP1	1.0	
+Vestibular Schwannoma	PARP1	1.0	
+Neutropenia	PARP1	1.0	
+Melanocytic nevus	PARP1	1.0	
+Obesity	PARP1	1.0	
+Oligospermia	PARP1	1.0	
+Osteoarthritis	PARP1	1.0	
+Otitis media	PARP1	1.0	
+Parkinson Disease	PARP1	1.0	
+Peripheral neuropathy, myopathy, hoarseness, and hearing loss	PARP1	1.0	
+Plasmacytoma	PARP1	1.0	
+Pneumonia	PARP1	1.0	
+Familial adenomatous polyposis 1	PARP1	1.0	
+polyps	PARP1	1.0	
+Precancerous Conditions	PARP1	1.0	
+Prostatic Neoplasms	PARP1	1.0	
+Reperfusion Injury	PARP1	1.0	
+Retinal degeneration	PARP1	1.0	
+Rhabdomyosarcoma alveolar	PARP1	1.0	
+Septicemia	PARP1	1.0	
+Neoplasm of the skin	PARP1	1.0	
+Stevens-Johnson Syndrome	PARP1	1.0	
+Stomach Neoplasms	PARP1	1.0	
+Stroke	PARP1	1.0	
+Thyroid Neoplasms	PARP1	1.0	
+Chronic Chagas' disease	PARP1	1.0	
+Urticaria Pigmentosa	PARP1	1.0	
+Vitamin A deficiency	PARP1	1.0	
+Vitiligo	PARP1	1.0	
+Werner syndrome	PARP1	1.0	
+Helicobacter Infections	PARP1	1.0	
+X-linked ichthyosis with steryl-sulfatase deficiency	PARP1	1.0	
+B-cell lymphoma	PARP1	1.0	
+Severe combined immunodeficiency due to ADA deficiency	PARP1	1.0	
+Neoplasm of the central nervous system	PARP1	1.0	
+Primary antiphospholipid syndrome	PARP1	1.0	
+Polyglandular autoimmune syndrome, type 1	PARP1	1.0	
+Meningitis, Bacterial	PARP1	1.0	
+Synovial Cyst	PARP1	1.0	
+Small cell lung cancer	PARP1	1.0	
+Rectal Carcinoma	PARP1	1.0	
+Acute myocardial ischemia	PARP1	1.0	
+Cutaneous malignant melanoma 3	PARP1	1.0	
+Esophageal carcinoma	PARP1	1.0	
+Primary pulmonary hypertension	PARP1	1.0	
+Malignant neoplasm of gallbladder	PARP1	1.0	
+Uterine Corpus Cancer	PARP1	1.0	
+Acute myocardial infarction	PARP1	1.0	
+Cerebroretinal microangiopathy with calcifications and cysts 1	PARP1	1.0	
+Tumor Progression	PARP1	1.0	
+Germ cell neoplasia	PARP1	1.0	
+HIV encephalitis	PARP1	1.0	
+Embryonal Carcinoma	PARP1	1.0	
+Teratocarcinoma	PARP1	1.0	
+High grade serous carcinoma	PARP1	1.0	
+Comedone	PARP1	1.0	
+Combined Hepatocellular Carcinoma and Cholangiocarcinoma	PARP1	1.0	
+Memory impairment	PARP1	1.0	
+Gallbladder Carcinoma	PARP1	1.0	
+Pancreatic Carcinoma	PARP1	1.0	
+Malignant neoplasm of lung	PARP1	1.0	
+Age-related macular degeneration 2	PARP1	1.0	
+Parkinsonism	PARP1	1.0	
+Sepsis	PARP1	1.0	
+Acute respiratory failure	PARP1	1.0	
+Coinfection	PARP1	1.0	
+Carcinoma breast stage IV	PARP1	1.0	
+Metastatic melanoma	PARP1	1.0	
+Cancer of Head and Neck	PARP1	1.0	
+Esophageal Squamous Cell Carcinoma	PARP1	1.0	
+Adenocarcinoma Of Esophagus	PARP1	1.0	
+Solid tumour	PARP1	1.0	
+Ovarian epithelial cancer stage III	PARP1	1.0	
+secondary acute myeloid leukemia	PARP1	1.0	
+Pancreatic adenocarcinoma	PARP1	1.0	
+Carcinoma of cervix	PARP1	1.0	
+Dermatitis verrucosa	PARP1	1.0	
+Tumor necrosis	PARP1	1.0	
+Pilocytic Astrocytoma	PARP1	1.0	
+Malignant lymphoma, lymphocytic, intermediate differentiation, diffuse	PARP1	1.0	
+Hepatic cancer metastatic	PARP1	1.0	
+Malignant mesothelioma	PARP1	1.0	
+Familial cancer of breast	PARP1	1.0	
+Malignant neoplasm of pancreas	PARP1	1.0	
+Malignant tumor of prostate	PARP1	1.0	
+Nijmegen Breakage Syndrome	PARP1	1.0	
+Chronic Kidney Insufficiency	PARP1	1.0	
+{Systemic lupus erythematosus, susceptibility to, 8} (2)	PARP1	1.0	
+Endometrial carcinoma	PARP1	1.0	
+Dyslexia 1	PARP1	1.0	
+Meningitis	PARP1	1.0	
+Dementia	PARP1	1.0	
+Nevus	PARP1	1.0	
+Recurrent tumor	PARP1	1.0	
+Malignant tumor of esophagus	PARP1	1.0	
+Thyroid carcinoma	PARP1	1.0	
+Ewing's sarcoma	PARP1	1.0	
+Malignant Glioma	PARP1	1.0	
+Osteosarcoma	PARP1	1.0	
+Carcinogenesis	PARP1	1.0	
+Prostate carcinoma	PARP1	1.0	
+Hereditary breast and ovarian cancer syndrome	PARP1	1.0	
+Ovarian epithelial cancer	PARP1	1.0	
+Breast carcinoma	PARP1	1.0	
+Lung cancer	PARP1	1.0	
+Carcinoma of colon	PARP1	1.0	
+Stomach cancer	PARP1	1.0	
+Bladder carcinoma	PARP1	1.0	
+Neuroblastoma	PARP1	1.0	
+Mitochondrial diseases	PARP1	1.0	
+Lymphangiomyomatosis	PARP1	1.0	
+Adenomatous polyp of colon	PARP1	1.0	
+Helicobacter pylori infection	PARP1	1.0	
+Invasive breast carcinoma	PARP1	1.0	
+Chronic graft-versus-host disease	PARP1	1.0	
+Enzyme inhibition disorder	PARP1	1.0	
+Cardiomyopathy	PARP1	1.0	
+Cerebral ischemia	PARP1	1.0	
+Ovarian Neoplasms	PARP1	1.0	
+Renal ischaemia	PARP1	1.0	
+Metastatic Prostate Carcinoma	PARP1	1.0	
+precancerous lesions	PARP1	1.0	
+West Nile viral infection	PARP1	1.0	
+Monoclonal Gammapathies	PARP1	1.0	
+BREAST-OVARIAN CANCER, FAMILIAL, SUSCEPTIBILITY TO, 4	PARP1	1.0	
+Squamous cell carcinoma of the head and neck	PARP1	1.0	
+Intestinal polyposis	PARP1	1.0	
+Sarcoma, Ewing	PARP1	1.0	
+B Acute Lymphoblastic Leukemia with t(9;22)(q34;q11.2); BCR-ABL1	PARP1	1.0	
+Adenoma of large intestine	PARP1	1.0	
+Eosinophilic disorder	PARP1	1.0	
+Hormone refractory prostate cancer	PARP1	1.0	
+Aggressive Non-Hodgkin Lymphoma	PARP1	1.0	
+Familial colorectal cancer	PARP1	1.0	
+Pancreatic Ductal Adenocarcinoma	PARP1	1.0	
+Sporadic Breast Carcinoma	PARP1	1.0	
+Differentiated Thyroid Gland Carcinoma	PARP1	1.0	
+Benign melanocytic nevus	PARP1	1.0	
+Mammary Tumorigenesis	PARP1	1.0	
+Skin Carcinogenesis	PARP1	1.0	
+Tumor Angiogenesis	PARP1	1.0	
+Xenograft Model	PARP1	1.0	
+Colorectal cancer	PARP1	1.0	
+Rash and Dermatitis Adverse Event Associated with Chemoradiation	PARP1	1.0	
+Renal insufficiency	PARP1	1.0	
+Glioblastoma multiforme	PARP1	1.0	
+Disorder characterized by eosinophilia	PARP1	1.0	
+VITILIGO-ASSOCIATED MULTIPLE AUTOIMMUNE DISEASE SUSCEPTIBILITY 1 (finding)	PARP1	1.0	
+T-cell acute lymphoblastic leukemias	PARP1	1.0	
+Precursor Cell Lymphoblastic Leukemia-Lymphoma	PARP1	1.0	
+Photoreceptor degeneration	PARP1	1.0	
+Hepatocellular carcinoma	PARP1	1.0	
+Nasopharyngeal carcinoma, susceptibility to, 3	PARP1	1.0	
+Early-Stage Breast Carcinoma	PARP1	1.0	
+Pulmonary arterial hypertension	PARP1	1.0	
+Myelodysplastic syndrome	PARP1	1.0	
+FANCONI ANEMIA, COMPLEMENTATION GROUP A (disorder)	PARP1	1.0	
+Triple Negative Breast Neoplasms	PARP1	1.0	
+Intellectual developmental disorder with dysmorphic facies and ptosis	PARP1	1.0	
+Necrotizing Enterocolitis	PARP1	1.0	

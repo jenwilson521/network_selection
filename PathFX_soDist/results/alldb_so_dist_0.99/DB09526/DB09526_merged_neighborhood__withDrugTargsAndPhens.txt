@@ -1,0 +1,4 @@
+node1	node2	edge_score	
+DB09526	ALB	1.0	
+DB09526	TYR	1.0	
+

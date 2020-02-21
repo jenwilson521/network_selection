@@ -1,0 +1,10 @@
+rank	phenotype	cui	assoc in neigh	assoc in intom	probability	Benjamini-Hochberg	genes	
+1	Deafness, autosomal recessive 44	C0011053	1	257	0.0	9.09090909091e-05	AOX1
+2	Hearing Loss, Partial	C0018772	1	150	0.0	0.000181818181818	AOX1
+3	Inflammatory Bowel Diseases	C0021390	1	985	0.0	0.000272727272727	AOX1
+4	Disorders of Intracellular Cobalamin Metabolism	C0025517	1	394	0.0	0.000363636363636	AOX1
+5	Osteoporosis	C0029456	1	642	0.0	0.000454545454545	AOX1
+6	Prostatic Neoplasms	C0033578	1	1606	0.0	0.000545454545455	AOX1
+7	Tobacco Use Disorder	C0040336	1	3066	0.0	0.000636363636364	AOX1
+8	Tremor, hereditary essential, 5	C0040822	1	349	0.0	0.000727272727273	AOX1
+11	Hearing impairment	C1384666	1	1031	0.0	0.001	AOX1

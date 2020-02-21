@@ -1,0 +1,153 @@
+Gene	CUI	Source Databases	
+SCN1A	C0000768	EMG: myopathic abnormalities	DisGeNet	
+SCN1A	C0000846	Aplasia involving bones of the extremities	HumPhenOnt	
+SCN1A	C0001418	 Adenocarcinoma, ovarian, somatic, 167000 (3)	DisGeNet	
+SCN1A	C0001807	Aggressive behavior	HumPhenOnt	
+SCN1A	C0004134	Ataxia, combined cerebellar and peripheral, with hearing loss and diabetes mellitus	DisGeNet,HumPhenOnt	
+SCN1A	C0004352	Autism 15	DisGeNet	
+SCN1A	C0006104	Brain very small	HumPhenOnt	
+SCN1A	C0007137	Squamous cell carcinoma	DisGeNet	
+SCN1A	C0007847	Malignant tumor of cervix	DisGeNet	
+SCN1A	C0008074	Child Development Disorders, Pervasive	DisGeNet	
+SCN1A	C0009402	Colorectal cancer 1	DisGeNet	
+SCN1A	C0009952	Febrile seizures, familial, 4	DisGeNet,HumPhenOnt	
+SCN1A	C0013819	EEG with irregular generalized spike and wave complexes	HumPhenOnt	
+SCN1A	C0014522	EPIDERMODYSPLASIA VERRUCIFORMIS	DisGeNet	
+SCN1A	C0014544	Epilepsy	DisGeNet	
+SCN1A	C0014547	Epilepsy, focal, with speech disorder and with or without mental retardation	DisGeNet	
+SCN1A	C0014548	Epilepsy, generalized, with febrile seizures plus, type 6 (2)	DisGeNet	
+SCN1A	C0014550	Myoclonus with epilepsy with ragged red fibers	DisGeNet	
+SCN1A	C0014553	Absence seizures	DisGeNet,HumPhenOnt	
+SCN1A	C0014556	Epilepsy, Temporal Lobe	DisGeNet	
+SCN1A	C0015393	Abnormality of the eye	HumPhenOnt	
+SCN1A	C0018681	Headache	DisGeNet,HumPhenOnt	
+SCN1A	C0018784	Sensorineural hearing impairment	HumPhenOnt	
+SCN1A	C0018989	Hemiparesis	HumPhenOnt	
+SCN1A	C0018991	Hemiplegia	DisGeNet,HumPhenOnt	
+SCN1A	C0025958	Microcephaly 16, primary, autosomal recessive	HumPhenOnt	
+SCN1A	C0026650	Abnormality of movement	DisGeNet,HumPhenOnt	
+SCN1A	C0026827	Hypotonia, infantile, with psychomotor retardation	HumPhenOnt	
+SCN1A	C0027066	Myoclonus, intractable, neonatal	HumPhenOnt	
+SCN1A	C0027765	Other disorders of the nervous system	DisGeNet	
+SCN1A	C0028738	Nystagmus	HumPhenOnt	
+SCN1A	C0031212	Personality disorder	HumPhenOnt	
+SCN1A	C0035300	Abnormality of the retina	HumPhenOnt	
+SCN1A	C0035334	Retinitis pigmentosa	HumPhenOnt	
+SCN1A	C0036572	Seizures, Febrile	DisGeNet,HumPhenOnt,PheGenI	
+SCN1A	C0036690	Septicemia	DisGeNet	
+SCN1A	C0036857	Mental Retardation, Severe, With Spasticity And Pigmentary Tapetoretinal Degeneration	DisGeNet	
+SCN1A	C0037268	Abnormality of the skin	HumPhenOnt	
+SCN1A	C0037769	Hypsarrhythmia	DisGeNet	
+SCN1A	C0037822	Neurological speech impairment	HumPhenOnt	
+SCN1A	C0038220	Status epilepticus	DisGeNet,HumPhenOnt	
+SCN1A	C0040822	Tremor, hereditary essential, 5	HumPhenOnt	
+SCN1A	C0042571	Vertigo	DisGeNet	
+SCN1A	C0085584	Encephalopathy, acute, infection-induced, 4, susceptibility to	DisGeNet,HumPhenOnt	
+SCN1A	C0085636	Photophobia	HumPhenOnt	
+SCN1A	C0149931	Migraine Disorders	DisGeNet,HumPhenOnt	
+SCN1A	C0151611	EEG abnormality	HumPhenOnt	
+SCN1A	C0154723	Migraine with aura	DisGeNet,HumPhenOnt	
+SCN1A	C0205161	Abnormal QRS complex	HumPhenOnt	
+SCN1A	C0206132	Onset	HumPhenOnt	
+SCN1A	C0206623	Adenosquamous carcinoma	DisGeNet	
+SCN1A	C0233514	Behavioral abnormality	HumPhenOnt	
+SCN1A	C0234398	Cortical visual impairment	HumPhenOnt	
+SCN1A	C0234533	Generalized seizures	HumPhenOnt	
+SCN1A	C0234985	Mental deterioration	HumPhenOnt	
+SCN1A	C0235942	Abnormality of the skull	HumPhenOnt	
+SCN1A	C0235946	Brain atrophy	HumPhenOnt	
+SCN1A	C0243026	Sepsis	DisGeNet	
+SCN1A	C0266589	Abnormality of the ear	HumPhenOnt	
+SCN1A	C0270850	Idiopathic generalized epilepsy	DisGeNet	
+SCN1A	C0270853	Juvenile myoclonic epilepsy	DisGeNet	
+SCN1A	C0302592	Carcinoma of cervix	DisGeNet	
+SCN1A	C0338656	Cognitive Dysfunction	DisGeNet,HumPhenOnt	
+SCN1A	C0349506	Cutaneous photosensitivity	HumPhenOnt	
+SCN1A	C0375206	Hemiplegia/hemiparesis	HumPhenOnt	
+SCN1A	C0424295	Hyperactivity	HumPhenOnt	
+SCN1A	C0424688	Decreased head circumference	HumPhenOnt	
+SCN1A	C0427086	Involuntary movements	HumPhenOnt	
+SCN1A	C0443147	Autosomal dominant non-syndromic sensorineural deafness type DFNA	HumPhenOnt	
+SCN1A	C0456909	Blindness	HumPhenOnt	
+SCN1A	C0494475	Generalized tonic-clonic seizures	DisGeNet,HumPhenOnt	
+SCN1A	C0497202	Abnormality of eye movement	HumPhenOnt	
+SCN1A	C0497552	Abnormality of the nervous system	HumPhenOnt	
+SCN1A	C0520947	Motor delay	HumPhenOnt	
+SCN1A	C0521158	Recurrent tumor	DisGeNet	
+SCN1A	C0543888	Epileptic encephalopathy, early infantile, 29	DisGeNet,HumPhenOnt	
+SCN1A	C0557874	Global developmental delay, absent or hypoplastic corpus callosum, and dysmorphic facies	HumPhenOnt	
+SCN1A	C0575081	Gait disturbance	HumPhenOnt	
+SCN1A	C0598935	Tumor Initiation	DisGeNet	
+SCN1A	C0677886	Ovarian epithelial cancer	DisGeNet	
+SCN1A	C0679378	Neurodevelopmental abnormality	HumPhenOnt	
+SCN1A	C0700095	Neuroblastoma	DisGeNet	
+SCN1A	C0751122	Severe myoclonic epilepsy in infancy	ClinVar,DisGeNet	
+SCN1A	C0751495	Focal seizures	DisGeNet,HumPhenOnt	
+SCN1A	C0751651	Mitochondrial diseases	DisGeNet	
+SCN1A	C0852413	Abnormal muscle tone	HumPhenOnt	
+SCN1A	C0854297	Abnormality of head or neck	HumPhenOnt	
+SCN1A	C0856975	Autistic behavior	HumPhenOnt	
+SCN1A	C0973461	Dysphasia	HumPhenOnt	
+SCN1A	C1096063	Drug Resistant Epilepsy	DisGeNet	
+SCN1A	C1140680	BREAST-OVARIAN CANCER, FAMILIAL, SUSCEPTIBILITY TO, 4	DisGeNet	
+SCN1A	C1271104	Blood pressure finding	DisGeNet	
+SCN1A	C1272641	Systemic arterial pressure	DisGeNet	
+SCN1A	C1306587	Acute encephalopathy	DisGeNet	
+SCN1A	C1335177	Ovarian Serous Adenocarcinoma	DisGeNet	
+SCN1A	C1384666	Hearing impairment	HumPhenOnt	
+SCN1A	C1443059	Abnormal emotion/affect behavior	HumPhenOnt	
+SCN1A	C1504404	Hippocampal sclerosis	DisGeNet	
+SCN1A	C1527249	Colorectal cancer	DisGeNet	
+SCN1A	C1720983	Channelopathies	DisGeNet	
+SCN1A	C1837352	Childhood onset	HumPhenOnt	
+SCN1A	C1837514	Phenotypic variability	HumPhenOnt	
+SCN1A	C1839042	Upper motor neuron dysfunction	HumPhenOnt	
+SCN1A	C1847514	Microcephaly, postnatal progressive, with seizures and brain atrophy	HumPhenOnt	
+SCN1A	C1848924	Infantile-onset ascending hereditary spastic paralysis	HumPhenOnt	
+SCN1A	C1850601	Abnormality of brainstem morphology	HumPhenOnt	
+SCN1A	C1861403	Variable expressivity	HumPhenOnt	
+SCN1A	C1862475	Abnormality of retinal pigmentation	HumPhenOnt	
+SCN1A	C1866129	Abnormality of the cerebellum	HumPhenOnt	
+SCN1A	C1955869	Malformation of cortical development	DisGeNet	
+SCN1A	C3463992	Early infantile epileptic encephalopathy 8	DisGeNet	
+SCN1A	C3665347	Visual impairment	HumPhenOnt	
+SCN1A	C3714756	Intellectual developmental disorder with dysmorphic facies and ptosis	HumPhenOnt	
+SCN1A	C4020967	Abnormality of forebrain morphology	HumPhenOnt	
+SCN1A	C4021085	Abnormality of brain morphology	HumPhenOnt	
+SCN1A	C4021157	Generalized abnormality of skin	HumPhenOnt	
+SCN1A	C4021170	Abnormality of hindbrain morphology	HumPhenOnt	
+SCN1A	C4021255	Weakness due to upper motor neuron dysfunction	HumPhenOnt	
+SCN1A	C4021745	Abnormality of the musculature	HumPhenOnt	
+SCN1A	C4021759	Generalized myoclonic seizures	HumPhenOnt	
+SCN1A	C4021762	Abnormality of the cerebrum	HumPhenOnt	
+SCN1A	C4021765	Morphological abnormality of the central nervous system	HumPhenOnt	
+SCN1A	C4021781	Abnormal nervous system electrophysiology	HumPhenOnt	
+SCN1A	C4021790	Abnormality of the skeletal system	HumPhenOnt	
+SCN1A	C4021809	Abnormality of the inner ear	HumPhenOnt	
+SCN1A	C4021812	Abnormality of the head	HumPhenOnt	
+SCN1A	C4022597	Abnormality of central nervous system electrophysiology	HumPhenOnt	
+SCN1A	C4022738	Neurodevelopmental delay	HumPhenOnt	
+SCN1A	C4022810	Abnormality of nervous system morphology	HumPhenOnt	
+SCN1A	C4022811	Abnormality of nervous system physiology	HumPhenOnt	
+SCN1A	C4022855	Abnormal involuntary eye movements	HumPhenOnt	
+SCN1A	C4022923	Abnormality of the globe	HumPhenOnt	
+SCN1A	C4022924	Abnormal eye physiology	HumPhenOnt	
+SCN1A	C4022925	Abnormal eye morphology	HumPhenOnt	
+SCN1A	C4023165	Abnormality of skeletal morphology	HumPhenOnt	
+SCN1A	C4023182	Abnormality of muscle physiology	HumPhenOnt	
+SCN1A	C4023352	Abnormality of higher mental function	HumPhenOnt	
+SCN1A	C4023353	Abnormality of coordination	HumPhenOnt	
+SCN1A	C4023354	Abnormality of central motor function	HumPhenOnt	
+SCN1A	C4023382	Functional abnormality of the inner ear	HumPhenOnt	
+SCN1A	C4023432	Abnormality of the metencephalon	HumPhenOnt	
+SCN1A	C4023515	Dialeptic seizures	HumPhenOnt	
+SCN1A	C4023528	Abnormality of skin morphology	HumPhenOnt	
+SCN1A	C4024586	Abnormal axial skeleton morphology	HumPhenOnt	
+SCN1A	C4024902	Aplasia/Hypoplasia of the cerebrum	HumPhenOnt	
+SCN1A	C4025354	Abnormality of the posterior segment of the globe	HumPhenOnt	
+SCN1A	C4025761	Abnormality of the integument	HumPhenOnt	
+SCN1A	C4025804	Abnormality of the fundus	HumPhenOnt	
+SCN1A	C4025846	Abnormality of vision	HumPhenOnt	
+SCN1A	C4025860	Hearing abnormality	HumPhenOnt	
+SCN1A	C4025874	Abnormality of skull size	HumPhenOnt	
+SCN1A	C4055158	Atrophy/Degeneration affecting the brainstem	HumPhenOnt	

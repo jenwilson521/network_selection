@@ -1,0 +1,3 @@
+Gene	CUI	Source Databases	
+SLC10A2	C0008372	Intrahepatic cholestasis	DisGeNet	
+SLC22A1	C0008372	Intrahepatic cholestasis	DisGeNet	

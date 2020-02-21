@@ -1,0 +1,2 @@
+rank	phenotype	cui	assoc in neigh	assoc in intom	probability	Benjamini-Hochberg	genes	
+14	Alcohol abuse	C0085762	2	95	5.4916853026942825e-05	6.57276995305e-05	CHRM2,CYP3A4

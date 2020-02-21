@@ -1,0 +1,115 @@
+Gene	CUI	Source Databases	
+ADRA1A	C0013146	Methamphetamine abuse	DisGeNet	
+BCHE	C0013146	Methamphetamine abuse	DisGeNet	
+SLC6A2	C0013146	Methamphetamine abuse	DisGeNet	
+ACHE	C0023364	Leptospirosis	DisGeNet	
+BCHE	C0023364	Leptospirosis	DisGeNet	
+ACHE	C0002893	Refractory anemia	DisGeNet	
+BCHE	C0002893	Refractory anemia	DisGeNet	
+ACHE	C0002894	Refractory anaemia with excess blasts	DisGeNet	
+BCHE	C0002894	Refractory anaemia with excess blasts	DisGeNet	
+ACHE	C0025261	Memory Disorders	DisGeNet	
+ADRA1A	C0025261	Memory Disorders	DisGeNet	
+ACHE	C0751882	Congenital myasthenic syndrome	DisGeNet	
+BCHE	C0751882	Congenital myasthenic syndrome	DisGeNet	
+BCHE	C0747845	early pregnancy	DisGeNet	
+SLC6A2	C0747845	early pregnancy	DisGeNet	
+ACHE	C0023480	Chronic myelomonocytic leukemia	DisGeNet	
+BCHE	C0023480	Chronic myelomonocytic leukemia	DisGeNet	
+ACHE	C0003469	Anxiety Disorders	DisGeNet	
+ADRA1A	C0003469	Anxiety Disorders	DisGeNet	
+SLC6A2	C0003469	Anxiety Disorders	DisGeNet	
+ADRA1A	C0040517	Tourette Syndrome	DisGeNet	
+SLC6A2	C0040517	Tourette Syndrome	DisGeNet	
+BCHE	C0752347	Lewy Body Disease	DisGeNet	
+SLC6A2	C0752347	Lewy Body Disease	DisGeNet	
+ACHE	C0040147	Thyroiditis	DisGeNet	
+BCHE	C0040147	Thyroiditis	DisGeNet	
+ACHE	C1336076	Sporadic Breast Carcinoma	DisGeNet	
+BCHE	C1336076	Sporadic Breast Carcinoma	DisGeNet	
+BCHE	C3827868	Tachycardia	DisGeNet	
+SLC6A2	C3827868	Tachycardia	DisGeNet	
+ACHE	C2911647	Weight Gain Adverse Event	DisGeNet	
+BCHE	C2911647	Weight Gain Adverse Event	DisGeNet	
+ACHE	C1269683	Major depressive disorder	DisGeNet	
+ADRA1A	C1269683	Major depressive disorder	DisGeNet	
+SLC6A2	C1269683	Major depressive disorder	DisGeNet	
+ADRA1A	C0220659	 Acrodysostosis 1, with or without hormone resistance, 101800 (3)	DisGeNet	
+SLC6A2	C1827377	Slow acetylator due to N-acetyltransferase enzyme variant	DisGeNet	
+ADRA1A	C1864100	Pseudohypoparathyroidism, type IB, 603233 (3)	DisGeNet	
+SLC6A2	C0011436	Dentinogenesis imperfecta	DisGeNet	
+ADRA1A	C0036396	Chronic sciatica	DisGeNet	
+SLC6A2	C0154409	Recurrent major depressive episodes	DisGeNet	
+SLC6A2	C0264423	Asthma, Occupational	DisGeNet	
+ADRA1A	C1263846	Attention deficit hyperactivity disorder	DisGeNet	
+BCHE	C1263846	Attention deficit hyperactivity disorder	DisGeNet	
+SLC6A2	C1263846	Attention deficit hyperactivity disorder	DisGeNet	
+SLC6A2	C0004930	Behavior Disorders	DisGeNet	
+ADRA1A	C0030517	Disorders of parathyroid gland	DisGeNet	
+ADRA1A	C0598428	genetic hypertension	DisGeNet	
+ADRA1A	C0020071	Hereditary Sensory Autonomic Neuropathy, Type 1	DisGeNet	
+ADRA1A	C0005694	Bladder neck obstruction	DisGeNet	
+SLC6A2	C3266076	Orofacial cleft	DisGeNet	
+ACHE	C0221170	Muscle stiffness	DisGeNet	
+ADRA1A	C0235290	Taste bitter	DisGeNet	
+ACHE	C0022972	Myasthenic syndrome, congenital, 8	DisGeNet	
+ADRA1A	C1141890	Congenital long QT syndrome	DisGeNet	
+BCHE	C0877008	Enzyme inhibition disorder	DisGeNet	
+ACHE	C0026896	Myasthenia Gravis	DisGeNet	
+BCHE	C0026896	Myasthenia Gravis	DisGeNet	
+SLC6A2	C0004030	Systemic aspergillosis	DisGeNet	
+ADRA1A	C0392164	Pulmonary Cystic Fibrosis	DisGeNet	
+BCHE	C0220603	childhood brain tumor	DisGeNet	
+BCHE	C0008728	Churg-Strauss Syndrome	DisGeNet	
+ADRA1A	C0152020	Gastroparesis	DisGeNet	
+ADRA1A	C0221765	Chronic schizophrenia	DisGeNet	
+ADRA1A	C0342345	Hypoparathyroidism - autosomal dominant	DisGeNet	
+ADRA1A	C0030201	Acute postoperative pain	DisGeNet	
+ACHE	C0011389	Plaque, Atherosclerotic	DisGeNet	
+BCHE	C0011389	Plaque, Atherosclerotic	DisGeNet	
+ADRA1A	C0001314	Acute disease of cardiovascular system	DisGeNet	
+ADRA1A	C0027719	Nephrosclerosis	DisGeNet	
+SLC6A2	C0031212	Personality disorder	DisGeNet	
+ADRA1A	C0235480	Paroxysmal atrial fibrillation	DisGeNet	
+ACHE	C0175709	Myotubular myopathy	DisGeNet	
+ADRA1A	C0268318	Cholestasis of pregnancy	DisGeNet	
+BCHE	C0235032	Neurotoxicity Syndromes	DisGeNet	
+ADRA1A	C0024031	Low back pain	DisGeNet	
+ADRA1A	C0162283	Nephrogenic diabetes insipidus, autosomal	DisGeNet	
+BCHE	C1135868	Gestational trophoblastic disease	DisGeNet	
+ACHE	C0005818	Platelet-type bleeding disorder 15	DisGeNet	
+SLC6A2	C0012739	Disseminated intravascular coagulation	DisGeNet	
+ACHE	C0333463	Senile plaques	DisGeNet	
+BCHE	C0333463	Senile plaques	DisGeNet	
+SLC6A2	C2911645	Weight Loss Adverse Event	DisGeNet	
+ACHE	C0023186	Learning Disorders	DisGeNet	
+ADRA1A	C0016053	Fibromyalgia	DisGeNet	
+BCHE	C0024591	Malignant hyperthermia susceptibility	DisGeNet	
+ADRA1A	C0013386	Dyskinesia, Drug-Induced	DisGeNet	
+BCHE	C0085220	Cerebral Amyloid Angiopathy	DisGeNet	
+SLC6A2	C4022952	Abnormal autonomic nervous system physiology	HumPhenOnt	
+BCHE	C1842937	Aural atresia, congenital	DisGeNet	
+ADRA1A	C0152136	Low Tension Glaucoma	DisGeNet	
+SLC6A2	C0158646	Cleft palate with cleft lip	DisGeNet	
+BCHE	C0600427	Cocaine Dependence	DisGeNet	
+ACHE	C0011265	Dementia familial British	DisGeNet	
+BCHE	C0011265	Dementia familial British	DisGeNet	
+ADRA1A	C0234251	Inflammatory pain	DisGeNet	
+ACHE	C0026850	Muscular dystrophy-dystroglycanopathy (congenital with brain and eye anomalies), type a, 11	DisGeNet	
+BCHE	C0026850	Muscular dystrophy-dystroglycanopathy (congenital with brain and eye anomalies), type a, 11	DisGeNet	
+BCHE	C0041755	Adverse drug events and drug allergies	DisGeNet	
+ADRA1A	C0018801	Heart Failure	DisGeNet	
+BCHE	C0018801	Heart Failure	PheGenI	
+SLC6A2	C0018801	Heart Failure	DisGeNet	
+BCHE	C0002622	Memory Loss	DisGeNet	
+ADRA1A	C0162809	Hypogonadism with anosmia	DisGeNet	
+BCHE	C0009241	Cognition Disorders	DisGeNet	
+BCHE	C3463897	Hydatidiform mole, recurrent, 1, 231090 (3)	DisGeNet	
+ADRA1A	C1516170	Cancer Cell Growth	DisGeNet	
+SLC6A2	C1516170	Cancer Cell Growth	DisGeNet	
+ACHE	C0525045	Mood Disorders	DisGeNet	
+SLC6A2	C0525045	Mood Disorders	DisGeNet	
+ACHE	C1168401	Squamous cell carcinoma of the head and neck	DisGeNet	
+ADRA1A	C1168401	Squamous cell carcinoma of the head and neck	DisGeNet	
+SLC6A2	C1168401	Squamous cell carcinoma of the head and neck	DisGeNet	
+SLC6A2	C0019337	Heroin Dependence	DisGeNet	

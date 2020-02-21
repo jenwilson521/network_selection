@@ -1,0 +1,16 @@
+node_name	node_type	
+DB01240	drug	
+PTGIS	drug_target	
+P2RY12	drug_target	
+PTGIR	drug_target	
+Deep thrombophlebitis	phenotype	
+Deep venous thrombosis	phenotype	
+Venous thrombosis	phenotype	
+Mechanical Allodynia	phenotype	
+Abnormal platelet function	phenotype	
+Platelet-type bleeding disorder 15	phenotype	
+Deep vein thrombosis of lower limb	phenotype	
+Coronary Restenosis	phenotype	
+Inflammatory pain	phenotype	
+Hantavirus infection in conditions classified elsewhere and of unspecified site	phenotype	
+Epistaxis	phenotype	

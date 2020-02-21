@@ -1,0 +1,61 @@
+Gene	CUI	Source Databases	
+CYP3A4	C0024620	Primary malignant neoplasm of liver	DisGeNet	
+CYP3A5	C0024620	Primary malignant neoplasm of liver	DisGeNet	
+CYP11B2	C0020461	Hyperkalemia	HumPhenOnt	
+NR3C2	C0020461	Hyperkalemia	HumPhenOnt	
+CYP3A4	C0206720	Squamous Cell Neoplasms	DisGeNet	
+CYP3A5	C0206720	Squamous Cell Neoplasms	DisGeNet	
+CYP11B2	C4023644	Abnormality of sodium homeostasis	HumPhenOnt	
+NR3C2	C4023644	Abnormality of sodium homeostasis	HumPhenOnt	
+CYP11B2	C0020625	Hyponatremia	HumPhenOnt	
+NR3C2	C0020625	Hyponatremia	HumPhenOnt	
+CYP11B2	C4025685	Adrenal overactivity	HumPhenOnt	
+NR3C2	C4025685	Adrenal overactivity	HumPhenOnt	
+CYP3A4	C0011206	Cocaine delirium	DisGeNet	
+CYP3A5	C0011206	Cocaine delirium	DisGeNet	
+CYP11B2	C0852036	Pregnancy associated hypertension	DisGeNet	
+NR3C2	C0852036	Pregnancy associated hypertension	DisGeNet	
+CYP11B2	C1291314	21-hydroxylase deficiency	DisGeNet	
+CYP3A4	C1291314	21-hydroxylase deficiency	DisGeNet	
+CYP11B2	C0020428	Hyperaldosteronism, familial, type IV	DisGeNet,HumPhenOnt	
+NR3C2	C0020428	Hyperaldosteronism, familial, type IV	HumPhenOnt	
+CYP11B2	C4023575	Abnormality of potassium homeostasis	HumPhenOnt	
+NR3C2	C4023575	Abnormality of potassium homeostasis	HumPhenOnt	
+CYP11B2	C4025690	Prenatal maternal abnormality	HumPhenOnt	
+NR3C2	C4025690	Prenatal maternal abnormality	HumPhenOnt	
+CYP3A4	C0344307	Pain insensitivity	DisGeNet	
+CYP3A5	C0344307	Pain insensitivity	DisGeNet	
+CYP3A5	C1841972	Glucocorticoid resistance, generalized	DisGeNet	
+NR3C2	C1841972	Glucocorticoid resistance, generalized	DisGeNet	
+CYP11B2	C4023645	Abnormality of monovalent inorganic cation homeostasis	HumPhenOnt	
+NR3C2	C4023645	Abnormality of monovalent inorganic cation homeostasis	HumPhenOnt	
+CYP11B2	C1565489	Renal insufficiency	DisGeNet	
+CYP3A4	C1565489	Renal insufficiency	DisGeNet	
+CYP3A5	C1565489	Renal insufficiency	DisGeNet	
+NR3C2	C1565489	Renal insufficiency	DisGeNet	
+CYP11B2	C0342492	Adrenal hyperplasia	DisGeNet,HumPhenOnt	
+CYP3A4	C0342492	Adrenal hyperplasia	DisGeNet	
+CYP3A4	C0027658	Neoplasms, Germ Cell and Embryonal	DisGeNet	
+CYP3A5	C0027658	Neoplasms, Germ Cell and Embryonal	DisGeNet	
+CYP3A4	C0686347	Tardive Dyskinesia	DisGeNet	
+CYP3A5	C0686347	Tardive Dyskinesia	DisGeNet	
+CYP3A4	C0019337	Heroin Dependence	DisGeNet	
+NR3C2	C0019337	Heroin Dependence	DisGeNet	
+CYP11B2	C1384514	Primary hyperaldosteronism	DisGeNet,HumPhenOnt	
+NR3C2	C1384514	Primary hyperaldosteronism	DisGeNet	
+CYP11B2	C0011991	Diarrhea 8, secretory sodium, congenital	DisGeNet	
+CYP3A4	C0011991	Diarrhea 8, secretory sodium, congenital	DisGeNet	
+CYP3A5	C0011991	Diarrhea 8, secretory sodium, congenital	DisGeNet	
+NR3C2	C0011991	Diarrhea 8, secretory sodium, congenital	HumPhenOnt	
+CYP11B2	C1397307	Cardiac fibrosis	DisGeNet	
+NR3C2	C1397307	Cardiac fibrosis	DisGeNet	
+CYP3A4	C0042749	 {HIV-1 viremia, susceptibility to}, 609423 (3)	DisGeNet	
+CYP3A5	C0042749	 {HIV-1 viremia, susceptibility to}, 609423 (3)	DisGeNet	
+CYP3A4	C0152115	Orofacial dyskinesia	DisGeNet	
+CYP3A5	C0152115	Orofacial dyskinesia	DisGeNet	
+CYP11B2	C0001627	Congenital adrenal hyperplasia	DisGeNet	
+NR3C2	C0001627	Congenital adrenal hyperplasia	DisGeNet	
+CYP3A4	C0013182	Drug Allergy	DisGeNet	
+CYP3A5	C0013182	Drug Allergy	DisGeNet	
+CYP11B2	C0205217	Increased analgesia from kappa-opioid receptor agonist, female-specific	HumPhenOnt	
+NR3C2	C0205217	Increased analgesia from kappa-opioid receptor agonist, female-specific	HumPhenOnt	

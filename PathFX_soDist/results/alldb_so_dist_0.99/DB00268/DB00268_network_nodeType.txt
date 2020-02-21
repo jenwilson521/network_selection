@@ -1,0 +1,6 @@
+node_name	node_type	
+DB00268	drug	
+DRD4	drug_target	
+DRD2	drug_target	
+CYP1A2	drug_target	
+DRD3	drug_target	

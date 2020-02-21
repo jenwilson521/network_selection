@@ -1,0 +1,502 @@
+node1	node2	edge_score	
+DB01296	IFNG	1.0	
+DB01296	CYP2E1	1.0	
+DB01296	TNF	1.0	
+DB01296	CYP2C19	1.0	
+DB01296	MMP9	1.0	
+DB01296	NFKB2	1.0	
+CYP2C19	CYP2C19*1, CYP2C19*16, CYP2C19*2	0.99
+TNF	rs1800629	0.99
+CYP2C19	CYP2C19*1, CYP2C19*2, CYP2C19*3, CYP2C19*5, CYP2C19*6, CYP2C19*7, CYP2C19*8	0.99
+CYP2C19	CYP2C19*1, CYP2C19*10, CYP2C19*11, CYP2C19*13, CYP2C19*14, CYP2C19*15, CYP2C19*16, CYP2C19*18, CYP2C19*19, CYP2C19*22, CYP2C19*23, CYP2C19*24, CYP2C19*25, CYP2C19*26, CYP2C19*28, CYP2C19*9	0.99
+CYP2C19	CYP2C19*1, CYP2C19*2, CYP2C19*3	0.99
+CYP2C19	rs12248560	0.99
+CYP2C19	CYP2C19*1, CYP2C19*10, CYP2C19*11, CYP2C19*13, CYP2C19*14, CYP2C19*15, CYP2C19*16, CYP2C19*18, CYP2C19*19, CYP2C19*22, CYP2C19*23, CYP2C19*24, CYP2C19*25, CYP2C19*26, CYP2C19*5, CYP2C19*6, CYP2C19*8, CYP2C19*9	0.99
+CYP2C19	CYP2C19*1, CYP2C19*10, CYP2C19*11, CYP2C19*13, CYP2C19*14, CYP2C19*15, CYP2C19*16, CYP2C19*18, CYP2C19*19, CYP2C19*26, CYP2C19*9	0.99
+CYP2E1	rs2031920	0.99
+CYP2E1	rs2070676	0.99
+CYP2C19	CYP2C19*1, CYP2C19*17, CYP2C19*2, CYP2C19*3	0.99
+CYP2C19	CYP2C19*1, CYP2C19*8, CYP2C19*9	0.99
+CYP2E1	CYP2E1*1A, CYP2E1*5B	0.99
+CYP2C19	CYP2C19*1, CYP2C19*17, CYP2C19*2	0.99
+CYP2C19	CYP2C19*1, CYP2C19*2, CYP2C19*3, CYP2C19*4, CYP2C19*5, CYP2C19*6, CYP2C19*8	0.99
+CYP2E1	rs2515641	0.99
+CYP2C19	rs28399504	0.99
+IFNG		1.0
+CYP2C19		1.0
+CYP2C19	CYP2C19*1, CYP2C19*2	0.99
+CYP2C19	rs12768009	0.99
+CYP2E1	rs2070673	0.99
+TNF	rs1799964	0.99
+TNF		1.0
+TNF	rs1799724	0.99
+CYP2C19	rs11188072	0.99
+CYP2E1	rs6413432	0.99
+CYP2C19	rs4986893	0.99
+TNF	rs361525	0.99
+CYP2C19	rs4244285	0.99
+CYP2C19	rs3814637	0.99
+CYP2E1		1.0
+CYP2C19	CYP2C19*1, CYP2C19*17, CYP2C19*2, CYP2C19*3, CYP2C19*4	0.99
+Stomach Diseases	CYP2C19	1.0	
+Stomach Diseases	CYP2E1	1.0	
+Stomach Diseases	IFNG	1.0	
+Stomach Diseases	TNF	1.0	
+Latent Tuberculosis	CYP2E1	1.0	
+Latent Tuberculosis	IFNG	1.0	
+Latent Tuberculosis	TNF	1.0	
+End Stage Liver Disease	CYP2C19	1.0	
+End Stage Liver Disease	CYP2E1	1.0	
+End Stage Liver Disease	TNF	1.0	
+Liver Cirrhosis, Alcoholic	CYP2C19	1.0	
+Liver Cirrhosis, Alcoholic	CYP2E1	1.0	
+Liver Cirrhosis, Alcoholic	IFNG	1.0	
+Liver Cirrhosis, Alcoholic	TNF	1.0	
+Peptic ulcer	CYP2C19	1.0	
+Peptic ulcer	CYP2E1	1.0	
+Peptic ulcer	IFNG	1.0	
+Peptic ulcer	TNF	1.0	
+Nausea	CYP2C19	1.0	
+Nausea	IFNG	1.0	
+Nausea	TNF	1.0	
+Necrosis	CYP2E1	1.0	
+Necrosis	IFNG	1.0	
+Necrosis	TNF	1.0	
+Respiratory Tract Diseases	CYP2E1	1.0	
+Respiratory Tract Diseases	IFNG	1.0	
+Respiratory Tract Diseases	TNF	1.0	
+Chronic liver disease	CYP2C19	1.0	
+Chronic liver disease	CYP2E1	1.0	
+Chronic liver disease	IFNG	1.0	
+Chronic liver disease	TNF	1.0	
+Neurodegeneration with brain iron accumulation 4	CYP2E1	1.0	
+Neurodegeneration with brain iron accumulation 4	IFNG	1.0	
+Neurodegeneration with brain iron accumulation 4	TNF	1.0	
+Retroviridae Infections	CYP2E1	1.0	
+Retroviridae Infections	IFNG	1.0	
+Retroviridae Infections	TNF	1.0	
+Complications of Diabetes Mellitus	CYP2C19	1.0	
+Complications of Diabetes Mellitus	IFNG	1.0	
+Complications of Diabetes Mellitus	TNF	1.0	
+Drug Allergy	CYP2C19	1.0	
+Drug Allergy	IFNG	1.0	
+Drug Allergy	TNF	1.0	
+Stable angina	CYP2C19	1.0	
+Stable angina	IFNG	1.0	
+Stable angina	TNF	1.0	
+Lichen Planus, Oral	CYP2C19	1.0	
+Lichen Planus, Oral	IFNG	1.0	
+Lichen Planus, Oral	TNF	1.0	
+Nasopharyngeal Neoplasms	CYP2E1	1.0	
+Nasopharyngeal Neoplasms	IFNG	1.0	
+Nasopharyngeal Neoplasms	TNF	1.0	
+Drug Eruptions	CYP2E1	1.0	
+Drug Eruptions	IFNG	1.0	
+Rheumatoid Nodule	IFNG	1.0	
+Rheumatoid Nodule	TNF	1.0	
+Pleural Tuberculosis	IFNG	1.0	
+Pleural Tuberculosis	TNF	1.0	
+Pleural Neoplasms	CYP2C19	1.0	
+Pleural Neoplasms	CYP2E1	1.0	
+Cryoglobulinemia	IFNG	1.0	
+Cryoglobulinemia	TNF	1.0	
+Q Fever	IFNG	1.0	
+Q Fever	TNF	1.0	
+Tuberculosis, Meningeal	IFNG	1.0	
+Tuberculosis, Meningeal	TNF	1.0	
+Steroid-sensitive nephrotic syndrome	IFNG	1.0	
+Steroid-sensitive nephrotic syndrome	TNF	1.0	
+Drug-Induced Liver Injury	CYP2C19	1.0	
+Drug-Induced Liver Injury	CYP2E1	1.0	
+Drug-Induced Liver Injury	IFNG	1.0	
+Drug-Induced Liver Injury	TNF	1.0	
+Angina, Unstable	CYP2C19	1.0	
+Angina, Unstable	IFNG	1.0	
+Angina, Unstable	TNF	1.0	
+Bovine Anaplasmosis	IFNG	1.0	
+Bovine Anaplasmosis	TNF	1.0	
+Cryopyrin-Associated Periodic Syndromes	IFNG	1.0	
+Cryopyrin-Associated Periodic Syndromes	TNF	1.0	
+Familial cold-induced inflammatory syndrome 1, 120100 (3)	IFNG	1.0	
+Familial cold-induced inflammatory syndrome 1, 120100 (3)	TNF	1.0	
+Pharyngitis	CYP2C19	1.0	
+Pharyngitis	TNF	1.0	
+Oral aphthae	IFNG	1.0	
+Oral aphthae	TNF	1.0	
+Myeloproliferative disorder, chronic, with eosinophilia	IFNG	1.0	
+Myeloproliferative disorder, chronic, with eosinophilia	TNF	1.0	
+Granuloma	IFNG	1.0	
+Granuloma	TNF	1.0	
+Pregnancy Complications, Infectious	IFNG	1.0	
+Pregnancy Complications, Infectious	TNF	1.0	
+Tuberculosis, Pulmonary	CYP2C19	1.0	
+Tuberculosis, Pulmonary	CYP2E1	1.0	
+Tuberculosis, Pulmonary	IFNG	1.0	
+Tuberculosis, Pulmonary	TNF	1.0	
+Malaria, Vivax	IFNG	1.0	
+Malaria, Vivax	TNF	1.0	
+Interstitial lung and liver disease	IFNG	1.0	
+Interstitial lung and liver disease	TNF	1.0	
+Pleomorphic adenoma of salivary gland	IFNG	1.0	
+Pleomorphic adenoma of salivary gland	TNF	1.0	
+Periodontal Pocket	IFNG	1.0	
+Periodontal Pocket	TNF	1.0	
+Staphylococcal Infections	IFNG	1.0	
+Staphylococcal Infections	TNF	1.0	
+Asymptomatic Infections	IFNG	1.0	
+Asymptomatic Infections	TNF	1.0	
+Oestrogen deficiency	IFNG	1.0	
+Oestrogen deficiency	TNF	1.0	
+Extrinsic allergic alveolitis	IFNG	1.0	
+Extrinsic allergic alveolitis	TNF	1.0	
+Systemic aspergillosis	IFNG	1.0	
+Systemic aspergillosis	TNF	1.0	
+Fatal infectious mononucleosis	IFNG	1.0	
+Fatal infectious mononucleosis	TNF	1.0	
+Lichen planus pemphigoides	IFNG	1.0	
+Lichen planus pemphigoides	TNF	1.0	
+Adenoviral infections	CYP2E1	1.0	
+Adenoviral infections	TNF	1.0	
+Dermatitis Herpetiformis	IFNG	1.0	
+Dermatitis Herpetiformis	TNF	1.0	
+Equine Infectious Anemia	IFNG	1.0	
+Equine Infectious Anemia	TNF	1.0	
+Multiple Organ Failure	IFNG	1.0	
+Multiple Organ Failure	TNF	1.0	
+Rhinitis, Allergic, Perennial	CYP2C19	1.0	
+Rhinitis, Allergic, Perennial	TNF	1.0	
+Paranoid Schizophrenia	IFNG	1.0	
+Paranoid Schizophrenia	TNF	1.0	
+Volvulus	IFNG	1.0	
+Volvulus	TNF	1.0	
+Helicobacter Infections	CYP2C19	1.0	
+Helicobacter Infections	CYP2E1	1.0	
+Helicobacter Infections	TNF	1.0	
+Polymyalgia Rheumatica	IFNG	1.0	
+Polymyalgia Rheumatica	TNF	1.0	
+Deficiency of glucose-6-phosphate dehydrogenase	IFNG	1.0	
+Deficiency of glucose-6-phosphate dehydrogenase	TNF	1.0	
+Gastritis	CYP2C19	1.0	
+Gastritis	CYP2E1	1.0	
+Gastritis	IFNG	1.0	
+Gastritis	TNF	1.0	
+Alveolar Bone Loss	IFNG	1.0	
+Alveolar Bone Loss	TNF	1.0	
+Condylomata Acuminata	IFNG	1.0	
+Condylomata Acuminata	TNF	1.0	
+Salmonella infections	IFNG	1.0	
+Salmonella infections	TNF	1.0	
+Smallpox	IFNG	1.0	
+Smallpox	TNF	1.0	
+Genomic Instability	CYP2C19	1.0	
+Genomic Instability	CYP2E1	1.0	
+Chronic atrophic gastritis	CYP2C19	1.0	
+Chronic atrophic gastritis	CYP2E1	1.0	
+Chronic atrophic gastritis	TNF	1.0	
+Herpesviridae Infections	IFNG	1.0	
+Herpesviridae Infections	TNF	1.0	
+Chronic myelopathy	IFNG	1.0	
+Chronic myelopathy	TNF	1.0	
+Toxic Epidermal Necrolysis	IFNG	1.0	
+Toxic Epidermal Necrolysis	TNF	1.0	
+Pancreatitis, Alcoholic	CYP2E1	1.0	
+Pancreatitis, Alcoholic	TNF	1.0	
+Intracranial glioma	IFNG	1.0	
+Intracranial glioma	TNF	1.0	
+Obstructive nephropathy	IFNG	1.0	
+Obstructive nephropathy	TNF	1.0	
+Alcoholic Steatohepatitis	CYP2E1	1.0	
+Alcoholic Steatohepatitis	TNF	1.0	
+Hepatitis, Autoimmune	CYP2E1	1.0	
+Hepatitis, Autoimmune	IFNG	1.0	
+Hepatitis, Autoimmune	TNF	1.0	
+Idiopathic crescentic glomerulonephritis	IFNG	1.0	
+Idiopathic crescentic glomerulonephritis	TNF	1.0	
+Active tuberculosis	IFNG	1.0	
+Active tuberculosis	TNF	1.0	
+Mixed cryoglobulinemia	IFNG	1.0	
+Mixed cryoglobulinemia	TNF	1.0	
+Pregnancy Complications	CYP2E1	1.0	
+Pregnancy Complications	IFNG	1.0	
+Pregnancy Complications	TNF	1.0	
+Myelopathy	IFNG	1.0	
+Myelopathy	TNF	1.0	
+Chronic Fatigue Syndrome	IFNG	1.0	
+Chronic Fatigue Syndrome	TNF	1.0	
+Brucellosis	IFNG	1.0	
+Brucellosis	TNF	1.0	
+Adrenoleukodystrophy	CYP2E1	1.0	
+Adrenoleukodystrophy	IFNG	1.0	
+Adrenoleukodystrophy	TNF	1.0	
+Pleuritis	IFNG	1.0	
+Pleuritis	TNF	1.0	
+Acute Cerebrovascular Accidents	CYP2C19	1.0	
+Acute Cerebrovascular Accidents	TNF	1.0	
+Coronary Restenosis	CYP2C19	1.0	
+Coronary Restenosis	TNF	1.0	
+Papillomavirus Infections	IFNG	1.0	
+Papillomavirus Infections	TNF	1.0	
+Neuritis	IFNG	1.0	
+Neuritis	TNF	1.0	
+Pneumococcal Infections	IFNG	1.0	
+Pneumococcal Infections	TNF	1.0	
+Rubella	IFNG	1.0	
+Rubella	TNF	1.0	
+Arthritis, Reactive	IFNG	1.0	
+Arthritis, Reactive	TNF	1.0	
+Idiopathic fibrosing alveolitis, chronic form	IFNG	1.0	
+Idiopathic fibrosing alveolitis, chronic form	TNF	1.0	
+Leptospirosis	IFNG	1.0	
+Leptospirosis	TNF	1.0	
+Pemphigus	IFNG	1.0	
+Pemphigus	TNF	1.0	
+Silicosis	IFNG	1.0	
+Silicosis	TNF	1.0	
+Helicobacter pylori infection	CYP2C19	1.0	
+Helicobacter pylori infection	CYP2E1	1.0	
+Helicobacter pylori infection	IFNG	1.0	
+Helicobacter pylori infection	TNF	1.0	
+Chagas Cardiomyopathy	IFNG	1.0	
+Chagas Cardiomyopathy	TNF	1.0	
+Peptic Esophagitis	CYP2C19	1.0	
+Peptic Esophagitis	TNF	1.0	
+Prenatal Exposure Delayed Effects	CYP2E1	1.0	
+Prenatal Exposure Delayed Effects	TNF	1.0	
+Squamous intraepithelial lesion	CYP2E1	1.0	
+Squamous intraepithelial lesion	TNF	1.0	
+Zoonotic form of cutaneous leishmaniasis	IFNG	1.0	
+Zoonotic form of cutaneous leishmaniasis	TNF	1.0	
+Disease due to Parvoviridae	IFNG	1.0	
+Disease due to Parvoviridae	TNF	1.0	
+Erythema nodosum	IFNG	1.0	
+Erythema nodosum	TNF	1.0	
+Nonalcoholic Steatohepatitis	CYP2E1	1.0	
+Nonalcoholic Steatohepatitis	IFNG	1.0	
+Nonalcoholic Steatohepatitis	TNF	1.0	
+Biliary tract neoplasm	CYP2C19	1.0	
+Biliary tract neoplasm	TNF	1.0	
+Leishmaniasis	IFNG	1.0	
+Leishmaniasis	TNF	1.0	
+Chronic neutrophilia	IFNG	1.0	
+Chronic neutrophilia	TNF	1.0	
+Non-alcoholic Fatty Liver Disease	CYP2C19	1.0	
+Non-alcoholic Fatty Liver Disease	CYP2E1	1.0	
+Non-alcoholic Fatty Liver Disease	IFNG	1.0	
+Non-alcoholic Fatty Liver Disease	TNF	1.0	
+Neoplasms, Experimental	IFNG	1.0	
+Neoplasms, Experimental	TNF	1.0	
+Oral Submucous Fibrosis	IFNG	1.0	
+Oral Submucous Fibrosis	TNF	1.0	
+Shigella Infections	IFNG	1.0	
+Shigella Infections	TNF	1.0	
+Optic neuritis	IFNG	1.0	
+Optic neuritis	TNF	1.0	
+Sarcoidosis, Pulmonary	IFNG	1.0	
+Sarcoidosis, Pulmonary	TNF	1.0	
+Cooley's anemia	CYP2E1	1.0	
+Cooley's anemia	IFNG	1.0	
+Bronchiolitis Obliterans	IFNG	1.0	
+Bronchiolitis Obliterans	TNF	1.0	
+Hantavirus infection in conditions classified elsewhere and of unspecified site	IFNG	1.0	
+Hantavirus infection in conditions classified elsewhere and of unspecified site	TNF	1.0	
+Periodontitis	CYP2C19	1.0	
+Periodontitis	CYP2E1	1.0	
+Periodontitis	IFNG	1.0	
+Periodontitis	TNF	1.0	
+Esophagitis	CYP2C19	1.0	
+Esophagitis	TNF	1.0	
+Idiopathic Inflammatory Myopathies	IFNG	1.0	
+Idiopathic Inflammatory Myopathies	TNF	1.0	
+Childhood Leukemia	CYP2E1	1.0	
+Childhood Leukemia	IFNG	1.0	
+Uterine Cervical Neoplasms	CYP2E1	1.0	
+Uterine Cervical Neoplasms	IFNG	1.0	
+Uterine Cervical Neoplasms	TNF	1.0	
+Aplastic anemia	CYP2E1	1.0	
+Aplastic anemia	IFNG	1.0	
+Aplastic anemia	TNF	1.0	
+Helminthiasis	IFNG	1.0	
+Helminthiasis	TNF	1.0	
+Persistent infection	IFNG	1.0	
+Persistent infection	TNF	1.0	
+Trachoma	IFNG	1.0	
+Trachoma	TNF	1.0	
+Aqueous Humor Disorders	IFNG	1.0	
+Aqueous Humor Disorders	TNF	1.0	
+Osteochondritis dissecans	CYP2C19	1.0	
+Osteochondritis dissecans	TNF	1.0	
+Histiocytosis, Langerhans-Cell	IFNG	1.0	
+Histiocytosis, Langerhans-Cell	TNF	1.0	
+Occupational Diseases	CYP2E1	1.0	
+Occupational Diseases	TNF	1.0	
+{Spondyloarthropathy, susceptibility to, 1}, 106300 (3)	IFNG	1.0	
+{Spondyloarthropathy, susceptibility to, 1}, 106300 (3)	TNF	1.0	
+Lymphocytosis	IFNG	1.0	
+Lymphocytosis	TNF	1.0	
+Shock, Septic	IFNG	1.0	
+Shock, Septic	TNF	1.0	
+Bronchiolitis	IFNG	1.0	
+Bronchiolitis	TNF	1.0	
+Skin lesion	IFNG	1.0	
+Skin lesion	TNF	1.0	
+Gingivitis	IFNG	1.0	
+Gingivitis	TNF	1.0	
+ {HIV-1 viremia, susceptibility to}, 609423 (3)	IFNG	1.0	
+ {HIV-1 viremia, susceptibility to}, 609423 (3)	TNF	1.0	
+Acute Lung Injury	IFNG	1.0	
+Acute Lung Injury	TNF	1.0	
+{Atopy, susceptibility to}, 147050 (3)	IFNG	1.0	
+{Atopy, susceptibility to}, 147050 (3)	TNF	1.0	
+Fibrosis	CYP2E1	1.0	
+Fibrosis	IFNG	1.0	
+Fibrosis	TNF	1.0	
+Female infertility	IFNG	1.0	
+Female infertility	TNF	1.0	
+Angina pectoris	IFNG	1.0	
+Angina pectoris	TNF	1.0	
+Severe Dengue	IFNG	1.0	
+Severe Dengue	TNF	1.0	
+Viral hepatitis	IFNG	1.0	
+Viral hepatitis	TNF	1.0	
+latent infection	IFNG	1.0	
+latent infection	TNF	1.0	
+Vomiting	CYP2C19	1.0	
+Vomiting	CYP2E1	1.0	
+Vomiting	IFNG	1.0	
+Bleeding with minor or no trauma	CYP2C19	1.0	
+Bleeding with minor or no trauma	TNF	1.0	
+Pathologic Neovascularization	IFNG	1.0	
+Pathologic Neovascularization	TNF	1.0	
+Pemphigus Vulgaris	IFNG	1.0	
+Pemphigus Vulgaris	TNF	1.0	
+Granulomatosis with Polyangiitis	IFNG	1.0	
+Granulomatosis with Polyangiitis	TNF	1.0	
+Paroxysmal nocturnal hemoglobinuria	IFNG	1.0	
+Paroxysmal nocturnal hemoglobinuria	TNF	1.0	
+Postoperative Complications	IFNG	1.0	
+Postoperative Complications	TNF	1.0	
+Pleural Effusion, Malignant	IFNG	1.0	
+Pleural Effusion, Malignant	TNF	1.0	
+Hepatitis	CYP2C19	1.0	
+Hepatitis	CYP2E1	1.0	
+Hepatitis	IFNG	1.0	
+Hepatitis	TNF	1.0	
+Osteolysis	IFNG	1.0	
+Osteolysis	TNF	1.0	
+Spondylarthropathies	IFNG	1.0	
+Spondylarthropathies	TNF	1.0	
+Mesothelioma, malignant	CYP2C19	1.0	
+Mesothelioma, malignant	CYP2E1	1.0	
+Mesothelioma, malignant	IFNG	1.0	
+Mesothelioma, malignant	TNF	1.0	
+Epithelial hyperplasia of skin	CYP2E1	1.0	
+Epithelial hyperplasia of skin	TNF	1.0	
+Granulomatous disease, chronic, autosomal recessive, cytochrome b-negative	IFNG	1.0	
+Granulomatous disease, chronic, autosomal recessive, cytochrome b-negative	TNF	1.0	
+Arthritis, Psoriatic	CYP2C19	1.0	
+Arthritis, Psoriatic	IFNG	1.0	
+Arthritis, Psoriatic	TNF	1.0	
+Alopecia Areata	IFNG	1.0	
+Alopecia Areata	TNF	1.0	
+Scar conditions and fibrosis of skin	IFNG	1.0	
+Scar conditions and fibrosis of skin	TNF	1.0	
+Duodenal Ulcer	CYP2C19	1.0	
+Duodenal Ulcer	TNF	1.0	
+Lymphohistiocytosis, Hemophagocytic	IFNG	1.0	
+Lymphohistiocytosis, Hemophagocytic	TNF	1.0	
+Metaplasia	CYP2E1	1.0	
+Metaplasia	TNF	1.0	
+IMMUNE SUPPRESSION	IFNG	1.0	
+IMMUNE SUPPRESSION	TNF	1.0	
+Pregnancy loss	IFNG	1.0	
+Pregnancy loss	TNF	1.0	
+Coronary artery stenosis	CYP2C19	1.0	
+Coronary artery stenosis	TNF	1.0	
+Prediabetes syndrome	IFNG	1.0	
+Prediabetes syndrome	TNF	1.0	
+Leprosy	CYP2E1	1.0	
+Leprosy	IFNG	1.0	
+Leprosy	TNF	1.0	
+Cervical intraepithelial neoplasia (Cervical dysplasia)	CYP2E1	1.0	
+Cervical intraepithelial neoplasia (Cervical dysplasia)	IFNG	1.0	
+Cervical intraepithelial neoplasia (Cervical dysplasia)	TNF	1.0	
+Chlamydia Infections	IFNG	1.0	
+Chlamydia Infections	TNF	1.0	
+Demyelinating Diseases	IFNG	1.0	
+Demyelinating Diseases	TNF	1.0	
+High-Grade Squamous Intraepithelial Lesions	CYP2E1	1.0	
+High-Grade Squamous Intraepithelial Lesions	TNF	1.0	
+Membranous nephropathy, susceptibility to	IFNG	1.0	
+Membranous nephropathy, susceptibility to	TNF	1.0	
+Obsessive-compulsive disorder	CYP2C19	1.0	
+Obsessive-compulsive disorder	TNF	1.0	
+Soft Tissue Neoplasms	IFNG	1.0	
+Soft Tissue Neoplasms	TNF	1.0	
+Wheezing	IFNG	1.0	
+Wheezing	TNF	1.0	
+bone destruction	IFNG	1.0	
+bone destruction	TNF	1.0	
+Chronic active hepatitis	IFNG	1.0	
+Chronic active hepatitis	TNF	1.0	
+Restenosis	CYP2C19	1.0	
+Restenosis	IFNG	1.0	
+Restenosis	TNF	1.0	
+Liver regeneration disorder	IFNG	1.0	
+Liver regeneration disorder	TNF	1.0	
+Leishmaniasis, Visceral	IFNG	1.0	
+Leishmaniasis, Visceral	TNF	1.0	
+Chronic sinusitis	IFNG	1.0	
+Chronic sinusitis	TNF	1.0	
+Parasitemia	IFNG	1.0	
+Parasitemia	TNF	1.0	
+Lupus Nephritis	CYP2C19	1.0	
+Lupus Nephritis	IFNG	1.0	
+Lupus Nephritis	TNF	1.0	
+Contact Dermatitis	IFNG	1.0	
+Contact Dermatitis	TNF	1.0	
+Periodontitis, Juvenile	IFNG	1.0	
+Periodontitis, Juvenile	TNF	1.0	
+Latent autoimmune diabetes mellitus in adult	IFNG	1.0	
+Latent autoimmune diabetes mellitus in adult	TNF	1.0	
+Thyroid associated opthalmopathies	IFNG	1.0	
+Thyroid associated opthalmopathies	TNF	1.0	
+Cancer of Head and Neck	CYP2C19	1.0	
+Cancer of Head and Neck	CYP2E1	1.0	
+Cancer of Head and Neck	IFNG	1.0	
+Cancer of Head and Neck	TNF	1.0	
+Chronic graft-versus-host disease	IFNG	1.0	
+Chronic graft-versus-host disease	TNF	1.0	
+airway disease	IFNG	1.0	
+airway disease	TNF	1.0	
+Malaria, Cerebral	IFNG	1.0	
+Malaria, Cerebral	TNF	1.0	
+Alcohol abuse	CYP2E1	1.0	
+Alcohol abuse	TNF	1.0	
+Acute myocardial infarction	CYP2C19	1.0	
+Acute myocardial infarction	IFNG	1.0	
+Acute myocardial infarction	TNF	1.0	
+Biliary Atresia	IFNG	1.0	
+Biliary Atresia	TNF	1.0	
+Endotoxemia	IFNG	1.0	
+Endotoxemia	TNF	1.0	
+Peripheral Arterial Diseases	CYP2C19	1.0	
+Peripheral Arterial Diseases	TNF	1.0	
+Vesicular Stomatitis	IFNG	1.0	
+Vesicular Stomatitis	TNF	1.0	
+Mycoses	CYP2C19	1.0	
+Mycoses	IFNG	1.0	
+Mycoses	TNF	1.0	
+Hemochromatosis	IFNG	1.0	
+Hemochromatosis	TNF	1.0	
+Hyperbilirubinemia	IFNG	1.0	
+Hyperbilirubinemia	TNF	1.0	
+SUDDEN INFANT DEATH SYNDROME	CYP2C19	1.0	
+SUDDEN INFANT DEATH SYNDROME	TNF	1.0	
+Severe Acute Respiratory Syndrome	IFNG	1.0	
+Severe Acute Respiratory Syndrome	TNF	1.0	
+Advanced cancer	CYP2C19	1.0	
+Advanced cancer	TNF	1.0	
+Leukoencephalopathy, Progressive Multifocal	IFNG	1.0	
+Leukoencephalopathy, Progressive Multifocal	TNF	1.0	
+Melanoma, B16	IFNG	1.0	
+Melanoma, B16	TNF	1.0	

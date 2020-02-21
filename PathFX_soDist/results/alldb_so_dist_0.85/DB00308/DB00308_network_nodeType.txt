@@ -1,0 +1,104 @@
+node_name	node_type	
+DB00308	drug	
+KCNJ11	drug_target	
+KCNH2	drug_target	
+CACNB1	drug_target	
+CACNA1C	drug_target	
+KCNK1	drug_target	
+CACNG1	drug_target	
+CACNA2D1	drug_target	
+Acquired long QT syndrome	phenotype	
+Tachycardia	phenotype	
+Prolonged QT interval	phenotype	
+Congenital long QT syndrome	phenotype	
+Sudden cardiac death	phenotype	
+Sudden death	phenotype	
+Primary atrial arrhythmia	phenotype	
+Abnormal cardiac test	phenotype	
+Supraventricular arrhythmia	phenotype	
+Brugada Syndrome	phenotype	
+Abnormal EKG	phenotype	
+Channelopathies	phenotype	
+Supraventricular tachycardia	phenotype	
+Syncope	phenotype	
+Ventricular arrhythmia	phenotype	
+Primary hyperaldosteronism	phenotype	
+Arrhythmias, Cardiac	phenotype	
+Heart Diseases	phenotype	
+Atrial Fibrillation	phenotype	
+Diabetic ketoacidosis	phenotype	
+Hypercapnia	phenotype	
+Romano-Ward syndrome	phenotype	
+Recurrent major depressive episodes	phenotype	
+Hereditary macular dystrophy	phenotype	
+Cycloid psychosis	phenotype	
+Palpitations	phenotype	
+Progressive neurologic deterioration	phenotype	
+Abnormality of endocrine pancreas physiology	phenotype	
+Choroideremia	phenotype	
+Prominent metopic ridge	phenotype	
+Abnormality of circulating glucocorticoid level	phenotype	
+Abnormality of circulating cortisol level	phenotype	
+Abnormality of blood volume homeostasis	phenotype	
+Steatorrhea	phenotype	
+Fat malabsorption	phenotype	
+Insulin-resistant diabetes mellitus AND acanthosis nigricans	phenotype	
+Cardiac arrest	phenotype	
+Hypovolemia	phenotype	
+Abnormality of the metopic suture	phenotype	
+Acinar Cell Carcinoma	phenotype	
+RETINAL CONE DYSTROPHY 1	phenotype	
+Ewing Sarcoma/Peripheral Primitive Neuroectodermal Tumor	phenotype	
+Acute myocardial infarction	phenotype	
+Gastroparesis	phenotype	
+Neonatal diabetes mellitus	phenotype	
+Bull's eye macular dystrophy	phenotype	
+Abnormality of cardiovascular system physiology	phenotype	
+Heterogeneous	phenotype	
+Abnormality of fatty-acid metabolism	phenotype	
+Prostate cancer stage C	phenotype	
+Gastro-esophageal reflux disease with esophagitis	phenotype	
+Partial Trisomy	phenotype	
+Abnormality of urine glucose concentration	phenotype	
+Glycosuria	phenotype	
+Hypoglycemia, neonatal, simulating foetopathia diabetica	phenotype	
+Abnormal atrioventricular conduction	phenotype	
+cardiac event	phenotype	
+Prenatal maternal abnormality	phenotype	
+Drusen	phenotype	
+Atrioventricular block	phenotype	
+Malignant hyperthermia susceptibility	phenotype	
+Cytogenetically normal acute myeloid leukemia	phenotype	
+Rous Sarcoma	phenotype	
+Ventricular fibrillation	phenotype	
+Uterine Cancer	phenotype	
+EEG with generalized epileptiform discharges	phenotype	
+Essential hypertension	phenotype	
+Peptic Esophagitis	phenotype	
+Bradycardia	phenotype	
+Chromosome Xq28 deletion syndrome	phenotype	
+Abnormality of vitamin metabolism	phenotype	
+Myxoid liposarcoma	phenotype	
+Ketoacidosis	phenotype	
+Dysmorphic features	phenotype	
+Psychotic Disorders	phenotype	
+Generalized myoclonic seizures	phenotype	
+EEG with irregular generalized spike and wave complexes	phenotype	
+cancer recurrence	phenotype	
+Abnormality of pancreas morphology	phenotype	
+Renal tubular dysfunction	phenotype	
+Radial deviation of finger	phenotype	
+Extraosseous Ewings sarcoma-primitive neuroepithelial tumor	phenotype	
+Attention Deficit Disorder	phenotype	
+Drug Dependence	phenotype	
+Bardet-Biedl syndrome	phenotype	
+Radial deviation of the hand	phenotype	
+Microalbuminuria	phenotype	
+Peripheral axonal neuropathy	phenotype	
+Bronchitis	phenotype	
+Epilepsy, generalized, with febrile seizures plus, type 6 (2)	phenotype	
+Common Migraine	phenotype	
+Arrhythmogenic right ventricular cardiomyopathy, type 11	phenotype	
+Multiple Endocrine Neoplasia Type 2a	phenotype	
+Anxiety Disorders	phenotype	
+Pallor	phenotype	

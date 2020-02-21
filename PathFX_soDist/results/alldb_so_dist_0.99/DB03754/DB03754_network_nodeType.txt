@@ -1,0 +1,6 @@
+node_name	node_type	
+DB03754	drug	
+DCN	drug_target	
+VEGFA	drug_target	
+NEIL1	drug_target	
+AMD1	drug_target	

@@ -1,0 +1,10 @@
+rank	phenotype	cui	assoc in neigh	assoc in intom	probability	Benjamini-Hochberg	genes	
+14	Megaloblastic anemia, thiamine-responsive, with diabetes mellitus and sensorineural deafness	C0002888	1	30	5.363080417897237e-05	7.44680851064e-05	DHFR
+15	Malaria, Vivax	C0024537	1	32	6.112771914279502e-05	7.97872340426e-05	DHFR
+16	Familial Alzheimer Disease (FAD)	C0276496	1	32	6.112771914279502e-05	8.51063829787e-05	DHFR
+17	Asymptomatic Infections	C0275522	1	33	6.505888095165169e-05	9.04255319149e-05	DHFR
+18	Myelosuppression	C0854467	1	35	7.328605057499438e-05	9.57446808511e-05	DHFR
+19	Folic Acid Deficiency	C0016412	1	37	8.199939989705918e-05	0.000101063829787	DHFR
+20	Xeroderma pigmentosum, group A	C0268135	1	38	8.653814902703783e-05	0.000106382978723	DHFR
+21	Dialeptic seizures	C4023515	1	41	0.0001008820307765168	0.00011170212766	DHFR
+22	Microcephaly, postnatal progressive, with seizures and brain atrophy	C1847514	1	44	0.00011631577408433014	0.000117021276596	DHFR

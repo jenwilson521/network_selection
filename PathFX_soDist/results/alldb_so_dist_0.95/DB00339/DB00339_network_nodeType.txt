@@ -1,0 +1,5 @@
+node_name	node_type	
+DB00339	drug	
+AOX1	drug_target	
+CYP3A4	drug_target	
+XDH	drug_target	

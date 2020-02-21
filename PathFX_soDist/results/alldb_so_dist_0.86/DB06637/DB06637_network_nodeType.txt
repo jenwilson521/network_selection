@@ -1,0 +1,49 @@
+node_name	node_type	
+DB06637	drug	
+KCND3	drug_target	
+KCND2	drug_target	
+KCNC1	drug_target	
+KCNB1	drug_target	
+CYP2E1	drug_target	
+SLC22A2	drug_target	
+KCNA10	drug_target	
+KCNB2	drug_target	
+KCNA4	drug_target	
+KCNA5	drug_target	
+KCNA2	drug_target	
+KCNA3	drug_target	
+KCNA1	drug_target	
+Drug Eruptions	phenotype	
+Latent Tuberculosis	phenotype	
+Slow acetylator due to N-acetyltransferase enzyme variant	phenotype	
+Neoplasms, Multiple Primary	phenotype	
+Pleural Neoplasms	phenotype	
+Malignant neoplasm of pharynx	phenotype	
+Squamous Cell Neoplasms	phenotype	
+Extrahepatic cholestasis	phenotype	
+Cholestatic liver disease	phenotype	
+Pericardial effusion	phenotype	
+Adenoviral infections	phenotype	
+Erythrocytosis	phenotype	
+Antisocial Personality Disorder	phenotype	
+Genomic Instability	phenotype	
+alcohol use disorder	phenotype	
+End Stage Liver Disease	phenotype	
+Pancreatitis, Alcoholic	phenotype	
+Alcoholic Steatohepatitis	phenotype	
+Stomach Diseases	phenotype	
+Bone necrosis	phenotype	
+Neoplasm of the respiratory system	phenotype	
+Leukoplakia	phenotype	
+Prenatal Exposure Delayed Effects	phenotype	
+Squamous intraepithelial lesion	phenotype	
+Necrosis	phenotype	
+Respiratory Tract Diseases	phenotype	
+Intrahepatic cholestasis	phenotype	
+Adverse drug events and drug allergies	phenotype	
+Cooley's anemia	phenotype	
+As If Personality	phenotype	
+Childhood Leukemia	phenotype	
+Neurodegeneration with brain iron accumulation 4	phenotype	
+Occupational Diseases	phenotype	
+Hyperuricemia, pulmonary hypertension, renal failure, and alkalosis	phenotype	

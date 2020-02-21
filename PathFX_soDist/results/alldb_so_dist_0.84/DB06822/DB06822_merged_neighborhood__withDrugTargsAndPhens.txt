@@ -1,0 +1,321 @@
+node1	node2	edge_score	
+DB06822	ADAMTS4	1.0	
+DB06822	CXCL12	1.0	
+DB06822	ITGA4	1.0	
+DB06822	SERPINC1	1.0	
+CXCL12		1.0
+Acquired Immunodeficiency Syndrome	CXCL12	1.0	
+ Adenocarcinoma, ovarian, somatic, 167000 (3)	CXCL12	1.0	
+Adenomas, multiple colorectal, 608456 (3)	CXCL12	1.0	
+Primary Myelofibrosis	CXCL12	1.0	
+AIDS Dementia Complex	CXCL12	1.0	
+Albinism, ocular, with sensorineural deafness	CXCL12	1.0	
+Alzheimer Disease	CXCL12	1.0	
+Hypoxia	CXCL12	1.0	
+Arteriosclerosis	CXCL12	1.0	
+Arthritis, Rheumatoid	CXCL12	1.0	
+Rheumatoid arthritis	CXCL12	1.0	
+Asthma	CXCL12	1.0	
+Astrocytoma	CXCL12	1.0	
+Atherosclerosis	CXCL12	1.0	
+Autoimmune disease 1	CXCL12	1.0	
+Malignant tumor of urinary bladder	CXCL12	1.0	
+Urinary Bladder Neoplasms	CXCL12	1.0	
+Blast Phase	CXCL12	1.0	
+Bone Diseases	CXCL12	1.0	
+Bone neoplasms	CXCL12	1.0	
+Brain Diseases	CXCL12	1.0	
+Brain neoplasm	CXCL12	1.0	
+Breast-ovarian cancer, familial 1	CXCL12	1.0	
+Bronchiolitis Obliterans	CXCL12	1.0	
+Cancer of the lower GI tract	CXCL12	1.0	
+Colon cancer	CXCL12	1.0	
+Malignant neoplasm of endometrium	CXCL12	1.0	
+Malignant neoplasm of larynx	CXCL12	1.0	
+Basal cell carcinoma	CXCL12	1.0	
+Noninfiltrating Intraductal Carcinoma	CXCL12	1.0	
+Non-small cell lung carcinoma	CXCL12	1.0	
+Renal cell carcinoma, nonpapillary	CXCL12	1.0	
+Squamous cell carcinoma	CXCL12	1.0	
+Cardiovascular Diseases	CXCL12	1.0	
+Carotid Stenosis	CXCL12	1.0	
+CNS disorder	CXCL12	1.0	
+Ischaemic cerebral infarction	CXCL12	1.0	
+Brain Ischemia	CXCL12	1.0	
+Malignant tumor of cervix	CXCL12	1.0	
+Uterine Cervical Neoplasms	CXCL12	1.0	
+Chlamydia Infections	CXCL12	1.0	
+Chondrosarcoma	CXCL12	1.0	
+Choriocarcinoma	CXCL12	1.0	
+Ulcerative colitis	CXCL12	1.0	
+Neoplasm of the colon	CXCL12	1.0	
+Colorectal cancer 1	CXCL12	1.0	
+Colorectal Neoplasms	CXCL12	1.0	
+Verotoxigenic Escherichia coli gastrointestinal tract infection	CXCL12	1.0	
+Coronary heart disease 7	CXCL12	1.0	
+Coronary Disease	CXCL12	1.0	
+Crohn Disease	CXCL12	1.0	
+Phyllodes tumor, benign	CXCL12	1.0	
+Dementia familial British	CXCL12	1.0	
+Demyelinating Diseases	CXCL12	1.0	
+Dermatomyositis	CXCL12	1.0	
+Diabetes Mellitus, Type 1	CXCL12	1.0	
+Diabetes mellitus type 1	CXCL12	1.0	
+Diabetes mellitus type 2	CXCL12	1.0	
+Diabetic Retinopathy	CXCL12	1.0	
+Gallbladder disease 4	CXCL12	1.0	
+Eclampsia	CXCL12	1.0	
+Experimental Autoimmune Encephalomyelitis	CXCL12	1.0	
+Endometriosis	CXCL12	1.0	
+Esophageal Neoplasms	CXCL12	1.0	
+Fibrosis	CXCL12	1.0	
+pathologic fistula	CXCL12	1.0	
+Gastrointestinal Neoplasms	CXCL12	1.0	
+Giant Cell Tumors	CXCL12	1.0	
+Gingival Diseases	CXCL12	1.0	
+Glioblastoma	CXCL12	1.0	
+Glioma	CXCL12	1.0	
+Graves Disease	CXCL12	1.0	
+Heart Diseases	CXCL12	1.0	
+Heart Failure	CXCL12	1.0	
+Congestive heart failure	CXCL12	1.0	
+Hematological Disease	CXCL12	1.0	
+Hemolytic uremic syndrome	CXCL12	1.0	
+Hepatitis	CXCL12	1.0	
+Acute type B viral hepatitis	CXCL12	1.0	
+Hepatitis C	CXCL12	1.0	
+Von Hippel-Lindau syndrome	CXCL12	1.0	
+Symptomatic human immunodeficiency virus infection	CXCL12	1.0	
+Hodgkin Disease	CXCL12	1.0	
+Hyperglycemia	CXCL12	1.0	
+Hyperinsulinemia	CXCL12	1.0	
+Immediate hypersensitivity	CXCL12	1.0	
+Immunodeficiency due to defect in CD3-gamma	CXCL12	1.0	
+Inflammation	CXCL12	1.0	
+Inflammatory Bowel Diseases	CXCL12	1.0	
+Insulinoma	CXCL12	1.0	
+Irritable bowel syndrome with diarrhea	CXCL12	1.0	
+Ischemia	CXCL12	1.0	
+Acute kidney injury	CXCL12	1.0	
+Renal neoplasm	CXCL12	1.0	
+Leukemia, Lymphocytic, Chronic, B-Cell	CXCL12	1.0	
+Chronic Lymphocytic Leukemia	CXCL12	1.0	
+Lymphoid leukemia	CXCL12	1.0	
+Acute lymphoid leukemia	CXCL12	1.0	
+Acute myeloid leukemia	CXCL12	1.0	
+Myeloid leukemia	CXCL12	1.0	
+Chronic myeloid leukemia	CXCL12	1.0	
+Leukemia, Myeloid, Chronic-Phase	CXCL12	1.0	
+Precursor B-Cell Lymphoblastic Leukemia-Lymphoma	CXCL12	1.0	
+Leukopenia	CXCL12	1.0	
+Liver Cirrhosis, Biliary	CXCL12	1.0	
+Liver Diseases	CXCL12	1.0	
+Neoplasm of the liver	CXCL12	1.0	
+Lung Neoplasms	CXCL12	1.0	
+Lupus Vulgaris	CXCL12	1.0	
+Discoid lupus erythematosus	CXCL12	1.0	
+Lupus Erythematosus, Systemic	CXCL12	1.0	
+Lymphatic Metastasis	CXCL12	1.0	
+Lymphoma, Large B-Cell, Diffuse	CXCL12	1.0	
+Waldenstrom macroglobulinemia	CXCL12	1.0	
+{Gastric cancer risk after H. pylori infection}, 137215 (3)	CXCL12	1.0	
+Animal Mammary Neoplasms	CXCL12	1.0	
+Medulloblastoma	CXCL12	1.0	
+Melanoma	CXCL12	1.0	
+Meningioma	CXCL12	1.0	
+Premature ovarian failure	CXCL12	1.0	
+Neoplasm of the oral cavity	CXCL12	1.0	
+Multiple Myeloma	CXCL12	1.0	
+Multiple Sclerosis	CXCL12	1.0	
+Myelofibrosis	CXCL12	1.0	
+Myocardial Infarction	CXCL12	1.0	
+Myoepithelioma	CXCL12	1.0	
+Neoplasm Invasiveness	CXCL12	1.0	
+Secondary hypertriglyceridemia	CXCL12	1.0	
+Nephrosclerosis	CXCL12	1.0	
+Neurofibromatosis, type 1, 162200 (3)	CXCL12	1.0	
+Osteoarthritis	CXCL12	1.0	
+Pain	CXCL12	1.0	
+Pancreatic Neoplasms	CXCL12	1.0	
+Pheochromocytoma	CXCL12	1.0	
+Pituitary adenoma	CXCL12	1.0	
+Abnormality of the pituitary gland	CXCL12	1.0	
+Pituitary Neoplasms	CXCL12	1.0	
+Pneumonia	CXCL12	1.0	
+Pregnancy Complications, Infectious	CXCL12	1.0	
+Prostatic Neoplasms	CXCL12	1.0	
+Pterygium	CXCL12	1.0	
+Pulmonary fibrosis and/or bone marrow failure, telomere-related, 4	CXCL12	1.0	
+Neoplasm of the rectum	CXCL12	1.0	
+Reperfusion Injury	CXCL12	1.0	
+Retinal detachment	CXCL12	1.0	
+Retinopathy	CXCL12	1.0	
+Rhabdomyosarcoma alveolar	CXCL12	1.0	
+Sarcoidosis	CXCL12	1.0	
+Scleroderma	CXCL12	1.0	
+Septicemia	CXCL12	1.0	
+Sexually Transmitted Diseases	CXCL12	1.0	
+Skin ulcer	CXCL12	1.0	
+Status epilepticus	CXCL12	1.0	
+Stomach Neoplasms	CXCL12	1.0	
+Stroke	CXCL12	1.0	
+Subarachnoid hemorrhage	CXCL12	1.0	
+Essential thrombocythemia	CXCL12	1.0	
+Thyroid Diseases	CXCL12	1.0	
+Trachoma	CXCL12	1.0	
+Tuberculosis	CXCL12	1.0	
+Uveitis	CXCL12	1.0	
+Vascular Diseases	CXCL12	1.0	
+ {HIV-1 viremia, susceptibility to}, 609423 (3)	CXCL12	1.0	
+Wiskott-Aldrich syndrome, 301000 (3)	CXCL12	1.0	
+Germinal Center B-Cell-Like Diffuse Large B-Cell Lymphoma	CXCL12	1.0	
+Pleural Effusion, Malignant	CXCL12	1.0	
+Lymphoma, AIDS-Related	CXCL12	1.0	
+Peripheral Arterial Disease	CXCL12	1.0	
+Severe combined immunodeficiency due to ADA deficiency	CXCL12	1.0	
+Bronchial Hyperreactivity	CXCL12	1.0	
+Neoplasm of the central nervous system	CXCL12	1.0	
+Ovarian Failure, Premature	CXCL12	1.0	
+Polymyositis	CXCL12	1.0	
+Hypogammaglobulinemia	CXCL12	1.0	
+Epstein-Barr Virus Infections	CXCL12	1.0	
+Small cell lung cancer	CXCL12	1.0	
+Rectal Carcinoma	CXCL12	1.0	
+Thyroid adenoma	CXCL12	1.0	
+Renal fibrosis	CXCL12	1.0	
+Intracranial hemorrhage	CXCL12	1.0	
+Acute myocardial ischemia	CXCL12	1.0	
+Esophageal carcinoma	CXCL12	1.0	
+Congenital heart disease	CXCL12	1.0	
+Primary pulmonary hypertension	CXCL12	1.0	
+Cancer of mouth	CXCL12	1.0	
+Uterine Corpus Cancer	CXCL12	1.0	
+Secondary malignant neoplasm of lung	CXCL12	1.0	
+Proliferative diabetic retinopathy	CXCL12	1.0	
+Acute myocardial infarction	CXCL12	1.0	
+Malnutrition	CXCL12	1.0	
+Aortic Aneurysm, Abdominal	CXCL12	1.0	
+Autoimmune thyroid disease 3	CXCL12	1.0	
+Tumor Progression	CXCL12	1.0	
+Diabetic foot ulcer	CXCL12	1.0	
+Giant cell tumor of bone	CXCL12	1.0	
+Intraosseous mucoepidermoid carcinoma	CXCL12	1.0	
+Cholangiocarcinoma	CXCL12	1.0	
+Cervical intraepithelial neoplasia (Cervical dysplasia)	CXCL12	1.0	
+Hemangioblastoma	CXCL12	1.0	
+Intraocular melanoma	CXCL12	1.0	
+Lip and Oral Cavity Carcinoma	CXCL12	1.0	
+Metastatic malignant neoplasm to brain	CXCL12	1.0	
+Adult type dermatomyositis	CXCL12	1.0	
+Ventricular Fibrillation Adverse Event	CXCL12	1.0	
+Paroxysmal atrial fibrillation	CXCL12	1.0	
+Gallbladder Carcinoma	CXCL12	1.0	
+Pancreatic Carcinoma	CXCL12	1.0	
+Hereditary pancreatitis	CXCL12	1.0	
+Anaplastic thyroid carcinoma	CXCL12	1.0	
+Papillary thyroid carcinoma	CXCL12	1.0	
+Scar conditions and fibrosis of skin	CXCL12	1.0	
+Hepatitis, Autoimmune	CXCL12	1.0	
+Pelvic inflammatory disease	CXCL12	1.0	
+Dyslipidemias	CXCL12	1.0	
+Malignant neoplasm of lung	CXCL12	1.0	
+Primary cutaneous marginal zone B-cell lymphoma	CXCL12	1.0	
+Disease Progression	CXCL12	1.0	
+Sepsis	CXCL12	1.0	
+Chronic heart failure	CXCL12	1.0	
+Chronic Periodontitis	CXCL12	1.0	
+Leukoencephalopathy with Brainstem and Spinal Cord Involvement and Lactate Elevation	CXCL12	1.0	
+Carcinoma breast stage IV	CXCL12	1.0	
+Malignant neoplasm of stomach stage IV	CXCL12	1.0	
+Stage IV Ovarian Carcinoma	CXCL12	1.0	
+Gastric Adenocarcinoma	CXCL12	1.0	
+Cancer of Head and Neck	CXCL12	1.0	
+Esophageal Squamous Cell Carcinoma	CXCL12	1.0	
+Cervical Squamous Cell Carcinoma	CXCL12	1.0	
+Clear cell renal cell carcinoma	CXCL12	1.0	
+Solid tumour	CXCL12	1.0	
+Squamous cell carcinoma of the hypopharynx	CXCL12	1.0	
+Primary central nervous system lymphoma	CXCL12	1.0	
+Vascular neoplasm	CXCL12	1.0	
+Carcinoma of cervix	CXCL12	1.0	
+Uremia syndrome	CXCL12	1.0	
+Malignant lymphoma, lymphocytic, intermediate differentiation, diffuse	CXCL12	1.0	
+Proliferative retinopathy	CXCL12	1.0	
+Stable angina	CXCL12	1.0	
+Intrahepatic Cholangiocarcinoma	CXCL12	1.0	
+Malignant mesothelioma	CXCL12	1.0	
+Peritoneal Mesothelioma	CXCL12	1.0	
+Malignant neoplasm of pancreas	CXCL12	1.0	
+Disseminated Malignant Neoplasm	CXCL12	1.0	
+Ischemic cardiomyopathy	CXCL12	1.0	
+Malignant tumor of prostate	CXCL12	1.0	
+Chronic Kidney Insufficiency	CXCL12	1.0	
+Anti-Glomerular Basement Membrane Disease	CXCL12	1.0	
+{Systemic lupus erythematosus, susceptibility to, 8} (2)	CXCL12	1.0	
+Ichthyosis bullosa of Siemens	CXCL12	1.0	
+Endometrial carcinoma	CXCL12	1.0	
+Dementia	CXCL12	1.0	
+Hepatitis C, Chronic	CXCL12	1.0	
+Malignant tumor of esophagus	CXCL12	1.0	
+Ewing's sarcoma	CXCL12	1.0	
+Squamous cell carcinoma of the skin	CXCL12	1.0	
+Carotid Atherosclerosis	CXCL12	1.0	
+Squamous cell carcinoma of mouth	CXCL12	1.0	
+Osteosarcoma	CXCL12	1.0	
+Carcinogenesis	CXCL12	1.0	
+Leukemogenesis	CXCL12	1.0	
+Prostate carcinoma	CXCL12	1.0	
+Ovarian epithelial cancer	CXCL12	1.0	
+Breast carcinoma	CXCL12	1.0	
+Lung cancer	CXCL12	1.0	
+Carcinoma of colon	CXCL12	1.0	
+Stomach cancer	CXCL12	1.0	
+Bladder carcinoma	CXCL12	1.0	
+Neuroblastoma	CXCL12	1.0	
+Malignant neoplasm of kidney	CXCL12	1.0	
+Idiopathic Inflammatory Myopathies	CXCL12	1.0	
+Pleural Mesothelioma	CXCL12	1.0	
+Thrombocytosis, benign familial microcytic	CXCL12	1.0	
+Invasive breast carcinoma	CXCL12	1.0	
+Endothelial dysfunction	CXCL12	1.0	
+Cerebral ischemia	CXCL12	1.0	
+Ovarian Neoplasms	CXCL12	1.0	
+Acute Coronary Syndrome	CXCL12	1.0	
+Ovarian adenocarcinoma	CXCL12	1.0	
+Spondylarthropathies	CXCL12	1.0	
+Invasive Ductal Breast Carcinoma	CXCL12	1.0	
+Disseminated neuroblastoma	CXCL12	1.0	
+BREAST-OVARIAN CANCER, FAMILIAL, SUSCEPTIBILITY TO, 4	CXCL12	1.0	
+Endometrial adenocarcinoma	CXCL12	1.0	
+Squamous cell carcinoma of the head and neck	CXCL12	1.0	
+Sarcoma, Ewing	CXCL12	1.0	
+Lymphocytic infiltration	CXCL12	1.0	
+B Acute Lymphoblastic Leukemia with t(9;22)(q34;q11.2); BCR-ABL1	CXCL12	1.0	
+Myeloproliferative disorder (2)	CXCL12	1.0	
+Adenoma of large intestine	CXCL12	1.0	
+Inappropriate ADH Syndrome	CXCL12	1.0	
+Pancreatic Ductal Adenocarcinoma	CXCL12	1.0	
+Sporadic Breast Carcinoma	CXCL12	1.0	
+Dilated cardiomyopathy 1A	CXCL12	1.0	
+Primary Glioblastoma	CXCL12	1.0	
+Tumor-Associated Vasculature	CXCL12	1.0	
+Tumor Angiogenesis	CXCL12	1.0	
+Tumor Promotion	CXCL12	1.0	
+Colorectal cancer	CXCL12	1.0	
+Non-Malignant Ascites Adverse Event	CXCL12	1.0	
+Chronic kidney disease	CXCL12	1.0	
+Glioblastoma multiforme	CXCL12	1.0	
+Peripheral Arterial Diseases	CXCL12	1.0	
+Meningioma, benign, no ICD-O subtype	CXCL12	1.0	
+Idiopathic Pulmonary Fibrosis	CXCL12	1.0	
+Venous Thromboembolism	CXCL12	1.0	
+Coronary Artery Disease	CXCL12	1.0	
+T-cell acute lymphoblastic leukemias	CXCL12	1.0	
+Precursor Cell Lymphoblastic Leukemia-Lymphoma	CXCL12	1.0	
+Hepatocellular carcinoma	CXCL12	1.0	
+Nasopharyngeal carcinoma, susceptibility to, 3	CXCL12	1.0	
+Cerebral Hemorrhage	CXCL12	1.0	
+Pulmonary arterial hypertension	CXCL12	1.0	
+Secondary malignant neoplasm of pancreas	CXCL12	1.0	
+Intracranial glioma	CXCL12	1.0	
+Mammary adenocarcinoma	CXCL12	1.0	

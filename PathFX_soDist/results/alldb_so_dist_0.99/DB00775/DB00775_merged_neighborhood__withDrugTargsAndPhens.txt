@@ -1,0 +1,4 @@
+node1	node2	edge_score	
+DB00775	ITGA2B	1.0	
+DB00775	ITGB3	1.0	
+

@@ -1,0 +1,57 @@
+node_name	node_type	
+DB11256	drug	
+MTR	drug_target	
+SLC19A1	drug_target	
+SLC46A1	drug_target	
+Folic Acid Deficiency	phenotype	
+Primary central nervous system lymphoma	phenotype	
+Adverse drug events and drug allergies	phenotype	
+Childhood Leukemia	phenotype	
+Homocysteinemia due to MTHFR deficiency	phenotype	
+Drug Allergy	phenotype	
+Adult Acute Lymphocytic Leukemia	phenotype	
+Intracranial Aneurysm	phenotype	
+Hereditary hyperhomocysteinemia	phenotype	
+Lymphoma, Large-Cell, Follicular	phenotype	
+Aortic Aneurysm, Abdominal	phenotype	
+Neural tube defect	phenotype	
+Rheumatoid Nodule	phenotype	
+Abnormality of sulfur amino acid metabolism	phenotype	
+Placental Insufficiency	phenotype	
+Phenylketonuria	phenotype	
+Homocystinuria due to CBS deficiency	phenotype	
+Megaloblastic anemia, thiamine-responsive, with diabetes mellitus and sensorineural deafness	phenotype	
+Abnormality of serum amino acid levels	phenotype	
+Spina bifida	phenotype	
+Adenoma of large intestine	phenotype	
+Deep vein thrombosis of lower limb	phenotype	
+Myelomeningocele	phenotype	
+Deep thrombophlebitis	phenotype	
+Leukopenia	phenotype	
+Stomatitis	phenotype	
+Choroidal Neovascularization	phenotype	
+T-cell lymphoma	phenotype	
+Macrocytic anemia	phenotype	
+Cervical intraepithelial neoplasia grade 2	phenotype	
+Iron deficiency anemia	phenotype	
+Meningeal Neoplasms	phenotype	
+Cardiac defects	phenotype	
+Cleft palate with cleft lip	phenotype	
+Brain Tumor, Primary	phenotype	
+Spina bifida occulta	phenotype	
+Abnormality of vitamin metabolism	phenotype	
+Ischemic Cerebrovascular Accident	phenotype	
+Cleft Lip	phenotype	
+Esophagitis	phenotype	
+Ventricular septal defect 2	phenotype	
+Omphalocele	phenotype	
+Psychoses, Substance-Induced	phenotype	
+Incoordination	phenotype	
+Leukemia, Lymphocytic, Acute, L1	phenotype	
+Lymphoma, Follicular	phenotype	
+Ischemic stroke	phenotype	
+Female infertility	phenotype	
+Brain Ischemia	phenotype	
+Malignant Childhood Neoplasm	phenotype	
+Migraine with aura	phenotype	
+Brain Infarction	phenotype	

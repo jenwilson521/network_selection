@@ -1,0 +1,4 @@
+node_name	node_type	
+DB01205	drug	
+GABRG2	drug_target	
+GABRA1	drug_target	

@@ -1,0 +1,4 @@
+rank	phenotype	cui	assoc in neigh	assoc in intom	probability	Benjamini-Hochberg	genes	
+28	Polyglandular Type I Autoimmune Syndrome	C0085859	1	25	0.00010757121721716167	0.000122270742358	CYP1A2
+29	Pleural Neoplasms	C0032229	1	26	0.0001164935653293897	0.000126637554585	CYP1A2
+30	Bulimia	C0006370	1	27	0.00012576789146379053	0.000131004366812	HTR1B

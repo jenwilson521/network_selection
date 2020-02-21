@@ -1,0 +1,189 @@
+Gene	CUI	Source Databases	
+CLCN6	C0018772	Hearing Loss, Partial	DisGeNet	
+MTHFR	C0018772	Hearing Loss, Partial	DisGeNet	
+MTHFR	C0002949	Arterial dissection	DisGeNet	
+MTHFR	C0011609	Drug Eruptions	DisGeNet	
+MTHFR	C0024620	Primary malignant neoplasm of liver	DisGeNet	
+MTHFR	C4021660	Abnormality of sulfur amino acid metabolism	HumPhenOnt	
+MTHFR	C0017606	Primary angle-closure glaucoma	DisGeNet	
+MTHFR	C0032229	Pleural Neoplasms	DisGeNet	
+MTHFR	C0034372	Tetraplegia	DisGeNet	
+MTHFR	C0154409	Recurrent major depressive episodes	DisGeNet	
+MTHFR	C0162869	Aneurysm, Ruptured	DisGeNet	
+MTHFR	C0311370	Lupus anticoagulant disorder	DisGeNet	
+MTHFR	C1861171	Thrombophilia due to activated protein C resistance	DisGeNet	
+MTHFR	C0007868	Cervical dysplasia	DisGeNet	
+MTHFR	C0031485	Phenylketonuria	DisGeNet	
+MTHFR	C0019880	Homocystinuria due to CBS deficiency	DisGeNet,HumPhenOnt	
+MTHFR	C0035328	Thrombosis of retinal vein	DisGeNet	
+MTHFR	C0040156	Thyrotoxicosis	DisGeNet	
+MTHFR	C0014836	Recurrent E. coli infections	DisGeNet	
+MTHFR	C0015814	Femur Head Necrosis	DisGeNet	
+MTHFR	C0155668	Old myocardial infarction	DisGeNet	
+MTHFR	C0339467	Proliferative retinopathy	DisGeNet	
+MTHFR	C1962972	Proteinuria Adverse Event	DisGeNet	
+MTHFR	C0002888	Megaloblastic anemia, thiamine-responsive, with diabetes mellitus and sensorineural deafness	DisGeNet	
+MTHFR	C0242666	Protein S deficiency	DisGeNet	
+MTHFR	C0021775	Intermittent claudication	DisGeNet	
+MTHFR	C0272375	Antithrombin III deficiency	DisGeNet	
+MTHFR	C1838244	Distal myopathy Markesbery-Griggs type	DisGeNet	
+MTHFR	C0034040	Puerperal Disorders	DisGeNet	
+MTHFR	C0268138	Xeroderma Pigmentosum, Complementation Group D	DisGeNet	
+MTHFR	C0398625	Reduced protein C activity	DisGeNet	
+MTHFR	C0678234	Stenosis	DisGeNet	
+MTHFR	C0729353	Subfertility	DisGeNet	
+MTHFR	C0524528	Pervasive developmental disorders	DisGeNet	
+MTHFR	C0007867	Cervix Diseases	DisGeNet	
+MTHFR	C0042485	Venous insufficiency	DisGeNet	
+MTHFR	C0035457	Rhinitis, Allergic, Perennial	DisGeNet	
+MTHFR	C0600433	Resistance to activated protein C	DisGeNet	
+CLCN6	C0751383	Juvenile neuronal ceroid lipofuscinosis	DisGeNet	
+MTHFR	C0854467	Myelosuppression	DisGeNet	
+MTHFR	C0152096	Complete trisomy 18 syndrome	DisGeNet	
+MTHFR	C2939465	Deficiency of glucose-6-phosphate dehydrogenase	DisGeNet	
+MTHFR	C0016412	Folic Acid Deficiency	DisGeNet	
+MTHFR	C0037354	Smallpox	DisGeNet	
+MTHFR	C0919532	Genomic Instability	DisGeNet	
+CLCN6	C0011053	Deafness, autosomal recessive 44	DisGeNet	
+MTHFR	C0011053	Deafness, autosomal recessive 44	DisGeNet	
+MTHFR	C0001956	alcohol use disorder	DisGeNet	
+MTHFR	C0027719	Nephrosclerosis	DisGeNet	
+MTHFR	C0032969	Pregnancy in Diabetics	DisGeNet	
+MTHFR	C0037928	Chronic myelopathy	DisGeNet	
+MTHFR	C0085083	Ovarian hyperstimulation syndrome	DisGeNet	
+MTHFR	C0745744	End Stage Liver Disease	DisGeNet	
+MTHFR	C0852036	Pregnancy associated hypertension	DisGeNet	
+MTHFR	C0034155	Purpura, Thrombotic Thrombocytopenic	DisGeNet	
+MTHFR	C0155765	Cerebroretinal microangiopathy with calcifications and cysts 1	DisGeNet	
+MTHFR	C1333762	Gastric Cardia Adenocarcinoma	DisGeNet	
+MTHFR	C0206368	Exfoliation Syndrome	DisGeNet	
+MTHFR	C0235032	Neurotoxicity Syndromes	DisGeNet	
+MTHFR	C0003838	Arterial Occlusive Diseases	DisGeNet	
+MTHFR	C0003855	Arteriovenous fistula	DisGeNet	
+MTHFR	C0040015	Glanzmann thrombasthenia	DisGeNet	
+MTHFR	C0403592	Chronic rejection of renal transplant	DisGeNet	
+MTHFR	C0751587	CADASIL	DisGeNet	
+MTHFR	C3662483	Allergic sensitization	DisGeNet	
+MTHFR	C0152101	Hypoplastic left heart syndrome	DisGeNet	
+MTHFR	C0005818	Platelet-type bleeding disorder 15	DisGeNet	
+MTHFR	C0314719	Dryness of eye	DisGeNet	
+MTHFR	C0340708	Deep vein thrombosis of lower limb	DisGeNet	
+MTHFR	C0016663	Pathologic fracture	DisGeNet	
+MTHFR	C0025312	Myelomeningocele	DisGeNet	
+MTHFR	C0028840	Ocular Hypertension	DisGeNet	
+MTHFR	C0079748	Precursor cell lymphoblastic lymphoma	DisGeNet	
+MTHFR	C0151950	Deep thrombophlebitis	DisGeNet	
+MTHFR	C0280803	Primary central nervous system lymphoma	DisGeNet	
+MTHFR	C0349458	Cervical intraepithelial neoplasia grade 1	DisGeNet	
+MTHFR	C1704321	Nephrotic Syndrome, Minimal Change	DisGeNet	
+MTHFR	C0029445	Bone necrosis	DisGeNet	
+MTHFR	C0040021	Thromboangiitis Obliterans	DisGeNet	
+MTHFR	C0042341	Varicocele	DisGeNet	
+MTHFR	C0162739	HELLP Syndrome	DisGeNet	
+MTHFR	C0005956	Myelopathy	DisGeNet	
+MTHFR	C0013238	Dry Eye Syndromes	DisGeNet	
+MTHFR	C0039263	Takayasu Arteritis	DisGeNet	
+MTHFR	C0741923	cardiac event	DisGeNet	
+MTHFR	C0037054	Sickle Cell Trait	DisGeNet	
+MTHFR	C0038362	Stomatitis	DisGeNet	
+MTHFR	C0085166	Bacterial Vaginosis	DisGeNet	
+MTHFR	C0600518	Choroidal Neovascularization	DisGeNet	
+MTHFR	C1847540	Spermatogenic failure 3	DisGeNet	
+MTHFR	C0008533	Hereditary factor IX deficiency disease	DisGeNet	
+MTHFR	C0016053	Fibromyalgia	DisGeNet	
+CLCN6	C0027877	Neuronal ceroid lipofuscinosis	DisGeNet	
+MTHFR	C0042755	Virilism	DisGeNet	
+MTHFR	C0026654	Moyamoya Disease	DisGeNet	
+MTHFR	C0042974	Von Willebrand disease, recessive form	DisGeNet	
+MTHFR	C0349459	Cervical intraepithelial neoplasia grade 2	DisGeNet	
+MTHFR	C0684275	Hemophilia, NOS	DisGeNet	
+MTHFR	C0948480	Coronary Restenosis	DisGeNet	
+MTHFR	C0950124	Papillomavirus Infections	DisGeNet	
+MTHFR	C0085435	Arthritis, Reactive	DisGeNet	
+MTHFR	C0162316	Iron deficiency anemia	DisGeNet	
+MTHFR	C0086445	Idiopathic Membranous Glomerulonephritis	DisGeNet	
+MTHFR	C0235653	Malignant neoplasm of female breast	DisGeNet	
+MTHFR	C0025284	Meningeal Neoplasms	DisGeNet	
+MTHFR	C0033054	Prenatal Exposure Delayed Effects	DisGeNet	
+MTHFR	C0333873	Squamous intraepithelial lesion	DisGeNet	
+MTHFR	C0741916	Cardiac defects	DisGeNet	
+MTHFR	C0007104	Female Breast Carcinoma	DisGeNet	
+CLCN6	C0014547	Epilepsy, focal, with speech disorder and with or without mental retardation	DisGeNet	
+MTHFR	C0027497	Nausea	DisGeNet	
+MTHFR	C0152136	Low Tension Glaucoma	DisGeNet	
+MTHFR	C0158646	Cleft palate with cleft lip	DisGeNet	
+MTHFR	C0750974	Brain Tumor, Primary	DisGeNet	
+MTHFR	C0002902	Anencephaly	DisGeNet,HumPhenOnt	
+MTHFR	C0003492	Coarctation of aorta	DisGeNet	
+MTHFR	C0008628	Chromosome Xq28 deletion syndrome	DisGeNet	
+MTHFR	C0024796	Marfan syndrome	DisGeNet	
+MTHFR	C0080174	Spina bifida occulta	DisGeNet	
+MTHFR	C3714636	Pneumonitis	DisGeNet	
+MTHFR	C0027540	Necrosis	DisGeNet	
+MTHFR	C0086981	Sicca Syndrome	DisGeNet	
+MTHFR	C0584960	Factor V Leiden mutation	DisGeNet	
+MTHFR	C0005426	Biliary tract neoplasm	DisGeNet	
+MTHFR	C0034152	Henoch-Schoenlein Purpura	DisGeNet	
+MTHFR	C0036983	 {Septic shock, susceptibility to} (3)	DisGeNet	
+MTHFR	C0041755	Adverse drug events and drug allergies	DisGeNet	
+MTHFR	C1457887	CNS symptom	DisGeNet	
+MTHFR	C0002875	Cooley's anemia	DisGeNet	
+MTHFR	C1334177	Infiltrating Cervical Carcinoma	DisGeNet	
+MTHFR	C0014591	Epistaxis	DisGeNet	
+MTHFR	C1332977	Childhood Leukemia	DisGeNet	
+MTHFR	C0796369	Microsatellite Instability	DisGeNet	
+MTHFR	C0016034	Breast Fibrocystic Disease	DisGeNet	
+MTHFR	C0031347	Pharyngeal Neoplasms	DisGeNet	
+MTHFR	C0270736	Essential tremor	DisGeNet	
+MTHFR	C0795690	Omphalocele	DisGeNet	
+MTHFR	C0917796	Leber's optic atrophy	DisGeNet	
+MTHFR	C0019061	Hemolytic uremic syndrome	DisGeNet	
+MTHFR	C0162635	Angelman syndrome-like	DisGeNet	
+MTHFR	C0033941	Psychoses, Substance-Induced	DisGeNet	
+MTHFR	C0752308	Hypoxia-Ischemia, Brain	DisGeNet	
+MTHFR	C0520966	Incoordination	HumPhenOnt	
+MTHFR	C0034089	Pulmonic stenosis	DisGeNet	
+MTHFR	C0730345	Microalbuminuria	DisGeNet	
+MTHFR	C0085278	Primary antiphospholipid syndrome	DisGeNet	
+MTHFR	C0162770	Right ventricular hypertrophy	DisGeNet	
+MTHFR	C0278484	Malignant neoplasm of colon stage IV	DisGeNet	
+MTHFR	C0740394	Hyperuricemia, pulmonary hypertension, renal failure, and alkalosis	DisGeNet	
+MTHFR	C0311375	Arsenic Poisoning	DisGeNet	
+MTHFR	C0338480	Common Migraine	DisGeNet	
+MTHFR	C0017205	Gaucher Disease	DisGeNet	
+MTHFR	C0242488	Acute Lung Injury	DisGeNet	
+MTHFR	C0021361	Female infertility	DisGeNet	
+MTHFR	C0041948	Uremia	DisGeNet	
+MTHFR	C0206677	Adenomatous Polyps	DisGeNet	
+MTHFR	C0007820	 Cerebrovascular disease, occlusive (3)	DisGeNet	
+MTHFR	C0019080	Bleeding with minor or no trauma	DisGeNet	
+MTHFR	C3495426	Homocysteinemia due to MTHFR deficiency	ClinVar,DisGeNet	
+MTHFR	C3495801	Granulomatosis with Polyangiitis	DisGeNet	
+MTHFR	C0032787	Postoperative Complications	DisGeNet	
+MTHFR	C0342257	Complications of Diabetes Mellitus	DisGeNet	
+MTHFR	C0013720	Ehlers-Danlos syndrome, type vii, autosomal recessive	DisGeNet	
+MTHFR	C0154723	Migraine with aura	DisGeNet	
+MTHFR	C0751955	Brain Infarction	DisGeNet	
+MTHFR	C0000809	Recurrent abortion	DisGeNet	
+MTHFR	C0013182	Drug Allergy	DisGeNet	
+MTHFR	C0038587	Substance Withdrawal Syndrome	DisGeNet	
+MTHFR	C1559154	Rash and Dermatitis Adverse Event Associated with Chemoradiation	DisGeNet	
+MTHFR	C0008625	Chromosome Aberrations	DisGeNet	
+MTHFR	C0032461	Polycythemia	DisGeNet	
+MTHFR	C0156543	Pregnancy loss	DisGeNet	
+MTHFR	C0242231	Coronary artery stenosis	DisGeNet	
+MTHFR	C0011269	Dementia, Vascular	DisGeNet	
+MTHFR	C0011303	Demyelinating Diseases	DisGeNet	
+MTHFR	C0017178	Gastrointestinal Diseases	DisGeNet	
+MTHFR	C0017665	Membranous nephropathy, susceptibility to	DisGeNet	
+MTHFR	C0027439	Nasopharyngeal Neoplasms	DisGeNet	
+MTHFR	C0002312	Alpha thalassemia-mental retardation syndrome	DisGeNet	
+MTHFR	C0152021	Congenital heart disease	DisGeNet	
+MTHFR	C0043144	Wheezing	DisGeNet	
+MTHFR	C0011875	Diabetic Angiopathies	DisGeNet	
+CLCN6	C0009952	Febrile seizures, familial, 4	DisGeNet	
+MTHFR	C0011882	Type 1 diabetic neuropathy	DisGeNet	
+MTHFR	C0151546	Oral Cavity Carcinoma	DisGeNet	
+MTHFR	C0852949	Cerebral autosomal recessive arteriopathy with subcortical infarcts and leukoencephalopathy	DisGeNet	
+MTHFR	C0005967	Bone neoplasms	DisGeNet	
+MTHFR	C0012860	DNA Damage	DisGeNet	

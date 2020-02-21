@@ -1,0 +1,28 @@
+node_name	node_type	
+DB00201	drug	
+CYP2C9	drug_target	
+CYP2C8	drug_target	
+CYP1A2	drug_target	
+CYP1B1	drug_target	
+CYP2D6	drug_target	
+CYP1A1	drug_target	
+ADORA1	drug_target	
+PIK3CA	drug_target	
+PIK3CB	drug_target	
+ATM	drug_target	
+PIK3CD	drug_target	
+CYP2E1	drug_target	
+PRKDC	drug_target	
+RYR1	drug_target	
+ABCB1	drug_target	
+ADORA2A	drug_target	
+CYP3A4	drug_target	
+CYP3A5	drug_target	
+PDE4B	drug_target	
+Drug Allergy	phenotype	
+Adverse drug events and drug allergies	phenotype	
+Neoplasm of the larynx	phenotype	
+Pharyngeal Neoplasms	phenotype	
+Primary malignant neoplasm of liver	phenotype	
+Pleural Neoplasms	phenotype	
+Squamous Cell Neoplasms	phenotype	

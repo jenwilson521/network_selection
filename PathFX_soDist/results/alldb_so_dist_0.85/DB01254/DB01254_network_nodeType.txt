@@ -1,0 +1,40 @@
+node_name	node_type	
+DB01254	drug	
+PDGFRB	drug_target	
+SRC	drug_target	
+EPHA5	drug_target	
+HSPA8	drug_target	
+EPHA2	drug_target	
+MAPK14	drug_target	
+ABL1	drug_target	
+ABL2	drug_target	
+BCR	drug_target	
+CYP1B1	drug_target	
+EPHB4	drug_target	
+FYN	drug_target	
+FGR	drug_target	
+ABCB1	drug_target	
+YES1	drug_target	
+LYN	drug_target	
+FMO3	drug_target	
+CSK	drug_target	
+FRK	drug_target	
+NR4A3	drug_target	
+CYP1A2	drug_target	
+CYP3A4	drug_target	
+CYP3A5	drug_target	
+CYP1A1	drug_target	
+ABCG2	drug_target	
+KIT	drug_target	
+STAT5B	drug_target	
+PPAT	drug_target	
+LCK	drug_target	
+BTK	drug_target	
+Pleural Neoplasms	phenotype	
+Squamous Cell Neoplasms	phenotype	
+Genomic Instability	phenotype	
+Primary malignant neoplasm of liver	phenotype	
+Febrile Neutropenia	phenotype	
+Cocaine delirium	phenotype	
+Neurotoxicity Syndromes	phenotype	
+Chemical Carcinogenesis	phenotype	

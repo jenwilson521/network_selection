@@ -1,0 +1,6 @@
+node1	node2	edge_score	
+DB00871	ADRB1	1.0	
+DB00871	ADRB2	1.0	
+DB00871	ADRB3	1.0	
+DB00871	BCHE	1.0	
+

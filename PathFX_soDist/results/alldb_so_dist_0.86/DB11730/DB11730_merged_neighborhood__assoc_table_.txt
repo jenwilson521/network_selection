@@ -1,0 +1,2 @@
+rank	phenotype	cui	assoc in neigh	assoc in intom	probability	Benjamini-Hochberg	genes	
+12	gliosarcoma	C0206726	2	64	1.6787619851355018e-05	3.24324324324e-05	CDK4,CYP3A4

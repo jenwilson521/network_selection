@@ -1,0 +1,130 @@
+Gene	CUI	Source Databases	
+CACNA1C	C0023976	Acquired long QT syndrome	DisGeNet	
+KCNH2	C0023976	Acquired long QT syndrome	DisGeNet	
+KCNJ11	C0023976	Acquired long QT syndrome	DisGeNet	
+CACNA1C	C3827868	Tachycardia	HumPhenOnt	
+KCNH2	C3827868	Tachycardia	DisGeNet,HumPhenOnt	
+KCNJ11	C3827868	Tachycardia	HumPhenOnt	
+CACNA1C	C0151878	Prolonged QT interval	HumPhenOnt	
+KCNH2	C0151878	Prolonged QT interval	DisGeNet,HumPhenOnt	
+CACNA1C	C1141890	Congenital long QT syndrome	DisGeNet	
+KCNH2	C1141890	Congenital long QT syndrome	DisGeNet	
+CACNA1C	C0085298	Sudden cardiac death	DisGeNet,HumPhenOnt	
+KCNH2	C0085298	Sudden cardiac death	DisGeNet,HumPhenOnt	
+KCNJ11	C0085298	Sudden cardiac death	DisGeNet	
+CACNA1C	C0011071	Sudden death	HumPhenOnt	
+KCNH2	C0011071	Sudden death	DisGeNet	
+CACNA1C	C4025755	Primary atrial arrhythmia	HumPhenOnt	
+KCNH2	C4025755	Primary atrial arrhythmia	HumPhenOnt	
+CACNA1C	C0438215	Abnormal cardiac test	HumPhenOnt	
+KCNH2	C0438215	Abnormal cardiac test	HumPhenOnt	
+CACNA1C	C0428974	Supraventricular arrhythmia	HumPhenOnt	
+KCNH2	C0428974	Supraventricular arrhythmia	HumPhenOnt	
+CACNA1C	C1142166	Brugada Syndrome	ClinVar,DisGeNet	
+KCNH2	C1142166	Brugada Syndrome	DisGeNet	
+CACNA1C	C0522055	Abnormal EKG	HumPhenOnt	
+KCNH2	C0522055	Abnormal EKG	DisGeNet,HumPhenOnt	
+CACNA1C	C1720983	Channelopathies	DisGeNet	
+KCNH2	C1720983	Channelopathies	DisGeNet	
+CACNA1C	C0039240	Supraventricular tachycardia	HumPhenOnt	
+KCNH2	C0039240	Supraventricular tachycardia	HumPhenOnt	
+CACNA1C	C0039070	Syncope	HumPhenOnt	
+KCNH2	C0039070	Syncope	DisGeNet,HumPhenOnt	
+CACNA1C	C0085612	Ventricular arrhythmia	HumPhenOnt	
+KCNH2	C0085612	Ventricular arrhythmia	HumPhenOnt	
+CACNA1C	C1384514	Primary hyperaldosteronism	DisGeNet	
+KCNH2	C1384514	Primary hyperaldosteronism	DisGeNet	
+CACNA1C	C0003811	Arrhythmias, Cardiac	DisGeNet,HumPhenOnt	
+KCNH2	C0003811	Arrhythmias, Cardiac	DisGeNet,HumPhenOnt	
+KCNJ11	C0003811	Arrhythmias, Cardiac	HumPhenOnt	
+CACNA1C	C0018799	Heart Diseases	DisGeNet	
+KCNH2	C0018799	Heart Diseases	DisGeNet	
+KCNJ11	C0018799	Heart Diseases	DisGeNet	
+CACNA1C	C0004238	Atrial Fibrillation	HumPhenOnt	
+KCNH2	C0004238	Atrial Fibrillation	DisGeNet,HumPhenOnt	
+KCNJ11	C0011880	Diabetic ketoacidosis	DisGeNet	
+KCNJ11	C0020440	Hypercapnia	DisGeNet	
+KCNH2	C0035828	Romano-Ward syndrome	ClinVar,DisGeNet	
+CACNA1C	C0154409	Recurrent major depressive episodes	DisGeNet	
+KCNH2	C0339508	Hereditary macular dystrophy	DisGeNet	
+CACNA1C	C0349204	Cycloid psychosis	DisGeNet	
+KCNH2	C0349204	Cycloid psychosis	DisGeNet	
+KCNH2	C0030252	Palpitations	HumPhenOnt	
+KCNJ11	C1854838	Progressive neurologic deterioration	HumPhenOnt	
+KCNJ11	C4023047	Abnormality of endocrine pancreas physiology	HumPhenOnt	
+KCNH2	C0008525	Choroideremia	DisGeNet	
+KCNJ11	C1857949	Prominent metopic ridge	HumPhenOnt	
+KCNJ11	C4023038	Abnormality of circulating glucocorticoid level	HumPhenOnt	
+KCNJ11	C4023214	Abnormality of circulating cortisol level	HumPhenOnt	
+KCNJ11	C4023537	Abnormality of blood volume homeostasis	HumPhenOnt	
+KCNJ11	C0038238	Steatorrhea	HumPhenOnt	
+KCNJ11	C0554103	Fat malabsorption	HumPhenOnt	
+KCNJ11	C0854110	Insulin-resistant diabetes mellitus AND acanthosis nigricans	HumPhenOnt	
+CACNA1C	C0018790	Cardiac arrest	HumPhenOnt	
+KCNH2	C0018790	Cardiac arrest	DisGeNet,HumPhenOnt	
+KCNJ11	C0546884	Hypovolemia	HumPhenOnt	
+KCNJ11	C4025180	Abnormality of the metopic suture	HumPhenOnt	
+KCNH2	C0206685	Acinar Cell Carcinoma	DisGeNet	
+KCNH2	C0730290	RETINAL CONE DYSTROPHY 1	DisGeNet	
+KCNH2	C3536893	Ewing Sarcoma/Peripheral Primitive Neuroectodermal Tumor	DisGeNet	
+KCNH2	C0155626	Acute myocardial infarction	DisGeNet	
+KCNJ11	C0155626	Acute myocardial infarction	DisGeNet	
+KCNH2	C0152020	Gastroparesis	DisGeNet	
+KCNJ11	C0158981	Neonatal diabetes mellitus	ClinVar,DisGeNet	
+KCNH2	C0730292	Bull's eye macular dystrophy	DisGeNet	
+CACNA1C	C4023587	Abnormality of cardiovascular system physiology	HumPhenOnt	
+KCNH2	C4023587	Abnormality of cardiovascular system physiology	HumPhenOnt	
+KCNJ11	C4023587	Abnormality of cardiovascular system physiology	HumPhenOnt	
+KCNH2	C0019409	Heterogeneous	HumPhenOnt	
+KCNJ11	C0019409	Heterogeneous	HumPhenOnt	
+KCNJ11	C4021656	Abnormality of fatty-acid metabolism	HumPhenOnt	
+KCNH2	C0280280	Prostate cancer stage C	DisGeNet	
+KCNH2	C0677659	Gastro-esophageal reflux disease with esophagitis	DisGeNet	
+KCNH2	C1297882	Partial Trisomy	DisGeNet	
+KCNJ11	C4023596	Abnormality of urine glucose concentration	HumPhenOnt	
+KCNJ11	C0017979	Glycosuria	HumPhenOnt	
+CACNA1C	C0020615	Hypoglycemia, neonatal, simulating foetopathia diabetica	DisGeNet	
+KCNJ11	C0020615	Hypoglycemia, neonatal, simulating foetopathia diabetica	DisGeNet,HumPhenOnt	
+KCNH2	C4025244	Abnormal atrioventricular conduction	HumPhenOnt	
+KCNH2	C0741923	cardiac event	DisGeNet	
+KCNJ11	C4025690	Prenatal maternal abnormality	HumPhenOnt	
+KCNH2	C1260959	Drusen	DisGeNet	
+KCNH2	C0004245	Atrioventricular block	DisGeNet,HumPhenOnt	
+CACNA1C	C0024591	Malignant hyperthermia susceptibility	DisGeNet	
+KCNH2	C3839868	Cytogenetically normal acute myeloid leukemia	DisGeNet	
+KCNH2	C0086942	Rous Sarcoma	DisGeNet	
+KCNH2	C0042510	Ventricular fibrillation	DisGeNet,HumPhenOnt	
+KCNH2	C0153567	Uterine Cancer	DisGeNet	
+KCNJ11	C4023476	EEG with generalized epileptiform discharges	HumPhenOnt	
+CACNA1C	C0085580	Essential hypertension	DisGeNet	
+KCNH2	C0085580	Essential hypertension	DisGeNet	
+KCNH2	C0014869	Peptic Esophagitis	DisGeNet	
+KCNH2	C0428977	Bradycardia	HumPhenOnt	
+KCNH2	C0008628	Chromosome Xq28 deletion syndrome	DisGeNet	
+KCNJ11	C4022036	Abnormality of vitamin metabolism	HumPhenOnt	
+KCNH2	C0206634	Myxoid liposarcoma	DisGeNet	
+KCNJ11	C0022638	Ketoacidosis	HumPhenOnt	
+CACNA1C	C0432072	Dysmorphic features	DisGeNet	
+CACNA1C	C0033975	Psychotic Disorders	DisGeNet	
+KCNH2	C0033975	Psychotic Disorders	DisGeNet	
+KCNJ11	C4021759	Generalized myoclonic seizures	HumPhenOnt	
+KCNJ11	C0013819	EEG with irregular generalized spike and wave complexes	HumPhenOnt	
+KCNH2	C0920420	cancer recurrence	DisGeNet	
+KCNJ11	C4023049	Abnormality of pancreas morphology	HumPhenOnt	
+KCNJ11	C0151747	Renal tubular dysfunction	HumPhenOnt	
+KCNJ11	C1836189	Radial deviation of finger	HumPhenOnt	
+KCNH2	C0279980	Extraosseous Ewings sarcoma-primitive neuroepithelial tumor	DisGeNet	
+CACNA1C	C0041671	Attention Deficit Disorder	DisGeNet	
+CACNA1C	C1510472	Drug Dependence	DisGeNet	
+KCNH2	C0752166	Bardet-Biedl syndrome	DisGeNet	
+KCNJ11	C0575803	Radial deviation of the hand	HumPhenOnt	
+KCNJ11	C0730345	Microalbuminuria	HumPhenOnt	
+KCNJ11	C1263857	Peripheral axonal neuropathy	HumPhenOnt	
+CACNA1C	C0006277	Bronchitis	DisGeNet	
+KCNJ11	C0014548	Epilepsy, generalized, with febrile seizures plus, type 6 (2)	DisGeNet	
+CACNA1C	C0338480	Common Migraine	DisGeNet	
+KCNH2	C0349788	Arrhythmogenic right ventricular cardiomyopathy, type 11	DisGeNet	
+KCNH2	C0025268	Multiple Endocrine Neoplasia Type 2a	DisGeNet	
+CACNA1C	C0003469	Anxiety Disorders	DisGeNet	
+KCNJ11	C0003469	Anxiety Disorders	DisGeNet	
+KCNJ11	C0030232	Pallor	HumPhenOnt	

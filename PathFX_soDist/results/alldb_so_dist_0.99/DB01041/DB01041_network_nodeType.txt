@@ -1,0 +1,13 @@
+node_name	node_type	
+DB01041	drug	
+CYP2C9	drug_target	
+PTGS2	drug_target	
+PTGS1	drug_target	
+CYP1A1	drug_target	
+CYP2E1	drug_target	
+TNF	drug_target	
+CYP2C19	drug_target	
+NFKB1	drug_target	
+CYP3A5	drug_target	
+FGFR2	drug_target	
+CRBN	drug_target	

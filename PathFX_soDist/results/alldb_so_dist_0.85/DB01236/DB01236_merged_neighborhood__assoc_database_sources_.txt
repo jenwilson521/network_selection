@@ -1,0 +1,4 @@
+Gene	CUI	Source Databases	
+ALB	C0745744	End Stage Liver Disease	DisGeNet	
+CYP2B6	C0745744	End Stage Liver Disease	DisGeNet	
+CYP2E1	C0745744	End Stage Liver Disease	DisGeNet	

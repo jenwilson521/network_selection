@@ -1,0 +1,6 @@
+node_name	node_type	
+DB00117	drug	
+HARS	drug_target	
+HDC	drug_target	
+SLC16A10	drug_target	
+SLC38A3	drug_target	

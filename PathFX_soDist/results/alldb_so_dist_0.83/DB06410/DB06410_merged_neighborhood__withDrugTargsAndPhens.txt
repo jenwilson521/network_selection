@@ -1,0 +1,94 @@
+node1	node2	edge_score	
+DB06410	CYP27A1	1.0	
+DB06410	VDR	1.0	
+VDR	rs1540339	0.99
+VDR	rs4516035	0.99
+VDR	rs2239179	0.99
+VDR		1.0
+VDR	rs11568820	0.99
+VDR	rs1544410	0.99
+VDR	rs731236	0.99
+VDR	rs2228570	0.99
+Slow acetylator due to N-acetyltransferase enzyme variant	VDR	1.0	
+Epidermal cyst	VDR	1.0	
+Tibial bowing	VDR	1.0	
+Q Fever	VDR	1.0	
+Urolithiasis	VDR	1.0	
+Abnormal trabecular bone morphology	VDR	1.0	
+Periodontal Attachment Loss	VDR	1.0	
+Metaphyseal irregularity	VDR	1.0	
+Hypophosphatemic rickets	VDR	1.0	
+Metabolic Bone Disorder	VDR	1.0	
+Isolated growth hormone deficiency type 1B	VDR	1.0	
+Malaria, Vivax	VDR	1.0	
+Femoral bowing	VDR	1.0	
+Premature loss of teeth	VDR	1.0	
+Flat occiput	VDR	1.0	
+Osteoarthritis of distal interphalangeal joint	VDR	1.0	
+HTLV-I Infections	VDR	1.0	
+Osteomalacia	VDR	1.0	
+Alveolar Bone Loss	VDR	1.0	
+Salmonella infections	VDR	1.0	
+Osteoarthritis of the hand	VDR	1.0	
+Chronic myelopathy	VDR	1.0	
+Aggressive periodontitis, generalized	VDR	1.0	
+Abnormality of fibula morphology	VDR	1.0	
+Hypophosphatemia	VDR	1.0	
+Low back pain	VDR	1.0	
+Rickets	VDR	1.0	
+Abnormality of primary teeth	VDR	1.0	
+Displacement of intervertebral disc	VDR	1.0	
+Leprosy, Lepromatous	VDR	1.0	
+Vitamin D Deficiency	VDR	1.0	
+Pathologic fracture	VDR	1.0	
+Fabry disease	VDR	1.0	
+Bone necrosis	VDR	1.0	
+Abnormal epiphyseal ossification	VDR	1.0	
+Kidney Calculi	VDR	1.0	
+Bacterial Vaginosis	VDR	1.0	
+Difficulty walking	VDR	1.0	
+Exostoses	VDR	1.0	
+Osteitis Deformans	VDR	1.0	
+Coronary Restenosis	VDR	1.0	
+Abnormality of the ankles	VDR	1.0	
+Tibia, hypoplasia or aplasia of, with polydactyly	VDR	1.0	
+Arthritis, Reactive	VDR	1.0	
+Iron deficiency anemia	VDR	1.0	
+stage, non-small cell lung cancer	VDR	1.0	
+Hypocalcemia	VDR	1.0	
+Prenatal Exposure Delayed Effects	VDR	1.0	
+Abnormality of phosphate homeostasis	VDR	1.0	
+Elevated alkaline phosphatase	VDR	1.0	
+Primary hyperparathyroidism	VDR	1.0	
+Bone Diseases, Developmental	VDR	1.0	
+Hypoplasia of dental enamel	VDR	1.0	
+Abnormal cortical bone morphology	VDR	1.0	
+Abnormality of the abdominal musculature	VDR	1.0	
+Erythema nodosum	VDR	1.0	
+Bone pain	VDR	1.0	
+Abnormality of alkaline phosphatase activity	VDR	1.0	
+Hypoplasia of teeth	VDR	1.0	
+Abnormality of the parathyroid physiology	VDR	1.0	
+Tropical Spastic Paraparesis	VDR	1.0	
+Neoplasm of the parathyroid gland	VDR	1.0	
+Sarcoidosis, Pulmonary	VDR	1.0	
+Cooley's anemia	VDR	1.0	
+Osteoarthritis of hip	VDR	1.0	
+Microsatellite Instability	VDR	1.0	
+Trachoma	VDR	1.0	
+Abnormality of the parathyroid gland	VDR	1.0	
+Hypoparathyroidism	VDR	1.0	
+Hyperparathyroidism 4	VDR	1.0	
+Bronchiolitis	VDR	1.0	
+Mammographic breast density	VDR	1.0	
+Gaucher Disease	VDR	1.0	
+Uremia	VDR	1.0	
+Severe Dengue	VDR	1.0	
+Abnormal enzyme/coenzyme activity	VDR	1.0	
+Acute monocytic leukemia	VDR	1.0	
+Hypercalciuria	VDR	1.0	
+Osteolysis	VDR	1.0	
+Abnormal shape of the occiput	VDR	1.0	
+Abdominal distention	VDR	1.0	
+Abnormal concentration of calcium in blood	VDR	1.0	
+Premature aging syndrome	VDR	1.0	

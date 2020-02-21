@@ -1,0 +1,8 @@
+Gene	CUI	Source Databases	
+SLC15A2	C0010674	Cystic Fibrosis	DisGeNet	
+SLC15A2	C0011053	Deafness, autosomal recessive 44	DisGeNet	
+SLC15A2	C0018772	Hearing Loss, Partial	DisGeNet	
+SLC15A2	C0020503	Secondary hyperparathyroidism	DisGeNet	
+SLC15A2	C0025202	Melanoma	DisGeNet	
+SLC15A2	C0026769	Multiple Sclerosis	DisGeNet	
+SLC15A2	C1384666	Hearing impairment	DisGeNet	

@@ -1,0 +1,42 @@
+node_name	node_type	
+DB00851	drug	
+CYP1A1	drug_target	
+CYP1A2	drug_target	
+PGD	drug_target	
+CYP2E1	drug_target	
+POLA2	drug_target	
+Pleural Neoplasms	phenotype	
+Genomic Instability	phenotype	
+Drug Eruptions	phenotype	
+Neoplasms, Multiple Primary	phenotype	
+Malignant neoplasm of pharynx	phenotype	
+Lung Injury	phenotype	
+Liver Cirrhosis, Alcoholic	phenotype	
+Squamous Cell Neoplasms	phenotype	
+Neoplasm of the larynx	phenotype	
+Pancreatitis, Alcoholic	phenotype	
+Liver Neoplasms, Experimental	phenotype	
+Chemical Carcinogenesis	phenotype	
+Chronic liver disease	phenotype	
+Leukoplakia	phenotype	
+Prenatal Exposure Delayed Effects	phenotype	
+Respiratory Tract Diseases	phenotype	
+Adverse drug events and drug allergies	phenotype	
+Colonic Polyps	phenotype	
+Childhood Leukemia	phenotype	
+Squamous cell carcinoma of lung	phenotype	
+Pharyngeal Neoplasms	phenotype	
+Colorectal polyposis	phenotype	
+Neurodegeneration with brain iron accumulation 4	phenotype	
+Occupational Diseases	phenotype	
+Bronchitis	phenotype	
+Mammographic breast density	phenotype	
+Oral leukoplakia	phenotype	
+Neoplasm of the oral cavity	phenotype	
+Chromosome Aberrations	phenotype	
+DNA Damage	phenotype	
+Adenoma of large intestine	phenotype	
+Testicular Germ Cell Tumor	phenotype	
+Rectal Carcinoma	phenotype	
+Carcinoma, Small Cell	phenotype	
+Helicobacter pylori infection	phenotype	

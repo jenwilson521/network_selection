@@ -1,0 +1,16 @@
+node_name	node_type	
+DB00916	drug	
+CYP2C9	drug_target	
+CYP2C8	drug_target	
+CYP3A4	drug_target	
+UGT1A1	drug_target	
+CYP51A1	drug_target	
+Hepatitis D Infection	phenotype	
+Drug Allergy	phenotype	
+Hyperbilirubinemia	phenotype	
+Febrile Neutropenia	phenotype	
+Cholelithiasis	phenotype	
+Anemia, Sickle Cell	phenotype	
+Hearing Loss, Partial	phenotype	
+Leukopenia	phenotype	
+Neutropenia	phenotype	

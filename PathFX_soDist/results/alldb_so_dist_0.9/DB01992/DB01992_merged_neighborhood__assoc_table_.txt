@@ -1,0 +1,4 @@
+rank	phenotype	cui	assoc in neigh	assoc in intom	probability	Benjamini-Hochberg	genes	
+6	Neuritis	C0027813	1	50	8.799309951934564e-05	0.000101694915254	HMGCR
+7	Lymphangiomyomatosis	C0751674	1	58	0.00011860543713182459	0.000118644067797	HMGCR
+8	Wilson disease	C0019202	1	60	0.00012696520353328022	0.000135593220339	HMGCR

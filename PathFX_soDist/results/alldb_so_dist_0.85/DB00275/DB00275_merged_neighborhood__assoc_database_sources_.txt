@@ -1,0 +1,14 @@
+Gene	CUI	Source Databases	
+ABCC2	C0041755	Adverse drug events and drug allergies	DisGeNet	
+ALB	C0041755	Adverse drug events and drug allergies	DisGeNet	
+SLCO1B1	C0041755	Adverse drug events and drug allergies	DisGeNet	
+AGTR1	C0014867	Esophageal varix	DisGeNet	
+ALB	C0014867	Esophageal varix	DisGeNet	
+ABCC2	C0017178	Gastrointestinal Diseases	DisGeNet	
+AGTR1	C0017178	Gastrointestinal Diseases	DisGeNet	
+SLCO1B1	C0017178	Gastrointestinal Diseases	DisGeNet	
+AGTR1	C0339467	Proliferative retinopathy	DisGeNet	
+ALB	C0339467	Proliferative retinopathy	DisGeNet	
+ABCC2	C0020433	Hyperbilirubinemia	DisGeNet,HumPhenOnt	
+SLCO1B1	C0020433	Hyperbilirubinemia	DisGeNet,HumPhenOnt	
+SLCO1B3	C0020433	Hyperbilirubinemia	DisGeNet,HumPhenOnt	

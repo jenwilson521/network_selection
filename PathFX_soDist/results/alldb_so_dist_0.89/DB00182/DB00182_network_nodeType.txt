@@ -1,0 +1,57 @@
+node_name	node_type	
+DB00182	drug	
+SLC6A3	drug_target	
+SLC6A2	drug_target	
+CYP2D6	drug_target	
+SLC6A4	drug_target	
+DRD2	drug_target	
+SLC22A5	drug_target	
+CYP2A6	drug_target	
+SLC22A3	drug_target	
+CARTPT	drug_target	
+SLC18A2	drug_target	
+MAOB	drug_target	
+As If Personality	phenotype	
+Heroin Dependence	phenotype	
+Behavior Disorders	phenotype	
+Methamphetamine abuse	phenotype	
+Antisocial Personality Disorder	phenotype	
+Osteochondritis dissecans	phenotype	
+Personality disorder	phenotype	
+Antisocial/borderline personality disorder	phenotype	
+Substance addiction and disorders	phenotype	
+Obsessive-compulsive disorder	phenotype	
+Prenatal Exposure Delayed Effects	phenotype	
+Cocaine Dependence	phenotype	
+Bulimia	phenotype	
+Generalized anxiety disorder	phenotype	
+Tardive Dyskinesia	phenotype	
+Bipolar I disorder	phenotype	
+Substance Use Disorders	phenotype	
+Alcohol withdrawal syndrome	phenotype	
+Psychoses, Substance-Induced	phenotype	
+Drug Dependence	phenotype	
+Nicotine Dependence	phenotype	
+Substance-Related Disorders	phenotype	
+NEUROTICISM	phenotype	
+ {Nicotine dependence, protection against}, 188890 (3)	phenotype	
+Orofacial dyskinesia	phenotype	
+Chronic schizophrenia	phenotype	
+Eating disorder	phenotype	
+alcohol use disorder	phenotype	
+Bulimia nervosa 1	phenotype	
+Opiate Addiction	phenotype	
+Amphetamine-Related Disorders	phenotype	
+Substance abuse problem	phenotype	
+Drug usage	phenotype	
+Conduct Disorder	phenotype	
+Alcohol abuse	phenotype	
+Marijuana Abuse	phenotype	
+Dyskinesia, seizures, and intellectual developmental disorder	phenotype	
+Nausea	phenotype	
+Neoplasm of the larynx	phenotype	
+Memory Disorders	phenotype	
+Anorexia nervosa 1	phenotype	
+CNS symptom	phenotype	
+CNS disorder	phenotype	
+Cognition Disorders	phenotype	

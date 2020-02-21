@@ -1,0 +1,5 @@
+node_name	node_type	
+DB09401	drug	
+BCL2L1	drug_target	
+MCL1	drug_target	
+BCL2	drug_target	

@@ -1,0 +1,104 @@
+Gene	CUI	Source Databases	
+ACE	C1842937	Aural atresia, congenital	DisGeNet	
+BCHE	C1842937	Aural atresia, congenital	DisGeNet	
+ACE	C0002622	Memory Loss	DisGeNet	
+BCHE	C0002622	Memory Loss	DisGeNet	
+ACE	C0009241	Cognition Disorders	DisGeNet	
+BCHE	C0009241	Cognition Disorders	DisGeNet	
+ACE	C0037315	Sleep apnea	DisGeNet	
+BCHE	C0037315	Sleep apnea	DisGeNet	
+ACE	C0032787	Postoperative Complications	DisGeNet	
+BCHE	C0032787	Postoperative Complications	DisGeNet	
+ACE	C0598608	Hereditary hyperhomocysteinemia	DisGeNet	
+BCHE	C0598608	Hereditary hyperhomocysteinemia	DisGeNet	
+ACE	C0020557	Hypertriglyceridemia	DisGeNet	
+BCHE	C0020557	Hypertriglyceridemia	DisGeNet	
+ACE	C0752347	Lewy Body Disease	DisGeNet	
+BCHE	C0752347	Lewy Body Disease	DisGeNet	
+ACE	C1270972	Mild cognitive impairment	DisGeNet	
+BCHE	C1270972	Mild cognitive impairment	DisGeNet	
+ACE	C3827868	Tachycardia	DisGeNet	
+BCHE	C3827868	Tachycardia	DisGeNet	
+ACE	C2911647	Weight Gain Adverse Event	DisGeNet	
+BCHE	C2911647	Weight Gain Adverse Event	DisGeNet	
+ACE	C0221052	Chronic berylliosis	DisGeNet	
+ACE	C0340100	High altitude pulmonary edema	DisGeNet	
+ACE	C0154409	Recurrent major depressive episodes	DisGeNet	
+ACE	C0162869	Aneurysm, Ruptured	DisGeNet	
+ACE	C1861171	Thrombophilia due to activated protein C resistance	DisGeNet	
+ACE	C0014867	Esophageal varix	DisGeNet	
+ACE	C0403396	Steroid-sensitive nephrotic syndrome	DisGeNet	
+ACE	C0598428	genetic hypertension	DisGeNet	
+ACE	C1301700	Cardiovascular morbidity	DisGeNet	
+ACE	C0001622	Adrenal Gland Hyperfunction	DisGeNet	
+ACE	C0029899	Otosclerosis	DisGeNet	
+ACE	C0035328	Thrombosis of retinal vein	DisGeNet	
+ACE	C0349530	Early gastric cancer	DisGeNet	
+ACE	C0010674	Cystic Fibrosis	DisGeNet	
+BCHE	C0010674	Cystic Fibrosis	DisGeNet	
+SLC15A2	C0010674	Cystic Fibrosis	DisGeNet	
+ACE	C0003493	Aortic Diseases	DisGeNet	
+ACE	C0014836	Recurrent E. coli infections	DisGeNet	
+ACE	C0015814	Femur Head Necrosis	DisGeNet	
+ACE	C0040715	Chromosomal translocation	DisGeNet	
+ACE	C0155668	Old myocardial infarction	DisGeNet	
+ACE	C0155733	Aortic atherosclerosis	DisGeNet	
+ACE	C0339467	Proliferative retinopathy	DisGeNet	
+ACE	C0520575	Acute pyelonephritis	DisGeNet	
+ACE	C1962972	Proteinuria Adverse Event	DisGeNet	
+ACE	C0267952	Pancreatic fibrosis	DisGeNet	
+ACE	C0428791	Aortic valve calcification	DisGeNet	
+ACE	C0021775	Intermittent claudication	DisGeNet	
+ACE	C0034040	Puerperal Disorders	DisGeNet	
+ACE	C0206061	Interstitial lung and liver disease	DisGeNet	
+ACE	C3693260	Abnormal urine output	HumPhenOnt	
+ACE	C0020503	Secondary hyperparathyroidism	DisGeNet	
+SLC15A2	C0020503	Secondary hyperparathyroidism	DisGeNet	
+ACE	C0020258	Normal pressure hydrocephalus	DisGeNet	
+ACE	C0035410	Rhabdomyolysis	DisGeNet	
+ACE	C0038160	Staphylococcal Infections	DisGeNet	
+ACE	C0340293	Anterior myocardial infarction	DisGeNet	
+BCHE	C0877008	Enzyme inhibition disorder	DisGeNet	
+ACE	C0010481	Cushing's syndrome	DisGeNet	
+ACE	C0020544	Renal hypertension	DisGeNet	
+ACE	C0035436	Rheumatic fever / chorea	DisGeNet	
+ACE	C0085159	Seasonal Affective Disorder	DisGeNet	
+ACE	C0340629	Aortic aneurysm without mention of rupture NOS	DisGeNet	
+ACE	C0546817	Hypervolemia	DisGeNet	
+ACE	C1527405	Erythrocytosis	DisGeNet	
+ACE	C3266102	Steroid-resistant nephrotic syndrome	DisGeNet	
+ACE	C0003431	Antisocial Personality Disorder	DisGeNet	
+ACE	C0035457	Rhinitis, Allergic, Perennial	DisGeNet	
+BCHE	C0220603	childhood brain tumor	DisGeNet	
+ACE	C0220726	Diastrophic dysplasia	DisGeNet	
+ACE	C0600433	Resistance to activated protein C	DisGeNet	
+ACE	C1567741	Alport syndrome	DisGeNet	
+ACE	C4023579	Abnormality of renal excretion	HumPhenOnt	
+BCHE	C0008728	Churg-Strauss Syndrome	DisGeNet	
+ACE	C0041582	Peptic Ulcer Hemorrhage	DisGeNet	
+ACE	C0221765	Chronic schizophrenia	DisGeNet	
+ACE	C0011071	Sudden death	DisGeNet	
+ACE	C0027721	Lipoid nephrosis	DisGeNet	
+ACE	C0030201	Acute postoperative pain	DisGeNet	
+ACE	C0206172	Diabetic foot ulcer	DisGeNet	
+ACE	C0694549	Community acquired pneumonia	DisGeNet	
+ACE	C0856742	Post MI	DisGeNet	
+ACE	C1306889	Peripheral artery occlusive disease	DisGeNet	
+ACE	C0017086	Gangrene	DisGeNet	
+ACE	C0027719	Nephrosclerosis	DisGeNet	
+ACE	C0852036	Pregnancy associated hypertension	DisGeNet	
+ACE	C0010072	Coronary Thrombosis	DisGeNet	
+ACE	C0155765	Cerebroretinal microangiopathy with calcifications and cysts 1	DisGeNet	
+ACE	C0268318	Cholestasis of pregnancy	DisGeNet	
+ACE	C0026896	Myasthenia Gravis	DisGeNet	
+BCHE	C0026896	Myasthenia Gravis	DisGeNet	
+ACE	C0206368	Exfoliation Syndrome	DisGeNet	
+BCHE	C0235032	Neurotoxicity Syndromes	DisGeNet	
+ACE	C0521173	Granulomatosis	DisGeNet	
+ACE	C0003838	Arterial Occlusive Diseases	DisGeNet	
+ACE	C0003855	Arteriovenous fistula	DisGeNet	
+ACE	C0024031	Low back pain	DisGeNet	
+ACE	C0403592	Chronic rejection of renal transplant	DisGeNet	
+ACE	C0020651	Hypotension, Orthostatic	DisGeNet	
+ACE	C0266294	Unilateral renal agenesis	DisGeNet	
+BCHE	C1135868	Gestational trophoblastic disease	DisGeNet	

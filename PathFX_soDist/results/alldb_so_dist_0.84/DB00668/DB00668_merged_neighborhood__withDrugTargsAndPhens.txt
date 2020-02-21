@@ -1,0 +1,218 @@
+node1	node2	edge_score	
+DB00668	CYP2C9	1.0	
+DB00668	ADRA1A	1.0	
+DB00668	ADRA1B	1.0	
+DB00668	ADRA1D	1.0	
+DB00668	COMT	1.0	
+DB00668	ADRA2B	1.0	
+DB00668	ADRA2A	1.0	
+DB00668	ADRB1	1.0	
+DB00668	ADRB2	1.0	
+DB00668	TNF	1.0	
+DB00668	SLC22A1	1.0	
+DB00668	SLC22A2	1.0	
+DB00668	CYP3A4	1.0	
+CYP2C9	CYP2C9*1, CYP2C9*59	0.99
+CYP2C9	rs72558187	0.99
+CYP3A4	rs2740574	0.99
+rs2740574	CYP3A	0.9801
+TNF	rs1799724	0.99
+CYP2C9	rs56165452	0.99
+rs2740574	CYP3A4	0.96059601
+CYP2C9		1.0
+CYP2C9	rs10509680	0.99
+CYP3A4	rs3735451	0.99
+CYP2C9	rs9332131	0.99
+COMT	rs6269	0.99
+CYP3A4		1.0
+CYP2C9	rs28371685	0.99
+TNF	rs1799964	0.99
+CYP2C9	rs4917639	0.99
+TNF		1.0
+CYP2C9	rs9332096	0.99
+rs4987161	CYP3A4	0.96059601
+COMT	rs4680	0.99
+ADRA1B		1.0
+CYP2C9	rs28371686	0.99
+CYP2C9	rs1799853	0.99
+SLC22A1	rs36056065	0.99
+CYP3A4	rs35599367	0.99
+CYP2C9	CYP2C9*1, CYP2C9*3	0.99
+COMT	rs9606186	0.99
+CYP2C9	rs1057910	0.99
+SLC22A1	rs628031	0.99
+SLC22A1	rs2282143	0.99
+ADRB2	rs1042718	0.99
+CYP2C9	rs4918758	0.99
+CYP3A4	CYP3A4*1, CYP3A4*4	0.99
+CYP2C9	rs7089580	0.99
+CYP3A4	rs4646440	0.99
+CYP2C9	CYP2C9*1, CYP2C9*13, CYP2C9*3	0.99
+CYP2C9	CYP2C9*1, CYP2C9*2, CYP2C9*3, CYP2C9*6	0.99
+SLC22A1	SLC22A1*1, SLC22A1*2, SLC22A1*3, SLC22A1*4, SLC22A1*5	0.99
+ADRB2		1.0
+SLC22A1	rs34130495	0.99
+SLC22A1	rs35167514	0.99
+SLC22A1	rs72552763	0.99
+CYP3A4	rs56324128	0.99
+CYP3A4	rs2242480	0.99
+ADRB2	rs1042714	0.99
+COMT	rs13306278	0.99
+CYP3A4	rs4646437	0.99
+CYP3A4	rs2246709	0.99
+ADRA1A		1.0
+rs12721627	CYP3A4	0.96059601
+CYP3A4	CYP3A4*1, CYP3A4*22	0.99
+SLC22A1	rs622342	0.99
+rs13306278	TXNRD2	0.9801
+SLC22A1	rs594709	0.99
+CYP2C9	rs12782374	0.99
+CYP3A4	rs28371759	0.99
+COMT	rs4818	0.99
+CYP2C9	CYP2C9*1, CYP2C9*11, CYP2C9*2, CYP2C9*3, CYP2C9*5, CYP2C9*6	0.99
+CYP3A	rs4987161	0.970299
+CYP2C9	CYP2C9*1, CYP2C9*3, CYP2C9*8	0.99
+SLC22A1	rs683369	0.99
+ADRA1B	complex:lAo9+jzjVOaRJSWZQvoh0G1mUDc	0.904977499353
+CYP3A4	rs12721627	0.99
+CYP3A4	CYP3A4*1, CYP3A4*1G	0.99
+CYP2C9	CYP2C9*1, CYP2C9*13, CYP2C9*2, CYP2C9*3	0.99
+TNF	rs1800629	0.99
+CYP2C9	CYP2C9*1, CYP2C9*2, CYP2C9*3	0.99
+CYP2C9	CYP2C9*1, CYP2C9*13, CYP2C9*3, CYP2C9*5, CYP2C9*6, CYP2C9*8	0.99
+COMT	rs4633	0.99
+COMT	rs4646316	0.99
+CYP3A	rs12721627	0.970299
+rs4987161	CYP3A	0.9801
+ADRB2	rs1042713	0.99
+rs12721627	CYP3A	0.9801
+CYP2C9	rs7900194	0.99
+ADRA2A		1.0
+CYP2C9	rs1934969	0.99
+SLC22A2		1.0
+COMT		1.0
+SLC22A1	rs12208357	0.99
+COMT	rs9332377	0.99
+CYP3A	rs2740574	0.970299
+ADRB1		1.0
+CYP2C9	rs9332239	0.99
+CYP3A4	rs4987161	0.99
+CYP3A4	rs4986910	0.99
+CYP3A4	CYP3A4*1, CYP3A4*20, CYP3A4*8	0.99
+SLC22A1		1.0
+SLC22A1	SLC22A1*1, SLC22A1*2, SLC22A1*3, SLC22A1*4, SLC22A1*5, SLC22A1*6	0.99
+TNF	rs361525	0.99
+COMT	rs165599	0.99
+CYP2C9	rs71486745	0.99
+CYP2C9	rs4086116	0.99
+ADRA2A	rs1800545	0.99
+Acute postoperative pain	ADRA1A	1.0	
+Acute postoperative pain	ADRB2	1.0	
+Acute postoperative pain	COMT	1.0	
+Acute postoperative pain	CYP3A4	1.0	
+Acute postoperative pain	TNF	1.0	
+Low Tension Glaucoma	ADRA1A	1.0	
+Low Tension Glaucoma	ADRA2A	1.0	
+Low Tension Glaucoma	ADRB1	1.0	
+Low Tension Glaucoma	ADRB2	1.0	
+Low Tension Glaucoma	TNF	1.0	
+Chronic schizophrenia	ADRA1A	1.0	
+Chronic schizophrenia	COMT	1.0	
+Chronic schizophrenia	CYP3A4	1.0	
+Chronic schizophrenia	TNF	1.0	
+Weight Loss Adverse Event	ADRA2A	1.0	
+Weight Loss Adverse Event	ADRB2	1.0	
+Weight Loss Adverse Event	COMT	1.0	
+Weight Loss Adverse Event	TNF	1.0	
+Fibromyalgia	ADRA1A	1.0	
+Fibromyalgia	ADRB2	1.0	
+Fibromyalgia	COMT	1.0	
+Fibromyalgia	TNF	1.0	
+Chronic sciatica	ADRA1A	1.0	
+Chronic sciatica	ADRA2A	1.0	
+Chronic sciatica	COMT	1.0	
+Stress, Psychological	ADRB1	1.0	
+Stress, Psychological	ADRB2	1.0	
+Stress, Psychological	COMT	1.0	
+Stress, Psychological	TNF	1.0	
+Pharyngeal Neoplasms	COMT	1.0	
+Pharyngeal Neoplasms	CYP2C9	1.0	
+Pharyngeal Neoplasms	CYP3A4	1.0	
+Pharyngeal Neoplasms	TNF	1.0	
+Occupational Diseases	ADRB1	1.0	
+Occupational Diseases	ADRB2	1.0	
+Occupational Diseases	COMT	1.0	
+Occupational Diseases	TNF	1.0	
+Depressive Symptoms	ADRB2	1.0	
+Depressive Symptoms	COMT	1.0	
+Depressive Symptoms	CYP3A4	1.0	
+Depressive Symptoms	TNF	1.0	
+Depressive Symptoms	TXNRD2	1.0	
+Acute kidney injury	ADRB2	1.0	
+Acute kidney injury	COMT	1.0	
+Acute kidney injury	CYP2C9	1.0	
+Acute kidney injury	CYP3A4	1.0	
+Acute kidney injury	SLC22A1	1.0	
+Acute kidney injury	SLC22A2	1.0	
+Acute kidney injury	TNF	1.0	
+Renal hypertension	ADRB2	1.0	
+Renal hypertension	CYP2C9	1.0	
+Renal hypertension	TNF	1.0	
+Nephrosclerosis	ADRA1A	1.0	
+Nephrosclerosis	ADRB1	1.0	
+Nephrosclerosis	ADRB2	1.0	
+Gastrointestinal Diseases	ADRA2A	1.0	
+Gastrointestinal Diseases	COMT	1.0	
+Gastrointestinal Diseases	CYP2C9	1.0	
+Gastrointestinal Diseases	TNF	1.0	
+Low back pain	ADRA1A	1.0	
+Low back pain	ADRA2A	1.0	
+Low back pain	COMT	1.0	
+Acute Coronary Syndrome	ADRA2A	1.0	
+Acute Coronary Syndrome	ADRB1	1.0	
+Acute Coronary Syndrome	ADRB2	1.0	
+Acute Coronary Syndrome	COMT	1.0	
+Acute Coronary Syndrome	CYP2C9	1.0	
+Acute Coronary Syndrome	CYP3A4	1.0	
+Acute Coronary Syndrome	TNF	1.0	
+Drug usage	ADRA2A	1.0	
+Drug usage	COMT	1.0	
+Drug usage	CYP2C9	1.0	
+Endotoxemia	ADRA2A	1.0	
+Endotoxemia	SLC22A1	1.0	
+Endotoxemia	SLC22A2	1.0	
+Endotoxemia	TNF	1.0	
+Obstructive sleep apnea	ADRA1B	1.0	
+Obstructive sleep apnea	ADRA2A	1.0	
+Obstructive sleep apnea	ADRB1	1.0	
+Obstructive sleep apnea	ADRB2	1.0	
+Obstructive sleep apnea	TNF	1.0	
+Prenatal Exposure Delayed Effects	ADRB2	1.0	
+Prenatal Exposure Delayed Effects	COMT	1.0	
+Prenatal Exposure Delayed Effects	TNF	1.0	
+Pain insensitivity	COMT	1.0	
+Pain insensitivity	CYP3A4	1.0	
+Pain insensitivity	TNF	1.0	
+Methamphetamine abuse	ADRA1A	1.0	
+Methamphetamine abuse	COMT	1.0	
+Methamphetamine abuse	CYP2C9	1.0	
+Methamphetamine abuse	TNF	1.0	
+Neoplasm of the larynx	COMT	1.0	
+Neoplasm of the larynx	CYP2C9	1.0	
+Neoplasm of the larynx	CYP3A4	1.0	
+Neoplasm of the larynx	TNF	1.0	
+Hyperalgesia	ADRA1A	1.0	
+Hyperalgesia	ADRA2A	1.0	
+Hyperalgesia	ADRB1	1.0	
+Hyperalgesia	COMT	1.0	
+Hyperalgesia	TNF	1.0	
+Nausea	COMT	1.0	
+Nausea	CYP2C9	1.0	
+Nausea	TNF	1.0	
+Memory Disorders	ADRA1A	1.0	
+Memory Disorders	COMT	1.0	
+Memory Disorders	TNF	1.0	
+Glaucoma, Open-Angle	ADRB1	1.0	
+Glaucoma, Open-Angle	ADRB2	1.0	
+Glaucoma, Open-Angle	TNF	1.0	
+Glaucoma, Open-Angle	TXNRD2	1.0	

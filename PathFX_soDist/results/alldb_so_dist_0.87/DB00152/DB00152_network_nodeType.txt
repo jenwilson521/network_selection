@@ -1,0 +1,10 @@
+node_name	node_type	
+DB00152	drug	
+SLC22A5	drug_target	
+SLC19A2	drug_target	
+CYP4B1	drug_target	
+SLC22A2	drug_target	
+SLC22A1	drug_target	
+Extrahepatic cholestasis	phenotype	
+Intrahepatic cholestasis	phenotype	
+Endotoxemia	phenotype	

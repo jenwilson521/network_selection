@@ -1,0 +1,3 @@
+Gene	CUI	Source Databases	
+CDK4	C0206726	gliosarcoma	DisGeNet	
+CYP3A4	C0206726	gliosarcoma	DisGeNet	

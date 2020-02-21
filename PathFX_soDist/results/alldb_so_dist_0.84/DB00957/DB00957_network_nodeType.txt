@@ -1,0 +1,26 @@
+node_name	node_type	
+DB00957	drug	
+CYP3A4	drug_target	
+AR	drug_target	
+PGR	drug_target	
+ABCC2	drug_target	
+ESR1	drug_target	
+Drug Allergy	phenotype	
+Chromosome 11p deletion syndrome	phenotype	
+Invasive Lobular Breast Carcinoma	phenotype	
+Cholestasis of pregnancy	phenotype	
+21-hydroxylase deficiency	phenotype	
+Abnormal circulating gonadotropin level	phenotype	
+Depressive Symptoms	phenotype	
+Malignant neoplasm of male breast	phenotype	
+Bone necrosis	phenotype	
+Adolescent idiopathic scoliosis	phenotype	
+Aplasia/hypoplasia of the uterus	phenotype	
+Phyllodes tumor, benign	phenotype	
+Malignant neoplasm of female breast	phenotype	
+Lehman syndrome	phenotype	
+Female Breast Carcinoma	phenotype	
+Endometrial Hyperplasia	phenotype	
+Nerve Sheath Tumors	phenotype	
+Carcinoma of Male Breast	phenotype	
+Penile hypospadias	phenotype	

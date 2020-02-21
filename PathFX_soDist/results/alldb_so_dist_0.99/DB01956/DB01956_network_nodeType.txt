@@ -1,0 +1,8 @@
+node_name	node_type	
+DB01956	drug	
+SLC6A6	drug_target	
+GLRA2	drug_target	
+GLRA1	drug_target	
+BAAT	drug_target	
+GRIN2B	drug_target	
+GABBR1	drug_target	

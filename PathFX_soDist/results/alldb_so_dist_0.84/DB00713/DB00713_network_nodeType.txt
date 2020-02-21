@@ -1,0 +1,10 @@
+node_name	node_type	
+DB00713	drug	
+SLC15A2	drug_target	
+Cystic Fibrosis	phenotype	
+Deafness, autosomal recessive 44	phenotype	
+Hearing Loss, Partial	phenotype	
+Secondary hyperparathyroidism	phenotype	
+Melanoma	phenotype	
+Multiple Sclerosis	phenotype	
+Hearing impairment	phenotype	

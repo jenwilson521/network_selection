@@ -1,0 +1,244 @@
+node_name	node_type	
+DB01119	drug	
+KCNJ11	drug_target	
+SLC12A3	drug_target	
+CA2	drug_target	
+CA1	drug_target	
+KCNMA1	drug_target	
+GLUL	drug_target	
+ATP1A1	drug_target	
+Diabetes Mellitus, Type 1	phenotype	
+Epilepsy	phenotype	
+Hypertension	phenotype	
+Seizures, Febrile	phenotype	
+Abnormality of the nervous system	phenotype	
+Abnormality of nervous system physiology	phenotype	
+EEG with generalized epileptiform discharges	phenotype	
+EEG with irregular generalized spike and wave complexes	phenotype	
+Renal tubular dysfunction	phenotype	
+Primary hyperaldosteronism	phenotype	
+Epilepsy, generalized, with febrile seizures plus, type 6 (2)	phenotype	
+Generalized tonic-clonic seizures	phenotype	
+Lethargy	phenotype	
+Generalized seizures	phenotype	
+Vomiting	phenotype	
+EEG abnormality	phenotype	
+Abnormality of central nervous system electrophysiology	phenotype	
+Abnormality of acid-base homeostasis	phenotype	
+Abnormal nervous system electrophysiology	phenotype	
+Essential hypertension	phenotype	
+Diabetic ketoacidosis	phenotype	
+Hypercapnia	phenotype	
+Familial hypokalemia-hypomagnesemia	phenotype	
+Treacher Collins syndrome	phenotype	
+Progressive neurologic deterioration	phenotype	
+Abnormality of endocrine pancreas physiology	phenotype	
+Diarrhea 8, secretory sodium, congenital	phenotype	
+Prominent metopic ridge	phenotype	
+Abnormality of circulating glucocorticoid level	phenotype	
+Abnormality of circulating cortisol level	phenotype	
+Abnormality of blood volume homeostasis	phenotype	
+Bladder neck obstruction	phenotype	
+Steatorrhea	phenotype	
+Chondrocalcinosis	phenotype	
+Fat malabsorption	phenotype	
+Renal tubular acidosis, distal, autosomal dominant	phenotype	
+Abnormality of urine homeostasis	phenotype	
+Metabolic Bone Disorder	phenotype	
+Insulin-resistant diabetes mellitus AND acanthosis nigricans	phenotype	
+Abnormal urine output	phenotype	
+Hypovolemia	phenotype	
+Abnormality of the metopic suture	phenotype	
+Abnormal renal physiology	phenotype	
+Hypervolemia	phenotype	
+Germinoma	phenotype	
+Abnormal drinking behavior	phenotype	
+Abnormality of renal excretion	phenotype	
+Complete trisomy 18 syndrome	phenotype	
+Neonatal diabetes mellitus	phenotype	
+Noonan syndrome with multiple lentigines	phenotype	
+Abnormality of fatty-acid metabolism	phenotype	
+Alkalosis	phenotype	
+Polyuria	phenotype	
+Abnormality of urine glucose concentration	phenotype	
+Glycosuria	phenotype	
+Dialeptic seizures	phenotype	
+{TSC2 angiomyolipomas, renal, modifier of}, 613254 (3)	phenotype	
+Tubulointerstitial nephritis	phenotype	
+Abnormality of potassium homeostasis	phenotype	
+Prenatal maternal abnormality	phenotype	
+Hypokalemia	phenotype	
+Polydipsia	phenotype	
+Abnormality of urine calcium concentration	phenotype	
+Abnormal peripheral nervous system morphology	phenotype	
+Abnormality of vitamin metabolism	phenotype	
+Toxic Shock Syndrome	phenotype	
+Ketoacidosis	phenotype	
+Kidney Failure, Chronic	phenotype	
+Lymphangiomyomatosis	phenotype	
+Generalized myoclonic seizures	phenotype	
+Abnormality of pancreas morphology	phenotype	
+Abnormality of monovalent inorganic cation homeostasis	phenotype	
+Cortical dysplasia, complex, with other brain malformations 3	phenotype	
+Aortic valve disease 2	phenotype	
+Multisystem disorder	phenotype	
+Ischemia	phenotype	
+Abnormality of the urinary system physiology	phenotype	
+Diaphragmatic hernia	phenotype	
+Ovarian Serous Adenocarcinoma	phenotype	
+Radial deviation of finger	phenotype	
+EMG: myopathic abnormalities	phenotype	
+Bicuspid aortic valve	phenotype	
+Radial deviation of the hand	phenotype	
+Microalbuminuria	phenotype	
+Peripheral axonal neuropathy	phenotype	
+Generalized muscle weakness	phenotype	
+Hirschsprung disease 1	phenotype	
+Abnormal consumption behavior	phenotype	
+Muscle weakness	phenotype	
+Pallor	phenotype	
+Hypercalciuria	phenotype	
+Nephrocalcinosis	phenotype	
+Muscular hypotonia of the trunk	phenotype	
+Downturned corners of mouth	phenotype	
+Peripheral neuropathy, myopathy, hoarseness, and hearing loss	phenotype	
+Epithelial hyperplasia of skin	phenotype	
+Sciatic Neuropathy	phenotype	
+Absence seizures	phenotype	
+Increased analgesia from kappa-opioid receptor agonist, female-specific	phenotype	
+Prediabetes syndrome	phenotype	
+Juvenile onset	phenotype	
+Chordoma	phenotype	
+Agitation	phenotype	
+Contractures of the joints of the lower limbs	phenotype	
+Adenocarcinoma of lung	phenotype	
+Muscle cramps	phenotype	
+Congenital anomalies of kidney and urinary tract 1, susceptibility to	phenotype	
+Peripheral axonal degeneration	phenotype	
+Abnormality of the upper urinary tract	phenotype	
+Macroglossia	phenotype	
+Small for gestational age	phenotype	
+Cataracts, growth hormone deficiency, sensory neuropathy, sensorineural hearing loss, and skeletal dysplasia	phenotype	
+Paralysis	phenotype	
+Coma	phenotype	
+Hypsarrhythmia	phenotype	
+Paresthesia	phenotype	
+Abnormal urinary electrolyte concentration	phenotype	
+Abnormality of the endocrine system	phenotype	
+Neurologic Symptoms	phenotype	
+Behavioral abnormality	phenotype	
+Abdominal symptom	phenotype	
+Primary adrenal insufficiency	phenotype	
+Calcinosis	phenotype	
+Dehydration	phenotype	
+Decreased beta-glucocerebrosidase protein and activity	phenotype	
+Abnormal joint morphology	phenotype	
+Hyperhidrosis	phenotype	
+NOONAN-LIKE/MULTIPLE GIANT CELL LESION SYNDROME (disorder)	phenotype	
+Hamartoma	phenotype	
+Anterior hypopituitarism	phenotype	
+Abnormality of connective tissue	phenotype	
+Apraxia	phenotype	
+Fibrinogen Adverse Event	phenotype	
+Abnormality of calcium homeostasis	phenotype	
+Chorea, childhood-onset, with psychomotor retardation	phenotype	
+Congenital contractures of the limbs and face, hypotonia, and developmental delay	phenotype	
+Maturity-onset diabetes of the young, type 11	phenotype	
+Abnormality of adrenal physiology	phenotype	
+Adrenal insufficiency	phenotype	
+Acquired long QT syndrome	phenotype	
+Abnormality of pancreas physiology	phenotype	
+Abnormality of divalent inorganic cation homeostasis	phenotype	
+Abnormality of the small intestine	phenotype	
+Arthrogryposis multiplex congenita, neurogenic, with myelin defect	phenotype	
+Myocardial Infarction	phenotype	
+Malnutrition	phenotype	
+Tauopathies	phenotype	
+Abnormal insulin level	phenotype	
+Abnormal circulating insulin level	phenotype	
+Impotence	phenotype	
+Hypopituitarism	phenotype	
+Obesity, severe, 601665 (3)	phenotype	
+Metastatic malignant neoplasm to brain	phenotype	
+Abnormality of mouth shape	phenotype	
+Abnormality of digestive system physiology	phenotype	
+Abnormality of the urinary system	phenotype	
+Tachycardia	phenotype	
+Hypohidrosis	phenotype	
+Fetal Diseases	phenotype	
+Sudden cardiac death	phenotype	
+Abnormality of central motor function	phenotype	
+Abnormality of the adrenal glands	phenotype	
+Disseminated Malignant Neoplasm	phenotype	
+Albuminuria	phenotype	
+Ectopic calcification	phenotype	
+Abnormality of blood glucose concentration	phenotype	
+Autosomal dominant non-syndromic sensorineural deafness type DFNA	phenotype	
+Atherosclerosis	phenotype	
+Abnormality of lipid metabolism	phenotype	
+Hirschsprung Disease	phenotype	
+Short nose	phenotype	
+Abnormality of the anterior pituitary	phenotype	
+Secondary hyperparathyroidism	phenotype	
+Tumor Initiation	phenotype	
+Status epilepticus	phenotype	
+Sensory neuropathy	phenotype	
+Abdominal pain	phenotype	
+Abnormality of blood circulation	phenotype	
+Tuberous sclerosis syndrome	phenotype	
+Mental deterioration	phenotype	
+Abnormality of cation homeostasis	phenotype	
+Long philtrum	phenotype	
+Abnormality of cranial sutures	phenotype	
+Developmental delay with short stature, dysmorphic features, and sparse hair	phenotype	
+Renal cell carcinoma, nonpapillary	phenotype	
+Proteinuria, low molecular weight, with hypercalciuria and nephrocalcinosis	phenotype	
+Maternal diabetes	phenotype	
+Abnormality of the pancreas	phenotype	
+Abnormality of muscle physiology	phenotype	
+Reduced consciousness/confusion	phenotype	
+Abnormality of ion homeostasis	phenotype	
+Craniosynostoses	phenotype	
+Hearing Loss, Mixed Conductive-Sensorineural	phenotype	
+Limb joint contracture	phenotype	
+Malabsorption	phenotype	
+Abnormality of the genitourinary system	phenotype	
+Parkinsonism	phenotype	
+Stage 5 chronic kidney disease	phenotype	
+Ovarian Diseases	phenotype	
+Acute myocardial infarction	phenotype	
+Abnormality of metabolism/homeostasis	phenotype	
+Heterogeneous	phenotype	
+Abnormality of the hypothalamus-pituitary axis	phenotype	
+Abnormality of the digestive system	phenotype	
+Abnormality of fontanelles	phenotype	
+Alzheimer Disease	phenotype	
+Motor delay	phenotype	
+Abnormality of circulating hormone level	phenotype	
+Hypoglycemia, neonatal, simulating foetopathia diabetica	phenotype	
+Narcolepsy	phenotype	
+Diabetic Retinopathy	phenotype	
+Acute kidney injury	phenotype	
+Abnormality of the musculature	phenotype	
+Hypospadias	phenotype	
+Clinodactyly	phenotype	
+Acidosis	phenotype	
+Deviation of finger	phenotype	
+Deviation of the hand or of fingers of the hand	phenotype	
+Abnormality of nervous system morphology	phenotype	
+Nausea and vomiting	phenotype	
+Glucose intolerance	phenotype	
+Abnormality of skeletal morphology	phenotype	
+Abnormality of the philtrum	phenotype	
+Discoid lupus erythematosus	phenotype	
+Abnormality of the skeletal system	phenotype	
+Anteverted nares	phenotype	
+Diabetes mellitus type 2	phenotype	
+Insulin Resistance	phenotype	
+Hypoxia	phenotype	
+Autosomal recessive inheritance	phenotype	
+Arrhythmias, Cardiac	phenotype	
+Abnormality of the nares	phenotype	
+Carcinoma breast stage IV	phenotype	
+Abnormality of fluid regulation	phenotype	
+Hyperinsulinemia	phenotype	

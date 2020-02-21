@@ -1,0 +1,2 @@
+rank	phenotype	cui	assoc in neigh	assoc in intom	probability	Benjamini-Hochberg	genes	
+36	Abnormality of fatty-acid metabolism	C4021656	2	38	1.909495636431835e-05	6.42857142857e-05	KCNJ1,KCNJ11

@@ -1,0 +1,636 @@
+node1	node2	edge_score	
+DB00134	MAT2A	1.0	
+DB00134	BHMT	1.0	
+DB00134	MAT2B	1.0	
+DB00134	MTR	1.0	
+DB00134	METAP2	1.0	
+DB00134	MSRB1	1.0	
+DB00134	MAT1A	1.0	
+DB00134	MARS2	1.0	
+DB00134	MSRB2	1.0	
+DB00134	MTHFR	1.0	
+DB00134	GLUL	1.0	
+DB00134	BHMT2	1.0	
+DB00134	SLC16A10	1.0	
+DB00134	MARS	1.0	
+DB00134	MTRR	1.0	
+DB00134	MSRA	1.0	
+MTHFR	rs1801131	0.99
+MTR		1.0
+MTHFR	rs17421511	0.99
+MTHFR		1.0
+rs1801133	CLCN6	0.9801
+MTRR		1.0
+MTHFR	rs1476413	0.99
+MTHFR	rs1801133	0.99
+MTHFR	rs4846051	0.99
+Homocystinuria due to CBS deficiency	MTHFR	1.0	
+Homocystinuria due to CBS deficiency	MTR	1.0	
+Homocystinuria due to CBS deficiency	MTRR	1.0	
+Abnormality of sulfur amino acid metabolism	MTHFR	1.0	
+Abnormality of sulfur amino acid metabolism	MTR	1.0	
+Abnormality of sulfur amino acid metabolism	MTRR	1.0	
+Phenylketonuria	MTHFR	1.0	
+Phenylketonuria	MTR	1.0	
+Phenylketonuria	MTRR	1.0	
+Megaloblastic anemia, thiamine-responsive, with diabetes mellitus and sensorineural deafness	MTHFR	1.0	
+Megaloblastic anemia, thiamine-responsive, with diabetes mellitus and sensorineural deafness	MTR	1.0	
+Megaloblastic anemia, thiamine-responsive, with diabetes mellitus and sensorineural deafness	MTRR	1.0	
+Folic Acid Deficiency	MTHFR	1.0	
+Folic Acid Deficiency	MTR	1.0	
+Folic Acid Deficiency	MTRR	1.0	
+Deep vein thrombosis of lower limb	MTHFR	1.0	
+Deep vein thrombosis of lower limb	MTR	1.0	
+Deep vein thrombosis of lower limb	MTRR	1.0	
+Deep thrombophlebitis	MTHFR	1.0	
+Deep thrombophlebitis	MTR	1.0	
+Deep thrombophlebitis	MTRR	1.0	
+Choroidal Neovascularization	MTHFR	1.0	
+Choroidal Neovascularization	MTR	1.0	
+Choroidal Neovascularization	MTRR	1.0	
+Iron deficiency anemia	MTHFR	1.0	
+Iron deficiency anemia	MTR	1.0	
+Iron deficiency anemia	MTRR	1.0	
+Meningeal Neoplasms	MTHFR	1.0	
+Meningeal Neoplasms	MTR	1.0	
+Meningeal Neoplasms	MTRR	1.0	
+Cardiac defects	MTHFR	1.0	
+Cardiac defects	MTR	1.0	
+Cardiac defects	MTRR	1.0	
+Brain Tumor, Primary	MTHFR	1.0	
+Brain Tumor, Primary	MTR	1.0	
+Brain Tumor, Primary	MTRR	1.0	
+Adverse drug events and drug allergies	MTHFR	1.0	
+Adverse drug events and drug allergies	MTR	1.0	
+Adverse drug events and drug allergies	MTRR	1.0	
+Childhood Leukemia	MTHFR	1.0	
+Childhood Leukemia	MTR	1.0	
+Childhood Leukemia	MTRR	1.0	
+Psychoses, Substance-Induced	MTHFR	1.0	
+Psychoses, Substance-Induced	MTR	1.0	
+Psychoses, Substance-Induced	MTRR	1.0	
+Homocysteinemia due to MTHFR deficiency	MTHFR	1.0	
+Homocysteinemia due to MTHFR deficiency	MTR	1.0	
+Homocysteinemia due to MTHFR deficiency	MTRR	1.0	
+Migraine with aura	MTHFR	1.0	
+Migraine with aura	MTR	1.0	
+Migraine with aura	MTRR	1.0	
+Drug Allergy	MTHFR	1.0	
+Drug Allergy	MTR	1.0	
+Drug Allergy	MTRR	1.0	
+Demyelinating Diseases	MTHFR	1.0	
+Demyelinating Diseases	MTR	1.0	
+Demyelinating Diseases	MTRR	1.0	
+Congenital heart disease	MTHFR	1.0	
+Congenital heart disease	MTR	1.0	
+Congenital heart disease	MTRR	1.0	
+Marijuana Abuse	MTHFR	1.0	
+Marijuana Abuse	MTR	1.0	
+Marijuana Abuse	MTRR	1.0	
+Adult Acute Lymphocytic Leukemia	MTHFR	1.0	
+Adult Acute Lymphocytic Leukemia	MTR	1.0	
+Adult Acute Lymphocytic Leukemia	MTRR	1.0	
+Deep venous thrombosis	MTHFR	1.0	
+Deep venous thrombosis	MTR	1.0	
+Deep venous thrombosis	MTRR	1.0	
+Hereditary hyperhomocysteinemia	MTHFR	1.0	
+Hereditary hyperhomocysteinemia	MTR	1.0	
+Hereditary hyperhomocysteinemia	MTRR	1.0	
+Thromboembolism	MTHFR	1.0	
+Thromboembolism	MTR	1.0	
+Thromboembolism	MTRR	1.0	
+Aminoaciduria	MTHFR	1.0	
+Aminoaciduria	MTR	1.0	
+Aminoaciduria	MTRR	1.0	
+Placental Insufficiency	MTR	1.0	
+Placental Insufficiency	MTRR	1.0	
+Adrenoleukodystrophy	MTHFR	1.0	
+Adrenoleukodystrophy	MTR	1.0	
+Adrenoleukodystrophy	MTRR	1.0	
+Venous thrombosis	MTHFR	1.0	
+Venous thrombosis	MTR	1.0	
+Venous thrombosis	MTRR	1.0	
+Xeroderma Pigmentosum, Complementation Group D	MTHFR	1.0	
+Xeroderma Pigmentosum, Complementation Group D	MTRR	1.0	
+Abnormality of serum amino acid levels	MTR	1.0	
+Abnormality of serum amino acid levels	MTRR	1.0	
+Oligospermia	MTHFR	1.0	
+Oligospermia	MTR	1.0	
+Oligospermia	MTRR	1.0	
+Abnormality of amino acid metabolism	MTHFR	1.0	
+Abnormality of amino acid metabolism	MTR	1.0	
+Abnormality of amino acid metabolism	MTRR	1.0	
+Lymphoma, Large-Cell, Follicular	MTHFR	1.0	
+Lymphoma, Large-Cell, Follicular	MTR	1.0	
+Lymphoma, Large-Cell, Follicular	MTRR	1.0	
+3-Methylglutaconic aciduria	MTHFR	1.0	
+3-Methylglutaconic aciduria	MTR	1.0	
+3-Methylglutaconic aciduria	MTRR	1.0	
+Aortic Aneurysm, Abdominal	MTHFR	1.0	
+Aortic Aneurysm, Abdominal	MTR	1.0	
+Aortic Aneurysm, Abdominal	MTRR	1.0	
+Primary central nervous system lymphoma	MTHFR	1.0	
+Primary central nervous system lymphoma	MTR	1.0	
+Neural tube defect	MTHFR	1.0	
+Neural tube defect	MTR	1.0	
+Neural tube defect	MTRR	1.0	
+Abnormality of carboxylic acid metabolism	MTHFR	1.0	
+Abnormality of carboxylic acid metabolism	MTR	1.0	
+Abnormality of carboxylic acid metabolism	MTRR	1.0	
+Macrocytic anemia	MTR	1.0	
+Macrocytic anemia	MTRR	1.0	
+Cervical intraepithelial neoplasia grade 2	MTHFR	1.0	
+Cervical intraepithelial neoplasia grade 2	MTR	1.0	
+Cervical intraepithelial neoplasia (Cervical dysplasia)	MTHFR	1.0	
+Cervical intraepithelial neoplasia (Cervical dysplasia)	MTR	1.0	
+Cervical intraepithelial neoplasia (Cervical dysplasia)	MTRR	1.0	
+Cleft palate with cleft lip	MTHFR	1.0	
+Cleft palate with cleft lip	MTR	1.0	
+Abnormality of vitamin metabolism	MTR	1.0	
+Abnormality of vitamin metabolism	MTRR	1.0	
+Spina bifida	MTHFR	1.0	
+Spina bifida	MTR	1.0	
+Spina bifida	MTRR	1.0	
+Omphalocele	MTHFR	1.0	
+Omphalocele	MTRR	1.0	
+Adenoma of large intestine	MTHFR	1.0	
+Adenoma of large intestine	MTR	1.0	
+Adenoma of large intestine	MTRR	1.0	
+Azoospermia	MTHFR	1.0	
+Azoospermia	MTR	1.0	
+Azoospermia	MTRR	1.0	
+Incoordination	MTHFR	1.0	
+Incoordination	MTR	1.0	
+ Cerebrovascular disease, occlusive (3)	MTHFR	1.0	
+ Cerebrovascular disease, occlusive (3)	MTRR	1.0	
+T-cell lymphoma	MTHFR	1.0	
+T-cell lymphoma	MTR	1.0	
+T-cell lymphoma	MTRR	1.0	
+Male infertility	MTHFR	1.0	
+Male infertility	MTR	1.0	
+Male infertility	MTRR	1.0	
+Chromosome Aberrations	MTHFR	1.0	
+Chromosome Aberrations	MTR	1.0	
+Coronary artery stenosis	MTHFR	1.0	
+Coronary artery stenosis	MTR	1.0	
+Gastrointestinal Diseases	MTHFR	1.0	
+Gastrointestinal Diseases	MTR	1.0	
+Huntington's chorea	MTHFR	1.0	
+Huntington's chorea	MTR	1.0	
+Huntington's chorea	MTRR	1.0	
+Head and Neck Neoplasms	MTHFR	1.0	
+Head and Neck Neoplasms	MTR	1.0	
+Head and Neck Neoplasms	MTRR	1.0	
+Migraine Disorders	MTHFR	1.0	
+Migraine Disorders	MTR	1.0	
+Migraine Disorders	MTRR	1.0	
+Bone neoplasms	MTHFR	1.0	
+Bone neoplasms	MTR	1.0	
+DNA Damage	MTHFR	1.0	
+DNA Damage	MTR	1.0	
+Ischemic Cerebrovascular Accident	MTHFR	1.0	
+Ischemic Cerebrovascular Accident	MTR	1.0	
+Ischemic Cerebrovascular Accident	MTRR	1.0	
+body mass	MTHFR	1.0	
+body mass	MTR	1.0	
+Cleft Lip	MTHFR	1.0	
+Cleft Lip	MTR	1.0	
+Cleft Lip	MTRR	1.0	
+Blindness	MTHFR	1.0	
+Blindness	MTR	1.0	
+Blindness	MTRR	1.0	
+Ventricular septal defect 2	MTHFR	1.0	
+Ventricular septal defect 2	MTR	1.0	
+Ventricular septal defect 2	MTRR	1.0	
+Preeclampsia/eclampsia 1	MTHFR	1.0	
+Preeclampsia/eclampsia 1	MTR	1.0	
+Preeclampsia/eclampsia 1	MTRR	1.0	
+NOONAN-LIKE/MULTIPLE GIANT CELL LESION SYNDROME (disorder)	MTHFR	1.0	
+NOONAN-LIKE/MULTIPLE GIANT CELL LESION SYNDROME (disorder)	MTR	1.0	
+Intrauterine growth retardation	MTHFR	1.0	
+Intrauterine growth retardation	MTR	1.0	
+Intrauterine growth retardation	MTRR	1.0	
+Anemia of inadequate production	MTR	1.0	
+Anemia of inadequate production	MTRR	1.0	
+Leukemia, Lymphocytic, Acute, L1	MTHFR	1.0	
+Leukemia, Lymphocytic, Acute, L1	MTR	1.0	
+Leukemia, Lymphocytic, Acute, L1	MTRR	1.0	
+Lymphoma, Follicular	MTHFR	1.0	
+Lymphoma, Follicular	MTR	1.0	
+Lymphoma, Follicular	MTRR	1.0	
+Disorders of Intracellular Cobalamin Metabolism	MTHFR	1.0	
+Disorders of Intracellular Cobalamin Metabolism	MTR	1.0	
+Disorders of Intracellular Cobalamin Metabolism	MTRR	1.0	
+Ischemic stroke	MTHFR	1.0	
+Ischemic stroke	MTR	1.0	
+Ischemic stroke	MTRR	1.0	
+Intracranial Aneurysm	MTHFR	1.0	
+Intracranial Aneurysm	MTR	1.0	
+Leukoencephalopathy with Brainstem and Spinal Cord Involvement and Lactate Elevation	MTHFR	1.0	
+Leukoencephalopathy with Brainstem and Spinal Cord Involvement and Lactate Elevation	MTR	1.0	
+Abnormality of urine homeostasis	MTHFR	1.0	
+Abnormality of urine homeostasis	MTR	1.0	
+Abnormality of urine homeostasis	MTRR	1.0	
+Vascular Diseases	MTHFR	1.0	
+Vascular Diseases	MTR	1.0	
+Vascular Diseases	MTRR	1.0	
+Brain Ischemia	MTHFR	1.0	
+Brain Ischemia	MTR	1.0	
+Brain Ischemia	MTRR	1.0	
+Malnutrition	MTHFR	1.0	
+Malnutrition	MTR	1.0	
+Age-related macular degeneration 2	MTHFR	1.0	
+Age-related macular degeneration 2	MTR	1.0	
+Age-related macular degeneration 2	MTRR	1.0	
+Cancer of Head and Neck	MTHFR	1.0	
+Cancer of Head and Neck	MTR	1.0	
+Cancer of Head and Neck	MTRR	1.0	
+Giant cell arteritis	MTHFR	1.0	
+Giant cell arteritis	MTRR	1.0	
+Pregnancy Complications	MTHFR	1.0	
+Pregnancy Complications	MTRR	1.0	
+Meningioma	MTHFR	1.0	
+Meningioma	MTR	1.0	
+Meningioma	MTRR	1.0	
+Other disorders of the nervous system	MTHFR	1.0	
+Other disorders of the nervous system	MTR	1.0	
+Other disorders of the nervous system	MTRR	1.0	
+Mild cognitive impairment	MTHFR	1.0	
+Mild cognitive impairment	MTR	1.0	
+Hematological Disease	MTHFR	1.0	
+Hematological Disease	MTR	1.0	
+Neoplastic Cell Transformation	MTHFR	1.0	
+Neoplastic Cell Transformation	MTR	1.0	
+Neoplasm of the central nervous system	MTHFR	1.0	
+Neoplasm of the central nervous system	MTR	1.0	
+Down Syndrome	MTHFR	1.0	
+Down Syndrome	MTR	1.0	
+Down Syndrome	MTRR	1.0	
+Gait disturbance	MTHFR	1.0	
+Gait disturbance	MTR	1.0	
+Gait disturbance	MTRR	1.0	
+Acute myocardial ischemia	MTHFR	1.0	
+Acute myocardial ischemia	MTR	1.0	
+Acute myocardial ischemia	MTRR	1.0	
+Hearing Loss, Partial	CLCN6	1.0	
+Hearing Loss, Partial	MTHFR	1.0	
+Combined Hepatocellular Carcinoma and Cholangiocarcinoma	MTHFR	1.0	
+Combined Hepatocellular Carcinoma and Cholangiocarcinoma	MTR	1.0	
+Combined Hepatocellular Carcinoma and Cholangiocarcinoma	MTRR	1.0	
+Uterine Cervical Neoplasms	MTHFR	1.0	
+Uterine Cervical Neoplasms	MTR	1.0	
+Depressive Disorder	MTHFR	1.0	
+Depressive Disorder	MTR	1.0	
+Depressive Disorder	MTRR	1.0	
+{Unipolar depression, susceptibility to}, 608516 (3)	MTHFR	1.0	
+{Unipolar depression, susceptibility to}, 608516 (3)	MTR	1.0	
+{Unipolar depression, susceptibility to}, 608516 (3)	MTRR	1.0	
+Non-Hodgkin lymphoma	MTHFR	1.0	
+Non-Hodgkin lymphoma	MTR	1.0	
+Non-Hodgkin lymphoma	MTRR	1.0	
+Trisomy	MTHFR	1.0	
+Trisomy	MTRR	1.0	
+Germinal Center B-Cell-Like Diffuse Large B-Cell Lymphoma	MTHFR	1.0	
+Germinal Center B-Cell-Like Diffuse Large B-Cell Lymphoma	MTR	1.0	
+Germinal Center B-Cell-Like Diffuse Large B-Cell Lymphoma	MTRR	1.0	
+Cleft Palate	MTHFR	1.0	
+Cleft Palate	MTR	1.0	
+Cleft Palate	MTRR	1.0	
+Arterial dissection	MTHFR	1.0	
+Drug Eruptions	MTHFR	1.0	
+Primary malignant neoplasm of liver	MTHFR	1.0	
+Rheumatoid Nodule	MTR	1.0	
+Primary angle-closure glaucoma	MTHFR	1.0	
+Pleural Neoplasms	MTHFR	1.0	
+Tetraplegia	MTHFR	1.0	
+Recurrent major depressive episodes	MTHFR	1.0	
+Aneurysm, Ruptured	MTHFR	1.0	
+Lupus anticoagulant disorder	MTHFR	1.0	
+Thrombophilia due to activated protein C resistance	MTHFR	1.0	
+Neoplasms, Second Primary	MTHFR	1.0	
+Neoplasms, Second Primary	MTR	1.0	
+Cervical dysplasia	MTHFR	1.0	
+Thrombosis of retinal vein	MTHFR	1.0	
+Thyrotoxicosis	MTHFR	1.0	
+Hepatic cancer metastatic	MTHFR	1.0	
+Hepatic cancer metastatic	MTR	1.0	
+Hepatic cancer metastatic	MTRR	1.0	
+Recurrent E. coli infections	MTHFR	1.0	
+Femur Head Necrosis	MTHFR	1.0	
+Old myocardial infarction	MTHFR	1.0	
+Proliferative retinopathy	MTHFR	1.0	
+Proteinuria Adverse Event	MTHFR	1.0	
+Anemia	MTHFR	1.0	
+Anemia	MTR	1.0	
+Anemia	MTRR	1.0	
+Protein S deficiency	MTHFR	1.0	
+Small cell lung cancer	MTHFR	1.0	
+Small cell lung cancer	MTR	1.0	
+Small cell lung cancer	MTRR	1.0	
+Intermittent claudication	MTHFR	1.0	
+Antithrombin III deficiency	MTHFR	1.0	
+Distal myopathy Markesbery-Griggs type	MTHFR	1.0	
+Meningioma, benign, no ICD-O subtype	MTHFR	1.0	
+Meningioma, benign, no ICD-O subtype	MTRR	1.0	
+Malignant tumor of esophagus	MTHFR	1.0	
+Malignant tumor of esophagus	MTR	1.0	
+Malignant tumor of esophagus	MTRR	1.0	
+Abnormality of the urinary system physiology	MTHFR	1.0	
+Abnormality of the urinary system physiology	MTR	1.0	
+Abnormality of the urinary system physiology	MTRR	1.0	
+Puerperal Disorders	MTHFR	1.0	
+Reduced protein C activity	MTHFR	1.0	
+Stenosis	MTHFR	1.0	
+Subfertility	MTHFR	1.0	
+Pervasive developmental disorders	MTHFR	1.0	
+Brain neoplasm	MTHFR	1.0	
+Brain neoplasm	MTR	1.0	
+Brain neoplasm	MTRR	1.0	
+Epilepsy	MTHFR	1.0	
+Epilepsy	MTR	1.0	
+Epilepsy	MTRR	1.0	
+Sensorineural hearing impairment	MTHFR	1.0	
+Sensorineural hearing impairment	MTR	1.0	
+Sensorineural hearing impairment	MTRR	1.0	
+Aortic aneurysm, familial thoracic 11, susceptibility to	MTHFR	1.0	
+Aortic aneurysm, familial thoracic 11, susceptibility to	MTRR	1.0	
+EMG: myopathic abnormalities	MTHFR	1.0	
+EMG: myopathic abnormalities	MTR	1.0	
+EMG: myopathic abnormalities	MTRR	1.0	
+Cervix Diseases	MTHFR	1.0	
+Venous insufficiency	MTHFR	1.0	
+Rhinitis, Allergic, Perennial	MTHFR	1.0	
+Resistance to activated protein C	MTHFR	1.0	
+Juvenile neuronal ceroid lipofuscinosis	CLCN6	1.0	
+Myelosuppression	MTHFR	1.0	
+Complete trisomy 18 syndrome	MTHFR	1.0	
+Deficiency of glucose-6-phosphate dehydrogenase	MTHFR	1.0	
+Venous Thromboembolism	MTHFR	1.0	
+Venous Thromboembolism	MTRR	1.0	
+Smallpox	MTHFR	1.0	
+Genomic Instability	MTHFR	1.0	
+alcohol use disorder	MTHFR	1.0	
+Nephrosclerosis	MTHFR	1.0	
+Pregnancy in Diabetics	MTHFR	1.0	
+Chronic myelopathy	MTHFR	1.0	
+Ovarian hyperstimulation syndrome	MTHFR	1.0	
+End Stage Liver Disease	MTHFR	1.0	
+Pregnancy associated hypertension	MTHFR	1.0	
+Lymphoid leukemia	MTHFR	1.0	
+Lymphoid leukemia	MTRR	1.0	
+Purpura, Thrombotic Thrombocytopenic	MTHFR	1.0	
+Cerebroretinal microangiopathy with calcifications and cysts 1	MTHFR	1.0	
+Gastric Cardia Adenocarcinoma	MTHFR	1.0	
+Neutropenia	MTHFR	1.0	
+Neutropenia	MTR	1.0	
+Exfoliation Syndrome	MTHFR	1.0	
+Neurotoxicity Syndromes	MTHFR	1.0	
+Deafness, autosomal recessive 44	CLCN6	1.0	
+Deafness, autosomal recessive 44	MTHFR	1.0	
+Arterial Occlusive Diseases	MTHFR	1.0	
+Arteriovenous fistula	MTHFR	1.0	
+Gonorrhea	MTRR	1.0	
+Glanzmann thrombasthenia	MTHFR	1.0	
+Chronic rejection of renal transplant	MTHFR	1.0	
+CADASIL	MTHFR	1.0	
+Allergic sensitization	MTHFR	1.0	
+Pancreatic Neoplasms	MTHFR	1.0	
+Pancreatic Neoplasms	MTR	1.0	
+Pancreatic Neoplasms	MTRR	1.0	
+Coronary heart disease 7	MTHFR	1.0	
+Coronary heart disease 7	MTR	1.0	
+Coronary heart disease 7	MTRR	1.0	
+Hypoplastic left heart syndrome	MTHFR	1.0	
+Kidney Diseases	MTHFR	1.0	
+Kidney Diseases	MTR	1.0	
+Kidney Diseases	MTRR	1.0	
+Platelet-type bleeding disorder 15	MTHFR	1.0	
+Dryness of eye	MTHFR	1.0	
+Pathologic fracture	MTHFR	1.0	
+Myelomeningocele	MTHFR	1.0	
+Ocular Hypertension	MTHFR	1.0	
+Precursor cell lymphoblastic lymphoma	MTHFR	1.0	
+Cervical intraepithelial neoplasia grade 1	MTHFR	1.0	
+Nephrotic Syndrome, Minimal Change	MTHFR	1.0	
+Neoplasm Recurrence, Local	MTHFR	1.0	
+Neoplasm Recurrence, Local	MTR	1.0	
+Bone necrosis	MTHFR	1.0	
+Thromboangiitis Obliterans	MTHFR	1.0	
+Varicocele	MTHFR	1.0	
+HELLP Syndrome	MTHFR	1.0	
+Parkinson Disease	MTHFR	1.0	
+Parkinson Disease	MTR	1.0	
+Parkinson Disease	MTRR	1.0	
+Myelopathy	MTHFR	1.0	
+Dry Eye Syndromes	MTHFR	1.0	
+Takayasu Arteritis	MTHFR	1.0	
+cardiac event	MTHFR	1.0	
+Sickle Cell Trait	MTHFR	1.0	
+Stomatitis	MTHFR	1.0	
+Bacterial Vaginosis	MTHFR	1.0	
+Spermatogenic failure 3	MTHFR	1.0	
+Hereditary factor IX deficiency disease	MTHFR	1.0	
+Fibromyalgia	MTHFR	1.0	
+Neuronal ceroid lipofuscinosis	CLCN6	1.0	
+Virilism	MTHFR	1.0	
+Hyperlipidemia, combined, 1	MTHFR	1.0	
+Hyperlipidemia, combined, 1	MTR	1.0	
+Bipolar affective disorder	MTHFR	1.0	
+Bipolar affective disorder	MTR	1.0	
+Bipolar affective disorder	MTRR	1.0	
+Moyamoya Disease	MTHFR	1.0	
+Von Willebrand disease, recessive form	MTHFR	1.0	
+Hemophilia, NOS	MTHFR	1.0	
+Coronary Restenosis	MTHFR	1.0	
+Papillomavirus Infections	MTHFR	1.0	
+Hypertension	CLCN6	1.0	
+Hypertension	MTHFR	1.0	
+Hypertension	MTR	1.0	
+Hypertension	MTRR	1.0	
+Acute lymphoid leukemia	MTHFR	1.0	
+Acute lymphoid leukemia	MTR	1.0	
+Acute lymphoid leukemia	MTRR	1.0	
+Squamous cell carcinoma of the head and neck	MTHFR	1.0	
+Squamous cell carcinoma of the head and neck	MTR	1.0	
+Squamous cell carcinoma of the head and neck	MTRR	1.0	
+Arthritis, Reactive	MTHFR	1.0	
+Adenocarcinoma Of Esophagus	MTHFR	1.0	
+Adenocarcinoma Of Esophagus	MTR	1.0	
+Leukopenia	MTHFR	1.0	
+Leukopenia	MTR	1.0	
+Dementia familial British	MTHFR	1.0	
+Dementia familial British	MTR	1.0	
+Idiopathic Membranous Glomerulonephritis	MTHFR	1.0	
+Malignant neoplasm of female breast	MTHFR	1.0	
+Ulcerative colitis	MTHFR	1.0	
+Ulcerative colitis	MTR	1.0	
+Ulcerative colitis	MTRR	1.0	
+Essential hypertension	MTHFR	1.0	
+Essential hypertension	MTR	1.0	
+Prenatal Exposure Delayed Effects	MTHFR	1.0	
+Squamous intraepithelial lesion	MTHFR	1.0	
+Precursor Cell Lymphoblastic Leukemia-Lymphoma	MTHFR	1.0	
+Precursor Cell Lymphoblastic Leukemia-Lymphoma	MTR	1.0	
+Precursor Cell Lymphoblastic Leukemia-Lymphoma	MTRR	1.0	
+Infantile-onset ascending hereditary spastic paralysis	MTR	1.0	
+Infantile-onset ascending hereditary spastic paralysis	MTRR	1.0	
+Female Breast Carcinoma	MTHFR	1.0	
+Epilepsy, focal, with speech disorder and with or without mental retardation	CLCN6	1.0	
+Nausea	MTHFR	1.0	
+Low Tension Glaucoma	MTHFR	1.0	
+Chronic obstructive pulmonary disease	MTHFR	1.0	
+Chronic obstructive pulmonary disease	MTR	1.0	
+Chronic obstructive pulmonary disease	MTRR	1.0	
+Autism 15	MTHFR	1.0	
+Autism 15	MTR	1.0	
+Autism 15	MTRR	1.0	
+Anencephaly	MTHFR	1.0	
+Coarctation of aorta	MTHFR	1.0	
+Chromosome Xq28 deletion syndrome	MTHFR	1.0	
+Marfan syndrome	MTHFR	1.0	
+Spina bifida occulta	MTHFR	1.0	
+Pneumonitis	MTHFR	1.0	
+Acute Coronary Syndrome	MTHFR	1.0	
+Acute Coronary Syndrome	MTR	1.0	
+Necrosis	MTHFR	1.0	
+Sicca Syndrome	MTHFR	1.0	
+Factor V Leiden mutation	MTHFR	1.0	
+Biliary tract neoplasm	MTHFR	1.0	
+Brain very small	MTR	1.0	
+Brain very small	MTRR	1.0	
+Esophageal Squamous Cell Carcinoma	MTHFR	1.0	
+Esophageal Squamous Cell Carcinoma	MTR	1.0	
+Esophageal Squamous Cell Carcinoma	MTRR	1.0	
+Malignant tumor of cervix	MTHFR	1.0	
+Malignant tumor of cervix	MTR	1.0	
+Malignant tumor of cervix	MTRR	1.0	
+Henoch-Schoenlein Purpura	MTHFR	1.0	
+ {Septic shock, susceptibility to} (3)	MTHFR	1.0	
+Hydrops, lactic acidosis, and sideroblastic anemia	MTHFR	1.0	
+Hydrops, lactic acidosis, and sideroblastic anemia	MTR	1.0	
+CNS symptom	MTHFR	1.0	
+Gastrointestinal stromal tumor	MTHFR	1.0	
+Gastrointestinal stromal tumor	MTRR	1.0	
+Stomach Neoplasms	MTHFR	1.0	
+Stomach Neoplasms	MTR	1.0	
+Stomach Neoplasms	MTRR	1.0	
+Cooley's anemia	MTHFR	1.0	
+Infiltrating Cervical Carcinoma	MTHFR	1.0	
+Cognition Disorders	MTRR	1.0	
+Epistaxis	MTHFR	1.0	
+Microsatellite Instability	MTHFR	1.0	
+Breast Fibrocystic Disease	MTHFR	1.0	
+Pharyngeal Neoplasms	MTHFR	1.0	
+Essential tremor	MTHFR	1.0	
+Leber's optic atrophy	MTHFR	1.0	
+Hemolytic uremic syndrome	MTHFR	1.0	
+Angelman syndrome-like	MTHFR	1.0	
+Carcinoma, Pancreatic Ductal	MTRR	1.0	
+Hypoxia-Ischemia, Brain	MTHFR	1.0	
+Global developmental delay, absent or hypoplastic corpus callosum, and dysmorphic facies	MTHFR	1.0	
+Global developmental delay, absent or hypoplastic corpus callosum, and dysmorphic facies	MTR	1.0	
+Global developmental delay, absent or hypoplastic corpus callosum, and dysmorphic facies	MTRR	1.0	
+Pulmonic stenosis	MTHFR	1.0	
+Microalbuminuria	MTHFR	1.0	
+Adenomas, multiple colorectal, 608456 (3)	MTHFR	1.0	
+Adenomas, multiple colorectal, 608456 (3)	MTR	1.0	
+Adenomas, multiple colorectal, 608456 (3)	MTRR	1.0	
+Primary antiphospholipid syndrome	MTHFR	1.0	
+Right ventricular hypertrophy	MTHFR	1.0	
+Malignant neoplasm of colon stage IV	MTHFR	1.0	
+Hyperuricemia, pulmonary hypertension, renal failure, and alkalosis	MTHFR	1.0	
+Crohn Disease	MTHFR	1.0	
+Crohn Disease	MTR	1.0	
+Crohn Disease	MTRR	1.0	
+Abnormality of erythrocytes	MTR	1.0	
+Abnormality of erythrocytes	MTRR	1.0	
+Premature Birth	MTHFR	1.0	
+Premature Birth	MTRR	1.0	
+Arsenic Poisoning	MTHFR	1.0	
+Common Migraine	MTHFR	1.0	
+Inflammatory Bowel Diseases	MTHFR	1.0	
+Inflammatory Bowel Diseases	MTR	1.0	
+Inflammatory Bowel Diseases	MTRR	1.0	
+Gaucher Disease	MTHFR	1.0	
+Acute Lung Injury	MTHFR	1.0	
+Female infertility	MTHFR	1.0	
+Uremia	MTHFR	1.0	
+Adenomatous Polyps	MTHFR	1.0	
+Heart Defects, Congenital	MTHFR	1.0	
+Heart Defects, Congenital	MTR	1.0	
+Heart Defects, Congenital	MTRR	1.0	
+Bleeding with minor or no trauma	MTHFR	1.0	
+Granulomatosis with Polyangiitis	MTHFR	1.0	
+Urothelial Carcinoma	MTHFR	1.0	
+Urothelial Carcinoma	MTR	1.0	
+Hypotonia, infantile, with psychomotor retardation	MTHFR	1.0	
+Hypotonia, infantile, with psychomotor retardation	MTR	1.0	
+Hypotonia, infantile, with psychomotor retardation	MTRR	1.0	
+Postoperative Complications	MTHFR	1.0	
+Complications of Diabetes Mellitus	MTHFR	1.0	
+Brain atrophy	MTR	1.0	
+Brain atrophy	MTRR	1.0	
+Abnormality of movement	MTHFR	1.0	
+Abnormality of movement	MTR	1.0	
+Abnormality of movement	MTRR	1.0	
+Ehlers-Danlos syndrome, type vii, autosomal recessive	MTHFR	1.0	
+Malignant Childhood Neoplasm	MTR	1.0	
+Cardiovascular Diseases	MTHFR	1.0	
+Cardiovascular Diseases	MTR	1.0	
+Cardiovascular Diseases	MTRR	1.0	
+Brain Infarction	MTHFR	1.0	
+Atrophy/Degeneration affecting the brainstem	MTR	1.0	
+Atrophy/Degeneration affecting the brainstem	MTRR	1.0	
+Carcinoma of cervix	MTHFR	1.0	
+Carcinoma of cervix	MTR	1.0	
+Carcinoma of cervix	MTRR	1.0	
+Recurrent abortion	MTHFR	1.0	
+Abnormality of the cerebrum	MTHFR	1.0	
+Abnormality of the cerebrum	MTR	1.0	
+Abnormality of the cerebrum	MTRR	1.0	
+Substance Withdrawal Syndrome	MTHFR	1.0	
+Rash and Dermatitis Adverse Event Associated with Chemoradiation	MTHFR	1.0	
+Polycythemia	MTHFR	1.0	
+Pregnancy loss	MTHFR	1.0	
+Abnormality of forebrain morphology	MTHFR	1.0	
+Abnormality of forebrain morphology	MTR	1.0	
+Abnormality of forebrain morphology	MTRR	1.0	
+Dementia, Vascular	MTHFR	1.0	
+Membranous nephropathy, susceptibility to	MTHFR	1.0	
+Nasopharyngeal Neoplasms	MTHFR	1.0	
+Bladder carcinoma	MTHFR	1.0	
+Bladder carcinoma	MTR	1.0	
+Bladder carcinoma	MTRR	1.0	
+Alpha thalassemia-mental retardation syndrome	MTHFR	1.0	
+Wheezing	MTHFR	1.0	
+Decreased motor nerve conduction velocity	MTRR	1.0	
+Glioblastoma multiforme	MTHFR	1.0	
+Glioblastoma multiforme	MTR	1.0	
+Diabetic Angiopathies	MTHFR	1.0	
+Abnormal nerve conduction velocity	MTRR	1.0	
+Febrile seizures, familial, 4	CLCN6	1.0	
+Type 1 diabetic neuropathy	MTHFR	1.0	
+Oral Cavity Carcinoma	MTHFR	1.0	
+Cerebral autosomal recessive arteriopathy with subcortical infarcts and leukoencephalopathy	MTHFR	1.0	
+Abnormality of the urinary system	MTHFR	1.0	
+Abnormality of the urinary system	MTR	1.0	
+Abnormality of the urinary system	MTRR	1.0	
+Multiple Sclerosis	MTHFR	1.0	
+Multiple Sclerosis	MTR	1.0	
+Multiple Sclerosis	MTRR	1.0	
+Neurodevelopmental delay	MTHFR	1.0	
+Neurodevelopmental delay	MTR	1.0	
+Neurodevelopmental delay	MTRR	1.0	
+Prion Diseases	MTR	1.0	
+Arterial thrombosis	MTHFR	1.0	
+Chronic ulcerative colitis	MTHFR	1.0	
+Urinary Bladder Neoplasms	MTHFR	1.0	
+Urinary Bladder Neoplasms	MTR	1.0	
+Cerebral palsy, spastic quadriplegic, 3	MTHFR	1.0	
+Postmenopausal osteoporosis	MTHFR	1.0	
+Skin carcinoma	MTHFR	1.0	
+Lung Neoplasms	MTHFR	1.0	
+Lung Neoplasms	MTR	1.0	
+Lung Neoplasms	MTRR	1.0	
+Peripheral Arterial Diseases	MTHFR	1.0	
+Abnormality of peripheral nerve conduction	MTRR	1.0	

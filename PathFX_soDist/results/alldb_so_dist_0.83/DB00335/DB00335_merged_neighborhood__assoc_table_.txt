@@ -1,0 +1,4 @@
+rank	phenotype	cui	assoc in neigh	assoc in intom	probability	Benjamini-Hochberg	genes	
+19	Occupational Diseases	C0028797	4	68	1.1153295254029416e-06	2.45478036176e-05	ADRB1,ADRB2,ALB,CYP2D6
+22	Nephrosclerosis	C0027719	3	38	3.319213141783628e-06	2.84237726098e-05	ADRB1,ADRB2,ALB
+67	Chronic heart failure	C0264716	3	84	7.905861389545521e-05	8.65633074935e-05	ADRB1,ADRB2,CYP2D6

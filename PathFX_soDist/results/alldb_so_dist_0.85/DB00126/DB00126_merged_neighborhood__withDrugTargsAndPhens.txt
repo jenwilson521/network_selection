@@ -1,0 +1,133 @@
+node1	node2	edge_score	
+DB00126	P4HTM	1.0	
+DB00126	DBH	1.0	
+DB00126	EGLN1	1.0	
+DB00126	PLOD1	1.0	
+DB00126	OGFOD1	1.0	
+DB00126	EGLN3	1.0	
+DB00126	OGFOD2	1.0	
+DB00126	PLOD2	1.0	
+DB00126	PLOD3	1.0	
+DB00126	BBOX1	1.0	
+DB00126	ALKBH3	1.0	
+DB00126	SLC23A1	1.0	
+DB00126	P4HA1	1.0	
+DB00126	TMLHE	1.0	
+DB00126	P3H1	1.0	
+DB00126	KDM5D	1.0	
+DB00126	EGLN2	1.0	
+DB00126	ALKBH2	1.0	
+DB00126	PAM	1.0	
+DB00126	PHYH	1.0	
+DBH		1.0
+Alcohol dependence	DBH	1.0	
+Alzheimer Disease	DBH	1.0	
+Anorexia	DBH	1.0	
+Antisocial Personality Disorder	DBH	1.0	
+Anxiety Disorders	DBH	1.0	
+As If Personality	DBH	1.0	
+Autism 15	DBH	1.0	
+Mental disorders	DBH	1.0	
+Bipolar affective disorder	DBH	1.0	
+Ptosis, hereditary congenital 1	DBH	1.0	
+Abnormal systemic blood pressure	DBH	1.0	
+Brain Diseases	DBH	1.0	
+Cardiovascular Diseases	DBH	1.0	
+Brain Ischemia	DBH	1.0	
+{Unipolar depression, susceptibility to}, 608516 (3)	DBH	1.0	
+Depressive Disorder	DBH	1.0	
+Diabetes Mellitus, Type 1	DBH	1.0	
+Dystonia 2, torsion, autosomal recessive	DBH	1.0	
+Disorder of endocrine system	DBH	1.0	
+Epilepsy	DBH	1.0	
+Abnormality of the eye	DBH	1.0	
+Heart Failure	DBH	1.0	
+Congestive heart failure	DBH	1.0	
+Hypertension	DBH	1.0	
+Portal hypertension, noncirrhotic	DBH	1.0	
+Hypoglycemia, neonatal, simulating foetopathia diabetica	DBH	1.0	
+Hypotension	DBH	1.0	
+Hypotension, Orthostatic	DBH	1.0	
+Hypothermia	DBH	1.0	
+Kidney Diseases	DBH	1.0	
+Chronic Lymphocytic Leukemia	DBH	1.0	
+Liver Cirrhosis, Biliary	DBH	1.0	
+Melanoma	DBH	1.0	
+Multiple Endocrine Neoplasia Type 2b	DBH	1.0	
+Premature ovarian failure	DBH	1.0	
+Mitral Valve Prolapse	DBH	1.0	
+Abnormality of the mouth	DBH	1.0	
+Multiple Sclerosis	DBH	1.0	
+Other disorders of the nervous system	DBH	1.0	
+Nicotine Dependence	DBH	1.0	
+Parkinson Disease	DBH	1.0	
+Peripheral neuropathy, myopathy, hoarseness, and hearing loss	DBH	1.0	
+Pheochromocytoma	DBH	1.0	
+Abnormality of the pituitary gland	DBH	1.0	
+Psychotic Disorders	DBH	1.0	
+Schizophrenia	DBH	1.0	
+Seizures, Febrile	DBH	1.0	
+Posttraumatic stress disorder	DBH	1.0	
+Stroke	DBH	1.0	
+Subarachnoid hemorrhage	DBH	1.0	
+Substance Use Disorders	DBH	1.0	
+Tobacco Use Disorder	DBH	1.0	
+Tourette Syndrome	DBH	1.0	
+Tuberous sclerosis syndrome	DBH	1.0	
+Attention Deficit Disorder	DBH	1.0	
+Unipolar Depression	DBH	1.0	
+Abnormality of the genitourinary system	DBH	1.0	
+Increased body weight	DBH	1.0	
+Ovarian Failure, Premature	DBH	1.0	
+Essential hypertension	DBH	1.0	
+Abnormality of bladder morphology	DBH	1.0	
+Migraine Disorders	DBH	1.0	
+Intracranial hemorrhage	DBH	1.0	
+Orofacial dyskinesia	DBH	1.0	
+Migraine with aura	DBH	1.0	
+Chronic schizophrenia	DBH	1.0	
+Alcohol withdrawal syndrome	DBH	1.0	
+High palate	DBH	1.0	
+Abnormality of cardiovascular system electrophysiology	DBH	1.0	
+Dystonia Disorders	DBH	1.0	
+Autosomal recessive inheritance	DBH	1.0	
+Abnormality of the nervous system	DBH	1.0	
+Neurodegenerative Diseases	DBH	1.0	
+Mood Disorders	DBH	1.0	
+Cocaine Dependence	DBH	1.0	
+Tardive Dyskinesia	DBH	1.0	
+Neuroblastoma	DBH	1.0	
+Abnormality of the genital system	DBH	1.0	
+Learning Disabilities	DBH	1.0	
+Lewy Body Disease	DBH	1.0	
+Abnormality of head or neck	DBH	1.0	
+Attention deficit hyperactivity disorder	DBH	1.0	
+Major depressive disorder	DBH	1.0	
+Mild cognitive impairment	DBH	1.0	
+Congenital central hypoventilation	DBH	1.0	
+Paranoia	DBH	1.0	
+CNS symptom	DBH	1.0	
+Abnormality of temperature regulation	DBH	1.0	
+NEUROTICISM	DBH	1.0	
+Weight Gain Adverse Event	DBH	1.0	
+Cerebral Hemorrhage	DBH	1.0	
+Parkinson disease, late-onset	DBH	1.0	
+Functional abnormality of the bladder	DBH	1.0	
+Abnormal male reproductive system physiology	DBH	1.0	
+Abnormality of metabolism/homeostasis	DBH	1.0	
+Abnormality of the head	DBH	1.0	
+Abnormality of the palate	DBH	1.0	
+Abnormality of reproductive system physiology	DBH	1.0	
+Abnormality of the urinary system	DBH	1.0	
+Abnormality of nervous system physiology	DBH	1.0	
+Abnormal eye physiology	DBH	1.0	
+Abnormal autonomic nervous system physiology	DBH	1.0	
+Abnormality of cardiovascular system physiology	DBH	1.0	
+Abnormality of blood glucose concentration	DBH	1.0	
+Abnormal glucose homeostasis	DBH	1.0	
+Abnormality of carbohydrate metabolism/homeostasis	DBH	1.0	
+Abnormality of the lower urinary tract	DBH	1.0	
+Abnormality of the autonomic nervous system	DBH	1.0	
+Abnormality of the face	DBH	1.0	
+Abnormality of the oral cavity	DBH	1.0	
+Abnormality of the peripheral nervous system	DBH	1.0	

@@ -1,0 +1,17 @@
+node_name	node_type	
+DB00958	drug	
+ABCG2	drug_target	
+MT2A	drug_target	
+GSTT1	drug_target	
+SOD1	drug_target	
+GSTM1	drug_target	
+SLC31A2	drug_target	
+XDH	drug_target	
+SLC31A1	drug_target	
+GSTP1	drug_target	
+MPO	drug_target	
+NQO1	drug_target	
+ATP7A	drug_target	
+MT1A	drug_target	
+ABCC2	drug_target	
+ATP7B	drug_target	

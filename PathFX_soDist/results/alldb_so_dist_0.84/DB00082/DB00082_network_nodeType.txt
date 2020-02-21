@@ -1,0 +1,14 @@
+node_name	node_type	
+DB00082	drug	
+CYP4A11	drug_target	
+GHR	drug_target	
+CYP27A1	drug_target	
+GLUL	drug_target	
+BCHE	drug_target	
+CYP2C18	drug_target	
+CYP2C19	drug_target	
+CYP3A4	drug_target	
+Primary malignant neoplasm of liver	phenotype	
+Enzyme inhibition disorder	phenotype	
+Neurotoxicity Syndromes	phenotype	
+21-hydroxylase deficiency	phenotype	

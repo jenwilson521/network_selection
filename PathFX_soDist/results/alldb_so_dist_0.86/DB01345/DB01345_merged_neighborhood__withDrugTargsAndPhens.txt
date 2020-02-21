@@ -1,0 +1,3 @@
+node1	node2	edge_score	
+DB01345	ATP1A1	1.0	
+

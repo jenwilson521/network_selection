@@ -1,0 +1,26 @@
+node_name	node_type	
+DB00230	drug	
+CACNA2D1	drug_target	
+SLC7A5	drug_target	
+SLC1A1	drug_target	
+Phenylketonuria	phenotype	
+Precursor cell lymphoblastic lymphoma	phenotype	
+Clear cell renal cell carcinoma	phenotype	
+Bile duct cancer resectable	phenotype	
+Low Tension Glaucoma	phenotype	
+Cortical dysplasia, complex, with other brain malformations 3	phenotype	
+Cognition Disorders	phenotype	
+Obsessive-compulsive behavior	phenotype	
+Stress, Psychological	phenotype	
+Osteochondritis dissecans	phenotype	
+Malformation of cortical development	phenotype	
+Obsessive-compulsive disorder	phenotype	
+Alveolar cell carcinoma	phenotype	
+Latent autoimmune diabetes mellitus in adult	phenotype	
+Shy-Drager syndrome	phenotype	
+Intraocular pressure disorder	phenotype	
+Clear-cell metastatic renal cell carcinoma	phenotype	
+Intrahepatic Cholangiocarcinoma	phenotype	
+Dermatitis, Allergic Contact	phenotype	
+Anaplastic Oligodendroglioma	phenotype	
+Hyperplasia	phenotype	

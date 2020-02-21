@@ -1,0 +1,5 @@
+node1	node2	edge_score	
+DB00906	SLC6A1	1.0	
+DB00906	CYP3A4	1.0	
+DB00906	UGT1A1	1.0	
+

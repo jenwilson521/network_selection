@@ -1,0 +1,11 @@
+node_name	node_type	
+DB00395	drug	
+GABRG2	drug_target	
+GABRB2	drug_target	
+CYP2C19	drug_target	
+GABRA3	drug_target	
+GABRA1	drug_target	
+Severe myoclonic epilepsy in infancy	phenotype	
+Essential tremor	phenotype	
+Liver Cirrhosis, Alcoholic	phenotype	
+Methamphetamine abuse	phenotype	

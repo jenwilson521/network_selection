@@ -1,0 +1,23 @@
+node1	node2	edge_score	
+DB06213	ADORA2A	1.0	
+ADORA2A	rs2298383	0.99
+ADORA2A	rs2236624	0.99
+ADORA2A	rs2267076	0.99
+ADORA2A	rs5760410	0.99
+rs2298383	ADORA2A-AS1	0.9801
+ADORA2A	rs3761422	0.99
+ADORA2A		1.0
+ADORA2A	rs5751876	0.99
+rs5760410	SPECC1L	0.9801
+Facial cleft	SPECC1L	1.0	
+Abnormality of oral frenula	SPECC1L	1.0	
+Anal stenosis	SPECC1L	1.0	
+Orofacial cleft	SPECC1L	1.0	
+Renal interstitial fibrosis	ADORA2A	1.0	
+Bifid uvula	SPECC1L	1.0	
+Preauricular pit	SPECC1L	1.0	
+Periauricular skin pits	SPECC1L	1.0	
+Abnormality of the septum pellucidum	SPECC1L	1.0	
+Obstructive nephropathy	ADORA2A	1.0	
+Acne Vulgaris	ADORA2A-AS1	1.0	
+Insomnia	ADORA2A	1.0	

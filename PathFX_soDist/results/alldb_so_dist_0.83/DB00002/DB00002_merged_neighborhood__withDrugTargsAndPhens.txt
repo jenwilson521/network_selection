@@ -1,0 +1,447 @@
+node1	node2	edge_score	
+DB00002	FCGR2B	1.0	
+DB00002	FCGR2A	1.0	
+DB00002	C1QC	1.0	
+DB00002	EGFR	1.0	
+DB00002	C1QB	1.0	
+DB00002	C1QA	1.0	
+DB00002	FCGR2C	1.0	
+DB00002	FCGR1A	1.0	
+DB00002	C1S	1.0	
+DB00002	C1R	1.0	
+DB00002	FCGR3A	1.0	
+DB00002	FCGR3B	1.0	
+EGFR	rs712829	0.99
+EGFR	rs2293347	0.99
+FCGR2B		1.0
+FCGR3A		1.0
+FCGR2A		1.0
+EGFR	rs712830	0.99
+EGFR	rs121434569	0.99
+EGFR	rs121434568	0.99
+EGFR		1.0
+UBC	TRAF6	0.863464374084
+EGFR	rs11568315	0.99
+EGFR	UBC	0.935012238275
+EGFR	rs2227983	0.99
+Giant cell arteritis	FCGR2A	1.0	
+Giant cell arteritis	FCGR2B	1.0	
+Giant cell arteritis	FCGR3A	1.0	
+Giant cell arteritis	TRAF6	1.0	
+Lupus Vulgaris	EGFR	1.0	
+Lupus Vulgaris	FCGR2A	1.0	
+Lupus Vulgaris	FCGR2B	1.0	
+Lupus Vulgaris	FCGR3A	1.0	
+Lupus Vulgaris	TRAF6	1.0	
+Discoid lupus erythematosus	EGFR	1.0	
+Discoid lupus erythematosus	FCGR2A	1.0	
+Discoid lupus erythematosus	FCGR2B	1.0	
+Discoid lupus erythematosus	FCGR3A	1.0	
+Discoid lupus erythematosus	TRAF6	1.0	
+Anti-Glomerular Basement Membrane Disease	FCGR2A	1.0	
+Anti-Glomerular Basement Membrane Disease	FCGR2B	1.0	
+Anti-Glomerular Basement Membrane Disease	FCGR3A	1.0	
+Meningococcal Infections	FCGR2A	1.0	
+Meningococcal Infections	FCGR2B	1.0	
+Meningococcal Infections	FCGR3A	1.0	
+{Systemic lupus erythematosus, susceptibility to, 8} (2)	EGFR	1.0	
+{Systemic lupus erythematosus, susceptibility to, 8} (2)	FCGR2A	1.0	
+{Systemic lupus erythematosus, susceptibility to, 8} (2)	FCGR2B	1.0	
+{Systemic lupus erythematosus, susceptibility to, 8} (2)	FCGR3A	1.0	
+{Systemic lupus erythematosus, susceptibility to, 8} (2)	TRAF6	1.0	
+{Pemphigoid, susceptibility to} (2)	FCGR2A	1.0	
+{Pemphigoid, susceptibility to} (2)	FCGR2B	1.0	
+{Pemphigoid, susceptibility to} (2)	FCGR3A	1.0	
+Lichen Planus, Oral	EGFR	1.0	
+Lichen Planus, Oral	FCGR2A	1.0	
+Lichen Planus, Oral	FCGR2B	1.0	
+Recurrent bacterial infection	EGFR	1.0	
+Recurrent bacterial infection	FCGR2A	1.0	
+Recurrent bacterial infection	FCGR2B	1.0	
+Recurrent bacterial infection	TRAF6	1.0	
+Idiopathic thrombocytopenic purpura	FCGR2A	1.0	
+Idiopathic thrombocytopenic purpura	FCGR2B	1.0	
+Idiopathic thrombocytopenic purpura	FCGR3A	1.0	
+Periodontal Attachment Loss	FCGR2A	1.0	
+Periodontal Attachment Loss	FCGR3A	1.0	
+Graft-versus-host disease, susceptibility to	EGFR	1.0	
+Graft-versus-host disease, susceptibility to	FCGR2A	1.0	
+Graft-versus-host disease, susceptibility to	FCGR3A	1.0	
+Graft-versus-host disease, susceptibility to	TRAF6	1.0	
+Neoplasm of the thymus	EGFR	1.0	
+Neoplasm of the thymus	FCGR2A	1.0	
+Common variable immunodeficiency 2	FCGR2A	1.0	
+Common variable immunodeficiency 2	FCGR2B	1.0	
+Common variable immunodeficiency 2	FCGR3A	1.0	
+Hypohidrotic X-linked ectodermal dysplasia	EGFR	1.0	
+Hypohidrotic X-linked ectodermal dysplasia	TRAF6	1.0	
+Periodontal Pocket	FCGR2A	1.0	
+Periodontal Pocket	FCGR3A	1.0	
+Alveolar Bone Loss	FCGR2A	1.0	
+Alveolar Bone Loss	FCGR3A	1.0	
+Malignant neoplasm of brain and nervous system	EGFR	1.0	
+Malignant neoplasm of brain and nervous system	FCGR2A	1.0	
+Malignant neoplasm of brain and nervous system	FCGR3A	1.0	
+Alveolar proteinosis	FCGR2A	1.0	
+Alveolar proteinosis	FCGR2B	1.0	
+Idiopathic crescentic glomerulonephritis	EGFR	1.0	
+Idiopathic crescentic glomerulonephritis	FCGR3A	1.0	
+Diffuse Scleroderma	FCGR2A	1.0	
+Diffuse Scleroderma	FCGR3A	1.0	
+Respiratory tract infection	EGFR	1.0	
+Respiratory tract infection	FCGR2A	1.0	
+Respiratory tract infection	FCGR2B	1.0	
+Respiratory tract infection	FCGR3A	1.0	
+Tumor necrosis	EGFR	1.0	
+Tumor necrosis	FCGR3A	1.0	
+Tumor necrosis	TRAF6	1.0	
+Cachexia	EGFR	1.0	
+Cachexia	TRAF6	1.0	
+Cachexia	UBC	1.0	
+Sickle Cell Trait	FCGR2A	1.0	
+Sickle Cell Trait	FCGR2B	1.0	
+Chronic Periodontitis	FCGR2A	1.0	
+Chronic Periodontitis	FCGR2B	1.0	
+Chronic Periodontitis	FCGR3A	1.0	
+Lymphoma, Large B-Cell, Diffuse	EGFR	1.0	
+Lymphoma, Large B-Cell, Diffuse	FCGR2A	1.0	
+Lymphoma, Large B-Cell, Diffuse	FCGR2B	1.0	
+Lymphoma, Large B-Cell, Diffuse	FCGR3A	1.0	
+Lymphoma, Large B-Cell, Diffuse	TRAF6	1.0	
+Lymphoma, Large B-Cell, Diffuse	UBC	1.0	
+Pneumococcal Infections	FCGR2A	1.0	
+Pneumococcal Infections	FCGR2B	1.0	
+Guillain-Barre syndrome, familial	FCGR2A	1.0	
+Guillain-Barre syndrome, familial	FCGR3A	1.0	
+Pneumonitis	FCGR2A	1.0	
+Pneumonitis	FCGR3A	1.0	
+Mucocutaneous Lymph Node Syndrome	FCGR2A	1.0	
+Mucocutaneous Lymph Node Syndrome	FCGR2B	1.0	
+Mucocutaneous Lymph Node Syndrome	FCGR3A	1.0	
+Infection by Cryptococcus neoformans	FCGR2A	1.0	
+Infection by Cryptococcus neoformans	FCGR3A	1.0	
+Tuberculosis, Pulmonary	EGFR	1.0	
+Tuberculosis, Pulmonary	FCGR2A	1.0	
+Tuberculosis, Pulmonary	FCGR3A	1.0	
+Lupus Nephritis	FCGR2A	1.0	
+Lupus Nephritis	FCGR2B	1.0	
+Lupus Nephritis	FCGR3A	1.0	
+{Spondyloarthropathy, susceptibility to, 1}, 106300 (3)	FCGR2A	1.0	
+{Spondyloarthropathy, susceptibility to, 1}, 106300 (3)	FCGR2B	1.0	
+Severe Dengue	FCGR2A	1.0	
+Severe Dengue	FCGR2B	1.0	
+Granulomatosis with Polyangiitis	FCGR2A	1.0	
+Granulomatosis with Polyangiitis	FCGR3A	1.0	
+Arthritis, Rheumatoid	EGFR	1.0	
+Arthritis, Rheumatoid	FCGR2A	1.0	
+Arthritis, Rheumatoid	FCGR2B	1.0	
+Arthritis, Rheumatoid	FCGR3A	1.0	
+Arthritis, Rheumatoid	TRAF6	1.0	
+Neutropenia	FCGR2A	1.0	
+Neutropenia	FCGR2B	1.0	
+Neutropenia	FCGR3A	1.0	
+Nephrotic syndrome, type 5, with or without ocular abnormalities	FCGR2A	1.0	
+Nephrotic syndrome, type 5, with or without ocular abnormalities	FCGR2B	1.0	
+Nephrotic syndrome, type 5, with or without ocular abnormalities	FCGR3A	1.0	
+{Diphtheria, susceptibility to} (1)	EGFR	1.0	
+{Diphtheria, susceptibility to} (1)	TRAF6	1.0	
+Inflammatory disorder	FCGR2B	1.0	
+Inflammatory disorder	FCGR3A	1.0	
+Inflammatory disorder	TRAF6	1.0	
+Candidiasis, familial, 9	FCGR2A	1.0	
+Candidiasis, familial, 9	FCGR3A	1.0	
+Recurrent upper respiratory tract infections	EGFR	1.0	
+Recurrent upper respiratory tract infections	FCGR3A	1.0	
+Parasitemia	FCGR2A	1.0	
+Parasitemia	FCGR2B	1.0	
+Periodontitis, Juvenile	FCGR2A	1.0	
+Periodontitis, Juvenile	FCGR3A	1.0	
+B-cell lymphoma	EGFR	1.0	
+B-cell lymphoma	FCGR2A	1.0	
+B-cell lymphoma	FCGR2B	1.0	
+B-cell lymphoma	FCGR3A	1.0	
+Merkel cell carcinoma	EGFR	1.0	
+Merkel cell carcinoma	FCGR3A	1.0	
+Acute Coronary Syndrome	EGFR	1.0	
+Acute Coronary Syndrome	FCGR2A	1.0	
+Acute Coronary Syndrome	FCGR3A	1.0	
+Abnormality of the nasopharynx	EGFR	1.0	
+Abnormality of the nasopharynx	FCGR3A	1.0	
+Multiple Myeloma	EGFR	1.0	
+Multiple Myeloma	FCGR2A	1.0	
+Multiple Myeloma	FCGR2B	1.0	
+Multiple Myeloma	FCGR3A	1.0	
+Multiple Myeloma	TRAF6	1.0	
+Periodontitis	FCGR2A	1.0	
+Periodontitis	FCGR2B	1.0	
+Periodontitis	FCGR3A	1.0	
+Meningitis	FCGR2A	1.0	
+Meningitis	FCGR3A	1.0	
+Kidney Diseases	EGFR	1.0	
+Kidney Diseases	FCGR2A	1.0	
+Kidney Diseases	FCGR2B	1.0	
+Kidney Diseases	FCGR3A	1.0	
+Hepatitis, Autoimmune	FCGR2A	1.0	
+Hepatitis, Autoimmune	FCGR2B	1.0	
+Coronary Artery Disease	FCGR2A	1.0	
+Coronary Artery Disease	FCGR2B	1.0	
+Coronary Artery Disease	FCGR3A	1.0	
+Coronary Artery Disease	TRAF6	1.0	
+Coronary Artery Disease	UBC	1.0	
+Abnormality of the pharynx	EGFR	1.0	
+Abnormality of the pharynx	FCGR3A	1.0	
+Lymphoma, Follicular	FCGR2A	1.0	
+Lymphoma, Follicular	FCGR2B	1.0	
+Lymphoma, Follicular	FCGR3A	1.0	
+Urothelial Carcinoma	EGFR	1.0	
+Urothelial Carcinoma	FCGR2A	1.0	
+Urothelial Carcinoma	FCGR2B	1.0	
+Gingival Diseases	FCGR2A	1.0	
+Gingival Diseases	FCGR3A	1.0	
+Pleural effusion	EGFR	1.0	
+Pleural effusion	FCGR3A	1.0	
+Rhinitis, Allergic, Seasonal	EGFR	1.0	
+Rhinitis, Allergic, Seasonal	FCGR2A	1.0	
+Lupus Erythematosus, Systemic	EGFR	1.0	
+Lupus Erythematosus, Systemic	FCGR2A	1.0	
+Lupus Erythematosus, Systemic	FCGR2B	1.0	
+Lupus Erythematosus, Systemic	FCGR3A	1.0	
+Lupus Erythematosus, Systemic	TRAF6	1.0	
+Malaria, Falciparum	FCGR2A	1.0	
+Malaria, Falciparum	FCGR2B	1.0	
+Celiac Disease	EGFR	1.0	
+Celiac Disease	FCGR2A	1.0	
+Celiac Disease	FCGR3A	1.0	
+Autoimmune disease 1	FCGR2A	1.0	
+Autoimmune disease 1	FCGR2B	1.0	
+Autoimmune disease 1	FCGR3A	1.0	
+Autoimmune disease 1	TRAF6	1.0	
+Hemolytic anemia, nonspherocytic, due to glucose phosphate isomerase deficiency	FCGR2A	1.0	
+Hemolytic anemia, nonspherocytic, due to glucose phosphate isomerase deficiency	FCGR2B	1.0	
+Progressive Neoplastic Disease	EGFR	1.0	
+Progressive Neoplastic Disease	FCGR3A	1.0	
+Progressive cGVHD	EGFR	1.0	
+Progressive cGVHD	FCGR3A	1.0	
+Drug Eruptions	EGFR	1.0	
+Disorder of skeletal system	EGFR	1.0	
+Papillary adenocarcinoma	EGFR	1.0	
+Pleural Neoplasms	EGFR	1.0	
+Sarcoma, Epithelioid	EGFR	1.0	
+childhood rhabdomyosarcoma	EGFR	1.0	
+Peritoneal Mesothelioma	EGFR	1.0	
+Estrogen resistance	EGFR	1.0	
+Pneumonia	EGFR	1.0	
+Pneumonia	FCGR2A	1.0	
+Pneumonia	FCGR3A	1.0	
+Cervical dysplasia	EGFR	1.0	
+Seborrheic keratosis	EGFR	1.0	
+Dermatosis NOS	EGFR	1.0	
+Dermatosis NOS	FCGR2A	1.0	
+Dermatosis NOS	FCGR2B	1.0	
+Adrenal Gland Hyperfunction	EGFR	1.0	
+Dupuytren Contracture	EGFR	1.0	
+Multiple Endocrine Neoplasia Type 2b	EGFR	1.0	
+Breast cancer recurrent	EGFR	1.0	
+Early gastric cancer	EGFR	1.0	
+Malignant neoplasm of vulva	EGFR	1.0	
+Astrocytoma, low grade	EGFR	1.0	
+Thymoma	EGFR	1.0	
+Thymoma	FCGR2A	1.0	
+Nephritis	FCGR2A	1.0	
+Nephritis	FCGR3A	1.0	
+Pyruvate carboxylase deficiency	EGFR	1.0	
+Squamous Cell Neoplasms	EGFR	1.0	
+Pituitary dependent hypercortisolism	EGFR	1.0	
+Dermatofibrosarcoma protuberans	EGFR	1.0	
+Familial cold-induced inflammatory syndrome 1, 120100 (3)	EGFR	1.0	
+Bacterial endocarditis	FCGR2A	1.0	
+Recurrent bronchitis	EGFR	1.0	
+Large cell neuroendocrine carcinoma	EGFR	1.0	
+Thymic Carcinoma	EGFR	1.0	
+Myeloproliferative disorder, chronic, with eosinophilia	EGFR	1.0	
+Vasculitis	FCGR2A	1.0	
+Vasculitis	FCGR2B	1.0	
+Hypersensitivity	EGFR	1.0	
+Hypersensitivity	TRAF6	1.0	
+Monocytosis	FCGR2B	1.0	
+Gastrinoma	EGFR	1.0	
+Puerperal Disorders	FCGR2A	1.0	
+Xeroderma Pigmentosum, Complementation Group D	EGFR	1.0	
+Recurrent sinusitis	FCGR3A	1.0	
+TNF receptor-associated periodic fever syndrome (TRAPS)	FCGR3A	1.0	
+Herpes Simplex Infections	EGFR	1.0	
+Herpes Simplex Infections	FCGR2B	1.0	
+Herpes Simplex Infections	FCGR3A	1.0	
+Staphylococcal Infections	EGFR	1.0	
+Stage IV Ovarian Carcinoma	EGFR	1.0	
+Adenocarcinoma in Situ	EGFR	1.0	
+Anterior myocardial infarction	FCGR3A	1.0	
+Complete hydatidiform mole	EGFR	1.0	
+Mucinous Neoplasm	EGFR	1.0	
+Primary Lesion	EGFR	1.0	
+Pericardial effusion	EGFR	1.0	
+Rheumatic fever / chorea	FCGR2A	1.0	
+Malignant neoplasm of oropharynx	EGFR	1.0	
+Acinar Cell Carcinoma	EGFR	1.0	
+Comedone	EGFR	1.0	
+Prostate cancer recurrent	EGFR	1.0	
+Sentinel node (disorder)	EGFR	1.0	
+Malaria	FCGR2A	1.0	
+Malaria	FCGR2B	1.0	
+Malaria	FCGR3A	1.0	
+Acute myeloid leukemia	EGFR	1.0	
+Acute myeloid leukemia	FCGR2A	1.0	
+Acute myeloid leukemia	FCGR2B	1.0	
+Acute myeloid leukemia	FCGR3A	1.0	
+Acute myeloid leukemia	TRAF6	1.0	
+Severe combined immunodeficiency due to ADA deficiency	EGFR	1.0	
+Severe combined immunodeficiency due to ADA deficiency	FCGR3A	1.0	
+Severe combined immunodeficiency due to ADA deficiency	TRAF6	1.0	
+Endocarditis	FCGR2A	1.0	
+Arthritis, Psoriatic	FCGR2A	1.0	
+Arthritis, Psoriatic	FCGR3A	1.0	
+Neoplasm of the peripheral nervous system	EGFR	1.0	
+Polymyalgia Rheumatica	TRAF6	1.0	
+Hemangioblastoma	EGFR	1.0	
+Metastatic Carcinoma	EGFR	1.0	
+Microscopic Polyarteritis	FCGR2A	1.0	
+Non-Hodgkin lymphoma	FCGR2A	1.0	
+Non-Hodgkin lymphoma	FCGR3A	1.0	
+Non-Hodgkin lymphoma	TRAF6	1.0	
+Myasthenia Gravis	FCGR2A	1.0	
+Myasthenia Gravis	FCGR3A	1.0	
+Allergic disposition	FCGR2A	1.0	
+Allergic disposition	FCGR2B	1.0	
+Autoimmune hemolytic anemia	FCGR3A	1.0	
+Community acquired pneumonia	FCGR2A	1.0	
+Germinal Center B-Cell-Like Diffuse Large B-Cell Lymphoma	FCGR2A	1.0	
+Germinal Center B-Cell-Like Diffuse Large B-Cell Lymphoma	FCGR3A	1.0	
+Germinal Center B-Cell-Like Diffuse Large B-Cell Lymphoma	TRAF6	1.0	
+Herpesviridae Infections	FCGR3A	1.0	
+Malignant neoplasm of stomach stage IV	EGFR	1.0	
+Verotoxigenic Escherichia coli gastrointestinal tract infection	EGFR	1.0	
+Verotoxigenic Escherichia coli gastrointestinal tract infection	FCGR2A	1.0	
+Verotoxigenic Escherichia coli gastrointestinal tract infection	FCGR3A	1.0	
+Verotoxigenic Escherichia coli gastrointestinal tract infection	TRAF6	1.0	
+Diffuse Astrocytoma	EGFR	1.0	
+Intracranial glioma	EGFR	1.0	
+Testicular seminoma	EGFR	1.0	
+Testicular seminoma	UBC	1.0	
+Plague	EGFR	1.0	
+Neurofibromatoses	EGFR	1.0	
+Stromal sarcoma	EGFR	1.0	
+Clear cell sarcoma, of tendons and aponeuroses	EGFR	1.0	
+Rhinovirus infection	EGFR	1.0	
+Pneumonia, Bacterial	FCGR2A	1.0	
+Bronchogenic Carcinoma	EGFR	1.0	
+Neuromyelitis Optica	FCGR3A	1.0	
+CNS metastases	EGFR	1.0	
+Chronic rejection of renal transplant	EGFR	1.0	
+Otitis media	FCGR2A	1.0	
+Otitis media	FCGR3A	1.0	
+Rheumatoid arthritis	EGFR	1.0	
+Rheumatoid arthritis	FCGR2A	1.0	
+Rheumatoid arthritis	FCGR2B	1.0	
+Rheumatoid arthritis	FCGR3A	1.0	
+Rheumatoid arthritis	TRAF6	1.0	
+Carcinosarcoma	EGFR	1.0	
+{TSC2 angiomyolipomas, renal, modifier of}, 613254 (3)	EGFR	1.0	
+Erythroblastosis	EGFR	1.0	
+Primary malignant neoplasm of brain	EGFR	1.0	
+Gestational trophoblastic disease	EGFR	1.0	
+Sepsis	FCGR2A	1.0	
+Sepsis	FCGR3A	1.0	
+Sepsis	TRAF6	1.0	
+Anaphylactic shock NOS	FCGR2A	1.0	
+Cholesteatoma	EGFR	1.0	
+Malignant neoplasm of male breast	EGFR	1.0	
+Chloracne	EGFR	1.0	
+Dryness of eye	EGFR	1.0	
+Tumor-Associated Vasculature	EGFR	1.0	
+Nasal polyposis	EGFR	1.0	
+Nasal polyposis	TRAF6	1.0	
+Ovarian Diseases	FCGR2A	1.0	
+Ovarian Diseases	FCGR2B	1.0	
+Gastritis	EGFR	1.0	
+Gastritis	FCGR3A	1.0	
+Single tumor	EGFR	1.0	
+Primary Carcinoma	EGFR	1.0	
+Symptomatic human immunodeficiency virus infection	EGFR	1.0	
+Symptomatic human immunodeficiency virus infection	FCGR2A	1.0	
+Symptomatic human immunodeficiency virus infection	FCGR2B	1.0	
+Symptomatic human immunodeficiency virus infection	FCGR3A	1.0	
+Symptomatic human immunodeficiency virus infection	TRAF6	1.0	
+Chronic Lymphocytic Leukemia	EGFR	1.0	
+Chronic Lymphocytic Leukemia	FCGR2A	1.0	
+Chronic Lymphocytic Leukemia	FCGR2B	1.0	
+Chronic Lymphocytic Leukemia	FCGR3A	1.0	
+Mycoses	FCGR2A	1.0	
+Mycoses	TRAF6	1.0	
+Yolk Sac Tumor	EGFR	1.0	
+Autosomal recessive polycystic kidney disease	EGFR	1.0	
+Acute intermittent porphyria	EGFR	1.0	
+Ganglioglioma	EGFR	1.0	
+Oropharyngeal disorders	EGFR	1.0	
+Recurrent pneumonia	EGFR	1.0	
+Mammary Carcinoma, Human	EGFR	1.0	
+Pituitary corticotropic cell adenoma	EGFR	1.0	
+Dry Eye Syndromes	EGFR	1.0	
+Neoplasm of the respiratory system	EGFR	1.0	
+Takayasu Arteritis	FCGR2A	1.0	
+Adenosquamous carcinoma	EGFR	1.0	
+CARCINOMA OF VULVA	EGFR	1.0	
+Brucellosis	FCGR2A	1.0	
+Streptococcal Infections	FCGR2A	1.0	
+Li-Fraumeni syndrome	EGFR	1.0	
+Varicella zoster	FCGR3A	1.0	
+Neck Neoplasms	EGFR	1.0	
+Squamous cell carcinoma of mouth	EGFR	1.0	
+Bile duct cancer resectable	EGFR	1.0	
+Thrombocytopenia, platelet dysfunction, hemolysis, and imbalanced globin synthesis	FCGR2A	1.0	
+Thrombocytopenia, platelet dysfunction, hemolysis, and imbalanced globin synthesis	FCGR3A	1.0	
+Inflammation	EGFR	1.0	
+Inflammation	FCGR2A	1.0	
+Inflammation	FCGR3A	1.0	
+IgA nephropathy, susceptibility to, 3	FCGR2A	1.0	
+IgA nephropathy, susceptibility to, 3	FCGR2B	1.0	
+IgA nephropathy, susceptibility to, 3	FCGR3A	1.0	
+Neoplasm of the gallbladder	EGFR	1.0	
+Rous Sarcoma	UBC	1.0	
+Ganglioneuroblastoma	EGFR	1.0	
+Papillomavirus Infections	EGFR	1.0	
+stage, non-small cell lung cancer	EGFR	1.0	
+Phyllodes tumor, benign	EGFR	1.0	
+Uterine Cancer	EGFR	1.0	
+Trichomegaly	EGFR	1.0	
+Peptic Esophagitis	EGFR	1.0	
+Leukoplakia	EGFR	1.0	
+Polyradiculoneuropathy, Chronic Inflammatory Demyelinating	FCGR2B	1.0	
+Neurofibromas	EGFR	1.0	
+Recurrent lower respiratory tract infections	EGFR	1.0	
+Colitis, Ulcerative	EGFR	1.0	
+Colitis, Ulcerative	FCGR2A	1.0	
+Colitis, Ulcerative	TRAF6	1.0	
+Atherosclerosis	EGFR	1.0	
+Atherosclerosis	FCGR2A	1.0	
+Atherosclerosis	FCGR3A	1.0	
+Atherosclerosis	TRAF6	1.0	
+pathologic fistula	EGFR	1.0	
+Nerve Sheath Tumors	EGFR	1.0	
+Brain Tumor, Primary	EGFR	1.0	
+Low Grade Squamous Intraepithelial Neoplasia	EGFR	1.0	
+Leukemia, Large Granular Lymphocytic	FCGR3A	1.0	
+Chromosome Xq28 deletion syndrome	EGFR	1.0	
+Carcinoma, Neuroendocrine	EGFR	1.0	
+Carcinoma of Male Breast	EGFR	1.0	
+Neoplasm Recurrence, Local	EGFR	1.0	
+Neoplasm Recurrence, Local	FCGR2A	1.0	
+Arnold-Chiari malformation	EGFR	1.0	
+Russell-Silver syndrome	EGFR	1.0	
+Biliary tract neoplasm	EGFR	1.0	
+Optic neuropathy	EGFR	1.0	
+Female pseudohermaphroditism	EGFR	1.0	
+Malignant Fibrous Histiocytoma	EGFR	1.0	
+Human papilloma virus infection	EGFR	1.0	
+EPIDERMODYSPLASIA VERRUCIFORMIS	FCGR3A	1.0	
+Oropharyngeal squamous cell carcinoma	EGFR	1.0	
+Lymphangiomyomatosis	EGFR	1.0	

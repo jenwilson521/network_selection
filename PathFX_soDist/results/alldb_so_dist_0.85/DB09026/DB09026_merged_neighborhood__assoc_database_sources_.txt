@@ -1,0 +1,9 @@
+Gene	CUI	Source Databases	
+CYP3A4	C0877008	Enzyme inhibition disorder	DisGeNet	
+REN	C0877008	Enzyme inhibition disorder	DisGeNet	
+CYP3A4	C0342492	Adrenal hyperplasia	DisGeNet	
+REN	C0342492	Adrenal hyperplasia	DisGeNet	
+CYP3A4	C0024620	Primary malignant neoplasm of liver	DisGeNet	
+REN	C0268450	Familial hypokalemia-hypomagnesemia	DisGeNet	
+REN	C0340100	High altitude pulmonary edema	DisGeNet	
+REN	C1567435	Polycystic Kidney - body part	DisGeNet	

@@ -1,0 +1,3 @@
+SLCO2B1		1.0	
+PTGIR		1.0	
+PDE4D		1.0	

@@ -1,0 +1,4 @@
+Gene	CUI	Source Databases	
+CYP1A2	C0085859	Polyglandular Type I Autoimmune Syndrome	DisGeNet	
+CYP1A2	C0032229	Pleural Neoplasms	DisGeNet	
+HTR1B	C0006370	Bulimia	DisGeNet	

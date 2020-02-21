@@ -1,0 +1,285 @@
+Gene	CUI	Source Databases	
+HBB	C0002871	Anemia	DisGeNet,HumPhenOnt	
+TF	C0002871	Anemia	DisGeNet,HumPhenOnt,PheGenI	
+HBB	C0006142	Breast-ovarian cancer, familial 1	DisGeNet	
+TF	C0006142	Breast-ovarian cancer, familial 1	DisGeNet	
+HBB	C0010674	Cystic Fibrosis	DisGeNet	
+TF	C0010674	Cystic Fibrosis	DisGeNet	
+HBB	C0011849	Diabetes Mellitus, Type 1	HumPhenOnt	
+TF	C0011849	Diabetes Mellitus, Type 1	DisGeNet	
+HBB	C0013502	Echinococcosis	DisGeNet	
+TF	C0013502	Echinococcosis	DisGeNet	
+HBB	C0018995	Hemochromatosis	DisGeNet	
+TF	C0018995	Hemochromatosis	DisGeNet,PheGenI	
+HBB	C0020676	Hypothyroidism	HumPhenOnt	
+TF	C0020676	Hypothyroidism	HumPhenOnt	
+HBB	C0021368	Inflammation	DisGeNet	
+TF	C0021368	Inflammation	DisGeNet	
+HBB	C0023890	Liver Cirrhosis, Biliary	HumPhenOnt	
+TF	C0023890	Liver Cirrhosis, Biliary	DisGeNet	
+HBB	C0023903	Neoplasm of the liver	HumPhenOnt	
+TF	C0023903	Neoplasm of the liver	DisGeNet	
+HBB	C0027627	Secondary hypertriglyceridemia	DisGeNet	
+TF	C0027627	Secondary hypertriglyceridemia	DisGeNet	
+HBB	C0038454	Stroke	DisGeNet	
+TF	C0038454	Stroke	DisGeNet	
+HBB	C0040128	Thyroid Diseases	HumPhenOnt	
+TF	C0040128	Thyroid Diseases	HumPhenOnt	
+HBB	C0040136	Thyroid Neoplasms	DisGeNet	
+TF	C0040136	Thyroid Neoplasms	DisGeNet	
+HBB	C0151699	Intracranial hemorrhage	DisGeNet	
+TF	C0151699	Intracranial hemorrhage	DisGeNet	
+HBB	C0162316	Iron deficiency anemia	DisGeNet,HumPhenOnt	
+TF	C0162316	Iron deficiency anemia	DisGeNet	
+HBB	C0239998	Infections, recurrent, with encephalopathy, hepatic dysfunction, and cardiovascular malformations	HumPhenOnt	
+TF	C0239998	Infections, recurrent, with encephalopathy, hepatic dysfunction, and cardiovascular malformations	HumPhenOnt	
+HBB	C0240083	Abnormal joint morphology	HumPhenOnt	
+TF	C0240083	Abnormal joint morphology	HumPhenOnt	
+HBB	C0241657	Abnormality of blood and blood-forming tissues	HumPhenOnt	
+TF	C0241657	Abnormality of blood and blood-forming tissues	HumPhenOnt	
+HBB	C0243050	Abnormality of cardiovascular system electrophysiology	HumPhenOnt	
+TF	C0243050	Abnormality of cardiovascular system electrophysiology	HumPhenOnt	
+HBB	C0266015	Abnormality of the digestive system	HumPhenOnt	
+TF	C0266015	Abnormality of the digestive system	HumPhenOnt	
+HBB	C0282193	Iron Overload	DisGeNet	
+TF	C0282193	Iron Overload	DisGeNet	
+HBB	C0391870	Abnormality of erythrocytes	HumPhenOnt	
+TF	C0391870	Abnormality of erythrocytes	HumPhenOnt	
+HBB	C0441748	Autosomal recessive inheritance	HumPhenOnt	
+TF	C0441748	Autosomal recessive inheritance	HumPhenOnt	
+HBB	C0678199	Anemia of inadequate production	HumPhenOnt	
+TF	C0678199	Anemia of inadequate production	HumPhenOnt	
+HBB	C0678222	Breast carcinoma	DisGeNet	
+TF	C0678222	Breast carcinoma	DisGeNet	
+HBB	C0857576	Abnormality of thyroid physiology	HumPhenOnt	
+TF	C0857576	Abnormality of thyroid physiology	HumPhenOnt	
+HBB	C4021753	Abnormality of the immune system	HumPhenOnt	
+TF	C4021753	Abnormality of the immune system	HumPhenOnt	
+HBB	C4021764	Abnormality of the abdominal organs	HumPhenOnt	
+TF	C4021764	Abnormality of the abdominal organs	HumPhenOnt	
+HBB	C4021768	Abnormality of metabolism/homeostasis	HumPhenOnt	
+TF	C4021768	Abnormality of metabolism/homeostasis	HumPhenOnt	
+HBB	C4021780	Abnormality of the liver	HumPhenOnt	
+TF	C4021780	Abnormality of the liver	HumPhenOnt	
+HBB	C4021790	Abnormality of the skeletal system	HumPhenOnt	
+TF	C4021790	Abnormality of the skeletal system	HumPhenOnt	
+HBB	C4023165	Abnormality of skeletal morphology	HumPhenOnt	
+TF	C4023165	Abnormality of skeletal morphology	HumPhenOnt	
+HBB	C4023587	Abnormality of cardiovascular system physiology	HumPhenOnt	
+TF	C4023587	Abnormality of cardiovascular system physiology	HumPhenOnt	
+HBB	C4023616	Abnormality of immune system physiology	HumPhenOnt	
+TF	C4023616	Abnormality of immune system physiology	HumPhenOnt	
+HBB	C4025823	Abnormality of the endocrine system	HumPhenOnt	
+TF	C4025823	Abnormality of the endocrine system	HumPhenOnt	
+TF	C0001349	Acute-Phase Reaction	DisGeNet	
+HBB	C0206160	Reticulocytosis	HumPhenOnt	
+HBB	C0271994	Hereditary persistence of fetal hemoglobin thalassemia	DisGeNet	
+HBB	C0031485	Phenylketonuria	DisGeNet	
+TF	C0002797	Bovine Anaplasmosis	DisGeNet	
+TF	C0015814	Femur Head Necrosis	DisGeNet	
+HBB	C0032965	Pregnancy Complications, Infectious	DisGeNet	
+HBB	C4023584	Abnormality of transition element cation homeostasis	HumPhenOnt	
+TF	C0030524	Paratuberculosis	DisGeNet	
+HBB	C1527405	Erythrocytosis	DisGeNet	
+HBB	C4025358	Abnormality of reticulocytes	HumPhenOnt	
+HBB	C0010520	Cyanosis	DisGeNet	
+HBB	C0238644	Anemia, severe	DisGeNet	
+HBB	C2939465	Deficiency of glucose-6-phosphate dehydrogenase	DisGeNet	
+HBB	C0085576	Microcytic anemia	DisGeNet,HumPhenOnt	
+HBB	C4022003	Erectile abnormalities	HumPhenOnt	
+HBB	C0263454	Chloracne	DisGeNet	
+TF	C0029445	Bone necrosis	DisGeNet	
+HBB	C0085660	Aseptic necrosis	HumPhenOnt	
+HBB	C0037054	Sickle Cell Trait	DisGeNet	
+TF	C0035258	Restless Legs Syndrome	DisGeNet	
+HBB	C0019045	Hemoglobinopathy	ClinVar,DisGeNet	
+HBB	C1842937	Aural atresia, congenital	DisGeNet	
+HBB	C4022904	Abnormal gallbladder morphology	HumPhenOnt	
+HBB	C4023198	Abnormality of the parathyroid physiology	HumPhenOnt	
+HBB	C0002875	Cooley's anemia	DisGeNet	
+HBB	C0023518	Leukocytosis	HumPhenOnt	
+HBB	C0020305	Hydrops fetalis, nonimmune, and/or atrial septal defect, susceptibility to	DisGeNet	
+HBB	C0040592	Trachoma	DisGeNet	
+HBB	C4025822	Abnormality of the parathyroid gland	HumPhenOnt	
+HBB	C0266249	Abnormality of the gallbladder	HumPhenOnt	
+HBB	C0020626	Hypoparathyroidism	HumPhenOnt	
+HBB	C0587955	Abnormal urine cytology	HumPhenOnt	
+HBB	C0008031	Chest pain	DisGeNet,HumPhenOnt	
+HBB	C0234629	Abnormality of color vision	HumPhenOnt	
+HBB	C0543968	Cone dysfunction syndrome	HumPhenOnt	
+HBB	C4022922	Abnormal enzyme/coenzyme activity	HumPhenOnt	
+HBB	C4025336	Abnormality of nitrogen compound homeostasis	HumPhenOnt	
+HBB	C0029443	Osteomyelitis, sterile multifocal, with periostitis and pustulosis	HumPhenOnt	
+HBB	C0030232	Pallor	HumPhenOnt	
+HBB	C0242528	Azotemia	HumPhenOnt	
+HBB	C0018965	Hematuria	HumPhenOnt	
+HBB	C4025731	Abnormal thrombosis	HumPhenOnt	
+HBB	C0032461	Polycythemia	DisGeNet	
+HBB	C1510733	Abnormal neutrophil count	HumPhenOnt	
+TF	C0392514	Hereditary hemochromatosis	DisGeNet	
+HBB	C0002312	Alpha thalassemia-mental retardation syndrome	ClinVar,DisGeNet	
+HBB	C0576093	Genu valgum	HumPhenOnt	
+HBB	C4021112	Anemia due to reduced life span of red cells	HumPhenOnt	
+HBB	C0019340	Herpes NOS	DisGeNet	
+HBB	C0242723	Parasitemia	DisGeNet	
+TF	C0867389	Chronic graft-versus-host disease	DisGeNet	
+HBB	C3805917	Elevated pulmonary artery pressure	HumPhenOnt	
+HBB	C4280730	Abnormality of pulmonary circulation	HumPhenOnt	
+HBB	C0024534	Malaria, Cerebral	DisGeNet	
+HBB	C0030554	Paresthesia	HumPhenOnt	
+HBB	C0020433	Hyperbilirubinemia	HumPhenOnt	
+HBB	C0206664	Teratocarcinoma	DisGeNet	
+HBB	C4022603	Abnormal vascular physiology	HumPhenOnt	
+TF	C0023891	Liver Cirrhosis, Alcoholic	DisGeNet	
+HBB	C0836924	Thrombocytosis, benign familial microcytic	HumPhenOnt	
+HBB	C4023212	Abnormality of adrenal physiology	HumPhenOnt	
+HBB	C0001623	Adrenal insufficiency	HumPhenOnt	
+TF	C0023976	Acquired long QT syndrome	DisGeNet	
+HBB	C0162872	Aortic Aneurysm, Thoracic	DisGeNet	
+HBB	C0162429	Malnutrition	DisGeNet	
+HBB	C0037299	Skin ulcer	HumPhenOnt	
+HBB	C0544755	Bowing of limbs due to multiple fractures	HumPhenOnt	
+HBB	C1848701	Elevated hepatic transaminases	HumPhenOnt	
+HBB	C0032964	Pregnancy Complications, Hematologic	DisGeNet	
+HBB	C0005283	beta Thalassemia	ClinVar,DisGeNet	
+HBB	C0035455	Rhinitis, Allergic, Seasonal	DisGeNet	
+HBB	C0022346	Jaundice	HumPhenOnt	
+HBB	C0042487	Venous thrombosis	HumPhenOnt	
+HBB	C0018939	Hematological Disease	DisGeNet	
+HBB	C0423109	Upslanted palpebral fissure	HumPhenOnt	
+HBB	C0024535	Malaria, Falciparum	DisGeNet	
+HBB	C0003862	Arthralgia	HumPhenOnt	
+HBB	C0015929	Fetal Diseases	DisGeNet	
+HBB	C4021832	Abnormality of the calf	HumPhenOnt	
+HBB	C0002878	Hemolytic anemia, nonspherocytic, due to glucose phosphate isomerase deficiency	DisGeNet,HumPhenOnt	
+HBB	C0039730	Thalassemia	ClinVar,DisGeNet	
+HBB	C4025812	Dermatological manifestations of systemic disorders	HumPhenOnt	
+HBB	C0003578	Apnea	HumPhenOnt	
+HBB	C0268731	Glomerulopathy	DisGeNet	
+HBB	C4021794	Abnormality of the adrenal glands	HumPhenOnt	
+HBB	C0001925	Albuminuria	DisGeNet	
+TF	C0027626	Neoplasm Invasiveness	DisGeNet	
+HBB	C4022926	Abnormality of malar bones	HumPhenOnt	
+HBB	C1855340	Bowing of the long bones	HumPhenOnt	
+HBB	C0008350	Cholelithiasis	DisGeNet,HumPhenOnt	
+HBB	C0006012	Borderline Personality Disorder	DisGeNet	
+HBB	C4021594	Anomaly of the limb diaphyses	HumPhenOnt	
+HBB	C0028077	Night blindness, congenital stationary, type 1g	HumPhenOnt	
+HBB	C4018849	Abnormal fear/anxiety-related behavior	HumPhenOnt	
+HBB	C0427515	Abnormality of granulocytes	HumPhenOnt	
+HBB	C0151313	Sensory neuropathy	HumPhenOnt	
+HBB	C0034012	Delayed puberty	HumPhenOnt	
+HBB	C4023749	Abnormality of the zygomatic bone	HumPhenOnt	
+TF	C0007273	Carotid Artery Diseases	DisGeNet	
+HBB	C0032463	Polycythemia vera	DisGeNet	
+HBB	C4021787	Abnormal diaphysis morphology	HumPhenOnt	
+HBB	C4023646	Abnormality of cation homeostasis	HumPhenOnt	
+HBB	C4025676	Abnormality of the knee	HumPhenOnt	
+HBB	C0023440	Acute Erythroblastic Leukemia	DisGeNet	
+HBB	C4023618	Abnormality of myeloid leukocytes	HumPhenOnt	
+HBB	C0848332	Spots on skin	DisGeNet	
+TF	C0860207	Drug-Induced Liver Injury	DisGeNet	
+HBB	C0029422	Skeletal dysplasia	HumPhenOnt	
+TF	C0024668	Mammary Neoplasms, Experimental	DisGeNet	
+HBB	C0013404	Dyspnea	HumPhenOnt	
+HBB	C0580317	Abnormal platelet count	HumPhenOnt	
+HBB	C0812393	Depression	HumPhenOnt	
+TF	C4025751	Abnormality of the pancreas	HumPhenOnt	
+HBB	C0003467	Anxiety	HumPhenOnt	
+HBB	C4025654	Abnormality of ion homeostasis	HumPhenOnt	
+HBB	C0018790	Cardiac arrest	DisGeNet	
+HBB	C0238461	Anaplastic thyroid carcinoma	DisGeNet	
+HBB	C0024523	Malabsorption	HumPhenOnt	
+TF	C0011389	Plaque, Atherosclerotic	DisGeNet	
+HBB	C0015967	Malignant hyperthermia susceptibility type 5	HumPhenOnt	
+HBB	C0242339	Dyslipidemias	DisGeNet	
+HBB	C0242656	Disease Progression	DisGeNet	
+HBB	C1832160	Abnormality of temperature regulation	HumPhenOnt	
+HBB	C0006287	Bronchopulmonary Dysplasia	DisGeNet	
+HBB	C0017152	Gastritis	DisGeNet	
+TF	C2745900	Hypergranular promyelocytic leukemia	DisGeNet	
+HBB	C0026946	Mycoses	DisGeNet	
+HBB	C0151854	Abnormality of thrombocytes	HumPhenOnt	
+HBB	C0940767	Abnormality of the biliary system	HumPhenOnt	
+HBB	C4025819	Abnormality of the hypothalamus-pituitary axis	HumPhenOnt	
+TF	C0004623	Recurrent bacterial infection	DisGeNet	
+HBB	C0027947	Neutropenia	HumPhenOnt	
+TF	C0333463	Senile plaques	DisGeNet	
+TF	C0000786	Spontaneous abortion	DisGeNet	
+TF	C0027726	Nephrotic syndrome, type 5, with or without ocular abnormalities	DisGeNet	
+HBB	C3811653	Experimental Organism Basal Cell Carcinoma	DisGeNet	
+HBB	C0017185	Gastrointestinal Neoplasms	HumPhenOnt	
+HBB	C0002895	Anemia, Sickle Cell	ClinVar,DisGeNet	
+HBB	C1836542	Depressed nasal bridge	HumPhenOnt	
+TF	C4023679	Abnormality of circulating protein level	HumPhenOnt	
+TF	C0030305	Pancreatitis	DisGeNet	
+HBB	C0018800	Cardiomegaly	HumPhenOnt	
+HBB	C0038002	Splenomegaly	HumPhenOnt	
+HBB	C3203102	Pulmonary arterial hypertension	HumPhenOnt	
+HBB	C4021811	Abnormality of the midface	HumPhenOnt	
+HBB	C0008370	Cholestasis, benign recurrent intrahepatic 1	HumPhenOnt	
+TF	C0021655	Insulin Resistance	DisGeNet	
+TF	C0003130	Hypoxia	DisGeNet	
+HBB	C4020971	Abnormality of lower limb joint	HumPhenOnt	
+HBB	C0003811	Arrhythmias, Cardiac	HumPhenOnt	
+HBB	C2674432	Reduced bone mineral density	HumPhenOnt	
+HBB	C4025749	Abnormality of the spleen	HumPhenOnt	
+HBB	C2748932	Slanting of the palpebral fissure	HumPhenOnt	
+HBB	C4025758	Abnormality of the myocardium	HumPhenOnt	
+HBB	C0015230	Exanthema	DisGeNet	
+TF	C0019159	Hepatitis	DisGeNet	
+HBB	C0019209	Hepatomegaly	HumPhenOnt	
+HBB	C4021657	Abnormality of bone mineral density	HumPhenOnt	
+HBB	C0152009	Abnormal leukocyte count	HumPhenOnt	
+HBB	C4023612	Abnormality of cellular immune system	HumPhenOnt	
+HBB	C4025655	Abnormality of urine homeostasis	HumPhenOnt	
+TF	C0007786	Brain Ischemia	DisGeNet	
+HBB	C0239946	Hepatic fibrosis	DisGeNet	
+HBB	C1145670	Respiratory failure	HumPhenOnt	
+TF	C0242383	Age-related macular degeneration 2	DisGeNet	
+HBB	C4021976	Abnormality of the lymphatic system	HumPhenOnt	
+TF	C0015695	Hepatic steatosis	DisGeNet	
+HBB	C0151746	Abnormal renal physiology	HumPhenOnt	
+HBB	C4024750	Abnormality of the palpebral fissures	HumPhenOnt	
+HBB	C1443059	Abnormal emotion/affect behavior	HumPhenOnt	
+TF	C0023487	Acute promyelocytic leukemia	DisGeNet	
+HBB	C0035309	Retinopathy	HumPhenOnt	
+TF	C1621958	Glioblastoma multiforme	DisGeNet	
+HBB	C4023164	Abnormality of skeletal physiology	HumPhenOnt	
+HBB	C4023598	Abnormal glucose homeostasis	HumPhenOnt	
+HBB	C4021165	Abnormality of long bone morphology	HumPhenOnt	
+HBB	C0232466	Feeding difficulties	HumPhenOnt	
+HBB	C0524910	Hepatitis C, Chronic	DisGeNet	
+HBB	C0042782	Visceromegaly	HumPhenOnt	
+HBB	C4025896	Abnormality of the penis	HumPhenOnt	
+HBB	C4023161	Abnormal bone ossification	HumPhenOnt	
+HBB	C0151744	Acute myocardial ischemia	DisGeNet	
+HBB	C0034011	Puberty and gonadal disorders	HumPhenOnt	
+HBB	C4023599	Abnormality of carbohydrate metabolism/homeostasis	HumPhenOnt	
+HBB	C4021797	Abnormality of the thorax	HumPhenOnt	
+HBB	C4020869	Abnormality of abdomen morphology	HumPhenOnt	
+HBB	C3665347	Visual impairment	HumPhenOnt	
+HBB	C0019348	Herpes Simplex Infections	DisGeNet	
+HBB	C0850826	Localized skin lesion	HumPhenOnt	
+HBB	C4025630	Abnormal bone structure	HumPhenOnt	
+HBB	C0024530	Malaria	DisGeNet,PheGenI	
+HBB	C0549651	Abnormality of the lens	HumPhenOnt	
+TF	C0011570	{Unipolar depression, susceptibility to}, 608516 (3)	DisGeNet	
+HBB	C0021051	Immunodeficiency due to defect in CD3-gamma	HumPhenOnt	
+HBB	C0009812	Constitutional symptom	HumPhenOnt	
+HBB	C4023185	Neoplasm by anatomical site	HumPhenOnt	
+HBB	C0040427	Abnormality of dental morphology	HumPhenOnt	
+HBB	C4022803	Increased inflammatory response	HumPhenOnt	
+HBB	C4022805	Abnormal inflammatory response	HumPhenOnt	
+HBB	C0021831	Abnormality of the intestine	HumPhenOnt	
+HBB	C4025831	Abnormal peripheral nervous system morphology	HumPhenOnt	
+HBB	C0035300	Abnormality of the retina	HumPhenOnt	
+HBB	C4021805	Abnormality of the nasal bridge	HumPhenOnt	
+HBB	C0243026	Sepsis	DisGeNet	
+TF	C0011881	Diabetic Nephropathies	DisGeNet	
+HBB	C0030193	Pain	DisGeNet,HumPhenOnt	
+HBB	C0029456	Osteoporosis	HumPhenOnt	
+HBB	C0027651	Neoplasms	HumPhenOnt	
+TF	C0022116	Ischemia	DisGeNet	
+TF	C0041296	Tuberculosis	DisGeNet	
+HBB	C4023437	Abnormality of the urinary system physiology	HumPhenOnt	

@@ -1,0 +1,3 @@
+node_name	node_type	
+DB00859	drug	
+SLCO1B1	drug_target	

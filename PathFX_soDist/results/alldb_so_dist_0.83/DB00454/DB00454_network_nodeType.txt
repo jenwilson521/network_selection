@@ -1,0 +1,41 @@
+node_name	node_type	
+DB00454	drug	
+SLC6A3	drug_target	
+SLC6A2	drug_target	
+CYP1A2	drug_target	
+ORM1	drug_target	
+CYP2D6	drug_target	
+SLC6A4	drug_target	
+CYP2B6	drug_target	
+ALB	drug_target	
+CES1	drug_target	
+GRIN2C	drug_target	
+OPRM1	drug_target	
+GRIN2A	drug_target	
+CYP2C19	drug_target	
+GRIN2D	drug_target	
+OPRK1	drug_target	
+CYP3A4	drug_target	
+GRIN2B	drug_target	
+GRIN1	drug_target	
+Tardive Dyskinesia	phenotype	
+Orofacial dyskinesia	phenotype	
+Methamphetamine abuse	phenotype	
+Heroin Dependence	phenotype	
+Nausea	phenotype	
+Substance Use Disorders	phenotype	
+Alcohol withdrawal syndrome	phenotype	
+Chronic schizophrenia	phenotype	
+Acute postoperative pain	phenotype	
+Personality disorder	phenotype	
+Osteochondritis dissecans	phenotype	
+Depressive Symptoms	phenotype	
+Primary malignant neoplasm of liver	phenotype	
+Obsessive-compulsive disorder	phenotype	
+Behavior Disorders	phenotype	
+Alcohol abuse	phenotype	
+Adverse drug events and drug allergies	phenotype	
+Enzyme inhibition disorder	phenotype	
+Liver Cirrhosis, Alcoholic	phenotype	
+ {Nicotine dependence, protection against}, 188890 (3)	phenotype	
+Cocaine delirium	phenotype	

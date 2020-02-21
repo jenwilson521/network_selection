@@ -1,0 +1,26 @@
+node_name	node_type	
+DB06626	drug	
+CYP1A2	drug_target	
+FLT4	drug_target	
+SLCO1B1	drug_target	
+ABCB1	drug_target	
+CYP2C19	drug_target	
+CYP3A4	drug_target	
+CYP3A5	drug_target	
+UGT1A1	drug_target	
+KDR	drug_target	
+FLT1	drug_target	
+Drug Allergy	phenotype	
+Hepatitis D Infection	phenotype	
+Febrile Neutropenia	phenotype	
+Hyperbilirubinemia	phenotype	
+Primary malignant neoplasm of liver	phenotype	
+Cholelithiasis	phenotype	
+Neutropenia	phenotype	
+Leukopenia	phenotype	
+Femur Head Necrosis	phenotype	
+Hepatic cancer metastatic	phenotype	
+Adverse drug events and drug allergies	phenotype	
+Hearing Loss, Partial	phenotype	
+Anemia, Sickle Cell	phenotype	
+Hypercholesterolemia, autosomal dominant, type B	phenotype	

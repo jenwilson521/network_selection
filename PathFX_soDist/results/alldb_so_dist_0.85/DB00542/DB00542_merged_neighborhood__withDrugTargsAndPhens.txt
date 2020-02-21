@@ -1,0 +1,374 @@
+node1	node2	edge_score	
+DB00542	MTHFR	1.0	
+DB00542	SLC15A2	1.0	
+DB00542	ACE	1.0	
+MTHFR	rs1801131	0.99
+ACE	rs4344	0.99
+ACE	rs4292	0.99
+ACE	rs4291	0.99
+ACE	rs4359	0.99
+MTHFR	rs17421511	0.99
+ACE	rs4646994	0.99
+ACE	rs4341	0.99
+MTHFR		1.0
+ACE		1.0
+rs1801133	CLCN6	0.9801
+ACE	rs4343	0.99
+ACE	rs1799752	0.99
+MTHFR	rs1476413	0.99
+MTHFR	rs1801133	0.99
+SLC15A2		1.0
+MTHFR	rs4846051	0.99
+Recurrent major depressive episodes	ACE	1.0	
+Recurrent major depressive episodes	MTHFR	1.0	
+Aneurysm, Ruptured	ACE	1.0	
+Aneurysm, Ruptured	MTHFR	1.0	
+Thrombophilia due to activated protein C resistance	ACE	1.0	
+Thrombophilia due to activated protein C resistance	MTHFR	1.0	
+Thrombosis of retinal vein	ACE	1.0	
+Thrombosis of retinal vein	MTHFR	1.0	
+Recurrent E. coli infections	ACE	1.0	
+Recurrent E. coli infections	MTHFR	1.0	
+Femur Head Necrosis	ACE	1.0	
+Femur Head Necrosis	MTHFR	1.0	
+Old myocardial infarction	ACE	1.0	
+Old myocardial infarction	MTHFR	1.0	
+Proliferative retinopathy	ACE	1.0	
+Proliferative retinopathy	MTHFR	1.0	
+Proteinuria Adverse Event	ACE	1.0	
+Proteinuria Adverse Event	MTHFR	1.0	
+Intermittent claudication	ACE	1.0	
+Intermittent claudication	MTHFR	1.0	
+Puerperal Disorders	ACE	1.0	
+Puerperal Disorders	MTHFR	1.0	
+Rhinitis, Allergic, Perennial	ACE	1.0	
+Rhinitis, Allergic, Perennial	MTHFR	1.0	
+Resistance to activated protein C	ACE	1.0	
+Resistance to activated protein C	MTHFR	1.0	
+Nephrosclerosis	ACE	1.0	
+Nephrosclerosis	MTHFR	1.0	
+Pregnancy associated hypertension	ACE	1.0	
+Pregnancy associated hypertension	MTHFR	1.0	
+Cerebroretinal microangiopathy with calcifications and cysts 1	ACE	1.0	
+Cerebroretinal microangiopathy with calcifications and cysts 1	MTHFR	1.0	
+Exfoliation Syndrome	ACE	1.0	
+Exfoliation Syndrome	MTHFR	1.0	
+Arterial Occlusive Diseases	ACE	1.0	
+Arterial Occlusive Diseases	MTHFR	1.0	
+Arteriovenous fistula	ACE	1.0	
+Arteriovenous fistula	MTHFR	1.0	
+Chronic rejection of renal transplant	ACE	1.0	
+Chronic rejection of renal transplant	MTHFR	1.0	
+Hearing Loss, Partial	CLCN6	1.0	
+Hearing Loss, Partial	MTHFR	1.0	
+Hearing Loss, Partial	SLC15A2	1.0	
+Deep vein thrombosis of lower limb	ACE	1.0	
+Deep vein thrombosis of lower limb	MTHFR	1.0	
+Ocular Hypertension	ACE	1.0	
+Ocular Hypertension	MTHFR	1.0	
+Nephrotic Syndrome, Minimal Change	ACE	1.0	
+Nephrotic Syndrome, Minimal Change	MTHFR	1.0	
+Bone necrosis	ACE	1.0	
+Bone necrosis	MTHFR	1.0	
+Takayasu Arteritis	ACE	1.0	
+Takayasu Arteritis	MTHFR	1.0	
+cardiac event	ACE	1.0	
+cardiac event	MTHFR	1.0	
+Fibromyalgia	ACE	1.0	
+Fibromyalgia	MTHFR	1.0	
+Coronary Restenosis	ACE	1.0	
+Coronary Restenosis	MTHFR	1.0	
+Cardiac defects	ACE	1.0	
+Cardiac defects	MTHFR	1.0	
+Chromosome Xq28 deletion syndrome	ACE	1.0	
+Chromosome Xq28 deletion syndrome	MTHFR	1.0	
+Marfan syndrome	ACE	1.0	
+Marfan syndrome	MTHFR	1.0	
+Pneumonitis	ACE	1.0	
+Pneumonitis	MTHFR	1.0	
+Factor V Leiden mutation	ACE	1.0	
+Factor V Leiden mutation	MTHFR	1.0	
+Henoch-Schoenlein Purpura	ACE	1.0	
+Henoch-Schoenlein Purpura	MTHFR	1.0	
+ {Septic shock, susceptibility to} (3)	ACE	1.0	
+ {Septic shock, susceptibility to} (3)	MTHFR	1.0	
+Hemolytic uremic syndrome	ACE	1.0	
+Hemolytic uremic syndrome	MTHFR	1.0	
+Psychoses, Substance-Induced	ACE	1.0	
+Psychoses, Substance-Induced	MTHFR	1.0	
+Microalbuminuria	ACE	1.0	
+Microalbuminuria	MTHFR	1.0	
+Right ventricular hypertrophy	ACE	1.0	
+Right ventricular hypertrophy	MTHFR	1.0	
+Common Migraine	ACE	1.0	
+Common Migraine	MTHFR	1.0	
+Gaucher Disease	ACE	1.0	
+Gaucher Disease	MTHFR	1.0	
+Uremia	ACE	1.0	
+Uremia	MTHFR	1.0	
+ Cerebrovascular disease, occlusive (3)	ACE	1.0	
+ Cerebrovascular disease, occlusive (3)	MTHFR	1.0	
+Homocysteinemia due to MTHFR deficiency	ACE	1.0	
+Homocysteinemia due to MTHFR deficiency	MTHFR	1.0	
+Granulomatosis with Polyangiitis	ACE	1.0	
+Granulomatosis with Polyangiitis	MTHFR	1.0	
+Postoperative Complications	ACE	1.0	
+Postoperative Complications	MTHFR	1.0	
+Complications of Diabetes Mellitus	ACE	1.0	
+Complications of Diabetes Mellitus	MTHFR	1.0	
+Migraine with aura	ACE	1.0	
+Migraine with aura	MTHFR	1.0	
+Brain Infarction	ACE	1.0	
+Brain Infarction	MTHFR	1.0	
+Recurrent abortion	ACE	1.0	
+Recurrent abortion	MTHFR	1.0	
+Drug Allergy	ACE	1.0	
+Drug Allergy	MTHFR	1.0	
+Substance Withdrawal Syndrome	ACE	1.0	
+Substance Withdrawal Syndrome	MTHFR	1.0	
+Chromosome Aberrations	ACE	1.0	
+Chromosome Aberrations	MTHFR	1.0	
+Polycythemia	ACE	1.0	
+Polycythemia	MTHFR	1.0	
+Pregnancy loss	ACE	1.0	
+Pregnancy loss	MTHFR	1.0	
+Coronary artery stenosis	ACE	1.0	
+Coronary artery stenosis	MTHFR	1.0	
+Dementia, Vascular	ACE	1.0	
+Dementia, Vascular	MTHFR	1.0	
+Gastrointestinal Diseases	ACE	1.0	
+Gastrointestinal Diseases	MTHFR	1.0	
+Membranous nephropathy, susceptibility to	ACE	1.0	
+Membranous nephropathy, susceptibility to	MTHFR	1.0	
+Deafness, autosomal recessive 44	CLCN6	1.0	
+Deafness, autosomal recessive 44	MTHFR	1.0	
+Deafness, autosomal recessive 44	SLC15A2	1.0	
+Diabetic Angiopathies	ACE	1.0	
+Diabetic Angiopathies	MTHFR	1.0	
+Type 1 diabetic neuropathy	ACE	1.0	
+Type 1 diabetic neuropathy	MTHFR	1.0	
+Cerebral autosomal recessive arteriopathy with subcortical infarcts and leukoencephalopathy	ACE	1.0	
+Cerebral autosomal recessive arteriopathy with subcortical infarcts and leukoencephalopathy	MTHFR	1.0	
+DNA Damage	ACE	1.0	
+DNA Damage	MTHFR	1.0	
+Chronic ulcerative colitis	ACE	1.0	
+Chronic ulcerative colitis	MTHFR	1.0	
+Peripheral Arterial Diseases	ACE	1.0	
+Peripheral Arterial Diseases	MTHFR	1.0	
+Hepatopulmonary Syndrome	ACE	1.0	
+Hepatopulmonary Syndrome	MTHFR	1.0	
+Acute pancreatitis	ACE	1.0	
+Acute pancreatitis	MTHFR	1.0	
+NOONAN-LIKE/MULTIPLE GIANT CELL LESION SYNDROME (disorder)	ACE	1.0	
+NOONAN-LIKE/MULTIPLE GIANT CELL LESION SYNDROME (disorder)	MTHFR	1.0	
+Carotid Atherosclerosis	ACE	1.0	
+Carotid Atherosclerosis	MTHFR	1.0	
+Glaucoma, Open-Angle	ACE	1.0	
+Glaucoma, Open-Angle	MTHFR	1.0	
+Deep venous thrombosis	ACE	1.0	
+Deep venous thrombosis	MTHFR	1.0	
+Intracranial Aneurysm	ACE	1.0	
+Intracranial Aneurysm	MTHFR	1.0	
+Chronic atrophic gastritis	ACE	1.0	
+Chronic atrophic gastritis	MTHFR	1.0	
+Hereditary hyperhomocysteinemia	ACE	1.0	
+Hereditary hyperhomocysteinemia	MTHFR	1.0	
+Immediate hypersensitivity	ACE	1.0	
+Immediate hypersensitivity	MTHFR	1.0	
+Thromboembolism	ACE	1.0	
+Thromboembolism	MTHFR	1.0	
+Focal segmental glomerulosclerosis	ACE	1.0	
+Focal segmental glomerulosclerosis	MTHFR	1.0	
+Depressive Symptoms	ACE	1.0	
+Depressive Symptoms	MTHFR	1.0	
+Thrombophilia	ACE	1.0	
+Thrombophilia	MTHFR	1.0	
+Impotence	ACE	1.0	
+Impotence	MTHFR	1.0	
+Obesity, severe, 601665 (3)	ACE	1.0	
+Obesity, severe, 601665 (3)	MTHFR	1.0	
+Musculoskeletal Diseases	ACE	1.0	
+Musculoskeletal Diseases	MTHFR	1.0	
+Pregnancy Complications	ACE	1.0	
+Pregnancy Complications	MTHFR	1.0	
+Gastrointestinal hemorrhage	ACE	1.0	
+Gastrointestinal hemorrhage	MTHFR	1.0	
+Pregnancy Complications, Hematologic	ACE	1.0	
+Pregnancy Complications, Hematologic	MTHFR	1.0	
+Pulmonary Embolism	ACE	1.0	
+Pulmonary Embolism	MTHFR	1.0	
+beta Thalassemia	ACE	1.0	
+beta Thalassemia	MTHFR	1.0	
+Aortic valve stenosis	ACE	1.0	
+Aortic valve stenosis	MTHFR	1.0	
+Hyperthyroidism	ACE	1.0	
+Hyperthyroidism	MTHFR	1.0	
+Mild cognitive impairment	ACE	1.0	
+Mild cognitive impairment	MTHFR	1.0	
+Respiratory Distress Syndrome, Adult	ACE	1.0	
+Respiratory Distress Syndrome, Adult	MTHFR	1.0	
+Venous thrombosis	ACE	1.0	
+Venous thrombosis	MTHFR	1.0	
+Hyperplasia	ACE	1.0	
+Hyperplasia	MTHFR	1.0	
+Arterial dissection	MTHFR	1.0	
+Drug Eruptions	MTHFR	1.0	
+Primary malignant neoplasm of liver	MTHFR	1.0	
+Chronic berylliosis	ACE	1.0	
+High altitude pulmonary edema	ACE	1.0	
+Abnormality of sulfur amino acid metabolism	MTHFR	1.0	
+Primary angle-closure glaucoma	MTHFR	1.0	
+Pleural Neoplasms	MTHFR	1.0	
+Tetraplegia	MTHFR	1.0	
+Lupus anticoagulant disorder	MTHFR	1.0	
+Fetal Diseases	ACE	1.0	
+Fetal Diseases	MTHFR	1.0	
+Peripheral Arterial Disease	ACE	1.0	
+Peripheral Arterial Disease	MTHFR	1.0	
+Weight Gain Adverse Event	ACE	1.0	
+Weight Gain Adverse Event	MTHFR	1.0	
+Cervical dysplasia	MTHFR	1.0	
+Esophageal varix	ACE	1.0	
+Phenylketonuria	MTHFR	1.0	
+Steroid-sensitive nephrotic syndrome	ACE	1.0	
+genetic hypertension	ACE	1.0	
+Cardiovascular morbidity	ACE	1.0	
+Thrombosis	ACE	1.0	
+Thrombosis	MTHFR	1.0	
+Adrenal Gland Hyperfunction	ACE	1.0	
+Homocystinuria due to CBS deficiency	MTHFR	1.0	
+Otosclerosis	ACE	1.0	
+Thyrotoxicosis	MTHFR	1.0	
+Early gastric cancer	ACE	1.0	
+Nonalcoholic Steatohepatitis	ACE	1.0	
+Nonalcoholic Steatohepatitis	MTHFR	1.0	
+VITILIGO-ASSOCIATED MULTIPLE AUTOIMMUNE DISEASE SUSCEPTIBILITY 1 (finding)	ACE	1.0	
+VITILIGO-ASSOCIATED MULTIPLE AUTOIMMUNE DISEASE SUSCEPTIBILITY 1 (finding)	MTHFR	1.0	
+Aortic Diseases	ACE	1.0	
+Chromosomal translocation	ACE	1.0	
+Aortic atherosclerosis	ACE	1.0	
+Acute pyelonephritis	ACE	1.0	
+Carotid Stenosis	ACE	1.0	
+Carotid Stenosis	MTHFR	1.0	
+Albuminuria	ACE	1.0	
+Albuminuria	MTHFR	1.0	
+46,XY gonadal dysgenesis, partial, with minifascicular neuropathy	ACE	1.0	
+46,XY gonadal dysgenesis, partial, with minifascicular neuropathy	MTHFR	1.0	
+Megaloblastic anemia, thiamine-responsive, with diabetes mellitus and sensorineural deafness	MTHFR	1.0	
+Protein S deficiency	MTHFR	1.0	
+Pancreatic fibrosis	ACE	1.0	
+Aortic valve calcification	ACE	1.0	
+Obstructive sleep apnea	ACE	1.0	
+Obstructive sleep apnea	MTHFR	1.0	
+Lymphatic Metastasis	ACE	1.0	
+Lymphatic Metastasis	MTHFR	1.0	
+Antithrombin III deficiency	MTHFR	1.0	
+Distal myopathy Markesbery-Griggs type	MTHFR	1.0	
+Bronchial Hyperreactivity	ACE	1.0	
+Bronchial Hyperreactivity	MTHFR	1.0	
+Borderline Personality Disorder	ACE	1.0	
+Borderline Personality Disorder	MTHFR	1.0	
+Primary open angle glaucoma juvenile onset 1	ACE	1.0	
+Primary open angle glaucoma juvenile onset 1	MTHFR	1.0	
+Interstitial lung and liver disease	ACE	1.0	
+Xeroderma Pigmentosum, Complementation Group D	MTHFR	1.0	
+Reduced protein C activity	MTHFR	1.0	
+Stenosis	MTHFR	1.0	
+Subfertility	MTHFR	1.0	
+Abnormal urine output	ACE	1.0	
+Dissecting aneurysm of the thoracic aorta	ACE	1.0	
+Dissecting aneurysm of the thoracic aorta	MTHFR	1.0	
+Atrial Fibrillation	ACE	1.0	
+Atrial Fibrillation	MTHFR	1.0	
+Normal pressure hydrocephalus	ACE	1.0	
+Rhabdomyolysis	ACE	1.0	
+Staphylococcal Infections	ACE	1.0	
+Anterior myocardial infarction	ACE	1.0	
+Pervasive developmental disorders	MTHFR	1.0	
+Cervix Diseases	MTHFR	1.0	
+Cushing's syndrome	ACE	1.0	
+Renal hypertension	ACE	1.0	
+Rheumatic fever / chorea	ACE	1.0	
+Venous insufficiency	MTHFR	1.0	
+Seasonal Affective Disorder	ACE	1.0	
+Aortic aneurysm without mention of rupture NOS	ACE	1.0	
+Hypervolemia	ACE	1.0	
+Erythrocytosis	ACE	1.0	
+Steroid-resistant nephrotic syndrome	ACE	1.0	
+Familial hypercholesterolemia	ACE	1.0	
+Familial hypercholesterolemia	MTHFR	1.0	
+Secondary hyperparathyroidism	ACE	1.0	
+Secondary hyperparathyroidism	SLC15A2	1.0	
+Eclampsia	ACE	1.0	
+Eclampsia	MTHFR	1.0	
+Antisocial Personality Disorder	ACE	1.0	
+Diastrophic dysplasia	ACE	1.0	
+Juvenile neuronal ceroid lipofuscinosis	CLCN6	1.0	
+Myelosuppression	MTHFR	1.0	
+Alport syndrome	ACE	1.0	
+Abnormality of renal excretion	ACE	1.0	
+Chronic Kidney Insufficiency	ACE	1.0	
+Chronic Kidney Insufficiency	MTHFR	1.0	
+Peptic Ulcer Hemorrhage	ACE	1.0	
+Complete trisomy 18 syndrome	MTHFR	1.0	
+Chronic schizophrenia	ACE	1.0	
+Deficiency of glucose-6-phosphate dehydrogenase	MTHFR	1.0	
+Carotid Artery Diseases	ACE	1.0	
+Carotid Artery Diseases	MTHFR	1.0	
+Aortic Aneurysm, Abdominal	ACE	1.0	
+Aortic Aneurysm, Abdominal	MTHFR	1.0	
+Juvenile rheumatoid arthritis	ACE	1.0	
+Juvenile rheumatoid arthritis	MTHFR	1.0	
+Fibrosis	ACE	1.0	
+Fibrosis	MTHFR	1.0	
+Sudden death	ACE	1.0	
+Folic Acid Deficiency	MTHFR	1.0	
+Lipoid nephrosis	ACE	1.0	
+Acute postoperative pain	ACE	1.0	
+Smallpox	MTHFR	1.0	
+Diabetic foot ulcer	ACE	1.0	
+Community acquired pneumonia	ACE	1.0	
+Post MI	ACE	1.0	
+Genomic Instability	MTHFR	1.0	
+Peripheral artery occlusive disease	ACE	1.0	
+Fetal Membranes, Premature Rupture	ACE	1.0	
+Fetal Membranes, Premature Rupture	MTHFR	1.0	
+alcohol use disorder	MTHFR	1.0	
+Gangrene	ACE	1.0	
+Pregnancy in Diabetics	MTHFR	1.0	
+Chronic myelopathy	MTHFR	1.0	
+Ovarian hyperstimulation syndrome	MTHFR	1.0	
+End Stage Liver Disease	MTHFR	1.0	
+Chorioamnionitis	ACE	1.0	
+Chorioamnionitis	MTHFR	1.0	
+Connective Tissue Diseases	ACE	1.0	
+Connective Tissue Diseases	MTHFR	1.0	
+Chronic hepatitis	ACE	1.0	
+Chronic hepatitis	MTHFR	1.0	
+Coronary Thrombosis	ACE	1.0	
+Purpura, Thrombotic Thrombocytopenic	MTHFR	1.0	
+Cholestasis of pregnancy	ACE	1.0	
+Gastric Cardia Adenocarcinoma	MTHFR	1.0	
+Ovarian Failure, Premature	ACE	1.0	
+Ovarian Failure, Premature	MTHFR	1.0	
+Neurotoxicity Syndromes	MTHFR	1.0	
+Granulomatosis	ACE	1.0	
+Premature Obstetric Labor	ACE	1.0	
+Premature Obstetric Labor	MTHFR	1.0	
+Arthritis, Psoriatic	ACE	1.0	
+Arthritis, Psoriatic	MTHFR	1.0	
+Headache	ACE	1.0	
+Headache	MTHFR	1.0	
+Transient ischemic attack	ACE	1.0	
+Transient ischemic attack	MTHFR	1.0	
+Low back pain	ACE	1.0	
+Glanzmann thrombasthenia	MTHFR	1.0	
+CADASIL	MTHFR	1.0	
+Allergic sensitization	MTHFR	1.0	
+Hypotension, Orthostatic	ACE	1.0	
+Hypoplastic left heart syndrome	MTHFR	1.0	
+Unilateral renal agenesis	ACE	1.0	
+Proteinuria, low molecular weight, with hypercalciuria and nephrocalcinosis	ACE	1.0	
+Proteinuria, low molecular weight, with hypercalciuria and nephrocalcinosis	MTHFR	1.0	
+Allergic disposition	ACE	1.0	
+Allergic disposition	MTHFR	1.0	

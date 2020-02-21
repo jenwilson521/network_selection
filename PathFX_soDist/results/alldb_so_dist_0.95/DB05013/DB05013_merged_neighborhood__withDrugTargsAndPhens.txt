@@ -1,0 +1,116 @@
+node1	node2	edge_score	
+DB05013	PRKCA	1.0	
+DB05013	PRKCD	1.0	
+PRKCA		1.0
+EMG: myopathic abnormalities	PRKCA	1.0	
+Adenomas, multiple colorectal, 608456 (3)	PRKCA	1.0	
+Adrenal Gland Hyperfunction	PRKCA	1.0	
+Neoplasm of the adrenal gland	PRKCA	1.0	
+Congenital adrenal hyperplasia	PRKCA	1.0	
+Asthma	PRKCA	1.0	
+Astrocytoma	PRKCA	1.0	
+Mental disorders	PRKCA	1.0	
+Malignant tumor of urinary bladder	PRKCA	1.0	
+Breast-ovarian cancer, familial 1	PRKCA	1.0	
+Colon cancer	PRKCA	1.0	
+Malignant neoplasm of endometrium	PRKCA	1.0	
+Skin cancer	PRKCA	1.0	
+Basal cell carcinoma	PRKCA	1.0	
+Non-small cell lung carcinoma	PRKCA	1.0	
+Renal cell carcinoma, nonpapillary	PRKCA	1.0	
+Squamous cell carcinoma	PRKCA	1.0	
+Brain Ischemia	PRKCA	1.0	
+Congenital chromosomal disease	PRKCA	1.0	
+Verotoxigenic Escherichia coli gastrointestinal tract infection	PRKCA	1.0	
+Infection by Cryptococcus neoformans	PRKCA	1.0	
+Cushing's syndrome	PRKCA	1.0	
+Diabetes Mellitus, Type 1	PRKCA	1.0	
+Diabetic Nephropathies	PRKCA	1.0	
+Fibrosis	PRKCA	1.0	
+Glioblastoma	PRKCA	1.0	
+Glioma	PRKCA	1.0	
+Membranous nephropathy, susceptibility to	PRKCA	1.0	
+Gout	PRKCA	1.0	
+Cardiomegaly	PRKCA	1.0	
+Heart Failure	PRKCA	1.0	
+Symptomatic human immunodeficiency virus infection	PRKCA	1.0	
+Huntington's chorea	PRKCA	1.0	
+Hyperglycemia	PRKCA	1.0	
+Hypertension	PRKCA	1.0	
+Intestinal Neoplasms	PRKCA	1.0	
+Ischemia	PRKCA	1.0	
+Chronic Lymphocytic Leukemia	PRKCA	1.0	
+Acute myeloid leukemia	PRKCA	1.0	
+Liver Cirrhosis, Biliary	PRKCA	1.0	
+Neoplasm of the liver	PRKCA	1.0	
+Lung Neoplasms	PRKCA	1.0	
+Animal Mammary Neoplasms	PRKCA	1.0	
+Melanoma	PRKCA	1.0	
+Multiple Sclerosis	PRKCA	1.0	
+Myopathy, scapulohumeroperoneal	PRKCA	1.0	
+Secondary hypertriglyceridemia	PRKCA	1.0	
+Wilms Tumor	PRKCA	1.0	
+Obesity	PRKCA	1.0	
+Pemphigus Vulgaris	PRKCA	1.0	
+Pituitary adenoma	PRKCA	1.0	
+Pituitary Neoplasms	PRKCA	1.0	
+Polyuria	PRKCA	1.0	
+Prostatic Neoplasms	PRKCA	1.0	
+Reperfusion Injury	PRKCA	1.0	
+Schizophrenia	PRKCA	1.0	
+Seizures, Febrile	PRKCA	1.0	
+Septicemia	PRKCA	1.0	
+Stomach Neoplasms	PRKCA	1.0	
+Posttraumatic stress disorder	PRKCA	1.0	
+Thyroid Neoplasms	PRKCA	1.0	
+Tobacco Use Disorder	PRKCA	1.0	
+Spina bifida	PRKCA	1.0	
+Bacterial Vaginosis	PRKCA	1.0	
+Left ventricular hypertrophy	PRKCA	1.0	
+Small cell lung cancer	PRKCA	1.0	
+Premature Birth	PRKCA	1.0	
+Adenocarcinoma of lung	PRKCA	1.0	
+Uterine Corpus Cancer	PRKCA	1.0	
+Secondary malignant neoplasm of lung	PRKCA	1.0	
+Nephrogenic diabetes insipidus, autosomal	PRKCA	1.0	
+Right ventricular hypertrophy	PRKCA	1.0	
+Tumor Progression	PRKCA	1.0	
+Adrenocortical adenoma	PRKCA	1.0	
+Metastatic malignant neoplasm to brain	PRKCA	1.0	
+Memory impairment	PRKCA	1.0	
+Abnormality of extrapyramidal motor function	PRKCA	1.0	
+Pancreatic Carcinoma	PRKCA	1.0	
+Malignant neoplasm of lung	PRKCA	1.0	
+Neoplasm, Residual	PRKCA	1.0	
+Sepsis	PRKCA	1.0	
+Vascular neoplasm	PRKCA	1.0	
+Adenocarcinoma of colon	PRKCA	1.0	
+Adrenal hyperplasia	PRKCA	1.0	
+Malignant neoplasm of pancreas	PRKCA	1.0	
+Malignant tumor of prostate	PRKCA	1.0	
+Carney complex	PRKCA	1.0	
+Endometrial carcinoma	PRKCA	1.0	
+Carcinogenesis	PRKCA	1.0	
+Leukemogenesis	PRKCA	1.0	
+Tumor Initiation	PRKCA	1.0	
+Prostate carcinoma	PRKCA	1.0	
+Hepatopulmonary Syndrome	PRKCA	1.0	
+Ovarian epithelial cancer	PRKCA	1.0	
+Breast carcinoma	PRKCA	1.0	
+Lung cancer	PRKCA	1.0	
+Carcinoma of colon	PRKCA	1.0	
+Stomach cancer	PRKCA	1.0	
+Bladder carcinoma	PRKCA	1.0	
+Neuroblastoma	PRKCA	1.0	
+Malignant neoplasm of kidney	PRKCA	1.0	
+Advanced cancer	PRKCA	1.0	
+Cardiomyopathy	PRKCA	1.0	
+Ovarian Neoplasms	PRKCA	1.0	
+BREAST-OVARIAN CANCER, FAMILIAL, SUSCEPTIBILITY TO, 4	PRKCA	1.0	
+Oncocytic Neoplasm	PRKCA	1.0	
+Hepatocarcinogenesis	PRKCA	1.0	
+Skin Carcinogenesis	PRKCA	1.0	
+Tumor Promotion	PRKCA	1.0	
+Multicystic renal dysplasia, bilateral	PRKCA	1.0	
+Hepatocellular carcinoma	PRKCA	1.0	
+Triple Negative Breast Neoplasms	PRKCA	1.0	

@@ -1,0 +1,4 @@
+node1	node2	edge_score	
+DB00069	IFNAR2	1.0	
+DB00069	IFNAR1	1.0	
+

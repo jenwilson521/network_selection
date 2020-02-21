@@ -1,0 +1,320 @@
+Gene	CUI	Source Databases	
+POR	C0000846	Aplasia involving bones of the extremities	HumPhenOnt	
+POR	C0001403	Primary adrenal insufficiency	HumPhenOnt	
+POR	C0001430	Adenomas, multiple colorectal, 608456 (3)	DisGeNet	
+POR	C0001623	Adrenal insufficiency	HumPhenOnt	
+POR	C0001627	Congenital adrenal hyperplasia	DisGeNet,HumPhenOnt	
+POR	C0002453	Amenorrhea	DisGeNet	
+POR	C0003706	Arachnodactyly	HumPhenOnt	
+POR	C0003803	Arnold-Chiari malformation	HumPhenOnt	
+POR	C0004352	Autism 15	DisGeNet	
+POR	C0005695	Urinary Bladder Neoplasms	DisGeNet	
+POR	C0005826	Abnormal systemic blood pressure	HumPhenOnt	
+POR	C0005940	Bone Diseases	DisGeNet	
+POR	C0006142	Breast-ovarian cancer, familial 1	DisGeNet	
+POR	C0007621	Neoplastic Cell Transformation	DisGeNet	
+POR	C0007760	Cerebellar malformation	HumPhenOnt	
+POR	C0008297	Choanal atresia	HumPhenOnt	
+POR	C0009402	Colorectal cancer 1	DisGeNet	
+POR	C0010278	Craniosynostoses	DisGeNet,HumPhenOnt	
+POR	C0010417	Cryptorchidism	HumPhenOnt	
+POR	C0011849	Diabetes Mellitus, Type 1	DisGeNet	
+POR	C0012634	Gallbladder disease 4	DisGeNet	
+POR	C0013336	Short stature, rhizomelic, with microcephaly, micrognathia, and developmental delay	HumPhenOnt	
+POR	C0015300	Proptosis	HumPhenOnt	
+POR	C0015393	Abnormality of the eye	HumPhenOnt	
+POR	C0015811	Abnormality of femur morphology	HumPhenOnt	
+POR	C0016506	Abnormality of the foot	HumPhenOnt	
+POR	C0017638	Glioma	DisGeNet	
+POR	C0018564	Abnormality of the hand	HumPhenOnt	
+POR	C0018777	Conductive hearing impairment	HumPhenOnt	
+POR	C0018798	Heart Defects, Congenital	HumPhenOnt	
+POR	C0018816	Ventricular septal defect 2	HumPhenOnt	
+POR	C0018817	Atrial septal defect	HumPhenOnt	
+POR	C0019572	Hirsutism	HumPhenOnt	
+POR	C0019693	Symptomatic human immunodeficiency virus infection	DisGeNet	
+POR	C0020255	Hydrocephalus	HumPhenOnt	
+POR	C0020445	Familial hypercholesterolemia	DisGeNet	
+POR	C0020473	Hyperlipidemia, combined, 1	HumPhenOnt	
+POR	C0020506	Hyperpituitarism	HumPhenOnt	
+POR	C0020534	Hypertelorism	HumPhenOnt	
+POR	C0020538	Hypertension	HumPhenOnt	
+POR	C0020649	Hypotension	DisGeNet	
+POR	C0023186	Learning Disorders	DisGeNet	
+POR	C0024121	Lung Neoplasms	DisGeNet	
+POR	C0024667	Animal Mammary Neoplasms	DisGeNet	
+POR	C0025958	Microcephaly 16, primary, autosomal recessive	HumPhenOnt	
+POR	C0026633	Abnormality of the mouth	HumPhenOnt	
+POR	C0029456	Osteoporosis	HumPhenOnt	
+POR	C0029927	Ovarian cyst	HumPhenOnt	
+POR	C0032002	Abnormality of the pituitary gland	HumPhenOnt	
+POR	C0032460	Polycystic Ovary Syndrome	HumPhenOnt	
+POR	C0034011	Puberty and gonadal disorders	HumPhenOnt	
+POR	C0034012	Delayed puberty	HumPhenOnt	
+POR	C0036439	Scoliosis	HumPhenOnt	
+POR	C0037268	Abnormality of the skin	HumPhenOnt	
+POR	C0039093	Synostosis involving bones of the feet	HumPhenOnt	
+POR	C0042063	Abnormality of the genitourinary system	HumPhenOnt	
+POR	C0079924	Oligohydramnios	HumPhenOnt	
+POR	C0149632	Abnormality of bladder morphology	HumPhenOnt	
+POR	C0151583	Abnormal CSF metabolite level	HumPhenOnt	
+POR	C0151639	Decreased fertility in females	HumPhenOnt	
+POR	C0151640	Decreased fertility in males	HumPhenOnt	
+POR	C0156394	Clitoral hypertrophy	HumPhenOnt	
+POR	C0156404	Menstrual irregularities	HumPhenOnt	
+POR	C0157733	Abnormality of the hair	HumPhenOnt	
+POR	C0158113	Joint contracture of the hand	HumPhenOnt	
+POR	C0158761	Radioulnar synostosis	HumPhenOnt	
+POR	C0158775	Abnormality of the vertebrae	HumPhenOnt	
+POR	C0162834	Hyperpigmentation of the skin	HumPhenOnt	
+POR	C0205161	Abnormal QRS complex	HumPhenOnt	
+POR	C0205216	Decreased beta-glucocerebrosidase protein and activity	HumPhenOnt	
+POR	C0205217	Increased analgesia from kappa-opioid receptor agonist, female-specific	HumPhenOnt	
+POR	C0206667	Adrenocortical adenoma	DisGeNet	
+POR	C0206726	gliosarcoma	DisGeNet	
+POR	C0221353	Horseshoe kidney	HumPhenOnt	
+POR	C0221354	Frontal bossing	HumPhenOnt	
+POR	C0221356	Brachycephaly	HumPhenOnt	
+POR	C0221369	Camptodactyly, tall stature, and hearing loss syndrome	HumPhenOnt	
+POR	C0235942	Abnormality of the skull	HumPhenOnt	
+POR	C0235991	Small for gestational age	HumPhenOnt	
+POR	C0238395	Male pseudohermaphroditism	HumPhenOnt	
+POR	C0239234	Low-set ears	HumPhenOnt	
+POR	C0239337	Abnormality of limbs	HumPhenOnt	
+POR	C0240083	Abnormal joint morphology	HumPhenOnt	
+POR	C0240912	Vertical talus, congenital	HumPhenOnt	
+POR	C0241240	Tall stature	HumPhenOnt	
+POR	C0241355	Decreased testicular size	HumPhenOnt	
+POR	C0241657	Abnormality of blood and blood-forming tissues	HumPhenOnt	
+POR	C0242379	Malignant neoplasm of lung	DisGeNet	
+POR	C0243050	Abnormality of cardiovascular system electrophysiology	HumPhenOnt	
+POR	C0262361	Growth abnormality	HumPhenOnt	
+POR	C0264303	Laryngomalacia	HumPhenOnt	
+POR	C0265004	Aortic dilatation	HumPhenOnt	
+POR	C0265610	Clinodactyly	HumPhenOnt	
+POR	C0265677	Hemivertebrae	HumPhenOnt	
+POR	C0265736	Abnormality of the nose	HumPhenOnt	
+POR	C0266015	Abnormality of the digestive system	HumPhenOnt	
+POR	C0266292	Congenital anomalies of kidney and urinary tract 1, susceptibility to	HumPhenOnt	
+POR	C0266362	Ambiguous genitalia	DisGeNet,HumPhenOnt	
+POR	C0266423	Abnormality of the testis	HumPhenOnt	
+POR	C0266435	Hypoplasia of penis	HumPhenOnt	
+POR	C0266589	Abnormality of the ear	HumPhenOnt	
+POR	C0266781	Abnormality of the amniotic fluid	HumPhenOnt	
+POR	C0333068	Flexion contracture	HumPhenOnt	
+POR	C0342492	Adrenal hyperplasia	HumPhenOnt	
+POR	C0344722	Abnormality of the atrial septum	HumPhenOnt	
+POR	C0345049	Dilatation of the ascending aorta	HumPhenOnt	
+POR	C0424688	Decreased head circumference	HumPhenOnt	
+POR	C0426790	Narrow chest	HumPhenOnt	
+POR	C0431659	Scrotal hypoplasia	HumPhenOnt	
+POR	C0431863	Carpal synostosis	HumPhenOnt	
+POR	C0432163	Vertebral segmentation defect	HumPhenOnt	
+POR	C0441748	Autosomal recessive inheritance	HumPhenOnt	
+POR	C0456070	Growth delay	HumPhenOnt	
+POR	C0456132	Large fontanelles	HumPhenOnt	
+POR	C0497552	Abnormality of the nervous system	HumPhenOnt	
+POR	C0520463	Chronic active hepatitis	DisGeNet	
+POR	C0520927	Decreased fertility	HumPhenOnt	
+POR	C0541764	Delayed skeletal maturation	HumPhenOnt	
+POR	C0544755	Bowing of limbs due to multiple fractures	HumPhenOnt	
+POR	C0545053	Accelerated skeletal maturation	HumPhenOnt	
+POR	C0580454	Abnormal serum testosterone level	HumPhenOnt	
+POR	C0678222	Breast carcinoma	DisGeNet	
+POR	C0679378	Neurodevelopmental abnormality	HumPhenOnt	
+POR	C0684249	Lung cancer	DisGeNet	
+POR	C0702166	Acne	HumPhenOnt	
+POR	C0741583	Abnormal morphology of the great vessels	HumPhenOnt	
+POR	C0744356	Abnormality of the genital system	HumPhenOnt	
+POR	C0848558	Hypospadias	HumPhenOnt	
+POR	C0853877	Urogenital fistula	HumPhenOnt	
+POR	C0854297	Abnormality of head or neck	HumPhenOnt	
+POR	C0857379	Abnormality of the pinna	HumPhenOnt	
+POR	C0857983	Decreased serum testosterone level	HumPhenOnt	
+POR	C1096086	Abnormality of the lower limb	HumPhenOnt	
+POR	C1112442	Female sexual dysfunction	HumPhenOnt	
+POR	C1168401	Squamous cell carcinoma of the head and neck	DisGeNet	
+POR	C1260926	Abnormality of skin pigmentation	HumPhenOnt	
+POR	C1262477	Decreased body weight	HumPhenOnt	
+POR	C1306893	Abnormalities of placenta or umbilical cord	HumPhenOnt	
+POR	C1384666	Hearing impairment	HumPhenOnt	
+POR	C1527249	Colorectal cancer	DisGeNet	
+POR	C1704258	Abnormality of T cell count	HumPhenOnt	
+POR	C1836542	Depressed nasal bridge	HumPhenOnt	
+POR	C1837482	Thoracic hypoplasia	HumPhenOnt	
+POR	C1839326	Abnormal form of the vertebral bodies	HumPhenOnt	
+POR	C1839864	Flexion contracture of digit	HumPhenOnt	
+POR	C1840535	Abnormality of the carpal bones	HumPhenOnt	
+POR	C1846460	Abnormality of the outer ear	HumPhenOnt	
+POR	C1850325	Labial hypoplasia	HumPhenOnt	
+POR	C1852534	Hypoplastic male external genitalia	HumPhenOnt	
+POR	C1853242	Midface hypoplasia, hearing impairment, elliptocytosis, and nephrocalcinosis	HumPhenOnt	
+POR	C1855333	External genital hypoplasia	HumPhenOnt	
+POR	C1855340	Bowing of the long bones	HumPhenOnt	
+POR	C1856023	Abnormality of the vagina	HumPhenOnt	
+POR	C1857045	Abnormality of the philtrum	HumPhenOnt	
+POR	C1857482	Slender finger	HumPhenOnt	
+POR	C1858085	Malar flattening	HumPhenOnt	
+POR	C1858091	Long fingers	HumPhenOnt	
+POR	C1859461	Femoral bowing	HumPhenOnt	
+POR	C1861141	Abnormality of the middle ear	HumPhenOnt	
+POR	C1862136	Abnormality of the tarsal bones	HumPhenOnt	
+POR	C1865014	Long philtrum	HumPhenOnt	
+POR	C1866129	Abnormality of the cerebellum	HumPhenOnt	
+POR	C1866134	Wide anterior fontanel	HumPhenOnt	
+POR	C1969879	Limb joint contracture	HumPhenOnt	
+POR	C2183966	Abnormality of the lip	HumPhenOnt	
+POR	C2315229	Abnormality of facial skeleton	HumPhenOnt	
+POR	C2674432	Reduced bone mineral density	HumPhenOnt	
+POR	C2674737	Abnormality of finger	HumPhenOnt	
+POR	C2750635	Contractures of the joints of the upper limbs	HumPhenOnt	
+POR	C3550704	Abnormality of digit	HumPhenOnt	
+POR	C3714756	Intellectual developmental disorder with dysmorphic facies and ptosis	HumPhenOnt	
+POR	C3875321	Inflammatory abnormality of the skin	HumPhenOnt	
+POR	C4018871	Abnormality of the respiratory system	HumPhenOnt	
+POR	C4020755	Abnormality of fontanelles	HumPhenOnt	
+POR	C4020847	Abnormality of pelvic girdle bone morphology	HumPhenOnt	
+POR	C4020869	Abnormality of abdomen morphology	HumPhenOnt	
+POR	C4020900	Abnormality of the upper limb	HumPhenOnt	
+POR	C4020961	Displacement of the external urethral meatus	HumPhenOnt	
+POR	C4020967	Abnormality of forebrain morphology	HumPhenOnt	
+POR	C4020968	Abnormal localization of kidney	HumPhenOnt	
+POR	C4020971	Abnormality of lower limb joint	HumPhenOnt	
+POR	C4021025	Synostosis of carpals/tarsals	HumPhenOnt	
+POR	C4021026	Abnormal tendon morphology	HumPhenOnt	
+POR	C4021085	Abnormality of brain morphology	HumPhenOnt	
+POR	C4021096	Abnormal genital system morphology	HumPhenOnt	
+POR	C4021165	Abnormality of long bone morphology	HumPhenOnt	
+POR	C4021170	Abnormality of hindbrain morphology	HumPhenOnt	
+POR	C4021205	Abnormality of the systemic arterial tree	HumPhenOnt	
+POR	C4021386	Abnormality of the elbow	HumPhenOnt	
+POR	C4021387	Abnormality of upper limb joint	HumPhenOnt	
+POR	C4021551	Absence of secondary sex characteristics	HumPhenOnt	
+POR	C4021594	Anomaly of the limb diaphyses	HumPhenOnt	
+POR	C4021631	Abnormality of the tracheobronchial system	HumPhenOnt	
+POR	C4021657	Abnormality of bone mineral density	HumPhenOnt	
+POR	C4021742	Abnormality of the humerus	HumPhenOnt	
+POR	C4021744	Abnormality of the wrist	HumPhenOnt	
+POR	C4021745	Abnormality of the musculature	HumPhenOnt	
+POR	C4021753	Abnormality of the immune system	HumPhenOnt	
+POR	C4021762	Abnormality of the cerebrum	HumPhenOnt	
+POR	C4021765	Morphological abnormality of the central nervous system	HumPhenOnt	
+POR	C4021768	Abnormality of metabolism/homeostasis	HumPhenOnt	
+POR	C4021777	Abnormality of the larynx	HumPhenOnt	
+POR	C4021787	Abnormal diaphysis morphology	HumPhenOnt	
+POR	C4021789	Abnormality of the vertebral column	HumPhenOnt	
+POR	C4021790	Abnormality of the skeletal system	HumPhenOnt	
+POR	C4021794	Abnormality of the adrenal glands	HumPhenOnt	
+POR	C4021797	Abnormality of the thorax	HumPhenOnt	
+POR	C4021805	Abnormality of the nasal bridge	HumPhenOnt	
+POR	C4021807	Abnormality of the auditory canal	HumPhenOnt	
+POR	C4021810	Abnormal location of ears	HumPhenOnt	
+POR	C4021811	Abnormality of the midface	HumPhenOnt	
+POR	C4021812	Abnormality of the head	HumPhenOnt	
+POR	C4021818	Abnormality of the ovary	HumPhenOnt	
+POR	C4021820	Abnormality of reproductive system physiology	HumPhenOnt	
+POR	C4021821	Abnormality of the urinary system	HumPhenOnt	
+POR	C4021822	Abnormality of female external genitalia	HumPhenOnt	
+POR	C4021832	Abnormality of the calf	HumPhenOnt	
+POR	C4021846	Functional abnormality of the middle ear	HumPhenOnt	
+POR	C4021946	Abnormality of globe location	HumPhenOnt	
+POR	C4021981	Abnormality of the humeroradial joint	HumPhenOnt	
+POR	C4022183	Synostosis of joints	HumPhenOnt	
+POR	C4022392	Early onset of sexual maturation	HumPhenOnt	
+POR	C4022451	Abnormal morphology of forearm bone	HumPhenOnt	
+POR	C4022452	Abnormality of forearm bone	HumPhenOnt	
+POR	C4022454	Abnormality of upper limb bone	HumPhenOnt	
+POR	C4022455	Abnormality of lower limb bone	HumPhenOnt	
+POR	C4022456	Abnormality of limb bone	HumPhenOnt	
+POR	C4022457	Abnormal morphology of bones of the lower limbs	HumPhenOnt	
+POR	C4022458	Abnormal morphology of bones of the upper limbs	HumPhenOnt	
+POR	C4022678	Abnormal female reproductive system physiology	HumPhenOnt	
+POR	C4022696	Abnormality of the labia minora	HumPhenOnt	
+POR	C4022715	Hypoplastic female external genitalia	HumPhenOnt	
+POR	C4022803	Increased inflammatory response	HumPhenOnt	
+POR	C4022805	Abnormal inflammatory response	HumPhenOnt	
+POR	C4022810	Abnormality of nervous system morphology	HumPhenOnt	
+POR	C4022811	Abnormality of nervous system physiology	HumPhenOnt	
+POR	C4022923	Abnormality of the globe	HumPhenOnt	
+POR	C4022925	Abnormal eye morphology	HumPhenOnt	
+POR	C4022926	Abnormality of malar bones	HumPhenOnt	
+POR	C4022992	Abnormal respiratory system morphology	HumPhenOnt	
+POR	C4023038	Abnormality of circulating glucocorticoid level	HumPhenOnt	
+POR	C4023161	Abnormal bone ossification	HumPhenOnt	
+POR	C4023163	Abnormal appendicular skeleton morphology	HumPhenOnt	
+POR	C4023164	Abnormality of skeletal physiology	HumPhenOnt	
+POR	C4023165	Abnormality of skeletal morphology	HumPhenOnt	
+POR	C4023181	Abnormality of muscle morphology	HumPhenOnt	
+POR	C4023206	Abnormality of the anterior pituitary	HumPhenOnt	
+POR	C4023212	Abnormality of adrenal physiology	HumPhenOnt	
+POR	C4023213	Abnormality of adrenal morphology	HumPhenOnt	
+POR	C4023214	Abnormality of circulating cortisol level	HumPhenOnt	
+POR	C4023216	Abnormality of joint mobility	HumPhenOnt	
+POR	C4023397	Abnormal hair quantity	HumPhenOnt	
+POR	C4023412	Abnormality of cranial sutures	HumPhenOnt	
+POR	C4023432	Abnormality of the metencephalon	HumPhenOnt	
+POR	C4023458	Abnormal shape of the frontal region	HumPhenOnt	
+POR	C4023518	Abnormality of skin adnexa morphology	HumPhenOnt	
+POR	C4023527	Abnormality of skin physiology	HumPhenOnt	
+POR	C4023528	Abnormality of skin morphology	HumPhenOnt	
+POR	C4023587	Abnormality of cardiovascular system physiology	HumPhenOnt	
+POR	C4023616	Abnormality of immune system physiology	HumPhenOnt	
+POR	C4023640	Abnormality of the lower urinary tract	HumPhenOnt	
+POR	C4023641	Abnormality of the upper urinary tract	HumPhenOnt	
+POR	C4023747	Abnormality of the curvature of the vertebral column	HumPhenOnt	
+POR	C4023749	Abnormality of the zygomatic bone	HumPhenOnt	
+POR	C4023817	Aplasia/Hypoplasia of the testes	HumPhenOnt	
+POR	C4023819	Abnormality of the male genitalia	HumPhenOnt	
+POR	C4023820	Abnormality of the female genitalia	HumPhenOnt	
+POR	C4024586	Abnormal axial skeleton morphology	HumPhenOnt	
+POR	C4024688	Abnormality of the talus	HumPhenOnt	
+POR	C4024878	Generalized hyperpigmentation	HumPhenOnt	
+POR	C4024902	Aplasia/Hypoplasia of the cerebrum	HumPhenOnt	
+POR	C4025246	Abnormality of cardiac atrium	HumPhenOnt	
+POR	C4025252	Abnormal nasal morphology	HumPhenOnt	
+POR	C4025357	Abnormality of body weight	HumPhenOnt	
+POR	C4025596	Abnormality of connective tissue	HumPhenOnt	
+POR	C4025630	Abnormal bone structure	HumPhenOnt	
+POR	C4025650	Abnormality of lipid metabolism	HumPhenOnt	
+POR	C4025652	Abnormality of circulating hormone level	HumPhenOnt	
+POR	C4025662	Abnormality of the ulna	HumPhenOnt	
+POR	C4025666	Abnormality of the forearm	HumPhenOnt	
+POR	C4025675	Abnormality of the radius	HumPhenOnt	
+POR	C4025690	Prenatal maternal abnormality	HumPhenOnt	
+POR	C4025691	Abnormality of the calvaria	HumPhenOnt	
+POR	C4025692	Abnormality of calvarial morphology	HumPhenOnt	
+POR	C4025724	Abnormality of the cerebral ventricles	HumPhenOnt	
+POR	C4025725	Abnormality of the bronchi	HumPhenOnt	
+POR	C4025727	Abnormality of the upper respiratory tract	HumPhenOnt	
+POR	C4025756	Abnormality of the aorta	HumPhenOnt	
+POR	C4025761	Abnormality of the integument	HumPhenOnt	
+POR	C4025776	Abnormality of the upper arm	HumPhenOnt	
+POR	C4025818	Abnormality of skeletal maturation	HumPhenOnt	
+POR	C4025819	Abnormality of the hypothalamus-pituitary axis	HumPhenOnt	
+POR	C4025823	Abnormality of the endocrine system	HumPhenOnt	
+POR	C4025824	Abnormal internal genitalia	HumPhenOnt	
+POR	C4025825	Abnormal external genitalia	HumPhenOnt	
+POR	C4025826	Abnormality of the urethra	HumPhenOnt	
+POR	C4025855	Abnormality of the choanae	HumPhenOnt	
+POR	C4025860	Hearing abnormality	HumPhenOnt	
+POR	C4025863	Abnormality of the orbital region	HumPhenOnt	
+POR	C4025867	Abnormality of the forehead	HumPhenOnt	
+POR	C4025871	Abnormality of the face	HumPhenOnt	
+POR	C4025874	Abnormality of skull size	HumPhenOnt	
+POR	C4025875	Abnormality of the anterior fontanelle	HumPhenOnt	
+POR	C4025884	Abnormality of upper lip	HumPhenOnt	
+POR	C4025888	Abnormality of the menstrual cycle	HumPhenOnt	
+POR	C4025892	Abnormality of the labia	HumPhenOnt	
+POR	C4025893	Abnormality of the clitoris	HumPhenOnt	
+POR	C4025895	Abnormality of the scrotum	HumPhenOnt	
+POR	C4025896	Abnormality of the penis	HumPhenOnt	
+POR	C4025897	Abnormality of male external genitalia	HumPhenOnt	
+POR	C4025900	Abnormality of female internal genitalia	HumPhenOnt	
+POR	C4025901	Abnormality of body height	HumPhenOnt	
+POR	C4049796	Abnormality of cardiovascular system morphology	HumPhenOnt	
+POR	C4072892	Abnormal circulating androgen level	HumPhenOnt	
+POR	C4073180	Abnormality of the testis size	HumPhenOnt	
+POR	C4082761	Abnormality of limb bone morphology	HumPhenOnt	
+POR	C4280695	Increased size of the clitoris	HumPhenOnt	
+POR	C4280696	Abnormal size of the clitoris	HumPhenOnt	
+POR	C4293699	Abnormal vascular morphology	HumPhenOnt	

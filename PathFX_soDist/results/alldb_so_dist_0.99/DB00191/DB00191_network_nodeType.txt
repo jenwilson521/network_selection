@@ -1,0 +1,9 @@
+node_name	node_type	
+DB00191	drug	
+SLC6A3	drug_target	
+SLC6A2	drug_target	
+SLC6A4	drug_target	
+MAOB	drug_target	
+MAOA	drug_target	
+NPY	drug_target	
+CYP3A4	drug_target	

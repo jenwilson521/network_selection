@@ -1,0 +1,187 @@
+Gene	CUI	Source Databases	
+ADRA1A	C0020649	Hypotension	DisGeNet	
+ADRA1B	C0020649	Hypotension	DisGeNet	
+ADRA2A	C0020649	Hypotension	DisGeNet	
+ALB	C0020649	Hypotension	DisGeNet,HumPhenOnt	
+ADRA1A	C0036396	Chronic sciatica	DisGeNet	
+ADRA2A	C0036396	Chronic sciatica	DisGeNet	
+ADRA1A	C0152020	Gastroparesis	DisGeNet	
+ADRA1B	C0152020	Gastroparesis	DisGeNet	
+ADRA1A	C0001314	Acute disease of cardiovascular system	DisGeNet	
+ADRA2A	C0001314	Acute disease of cardiovascular system	DisGeNet	
+ADRA1A	C0027719	Nephrosclerosis	DisGeNet	
+ALB	C0027719	Nephrosclerosis	DisGeNet	
+ADRA1A	C0024031	Low back pain	DisGeNet	
+ADRA2A	C0024031	Low back pain	DisGeNet	
+ADRA1A	C0152136	Low Tension Glaucoma	DisGeNet	
+ADRA2A	C0152136	Low Tension Glaucoma	DisGeNet	
+ADRA2A	C0242488	Acute Lung Injury	DisGeNet	
+ALB	C0242488	Acute Lung Injury	DisGeNet	
+ADRA1A	C0085580	Essential hypertension	DisGeNet	
+ADRA1B	C0085580	Essential hypertension	DisGeNet	
+ALB	C0085580	Essential hypertension	DisGeNet	
+ADRA1A	C0013146	Methamphetamine abuse	DisGeNet	
+ALB	C0013146	Methamphetamine abuse	DisGeNet	
+ADRA1A	C1272641	Systemic arterial pressure	DisGeNet	
+ADRA1B	C1272641	Systemic arterial pressure	DisGeNet	
+ADRA2A	C1272641	Systemic arterial pressure	DisGeNet	
+ADRA1A	C0040517	Tourette Syndrome	DisGeNet	
+ADRA2A	C0040517	Tourette Syndrome	DisGeNet	
+ADRA1A	C0032460	Polycystic Ovary Syndrome	DisGeNet	
+ADRA1B	C0032460	Polycystic Ovary Syndrome	DisGeNet	
+ALB	C0032460	Polycystic Ovary Syndrome	DisGeNet	
+ADRA1A	C1263846	Attention deficit hyperactivity disorder	DisGeNet	
+ADRA1B	C1263846	Attention deficit hyperactivity disorder	DisGeNet	
+ADRA2A	C1263846	Attention deficit hyperactivity disorder	DisGeNet	
+ADRA1B	C0520679	Obstructive sleep apnea	DisGeNet	
+ADRA2A	C0520679	Obstructive sleep apnea	DisGeNet	
+ADRA1A	C0020429	Hyperalgesia	DisGeNet	
+ADRA2A	C0020429	Hyperalgesia	DisGeNet	
+ADRA1A	C0020445	Familial hypercholesterolemia	DisGeNet	
+ALB	C0020445	Familial hypercholesterolemia	DisGeNet	
+ADRA2A	C0016059	Fibrosis	DisGeNet	
+ALB	C0016059	Fibrosis	DisGeNet	
+ADRA1A	C0022661	Kidney Failure, Chronic	DisGeNet	
+ADRA1B	C0022661	Kidney Failure, Chronic	DisGeNet	
+ALB	C0022661	Kidney Failure, Chronic	DisGeNet	
+ADRA1A	C0220659	 Acrodysostosis 1, with or without hormone resistance, 101800 (3)	DisGeNet	
+ADRA1A	C1864100	Pseudohypoparathyroidism, type IB, 603233 (3)	DisGeNet	
+ADRA1A	C0030193	Pain	DisGeNet	
+ADRA2A	C0030193	Pain	DisGeNet	
+ALB	C0030193	Pain	DisGeNet	
+ALB	C0346402	Malignant neoplasm of adrenal cortex	DisGeNet	
+ADRA1A	C0524620	Metabolic Syndrome X	DisGeNet	
+ADRA2A	C0524620	Metabolic Syndrome X	DisGeNet	
+ALB	C0524620	Metabolic Syndrome X	DisGeNet	
+ADRA2A	C0004930	Behavior Disorders	DisGeNet	
+ALB	C0014867	Esophageal varix	DisGeNet	
+ADRA1A	C0030517	Disorders of parathyroid gland	DisGeNet	
+ALB	C0451641	Urolithiasis	DisGeNet	
+ADRA1A	C0598428	genetic hypertension	DisGeNet	
+ALB	C0013502	Echinococcosis	DisGeNet	
+ADRA1A	C0020071	Hereditary Sensory Autonomic Neuropathy, Type 1	DisGeNet	
+KRT9	C0079298	Epidermolysis bullosa simplex, Cockayne-Touraine type	DisGeNet	
+KRT9	C0240641	Palmar hyperkeratosis	HumPhenOnt	
+ADRA1A	C0014544	Epilepsy	DisGeNet	
+ADRA2A	C0014544	Epilepsy	DisGeNet	
+ALB	C0014544	Epilepsy	DisGeNet	
+ADRA1A	C0005694	Bladder neck obstruction	DisGeNet	
+ALB	C0339467	Proliferative retinopathy	DisGeNet	
+KRT9	C0043037	Verrucae	HumPhenOnt	
+ADRA1A	C0235290	Taste bitter	DisGeNet	
+ALB	C3714796	Isolated somatotropin deficiency	DisGeNet	
+ALB	C0038586	Substance Use Disorders	DisGeNet	
+ALB	C0751781	Dentatorubral pallidoluysian atrophy	DisGeNet	
+ALB	C0002985	Angiokeratoma	DisGeNet	
+ALB	C0013338	Isolated growth hormone deficiency type 1B	DisGeNet	
+ADRA2A	C0019087	Hemorrhagic disorder due to intrinsic circulating anticoagulants	DisGeNet	
+ADRA1A	C1141890	Congenital long QT syndrome	DisGeNet	
+KRT9	C1856954	Plantar hyperkeratosis	HumPhenOnt	
+ALB	C0031039	Pericardial effusion	DisGeNet	
+ADRA2A	C0037036	Excessive salivation	DisGeNet	
+ADRA1A	C0392164	Pulmonary Cystic Fibrosis	DisGeNet	
+ALB	C0026780	Mumps	DisGeNet	
+ALB	C0035457	Rhinitis, Allergic, Perennial	DisGeNet	
+ALB	C0342200	Endemic Cretinism	DisGeNet	
+ALB	C0206734	Hemangioblastoma	DisGeNet	
+ADRA1A	C0221765	Chronic schizophrenia	DisGeNet	
+ADRA1A	C0342345	Hypoparathyroidism - autosomal dominant	DisGeNet	
+ADRA1A	C0030201	Acute postoperative pain	DisGeNet	
+ALB	C0017662	Mesangiocapillary glomerulonephritis, type II	DisGeNet	
+ALB	C0235025	Peripheral motor neuropathy	DisGeNet	
+ADRA1A	C0235480	Paroxysmal atrial fibrillation	DisGeNet	
+ALB	C0745744	End Stage Liver Disease	DisGeNet	
+ADRA1A	C0020538	Hypertension	DisGeNet	
+ADRA1B	C0020538	Hypertension	DisGeNet	
+ADRA2A	C0020538	Hypertension	DisGeNet	
+ALB	C0020538	Hypertension	DisGeNet	
+ADRA1A	C0268318	Cholestasis of pregnancy	DisGeNet	
+ALB	C4023036	Abnormal albumin level	HumPhenOnt	
+ADRA1B	C0235032	Neurotoxicity Syndromes	DisGeNet	
+ADRA2A	C0751265	Learning Disabilities	DisGeNet	
+ADRA2A	C1857451	Acth-Independent Macronodular Adrenal Hyperplasia	DisGeNet	
+ALB	C0007121	Bronchogenic Carcinoma	DisGeNet	
+ADRA1B	C0018800	Cardiomegaly	DisGeNet	
+ADRA2A	C0018800	Cardiomegaly	DisGeNet	
+ADRA1A	C0162283	Nephrogenic diabetes insipidus, autosomal	DisGeNet	
+ALB	C0010051	Coronary artery aneurysm	DisGeNet	
+ALB	C0020476	Hyperlipoproteinemia	DisGeNet	
+ALB	C0745103	Hyperlipoproteinemia Type IIa	DisGeNet	
+ALB	C0027707	Tubulointerstitial nephritis	DisGeNet	
+ALB	C1298180	Single tumor	DisGeNet	
+ALB	C1704321	Nephrotic Syndrome, Minimal Change	DisGeNet	
+ADRA2A	C0242510	Drug usage	DisGeNet	
+KRT9	C0037277	Skin Diseases, Genetic	DisGeNet	
+ADRA2A	C2911645	Weight Loss Adverse Event	DisGeNet	
+ALB	C0740380	Varicella zoster	DisGeNet	
+ALB	C1260959	Drusen	DisGeNet	
+ADRA1A	C0016053	Fibromyalgia	DisGeNet	
+KRT9	C0151669	Increased antibody level in blood	HumPhenOnt	
+ALB	C3714619	Insulin resistance syndrome	DisGeNet	
+ADRA1A	C0013386	Dyskinesia, Drug-Induced	DisGeNet	
+ADRA2A	C0085602	Polydipsia	DisGeNet	
+ALB	C0027720	Nephrosis	DisGeNet	
+ADRA1B	C0038012	Spondylitis, Ankylosing	PheGenI	
+ADRA2A	C0948089	Acute Coronary Syndrome	DisGeNet	
+ALB	C0948089	Acute Coronary Syndrome	DisGeNet	
+ADRA1B	C0525045	Mood Disorders	DisGeNet	
+ADRA2A	C0525045	Mood Disorders	DisGeNet	
+ALB	C0018378	Guillain-Barre syndrome, familial	DisGeNet	
+ADRA1A	C0023890	Liver Cirrhosis, Biliary	DisGeNet	
+ADRA2A	C0023890	Liver Cirrhosis, Biliary	DisGeNet	
+ALB	C0023890	Liver Cirrhosis, Biliary	DisGeNet	
+ALB	C0221002	Primary hyperparathyroidism	DisGeNet	
+ALB	C1096063	Drug Resistant Epilepsy	DisGeNet	
+ADRA1A	C0025261	Memory Disorders	DisGeNet	
+ALB	C0035242	Respiratory Tract Diseases	DisGeNet	
+ALB	C0086981	Sicca Syndrome	DisGeNet	
+ALB	C0239981	Hypoalbuminemia	DisGeNet,HumPhenOnt	
+ALB	C0030286	Neurologic, endocrine, and pancreatic disease, multisystem, infantile-onset	DisGeNet	
+KRT9	C4020946	Abnormality of the plantar skin of foot	HumPhenOnt	
+ADRA1A	C0234251	Inflammatory pain	DisGeNet	
+ALB	C0010308	Congenital hypothyroidism	DisGeNet	
+ALB	C0041755	Adverse drug events and drug allergies	DisGeNet	
+ADRA1A	C0162809	Hypogonadism with anosmia	DisGeNet	
+ALB	C0019061	Hemolytic uremic syndrome	DisGeNet	
+ADRA1B	C0040128	Thyroid Diseases	PheGenI	
+ALB	C0040128	Thyroid Diseases	DisGeNet	
+ADRA2A	C0041671	Attention Deficit Disorder	DisGeNet	
+ADRA1A	C0003469	Anxiety Disorders	DisGeNet	
+ADRA2A	C0003469	Anxiety Disorders	DisGeNet	
+ADRA1A	C0011849	Diabetes Mellitus, Type 1	DisGeNet	
+ADRA1B	C0011849	Diabetes Mellitus, Type 1	PheGenI	
+ADRA2A	C0011849	Diabetes Mellitus, Type 1	DisGeNet	
+ALB	C0011849	Diabetes Mellitus, Type 1	DisGeNet	
+ADRA2A	C0018799	Heart Diseases	DisGeNet	
+ALB	C0018799	Heart Diseases	DisGeNet	
+ADRA1B	C1271104	Blood pressure finding	DisGeNet	
+ADRA2A	C1271104	Blood pressure finding	DisGeNet	
+ALB	C0028797	Occupational Diseases	DisGeNet	
+ALB	C0730345	Microalbuminuria	DisGeNet	
+ALB	C0008031	Chest pain	DisGeNet	
+ADRA1A	C0042024	Urinary incontinence	DisGeNet	
+ALB	C0042749	 {HIV-1 viremia, susceptibility to}, 609423 (3)	DisGeNet	
+ALB	C0342257	Complications of Diabetes Mellitus	DisGeNet	
+ADRA1A	C0028754	Obesity	DisGeNet	
+ADRA1B	C0028754	Obesity	DisGeNet	
+ADRA2A	C0028754	Obesity	DisGeNet	
+ALB	C0028754	Obesity	DisGeNet	
+ALB	C0034063	Pulmonary edema	DisGeNet	
+ADRA2A	C0432306	Ichthyosis bullosa of Siemens	DisGeNet	
+ALB	C0038325	Stevens-Johnson Syndrome	DisGeNet	
+ALB	C0024291	Lymphohistiocytosis, Hemophagocytic	DisGeNet	
+ALB	C0021079	IMMUNE SUPPRESSION	DisGeNet	
+ADRA1A	C0036337	Schizoaffective Disorder	DisGeNet	
+ALB	C0011269	Dementia, Vascular	DisGeNet	
+ADRA2A	C0017178	Gastrointestinal Diseases	DisGeNet	
+ALB	C0017665	Membranous nephropathy, susceptibility to	DisGeNet	
+ALB	C0012236	DiGeorge sequence	DisGeNet	
+ADRA1A	C0019340	Herpes NOS	DisGeNet	
+ALB	C1318485	Liver regeneration disorder	DisGeNet	
+ADRA1A	C0001916	Albinism, ocular, with sensorineural deafness	DisGeNet	
+ALB	C0011875	Diabetic Angiopathies	DisGeNet	
+ALB	C0032131	Plasmacytoma	DisGeNet	
+ALB	C0011882	Type 1 diabetic neuropathy	DisGeNet	
+ALB	C0152025	Polyneuropathy, hearing loss, ataxia, retinitis pigmentosa, and cataract	DisGeNet	
+ALB	C0013595	Eczema	DisGeNet	
+KRT9	C0013595	Eczema	HumPhenOnt	

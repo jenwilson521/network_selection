@@ -1,0 +1,13 @@
+node_name	node_type	
+DB00319	drug	
+SLC22A6	drug_target	
+SLC22A8	drug_target	
+Diabetic Nephropathies	phenotype	
+Influenza	phenotype	
+Kidney Diseases	phenotype	
+Acute kidney injury	phenotype	
+Chronic Lymphocytic Leukemia	phenotype	
+Lymphoma, Large B-Cell, Diffuse	phenotype	
+Peripheral neuropathy, myopathy, hoarseness, and hearing loss	phenotype	
+Virus Diseases	phenotype	
+Chromosome 11p deletion syndrome	phenotype	

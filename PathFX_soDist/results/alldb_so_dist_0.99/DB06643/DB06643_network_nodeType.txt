@@ -1,0 +1,3 @@
+node_name	node_type	
+DB06643	drug	
+TNFSF11	drug_target	

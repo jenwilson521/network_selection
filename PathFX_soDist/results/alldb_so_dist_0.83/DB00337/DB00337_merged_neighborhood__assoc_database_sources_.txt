@@ -1,0 +1,3 @@
+Gene	CUI	Source Databases	
+CYP3A4	C0877373	Advanced cancer	DisGeNet	
+MTOR	C0877373	Advanced cancer	DisGeNet	

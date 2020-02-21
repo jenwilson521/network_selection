@@ -1,0 +1,220 @@
+node1	node2	edge_score	
+DB00030	IGF1R	1.0	
+DB00030	PCSK2	1.0	
+DB00030	PCSK1	1.0	
+DB00030	CPE	1.0	
+DB00030	RB1	1.0	
+DB00030	INSR	1.0	
+DB00030	IDE	1.0	
+INSR		1.0
+INSR	rs2396185	0.99
+Diabetic ketoacidosis	INSR	1.0	
+Berardinelli-Seip congenital lipodystrophy	INSR	1.0	
+Decreased adipose tissue	INSR	1.0	
+Abnormality of endocrine pancreas physiology	INSR	1.0	
+Insulin-resistant diabetes mellitus AND acanthosis nigricans	INSR	1.0	
+Generalized hyperpigmentation	INSR	1.0	
+Corneal neovascularization	INSR	1.0	
+Acanthosis nigricans	INSR	1.0	
+Coarse hair	INSR	1.0	
+Thickened nuchal skin fold	INSR	1.0	
+Increased size of the clitoris	INSR	1.0	
+Abnormal size of the clitoris	INSR	1.0	
+Atypical teratoid/rhabdoid tumor	INSR	1.0	
+Clitoral hypertrophy	INSR	1.0	
+Accelerated skeletal maturation	INSR	1.0	
+Ketoacidosis	INSR	1.0	
+Female pseudohermaphroditism	INSR	1.0	
+EPIDERMODYSPLASIA VERRUCIFORMIS	INSR	1.0	
+Fetal ultrasound soft marker	INSR	1.0	
+Hypermelanotic macule	INSR	1.0	
+Helminthiasis	INSR	1.0	
+High, narrow palate	INSR	1.0	
+Hyperpituitarism	INSR	1.0	
+ Hyperandrogenism, nonclassic type, due to 21-hydroxylase deficiency, 201910 (3)	INSR	1.0	
+Acromegaly	INSR	1.0	
+Abnormality of the clitoris	INSR	1.0	
+Early onset of sexual maturation	INSR	1.0	
+Congenital disorder of glycosylation	INSR	1.0	
+Gingival overgrowth	INSR	1.0	
+Small face	INSR	1.0	
+Abdominal distention	INSR	1.0	
+Migraine with aura	INSR	1.0	
+Subcutaneous nodule	INSR	1.0	
+Narrow palate	INSR	1.0	
+Type 1 diabetic neuropathy	INSR	1.0	
+Thick lower lip vermilion	INSR	1.0	
+Small for gestational age	INSR	1.0	
+Skin nodule	INSR	1.0	
+Coma	INSR	1.0	
+body mass	INSR	1.0	
+Wide mouth	INSR	1.0	
+Generalized hirsutism	INSR	1.0	
+Macule	INSR	1.0	
+Prematurely aged appearance	INSR	1.0	
+Gynecomastia	INSR	1.0	
+Rhabdoid Tumor of the Kidney	INSR	1.0	
+Precursor B-Cell Lymphoblastic Leukemia-Lymphoma	INSR	1.0	
+Postnatal growth retardation	INSR	1.0	
+Clear-cell metastatic renal cell carcinoma	INSR	1.0	
+Mandibular prognathia	INSR	1.0	
+Dry skin	INSR	1.0	
+Abnormality of female external genitalia	INSR	1.0	
+Maturity-onset diabetes of the young, type 11	INSR	1.0	
+Hypertrichosis	INSR	1.0	
+Abnormality of pancreas physiology	INSR	1.0	
+Ovarian cyst	INSR	1.0	
+Irregular hyperpigmentation	INSR	1.0	
+Nail dysplasia	INSR	1.0	
+Precocious puberty	INSR	1.0	
+Thick vermilion border	INSR	1.0	
+Abnormality of dental eruption	INSR	1.0	
+Duchenne muscular dystrophy	INSR	1.0	
+Abnormal insulin level	INSR	1.0	
+Abnormal circulating insulin level	INSR	1.0	
+Abnormal nipple morphology	INSR	1.0	
+Abnormality of hair texture	INSR	1.0	
+Macrotia	INSR	1.0	
+Amyloidosis	INSR	1.0	
+Abnormality of the gingiva	INSR	1.0	
+Obesity, severe, 601665 (3)	INSR	1.0	
+Congenital diaphragmatic hernia	INSR	1.0	
+Lewy Body Disease	INSR	1.0	
+Coarse facial features	INSR	1.0	
+Abnormality of adipose tissue	INSR	1.0	
+Congenital Myotonic Dystrophy	INSR	1.0	
+Hirsutism	INSR	1.0	
+Insulinoma	INSR	1.0	
+Malignant neoplasm of brain and nervous system	INSR	1.0	
+Nonalcoholic Steatohepatitis	INSR	1.0	
+Steinert myotonic dystrophy syndrome	INSR	1.0	
+Abnormality of lower lip	INSR	1.0	
+Lipoatrophy	INSR	1.0	
+Abnormality of blood glucose concentration	INSR	1.0	
+Abnormality of the chin	INSR	1.0	
+Cachexia	INSR	1.0	
+Proptosis	INSR	1.0	
+Substance-Related Disorders	INSR	1.0	
+Abnormality of the ovary	INSR	1.0	
+Inguinal hernia	INSR	1.0	
+Hyperalgesia	INSR	1.0	
+Hyperpigmentation of the skin	INSR	1.0	
+Abnormality of the umbilicus	INSR	1.0	
+Low-set, posteriorly rotated ears	INSR	1.0	
+Abnormality of the anterior pituitary	INSR	1.0	
+Laryngeal carcinoma	INSR	1.0	
+Umbilical hernia	INSR	1.0	
+Delayed puberty	INSR	1.0	
+Chronic Kidney Insufficiency	INSR	1.0	
+Abnormality of oral mucosa	INSR	1.0	
+Epilepsy, Temporal Lobe	INSR	1.0	
+Tuberous sclerosis syndrome	INSR	1.0	
+Abnormality of mouth size	INSR	1.0	
+Proteinuria, low molecular weight, with hypercalciuria and nephrocalcinosis	INSR	1.0	
+Burkitt lymphoma	INSR	1.0	
+Maternal diabetes	INSR	1.0	
+Abnormal hand morphology	INSR	1.0	
+Abnormality of the pancreas	INSR	1.0	
+Reduced consciousness/confusion	INSR	1.0	
+Overweight	INSR	1.0	
+Hepatoblastoma	INSR	1.0	
+Restenosis	INSR	1.0	
+Delayed skeletal maturation	INSR	1.0	
+Ovarian Diseases	INSR	1.0	
+Abnormal breast morphology	INSR	1.0	
+Abnormality of the breast	INSR	1.0	
+Abnormality of the biliary system	INSR	1.0	
+Posteriorly rotated ears	INSR	1.0	
+Heterogeneous	INSR	1.0	
+Brachydactyly, type a1, d	INSR	1.0	
+Abnormality of the hypothalamus-pituitary axis	INSR	1.0	
+Adenoma of large intestine	INSR	1.0	
+Hyperkeratosis	INSR	1.0	
+Abnormality of circulating hormone level	INSR	1.0	
+Anaplastic large cell lymphoma, ALK negative	INSR	1.0	
+Hypoglycemia, neonatal, simulating foetopathia diabetica	INSR	1.0	
+Ewing's sarcoma	INSR	1.0	
+Abnormality of skeletal maturation	INSR	1.0	
+Diabetic Retinopathy	INSR	1.0	
+Depressed nasal bridge	INSR	1.0	
+Choriocarcinoma	INSR	1.0	
+Hernia of the abdominal wall	INSR	1.0	
+Abnormality of acid-base homeostasis	INSR	1.0	
+Abdominal wall defect	INSR	1.0	
+Acidosis	INSR	1.0	
+Hyperlipidemia, combined, 1	INSR	1.0	
+Feeding difficulties in infancy	INSR	1.0	
+Abnormality of the nail	INSR	1.0	
+Glucose intolerance	INSR	1.0	
+Essential hypertension	INSR	1.0	
+Epidermal thickening	INSR	1.0	
+Muscular dystrophy-dystroglycanopathy (congenital with brain and eye anomalies), type a, 11	INSR	1.0	
+Non-alcoholic Fatty Liver Disease	INSR	1.0	
+Recurrent respiratory infections	INSR	1.0	
+Short digit	INSR	1.0	
+Abnormality of the abdominal wall	INSR	1.0	
+Cholestasis, benign recurrent intrahepatic 1	INSR	1.0	
+Insulin Resistance	INSR	1.0	
+Migraine Disorders	INSR	1.0	
+Thickened skin	INSR	1.0	
+Hypothyroidism	INSR	1.0	
+Chronic kidney disease	INSR	1.0	
+Abnormality of skin pigmentation	INSR	1.0	
+High palate	INSR	1.0	
+Hernia	INSR	1.0	
+Hyperinsulinemia	INSR	1.0	
+Fatigue	INSR	1.0	
+Skeletal muscle atrophy	INSR	1.0	
+Preeclampsia/eclampsia 1	INSR	1.0	
+Thyroid Diseases	INSR	1.0	
+Pulmonary Disease, Chronic Obstructive	INSR	1.0	
+Intrauterine growth retardation	INSR	1.0	
+Rhabdomyosarcoma alveolar	INSR	1.0	
+Abnormality of the neck	INSR	1.0	
+B Acute Lymphoblastic Leukemia with t(9;22)(q34;q11.2); BCR-ABL1	INSR	1.0	
+Abnormality of the nasal alae	INSR	1.0	
+Disorders of Intracellular Cobalamin Metabolism	INSR	1.0	
+Abnormal hair quantity	INSR	1.0	
+Abnormality of female internal genitalia	INSR	1.0	
+Low-set ears	INSR	1.0	
+Cancer of the lower GI tract	INSR	1.0	
+Respiratory tract infection	INSR	1.0	
+Abnormality of urine homeostasis	INSR	1.0	
+Hepatic fibrosis	INSR	1.0	
+Abnormality of the pinna	INSR	1.0	
+Abnormal internal genitalia	INSR	1.0	
+Hepatic steatosis	INSR	1.0	
+Abnormal location of ears	INSR	1.0	
+Celiac Disease	INSR	1.0	
+Abnormality of skeletal physiology	INSR	1.0	
+Abnormal glucose homeostasis	INSR	1.0	
+C-like syndrome	INSR	1.0	
+Hypertelorism	INSR	1.0	
+Systemic arterial pressure	INSR	1.0	
+Abnormality of the female genitalia	INSR	1.0	
+Myopathy, scapulohumeroperoneal	INSR	1.0	
+Feeding difficulties	INSR	1.0	
+Precancerous Conditions	INSR	1.0	
+Hyperglycemia	INSR	1.0	
+Abnormality of the penis	INSR	1.0	
+Abnormality of skeletal muscles	INSR	1.0	
+Abnormality of muscle size	INSR	1.0	
+Polycystic Ovary Syndrome	INSR	1.0	
+Puberty and gonadal disorders	INSR	1.0	
+Abnormality of carbohydrate metabolism/homeostasis	INSR	1.0	
+Malignant neoplasm of endometrium	INSR	1.0	
+Uterine Corpus Cancer	INSR	1.0	
+Infections, recurrent, with encephalopathy, hepatic dysfunction, and cardiovascular malformations	INSR	1.0	
+Localized skin lesion	INSR	1.0	
+Abnormality of the external nose	INSR	1.0	
+Abnormal facial shape	INSR	1.0	
+Abnormality of the mandible	INSR	1.0	
+Constitutional symptom	INSR	1.0	
+Abnormality of dental morphology	INSR	1.0	
+Abnormality of globe location	INSR	1.0	
+Liver Diseases	INSR	1.0	
+Abnormal peripheral nervous system morphology	INSR	1.0	
+Abnormal jaw morphology	INSR	1.0	
+Abnormality of the nasal bridge	INSR	1.0	
+Abnormality of the palate	INSR	1.0	
+Abnormality of the lip	INSR	1.0	

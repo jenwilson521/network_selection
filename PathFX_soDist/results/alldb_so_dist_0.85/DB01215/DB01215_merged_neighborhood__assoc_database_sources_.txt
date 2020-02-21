@@ -1,0 +1,3 @@
+Gene	CUI	Source Databases	
+CYP3A4	C0085762	Alcohol abuse	DisGeNet	
+GABRA1	C0085762	Alcohol abuse	DisGeNet	
