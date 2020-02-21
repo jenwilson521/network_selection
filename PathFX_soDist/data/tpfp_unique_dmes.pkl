@@ -1,0 +1,70 @@
+(lp0
+S'Hepatic necrosis'
+p1
+aS'Thrombocytopenia'
+p2
+aS'Ventricular tachycardia'
+p3
+aS'Gastric ulcer'
+p4
+aS'Visual acuity reduced'
+p5
+aS'Sleep disorder'
+p6
+aS'Sleep apnea syndrome'
+p7
+aS'Hemolytic anemia'
+p8
+aS'Myopathy'
+p9
+aS'Agranulocytosis'
+p10
+aS'Cardiac arrest'
+p11
+aS'Interstitial lung disease'
+p12
+aS'Serotonin syndrome'
+p13
+aS'Deep vein thrombosis'
+p14
+aS'Anaphylactic reaction'
+p15
+aS'Cerebral infarction'
+p16
+aS'Hyperlipidemia'
+p17
+aS'Pneumonia'
+p18
+aS'Tardive dyskinesia'
+p19
+aS'Delirium'
+p20
+aS'Hemorrhage'
+p21
+aS'QT Prolongation'
+p22
+aS'Completed suicide'
+p23
+aS'Pancreatitis'
+p24
+aS'Edema'
+p25
+aS'Generalized tonic-clonic seizure'
+p26
+aS'Sepsis'
+p27
+aS'Pulmonary edema'
+p28
+aS'Hypertension'
+p29
+aS'Proteinuria'
+p30
+aS'Peripheral neuropathy'
+p31
+aS'Myocardial infarction'
+p32
+aS'Stevens-Johnson Syndrome'
+p33
+aS'Neuroleptic malignant syndrome'
+p34
+a.
