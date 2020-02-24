@@ -7,7 +7,7 @@ matplotlib.use("AGG")
 import matplotlib.pyplot as plt
 import numpy as np
 
-model_type = 'log_reg' # 'dec_tree' # 'rand_for'
+model_type = 'dec_tree' # 'log_reg' # 'dec_tree' # 'rand_for'
 print('\n\nRUNNING: '+model_type+'\n\n')
 
 allf = [f for f in os.listdir('.') if 'dme_' in f and '.txt' in f]
