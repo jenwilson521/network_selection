@@ -1,3 +1,4 @@
 *.swp
 *.DS_Store
 *__pycache__*
+PathFX_soDist/results/pathfx_mp_dfs_all_nodes/thr_0*/*
