@@ -13,11 +13,21 @@ print('\n\nRUNNING: '+model_type+'\n\n')
 allf = [f for f in os.listdir('.') if 'dme_' in f and '.txt' in f]
 
 val_type ='nestedcv' 
-for f in allf[0:2]:
+for f in allf:
 	dme = f.replace('dme_','').replace('.txt','')
-	cmd = 'python all_pathways_with_validation.py %s -m %s -n %s -v %s -s %s'%(f,model_type,dme,'nest',val_type)
-	print(cmd)
-	os.system(cmd)
+	print(dme)
+	# check for if there are sufficient positive cases?
+	d = [l.strip().split('\t') for l in open(f,'rU').readlines()]
+        tp = len([x for x in d if x[1] =='positive'])
+	tn = len([x for x in d if x[1] =='negative'])
+#	print(str(tp)+'/'+str(tn)+'/'+str(len(d)-1))
+	if tp > 10 and tn > 10:
+		cmd = 'python all_pathways_with_validation.py %s -m %s -n %s -v %s -s %s'%(f,model_type,dme,'nest',val_type)
+		print(cmd)
+		# os.system(cmd)
+
+	else:
+		print('skipped')
 
 ## plot all scores on a bar chart
 #res_dir = os.path.join('.',val_type + "_" + model_type)
