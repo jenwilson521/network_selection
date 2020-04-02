@@ -104,9 +104,9 @@ def histogram(value, xlabel, name=None, ylabel=None, title=None):
     plt.grid(ls='dotted')
 
     if name is None:
-        fig.savefig("histogram_" + dme + "_" +  title + ".png")
+        fig.savefig("histogram_" + dme + "_" + title + "_" + model_type + ".png")
     else:
-        fig.savefig(name + "_" + dme + ".png")
+        fig.savefig(name + "_" + dme + "_" + model_type + ".png")
 
     plt.close(fig)
 
@@ -128,7 +128,7 @@ def plot_correlation_matrix(corr, name):
 
     plt.title(name + "'s correlation")
     plt.tight_layout()
-    f.savefig(os.path.join(save_dir,dme+'_'+name+'.png'), dpi=400)
+    f.savefig(os.path.join(save_dir,dme+'_'+name+ "_" + model_type +'.png'), dpi=400)
     plt.close()
 
 
@@ -156,10 +156,10 @@ def visualize_tree(tree, feature_names, name=None):
 
     if name is not None:
         #graph.write_dot(name+".dot")
-        graph.write_png(name+ "_" + dme + ".png")
+        graph.write_png(os.path.join(name+ "_" + dme + "_" + model_type + ".png"))
     else:
         #graph.write_dot("decisionTreePlot.dot")
-        graph.write_png("decisionTreePlot" + "_" + dme + ".png")
+        graph.write_png(os.path.join("decisionTreePlot" + "_" + dme + "_" + model_type + ".png"))
 
 
 def pca_plot(df_input, df_target, n_comp, name, color=None):
@@ -222,7 +222,7 @@ def pca_plot(df_input, df_target, n_comp, name, color=None):
             ax.scatter(d[ut]['pc1'], d[ut]['pc2'], c=[color[i]/255.0] * len(d[ut]['pc2']), label=label_fun(ut, name))
 
     plt.legend(loc='best')
-    savefig_path = os.path.join(save_dir,dme+'_'+name+"_3D.png") if n_comp == 3 else os.path.join(save_dir,dme+'_'+name+".png")
+    savefig_path = os.path.join(save_dir,dme+'_'+name+ "_" + model_type +"_3D.png") if n_comp == 3 else os.path.join(save_dir,dme+'_'+name+".png")
     plt.savefig(savefig_path, dpi=400)
     plt.close(fig)
 
@@ -245,7 +245,7 @@ def run_model(model, x_tr, y_tr, x_ts, y_ts, fcol):
     scoring(y_tr, prediction_tr, y_ts, prediction_ts)
     if "Logistic" in model_name:
         fimp = model.coef_[0]
-        pickle.dump(zip(fcol, fimp), open(os.path.join(save_dir, dme+'_feature_import.pkl'), 'wb'))
+        pickle.dump(zip(fcol, fimp), open(os.path.join(save_dir, dme+ "_" + model_type +'_feature_import.pkl'), 'wb'))
     else:
         fimp = model.feature_importances_
         print(str(list(zip(fcol, fimp))))
@@ -276,12 +276,12 @@ def scoring(y_tr, prediction_tr, y_ts, prediction_ts):
     ts_f1_score = f1_score(y_ts, prediction_ts, average="micro")
     ts_roc_auc_score = roc_auc_score(y_ts, prediction_ts)
 
-    pickle.dump(tr_acc_score, open(os.path.join(save_dir, dme+'_tr_acc_score.pkl'), 'wb'))
-    pickle.dump(tr_f1_score, open(os.path.join(save_dir, dme+'_tr_f1_score.pkl'), 'wb'))
-    pickle.dump(tr_roc_auc_score, open(os.path.join(save_dir, dme+'_tr_roc_auc_score.pkl'), 'wb'))
-    pickle.dump(ts_acc_score, open(os.path.join(save_dir, dme+'_ts_acc_score.pkl'), 'wb'))
-    pickle.dump(ts_f1_score, open(os.path.join(save_dir, dme+'_ts_f1_score.pkl'), 'wb'))
-    pickle.dump(ts_roc_auc_score, open(os.path.join(save_dir, dme+'_ts_roc_auc_score.pkl'), 'wb'))
+    pickle.dump(tr_acc_score, open(os.path.join(save_dir, dme+ "_" + model_type +'_tr_acc_score.pkl'), 'wb'))
+    pickle.dump(tr_f1_score, open(os.path.join(save_dir, dme+ "_" + model_type +'_tr_f1_score.pkl'), 'wb'))
+    pickle.dump(tr_roc_auc_score, open(os.path.join(save_dir, dme+ "_" + model_type +'_tr_roc_auc_score.pkl'), 'wb'))
+    pickle.dump(ts_acc_score, open(os.path.join(save_dir, dme+ "_" + model_type +'_ts_acc_score.pkl'), 'wb'))
+    pickle.dump(ts_f1_score, open(os.path.join(save_dir, dme+ "_" + model_type +'_ts_f1_score.pkl'), 'wb'))
+    pickle.dump(ts_roc_auc_score, open(os.path.join(save_dir, dme+ "_" + model_type +'_ts_roc_auc_score.pkl'), 'wb'))
 
 
 def cross_validate(k, estimator, params, metrics, x_tr, y_tr, x_ts, y_ts, fcol, refit, dme, jobs=1, n_iter=None, rand_state=0):
@@ -292,8 +292,8 @@ def cross_validate(k, estimator, params, metrics, x_tr, y_tr, x_ts, y_ts, fcol, 
         model, res = run_gridsearch(x_tr, y_tr, estimator, params, metrics, cv=k, n_jobs=jobs, refit=refit)
 
     mode = "GridSearchCV" if iter is None else "RandomizedSearchCV"
-    pickle.dump(res,  open(os.path.join(save_dir, dme + '_' + mode + '_res.pkl'), 'wb'))
-    with open(os.path.join(save_dir, dme + '_' + mode + '_res.txt'), 'w') as f:
+    pickle.dump(res,  open(os.path.join(save_dir, dme + "_" + model_type + '_' + mode + '_res.pkl'), 'wb'))
+    with open(os.path.join(save_dir, dme + "_" + model_type + '_' + mode + '_res.txt'), 'w') as f:
         f.write(str(mode))
         f.flush()
         f.write(str(params))
@@ -317,8 +317,8 @@ def nest_validation(estimator, params, x, y, inner_split, outer_split, metrics, 
 
     res = nestedCrossValidation(estimator, params, x, y, inner_split, outer_split, metrics, refit, n_iter_search=n_iter, n_jobs=jobs, ran_state=rand_state)
 
-    pickle.dump(res, open(os.path.join(save_dir, dme + '_' + mode + '_nest_validation_res.pkl'), 'wb'))
-    with open(os.path.join(save_dir, dme + '_' + mode + '_nest_validation_res.txt'), 'w') as f:
+    pickle.dump(res, open(os.path.join(save_dir, dme + "_" + model_type + '_' + mode + '_nest_validation_res.pkl'), 'wb'))
+    with open(os.path.join(save_dir, dme + "_" + model_type + '_' + mode + '_nest_validation_res.txt'), 'w') as f:
         mode = "GridSearchCV" if iter is None else "RandomizedSearchCV"
         f.write(str(mode))
         f.flush()
@@ -364,11 +364,12 @@ def main():
 
     (options, args) = parser.parse_args()
     # parse file name from input arguments
+    global model_type
     model_type = options.model_type
     path = args[0]
     global save_dir
     sdir_root = options.save_dir
-    save_dir = os.path.join('.', sdir_root + "_" + model_type)
+    save_dir = os.path.join('.', sdir_root + "_" + options.validation_type)
     if not os.path.isdir(save_dir):
         os.makedirs(save_dir)
 
