@@ -2,3 +2,8 @@
 *.DS_Store
 *__pycache__*
 PathFX_soDist/results/pathfx_mp_dfs_all_nodes/thr_0*/*
+~$*.docx
+py
+ML_network_positives_negatives/nestedcv_nest/*.png
+ML_network_positives_negatives/nestedcv_nest/*._res.pkl
+ML_network_positives_negatives/nestedcv_nest/*._res.txt
