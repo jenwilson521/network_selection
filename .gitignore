@@ -8,3 +8,4 @@ ML_network_positives_negatives/nestedcv_nest/*.png
 ML_network_positives_negatives/nestedcv_nest/*_res.pkl
 ML_network_positives_negatives/nestedcv_nest/*_res.txt
 ML_network_positives_negatives/compare_NCV_scores_all_models.png
+*.pyc
