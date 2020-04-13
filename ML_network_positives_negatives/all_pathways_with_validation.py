@@ -1,4 +1,4 @@
-from sklearn.metrics import f1_score, confusion_matrix, roc_auc_score, accuracy_score, make_scorer
+from sklearn.metrics import f1_score, confusion_matrix, roc_auc_score, accuracy_score, make_scorer, precision_score, recall_score
 from sklearn.model_selection import train_test_split
 from sklearn.ensemble import RandomForestClassifier
 from sklearn.linear_model import LogisticRegression
@@ -316,7 +316,7 @@ def nest_validation(estimator, params, x, y, inner_split, outer_split, metrics, 
         raise ValueError("mode must contain rcv or gcv.")
 
     res = nestedCrossValidation(estimator, params, x, y, inner_split, outer_split, metrics, refit, n_iter_search=n_iter, n_jobs=jobs, ran_state=rand_state)
-
+    print(res)
     pickle.dump(res, open(os.path.join(save_dir, dme + "_" + model_type + '_' + mode + '_nest_validation_res.pkl'), 'wb'))
     with open(os.path.join(save_dir, dme + "_" + model_type + '_' + mode + '_nest_validation_res.txt'), 'w') as f:
         mode = "GridSearchCV" if iter is None else "RandomizedSearchCV"
@@ -394,13 +394,17 @@ def main():
     plot_correlation_matrix(df[1:].corr(method="pearson"), "Pearson")
     plot_correlation_matrix(df[1:].corr(method="spearman"), "Spearman")
 
-    # Split into test and training set
-    x_tr, x_ts, y_tr, y_ts = train_test_split(df[fcol], df[tcol], test_size=0.2, stratify=df[tcol], random_state=0)
-    y_tr=y_tr.astype('int') # modified JLW
-    y_ts=y_ts.astype('int') # modified JLW
+    if "nest" in validation_type:
+        x_tr = df[fcol].astype('int')
+        y_tr = df[tcol].astype('int')
+    else:
+        # Split into test and training set
+        x_tr, x_ts, y_tr, y_ts = train_test_split(df[fcol], df[tcol], test_size=0.2, stratify=df[tcol], random_state=0)
+        y_tr=y_tr.astype('int') # modified JLW
+        y_ts=y_ts.astype('int') # modified JLW
 
-    print('Num for training, testing')
-    print(len(x_tr), len(x_ts))
+        print('Num for training, testing')
+        print(len(x_tr), len(x_ts))
 
     if model_type == 'log_reg':
         # Logistic Regression model
@@ -435,16 +439,24 @@ def main():
     else:
         raise ValueError("Unexpected model type")
 
+    
+    tn = lambda y_true, y_pred: confusion_matrix(y_true, y_pred)[0, 0]
+    tp = lambda y_true, y_pred: confusion_matrix(y_true, y_pred)[1, 1]
+    fn = lambda y_true, y_pred: confusion_matrix(y_true, y_pred)[1, 0]
+    fp = lambda y_true, y_pred: confusion_matrix(y_true, y_pred)[0, 1]
+
     metrics = {"roc": make_scorer(roc_auc_score),
-               "f1": make_scorer(f1_score, average="micro"),
-               "accuracy": make_scorer(accuracy_score)}
+               "f1": make_scorer(f1_score),
+               "accuracy": make_scorer(accuracy_score),
+               "tp" : make_scorer(tp), "tn" : make_scorer(tn),
+               "fp" : make_scorer(fp), "fn" : make_scorer(fn)}
 
     if "cv" in validation_type:
-        n_iter = 300 if "rcv" in validation_type.lower() else None  # n_iter = 1000
-        cross_validate(3, clf, params, metrics, x_tr, y_tr, x_ts, y_ts, fcol, 'roc', dme, jobs=10, n_iter=n_iter)
+        n_iter = 500 if "rcv" in validation_type.lower() else None  # n_iter = 1000
+        cross_validate(3, clf, params, metrics, x_tr, y_tr, x_ts, y_ts, fcol, "f1", dme, jobs=1, n_iter=n_iter)
     elif "nest" in validation_type:
-        n_iter = 300 if "rcv" in validation_type.lower() else None  # n_iter = 1000
-        nest_validation(clf, params, x_tr, y_tr, 3, 3, metrics, dme, n_iter=n_iter, jobs=1)
+        n_iter = 500 if "rcv" in validation_type.lower() else None  # n_iter = 1000
+        nest_validation(clf, params, x_tr, y_tr, 4, 4, metrics, dme, refit="f1", n_iter=n_iter, jobs=1)
     else:
         run_model(clf, x_tr, y_tr, x_ts, y_ts, fcol)
 
