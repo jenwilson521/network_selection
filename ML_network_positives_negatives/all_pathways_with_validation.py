@@ -444,7 +444,7 @@ def main():
         cross_validate(3, clf, params, metrics, x_tr, y_tr, x_ts, y_ts, fcol, 'roc', dme, jobs=10, n_iter=n_iter)
     elif "nest" in validation_type:
         n_iter = 300 if "rcv" in validation_type.lower() else None  # n_iter = 1000
-        nest_validation(clf, params, x_tr, y_tr, 3, 3, metrics, dme, n_iter=n_iter, jobs=10)
+        nest_validation(clf, params, x_tr, y_tr, 3, 3, metrics, dme, n_iter=n_iter, jobs=1)
     else:
         run_model(clf, x_tr, y_tr, x_ts, y_ts, fcol)
 
