@@ -1,9 +1,17 @@
-from sklearn.model_selection import GridSearchCV, RandomizedSearchCV, KFold, cross_validate
+from sklearn.model_selection import GridSearchCV, RandomizedSearchCV, StratifiedKFold, cross_validate
+
+def plot_cm(tp,tn,fp,fn):
+    cm = [["tp:"+str(tp), "fn:"+str(fn)], 
+          ["fp:"+str(fp), "tn:"+str(tn)]]
+    return cm
 
 
-def nestedCrossValidation(estimator, grid, x, y, inner_split, outer_split, score_metrics, refit=True, shuffle=True, n_jobs=1, n_iter_search = None, ran_state=42):
+def nestedCrossValidation(estimator, grid, x, y, inner_split, outer_split, score_metrics, refit=True, shuffle=True, n_jobs=1, n_iter_search=None, ran_state=42):
     """
-    Function that perform  nestesd cross validation.
+    Function that perform  nestesd cross validation. 
+    If are provided the metrics to compute true positive, true negative, false positive and false negative (expressed as tp,tn,fp,fn),
+    then the confusion matrix is returned into the nested cv results.
+    
     :param estimator: scikit-learn estimator
     :param grid: [dict] parameter settings to test
     :param x: features
@@ -13,8 +21,8 @@ def nestedCrossValidation(estimator, grid, x, y, inner_split, outer_split, score
     :param shuffle: if True shuffle data before splitting
     """
 
-    inner_cv = KFold(n_splits=inner_split, shuffle=shuffle, random_state=ran_state)
-    outer_cv = KFold(n_splits=outer_split, shuffle=shuffle, random_state=ran_state)
+    inner_cv = StratifiedKFold(n_splits=inner_split, shuffle=shuffle, random_state=ran_state)
+    outer_cv = StratifiedKFold(n_splits=outer_split, shuffle=shuffle, random_state=ran_state)
 
     if n_iter_search is None:
 
@@ -24,10 +32,15 @@ def nestedCrossValidation(estimator, grid, x, y, inner_split, outer_split, score
 
     nested_score = cross_validate(clf, scoring=score_metrics, X=x, y=y, cv=outer_cv, n_jobs=n_jobs)
 
+    cm_elements_check = lambda n: sum([x in n for x in ["tp","tn","fp","fn"]]) == 0
     r = {"nested_score": nested_score,
-         "mean": [(n, nested_score["test_"+n].mean()) for n in score_metrics.keys()],
-         "std": [(n, nested_score["test_"+n].std()) for n in score_metrics.keys()],
-         "str": [n + str(nested_score["test_"+n].mean()) + "+/-" + str(nested_score["test_"+n].std()) for n in score_metrics.keys()]}
+         "mean": [(n, nested_score["test_"+n].mean()) for n in score_metrics.keys() if cm_elements_check(n)],
+         "std": [(n, nested_score["test_"+n].std()) for n in score_metrics.keys() if cm_elements_check(n)],
+         "str": [n + " " + str(nested_score["test_"+n].mean()) + "+/-" + str(nested_score["test_"+n].std()) for n in score_metrics.keys() if cm_elements_check(n)]}
+    
+    if sum([not cm_elements_check(n) for n in score_metrics.keys()]) == 4: 
+        r["str"] += ["cm"+str(i) + " " + str(plot_cm(nested_score["test_tp"][i], nested_score["test_tn"][i], nested_score["test_fp"][i], nested_score["test_fn"][i])) for i in range(outer_split)]
+        
     return r
 
 
