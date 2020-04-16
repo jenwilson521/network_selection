@@ -11,3 +11,4 @@ ML_network_positives_negatives/compare_NCV_scores_all_models.png
 *.pyc
 slurm_out/*
 *.sbatch
+ML_network_positives_negatives/nestedcv_nest/*
