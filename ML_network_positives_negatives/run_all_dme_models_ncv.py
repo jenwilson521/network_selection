@@ -29,8 +29,8 @@ for model_type in ['rand_for']:
 	#	print(str(tp)+'/'+str(tn)+'/'+str(len(d)-1))
 		if tp > 10 and tn > 10:
 			cmd = 'python all_pathways_with_validation.py %s -m %s -n %s -v %s -s %s'%(f,model_type,dme,'nest',val_type)
-			# print(cmd)
-			# os.system(cmd)
+			print(cmd)
+			os.system(cmd)
 
 		else:
 			print('skipped')
