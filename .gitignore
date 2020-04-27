@@ -4,7 +4,6 @@
 PathFX_soDist/results/pathfx_mp_dfs_all_nodes/thr_0*/*
 ~$*.docx
 py
-ML_network_positives_negatives/compare_NCV_scores_all_models.png
 *.pyc
 slurm_out/*
 *.sbatch
