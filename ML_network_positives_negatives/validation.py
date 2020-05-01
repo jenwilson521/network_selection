@@ -51,14 +51,14 @@ def nestedCrossValidation(estimator, grid, x, y, inner_split, outer_split, score
             best_estimator = scv.best_estimator_
             
             if type(best_estimator).__name__ == "LogisticRegression":
-                contribution = best_estimator.coef_
+                contribution = best_estimator.coef_[0]
             else:
                 contribution = best_estimator.feature_importances_
 
                 
             contributions.append(contribution)
         
-        contr_mean = np.mean(np.asarray(contributions), axis=0)
+        contr_mean = np.mean(contributions, axis=0)
         contr_std = np.std(contributions, axis=0)
         r["features_importance"] = list(zip(contr_mean, contr_std))
         if isinstance(x, pd.DataFrame):
