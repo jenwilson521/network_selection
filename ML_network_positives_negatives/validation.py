@@ -1,4 +1,6 @@
 from sklearn.model_selection import GridSearchCV, RandomizedSearchCV, StratifiedKFold, cross_validate
+import pandas as pd
+import numpy as np
 
 def plot_cm(tp,tn,fp,fn):
     cm = [["tp:"+str(tp), "fn:"+str(fn)], 
@@ -30,17 +32,38 @@ def nestedCrossValidation(estimator, grid, x, y, inner_split, outer_split, score
     else:
         clf = RandomizedSearchCV(estimator=estimator, param_distributions=grid, n_iter=n_iter_search, cv=inner_cv, scoring=score_metrics, n_jobs=n_jobs, refit=refit, random_state=ran_state)
 
-    nested_score = cross_validate(clf, scoring=score_metrics, X=x, y=y, cv=outer_cv, n_jobs=n_jobs)
+    nested_score = cross_validate(clf, scoring=score_metrics, X=x, y=y, cv=outer_cv, return_estimator=True, n_jobs=n_jobs)
 
     cm_elements_check = lambda n: sum([x in n for x in ["tp","tn","fp","fn"]]) == 0
-    r = {"nested_score": nested_score,
+    r = {"nested_score": {k:nested_score[k] for k in nested_score.keys() if "estimator" != k},
          "mean": [(n, nested_score["test_"+n].mean()) for n in score_metrics.keys() if cm_elements_check(n)],
          "std": [(n, nested_score["test_"+n].std()) for n in score_metrics.keys() if cm_elements_check(n)],
-         "str": [n + " " + str(nested_score["test_"+n].mean()) + "+/-" + str(nested_score["test_"+n].std()) for n in score_metrics.keys() if cm_elements_check(n)]}
+         "str": [n + " " + str(round(nested_score["test_"+n].mean(), 4)) + "+/-" + str(round(nested_score["test_"+n].std(), 4)) for n in score_metrics.keys() if cm_elements_check(n)]}
     
     if sum([not cm_elements_check(n) for n in score_metrics.keys()]) == 4: 
         r["str"] += ["cm"+str(i) + " " + str(plot_cm(nested_score["test_tp"][i], nested_score["test_tn"][i], nested_score["test_fp"][i], nested_score["test_fn"][i])) for i in range(outer_split)]
         
+    if refit and sum([n in type(estimator).__name__  for n in ["DecisionTree", "RandomForest", "LogisticRegression"]]) > 0:
+        contributions = []
+        _search_cv = nested_score["estimator"]  # list of fitted GridSearchCV/RandomizedSearchCV
+
+        for scv, (tr_ids, ts_ids) in zip(_search_cv, outer_cv.split(x, y)):
+            best_estimator = scv.best_estimator_
+            
+            if type(best_estimator).__name__ == "LogisticRegression":
+                contribution = best_estimator.coef_
+            else:
+                contribution = best_estimator.feature_importances_
+
+                
+            contributions.append(contribution)
+        
+        contr_mean = np.mean(np.asarray(contributions), axis=0)
+        contr_std = np.std(contributions, axis=0)
+        r["features_importance"] = list(zip(contr_mean, contr_std))
+        if isinstance(x, pd.DataFrame):
+            r["str"] += [col + ": "+ str(round(m, 4)) + " +/- " + str(round(s, 4)) for col, m, s in zip(x.columns, contr_mean, contr_std)]
+    
     return r
 
 
