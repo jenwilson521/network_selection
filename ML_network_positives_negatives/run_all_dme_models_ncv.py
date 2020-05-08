@@ -70,6 +70,44 @@ ax.set_xticklabels(all_dmes,rotation='vertical')
 ax_arr[0].legend(loc='upper center',bbox_to_anchor=(0.5,1.5),ncol=len(scts))
 plt.subplots_adjust(bottom=0.3)
 plt.savefig('compare_NCV_scores_all_models.png',format='png')
+plt.close()
 
+
+
+## plot feature importance
+allf = [f for f in allf if 'log_reg' in f]
+for f in allf:
+	dme = f.split("_log_reg")[0]
+	lr = pickle.load(open(os.path.join('nestedcv_nest',f),'rb'))
+	dt = pickle.load(open(os.path.join('nestedcv_nest',f.replace("log_reg", "dec_tree")),'rb'))
+
+	xlabel = [l[0] for l in lr]
+	lr_coef_ = [[l[1] for l in lr],
+				[l[2] for l in lr]]
+	dt_feat_imp = [[d[1] for d in dt],
+				[d[2] for d in dt]]
+
+	# Setting the positions and width for bars
+	pos = list(range(len(label))) 
+	width = 0.25
+	# Plotting the bars
+	fig,ax_arr = plt.subplots(2,1,sharex=True,figsize=(5,7.5))
+
+	for i, (value, color, l, ylabel) in enumerate([(lr_coef_, "green", "log_reg", "coefficent value"), (dt_feat_imp, "red", "det_tree", "feature importance")]):
+		ax = ax_arr[i]
+		rects = ax.bar(pos, value[0], width, 
+					   alpha=0.5, color=color, yerr = value[1]) ## to remove error bars just comment yerr
+		ax.set_ylabel(ylabel)
+
+		if not i:
+			ax.axhline(0, color='black', linewidth=0.1)
+		ax.set_title(l)
+		ax.set_xticks(pos)
+		if i:
+			ax.set_xticklabels(xlabel,rotation='vertical')
+
+	plt.tight_layout()
+	fig.savefig("histogram_" + dme + ".png")
+	plt.close(fig)
 
 

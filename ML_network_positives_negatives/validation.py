@@ -60,9 +60,11 @@ def nestedCrossValidation(estimator, grid, x, y, inner_split, outer_split, score
         
         contr_mean = np.mean(contributions, axis=0)
         contr_std = np.std(contributions, axis=0)
-        r["features_importance"] = list(zip(contr_mean, contr_std))
         if isinstance(x, pd.DataFrame):
             r["str"] += [col + ": "+ str(round(m, 4)) + " +/- " + str(round(s, 4)) for col, m, s in zip(x.columns, contr_mean, contr_std)]
+            r["features_importance"] = list(zip(x.columns, contr_mean, contr_std))
+        else:
+            r["features_importance"] = list(zip(contr_mean, contr_std))
     
     return r
 
