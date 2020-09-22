@@ -237,11 +237,13 @@ def run_model(model, x_tr, y_tr, x_ts, y_ts, fcol):
         y_ts = None
         prediction_ts = None
 
-    # get y_scores for roc_curve
+    # get y_scores for roc_curve, this only works for logistic regression
     y_score = model.fit(x_tr, y_tr).decision_function(x_ts) 
+    y_score_data = zip(y_ts,y_score)
+    pickle.dump(y_score_data,open(os.path.join(save_dir,dme+'_ylabels_scores_072720.pkl'),'wb'))
     [fpr, tpr, thresholds] = roc_curve(y_ts, y_score)
     roc_data = zip(fpr,tpr)
-    pickle.dump(roc_data,open(os.path.join(save_dir,dme+'_roc_data.pkl'),'wb'))
+    pickle.dump(roc_data,open(os.path.join(save_dir,dme+'_roc_data_072720.pkl'),'wb'))
 
     scoring(y_tr, prediction_tr, y_ts, prediction_ts)
     if "Logistic" in model_name:
@@ -250,7 +252,7 @@ def run_model(model, x_tr, y_tr, x_ts, y_ts, fcol):
         pickle.dump(zip(fcol,fimp),open(os.path.join(save_dir,dme+'_feature_import.pkl'),'wb'))
     else:
         fimp = model.feature_importances_
-        print(str(list(zip(fcol, fimp))))
+        # print(str(list(zip(fcol, fimp))))
     histogram(fimp, fcol, title="features_"+model_name)
 
     if "Decision" in model_name:

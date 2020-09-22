@@ -19,7 +19,7 @@ m_i = dict([(m,i) for (i,m) in enumerate(model_types)]) # index for model type
 val_type ='nestedcv' 
 # for model_type in model_types:
 for model_type in ['log_reg','dec_tree']:
-	print('\n\nRUNNING: '+model_type+'\n\n')
+	print('RUNNING: '+model_type+'\n')
 	for f in allf:
 		dme = f.replace('dme_','').replace('.txt','')
 		print(dme)

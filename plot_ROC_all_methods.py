@@ -21,7 +21,7 @@ all_dmes = [k for k in drugs_by_dme.keys()]
 positives = [(dme,dbid) for (dme,dbid_list) in drugs_by_dme.items() for dbid in dbid_list]
 negatives = [(dme,dbid) for (dbid,dme_list) in fpdmes_by_drug.items() for dme in dme_list]
 
-so_rdir = '/Users/jenniferwilson/Documents/pathfx_data_update/results/analyze_so_dists/'
+so_rdir = 'analyze_so_dists/'
 all_dist = ['0.82','0.83','0.86','0.87','0.88','0.89','0.9','0.99']
 roc_data = []
 for sdist in all_dist:
