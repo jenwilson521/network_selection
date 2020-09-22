@@ -10,13 +10,13 @@ import matplotlib.pyplot as plt
 import numpy as np
 
 model_type = 'log_reg' # 'dec_tree' # 'rand_for'
-print('\n\nRUNNING: '+model_type+'\n\n')
+print('RUNNING: '+model_type+'\n\n')
 
 allf = [f for f in os.listdir('.') if 'dme_' in f and '.txt' in f]
 
 for f in allf:
 	dme = f.replace('dme_','').replace('.txt','')
-	print('\n\n\n'+dme)
+	print(dme)
 	# check if there are sufficient positive/negative labels
 	d = [l.strip().split('\t') for l in open(f,'rU').readlines()]
 	tp = len([x for x in d if x[1] =='positive'])
