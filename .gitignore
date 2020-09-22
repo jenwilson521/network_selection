@@ -8,3 +8,4 @@ py
 slurm_out/*
 *.sbatch
 *atest.pkl
+ML_network_positives_negatives/slurm_out/*
