@@ -229,6 +229,9 @@ def run_model(model, x_tr, y_tr, x_ts, y_ts, fcol):
     model_name = str(type(model)).split(".")[-1].replace("'>", "")
     print("\n", model_name, "/t/t", model.get_params())
     model.fit(x_tr, y_tr)
+    reg_coef = m.coef_ # save regression coefficients
+    pickle.dump(reg_coef,os.path.join(save_dir,dme+'_feat_imp_scores_092920.pkl'),'wb'))
+
     prediction_tr = model.predict(x_tr)
 
     if x_ts is not None and y_ts is not None:
