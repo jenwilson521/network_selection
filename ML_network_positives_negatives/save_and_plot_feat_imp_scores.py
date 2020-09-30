@@ -19,10 +19,15 @@ for fif in allf:
 	df.to_excel(writer,sheet_name = dme)
 
 	fig,ax = plt.subplots()
-	(bar_vals,bar_labels) = zip(*fi)
+	sorted_fi = sorted(fi,key = lambda x: x[0],reverse=True)
+	(bar_vals,bar_labels) = zip(*sorted_fi)
 	bar_inds = [i for (i,x) in enumerate(bar_vals)]
 	ax.bar(bar_inds,bar_vals)
+	ax.set_xticks(bar_inds)
 	ax.set_xticklabels(bar_labels)
+	plt.xticks(rotation=90)
+	ax.set_ylabel("Feature importance")
+	ax.set_xlabel("Network proteins")
 	plt.savefig(os.path.join(rdir,"feature_importance_bar_"+dme+".png"),format="png")
 writer.save()
 #fif ='tardive_dyskinesia_feat_imp_scores_092920.pkl'
