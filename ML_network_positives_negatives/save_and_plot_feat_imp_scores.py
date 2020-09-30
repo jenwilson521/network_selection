@@ -17,8 +17,9 @@ for fif in allf:
 	df=pd.DataFrame(fi,columns=["FeatureImportance","Gene"])
 	df = df[["Gene","FeatureImportance"]].sort_values("FeatureImportance",ascending=False)
 	df.to_excel(writer,sheet_name = dme)
+	fig_width = len(fi)/5
 
-	fig,ax = plt.subplots()
+	fig,ax = plt.subplots(figsize=(fig_width,4))
 	sorted_fi = sorted(fi,key = lambda x: x[0],reverse=True)
 	(bar_vals,bar_labels) = zip(*sorted_fi)
 	bar_inds = [i for (i,x) in enumerate(bar_vals)]
@@ -28,6 +29,9 @@ for fif in allf:
 	plt.xticks(rotation=90)
 	ax.set_ylabel("Feature importance")
 	ax.set_xlabel("Network proteins")
+	plot_title = dme.replace("_"," ").capitalize()
+	ax.set_title(plot_title)
+	plt.subplots_adjust(left=0.2, bottom=0.3)
 	plt.savefig(os.path.join(rdir,"feature_importance_bar_"+dme+".png"),format="png")
 writer.save()
 #fif ='tardive_dyskinesia_feat_imp_scores_092920.pkl'
