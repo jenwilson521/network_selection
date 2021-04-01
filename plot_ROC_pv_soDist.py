@@ -2,7 +2,7 @@
 # and add results from sub-optimal distance
 # written 1-28-20 JLW
 
-import pickle,os,csv,matplotlib
+import pickle,os,csv,matplotlib, statistics
 matplotlib.use("AGG")
 import matplotlib.pyplot as plt
 import numpy as np
@@ -23,6 +23,7 @@ negatives = [(dme,dbid) for (dbid,dme_list) in fpdmes_by_drug.items() for dme in
 so_rdir = '/Users/jenniferwilson/Documents/pathfx_data_update/results/analyze_so_dists/'
 all_dist = ['0.82','0.83','0.86','0.87','0.88','0.89','0.9','0.99']
 roc_data = []
+all_precision = []
 for sdist in all_dist:
 	print(sdist)
 	fp_to_tox_f = 'drugs_fp_to_tox_XXX.pkl'.replace('XXX',sdist)
@@ -38,6 +39,12 @@ for sdist in all_dist:
 	tnr = len(true_negatives)/float(len(negatives))
 	fpr = 1-tnr
 	roc_data.append((fpr,tpr))
+
+	if len(true_pos) > 0:
+		prec_val = len(true_pos)/(len(true_pos) + len(false_pos))
+		all_precision.append(prec_val)
+	else:
+		all_precision.append(0)
 
 
 # load results from p-value
@@ -68,3 +75,6 @@ ax.spines['right'].set_visible(False)
 ax.spines['top'].set_visible(False)
 plt.subplots_adjust(bottom = 0.15, left = 0.15)
 plt.savefig('pvalue_ROC_dist.png',format='png')
+
+print("Average precision: ")
+print(statistics.mean(all_precision))

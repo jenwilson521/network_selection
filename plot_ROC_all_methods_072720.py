@@ -3,13 +3,14 @@
 # written 1-28-20 JLW
 # added CSI 1-31-20
 
-import pickle,os,csv,matplotlib
+import pickle,os,csv,matplotlib, statistics
 matplotlib.use("AGG")
 import matplotlib.pyplot as plt
 import numpy as np
 from collections import defaultdict
 from scipy.integrate import simps
 from numpy import trapz
+import pandas as pd
 
 # run through ROC data for each DME
 csi_roc_dir = 'ML_network_positives_negatives/log_reg/' 
@@ -26,6 +27,7 @@ step_size = (max_score-min_score)/100
 num_pos = len([x for x in all_roc if x[0]==1])
 num_neg = len([x for x in all_roc if x[0]==0])
 csi_roc_data = []
+all_precision = []
 for i in np.arange(min_score,max_score,step_size):
 	positives = [x for x in all_roc if x[1]>=i]
 	tp = float(len([x for x in positives if x[0]==1]))
@@ -37,12 +39,22 @@ for i in np.arange(min_score,max_score,step_size):
 	tpr = tp/(tp+fn)
 	csi_roc_data.append((fpr,tpr))
 
+	prec_val = tp/(tp+fp)
+	all_precision.append(prec_val)
+
+print("Average precision: ")
+print(statistics.mean(all_precision))
+
 # also plot ROC curves for individual DMEs for supplment
+# plot ROC values against no. postives/ no. negatives
+true_positives_dbid = pickle.load(open('true_positives_dbid.pkl','rb')) # all positive examples
+drugs_fp_to_tox = pickle.load(open('false_positives_dbid.pkl','rb')) # all negative examples
 print('Making ROC curve with individual DMEs')
 fig,ax = plt.subplots()
 num_dmes = len(csi_roc)
 colormap = plt.cm.gist_ncar
 plt.gca().set_prop_cycle(plt.cycler('color', plt.cm.jet(np.linspace(0, 1, num_dmes))))
+dme_roc_vs_num_inputs = []
 for (dme,rocf) in sorted(csi_roc.items(),key=lambda x:x[0]):
 	dme_data = []
 	dme_roc_zip = pickle.load(open(rocf,'rb'))
@@ -51,6 +63,9 @@ for (dme,rocf) in sorted(csi_roc.items(),key=lambda x:x[0]):
 	max_score = max([x[1] for x in dme_roc])
 	step_size = (max_score-min_score)/100
 	test_curve = []
+	dme_prec = []
+	dme_recall = []
+	dme_fscore = []
 	for i in np.arange(min_score,max_score,step_size):
 		positives = [x for x in dme_roc if x[1]>=i]
 		tp = float(len([x for x in positives if x[0]==1]))
@@ -62,10 +77,29 @@ for (dme,rocf) in sorted(csi_roc.items(),key=lambda x:x[0]):
 		tpr = tp/(tp+fn)			
 		dme_data.append((fpr,tpr))
 		test_curve.append((i,fpr,tpr))
+		prec_val = tp/(tp+fp)
+		dme_prec.append(prec_val)
+		dme_recall.append(tpr)
+		if prec_val > 0 or tpr > 0:
+			dme_fscore.append((2*prec_val*tpr)/(prec_val+tpr))
+		else:
+			dme_fscore.append(0)
+
 	(x,y) = zip(*dme_data)
 	ax.plot(x,y,label=dme)
-	
+	pval_area = -trapz(y,x)
+	print('Average precision: ')
+	avg_prec =statistics.mean(dme_prec) 
+	print(avg_prec)
+	avg_recall =statistics.mean(dme_recall) 
+	avg_fscore = statistics.mean(dme_fscore)
 
+	dme_cap = dme.capitalize().replace('_',' ') # change syntax to look up in other dictionary
+	total_tp = len(true_positives_dbid[dme_cap])
+	total_fp = len(drugs_fp_to_tox[dme_cap])
+	dme_roc_vs_num_inputs.append({'name':dme,'ROC value':pval_area,'Total TP':total_tp,'Total FP':total_fp,'AvgPrec':avg_prec,'AvgRecall':avg_recall,'AvgFScore':avg_fscore})
+	
+	
 # format figure for supplement
 ax.plot(np.linspace(0,1,100),np.linspace(0,1,100),linestyle=':',linewidth=4.0,color='k')
 ax.set_xlabel('false positive rate',fontsize=14)
@@ -82,6 +116,21 @@ ax.spines['top'].set_visible(False)
 plt.subplots_adjust(right = 0.55555,bottom = 0.15, left = 0.15)
 plt.savefig('indiv_dme_ROC_092120.png',format="png") 
 		
+# save and report individual DME ROCs vs. number of input variables 
+dme_roc_vs_inputs_df = pd.DataFrame(dme_roc_vs_num_inputs).set_index('name')
+dme_roc_vs_inputs_df['PosToNegRatio'] = dme_roc_vs_inputs_df['Total TP']/dme_roc_vs_inputs_df['Total FP']
+dme_roc_vs_inputs_df.to_excel('DME_individal_ROC_values_input_counts.xls')
+
+# create plots of values to visualize
+fig,ax_arr = plt.subplots(1,3,sharey=True)
+for (i,(x_var,ax)) in enumerate(zip(['Total TP','Total FP','PosToNegRatio'],ax_arr)):
+	dme_roc_vs_inputs_df.plot.scatter(x = x_var,y = 'ROC value',ax=ax)
+	if i == 0:
+		ax.set_ylabel('ROC Value')
+	ax.set_xlabel(x_var)
+	ax.set_ylim([0,1])
+plt.savefig('DME_ROC_vs_input_nums.png',format='png')
+
 			
 
 # method for mapping all dmes to csi_dmes

@@ -3,7 +3,7 @@
 # p-value, distance, decision tree?
 # written 11-25-19 JLW
 
-import pickle, os, csv, matplotlib
+import pickle, os, csv, matplotlib, statistics
 matplotlib.use("AGG")
 import matplotlib.pyplot as plt
 from collections import defaultdict
@@ -48,7 +48,7 @@ def check_synonyms(t,p):
 dR = csv.DictReader(open('Drugs_labeled_for_AEs.txt','r'),delimiter='\t')
 
 # gather starting data
-unique_drugs = set()
+unique_drugs = set() # 1970 drugs
 drugs_by_dme = defaultdict(list)
 dmes_by_drugs = defaultdict(list)
 for r in dR:
@@ -62,9 +62,12 @@ print('extracted drug-dme relationships')
 # create set of false positives
 fpdmes_by_drugs = defaultdict(list)
 unique_dmes = [k for k in drugs_by_dme.keys()]
+fpdrugs_by_dme = defaultdict(set)
 for (drug,dme_list) in dmes_by_drugs.items():
         fp_dmes = list(set(unique_dmes).difference(set(dme_list))) # get list of dmes NOT on the drug label
         fpdmes_by_drugs[drug.lower()] = fp_dmes
+	for fpd in fp_dmes:
+		fpdrugs_by_dme[fpd].add(drug)
 
 #### map to DrugBank IDs
 un_in_DB = [n2db[n.lower()] for n in unique_drugs if n.lower() in n2db] #1136 drugs
@@ -177,12 +180,18 @@ plt.savefig('norm_pvalues.png',format='png')
 num_tp = len(true_pos_rel_pvalue)
 num_fp = len(false_pos_rel_pvalue)
 roc_values = []
+# also report average precision
+all_precision = []
 for co in np.linspace(0,1,100):
 	pos_sel = [x for x in true_pos_rel_pvalue if x < co]
 	neg_sel = [n for n in false_pos_rel_pvalue if n > co]
-	tpr = float(len(pos_sel))/num_tp
+	tp_count = float(len(pos_sel))
+	fp_count = float(len(neg_sel))
+	tpr = tp_count/num_tp
 	fpr = 1 - float(len(neg_sel))/num_fp
 	roc_values.append((tpr,fpr))
+	prec_val = tp_count/(tp_count+fp_count)
+	all_precision.append(prec_val)
 fig,ax = plt.subplots()
 (x,y) = zip(*roc_values)
 ax.plot(x,y,linewidth=4.0)
@@ -195,3 +204,6 @@ ax.spines['right'].set_visible(False)
 ax.spines['top'].set_visible(False)
 plt.savefig('pvalue_ROC.png',format='png')
 pickle.dump(roc_values,open('pvalue_roc_values.pkl','wb'))
+
+print("Average precision: ")
+print(statistics.mean(all_precision))
