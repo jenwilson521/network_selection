@@ -52,14 +52,14 @@ for (dme,dme_file) in input_file_dic.items():
 	dme_frac_shared_propo[dme] = frac_simil
 
 # use dictionaries to modify and export dataframe
-dme_roc_vs_inputs_df = pd.read_excel('DME_individal_ROC_values_input_counts.xls')
+dme_roc_vs_inputs_df = pd.read_excel('DME_individual_ROC_values_input_counts.xls')
 dme_roc_vs_inputs_df["Fractionpos/total"] = dme_roc_vs_inputs_df['Total TP']/(dme_roc_vs_inputs_df['Total TP']+dme_roc_vs_inputs_df['Total FP'])
 dme_roc_vs_inputs_df['TotalNumGenes'] = dme_roc_vs_inputs_df['name'].map(dme_to_num_columns)
 dme_roc_vs_inputs_df['NumSingletonGenes'] = dme_roc_vs_inputs_df['name'].map(dme_to_singleton_columns)
 dme_roc_vs_inputs_df['FractionSharedGenes'] = dme_roc_vs_inputs_df['name'].map(dme_frac_shared_propo)
 
 dme_roc_vs_inputs_df.set_index('name')
-dme_roc_vs_inputs_df.to_excel('DME_individal_ROC_values_input_counts_expanded.xls',index=False)
+dme_roc_vs_inputs_df.to_excel('DME_individual_ROC_values_input_counts_expanded.xls',index=False)
 
 
 # create plots of values to visualize
